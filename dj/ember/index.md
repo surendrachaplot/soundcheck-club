@@ -1,6 +1,6 @@
 # Ember
 
-Ember is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Ivy, Sydney on Sat, 22 Aug 2026.
+Ember is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Ivy, Sydney on Sat, 22 Aug 2026.
 
 Ember is an electronic artist based in Australia, tracked on soundcheck, with 22 sets logged across Sydney. Often billed alongside Bella Backe, Jarred Baker and Alex Taylor. Next up: The Ivy, Sydney on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ember is an electronic artist based in Australia, tracked on soundcheck, with 22
 
 Bella Backe, Jarred Baker, Alex Taylor
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ember/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ember/)*

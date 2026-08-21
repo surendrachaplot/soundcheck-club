@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Paragon, New York City on Sat, 22 Aug 2026.
+Juliana Huxtable is a Techno and Club artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Paragon, New York City on Sat, 22 Aug 2026.
 
 Juliana Huxtable is a techno and club artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Paragon, Newyorkcity on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Juliana Huxtable is a techno and club artist tracked on soundcheck, with 195 set
 
 JASSS, Shyboi, Via App
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

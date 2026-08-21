@@ -1,6 +1,6 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 26 Aug 2026.
+Henri Bergmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 26 Aug 2026.
 
 Henri Bergmann is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Amnesia Ibiza, Ibiza on Wed 26 Aug.
 
@@ -29,4 +29,4 @@ Henri Bergmann is a techno and house artist tracked on soundcheck, with 92 sets 
 
 Agents Of Time, Argy, Brina Knauss
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*

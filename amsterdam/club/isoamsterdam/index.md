@@ -1,6 +1,6 @@
 # ISOamsterdam
 
-ISOamsterdam is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "YOUNG BOY DANCING GROUP" on Sat, 22 Aug 2026.
+ISOamsterdam is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "YOUNG BOY DANCING GROUP" on Sat, 22 Aug 2026.
 
 ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Comrade Winston, DJ Heroin, Elisa Batti and GAZTAMBIDE and 2 more. Browse upcoming dates, start times and who's playing. Isolatorweg 17.
 
@@ -17,4 +17,4 @@ ISOamsterdam is a music venue in Amsterdam listed on soundcheck. 4 upcoming nigh
 
 Isolatorweg 17, Amsterdam
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/isoamsterdam/)*

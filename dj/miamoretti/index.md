@@ -1,6 +1,6 @@
 # Mia Moretti
 
-Mia Moretti is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pacha New York, New York City on Sat, 22 Aug 2026.
+Mia Moretti is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pacha New York, New York City on Sat, 22 Aug 2026.
 
 Mia Moretti is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Dublin, Ibiza and Istanbul and 8 more. Often billed alongside A-Trak, Bedouin and Erol Sabadosh. Next up: Pacha New York, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mia Moretti is a house and deep house artist based in United States of America, 
 
 A-Trak, Bedouin, Erol Sabadosh
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamoretti/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamoretti/)*

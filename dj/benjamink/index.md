@@ -1,6 +1,6 @@
 # Benjamin K
 
-Benjamin K is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
+Benjamin K is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Benjamin K is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Sanfrancisco. Often billed alongside Rachel Torro, Galen and Jimmy B. Next up: Public Works, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Benjamin K is a house and disco artist based in United States of America, tracke
 
 Rachel Torro, Galen, Jimmy B
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamink/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamink/)*

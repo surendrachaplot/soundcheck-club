@@ -1,6 +1,6 @@
 # Orange Room
 
-Orange Room is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Dance Around the World Without Leaving London" on Sat, 22 Aug 2026.
+Orange Room is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Dance Around the World Without Leaving London" on Sat, 22 Aug 2026.
 
 Orange Room is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including EWASOUNDZ and Raphael (UK). Browse upcoming dates, start times and who's playing. 375 High St, London E15 4QZ.
 
@@ -15,4 +15,4 @@ Orange Room is a music venue in London listed on soundcheck. 2 upcoming nights, 
 
 375 High St, London E15 4QZ, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/orange-room/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/orange-room/)*

@@ -1,6 +1,6 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+IC3 is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 IC3 is a drum & bass and jungle artist tracked on soundcheck, with 81 sets logged across Amsterdam, Birmingham, Bristol and Hamburg and 5 more. Often billed alongside DJ Hype, Eksman and K Motionz. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ IC3 is a drum & bass and jungle artist tracked on soundcheck, with 81 sets logge
 
 DJ Hype, Eksman, K Motionz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

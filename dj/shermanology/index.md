@@ -1,6 +1,6 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
+Shermanology is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Shermanology is a house and tech house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: Chinois Ibiza, Ibiza on Thu 20 Aug.
 
@@ -18,6 +18,7 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 96 set
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Thu, 20 Aug 2026
 - Madam, Amsterdam — Fri, 7 Aug 2026
 - The Church Nightclub, Denver — Sat, 27 Jun 2026
 - Brooklyn Army Terminal, New York City — Fri, 19 Jun 2026
@@ -25,10 +26,9 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 96 set
 - LAB theCLUB, Madrid — Sat, 9 May 2026
 - UNO MALTA, Malta — Thu, 30 Apr 2026
 - Thuishaven, Amsterdam — Sat, 21 Mar 2026
-- Waterfront Park in San Diego, San Diego — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Sam Divine, Eats Everything, Green Velvet
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

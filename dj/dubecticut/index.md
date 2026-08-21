@@ -1,6 +1,6 @@
 # Dubecticut
 
-Dubecticut is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 22 Aug 2026.
+Dubecticut is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 22 Aug 2026.
 
 Dubecticut is a techno and afro house artist based in Hungary, tracked on soundcheck, with 35 sets logged across Budapest. Often billed alongside Metha, Lenny Lenoks and Somazed. Next up: Pontoon Budapest, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dubecticut is a techno and afro house artist based in Hungary, tracked on soundc
 
 Metha, Lenny Lenoks, Somazed
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubecticut/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubecticut/)*

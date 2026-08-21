@@ -1,6 +1,6 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Funk D'Void & Friends" on Thu, 20 Aug 2026.
+Macarena Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Funk D'Void & Friends" on Thu, 20 Aug 2026.
 
 Macarena Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Jo-Sie, André Butano, Daescu and Funk D'Void and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 12 upcoming ni
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

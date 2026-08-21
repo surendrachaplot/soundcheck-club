@@ -1,6 +1,6 @@
 # Night Edition
 
-Night Edition is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Night Edition is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Night Edition is a deep house and house artist tracked on soundcheck, with 4 sets logged across Cork, London and Manchester. Often billed alongside Alexa (KR), Alexander Nut and Alythia Kwan. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Night Edition is a deep house and house artist tracked on soundcheck, with 4 set
 
 Alexa (KR), Alexander Nut, Alythia Kwan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightedition/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightedition/)*

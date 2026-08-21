@@ -1,6 +1,6 @@
 # Machinelove
 
-Machinelove is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 22 Aug 2026.
+Machinelove is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 22 Aug 2026.
 
 Machinelove is a techno and trance artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexicocity. Often billed alongside Deenia, Praqqa and Umvral. Next up: Bajo Mundo, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Machinelove is a techno and trance artist based in Mexico, tracked on soundcheck
 
 Deenia, Praqqa, Umvral
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/machinelove/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/machinelove/)*

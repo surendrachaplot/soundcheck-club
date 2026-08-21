@@ -1,6 +1,6 @@
 # Fritz Ta
 
-Fritz Ta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at SILO, New York City on Tue, 25 Aug 2026.
+Fritz Ta is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at SILO, New York City on Tue, 25 Aug 2026.
 
 Fritz Ta is a techno and house artist tracked on soundcheck, with 15 sets logged across Newyorkcity and Sandiego. Often billed alongside JAER, Fel.IX and STEEN. Next up: SILO, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Fritz Ta is a techno and house artist tracked on soundcheck, with 15 sets logged
 
 JAER, Fel.IX, STEEN
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzta/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzta/)*

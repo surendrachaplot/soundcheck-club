@@ -1,6 +1,6 @@
 # DAVE the Drummer
 
-DAVE the Drummer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
+DAVE the Drummer is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
 
 DAVE the Drummer is a techno and acid artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Chris Liberator, CJ Bolland and Cinquedea. Next up: Estância Alto da Serra, Saopaulo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DAVE the Drummer is a techno and acid artist tracked on soundcheck, with 42 sets
 
 Chris Liberator, CJ Bolland, Cinquedea
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*

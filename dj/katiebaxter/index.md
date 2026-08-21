@@ -1,6 +1,6 @@
 # Katie Baxter
 
-Katie Baxter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Glove That Fits, London on Fri, 11 Sept 2026.
+Katie Baxter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Glove That Fits, London on Fri, 11 Sept 2026.
 
 Katie Baxter is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol and London. Often billed alongside Jess Hands, Meg Ward and Jaguar. Next up: The Glove That Fits, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Katie Baxter is a house and techno artist based in United Kingdom, tracked on so
 
 Jess Hands, Meg Ward, Jaguar
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*

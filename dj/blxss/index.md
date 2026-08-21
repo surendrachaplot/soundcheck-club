@@ -1,6 +1,6 @@
 # BLXSS
 
-BLXSS is a Disco and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Zuzu, Boston on Fri, 21 Aug 2026.
+BLXSS is a Disco and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Zuzu, Boston on Fri, 21 Aug 2026.
 
 BLXSS is a disco and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside brazen. Next up: Zuzu, Boston on Fri 21 Aug.
 
@@ -15,4 +15,4 @@ BLXSS is a disco and club artist based in United States of America, tracked on s
 
 brazen
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*

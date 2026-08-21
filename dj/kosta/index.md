@@ -1,6 +1,6 @@
 # Kosta
 
-Kosta is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at control, Bucharest on Fri, 21 Aug 2026.
+Kosta is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at control, Bucharest on Fri, 21 Aug 2026.
 
 Kosta is an electronica and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Basel, Berlin and Bucharest and 3 more. Often billed alongside Mayell, Tzena and Markus Sommer. Next up: control, Bucharest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kosta is an electronica and techno artist tracked on soundcheck, with 25 sets lo
 
 Mayell, Tzena, Markus Sommer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosta/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosta/)*

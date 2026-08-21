@@ -1,6 +1,6 @@
 # Andi Britz
 
-Andi Britz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at SASS Music Club, Vienna on Fri, 21 Aug 2026.
+Andi Britz is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at SASS Music Club, Vienna on Fri, 21 Aug 2026.
 
 Andi Britz is a house and tech house artist based in Germany, tracked on soundcheck, with 40 sets logged across Munich, Paris and Vienna. Often billed alongside Angel K, Noah Cyriacus and henryk. Next up: SASS Music Club, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Andi Britz is a house and tech house artist based in Germany, tracked on soundch
 
 Angel K, Noah Cyriacus, henryk
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andibritz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andibritz/)*

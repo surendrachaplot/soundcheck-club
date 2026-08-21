@@ -1,6 +1,6 @@
 # GUS PICCO
 
-GUS PICCO is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
+GUS PICCO is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
 
 GUS PICCO is a progressive house and electronica artist tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside Santi Gonzalez, Agoostina and DC81. Next up: Discoteca Karma, Barcelona on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ GUS PICCO is a progressive house and electronica artist tracked on soundcheck, w
 
 Santi Gonzalez, Agoostina, DC81
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*

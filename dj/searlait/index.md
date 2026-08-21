@@ -1,6 +1,6 @@
 # Séarlait
 
-Séarlait is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
+Séarlait is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Palace Vinyl, Brixton, London on Thu, 20 Aug 2026.
 
 Séarlait is a house and techno artist tracked on soundcheck, with 103 sets logged across Berlin, London, Melbourne and Sydney. Often billed alongside Roka, Char(k) and DJ Wise. Next up: TBA - Palace Vinyl, Brixton, London on Thu 20 Aug.
 
@@ -14,6 +14,7 @@ Séarlait is a house and techno artist tracked on soundcheck, with 103 sets logg
 
 ## Recently played
 
+- TBA - Palace Vinyl, Brixton, London — Thu, 20 Aug 2026
 - Angel Music Bar, Melbourne — Fri, 15 May 2026
 - Solace, Melbourne — Sat, 9 May 2026
 - Solace, Melbourne — Sat, 9 May 2026
@@ -21,10 +22,9 @@ Séarlait is a house and techno artist tracked on soundcheck, with 103 sets logg
 - Runner Up Rooftop Bar, Melbourne — Sun, 22 Mar 2026
 - Moyston, Melbourne — Fri, 6 Mar 2026
 - Angel Music Bar, Melbourne — Fri, 6 Mar 2026
-- Solace, Melbourne — Thu, 26 Feb 2026
 
 ## Shares bills with
 
 Roka, Char(k), DJ Wise
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/searlait/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/searlait/)*

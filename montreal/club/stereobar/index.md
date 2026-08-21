@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Volen Sentir - Moti" on Fri, 21 Aug 2026.
+StereoBar is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Volen Sentir - Moti" on Fri, 21 Aug 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including Adam Husa, Armen Miran, Audrey Bélanger and Moti (CR) and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -19,4 +19,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 6 upcoming nights, 
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

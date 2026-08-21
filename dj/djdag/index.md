@@ -1,6 +1,6 @@
 # DJ Dag
 
-DJ Dag is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
+DJ Dag is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
 
 DJ Dag is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Frankfurt and Stuttgart. Often billed alongside Oliver Lieb, Abraham (GER) and Boutiq.808. Next up: Tanzhaus West, Frankfurt on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ DJ Dag is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Oliver Lieb, Abraham (GER), Boutiq.808
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdag/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdag/)*

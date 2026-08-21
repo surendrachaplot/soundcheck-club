@@ -1,8 +1,8 @@
 # RaverPik
 
-RaverPik is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+RaverPik is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
-RaverPik is a trance and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Budapest and Cologne and 13 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: ://about blank, Berlin on Fri 28 Aug.
+RaverPik is a trance and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: ://about blank, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RaverPik is a trance and techno artist tracked on soundcheck, with 90 sets logge
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
 | Fri, 18 Sept 2026 | elipamanoke | Leipzig |
+| Fri, 25 Sept 2026 | Şahika | Istanbul |
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 
@@ -28,4 +29,4 @@ RaverPik is a trance and techno artist tracked on soundcheck, with 90 sets logge
 
 Sabu!, The Jakob Sister, Blame the Booker
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raverpik/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raverpik/)*

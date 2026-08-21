@@ -1,6 +1,6 @@
 # DJ Aleksi
 
-DJ Aleksi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OT301, Amsterdam on Sat, 5 Sept 2026.
+DJ Aleksi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OT301, Amsterdam on Sat, 5 Sept 2026.
 
 DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, with 6 sets logged across Amsterdam, Copenhagen, Prague and Riga and 1 more. Often billed alongside Agata (PL), Anacalypto and Dragovic. Next up: OT301, Amsterdam on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ DJ Aleksi is a house and techno artist based in Finland, tracked on soundcheck, 
 
 Agata (PL), Anacalypto, Dragovic
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaleksi/)*

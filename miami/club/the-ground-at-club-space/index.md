@@ -1,8 +1,8 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Ground presents: Julian Fijma" on Fri, 21 Aug 2026.
+The Ground at Club Space is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "The Ground presents: Julian Fijma" on Fri, 21 Aug 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including Actress, Bok Bok, Bort and Flying Lotus and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including Actress, Bok Bok, Bort and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upco
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

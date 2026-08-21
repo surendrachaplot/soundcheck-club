@@ -1,6 +1,6 @@
 # Rama NYC
 
-Rama NYC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
+Rama NYC is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
 
 Rama NYC is a house and techno artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Chicago and London and 4 more. Often billed alongside Desyn, Faciendo Soundsystem and Max Sprauer. Next up: Roof Terrace BK, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Rama NYC is a house and techno artist tracked on soundcheck, with 41 sets logged
 
 Desyn, Faciendo Soundsystem, Max Sprauer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramanyc/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramanyc/)*

@@ -1,6 +1,6 @@
 # Backyard Mix
 
-Backyard Mix is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
+Backyard Mix is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
 
 Backyard Mix is a trance and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Berlin, Dublin, Liverpool and London and 3 more. Often billed alongside WAN.1, GOLDI (AT) and Charleen Herzig. Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Backyard Mix is a trance and techno artist based in United States of America, tr
 
 WAN.1, GOLDI (AT), Charleen Herzig
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/backyarddj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/backyarddj/)*

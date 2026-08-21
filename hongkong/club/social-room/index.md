@@ -1,6 +1,6 @@
 # Social Room
 
-Social Room is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RPM Vinyl Only" on Sat, 22 Aug 2026.
+Social Room is a music venue in Hong Kong with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "RPM Vinyl Only" on Sat, 22 Aug 2026.
 
 Social Room is a music venue in Hongkong listed on soundcheck. 2 upcoming nights, with line-ups including Anyss, DJ FU (2), Jeremy Cheung and Joesnotdead and 2 more. Browse upcoming dates, start times and who's playing. 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong.
 
@@ -15,4 +15,4 @@ Social Room is a music venue in Hongkong listed on soundcheck. 2 upcoming nights
 
 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong, Hong Kong
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*

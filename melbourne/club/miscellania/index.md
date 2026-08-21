@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "KINAH with Darcy Justice, Karani, Marez b2b Piano Heist, Chichi" on Fri, 21 Aug 2026.
+Miscellania is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "KINAH with Darcy Justice, Karani, Marez b2b Piano Heist, Chichi" on Fri, 21 Aug 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Aaliyah Salem, ANAHITA, bbsanii and Black Dave and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -23,4 +23,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 13 upcoming nigh
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

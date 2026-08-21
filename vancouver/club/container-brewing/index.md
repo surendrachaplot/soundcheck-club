@@ -1,6 +1,6 @@
 # Container Brewing
 
-Container Brewing is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "F the Disco 3.0" on Sat, 22 Aug 2026.
+Container Brewing is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "F the Disco 3.0" on Sat, 22 Aug 2026.
 
 Container Brewing is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Beiti, Chez Damier, Eddie Leader and Limbowalk and 1 more. Browse upcoming dates, start times and who's playing. 1216 Franklin Street, Vancouver, BC V6A 1K1, Canada.
 
@@ -15,4 +15,4 @@ Container Brewing is a music venue in Vancouver listed on soundcheck. 2 upcoming
 
 1216 Franklin Street, Vancouver, BC V6A 1K1, Canada, Vancouver
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/container-brewing/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/container-brewing/)*

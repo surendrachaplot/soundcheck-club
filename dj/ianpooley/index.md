@@ -1,6 +1,6 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Audio Club, Geneva on Fri, 21 Aug 2026.
+Ian Pooley is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Audio Club, Geneva on Fri, 21 Aug 2026.
 
 Ian Pooley is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: Audio Club, Geneva on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Ian Pooley is a house and techno artist tracked on soundcheck, with 108 sets log
 
 dj sweet6teen, Eva Crystaltips, Luca Olivotto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

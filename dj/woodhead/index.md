@@ -1,6 +1,6 @@
 # Woodhead
 
-Woodhead is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Charlatan, Ghent on Sat, 22 Aug 2026.
+Woodhead is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Charlatan, Ghent on Sat, 22 Aug 2026.
 
 Woodhead is a disco and techno artist based in Canada, tracked on soundcheck, with 9 sets logged across Ghent and Vancouver. Often billed alongside Mona Lee, Tyler Stadius and Carlamote. Next up: Charlatan, Ghent on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Woodhead is a disco and techno artist based in Canada, tracked on soundcheck, wi
 
 Mona Lee, Tyler Stadius, Carlamote
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woodhead/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woodhead/)*

@@ -1,6 +1,6 @@
 # Anyss
 
-Anyss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Social Room, Hong Kong on Sat, 22 Aug 2026.
+Anyss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Social Room, Hong Kong on Sat, 22 Aug 2026.
 
 Anyss is a house and techno artist tracked on soundcheck, with 30 sets logged across Hongkong. Often billed alongside Saint Bernard, Vence and Jeremy Cheung. Next up: Social Room, Hongkong on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Anyss is a house and techno artist tracked on soundcheck, with 30 sets logged ac
 
 Saint Bernard, Vence, Jeremy Cheung
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyss/)*

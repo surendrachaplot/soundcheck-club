@@ -1,6 +1,6 @@
 # Yosef (ES)
 
-Yosef (ES) is a Garage and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+Yosef (ES) is a Garage and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 Yosef (ES) is a garage and neo perreo artist based in Spain, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Yosef (ES) is a garage and neo perreo artist based in Spain, tracked on soundche
 
 Diego Armando, Maxvll, Keiranai
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*

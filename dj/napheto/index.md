@@ -1,6 +1,6 @@
 # NAPHETO
 
-NAPHETO is a Trance and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 21 Aug 2026.
+NAPHETO is a Trance and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 21 Aug 2026.
 
 NAPHETO is a trance and deep house artist based in Georgia, tracked on soundcheck, with 10 sets logged across Tbilisi. Often billed alongside NODAR, ZAPA and Tsukuyomi. Next up: Meteor Studio, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ NAPHETO is a trance and deep house artist based in Georgia, tracked on soundchec
 
 NODAR, ZAPA, Tsukuyomi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/napheto/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/napheto/)*

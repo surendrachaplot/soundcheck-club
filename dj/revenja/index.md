@@ -1,14 +1,15 @@
 # Revenja
 
-Revenja is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Revenja is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
-Revenja is a hardcore and techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona and Madrid. Often billed alongside SuttleK, Vieze Asbak and BLNK. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
+Revenja is a hardcore and techno artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona and Madrid. Often billed alongside SuttleK, Vieze Asbak and BLNK. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
+| Thu, 1 Oct 2026 | City Hall | Barcelona |
 | Sun, 1 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Revenja is a hardcore and techno artist based in Spain, tracked on soundcheck, w
 
 SuttleK, Vieze Asbak, BLNK
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revenja/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/revenja/)*

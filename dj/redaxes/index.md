@@ -1,6 +1,6 @@
 # Red Axes
 
-Red Axes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 29 Aug 2026.
+Red Axes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 29 Aug 2026.
 
 Red Axes is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Bakke, DJ Tennis and KI/KI. Next up: Les Enfants Brillants, Barcelona on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Red Axes is a techno and house artist tracked on soundcheck, with 75 sets logged
 
 Bakke, DJ Tennis, KI/KI
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

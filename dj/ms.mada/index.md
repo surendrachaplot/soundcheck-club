@@ -1,6 +1,6 @@
 # Ms. Mada
 
-Ms. Mada is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Ms. Mada is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
 
 Ms. Mada is a house and tech house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Danyelino, Bakke and Dennis Cruz. Next up: fabric, London on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Ms. Mada is a house and tech house artist tracked on soundcheck, with 225 sets l
 
 Danyelino, Bakke, Dennis Cruz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*

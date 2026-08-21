@@ -1,6 +1,6 @@
 # Shoto
 
-Shoto is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+Shoto is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
 Shoto is a techno and deep house artist based in Bulgaria, tracked on soundcheck, with 6 sets logged across Riga, Saopaulo and Tokyo. Often billed alongside DV8 (LV), Existal and LETRIX. Next up: Korpuss, Riga on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Shoto is a techno and deep house artist based in Bulgaria, tracked on soundcheck
 
 DV8 (LV), Existal, LETRIX
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoto/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoto/)*

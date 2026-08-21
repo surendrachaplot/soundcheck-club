@@ -1,14 +1,13 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Good Room, New York City on Thu, 20 Aug 2026.
+Amelia Holt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
 
-Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Good Room, Newyorkcity on Thu 20 Aug.
+Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: TBA - Secret Location, Chicago on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Good Room | New York City |
 | Fri, 28 Aug 2026 | TBA - Secret Location | Chicago |
 | Sat, 29 Aug 2026 | Roof Terrace BK | New York City |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
@@ -17,6 +16,7 @@ Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets lo
 
 ## Recently played
 
+- Good Room, New York City — Thu, 20 Aug 2026
 - Refuge, New York City — Fri, 14 Aug 2026
 - The Old Blue Last, London — Sat, 4 Jul 2026
 - Renate, Berlin — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets lo
 - TRANSMISSION DC, Washington DC — Fri, 12 Jun 2026
 - Mansions, New York City — Fri, 5 Jun 2026
 - TBA - 2 rue de la commune ouest, Montreal — Fri, 22 May 2026
-- Knockdown Center, New York City — Thu, 14 May 2026
 
 ## Shares bills with
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

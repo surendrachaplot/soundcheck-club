@@ -1,6 +1,6 @@
 # MAREAM
 
-MAREAM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
+MAREAM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Sept 2026.
 
 MAREAM is a techno and house artist based in Japan, tracked on soundcheck, with 36 sets logged across Amsterdam, Rotterdam and Tokyo. Often billed alongside Dexon, Goth-Trad and Ririko. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ MAREAM is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Dexon, Goth-Trad, Ririko
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maream/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maream/)*

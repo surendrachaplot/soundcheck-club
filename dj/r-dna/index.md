@@ -1,6 +1,6 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
+R-DNA is a Techno and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
 
 R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Newtown Radio, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck,
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

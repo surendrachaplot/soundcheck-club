@@ -1,6 +1,6 @@
 # Whos He
 
-Whos He is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Whos He is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Whos He is a house and electro artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Leeds and Manchester. Often billed alongside Athers, 192 GmbH and Adri Alibi. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Whos He is a house and electro artist based in United Kingdom, tracked on soundc
 
 Athers, 192 GmbH, Adri Alibi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoshe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoshe/)*

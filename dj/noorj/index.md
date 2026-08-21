@@ -1,8 +1,8 @@
 # noorj
 
-noorj is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+noorj is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
-noorj is an experimental and club artist tracked on soundcheck, with 4 sets logged across Berlin and Vienna. Often billed alongside Buttechno, XTCLVR and 1000bodies. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
+noorj is an ambient and experimental artist tracked on soundcheck, with 5 sets logged across Berlin and Vienna. Often billed alongside Buttechno, XTCLVR and bod [包家巷]. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ noorj is an experimental and club artist tracked on soundcheck, with 4 sets logg
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Haus der Visionäre | Berlin |
 | Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+| Sun, 23 Aug 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ noorj is an experimental and club artist tracked on soundcheck, with 4 sets logg
 
 ## Shares bills with
 
-Buttechno, XTCLVR, 1000bodies
+Buttechno, XTCLVR, bod [包家巷]
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noorj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noorj/)*

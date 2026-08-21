@@ -1,6 +1,6 @@
 # Alex (ES)
 
-Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
+Alex (ES) is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
 
 Alex (ES) is a minimal and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 3 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: Seaseaclub Barcelona, Barcelona on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ Alex (ES) is a minimal and house artist tracked on soundcheck, with 96 sets logg
 
 Hitch, Sampol, De La Swing
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*

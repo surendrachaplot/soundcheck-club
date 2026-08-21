@@ -1,6 +1,6 @@
 # BLOND:ISH
 
-BLOND:ISH is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Vajdahunyad Castle, Budapest on Sat, 22 Aug 2026.
+BLOND:ISH is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Vajdahunyad Castle, Budapest on Sat, 22 Aug 2026.
 
 BLOND:ISH is a house and techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Boston and 28 more. Often billed alongside Marco Carola, Seth Troxler and Ben Sterling. Next up: Vajdahunyad Castle, Budapest on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ BLOND:ISH is a house and techno artist tracked on soundcheck, with 133 sets logg
 
 Marco Carola, Seth Troxler, Ben Sterling
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blondish/)*

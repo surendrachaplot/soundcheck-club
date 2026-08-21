@@ -1,14 +1,13 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Altern 8 b2b Slipmatt w/ MC Magika [Prodigy & Carl Cox Afterparty]" on Thu, 20 Aug 2026.
+Wigwam is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "X-Coast + Derv" on Fri, 21 Aug 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with line-ups including ALPER SKR, Altern-8, Angel D'lite and BENZA and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BENZA and BOVSKI and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Altern 8 b2b Slipmatt w/ MC Magika [Prodigy & Carl Cox Afterparty] | Altern-8, Slipmatt |
 | Fri, 21 Aug 2026 | X-Coast + Derv | Derv, X-Coast |
 | Sat, 22 Aug 2026 | MAZE X - FATULER ALL DAY LONG |  |
 | Sat, 22 Aug 2026 | Wigwam presents: Hammer & Cáit | Cáit, Hammer |
@@ -18,9 +17,10 @@ Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with
 | Sat, 29 Aug 2026 | Nosso Mambo | Papi da Silva |
 | Fri, 4 Sept 2026 | Resonate Launch x Hybrid: Frederic. & EMMIE (ANL) | EMMIE, Frederic. |
 | Sat, 5 Sept 2026 | MAZE X - Toobris B2B BENZA | BENZA, Toobris |
+| Fri, 11 Sept 2026 | Wigwam presents: Demuja | Demuja |
 
 ## Address
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

@@ -1,6 +1,6 @@
 # Vaert
 
-Vaert is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
+Vaert is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
 
 Vaert is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Milan. Often billed alongside Mind Against, Ahed and Andrea Castells. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Vaert is a techno and tech house artist tracked on soundcheck, with 5 sets logge
 
 Mind Against, Ahed, Andrea Castells
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaert-es/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaert-es/)*

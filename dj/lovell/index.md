@@ -1,6 +1,6 @@
 # LOVELL
 
-LOVELL is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
+LOVELL is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
 
 LOVELL is a house and acid artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Acid Boner, Angel Negrin and Illogical Operator. Next up: The Old Burnt Barns, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ LOVELL is a house and acid artist based in United Kingdom, tracked on soundcheck
 
 Acid Boner, Angel Negrin, Illogical Operator
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*

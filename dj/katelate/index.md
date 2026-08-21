@@ -1,6 +1,6 @@
 # Katelate
 
-Katelate is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at People's Leisure Club, Edinburgh on Tue, 25 Aug 2026.
+Katelate is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at People's Leisure Club, Edinburgh on Tue, 25 Aug 2026.
 
 Katelate is a garage and club artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Edinburgh. Often billed alongside Sweet Philly, Skillis and Annafleur. Next up: People's Leisure Club, Edinburgh on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Katelate is a garage and club artist based in United Kingdom, tracked on soundch
 
 Sweet Philly, Skillis, Annafleur
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katelate/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katelate/)*

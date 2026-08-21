@@ -1,6 +1,6 @@
 # Hector Romero
 
-Hector Romero is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TV Lounge, Detroit on Fri, 25 Sept 2026.
+Hector Romero is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TV Lounge, Detroit on Fri, 25 Sept 2026.
 
 Hector Romero is a house and deep house artist tracked on soundcheck, with 33 sets logged across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and Anna Tur. Next up: TV Lounge, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hector Romero is a house and deep house artist tracked on soundcheck, with 33 se
 
 Mr. V, Piem, Anna Tur
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*

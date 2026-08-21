@@ -1,6 +1,6 @@
 # DAX J
 
-DAX J is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Magazine Open–Air, London on Fri, 21 Aug 2026.
+DAX J is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Magazine Open–Air, London on Fri, 21 Aug 2026.
 
 DAX J is a techno and house artist tracked on soundcheck, with 249 sets logged across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: Magazine Open–Air, London on Fri 21 Aug.
 
@@ -34,4 +34,4 @@ DAX J is a techno and house artist tracked on soundcheck, with 249 sets logged a
 
 SPFDJ, Daria Kolosova, Chlär
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

@@ -1,6 +1,6 @@
 # Qendresa
 
-Qendresa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Qendresa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
 Qendresa is a house and disco artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Conducta, D Double E and MiNNA. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Qendresa is a house and disco artist tracked on soundcheck, with 18 sets logged 
 
 Conducta, D Double E, MiNNA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qendresa/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qendresa/)*

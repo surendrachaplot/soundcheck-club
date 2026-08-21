@@ -1,6 +1,6 @@
 # Roof Terrace BK
 
-Roof Terrace BK is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location)" on Fri, 21 Aug 2026.
+Roof Terrace BK is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Vigilante: Cali Lanauze, Adam Collins and Auphoria (Secret roof location)" on Fri, 21 Aug 2026.
 
 Roof Terrace BK is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Adam Collins, Amelia Holt, Auphoria and Cali Lanauze and 2 more. Browse upcoming dates, start times and who's playing. 359 Meserole St.
 
@@ -19,4 +19,4 @@ Roof Terrace BK is a music venue in Newyorkcity listed on soundcheck. 6 upcoming
 
 359 Meserole St, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roof-terrace-bk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roof-terrace-bk/)*

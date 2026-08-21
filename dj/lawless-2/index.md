@@ -1,6 +1,6 @@
 # Lawless (2)
 
-Lawless (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OneSixOne, Melbourne on Sun, 23 Aug 2026.
+Lawless (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OneSixOne, Melbourne on Sun, 23 Aug 2026.
 
 Lawless (2) is a house and tech house artist based in Ireland, tracked on soundcheck, with 14 sets logged across Melbourne and Sydney. Often billed alongside Jmcee, Yarra (2) and Andy Hart. Next up: OneSixOne, Melbourne on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Lawless (2) is a house and tech house artist based in Ireland, tracked on soundc
 
 Jmcee, Yarra (2), Andy Hart
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawless-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawless-2/)*

@@ -1,6 +1,6 @@
 # Kollektiv Sheesh
 
-Kollektiv Sheesh is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at FLUCC, Vienna on Fri, 21 Aug 2026.
+Kollektiv Sheesh is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at FLUCC, Vienna on Fri, 21 Aug 2026.
 
 Kollektiv Sheesh is a techno and downtempo artist based in Germany, tracked on soundcheck, with 72 sets logged across Berlin, Hamburg, Stuttgart and Vienna. Often billed alongside Nugi, Nya Nyx and Joule. Next up: FLUCC, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kollektiv Sheesh is a techno and downtempo artist based in Germany, tracked on s
 
 Nugi, Nya Nyx, Joule
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivsheesh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivsheesh/)*

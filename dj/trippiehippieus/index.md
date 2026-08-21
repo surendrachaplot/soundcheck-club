@@ -1,6 +1,6 @@
 # Trippie Hippie (US)
 
-Trippie Hippie (US) is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Trippie Hippie (US) is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Trippie Hippie (US) is a reggaeton and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Miami. Often billed alongside DJ SABI, HAZÓN and Violeta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Trippie Hippie (US) is a reggaeton and techno artist based in United States of A
 
 DJ SABI, HAZÓN, Violeta
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*

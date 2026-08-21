@@ -1,14 +1,13 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FREE TICKETS- FESTES DE GRACIA- SPECTRUM SUQEUNCE-" on Thu, 20 Aug 2026.
+Garage 442 is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "FESTES DE GRACIA 2026 - FREE TICKETS -" on Fri, 21 Aug 2026.
 
-Garage 442 is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including MKT (DE) and UAV Jammer. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
+Garage 442 is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including MKT (DE) and UAV Jammer. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | FREE TICKETS- FESTES DE GRACIA- SPECTRUM SUQEUNCE- |  |
 | Fri, 21 Aug 2026 | FESTES DE GRACIA 2026 - FREE TICKETS - |  |
 | Sat, 22 Aug 2026 | LOOSE ENDS | UAV Jammer |
 | Wed, 26 Aug 2026 | (FREE) Wednesnight with TBA |  |
@@ -21,4 +20,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 8 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

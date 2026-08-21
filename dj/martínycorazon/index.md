@@ -1,6 +1,6 @@
 # Martín Y Corazón
 
-Martín Y Corazón is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
+Martín Y Corazón is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
 
 Martín Y Corazón is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside Morgan, Mario Polanco and Simon Heyliger. Next up: Roof Terrace BK, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Martín Y Corazón is a house and disco artist based in United States of America
 
 Morgan, Mario Polanco, Simon Heyliger
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martínycorazon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martínycorazon/)*

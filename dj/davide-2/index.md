@@ -1,6 +1,6 @@
 # DAVIDE (2)
 
-DAVIDE (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
+DAVIDE (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
 
 DAVIDE (2) is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Cologne, Hamburg and London. Often billed alongside Dellosen, Daniel Dreier and Guido Schneider. Next up: Club Frau Holle, Hamburg on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DAVIDE (2) is a techno and house artist based in Germany, tracked on soundcheck,
 
 Dellosen, Daniel Dreier, Guido Schneider
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davide-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davide-2/)*

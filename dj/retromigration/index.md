@@ -1,6 +1,6 @@
 # Retromigration
 
-Retromigration is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Retromigration is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
 
 Retromigration is a house and deep house artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside Monty DJ, Bradley Zero and CARISTA. Next up: OXI, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Retromigration is a house and deep house artist based in Germany, tracked on sou
 
 Monty DJ, Bradley Zero, CARISTA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retromigration/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retromigration/)*

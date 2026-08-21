@@ -1,6 +1,6 @@
 # Revier Oslo
 
-Revier Oslo is a music venue in Oslo with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Friday AW / Skranglejazz DJs" on Fri, 21 Aug 2026.
+Revier Oslo is a music venue in Oslo with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Friday AW / Skranglejazz DJs" on Fri, 21 Aug 2026.
 
 Revier Oslo is a music venue in Oslo listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Kongens gate 5, 0153 Oslo.
 
@@ -16,4 +16,4 @@ Revier Oslo is a music venue in Oslo listed on soundcheck. 3 upcoming nights. Br
 
 Kongens gate 5, 0153 Oslo, Oslo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/revier-oslo/)*

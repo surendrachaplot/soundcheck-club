@@ -1,6 +1,6 @@
 # Maque
 
-Maque is a Latin Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Marmorbar, Berlin on Fri, 21 Aug 2026.
+Maque is a Latin Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Marmorbar, Berlin on Fri, 21 Aug 2026.
 
 Maque is a latin bass and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 3 more. Often billed alongside auto_timer, DJ LOUI FROM JUPITER4 and Gadutra. Next up: Marmorbar, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ Maque is a latin bass and techno artist tracked on soundcheck, with 47 sets logg
 
 auto_timer, DJ LOUI FROM JUPITER4, Gadutra
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maque/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maque/)*

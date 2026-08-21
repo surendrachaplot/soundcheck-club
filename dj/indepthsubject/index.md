@@ -1,6 +1,6 @@
 # In Depth Subject
 
-In Depth Subject is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Wych, Toronto on Thu, 27 Aug 2026.
+In Depth Subject is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Wych, Toronto on Thu, 27 Aug 2026.
 
 In Depth Subject is a garage and bass artist based in Canada, tracked on soundcheck, with 18 sets logged across Toronto. Often billed alongside Nihility, NiUNiU and Kara Kara. Next up: The Wych, Toronto on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ In Depth Subject is a garage and bass artist based in Canada, tracked on soundch
 
 Nihility, NiUNiU, Kara Kara
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indepthsubject/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indepthsubject/)*

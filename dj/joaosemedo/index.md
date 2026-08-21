@@ -1,6 +1,6 @@
 # Joao Semedo
 
-Joao Semedo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Plano B, Porto on Sat, 22 Aug 2026.
+Joao Semedo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Plano B, Porto on Sat, 22 Aug 2026.
 
 Joao Semedo is a house and techno artist tracked on soundcheck, with 35 sets logged across Lisbon and Porto. Often billed alongside Klin Klop, Let (3) and Moullinex. Next up: Plano B, Porto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Joao Semedo is a house and techno artist tracked on soundcheck, with 35 sets log
 
 Klin Klop, Let (3), Moullinex
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joaosemedo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joaosemedo/)*

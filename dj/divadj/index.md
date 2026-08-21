@@ -1,6 +1,6 @@
 # Diva DJ
 
-Diva DJ is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Marmorbar, Berlin on Fri, 28 Aug 2026.
+Diva DJ is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Marmorbar, Berlin on Fri, 28 Aug 2026.
 
 Diva DJ is a bass and house artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Young Divorcée, Blu:sh and DJ titka. Next up: Marmorbar, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Diva DJ is a bass and house artist tracked on soundcheck, with 10 sets logged ac
 
 Young Divorcée, Blu:sh, DJ titka
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divadj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divadj/)*

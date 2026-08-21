@@ -1,6 +1,6 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Nicolas Julian is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Nicolas Julian is a techno and trance artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside NOTMYTYPE (2), IGDA and A.N.I.. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Nicolas Julian is a techno and trance artist tracked on soundcheck, with 95 sets
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

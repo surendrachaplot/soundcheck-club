@@ -1,6 +1,6 @@
 # 2flowers
 
-2flowers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+2flowers is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
 2flowers is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Vancouver. Often billed alongside LVT, DJ Hockey and Abasi. Next up: TBA, Vancouver on Fri 28 Aug.
 
@@ -25,4 +25,4 @@
 
 LVT, DJ Hockey, Abasi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2flowers/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2flowers/)*

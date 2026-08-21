@@ -1,6 +1,6 @@
 # Nii Tei
 
-Nii Tei is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Nii Tei is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Nii Tei is a house and deep house artist based in United States of America, tracked on soundcheck, with 91 sets logged across Losangeles, Miami, Newyorkcity and Washingtondc. Often billed alongside Bakke, Dude Skywalker and DIFFER. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Nii Tei is a house and deep house artist based in United States of America, trac
 
 Bakke, Dude Skywalker, DIFFER
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*

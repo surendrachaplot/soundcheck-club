@@ -1,14 +1,15 @@
 # Pinto (US)
 
-Pinto (US) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Reverie at the Park, Toronto on Fri, 28 Aug 2026.
+Pinto (US) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Reverie at the Park, Toronto on Fri, 28 Aug 2026.
 
-Pinto (US) is a house and disco artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Detroit, Losangeles and Melbourne and 7 more. Often billed alongside ARTST, Said Dami and Darius Syrossian. Next up: Reverie at the Park, Toronto on Fri 28 Aug.
+Pinto (US) is a house and disco artist based in United States of America, tracked on soundcheck, with 28 sets logged across Chicago, Detroit, Losangeles and Melbourne and 7 more. Often billed alongside ARTST, Said Dami and Darius Syrossian. Next up: Reverie at the Park, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Reverie at the Park | Toronto |
+| Fri, 30 Oct 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pinto (US) is a house and disco artist based in United States of America, tracke
 
 ARTST, Said Dami, Darius Syrossian
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinto-us/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinto-us/)*

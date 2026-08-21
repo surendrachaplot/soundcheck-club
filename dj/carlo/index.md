@@ -1,6 +1,6 @@
 # Carlo
 
-Carlo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Sat, 29 Aug 2026.
+Carlo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Sat, 29 Aug 2026.
 
 Carlo is a house and disco artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Hamburg and Ibiza and 7 more. Often billed alongside Black Loops, Nephews and Baloo (SA). Next up: Antiguo Liceo de Málaga, Malaga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Carlo is a house and disco artist tracked on soundcheck, with 67 sets logged acr
 
 Black Loops, Nephews, Baloo (SA)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlo/)*

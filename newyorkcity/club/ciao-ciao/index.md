@@ -1,6 +1,6 @@
 # Ciao Ciao
 
-Ciao Ciao is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Disco Express: NYC Daytime Disco (Free Entry)" on Sat, 12 Sept 2026.
+Ciao Ciao is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "The Disco Express: NYC Daytime Disco (Free Entry)" on Sat, 12 Sept 2026.
 
 Ciao Ciao is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Bustin' Loose and Roland & Brother Rich. Browse upcoming dates, start times and who's playing. 97 N 10th St, Brooklyn, NY 11249.
 
@@ -14,4 +14,4 @@ Ciao Ciao is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night
 
 97 N 10th St, Brooklyn, NY 11249, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/ciao-ciao/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/ciao-ciao/)*

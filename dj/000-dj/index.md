@@ -1,6 +1,6 @@
 # 000 (DJ)
 
-000 (DJ) is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Temple Athens, Athens on Sat, 22 Aug 2026.
+000 (DJ) is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Temple Athens, Athens on Sat, 22 Aug 2026.
 
 000 (DJ) is a r&b and hip-hop artist tracked on soundcheck, with 11 sets logged across Athens, London and Tokyo. Often billed alongside DJ B2B, 35DH-1 and Afrojack. Next up: Temple Athens, Athens on Sat 22 Aug.
 
@@ -25,4 +25,4 @@
 
 DJ B2B, 35DH-1, Afrojack
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/000-dj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/000-dj/)*

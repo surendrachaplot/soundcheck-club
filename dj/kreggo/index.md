@@ -1,6 +1,6 @@
 # Kreggo
 
-Kreggo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
+Kreggo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Piedicavallo, Turin on Fri, 21 Aug 2026.
 
 Kreggo is a techno and house artist tracked on soundcheck, with 21 sets logged across Kyoto, Madrid, Milan and Osaka and 6 more. Often billed alongside Gambo, XIII and passEnger. Next up: Piedicavallo, Turin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kreggo is a techno and house artist tracked on soundcheck, with 21 sets logged a
 
 Gambo, XIII, passEnger
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreggo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kreggo/)*

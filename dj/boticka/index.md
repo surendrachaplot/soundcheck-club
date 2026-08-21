@@ -1,6 +1,6 @@
 # BOTICKA
 
-BOTICKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mia Mao, Paris on Fri, 11 Sept 2026.
+BOTICKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mia Mao, Paris on Fri, 11 Sept 2026.
 
 BOTICKA is a techno and hardcore artist tracked on soundcheck, with 11 sets logged across Brussels, Marseille and Paris. Often billed alongside David Asko, Rebekah and 6EJOU. Next up: Mia Mao, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BOTICKA is a techno and hardcore artist tracked on soundcheck, with 11 sets logg
 
 David Asko, Rebekah, 6EJOU
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boticka/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boticka/)*

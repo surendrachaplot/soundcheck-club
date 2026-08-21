@@ -1,6 +1,6 @@
 # Vanree
 
-Vanree is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 22 Aug 2026.
+Vanree is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 22 Aug 2026.
 
 Vanree is a house and tech house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside CC:NIELOS, Florian Pas and M A R. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Vanree is a house and tech house artist tracked on soundcheck, with 4 sets logge
 
 CC:NIELOS, Florian Pas, M A R
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanree/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanree/)*

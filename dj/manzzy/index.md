@@ -1,6 +1,6 @@
 # Manzzy
 
-Manzzy is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Vertigo, Toronto on Fri, 21 Aug 2026.
+Manzzy is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Vertigo, Toronto on Fri, 21 Aug 2026.
 
 Manzzy is a house and tech house artist based in Canada, tracked on soundcheck, with 18 sets logged across Toronto. Often billed alongside RUDEE NIK, AKWA and Addy. Next up: Vertigo, Toronto on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Manzzy is a house and tech house artist based in Canada, tracked on soundcheck, 
 
 RUDEE NIK, AKWA, Addy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*

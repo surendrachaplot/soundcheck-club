@@ -1,6 +1,6 @@
 # Tasman-UK
 
-Tasman-UK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 22 Aug 2026.
+Tasman-UK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 22 Aug 2026.
 
 Tasman-UK is a techno and house artist based in Lithuania, tracked on soundcheck, with 21 sets logged across Berlin, London, Malta and Manchester and 1 more. Often billed alongside Mosai, CAMIVINA and Gareth Wild. Next up: K-Bar Powiśle, Warsaw on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Tasman-UK is a techno and house artist based in Lithuania, tracked on soundcheck
 
 Mosai, CAMIVINA, Gareth Wild
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasman-uk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasman-uk/)*

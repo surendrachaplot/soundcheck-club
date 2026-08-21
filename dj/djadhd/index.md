@@ -1,6 +1,6 @@
 # DJ ADHD
 
-DJ ADHD is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Clock Factory, Bristol on Sat, 7 Nov 2026.
+DJ ADHD is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Clock Factory, Bristol on Sat, 7 Nov 2026.
 
 DJ ADHD is a techno and bass artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 31 more. Often billed alongside Chloé Robinson, Nikki Nair and Papa Nugs. Next up: The Clock Factory, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ ADHD is a techno and bass artist tracked on soundcheck, with 83 sets logged a
 
 Chloé Robinson, Nikki Nair, Papa Nugs
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*

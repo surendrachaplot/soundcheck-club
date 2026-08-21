@@ -1,6 +1,6 @@
 # Julie Herrera
 
-Julie Herrera is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crystal Lounge, Seattle on Fri, 2 Oct 2026.
+Julie Herrera is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Crystal Lounge, Seattle on Fri, 2 Oct 2026.
 
 Julie Herrera is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Seattle. Often billed alongside Brian Lyons, Wesley Holmes and Dane Garfield. Next up: Crystal Lounge, Seattle on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Julie Herrera is a house and deep house artist based in United States of America
 
 Brian Lyons, Wesley Holmes, Dane Garfield
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julieherrera/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julieherrera/)*

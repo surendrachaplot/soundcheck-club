@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ROMANCE w Eli Escobar" on Thu, 20 Aug 2026.
+Gabriela is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Amber Valentine // ALL NIGHT LONG" on Fri, 21 Aug 2026.
 
-Gabriela is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Amber Valentine, Arvin T, Benjamin Roeder and Eli Escobar and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Amber Valentine, Arvin T, Benjamin Roeder and Eli Escobar and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 21 Aug 2026 | Amber Valentine // ALL NIGHT LONG | Amber Valentine |
 | Sat, 22 Aug 2026 | Arvin T // ALL NIGHT LONG | Arvin T |
 | Sun, 23 Aug 2026 | TIKI AFTERS w Planet B + BENJAMIN RODER | Benjamin Roeder, Planet B |
@@ -20,4 +19,4 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

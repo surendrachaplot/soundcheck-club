@@ -1,6 +1,6 @@
 # mitokon
 
-mitokon is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 5 Sept 2026.
+mitokon is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 5 Sept 2026.
 
 mitokon is an amapiano and house artist based in Japan, tracked on soundcheck, with 86 sets logged across Kyoto and Tokyo. Often billed alongside HW BINGO, K8 (TYO GQOM) and MICO. Next up: Circus Tokyo, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ mitokon is an amapiano and house artist based in Japan, tracked on soundcheck, w
 
 HW BINGO, K8 (TYO GQOM), MICO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*

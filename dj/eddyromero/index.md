@@ -1,6 +1,6 @@
 # Eddy Romero
 
-Eddy Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
+Eddy Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
 
 Eddy Romero is a house and deep house artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Edinburgh and Ibiza and 3 more. Often billed alongside Frink, Bubba Brothers and ChillOhm. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Eddy Romero is a house and deep house artist based in Spain, tracked on soundche
 
 Frink, Bubba Brothers, ChillOhm
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddyromero/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddyromero/)*

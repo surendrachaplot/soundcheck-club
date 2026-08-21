@@ -1,6 +1,6 @@
 # Vorteks
 
-Vorteks is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Supermarket, Zurich on Sat, 26 Sept 2026.
+Vorteks is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Supermarket, Zurich on Sat, 26 Sept 2026.
 
 Vorteks is a techno and hardcore artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Budapest, Cologne and Edinburgh and 10 more. Often billed alongside DeGuzman, Cara Elizabeth and Noise Not War. Next up: Supermarket, Zurich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Vorteks is a techno and hardcore artist based in France, tracked on soundcheck, 
 
 DeGuzman, Cara Elizabeth, Noise Not War
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks/)*

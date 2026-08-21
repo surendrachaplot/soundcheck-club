@@ -1,6 +1,6 @@
 # Lidia Lo
 
-Lidia Lo is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 28 Aug 2026.
+Lidia Lo is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 28 Aug 2026.
 
 Lidia Lo is a tech house and house artist based in Spain, tracked on soundcheck, with 36 sets logged across Amsterdam. Often billed alongside Sanne Dammers, Kirilski and Snooz. Next up: De Fik Garden, Amsterdam on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lidia Lo is a tech house and house artist based in Spain, tracked on soundcheck,
 
 Sanne Dammers, Kirilski, Snooz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lidialo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lidialo/)*

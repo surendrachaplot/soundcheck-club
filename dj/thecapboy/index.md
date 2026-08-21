@@ -1,6 +1,6 @@
 # The Cap Boy
 
-The Cap Boy is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Spook Club, Valencia on Sat, 29 Aug 2026.
+The Cap Boy is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Spook Club, Valencia on Sat, 29 Aug 2026.
 
 The Cap Boy is a house and tech house artist tracked on soundcheck, with 32 sets logged across Barcelona, Madrid, Paris and Tbilisi and 1 more. Often billed alongside Gomms, Pau Pérez and Arellano. Next up: Spook Club, Valencia on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ The Cap Boy is a house and tech house artist tracked on soundcheck, with 32 sets
 
 Gomms, Pau Pérez, Arellano
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thecapboy/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thecapboy/)*

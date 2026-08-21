@@ -1,6 +1,6 @@
 # Ernesto Altes
 
-Ernesto Altes is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
+Ernesto Altes is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Ernesto Altes is an electronic artist based in Spain, tracked on soundcheck, with 4 sets logged across Ibiza. Often billed alongside Norman Weber, Andy Bros and Greta Levska. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Ernesto Altes is an electronic artist based in Spain, tracked on soundcheck, wit
 
 Norman Weber, Andy Bros, Greta Levska
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestoaltes/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestoaltes/)*

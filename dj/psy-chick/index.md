@@ -1,6 +1,6 @@
 # Psy-Chick
 
-Psy-Chick is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Spkrbox, Detroit on Fri, 21 Aug 2026.
+Psy-Chick is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Spkrbox, Detroit on Fri, 21 Aug 2026.
 
 Psy-Chick is a techno and electro artist based in United States of America, tracked on soundcheck, with 50 sets logged across Chicago and Detroit. Often billed alongside Jeff Garcia, Tammy Lakkis and 2Lanes. Next up: Spkrbox, Detroit on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Psy-Chick is a techno and electro artist based in United States of America, trac
 
 Jeff Garcia, Tammy Lakkis, 2Lanes
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psy-chick/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/psy-chick/)*

@@ -1,6 +1,6 @@
 # UAV Jammer
 
-UAV Jammer is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Garage 442, Barcelona on Sat, 22 Aug 2026.
+UAV Jammer is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Garage 442, Barcelona on Sat, 22 Aug 2026.
 
 UAV Jammer is an electronica and club artist based in Ireland, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside Marincola, Ambarcita and Bruno Castillo. Next up: Garage 442, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ UAV Jammer is an electronica and club artist based in Ireland, tracked on soundc
 
 Marincola, Ambarcita, Bruno Castillo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uavjammer/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uavjammer/)*

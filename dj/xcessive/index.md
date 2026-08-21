@@ -1,6 +1,6 @@
 # xcessive
 
-xcessive is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
+xcessive is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Klub Progresja, Warsaw on Sat, 3 Oct 2026.
 
 xcessive is a techno and trance artist tracked on soundcheck, with 28 sets logged across Hamburg, Krakow and Warsaw. Often billed alongside marcelitumelis, VRAXX and Józef Keuner. Next up: Klub Progresja, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ xcessive is a techno and trance artist tracked on soundcheck, with 28 sets logge
 
 marcelitumelis, VRAXX, Józef Keuner
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*

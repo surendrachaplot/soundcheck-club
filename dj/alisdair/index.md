@@ -1,6 +1,6 @@
 # Alisdair
 
-Alisdair is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Alisdair is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
 Alisdair is a minimal and house artist tracked on soundcheck, with 18 sets logged across Bristol, Leeds, London and Newcastle. Often billed alongside LEN., Aris (Ldn) and Chaddy. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Alisdair is a minimal and house artist tracked on soundcheck, with 18 sets logge
 
 LEN., Aris (Ldn), Chaddy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*

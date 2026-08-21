@@ -1,6 +1,6 @@
 # Softense
 
-Softense is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Atno, Budapest on Sat, 22 Aug 2026.
+Softense is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Atno, Budapest on Sat, 22 Aug 2026.
 
 Softense is an electro and disco artist tracked on soundcheck, with 5 sets logged across Budapest. Often billed alongside Max Sinclair, SVR101 and Aikatherina. Next up: Atno, Budapest on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Softense is an electro and disco artist tracked on soundcheck, with 5 sets logge
 
 Max Sinclair, SVR101, Aikatherina
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softense/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softense/)*

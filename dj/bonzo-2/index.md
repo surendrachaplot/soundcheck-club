@@ -1,6 +1,6 @@
 # Bonzo (2)
 
-Bonzo (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
+Bonzo (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
 
 Bonzo (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Munich. Often billed alongside DJ Keyframe, ELA E. and HØLLE (2). Next up: Berndhain, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Bonzo (2) is a trance and techno artist based in Germany, tracked on soundcheck,
 
 DJ Keyframe, ELA E., HØLLE (2)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzo-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonzo-2/)*

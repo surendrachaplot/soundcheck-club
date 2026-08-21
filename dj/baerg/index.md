@@ -1,6 +1,6 @@
 # Baerg
 
-Baerg is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
+Baerg is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
 
 Baerg is a house artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Berlin and Zurich. Often billed alongside Juli Lee, Playlove and fabulus. Next up: Kauz, Zurich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Baerg is a house artist based in Switzerland, tracked on soundcheck, with 27 set
 
 Juli Lee, Playlove, fabulus
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baerg/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baerg/)*

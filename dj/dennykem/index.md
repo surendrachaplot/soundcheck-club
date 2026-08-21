@@ -1,6 +1,6 @@
 # Denny Kem
 
-Denny Kem is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Last Arch, London on Fri, 21 Aug 2026.
+Denny Kem is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Last Arch, London on Fri, 21 Aug 2026.
 
 Denny Kem is a deep house and tech house artist tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside Colin Boardway, Jakob Seidensticker and Amirali. Next up: Last Arch, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Denny Kem is a deep house and tech house artist tracked on soundcheck, with 5 se
 
 Colin Boardway, Jakob Seidensticker, Amirali
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennykem/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennykem/)*

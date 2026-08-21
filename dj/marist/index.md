@@ -1,6 +1,6 @@
 # Marist
 
-Marist is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 520 Alexander Street, Vancouver on Fri, 21 Aug 2026.
+Marist is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 520 Alexander Street, Vancouver on Fri, 21 Aug 2026.
 
 Marist is a techno and house artist tracked on soundcheck, with 58 sets logged across Vancouver. Often billed alongside Behrad Tehrani, Fizch and C-Star. Next up: 520 Alexander Street, Vancouver on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Marist is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 Behrad Tehrani, Fizch, C-Star
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marist/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marist/)*

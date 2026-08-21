@@ -1,6 +1,6 @@
 # Dolly (2)
 
-Dolly (2) is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 18 Aug 2026.
+Dolly (2) is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 18 Aug 2026.
 
 Dolly (2) is a tech house and techno artist based in Australia, tracked on soundcheck, with 26 sets logged across Melbourne, Sydney and Tokyo. Often billed alongside Kimi, Miscmeg and Moopie. Next up: COUNTER CLUB, Tokyo on Tue 18 Aug.
 
@@ -26,4 +26,4 @@ Dolly (2) is a tech house and techno artist based in Australia, tracked on sound
 
 Kimi, Miscmeg, Moopie
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolly-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dolly-2/)*

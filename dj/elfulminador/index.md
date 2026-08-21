@@ -1,6 +1,6 @@
 # El Fulminador
 
-El Fulminador is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crack Bellmer, Berlin on Fri, 18 Sept 2026.
+El Fulminador is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Crack Bellmer, Berlin on Fri, 18 Sept 2026.
 
 El Fulminador is an acid and house artist tracked on soundcheck, with 13 sets logged across Berlin and Seoul. Often billed alongside Utopyk Jones, Giovani and Joaquin Dehays. Next up: Crack Bellmer, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ El Fulminador is an acid and house artist tracked on soundcheck, with 13 sets lo
 
 Utopyk Jones, Giovani, Joaquin Dehays
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elfulminador/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elfulminador/)*

@@ -1,6 +1,6 @@
 # Frau Laura
 
-Frau Laura is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 22 Aug 2026.
+Frau Laura is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sparta Schwimmclub, Frankfurt on Sat, 22 Aug 2026.
 
 Frau Laura is a tech house and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Luzie, Andrale and Laurine Philippe. Next up: Sparta Schwimmclub, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Frau Laura is a tech house and techno artist based in Germany, tracked on soundc
 
 Luzie, Andrale, Laurine Philippe
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fraulaura/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fraulaura/)*

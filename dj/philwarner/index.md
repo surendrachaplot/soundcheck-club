@@ -1,6 +1,6 @@
 # Phil Warner
 
-Phil Warner is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
+Phil Warner is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Chapter Hall, Leeds on Sat, 22 Aug 2026.
 
 Phil Warner is a house and techno artist tracked on soundcheck, with 60 sets logged across Leeds, London and Manchester. Often billed alongside Roya Brehl, Joe Reece and Pete Melba. Next up: The Chapter Hall, Leeds on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Phil Warner is a house and techno artist tracked on soundcheck, with 60 sets log
 
 Roya Brehl, Joe Reece, Pete Melba
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philwarner/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philwarner/)*

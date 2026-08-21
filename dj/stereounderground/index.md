@@ -1,6 +1,6 @@
 # Stereo Underground
 
-Stereo Underground is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Stereo Underground is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
 Stereo Underground is a progressive house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Buenosaires and London and 1 more. Often billed alongside Tash, Alex Medina and Alex Sharp. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Stereo Underground is a progressive house and techno artist tracked on soundchec
 
 Tash, Alex Medina, Alex Sharp
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stereounderground/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stereounderground/)*

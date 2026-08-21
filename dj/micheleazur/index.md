@@ -1,6 +1,6 @@
 # Michele Azur
 
-Michele Azur is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
+Michele Azur is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 28 Aug 2026.
 
 Michele Azur is a breakbeat and bass artist based in Canada, tracked on soundcheck, with 16 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Hex P, Kiju and dawny. Next up: TBA - Secret Location, Toronto on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Michele Azur is a breakbeat and bass artist based in Canada, tracked on soundche
 
 Hex P, Kiju, dawny
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheleazur/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micheleazur/)*

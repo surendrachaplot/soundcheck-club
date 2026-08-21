@@ -1,6 +1,6 @@
 # Daed
 
-Daed is a IDM and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Subspace, Denver on Sat, 22 Aug 2026.
+Daed is a IDM and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Subspace, Denver on Sat, 22 Aug 2026.
 
 Daed is an idm and breakcore artist based in United States of America, tracked on soundcheck, with 9 sets logged across Denver, Madrid and Newyorkcity. Often billed alongside Johnny Jitters, Ten and Tracer and 4C1D3Z. Next up: Subspace, Denver on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Daed is an idm and breakcore artist based in United States of America, tracked o
 
 Johnny Jitters, Ten and Tracer, 4C1D3Z
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daed-us/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daed-us/)*

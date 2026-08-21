@@ -1,6 +1,6 @@
 # Jh Alleman
 
-Jh Alleman is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Snake Charmers - 100% Hardcore" on Sat, 22 Aug 2026.
+Jh Alleman is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Snake Charmers - 100% Hardcore" on Sat, 22 Aug 2026.
 
 Jh Alleman is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Jh Alleman is a music venue in Brussels listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Snake Charmers - 100% Hardcore |  |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jh-alleman/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jh-alleman/)*

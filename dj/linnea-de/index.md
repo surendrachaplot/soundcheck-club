@@ -1,6 +1,6 @@
 # LINNÉA
 
-LINNÉA is a Neo Perreo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+LINNÉA is a Neo Perreo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
 LINNÉA is a neo perreo and techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside REBE, Taylor Cherry and TRYCE. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ LINNÉA is a neo perreo and techno artist tracked on soundcheck, with 9 sets log
 
 REBE, Taylor Cherry, TRYCE
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linnea-de/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linnea-de/)*

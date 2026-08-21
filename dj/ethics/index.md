@@ -1,6 +1,6 @@
 # ETHICS
 
-ETHICS is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+ETHICS is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
 ETHICS is a drum & bass and jungle artist tracked on soundcheck, with 12 sets logged across Bristol, London and Southampton. Often billed alongside Deselecta, DJ LESSONS and Dogfish. Next up: Club Cheek, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ ETHICS is a drum & bass and jungle artist tracked on soundcheck, with 12 sets lo
 
 Deselecta, DJ LESSONS, Dogfish
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*

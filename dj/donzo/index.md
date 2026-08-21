@@ -1,6 +1,6 @@
 # Donzo
 
-Donzo is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Milan on Fri, 21 Aug 2026.
+Donzo is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Milan on Fri, 21 Aug 2026.
 
 Donzo is a techno artist tracked on soundcheck, with 6 sets logged across Milan. Often billed alongside Flaiv Đarkø, AllaDerivaLontano and Charlie Sparks. Next up: TBA, Milan on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Donzo is a techno artist tracked on soundcheck, with 6 sets logged across Milan.
 
 Flaiv Đarkø, AllaDerivaLontano, Charlie Sparks
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donzo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donzo/)*

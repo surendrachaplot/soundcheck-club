@@ -1,6 +1,6 @@
 # Jacinta
 
-Jacinta is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Setlist @ Somerset House, London on Fri, 21 Aug 2026.
+Jacinta is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Setlist @ Somerset House, London on Fri, 21 Aug 2026.
 
 Jacinta is a house and tech house artist tracked on soundcheck, with 52 sets logged across Liverpool, London and Manchester. Often billed alongside Dowd, Alien Izz and Luna Thee Frenchie. Next up: Setlist @ Somerset House, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jacinta is a house and tech house artist tracked on soundcheck, with 52 sets log
 
 Dowd, Alien Izz, Luna Thee Frenchie
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacinta/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacinta/)*

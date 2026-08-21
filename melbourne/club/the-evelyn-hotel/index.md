@@ -1,6 +1,6 @@
 # The Evelyn Hotel
 
-The Evelyn Hotel is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "In the Moment presents The Evelyn Reimagined w/ Honeysmack Live" on Fri, 4 Sept 2026.
+The Evelyn Hotel is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "In the Moment presents The Evelyn Reimagined w/ Honeysmack Live" on Fri, 4 Sept 2026.
 
 The Evelyn Hotel is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Borrowed CS, Chiara Kickdrum, DJ JNETT and Honeysmack and 2 more. Browse upcoming dates, start times and who's playing. 351 Brunswick St; Fitzroy, VIC 3065; Australia.
 
@@ -17,4 +17,4 @@ The Evelyn Hotel is a music venue in Melbourne listed on soundcheck. 4 upcoming 
 
 351 Brunswick St; Fitzroy, VIC 3065; Australia, Melbourne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-evelyn-hotel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-evelyn-hotel/)*

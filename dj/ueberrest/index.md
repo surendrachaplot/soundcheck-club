@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Ueberrest is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
 
 Ueberrest is a techno and trance artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Arzenal, Budapest on Wed 19 Aug.
 
@@ -9,7 +9,6 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 88 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 19 Aug 2026 | Arzenal | Budapest |
-| Thu, 20 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | The Classic Grand | Glasgow |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
@@ -20,9 +19,11 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 88 sets logg
 | Fri, 25 Sept 2026 | Club Vaag | Antwerp |
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
+| Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
+- INPUT High Fidelity Dance Club, Barcelona — Thu, 20 Aug 2026
 - Arzenal, Budapest — Wed, 19 Aug 2026
 - Lehmann Club, Stuttgart — Sat, 15 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -30,10 +31,9 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 88 sets logg
 - Sala Urbana, Mexico City — Fri, 17 Jul 2026
 - Flanders Expo Centre, Ghent — Sat, 4 Jul 2026
 - Boomerang Beach, The Hague — Sun, 28 Jun 2026
-- TBA - TANZ INSEL OPEN AIR, Nürnberg — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, KUKO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

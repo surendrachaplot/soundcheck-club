@@ -1,6 +1,6 @@
 # nico dj
 
-nico dj is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
+nico dj is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
 
 nico dj is a techno and jungle artist tracked on soundcheck, with 20 sets logged across Detroit and Newyorkcity. Often billed alongside DJ Good Evening, Jeff Garcia and BeatLoaf. Next up: Marble Bar, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ nico dj is a techno and jungle artist tracked on soundcheck, with 20 sets logged
 
 DJ Good Evening, Jeff Garcia, BeatLoaf
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/níco/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/níco/)*

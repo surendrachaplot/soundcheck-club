@@ -1,6 +1,6 @@
 # DJ ITZ
 
-DJ ITZ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at W Osaka, Osaka on Sat, 22 Aug 2026.
+DJ ITZ is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at W Osaka, Osaka on Sat, 22 Aug 2026.
 
 DJ ITZ is a house and tech house artist based in Japan, tracked on soundcheck, with 5 sets logged across Osaka and Tokyo. Often billed alongside AY (10), HiTOMi and YOSHIMASA. Next up: W Osaka, Osaka on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ DJ ITZ is a house and tech house artist based in Japan, tracked on soundcheck, w
 
 AY (10), HiTOMi, YOSHIMASA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djitz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djitz/)*

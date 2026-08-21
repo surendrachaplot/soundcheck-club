@@ -1,6 +1,6 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat, 22 Aug 2026.
+Henry Saiz is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat, 22 Aug 2026.
 
 Henry Saiz is a progressive house and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Henry Saiz is a progressive house and house artist tracked on soundcheck, with 6
 
 Amadori, Luciano Lozz, Gespona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*

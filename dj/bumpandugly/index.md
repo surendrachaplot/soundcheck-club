@@ -1,6 +1,6 @@
 # Bump and Ugly
 
-Bump and Ugly is a Acid and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Spin, San Diego on Sat, 29 Aug 2026.
+Bump and Ugly is a Acid and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spin, San Diego on Sat, 29 Aug 2026.
 
 Bump and Ugly are an acid and garage duo based in United States of America, tracked on soundcheck, with 5 sets logged across Sandiego. Next up: Spin, Sandiego on Sat 29 Aug.
 
@@ -17,4 +17,4 @@ Bump and Ugly are an acid and garage duo based in United States of America, trac
 - Shelter, San Diego — Thu, 29 Feb 2024
 - Shelter, San Diego — Thu, 8 Feb 2024
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpandugly/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bumpandugly/)*

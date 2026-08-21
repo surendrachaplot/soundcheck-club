@@ -1,6 +1,6 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Beaver Works, Leeds on Fri, 16 Oct 2026.
+Fonzo (UK) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Beaver Works, Leeds on Fri, 16 Oct 2026.
 
 Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 9 more. Often billed alongside Yemz, Notion and REA (UK). Next up: Beaver Works, Leeds on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on sound
 
 Yemz, Notion, REA (UK)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*

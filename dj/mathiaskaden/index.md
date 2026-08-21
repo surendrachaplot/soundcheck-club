@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
+Mathias Kaden is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
 
 Mathias Kaden is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 18 more. Often billed alongside Chris Liebing, VNTM and Annina. Next up: Distillery, Leipzig on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mathias Kaden is a techno and house artist tracked on soundcheck, with 67 sets l
 
 Chris Liebing, VNTM, Annina
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

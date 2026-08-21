@@ -1,6 +1,6 @@
 # Bats
 
-Bats is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Avve, Bangkok on Fri, 21 Aug 2026.
+Bats is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Avve, Bangkok on Fri, 21 Aug 2026.
 
 Bats is a techno and house artist based in Australia, tracked on soundcheck, with 15 sets logged across Bangkok, Melbourne and Sydney. Often billed alongside ANAHITA, Andrew Wowk and Ekul. Next up: Avve, Bangkok on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bats is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 ANAHITA, Andrew Wowk, Ekul
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bats/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bats/)*

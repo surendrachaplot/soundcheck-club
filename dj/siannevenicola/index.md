@@ -1,6 +1,6 @@
 # Sian Nevenicola
 
-Sian Nevenicola is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Zubar at 8436 Brookfield Ave Brookfield, IL, Chicago on Sat, 5 Sept 2026.
+Sian Nevenicola is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Zubar at 8436 Brookfield Ave Brookfield, IL, Chicago on Sat, 5 Sept 2026.
 
 Sian Nevenicola is a house and garage artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago. Often billed alongside pearls, Dazegxd and Yesterdayneverhappened. Next up: TBA - Zubar at 8436 Brookfield Ave Brookfield, IL, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sian Nevenicola is a house and garage artist based in United States of America, 
 
 pearls, Dazegxd, Yesterdayneverhappened
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siannevenicola/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siannevenicola/)*

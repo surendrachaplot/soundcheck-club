@@ -1,6 +1,6 @@
 # Alvaro
 
-Alvaro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Alvaro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Alvaro is a house and disco artist tracked on soundcheck, with 14 sets logged across Bali, Portland and Sanfrancisco. Often billed alongside &ndmore, DJ M3 and Galen. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Alvaro is a house and disco artist tracked on soundcheck, with 14 sets logged ac
 
 &ndmore, DJ M3, Galen
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaro/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaro/)*

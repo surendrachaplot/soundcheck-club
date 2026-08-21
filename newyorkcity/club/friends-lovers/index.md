@@ -1,14 +1,13 @@
 # Friends & Lovers
 
-Friends & Lovers is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Fast Times At Friends and Lovers" on Thu, 20 Aug 2026.
+Friends & Lovers is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Toast & Jams" on Fri, 21 Aug 2026.
 
-Friends & Lovers is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 641 Classon Avenue Brooklyn NY.
+Friends & Lovers is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 641 Classon Avenue Brooklyn NY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Fast Times At Friends and Lovers |  |
 | Fri, 21 Aug 2026 | Toast & Jams |  |
 | Sat, 22 Aug 2026 | QUENCH |  |
 | Thu, 27 Aug 2026 | Y2k Baby One More Time |  |
@@ -19,4 +18,4 @@ Friends & Lovers is a music venue in Newyorkcity listed on soundcheck. 6 upcomin
 
 641 Classon Avenue Brooklyn NY, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/friends-lovers/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/friends-lovers/)*

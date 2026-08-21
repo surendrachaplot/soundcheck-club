@@ -1,6 +1,6 @@
 # Raj el Rey
 
-Raj el Rey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Raj el Rey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Raj el Rey is a house and techno artist based in Kenya, tracked on soundcheck, with 11 sets logged across Berlin and Copenhagen. Often billed alongside Jesper Aubin, Kaldera and Dole & Kom. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Raj el Rey is a house and techno artist based in Kenya, tracked on soundcheck, w
 
 Jesper Aubin, Kaldera, Dole & Kom
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajelrey/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajelrey/)*

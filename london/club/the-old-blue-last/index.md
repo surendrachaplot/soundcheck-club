@@ -1,8 +1,8 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "WASTE & CONVERSE presents VMO Live: Violent Magic Orchestra, Pigbaby, Black Fondu, DJ Speed" on Wed, 26 Aug 2026.
+The Old Blue Last is a music venue in London with 13 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "WASTE & CONVERSE presents VMO Live: Violent Magic Orchestra, Pigbaby, Black Fondu, DJ Speed" on Wed, 26 Aug 2026.
 
-The Old Blue Last is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Billy Nasty, Craig Richards, Electro Elvis and Howie B and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
+The Old Blue Last is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Billy Nasty, Craig Richards, Electro Elvis and Howie B and 2 more. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Old Blue Last is a music venue in London listed on soundcheck. 12 upcoming n
 | Sun, 13 Sept 2026 | Sunday Jazz |  |
 | Mon, 14 Sept 2026 | Erode x Sinister Feeling |  |
 | Sat, 19 Sept 2026 | Cunning MC - The Old Blue Last |  |
-| Sun, 20 Sept 2026 | Sunday Jazz |  |
+| Sat, 19 Sept 2026 | Well Street Records: Mantra + Special Guests | Mantra |
 
 ## Address
 
 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-blue-last/)*

@@ -1,6 +1,6 @@
 # Databass
 
-Databass is a Drum & Bass and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Distrikt, Prague on Fri, 30 Oct 2026.
+Databass is a Drum & Bass and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Distrikt, Prague on Fri, 30 Oct 2026.
 
 Databass is a drum & bass and broken beat artist tracked on soundcheck, with 9 sets logged across London, Prague and Vienna. Often billed alongside Urbik, Charlie Price and Daito. Next up: Distrikt, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Databass is a drum & bass and broken beat artist tracked on soundcheck, with 9 s
 
 Urbik, Charlie Price, Daito
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/databass/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/databass/)*

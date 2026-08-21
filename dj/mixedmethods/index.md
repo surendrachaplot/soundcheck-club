@@ -1,6 +1,6 @@
 # Mixed Methods
 
-Mixed Methods is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 6 Sept 2026.
+Mixed Methods is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 6 Sept 2026.
 
 Mixed Methods is a house and tech house artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Berlin and Melbourne and 5 more. Often billed alongside Callyy, Jarred Baker and André Müller. Next up: Revolver Upstairs, Melbourne on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Mixed Methods is a house and tech house artist based in Australia, tracked on so
 
 Callyy, Jarred Baker, André Müller
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixedmethods/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixedmethods/)*

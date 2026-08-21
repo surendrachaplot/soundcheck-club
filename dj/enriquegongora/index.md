@@ -1,6 +1,6 @@
 # Enrique Góngora
 
-Enrique Góngora is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Terraza Catedral, Mexico City on Fri, 21 Aug 2026.
+Enrique Góngora is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Terraza Catedral, Mexico City on Fri, 21 Aug 2026.
 
 Enrique Góngora is a house and minimal artist tracked on soundcheck, with 11 sets logged across Mexicocity. Often billed alongside Alain Hellion, Gog and The TiCket. Next up: Terraza Catedral, Mexicocity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Enrique Góngora is a house and minimal artist tracked on soundcheck, with 11 se
 
 Alain Hellion, Gog, The TiCket
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enriquegongora/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enriquegongora/)*

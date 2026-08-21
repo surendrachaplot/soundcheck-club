@@ -1,6 +1,6 @@
 # ailin
 
-ailin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+ailin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 ailin is a techno and house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Ailin Liefeldt, capitano (she/her) and ARCHERY. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ ailin is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Ailin Liefeldt, capitano (she/her), ARCHERY
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ailin/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ailin/)*

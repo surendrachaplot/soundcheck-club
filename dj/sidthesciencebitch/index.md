@@ -1,6 +1,6 @@
 # Sid The Science Bitch
 
-Sid The Science Bitch is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Distillery N17, London on Fri, 11 Sept 2026.
+Sid The Science Bitch is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Distillery N17, London on Fri, 11 Sept 2026.
 
 Sid The Science Bitch is a techno and gabber artist tracked on soundcheck, with 18 sets logged across Bristol, London and Tokyo. Often billed alongside XS BULLY, AC (dot robot) and Sissy Cinnamon. Next up: Distillery N17, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sid The Science Bitch is a techno and gabber artist tracked on soundcheck, with 
 
 XS BULLY, AC (dot robot), Sissy Cinnamon
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidthesciencebitch/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidthesciencebitch/)*

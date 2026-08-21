@@ -1,6 +1,6 @@
 # MXC
 
-MXC is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+MXC is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 MXC is a house and funk / soul artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Berlin and Liverpool. Often billed alongside Vaccaro, palle and No Auer. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ MXC is a house and funk / soul artist based in Netherlands, tracked on soundchec
 
 Vaccaro, palle, No Auer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxc/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxc/)*

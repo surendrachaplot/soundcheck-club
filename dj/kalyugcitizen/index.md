@@ -1,6 +1,6 @@
 # Kalyug Citizen
 
-Kalyug Citizen is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+Kalyug Citizen is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
 Kalyug Citizen is an electro and ebm artist tracked on soundcheck, with 9 sets logged across Paris. Often billed alongside Studerkel, cfds and Mascarpone. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kalyug Citizen is an electro and ebm artist tracked on soundcheck, with 9 sets l
 
 Studerkel, cfds, Mascarpone
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyugcitizen/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyugcitizen/)*

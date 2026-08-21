@@ -1,6 +1,6 @@
 # Deo'jorge
 
-Deo'jorge is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Circle Line Cruises, New York City on Fri, 21 Aug 2026.
+Deo'jorge is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Circle Line Cruises, New York City on Fri, 21 Aug 2026.
 
 Deo'jorge is a house and electro artist based in United States of America, tracked on soundcheck, with 57 sets logged across Newyorkcity. Often billed alongside Anna Collecta, Will Buck and Atilla Ural. Next up: Circle Line Cruises, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Deo'jorge is a house and electro artist based in United States of America, track
 
 Anna Collecta, Will Buck, Atilla Ural
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*

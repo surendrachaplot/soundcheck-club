@@ -1,6 +1,6 @@
 # Chad
 
-Chad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Forestlimit, Tokyo on Fri, 21 Aug 2026.
+Chad is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Forestlimit, Tokyo on Fri, 21 Aug 2026.
 
 Chad is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Barcelona, Newcastle, Sanfrancisco and Tokyo. Often billed alongside Adiel, Ben Sims and Cera Khin. Next up: Forestlimit, Tokyo on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Chad is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Adiel, Ben Sims, Cera Khin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chad/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chad/)*

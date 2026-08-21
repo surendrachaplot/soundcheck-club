@@ -1,6 +1,6 @@
 # DJ Qu
 
-DJ Qu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
+DJ Qu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
 
 DJ Qu is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 6 more. Often billed alongside Anthony Parasole, Simon Heyliger and Hiroko Yamamura. Next up: Roof Terrace BK, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Qu is a house and techno artist based in United States of America, tracked on
 
 Anthony Parasole, Simon Heyliger, Hiroko Yamamura
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djqu/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djqu/)*

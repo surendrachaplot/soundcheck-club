@@ -1,6 +1,6 @@
 # Hinode (2)
 
-Hinode (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location , Tokyo on Fri, 28 Aug 2026.
+Hinode (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location , Tokyo on Fri, 28 Aug 2026.
 
 Hinode (2) is a trance and techno artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside AYANA KOSHIBA, KAMIKAZE and KYLE MIKASA. Next up: TBA - Secret Location , Tokyo on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Hinode (2) is a trance and techno artist tracked on soundcheck, with 4 sets logg
 
 AYANA KOSHIBA, KAMIKAZE, KYLE MIKASA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode-2/)*

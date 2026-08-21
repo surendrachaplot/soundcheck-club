@@ -1,6 +1,6 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
+Decoder is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
 
 Decoder is a techno and minimal techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 84 set
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

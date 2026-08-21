@@ -1,6 +1,6 @@
 # Jackson Ryland
 
-Jackson Ryland is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
+Jackson Ryland is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
 
 Jackson Ryland is a techno and garage artist based in United States of America, tracked on soundcheck, with 21 sets logged across Boston, Denver, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Juana, Artemis.105 and Baronhawk Poitier. Next up: TRANSMISSION DC, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jackson Ryland is a techno and garage artist based in United States of America, 
 
 Juana, Artemis.105, Baronhawk Poitier
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonryland/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonryland/)*

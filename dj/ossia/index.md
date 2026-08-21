@@ -1,6 +1,6 @@
 # Ossia
 
-Ossia is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Cheek, London on Fri, 21 Aug 2026.
+Ossia is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Cheek, London on Fri, 21 Aug 2026.
 
 Ossia is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside ojoo, Anina and Dan Johnson. Next up: Club Cheek, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ossia is an experimental and club artist based in United Kingdom, tracked on sou
 
 ojoo, Anina, Dan Johnson
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossia/)*

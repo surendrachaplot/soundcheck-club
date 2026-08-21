@@ -1,14 +1,13 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "E L I X I R  THURSDAY  • Dretraxx • DR. Disko Dust" on Thu, 20 Aug 2026.
+Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Alternative School presents: RELAY w/ Shigeto b2b Todd Modes + ameera b2b Sugar" on Fri, 28 Aug 2026.
 
-Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including The AM/AMX, DJ.K2, Aboudi Issa and Ameera and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
+Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including The AM/AMX, DJ.K2, Aboudi Issa and Ameera and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | E L I X I R  THURSDAY  • Dretraxx • DR. Disko Dust | DR. Disko Dust, Dretraxx |
 | Fri, 28 Aug 2026 | Alternative School presents: RELAY w/ Shigeto b2b Todd Modes + ameera b2b Sugar | Ameera, Shigeto, Sugar, Sugar (4), Todd Modes |
 | Sat, 29 Aug 2026 | Laylit #149 - Detroit | Aboudi Issa, Layan, Nadim Maghzal, Tammy Lakkis |
 | Thu, 3 Sept 2026 | Beyond The Abyss (a Drexciya Day Tribute) Scott Zacharias, Dr.DiskoDust, K2&Friends. FREE | DJ.K2, DR. Disko Dust, Nick Kothari, Scott Zacharias |
@@ -19,4 +18,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

@@ -1,6 +1,6 @@
 # Harvy Valencia
 
-Harvy Valencia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Pacha New York, New York City on Fri, 4 Sept 2026.
+Harvy Valencia is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Pacha New York, New York City on Fri, 4 Sept 2026.
 
 Harvy Valencia is a tech house and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Barcelona and Chicago and 9 more. Often billed alongside Mason Collective, Miluhska and Ms. Mada. Next up: Pacha New York, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Harvy Valencia is a tech house and house artist tracked on soundcheck, with 48 s
 
 Mason Collective, Miluhska, Ms. Mada
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harvyvalencia/)*

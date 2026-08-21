@@ -1,6 +1,6 @@
 # Sampa The Great
 
-Sampa The Great is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Sampa The Great is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
 Sampa The Great is a jazz and funk / soul artist tracked on soundcheck, with 4 sets logged across Birmingham, Melbourne and Sydney. Often billed alongside Jamz Supernova, Coco Maria and Ezra Collective. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Sampa The Great is a jazz and funk / soul artist tracked on soundcheck, with 4 s
 
 Jamz Supernova, Coco Maria, Ezra Collective
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampathegreat/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampathegreat/)*

@@ -1,6 +1,6 @@
 # Franziska Frizzante
 
-Franziska Frizzante is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 29 Aug 2026.
+Franziska Frizzante is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 29 Aug 2026.
 
 Franziska Frizzante is a house and techno artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Sam Paradise, freesi and Carluschka. Next up: Phoxxi Green Area, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Franziska Frizzante is a house and techno artist based in Germany, tracked on so
 
 Sam Paradise, freesi, Carluschka
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskafrizzante/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskafrizzante/)*

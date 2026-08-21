@@ -1,6 +1,6 @@
 # Llupe
 
-Llupe is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at migas, a listening bar, Berlin on Fri, 21 Aug 2026.
+Llupe is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at migas, a listening bar, Berlin on Fri, 21 Aug 2026.
 
 Llupe is a house and italo disco artist tracked on soundcheck, with 27 sets logged across Berlin, Madrid, Mexicocity and Prague. Often billed alongside DJ Aficionado, Eleonora K and Frinda di Lanco. Next up: migas, a listening bar, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Llupe is a house and italo disco artist tracked on soundcheck, with 27 sets logg
 
 DJ Aficionado, Eleonora K, Frinda di Lanco
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/llupe/)*

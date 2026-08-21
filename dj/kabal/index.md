@@ -1,6 +1,6 @@
 # Kabal
 
-Kabal is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+Kabal is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
 Kabal is an electro and acid artist based in Czech Republic, tracked on soundcheck, with 33 sets logged across Prague. Often billed alongside Edúv Syn, Freddie Hudson and Raphael Kosmos. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kabal is an electro and acid artist based in Czech Republic, tracked on soundche
 
 Edúv Syn, Freddie Hudson, Raphael Kosmos
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabal/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabal/)*

@@ -1,6 +1,6 @@
 # Hannah Account
 
-Hannah Account is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
+Hannah Account is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
 
 Hannah Account is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Elly DJ, Austerity Measures and Eva Loveless. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Hannah Account is a techno and breakbeat artist based in United States of Americ
 
 Elly DJ, Austerity Measures, Eva Loveless
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaccount/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaccount/)*

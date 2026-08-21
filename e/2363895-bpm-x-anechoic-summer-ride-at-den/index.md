@@ -1,6 +1,6 @@
 # BPM x Anechoic: Summer Ride at ÆDEN
 
-BPM x Anechoic: Summer Ride at ÆDEN on Fri 21 Aug, Berlin. 16 acts on the bill: August Kind, B.R.K.Ø., bbymeister and Bruno Brero and 12 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+BPM x Anechoic: Summer Ride at ÆDEN on Fri 21 Aug, Berlin. 17 acts on the bill: August Kind, B.R.K.Ø., bbymeister and Bruno Brero and 13 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ BPM x Anechoic: Summer Ride at ÆDEN on Fri 21 Aug, Berlin. 16 acts on the bill:
 - Hanne B
 - jeanska
 - k4mi
+- KANIKA
 - MIMI404
 - OnlyWithYou
 - queen yasmeen

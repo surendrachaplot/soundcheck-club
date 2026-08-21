@@ -1,6 +1,6 @@
 # Celebrities Night Club
 
-Celebrities Night Club is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Conrad Taylor" on Sat, 22 Aug 2026.
+Celebrities Night Club is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Conrad Taylor" on Sat, 22 Aug 2026.
 
 Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including Conrad Taylor. Browse upcoming dates, start times and who's playing. 1022 Davie Street; Vancouver, BC V6E 1N2; Canada.
 
@@ -14,4 +14,4 @@ Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 1 upc
 
 1022 Davie Street; Vancouver, BC V6E 1N2; Canada, Vancouver
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*

@@ -1,6 +1,6 @@
 # MARCEL db
 
-MARCEL db is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at KitKatClub, Berlin on Sun, 23 Aug 2026.
+MARCEL db is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at KitKatClub, Berlin on Sun, 23 Aug 2026.
 
 MARCEL db is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Daniel Boon, Jaycap and MEEMA. Next up: KitKatClub, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ MARCEL db is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Daniel Boon, Jaycap, MEEMA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*

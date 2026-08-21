@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 15 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "TOFFLER presents LEYO and friends" on Fri, 21 Aug 2026.
+Toffler is a music venue in Rotterdam with 15 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "TOFFLER presents LEYO and friends" on Fri, 21 Aug 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 15 upcoming nights, with line-ups including Ammé, Ben Horton, Boss Priester and Bumpr and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 15 upcoming nights, 
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

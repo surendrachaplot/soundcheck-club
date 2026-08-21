@@ -1,6 +1,6 @@
 # Repetitive Strain
 
-Repetitive Strain is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Spanners, London on Fri, 21 Aug 2026.
+Repetitive Strain is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spanners, London on Fri, 21 Aug 2026.
 
 Repetitive Strain is an ebm and club artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Craggz & Parallel, Cuntroaches and Kabir. Next up: Spanners, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Repetitive Strain is an ebm and club artist based in United Kingdom, tracked on 
 
 Craggz & Parallel, Cuntroaches, Kabir
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/repetitivestrain/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/repetitivestrain/)*

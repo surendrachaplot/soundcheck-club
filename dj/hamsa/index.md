@@ -1,6 +1,6 @@
 # Hamsa
 
-Hamsa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
+Hamsa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
 
 Hamsa is a techno and house artist tracked on soundcheck, with 14 sets logged across Barcelona and Berlin. Often billed alongside BioN, Francesco Farfa and Francesco Passantino. Next up: Hoppetosse, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hamsa is a techno and house artist tracked on soundcheck, with 14 sets logged ac
 
 BioN, Francesco Farfa, Francesco Passantino
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamsa/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamsa/)*

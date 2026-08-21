@@ -1,6 +1,6 @@
 # USOF
 
-USOF is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Centrum Sztuki Współczesnej Zamek Ujazdowski, Warsaw on Sun, 23 Aug 2026.
+USOF is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Centrum Sztuki Współczesnej Zamek Ujazdowski, Warsaw on Sun, 23 Aug 2026.
 
 USOF is an experimental and ambient artist tracked on soundcheck, with 23 sets logged across Berlin, Cork, Leipzig and Lisbon and 2 more. Often billed alongside Carolf, Asio Otus (2) and Van Der (PT). Next up: Centrum Sztuki Współczesnej Zamek Ujazdowski, Warsaw on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ USOF is an experimental and ambient artist tracked on soundcheck, with 23 sets l
 
 Carolf, Asio Otus (2), Van Der (PT)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/usof/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/usof/)*

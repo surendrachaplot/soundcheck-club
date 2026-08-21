@@ -1,6 +1,6 @@
 # R2R (1)
 
-R2R (1) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Billy Bootleggers, Nottingham on Sat, 22 Aug 2026.
+R2R (1) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Billy Bootleggers, Nottingham on Sat, 22 Aug 2026.
 
 R2R (1) is a bass and drum & bass artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, Leeds, Manchester and Nottingham. Often billed alongside Chad Harrison, DJ Q and Jamie Duggan. Next up: Billy Bootleggers, Nottingham on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ R2R (1) is a bass and drum & bass artist based in Netherlands, tracked on soundc
 
 Chad Harrison, DJ Q, Jamie Duggan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r2r-1/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r2r-1/)*

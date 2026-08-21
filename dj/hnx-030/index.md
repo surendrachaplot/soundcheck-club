@@ -1,6 +1,6 @@
 # HNX (030)
 
-HNX (030) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Marmorbar, Berlin on Fri, 11 Sept 2026.
+HNX (030) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Marmorbar, Berlin on Fri, 11 Sept 2026.
 
 HNX (030) is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Eric Brwn, UWE! and Daddycation. Next up: Marmorbar, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ HNX (030) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Eric Brwn, UWE!, Daddycation
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hnx-030/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hnx-030/)*

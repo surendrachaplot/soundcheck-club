@@ -1,6 +1,6 @@
 # Arena Wien
 
-Arena Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Birdhouse at Iceberg, Arena" on Fri, 28 Aug 2026.
+Arena Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Birdhouse at Iceberg, Arena" on Fri, 28 Aug 2026.
 
 Arena Wien is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Daniel Darkhofer, Edictum and Fede Frostl. Browse upcoming dates, start times and who's playing. Baumgasse 80; 1030 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Arena Wien is a music venue in Vienna listed on soundcheck. 1 upcoming night, wi
 
 Baumgasse 80; 1030 Vienna; Austria, Vienna
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/arena-wien/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/arena-wien/)*

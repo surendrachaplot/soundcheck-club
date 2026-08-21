@@ -1,6 +1,6 @@
 # Shah Rud
 
-Shah Rud is a Gqom and Kuduro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+Shah Rud is a Gqom and Kuduro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
 Shah Rud is a gqom and kuduro artist based in Estonia, tracked on soundcheck, with 14 sets logged across Berlin, Lisbon and Tallinn. Often billed alongside Dharma Doom, Nikolajev and MORA (FI). Next up: HUNGR, Tallinn on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Shah Rud is a gqom and kuduro artist based in Estonia, tracked on soundcheck, wi
 
 Dharma Doom, Nikolajev, MORA (FI)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shahrud/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shahrud/)*

@@ -1,6 +1,6 @@
 # DARIMI TABLE
 
-DARIMI TABLE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Flac, Seoul on Sat, 22 Aug 2026.
+DARIMI TABLE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Flac, Seoul on Sat, 22 Aug 2026.
 
 DARIMI TABLE is a house and afro house artist based in South Korea, tracked on soundcheck, with 76 sets logged across Seoul. Often billed alongside Jetset Trash, Seon Hyul and Onizmik. Next up: Flac, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DARIMI TABLE is a house and afro house artist based in South Korea, tracked on s
 
 Jetset Trash, Seon Hyul, Onizmik
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darimitable/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darimitable/)*

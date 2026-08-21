@@ -1,6 +1,6 @@
 # Vence
 
-Vence is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Social Room, Hong Kong on Sat, 22 Aug 2026.
+Vence is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Social Room, Hong Kong on Sat, 22 Aug 2026.
 
 Vence is a house and techno artist tracked on soundcheck, with 34 sets logged across Hongkong and Shenzhen. Often billed alongside Anyss, Sunsiaré and AngeliKa. Next up: Social Room, Hongkong on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Vence is a house and techno artist tracked on soundcheck, with 34 sets logged ac
 
 Anyss, Sunsiaré, AngeliKa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vence/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vence/)*

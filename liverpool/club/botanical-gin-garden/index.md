@@ -1,18 +1,17 @@
 # Botanical Gin Garden
 
-Botanical Gin Garden is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Summer's End: An Evening of Queer Song" on Thu, 20 Aug 2026.
+Botanical Gin Garden is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Change Ya Tune 1st Birthday" on Sun, 30 Aug 2026.
 
-Botanical Gin Garden is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including Finn, Olly151, Sakers and Shadeda. Browse upcoming dates, start times and who's playing. 49 New Bird Street, Liverpool, L1 0DN.
+Botanical Gin Garden is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Finn, Olly151, Sakers and Shadeda. Browse upcoming dates, start times and who's playing. 49 New Bird Street, Liverpool, L1 0DN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Summer's End: An Evening of Queer Song |  |
 | Sun, 30 Aug 2026 | Change Ya Tune 1st Birthday | Finn, Olly151, Sakers, Shadeda |
 
 ## Address
 
 49 New Bird Street, Liverpool, L1 0DN, Liverpool
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/botanical-gin-garden/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/botanical-gin-garden/)*

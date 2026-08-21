@@ -1,6 +1,6 @@
 # Katya C
 
-Katya C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Warehouse Location, Boston on Fri, 21 Aug 2026.
+Katya C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Warehouse Location, Boston on Fri, 21 Aug 2026.
 
 Katya C is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Boston and Newyorkcity. Often billed alongside CHAOUKI, cutwoes and CAMILLA. Next up: TBA - Secret Warehouse Location, Boston on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Katya C is a house and techno artist based in United States of America, tracked 
 
 CHAOUKI, cutwoes, CAMILLA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyac/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyac/)*

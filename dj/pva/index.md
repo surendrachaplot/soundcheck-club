@@ -1,6 +1,6 @@
 # PVA
 
-PVA is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+PVA is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 PVA is a post-punk and electronica artist tracked on soundcheck, with 12 sets logged across Bristol, London, Losangeles and Manchester and 2 more. Often billed alongside James Massiah, Leon Vynehall and lifeloose. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PVA is a post-punk and electronica artist tracked on soundcheck, with 12 sets lo
 
 James Massiah, Leon Vynehall, lifeloose
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pva/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pva/)*

@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Village Studios, Vancouver on Sat, 22 Aug 2026.
+Musumeci is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Village Studios, Vancouver on Sat, 22 Aug 2026.
 
 Musumeci is a house and deep house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 29 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Village Studios, Vancouver on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Musumeci is a house and deep house artist tracked on soundcheck, with 83 sets lo
 
 Lehar, Frankey & Sandrino, Phunkadelica
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

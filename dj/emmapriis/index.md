@@ -1,6 +1,6 @@
 # Emma Priis
 
-Emma Priis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hangaren, Copenhagen on Fri, 21 Aug 2026.
+Emma Priis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hangaren, Copenhagen on Fri, 21 Aug 2026.
 
 Emma Priis is a techno and house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Bestrawa, Cakebutcher and DRABER666. Next up: Hangaren, Copenhagen on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Emma Priis is a techno and house artist based in Denmark, tracked on soundcheck,
 
 Bestrawa, Cakebutcher, DRABER666
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*

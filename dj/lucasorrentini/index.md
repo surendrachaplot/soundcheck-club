@@ -1,6 +1,6 @@
 # Luca Sorrentini
 
-Luca Sorrentini is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
+Luca Sorrentini is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
 
 Luca Sorrentini is a disco and funk / soul artist tracked on soundcheck, with 5 sets logged across Naples. Often billed alongside Conquasso, FabioGrillo and Giuseppe Fava. Next up: Umoya, Naples on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Luca Sorrentini is a disco and funk / soul artist tracked on soundcheck, with 5 
 
 Conquasso, FabioGrillo, Giuseppe Fava
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasorrentini/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasorrentini/)*

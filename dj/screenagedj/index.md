@@ -1,6 +1,6 @@
 # screenage dj
 
-screenage dj is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Het Groene Veld, Amsterdam on Sat, 12 Sept 2026.
+screenage dj is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Het Groene Veld, Amsterdam on Sat, 12 Sept 2026.
 
 screenage dj is a club and bass artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Cork, Osaka and Rotterdam and 1 more. Often billed alongside orczi96, Gimmeamfbreakbeat and drum song (dj). Next up: Het Groene Veld, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ screenage dj is a club and bass artist based in Netherlands, tracked on soundche
 
 orczi96, Gimmeamfbreakbeat, drum song (dj)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/screenagedj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/screenagedj/)*

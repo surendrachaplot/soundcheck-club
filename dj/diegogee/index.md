@@ -1,6 +1,6 @@
 # Diego Gee
 
-Diego Gee is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
+Diego Gee is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
 
 Diego Gee is a tech house and house artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Brandon Tourle, Matt Arnold and Jaden Pace. Next up: Bermondsey Social Club, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Diego Gee is a tech house and house artist tracked on soundcheck, with 23 sets l
 
 Brandon Tourle, Matt Arnold, Jaden Pace
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegogee/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegogee/)*

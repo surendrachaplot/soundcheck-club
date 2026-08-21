@@ -1,6 +1,6 @@
 # lifeloose
 
-lifeloose is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Vespers Club, London on Fri, 4 Sept 2026.
+lifeloose is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Vespers Club, London on Fri, 4 Sept 2026.
 
 lifeloose is an electronica and electro artist tracked on soundcheck, with 12 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Alexis, Krunx and PVA. Next up: Vespers Club, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ lifeloose is an electronica and electro artist tracked on soundcheck, with 12 se
 
 Alexis, Krunx, PVA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeloose/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeloose/)*

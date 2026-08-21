@@ -1,6 +1,6 @@
 # Glyde
 
-Glyde is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
+Glyde is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
 
 Glyde is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 18 sets logged across Chicago, London, Losangeles and Manchester and 1 more. Often billed alongside Phantom 45, Derrick Carter and DJ Heather. Next up: Network, Sheffield on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Glyde is a drum & bass and jungle artist based in United States of America, trac
 
 Phantom 45, Derrick Carter, DJ Heather
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glyde/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glyde/)*

@@ -1,6 +1,6 @@
 # Gamma Epsilon
 
-Gamma Epsilon is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Athens on Sat, 22 Aug 2026.
+Gamma Epsilon is a Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Athens on Sat, 22 Aug 2026.
 
 Gamma Epsilon is a trance artist tracked on soundcheck, with 10 sets logged across Athens. Often billed alongside Mike Sync, ANNA and Phobos. Next up: TBA - Secret Location, Athens on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gamma Epsilon is a trance artist tracked on soundcheck, with 10 sets logged acro
 
 Mike Sync, ANNA, Phobos
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaepsilon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaepsilon/)*

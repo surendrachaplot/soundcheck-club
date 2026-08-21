@@ -1,6 +1,6 @@
 # Simply City
 
-Simply City is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at StereoBar, Montreal on Sat, 29 Aug 2026.
+Simply City is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at StereoBar, Montreal on Sat, 29 Aug 2026.
 
 Simply City is a progressive house and house artist based in Canada, tracked on soundcheck, with 30 sets logged across Amsterdam, Buenosaires, Miami and Montreal and 1 more. Often billed alongside Hernan Cattaneo, Dimuth K and Graziano Raffa. Next up: StereoBar, Montreal on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Simply City is a progressive house and house artist based in Canada, tracked on 
 
 Hernan Cattaneo, Dimuth K, Graziano Raffa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simplycity/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simplycity/)*

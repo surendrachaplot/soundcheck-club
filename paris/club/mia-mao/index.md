@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE" on Fri, 21 Aug 2026.
+Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE" on Fri, 21 Aug 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 00rt, Alba Franch, Amine S and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including 00rt, Alba Franch, Amine S and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with
 | Thu, 10 Sept 2026 | Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE | Amine S, Seabra, Segoz |
 | Fri, 11 Sept 2026 | THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE | A.N.I., BOTICKA, SaltySis, Yoshiko |
 | Sat, 12 Sept 2026 | TAPE: Felinae, Amygdala, FC Kabagar, INSO.ENCE, KLÖSS &  | Amygdala, Annie, FC Kabagar, Felinae, KLÖSS |
-| Sat, 19 Sept 2026 | OFF THE GRID: Dave Clarke, Louisahhh, Candy Cox, L.F.T, David Shaw and The Beat live | Candy Cox, Dave Clarke, David Shaw and The Beat, L.F.T., Louisahhh |
+| Thu, 17 Sept 2026 | Orka: MOSMOZ, Wanton, SKOLLARIS & PAULINE D7 | Wanton |
 
 ## Address
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

@@ -1,6 +1,6 @@
 # Gnarly J
 
-Gnarly J is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Backsteinboot, Berlin on Fri, 11 Sept 2026.
+Gnarly J is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Backsteinboot, Berlin on Fri, 11 Sept 2026.
 
 Gnarly J is a house and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Basel, Berlin and Marseille and 1 more. Often billed alongside Tau Car, 192 GmbH and Adi (CO). Next up: Backsteinboot, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gnarly J is a house and techno artist tracked on soundcheck, with 19 sets logged
 
 Tau Car, 192 GmbH, Adi (CO)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gnarlyj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gnarlyj/)*

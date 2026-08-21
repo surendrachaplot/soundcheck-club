@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "TRAGIK Presents: IKKHI / MADMIZE / SMR" on Fri, 21 Aug 2026.
+The Classic Grand is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "TRAGIK Presents: IKKHI / MADMIZE / SMR" on Fri, 21 Aug 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Carbon Based Lifeforms, Chaos Clan, Charlie B and DE-CON and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 18 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

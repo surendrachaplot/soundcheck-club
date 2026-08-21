@@ -1,6 +1,6 @@
 # DJ Jeyon
 
-DJ Jeyon is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
+DJ Jeyon is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
 
 DJ Jeyon is a house and electro artist tracked on soundcheck, with 38 sets logged across Osaka, Seoul and Tokyo. Often billed alongside DJ Soulscape, JADA MORAES and Steven Julien. Next up: Modeci, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DJ Jeyon is a house and electro artist tracked on soundcheck, with 38 sets logge
 
 DJ Soulscape, JADA MORAES, Steven Julien
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjeyon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjeyon/)*

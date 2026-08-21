@@ -1,6 +1,6 @@
 # LANSUH
 
-LANSUH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
+LANSUH is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
 
 LANSUH is a house and disco artist based in United States of America, tracked on soundcheck, with 49 sets logged across Detroit, Mexicocity and Newyorkcity. Often billed alongside Jay Dalawa, Alcantara and Gabriel Etrata. Next up: Mood Ring, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ LANSUH is a house and disco artist based in United States of America, tracked on
 
 Jay Dalawa, Alcantara, Gabriel Etrata
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*

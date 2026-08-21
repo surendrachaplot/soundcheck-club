@@ -1,6 +1,6 @@
 # Powder
 
-Powder is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Downtown, Los Angeles on Fri, 4 Sept 2026.
+Powder is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Downtown, Los Angeles on Fri, 4 Sept 2026.
 
 Powder is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Berlin and Boston and 21 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: TBA - Downtown, Losangeles on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Powder is a house and techno artist tracked on soundcheck, with 61 sets logged a
 
 5ive, KOOLMFL, Mala
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*

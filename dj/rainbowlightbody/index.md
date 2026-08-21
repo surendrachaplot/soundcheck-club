@@ -1,6 +1,6 @@
 # Rainbow Light Body
 
-Rainbow Light Body is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
+Rainbow Light Body is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Gutter, New York City on Sat, 29 Aug 2026.
 
 Rainbow Light Body is an experimental and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Ben Zo, SEV1 and As New. Next up: The Gutter, Newyorkcity on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Rainbow Light Body is an experimental and techno artist based in United States o
 
 Ben Zo, SEV1, As New
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowlightbody/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainbowlightbody/)*

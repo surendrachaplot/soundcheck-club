@@ -1,6 +1,6 @@
 # Level 2
 
-Level 2 is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - LOCAL SECRETO, Sao Paulo on Sat, 22 Aug 2026.
+Level 2 is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - LOCAL SECRETO, Sao Paulo on Sat, 22 Aug 2026.
 
 Level 2 is a drum & bass and house artist based in Brazil, tracked on soundcheck, with 7 sets logged across Buenosaires, London and Saopaulo. Often billed alongside DJ Marky, L-Side and ALIBI. Next up: TBA - LOCAL SECRETO, Saopaulo on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Level 2 is a drum & bass and house artist based in Brazil, tracked on soundcheck
 
 DJ Marky, L-Side, ALIBI
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/level2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/level2/)*

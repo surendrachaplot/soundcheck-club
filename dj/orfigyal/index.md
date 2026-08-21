@@ -1,6 +1,6 @@
 # ORFIGYAL
 
-ORFIGYAL is a Neo Perreo and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Vespers Club, London on Sat, 29 Aug 2026.
+ORFIGYAL is a Neo Perreo and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Vespers Club, London on Sat, 29 Aug 2026.
 
 ORFIGYAL is a neo perreo and reggaeton artist based in Spain, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Boston and Brussels and 4 more. Often billed alongside Mena G, NAD1A and TINA (ES). Next up: Vespers Club, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ ORFIGYAL is a neo perreo and reggaeton artist based in Spain, tracked on soundch
 
 Mena G, NAD1A, TINA (ES)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orfigyal/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orfigyal/)*

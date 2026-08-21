@@ -1,6 +1,6 @@
 # Kloyd
 
-Kloyd is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Kloyd is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
 Kloyd is a house and electronica artist tracked on soundcheck, with 16 sets logged across Amsterdam, Bristol, Leeds and London. Often billed alongside Jacana People, Because of Art and Dejector. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Kloyd is a house and electronica artist tracked on soundcheck, with 16 sets logg
 
 Jacana People, Because of Art, Dejector
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloyd/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloyd/)*

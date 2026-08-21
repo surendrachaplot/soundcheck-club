@@ -1,6 +1,6 @@
 # Archangel
 
-Archangel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 22 Aug 2026.
+Archangel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 22 Aug 2026.
 
 Archangel is a techno and club artist tracked on soundcheck, with 37 sets logged across Athens, Manchester, Newyorkcity and Tokyo and 1 more. Often billed alongside Cisne, DOLLNXTDOOR and CoralKILL. Next up: TRANSMISSION DC, Washingtondc on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Archangel is a techno and club artist tracked on soundcheck, with 37 sets logged
 
 Cisne, DOLLNXTDOOR, CoralKILL
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel/)*

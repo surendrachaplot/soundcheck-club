@@ -1,6 +1,6 @@
 # Peter Van Hoesen
 
-Peter Van Hoesen is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Strange Brew, Bristol on Sat, 22 Aug 2026.
+Peter Van Hoesen is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Strange Brew, Bristol on Sat, 22 Aug 2026.
 
 Peter Van Hoesen is a techno and electro artist based in Belgium, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 20 more. Often billed alongside Atom™, Cobahn and DJ SO. Next up: Strange Brew, Bristol on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Peter Van Hoesen is a techno and electro artist based in Belgium, tracked on sou
 
 Atom™, Cobahn, DJ SO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*

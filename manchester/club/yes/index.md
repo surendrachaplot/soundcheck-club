@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Yes Roof Terrace: B-Music" on Fri, 21 Aug 2026.
+Yes is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Yes Roof Terrace: B-Music" on Fri, 21 Aug 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including 1-800 GIRLS, Andy Votel, Digitalism and James Lavelle. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 12 upcoming nights, wit
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

@@ -1,6 +1,6 @@
 # DJ Traytex
 
-DJ Traytex is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+DJ Traytex is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 DJ Traytex is a techno and trance artist based in Germany, tracked on soundcheck, with 101 sets logged across Berlin, Brussels, Budapest and Cologne and 17 more. Often billed alongside EARGASM GOD, KLING&KLANG and 1luu. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DJ Traytex is a techno and trance artist based in Germany, tracked on soundcheck
 
 EARGASM GOD, KLING&KLANG, 1luu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtraytex/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtraytex/)*

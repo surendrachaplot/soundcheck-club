@@ -1,6 +1,6 @@
 # Kat Never
 
-Kat Never is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Kat Never is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Kat Never is a disco and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Ina Vietha, alizé.e and Amperia. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kat Never is a disco and deep house artist based in Germany, tracked on soundche
 
 Ina Vietha, alizé.e, Amperia
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katnever/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katnever/)*

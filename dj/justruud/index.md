@@ -1,6 +1,6 @@
 # Justruud
 
-Justruud is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Paper, Seoul on Fri, 21 Aug 2026.
+Justruud is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Paper, Seoul on Fri, 21 Aug 2026.
 
 Justruud is a house and electro artist based in South Korea, tracked on soundcheck, with 57 sets logged across Seoul and Tokyo. Often billed alongside RTRP, Cozyhoon and Crab. Next up: Paper, Seoul on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Justruud is a house and electro artist based in South Korea, tracked on soundche
 
 RTRP, Cozyhoon, Crab
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justruud/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justruud/)*

@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 39 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Residency Night: Matas invites: Connor Wrong, DINA, LDS (live), Liv K" on Fri, 21 Aug 2026.
+Nowadays is a music venue in New York City with 39 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Residency Night: Matas invites: Connor Wrong, DINA, LDS (live), Liv K" on Fri, 21 Aug 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 39 upcoming nights, with line-ups including 5ive, MORENXXX, Ali Coleman and Analog Soul and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 39 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

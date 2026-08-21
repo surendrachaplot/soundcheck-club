@@ -1,6 +1,6 @@
 # Simon TK
 
-Simon TK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, Bangkok on Thu, 27 Aug 2026.
+Simon TK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, Bangkok on Thu, 27 Aug 2026.
 
 Simon TK is a house and techno artist tracked on soundcheck, with 36 sets logged across Bangkok, Berlin, Hobart and Hongkong and 3 more. Often billed alongside Hannah D, Edd Fisher and Activator (AU). Next up: Elsewhere, Bangkok on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Simon TK is a house and techno artist tracked on soundcheck, with 36 sets logged
 
 Hannah D, Edd Fisher, Activator (AU)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simontk/)*

@@ -1,6 +1,6 @@
 # Andy Green
 
-Andy Green is a Dub Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 25 Sept 2026.
+Andy Green is a Dub Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 25 Sept 2026.
 
 Andy Green is a dub techno and dub artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Glasgow, London and Manchester. Often billed alongside Quadrant Soundscape, Alec Pritchard and Andere. Next up: Eastern Bloc Records, Manchester on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Andy Green is a dub techno and dub artist based in United Kingdom, tracked on so
 
 Quadrant Soundscape, Alec Pritchard, Andere
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andygreen/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andygreen/)*

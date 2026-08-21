@@ -1,6 +1,6 @@
 # IO Music Academy LA
 
-IO Music Academy LA is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Intro to DJing with Miles Otway" on Sat, 22 Aug 2026.
+IO Music Academy LA is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Intro to DJing with Miles Otway" on Sat, 22 Aug 2026.
 
 IO Music Academy LA is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Pilo. Browse upcoming dates, start times and who's playing. 1550 N Gower St.
 
@@ -16,4 +16,4 @@ IO Music Academy LA is a music venue in Losangeles listed on soundcheck. 3 upcom
 
 1550 N Gower St, Los Angeles
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/io-music-academy-la/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/io-music-academy-la/)*

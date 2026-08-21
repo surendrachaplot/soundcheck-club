@@ -1,6 +1,6 @@
 # Daox
 
-Daox is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Quinta Mira Rio, Lisbon on Sat, 22 Aug 2026.
+Daox is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Quinta Mira Rio, Lisbon on Sat, 22 Aug 2026.
 
 Daox is a house and deep house artist tracked on soundcheck, with 23 sets logged across Bangkok, Barcelona, Berlin and Geneva and 3 more. Often billed alongside Penelope (2), Caruan and DJ Tennis. Next up: Quinta Mira Rio, Lisbon on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Daox is a house and deep house artist tracked on soundcheck, with 23 sets logged
 
 Penelope (2), Caruan, DJ Tennis
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*

@@ -1,6 +1,6 @@
 # Tony Foster
 
-Tony Foster is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Third Street Bar, Detroit on Sun, 23 Aug 2026.
+Tony Foster is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Third Street Bar, Detroit on Sun, 23 Aug 2026.
 
 Tony Foster is a techno and house artist tracked on soundcheck, with 13 sets logged across Detroit. Often billed alongside Mike Agent X Clark, Bruce Bailey and John Collins (US). Next up: Third Street Bar, Detroit on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Tony Foster is a techno and house artist tracked on soundcheck, with 13 sets log
 
 Mike Agent X Clark, Bruce Bailey, John Collins (US)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyfoster/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyfoster/)*

@@ -1,6 +1,6 @@
 # J.TU
 
-J.TU is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at YOTO, Hamburg on Sat, 22 Aug 2026.
+J.TU is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at YOTO, Hamburg on Sat, 22 Aug 2026.
 
 J.TU is an afrobeats and baile funk artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside NEAF and WARNO. Next up: YOTO, Hamburg on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ J.TU is an afrobeats and baile funk artist tracked on soundcheck, with 6 sets lo
 
 NEAF, WARNO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.tu/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.tu/)*

@@ -1,6 +1,6 @@
 # Volcov
 
-Volcov is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Volcov is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Volcov is a house and disco artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside Patrick Gibin, Retromigration and CARISTA. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Volcov is a house and disco artist based in Italy, tracked on soundcheck, with 2
 
 Patrick Gibin, Retromigration, CARISTA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volcovakaisoul8/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volcovakaisoul8/)*

@@ -1,6 +1,6 @@
 # DJ Storm
 
-DJ Storm is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+DJ Storm is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 DJ Storm is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 23 more. Often billed alongside Blackeye MC, Doc Scott and Ant TC1. Next up: The Cause, London on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ DJ Storm is a drum & bass and jungle artist tracked on soundcheck, with 78 sets 
 
 Blackeye MC, Doc Scott, Ant TC1
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*

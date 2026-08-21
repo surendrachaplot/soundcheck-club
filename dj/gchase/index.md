@@ -1,6 +1,6 @@
 # G CHASE
 
-G CHASE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Db55, Amsterdam on Thu, 22 Oct 2026.
+G CHASE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Db55, Amsterdam on Thu, 22 Oct 2026.
 
 G CHASE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, London and Malta. Often billed alongside Mazos, Gracey Grey and HARTY. Next up: Db55, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ G CHASE is a house and tech house artist based in United Kingdom, tracked on sou
 
 Mazos, Gracey Grey, HARTY
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gchase/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gchase/)*

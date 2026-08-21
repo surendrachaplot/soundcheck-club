@@ -1,6 +1,6 @@
 # BBBBBBB
 
-BBBBBBB is a Hardcore and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Barfly 4, Seoul on Sat, 22 Aug 2026.
+BBBBBBB is a Hardcore and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Barfly 4, Seoul on Sat, 22 Aug 2026.
 
 BBBBBBB is a hardcore and club artist tracked on soundcheck, with 20 sets logged across Berlin, Kyoto, Lisbon and Newyorkcity and 3 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: Barfly 4, Seoul on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ BBBBBBB is a hardcore and club artist tracked on soundcheck, with 20 sets logged
 
 moreru, deadfish eyes, iida Reo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*

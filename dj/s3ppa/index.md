@@ -1,6 +1,6 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+S3PPA is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 S3PPA is a house and trance artist tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Dublin and Ibiza and 4 more. Often billed alongside Gerardo Niva, DART and Fiene. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ S3PPA is a house and trance artist tracked on soundcheck, with 20 sets logged ac
 
 Gerardo Niva, DART, Fiene
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

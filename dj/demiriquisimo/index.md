@@ -1,8 +1,8 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Demi Riquisimo is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
-Demi Riquisimo is a house and techno artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Kater, Berlin on Fri 21 Aug.
+Demi Riquisimo is a house and techno artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Kater, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 173 sets
 | Tue, 25 Aug 2026 | Cova Santa | Ibiza |
 | Thu, 27 Aug 2026 | Mondo | Madrid |
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
+| Fri, 4 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 5 Sept 2026 | Culture Box | Copenhagen |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -19,7 +20,6 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 173 sets
 | Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
-| Thu, 29 Oct 2026 | Amber's | Manchester |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 173 sets
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

@@ -1,6 +1,6 @@
 # Franco (1)
 
-Franco (1) is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kaskada, Warsaw on Sat, 22 Aug 2026.
+Franco (1) is a House and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kaskada, Warsaw on Sat, 22 Aug 2026.
 
 Franco (1) is a house and footwork artist tracked on soundcheck, with 9 sets logged across Lisbon, Manchester, Mexicocity and Miami and 3 more. Often billed alongside AfroNinja, Agents Of Alchemy and Aura. Next up: Kaskada, Warsaw on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Franco (1) is a house and footwork artist tracked on soundcheck, with 9 sets log
 
 AfroNinja, Agents Of Alchemy, Aura
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franco-1/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franco-1/)*

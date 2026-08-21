@@ -1,6 +1,6 @@
 # Wookie
 
-Wookie is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Old Queens Head, London on Fri, 28 Aug 2026.
+Wookie is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Old Queens Head, London on Fri, 28 Aug 2026.
 
 Wookie is a garage and house artist tracked on soundcheck, with 35 sets logged across Birmingham, Edinburgh, Liverpool and London and 3 more. Often billed alongside Matt Jam Lamont, DJ Spoony and Mark Radford. Next up: The Old Queens Head, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Wookie is a garage and house artist tracked on soundcheck, with 35 sets logged a
 
 Matt Jam Lamont, DJ Spoony, Mark Radford
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*

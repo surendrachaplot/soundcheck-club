@@ -1,6 +1,6 @@
 # švedka
 
-švedka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
+švedka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The DBA, Manchester on Sat, 22 Aug 2026.
 
 švedka is a techno and electro artist tracked on soundcheck, with 18 sets logged across Edinburgh, Leeds, London and Manchester. Often billed alongside IDACARE, INLIMEN and Edac. Next up: The DBA, Manchester on Sat 22 Aug.
 
@@ -26,4 +26,4 @@
 
 IDACARE, INLIMEN, Edac
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/švedka/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/švedka/)*

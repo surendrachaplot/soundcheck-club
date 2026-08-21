@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BAILE DO OUTRO LADO X ONDA COLLECTIVE" on Fri, 21 Aug 2026.
+Skatecafe is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "BAILE DO OUTRO LADO X ONDA COLLECTIVE" on Fri, 21 Aug 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including AAlva, A For Alpha, amara and awhlkuhn and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

@@ -1,6 +1,6 @@
 # Nésa Thea
 
-Nésa Thea is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Egg London, London on Fri, 21 Aug 2026.
+Nésa Thea is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Egg London, London on Fri, 21 Aug 2026.
 
 Nésa Thea is an afro house and amapiano artist tracked on soundcheck, with 19 sets logged across London. Often billed alongside BABY JACKZ, LISAKEEKS and Tadi.wav. Next up: Egg London, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Nésa Thea is an afro house and amapiano artist tracked on soundcheck, with 19 s
 
 BABY JACKZ, LISAKEEKS, Tadi.wav
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nesathea/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nesathea/)*

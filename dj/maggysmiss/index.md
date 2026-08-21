@@ -1,6 +1,6 @@
 # Maggy Smiss
 
-Maggy Smiss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sacré, Paris on Fri, 25 Sept 2026.
+Maggy Smiss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sacré, Paris on Fri, 25 Sept 2026.
 
 Maggy Smiss is a house and techno artist tracked on soundcheck, with 56 sets logged across Berlin, Copenhagen, Edinburgh and Lyon and 2 more. Often billed alongside Crowd Control, Baka G and Denyl Brook. Next up: Sacré, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Maggy Smiss is a house and techno artist tracked on soundcheck, with 56 sets log
 
 Crowd Control, Baka G, Denyl Brook
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggysmiss/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggysmiss/)*

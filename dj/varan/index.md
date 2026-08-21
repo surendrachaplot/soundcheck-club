@@ -1,6 +1,6 @@
 # VARAN
 
-VARAN is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
+VARAN is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 VARAN is an electro and house artist tracked on soundcheck, with 37 sets logged across Barcelona, Lyon, Marseille and Stuttgart. Often billed alongside CMYK, pekkuliar and DJ Service. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ VARAN is an electro and house artist tracked on soundcheck, with 37 sets logged 
 
 CMYK, pekkuliar, DJ Service
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varan/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varan/)*

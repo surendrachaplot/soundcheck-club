@@ -1,6 +1,6 @@
 # stampott
 
-stampott is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Akhnaton, Amsterdam on Sat, 19 Sept 2026.
+stampott is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Akhnaton, Amsterdam on Sat, 19 Sept 2026.
 
 stampott is a disco and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside muchogusto and Ellis Vay. Next up: Akhnaton, Amsterdam on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ stampott is a disco and house artist based in Netherlands, tracked on soundcheck
 
 muchogusto, Ellis Vay
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stampott/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stampott/)*

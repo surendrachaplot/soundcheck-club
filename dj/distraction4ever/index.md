@@ -1,6 +1,6 @@
 # distraction4ever
 
-distraction4ever is a Post-Punk and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Durocher Building, Montreal on Fri, 21 Aug 2026.
+distraction4ever is a Post-Punk and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Durocher Building, Montreal on Fri, 21 Aug 2026.
 
 distraction4ever is a post-punk and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Montreal, Newyorkcity and Toronto. Often billed alongside Syana, Badgalquirit and Corinita. Next up: TBA - Durocher Building, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ distraction4ever is a post-punk and techno artist tracked on soundcheck, with 20
 
 Syana, Badgalquirit, Corinita
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/distraction4ever/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/distraction4ever/)*

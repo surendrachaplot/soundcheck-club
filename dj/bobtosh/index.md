@@ -1,6 +1,6 @@
 # Bob Tosh
 
-Bob Tosh is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at City Hall, Barcelona on Fri, 21 Aug 2026.
+Bob Tosh is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at City Hall, Barcelona on Fri, 21 Aug 2026.
 
 Bob Tosh is a techno and electronica artist based in Argentina, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 1 more. Often billed alongside 6RAJ, Ark Nomads and Dist. Next up: City Hall, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bob Tosh is a techno and electronica artist based in Argentina, tracked on sound
 
 6RAJ, Ark Nomads, Dist
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*

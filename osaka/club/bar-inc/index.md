@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "WEEKDAY ORDERS" on Thu, 20 Aug 2026.
+BAR Inc is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "WEEKEND SELECTERS" on Fri, 21 Aug 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with line-ups including AOKI takamasa, Arpy Brown, Big Animal Theory and DJ Monchan and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 16 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Arpy Brown and Big Animal Theory and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | WEEKDAY ORDERS | DJ Monchan |
 | Fri, 21 Aug 2026 | WEEKEND SELECTERS | YAMA(JP/OSK) |
 | Sat, 22 Aug 2026 | WEEKEND SELECTERS |  |
 | Sun, 23 Aug 2026 | HOLIDAY ORDERS |  |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with
 | Sun, 30 Aug 2026 | HOLIDAY ORDERS |  |
 | Fri, 4 Sept 2026 | WEEKEND SELECTERS -Toy Tonics Jam- | Arpy Brown, Gee Lane, Ryu (2) |
 | Sat, 5 Sept 2026 | WEEKEND SELECTERS | OMOLOKO |
+| Fri, 11 Sept 2026 | WEEKEND SELECTERS | Ground (1), Moodman, YAMA(JP/OSK) |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

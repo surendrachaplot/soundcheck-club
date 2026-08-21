@@ -1,6 +1,6 @@
 # Zach Walker
 
-Zach Walker is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Downtown LA, Los Angeles on Fri, 21 Aug 2026.
+Zach Walker is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Downtown LA, Los Angeles on Fri, 21 Aug 2026.
 
 Zach Walker is a house and deep house artist tracked on soundcheck, with 22 sets logged across Ibiza, Losangeles, Newyorkcity and Portland and 3 more. Often billed alongside Marques Wyatt, Caleesi and Gru.di. Next up: TBA - Downtown LA, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Zach Walker is a house and deep house artist tracked on soundcheck, with 22 sets
 
 Marques Wyatt, Caleesi, Gru.di
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwalker/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zachwalker/)*

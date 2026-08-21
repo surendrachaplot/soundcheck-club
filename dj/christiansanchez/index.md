@@ -1,6 +1,6 @@
 # Christian Sanchez
 
-Christian Sanchez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Christian Sanchez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
 
 Christian Sanchez is a house and techno artist tracked on soundcheck, with 6 sets logged across Copenhagen and London. Often billed alongside Andrés Solar, Franziska Berns and Massimiliano Pagliara. Next up: fabric, London on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Christian Sanchez is a house and techno artist tracked on soundcheck, with 6 set
 
 Andrés Solar, Franziska Berns, Massimiliano Pagliara
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiansanchez/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christiansanchez/)*

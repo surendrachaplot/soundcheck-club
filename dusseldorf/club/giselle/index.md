@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Thabo (Homeagain Berlin)" on Fri, 21 Aug 2026.
+Giselle is a music venue in Düsseldorf with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Thabo (Homeagain Berlin)" on Fri, 21 Aug 2026.
 
 Giselle is a music venue in Dusseldorf listed on soundcheck. 5 upcoming nights, with line-ups including DJ Flatbeat, Frag Maddin, Lavan and Neutran and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -18,4 +18,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 5 upcoming nights, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

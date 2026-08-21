@@ -1,6 +1,6 @@
 # Herbrido
 
-Herbrido is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Storgata 26, Oslo on Sat, 12 Sept 2026.
+Herbrido is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Storgata 26, Oslo on Sat, 12 Sept 2026.
 
 Herbrido is a techno and hardcore artist based in Germany, tracked on soundcheck, with 25 sets logged across Athens, Bangkok, Berlin and Cologne and 11 more. Often billed alongside The Enveloper, Tim Finest and Alena Noctis. Next up: Storgata 26, Oslo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Herbrido is a techno and hardcore artist based in Germany, tracked on soundcheck
 
 The Enveloper, Tim Finest, Alena Noctis
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herbrido/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herbrido/)*

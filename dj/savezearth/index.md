@@ -1,6 +1,6 @@
 # savezearth
 
-savezearth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+savezearth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 savezearth is a techno and house artist based in Japan, tracked on soundcheck, with 89 sets logged across Tokyo. Often billed alongside LØST, MUNEMASA and Rickshinmi. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ savezearth is a techno and house artist based in Japan, tracked on soundcheck, w
 
 LØST, MUNEMASA, Rickshinmi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savezearth/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savezearth/)*

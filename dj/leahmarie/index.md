@@ -1,6 +1,6 @@
 # Leah Marie
 
-Leah Marie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
+Leah Marie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
 
 Leah Marie is a techno and house artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Leipzig and Lisbon and 4 more. Often billed alongside Manu Strasse, Till Antonio and Adron_. Next up: Birgit, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Leah Marie is a techno and house artist based in Germany, tracked on soundcheck,
 
 Manu Strasse, Till Antonio, Adron_
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leahmarie/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leahmarie/)*

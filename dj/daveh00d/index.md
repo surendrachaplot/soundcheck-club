@@ -1,6 +1,6 @@
 # daveh00d
 
-daveh00d is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Versalles 64, Mexico City on Sat, 22 Aug 2026.
+daveh00d is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Versalles 64, Mexico City on Sat, 22 Aug 2026.
 
 daveh00d is a house and pop artist based in Mexico, tracked on soundcheck, with 38 sets logged across Mexicocity. Often billed alongside OMFDAN, Alby Esc and Macarena. Next up: Versalles 64, Mexicocity on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ daveh00d is a house and pop artist based in Mexico, tracked on soundcheck, with 
 
 OMFDAN, Alby Esc, Macarena
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveh00d/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveh00d/)*

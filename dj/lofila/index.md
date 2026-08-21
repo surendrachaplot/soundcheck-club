@@ -1,6 +1,6 @@
 # LOFILA
 
-LOFILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lincoln Factory, Detroit on Sat, 22 Aug 2026.
+LOFILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lincoln Factory, Detroit on Sat, 22 Aug 2026.
 
 LOFILA is a techno and house artist tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside KICK (DET), Redax and DJ SPHiNX. Next up: Lincoln Factory, Detroit on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ LOFILA is a techno and house artist tracked on soundcheck, with 7 sets logged ac
 
 KICK (DET), Redax, DJ SPHiNX
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lofila/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lofila/)*

@@ -1,6 +1,6 @@
 # AC Industries
 
-AC Industries is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Castle, London on Sat, 26 Sept 2026.
+AC Industries is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Castle, London on Sat, 26 Sept 2026.
 
 AC Industries is a breakbeat and garage artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Lapworth, Movimentum and Orrin. Next up: The Castle, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ AC Industries is a breakbeat and garage artist tracked on soundcheck, with 16 se
 
 Lapworth, Movimentum, Orrin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acindustries/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acindustries/)*

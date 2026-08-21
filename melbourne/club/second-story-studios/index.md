@@ -1,6 +1,6 @@
 # Second Story Studios
 
-Second Story Studios is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "The Jazz Doof Vol. 9" on Sat, 5 Sept 2026.
+Second Story Studios is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "The Jazz Doof Vol. 9" on Sat, 5 Sept 2026.
 
 Second Story Studios is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Afrodisiac, Char(k), Cousin and FUKHED and 2 more. Browse upcoming dates, start times and who's playing. A/222 Johnston St, Collingwood VIC 3066.
 
@@ -16,4 +16,4 @@ Second Story Studios is a music venue in Melbourne listed on soundcheck. 3 upcom
 
 A/222 Johnston St, Collingwood VIC 3066, Melbourne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/second-story-studios/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/second-story-studios/)*

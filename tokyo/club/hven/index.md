@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "HVEN presents: Ramen Rave" on Fri, 21 Aug 2026.
+HVEN is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HVEN presents: Ramen Rave" on Fri, 21 Aug 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including AiMii, CHEZ MOI, DJason and DJ Yazi and 2 more. Browse upcoming dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -18,4 +18,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with lin
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

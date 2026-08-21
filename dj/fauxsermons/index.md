@@ -1,6 +1,6 @@
 # Faux Sermons
 
-Faux Sermons is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 8MM, Berlin on Fri, 21 Aug 2026.
+Faux Sermons is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 8MM, Berlin on Fri, 21 Aug 2026.
 
 Faux Sermons is an electronic artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Justin Anastasi and Mark Reeder. Next up: 8MM, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Faux Sermons is an electronic artist tracked on soundcheck, with 6 sets logged a
 
 Justin Anastasi, Mark Reeder
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxsermons/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fauxsermons/)*

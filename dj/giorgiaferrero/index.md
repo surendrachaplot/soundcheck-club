@@ -1,6 +1,6 @@
 # Giorgia Ferrero
 
-Giorgia Ferrero is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Forte Antenne, Rome on Sat, 22 Aug 2026.
+Giorgia Ferrero is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Forte Antenne, Rome on Sat, 22 Aug 2026.
 
 Giorgia Ferrero is a techno and electro artist based in Italy, tracked on soundcheck, with 30 sets logged across Berlin and Rome. Often billed alongside Asymptote, Anastasya and Qursarina. Next up: Forte Antenne, Rome on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Giorgia Ferrero is a techno and electro artist based in Italy, tracked on soundc
 
 Asymptote, Anastasya, Qursarina
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaferrero/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaferrero/)*

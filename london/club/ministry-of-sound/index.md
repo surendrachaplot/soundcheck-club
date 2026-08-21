@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 30 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "BLINK: KAREN HARDING, Nancie, RAPHI, STEPHANI B" on Fri, 21 Aug 2026.
+Ministry Of Sound is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "BLINK: KAREN HARDING, Nancie, RAPHI, STEPHANI B" on Fri, 21 Aug 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Alex Mills, Amtrac, Andy C and Asch Pintura and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 30 upcoming n
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

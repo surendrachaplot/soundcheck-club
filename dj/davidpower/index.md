@@ -1,18 +1,18 @@
 # David Power
 
-David Power is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 20 Aug 2026.
+David Power is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 1990, Glasgow on Fri, 11 Sept 2026.
 
-David Power is a house and electro artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside F Kay, Kairogen and Babyccino. Next up: La Cheetah Club, Glasgow on Thu 20 Aug.
+David Power is a house and electro artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside F Kay, Kairogen and Babyccino. Next up: 1990, Glasgow on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | La Cheetah Club | Glasgow |
 | Fri, 11 Sept 2026 | 1990 | Glasgow |
 
 ## Recently played
 
+- La Cheetah Club, Glasgow — Thu, 20 Aug 2026
 - 1990, Glasgow — Sat, 20 Jun 2026
 - 1990, Glasgow — Fri, 20 Mar 2026
 - 1990, Glasgow — Fri, 6 Mar 2026
@@ -23,4 +23,4 @@ David Power is a house and electro artist based in United Kingdom, tracked on so
 
 F Kay, Kairogen, Babyccino
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpower/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpower/)*

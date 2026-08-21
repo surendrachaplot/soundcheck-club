@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Quarters, Brighton on Sat, 22 Aug 2026.
+The Trip is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Quarters, Brighton on Sat, 22 Aug 2026.
 
 The Trip is a house and tech house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: Quarters, Brighton on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ The Trip is a house and tech house artist tracked on soundcheck, with 83 sets lo
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

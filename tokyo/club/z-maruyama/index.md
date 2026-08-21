@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "DAITOKAI" on Fri, 21 Aug 2026.
+Z Maruyama is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "DAITOKAI" on Fri, 21 Aug 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Paolo Ferrara, avion__, Calavera and CHIKA and 2 more. Browse upcoming dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, w
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

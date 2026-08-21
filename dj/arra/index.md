@@ -1,6 +1,6 @@
 # ARRA
 
-ARRA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
+ARRA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mono, Rotterdam on Fri, 25 Sept 2026.
 
 ARRA is a techno and latin bass artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Newyorkcity and Rotterdam. Often billed alongside Slimfit, LYZZA and Melis Köke. Next up: Mono, Rotterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ARRA is a techno and latin bass artist based in Netherlands, tracked on soundche
 
 Slimfit, LYZZA, Melis Köke
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arra/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arra/)*

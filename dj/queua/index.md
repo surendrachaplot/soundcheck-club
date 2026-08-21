@@ -1,14 +1,15 @@
 # ϙue
 
-ϙue is a Classical and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+ϙue is a Classical and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
-ϙue is a classical and experimental artist tracked on soundcheck, with 14 sets logged across Berlin, Lisbon and Prague. Often billed alongside Udda, XTCLVR and super inter. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
+ϙue is a classical and ambient artist tracked on soundcheck, with 15 sets logged across Berlin, Lisbon and Prague. Often billed alongside Udda, XTCLVR and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+| Sun, 23 Aug 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Udda, XTCLVR, super inter
+Udda, XTCLVR, bod [包家巷]
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queua/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queua/)*

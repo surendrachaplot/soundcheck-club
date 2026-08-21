@@ -1,6 +1,6 @@
 # M.O.T
 
-M.O.T is a music venue in London with 35 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "VENT ⓥ DJ Spanish Fly, James Massiah, Nihal " on Thu, 20 Aug 2026.
+M.O.T is a music venue in London with 35 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "KOMAoto ft. Alex Clayton" on Fri, 21 Aug 2026.
 
 M.O.T is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
@@ -8,7 +8,6 @@ M.O.T is a music venue in London listed on soundcheck. 35 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | VENT ⓥ DJ Spanish Fly, James Massiah, Nihal  | James Massiah, Nihal El Aasar |
 | Fri, 21 Aug 2026 | KOMAoto ft. Alex Clayton | Ship Sket, Unit YoRHa, edenplus, imyzuli |
 | Sat, 22 Aug 2026 | nice onez | Abby Daze, El-B, Jay Carder |
 | Sat, 22 Aug 2026 | yantra state | MSO (1) |
@@ -18,9 +17,10 @@ M.O.T is a music venue in London listed on soundcheck. 35 upcoming nights, with 
 | Fri, 28 Aug 2026 | Overview London | Koherent, Rockwell, Visionobi, Vispera |
 | Sat, 29 Aug 2026 | RALLY x MOT: Special Guests, BADSISTA, DJ Voices, James Massiah, Shannen SP | BADSISTA, DJ Voices, James Massiah, Shannen SP |
 | Wed, 2 Sept 2026 | VENT ⓥ Valentina Magaletti & YPY (in the round)   Ben Vince | Ben Vince, Mobbs, Valentina Magaletti, YPY, susu laroche |
+| Fri, 4 Sept 2026 | FIRED BY HEAT INDEX - SEXY TECHNO, HARD BOUNCE, TRANCE | AUDIO DUNE, GALLY, Sedex, Sophia Nicole |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

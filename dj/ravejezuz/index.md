@@ -1,6 +1,6 @@
 # Ravejezuz
 
-Ravejezuz is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at DNA. CLUB, Berlin on Sat, 22 Aug 2026.
+Ravejezuz is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at DNA. CLUB, Berlin on Sat, 22 Aug 2026.
 
 Ravejezuz is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Thielking, Trash Bandit and Error507. Next up: DNA. CLUB, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ravejezuz is a techno and tech house artist tracked on soundcheck, with 17 sets 
 
 Thielking, Trash Bandit, Error507
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravejezuz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravejezuz/)*

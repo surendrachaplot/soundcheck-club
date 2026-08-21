@@ -1,6 +1,6 @@
 # Scott Bond
 
-Scott Bond is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
+Scott Bond is a Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Network, Sheffield on Sat, 22 Aug 2026.
 
 Scott Bond is a trance artist tracked on soundcheck, with 8 sets logged across Newcastle and Sheffield. Often billed alongside Lange, Daxson and Glyde. Next up: Network, Sheffield on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Scott Bond is a trance artist tracked on soundcheck, with 8 sets logged across N
 
 Lange, Daxson, Glyde
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbond/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbond/)*

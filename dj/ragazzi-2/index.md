@@ -1,6 +1,6 @@
 # RAGAZZI (2)
 
-RAGAZZI (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lion's Den, Miami on Sat, 22 Aug 2026.
+RAGAZZI (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lion's Den, Miami on Sat, 22 Aug 2026.
 
 RAGAZZI (2) is a house and deep house artist tracked on soundcheck, with 6 sets logged across Miami and Newyorkcity. Often billed alongside DJibouti, Avante and Dennis Free. Next up: Lion's Den, Miami on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ RAGAZZI (2) is a house and deep house artist tracked on soundcheck, with 6 sets 
 
 DJibouti, Avante, Dennis Free
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ragazzi-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ragazzi-2/)*

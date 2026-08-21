@@ -1,6 +1,6 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
+Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
 
 Schacke is a techno and trance artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Village Underground Barcelona, Barcelona on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Schacke is a techno and trance artist tracked on soundcheck, with 185 sets logge
 
 Peachlyfe, Vixen, Mohajer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*

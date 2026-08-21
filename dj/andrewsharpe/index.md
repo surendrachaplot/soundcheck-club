@@ -1,6 +1,6 @@
 # Andrew Sharpe
 
-Andrew Sharpe is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
+Andrew Sharpe is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at XOYO, London on Sat, 22 Aug 2026.
 
 Andrew Sharpe is a trance and tech house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside C-systems, DJMrB and Sago. Next up: XOYO, London on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Andrew Sharpe is a trance and tech house artist tracked on soundcheck, with 5 se
 
 C-systems, DJMrB, Sago
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsharpe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewsharpe/)*

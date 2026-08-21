@@ -1,6 +1,6 @@
 # Old as Funk
 
-Old as Funk is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Old as Funk is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 Old as Funk is a disco and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, London, Paris and Saopaulo. Often billed alongside Dan Cluskey, Bustin' Loose and Caio Cenci. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Old as Funk is a disco and house artist based in United Kingdom, tracked on soun
 
 Dan Cluskey, Bustin' Loose, Caio Cenci
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldasfunk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldasfunk/)*

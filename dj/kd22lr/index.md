@@ -1,6 +1,6 @@
 # KD22LR
 
-KD22LR is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hidden, Manchester on Sat, 5 Sept 2026.
+KD22LR is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hidden, Manchester on Sat, 5 Sept 2026.
 
 KD22LR is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Sockethead and Chunky. Next up: Hidden, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KD22LR is a bass and techno artist based in United Kingdom, tracked on soundchec
 
 Tom Boogizm, Sockethead, Chunky
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kd22lr/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kd22lr/)*

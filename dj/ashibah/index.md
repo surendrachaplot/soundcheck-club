@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
+Ashibah is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
 
 Ashibah is a house and tech house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Copenhagen, Ibiza and London and 5 more. Often billed alongside Lane 8, Sultan + Shepard and Colyn. Next up: Mercado Pago Hall, Saopaulo on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Ashibah is a house and tech house artist tracked on soundcheck, with 16 sets log
 
 Lane 8, Sultan + Shepard, Colyn
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

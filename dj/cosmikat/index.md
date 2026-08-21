@@ -1,6 +1,6 @@
 # CosmiKat
 
-CosmiKat is a Techno and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+CosmiKat is a Techno and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
 
 CosmiKat is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Hamburg. Often billed alongside Nat SuPrise, ZweiE and Andrea Marino. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ CosmiKat is a techno and drum & bass artist based in Germany, tracked on soundch
 
 Nat SuPrise, ZweiE, Andrea Marino
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*

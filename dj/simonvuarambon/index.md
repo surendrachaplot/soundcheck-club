@@ -1,6 +1,6 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
 
 Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: VENT, Tokyo on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Simon Vuarambon is a progressive house and deep house artist tracked on soundche
 
 Guy Mantzur, John Digweed, Henry Saiz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*

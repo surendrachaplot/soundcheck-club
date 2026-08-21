@@ -1,6 +1,6 @@
 # Meo Culpa
 
-Meo Culpa is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Viadukt Bar, Budapest on Sun, 23 Aug 2026.
+Meo Culpa is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Viadukt Bar, Budapest on Sun, 23 Aug 2026.
 
 Meo Culpa is an electronica artist tracked on soundcheck, with 23 sets logged across Budapest. Often billed alongside Zakhorov, OIEE and SLYM. Next up: Viadukt Bar, Budapest on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Meo Culpa is an electronica artist tracked on soundcheck, with 23 sets logged ac
 
 Zakhorov, OIEE, SLYM
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meoculpa/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meoculpa/)*

@@ -1,6 +1,6 @@
 # Tissanai
 
-Tissanai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, Bangkok on Fri, 21 Aug 2026.
+Tissanai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, Bangkok on Fri, 21 Aug 2026.
 
 Tissanai is a house and techno artist based in Thailand, tracked on soundcheck, with 10 sets logged across Bangkok and Kualalumpur. Often billed alongside Meltmode (2), IYY (TH) and DOTT. Next up: Elsewhere, Bangkok on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Tissanai is a house and techno artist based in Thailand, tracked on soundcheck, 
 
 Meltmode (2), IYY (TH), DOTT
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*

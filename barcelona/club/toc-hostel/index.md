@@ -1,6 +1,6 @@
 # TOC Hostel
 
-TOC Hostel is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "ATYPICAL: Afterwork + Open Mixer + Boiler Session by Other Side" on Fri, 21 Aug 2026.
+TOC Hostel is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "ATYPICAL: Afterwork + Open Mixer + Boiler Session by Other Side" on Fri, 21 Aug 2026.
 
 TOC Hostel is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
 
@@ -14,4 +14,4 @@ TOC Hostel is a music venue in Barcelona listed on soundcheck. 1 upcoming night.
 
 Gran Via de les Corts Catalanes, 580, 08011 Barcelona, Barcelona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*

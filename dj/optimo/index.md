@@ -1,6 +1,6 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
+Optimo (Espacio) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
 
 Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 182 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
 
@@ -33,4 +33,4 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 182 se
 
 Daniel Avery, HAAi, Batu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

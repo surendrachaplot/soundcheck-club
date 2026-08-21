@@ -1,6 +1,6 @@
 # TRU:L
 
-TRU:L is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 29 Aug 2026.
+TRU:L is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Acud Macht NEU, Berlin on Sat, 29 Aug 2026.
 
 TRU:L is a house and afrobeat artist based in Romania, tracked on soundcheck, with 31 sets logged across Berlin and Brussels. Often billed alongside Ken Okuda, Aaronovsky and Adam Bkr. Next up: Acud Macht NEU, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ TRU:L is a house and afrobeat artist based in Romania, tracked on soundcheck, wi
 
 Ken Okuda, Aaronovsky, Adam Bkr
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trul/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trul/)*

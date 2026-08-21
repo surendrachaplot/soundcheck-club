@@ -1,6 +1,6 @@
 # Gianmarco Silvetti
 
-Gianmarco Silvetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tresor / Globus, Berlin on Wed, 16 Sept 2026.
+Gianmarco Silvetti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Tresor / Globus, Berlin on Wed, 16 Sept 2026.
 
 Gianmarco Silvetti is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Esterne Moog, Backlogs and Doiléir. Next up: Tresor / Globus, Berlin on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Gianmarco Silvetti is a techno and house artist tracked on soundcheck, with 15 s
 
 Esterne Moog, Backlogs, Doiléir
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcosilvetti/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcosilvetti/)*

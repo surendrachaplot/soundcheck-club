@@ -1,6 +1,6 @@
 # Lukid
 
-Lukid is a Dub and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Unit 3, London on Sat, 29 Aug 2026.
+Lukid is a Dub and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Unit 3, London on Sat, 29 Aug 2026.
 
 Lukid is a dub and club artist tracked on soundcheck, with 12 sets logged across London and Toronto. Often billed alongside Tapes, Babyfather and Bass Clef. Next up: Unit 3, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lukid is a dub and club artist tracked on soundcheck, with 12 sets logged across
 
 Tapes, Babyfather, Bass Clef
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukid/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukid/)*

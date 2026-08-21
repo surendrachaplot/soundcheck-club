@@ -1,6 +1,6 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Alien Communications is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
 Alien Communications is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: FOLD, London on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, tr
 
 Jos, Ste Roberts, Domenic Cappello
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "CRUSIN' × MELO x BARKA Kaskada - 21.08 (piątek)" on Fri, 21 Aug 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "CRUSIN' × MELO x BARKA Kaskada - 21.08 (piątek)" on Fri, 21 Aug 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with line-ups including daisy cutter, Franco (1), Kuvau and naked relaxing and 2 more. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -15,4 +15,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, with
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

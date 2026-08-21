@@ -1,6 +1,6 @@
 # Paul SG
 
-Paul SG is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
+Paul SG is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
 
 Paul SG is a bass and drum & bass artist based in Austria, tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Anaïs, ESKEI83 and Franjazzco. Next up: Club Exil, Vienna on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Paul SG is a bass and drum & bass artist based in Austria, tracked on soundcheck
 
 Anaïs, ESKEI83, Franjazzco
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsg/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulsg/)*

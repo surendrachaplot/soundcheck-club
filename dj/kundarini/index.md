@@ -1,6 +1,6 @@
 # Kundarini
 
-Kundarini is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
+Kundarini is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Grand Hotel Bucharest, Bucharest on Sat, 22 Aug 2026.
 
 Kundarini is a drum & bass and dubstep artist tracked on soundcheck, with 6 sets logged across Berlin and Bucharest. Often billed alongside 2Shy MC, Breakfake and Cate Hops. Next up: Grand Hotel Bucharest, Bucharest on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Kundarini is a drum & bass and dubstep artist tracked on soundcheck, with 6 sets
 
 2Shy MC, Breakfake, Cate Hops
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kundarini/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kundarini/)*

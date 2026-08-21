@@ -1,6 +1,6 @@
 # ASCENDER
 
-ASCENDER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Parník Tyrš, Prague on Fri, 21 Aug 2026.
+ASCENDER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Parník Tyrš, Prague on Fri, 21 Aug 2026.
 
 ASCENDER is a techno and house artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside Jan Nedved, Hiro and DJ Ruby. Next up: Parník Tyrš, Prague on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ ASCENDER is a techno and house artist based in Czech Republic, tracked on soundc
 
 Jan Nedved, Hiro, DJ Ruby
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ascender/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ascender/)*

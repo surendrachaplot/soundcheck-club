@@ -1,6 +1,6 @@
 # softchaos
 
-softchaos is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+softchaos is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 softchaos is a techno and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ softchaos is a techno and house artist based in United States of America, tracke
 
 ENGALANAN, Hanaby, JASSS
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softchaos/)*

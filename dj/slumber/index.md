@@ -1,6 +1,6 @@
 # Slumber
 
-Slumber is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+Slumber is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
 Slumber is a techno and dub techno artist tracked on soundcheck, with 40 sets logged across Liverpool, London and Manchester. Often billed alongside Burden, Livid (UK) and Manlio. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Slumber is a techno and dub techno artist tracked on soundcheck, with 40 sets lo
 
 Burden, Livid (UK), Manlio
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slumber/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slumber/)*

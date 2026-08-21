@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Interval - BURNR [NL] + DAYZZI *Tickets available on door*" on Fri, 21 Aug 2026.
+Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Interval - BURNR [NL] + DAYZZI *Tickets available on door*" on Fri, 21 Aug 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including bellxsxs, Clifford, Dan Newman and DAYZZI and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -23,4 +23,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

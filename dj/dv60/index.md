@@ -1,6 +1,6 @@
 # DV60
 
-DV60 is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Mash House, Edinburgh on Fri, 21 Aug 2026.
+DV60 is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Mash House, Edinburgh on Fri, 21 Aug 2026.
 
 DV60 is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 93 sets logged across Bristol, Edinburgh, Glasgow and London. Often billed alongside Wrisk, Lara Sinclair and Sea Urchin. Next up: The Mash House, Edinburgh on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ DV60 is a techno and hardcore artist based in United Kingdom, tracked on soundch
 
 Wrisk, Lara Sinclair, Sea Urchin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dv60/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dv60/)*

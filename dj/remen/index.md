@@ -1,6 +1,6 @@
 # REMEN
 
-REMEN is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 25hours Hotel Bikini Berlin, 3. Etage, Berlin on Sun, 30 Aug 2026.
+REMEN is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 25hours Hotel Bikini Berlin, 3. Etage, Berlin on Sun, 30 Aug 2026.
 
 REMEN is an afro tech and afro house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Jana Nova, KEKURA and DJ BASS. Next up: 25hours Hotel Bikini Berlin, 3. Etage, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ REMEN is an afro tech and afro house artist based in Germany, tracked on soundch
 
 Jana Nova, KEKURA, DJ BASS
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remen/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remen/)*

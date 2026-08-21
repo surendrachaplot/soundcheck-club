@@ -1,6 +1,6 @@
 # Papi da Silva
 
-Papi da Silva is a Baile Funk and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Wigwam, Dublin on Sat, 29 Aug 2026.
+Papi da Silva is a Baile Funk and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Wigwam, Dublin on Sat, 29 Aug 2026.
 
 Papi da Silva is a baile funk and electronica artist tracked on soundcheck, with 12 sets logged across Berlin, Dublin, Hamburg and Madrid and 2 more. Often billed alongside Ansjowvis, Flansie and Jeff Solo. Next up: Wigwam, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Papi da Silva is a baile funk and electronica artist tracked on soundcheck, with
 
 Ansjowvis, Flansie, Jeff Solo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papidasilva/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papidasilva/)*

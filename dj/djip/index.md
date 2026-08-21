@@ -1,6 +1,6 @@
 # DJ IP
 
-DJ IP is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
+DJ IP is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
 
 DJ IP is a techno and trance artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Antwerp, Brussels and Rotterdam and 1 more. Often billed alongside Fenrick, Hurts and KLOFAMA. Next up: Place Jean Rey, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ IP is a techno and trance artist based in Netherlands, tracked on soundcheck,
 
 Fenrick, Hurts, KLOFAMA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djip/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djip/)*

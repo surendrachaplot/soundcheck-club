@@ -1,6 +1,6 @@
 # CMD
 
-CMD is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Barbossa, Montreal on Fri, 21 Aug 2026.
+CMD is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Barbossa, Montreal on Fri, 21 Aug 2026.
 
 CMD is a bass and techno artist tracked on soundcheck, with 30 sets logged across Montreal. Often billed alongside somebody3lse, Emil Paquin and Bianca Badita. Next up: Barbossa, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ CMD is a bass and techno artist tracked on soundcheck, with 30 sets logged acros
 
 somebody3lse, Emil Paquin, Bianca Badita
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cmd/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cmd/)*

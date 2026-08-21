@@ -1,6 +1,6 @@
 # MONEYAMA
 
-MONEYAMA is a Bass and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
+MONEYAMA is a Bass and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
 
 MONEYAMA is a bass and amapiano artist tracked on soundcheck, with 29 sets logged across Berlin, Hamburg and London. Often billed alongside Haaizey, Nico Adomako and RHR. Next up: OHM, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ MONEYAMA is a bass and amapiano artist tracked on soundcheck, with 29 sets logge
 
 Haaizey, Nico Adomako, RHR
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moneyama/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moneyama/)*

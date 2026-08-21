@@ -1,6 +1,6 @@
 # Ken Dark
 
-Ken Dark is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hall, Tallinn on Sat, 22 Aug 2026.
+Ken Dark is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hall, Tallinn on Sat, 22 Aug 2026.
 
 Ken Dark is a techno and electro artist tracked on soundcheck, with 17 sets logged across Riga and Tallinn. Often billed alongside KARINSMATIC, Simo (1) and VIK (LV). Next up: Hall, Tallinn on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ken Dark is a techno and electro artist tracked on soundcheck, with 17 sets logg
 
 KARINSMATIC, Simo (1), VIK (LV)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kendark/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kendark/)*

@@ -1,8 +1,8 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Den, Portland on Fri, 21 Aug 2026.
+Kevin Saunderson is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Den, Portland on Fri, 21 Aug 2026.
 
-Kevin Saunderson is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 32 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: The Den, Portland on Fri 21 Aug.
+Kevin Saunderson is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 32 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: The Den, Portland on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Kevin Saunderson is a techno and house artist tracked on soundcheck, with 115 se
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Madam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Kevin Saunderson is a techno and house artist tracked on soundcheck, with 115 se
 
 The Saunderson Brothers, Carl Craig, DJ Holographic
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*

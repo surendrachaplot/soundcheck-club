@@ -1,6 +1,6 @@
 # Bryan Gee
 
-Bryan Gee is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at M.O.T, London on Thu, 27 Aug 2026.
+Bryan Gee is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at M.O.T, London on Thu, 27 Aug 2026.
 
 Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 19 more. Often billed alongside Dillinja, Jumping Jack Frost and Moose. Next up: M.O.T, London on Thu 27 Aug.
 
@@ -29,4 +29,4 @@ Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 101 set
 
 Dillinja, Jumping Jack Frost, Moose
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*

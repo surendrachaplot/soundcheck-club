@@ -1,6 +1,6 @@
 # TBA - 1438 W. Cortland
 
-TBA - 1438 W. Cortland is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "relikx Events & Groove Motive: Ardalan, Luke Andy, & MAYYA (open air) " on Sat, 22 Aug 2026.
+TBA - 1438 W. Cortland is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "relikx Events & Groove Motive: Ardalan, Luke Andy, & MAYYA (open air) " on Sat, 22 Aug 2026.
 
 TBA - 1438 W. Cortland is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Ardalan. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 1438 W. Cortland is a music venue in Chicago listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | relikx Events & Groove Motive: Ardalan, Luke Andy, & MAYYA (open air)  | Ardalan |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-1438-w-cortland/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-1438-w-cortland/)*

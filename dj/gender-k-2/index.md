@@ -1,6 +1,6 @@
 # GENDER-K (2)
 
-GENDER-K (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
+GENDER-K (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at clubasia, Tokyo on Fri, 21 Aug 2026.
 
 GENDER-K (2) is a techno and drum & bass artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside EMILIO (3), KAMIKAZE and KANON (1). Next up: clubasia, Tokyo on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ GENDER-K (2) is a techno and drum & bass artist based in Japan, tracked on sound
 
 EMILIO (3), KAMIKAZE, KANON (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*

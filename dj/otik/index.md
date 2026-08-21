@@ -1,6 +1,6 @@
 # Otik
 
-Otik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Greyhound, London on Sat, 10 Oct 2026.
+Otik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Greyhound, London on Sat, 10 Oct 2026.
 
 Otik is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, Bristol, Edinburgh and Ibiza and 9 more. Often billed alongside SHERELLE, Kareem Ali and Nia Archives. Next up: The Greyhound, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Otik is a techno and house artist tracked on soundcheck, with 42 sets logged acr
 
 SHERELLE, Kareem Ali, Nia Archives
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otik/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otik/)*

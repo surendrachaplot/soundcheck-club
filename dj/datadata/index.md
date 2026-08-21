@@ -1,6 +1,6 @@
 # datadata
 
-datadata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, New York City on Sun, 23 Aug 2026.
+datadata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, New York City on Sun, 23 Aug 2026.
 
 datadata is a house and techno artist tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside DJ Fang, K.mal and Quantreau. Next up: TBA, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ datadata is a house and techno artist tracked on soundcheck, with 28 sets logged
 
 DJ Fang, K.mal, Quantreau
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datadata/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datadata/)*

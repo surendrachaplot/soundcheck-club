@@ -1,14 +1,15 @@
 # Lis Sarroca
 
-Lis Sarroca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 29 Aug 2026.
+Lis Sarroca is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 29 Aug 2026.
 
-Lis Sarroca is a house and techno artist tracked on soundcheck, with 96 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 19 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Les Enfants Brillants, Barcelona on Sat 29 Aug.
+Lis Sarroca is a house and techno artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 19 more. Often billed alongside Mari.te, Vince Void and Mejia. Next up: Les Enfants Brillants, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 5 Sept 2026 | La Terrrazza | Barcelona |
 | Fri, 18 Sept 2026 | 3oz Dive Club | San Diego |
 | Fri, 25 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
@@ -29,4 +30,4 @@ Lis Sarroca is a house and techno artist tracked on soundcheck, with 96 sets log
 
 Mari.te, Vince Void, Mejia
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lissarroca/)*

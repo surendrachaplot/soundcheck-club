@@ -1,6 +1,6 @@
 # Ricochet
 
-Ricochet is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Ricochet is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 Ricochet is a drum & bass and garage artist based in Bosnia and Herzegovina, tracked on soundcheck, with 5 sets logged across Brighton and London. Often billed alongside AC13, Acolyte and Afters. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Ricochet is a drum & bass and garage artist based in Bosnia and Herzegovina, tra
 
 AC13, Acolyte, Afters
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*

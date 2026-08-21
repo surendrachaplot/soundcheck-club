@@ -1,6 +1,6 @@
 # Enzo Leep
 
-Enzo Leep is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Golden Gate, Berlin on Sat, 22 Aug 2026.
+Enzo Leep is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Golden Gate, Berlin on Sat, 22 Aug 2026.
 
 Enzo Leep is a house and electronica artist based in Spain, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: Golden Gate, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Enzo Leep is a house and electronica artist based in Spain, tracked on soundchec
 
 ELVI (SE), Ion Pananides, Alvaro Medina
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*

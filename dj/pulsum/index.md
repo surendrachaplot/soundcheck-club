@@ -1,6 +1,6 @@
 # Pulsum
 
-Pulsum is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Durocher Building, Montreal on Fri, 21 Aug 2026.
+Pulsum is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Durocher Building, Montreal on Fri, 21 Aug 2026.
 
 Pulsum is a techno and electro artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal. Often billed alongside Casa Kobrae, ElForever and Mossy Mugler. Next up: TBA - Durocher Building, Montreal on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Pulsum is a techno and electro artist based in Canada, tracked on soundcheck, wi
 
 Casa Kobrae, ElForever, Mossy Mugler
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsum/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pulsum/)*

@@ -1,14 +1,13 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, London on Thu, 20 Aug 2026.
+Sara Landry is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Magazine Open–Air, London on Fri, 21 Aug 2026.
 
-Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: TBA - Secret Location, London on Thu 20 Aug.
+Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Magazine Open–Air, London on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | TBA - Secret Location | London |
 | Fri, 21 Aug 2026 | Magazine Open–Air | London |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
@@ -17,6 +16,7 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets lo
 
 ## Recently played
 
+- TBA - Secret Location, London — Thu, 20 Aug 2026
 - Life Park, Istanbul — Sat, 15 Aug 2026
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Under the K Bridge, New York City — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 192 sets lo
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Under the K Bridge, New York City — Fri, 31 Jul 2026
 - Tapada da Ajuda, Lisbon — Sat, 25 Jul 2026
-- Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

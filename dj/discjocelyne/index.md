@@ -1,6 +1,6 @@
 # discjocelyne
 
-discjocelyne is a Post-Punk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Neighbourgood Gardens, Edinburgh on Fri, 21 Aug 2026.
+discjocelyne is a Post-Punk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Neighbourgood Gardens, Edinburgh on Fri, 21 Aug 2026.
 
 discjocelyne is a post-punk and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Edinburgh. Often billed alongside Ravelston, Lara Sinclair and al gu. Next up: Neighbourgood Gardens, Edinburgh on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ discjocelyne is a post-punk and house artist based in United Kingdom, tracked on
 
 Ravelston, Lara Sinclair, al gu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discjocelyne/)*

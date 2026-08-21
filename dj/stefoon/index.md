@@ -1,6 +1,6 @@
 # Stefoon
 
-Stefoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mellowpark, Berlin on Sat, 22 Aug 2026.
+Stefoon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mellowpark, Berlin on Sat, 22 Aug 2026.
 
 Stefoon is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Schorli, oston and Erosiv. Next up: Mellowpark, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Stefoon is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Schorli, oston, Erosiv
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefoon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefoon/)*

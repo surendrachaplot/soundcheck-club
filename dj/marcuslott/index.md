@@ -1,6 +1,6 @@
 # Marcus Lott
 
-Marcus Lott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Stardust Garage, Austin on Fri, 21 Aug 2026.
+Marcus Lott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Stardust Garage, Austin on Fri, 21 Aug 2026.
 
 Marcus Lott is a house and techno artist tracked on soundcheck, with 30 sets logged across Austin, Detroit, Houston and Miami. Often billed alongside Brett Johnson, Daniel Allen and Bonnie Stoneman. Next up: Stardust Garage, Austin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Marcus Lott is a house and techno artist tracked on soundcheck, with 30 sets log
 
 Brett Johnson, Daniel Allen, Bonnie Stoneman
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuslott/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcuslott/)*

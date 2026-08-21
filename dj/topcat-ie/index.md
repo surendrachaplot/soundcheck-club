@@ -1,6 +1,6 @@
 # Top Cat
 
-Top Cat is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Colour Factory, London on Fri, 21 Aug 2026.
+Top Cat is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Colour Factory, London on Fri, 21 Aug 2026.
 
 Top Cat is a jungle and drum & bass artist tracked on soundcheck, with 6 sets logged across Bristol and London. Often billed alongside Congo Natty, DJ Snuff and BEGGSY. Next up: Colour Factory, London on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ Top Cat is a jungle and drum & bass artist tracked on soundcheck, with 6 sets lo
 
 Congo Natty, DJ Snuff, BEGGSY
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topcat-ie/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topcat-ie/)*

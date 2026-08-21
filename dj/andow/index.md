@@ -1,6 +1,6 @@
 # ANDOW
 
-ANDOW is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Modeci, Seoul on Sat, 22 Aug 2026.
+ANDOW is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Modeci, Seoul on Sat, 22 Aug 2026.
 
 ANDOW is a club and hip-hop artist tracked on soundcheck, with 154 sets logged across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: Modeci, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ANDOW is a club and hip-hop artist tracked on soundcheck, with 154 sets logged a
 
 DJ Co.kr, DOBERMAN, DJ Soulscape
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andow/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andow/)*

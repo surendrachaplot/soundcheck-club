@@ -1,6 +1,6 @@
 # DJ S.K.T
 
-DJ S.K.T is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 45th & 7th, London on Sun, 23 Aug 2026.
+DJ S.K.T is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 45th & 7th, London on Sun, 23 Aug 2026.
 
 DJ S.K.T is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Chicago, Ibiza, London and Losangeles and 2 more. Often billed alongside Jerome Six, Pioneer and Steven Cee. Next up: 45th & 7th, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ DJ S.K.T is a tech house and house artist based in United Kingdom, tracked on so
 
 Jerome Six, Pioneer, Steven Cee
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskt-uk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djskt-uk/)*

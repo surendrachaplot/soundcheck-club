@@ -1,6 +1,6 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Circus Osaka, Osaka on Sat, 22 Aug 2026.
+Erik Luebs is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Circus Osaka, Osaka on Sat, 22 Aug 2026.
 
 Erik Luebs is a techno and house artist based in Japan, tracked on soundcheck, with 44 sets logged across Amsterdam, Athens, Berlin and Brisbane and 15 more. Often billed alongside Oberman, DJ Morita and Haruka. Next up: Circus Osaka, Osaka on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Erik Luebs is a techno and house artist based in Japan, tracked on soundcheck, w
 
 Oberman, DJ Morita, Haruka
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*

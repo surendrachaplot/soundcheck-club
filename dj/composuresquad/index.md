@@ -1,6 +1,6 @@
 # Composuresquad
 
-Composuresquad is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
+Composuresquad is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
 
 Composuresquad is a club and house artist tracked on soundcheck, with 16 sets logged across Chicago. Often billed alongside COBRA B, CQQCHiFRUIT and Chachi Guerrero. Next up: TBA, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Composuresquad is a club and house artist tracked on soundcheck, with 16 sets lo
 
 COBRA B, CQQCHiFRUIT, Chachi Guerrero
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*

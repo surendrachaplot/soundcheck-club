@@ -1,14 +1,13 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Lyra Room × WTW" on Thu, 20 Aug 2026.
+WOMB is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "RULER (HOUSE/HIP-HOP)" on Fri, 21 Aug 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AHREUM, Akie, AKIRAM EN and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including AHREUM, Akie, AKIRAM EN and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Lyra Room × WTW | Kotono Shirai |
 | Fri, 21 Aug 2026 | RULER (HOUSE/HIP-HOP) | DJ Emma, RashBone, r1ku |
 | Sat, 22 Aug 2026 | WOMB PRESENTS MR.HO B2B Gonno -ALL NIGHT LONG- (TECHNO/HOUSE) | CHIDA, Gonno, Kyper, Mr. Ho, Satoshi Otsuki |
 | Tue, 25 Aug 2026 | ASIA TECH |  |
@@ -18,9 +17,10 @@ WOMB is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with li
 | Sat, 29 Aug 2026 | DMC JAPAN DJ CHAMPIONSHIPS 2026 FINAL supported by Technics |  |
 | Sat, 29 Aug 2026 | SESSION (TECHNO) | AHREUM, Drunken Kong, KCT (1), Kulage, LiaRako, Shun Kurashima, Tommy Wada, U:ICHI |
 | Mon, 31 Aug 2026 | TAP |  |
+| Fri, 4 Sept 2026 | UNREAL | AKIRAM EN, Ayana Pattra, DJ Sodeyama, MOTOKA, MZKN, SIGNAL (JP), Torus, Yohei Hibiki, ki (43) |
 
 ## Address
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

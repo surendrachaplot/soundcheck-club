@@ -1,6 +1,6 @@
 # Tšungel
 
-Tšungel is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "britiimpeerium all night long" on Fri, 21 Aug 2026.
+Tšungel is a music venue in Tallinn with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "britiimpeerium all night long" on Fri, 21 Aug 2026.
 
 Tšungel is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, with line-ups including Arto, britiimpeerium, Charch and Lill and 2 more. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
 
@@ -19,4 +19,4 @@ Tšungel is a music venue in Tallinn listed on soundcheck. 6 upcoming nights, wi
 
 Kopli 1, Tallinn, 10412, Harjumaa, Estonia, Tallinn
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*

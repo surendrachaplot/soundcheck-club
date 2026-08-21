@@ -1,6 +1,6 @@
 # Jude Natural
 
-Jude Natural is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Art School, Glasgow on Wed, 23 Sept 2026.
+Jude Natural is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Art School, Glasgow on Wed, 23 Sept 2026.
 
 Jude Natural is a house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh, Glasgow and Lisbon. Often billed alongside Babyccino, Macka and Adriana Ruas. Next up: The Art School, Glasgow on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Jude Natural is a house and techno artist based in United Kingdom, tracked on so
 
 Babyccino, Macka, Adriana Ruas
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judenatural/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judenatural/)*

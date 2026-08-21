@@ -1,6 +1,6 @@
 # GBClifford
 
-GBClifford is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fuchs2, Prague on Fri, 21 Aug 2026.
+GBClifford is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fuchs2, Prague on Fri, 21 Aug 2026.
 
 GBClifford is an electronica and experimental artist tracked on soundcheck, with 6 sets logged across Berlin, Prague and Rome. Often billed alongside Edúv Syn, Exui and Apu Nanu. Next up: Fuchs2, Prague on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ GBClifford is an electronica and experimental artist tracked on soundcheck, with
 
 Edúv Syn, Exui, Apu Nanu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gbclifford/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gbclifford/)*

@@ -1,6 +1,6 @@
 # arkadiusz.official
 
-arkadiusz.official is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Klunkerkranich, Berlin on Sat, 22 Aug 2026.
+arkadiusz.official is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Klunkerkranich, Berlin on Sat, 22 Aug 2026.
 
 arkadiusz.official is a house and electronica artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Ligal Tamir, Francesca and Magician On Duty. Next up: Klunkerkranich, Berlin on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ arkadiusz.official is a house and electronica artist tracked on soundcheck, with
 
 Ligal Tamir, Francesca, Magician On Duty
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadiusz.official/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadiusz.official/)*

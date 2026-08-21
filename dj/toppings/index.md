@@ -1,6 +1,6 @@
 # Toppings
 
-Toppings is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Toppings is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Toppings is a house and disco artist based in Philippines, tracked on soundcheck, with 19 sets logged across Hongkong, Kualalumpur, Singapore and Tokyo. Often billed alongside Bongomann, MUTO (2) and Daryl Knows. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Toppings is a house and disco artist based in Philippines, tracked on soundcheck
 
 Bongomann, MUTO (2), Daryl Knows
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toppings/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toppings/)*

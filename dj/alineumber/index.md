@@ -1,6 +1,6 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
+Aline Umber is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
 
 Aline Umber is a house and minimal artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Brooklyn Storehouse, Newyorkcity on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Aline Umber is a house and minimal artist tracked on soundcheck, with 100 sets l
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

@@ -1,6 +1,6 @@
 # Magician On Duty
 
-Magician On Duty is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Klunkerkranich, Berlin on Sat, 22 Aug 2026.
+Magician On Duty is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Klunkerkranich, Berlin on Sat, 22 Aug 2026.
 
 Magician On Duty is a deep house and house artist tracked on soundcheck, with 12 sets logged across Berlin, Bucharest, Miami and Newyorkcity and 2 more. Often billed alongside Ro Rousseau, Bross and Ligal Tamir. Next up: Klunkerkranich, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Magician On Duty is a deep house and house artist tracked on soundcheck, with 12
 
 Ro Rousseau, Bross, Ligal Tamir
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magicianonduty/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magicianonduty/)*

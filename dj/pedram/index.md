@@ -1,6 +1,6 @@
 # Pedram
 
-Pedram is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Supermarket, Zurich on Sat, 5 Sept 2026.
+Pedram is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Supermarket, Zurich on Sat, 5 Sept 2026.
 
 Pedram is an electronica and electro artist tracked on soundcheck, with 7 sets logged across Barcelona, Sanfrancisco and Zurich. Often billed alongside Mihael Simic, Authentic and BLOND:ISH. Next up: Supermarket, Zurich on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Pedram is an electronica and electro artist tracked on soundcheck, with 7 sets l
 
 Mihael Simic, Authentic, BLOND:ISH
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedram/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedram/)*

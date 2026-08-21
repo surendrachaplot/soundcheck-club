@@ -1,6 +1,6 @@
 # Bourbon On Division
 
-Bourbon On Division is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Blacklight Blackout feat. Enzo, Jenny Fox, Bootleg Contraband, Mr Bobby, Eddie Riot, Snackman" on Fri, 21 Aug 2026.
+Bourbon On Division is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Blacklight Blackout feat. Enzo, Jenny Fox, Bootleg Contraband, Mr Bobby, Eddie Riot, Snackman" on Fri, 21 Aug 2026.
 
 Bourbon On Division is a music venue in Chicago listed on soundcheck. 4 upcoming nights, with line-ups including AMAYAH, Bootleg Contraband, CLAWZ and El Gato and 2 more. Browse upcoming dates, start times and who's playing. 2050 W Division St, Chicago, IL 60622, USA.
 
@@ -17,4 +17,4 @@ Bourbon On Division is a music venue in Chicago listed on soundcheck. 4 upcoming
 
 2050 W Division St, Chicago, IL 60622, USA, Chicago
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*

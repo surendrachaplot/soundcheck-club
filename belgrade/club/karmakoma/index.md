@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "WWA with Mamavitae, tadi, Frkica, and Zana" on Fri, 21 Aug 2026.
+Karmakoma is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "WWA with Mamavitae, tadi, Frkica, and Zana" on Fri, 21 Aug 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including Aneri, Ciel, D.Dan and Essio and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -20,4 +20,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

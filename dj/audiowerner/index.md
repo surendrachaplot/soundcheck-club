@@ -1,6 +1,6 @@
 # Audio Werner
 
-Audio Werner is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Legal, Munich on Sat, 12 Sept 2026.
+Audio Werner is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Legal, Munich on Sat, 12 Sept 2026.
 
 Audio Werner is a minimal and house artist tracked on soundcheck, with 45 sets logged across Berlin, Ghent, Hamburg and Ibiza and 7 more. Often billed alongside Lucas Hulan, Khmgnff and Schneider Lounge. Next up: Legal, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Audio Werner is a minimal and house artist tracked on soundcheck, with 45 sets l
 
 Lucas Hulan, Khmgnff, Schneider Lounge
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audiowerner/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audiowerner/)*

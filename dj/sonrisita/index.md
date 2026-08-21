@@ -1,6 +1,6 @@
 # Sonrisita
 
-Sonrisita is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Airliner, Los Angeles on Sat, 22 Aug 2026.
+Sonrisita is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Airliner, Los Angeles on Sat, 22 Aug 2026.
 
 Sonrisita is a house and disco artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles, Newyorkcity, Portland and Sandiego and 2 more. Often billed alongside Xica Soul, Janina Marie and Adam O (1). Next up: The Airliner, Losangeles on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sonrisita is a house and disco artist based in United States of America, tracked
 
 Xica Soul, Janina Marie, Adam O (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonrisita/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonrisita/)*

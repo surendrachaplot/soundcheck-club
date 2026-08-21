@@ -1,14 +1,13 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Nai Palm's Inner Orbit" on Thu, 20 Aug 2026.
+Angel Music Bar is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Now Or Never + Angel presents Open Circuit, Toni Yotzi & Jayde Isabel" on Thu, 20 Aug 2026.
 
-Angel Music Bar is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including BabyG, bbsanii, Charlotte Rooney and CHEAHDX and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
+Angel Music Bar is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including BabyG, bbsanii, Charlotte Rooney and CHEAHDX and 2 more. Browse upcoming dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Nai Palm's Inner Orbit | Chino, Kuzich, Lori (1), Poli-Pearl, Silentjay |
 | Thu, 20 Aug 2026 | Now Or Never + Angel presents Open Circuit, Toni Yotzi & Jayde Isabel | Fia Fiell |
 | Fri, 21 Aug 2026 | Ultraviolet w/ DAWS, Baby G, Mikalah Watego, Naycab, Activator + more | Activator, BabyG, DAWS, Emelexy, Liv Vicariously, Mikalah Watego, Naycab |
 | Sat, 22 Aug 2026 | Angel presents Kédu, Earl Grey, Laytx | DJ Earl Grey |
@@ -23,4 +22,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 10 upcoming 
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

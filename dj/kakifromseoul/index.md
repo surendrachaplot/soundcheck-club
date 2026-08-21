@@ -1,6 +1,6 @@
 # kakifromseoul
 
-kakifromseoul is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Faust, Seoul on Sat, 22 Aug 2026.
+kakifromseoul is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Faust, Seoul on Sat, 22 Aug 2026.
 
 kakifromseoul is a house and afro house artist based in South Korea, tracked on soundcheck, with 5 sets logged across Seoul. Often billed alongside Bluebird, Cityboy from Seoul and Faacia. Next up: Faust, Seoul on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ kakifromseoul is a house and afro house artist based in South Korea, tracked on 
 
 Bluebird, Cityboy from Seoul, Faacia
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kakifromseoul/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kakifromseoul/)*

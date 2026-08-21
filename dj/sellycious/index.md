@@ -1,6 +1,6 @@
 # sellycious
 
-sellycious is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Schrotty, Cologne on Fri, 28 Aug 2026.
+sellycious is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Schrotty, Cologne on Fri, 28 Aug 2026.
 
 sellycious is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Cologne. Often billed alongside Annemalie, DJ ASS TITS and Melanchromie. Next up: Schrotty, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ sellycious is a techno and trance artist based in Germany, tracked on soundcheck
 
 Annemalie, DJ ASS TITS, Melanchromie
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sellycious/)*

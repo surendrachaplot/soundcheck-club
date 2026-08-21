@@ -1,6 +1,6 @@
 # LILRAV4
 
-LILRAV4 is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 22 Aug 2026.
+LILRAV4 is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 LILRAV4 is a club and house artist tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Andy411, Femme Jatale and Sánlo. Next up: Arcana, Sanfrancisco on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ LILRAV4 is a club and house artist tracked on soundcheck, with 10 sets logged ac
 
 Andy411, Femme Jatale, Sánlo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrav4/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrav4/)*

@@ -1,6 +1,6 @@
 # Pereira
 
-Pereira is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Code Astoria, New York City on Fri, 21 Aug 2026.
+Pereira is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Code Astoria, New York City on Fri, 21 Aug 2026.
 
 Pereira is a latin bass and reggaeton artist tracked on soundcheck, with 5 sets logged across Ibiza, Mexicocity and Newyorkcity. Often billed alongside Angel Alanis, Ben Sims and DJ Pipe. Next up: Code Astoria, Newyorkcity on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Pereira is a latin bass and reggaeton artist tracked on soundcheck, with 5 sets 
 
 Angel Alanis, Ben Sims, DJ Pipe
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pereira/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pereira/)*

@@ -1,6 +1,6 @@
 # Tejavu
 
-Tejavu is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
+Tejavu is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
 
 Tejavu is a techno and electronica artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Answer Code Request, Ben Kennedy and Blană. Next up: The Russian House, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tejavu is a techno and electronica artist based in Australia, tracked on soundch
 
 Answer Code Request, Ben Kennedy, Blană
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tejavu/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tejavu/)*

@@ -1,6 +1,6 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 186 Harvard Avenue, Allston, MA, Boston on Thu, 29 Oct 2026.
+EQ (Estratosfera + Qiri) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 186 Harvard Avenue, Allston, MA, Boston on Thu, 29 Oct 2026.
 
 EQ (Estratosfera + Qiri) are a club and techno duo based in Argentina, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Boston and 7 more. Often billed alongside Bclip, Ahadadream and Bakey. Next up: TBA - 186 Harvard Avenue, Allston, MA, Boston on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ EQ (Estratosfera + Qiri) are a club and techno duo based in Argentina, tracked o
 
 Bclip, Ahadadream, Bakey
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

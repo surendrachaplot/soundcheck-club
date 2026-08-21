@@ -1,6 +1,6 @@
 # 2bnsn
 
-2bnsn is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+2bnsn is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
 2bnsn is a progressive house and house artist tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside Kamekawa, Conures (DJ Tokunaga) and DJ NECO. Next up: or, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@
 
 Kamekawa, Conures (DJ Tokunaga), DJ NECO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2bnsn/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2bnsn/)*

@@ -1,6 +1,6 @@
 # Jay Ramon
 
-Jay Ramon is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OneSixOne, Melbourne on Fri, 21 Aug 2026.
+Jay Ramon is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OneSixOne, Melbourne on Fri, 21 Aug 2026.
 
 Jay Ramon is a house and deep house artist based in Australia, tracked on soundcheck, with 151 sets logged across Melbourne. Often billed alongside Cara Murphy, Adam Trace and Agent 86. Next up: OneSixOne, Melbourne on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Jay Ramon is a house and deep house artist based in Australia, tracked on soundc
 
 Cara Murphy, Adam Trace, Agent 86
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayramon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayramon/)*

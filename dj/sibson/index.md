@@ -1,6 +1,6 @@
 # Sibson
 
-Sibson is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lisa, Lisbon on Fri, 21 Aug 2026.
+Sibson is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lisa, Lisbon on Fri, 21 Aug 2026.
 
 Sibson is an electronica and acid artist tracked on soundcheck, with 43 sets logged across Berlin, Istanbul, Lisbon and London and 1 more. Often billed alongside Mariana Raposo, Mikey Sibson and Nick Craddock. Next up: Lisa, Lisbon on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sibson is an electronica and acid artist tracked on soundcheck, with 43 sets log
 
 Mariana Raposo, Mikey Sibson, Nick Craddock
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sibson/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sibson/)*

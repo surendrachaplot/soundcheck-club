@@ -1,6 +1,6 @@
 # UrbnMowgli
 
-UrbnMowgli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 21 Aug 2026.
+UrbnMowgli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 21 Aug 2026.
 
 UrbnMowgli is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Barcelona, Basel, Berlin and Vienna. Often billed alongside Moodrich, SKAIN and Bunny Tsukino. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ UrbnMowgli is a house and techno artist based in Germany, tracked on soundcheck,
 
 Moodrich, SKAIN, Bunny Tsukino
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*

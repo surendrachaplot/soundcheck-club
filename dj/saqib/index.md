@@ -1,6 +1,6 @@
 # Saqib
 
-Saqib is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+Saqib is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
 
 Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Saqib is a house and deep house artist based in United States of America, tracke
 
 Nhii, Francesca Lombardo, Matt Caines
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

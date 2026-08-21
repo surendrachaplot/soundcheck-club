@@ -1,6 +1,6 @@
 # Young Drums
 
-Young Drums is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fünk, Mexico City on Fri, 21 Aug 2026.
+Young Drums is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fünk, Mexico City on Fri, 21 Aug 2026.
 
 Young Drums is a house and techno artist based in Mexico, tracked on soundcheck, with 25 sets logged across Mexicocity. Often billed alongside Bluecommand, AAAA and Alo. Next up: Fünk, Mexicocity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Young Drums is a house and techno artist based in Mexico, tracked on soundcheck,
 
 Bluecommand, AAAA, Alo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdrums/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdrums/)*

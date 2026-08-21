@@ -1,6 +1,6 @@
 # ARJ (IR)
 
-ARJ (IR) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 12 Sept 2026.
+ARJ (IR) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 12 Sept 2026.
 
 ARJ (IR) is a progressive house and deep house artist based in Canada, tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside Persis, ATJUNGLE and Hanson w/o H. Next up: TBA - Warehouse, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ARJ (IR) is a progressive house and deep house artist based in Canada, tracked o
 
 Persis, ATJUNGLE, Hanson w/o H
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arj-ir/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arj-ir/)*

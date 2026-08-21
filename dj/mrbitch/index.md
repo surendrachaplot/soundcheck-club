@@ -1,6 +1,6 @@
 # Mr. Bitch
 
-Mr. Bitch is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Mr. Bitch is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Mr. Bitch is a techno and reggaeton artist tracked on soundcheck, with 26 sets logged across Miami. Often billed alongside Pressure Point (US), Lady Narcisse and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mr. Bitch is a techno and reggaeton artist tracked on soundcheck, with 26 sets l
 
 Pressure Point (US), Lady Narcisse, SATURNSARii
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbitch/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbitch/)*

@@ -1,6 +1,6 @@
 # Jaag
 
-Jaag is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Public Works, San Francisco/Oakland on Thu, 3 Sept 2026.
+Jaag is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Public Works, San Francisco/Oakland on Thu, 3 Sept 2026.
 
 Jaag is a house and electro artist tracked on soundcheck, with 11 sets logged across Berlin, Lyon, Mexicocity and Paris and 1 more. Often billed alongside ARINI, Ey.rah and Farkas. Next up: Public Works, Sanfrancisco on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Jaag is a house and electro artist tracked on soundcheck, with 11 sets logged ac
 
 ARINI, Ey.rah, Farkas
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaag/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaag/)*

@@ -1,6 +1,6 @@
 # KAMI
 
-KAMI is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Times, Seoul on Fri, 21 Aug 2026.
+KAMI is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Times, Seoul on Fri, 21 Aug 2026.
 
 KAMI is a hardcore and techno artist based in Switzerland, tracked on soundcheck, with 10 sets logged across Chicago, London, Losangeles and Newyorkcity and 2 more. Often billed alongside 99jakes, ANDOW and Alex Kassian. Next up: Times, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KAMI is a hardcore and techno artist based in Switzerland, tracked on soundcheck
 
 99jakes, ANDOW, Alex Kassian
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kami/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kami/)*

@@ -1,6 +1,6 @@
 # YASDUB
 
-YASDUB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Cheek, London on Fri, 21 Aug 2026.
+YASDUB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Cheek, London on Fri, 21 Aug 2026.
 
 YASDUB is a techno and house artist tracked on soundcheck, with 31 sets logged across Detroit, Kyoto, London and Osaka and 1 more. Often billed alongside CH.0, Bushmind and OG Militant B. Next up: Club Cheek, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ YASDUB is a techno and house artist tracked on soundcheck, with 31 sets logged a
 
 CH.0, Bushmind, OG Militant B
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasdub/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasdub/)*

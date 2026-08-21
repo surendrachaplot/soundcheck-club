@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Süss am Freitag" on Fri, 21 Aug 2026.
+Süss War Gestern is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Süss am Freitag" on Fri, 21 Aug 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Bøgen, CATAWR, Denifitiv Manu and Dicso_Muzek and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -18,4 +18,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 5 upcoming ni
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

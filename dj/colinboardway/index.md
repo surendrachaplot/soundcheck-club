@@ -1,6 +1,6 @@
 # Colin Boardway
 
-Colin Boardway is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Last Arch, London on Fri, 21 Aug 2026.
+Colin Boardway is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Last Arch, London on Fri, 21 Aug 2026.
 
 Colin Boardway is a deep house and house artist tracked on soundcheck, with 5 sets logged across Chicago and London. Often billed alongside Denny Kem, Luther Vine and Alex Egan. Next up: Last Arch, London on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Colin Boardway is a deep house and house artist tracked on soundcheck, with 5 se
 
 Denny Kem, Luther Vine, Alex Egan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinboardway/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinboardway/)*

@@ -1,14 +1,13 @@
 # Violin Girl
 
-Violin Girl is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Highwater Rooftop, New York City on Thu, 20 Aug 2026.
+Violin Girl is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Caveau Boston, Boston on Fri, 21 Aug 2026.
 
-Violin Girl is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston, Chicago, Newyorkcity and Washingtondc. Next up: Highwater Rooftop, Newyorkcity on Thu 20 Aug.
+Violin Girl is a house and tech house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Boston, Chicago, Newyorkcity and Washingtondc. Next up: Caveau Boston, Boston on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Highwater Rooftop | New York City |
 | Fri, 21 Aug 2026 | Caveau Boston | Boston |
 | Sat, 22 Aug 2026 | TBA - Ciel Downtown 601 K St NW, Washington, DC 20001 | Washington DC |
 | Fri, 28 Aug 2026 | Lillistar | New York City |
@@ -18,10 +17,11 @@ Violin Girl is a house and tech house artist based in United States of America, 
 
 ## Recently played
 
+- Highwater Rooftop, New York City — Thu, 20 Aug 2026
 - TBA - Ciel Downtown 601 K St NW, Washington, DC 20001, Washington DC — Sat, 25 Jul 2026
 - Lillistar, New York City — Fri, 24 Jul 2026
 - Highwater Rooftop, New York City — Thu, 23 Jul 2026
 - TBA - Ciel Downtown 601 K St NW, Washington, DC 20001, Washington DC — Sat, 27 Jun 2026
 - Highwater Rooftop, New York City — Thu, 18 Jun 2026
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violingirl/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/violingirl/)*

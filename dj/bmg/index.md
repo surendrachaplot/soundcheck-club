@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at export, Rotterdam on Fri, 28 Aug 2026.
+BMG is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at export, Rotterdam on Fri, 28 Aug 2026.
 
 BMG is a techno and electro artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Bristol and Chicago and 14 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: export, Rotterdam on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ BMG is a techno and electro artist based in United States of America, tracked on
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

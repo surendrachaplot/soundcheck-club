@@ -1,6 +1,6 @@
 # Talaboman
 
-Talaboman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pllek, Amsterdam on Thu, 22 Oct 2026.
+Talaboman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pllek, Amsterdam on Thu, 22 Oct 2026.
 
 Talaboman is a techno and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Glasgow, Ibiza and London and 3 more. Often billed alongside Axel Boman, John Talabot and Dyed Soundorom. Next up: Pllek, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Talaboman is a techno and house artist tracked on soundcheck, with 8 sets logged
 
 Axel Boman, John Talabot, Dyed Soundorom
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talaboman/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talaboman/)*

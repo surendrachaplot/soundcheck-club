@@ -1,6 +1,6 @@
 # dogheadsurigeri
 
-dogheadsurigeri is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Social, London on Thu, 27 Aug 2026.
+dogheadsurigeri is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Social, London on Thu, 27 Aug 2026.
 
 dogheadsurigeri is a techno and club artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Antonio De Angelis, Bassvictim and Blasha & Allatt. Next up: The Social, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ dogheadsurigeri is a techno and club artist tracked on soundcheck, with 65 sets 
 
 Antonio De Angelis, Bassvictim, Blasha & Allatt
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dogheadsurigeri/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dogheadsurigeri/)*

@@ -1,6 +1,6 @@
 # Falcao
 
-Falcao is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 21 Aug 2026.
+Falcao is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 21 Aug 2026.
 
 Falcao is a house and techno artist based in Hungary, tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Budapest and Ibiza. Often billed alongside Tolo, Daniel Moritz and Maron. Next up: Pontoon Budapest, Budapest on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Falcao is a house and techno artist based in Hungary, tracked on soundcheck, wit
 
 Tolo, Daniel Moritz, Maron
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falcao/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falcao/)*

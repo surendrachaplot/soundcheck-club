@@ -1,6 +1,6 @@
 # Kim Peers
 
-Kim Peers is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Het Bos, Antwerp on Fri, 21 Aug 2026.
+Kim Peers is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Het Bos, Antwerp on Fri, 21 Aug 2026.
 
 Kim Peers is an ebm and electro artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Graftak, Miss Kittin and AARK. Next up: Het Bos, Antwerp on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Kim Peers is an ebm and electro artist based in Belgium, tracked on soundcheck, 
 
 Graftak, Miss Kittin, AARK
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimpeers/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimpeers/)*

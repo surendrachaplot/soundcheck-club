@@ -1,6 +1,6 @@
 # Olf
 
-Olf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klunkerkranich, Berlin on Sat, 22 Aug 2026.
+Olf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Klunkerkranich, Berlin on Sat, 22 Aug 2026.
 
 Olf is a house and deep house artist based in Austria, tracked on soundcheck, with 17 sets logged across Berlin, Budapest and Vienna. Often billed alongside Funkel, Baktus and Ohrlorian. Next up: Klunkerkranich, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Olf is a house and deep house artist based in Austria, tracked on soundcheck, wi
 
 Funkel, Baktus, Ohrlorian
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_olf/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_olf/)*

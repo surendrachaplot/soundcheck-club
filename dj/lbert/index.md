@@ -1,6 +1,6 @@
 # Lbert
 
-Lbert is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
+Lbert is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Amsterdam on Sun, 27 Sept 2026.
 
 Lbert is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside Libere, Nova Caza and Chico. Next up: TBA, Amsterdam on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Lbert is a progressive house and deep house artist based in Netherlands, tracked
 
 Libere, Nova Caza, Chico
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbert/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbert/)*

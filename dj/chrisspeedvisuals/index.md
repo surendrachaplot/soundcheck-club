@@ -1,6 +1,6 @@
 # Chris Speed Visuals
 
-Chris Speed Visuals is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
+Chris Speed Visuals is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
 
 Chris Speed Visuals is an electronica and ambient artist tracked on soundcheck, with 12 sets logged across Berlin and London. Often billed alongside Leask, Solar Rocks and m-onz. Next up: The Space KU Damm, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Chris Speed Visuals is an electronica and ambient artist tracked on soundcheck, 
 
 Leask, Solar Rocks, m-onz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisspeedvisuals/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisspeedvisuals/)*

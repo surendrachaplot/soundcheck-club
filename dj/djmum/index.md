@@ -1,6 +1,6 @@
 # DJ Mum
 
-DJ Mum is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Capers Thornbury, Melbourne on Sat, 22 Aug 2026.
+DJ Mum is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Capers Thornbury, Melbourne on Sat, 22 Aug 2026.
 
 DJ Mum is a bass and dubstep artist tracked on soundcheck, with 20 sets logged across Melbourne. Often billed alongside Brown Suga Princess, Rakhi and Emelyne. Next up: Capers Thornbury, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Mum is a bass and dubstep artist tracked on soundcheck, with 20 sets logged a
 
 Brown Suga Princess, Rakhi, Emelyne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmum/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmum/)*

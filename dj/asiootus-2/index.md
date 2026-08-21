@@ -1,6 +1,6 @@
 # Asio Otus (2)
 
-Asio Otus (2) is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Desterro, Lisbon on Fri, 21 Aug 2026.
+Asio Otus (2) is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Desterro, Lisbon on Fri, 21 Aug 2026.
 
 Asio Otus (2) is an electro and acid artist tracked on soundcheck, with 9 sets logged across Berlin, Budapest and Lisbon. Often billed alongside Carolf, USOF and CRAVO. Next up: Desterro, Lisbon on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Asio Otus (2) is an electro and acid artist tracked on soundcheck, with 9 sets l
 
 Carolf, USOF, CRAVO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asiootus-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asiootus-2/)*

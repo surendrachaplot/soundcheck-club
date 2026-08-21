@@ -1,6 +1,6 @@
 # Flynn Bulman
 
-Flynn Bulman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 4 Sept 2026.
+Flynn Bulman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 4 Sept 2026.
 
 Flynn Bulman is a house and tech house artist tracked on soundcheck, with 13 sets logged across Melbourne. Often billed alongside bellxsxs, Andrew88 and A.Well. Next up: Revolver Upstairs, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Flynn Bulman is a house and tech house artist tracked on soundcheck, with 13 set
 
 bellxsxs, Andrew88, A.Well
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flynnbulman/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flynnbulman/)*

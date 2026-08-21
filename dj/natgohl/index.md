@@ -1,6 +1,6 @@
 # Nat Gohl
 
-Nat Gohl is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Süss War Gestern, Berlin on Fri, 21 Aug 2026.
+Nat Gohl is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Süss War Gestern, Berlin on Fri, 21 Aug 2026.
 
 Nat Gohl is a house and tech house artist tracked on soundcheck, with 7 sets logged across Berlin, Hamburg and London. Often billed alongside A.B.U., Anabel Arroyo and BLYSS. Next up: Süss War Gestern, Berlin on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Nat Gohl is a house and tech house artist tracked on soundcheck, with 7 sets log
 
 A.B.U., Anabel Arroyo, BLYSS
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natgohl/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natgohl/)*

@@ -1,6 +1,6 @@
 # Liza
 
-Liza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club NYX, Amsterdam on Sat, 19 Sept 2026.
+Liza is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club NYX, Amsterdam on Sat, 19 Sept 2026.
 
 Liza is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Dublin and Osaka and 4 more. Often billed alongside FENGX2, ZAGUN and _goodbyeforever_. Next up: Club NYX, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Liza is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 FENGX2, ZAGUN, _goodbyeforever_
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liza/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liza/)*

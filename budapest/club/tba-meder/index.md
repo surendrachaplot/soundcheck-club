@@ -1,6 +1,6 @@
 # TBA - MEDER
 
-TBA - MEDER is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "RITUALÉ presents - Rakpart Open Air - MEDER" on Wed, 26 Aug 2026.
+TBA - MEDER is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "RITUALÉ presents - Rakpart Open Air - MEDER" on Wed, 26 Aug 2026.
 
 TBA - MEDER is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Artic Yoyo, Drabar and Zsikla. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - MEDER is a music venue in Budapest listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | RITUALÉ presents - Rakpart Open Air - MEDER | Artic Yoyo, Drabar, Zsikla |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-meder/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-meder/)*

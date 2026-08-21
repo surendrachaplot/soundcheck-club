@@ -1,6 +1,6 @@
 # NCOL
 
-NCOL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Trojský Pivovar, Prague on Sat, 22 Aug 2026.
+NCOL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Trojský Pivovar, Prague on Sat, 22 Aug 2026.
 
 NCOL is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 71 sets logged across Berlin, Nantes, Prague and Rotterdam and 1 more. Often billed alongside Yan (CZ), Feenicks and Raphael Kosmos. Next up: Trojský Pivovar, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ NCOL is a techno and trance artist based in Czech Republic, tracked on soundchec
 
 Yan (CZ), Feenicks, Raphael Kosmos
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ncol/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ncol/)*

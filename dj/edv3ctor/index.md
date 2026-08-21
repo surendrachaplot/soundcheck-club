@@ -1,6 +1,6 @@
 # edv3ctor
 
-edv3ctor is a Dub and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at New Century Locker, Manchester on Fri, 16 Oct 2026.
+edv3ctor is a Dub and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at New Century Locker, Manchester on Fri, 16 Oct 2026.
 
 edv3ctor is a dub and acid artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Leeds and Manchester. Often billed alongside Simon Scott, Mike BC and Annie Errez. Next up: New Century Locker, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ edv3ctor is a dub and acid artist based in United Kingdom, tracked on soundcheck
 
 Simon Scott, Mike BC, Annie Errez
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edv3ctor/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edv3ctor/)*

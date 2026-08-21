@@ -1,6 +1,6 @@
 # SilkyBlack
 
-SilkyBlack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crossroads Cafe, New York City on Sat, 29 Aug 2026.
+SilkyBlack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Crossroads Cafe, New York City on Sat, 29 Aug 2026.
 
 SilkyBlack is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside EEVEE (3), L B33 and Marvelito. Next up: Crossroads Cafe, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ SilkyBlack is a house and techno artist based in United States of America, track
 
 EEVEE (3), L B33, Marvelito
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silkyblack/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silkyblack/)*

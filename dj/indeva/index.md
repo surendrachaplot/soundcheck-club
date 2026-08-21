@@ -1,6 +1,6 @@
 # Indeva
 
-Indeva is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Bag Factory, Manchester on Sun, 23 Aug 2026.
+Indeva is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Bag Factory, Manchester on Sun, 23 Aug 2026.
 
 Indeva is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside BR-Z, BOA (1) and Jack Banner. Next up: The Bag Factory, Manchester on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ Indeva is a jungle and garage artist based in United Kingdom, tracked on soundch
 
 BR-Z, BOA (1), Jack Banner
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indeva/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indeva/)*

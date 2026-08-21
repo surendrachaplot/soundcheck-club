@@ -1,6 +1,6 @@
 # freesi
 
-freesi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 21 Aug 2026.
+freesi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 21 Aug 2026.
 
 freesi is a house and disco artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin and Hamburg. Often billed alongside Franziska Frizzante, Luk Vicent and Bomchello. Next up: Golden Pudel Club, Hamburg on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ freesi is a house and disco artist based in Germany, tracked on soundcheck, with
 
 Franziska Frizzante, Luk Vicent, Bomchello
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freesi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freesi/)*

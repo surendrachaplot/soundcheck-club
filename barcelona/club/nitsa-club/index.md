@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Bob Moses Club Set · Dj Fra" on Fri, 21 Aug 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Bob Moses Club Set · Dj Fra" on Fri, 21 Aug 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Bob Moses, Cannelle, Dj Fra and DJ Ramon Sucesso and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

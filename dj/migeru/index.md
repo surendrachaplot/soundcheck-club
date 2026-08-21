@@ -1,6 +1,6 @@
 # migeru
 
-migeru is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Swipe 池尻大橋, Tokyo on Fri, 21 Aug 2026.
+migeru is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Swipe 池尻大橋, Tokyo on Fri, 21 Aug 2026.
 
 migeru is a hardcore and breakcore artist tracked on soundcheck, with 50 sets logged across Osaka, Seoul and Tokyo. Often billed alongside NordOst, emiku and Harmful Logic. Next up: Swipe 池尻大橋, Tokyo on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ migeru is a hardcore and breakcore artist tracked on soundcheck, with 50 sets lo
 
 NordOst, emiku, Harmful Logic
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migeru/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/migeru/)*

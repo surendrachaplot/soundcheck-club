@@ -1,6 +1,6 @@
 # Bardia Mehrzadeh
 
-Bardia Mehrzadeh is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Chicago on Fri, 18 Sept 2026.
+Bardia Mehrzadeh is a Ambient and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Chicago on Fri, 18 Sept 2026.
 
 Bardia Mehrzadeh is an ambient and acid artist tracked on soundcheck, with 15 sets logged across Chicago, Istanbul and Tbilisi. Often billed alongside Payam Parvizi, Gio Shengelia and Sevda. Next up: TBA, Chicago on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Bardia Mehrzadeh is an ambient and acid artist tracked on soundcheck, with 15 se
 
 Payam Parvizi, Gio Shengelia, Sevda
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bardiamehrzadeh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bardiamehrzadeh/)*

@@ -1,6 +1,6 @@
 # Labirynt Club
 
-Labirynt Club is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Drum and Bass Rave: OPEN DECKS (Bass Garden)" on Fri, 21 Aug 2026.
+Labirynt Club is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Drum and Bass Rave: OPEN DECKS (Bass Garden)" on Fri, 21 Aug 2026.
 
 Labirynt Club is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Chmielna 5, 00-021 Warsaw.
 
@@ -14,4 +14,4 @@ Labirynt Club is a music venue in Warsaw listed on soundcheck. 1 upcoming night.
 
 Chmielna 5, 00-021 Warsaw, Warsaw
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/labirynt-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/labirynt-club/)*

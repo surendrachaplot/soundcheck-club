@@ -1,6 +1,6 @@
 # Prismode
 
-Prismode is a Techno and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 22 Aug 2026.
+Prismode is a Techno and Afro House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 22 Aug 2026.
 
 Prismode is a techno and afro house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Bahnwärter Thiel, Munich on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Prismode is a techno and afro house artist tracked on soundcheck, with 102 sets 
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

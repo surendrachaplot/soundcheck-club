@@ -1,6 +1,6 @@
 # NYAO
 
-NYAO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Oath, Tokyo on Sat, 22 Aug 2026.
+NYAO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Oath, Tokyo on Sat, 22 Aug 2026.
 
 NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 67 sets logged across Paris and Tokyo. Often billed alongside MUNEMASA, Sakuma and Shelly. Next up: Oath, Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ NYAO is a techno and house artist based in Japan, tracked on soundcheck, with 67
 
 MUNEMASA, Sakuma, Shelly
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyao/)*

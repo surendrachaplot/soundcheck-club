@@ -1,6 +1,6 @@
 # pekkuliar
 
-pekkuliar is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Secret Location, London on Fri, 21 Aug 2026.
+pekkuliar is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Secret Location, London on Fri, 21 Aug 2026.
 
 pekkuliar is a house and acid artist tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Adria (ES) and Heather (ES). Next up: Secret Location, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ pekkuliar is a house and acid artist tracked on soundcheck, with 52 sets logged 
 
 CMYK, Adria (ES), Heather (ES)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pekkuliar/)*

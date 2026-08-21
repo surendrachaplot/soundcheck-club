@@ -1,6 +1,6 @@
 # Johnny Jitters
 
-Johnny Jitters is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Subspace, Denver on Sat, 22 Aug 2026.
+Johnny Jitters is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Subspace, Denver on Sat, 22 Aug 2026.
 
 Johnny Jitters is an idm and techno artist tracked on soundcheck, with 6 sets logged across Denver. Often billed alongside Daed, Ten and Tracer and Sinistarr. Next up: Subspace, Denver on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ Johnny Jitters is an idm and techno artist tracked on soundcheck, with 6 sets lo
 
 Daed, Ten and Tracer, Sinistarr
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyjitters/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyjitters/)*

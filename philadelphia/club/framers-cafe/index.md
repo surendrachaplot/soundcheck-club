@@ -1,6 +1,6 @@
 # Framers Cafe
 
-Framers Cafe is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Framer's Analog Afternoon" on Sat, 29 Aug 2026.
+Framers Cafe is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Framer's Analog Afternoon" on Sat, 29 Aug 2026.
 
 Framers Cafe is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including Courtnee Owens and Duiji 13. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Framers Cafe is a music venue in Philadelphia listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Framer's Analog Afternoon | Courtnee Owens, Duiji 13 |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/framers-cafe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/framers-cafe/)*

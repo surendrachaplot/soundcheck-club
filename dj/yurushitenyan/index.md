@@ -1,6 +1,6 @@
 # Yurushite Nyan
 
-Yurushite Nyan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
+Yurushite Nyan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
 
 Yurushite Nyan is a techno and club artist based in Japan, tracked on soundcheck, with 50 sets logged across Tokyo. Often billed alongside MUNÉO, illequal and NordOst. Next up: Spread, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Yurushite Nyan is a techno and club artist based in Japan, tracked on soundcheck
 
 MUNÉO, illequal, NordOst
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yurushitenyan/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yurushitenyan/)*

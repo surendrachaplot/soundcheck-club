@@ -1,6 +1,6 @@
 # Ekul
 
-Ekul is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Avve, Bangkok on Fri, 21 Aug 2026.
+Ekul is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Avve, Bangkok on Fri, 21 Aug 2026.
 
 Ekul is a bass and electro artist based in Australia, tracked on soundcheck, with 4 sets logged across Bangkok and Sydney. Often billed alongside Bats, Andrew Wowk and ANAHITA. Next up: Avve, Bangkok on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Ekul is a bass and electro artist based in Australia, tracked on soundcheck, wit
 
 Bats, Andrew Wowk, ANAHITA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ekul/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ekul/)*

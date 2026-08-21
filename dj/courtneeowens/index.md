@@ -1,6 +1,6 @@
 # Courtnee Owens
 
-Courtnee Owens is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Framers Cafe, Philadelphia on Sat, 29 Aug 2026.
+Courtnee Owens is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Framers Cafe, Philadelphia on Sat, 29 Aug 2026.
 
 Courtnee Owens is a house and afrobeat artist based in United States of America, tracked on soundcheck, with 5 sets logged across Philadelphia. Often billed alongside Duiji 13. Next up: Framers Cafe, Philadelphia on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Courtnee Owens is a house and afrobeat artist based in United States of America,
 
 Duiji 13
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneeowens/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneeowens/)*

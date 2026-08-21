@@ -1,6 +1,6 @@
 # KASHIWAGI MANIA at DeTour
 
-KASHIWAGI MANIA at DeTour on Fri 21 Aug, Tokyo. 3 acts on the bill: CATRONICA, KASHIWAGI and Kaw (1). Psytrance. Preview the line-up and save it on soundcheck.
+KASHIWAGI MANIA at DeTour on Fri 21 Aug, Tokyo. 3 acts on the bill: CATRONICA, KASHIWAGI and Kaw (1). Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

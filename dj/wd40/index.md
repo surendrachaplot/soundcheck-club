@@ -1,6 +1,6 @@
 # WD40
 
-WD40 is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OHM, Berlin on Thu, 20 Aug 2026.
+WD40 is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OHM, Berlin on Thu, 20 Aug 2026.
 
 WD40 is an ebm and house artist tracked on soundcheck, with 22 sets logged across Berlin, Chicago, Hamburg and Leipzig. Often billed alongside Lily Haz, Mithra and Newinfluenzer. Next up: OHM, Berlin on Thu 20 Aug.
 
@@ -12,6 +12,7 @@ WD40 is an ebm and house artist tracked on soundcheck, with 22 sets logged acros
 
 ## Recently played
 
+- OHM, Berlin — Thu, 20 Aug 2026
 - Jonny Knüppel, Berlin — Sat, 6 Jun 2026
 - Renate, Berlin — Fri, 29 May 2026
 - OHM, Berlin — Thu, 23 Apr 2026
@@ -19,10 +20,9 @@ WD40 is an ebm and house artist tracked on soundcheck, with 22 sets logged acros
 - Monarch, Berlin — Sun, 8 Feb 2026
 - Lark, Berlin — Fri, 19 Dec 2025
 - Lark, Berlin — Fri, 21 Nov 2025
-- Crack Bellmer, Berlin — Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Lily Haz, Mithra, Newinfluenzer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wd40/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wd40/)*

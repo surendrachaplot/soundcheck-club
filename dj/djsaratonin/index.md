@@ -1,8 +1,8 @@
 # DJ Saratonin
 
-DJ Saratonin is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 29 Aug 2026.
+DJ Saratonin is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 29 Aug 2026.
 
-DJ Saratonin is a techno and club artist based in United States of America, tracked on soundcheck, with 60 sets logged across Losangeles, Philadelphia and Sanfrancisco. Often billed alongside Profesito, rainsdeaf and 40split. Next up: F8 1192 Folsom, Sanfrancisco on Sat 29 Aug.
+DJ Saratonin is a techno and club artist based in United States of America, tracked on soundcheck, with 61 sets logged across Losangeles, Philadelphia and Sanfrancisco. Often billed alongside Profesito, rainsdeaf and 40split. Next up: F8 1192 Folsom, Sanfrancisco on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Saratonin is a techno and club artist based in United States of America, trac
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 29 Aug 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
+| Fri, 4 Sept 2026 | Public Works | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -27,4 +28,4 @@ DJ Saratonin is a techno and club artist based in United States of America, trac
 
 Profesito, rainsdeaf, 40split
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaratonin/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaratonin/)*

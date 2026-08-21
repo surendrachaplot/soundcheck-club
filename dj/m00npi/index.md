@@ -1,6 +1,6 @@
 # M00N PI
 
-M00N PI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Spkrbox, Detroit on Tue, 25 Aug 2026.
+M00N PI is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spkrbox, Detroit on Tue, 25 Aug 2026.
 
 M00N PI is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit. Often billed alongside we1sman, jamea. and AK (US). Next up: Spkrbox, Detroit on Tue 25 Aug.
 
@@ -24,4 +24,4 @@ M00N PI is a techno and club artist based in United States of America, tracked o
 
 we1sman, jamea., AK (US)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m00npi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m00npi/)*

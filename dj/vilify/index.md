@@ -1,6 +1,6 @@
 # VILIFY
 
-VILIFY is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
+VILIFY is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
 
 VILIFY is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Montreal. Often billed alongside Dj Quien, Tommy Lexxus and Grzly Adams. Next up: Panke, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ VILIFY is a drum & bass and dubstep artist based in Germany, tracked on soundche
 
 Dj Quien, Tommy Lexxus, Grzly Adams
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilify/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilify/)*

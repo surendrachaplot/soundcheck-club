@@ -1,6 +1,6 @@
 # JPA
 
-JPA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 22 Aug 2026.
+JPA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 22 Aug 2026.
 
 JPA is a techno and tech house artist based in Australia, tracked on soundcheck, with 12 sets logged across Melbourne. Often billed alongside GavWhitehouse, Audiojack and KELLY TEE. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ JPA is a techno and tech house artist based in Australia, tracked on soundcheck,
 
 GavWhitehouse, Audiojack, KELLY TEE
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jpa-au/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jpa-au/)*

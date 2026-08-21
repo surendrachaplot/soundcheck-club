@@ -1,6 +1,6 @@
 # NATHALIA (2)
 
-NATHALIA (2) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
+NATHALIA (2) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 NATHALIA (2) is a club and bass artist tracked on soundcheck, with 11 sets logged across London and Sanfrancisco. Often billed alongside BIIANCO, Elianne and Harry Gay. Next up: Club Six, Sanfrancisco on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ NATHALIA (2) is a club and bass artist tracked on soundcheck, with 11 sets logge
 
 BIIANCO, Elianne, Harry Gay
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalia-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalia-2/)*

@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "murmur on the Terrace / Summer pop-up series" on Sat, 22 Aug 2026.
+Cu is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "murmur on the Terrace / Summer pop-up series" on Sat, 22 Aug 2026.
 
 Cu is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Blackdown, DJ Button Moon, Elijah and Skilliam and Itoa and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -18,4 +18,4 @@ Cu is a music venue in London listed on soundcheck. 5 upcoming nights, with line
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

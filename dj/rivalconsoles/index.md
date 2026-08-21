@@ -1,14 +1,13 @@
 # Rival Consoles
 
-Rival Consoles is a Electronica and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 20 Aug 2026.
+Rival Consoles is a Electronica and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Rival Consoles is an electronica and experimental artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Athens and Auckland and 25 more. Often billed alongside Marcel Dettmann, Mia Koden and Clark. Next up: 1015 Folsom, Sanfrancisco on Thu 20 Aug.
+Rival Consoles is an electronica and experimental artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Athens and Auckland and 25 more. Often billed alongside Marcel Dettmann, Mia Koden and Clark. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Tue, 25 Aug 2026 | Lincoln Hall | Chicago |
 | Thu, 27 Aug 2026 | Elsewhere | New York City |
@@ -16,6 +15,7 @@ Rival Consoles is an electronica and experimental artist tracked on soundcheck, 
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Thu, 20 Aug 2026
 - Brushy Street Commons, Austin — Sun, 16 Aug 2026
 - 104 CENTQUATRE, Paris — Sat, 27 Jun 2026
 - Mon Live, Madrid — Thu, 18 Jun 2026
@@ -23,10 +23,9 @@ Rival Consoles is an electronica and experimental artist tracked on soundcheck, 
 - DR Koncerthuset, Copenhagen — Wed, 11 Mar 2026
 - BASE Milano, Milan — Sat, 7 Mar 2026
 - Meetfactory, Prague — Thu, 5 Mar 2026
-- City Recital Hall, Sydney — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Marcel Dettmann, Mia Koden, Clark
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*

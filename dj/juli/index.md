@@ -1,6 +1,6 @@
 # Julì
 
-Julì is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 12 Sept 2026.
+Julì is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 12 Sept 2026.
 
 Julì is a house and progressive house artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Marian Ariss, ALISA FILATOVA and Brina Knauss. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Julì is a house and progressive house artist based in Spain, tracked on soundch
 
 Marian Ariss, ALISA FILATOVA, Brina Knauss
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juli/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juli/)*

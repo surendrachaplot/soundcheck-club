@@ -1,6 +1,6 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club 77, Sydney on Fri, 21 Aug 2026.
+Slim Soledad is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club 77, Sydney on Fri, 21 Aug 2026.
 
 Slim Soledad is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Club 77, Sydney on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ Slim Soledad is a techno and house artist tracked on soundcheck, with 132 sets l
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

@@ -1,6 +1,6 @@
 # Binaryh
 
-Binaryh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
+Binaryh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Estância Alto da Serra, Sao Paulo on Sat, 22 Aug 2026.
 
 Binaryh is a techno and house artist tracked on soundcheck, with 18 sets logged across Dublin, Ibiza, London and Losangeles and 3 more. Often billed alongside Tale Of Us, Cassian and 8KAYS. Next up: Estância Alto da Serra, Saopaulo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Binaryh is a techno and house artist tracked on soundcheck, with 18 sets logged 
 
 Tale Of Us, Cassian, 8KAYS
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryh/)*

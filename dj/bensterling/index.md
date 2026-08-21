@@ -1,6 +1,6 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Ben Sterling is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
 
 Ben Sterling is a tech house and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside Marco Carola, Ms. Mada and Dennis Cruz. Next up: fabric, London on Fri 21 Aug.
 
@@ -36,4 +36,4 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 184 se
 
 Marco Carola, Ms. Mada, Dennis Cruz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

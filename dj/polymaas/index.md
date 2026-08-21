@@ -1,6 +1,6 @@
 # polymaas
 
-polymaas is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Kazimier Garden, Liverpool on Thu, 27 Aug 2026.
+polymaas is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kazimier Garden, Liverpool on Thu, 27 Aug 2026.
 
 polymaas is an italo disco and house artist tracked on soundcheck, with 19 sets logged across Liverpool. Often billed alongside aaypea, Giovanna and Blenky. Next up: Kazimier Garden, Liverpool on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ polymaas is an italo disco and house artist tracked on soundcheck, with 19 sets 
 
 aaypea, Giovanna, Blenky
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polymaas/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polymaas/)*

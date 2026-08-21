@@ -1,6 +1,6 @@
 # Walla P
 
-Walla P is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dr. Resin Social Club, Barcelona on Fri, 21 Aug 2026.
+Walla P is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Dr. Resin Social Club, Barcelona on Fri, 21 Aug 2026.
 
 Walla P is a funk / soul and disco artist tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Lisbon and Montreal and 3 more. Often billed alongside Kris Guilty, Alina (MTL) and Guthrie. Next up: Dr. Resin Social Club, Barcelona on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Walla P is a funk / soul and disco artist tracked on soundcheck, with 50 sets lo
 
 Kris Guilty, Alina (MTL), Guthrie
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*

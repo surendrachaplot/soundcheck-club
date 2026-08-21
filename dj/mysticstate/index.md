@@ -1,6 +1,6 @@
 # Mystic State
 
-Mystic State is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
+Mystic State is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
 
 Mystic State is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Auckland, Berlin, Brighton and Brisbane and 10 more. Often billed alongside Zar., Hyrah and Cimm. Next up: The Carpet Shop, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Mystic State is a drum & bass and dubstep artist based in United Kingdom, tracke
 
 Zar., Hyrah, Cimm
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticstate/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticstate/)*

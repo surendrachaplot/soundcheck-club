@@ -1,6 +1,6 @@
 # Satoshi & Makoto
 
-Satoshi & Makoto is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Sumida Park Soyokaze Hiroba, Tokyo on Fri, 4 Sept 2026.
+Satoshi & Makoto is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Sumida Park Soyokaze Hiroba, Tokyo on Fri, 4 Sept 2026.
 
 Satoshi & Makoto are an ambient and techno duo based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Lifelong Request and Sayuri (2). Next up: TBA - Sumida Park Soyokaze Hiroba, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Satoshi & Makoto are an ambient and techno duo based in Japan, tracked on soundc
 
 Lifelong Request, Sayuri (2)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshimakoto/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshimakoto/)*

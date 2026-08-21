@@ -1,6 +1,6 @@
 # Syper
 
-Syper is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Backyard, Lisbon on Sat, 22 Aug 2026.
+Syper is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Backyard, Lisbon on Sat, 22 Aug 2026.
 
 Syper is a techno and house artist based in Portugal, tracked on soundcheck, with 43 sets logged across Amsterdam, Lisbon and Porto. Often billed alongside DJ Nox, Analodjica and Gilvaia. Next up: Backyard, Lisbon on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Syper is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 DJ Nox, Analodjica, Gilvaia
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syper/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syper/)*

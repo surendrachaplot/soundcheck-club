@@ -1,6 +1,6 @@
 # Blanco
 
-Blanco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
+Blanco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
 
 Blanco is a house and electro artist based in France, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Budapest and Lisbon and 6 more. Often billed alongside Alyhas, Bassam and Amine Bentires. Next up: Auber Garden, Paris on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Blanco is a house and electro artist based in France, tracked on soundcheck, wit
 
 Alyhas, Bassam, Amine Bentires
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanco/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanco/)*

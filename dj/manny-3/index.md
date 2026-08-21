@@ -1,6 +1,6 @@
 # Manny (us)
 
-Manny (us) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
+Manny (us) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
 
 Manny (us) is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston, Newyorkcity and Washingtondc. Often billed alongside Max Sprauer, Kiyoshi and Rama NYC. Next up: Roof Terrace BK, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Manny (us) is a house and techno artist based in United States of America, track
 
 Max Sprauer, Kiyoshi, Rama NYC
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-3/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manny-3/)*

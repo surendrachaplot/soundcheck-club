@@ -1,6 +1,6 @@
 # Charmeine
 
-Charmeine is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Matiz, Sao Paulo on Fri, 21 Aug 2026.
+Charmeine is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Matiz, Sao Paulo on Fri, 21 Aug 2026.
 
 Charmeine is a house and tech house artist based in Turkey, tracked on soundcheck, with 28 sets logged across Barcelona, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside BLOND:ISH, Denis Sulta and Dorian Craft. Next up: Matiz, Saopaulo on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Charmeine is a house and tech house artist based in Turkey, tracked on soundchec
 
 BLOND:ISH, Denis Sulta, Dorian Craft
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charmeine/)*

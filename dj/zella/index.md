@@ -1,6 +1,6 @@
 # Zella
 
-Zella is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Warehouse Location, Boston on Fri, 21 Aug 2026.
+Zella is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Warehouse Location, Boston on Fri, 21 Aug 2026.
 
 Zella is a house and techno artist tracked on soundcheck, with 38 sets logged across Boston, Losangeles, Newyorkcity and Philadelphia. Often billed alongside cutwoes, Trip Report and Joe Tagessian. Next up: TBA - Secret Warehouse Location, Boston on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Zella is a house and techno artist tracked on soundcheck, with 38 sets logged ac
 
 cutwoes, Trip Report, Joe Tagessian
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zella/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zella/)*

@@ -1,6 +1,6 @@
 # Local Dub
 
-Local Dub is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 20 Aug 2026.
+Local Dub is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 20 Aug 2026.
 
 Local Dub is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Josh Baker, Jentzen and Alexandria. Next up: Amnesia Ibiza, Ibiza on Thu 20 Aug.
 
@@ -13,6 +13,7 @@ Local Dub is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
@@ -20,10 +21,9 @@ Local Dub is a house and tech house artist based in United Kingdom, tracked on s
 - Depot Mayfield, Manchester — Sat, 27 Sept 2025
 - Ramona, Manchester — Fri, 5 Sept 2025
 - Atlantic Club, Barcelona — Thu, 12 Jun 2025
-- Document, Bristol — Fri, 14 Feb 2025
 
 ## Shares bills with
 
 Josh Baker, Jentzen, Alexandria
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/localdub/)*

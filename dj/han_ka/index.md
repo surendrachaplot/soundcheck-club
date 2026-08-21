@@ -1,6 +1,6 @@
 # Han_Ka
 
-Han_Ka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Moondog Hifi, New York City on Sun, 23 Aug 2026.
+Han_Ka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Moondog Hifi, New York City on Sun, 23 Aug 2026.
 
 Han_Ka is a house and techno artist based in Bosnia and Herzegovina, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Alex Graham, Laura Lynn and 2melo. Next up: Moondog Hifi, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Han_Ka is a house and techno artist based in Bosnia and Herzegovina, tracked on 
 
 Alex Graham, Laura Lynn, 2melo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/han_ka/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/han_ka/)*

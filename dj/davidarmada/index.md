@@ -1,20 +1,20 @@
 # David Armada
 
-David Armada is a Deep House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chez Jean-Luc, Geneva on Thu, 20 Aug 2026.
+David Armada is a Deep House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Chez Jean-Luc, Geneva on Thu, 27 Aug 2026.
 
-David Armada is a deep house and electro artist tracked on soundcheck, with 92 sets logged across Cologne, Geneva, Lisbon and London and 1 more. Often billed alongside La Forêt, DJ Reas and STVO. Next up: Chez Jean-Luc, Geneva on Thu 20 Aug.
+David Armada is a deep house and electro artist tracked on soundcheck, with 92 sets logged across Cologne, Geneva, Lisbon and London and 1 more. Often billed alongside La Forêt, DJ Reas and STVO. Next up: Chez Jean-Luc, Geneva on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Chez Jean-Luc | Geneva |
 | Thu, 27 Aug 2026 | Chez Jean-Luc | Geneva |
 | Sat, 29 Aug 2026 | Backyard | Lisbon |
 | Sat, 29 Aug 2026 | Audio Club | Geneva |
 
 ## Recently played
 
+- Chez Jean-Luc, Geneva — Thu, 20 Aug 2026
 - Chez Jean-Luc, Geneva — Thu, 13 Aug 2026
 - MH5 Rooftop, Munich — Sat, 8 Aug 2026
 - Chez Jean-Luc, Geneva — Thu, 6 Aug 2026
@@ -22,10 +22,9 @@ David Armada is a deep house and electro artist tracked on soundcheck, with 92 s
 - Chez Jean-Luc, Geneva — Fri, 26 Jun 2026
 - Chez Jean-Luc, Geneva — Thu, 25 Jun 2026
 - Chez Jean-Luc, Geneva — Sat, 20 Jun 2026
-- Chez Jean-Luc, Geneva — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 La Forêt, DJ Reas, STVO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*

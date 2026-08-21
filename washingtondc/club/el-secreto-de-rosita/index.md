@@ -1,6 +1,6 @@
 # El Secreto De Rosita
 
-El Secreto De Rosita is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "SYD + PEARL ALL NIGHT LONG" on Sat, 29 Aug 2026.
+El Secreto De Rosita is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "SYD + PEARL ALL NIGHT LONG" on Sat, 29 Aug 2026.
 
 El Secreto De Rosita is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Syd (US). Browse upcoming dates, start times and who's playing. 1624 U St NW, Washington, DC 20009.
 
@@ -14,4 +14,4 @@ El Secreto De Rosita is a music venue in Washingtondc listed on soundcheck. 1 up
 
 1624 U St NW, Washington, DC 20009, Washington DC
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/el-secreto-de-rosita/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/el-secreto-de-rosita/)*

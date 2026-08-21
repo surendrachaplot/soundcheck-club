@@ -1,6 +1,6 @@
 # Nelly
 
-Nelly is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+Nelly is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
 
 Nelly is a r&b and hip-hop artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Brussels and Manchester and 6 more. Often billed alongside AALIYAH, Ciara and Drake (DE). Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nelly is a r&b and hip-hop artist based in United Kingdom, tracked on soundcheck
 
 AALIYAH, Ciara, Drake (DE)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly/)*

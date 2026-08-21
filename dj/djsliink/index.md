@@ -1,6 +1,6 @@
 # Dj Sliink
 
-Dj Sliink is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
+Dj Sliink is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 314 Scholes, New York City on Fri, 21 Aug 2026.
 
 Dj Sliink is a club and house artist tracked on soundcheck, with 40 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: 314 Scholes, Newyorkcity on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Dj Sliink is a club and house artist tracked on soundcheck, with 40 sets logged 
 
 AceMo, Sinistarr, Suzi Analogue
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*

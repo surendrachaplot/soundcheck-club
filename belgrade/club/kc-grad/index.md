@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Garden Of Groove" on Sun, 23 Aug 2026.
+KC Grad is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Garden Of Groove" on Sun, 23 Aug 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -15,4 +15,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 2 upcoming nights. Br
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

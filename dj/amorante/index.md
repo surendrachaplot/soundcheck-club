@@ -1,6 +1,6 @@
 # Amor Ante
 
-Amor Ante is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bar A Bar, London on Fri, 21 Aug 2026.
+Amor Ante is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bar A Bar, London on Fri, 21 Aug 2026.
 
 Amor Ante is a techno and electro artist tracked on soundcheck, with 29 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Fvck Totvm, Phåro (2) and AKU (3). Next up: Bar A Bar, London on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Amor Ante is a techno and electro artist tracked on soundcheck, with 29 sets log
 
 Fvck Totvm, Phåro (2), AKU (3)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amorante/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amorante/)*

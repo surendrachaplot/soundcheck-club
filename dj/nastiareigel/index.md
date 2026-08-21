@@ -1,6 +1,6 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at BASEMENT, New York City on Sat, 22 Aug 2026.
+Nastia Reigel is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at BASEMENT, New York City on Sat, 22 Aug 2026.
 
 Nastia Reigel is a techno and electro artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Inox Traxx, Rene Wise and Oscar Mulero. Next up: BASEMENT, Newyorkcity on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Nastia Reigel is a techno and electro artist tracked on soundcheck, with 57 sets
 
 Inox Traxx, Rene Wise, Oscar Mulero
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

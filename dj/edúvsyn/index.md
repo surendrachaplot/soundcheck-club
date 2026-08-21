@@ -1,6 +1,6 @@
 # Edúv Syn
 
-Edúv Syn is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fuchs2, Prague on Fri, 21 Aug 2026.
+Edúv Syn is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fuchs2, Prague on Fri, 21 Aug 2026.
 
 Edúv Syn is an electronic artist tracked on soundcheck, with 15 sets logged across Prague. Often billed alongside Freddie Hudson, Kabal and Exui. Next up: Fuchs2, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Edúv Syn is an electronic artist tracked on soundcheck, with 15 sets logged acr
 
 Freddie Hudson, Kabal, Exui
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edúvsyn/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edúvsyn/)*

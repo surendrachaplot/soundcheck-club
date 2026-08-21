@@ -1,6 +1,6 @@
 # Miss Cabbage
 
-Miss Cabbage is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The White Hotel, Manchester on Fri, 28 Aug 2026.
+Miss Cabbage is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The White Hotel, Manchester on Fri, 28 Aug 2026.
 
 Miss Cabbage is a techno and bass artist tracked on soundcheck, with 83 sets logged across Barcelona, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside HUNTRESS, Babyjaii and Rahul.mp3. Next up: The White Hotel, Manchester on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Miss Cabbage is a techno and bass artist tracked on soundcheck, with 83 sets log
 
 HUNTRESS, Babyjaii, Rahul.mp3
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*

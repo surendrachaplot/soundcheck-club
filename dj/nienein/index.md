@@ -1,6 +1,6 @@
 # Nienein
 
-Nienein is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at elipamanoke, Leipzig on Fri, 28 Aug 2026.
+Nienein is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at elipamanoke, Leipzig on Fri, 28 Aug 2026.
 
 Nienein is a techno and trance artist tracked on soundcheck, with 32 sets logged across Berlin and Leipzig. Often billed alongside DJ STIMULA, Siggi Petrol and Lars Goldammer. Next up: elipamanoke, Leipzig on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Nienein is a techno and trance artist tracked on soundcheck, with 32 sets logged
 
 DJ STIMULA, Siggi Petrol, Lars Goldammer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nienein/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nienein/)*

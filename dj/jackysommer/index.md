@@ -1,6 +1,6 @@
 # Jacky Sommer
 
-Jacky Sommer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Sat, 29 Aug 2026.
+Jacky Sommer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sat, 29 Aug 2026.
 
 Jacky Sommer is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Berlin and Newyorkcity. Often billed alongside Analog Soul, DatKat and Donny Burlin. Next up: Roof Terrace BK, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jacky Sommer is a house and techno artist based in United States of America, tra
 
 Analog Soul, DatKat, Donny Burlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackysommer/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackysommer/)*

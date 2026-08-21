@@ -1,6 +1,6 @@
 # Acqua Supper Club
 
-Acqua Supper Club is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Our Latin Thing" on Fri, 21 Aug 2026.
+Acqua Supper Club is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Our Latin Thing" on Fri, 21 Aug 2026.
 
 Acqua Supper Club is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Iced Misto, Mark Oliver, Matthew Charles and Yogi. Browse upcoming dates, start times and who's playing. 50 Prince Edward Island Crescent, Toronto, ON M6K 3C3, Canada.
 
@@ -16,4 +16,4 @@ Acqua Supper Club is a music venue in Toronto listed on soundcheck. 3 upcoming n
 
 50 Prince Edward Island Crescent, Toronto, ON M6K 3C3, Canada, Toronto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/acqua-supper-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/acqua-supper-club/)*

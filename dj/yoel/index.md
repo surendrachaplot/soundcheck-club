@@ -1,6 +1,6 @@
 # Yoel
 
-Yoel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
+Yoel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
 
 Yoel is a techno and house artist based in South Korea, tracked on soundcheck, with 33 sets logged across Bangkok, Hongkong and Seoul. Often billed alongside Kyuchan, chani and Minkyu. Next up: Modeci, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Yoel is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 Kyuchan, chani, Minkyu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoel/)*

@@ -1,6 +1,6 @@
 # Chicaiza
 
-Chicaiza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Monarch, Berlin on Fri, 4 Sept 2026.
+Chicaiza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Monarch, Berlin on Fri, 4 Sept 2026.
 
 Chicaiza is a house and techno artist tracked on soundcheck, with 36 sets logged across Bangkok, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Patamamba, Cosmic JD and Kamyar Keramati. Next up: Monarch, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Chicaiza is a house and techno artist tracked on soundcheck, with 36 sets logged
 
 Patamamba, Cosmic JD, Kamyar Keramati
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicaiza/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicaiza/)*

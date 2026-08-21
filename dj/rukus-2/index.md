@@ -1,6 +1,6 @@
 # Rukus (2)
 
-Rukus (2) is a Electronica and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Jam Jar, Bristol on Sat, 29 Aug 2026.
+Rukus (2) is a Electronica and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Jam Jar, Bristol on Sat, 29 Aug 2026.
 
 Rukus (2) is an electronica and afrobeats artist tracked on soundcheck, with 6 sets logged across Bristol. Often billed alongside A:sine, Gemmy and Sempra. Next up: The Jam Jar, Bristol on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Rukus (2) is an electronica and afrobeats artist tracked on soundcheck, with 6 s
 
 A:sine, Gemmy, Sempra
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rukus-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rukus-2/)*

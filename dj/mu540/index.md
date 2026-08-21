@@ -1,6 +1,6 @@
 # Mu540
 
-Mu540 is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at EartH, London on Sat, 5 Sept 2026.
+Mu540 is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at EartH, London on Sat, 5 Sept 2026.
 
 Mu540 is a baile funk and house artist based in Brazil, tracked on soundcheck, with 20 sets logged across Amsterdam, Lisbon, London and Lyon and 4 more. Often billed alongside NOIA, RHR and Anetha. Next up: EartH, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mu540 is a baile funk and house artist based in Brazil, tracked on soundcheck, w
 
 NOIA, RHR, Anetha
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mu540/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mu540/)*

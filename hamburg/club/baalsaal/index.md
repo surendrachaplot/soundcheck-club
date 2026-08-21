@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "SOLIRAVE by Senza Nome x behave x REVERSED" on Fri, 21 Aug 2026.
+Baalsaal is a music venue in Hamburg with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "SOLIRAVE by Senza Nome x behave x REVERSED" on Fri, 21 Aug 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 16 upcoming nights, with line-ups including Aliha, Anne-Lu, BAUER (DE) and MOMO MISCHT and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 16 upcoming nights, w
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

@@ -1,6 +1,6 @@
 # Nicholsandroark
 
-Nicholsandroark is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
+Nicholsandroark is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Lieberscholli, Munich on Fri, 21 Aug 2026.
 
 Nicholsandroark is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Munich. Often billed alongside Alexa (KR), Alythia Kwan and AmyElle. Next up: Lieberscholli, Munich on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Nicholsandroark is a house and deep house artist based in United Kingdom, tracke
 
 Alexa (KR), Alythia Kwan, AmyElle
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholsandroark/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholsandroark/)*

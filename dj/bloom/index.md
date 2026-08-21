@@ -1,6 +1,6 @@
 # Bloom
 
-Bloom is a House and Grime artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hive Club, Zurich on Sat, 22 Aug 2026.
+Bloom is a House and Grime artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Hive Club, Zurich on Sat, 22 Aug 2026.
 
 Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Bangkok and Belfast and 5 more. Often billed alongside ELIF, Giantsiam and Kamma. Next up: Hive Club, Zurich on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck
 
 ELIF, Giantsiam, Kamma
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*

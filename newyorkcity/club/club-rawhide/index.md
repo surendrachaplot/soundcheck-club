@@ -1,14 +1,13 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "CODED Thursdays with planetperris, Boomer Banks" on Thu, 20 Aug 2026.
+Club Rawhide is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Club Rawhide FRIDAY NIGHT with Will Automagic, LOKA, Malcolm XL" on Fri, 21 Aug 2026.
 
-Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Boomer Banks, camgirll8, Dj Warning and Gag Ørder and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including camgirll8, Dj Warning, Gag Ørder and LOKA (US) and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | CODED Thursdays with planetperris, Boomer Banks | Boomer Banks, planetperris |
 | Fri, 21 Aug 2026 | Club Rawhide FRIDAY NIGHT with Will Automagic, LOKA, Malcolm XL | LOKA (US), Malcolm XL, Will Automagic |
 | Sat, 22 Aug 2026 | Club Rawhide SATURDAY NIGHT with Michael Magnan, Tom Peters, verdigris | Michael Magnan, Tom Peters, verdigris |
 | Thu, 27 Aug 2026 | CODED Thursdays with Rob Aquino | Rob Aquino |
@@ -19,4 +18,4 @@ Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 6 upcoming ni
 
 250 W 26TH ST, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

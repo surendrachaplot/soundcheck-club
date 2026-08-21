@@ -1,6 +1,6 @@
 # Exui
 
-Exui is a Gabber and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fuchs2, Prague on Fri, 21 Aug 2026.
+Exui is a Gabber and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fuchs2, Prague on Fri, 21 Aug 2026.
 
 Exui is a gabber and breakcore artist based in Slovakia, tracked on soundcheck, with 16 sets logged across Berlin and Prague. Often billed alongside Kaa Glo, RiVid and 2NDRA. Next up: Fuchs2, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Exui is a gabber and breakcore artist based in Slovakia, tracked on soundcheck, 
 
 Kaa Glo, RiVid, 2NDRA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exui/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exui/)*

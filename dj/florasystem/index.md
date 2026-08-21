@@ -1,6 +1,6 @@
 # florasystem
 
-florasystem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
+florasystem is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
 
 florasystem is a techno and house artist tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside Hiroki, maxedvisa and Program Sam. Next up: Cherry Beach, Toronto on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ florasystem is a techno and house artist tracked on soundcheck, with 38 sets log
 
 Hiroki, maxedvisa, Program Sam
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florasystem/)*

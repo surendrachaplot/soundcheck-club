@@ -1,6 +1,6 @@
 # k4mi
 
-k4mi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+k4mi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
 
 k4mi is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside August Kind, Bruno Brero and Deltapeak. Next up: ÆDEN, Berlin on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ k4mi is a techno and trance artist tracked on soundcheck, with 6 sets logged acr
 
 August Kind, Bruno Brero, Deltapeak
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k4mi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k4mi/)*

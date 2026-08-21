@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Psychic Liberation Night: Niloofar Asghary + Júlia Koffler" on Fri, 21 Aug 2026.
+Silent Green is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Psychic Liberation Night: Niloofar Asghary + Júlia Koffler" on Fri, 21 Aug 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including Ana Roxanne, bela, Burnt Friedman and Carla dal Forno and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 19 upcoming nights
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

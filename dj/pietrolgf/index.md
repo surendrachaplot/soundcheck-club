@@ -1,13 +1,14 @@
 # Pietro LGF
 
-Pietro LGF is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Pietro LGF is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Two More Years, London on Sat, 22 Aug 2026.
 
-Pietro LGF is a house and ambient artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Nicola Mannini, Suerta and Rez Alberto Rettore. Next up: Basing House, London on Fri 11 Sept.
+Pietro LGF is a house and ambient artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside Nicola Mannini, Suerta and Rez Alberto Rettore. Next up: Two More Years, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Two More Years | London |
 | Fri, 11 Sept 2026 | Basing House | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pietro LGF is a house and ambient artist tracked on soundcheck, with 20 sets log
 
 Nicola Mannini, Suerta, Rez Alberto Rettore
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrolgf/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrolgf/)*

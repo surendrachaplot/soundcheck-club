@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "FLOAT Rooftop Pool Party feat. Durante [2-8 PM]" on Sat, 22 Aug 2026.
+Level 8 DTLA is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "FLOAT Rooftop Pool Party feat. Durante [2-8 PM]" on Sat, 22 Aug 2026.
 
 Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Apache, Araminta, Durante and GESHAY and 1 more. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -20,4 +20,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 7 upcoming nig
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

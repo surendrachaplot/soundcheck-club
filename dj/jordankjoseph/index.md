@@ -1,6 +1,6 @@
 # Jordan K Joseph
 
-Jordan K Joseph is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hoxton Cabin, London on Sat, 3 Oct 2026.
+Jordan K Joseph is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hoxton Cabin, London on Sat, 3 Oct 2026.
 
 Jordan K Joseph is a bass and trance artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Conrad Lee, Maria Hanlon and Marley Reid. Next up: Hoxton Cabin, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jordan K Joseph is a bass and trance artist based in United Kingdom, tracked on 
 
 Conrad Lee, Maria Hanlon, Marley Reid
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordankjoseph/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordankjoseph/)*

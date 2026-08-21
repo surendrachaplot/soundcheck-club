@@ -1,6 +1,6 @@
 # 1 ANNIVERSARIO MIRA RIO: Daox, Penelope, Tiago, Juju Mandu at Quinta Mira Rio
 
-1 ANNIVERSARIO MIRA RIO: Daox, Penelope, Tiago, Juju Mandu at Quinta Mira Rio on Sat 22 Aug, Lisbon. 4 acts on the bill: Daox, Juju Manju, Penelope (2) and Tiago. Preview the line-up and save it on soundcheck.
+1 ANNIVERSARIO MIRA RIO: Daox, Penelope, Tiago, Juju Mandu at Quinta Mira Rio on Sat 22 Aug, Lisbon. 5 acts on the bill: C4STRO, Daox, Juju Manju and Penelope (2) and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- C4STRO
 - Daox
 - Juju Manju
 - Penelope (2)

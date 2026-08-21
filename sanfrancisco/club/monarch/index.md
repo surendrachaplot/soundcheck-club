@@ -1,14 +1,13 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Bump presents DJ JUANNY, FeLine, HUFFY" on Thu, 20 Aug 2026.
+Monarch is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Reggaeton de Hoy vs. Reggaeton de Antes" on Fri, 21 Aug 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including DJ JUANNY, Acid Boner, ANDYLAND and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Acid Boner, ANDYLAND, bastiengoat and DJ Earth Angel and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Bump presents DJ JUANNY, FeLine, HUFFY | DJ JUANNY, FeLine, Huffy (2) |
 | Fri, 21 Aug 2026 | Reggaeton de Hoy vs. Reggaeton de Antes | DJ Earth Angel |
 | Sat, 22 Aug 2026 | Pluko |  |
 | Sat, 22 Aug 2026 | Bruised All Night | xtcemi |
@@ -21,4 +20,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

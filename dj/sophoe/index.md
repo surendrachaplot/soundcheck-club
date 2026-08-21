@@ -1,6 +1,6 @@
 # SOPHOE
 
-SOPHOE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Moezeum, Rotterdam on Sat, 12 Sept 2026.
+SOPHOE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Moezeum, Rotterdam on Sat, 12 Sept 2026.
 
 SOPHOE is a techno and house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Rotterdam. Often billed alongside SAMOH, BERTØ and Caelestis. Next up: Moezeum, Rotterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SOPHOE is a techno and house artist tracked on soundcheck, with 9 sets logged ac
 
 SAMOH, BERTØ, Caelestis
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophoe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophoe/)*

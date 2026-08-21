@@ -1,6 +1,6 @@
 # elliephunk
 
-elliephunk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
+elliephunk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
 
 elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, with 85 sets logged across Berlin, Frankfurt and Newyorkcity. Often billed alongside Organza, B.A.O. and Camilla Rae. Next up: OXI, Berlin on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, 
 
 Organza, B.A.O., Camilla Rae
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*

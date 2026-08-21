@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "COINCIDENCE - ALL MIX / HOUSE / TECHNO / BASS -" on Thu, 20 Aug 2026.
+ZEROTOKYO is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "電脳一舞踏会 4th Anniversary - HARD DANCE / SUBCULTURE - " on Fri, 21 Aug 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | COINCIDENCE - ALL MIX / HOUSE / TECHNO / BASS - | omeme_gangimari |
 | Fri, 21 Aug 2026 | 電脳一舞踏会 4th Anniversary - HARD DANCE / SUBCULTURE -  | Aiobahn, HiTOMi, NOIA, Natsu |
 | Sat, 22 Aug 2026 | DLIGHT - HOUSE / TECH HOUSE - | ALEXANDER M, ANDY DEDE, AY (10), DADO, EIGHT, HATSUYUKI |
 | Thu, 27 Aug 2026 | PRISIM - ALL GOOD MUSIC / GLOBAL HITS / HARD TECHNO / TROPICAL GROOVES - |  |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, wi
 | Sat, 5 Sept 2026 | EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE | AYANA KOSHIBA, Chamcham, DJ MARIA., EMILIO (3), Maya, SONATA, VOX (1), YAMARCHY, uuu7 |
 | Thu, 10 Sept 2026 | 理由 - ELECTRO / HIPHOP / R&B / HOUSE / BASS - | DA BOOK, DJ EYELASH |
 | Fri, 11 Sept 2026 | Locker Room feat.6EJOU - HARD TECHNO / TECHNO - | 6EJOU, DALJAE |
+| Fri, 18 Sept 2026 | GOLD DISC - ALL MIX - | Aiobahn |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

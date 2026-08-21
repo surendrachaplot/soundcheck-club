@@ -1,6 +1,6 @@
 # KEN (DE)
 
-KEN (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
+KEN (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
 
 KEN (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin and Munich. Often billed alongside DJ PayPaul, Tim Hagemann and Chaos Techno.Berlin. Next up: KitKatClub, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KEN (DE) is a techno and house artist based in Germany, tracked on soundcheck, w
 
 DJ PayPaul, Tim Hagemann, Chaos Techno.Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-de/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-de/)*

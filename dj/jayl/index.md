@@ -1,6 +1,6 @@
 # Jay L
 
-Jay L is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Strange Brew, Bristol on Fri, 21 Aug 2026.
+Jay L is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Strange Brew, Bristol on Fri, 21 Aug 2026.
 
 Jay L is a disco and deep house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Bristol, Cork and London. Often billed alongside Andy Mac, Specter and Aqwea. Next up: Strange Brew, Bristol on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Jay L is a disco and deep house artist based in United Kingdom, tracked on sound
 
 Andy Mac, Specter, Aqwea
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayl/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayl/)*

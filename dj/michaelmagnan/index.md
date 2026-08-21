@@ -1,6 +1,6 @@
 # Michael Magnan
 
-Michael Magnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Rawhide, New York City on Sat, 22 Aug 2026.
+Michael Magnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Rawhide, New York City on Sat, 22 Aug 2026.
 
 Michael Magnan is a house and techno artist based in United States of America, tracked on soundcheck, with 82 sets logged across Losangeles, Mexicocity, Newyorkcity and Sanfrancisco and 2 more. Often billed alongside Physical Therapy, Nita Aviance and Fatherhood. Next up: Club Rawhide, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Michael Magnan is a house and techno artist based in United States of America, t
 
 Physical Therapy, Nita Aviance, Fatherhood
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmagnan/)*

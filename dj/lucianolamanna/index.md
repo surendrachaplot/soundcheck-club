@@ -1,6 +1,6 @@
 # Luciano Lamanna
 
-Luciano Lamanna is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Forte Antenne, Rome on Fri, 21 Aug 2026.
+Luciano Lamanna is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Forte Antenne, Rome on Fri, 21 Aug 2026.
 
 Luciano Lamanna is a techno and hardcore artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan, Naples and Rome. Often billed alongside fivequestionmarks, CezarX and Dolce Potente. Next up: Forte Antenne, Rome on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Luciano Lamanna is a techno and hardcore artist based in Italy, tracked on sound
 
 fivequestionmarks, CezarX, Dolce Potente
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianolamanna/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucianolamanna/)*

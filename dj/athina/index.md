@@ -1,6 +1,6 @@
 # Athina
 
-Athina is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OST, Berlin on Sat, 19 Sept 2026.
+Athina is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OST, Berlin on Sat, 19 Sept 2026.
 
 Athina is a techno and industrial artist tracked on soundcheck, with 93 sets logged across Berlin and Cologne. Often billed alongside Amøn, Kø:lab and SEKTOR69. Next up: OST, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Athina is a techno and industrial artist tracked on soundcheck, with 93 sets log
 
 Amøn, Kø:lab, SEKTOR69
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athina/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athina/)*

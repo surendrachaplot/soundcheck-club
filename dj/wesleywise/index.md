@@ -1,6 +1,6 @@
 # Wesley Wise
 
-Wesley Wise is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Meteor Studio, Tbilisi on Sat, 22 Aug 2026.
+Wesley Wise is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Meteor Studio, Tbilisi on Sat, 22 Aug 2026.
 
 Wesley Wise is an electro and techno artist tracked on soundcheck, with 70 sets logged across Berlin and Tbilisi. Often billed alongside Sportsmanship, Dali (GE) and Esi (De Re). Next up: Meteor Studio, Tbilisi on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Wesley Wise is an electro and techno artist tracked on soundcheck, with 70 sets 
 
 Sportsmanship, Dali (GE), Esi (De Re)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleywise/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleywise/)*

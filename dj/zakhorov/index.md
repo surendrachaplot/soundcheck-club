@@ -1,6 +1,6 @@
 # Zakhorov
 
-Zakhorov is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Viadukt Bar, Budapest on Sun, 23 Aug 2026.
+Zakhorov is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Viadukt Bar, Budapest on Sun, 23 Aug 2026.
 
 Zakhorov is an electronica artist tracked on soundcheck, with 15 sets logged across Budapest and Vienna. Often billed alongside Meo Culpa, OIEE and Den (4). Next up: Viadukt Bar, Budapest on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Zakhorov is an electronica artist tracked on soundcheck, with 15 sets logged acr
 
 Meo Culpa, OIEE, Den (4)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*

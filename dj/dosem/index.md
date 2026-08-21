@@ -1,6 +1,6 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
+Dosem is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
 
 Dosem is a progressive house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: Guíxols Arena, Barcelona on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Dosem is a progressive house and techno artist tracked on soundcheck, with 73 se
 
 Jody Wisternoff, Marsh, Nicky Elisabeth
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*

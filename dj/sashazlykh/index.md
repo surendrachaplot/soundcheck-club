@@ -1,6 +1,6 @@
 # Sasha Zlykh
 
-Sasha Zlykh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lilli Escher, Hamburg on Sat, 29 Aug 2026.
+Sasha Zlykh is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lilli Escher, Hamburg on Sat, 29 Aug 2026.
 
 Sasha Zlykh is a techno and house artist based in Ukraine, tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Krakow and Leipzig and 5 more. Often billed alongside Ilja Franz, Katia Curie and Finona Rider. Next up: Lilli Escher, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sasha Zlykh is a techno and house artist based in Ukraine, tracked on soundcheck
 
 Ilja Franz, Katia Curie, Finona Rider
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashazlykh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashazlykh/)*

@@ -1,6 +1,6 @@
 # Mark Angel
 
-Mark Angel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
+Mark Angel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
 
 Mark Angel is a techno and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago. Often billed alongside Brenda, Gabriel Palomo and Pat Fee. Next up: TBA - Humboldt Park, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mark Angel is a techno and house artist based in United States of America, track
 
 Brenda, Gabriel Palomo, Pat Fee
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markangel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markangel/)*

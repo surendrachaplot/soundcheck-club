@@ -1,6 +1,6 @@
 # Penelope (2)
 
-Penelope (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
+Penelope (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Nidderbad, Frankfurt on Sat, 22 Aug 2026.
 
 Penelope (2) is a techno and house artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside nomitekk, Formale Bassgestaltung and Gwenan. Next up: Nidderbad, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Penelope (2) is a techno and house artist tracked on soundcheck, with 31 sets lo
 
 nomitekk, Formale Bassgestaltung, Gwenan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-se/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/penelope-se/)*

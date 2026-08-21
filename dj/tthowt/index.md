@@ -1,6 +1,6 @@
 # tthowt
 
-tthowt is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
+tthowt is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
 
 tthowt is an electro and techno artist based in South Korea, tracked on soundcheck, with 21 sets logged across Seoul. Often billed alongside BASKERVILLE, PRIMIT and T-BURN. Next up: Shelter, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ tthowt is an electro and techno artist based in South Korea, tracked on soundche
 
 BASKERVILLE, PRIMIT, T-BURN
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tthowt/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tthowt/)*

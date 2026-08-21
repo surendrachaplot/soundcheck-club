@@ -1,6 +1,6 @@
 # Anna Schreit
 
-Anna Schreit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Zuckerzauber, Berlin on Sun, 23 Aug 2026.
+Anna Schreit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Zuckerzauber, Berlin on Sun, 23 Aug 2026.
 
 Anna Schreit is a house and techno artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Frankfurt and Ghent and 5 more. Often billed alongside David Silver, Rosa Kante and Sisyphos. Next up: Zuckerzauber, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Anna Schreit is a house and techno artist based in Germany, tracked on soundchec
 
 David Silver, Rosa Kante, Sisyphos
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaschreit/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaschreit/)*

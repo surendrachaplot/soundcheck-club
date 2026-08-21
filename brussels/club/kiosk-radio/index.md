@@ -1,6 +1,6 @@
 # Kiosk Radio
 
-Kiosk Radio is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Kiosk Session with John Carroll Kirby & Lawrence Le Doux" on Sun, 30 Aug 2026.
+Kiosk Radio is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Kiosk Session with John Carroll Kirby & Lawrence Le Doux" on Sun, 30 Aug 2026.
 
 Kiosk Radio is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Lawrence Le Doux. Browse upcoming dates, start times and who's playing. Place des Palais 10, 1000 Bruxelles, Belgique.
 
@@ -14,4 +14,4 @@ Kiosk Radio is a music venue in Brussels listed on soundcheck. 1 upcoming night,
 
 Place des Palais 10, 1000 Bruxelles, Belgique, Brussels
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/kiosk-radio/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/kiosk-radio/)*

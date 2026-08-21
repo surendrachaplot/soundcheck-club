@@ -1,6 +1,6 @@
 # domizako
 
-domizako is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fuchs2, Prague on Sat, 22 Aug 2026.
+domizako is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fuchs2, Prague on Sat, 22 Aug 2026.
 
 domizako is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, London and Prague and 2 more. Often billed alongside Kaa Glo, NEW MAGIC MEDIA and Miss Univers. Next up: Fuchs2, Prague on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ domizako is a techno and trance artist tracked on soundcheck, with 49 sets logge
 
 Kaa Glo, NEW MAGIC MEDIA, Miss Univers
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domizako/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domizako/)*

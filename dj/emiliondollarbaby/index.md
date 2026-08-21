@@ -1,6 +1,6 @@
 # Emilion Dollar Baby
 
-Emilion Dollar Baby is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - VIP Späti, Neukölln, Berlin on Fri, 21 Aug 2026.
+Emilion Dollar Baby is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - VIP Späti, Neukölln, Berlin on Fri, 21 Aug 2026.
 
 Emilion Dollar Baby is a house and techno artist tracked on soundcheck, with 28 sets logged across Berlin and London. Often billed alongside Kazuki Takahashi, Yukari and DJ Kodah. Next up: TBA - VIP Späti, Neukölln, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Emilion Dollar Baby is a house and techno artist tracked on soundcheck, with 28 
 
 Kazuki Takahashi, Yukari, DJ Kodah
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*

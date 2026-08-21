@@ -1,6 +1,6 @@
 # Suz
 
-Suz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Suz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Suz is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Miami and Seattle. Often billed alongside Ale Acosta, Alexx in Chainss and Artime. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Suz is a techno and electronica artist tracked on soundcheck, with 5 sets logged
 
 Ale Acosta, Alexx in Chainss, Artime
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suz/)*

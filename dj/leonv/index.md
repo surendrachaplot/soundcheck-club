@@ -1,6 +1,6 @@
 # Leon V
 
-Leon V is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 21 Aug 2026.
+Leon V is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 21 Aug 2026.
 
 Leon V is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity, Osaka and Vancouver. Often billed alongside Jared Love, STILL LNDN and Albert_. Next up: Gorg-O-Mish, Vancouver on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Leon V is a house and techno artist based in United States of America, tracked o
 
 Jared Love, STILL LNDN, Albert_
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonv/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonv/)*

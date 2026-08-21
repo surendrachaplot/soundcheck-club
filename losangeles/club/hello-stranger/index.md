@@ -1,6 +1,6 @@
 # Hello Stranger
 
-Hello Stranger is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Ameega, XL Middleton, & Moniquea - Live at Indeed Indeed" on Fri, 21 Aug 2026.
+Hello Stranger is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Ameega, XL Middleton, & Moniquea - Live at Indeed Indeed" on Fri, 21 Aug 2026.
 
 Hello Stranger is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 320 East 2nd Street Los Angeles, CA 90012.
 
@@ -15,4 +15,4 @@ Hello Stranger is a music venue in Losangeles listed on soundcheck. 2 upcoming n
 
 320 East 2nd Street Los Angeles, CA 90012, Los Angeles
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hello-stranger/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hello-stranger/)*

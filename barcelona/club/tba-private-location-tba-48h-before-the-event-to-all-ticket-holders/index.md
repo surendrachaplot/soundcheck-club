@@ -1,6 +1,6 @@
 # TBA - private location, tba 48h before the event to all ticket holders
 
-TBA - private location, tba 48h before the event to all ticket holders is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sex-Positive Techno Party // Back to School // 60% sold out" on Fri, 28 Aug 2026.
+TBA - private location, tba 48h before the event to all ticket holders is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Sex-Positive Techno Party // Back to School // 60% sold out" on Fri, 28 Aug 2026.
 
 TBA - private location, tba 48h before the event to all ticket holders is a music venue in Barcelona listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - private location, tba 48h before the event to all ticket holders is a musi
 | Fri, 28 Aug 2026 | Sex-Positive Techno Party // Back to School // 60% sold out |  |
 | Fri, 18 Sept 2026 | S+ Techno Party x Anniversary Big Edition |  |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-private-location-tba-48h-before-the-event-to-all-ticket-holders/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-private-location-tba-48h-before-the-event-to-all-ticket-holders/)*

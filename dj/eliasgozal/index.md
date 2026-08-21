@@ -1,6 +1,6 @@
 # Elias Gozal
 
-Elias Gozal is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 28 Aug 2026.
+Elias Gozal is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 28 Aug 2026.
 
 Elias Gozal is a techno and trance artist based in Denmark, tracked on soundcheck, with 52 sets logged across Berlin, Copenhagen, Hamburg and London and 1 more. Often billed alongside Neri J, Anna Logic and DJ 2LATE. Next up: Den Anden Side, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Elias Gozal is a techno and trance artist based in Denmark, tracked on soundchec
 
 Neri J, Anna Logic, DJ 2LATE
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgozal/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgozal/)*

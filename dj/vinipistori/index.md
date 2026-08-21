@@ -1,6 +1,6 @@
 # Vini Pistori
 
-Vini Pistori is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Backyard, Lisbon on Sat, 22 Aug 2026.
+Vini Pistori is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Backyard, Lisbon on Sat, 22 Aug 2026.
 
 Vini Pistori is a house and tech house artist based in Portugal, tracked on soundcheck, with 22 sets logged across Berlin, Lisbon, London and Porto and 1 more. Often billed alongside Syper, Mila Stern and Mira. Next up: Backyard, Lisbon on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Vini Pistori is a house and tech house artist based in Portugal, tracked on soun
 
 Syper, Mila Stern, Mira
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinipistori/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinipistori/)*

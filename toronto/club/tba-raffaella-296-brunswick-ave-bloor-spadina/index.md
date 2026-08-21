@@ -1,6 +1,6 @@
 # TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina
 
-TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Combine: I Hate Models Activation Event & Scavenger Hunt " on Sat, 22 Aug 2026.
+TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Combine: I Hate Models Activation Event & Scavenger Hunt " on Sat, 22 Aug 2026.
 
 TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including R-ODERICK. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina is a music venue in Toronto 
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Combine: I Hate Models Activation Event & Scavenger Hunt  | R-ODERICK |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-raffaella-296-brunswick-ave-bloor-spadina/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-raffaella-296-brunswick-ave-bloor-spadina/)*

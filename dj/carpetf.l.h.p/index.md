@@ -1,6 +1,6 @@
 # Carpet (F.L.H.P)
 
-Carpet (F.L.H.P) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, New York City on Fri, 21 Aug 2026.
+Carpet (F.L.H.P) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, New York City on Fri, 21 Aug 2026.
 
 Carpet (F.L.H.P) is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 12 sets logged across Mexicocity and Newyorkcity. Often billed alongside Concret, MARBLE RYE and Akanbi. Next up: TBA, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Carpet (F.L.H.P) is an ambient and experimental artist based in United States of
 
 Concret, MARBLE RYE, Akanbi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carpetf.l.h.p/)*

@@ -1,6 +1,6 @@
 # AMBRR
 
-AMBRR is a House and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
+AMBRR is a House and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
 
 AMBRR is a house and latin bass artist tracked on soundcheck, with 12 sets logged across London, Losangeles, Paris and Rotterdam. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: TBA - Paris, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ AMBRR is a house and latin bass artist tracked on soundcheck, with 12 sets logge
 
 ELLADHC, ARRA, Alxander Ivey
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*

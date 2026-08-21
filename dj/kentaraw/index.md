@@ -1,6 +1,6 @@
 # kentaraw
 
-kentaraw is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at teller, Seoul on Fri, 4 Sept 2026.
+kentaraw is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at teller, Seoul on Fri, 4 Sept 2026.
 
 kentaraw is a minimal and house artist tracked on soundcheck, with 4 sets logged across Seoul and Tokyo. Often billed alongside yoshiken, yyshuu and Akarsh. Next up: teller, Seoul on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ kentaraw is a minimal and house artist tracked on soundcheck, with 4 sets logged
 
 yoshiken, yyshuu, Akarsh
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaraw/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentaraw/)*

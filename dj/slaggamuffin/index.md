@@ -1,6 +1,6 @@
 # SLAGGAMUFFIN
 
-SLAGGAMUFFIN is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Jam Jar, Bristol on Fri, 21 Aug 2026.
+SLAGGAMUFFIN is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Jam Jar, Bristol on Fri, 21 Aug 2026.
 
 SLAGGAMUFFIN is a baile funk and house artist tracked on soundcheck, with 21 sets logged across Bristol. Often billed alongside Anything But Becky, Azumei and Phia500. Next up: The Jam Jar, Bristol on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ SLAGGAMUFFIN is a baile funk and house artist tracked on soundcheck, with 21 set
 
 Anything But Becky, Azumei, Phia500
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slaggamuffin/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slaggamuffin/)*

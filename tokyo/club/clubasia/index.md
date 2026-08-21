@@ -1,14 +1,13 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "club asia THURSDAY" on Thu, 20 Aug 2026.
+clubasia is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "NEBULA × DIMENSION welcomes Perc. HARD GROOVE • HARD TECHNO • HARDCORE" on Fri, 21 Aug 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 80KIDZ, AMANE, anolis and Bonnie and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 80KIDZ, anolis, Bonnie and discopants and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | club asia THURSDAY | AMANE, FELINE (JP), K8 (TYO GQOM), KOTSU, Licaxxx, Nari (2), Stones Taro, kengotaki |
 | Fri, 21 Aug 2026 | NEBULA × DIMENSION welcomes Perc. HARD GROOVE • HARD TECHNO • HARDCORE | EMILIO (3), GENDER-K (2), KAMIKAZE, KONTOMO, Kosuke, LYOM, MAYUDEPTH, MUSCLE ∞ BROTHERS, NITA, Perc, shimosoma |
 | Wed, 26 Aug 2026 | EXODUS vol.247 | FUJI TRILL, misa nakamura |
 | Thu, 27 Aug 2026 | club asia THURSDAY | Bonnie, MICO, NordOst, Whatman, anolis, michika |
@@ -22,4 +21,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

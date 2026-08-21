@@ -1,6 +1,6 @@
 # Fka Mash
 
-Fka Mash is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Madam, Amsterdam on Fri, 23 Oct 2026.
+Fka Mash is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Madam, Amsterdam on Fri, 23 Oct 2026.
 
 Fka Mash is an afro house and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Bali, Berlin and Ibiza and 4 more. Often billed alongside Black Coffee, Damian Lazarus and Rio Tashan. Next up: Madam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Fka Mash is an afro house and house artist tracked on soundcheck, with 14 sets l
 
 Black Coffee, Damian Lazarus, Rio Tashan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkamash/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkamash/)*

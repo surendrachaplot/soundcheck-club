@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Hip-Hop and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Tricky is a Hip-Hop and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 Tricky is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol, Bucharest, Budapest and Copenhagen and 6 more. Often billed alongside Jenny C (1), Bassvictim and Beltran. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Tricky is a hip-hop and house artist based in United Kingdom, tracked on soundch
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

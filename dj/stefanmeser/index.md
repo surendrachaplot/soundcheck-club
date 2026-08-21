@@ -1,6 +1,6 @@
 # Stefan Meser
 
-Stefan Meser is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
+Stefan Meser is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
 
 Stefan Meser is a house and tech house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Karim Soliman, SANTØS and Benny Rodrigues. Next up: Boomerang Beach, Thehague on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Stefan Meser is a house and tech house artist tracked on soundcheck, with 18 set
 
 Karim Soliman, SANTØS, Benny Rodrigues
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*

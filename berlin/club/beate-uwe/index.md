@@ -1,8 +1,8 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Beste Uwe Invites: Smalltalk" on Sat, 5 Sept 2026.
+Beate Uwe is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Beste Uwe Invites: Smalltalk" on Sat, 5 Sept 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including AKA AKA, ALXJ, Antonio Pérez and Coyo (Berlin) and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including AKA AKA, ALXJ, Antonio Pérez and Coyo (Berlin) and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
@@ -12,7 +12,9 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 | Sat, 5 Sept 2026 | Beate Invites///Smalltalk | Joe BRT |
 | Sat, 5 Sept 2026 | Kollektiefe Nacht///SmallTalk | Daniel Czerner, Etiennette, Joe BRT |
 | Fri, 11 Sept 2026 | Glücks-Modus | Antonio Pérez, Coyo (Berlin), Johnny Gutmann, MKLY, Monika Punanski |
+| Sat, 12 Sept 2026 | Beate Invites /// Dirty Doering & Friends | Dirty Doering, Niconé, Soso Klein, Sunlast, Vanita |
 | Fri, 18 Sept 2026 | The Fizz |  |
+| Sat, 19 Sept 2026 | Beate Invites /// BSTHP 8 Jahre | ganz oder gar nicht, hörmi, justUS |
 | Fri, 30 Oct 2026 | Staygold presents: Pattern Recognition | ALXJ, Hyperbole, Jack Clark, Mambi Dexter, Scoopsi, shot by stanley |
 | Sat, 31 Oct 2026 | Beate Invites /// Früher Feiern with AKA AKA | AKA AKA |
 
@@ -20,4 +22,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 7 upcoming nights, wi
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

@@ -1,6 +1,6 @@
 # Yohei (CA)
 
-Yohei (CA) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cafeteria, Toronto on Sat, 22 Aug 2026.
+Yohei (CA) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cafeteria, Toronto on Sat, 22 Aug 2026.
 
 Yohei (CA) is a house and club artist tracked on soundcheck, with 18 sets logged across Tokyo and Toronto. Often billed alongside Milch (1), HVN (1) and Bikethug. Next up: Cafeteria, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Yohei (CA) is a house and club artist tracked on soundcheck, with 18 sets logged
 
 Milch (1), HVN (1), Bikethug
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohei-ca/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohei-ca/)*

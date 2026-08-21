@@ -1,6 +1,6 @@
 # Trigger T
 
-Trigger T is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Sat, 5 Sept 2026.
+Trigger T is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Else, Berlin on Sat, 5 Sept 2026.
 
 Trigger T is a club and electro artist tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Haus of Ralph, Meg10 and N3LYSTAR. Next up: Else, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Trigger T is a club and electro artist tracked on soundcheck, with 9 sets logged
 
 Haus of Ralph, Meg10, N3LYSTAR
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*

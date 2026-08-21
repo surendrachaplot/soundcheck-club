@@ -1,6 +1,6 @@
 # echo (3)
 
-echo (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at public records, New York City on Fri, 21 Aug 2026.
+echo (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at public records, New York City on Fri, 21 Aug 2026.
 
 echo (3) is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Piersmog, Ade Kassim and Bookworms. Next up: public records, Newyorkcity on Fri 21 Aug.
 
@@ -22,4 +22,4 @@ echo (3) is a techno and house artist based in United States of America, tracked
 
 Piersmog, Ade Kassim, Bookworms
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echo-3/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/echo-3/)*

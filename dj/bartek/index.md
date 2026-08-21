@@ -1,6 +1,6 @@
 # Bartek
 
-Bartek is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Voodoo Rooms, Edinburgh on Fri, 21 Aug 2026.
+Bartek is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Voodoo Rooms, Edinburgh on Fri, 21 Aug 2026.
 
 Bartek is a house and garage artist tracked on soundcheck, with 89 sets logged across Amsterdam, Edinburgh, Losangeles and Manchester and 2 more. Often billed alongside Bokonon, freddy haptic and Releaf. Next up: The Voodoo Rooms, Edinburgh on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Bartek is a house and garage artist tracked on soundcheck, with 89 sets logged a
 
 Bokonon, freddy haptic, Releaf
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartek/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bartek/)*

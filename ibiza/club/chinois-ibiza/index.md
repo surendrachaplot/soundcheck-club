@@ -1,6 +1,6 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 44 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Defected: D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology" on Thu, 20 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 44 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Defected: D Stone, Eliza Rose, KILIMANJARO, Lloyd Nwagboso, Shermanology" on Thu, 20 Aug 2026.
 
 Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 44 upcoming nights, with line-ups including 2lovers, Acid Pauli, Alan Dixon and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 44 upcoming nights
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

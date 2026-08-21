@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Space'd In The Basement with Akane, Mordi, Pedestrian" on Fri, 21 Aug 2026.
+Collingwood Basement is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Space'd In The Basement with Akane, Mordi, Pedestrian" on Fri, 21 Aug 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including anna(n), Baby G, Chucheewa and Flat Esoteric and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -18,4 +18,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 5 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

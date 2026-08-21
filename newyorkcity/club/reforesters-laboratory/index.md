@@ -1,14 +1,13 @@
 # Reforesters Laboratory
 
-Reforesters Laboratory is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "study hall ; livecode sessions w MDN expressions in ambient, dub, and jungle" on Thu, 20 Aug 2026.
+Reforesters Laboratory is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "study hall ; livecode sessions w MDN expressions in ambient, dub, and jungle" on Thu, 27 Aug 2026.
 
-Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 147 Metropolitan Avenue.
+Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 147 Metropolitan Avenue.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | study hall ; livecode sessions w MDN expressions in ambient, dub, and jungle |  |
 | Thu, 27 Aug 2026 | study hall ; livecode sessions w MDN expressions in ambient, dub, and jungle |  |
 | Thu, 10 Sept 2026 | study hall ; livecode sessions w MDN expressions in ambient, dub, and jungle |  |
 | Thu, 17 Sept 2026 | Bent Ecos - Wood & Light Album Release: Multichannel Listening Session |  |
@@ -18,4 +17,4 @@ Reforesters Laboratory is a music venue in Newyorkcity listed on soundcheck. 5 u
 
 147 Metropolitan Avenue, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/reforesters-laboratory/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/reforesters-laboratory/)*

@@ -1,6 +1,6 @@
 # Cryostatik
 
-Cryostatik is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
+Cryostatik is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Wonderville, New York City on Sat, 22 Aug 2026.
 
 Cryostatik is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Alex Viper, DJ girlcrush and 400PROOF. Next up: Wonderville, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Cryostatik is a drum & bass and techno artist based in United States of America,
 
 Alex Viper, DJ girlcrush, 400PROOF
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cryostatik/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cryostatik/)*

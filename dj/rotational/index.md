@@ -1,6 +1,6 @@
 # Rotational
 
-Rotational is a Dub and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Night Tales Loft, London on Sat, 22 Aug 2026.
+Rotational is a Dub and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Night Tales Loft, London on Sat, 22 Aug 2026.
 
 Rotational is a dub and electronica artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Bristol and Dublin and 5 more. Often billed alongside Tash LC, AAMIROO and Aalia Iraki. Next up: Night Tales Loft, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Rotational is a dub and electronica artist tracked on soundcheck, with 18 sets l
 
 Tash LC, AAMIROO, Aalia Iraki
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*

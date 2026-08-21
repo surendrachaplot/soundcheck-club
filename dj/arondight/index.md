@@ -1,6 +1,6 @@
 # Arondight
 
-Arondight is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Nué Seoul, Seoul on Sat, 22 Aug 2026.
+Arondight is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Nué Seoul, Seoul on Sat, 22 Aug 2026.
 
 Arondight is a deep house and afro house artist tracked on soundcheck, with 24 sets logged across Seoul. Often billed alongside Beijo Bae, Onizmik and Unkelchubbz. Next up: Nué Seoul, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Arondight is a deep house and afro house artist tracked on soundcheck, with 24 s
 
 Beijo Bae, Onizmik, Unkelchubbz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arondight/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arondight/)*

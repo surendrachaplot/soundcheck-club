@@ -1,6 +1,6 @@
 # Caru (NZ)
 
-Caru (NZ) is a Breakbeat and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Neck of the Woods, Auckland on Fri, 21 Aug 2026.
+Caru (NZ) is a Breakbeat and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Neck of the Woods, Auckland on Fri, 21 Aug 2026.
 
 Caru (NZ) is a breakbeat and garage artist based in New Zealand, tracked on soundcheck, with 13 sets logged across Auckland and London. Often billed alongside Hyan (2), Burna and Foxtrot (2). Next up: Neck of the Woods, Auckland on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Caru (NZ) is a breakbeat and garage artist based in New Zealand, tracked on soun
 
 Hyan (2), Burna, Foxtrot (2)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caru-nz/)*

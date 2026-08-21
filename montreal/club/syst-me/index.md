@@ -1,26 +1,26 @@
 # Système
 
-Système is a music venue in Montreal with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Patrick Holland" on Thu, 20 Aug 2026.
+Système is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Ferias" on Fri, 21 Aug 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 16 upcoming nights, with line-ups including Akanbi, Aram, Asha (4) and B'UGO and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Akanbi, Aram, Asha (4) and B'UGO and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Patrick Holland | Patrick Holland |
-| Thu, 20 Aug 2026 | Also Cool presents: Drink n' Draw | DJ Also Cool, Flleur |
 | Fri, 21 Aug 2026 | Ferias | Guthrie, Justin Strauss |
 | Sat, 22 Aug 2026 | Ether | Asha (4), DJ DEADNAME, Vesolo |
-| Sun, 23 Aug 2026 | Système Sundays | GrandHuit |
+| Sun, 23 Aug 2026 | Système Sundays w/ GrandHuit & Aquamarina | GrandHuit |
 | Thu, 27 Aug 2026 | Système Soundsystem |  |
 | Fri, 28 Aug 2026 | Groovy Castle | Jean Pascal Groove, Queenie Jr, Vayia |
 | Sat, 29 Aug 2026 | Hold Me Recordings | Invisible City, Milch (1), Ryan Spencer, Silktits, wetdogg |
 | Sun, 30 Aug 2026 | Bridges to Dub | Icky Magdala |
 | Thu, 3 Sept 2026 | GROOVY GROOVY Montreal | Akanbi, zi! |
+| Thu, 3 Sept 2026 | Book Launch: Michael Rancic's A Nation of Tinkerers | Hua Li 化力 |
+| Fri, 4 Sept 2026 | DANSE CONTACT: 15th Anniversary (Part 1) | B'UGO, Frank Turgeon, Maus, Sexnobe |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

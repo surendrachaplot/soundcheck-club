@@ -1,6 +1,6 @@
 # Oblongar
 
-Oblongar is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
+Oblongar is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
 
 Oblongar is a bass and garage artist based in Japan, tracked on soundcheck, with 20 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Genick, Jacotanu and Nizikawa. Next up: Daikanyama ORD., Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Oblongar is a bass and garage artist based in Japan, tracked on soundcheck, with
 
 Genick, Jacotanu, Nizikawa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oblongar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oblongar/)*

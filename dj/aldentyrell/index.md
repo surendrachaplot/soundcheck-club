@@ -1,6 +1,6 @@
 # Alden Tyrell
 
-Alden Tyrell is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
+Alden Tyrell is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
 
 Alden Tyrell is a house and italo disco artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Madrid and Rotterdam and 2 more. Often billed alongside David Vunk, I-F and Marsman. Next up: Noorderlicht Café, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alden Tyrell is a house and italo disco artist tracked on soundcheck, with 11 se
 
 David Vunk, I-F, Marsman
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldentyrell/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldentyrell/)*

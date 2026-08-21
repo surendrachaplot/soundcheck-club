@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Studio1111, Berlin on Fri, 21 Aug 2026.
+Chippy Nonstop is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Studio1111, Berlin on Fri, 21 Aug 2026.
 
 Chippy Nonstop is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 41 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN (1). Next up: Studio1111, Berlin on Fri 21 Aug.
 
@@ -31,4 +31,4 @@ Chippy Nonstop is a techno and house artist tracked on soundcheck, with 163 sets
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

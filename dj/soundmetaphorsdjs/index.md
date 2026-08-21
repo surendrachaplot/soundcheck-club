@@ -1,14 +1,13 @@
 # Sound Metaphors Djs
 
-Sound Metaphors Djs is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Neue Nationalgalerie, Berlin on Thu, 20 Aug 2026.
+Sound Metaphors Djs is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
-Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Castro Moore, David Fogarty and Alicia Carrera. Next up: Neue Nationalgalerie, Berlin on Thu 20 Aug.
+Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Castro Moore, David Fogarty and Alicia Carrera. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Neue Nationalgalerie | Berlin |
 | Sun, 30 Aug 2026 | Sonnenraum | Berlin |
 | Thu, 17 Sept 2026 | TBA - Secret Location near Jannowitzbrücke | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
@@ -16,6 +15,7 @@ Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 124 
 
 ## Recently played
 
+- Neue Nationalgalerie, Berlin — Thu, 20 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
 - Neue Nationalgalerie, Berlin — Thu, 16 Jul 2026
 - Motel Campo, Geneva — Sat, 4 Jul 2026
@@ -23,10 +23,9 @@ Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 124 
 - Neue Nationalgalerie, Berlin — Thu, 25 Jun 2026
 - CONTACT, Amsterdam — Fri, 12 Jun 2026
 - The Cause, London — Sat, 6 Jun 2026
-- Prince Charles, Berlin — Sun, 31 May 2026
 
 ## Shares bills with
 
 Castro Moore, David Fogarty, Alicia Carrera
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*

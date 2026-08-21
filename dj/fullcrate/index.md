@@ -1,6 +1,6 @@
 # Full Crate
 
-Full Crate is a R&B and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
+Full Crate is a R&B and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
 
 Full Crate is a r&b and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Denver and Detroit and 12 more. Often billed alongside DARIUS, Dam Swindle and Daul. Next up: FS., Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Full Crate is a r&b and house artist tracked on soundcheck, with 25 sets logged 
 
 DARIUS, Dam Swindle, Daul
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullcrate/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullcrate/)*

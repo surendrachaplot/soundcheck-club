@@ -1,6 +1,6 @@
 # Vanille
 
-Vanille is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Palais de Tokyo, Paris on Sat, 22 Aug 2026.
+Vanille is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Palais de Tokyo, Paris on Sat, 22 Aug 2026.
 
 Vanille is a techno and electro artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: Palais de Tokyo, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Vanille is a techno and electro artist tracked on soundcheck, with 76 sets logge
 
 MCR-T, Yasmin Regisford, Behzad
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*

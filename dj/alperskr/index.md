@@ -1,6 +1,6 @@
 # ALPER SKR
 
-ALPER SKR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Electric Garden, Dublin on Sat, 22 Aug 2026.
+ALPER SKR is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Electric Garden, Dublin on Sat, 22 Aug 2026.
 
 ALPER SKR is a techno and trance artist based in Turkey, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside SAMUX, WINSLAO and Connect. Next up: Electric Garden, Dublin on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ ALPER SKR is a techno and trance artist based in Turkey, tracked on soundcheck, 
 
 SAMUX, WINSLAO, Connect
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*

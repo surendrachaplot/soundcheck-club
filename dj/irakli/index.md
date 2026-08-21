@@ -1,6 +1,6 @@
 # Irakli
 
-Irakli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
+Irakli is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pawn Shop, Dublin on Sat, 22 Aug 2026.
 
 Irakli is a techno and house artist based in Germany, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: Pawn Shop, Dublin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Irakli is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Hang Aoki, fr. JPLA, Barbara Hofmann
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*

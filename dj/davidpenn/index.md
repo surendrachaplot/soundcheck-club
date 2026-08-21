@@ -1,6 +1,6 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at O Beach, Ibiza on Sun, 23 Aug 2026.
+David Penn is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at O Beach, Ibiza on Sun, 23 Aug 2026.
 
 David Penn is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Ferreck Dawn, Low Steppa and Mousse T.. Next up: O Beach, Ibiza on Sun 23 Aug.
 
@@ -33,4 +33,4 @@ David Penn is a house and tech house artist tracked on soundcheck, with 70 sets 
 
 Ferreck Dawn, Low Steppa, Mousse T.
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

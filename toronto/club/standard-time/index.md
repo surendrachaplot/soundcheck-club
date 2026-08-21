@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and Juanito  " on Fri, 21 Aug 2026.
+Standard Time is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Sonido Isla's 10 Year Anniversary with NAP, ESCOBUTT and Juanito  " on Fri, 21 Aug 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Andrew Greville, Andre Zimmer, Corinne and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 10 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

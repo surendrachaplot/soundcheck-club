@@ -1,6 +1,6 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Rooftop at One Hundred Shoreditch, London on Sun, 23 Aug 2026.
+Rainy Miller is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Rooftop at One Hundred Shoreditch, London on Sun, 23 Aug 2026.
 
 Rainy Miller is an experimental and electronica artist tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: The Rooftop at One Hundred Shoreditch, London on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ Rainy Miller is an experimental and electronica artist tracked on soundcheck, wi
 
 2K88, Bianca Scout, aya
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*

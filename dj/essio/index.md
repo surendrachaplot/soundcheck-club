@@ -1,6 +1,6 @@
 # Essio
 
-Essio is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Karmakoma, Belgrade on Fri, 28 Aug 2026.
+Essio is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Karmakoma, Belgrade on Fri, 28 Aug 2026.
 
 Essio is a techno and club artist tracked on soundcheck, with 27 sets logged across Belgrade. Often billed alongside aleksssa, Lollipop Janosz and DAD4. Next up: Karmakoma, Belgrade on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Essio is a techno and club artist tracked on soundcheck, with 27 sets logged acr
 
 aleksssa, Lollipop Janosz, DAD4
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essio/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essio/)*

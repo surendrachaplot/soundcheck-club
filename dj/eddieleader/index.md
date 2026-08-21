@@ -1,6 +1,6 @@
 # Eddie Leader
 
-Eddie Leader is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Container Brewing, Vancouver on Sat, 29 Aug 2026.
+Eddie Leader is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Container Brewing, Vancouver on Sat, 29 Aug 2026.
 
 Eddie Leader is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Auckland, Berlin and Chicago and 11 more. Often billed alongside Chez Damier, IVES and Benedict. Next up: Container Brewing, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Eddie Leader is a house and deep house artist based in United Kingdom, tracked o
 
 Chez Damier, IVES, Benedict
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieleader/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieleader/)*

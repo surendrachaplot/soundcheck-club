@@ -1,6 +1,6 @@
 # Vorplatz des Museums für Naturkunde Berlin
 
-Vorplatz des Museums für Naturkunde Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Live Sound Performance by Tati au Miel" on Sun, 13 Sept 2026.
+Vorplatz des Museums für Naturkunde Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Live Sound Performance by Tati au Miel" on Sun, 13 Sept 2026.
 
 Vorplatz des Museums für Naturkunde Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Tati au Miel. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vorplatz des Museums für Naturkunde Berlin is a music venue in Berlin listed on
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Live Sound Performance by Tati au Miel | Tati au Miel |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/vorplatz-des-museums-f-r-naturkunde-berlin/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/vorplatz-des-museums-f-r-naturkunde-berlin/)*

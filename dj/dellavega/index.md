@@ -1,6 +1,6 @@
 # Dellavega
 
-Dellavega is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
+Dellavega is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
 
 Dellavega is a house and tech house artist tracked on soundcheck, with 7 sets logged across Barcelona, Ibiza and Seoul. Often billed alongside Rendher, Ssero and Athie Umgido. Next up: Sunseabar Beach Club, Barcelona on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Dellavega is a house and tech house artist tracked on soundcheck, with 7 sets lo
 
 Rendher, Ssero, Athie Umgido
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dellavega/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dellavega/)*

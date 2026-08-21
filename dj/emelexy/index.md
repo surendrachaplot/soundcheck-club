@@ -1,6 +1,6 @@
 # Emelexy
 
-Emelexy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
+Emelexy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 21 Aug 2026.
 
 Emelexy is a tech house and house artist tracked on soundcheck, with 14 sets logged across Melbourne and Tokyo. Often billed alongside Millú, Monfreaq and Pjenné. Next up: Angel Music Bar, Melbourne on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Emelexy is a tech house and house artist tracked on soundcheck, with 14 sets log
 
 Millú, Monfreaq, Pjenné
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emelexy/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emelexy/)*

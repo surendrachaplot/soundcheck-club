@@ -1,6 +1,6 @@
 # Ryan Dallas
 
-Ryan Dallas is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Ryan Dallas is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Ryan Dallas is a techno and trance artist tracked on soundcheck, with 15 sets logged across Belfast and London. Often billed alongside Blark, Cricky Lyttle and Nez. Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ryan Dallas is a techno and trance artist tracked on soundcheck, with 15 sets lo
 
 Blark, Cricky Lyttle, Nez
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryandallas/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryandallas/)*

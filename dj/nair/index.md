@@ -1,6 +1,6 @@
 # NAIR
 
-NAIR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
+NAIR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Klunkerkranich, Berlin on Thu, 20 Aug 2026.
 
 NAIR is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Leipzig and Saopaulo. Often billed alongside Gezender, Reizko and Paula Pretel. Next up: Klunkerkranich, Berlin on Thu 20 Aug.
 
@@ -13,6 +13,7 @@ NAIR is a house and techno artist tracked on soundcheck, with 30 sets logged acr
 
 ## Recently played
 
+- Klunkerkranich, Berlin — Thu, 20 Aug 2026
 - República, Sao Paulo — Sat, 23 May 2026
 - Baronesa, Sao Paulo — Fri, 15 May 2026
 - Weekend, Berlin — Fri, 24 Apr 2026
@@ -20,10 +21,9 @@ NAIR is a house and techno artist tracked on soundcheck, with 30 sets logged acr
 - Bar Carmem, Sao Paulo — Fri, 20 Mar 2026
 - Palacete, Sao Paulo — Tue, 17 Feb 2026
 - Club Jerome, Sao Paulo — Thu, 4 Sept 2025
-- Edifício Martinelli, Sao Paulo — Fri, 22 Aug 2025
 
 ## Shares bills with
 
 Gezender, Reizko, Paula Pretel
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nair/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nair/)*

@@ -1,6 +1,6 @@
 # Whales
 
-Whales is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Echostage, Washington DC on Fri, 21 Aug 2026.
+Whales is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Echostage, Washington DC on Fri, 21 Aug 2026.
 
 Whales is a bass and dubstep artist based in Israel, tracked on soundcheck, with 4 sets logged across Cologne, Houston, Portland and Washingtondc. Often billed alongside BIANKA and Synoxis. Next up: Echostage, Washingtondc on Fri 21 Aug.
 
@@ -20,4 +20,4 @@ Whales is a bass and dubstep artist based in Israel, tracked on soundcheck, with
 
 BIANKA, Synoxis
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whales/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whales/)*

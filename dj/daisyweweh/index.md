@@ -1,6 +1,6 @@
 # Daisy Weweh
 
-Daisy Weweh is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
+Daisy Weweh is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
 
 Daisy Weweh is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Jean Mauj, Anton Jonathan and Aimé You. Next up: Chausseestrasse 131, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Daisy Weweh is a house and techno artist tracked on soundcheck, with 75 sets log
 
 Jean Mauj, Anton Jonathan, Aimé You
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyweweh/)*

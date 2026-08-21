@@ -1,6 +1,6 @@
 # Remille
 
-Remille is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 25 Sept 2026.
+Remille is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 25 Sept 2026.
 
 Remille is a house and deep house artist based in Mexico, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Julia Toporek, Valeriana and Duke Skylocker (Disco Dust). Next up: YuYu Cine Club, Mexicocity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Remille is a house and deep house artist based in Mexico, tracked on soundcheck,
 
 Julia Toporek, Valeriana, Duke Skylocker (Disco Dust)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remille/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remille/)*

@@ -1,6 +1,6 @@
 # Artime
 
-Artime is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Artime is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Artime is a house and disco artist based in United States of America, tracked on soundcheck, with 15 sets logged across Austin and Miami. Often billed alongside Terence Tabeau, Danny Daze and Jinks. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Artime is a house and disco artist based in United States of America, tracked on
 
 Terence Tabeau, Danny Daze, Jinks
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Artime/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Artime/)*

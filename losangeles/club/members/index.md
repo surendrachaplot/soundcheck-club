@@ -1,6 +1,6 @@
 # Members
 
-Members is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Members presents: Kimonos" on Sat, 29 Aug 2026.
+Members is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Members presents: Kimonos" on Sat, 29 Aug 2026.
 
 Members is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Kimonos. Browse upcoming dates, start times and who's playing. 7627 Sunset Blvd, Los Angeles, CA 90046.
 
@@ -17,4 +17,4 @@ Members is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, 
 
 7627 Sunset Blvd, Los Angeles, CA 90046, Los Angeles
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/members/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/members/)*

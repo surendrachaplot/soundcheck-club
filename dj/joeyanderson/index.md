@@ -1,6 +1,6 @@
 # Joey Anderson
 
-Joey Anderson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
+Joey Anderson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
 
 Joey Anderson is a techno and house artist tracked on soundcheck, with 7 sets logged across Mexicocity and Newyorkcity. Often billed alongside Andi, Arkan and Black Lotus. Next up: Roof Terrace BK, Newyorkcity on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Joey Anderson is a techno and house artist tracked on soundcheck, with 7 sets lo
 
 Andi, Arkan, Black Lotus
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyanderson/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyanderson/)*

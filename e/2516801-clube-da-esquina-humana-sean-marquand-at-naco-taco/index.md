@@ -1,6 +1,6 @@
 # Clube da Esquina: Humana, Sean Marquand at Naco Taco
 
-Clube da Esquina: Humana, Sean Marquand at Naco Taco on Sun 30 Aug, Boston. Disco and Baile Funk. Preview the line-up and save it on soundcheck.
+Clube da Esquina: Humana, Sean Marquand at Naco Taco on Sun 30 Aug, Boston. Baile Funk and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

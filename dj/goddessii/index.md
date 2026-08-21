@@ -1,6 +1,6 @@
 # Goddess II
 
-Goddess II is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
+Goddess II is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
 
 Goddess II is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside DJ LIL-E, Eseccaro and 10:35. Next up: TBA - Secret Location, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Goddess II is a house and tech house artist based in United Kingdom, tracked on 
 
 DJ LIL-E, Eseccaro, 10:35
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*

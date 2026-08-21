@@ -1,6 +1,6 @@
 # Frizzy
 
-Frizzy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dr Morse, Melbourne on Sat, 22 Aug 2026.
+Frizzy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Dr Morse, Melbourne on Sat, 22 Aug 2026.
 
 Frizzy is a house and disco artist tracked on soundcheck, with 37 sets logged across Melbourne. Often billed alongside Milo Eastwood, Sunset Boys and Gracey. Next up: Dr Morse, Melbourne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Frizzy is a house and disco artist tracked on soundcheck, with 37 sets logged ac
 
 Milo Eastwood, Sunset Boys, Gracey
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frizzy/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frizzy/)*

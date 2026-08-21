@@ -1,8 +1,8 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 44 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Kimonos, Narasimha, Sleepy & Boo, AKKI, DAYTIMERS NYC: Saqib, TimahTempo, faizan" on Fri, 21 Aug 2026.
+Elsewhere is a music venue in New York City with 45 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Kimonos, Narasimha, Sleepy & Boo, AKKI, DAYTIMERS NYC: Saqib, TimahTempo, faizan" on Fri, 21 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 44 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 45 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 44 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

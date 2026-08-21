@@ -1,6 +1,6 @@
 # Oscar Maillo
 
-Oscar Maillo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
+Oscar Maillo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
 
 Oscar Maillo is a house and techno artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside XipNoize, PAZ WAZ HERE and Gabo Oliveira. Next up: Re-Clubbing Basement, Barcelona on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Oscar Maillo is a house and techno artist based in Spain, tracked on soundcheck,
 
 XipNoize, PAZ WAZ HERE, Gabo Oliveira
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmaillo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarmaillo/)*

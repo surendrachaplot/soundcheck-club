@@ -1,18 +1,17 @@
 # Twisted Lime
 
-Twisted Lime is a music venue in Hobart with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Huh!pink x Soft Centre pres. RamonPang (US)" on Thu, 20 Aug 2026.
+Twisted Lime is a music venue in Hobart with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "BASS ALCHEMISTS" on Sat, 22 Aug 2026.
 
-Twisted Lime is a music venue in Hobart listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1/112 Liverpool St, Hobart TAS 7000, Australia.
+Twisted Lime is a music venue in Hobart listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1/112 Liverpool St, Hobart TAS 7000, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Huh!pink x Soft Centre pres. RamonPang (US) |  |
 | Sat, 22 Aug 2026 | BASS ALCHEMISTS |  |
 
 ## Address
 
 1/112 Liverpool St, Hobart TAS 7000, Australia, Hobart
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/twisted-lime/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/twisted-lime/)*

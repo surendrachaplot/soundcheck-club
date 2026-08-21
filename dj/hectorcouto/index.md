@@ -1,6 +1,6 @@
 # Hector Couto
 
-Hector Couto is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
+Hector Couto is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
 
 Hector Couto is a tech house and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Bali and Barcelona and 20 more. Often billed alongside Prunk, Ammo Avenue and Dimmish. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Hector Couto is a tech house and house artist tracked on soundcheck, with 68 set
 
 Prunk, Ammo Avenue, Dimmish
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorcouto/)*

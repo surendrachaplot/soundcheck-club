@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Last Arch, London on Sat, 5 Sept 2026.
+tasha.mp4 is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Last Arch, London on Sat, 5 Sept 2026.
 
 tasha.mp4 is a techno and drum & bass artist tracked on soundcheck, with 43 sets logged across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: Last Arch, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ tasha.mp4 is a techno and drum & bass artist tracked on soundcheck, with 43 sets
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

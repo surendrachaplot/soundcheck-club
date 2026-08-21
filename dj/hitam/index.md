@@ -1,6 +1,6 @@
 # Hitam
 
-Hitam is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+Hitam is a Techno and Minimal Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
 
 Hitam is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Berlin and 29 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Hitam is a techno and minimal techno artist based in Netherlands, tracked on sou
 
 WINDFUHR, AMORAL, I-RO
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

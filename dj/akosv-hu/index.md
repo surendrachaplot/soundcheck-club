@@ -1,6 +1,6 @@
 # Akos V
 
-Akos V is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Atno, Budapest on Sat, 22 Aug 2026.
+Akos V is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Atno, Budapest on Sat, 22 Aug 2026.
 
 Akos V is a house and electro artist tracked on soundcheck, with 16 sets logged across Budapest. Often billed alongside Adis Is OK, Acsa and Andrija Jäger. Next up: Atno, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Akos V is a house and electro artist tracked on soundcheck, with 16 sets logged 
 
 Adis Is OK, Acsa, Andrija Jäger
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akosv-hu/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akosv-hu/)*

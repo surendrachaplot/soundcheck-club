@@ -1,6 +1,6 @@
 # magglezzz
 
-magglezzz is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Margolis Music Lounge, Philadelphia on Fri, 21 Aug 2026.
+magglezzz is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Margolis Music Lounge, Philadelphia on Fri, 21 Aug 2026.
 
 magglezzz is a club and hip-hop artist tracked on soundcheck, with 31 sets logged across Philadelphia. Often billed alongside Club Advisory, JEWELSSEA and Krispy. Next up: Margolis Music Lounge, Philadelphia on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ magglezzz is a club and hip-hop artist tracked on soundcheck, with 31 sets logge
 
 Club Advisory, JEWELSSEA, Krispy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magglezzz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magglezzz/)*

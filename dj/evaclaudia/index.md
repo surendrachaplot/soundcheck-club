@@ -1,6 +1,6 @@
 # Eva Claudia
 
-Eva Claudia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 21 Aug 2026.
+Eva Claudia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 21 Aug 2026.
 
 Eva Claudia is a techno and house artist based in Denmark, tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside avoN, Bestrawa and Biesmans. Next up: Den Anden Side, Copenhagen on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Eva Claudia is a techno and house artist based in Denmark, tracked on soundcheck
 
 avoN, Bestrawa, Biesmans
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evaclaudia/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evaclaudia/)*

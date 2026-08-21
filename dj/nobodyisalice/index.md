@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
+NOBODYISALICE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
 
 NOBODYISALICE is a house and techno artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona. Often billed alongside XipNoize, Gabo Oliveira and Lauriee. Next up: Sunseabar Beach Club, Barcelona on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ NOBODYISALICE is a house and techno artist based in Spain, tracked on soundcheck
 
 XipNoize, Gabo Oliveira, Lauriee
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

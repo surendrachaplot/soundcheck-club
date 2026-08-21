@@ -1,6 +1,6 @@
 # heronymus
 
-heronymus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Legal, Munich on Fri, 4 Sept 2026.
+heronymus is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Legal, Munich on Fri, 4 Sept 2026.
 
 heronymus is a house and tech house artist tracked on soundcheck, with 32 sets logged across Munich and Vienna. Often billed alongside Mo the prophet, Morz Des Soundsystem and Julie Fleischer. Next up: Legal, Munich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ heronymus is a house and tech house artist tracked on soundcheck, with 32 sets l
 
 Mo the prophet, Morz Des Soundsystem, Julie Fleischer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heronymus/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heronymus/)*

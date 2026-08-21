@@ -1,6 +1,6 @@
 # Bill Hates
 
-Bill Hates is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 30 Aug 2026.
+Bill Hates is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
 Bill Hates is a deep house and tech house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Ibiza and Madrid. Often billed alongside ROGGIERO G, XAVI RABARTE and HANIE. Next up: Almar Beach Club, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Bill Hates is a deep house and tech house artist tracked on soundcheck, with 87 
 
 ROGGIERO G, XAVI RABARTE, HANIE
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billhates/)*

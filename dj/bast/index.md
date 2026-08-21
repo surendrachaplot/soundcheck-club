@@ -1,6 +1,6 @@
 # Bast
 
-Bast is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
+Bast is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 21 Aug 2026.
 
 Bast is a house and minimal artist tracked on soundcheck, with 9 sets logged across London and Washingtondc. Often billed alongside OUF, DJOM and Oli Leal. Next up: TRANSMISSION DC, Washingtondc on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bast is a house and minimal artist tracked on soundcheck, with 9 sets logged acr
 
 OUF, DJOM, Oli Leal
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bast/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bast/)*

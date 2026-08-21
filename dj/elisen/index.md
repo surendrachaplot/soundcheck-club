@@ -1,6 +1,6 @@
 # Elisen
 
-Elisen is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
+Elisen is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
 
 Elisen is a techno and acid artist based in Germany, tracked on soundcheck, with 37 sets logged across Cologne. Often billed alongside Leolo Lozone, Gutkind and Marcel Janovsky. Next up: fi, Cologne on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Elisen is a techno and acid artist based in Germany, tracked on soundcheck, with
 
 Leolo Lozone, Gutkind, Marcel Janovsky
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elisen/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elisen/)*

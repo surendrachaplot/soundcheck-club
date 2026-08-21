@@ -1,6 +1,6 @@
 # DJ Spaßgetränk
 
-DJ Spaßgetränk is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Humboldthain Club, Berlin on Sat, 22 Aug 2026.
+DJ Spaßgetränk is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Humboldthain Club, Berlin on Sat, 22 Aug 2026.
 
 DJ Spaßgetränk is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Konsument, EZA (DE) and Paul Bauhaus. Next up: Humboldthain Club, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DJ Spaßgetränk is a techno and trance artist based in Germany, tracked on soun
 
 Konsument, EZA (DE), Paul Bauhaus
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspaßgetrank/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspaßgetrank/)*

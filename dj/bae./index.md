@@ -1,6 +1,6 @@
 # Bae.
 
-Bae. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ring, Seoul on Fri, 21 Aug 2026.
+Bae. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ring, Seoul on Fri, 21 Aug 2026.
 
 Bae. is a techno and house artist tracked on soundcheck, with 13 sets logged across Seoul. Often billed alongside Lyumin, Hakim. and Kyuchan. Next up: Ring, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Bae. is a techno and house artist tracked on soundcheck, with 13 sets logged acr
 
 Lyumin, Hakim., Kyuchan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bae./)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bae./)*

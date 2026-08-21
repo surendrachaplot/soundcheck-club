@@ -1,6 +1,6 @@
 # Zara Mustafa
 
-Zara Mustafa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Stardust Garage, Austin on Fri, 21 Aug 2026.
+Zara Mustafa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Stardust Garage, Austin on Fri, 21 Aug 2026.
 
 Zara Mustafa is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam and Austin. Often billed alongside Brett Johnson, Joan Dark and AMANDA KOONTZ. Next up: Stardust Garage, Austin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Zara Mustafa is a techno and house artist tracked on soundcheck, with 17 sets lo
 
 Brett Johnson, Joan Dark, AMANDA KOONTZ
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*

@@ -1,6 +1,6 @@
 # Trippsy
 
-Trippsy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
+Trippsy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
 Trippsy is a techno and house artist based in Lithuania, tracked on soundcheck, with 13 sets logged across Berlin, Budapest, Krakow and Riga and 1 more. Often billed alongside Lobanov K., Multifuse and Oliver Deutschmann. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Trippsy is a techno and house artist based in Lithuania, tracked on soundcheck, 
 
 Lobanov K., Multifuse, Oliver Deutschmann
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippsy/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trippsy/)*

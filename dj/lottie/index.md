@@ -1,6 +1,6 @@
 # Lottie
 
-Lottie is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Lottie is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 Lottie is a house and garage artist tracked on soundcheck, with 4 sets logged across Brighton, Bristol, Manchester and Sheffield. Often billed alongside AC13, Afters and Charlie. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Lottie is a house and garage artist tracked on soundcheck, with 4 sets logged ac
 
 AC13, Afters, Charlie
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie/)*

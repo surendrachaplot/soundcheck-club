@@ -1,6 +1,6 @@
 # Moose
 
-Moose is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+Moose is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
 Moose is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Jumping Jack Frost, Funsta and Bryan Gee. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Moose is a drum & bass and jungle artist tracked on soundcheck, with 49 sets log
 
 Jumping Jack Frost, Funsta, Bryan Gee
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*

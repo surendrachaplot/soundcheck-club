@@ -1,6 +1,6 @@
 # Jangster
 
-Jangster is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
+Jangster is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
 
 Jangster is a house and techno artist based in South Korea, tracked on soundcheck, with 15 sets logged across Seoul and Tokyo. Often billed alongside bojvck, Hyejin and SINAHILL. Next up: Modeci, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jangster is a house and techno artist based in South Korea, tracked on soundchec
 
 bojvck, Hyejin, SINAHILL
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jangster/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jangster/)*

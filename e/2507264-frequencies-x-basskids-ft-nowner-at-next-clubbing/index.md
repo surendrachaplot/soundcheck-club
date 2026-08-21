@@ -1,10 +1,10 @@
 # Frequencies x BassKids ft Nowner at Next Clubbing
 
-Frequencies x BassKids ft Nowner at Next Clubbing on Fri 28 Aug, Madrid. Trance and Techno. Preview the line-up and save it on soundcheck.
+Frequencies x BassKids ft Nowner at Next Clubbing on Fri 11 Sept, Madrid. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 28 Aug 2026 |
+| Date | Fri, 11 Sept 2026 |
 | Venue | Next Clubbing |
 | City | Madrid |
 

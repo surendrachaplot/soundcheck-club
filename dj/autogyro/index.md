@@ -1,6 +1,6 @@
 # autogyro
 
-autogyro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Red Eye NY, New York City on Fri, 21 Aug 2026.
+autogyro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Red Eye NY, New York City on Fri, 21 Aug 2026.
 
 autogyro is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit, Newyorkcity and Washingtondc. Often billed alongside Wax Assassin, we1sman and Tylr. Next up: Red Eye NY, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ autogyro is a techno and house artist based in United States of America, tracked
 
 Wax Assassin, we1sman, Tylr
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/autogyro/)*

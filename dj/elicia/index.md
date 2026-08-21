@@ -1,6 +1,6 @@
 # Elicia
 
-Elicia is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
+Elicia is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
 
 Elicia is a house and tech house artist tracked on soundcheck, with 10 sets logged across Barcelona, Ibiza, Leeds and Liverpool and 1 more. Often billed alongside Pirate Copy, BRODYR and DXNBY. Next up: Bar Bodega, Liverpool on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Elicia is a house and tech house artist tracked on soundcheck, with 10 sets logg
 
 Pirate Copy, BRODYR, DXNBY
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elicia/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elicia/)*

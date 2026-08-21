@@ -1,6 +1,6 @@
 # YELLOCK
 
-YELLOCK is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
+YELLOCK is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
 
 YELLOCK is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 33 sets logged across Tokyo. Often billed alongside DJ AKi, Kulage and WAKA XINXI. Next up: WOMB, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ YELLOCK is a drum & bass and techno artist based in Japan, tracked on soundcheck
 
 DJ AKi, Kulage, WAKA XINXI
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellock/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellock/)*

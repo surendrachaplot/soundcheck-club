@@ -1,6 +1,6 @@
 # PAS
 
-PAS is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
+PAS is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club der Visionaere, Berlin on Sat, 15 Aug 2026.
 
 PAS is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Leeds and Manchester. Often billed alongside Rob Pearson, dj ripple and Au Contraire. Next up: Club der Visionaere, Berlin on Sat 15 Aug.
 
@@ -26,4 +26,4 @@ PAS is a tech house and house artist based in United Kingdom, tracked on soundch
 
 Rob Pearson, dj ripple, Au Contraire
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*

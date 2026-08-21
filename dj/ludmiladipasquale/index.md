@@ -1,6 +1,6 @@
 # Ludmila Di Pasquale
 
-Ludmila Di Pasquale is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Ludmila Di Pasquale is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Ludmila Di Pasquale is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Bermani, Lucas Escarioni and Camila Isabel. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ludmila Di Pasquale is a house and techno artist tracked on soundcheck, with 49 
 
 Bermani, Lucas Escarioni, Camila Isabel
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*

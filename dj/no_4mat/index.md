@@ -1,6 +1,6 @@
 # No_4mat
 
-No_4mat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
+No_4mat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
 
 No_4mat is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, London and Melbourne and 10 more. Often billed alongside Baltra, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Mood Ring, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ No_4mat is a house and techno artist based in United States of America, tracked 
 
 Baltra, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no_4mat/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no_4mat/)*

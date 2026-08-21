@@ -1,6 +1,6 @@
 # Zerogee
 
-Zerogee is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
+Zerogee is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA -  Secret Open Air Party, Budapest on Thu, 20 Aug 2026.
 
 Zerogee is a minimal techno and techno artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest. Often billed alongside Andrija Jäger, Acsa and JAGER (HU). Next up: TBA -  Secret Open Air Party, Budapest on Thu 20 Aug.
 
@@ -12,6 +12,7 @@ Zerogee is a minimal techno and techno artist based in Hungary, tracked on sound
 
 ## Recently played
 
+- TBA -  Secret Open Air Party, Budapest — Thu, 20 Aug 2026
 - Fabrika, Budapest — Fri, 26 Jun 2026
 - TBA -  Secret Warehouse Party, Budapest — Sat, 14 Mar 2026
 - TBA - Secret Warehouse, Budapest — Wed, 31 Dec 2025
@@ -24,4 +25,4 @@ Zerogee is a minimal techno and techno artist based in Hungary, tracked on sound
 
 Andrija Jäger, Acsa, JAGER (HU)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerogee/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerogee/)*

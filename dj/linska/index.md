@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 26 Aug 2026.
+Linska is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 26 Aug 2026.
 
 Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Adam Beyer and Cassian. Next up: Cavo Paradiso, Mykonos on Wed 26 Aug.
 
@@ -32,4 +32,4 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 Gorgon City, Adam Beyer, Cassian
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

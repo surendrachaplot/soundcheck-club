@@ -1,6 +1,6 @@
 # LOST
 
-LOST is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+LOST is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 LOST is a techno and psytrance artist tracked on soundcheck, with 6 sets logged across Kyoto, London and Tokyo. Often billed alongside Kojiro, MUNEMASA and Rickshinmi. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ LOST is a techno and psytrance artist tracked on soundcheck, with 6 sets logged 
 
 Kojiro, MUNEMASA, Rickshinmi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lost/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lost/)*

@@ -1,6 +1,6 @@
 # Blair French
 
-Blair French is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Lincoln Factory, Detroit on Fri, 21 Aug 2026.
+Blair French is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lincoln Factory, Detroit on Fri, 21 Aug 2026.
 
 Blair French is a house and balearic artist based in United States of America, tracked on soundcheck, with 24 sets logged across Detroit. Often billed alongside Todd Modes, David A-P and Peter Croce. Next up: Lincoln Factory, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Blair French is a house and balearic artist based in United States of America, t
 
 Todd Modes, David A-P, Peter Croce
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blairfrench/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blairfrench/)*

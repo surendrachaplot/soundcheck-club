@@ -1,6 +1,6 @@
 # Aniri Chan
 
-Aniri Chan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Teritorija, Riga on Fri, 21 Aug 2026.
+Aniri Chan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Teritorija, Riga on Fri, 21 Aug 2026.
 
 Aniri Chan is a techno and house artist tracked on soundcheck, with 31 sets logged across Riga. Often billed alongside Existal, ANGEDONIYA and Aeden (1). Next up: Teritorija, Riga on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Aniri Chan is a techno and house artist tracked on soundcheck, with 31 sets logg
 
 Existal, ANGEDONIYA, Aeden (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anirichan/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anirichan/)*

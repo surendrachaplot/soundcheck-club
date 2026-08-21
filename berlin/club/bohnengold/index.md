@@ -1,6 +1,6 @@
 # Bohnengold
 
-Bohnengold is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "HOUSELAND" on Fri, 21 Aug 2026.
+Bohnengold is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HOUSELAND" on Fri, 21 Aug 2026.
 
 Bohnengold is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Brian Ring, Club Suave, DAAS (1) and Dennis Beutler and 2 more. Browse upcoming dates, start times and who's playing. Reichenberger Str. 153, 10999 Berlin.
 
@@ -17,4 +17,4 @@ Bohnengold is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 Reichenberger Str. 153, 10999 Berlin, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bohnengold/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bohnengold/)*

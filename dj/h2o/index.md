@@ -1,6 +1,6 @@
 # H2O
 
-H2O is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Prairie du Canal, Paris on Sat, 12 Sept 2026.
+H2O is a Electro and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at La Prairie du Canal, Paris on Sat, 12 Sept 2026.
 
 H2O is an electro and ambient artist tracked on soundcheck, with 38 sets logged across Brussels and Paris. Often billed alongside Jacky Jeane, Blanche and Amau. Next up: La Prairie du Canal, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ H2O is an electro and ambient artist tracked on soundcheck, with 38 sets logged 
 
 Jacky Jeane, Blanche, Amau
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h2o/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h2o/)*

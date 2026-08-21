@@ -1,6 +1,6 @@
 # Pattn
 
-Pattn is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Sat, 3 Oct 2026.
+Pattn is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Sat, 3 Oct 2026.
 
 Pattn is a house and techno artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brighton and London and 4 more. Often billed alongside Hardt Antoine, Lyalla and Sahar. Next up: fabric, London on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Pattn is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Hardt Antoine, Lyalla, Sahar
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pattn/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pattn/)*

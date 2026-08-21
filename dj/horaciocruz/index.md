@@ -1,6 +1,6 @@
 # Horacio Cruz
 
-Horacio Cruz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Horacio Cruz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
 
 Horacio Cruz is a techno and electronica artist tracked on soundcheck, with 17 sets logged across Barcelona, Ibiza, Madrid and Malaga and 2 more. Often billed alongside OGUZ, Pergo and SNTS. Next up: Sophie Festival, Malaga on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Horacio Cruz is a techno and electronica artist tracked on soundcheck, with 17 s
 
 OGUZ, Pergo, SNTS
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horaciocruz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horaciocruz/)*

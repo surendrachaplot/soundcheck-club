@@ -1,6 +1,6 @@
 # Qrion
 
-Qrion is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
+Qrion is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
 
 Qrion is a house and techno artist based in Japan, tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Bali and Chicago and 25 more. Often billed alongside Nicky Elisabeth, Rezident and Romain Garcia. Next up: TBA - Pier 62, Seattle on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Qrion is a house and techno artist based in Japan, tracked on soundcheck, with 6
 
 Nicky Elisabeth, Rezident, Romain Garcia
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qrion/)*

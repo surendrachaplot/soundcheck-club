@@ -1,6 +1,6 @@
 # Gaamer
 
-Gaamer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 28 Aug 2026.
+Gaamer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at MONKEY LOVE, Warsaw on Fri, 28 Aug 2026.
 
 Gaamer is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Prague and Tbilisi and 1 more. Often billed alongside Terje Bakke, Alfret and Anri. Next up: MONKEY LOVE, Warsaw on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Gaamer is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Terje Bakke, Alfret, Anri
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaamer/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaamer/)*

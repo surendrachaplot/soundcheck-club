@@ -1,6 +1,6 @@
 # Aetha
 
-Aetha is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jasna 1, Warsaw on Sat, 19 Sept 2026.
+Aetha is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jasna 1, Warsaw on Sat, 19 Sept 2026.
 
 Aetha is a techno and acid artist based in Poland, tracked on soundcheck, with 73 sets logged across Berlin, Krakow and Warsaw. Often billed alongside diabot, Hellix and Gabi Bury. Next up: Jasna 1, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Aetha is a techno and acid artist based in Poland, tracked on soundcheck, with 7
 
 diabot, Hellix, Gabi Bury
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aetha/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aetha/)*

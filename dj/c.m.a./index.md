@@ -1,6 +1,6 @@
 # C.M.A.
 
-C.M.A. is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Circle Line Cruises, New York City on Fri, 21 Aug 2026.
+C.M.A. is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Circle Line Cruises, New York City on Fri, 21 Aug 2026.
 
 C.M.A. is a house and afro house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Newyorkcity. Often billed alongside JANE RYSE, Jordi Iven and Hyenah. Next up: Circle Line Cruises, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ C.M.A. is a house and afro house artist based in Germany, tracked on soundcheck,
 
 JANE RYSE, Jordi Iven, Hyenah
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.m.a./)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.m.a./)*

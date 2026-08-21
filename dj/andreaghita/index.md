@@ -1,6 +1,6 @@
 # Andrea Ghita
 
-Andrea Ghita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sindbad's Restaurant and Marina, Detroit on Fri, 21 Aug 2026.
+Andrea Ghita is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sindbad's Restaurant and Marina, Detroit on Fri, 21 Aug 2026.
 
 Andrea Ghita is a house and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Chicago and Detroit. Often billed alongside Jorissen, Aboudi Issa and Loren. Next up: Sindbad's Restaurant and Marina, Detroit on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Andrea Ghita is a house and techno artist based in United States of America, tra
 
 Jorissen, Aboudi Issa, Loren
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaghita/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaghita/)*

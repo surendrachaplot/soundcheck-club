@@ -1,6 +1,6 @@
 # SHERA
 
-SHERA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Vertigo, Toronto on Fri, 21 Aug 2026.
+SHERA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Vertigo, Toronto on Fri, 21 Aug 2026.
 
 SHERA is a tech house and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Istanbul and Toronto. Often billed alongside Miz Megs, Sydney Blu and Videri. Next up: Vertigo, Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ SHERA is a tech house and house artist tracked on soundcheck, with 42 sets logge
 
 Miz Megs, Sydney Blu, Videri
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shera/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shera/)*

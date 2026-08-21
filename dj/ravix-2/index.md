@@ -1,6 +1,6 @@
 # RaVix
 
-RaVix is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
+RaVix is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
 
 RaVix is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside 2shy2cue, Amo (IT) and Backpain. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ RaVix is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 2shy2cue, Amo (IT), Backpain
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravix-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravix-2/)*

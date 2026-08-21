@@ -1,6 +1,6 @@
 # Anne-Sophie Selig
 
-Anne-Sophie Selig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Anne-Sophie Selig is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Anne-Sophie Selig is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside tzunamic, Fabian Fischbach and Der olle Kramer. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Anne-Sophie Selig is a house and techno artist based in Germany, tracked on soun
 
 tzunamic, Fabian Fischbach, Der olle Kramer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-sophieselig/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-sophieselig/)*

@@ -1,6 +1,6 @@
 # britiimpeerium
 
-britiimpeerium is a Tech House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Tšungel, Tallinn on Fri, 21 Aug 2026.
+britiimpeerium is a Tech House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Tšungel, Tallinn on Fri, 21 Aug 2026.
 
 britiimpeerium is a tech house and pop artist tracked on soundcheck, with 10 sets logged across Tallinn. Often billed alongside Awakening, Dirt Vessel and Fake Versace. Next up: Tšungel, Tallinn on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ britiimpeerium is a tech house and pop artist tracked on soundcheck, with 10 set
 
 Awakening, Dirt Vessel, Fake Versace
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/britiimpeerium/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/britiimpeerium/)*

@@ -1,13 +1,14 @@
 # Comf
 
-Comf is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
+Comf is a Ambient and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Malzfabrik, Berlin on Sat, 5 Sept 2026.
 
-Comf is an ambient and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Prague. Often billed alongside Genoe, AXT and Alex Levin. Next up: OXI, Berlin on Thu 10 Sept.
+Comf is an ambient and dubstep artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Prague. Often billed alongside Genoe, Formella and AXT. Next up: Malzfabrik, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Malzfabrik | Berlin |
 | Thu, 10 Sept 2026 | OXI | Berlin |
 
 ## Recently played
@@ -18,6 +19,6 @@ Comf is an ambient and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Genoe, AXT, Alex Levin
+Genoe, Formella, AXT
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*

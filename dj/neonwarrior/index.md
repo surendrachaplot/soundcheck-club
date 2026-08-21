@@ -1,6 +1,6 @@
 # Neon Warrior
 
-Neon Warrior is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 21 Aug 2026.
+Neon Warrior is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 21 Aug 2026.
 
 Neon Warrior is a techno and electro artist based in Georgia, tracked on soundcheck, with 82 sets logged across Berlin, Copenhagen, Krakow and Liverpool and 3 more. Often billed alongside Ottonian, Generali Minerali and Minerali. Next up: Meteor Studio, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Neon Warrior is a techno and electro artist based in Georgia, tracked on soundch
 
 Ottonian, Generali Minerali, Minerali
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwarrior/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neonwarrior/)*

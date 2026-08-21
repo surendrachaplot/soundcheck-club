@@ -1,6 +1,6 @@
 # VHOOR
 
-VHOOR is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at EartH, London on Sat, 5 Sept 2026.
+VHOOR is a Baile Funk and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at EartH, London on Sat, 5 Sept 2026.
 
 VHOOR is a baile funk and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Deekapz, Florentino and Bieu. Next up: EartH, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ VHOOR is a baile funk and house artist tracked on soundcheck, with 65 sets logge
 
 Deekapz, Florentino, Bieu
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vhoor/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vhoor/)*

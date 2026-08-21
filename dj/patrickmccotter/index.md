@@ -1,6 +1,6 @@
 # Patrick McCotter
 
-Patrick McCotter is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Berkeley Suite, Glasgow on Tue, 15 Sept 2026.
+Patrick McCotter is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Berkeley Suite, Glasgow on Tue, 15 Sept 2026.
 
 Patrick McCotter is an electronic artist tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside Thomas + James, Orla Halligan and SPPT. Next up: The Berkeley Suite, Glasgow on Tue 15 Sept.
 
@@ -24,4 +24,4 @@ Patrick McCotter is an electronic artist tracked on soundcheck, with 8 sets logg
 
 Thomas + James, Orla Halligan, SPPT
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmccotter/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmccotter/)*

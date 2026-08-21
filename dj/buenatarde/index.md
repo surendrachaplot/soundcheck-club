@@ -1,6 +1,6 @@
 # Buena Tarde
 
-Buena Tarde is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Buena Tarde is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 Buena Tarde is an electronica and experimental artist based in Mexico, tracked on soundcheck, with 25 sets logged across Mexicocity and Prague. Often billed alongside Bluecommand, Seli (2) and Zoë Mc Pherson. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Buena Tarde is an electronica and experimental artist based in Mexico, tracked o
 
 Bluecommand, Seli (2), Zoë Mc Pherson
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buenatarde/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buenatarde/)*

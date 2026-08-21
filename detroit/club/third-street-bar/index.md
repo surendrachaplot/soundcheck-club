@@ -1,6 +1,6 @@
 # Third Street Bar
 
-Third Street Bar is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sanctified Sundays" on Sun, 23 Aug 2026.
+Third Street Bar is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Sanctified Sundays" on Sun, 23 Aug 2026.
 
 Third Street Bar is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Bruce Bailey, Eddie Fowlkes and Tony Foster. Browse upcoming dates, start times and who's playing. 4626 Third Street, Detroit.
 
@@ -14,4 +14,4 @@ Third Street Bar is a music venue in Detroit listed on soundcheck. 1 upcoming ni
 
 4626 Third Street, Detroit, Detroit
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/third-street-bar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/third-street-bar/)*

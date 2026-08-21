@@ -1,6 +1,6 @@
 # Moor Mother
 
-Moor Mother is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Moor Mother is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Moor Mother is an experimental and electronica artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Bristol and Cologne and 10 more. Often billed alongside Aquiles Navarro, Hieroglyphic Being and A Guy Called Gerald. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Moor Mother is an experimental and electronica artist tracked on soundcheck, wit
 
 Aquiles Navarro, Hieroglyphic Being, A Guy Called Gerald
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moormother/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moormother/)*

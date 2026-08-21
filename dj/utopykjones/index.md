@@ -1,6 +1,6 @@
 # Utopyk Jones
 
-Utopyk Jones is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crack Bellmer, Berlin on Fri, 18 Sept 2026.
+Utopyk Jones is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Crack Bellmer, Berlin on Fri, 18 Sept 2026.
 
 Utopyk Jones is an acid and house artist tracked on soundcheck, with 11 sets logged across Berlin and Seoul. Often billed alongside El Fulminador, Joaquin Dehays and 4M4R. Next up: Crack Bellmer, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Utopyk Jones is an acid and house artist tracked on soundcheck, with 11 sets log
 
 El Fulminador, Joaquin Dehays, 4M4R
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utopykjones/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utopykjones/)*

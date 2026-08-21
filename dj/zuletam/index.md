@@ -1,6 +1,6 @@
 # Zuleta M
 
-Zuleta M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dunes, Ibiza on Sat, 22 Aug 2026.
+Zuleta M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Dunes, Ibiza on Sat, 22 Aug 2026.
 
 Zuleta M is a techno and house artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Gonzalo Lavin (Chile), Besch and HANAFIA'. Next up: Dunes, Ibiza on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zuleta M is a techno and house artist tracked on soundcheck, with 18 sets logged
 
 Gonzalo Lavin (Chile), Besch, HANAFIA'
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*

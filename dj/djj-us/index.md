@@ -1,6 +1,6 @@
 # DJ'J (US)
 
-DJ'J (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ'J (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ'J (US) is a techno and house artist tracked on soundcheck, with 14 sets logged across Brussels, Newyorkcity and Tokyo. Often billed alongside DJ G., Anthony Naples and Amelia Holt. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ DJ'J (US) is a techno and house artist tracked on soundcheck, with 14 sets logge
 
 DJ G., Anthony Naples, Amelia Holt
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djj-us/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djj-us/)*

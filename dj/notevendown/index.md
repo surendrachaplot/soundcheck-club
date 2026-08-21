@@ -1,6 +1,6 @@
 # NOTEVENDOWN
 
-NOTEVENDOWN is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
+NOTEVENDOWN is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
 
 NOTEVENDOWN is a techno and bass artist based in Canada, tracked on soundcheck, with 10 sets logged across Seoul and Vancouver. Often billed alongside DJ Hockey, AWood and ZDBT. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ NOTEVENDOWN is a techno and bass artist based in Canada, tracked on soundcheck, 
 
 DJ Hockey, AWood, ZDBT
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notevendown/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notevendown/)*

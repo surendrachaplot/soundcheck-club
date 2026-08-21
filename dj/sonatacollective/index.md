@@ -1,6 +1,6 @@
 # Sonata Collective
 
-Sonata Collective is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bricks, London on Fri, 18 Sept 2026.
+Sonata Collective is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bricks, London on Fri, 18 Sept 2026.
 
 Sonata Collective is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds and London. Often billed alongside Jo Cruz, SONATA and KAYDNCE. Next up: Bricks, London on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Sonata Collective is a deep house and tech house artist based in United Kingdom,
 
 Jo Cruz, SONATA, KAYDNCE
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonatacollective/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonatacollective/)*

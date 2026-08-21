@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sun 20 Sept, Osaka. 1 act on the bill: Steven Julien. House and Acid. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sun 20 Sept, Osaka. 2 acts on the bill: ANCHIN and Steven Julien. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WEEKEND SELECTERS at BAR Inc on Sun 20 Sept, Osaka. 1 act on the bill: Steven Ju
 
 ## Line-up
 
+- ANCHIN
 - Steven Julien
 
 *Source: [soundcheck](https://soundcheck.club/e/2500558-weekend-selecters-at-bar-inc/)*

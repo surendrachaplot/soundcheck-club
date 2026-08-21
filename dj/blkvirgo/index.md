@@ -1,6 +1,6 @@
 # Blkvirgo
 
-Blkvirgo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Cafeteria, Toronto on Sat, 22 Aug 2026.
+Blkvirgo is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Cafeteria, Toronto on Sat, 22 Aug 2026.
 
 Blkvirgo is a house and deep house artist tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: Cafeteria, Toronto on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Blkvirgo is a house and deep house artist tracked on soundcheck, with 19 sets lo
 
 Amedeo (CA), Chinelo, DJ Chris (CA)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*

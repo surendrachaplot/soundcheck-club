@@ -1,6 +1,6 @@
 # Solarce Brothers
 
-Solarce Brothers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
+Solarce Brothers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
 
 Solarce Brothers is a house and tech house artist based in Brazil, tracked on soundcheck, with 8 sets logged across Amsterdam, Lyon, Malta and Saopaulo. Often billed alongside Mochakk, Halfcab and Seth Troxler. Next up: Mercado Pago Hall, Saopaulo on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Solarce Brothers is a house and tech house artist based in Brazil, tracked on so
 
 Mochakk, Halfcab, Seth Troxler
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solarcebrothers/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solarcebrothers/)*

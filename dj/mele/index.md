@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tigres de la Noche, Washington DC on Fri, 21 Aug 2026.
+Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Tigres de la Noche, Washington DC on Fri, 21 Aug 2026.
 
 Melé is a house and tech house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Tigres de la Noche, Washingtondc on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Melé is a house and tech house artist tracked on soundcheck, with 119 sets logg
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

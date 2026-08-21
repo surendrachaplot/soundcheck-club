@@ -1,6 +1,6 @@
 # Scott Brown
 
-Scott Brown is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
+Scott Brown is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
 
 Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Dougal, Mark Breeze and Sharkey (1). Next up: ESC, Montreal on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Scott Brown is a hardcore and gabber artist based in United Kingdom, tracked on 
 
 Dougal, Mark Breeze, Sharkey (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottbrown/)*

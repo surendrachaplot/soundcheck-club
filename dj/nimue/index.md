@@ -1,6 +1,6 @@
 # Nimue
 
-Nimue is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 23 Aug 2026.
+Nimue is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Carmo Rooftop, Lisbon on Sun, 23 Aug 2026.
 
 Nimue is a house and classical artist based in Italy, tracked on soundcheck, with 17 sets logged across Lisbon, Madrid and Mexicocity. Often billed alongside AB, DECO (MX) and Juan Soto. Next up: Carmo Rooftop, Lisbon on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Nimue is a house and classical artist based in Italy, tracked on soundcheck, wit
 
 AB, DECO (MX), Juan Soto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimue/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimue/)*

@@ -1,6 +1,6 @@
 # Jens Schwan
 
-Jens Schwan is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Zuckerzauber, Berlin on Sun, 23 Aug 2026.
+Jens Schwan is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Zuckerzauber, Berlin on Sun, 23 Aug 2026.
 
 Jens Schwan is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Cologne. Often billed alongside Felix Reichelt, FEVZEE and MEEMA. Next up: Zuckerzauber, Berlin on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ Jens Schwan is a house and techno artist based in Germany, tracked on soundcheck
 
 Felix Reichelt, FEVZEE, MEEMA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jensschwan/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jensschwan/)*

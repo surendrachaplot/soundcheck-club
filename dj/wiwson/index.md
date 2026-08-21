@@ -1,6 +1,6 @@
 # Wiwson
 
-Wiwson is a Dubstep and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Brixtonia Lounge, London on Thu, 27 Aug 2026.
+Wiwson is a Dubstep and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Brixtonia Lounge, London on Thu, 27 Aug 2026.
 
 Wiwson is a dubstep and experimental artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Nio-B, Marky V and Estevez (1). Next up: Brixtonia Lounge, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Wiwson is a dubstep and experimental artist based in United Kingdom, tracked on 
 
 Nio-B, Marky V, Estevez (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiwson/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiwson/)*

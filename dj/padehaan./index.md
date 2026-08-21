@@ -1,6 +1,6 @@
 # pa de haan.
 
-pa de haan. is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cakeshop, Seoul on Fri, 21 Aug 2026.
+pa de haan. is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cakeshop, Seoul on Fri, 21 Aug 2026.
 
 pa de haan. is a club and electronica artist tracked on soundcheck, with 17 sets logged across London and Seoul. Often billed alongside LFT (KR), clasp and Coex. Next up: Cakeshop, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ pa de haan. is a club and electronica artist tracked on soundcheck, with 17 sets
 
 LFT (KR), clasp, Coex
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padehaan./)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padehaan./)*

@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Mall Grab is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

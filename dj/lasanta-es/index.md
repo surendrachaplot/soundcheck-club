@@ -1,6 +1,6 @@
 # La Santa (ES)
 
-La Santa (ES) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, New York City on Sat, 19 Sept 2026.
+La Santa (ES) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, New York City on Sat, 19 Sept 2026.
 
 La Santa (ES) is a house and afro house artist tracked on soundcheck, with 20 sets logged across Bali, Madrid, Melbourne and Miami and 7 more. Often billed alongside DJ Chus, ANDREATENS and Almared. Next up: TBA - Secret Location, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ La Santa (ES) is a house and afro house artist tracked on soundcheck, with 20 se
 
 DJ Chus, ANDREATENS, Almared
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lasanta-es/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lasanta-es/)*

@@ -1,6 +1,6 @@
 # degen
 
-degen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+degen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 degen is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Frankfurt, Hamburg and Stuttgart. Often billed alongside Dreimal T, mole (2) and Zarling. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ degen is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 Dreimal T, mole (2), Zarling
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/degen/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/degen/)*

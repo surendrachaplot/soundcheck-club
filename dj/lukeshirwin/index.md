@@ -1,6 +1,6 @@
 # Luke Shirwin
 
-Luke Shirwin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 11 Sept 2026.
+Luke Shirwin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 11 Sept 2026.
 
 Luke Shirwin is a techno and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside b̶e̶n̶e̶, Fading Franz and Regolator. Next up: TBA - Secret Location, Berlin on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Luke Shirwin is a techno and house artist tracked on soundcheck, with 6 sets log
 
 b̶e̶n̶e̶, Fading Franz, Regolator
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeshirwin/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeshirwin/)*

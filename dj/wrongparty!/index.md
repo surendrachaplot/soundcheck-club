@@ -1,6 +1,6 @@
 # Wrong Party!
 
-Wrong Party! is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
+Wrong Party! is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
 
 Wrong Party! is an acid and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Aberdeen and Glasgow. Often billed alongside GK Machine, Illogical Operator and Zillas on Acid. Next up: The Old Burnt Barns, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Wrong Party! is an acid and house artist based in United Kingdom, tracked on sou
 
 GK Machine, Illogical Operator, Zillas on Acid
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*

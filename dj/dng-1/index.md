@@ -1,6 +1,6 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 28 Aug 2026.
+DNG (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 28 Aug 2026.
 
 DNG (1) is a house and techno artist tracked on soundcheck, with 122 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Nari (2), KOTSU and Lomax. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DNG (1) is a house and techno artist tracked on soundcheck, with 122 sets logged
 
 Nari (2), KOTSU, Lomax
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*

@@ -1,6 +1,6 @@
 # Munay
 
-Munay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Club Up, Amsterdam on Fri, 28 Aug 2026.
+Munay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Up, Amsterdam on Fri, 28 Aug 2026.
 
 Munay is a house and tech house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona and London. Often billed alongside Judoc, Julien Simmons and Major K. Next up: Club Up, Amsterdam on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Munay is a house and tech house artist based in Netherlands, tracked on soundche
 
 Judoc, Julien Simmons, Major K
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munay/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munay/)*

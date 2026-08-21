@@ -1,6 +1,6 @@
 # Sonuit
 
-Sonuit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Süss War Gestern, Berlin on Fri, 21 Aug 2026.
+Sonuit is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Süss War Gestern, Berlin on Fri, 21 Aug 2026.
 
 Sonuit is a house and club artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Stefan Muchte, A.N.I.C.E. and ATTA (GER). Next up: Süss War Gestern, Berlin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Sonuit is a house and club artist tracked on soundcheck, with 13 sets logged acr
 
 Stefan Muchte, A.N.I.C.E., ATTA (GER)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonuit/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonuit/)*

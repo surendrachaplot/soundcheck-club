@@ -1,14 +1,15 @@
 # Jana Falcon
 
-Jana Falcon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OXI, Berlin on Sun, 23 Aug 2026.
+Jana Falcon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OXI, Berlin on Sun, 23 Aug 2026.
 
-Jana Falcon is a house and techno artist tracked on soundcheck, with 140 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 10 more. Often billed alongside Flemish.Fetish, Benedict and Immy. Next up: OXI, Berlin on Sun 23 Aug.
+Jana Falcon is a house and techno artist tracked on soundcheck, with 141 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 10 more. Often billed alongside Flemish.Fetish, Benedict and Immy. Next up: OXI, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | OXI | Berlin |
+| Sat, 29 Aug 2026 | THF Tower | Berlin |
 | Fri, 25 Sept 2026 | MS Stubnitz | Hamburg |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
@@ -27,4 +28,4 @@ Jana Falcon is a house and techno artist tracked on soundcheck, with 140 sets lo
 
 Flemish.Fetish, Benedict, Immy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janafalcon/)*

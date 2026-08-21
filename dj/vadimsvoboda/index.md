@@ -1,6 +1,6 @@
 # Vadim Svoboda
 
-Vadim Svoboda is a Minimal and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 19 Sept 2026.
+Vadim Svoboda is a Minimal and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 19 Sept 2026.
 
 Vadim Svoboda is a minimal and ambient artist based in France, tracked on soundcheck, with 10 sets logged across Lisbon, Marseille, Naples and Paris. Often billed alongside Céline, Delskiz and Amadeo Savio. Next up: Rumore Nightclub Capri, Naples on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vadim Svoboda is a minimal and ambient artist based in France, tracked on soundc
 
 Céline, Delskiz, Amadeo Savio
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimsvoboda/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vadimsvoboda/)*

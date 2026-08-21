@@ -1,6 +1,6 @@
 # DJ HAM (2)
 
-DJ HAM (2) is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Vessel, Edinburgh on Fri, 21 Aug 2026.
+DJ HAM (2) is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Vessel, Edinburgh on Fri, 21 Aug 2026.
 
 DJ HAM (2) is a downtempo and house artist tracked on soundcheck, with 8 sets logged across Edinburgh. Often billed alongside DJ CABLECAR, DJ Skotti and Ravelston. Next up: Vessel, Edinburgh on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ DJ HAM (2) is a downtempo and house artist tracked on soundcheck, with 8 sets lo
 
 DJ CABLECAR, DJ Skotti, Ravelston
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djham-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djham-2/)*

@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "[OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin" on Thu, 20 Aug 2026.
+OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "[OPEN: 20:00h] OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin" on Thu, 20 Aug 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Aggy, Ahni, Alexander Kowalski and Alex Levin and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

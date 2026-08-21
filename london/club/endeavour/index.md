@@ -1,6 +1,6 @@
 # Endeavour
 
-Endeavour is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Sound in Mind #5" on Fri, 21 Aug 2026.
+Endeavour is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Sound in Mind #5" on Fri, 21 Aug 2026.
 
 Endeavour is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Biscuit Boy, David Beckett, limi and metrologic and 2 more. Browse upcoming dates, start times and who's playing. 39 Deptford Broadway, London, SE8 4PQ.
 
@@ -16,4 +16,4 @@ Endeavour is a music venue in London listed on soundcheck. 3 upcoming nights, wi
 
 39 Deptford Broadway, London, SE8 4PQ, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/endeavour/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/endeavour/)*

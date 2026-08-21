@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Velocity X Fuzed - The Return" on Fri, 21 Aug 2026.
+Room 2 Glasgow is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Velocity X Fuzed - The Return" on Fri, 21 Aug 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Girls of the Internet, KIRSTY, LESSSS and MXWLL and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 14 upcoming nig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

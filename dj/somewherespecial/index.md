@@ -1,6 +1,6 @@
 # Somewhere Special
 
-Somewhere Special is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
+Somewhere Special is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
 Somewhere Special is a pop and club artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, London, Losangeles and Montreal and 3 more. Often billed alongside Ali RQ, SEES00000 and Two Shell. Next up: TBA, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Somewhere Special is a pop and club artist based in United States of America, tr
 
 Ali RQ, SEES00000, Two Shell
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somewherespecial/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somewherespecial/)*

@@ -1,6 +1,6 @@
 # POLS
 
-POLS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
+POLS is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
 
 POLS is a techno and tech house artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Ibiza and London. Often billed alongside Barbur, Ornery and Bonnie Spacey. Next up: TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ POLS is a techno and tech house artist based in Italy, tracked on soundcheck, wi
 
 Barbur, Ornery, Bonnie Spacey
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pols/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pols/)*

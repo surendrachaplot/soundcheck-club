@@ -1,6 +1,6 @@
 # El Charcon Beach
 
-El Charcon Beach is a music venue in Malaga with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "What The House x Charcon Beach" on Sat, 22 Aug 2026.
+El Charcon Beach is a music venue in Malaga with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "What The House x Charcon Beach" on Sat, 22 Aug 2026.
 
 El Charcon Beach is a music venue in Malaga listed on soundcheck. 3 upcoming nights, with line-ups including Darin Epsilon, Sol Brown, Stuart Patterson and Sy Sez and 1 more. Browse upcoming dates, start times and who's playing. Carretera de Cadíz km 204,500, Cambio de sentido, 29649 Mijas Costa, Málaga, Mijas, Spain.
 
@@ -16,4 +16,4 @@ El Charcon Beach is a music venue in Malaga listed on soundcheck. 3 upcoming nig
 
 Carretera de Cadíz km 204,500, Cambio de sentido, 29649 Mijas Costa, Málaga, Mijas, Spain, Malaga
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/el-charcon-beach/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/el-charcon-beach/)*

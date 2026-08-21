@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Outlaws w/ Elliot Holt" on Sat, 22 Aug 2026.
+Outlaws Yacht Club is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Outlaws w/ Elliot Holt" on Sat, 22 Aug 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 7 upcoming nights, with line-ups including Ben Daddy, Elliot Holt, gwa (1) and Hooley and 2 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -20,4 +20,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 7 upcoming ni
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

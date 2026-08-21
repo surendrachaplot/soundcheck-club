@@ -1,6 +1,6 @@
 # Lietzsche
 
-Lietzsche is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 22 Aug 2026.
+Lietzsche is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 22 Aug 2026.
 
 Lietzsche is a disco and house artist tracked on soundcheck, with 24 sets logged across Edinburgh. Often billed alongside Lara Sinclair, al gu and discjocelyne. Next up: People's Leisure Club, Edinburgh on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lietzsche is a disco and house artist tracked on soundcheck, with 24 sets logged
 
 Lara Sinclair, al gu, discjocelyne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*

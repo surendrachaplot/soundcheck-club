@@ -1,14 +1,15 @@
 # Elvira (1)
 
-Elvira (1) is a Dub and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Prairie du Canal, Paris on Sat, 5 Sept 2026.
+Elvira (1) is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at La Prairie du Canal, Paris on Sat, 5 Sept 2026.
 
-Elvira (1) is a dub and techno artist tracked on soundcheck, with 19 sets logged across Brussels, London, Milan and Paris and 1 more. Often billed alongside Subsism, Odd Shy Guy and Fatale Furylax. Next up: La Prairie du Canal, Paris on Sat 5 Sept.
+Elvira (1) is a dub and techno artist tracked on soundcheck, with 20 sets logged across Brussels, London, Milan and Paris and 1 more. Often billed alongside Subsism, Odd Shy Guy and Fatale Furylax. Next up: La Prairie du Canal, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | La Prairie du Canal | Paris |
+| Fri, 11 Sept 2026 | La Rotonde Stalingrad | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Elvira (1) is a dub and techno artist tracked on soundcheck, with 19 sets logged
 
 Subsism, Odd Shy Guy, Fatale Furylax
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira-1/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elvira-1/)*

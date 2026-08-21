@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "OPENING SEASON with LOOP & The Martinez Brothers" on Sat, 5 Sept 2026.
+Fabrik is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "OPENING SEASON with LOOP & The Martinez Brothers" on Sat, 5 Sept 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Alex Clap, Anetha, Angerfist and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -23,4 +23,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

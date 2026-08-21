@@ -1,6 +1,6 @@
 # Duble Mctruble
 
-Duble Mctruble is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Duble Mctruble is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
 
 Duble Mctruble is a house and techno artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside PIR (UK), Nearest Neighbor and Trixie (UK). Next up: fabric, London on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Duble Mctruble is a house and techno artist tracked on soundcheck, with 22 sets 
 
 PIR (UK), Nearest Neighbor, Trixie (UK)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dublemctruble/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dublemctruble/)*

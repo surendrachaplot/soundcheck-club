@@ -1,6 +1,6 @@
 # Provocateur
 
-Provocateur is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Das Werk, Vienna on Fri, 21 Aug 2026.
+Provocateur is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Das Werk, Vienna on Fri, 21 Aug 2026.
 
 Provocateur is an electronic artist tracked on soundcheck, with 7 sets logged across Berlin and Vienna. Often billed alongside Agent-Provocateur, Marko König and Uwe Marx. Next up: Das Werk, Vienna on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Provocateur is an electronic artist tracked on soundcheck, with 7 sets logged ac
 
 Agent-Provocateur, Marko König, Uwe Marx
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/provocateur/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/provocateur/)*

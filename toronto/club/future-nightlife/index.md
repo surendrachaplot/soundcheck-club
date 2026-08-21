@@ -1,6 +1,6 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "GABSS presented by MVMNT X House Of Heat" on Fri, 21 Aug 2026.
+Future Nightlife is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "GABSS presented by MVMNT X House Of Heat" on Fri, 21 Aug 2026.
 
 Future Nightlife is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Dillon Francis and Sainte Vie. Browse upcoming dates, start times and who's playing. 570 Queen Street West.
 
@@ -18,4 +18,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 5 upcoming ni
 
 570 Queen Street West, Toronto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

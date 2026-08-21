@@ -1,6 +1,6 @@
 # Javel
 
-Javel is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Javel is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Javel is a house and electronica artist based in Lithuania, tracked on soundcheck, with 11 sets logged across Oslo and Riga. Often billed alongside Franko, Aydin Imani and Alfred Czital. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Javel is a house and electronica artist based in Lithuania, tracked on soundchec
 
 Franko, Aydin Imani, Alfred Czital
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javel/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javel/)*

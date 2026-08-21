@@ -1,6 +1,6 @@
 # Hola Club Sitges (Cala Vallcarca)
 
-Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Happy Techno On The Beach - Hola Sitges" on Sat, 22 Aug 2026.
+Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Happy Techno On The Beach - Hola Sitges" on Sat, 22 Aug 2026.
 
 Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including _MARCBA, Brizas, Camelia (IT) and Combaila and 2 more. Browse upcoming dates, start times and who's playing. 08872 Sitges, Barcelona.
 
@@ -21,4 +21,4 @@ Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundc
 
 08872 Sitges, Barcelona, Barcelona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*

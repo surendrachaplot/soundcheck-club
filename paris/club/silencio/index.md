@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Antal / Pablo Saavedra de Decker" on Thu, 20 Aug 2026.
+Silencio is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Antal / Pablo Saavedra de Decker" on Thu, 20 Aug 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Antal, Major League Djz, Roman Flügel and RYX (1). Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -18,4 +18,4 @@ Silencio is a music venue in Paris listed on soundcheck. 5 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

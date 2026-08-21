@@ -1,6 +1,6 @@
 # Antonio Pérez
 
-Antonio Pérez is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
+Antonio Pérez is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Beate Uwe, Berlin on Fri, 11 Sept 2026.
 
 Antonio Pérez is a house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Coyo (Berlin), Gunnar Stiller and Johnny Gutmann. Next up: Beate Uwe, Berlin on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Antonio Pérez is a house artist tracked on soundcheck, with 3 sets logged acros
 
 Coyo (Berlin), Gunnar Stiller, Johnny Gutmann
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonioperez/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonioperez/)*

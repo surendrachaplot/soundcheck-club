@@ -1,6 +1,6 @@
 # xoxo (DE)
 
-xoxo (DE) is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+xoxo (DE) is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 xoxo (DE) is a trance and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Hamburg and Milan. Often billed alongside Mumu, BreakLD and HAMY. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ xoxo (DE) is a trance and house artist based in Germany, tracked on soundcheck, 
 
 Mumu, BreakLD, HAMY
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xoxode/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xoxode/)*

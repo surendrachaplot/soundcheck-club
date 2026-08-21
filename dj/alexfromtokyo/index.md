@@ -1,14 +1,14 @@
 # Alex From Tokyo
 
-Alex From Tokyo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The Listening Room, London on Wed, 23 Sept 2026.
+Alex From Tokyo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Room 86, London on Wed, 23 Sept 2026.
 
-Alex From Tokyo is a house and disco artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Man Called Dylan, Budino and DJ Deep. Next up: The Listening Room, London on Wed 23 Sept.
+Alex From Tokyo is a house and disco artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Man Called Dylan, Budino and DJ Deep. Next up: Room 86, London on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 23 Sept 2026 | The Listening Room | London |
+| Wed, 23 Sept 2026 | Room 86 | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Alex From Tokyo is a house and disco artist based in France, tracked on soundche
 
 Man Called Dylan, Budino, DJ Deep
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*

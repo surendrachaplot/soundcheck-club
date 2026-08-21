@@ -1,6 +1,6 @@
 # Ester Shiner
 
-Ester Shiner is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - outdoors , Toronto on Fri, 21 Aug 2026.
+Ester Shiner is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - outdoors , Toronto on Fri, 21 Aug 2026.
 
 Ester Shiner is a techno and experimental artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal and Toronto. Often billed alongside Chumbo, Emissive and Hemlock (CA). Next up: TBA - outdoors , Toronto on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Ester Shiner is a techno and experimental artist based in Canada, tracked on sou
 
 Chumbo, Emissive, Hemlock (CA)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estershiner/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estershiner/)*

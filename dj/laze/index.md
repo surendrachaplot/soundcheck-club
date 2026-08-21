@@ -1,6 +1,6 @@
 # Laze
 
-Laze is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
+Laze is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
 
 Laze is a techno and trance artist based in France, tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Brussels and Cologne and 16 more. Often billed alongside YENKOV, Azyr and Part Time Killer. Next up: Hidden, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Laze is a techno and trance artist based in France, tracked on soundcheck, with 
 
 YENKOV, Azyr, Part Time Killer
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*

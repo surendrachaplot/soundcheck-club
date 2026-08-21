@@ -1,6 +1,6 @@
 # West Port Oracle
 
-West Port Oracle is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Jacuzzi General" on Fri, 21 Aug 2026.
+West Port Oracle is a music venue in Edinburgh with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Jacuzzi General" on Fri, 21 Aug 2026.
 
 West Port Oracle is a music venue in Edinburgh listed on soundcheck. 4 upcoming nights, with line-ups including Fierro Grande, Hand-made, Helter Skelper and Jacuzzi General and 2 more. Browse upcoming dates, start times and who's playing. 27 West Port, Edinburgh EH1 2LD.
 
@@ -17,4 +17,4 @@ West Port Oracle is a music venue in Edinburgh listed on soundcheck. 4 upcoming 
 
 27 West Port, Edinburgh EH1 2LD, Edinburgh
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*

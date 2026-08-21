@@ -1,6 +1,6 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Strange Brew, Bristol on Fri, 28 Aug 2026.
+Daniel Avery is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Strange Brew, Bristol on Fri, 28 Aug 2026.
 
 Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Belfast and 41 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Strange Brew, Bristol on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Daniel Avery is a techno and house artist tracked on soundcheck, with 153 sets l
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

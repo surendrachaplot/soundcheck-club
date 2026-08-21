@@ -1,6 +1,6 @@
 # Nic Lorenz
 
-Nic Lorenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+Nic Lorenz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 Nic Lorenz is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 4 more. Often billed alongside Avocado, Chris Di Perri and Dave Dinger. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Nic Lorenz is a techno and house artist tracked on soundcheck, with 37 sets logg
 
 Avocado, Chris Di Perri, Dave Dinger
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niclorenz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niclorenz/)*

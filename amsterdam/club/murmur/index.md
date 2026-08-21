@@ -1,6 +1,6 @@
 # murmur
 
-murmur is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "murmur; The KrayZone invites GoodMostlyBad" on Fri, 21 Aug 2026.
+murmur is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "murmur; The KrayZone invites GoodMostlyBad" on Fri, 21 Aug 2026.
 
 murmur is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Ambu Bambu, Annebel, askmelater and baby ganoush and 2 more. Browse upcoming dates, start times and who's playing. Johan van Hasseltweg 39 HS, 1021 KN Amsterdam.
 
@@ -21,4 +21,4 @@ murmur is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, wi
 
 Johan van Hasseltweg 39 HS, 1021 KN Amsterdam, Amsterdam
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/murmur/)*

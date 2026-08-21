@@ -1,6 +1,6 @@
 # Pearla
 
-Pearla is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Renate, Berlin on Thu, 3 Sept 2026.
+Pearla is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Renate, Berlin on Thu, 3 Sept 2026.
 
 Pearla is a house and ambient artist tracked on soundcheck, with 12 sets logged across Berlin and Munich. Often billed alongside Josiane, Eclectic Elektra and Marco Ohboy. Next up: Renate, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Pearla is a house and ambient artist tracked on soundcheck, with 12 sets logged 
 
 Josiane, Eclectic Elektra, Marco Ohboy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pearla/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pearla/)*

@@ -1,6 +1,6 @@
 # Dalton Taylor
 
-Dalton Taylor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Dalton Taylor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Dalton Taylor is a techno and house artist based in South Korea, tracked on soundcheck, with 24 sets logged across Chicago, Denver, Detroit and Newyorkcity and 1 more. Often billed alongside Michelle Kay, Adam Braiman and Ramsey Neville. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dalton Taylor is a techno and house artist based in South Korea, tracked on soun
 
 Michelle Kay, Adam Braiman, Ramsey Neville
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daltontaylor/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daltontaylor/)*

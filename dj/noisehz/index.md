@@ -1,6 +1,6 @@
 # Noise Hz
 
-Noise Hz is a Experimental and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Audio, Glasgow on Mon, 24 Aug 2026.
+Noise Hz is a Experimental and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Audio, Glasgow on Mon, 24 Aug 2026.
 
 Noise Hz is an experimental and jungle artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh and Glasgow. Often billed alongside slyn, JayJay and Ribeka. Next up: Audio, Glasgow on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Noise Hz is an experimental and jungle artist based in United Kingdom, tracked o
 
 slyn, JayJay, Ribeka
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noisehz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noisehz/)*

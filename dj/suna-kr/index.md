@@ -1,6 +1,6 @@
 # SUNA
 
-SUNA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at vurt., Seoul on Fri, 21 Aug 2026.
+SUNA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at vurt., Seoul on Fri, 21 Aug 2026.
 
 SUNA is a techno artist based in South Korea, tracked on soundcheck, with 24 sets logged across Seoul. Often billed alongside GOBI, ANSOL and Inger. Next up: vurt., Seoul on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ SUNA is a techno artist based in South Korea, tracked on soundcheck, with 24 set
 
 GOBI, ANSOL, Inger
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suna-kr/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suna-kr/)*

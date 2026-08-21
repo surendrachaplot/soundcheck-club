@@ -1,6 +1,6 @@
 # Tsukuyomi
 
-Tsukuyomi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 21 Aug 2026.
+Tsukuyomi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Meteor Studio, Tbilisi on Fri, 21 Aug 2026.
 
 Tsukuyomi is a techno and trance artist based in Georgia, tracked on soundcheck, with 21 sets logged across Prague and Tbilisi. Often billed alongside Boyd Schidt, MSTN and Lilith.. Next up: Meteor Studio, Tbilisi on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Tsukuyomi is a techno and trance artist based in Georgia, tracked on soundcheck,
 
 Boyd Schidt, MSTN, Lilith.
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsukuyomi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsukuyomi/)*

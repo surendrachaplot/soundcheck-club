@@ -1,6 +1,6 @@
 # Ethan McNamara
 
-Ethan McNamara is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 10 mins from hackney wick station, London on Sat, 22 Aug 2026.
+Ethan McNamara is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 10 mins from hackney wick station, London on Sat, 22 Aug 2026.
 
 Ethan McNamara is an electro and techno artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Bucharest and Leeds and 5 more. Often billed alongside Ryan Ingleby, Louie G and A.L.C. Next up: TBA - 10 mins from hackney wick station, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Ethan McNamara is an electro and techno artist tracked on soundcheck, with 68 se
 
 Ryan Ingleby, Louie G, A.L.C
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*

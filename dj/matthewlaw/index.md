@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bastet, Philadelphia on Sat, 22 Aug 2026.
+Matthew Law is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bastet, Philadelphia on Sat, 22 Aug 2026.
 
 Matthew Law is a house and club artist based in United States of America, tracked on soundcheck, with 58 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Khalil, DJ Dommis and Jabair. Next up: Bastet, Philadelphia on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Matthew Law is a house and club artist based in United States of America, tracke
 
 Khalil, DJ Dommis, Jabair
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

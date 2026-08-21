@@ -1,6 +1,6 @@
 # TheBlackChriss
 
-TheBlackChriss is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Dahlak Paradise, Philadelphia on Sat, 22 Aug 2026.
+TheBlackChriss is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Dahlak Paradise, Philadelphia on Sat, 22 Aug 2026.
 
 TheBlackChriss is a club and house artist tracked on soundcheck, with 12 sets logged across Newyorkcity and Philadelphia. Often billed alongside ONEELEVEN, lorboo and DJ Delish. Next up: Dahlak Paradise, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ TheBlackChriss is a club and house artist tracked on soundcheck, with 12 sets lo
 
 ONEELEVEN, lorboo, DJ Delish
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackchriss/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackchriss/)*

@@ -1,6 +1,6 @@
 # Else
 
-Else is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Jackies Open Air Party Berlin - with Dennis Cruz" on Fri, 21 Aug 2026.
+Else is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Jackies Open Air Party Berlin - with Dennis Cruz & Dan Shake" on Fri, 21 Aug 2026.
 
 Else is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including ALCATRAZ, Alex Kassian, Alírio and Amanda Mussi and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
@@ -8,7 +8,7 @@ Else is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Jackies Open Air Party Berlin - with Dennis Cruz | Aria Santillana, Dan Shake, Dennis Cruz, GIVIO, Nesi, Piem |
+| Fri, 21 Aug 2026 | Jackies Open Air Party Berlin - with Dennis Cruz & Dan Shake | Aria Santillana, Dan Shake, Dennis Cruz, GIVIO, Nesi, Piem |
 | Sat, 22 Aug 2026 | Else x İÇ İÇE | Dornika, Melis Köke, Miss T Delight, Mohajer, Sanaz, Slimgirl fat, Souci, evin |
 | Sun, 23 Aug 2026 | Else x DJ Gigola pres. Bigroom Sensual | ALCATRAZ, DJ Gigola, Dj Babatr, LB aka LABAT, LYZZA, Luke Hovey, Margo XS, SWART (BE) |
 | Fri, 28 Aug 2026 | Else x Job Jobse invites | Alex Kassian, Eoin DJ, Jessica Nightlife, Job Jobse, LIA, limbic sis |
@@ -23,4 +23,4 @@ Else is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with l
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

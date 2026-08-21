@@ -1,6 +1,6 @@
 # buildupbreakdown
 
-buildupbreakdown is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Basement Vesterbro, Copenhagen on Fri, 21 Aug 2026.
+buildupbreakdown is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Basement Vesterbro, Copenhagen on Fri, 21 Aug 2026.
 
 buildupbreakdown is an electronic artist tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Europa (1), Franarchy and Ryong. Next up: Basement Vesterbro, Copenhagen on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ buildupbreakdown is an electronic artist tracked on soundcheck, with 5 sets logg
 
 Europa (1), Franarchy, Ryong
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buildupbreakdown/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buildupbreakdown/)*

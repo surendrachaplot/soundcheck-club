@@ -1,6 +1,6 @@
 # Nathan Worm
 
-Nathan Worm is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Wiper and True, Old Market Taproom, Bristol on Fri, 21 Aug 2026.
+Nathan Worm is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Wiper and True, Old Market Taproom, Bristol on Fri, 21 Aug 2026.
 
 Nathan Worm is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Bristol and Cardiff. Often billed alongside Chamba, Worm Soundsystem and Amy Kisnorbo. Next up: Wiper and True, Old Market Taproom, Bristol on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Nathan Worm is a funk / soul and disco artist based in United Kingdom, tracked o
 
 Chamba, Worm Soundsystem, Amy Kisnorbo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanworm/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanworm/)*

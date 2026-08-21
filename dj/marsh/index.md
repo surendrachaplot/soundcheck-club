@@ -1,6 +1,6 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
+Marsh is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
 
 Marsh is a progressive house and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 37 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Marsh is a progressive house and house artist tracked on soundcheck, with 122 se
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

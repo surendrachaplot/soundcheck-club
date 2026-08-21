@@ -1,6 +1,6 @@
 # Armii1n
 
-Armii1n is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
+Armii1n is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
 
 Armii1n is a house and deep house artist tracked on soundcheck, with 122 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Apollo Studio, Newyorkcity on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Armii1n is a house and deep house artist tracked on soundcheck, with 122 sets lo
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

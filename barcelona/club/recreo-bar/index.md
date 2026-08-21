@@ -1,19 +1,17 @@
 # Recreo Bar
 
-Recreo Bar is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ANKLUB 32 SUMMER RECREO" on Thu, 20 Aug 2026.
+Recreo Bar is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "ANKLUB 33 SUMMER RECREO" on Thu, 27 Aug 2026.
 
-Recreo Bar is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Blonde Brunette and Gustavo Lopez. Browse upcoming dates, start times and who's playing. Carrer de la Mercè, 26, 08002 Barcelona, Spain.
+Recreo Bar is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Gustavo Lopez. Browse upcoming dates, start times and who's playing. Carrer de la Mercè, 26, 08002 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | ANKLUB 32 SUMMER RECREO | Blonde Brunette |
-| Thu, 20 Aug 2026 | Blonde Brunette [House Music] | Blonde Brunette |
 | Thu, 27 Aug 2026 | ANKLUB 33 SUMMER RECREO | Gustavo Lopez |
 
 ## Address
 
 Carrer de la Mercè, 26, 08002 Barcelona, Spain, Barcelona
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/recreo-bar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/recreo-bar/)*

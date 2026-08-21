@@ -1,6 +1,6 @@
 # Jared Love
 
-Jared Love is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 21 Aug 2026.
+Jared Love is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 21 Aug 2026.
 
 Jared Love is a house and techno artist based in Canada, tracked on soundcheck, with 36 sets logged across Osaka, Seattle and Vancouver. Often billed alongside Paul Franc, Leon V and STILL LNDN. Next up: Gorg-O-Mish, Vancouver on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Jared Love is a house and techno artist based in Canada, tracked on soundcheck, 
 
 Paul Franc, Leon V, STILL LNDN
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaredlove-ca/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaredlove-ca/)*

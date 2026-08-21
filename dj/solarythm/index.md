@@ -1,6 +1,6 @@
 # SOLARYTHM
 
-SOLARYTHM is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Prague on Sat, 22 Aug 2026.
+SOLARYTHM is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Prague on Sat, 22 Aug 2026.
 
 SOLARYTHM is a techno and ambient artist based in France, tracked on soundcheck, with 12 sets logged across Berlin, Brussels, London and Marseille and 3 more. Often billed alongside Andy Pi, Aérienne and Bobbi Watson. Next up: TBA, Prague on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ SOLARYTHM is a techno and ambient artist based in France, tracked on soundcheck,
 
 Andy Pi, Aérienne, Bobbi Watson
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solarythm/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solarythm/)*

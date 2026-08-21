@@ -1,6 +1,6 @@
 # Drawbridge
 
-Drawbridge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mains D'œuvres, Paris on Sun, 4 Oct 2026.
+Drawbridge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mains D'œuvres, Paris on Sun, 4 Oct 2026.
 
 Drawbridge is a techno and house artist based in France, tracked on soundcheck, with 19 sets logged across Brussels, Geneva, Melbourne and Munich and 4 more. Often billed alongside Khey Mysterio, Forest and Jan Loup. Next up: Mains D'œuvres, Paris on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Drawbridge is a techno and house artist based in France, tracked on soundcheck, 
 
 Khey Mysterio, Forest, Jan Loup
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbridge/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drawbridge/)*

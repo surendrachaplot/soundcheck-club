@@ -1,6 +1,6 @@
 # Ariezzz
 
-Ariezzz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Oven Club, Valencia on Fri, 28 Aug 2026.
+Ariezzz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Oven Club, Valencia on Fri, 28 Aug 2026.
 
 Ariezzz is a tech house and house artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Brussels and London and 3 more. Often billed alongside CAMMMMM, Ladrillovitz and Lucía Gea. Next up: Oven Club, Valencia on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Ariezzz is a tech house and house artist tracked on soundcheck, with 76 sets log
 
 CAMMMMM, Ladrillovitz, Lucía Gea
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariezzz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ariezzz/)*

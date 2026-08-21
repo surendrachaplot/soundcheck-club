@@ -1,6 +1,6 @@
 # BLOODHOUND (3)
 
-BLOODHOUND (3) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Antwerp Cricket Club, Antwerp on Sat, 22 Aug 2026.
+BLOODHOUND (3) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Antwerp Cricket Club, Antwerp on Sat, 22 Aug 2026.
 
 BLOODHOUND (3) is a house and disco artist based in United States of America, tracked on soundcheck, with 3 sets logged across Antwerp and Losangeles. Often billed alongside DJ Sakee, Esteban Adame and Kosmik. Next up: TBA - Antwerp Cricket Club, Antwerp on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ BLOODHOUND (3) is a house and disco artist based in United States of America, tr
 
 DJ Sakee, Esteban Adame, Kosmik
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*

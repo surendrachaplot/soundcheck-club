@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "KARAH + In Furcht + KIM SWIM" on Sat, 22 Aug 2026.
+Spook Club is a music venue in Valencia with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "KARAH + In Furcht + KIM SWIM" on Sat, 22 Aug 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 19 upcoming nights, with line-ups including Angelinanyulí, Aguirre, Aida Arko and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 19 upcoming nights
 
 Pinedo Valencia, Valencia
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

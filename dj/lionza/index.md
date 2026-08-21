@@ -1,6 +1,6 @@
 # lionza
 
-lionza is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Badehaus Berlin, Berlin on Fri, 25 Sept 2026.
+lionza is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Badehaus Berlin, Berlin on Fri, 25 Sept 2026.
 
 lionza is a reggaeton and latin bass artist based in Venezuela, tracked on soundcheck, with 26 sets logged across Berlin and Leipzig. Often billed alongside Azulado, Maque and Ojos de miel. Next up: Badehaus Berlin, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ lionza is a reggaeton and latin bass artist based in Venezuela, tracked on sound
 
 Azulado, Maque, Ojos de miel
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lionza/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lionza/)*

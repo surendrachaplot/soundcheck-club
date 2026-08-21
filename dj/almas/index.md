@@ -1,6 +1,6 @@
 # ALMAS
 
-ALMAS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Hawthorn, San Francisco/Oakland on Fri, 28 Aug 2026.
+ALMAS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Hawthorn, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 ALMAS is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside Emanate, Dirac (US) and HIDRA. Next up: Hawthorn, Sanfrancisco on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ ALMAS is a techno and house artist based in United States of America, tracked on
 
 Emanate, Dirac (US), HIDRA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almas/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almas/)*

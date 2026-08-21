@@ -1,6 +1,6 @@
 # Red Hour
 
-Red Hour is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
+Red Hour is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
 
 Red Hour is an amapiano and afro house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside European 305, Olayemi and Ade Smilez. Next up: E1, London on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Red Hour is an amapiano and afro house artist based in United Kingdom, tracked o
 
 European 305, Olayemi, Ade Smilez
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redhour/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redhour/)*

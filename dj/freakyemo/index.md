@@ -1,6 +1,6 @@
 # Freaky Emo
 
-Freaky Emo is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at El Rio, San Francisco/Oakland on Fri, 21 Aug 2026.
+Freaky Emo is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at El Rio, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 Freaky Emo is a club and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Berlin, Sanfrancisco, Seattle and Tokyo. Often billed alongside Digital KitKat, HEAVENLY ARCH and DE ALMA. Next up: El Rio, Sanfrancisco on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Freaky Emo is a club and house artist based in United States of America, tracked
 
 Digital KitKat, HEAVENLY ARCH, DE ALMA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakyemo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakyemo/)*

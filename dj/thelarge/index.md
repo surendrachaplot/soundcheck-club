@@ -1,6 +1,6 @@
 # The Large
 
-The Large is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Nowadays, New York City on Fri, 4 Sept 2026.
+The Large is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Nowadays, New York City on Fri, 4 Sept 2026.
 
 The Large is a dancehall and club artist tracked on soundcheck, with 25 sets logged across Geneva, Glasgow and Newyorkcity. Often billed alongside Akanbi, Ayanna Heaven and Jubilee. Next up: Nowadays, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ The Large is a dancehall and club artist tracked on soundcheck, with 25 sets log
 
 Akanbi, Ayanna Heaven, Jubilee
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thelarge/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thelarge/)*

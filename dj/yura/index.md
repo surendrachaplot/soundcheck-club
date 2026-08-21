@@ -1,6 +1,6 @@
 # Yura
 
-Yura is a Techno and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bar Piment, Seoul on Fri, 21 Aug 2026.
+Yura is a Techno and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bar Piment, Seoul on Fri, 21 Aug 2026.
 
 Yura is a techno and dancehall artist based in Ukraine, tracked on soundcheck, with 8 sets logged across Barcelona, Lisbon, Seoul and Tokyo. Often billed alongside AI (10), An toi and Baussy. Next up: Bar Piment, Seoul on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ Yura is a techno and dancehall artist based in Ukraine, tracked on soundcheck, w
 
 AI (10), An toi, Baussy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yura/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yura/)*

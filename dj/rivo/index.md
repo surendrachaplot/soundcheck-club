@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 22 Aug 2026.
+Rivo is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 22 Aug 2026.
 
 Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Santanna Mykonos, Mykonos on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged
 
 Eric Prydz, Bender, Argy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

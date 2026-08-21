@@ -1,6 +1,6 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at KitKatClub, Berlin on Thu, 20 Aug 2026.
+Cobb Douglas is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at KitKatClub, Berlin on Thu, 20 Aug 2026.
 
 Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck, with 116 sets logged across Barcelona, Belgrade, Berlin and Cologne and 7 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: KitKatClub, Berlin on Thu 20 Aug.
 
@@ -22,6 +22,7 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
+- KitKatClub, Berlin — Thu, 20 Aug 2026
 - Lokschuppen Berlin, Berlin — Wed, 19 Aug 2026
 - KitKatClub, Berlin — Thu, 13 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 7 Aug 2026
@@ -29,10 +30,9 @@ Cobb Douglas is a techno and trance artist based in Spain, tracked on soundcheck
 - Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
 - Schrotty, Cologne — Sat, 1 Aug 2026
 - Void Club, Berlin — Fri, 31 Jul 2026
-- Lokschuppen Berlin, Berlin — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Ozzwald, Stinny Stone, Amøn
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*

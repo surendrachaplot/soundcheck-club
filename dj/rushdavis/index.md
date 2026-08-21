@@ -1,6 +1,6 @@
 # Rush Davis
 
-Rush Davis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Club Rawhide, New York City on Sat, 29 Aug 2026.
+Rush Davis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club Rawhide, New York City on Sat, 29 Aug 2026.
 
 Rush Davis is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Berlin, Cardiff, Edinburgh and Hamburg and 6 more. Often billed alongside Shaun Ross, Ashley Younniä and Saturn Risin9. Next up: Club Rawhide, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Rush Davis is a house and techno artist based in United States of America, track
 
 Shaun Ross, Ashley Younniä, Saturn Risin9
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rushdavis/)*

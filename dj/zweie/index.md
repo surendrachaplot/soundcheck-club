@@ -1,6 +1,6 @@
 # ZweiE
 
-ZweiE is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Süss War Gestern, Berlin on Fri, 28 Aug 2026.
+ZweiE is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Süss War Gestern, Berlin on Fri, 28 Aug 2026.
 
 ZweiE is a techno and tech house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Cologne and Warsaw. Often billed alongside Maurice Mino, Sin:port and Martin Ka. Next up: Süss War Gestern, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ ZweiE is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Maurice Mino, Sin:port, Martin Ka
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zweie/)*

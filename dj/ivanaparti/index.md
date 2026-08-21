@@ -1,6 +1,6 @@
 # Ivana Parti
 
-Ivana Parti is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+Ivana Parti is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 Ivana Parti is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Chicago, Cologne and Hamburg. Often billed alongside Limoncello, YOVA and alemiko. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ivana Parti is a techno and trance artist based in Germany, tracked on soundchec
 
 Limoncello, YOVA, alemiko
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanaparti/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanaparti/)*

@@ -1,6 +1,6 @@
 # TONY IANNICELLI
 
-TONY IANNICELLI is a Tech House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tana Kiosk, Naples on Sat, 22 Aug 2026.
+TONY IANNICELLI is a Tech House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Tana Kiosk, Naples on Sat, 22 Aug 2026.
 
 TONY IANNICELLI is a tech house and electronica artist tracked on soundcheck, with 14 sets logged across Barcelona and Naples. Often billed alongside Agostino Casillo, Carlo Martino and Cole Knight. Next up: Tana Kiosk, Naples on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ TONY IANNICELLI is a tech house and electronica artist tracked on soundcheck, wi
 
 Agostino Casillo, Carlo Martino, Cole Knight
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyiannicelli/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyiannicelli/)*

@@ -1,6 +1,6 @@
 # Photek
 
-Photek is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Photek is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 Photek is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Antwerp, Berlin, Boston and Chicago and 10 more. Often billed alongside Goldie, Ant TC1 and Diverge. Next up: The Cause, London on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Photek is a drum & bass and jungle artist tracked on soundcheck, with 20 sets lo
 
 Goldie, Ant TC1, Diverge
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*

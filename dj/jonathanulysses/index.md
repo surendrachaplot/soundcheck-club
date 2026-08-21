@@ -1,6 +1,6 @@
 # Jonathan Ulysses
 
-Jonathan Ulysses is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 22 Aug 2026.
+Jonathan Ulysses is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Jonathan Ulysses is a house and tech house artist tracked on soundcheck, with 19 sets logged across Auckland, Ibiza and London. Often billed alongside Bongo Ben, Jason Bye and Alex P. Next up: Chinois Ibiza, Ibiza on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Jonathan Ulysses is a house and tech house artist tracked on soundcheck, with 19
 
 Bongo Ben, Jason Bye, Alex P
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanulysses/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanulysses/)*

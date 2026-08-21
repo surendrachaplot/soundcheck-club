@@ -1,6 +1,6 @@
 # TonalTheory
 
-TonalTheory is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+TonalTheory is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 TonalTheory is a techno and trance artist based in United States of America, tracked on soundcheck, with 32 sets logged across Copenhagen, Detroit, Losangeles and Miami and 2 more. Often billed alongside JADE CAO, KRØK and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ TonalTheory is a techno and trance artist based in United States of America, tra
 
 JADE CAO, KRØK, Adrian Hex
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*

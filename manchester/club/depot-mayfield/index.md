@@ -1,6 +1,6 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Renae takeover at Live From The Grill" on Sat, 29 Aug 2026.
+Depot Mayfield is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Renae takeover at Live From The Grill" on Sat, 29 Aug 2026.
 
 Depot Mayfield is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including 2Shy MC, Kepler, ADR (US) and Aiden Francis and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 17 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

@@ -1,6 +1,6 @@
 # Eduardo de la Calle
 
-Eduardo de la Calle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Funke, Ghent on Fri, 21 Aug 2026.
+Eduardo de la Calle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Funke, Ghent on Fri, 21 Aug 2026.
 
 Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Boston and Brussels and 19 more. Often billed alongside Cosmo (KR), Edward and Konstantin. Next up: Funke, Ghent on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 48 
 
 Cosmo (KR), Edward, Konstantin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*

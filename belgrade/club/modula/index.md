@@ -1,6 +1,6 @@
 # Modula
 
-Modula is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "unloveable" on Sat, 29 Aug 2026.
+Modula is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "unloveable" on Sat, 29 Aug 2026.
 
 Modula is a music venue in Belgrade listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Cetinjska 15, 11000 Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Modula is a music venue in Belgrade listed on soundcheck. 2 upcoming nights. Bro
 
 Cetinjska 15, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/modula/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/modula/)*

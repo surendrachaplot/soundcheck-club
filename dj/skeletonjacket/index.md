@@ -1,6 +1,6 @@
 # Skeleton Jacket
 
-Skeleton Jacket is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 21 Aug 2026.
+Skeleton Jacket is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 21 Aug 2026.
 
 Skeleton Jacket is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside CAITY WATSON, Lincoln J. K. Webber and Mr. Rachele. Next up: Sub Club Melbourne, Melbourne on Fri 21 Aug.
 
@@ -21,4 +21,4 @@ Skeleton Jacket is a techno and electronica artist tracked on soundcheck, with 5
 
 CAITY WATSON, Lincoln J. K. Webber, Mr. Rachele
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletonjacket/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletonjacket/)*

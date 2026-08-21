@@ -1,6 +1,6 @@
 # exmantera
 
-exmantera is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
+exmantera is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Warehouse Location, Denver on Fri, 21 Aug 2026.
 
 exmantera is an experimental and club artist tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Denver and Glasgow and 7 more. Often billed alongside bod [包家巷], Warlord® and Acid Souljah. Next up: TBA - Secret Warehouse Location, Denver on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ exmantera is an experimental and club artist tracked on soundcheck, with 32 sets
 
 bod [包家巷], Warlord®, Acid Souljah
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*

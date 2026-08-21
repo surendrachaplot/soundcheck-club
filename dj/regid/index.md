@@ -1,6 +1,6 @@
 # REGI D
 
-REGI D is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ferro Bar, Porto on Sat, 22 Aug 2026.
+REGI D is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ferro Bar, Porto on Sat, 22 Aug 2026.
 
 REGI D is an electro and techno artist based in Portugal, tracked on soundcheck, with 11 sets logged across Barcelona, Madrid and Porto. Often billed alongside Let (3), Renato Zanon and Rúben Costa. Next up: Ferro Bar, Porto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ REGI D is an electro and techno artist based in Portugal, tracked on soundcheck,
 
 Let (3), Renato Zanon, Rúben Costa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regid/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regid/)*

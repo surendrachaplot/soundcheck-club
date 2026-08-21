@@ -1,6 +1,6 @@
 # James Connor
 
-James Connor is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri, 21 Aug 2026.
+James Connor is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri, 21 Aug 2026.
 
 James Connor is a techno and electro artist based in United States of America, tracked on soundcheck, with 2 sets logged across Detroit. Often billed alongside LAÍRE, Brent Shay and DJ Candor. Next up: TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri 21 Aug.
 
@@ -15,4 +15,4 @@ James Connor is a techno and electro artist based in United States of America, t
 
 LAÍRE, Brent Shay, DJ Candor
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesconnor-us/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesconnor-us/)*

@@ -1,6 +1,6 @@
 # Lewis Robertson
 
-Lewis Robertson is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Leith Arches, Edinburgh on Fri, 28 Aug 2026.
+Lewis Robertson is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Leith Arches, Edinburgh on Fri, 28 Aug 2026.
 
 Lewis Robertson is an electro and ebm artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Edinburgh, Glasgow and Newcastle. Often billed alongside Brewboy, Dance No Evil and Speki C. Next up: Leith Arches, Edinburgh on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lewis Robertson is an electro and ebm artist based in United Kingdom, tracked on
 
 Brewboy, Dance No Evil, Speki C
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisrobertson/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisrobertson/)*

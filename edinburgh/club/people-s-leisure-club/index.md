@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 19 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Elements: presents PASO x Mixfits" on Thu, 20 Aug 2026.
+People's Leisure Club is a music venue in Edinburgh with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "La Beat Soul Club" on Fri, 21 Aug 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 19 upcoming nights, with line-ups including Accident Machine, Astro, Body Clinic and Carmen Baía and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -8,7 +8,6 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 19 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Elements: presents PASO x Mixfits | Mixfits (2), PASO |
 | Fri, 21 Aug 2026 | La Beat Soul Club |  |
 | Sat, 22 Aug 2026 | Fangs Disco Club | Jacuzzi General, Lietzsche |
 | Sun, 23 Aug 2026 | Late and Loud |  |
@@ -17,10 +16,11 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 19 upc
 | Fri, 28 Aug 2026 | Fringe Closing Weekend - EPiKA SOFT (EPiKA's 5th Birthday) | ENAEN, Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
 | Sat, 29 Aug 2026 | People's Disco Club - Fringe Closing Party w. Nikki Kent, Lotsy + Astrojazz | Chris Astrojazz, Nikki Kent |
 | Sun, 30 Aug 2026 | Late and Loud |  |
+| Sat, 5 Sept 2026 | Soul Motive present - Terry Francis (Fabric) | Terry Francis, noodle |
 | Fri, 11 Sept 2026 | La Beat Soul Club |  |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

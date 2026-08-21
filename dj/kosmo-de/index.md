@@ -1,6 +1,6 @@
 # Kos:mo
 
-Kos:mo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Kos:mo is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
 
 Kos:mo is a techno and progressive house artist based in Germany, tracked on soundcheck, with 69 sets logged across Berlin, Cologne, Dublin and Hamburg and 2 more. Often billed alongside Alchemiah, Diode Eins and Ropemaker. Next up: Odonien, Cologne on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Kos:mo is a techno and progressive house artist based in Germany, tracked on sou
 
 Alchemiah, Diode Eins, Ropemaker
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmo-de/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmo-de/)*

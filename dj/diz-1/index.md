@@ -1,14 +1,15 @@
 # Diz (1)
 
-Diz (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Le Nocturne, Chicago on Sat, 22 Aug 2026.
+Diz (1) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Le Nocturne, Chicago on Sat, 22 Aug 2026.
 
-Diz (1) is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Chicago, Detroit and Ibiza. Often billed alongside DJ Heather, Gene Hunt and Striz. Next up: Le Nocturne, Chicago on Sat 22 Aug.
+Diz (1) is a house and deep house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Chicago, Detroit, Ibiza and Losangeles. Often billed alongside DJ Heather, DJ Colette and Gene Hunt. Next up: Le Nocturne, Chicago on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Le Nocturne | Chicago |
+| Sat, 24 Oct 2026 | Jungle Hollywood | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Diz (1) is a house and deep house artist based in United States of America, trac
 
 ## Shares bills with
 
-DJ Heather, Gene Hunt, Striz
+DJ Heather, DJ Colette, Gene Hunt
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diz-1/)*

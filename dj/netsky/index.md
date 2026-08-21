@@ -1,6 +1,6 @@
 # Netsky
 
-Netsky is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Netsky is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Netsky is a drum & bass and bass artist tracked on soundcheck, with 46 sets logged across Amsterdam, Auckland, Austin and Brisbane and 25 more. Often billed alongside A Little Sound, Fred V and Hedex. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Netsky is a drum & bass and bass artist tracked on soundcheck, with 46 sets logg
 
 A Little Sound, Fred V, Hedex
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/netsky/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/netsky/)*

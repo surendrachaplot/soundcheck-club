@@ -1,6 +1,6 @@
 # AVALON
 
-AVALON is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
+AVALON is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Shelter, Seoul on Sat, 22 Aug 2026.
 
 AVALON is a techno and electro artist based in South Korea, tracked on soundcheck, with 101 sets logged across Antwerp, Berlin, Copenhagen and Istanbul and 8 more. Often billed alongside Honn, MOVIN.KR and X2C (1). Next up: Shelter, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ AVALON is a techno and electro artist based in South Korea, tracked on soundchec
 
 Honn, MOVIN.KR, X2C (1)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avalon/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avalon/)*

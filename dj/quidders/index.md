@@ -1,6 +1,6 @@
 # Quidders
 
-Quidders is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
+Quidders is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
 
 Quidders is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Leeds, London and Manchester. Often billed alongside Jimmy, Brennan (2) and Boink. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Quidders is a house and tech house artist based in United Kingdom, tracked on so
 
 Jimmy, Brennan (2), Boink
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quidders/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quidders/)*

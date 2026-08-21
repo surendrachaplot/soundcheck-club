@@ -1,6 +1,6 @@
 # Darling Cool
 
-Darling Cool is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 22 Aug 2026.
+Darling Cool is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 22 Aug 2026.
 
 Darling Cool is a house and afro house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Losangeles, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Chriz Javey, 2theT and An Dy. Next up: Margolis Music Lounge, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Darling Cool is a house and afro house artist based in United States of America,
 
 Chriz Javey, 2theT, An Dy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darlingcool/)*

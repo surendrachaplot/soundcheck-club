@@ -1,6 +1,6 @@
 # Lightbox
 
-Lightbox is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Pop All Night Long - Limited Free Tickets" on Fri, 21 Aug 2026.
+Lightbox is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Pop All Night Long - Limited Free Tickets" on Fri, 21 Aug 2026.
 
 Lightbox is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AMP (1), Jordan, Loora and NORA (BR) and 2 more. Browse upcoming dates, start times and who's playing. 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom.
 
@@ -23,4 +23,4 @@ Lightbox is a music venue in London listed on soundcheck. 11 upcoming nights, wi
 
 6A S Lambeth Pl; Vauxhall; London SW8 1SP; United Kingdom, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/lightbox/)*

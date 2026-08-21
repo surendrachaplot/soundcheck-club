@@ -1,6 +1,6 @@
 # Darshan Jesrani
 
-Darshan Jesrani is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Moondog Hifi, New York City on Sat, 22 Aug 2026.
+Darshan Jesrani is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Moondog Hifi, New York City on Sat, 22 Aug 2026.
 
 Darshan Jesrani is a disco and funk / soul artist tracked on soundcheck, with 14 sets logged across Detroit and Newyorkcity. Often billed alongside Dylan Payne, AAA and Adi (CO). Next up: Moondog Hifi, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Darshan Jesrani is a disco and funk / soul artist tracked on soundcheck, with 14
 
 Dylan Payne, AAA, Adi (CO)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darshanjesrani/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darshanjesrani/)*

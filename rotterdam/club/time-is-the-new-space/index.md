@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "HAARLEM HARDCORE" on Thu, 20 Aug 2026.
+Time is the new space is a music venue in Rotterdam with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HAARLEM HARDCORE" on Thu, 20 Aug 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 10 upcoming nights, with line-ups including Cold Hippie, DD, Droom and kimmah and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 10 upc
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

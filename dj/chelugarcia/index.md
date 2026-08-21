@@ -1,6 +1,6 @@
 # Chelu Garcia
 
-Chelu Garcia is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Esbirra Ibiza, Ibiza on Sat, 22 Aug 2026.
+Chelu Garcia is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Esbirra Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Chelu Garcia is a house and minimal artist based in Spain, tracked on soundcheck, with 28 sets logged across Ibiza, Paris and Zurich. Often billed alongside Hessa, Los Suruba and Matan Klevan. Next up: Esbirra Ibiza, Ibiza on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Chelu Garcia is a house and minimal artist based in Spain, tracked on soundcheck
 
 Hessa, Los Suruba, Matan Klevan
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelugarcia/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chelugarcia/)*

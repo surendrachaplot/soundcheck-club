@@ -1,6 +1,6 @@
 # ABIMBOLA
 
-ABIMBOLA is a Afrobeats and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
+ABIMBOLA is a Afrobeats and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Four Quarters, London on Fri, 21 Aug 2026.
 
 ABIMBOLA is an afrobeats and afro tech artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside MiNNA, RIMIX and Rico Vision. Next up: Four Quarters, London on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ ABIMBOLA is an afrobeats and afro tech artist based in United Kingdom, tracked o
 
 MiNNA, RIMIX, Rico Vision
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abimbola/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abimbola/)*

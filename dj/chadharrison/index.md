@@ -1,6 +1,6 @@
 # Chad Harrison
 
-Chad Harrison is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Hidden, Manchester on Sat, 22 Aug 2026.
+Chad Harrison is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hidden, Manchester on Sat, 22 Aug 2026.
 
 Chad Harrison is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Birmingham, Leeds, London and Manchester and 1 more. Often billed alongside Jamie Duggan, DJ Pantha and DJ Q. Next up: Hidden, Manchester on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Chad Harrison is a bass and garage artist based in United Kingdom, tracked on so
 
 Jamie Duggan, DJ Pantha, DJ Q
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chadharrison/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chadharrison/)*

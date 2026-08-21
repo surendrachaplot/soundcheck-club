@@ -1,6 +1,6 @@
 # Eastern Distributor
 
-Eastern Distributor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
+Eastern Distributor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
 
 Eastern Distributor is a techno and trance artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brisbane and Melbourne and 4 more. Often billed alongside Andy Garvey, Cloudy Ku and Mabel. Next up: De Fik Garden, Amsterdam on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Eastern Distributor is a techno and trance artist tracked on soundcheck, with 32
 
 Andy Garvey, Cloudy Ku, Mabel
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easterndistributor/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easterndistributor/)*

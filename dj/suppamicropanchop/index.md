@@ -1,6 +1,6 @@
 # suppa micro panchop
 
-suppa micro panchop is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Forestlimit, Tokyo on Sun, 23 Aug 2026.
+suppa micro panchop is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Forestlimit, Tokyo on Sun, 23 Aug 2026.
 
 suppa micro panchop is an electronica and experimental artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside okadada, pnnikin and seaketa. Next up: Forestlimit, Tokyo on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ suppa micro panchop is an electronica and experimental artist based in Japan, tr
 
 okadada, pnnikin, seaketa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suppamicropanchop/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suppamicropanchop/)*

@@ -1,6 +1,6 @@
 # Gvantsky
 
-Gvantsky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Pawn Shop, Dublin on Fri, 21 Aug 2026.
+Gvantsky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pawn Shop, Dublin on Fri, 21 Aug 2026.
 
 Gvantsky is a house and techno artist tracked on soundcheck, with 19 sets logged across Dublin, Newyorkcity and Philadelphia. Often billed alongside Mr. Murray, Keen and Francisco Collazo. Next up: Pawn Shop, Dublin on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Gvantsky is a house and techno artist tracked on soundcheck, with 19 sets logged
 
 Mr. Murray, Keen, Francisco Collazo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gvantsky/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gvantsky/)*

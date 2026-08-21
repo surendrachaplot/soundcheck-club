@@ -1,6 +1,6 @@
 # Rana Iravani
 
-Rana Iravani is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
+Rana Iravani is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Apollo Studio, New York City on Fri, 21 Aug 2026.
 
 Rana Iravani is a house and deep house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Miami and Newyorkcity. Often billed alongside Auphoria, Jack Mulqueen and Choukroun. Next up: Apollo Studio, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ Rana Iravani is a house and deep house artist based in United States of America,
 
 Auphoria, Jack Mulqueen, Choukroun
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

@@ -1,6 +1,6 @@
 # H.Baukloh
 
-H.Baukloh is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at 33/45 Club, Valencia on Fri, 21 Aug 2026.
+H.Baukloh is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 33/45 Club, Valencia on Fri, 21 Aug 2026.
 
 H.Baukloh is a techno and electro artist based in Paraguay, tracked on soundcheck, with 12 sets logged across Lisbon, Porto and Valencia. Often billed alongside Let (3), Alfalfa (2) and Gilberto. Next up: 33/45 Club, Valencia on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ H.Baukloh is a techno and electro artist based in Paraguay, tracked on soundchec
 
 Let (3), Alfalfa (2), Gilberto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h.baukloh/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h.baukloh/)*

@@ -1,8 +1,8 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Demorave w/ Bubamara, Dieselstart, Franzi, Chiki G" on Thu, 20 Aug 2026.
+Golden Pudel Club is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Demorave w/ Bubamara, Dieselstart, Franzi, Chiki G" on Thu, 20 Aug 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Barbaros, CHIEF QUEEF, Dieselstart and dj blip and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including Barbaros, CHIEF QUEEF, Dieselstart and dj blip and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming 
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

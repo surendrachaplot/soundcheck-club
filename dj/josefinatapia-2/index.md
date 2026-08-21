@@ -1,6 +1,6 @@
 # Josefina Tapia (2)
 
-Josefina Tapia (2) is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Telep Budapest, Budapest on Mon, 24 Aug 2026.
+Josefina Tapia (2) is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Telep Budapest, Budapest on Mon, 24 Aug 2026.
 
 Josefina Tapia (2) is a house and electro artist based in Chile, tracked on soundcheck, with 37 sets logged across Berlin, Budapest, Copenhagen and Hamburg and 2 more. Often billed alongside Nils Ohrmann, Clemente (DE) and Felipe Valenzuela. Next up: Telep Budapest, Budapest on Mon 24 Aug.
 
@@ -28,4 +28,4 @@ Josefina Tapia (2) is a house and electro artist based in Chile, tracked on soun
 
 Nils Ohrmann, Clemente (DE), Felipe Valenzuela
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia-2/)*

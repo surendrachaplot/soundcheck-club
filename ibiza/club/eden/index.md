@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 34 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "LA DISTURBIA Closing Party" on Thu, 20 Aug 2026.
+Eden is a music venue in Ibiza with 34 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "LA DISTURBIA Closing Party" on Thu, 20 Aug 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 34 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 34 upcoming nights, with li
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

@@ -1,6 +1,6 @@
 # Iced Misto
 
-Iced Misto is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Acqua Supper Club, Toronto on Fri, 21 Aug 2026.
+Iced Misto is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Acqua Supper Club, Toronto on Fri, 21 Aug 2026.
 
 Iced Misto is a house and club artist tracked on soundcheck, with 61 sets logged across Toronto. Often billed alongside Yogi, Jason Palma and Jay NuFunk. Next up: Acqua Supper Club, Toronto on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Iced Misto is a house and club artist tracked on soundcheck, with 61 sets logged
 
 Yogi, Jason Palma, Jay NuFunk
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icedmisto/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icedmisto/)*

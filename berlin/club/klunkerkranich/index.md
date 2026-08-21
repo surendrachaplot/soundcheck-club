@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "KUMULUS w. Solatic, Skydrips, Nɨxe, Dolph *live, Theo Gramal *live, NAIR, Ex-Mono" on Thu, 20 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "KUMULUS w. Solatic, Skydrips, Nɨxe, Dolph *live, Theo Gramal *live, NAIR, Ex-Mono" on Thu, 20 Aug 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including arkadiusz.official, Boy Oh Boy, CIOZ and Corpino and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -19,4 +19,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

@@ -1,6 +1,6 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Akvárium Klub, Budapest on Fri, 4 Sept 2026.
+Fritz Kalkbrenner is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Akvárium Klub, Budapest on Fri, 4 Sept 2026.
 
 Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Akvárium Klub, Budapest on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Fritz Kalkbrenner is a house and electronica artist tracked on soundcheck, with 
 
 Agatha Pher, Einmusik, Floyd Lavine
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*

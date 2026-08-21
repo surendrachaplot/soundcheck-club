@@ -1,6 +1,6 @@
 # Naté
 
-Naté is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
+Naté is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
 
 Naté is a house and disco artist tracked on soundcheck, with 30 sets logged across Losangeles and Paris. Often billed alongside Pretty Gay Friendly, Masha Mar and Perfect Lovers. Next up: TBA, Losangeles on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Naté is a house and disco artist tracked on soundcheck, with 30 sets logged acr
 
 Pretty Gay Friendly, Masha Mar, Perfect Lovers
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nate/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nate/)*

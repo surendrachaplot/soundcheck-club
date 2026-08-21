@@ -1,6 +1,6 @@
 # Dan Medland
 
-Dan Medland is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Bsmt 254, Toronto on Fri, 21 Aug 2026.
+Dan Medland is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bsmt 254, Toronto on Fri, 21 Aug 2026.
 
 Dan Medland is a house and tech house artist based in Canada, tracked on soundcheck, with 15 sets logged across Toronto. Often billed alongside Brash-B, Anthony Attalla and Cozmic Cat. Next up: Bsmt 254, Toronto on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Dan Medland is a house and tech house artist based in Canada, tracked on soundch
 
 Brash-B, Anthony Attalla, Cozmic Cat
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danmedland/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danmedland/)*

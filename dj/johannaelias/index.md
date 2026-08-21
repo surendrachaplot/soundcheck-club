@@ -1,6 +1,6 @@
 # Johanna Elias
 
-Johanna Elias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
+Johanna Elias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
 
 Johanna Elias is a house and techno artist tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Kallaloo, DJ Zurückbleiben Bitte and Dreimal T. Next up: TBA - Secret Location, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Johanna Elias is a house and techno artist tracked on soundcheck, with 27 sets l
 
 Kallaloo, DJ Zurückbleiben Bitte, Dreimal T
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannaelias/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannaelias/)*

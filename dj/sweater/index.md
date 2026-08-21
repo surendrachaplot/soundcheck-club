@@ -1,6 +1,6 @@
 # Sweater
 
-Sweater is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Love City Gardens, Philadelphia on Sat, 22 Aug 2026.
+Sweater is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Love City Gardens, Philadelphia on Sat, 22 Aug 2026.
 
 Sweater is a house and techno artist based in United States of America, tracked on soundcheck, with 51 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 3 more. Often billed alongside John Raffaele, DJ Dre and Keen. Next up: Love City Gardens, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sweater is a house and techno artist based in United States of America, tracked 
 
 John Raffaele, DJ Dre, Keen
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweater/)*

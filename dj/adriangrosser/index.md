@@ -1,6 +1,6 @@
 # Adrian Grösser
 
-Adrian Grösser is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
+Adrian Grösser is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 27 Aug 2026.
 
 Adrian Grösser is a house and techno artist tracked on soundcheck, with 29 sets logged across Barcelona and Madrid. Often billed alongside Derovio, Abas and Brizas. Next up: Sunseabar Beach Club, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Adrian Grösser is a house and techno artist tracked on soundcheck, with 29 sets
 
 Derovio, Abas, Brizas
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriangrosser/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriangrosser/)*

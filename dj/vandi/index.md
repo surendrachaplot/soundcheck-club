@@ -1,8 +1,8 @@
 # Vandi
 
-Vandi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Circolo Magnolia, Milan on Fri, 18 Sept 2026.
+Vandi is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Circolo Magnolia, Milan on Fri, 18 Sept 2026.
 
-Vandi is a house and disco artist based in United States of America, tracked on soundcheck, with 6 sets logged across Dublin, Milan, Newyorkcity and Seattle. Often billed alongside Dj incognito mode, Dylema and Janeret. Next up: Circolo Magnolia, Milan on Fri 18 Sept.
+Vandi is a house and disco artist based in United States of America, tracked on soundcheck, with 7 sets logged across Barcelona, Dublin, Milan and Newyorkcity and 1 more. Often billed alongside Dj incognito mode, Dylema and Effy (DE). Next up: Circolo Magnolia, Milan on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vandi is a house and disco artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Circolo Magnolia | Milan |
 | Sat, 19 Sept 2026 | block. | Dublin |
+| Sat, 26 Sept 2026 | La Terrrazza | Barcelona |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Vandi is a house and disco artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-Dj incognito mode, Dylema, Janeret
+Dj incognito mode, Dylema, Effy (DE)
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandi/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vandi/)*

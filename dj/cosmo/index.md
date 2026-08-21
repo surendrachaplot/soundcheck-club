@@ -1,6 +1,6 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Eavesdrop, New York City on Sat, 22 Aug 2026.
+Cosmo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Eavesdrop, New York City on Sat, 22 Aug 2026.
 
 Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Bucharest, Chicago and Ghent and 11 more. Often billed alongside Jordz, Kim.Qna and Phi Phi. Next up: Eavesdrop, Newyorkcity on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 4
 
 Jordz, Kim.Qna, Phi Phi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

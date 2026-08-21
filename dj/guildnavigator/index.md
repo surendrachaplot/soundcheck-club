@@ -1,6 +1,6 @@
 # Guild Navigator
 
-Guild Navigator is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
+Guild Navigator is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 21 Aug 2026.
 
 Guild Navigator is a trance and experimental artist based in Norway, tracked on soundcheck, with 7 sets logged across Amsterdam and Oslo. Often billed alongside Anémi, Komet99 and Brix. Next up: De Fik Garden, Amsterdam on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Guild Navigator is a trance and experimental artist based in Norway, tracked on 
 
 Anémi, Komet99, Brix
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*

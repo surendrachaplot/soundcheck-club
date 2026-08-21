@@ -1,6 +1,6 @@
 # Iriky
 
-Iriky is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Altenburg 1964, Prague on Thu, 27 Aug 2026.
+Iriky is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Altenburg 1964, Prague on Thu, 27 Aug 2026.
 
 Iriky is an electronic artist tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside mata rubia, AVHD and Ayiaa. Next up: Altenburg 1964, Prague on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Iriky is an electronic artist tracked on soundcheck, with 6 sets logged across P
 
 mata rubia, AVHD, Ayiaa
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iriky/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iriky/)*

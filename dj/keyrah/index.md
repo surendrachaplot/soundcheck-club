@@ -1,6 +1,6 @@
 # Keyrah
 
-Keyrah is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
+Keyrah is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
 
 Keyrah is a house and hip-hop artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 8 more. Often billed alongside Tiffany Calver, Casnova and Juls. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Keyrah is a house and hip-hop artist tracked on soundcheck, with 65 sets logged 
 
 Tiffany Calver, Casnova, Juls
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keyrah/)*

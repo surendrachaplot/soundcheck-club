@@ -1,6 +1,6 @@
 # E3
 
-E3 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
+E3 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Seoul on Sat, 22 Aug 2026.
 
 E3 is a techno and house artist tracked on soundcheck, with 30 sets logged across Bangkok, Portland and Seoul. Often billed alongside Joon Kwak, KONA (2) and Kim.Qna. Next up: TBA, Seoul on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ E3 is a techno and house artist tracked on soundcheck, with 30 sets logged acros
 
 Joon Kwak, KONA (2), Kim.Qna
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e3-us/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e3-us/)*

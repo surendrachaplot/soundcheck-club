@@ -1,6 +1,6 @@
 # Ron Mist
 
-Ron Mist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TV Lounge, Detroit on Thu, 27 Aug 2026.
+Ron Mist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TV Lounge, Detroit on Thu, 27 Aug 2026.
 
 Ron Mist is a house and techno artist tracked on soundcheck, with 4 sets logged across Detroit and Newyorkcity. Often billed alongside Big Joe Hix, DJ Dav and DJ I.V.. Next up: TV Lounge, Detroit on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ Ron Mist is a house and techno artist tracked on soundcheck, with 4 sets logged 
 
 Big Joe Hix, DJ Dav, DJ I.V.
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmist/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmist/)*

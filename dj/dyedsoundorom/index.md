@@ -1,14 +1,13 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane São Paulo, Sao Paulo on Thu, 20 Aug 2026.
+Dyed Soundorom is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 21 Aug 2026.
 
-Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Auckland and 52 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Starlane São Paulo, Saopaulo on Thu 20 Aug.
+Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Auckland and 52 more. Often billed alongside Shonky, Apollonia and Gene On Earth. Next up: Crobar - Buenos Aires, Buenosaires on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Starlane São Paulo | Sao Paulo |
 | Fri, 21 Aug 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | The Loft | Manchester |
@@ -20,6 +19,7 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 220 
 
 ## Recently played
 
+- Starlane São Paulo, Sao Paulo — Thu, 20 Aug 2026
 - Fünk, Mexico City — Sat, 15 Aug 2026
 - Tokonoma Club, Frankfurt — Sat, 1 Aug 2026
 - TBA - Alfagar Prestige - Estrada de Santa Eulalia - Albufeira, Lisbon — Thu, 30 Jul 2026
@@ -27,10 +27,9 @@ Dyed Soundorom is a house and tech house artist tracked on soundcheck, with 220 
 - UMI, Brussels — Sat, 25 Jul 2026
 - Sophie Festival, Malaga — Sat, 11 Jul 2026
 - Playa Soleil Ibiza, Ibiza — Wed, 8 Jul 2026
-- Sawmills, Bristol — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Shonky, Apollonia, Gene On Earth
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyedsoundorom/)*

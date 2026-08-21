@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 14 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Gabriela, New York City on Thu, 20 Aug 2026.
+Eli Escobar is a House and Electro artist with 13 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Gabriela, New York City on Thu, 27 Aug 2026.
 
-Eli Escobar is a house and electro artist tracked on soundcheck, with 537 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, Newyorkcity on Thu 20 Aug.
+Eli Escobar is a house and electro artist tracked on soundcheck, with 537 sets logged across Barcelona, Berlin, Boston and Chicago and 17 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, Newyorkcity on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Gabriela | New York City |
 | Thu, 27 Aug 2026 | Gabriela | New York City |
 | Fri, 28 Aug 2026 | Signal | New York City |
 | Sat, 29 Aug 2026 | Jolene Downtown Miami | Miami |
@@ -20,9 +19,11 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 537 sets l
 | Fri, 2 Oct 2026 | House of Yes | New York City |
 | Sat, 3 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Gabriela, New York City — Thu, 20 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Paragon, New York City — Fri, 24 Jul 2026
@@ -30,10 +31,9 @@ Eli Escobar is a house and electro artist tracked on soundcheck, with 537 sets l
 - Le Bain, New York City — Wed, 22 Jul 2026
 - Jolene Downtown Miami, Miami — Sat, 18 Jul 2026
 - Superior Ingredients, New York City — Fri, 17 Jul 2026
-- Gabriela, New York City — Thu, 16 Jul 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

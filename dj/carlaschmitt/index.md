@@ -1,6 +1,6 @@
 # Carla Schmitt
 
-Carla Schmitt is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
+Carla Schmitt is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
 
 Carla Schmitt is a techno and trance artist tracked on soundcheck, with 75 sets logged across Barcelona, Basel, Berlin and Cologne and 17 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: Kilomètre25, Paris on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ Carla Schmitt is a techno and trance artist tracked on soundcheck, with 75 sets 
 
 DURDENHAUER, KTK (DE), Yasmin Regisford
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*

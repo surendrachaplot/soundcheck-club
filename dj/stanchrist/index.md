@@ -1,6 +1,6 @@
 # Stan Christ
 
-Stan Christ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Mia Mao, Paris on Sat, 29 Aug 2026.
+Stan Christ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Mia Mao, Paris on Sat, 29 Aug 2026.
 
 Stan Christ is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 37 more. Often billed alongside DYEN, DIØN and Cynthia Spiering. Next up: Mia Mao, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Stan Christ is a techno and industrial artist based in Netherlands, tracked on s
 
 DYEN, DIØN, Cynthia Spiering
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanchrist/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanchrist/)*

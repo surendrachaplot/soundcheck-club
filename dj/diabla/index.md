@@ -1,6 +1,6 @@
 # Diabla
 
-Diabla is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
+Diabla is a Latin Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 22 Aug 2026.
 
 Diabla is a latin bass and reggaeton artist based in Mexico, tracked on soundcheck, with 13 sets logged across Mexicocity. Often billed alongside Enya Botello, Alexandria (MX) and Amapola Rose. Next up: YuYu Cine Club, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Diabla is a latin bass and reggaeton artist based in Mexico, tracked on soundche
 
 Enya Botello, Alexandria (MX), Amapola Rose
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diabla/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diabla/)*

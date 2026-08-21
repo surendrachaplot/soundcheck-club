@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
+DJ Holographic is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
 
 DJ Holographic is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Under the K Bridge, Newyorkcity on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ DJ Holographic is a house and techno artist tracked on soundcheck, with 204 sets
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

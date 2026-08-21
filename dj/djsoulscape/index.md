@@ -1,6 +1,6 @@
 # DJ Soulscape
 
-DJ Soulscape is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
+DJ Soulscape is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Modeci, Seoul on Fri, 21 Aug 2026.
 
 DJ Soulscape is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 109 sets logged across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: Modeci, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ DJ Soulscape is a hip-hop and club artist based in South Korea, tracked on sound
 
 ANDOW, JADA MORAES, DJ Jeyon
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*

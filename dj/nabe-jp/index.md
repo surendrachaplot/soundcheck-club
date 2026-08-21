@@ -1,6 +1,6 @@
 # NABE
 
-NABE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Cave, Tokyo on Sat, 5 Sept 2026.
+NABE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cave, Tokyo on Sat, 5 Sept 2026.
 
 NABE is a techno and house artist tracked on soundcheck, with 90 sets logged across Osaka and Tokyo. Often billed alongside Dr.Tommy, O-MAN and Yos.. Next up: Cave, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NABE is a techno and house artist tracked on soundcheck, with 90 sets logged acr
 
 Dr.Tommy, O-MAN, Yos.
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabe-jp/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabe-jp/)*

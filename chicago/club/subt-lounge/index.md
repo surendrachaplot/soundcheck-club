@@ -1,6 +1,6 @@
 # SubT Lounge
 
-SubT Lounge is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "SWITCH/PROTOCOL" on Sat, 5 Sept 2026.
+SubT Lounge is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "SWITCH/PROTOCOL" on Sat, 5 Sept 2026.
 
 SubT Lounge is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including KEEFE, mike ext and Nathaniel Pavel. Browse upcoming dates, start times and who's playing. 2011 W. North Ave; Chicago, IL 60647; United States.
 
@@ -14,4 +14,4 @@ SubT Lounge is a music venue in Chicago listed on soundcheck. 1 upcoming night, 
 
 2011 W. North Ave; Chicago, IL 60647; United States, Chicago
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/subt-lounge/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/subt-lounge/)*

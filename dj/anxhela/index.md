@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Lion Super Club, Seoul on Fri, 21 Aug 2026.
+ANXHELA is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Lion Super Club, Seoul on Fri, 21 Aug 2026.
 
 ANXHELA is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: Lion Super Club, Seoul on Fri 21 Aug.
 
@@ -33,4 +33,4 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 119 sets logge
 
 Alignment, KØZLØV, DIØN
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

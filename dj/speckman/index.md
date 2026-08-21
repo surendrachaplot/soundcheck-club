@@ -1,6 +1,6 @@
 # Speckman
 
-Speckman is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Speckman is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Speckman is a house and electronica artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside DJ SOURCE, EliaHaze and DJ Babyblade. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Speckman is a house and electronica artist tracked on soundcheck, with 58 sets l
 
 DJ SOURCE, EliaHaze, DJ Babyblade
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speckman/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speckman/)*

@@ -1,6 +1,6 @@
 # Sub Focus
 
-Sub Focus is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
+Sub Focus is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
 
 Sub Focus is a drum & bass and bass artist tracked on soundcheck, with 72 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside Culture Shock, Dimension and Hedex. Next up: Factory Town, Miami on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sub Focus is a drum & bass and bass artist tracked on soundcheck, with 72 sets l
 
 Culture Shock, Dimension, Hedex
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subfocus/)*

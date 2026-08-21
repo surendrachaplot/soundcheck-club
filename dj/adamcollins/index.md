@@ -1,6 +1,6 @@
 # Adam Collins
 
-Adam Collins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Roof Terrace BK, New York City on Fri, 21 Aug 2026.
+Adam Collins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Fri, 21 Aug 2026.
 
 Adam Collins is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Berlin, Ibiza, London and Losangeles and 10 more. Often billed alongside AMO, Corrina and Chad Andrew. Next up: Roof Terrace BK, Newyorkcity on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Adam Collins is a house and techno artist based in United States of America, tra
 
 AMO, Corrina, Chad Andrew
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*

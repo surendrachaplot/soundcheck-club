@@ -1,6 +1,6 @@
 # KINGMCK
 
-KINGMCK is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bolero, Seoul on Fri, 21 Aug 2026.
+KINGMCK is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bolero, Seoul on Fri, 21 Aug 2026.
 
 KINGMCK is a club and electro artist based in South Korea, tracked on soundcheck, with 107 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Apachi, DJ Co.kr and Honn. Next up: Bolero, Seoul on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ KINGMCK is a club and electro artist based in South Korea, tracked on soundcheck
 
 Apachi, DJ Co.kr, Honn
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingmck/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingmck/)*

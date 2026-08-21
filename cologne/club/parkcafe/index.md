@@ -1,6 +1,6 @@
 # Parkcafe
 
-Parkcafe is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "ANDHIM OPEN AIR" on Sun, 23 Aug 2026.
+Parkcafe is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "ANDHIM OPEN AIR" on Sun, 23 Aug 2026.
 
 Parkcafe is a music venue in Cologne listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Jugendpark.
 
@@ -15,4 +15,4 @@ Parkcafe is a music venue in Cologne listed on soundcheck. 2 upcoming nights. Br
 
 Jugendpark, Cologne
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*

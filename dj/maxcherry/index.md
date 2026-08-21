@@ -1,6 +1,6 @@
 # Maxcherry
 
-Maxcherry is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Lord Gladstone, Sydney on Sat, 5 Sept 2026.
+Maxcherry is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Lord Gladstone, Sydney on Sat, 5 Sept 2026.
 
 Maxcherry is a garage and house artist tracked on soundcheck, with 13 sets logged across Cologne and Sydney. Often billed alongside Deens, Clifford and Duzi. Next up: The Lord Gladstone, Sydney on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Maxcherry is a garage and house artist tracked on soundcheck, with 13 sets logge
 
 Deens, Clifford, Duzi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcherry/)*

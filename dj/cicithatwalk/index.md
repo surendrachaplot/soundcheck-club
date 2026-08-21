@@ -1,6 +1,6 @@
 # Cici That Walk
 
-Cici That Walk is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
+Cici That Walk is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
 
 Cici That Walk is a club and pop artist tracked on soundcheck, with 12 sets logged across Paris and Strasbourg. Often billed alongside A-440, Aubry and Bjr Alex. Next up: La Station - Gare des Mines, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cici That Walk is a club and pop artist tracked on soundcheck, with 12 sets logg
 
 A-440, Aubry, Bjr Alex
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cicithatwalk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cicithatwalk/)*

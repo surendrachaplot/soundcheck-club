@@ -1,6 +1,6 @@
 # Iris Ipsum
 
-Iris Ipsum is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Water & Power, Los Angeles on Fri, 4 Sept 2026.
+Iris Ipsum is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Water & Power, Los Angeles on Fri, 4 Sept 2026.
 
 Iris Ipsum is an experimental and idm artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, London and Losangeles and 2 more. Often billed alongside 05elantra, 3Points and Aka Hyoo. Next up: Water & Power, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Iris Ipsum is an experimental and idm artist tracked on soundcheck, with 11 sets
 
 05elantra, 3Points, Aka Hyoo
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irisipsum/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irisipsum/)*

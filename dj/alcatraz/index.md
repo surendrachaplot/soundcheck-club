@@ -1,6 +1,6 @@
 # ALCATRAZ
 
-ALCATRAZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
+ALCATRAZ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
 
 ALCATRAZ is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Else, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ ALCATRAZ is a techno and house artist tracked on soundcheck, with 56 sets logged
 
 DJ Gigola, MCR-T, Bauernfeind
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*

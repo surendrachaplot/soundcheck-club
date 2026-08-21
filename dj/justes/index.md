@@ -1,6 +1,6 @@
 # Juste S
 
-Juste S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Badaboum, Paris on Fri, 11 Sept 2026.
+Juste S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Badaboum, Paris on Fri, 11 Sept 2026.
 
 Juste S is a house and techno artist tracked on soundcheck, with 6 sets logged across Paris. Often billed alongside Blasha & Allatt, Christian Coiffure and DJ Rolando. Next up: Badaboum, Paris on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Juste S is a house and techno artist tracked on soundcheck, with 6 sets logged a
 
 Blasha & Allatt, Christian Coiffure, DJ Rolando
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*

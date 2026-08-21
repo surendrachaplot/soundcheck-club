@@ -1,6 +1,6 @@
 # The Rooftop at Gianpula Village
 
-The Rooftop at Gianpula Village is a music venue in Malta with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "in.di.go // Locals // 30.08" on Sun, 30 Aug 2026.
+The Rooftop at Gianpula Village is a music venue in Malta with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "in.di.go // Locals // 30.08" on Sun, 30 Aug 2026.
 
 The Rooftop at Gianpula Village is a music venue in Malta listed on soundcheck. 2 upcoming nights, with line-ups including Budg, Gordon Flash, iNK MT and Patient (MT) and 1 more. Browse upcoming dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -15,4 +15,4 @@ The Rooftop at Gianpula Village is a music venue in Malta listed on soundcheck. 
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/the-rooftop-at-gianpula-village/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/the-rooftop-at-gianpula-village/)*

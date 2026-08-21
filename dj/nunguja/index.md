@@ -1,6 +1,6 @@
 # nunguja
 
-nunguja is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
+nunguja is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 21 Aug 2026.
 
 nunguja is an experimental and club artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Brussels, Frankfurt and Leeds and 9 more. Often billed alongside Bill Kouligas, Tzusing and upsammy. Next up: Haus der Visionäre, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ nunguja is an experimental and club artist based in Germany, tracked on soundche
 
 Bill Kouligas, Tzusing, upsammy
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nunguja/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nunguja/)*

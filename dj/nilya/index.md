@@ -1,6 +1,6 @@
 # Nilya
 
-Nilya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
+Nilya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Celeste, Vienna on Sat, 22 Aug 2026.
 
 Nilya is a techno and house artist based in Austria, tracked on soundcheck, with 5 sets logged across Bucharest, Munich and Vienna. Often billed alongside Mischa Beton, RENIA and 1022. Next up: Celeste, Vienna on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Nilya is a techno and house artist based in Austria, tracked on soundcheck, with
 
 Mischa Beton, RENIA, 1022
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilya/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilya/)*

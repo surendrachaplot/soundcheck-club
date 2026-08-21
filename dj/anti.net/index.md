@@ -1,6 +1,6 @@
 # anti.Net
 
-anti.Net is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - 198 Hackney Road, E2 7QL, London on Fri, 4 Sept 2026.
+anti.Net is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 198 Hackney Road, E2 7QL, London on Fri, 4 Sept 2026.
 
 anti.Net is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Leeds and London. Often billed alongside JoeJas, retropxssy and Nammy Wams. Next up: TBA - 198 Hackney Road, E2 7QL, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ anti.Net is a hip-hop and r&b artist based in United Kingdom, tracked on soundch
 
 JoeJas, retropxssy, Nammy Wams
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anti.net/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anti.net/)*

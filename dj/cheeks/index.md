@@ -1,6 +1,6 @@
 # Cheeks
 
-Cheeks is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
+Cheeks is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
 
 Cheeks is a house and deep house artist tracked on soundcheck, with 9 sets logged across Copenhagen, Mexicocity and Newyorkcity. Often billed alongside Niko Nuevo, DJ Spice and Future Feelings. Next up: Klub Werkstatt, Copenhagen on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Cheeks is a house and deep house artist tracked on soundcheck, with 9 sets logge
 
 Niko Nuevo, DJ Spice, Future Feelings
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeks/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeks/)*

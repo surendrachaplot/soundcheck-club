@@ -1,6 +1,6 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Horn, Bangkok on Sat, 17 Oct 2026.
+Ouissam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Horn, Bangkok on Sat, 17 Oct 2026.
 
 Ouissam is a house and techno artist tracked on soundcheck, with 60 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Horn, Bangkok on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ouissam is a house and techno artist tracked on soundcheck, with 60 sets logged 
 
 Emel, Di Linh, Saint Guel
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

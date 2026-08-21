@@ -1,6 +1,6 @@
 # Lolli
 
-Lolli is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Crono Club, Sao Paulo on Sat, 22 Aug 2026.
+Lolli is a Baile Funk and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Crono Club, Sao Paulo on Sat, 22 Aug 2026.
 
 Lolli is a baile funk and garage artist tracked on soundcheck, with 20 sets logged across Bristol, Glasgow, London and Saopaulo and 1 more. Often billed alongside AÆE, DASHY and A For Alpha. Next up: Crono Club, Saopaulo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Lolli is a baile funk and garage artist tracked on soundcheck, with 20 sets logg
 
 AÆE, DASHY, A For Alpha
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolli/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolli/)*

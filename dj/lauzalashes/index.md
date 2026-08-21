@@ -1,6 +1,6 @@
 # Lauza Lashes
 
-Lauza Lashes is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at The North London Tavern, London on Mon, 31 Aug 2026.
+Lauza Lashes is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The North London Tavern, London on Mon, 31 Aug 2026.
 
 Lauza Lashes is a house and garage artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Chloe K, Dave Lee and Ellie Cocks. Next up: The North London Tavern, London on Mon 31 Aug.
 
@@ -21,4 +21,4 @@ Lauza Lashes is a house and garage artist based in United Kingdom, tracked on so
 
 Chloe K, Dave Lee, Ellie Cocks
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauzalashes/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauzalashes/)*

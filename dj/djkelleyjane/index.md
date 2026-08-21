@@ -1,6 +1,6 @@
 # dj kelleyjane
 
-dj kelleyjane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+dj kelleyjane is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
 
 dj kelleyjane is a techno and house artist tracked on soundcheck, with 8 sets logged across Sanfrancisco. Often billed alongside Discnogirl, Javi (US) and 40split. Next up: F8 1192 Folsom, Sanfrancisco on Fri 21 Aug.
 
@@ -24,4 +24,4 @@ dj kelleyjane is a techno and house artist tracked on soundcheck, with 8 sets lo
 
 Discnogirl, Javi (US), 40split
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkelleyjane/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkelleyjane/)*

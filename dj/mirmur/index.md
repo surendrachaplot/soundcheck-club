@@ -1,6 +1,6 @@
 # Mirmur
 
-Mirmur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 22 Aug 2026.
+Mirmur is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 22 Aug 2026.
 
 Mirmur is a house and techno artist tracked on soundcheck, with 64 sets logged across Budapest and Milan. Often billed alongside Katamii, Adis Is OK and Daniel Santiago. Next up: Aether Club Budapest, Budapest on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mirmur is a house and techno artist tracked on soundcheck, with 64 sets logged a
 
 Katamii, Adis Is OK, Daniel Santiago
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirmur/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirmur/)*

@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Fabrik, Madrid on Sat, 19 Sept 2026.
+Mad Dog is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fabrik, Madrid on Sat, 19 Sept 2026.
 
 Mad Dog is a techno and hardcore artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Angerfist, CLTX and Korsakoff. Next up: Fabrik, Madrid on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Mad Dog is a techno and hardcore artist tracked on soundcheck, with 55 sets logg
 
 Angerfist, CLTX, Korsakoff
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

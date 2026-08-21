@@ -1,6 +1,6 @@
 # James Juke
 
-James Juke is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Jupiter Disco, New York City on Fri, 21 Aug 2026.
+James Juke is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Jupiter Disco, New York City on Fri, 21 Aug 2026.
 
 James Juke is a house and disco artist tracked on soundcheck, with 59 sets logged across Berlin, Hamburg, London and Losangeles and 5 more. Often billed alongside James Juke, Bakke and Devoye. Next up: Jupiter Disco, Newyorkcity on Fri 21 Aug.
 
@@ -27,4 +27,4 @@ James Juke is a house and disco artist tracked on soundcheck, with 59 sets logge
 
 James Juke, Bakke, Devoye
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjuke/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjuke/)*

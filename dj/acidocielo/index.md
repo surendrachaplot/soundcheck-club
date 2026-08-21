@@ -1,6 +1,6 @@
 # Acido Cielo
 
-Acido Cielo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Sub Club, Glasgow on Fri, 21 Aug 2026.
+Acido Cielo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sub Club, Glasgow on Fri, 21 Aug 2026.
 
 Acido Cielo is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside North Star, Craggyland and Kinz Luiz. Next up: Sub Club, Glasgow on Fri 21 Aug.
 
@@ -23,4 +23,4 @@ Acido Cielo is an electro and techno artist based in United Kingdom, tracked on 
 
 North Star, Craggyland, Kinz Luiz
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidocielo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidocielo/)*

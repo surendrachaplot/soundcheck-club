@@ -1,6 +1,6 @@
 # T Simm
 
-T Simm is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Starlane Pizza Bar, London on Thu, 27 Aug 2026.
+T Simm is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Starlane Pizza Bar, London on Thu, 27 Aug 2026.
 
 T Simm is a house and garage artist tracked on soundcheck, with 20 sets logged across London and Nottingham. Often billed alongside THEO (5), ANLON and TABZ. Next up: Starlane Pizza Bar, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ T Simm is a house and garage artist tracked on soundcheck, with 20 sets logged a
 
 THEO (5), ANLON, TABZ
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsimm/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsimm/)*

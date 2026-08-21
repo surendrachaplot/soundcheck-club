@@ -1,6 +1,6 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
+Tommy Four Seven is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
 
 Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Tauceti (FR), Dasha Rush and Adriana Lopez. Next up: Tresor / Globus, Berlin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 1
 
 Tauceti (FR), Dasha Rush, Adriana Lopez
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

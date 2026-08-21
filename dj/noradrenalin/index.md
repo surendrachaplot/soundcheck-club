@@ -1,6 +1,6 @@
 # NoraDrenalin
 
-NoraDrenalin is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Beat Boutique, Hamburg on Sat, 26 Sept 2026.
+NoraDrenalin is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Beat Boutique, Hamburg on Sat, 26 Sept 2026.
 
 NoraDrenalin is a tech house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Hamburg and Krakow. Often billed alongside STOECKER_, babey and A.C.. Next up: Beat Boutique, Hamburg on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ NoraDrenalin is a tech house and techno artist based in Germany, tracked on soun
 
 STOECKER_, babey, A.C.
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noradrenalin/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noradrenalin/)*

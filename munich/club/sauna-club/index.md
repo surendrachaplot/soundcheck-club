@@ -1,14 +1,13 @@
 # Sauna Club
 
-Sauna Club is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Immortal Kombat" on Thu, 20 Aug 2026.
+Sauna Club is a music venue in Munich with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Hip Hop Party" on Thu, 27 Aug 2026.
 
-Sauna Club is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including Knallplatten and Tayphoon. Browse upcoming dates, start times and who's playing.
+Sauna Club is a music venue in Munich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Immortal Kombat | Knallplatten, Tayphoon |
 | Thu, 27 Aug 2026 | Hip Hop Party |  |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/sauna-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/sauna-club/)*

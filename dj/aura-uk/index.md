@@ -1,6 +1,6 @@
 # Aura
 
-Aura is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at The Ivy, Sydney on Sat, 22 Aug 2026.
+Aura is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Ivy, Sydney on Sat, 22 Aug 2026.
 
 Aura is a techno and dubstep artist based in Lithuania, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Cologne and Ibiza and 12 more. Often billed alongside SAKO, Watei and Maldoror. Next up: The Ivy, Sydney on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Aura is a techno and dubstep artist based in Lithuania, tracked on soundcheck, w
 
 SAKO, Watei, Maldoror
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aura-uk/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aura-uk/)*

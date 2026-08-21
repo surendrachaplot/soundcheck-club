@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "TUUUNEz.INC PRES. HAPPY MUSIC" on Fri, 21 Aug 2026.
+The Ulster Sports Club is a music venue in Belfast with 11 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "TUUUNEz.INC PRES. HAPPY MUSIC" on Fri, 21 Aug 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upcoming nights, with line-ups including Adam Munn, Bella Festa, Blark and Bonzai Bonner and 2 more. Browse upcoming dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 11 upco
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

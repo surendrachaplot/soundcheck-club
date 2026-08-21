@@ -1,6 +1,6 @@
 # Evil Activities
 
-Evil Activities is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Klub Progresja, Warsaw on Sat, 19 Sept 2026.
+Evil Activities is a Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Klub Progresja, Warsaw on Sat, 19 Sept 2026.
 
 Evil Activities is a hardcore artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Frankfurt, Glasgow and Madrid and 2 more. Often billed alongside Mad Dog, Yeyo and Art of Fighters. Next up: Klub Progresja, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Evil Activities is a hardcore artist based in Netherlands, tracked on soundcheck
 
 Mad Dog, Yeyo, Art of Fighters
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilactivities/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilactivities/)*

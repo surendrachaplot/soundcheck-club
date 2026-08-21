@@ -1,6 +1,6 @@
 # Thilini
 
-Thilini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
+Thilini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat, 22 Aug 2026.
 
 Thilini is a house and techno artist based in Australia, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Melbourne and Munich and 3 more. Often billed alongside Alexkid, DeWalta and Mike Shannon. Next up: TBA - Secret Location - Some of Us Instagram for Location, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Thilini is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Alexkid, DeWalta, Mike Shannon
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thilini/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thilini/)*

@@ -1,6 +1,6 @@
 # No Permission x MAX&Co. — London Fashion Week Edition at 77
 
-No Permission x MAX&Co. — London Fashion Week Edition at 77 on Thu 17 Sept, London. 1 act on the bill: Wolfram. House and Tech House. Preview the line-up and save it on soundcheck.
+No Permission x MAX&Co. — London Fashion Week Edition at 77 on Thu 17 Sept, London. 2 acts on the bill: REMIXIA and Wolfram. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ No Permission x MAX&Co. — London Fashion Week Edition at 77 on Thu 17 Sept, Lo
 
 ## Line-up
 
+- REMIXIA
 - Wolfram
 
 *Source: [soundcheck](https://soundcheck.club/e/2514665-no-permission-x-max-co-london-fashion-week-edition-at-77/)*

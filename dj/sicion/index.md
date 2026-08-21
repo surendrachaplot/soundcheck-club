@@ -1,6 +1,6 @@
 # Sicion
 
-Sicion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Fvtvr, Paris on Sat, 22 Aug 2026.
+Sicion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fvtvr, Paris on Sat, 22 Aug 2026.
 
 Sicion is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Berlin and Brussels and 9 more. Often billed alongside Maris Shilton, KUSS and Mara Menace. Next up: Fvtvr, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sicion is a techno and house artist tracked on soundcheck, with 46 sets logged a
 
 Maris Shilton, KUSS, Mara Menace
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sicion/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sicion/)*

@@ -1,6 +1,6 @@
 # Dashé
 
-Dashé is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Miscellania, Melbourne on Sat, 29 Aug 2026.
+Dashé is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Miscellania, Melbourne on Sat, 29 Aug 2026.
 
 Dashé is a techno and latin bass artist based in Australia, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Aaliyah Salem, Mon Franco and 0800KIN. Next up: Miscellania, Melbourne on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Dashé is a techno and latin bass artist based in Australia, tracked on soundche
 
 Aaliyah Salem, Mon Franco, 0800KIN
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*

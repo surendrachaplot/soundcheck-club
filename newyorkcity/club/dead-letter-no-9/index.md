@@ -1,14 +1,13 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans" on Thu, 20 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Dos Flakos, Camila Valero, Raphael Ernesto, Úrsula - Dead Letter No.9" on Fri, 21 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Barangay presents: Jay Dalawa, Alcantara, Gabriel Etrata, DJ Houseplants, Florence Cecile, Vans | Alcantara, DJ Houseplants, Florence Cecile, Gabriel Etrata, Jay Dalawa, Vans |
 | Fri, 21 Aug 2026 | Dos Flakos, Camila Valero, Raphael Ernesto, Úrsula - Dead Letter No.9 | Camila Valero, Dos Flakos, Úrsula |
 | Sat, 22 Aug 2026 | Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio |  |
 | Sat, 22 Aug 2026 | Zach Witness, Jean d'Armes, Kandylion, theoretic - Dead Letter No.9 | Kandylion, Zach Witness, theoretic |
@@ -18,9 +17,10 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 16 upcom
 | Sat, 29 Aug 2026 | We Are Eclipse: Camila Wolf - Dead Letter No.9 | Camila Wolf |
 | Thu, 3 Sept 2026 | Woodshop with MANGUMAMI + ellen.j - Dead Letter No.9 | MANGUMAMI, ellen.j |
 | Fri, 4 Sept 2026 | LAPORTE, EDEN, kstrobez, cry$cross, Vereda INTL + Tony Flow (LIVE) - Dead Letter No.9 | EDEN BEKELE, LAPORTE, cry$cross, kstrobez |
+| Sat, 5 Sept 2026 | Tommie Sunshine, Amber Valenine, SPRFRK - Dead Letter No.9 | Amber Valentine, SPRFRK, Tommie Sunshine |
 
 ## Address
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

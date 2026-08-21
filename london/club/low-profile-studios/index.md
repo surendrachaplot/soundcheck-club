@@ -1,6 +1,6 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 10 upcoming nights listed on soundcheck as of Thu, 20 Aug 2026; the next is "RE-SEQUENCE: RES-01" on Fri, 28 Aug 2026.
+Low Profile Studios is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "RE-SEQUENCE: RES-01" on Fri, 28 Aug 2026.
 
 Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Belin, Essentia (Duplicity), Eudoxie and Jive Talk and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
@@ -23,4 +23,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

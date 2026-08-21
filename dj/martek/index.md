@@ -1,6 +1,6 @@
 # Martek
 
-Martek is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Soffio Fregene, Rome on Sat, 22 Aug 2026.
+Martek is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Soffio Fregene, Rome on Sat, 22 Aug 2026.
 
 Martek is a minimal and techno artist tracked on soundcheck, with 39 sets logged across Bucharest and Rome. Often billed alongside pido, Freddye and Sunday Bath. Next up: Soffio Fregene, Rome on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Martek is a minimal and techno artist tracked on soundcheck, with 39 sets logged
 
 pido, Freddye, Sunday Bath
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martek/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martek/)*

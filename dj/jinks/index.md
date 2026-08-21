@@ -1,6 +1,6 @@
 # Jinks
 
-Jinks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jinks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jinks is a house and techno artist tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside Romulo Del Castillo, Milo Ziro and Sel.6. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jinks is a house and techno artist tracked on soundcheck, with 16 sets logged ac
 
 Romulo Del Castillo, Milo Ziro, Sel.6
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinks/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jinks/)*

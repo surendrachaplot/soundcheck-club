@@ -1,6 +1,6 @@
 # Izumi Yamamoto
 
-Izumi Yamamoto is a Downtempo and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Drinkhall Venue, Berlin on Wed, 19 Aug 2026.
+Izumi Yamamoto is a Downtempo and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Drinkhall Venue, Berlin on Wed, 19 Aug 2026.
 
 Izumi Yamamoto is a downtempo and tech house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Zurich. Often billed alongside Jiu-q, Leo Wieber and Avi Caspi. Next up: Drinkhall Venue, Berlin on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ Izumi Yamamoto is a downtempo and tech house artist based in Germany, tracked on
 
 Jiu-q, Leo Wieber, Avi Caspi
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izumiyamamoto/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izumiyamamoto/)*

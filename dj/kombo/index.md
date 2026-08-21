@@ -1,6 +1,6 @@
 # Kombo
 
-Kombo is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Kombo is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Kombo is a jungle and drum & bass artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Logan D, Eksman and Funsta. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Kombo is a jungle and drum & bass artist tracked on soundcheck, with 4 sets logg
 
 Logan D, Eksman, Funsta
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kombo/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kombo/)*

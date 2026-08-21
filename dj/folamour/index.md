@@ -1,6 +1,6 @@
 # Folamour
 
-Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
+Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Guíxols Arena, Barcelona on Sat, 22 Aug 2026.
 
 Folamour is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Guíxols Arena, Barcelona on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Folamour is a house and disco artist tracked on soundcheck, with 144 sets logged
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

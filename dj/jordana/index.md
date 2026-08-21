@@ -1,6 +1,6 @@
 # Jordana
 
-Jordana is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Belltown Yacht Club, Seattle on Sat, 22 Aug 2026.
+Jordana is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Belltown Yacht Club, Seattle on Sat, 22 Aug 2026.
 
 Jordana is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside JENN GREEN, Mirin Doja and Hyeonje. Next up: Belltown Yacht Club, Seattle on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jordana is a drum & bass and techno artist based in United States of America, tr
 
 JENN GREEN, Mirin Doja, Hyeonje
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordana/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordana/)*

@@ -1,6 +1,6 @@
 # TBA - The Vault : 16940 Hamilton Avenue:
 
-TBA - The Vault : 16940 Hamilton Avenue: is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 20 Aug 2026; the next is "KOSMIK" on Sat, 22 Aug 2026.
+TBA - The Vault : 16940 Hamilton Avenue: is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "KOSMIK" on Sat, 22 Aug 2026.
 
 TBA - The Vault : 16940 Hamilton Avenue: is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Amino, Fusegrade and Tylr. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Vault : 16940 Hamilton Avenue: is a music venue in Detroit listed on s
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | KOSMIK | Amino, Fusegrade, Tylr |
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-the-vault-16940-hamilton-avenue/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-the-vault-16940-hamilton-avenue/)*

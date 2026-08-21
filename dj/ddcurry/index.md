@@ -1,6 +1,6 @@
 # D.D. Curry
 
-D.D. Curry is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at radial, London on Sat, 22 Aug 2026.
+D.D. Curry is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at radial, London on Sat, 22 Aug 2026.
 
 D.D. Curry is a house and garage artist based in United States of America, tracked on soundcheck, with 30 sets logged across London, Losangeles and Newyorkcity. Often billed alongside K.mal, Akumen and Conrad Lee. Next up: radial, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ D.D. Curry is a house and garage artist based in United States of America, track
 
 K.mal, Akumen, Conrad Lee
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddcurry/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddcurry/)*

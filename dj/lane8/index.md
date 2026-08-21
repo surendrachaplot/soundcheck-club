@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 20 Aug 2026, next at OCZKI, Warsaw on Fri, 9 Oct 2026.
+Lane 8 is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OCZKI, Warsaw on Fri, 9 Oct 2026.
 
 Lane 8 is a deep house and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Kaskade and Yotto. Next up: OCZKI, Warsaw on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Lane 8 is a deep house and house artist based in United States of America, track
 
 Sultan + Shepard, Kaskade, Yotto
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

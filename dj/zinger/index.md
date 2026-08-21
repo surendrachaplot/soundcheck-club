@@ -1,6 +1,6 @@
 # Zinger
 
-Zinger is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Zinger is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 Zinger is an electro and garage artist tracked on soundcheck, with 4 sets logged across Brighton and London. Often billed alongside DJ-FROGATTACK, YUNA阿尘 and AC13. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Zinger is an electro and garage artist tracked on soundcheck, with 4 sets logged
 
 DJ-FROGATTACK, YUNA阿尘, AC13
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zinger/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zinger/)*

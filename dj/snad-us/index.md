@@ -1,6 +1,6 @@
 # Snad
 
-Snad is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 20 Aug 2026, next at Bassiani, Tbilisi on Fri, 28 Aug 2026.
+Snad is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bassiani, Tbilisi on Fri, 28 Aug 2026.
 
 Snad is a house and minimal artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Boston and Brussels and 14 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: Bassiani, Tbilisi on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Snad is a house and minimal artist based in United States of America, tracked on
 
 Jakob Seidensticker, Mejia, Bärtaub
 
-*Updated Thu, 20 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*
+*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*
