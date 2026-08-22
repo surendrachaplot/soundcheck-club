@@ -1,14 +1,15 @@
 # Zed Bias
 
-Zed Bias is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Zed Bias is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
-Zed Bias is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 11 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: The Cause, London on Sat 22 Aug.
+Zed Bias is a garage and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 11 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: The Cause, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
+| Sat, 19 Sept 2026 | M.O.T | London |
 
 ## Recently played
 

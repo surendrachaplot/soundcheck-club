@@ -3993,7 +3993,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787419077198">
+<meta name="sc-build" content="1787421259145">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -5523,14 +5523,23 @@
       var rf=document.getElementById('radio-fab');
       if(rf){ rf.classList.toggle('onair', !!radio.on); if(!radio.on){ var rl=document.getElementById('radio-fab-label'); if(rl) rl.textContent='Radio'; } }
     }
-    document.getElementById('bnav-home').addEventListener('click',function(){
+    // NEVER assume a shell element exists. ~14,000 ARCHIVED /e/ pages were
+    // prerendered before the bottom nav shipped: their HTML has no #bnav-*, so
+    // getElementById('bnav-radio').addEventListener threw during boot, the
+    // router never ran, and EVERY past event page rendered "Couldn't load that
+    // event" — with the stale pre-rebrand header still on screen. The bundle on
+    // those pages is current (build-seo repoints it); the BODY is whatever was
+    // written the day the page was archived, so boot code must tolerate any
+    // vintage of markup. One missing button must never cost the whole app.
+    function onEl(id, ev, fn){ var el=document.getElementById(id); if(el) el.addEventListener(ev, fn); }
+    onEl('bnav-home','click',function(){
       if(document.body.classList.contains('page-on')) goGrid();
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
-    document.getElementById('bnav-search').addEventListener('click',function(){ openSearch(); });
-    document.getElementById('bnav-radio').addEventListener('click',function(){ openRadio(); });
-    document.getElementById('bnav-log').addEventListener('click',function(){ if(!currentUser){ openAuth(); return; } openLog(); });
-    document.getElementById('bnav-profile').addEventListener('click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('city'); }); });
+    onEl('bnav-search','click',function(){ openSearch(); });
+    onEl('bnav-radio','click',function(){ openRadio(); });
+    onEl('bnav-log','click',function(){ if(!currentUser){ openAuth(); return; } openLog(); });
+    onEl('bnav-profile','click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('city'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.

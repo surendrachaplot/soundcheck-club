@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Faux Poly: Day & Night Party w Kassian, NINA, Joe Milli, Danny Goliger, Rose Holland" on Sat, 22 Aug 2026.
+radial is a music venue in London with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Faux Poly: Day (BBQ) into Night Party w Kassian, NINA, Joe Milli, Danny Goliger, Rose Holland" on Sat, 22 Aug 2026.
 
 radial is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Adam Curtain, Alex Sourbis, Alírio and carmen (7) and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -8,7 +8,7 @@ radial is a music venue in London listed on soundcheck. 14 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Faux Poly: Day & Night Party w Kassian, NINA, Joe Milli, Danny Goliger, Rose Holland | D.D. Curry, Danny Goliger, Joe Milli, Kassian, NINA (3), Rose Holland |
+| Sat, 22 Aug 2026 | Faux Poly: Day (BBQ) into Night Party w Kassian, NINA, Joe Milli, Danny Goliger, Rose Holland | D.D. Curry, Danny Goliger, Joe Milli, Kassian, NINA (3), Rose Holland |
 | Fri, 28 Aug 2026 | Minor Science ✼ Nose Dive | Genzun, Minor Science, Nose Dive |
 | Sun, 30 Aug 2026 | POUFFE #1 | Daskaran, Ivy F, LO-LOW, teleopath |
 | Fri, 11 Sept 2026 | grounded w. Delay Grounds *LIVE* x residents - Markfield Road Festival | Alex Sourbis, Delay Grounds, Djuar, Paul McManamon, carmen (7) |

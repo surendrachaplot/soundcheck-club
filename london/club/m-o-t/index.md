@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 35 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "nice onez" on Sat, 22 Aug 2026.
+M.O.T is a music venue in London with 36 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "nice onez" on Sat, 22 Aug 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including Abby Daze, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 

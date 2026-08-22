@@ -10,7 +10,7 @@ Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with l
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Giri x IN ARMOR | Baby Vulture, IN ARMOR, Neva Demure |
 | Fri, 28 Aug 2026 | Giri x DUBBDÄCK (a bi / pansexual flirty night) | BENGALA, HEDDA, KBRAL, NORA (BR), lil ja |
-| Wed, 2 Sept 2026 | Giri x El Manto: Dario Jongerius release |  |
+| Wed, 2 Sept 2026 | Giri x El Manto: Dario Jongerius release | Airaboi, Manuel Carbone, ZFK (1) |
 | Wed, 2 Sept 2026 | Giri x El Manto | Airaboi, Manuel Carbone, ZFK (1) |
 | Thu, 3 Sept 2026 | Giri x Local Slang |  |
 | Fri, 4 Sept 2026 | Giri x  Presshouse |  |

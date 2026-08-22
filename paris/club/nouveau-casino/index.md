@@ -9,7 +9,7 @@ Nouveau Casino is a music venue in Paris listed on soundcheck. 5 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Less Drama More Techno [The Summer Was Magic] | Ben Hille, Ben Manson |
-| Fri, 4 Sept 2026 | Sweat #3 | Aubry, Mr Cozzo |
+| Fri, 4 Sept 2026 | SWEAT #3 | Aubry, Mr Cozzo |
 | Sun, 6 Sept 2026 | Privacy Runway Paris |  |
 | Thu, 17 Sept 2026 | Wobo Presents - Teddy Killerz - Nouveau Casino |  |
 | Fri, 2 Oct 2026 | DJ Stingray 313 | Aleqs Notal, DJ Stingray 313, Jean Nipon |

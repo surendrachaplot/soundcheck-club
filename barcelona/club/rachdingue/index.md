@@ -9,7 +9,7 @@ Rachdingue is a music venue in Barcelona listed on soundcheck. 3 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Bart Skils (DRUMCODE) (Somnia NIGHT) | AELVA K, Bart Skils, Julian Ess, Nelayan |
-| Sat, 5 Sept 2026 | Summer Closing Party |  |
+| Sat, 5 Sept 2026 | Summer Closing Party | Jairo Uría |
 | Sat, 10 Oct 2026 | Intergalactic FM | Esther Dune, I-F, Miqkael, Rarek |
 
 ## Address

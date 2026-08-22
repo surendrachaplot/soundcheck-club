@@ -1,6 +1,6 @@
-# Sweat #3 at Nouveau Casino
+# SWEAT #3 at Nouveau Casino
 
-Sweat #3 at Nouveau Casino on Fri 4 Sept, Paris. 2 acts on the bill: Aubry and Mr Cozzo. Preview the line-up and save it on soundcheck.
+SWEAT #3 at Nouveau Casino on Fri 4 Sept, Paris. 2 acts on the bill: Aubry and Mr Cozzo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

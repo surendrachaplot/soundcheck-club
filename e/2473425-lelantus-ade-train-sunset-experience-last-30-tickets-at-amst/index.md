@@ -29,7 +29,7 @@ Lelantus ADE TRAIN - Sunset Experience [LAST 30 TICKETS] at Amsterdam Central St
 - Stylo
 - Terry Golden
 - Unseen.
-- Vanmoon
+- Van Moon
 - ZARE
 
 *Source: [soundcheck](https://soundcheck.club/e/2473425-lelantus-ade-train-sunset-experience-last-30-tickets-at-amst/)*

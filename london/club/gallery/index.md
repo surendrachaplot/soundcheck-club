@@ -1,8 +1,8 @@
 # Gallery
 
-Gallery is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "THEAFTERPARTY" on Sat, 22 Aug 2026.
+Gallery is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "THEAFTERPARTY" on Sat, 22 Aug 2026.
 
-Gallery is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including ANMLxPRTY, Ashibah, By Dusk and Dennis Ferrer and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
+Gallery is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including ANMLxPRTY, Ashibah, By Dusk and Dennis Ferrer and 2 more. Browse upcoming dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Gallery is a music venue in London listed on soundcheck. 16 upcoming nights, wit
 | Fri, 4 Sept 2026 | Organic presents: Gabe | Gabe Live |
 | Sat, 5 Sept 2026 | Gallery Season 4 Launch party with Dennis Ferrer | Dennis Ferrer |
 | Thu, 10 Sept 2026 | Paradox Nexus - Thursdays |  |
+| Wed, 16 Sept 2026 | ALL EARS X FAHLBERG LDN |  |
 | Thu, 17 Sept 2026 | Paradox Nexus - Thursdays |  |
-| Thu, 24 Sept 2026 | Paradox Nexus - Thursdays |  |
 
 ## Address
 

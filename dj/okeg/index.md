@@ -1,14 +1,13 @@
 # OK EG
 
-OK EG is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tender, Melbourne on Sat, 22 Aug 2026.
+OK EG is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-OK EG is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: Tender, Melbourne on Sat 22 Aug.
+OK EG is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Kia (AU), Bambi (FR) and Priori. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Tender | Melbourne |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | public records | New York City |
 | Sat, 19 Sept 2026 | TBA - Downtown | Los Angeles |

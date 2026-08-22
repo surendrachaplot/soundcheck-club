@@ -15,7 +15,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 68 upcoming 
 | Tue, 25 Aug 2026 | PHASE:ONE | RichBeat |
 | Wed, 26 Aug 2026 | SIGNALS - 5€ Tickets - with GI.O, LAURIX, YOUNG LOLO & AH-NICE | AH-N!CE, GI.O, LAURIX (DE) |
 | Thu, 27 Aug 2026 | Chantal's House of Shame |  |
-| Fri, 28 Aug 2026 | Trancecore with DBBD, DJ GUESTLIST, Glen West, Amøn, Eva Charley, Neuf and many more | Amøn, Boltcore, Cobb Douglas, DBBD, DJ GUESTLIST, Eva Charley, FEROTONINO, Glen West, SØMOS, SØMOS |
+| Fri, 28 Aug 2026 | Trancecore with DBBD, DJ GUESTLIST, Glen West, Amøn, Eva Charley, Neuf and many more | Amøn, Boltcore, Cobb Douglas, DBBD, DJ GUESTLIST, Eva Charley, FEROTONINO, Glen West, SØMOS, SØMOS, nordcorreia.mp3 |
 | Sat, 29 Aug 2026 | EUPHORIK x CYCLE pres. L.zwo, Noise Not War, DJ SPORTSCHUH, CARGO, Alex Friday, L-AUX, MADMAN | Alex Friday, Backyard Mix, CARGO (DE), DJ SPORTSCHUH, DTEXX, DiscoDaisy, ESCALEA, Filialleiter, Franky-B, L-AUX, L.zwo, Limoncello, MADMAN (2), MATHILDA (2), Noise Not War, SHOKI287, SIKXTO |
 | Sat, 29 Aug 2026 | Euphorik |  |
 

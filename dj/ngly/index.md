@@ -1,8 +1,8 @@
 # Ngly
 
-Ngly is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Rekreasi, Bali on Sat, 22 Aug 2026.
+Ngly is a Electro and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Rekreasi, Bali on Sat, 22 Aug 2026.
 
-Ngly is an electro and experimental artist based in Germany, tracked on soundcheck, with 9 sets logged across Athens, Bali, Belgrade and Berlin and 3 more. Often billed alongside Burago, Aire and Andriy K.. Next up: Rekreasi, Bali on Sat 22 Aug.
+Ngly is an electro and experimental artist based in Germany, tracked on soundcheck, with 10 sets logged across Athens, Bali, Belgrade and Berlin and 3 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: Rekreasi, Bali on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ngly is an electro and experimental artist based in Germany, tracked on soundche
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Rekreasi | Bali |
 | Sun, 6 Sept 2026 | OIL Club | Shenzhen |
+| Sat, 26 Sept 2026 | Sameheads | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ngly is an electro and experimental artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Burago, Aire, Andriy K.
+Burago, ALF CHAMPION, Aire
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

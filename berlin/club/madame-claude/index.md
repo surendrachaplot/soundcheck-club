@@ -1,8 +1,8 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dj Oberst Panizza" on Sat, 22 Aug 2026.
+Madame Claude is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dj Oberst Panizza" on Sat, 22 Aug 2026.
 
-Madame Claude is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Koh, Matthew Ryals and M Love. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
+Madame Claude is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Koh, Matthew Ryals and M Love. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
 ## What's on
 

@@ -2,7 +2,7 @@
 
 BORIS CLUB is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Boris Saturday - FREE TICKETS" on Sat, 22 Aug 2026.
 
-BORIS CLUB is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Ander Race, Andrea Castells, HeAndMe and Jessy and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
+BORIS CLUB is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Ander Race, Andrea Castells, Damian Lazarus and HeAndMe and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
 ## What's on
 
@@ -16,7 +16,7 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 13 upcoming night
 | Fri, 11 Sept 2026 | Boris CLÉO x KAIRO pres: ALEX TWIN |  |
 | Sat, 12 Sept 2026 | Boris Saturday |  |
 | Fri, 18 Sept 2026 | Boris & Valhalla: Read the News - FREE TICKETS | Andrea Castells, K:ROL, Read the News, Rivellino |
-| Sat, 19 Sept 2026 | Boris Saturday |  |
+| Sat, 19 Sept 2026 | Boris pres. Damian Lazarus | Damian Lazarus, JANSE, Marcel BS |
 | Thu, 24 Sept 2026 | Pax Arabiana - Boris III | Pax Arabiana |
 
 ## Address
