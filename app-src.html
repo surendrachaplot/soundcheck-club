@@ -975,7 +975,10 @@
     /* .fp-ab:not(.go) makes secondary pills transparent — right on the page
        ground, wrong inside a surface band, where the pill then has no fill at
        all. Board A draws it filled, so inside this module it is filled. */
-    .ev-invite .fp-ab, .inv-bar .fp-ab{ background:var(--surface-2); border:1px solid var(--border); }
+    /* button.fp-ab, not .fp-ab: `.fp-ab:not(.go)` is also (0,2,0) and is declared
+       LATER, so an equal-specificity override loses the tie. Verified with
+       getComputedStyle, which still read rgba(0,0,0,0) after the first attempt. */
+    .ev-invite button.fp-ab, .inv-bar button.fp-ab{ background:var(--surface-2); border:1px solid var(--border); }
     .ev-invite .evi-sub{ font-size:var(--fs-base); line-height:1.55; color:var(--muted); margin:6px 0 0; max-width:44ch; }
     .ev-invite .evi-row{ display:flex; align-items:center; gap:8px; margin-top:14px; }
     .ev-invite .evi-link{ flex:1; min-width:0; height:42px; display:flex; align-items:center; padding:0 14px; border-radius:var(--radius); background:var(--bg); border:1px solid var(--border);
@@ -4046,7 +4049,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787424597092">
+<meta name="sc-build" content="1787425772204">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
