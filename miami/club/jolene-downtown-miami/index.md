@@ -1,8 +1,8 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gerd Janson" on Sat, 22 Aug 2026.
+Jolene Downtown Miami is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gerd Janson" on Sat, 22 Aug 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcoming nights, with line-ups including Milo Ziro, Arapu, Baby Jesus and Bakke and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including 1-800-Lolita, Milo Ziro, Arapu and Baby Jesus and 2 more. Browse upcoming dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
@@ -12,12 +12,12 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 10 upcomin
 | Thu, 27 Aug 2026 | Déjà Vu | Baby Jesus, CHAOS!, DB Cooper, Pressure Point (US), Roll-e, Winter Wrong |
 | Fri, 28 Aug 2026 | Arapu & Roustam b2b Danyelino | Arapu, Danyelino, Nikita Green, Roustam, Sepp, grant sabadash |
 | Sat, 29 Aug 2026 | Eli Escobar (Alll Night Long) | Eli Escobar |
+| Thu, 3 Sept 2026 | SATURNSARii, Kujo, PROLETAR, Felizeta, & Leo Sosa | Felizeta, Kujo, Leo Sosa, PROLETAR, SATURNSARii |
 | Fri, 4 Sept 2026 | KinAhau | Cole Terrazas, KinAhau |
 | Sat, 5 Sept 2026 | Prunk | Bakke, Danyelino, Mario Liberti, Prunk, slugg |
 | Sun, 6 Sept 2026 | Quest, Traumer,  | Daizy, Quest, Shir Miya, Traumer |
+| Thu, 10 Sept 2026 | XL COUNTY: Constantine | 1-800-Lolita, Constantine (US), SATURNSARii, Suz, Xana |
 | Sat, 12 Sept 2026 | PARAMIDA | Milo Ziro, PARAMIDA |
-| Fri, 25 Sept 2026 | Yoyaku: Satoshi Tomiie | Kian OK, Lis Sarroca, Mari.te, Satoshi Tomiie |
-| Sat, 26 Sept 2026 | Nick Warren | DIFFER, Nick Warren, SIEGEL (2) |
 
 ## Address
 

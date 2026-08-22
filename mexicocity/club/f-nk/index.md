@@ -13,7 +13,7 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, w
 | Fri, 28 Aug 2026 | Pangaea + MNTY + Bluecommand | Bluecommand, MNTY, Pangaea |
 | Sat, 29 Aug 2026 | Roderic + Alonso Rivero + Alejandro Veneno | Alejandro Veneno, Alonso Rivero, Roderic (2) |
 | Thu, 3 Sept 2026 | Siempre Club x Fünk |  |
-| Fri, 4 Sept 2026 | Studio Barnhaus (Axel Boman + Kornél Kovács + Pedrodollar) + Jawar | Axel Boman, JAWAR (3), Kornél Kovács, Pedrodollar |
+| Fri, 4 Sept 2026 | Studio Barnhus (Axel Boman + Kornél Kovács + Pedrodollar) + Jawar | Axel Boman, JAWAR (3), Kornél Kovács, Pedrodollar |
 | Sat, 5 Sept 2026 | Franz Scala + Katana + Mohnjaus | Franz Scala |
 | Thu, 10 Sept 2026 | Girls All Around x Fünk | Alexa Rosas, Ana Armada, LeFaux |
 | Fri, 11 Sept 2026 | Trommel: Fantastic Man + Yamour + Bastard Love | Bastard Love, Fantastic Man, Yamour |

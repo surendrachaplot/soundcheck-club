@@ -1,8 +1,8 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
+John Digweed is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
 
-John Digweed is a progressive house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
+John Digweed is a progressive house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 | Sat, 12 Sept 2026 | Malkin Bowl | Vancouver |
 | Sat, 19 Sept 2026 | TBA - Autodromo de Buenos Aires | Buenos Aires |
 | Sat, 26 Sept 2026 | BERHTA | Washington DC |
+| Fri, 2 Oct 2026 | Frontón Bucareli | Mexico City |
 | Sat, 7 Nov 2026 | WestWeelde | Amsterdam |
 
 ## Recently played

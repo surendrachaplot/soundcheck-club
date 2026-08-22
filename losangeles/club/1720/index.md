@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Y2k Scene Night | Bayymack |
-| Sat, 7 Nov 2026 | MIXMAG LAB: LOS ANGELES feat. Sam Divine | Sam Divine |
+| Sat, 7 Nov 2026 | Mixmag Lab: Los Angeles ft. Sam Divine | Sam Divine |
 
 ## Address
 

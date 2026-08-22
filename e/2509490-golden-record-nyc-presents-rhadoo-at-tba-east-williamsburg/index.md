@@ -1,6 +1,6 @@
 # Golden Record NYC presents Rhadoo at TBA - East Williamsburg
 
-Golden Record NYC presents Rhadoo at TBA - East Williamsburg on Fri 18 Sept, Newyorkcity. 2 acts on the bill: Priori and Rhadoo. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Golden Record NYC presents Rhadoo at TBA - East Williamsburg on Fri 18 Sept, Newyorkcity. 3 acts on the bill: Mariposa, Priori and Rhadoo. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Golden Record NYC presents Rhadoo at TBA - East Williamsburg on Fri 18 Sept, New
 
 ## Line-up
 
+- Mariposa
 - Priori
 - Rhadoo
 

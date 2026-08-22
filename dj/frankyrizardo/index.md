@@ -1,8 +1,8 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha New York, New York City on Sat, 29 Aug 2026.
+Franky Rizardo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha New York, New York City on Sat, 29 Aug 2026.
 
-Franky Rizardo is a house and tech house artist tracked on soundcheck, with 237 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Pacha New York, Newyorkcity on Sat 29 Aug.
+Franky Rizardo is a house and tech house artist tracked on soundcheck, with 238 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Pacha New York, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 

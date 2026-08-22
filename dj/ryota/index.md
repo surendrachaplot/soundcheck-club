@@ -1,13 +1,14 @@
 # Ryota
 
-Ryota is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Akvárium Klub, Budapest on Fri, 16 Oct 2026.
+Ryota is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 浅草金虎, Tokyo on Sat, 5 Sept 2026.
 
-Ryota is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Barcelona and Brighton and 16 more. Often billed alongside ryota dj, Yung Singh and Ryota (JP). Next up: Akvárium Klub, Budapest on Fri 16 Oct.
+Ryota is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Brighton and 16 more. Often billed alongside ryota dj, Yung Singh and Ryota (JP). Next up: 浅草金虎, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | 浅草金虎 | Tokyo |
 | Fri, 16 Oct 2026 | Akvárium Klub | Budapest |
 
 ## Recently played

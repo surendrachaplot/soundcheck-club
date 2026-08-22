@@ -1,8 +1,8 @@
 # Sunga
 
-Sunga is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
+Sunga is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
 
-Sunga is a house and techno artist based in Japan, tracked on soundcheck, with 104 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Heavy Sick Zero, Tokyo on Sat 29 Aug.
+Sunga is a house and techno artist based in Japan, tracked on soundcheck, with 105 sets logged across Bangkok, Osaka and Tokyo. Often billed alongside Mamazu, YO.AN and DJ Kensei. Next up: Heavy Sick Zero, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sunga is a house and techno artist based in Japan, tracked on soundcheck, with 1
 | Sat, 29 Aug 2026 | Heavy Sick Zero | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
+| Sun, 4 Oct 2026 | or | Tokyo |
 
 ## Recently played
 

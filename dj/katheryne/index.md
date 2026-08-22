@@ -1,8 +1,8 @@
 # KATHERYNE
 
-KATHERYNE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
+KATHERYNE is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
 
-KATHERYNE is a techno and electro artist based in Romania, tracked on soundcheck, with 9 sets logged across Bucharest. Often billed alongside AMEDEUS, Stefan Hernandez and Amnesico. Next up: Nether Club, Bucharest on Fri 18 Sept.
+KATHERYNE is a techno and electro artist based in Romania, tracked on soundcheck, with 10 sets logged across Bucharest. Often billed alongside AMEDEUS, Stefan Hernandez and Amnesico. Next up: Nether Club, Bucharest on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KATHERYNE is a techno and electro artist based in Romania, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Nether Club | Bucharest |
 | Fri, 16 Oct 2026 | Nether Club | Bucharest |
+| Fri, 20 Nov 2026 | Nether Club | Bucharest |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNSW Roundhouse, Sydney on Sat, 22 Aug 2026.
+KlangKuenstler is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNSW Roundhouse, Sydney on Sat, 22 Aug 2026.
 
-KlangKuenstler is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: UNSW Roundhouse, Sydney on Sat 22 Aug.
+KlangKuenstler is a techno and house artist tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Daria Kolosova, Kobosil and I Hate Models. Next up: UNSW Roundhouse, Sydney on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ KlangKuenstler is a techno and house artist tracked on soundcheck, with 171 sets
 | Sat, 3 Oct 2026 | The Forum | Los Angeles |
 | Thu, 8 Oct 2026 | Spook Club | Valencia |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
+| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
 

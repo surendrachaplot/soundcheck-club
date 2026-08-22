@@ -8,7 +8,7 @@ Motorista Studio is a music venue in Toronto listed on soundcheck. 4 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | LOTIONLAND X ARTSCAPE | DNNS |
+| Fri, 28 Aug 2026 | LOTIONLAND X ARTSCAPE | DNNS, KILL 9 1, Maul (2) |
 | Sat, 12 Sept 2026 | ROTE8: Bloody Mary / Grace Dahl / Hashashin / Lee Osborne / Vadim Khan  | Bloody Mary, Grace Dahl, Hashashin, Lee Osborne, Vadim Khan |
 | Sat, 26 Sept 2026 | Toronto Burning Man Decompression 2026 - Ascent |  |
 | Fri, 16 Oct 2026 | GOODFELLAZ X REPULSIVE RADIO PRESENT: SAY CHEESE & DIE  | 666.pastel, Rareasfck, XXHARDBIT3S, xeon æon |

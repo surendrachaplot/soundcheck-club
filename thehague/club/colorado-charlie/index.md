@@ -1,6 +1,6 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Colorado Charlie with Jan Blomqvist, Helsloot, Sinca" on Sat, 22 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Colorado Charlie with Jan Blomqvist, Helsloot, Sinca (SOLD OUT)" on Sat, 22 Aug 2026.
 
 Colorado Charlie is a music venue in Thehague listed on soundcheck. 12 upcoming nights, with line-ups including AAT (NL), Ammé, Boris Coelman and Colyn and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
@@ -8,7 +8,7 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 12 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Colorado Charlie with Jan Blomqvist, Helsloot, Sinca | Helsloot, Jan Blomqvist, Sinca |
+| Sat, 22 Aug 2026 | Colorado Charlie with Jan Blomqvist, Helsloot, Sinca (SOLD OUT) | Helsloot, Jan Blomqvist, Sinca |
 | Sun, 23 Aug 2026 | Colorado Charlie with Luke Dean B2B Locky (3hrs), Lauren Lo Sung, DAF (SOLD OUT) | Lauren Lo Sung, Locky, Luke Dean_ |
 | Fri, 28 Aug 2026 | PIV AT THE BEACH | AAT (NL), Prunk, Robbie Doherty |
 | Sat, 29 Aug 2026 | Distant Beach with Mees Salomé & Friends | Mees Salomé |

@@ -1,8 +1,8 @@
 # Annie Lew
 
-Annie Lew is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at public records, New York City on Fri, 28 Aug 2026.
+Annie Lew is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at public records, New York City on Fri, 28 Aug 2026.
 
-Annie Lew is a techno and house artist tracked on soundcheck, with 74 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), Concrete Husband and KYRUH. Next up: public records, Newyorkcity on Fri 28 Aug.
+Annie Lew is a techno and house artist tracked on soundcheck, with 75 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: public records, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 74 sets logge
 | Sat, 29 Aug 2026 | BASEMENT | New York City |
 | Sat, 5 Sept 2026 | TBA | Los Angeles |
 | Sat, 12 Sept 2026 | Paragon | New York City |
+| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 74 sets logge
 
 ## Shares bills with
 
-Mos (NYC), Concrete Husband, KYRUH
+Mos (NYC), KYRUH, Kilopatrah Jones
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*

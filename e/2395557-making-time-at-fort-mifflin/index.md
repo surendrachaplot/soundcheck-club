@@ -121,8 +121,8 @@ Making Time ∞ at Fort Mifflin on Fri 18 Sept, Philadelphia. 114 acts on the bi
 - Wata Igarashi
 - Westov Temple
 - x3butterfly
-- Yu Mi
 - Yu Su
+- Yumi
 - Zillas on Acid
 
 *Source: [soundcheck](https://soundcheck.club/e/2395557-making-time-at-fort-mifflin/)*

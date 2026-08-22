@@ -1,13 +1,14 @@
-# Nona
+# MERS
 
-Nona is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Java, Paris on Sat, 5 Sept 2026.
+MERS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
-Nona is a house and techno artist tracked on soundcheck, with 111 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: La Java, Paris on Sat 5 Sept.
+MERS is a house and techno artist tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: TBA, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | TBA | Toronto |
 | Sat, 5 Sept 2026 | La Java | Paris |
 | Sat, 5 Sept 2026 | Monarch | Berlin |
 

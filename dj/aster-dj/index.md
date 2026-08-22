@@ -1,13 +1,14 @@
 # ASTER (DJ)
 
-ASTER (DJ) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Beverly's NYC, New York City on Wed, 26 Aug 2026.
+ASTER (DJ) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pirate Studio, New York City on Sat, 22 Aug 2026.
 
-ASTER (DJ) is a trance and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity. Often billed alongside Lilflower, hans bas and fake.stan. Next up: Beverly's NYC, Newyorkcity on Wed 26 Aug.
+ASTER (DJ) is a trance and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Lilflower, hans bas and fake.stan. Next up: Pirate Studio, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Pirate Studio | New York City |
 | Wed, 26 Aug 2026 | Beverly's NYC | New York City |
 | Fri, 28 Aug 2026 | Mood Ring | New York City |
 

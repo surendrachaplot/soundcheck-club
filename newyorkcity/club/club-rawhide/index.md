@@ -9,7 +9,7 @@ Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 4 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Club Rawhide SATURDAY NIGHT with Michael Magnan, Tom Peters, verdigris | Michael Magnan, Tom Peters, verdigris |
-| Thu, 27 Aug 2026 | CODED Thursdays with Rob Aquino | Rob Aquino |
+| Thu, 27 Aug 2026 | CODED Thursdays with Will Jack & Rob Aquino | Rob Aquino, Will Jack |
 | Fri, 28 Aug 2026 | Club Rawhide FRIDAY NIGHT with Dj Warning, Princess Peggie, camgirll8 | Dj Warning, Princess Peggie, camgirll8 |
 | Sat, 29 Aug 2026 | Club Rawhide SATURDAY NIGHT with Rush Davis, GAG ORDER | Gag Ørder, Rush Davis |
 

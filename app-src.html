@@ -695,7 +695,7 @@
     .email-form { display:flex; gap:8px; max-width:380px; margin:0 auto; }
     .email-form input { flex:1; min-width:0; padding:11px 14px; border:1px solid var(--border); border-radius:var(--radius-sm); font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
     .email-form input:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
-    .email-form button { background:var(--accent); color:var(--ink); border:none; border-radius:var(--radius-sm); padding:11px 18px; font:inherit; font-weight:700; font-size:var(--fs-base); cursor:pointer; white-space:nowrap; }
+    .email-form button { background:var(--accent-grad); color:var(--accent-ink); border:none; border-radius:var(--radius-sm); padding:11px 18px; font:inherit; font-weight:700; font-size:var(--fs-base); cursor:pointer; white-space:nowrap; }
     .email-form button:hover { opacity:0.9; }
     .signup-success { color:var(--accent); font-weight:600; font-size:var(--fs-base); }
 
@@ -2097,7 +2097,7 @@
     .auth-box p { color:var(--muted); font-size:var(--fs-base); line-height:1.5; margin-bottom:16px; }
     .auth-box input { width:100%; background:var(--bg); border:1px solid var(--border); color:var(--fg); border-radius:var(--radius); padding:13px 14px; font:500 var(--fs-md)/var(--lh-md) var(--body); outline:none; }
     .auth-box input:focus { border-color:var(--accent); }
-    .auth-box .go { display:flex; align-items:center; justify-content:center; min-height:48px; width:100%; margin-top:10px; background:var(--accent); color:var(--ink); border:none; border-radius:var(--radius); padding:0 14px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
+    .auth-box .go { display:flex; align-items:center; justify-content:center; min-height:48px; width:100%; margin-top:10px; background:var(--accent-grad); color:var(--ink); border:none; border-radius:var(--radius); padding:0 14px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; transition:transform var(--dur-1) var(--ease-standard); }
     .auth-box .go:active { transform:scale(0.98); }
     .auth-box .go:disabled { opacity:0.6; cursor:default; }
     .auth-box .err { color:var(--accent); font-size:var(--fs-sm); min-height:1.1em; margin-top:8px; }
@@ -2252,7 +2252,7 @@
     .tc-canvas-wrap img { width:100%; display:block; border-radius:var(--radius); }
     .tc-loading { color:var(--muted); font-size:var(--fs-base); padding:70px 0; }
     .tc-actions { display:flex; gap:10px; margin-top:14px; }
-    .tc-actions .go { flex:1; margin-top:0; background:var(--accent); color:var(--ink); border:none; border-radius:var(--radius); padding:13px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; }
+    .tc-actions .go { flex:1; margin-top:0; background:var(--accent-grad); color:var(--ink); border:none; border-radius:var(--radius); padding:13px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; }
     .tc-actions .tc-save { flex:1; background:transparent; border:1px solid var(--border); color:var(--fg); border-radius:var(--radius); font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.08em; text-transform:uppercase; cursor:pointer; }
     .tc-actions .go:disabled, .tc-actions .tc-save:disabled { opacity:0.5; cursor:default; }
     /* "See more" → full event page, from the event sheet title */
@@ -3993,7 +3993,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787401251629">
+<meta name="sc-build" content="1787417523047">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -5702,6 +5702,11 @@
     // ONE canonical play glyph everywhere (was a mix of ▶ unicode chars that render
     // as an off-brand stock triangle on mobile) — matches the event-card .evc-play.
     var PLAY_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>';
+    // GLOBAL ON PURPOSE. This was a local var inside the artist page while
+    // openEvent also referenced it — a ReferenceError that killed EVERY past
+    // event page ("Couldn't load that event"), invisible because openEvent's
+    // catch eats the error object. One icon, one scope.
+    var logSvg='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>';
     var STAR_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.7 5.9 6.4.6-4.85 4.3 1.45 6.3L12 16.9 6.3 19.7l1.45-6.3L2.9 9.1l6.4-.6z"/></svg>';
     var DOTS_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
     var PLUS_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>';
@@ -6428,23 +6433,24 @@
       if(evtStatus(id)==='going') return;                   // already in
       var when=[(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')), ev.venue].filter(Boolean).join(' · ');
       var ov=document.createElement('div'); ov.className='email-overlay';
-      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true">'+
+      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true" style="text-align:left">'+
         '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
         '<h3>u/'+esc(inviter)+' invited <span class="ac">you</span>.</h3>'+
         '<p></p>'+
-        '<form class="email-form"><button type="submit">I&rsquo;m in</button></form>'+
-        '<p class="email-err" aria-live="polite"></p>'+
-        '<button type="button" class="email-later">Can&rsquo;t make it</button>';
+        '<div style="display:flex;align-items:center;gap:10px;margin-top:16px">'+
+          '<button type="button" class="ob-cta" id="inv-yes" style="margin-top:0">I&rsquo;m in</button>'+
+          '<button type="button" class="fp-ab" id="inv-no">Can&rsquo;t make it</button>'+
+        '</div>';
       ov.querySelector('p').textContent=(ev.title||'This night')+(when?(' — '+when):'')+'. Say you\u2019re in and it\u2019s saved to your profile.';
       document.body.appendChild(ov);
       function done(){ ov.remove(); document.removeEventListener('keydown',onEsc); }
       function onEsc(e){ if(e.key==='Escape') done(); }
       document.addEventListener('keydown',onEsc);
       ov.querySelector('.email-close').addEventListener('click',done);
-      ov.querySelector('.email-later').addEventListener('click',function(){ done(); showToast('No stress — the sets are on this page.'); });
+      ov.querySelector('#inv-no').addEventListener('click',function(){ done(); showToast('No stress — the sets are on this page.'); });
       ov.addEventListener('click',function(e){ if(e.target===ov) done(); });
-      ov.querySelector('form').addEventListener('submit',function(e){
-        e.preventDefault(); done();
+      ov.querySelector('#inv-yes').addEventListener('click',function(){
+        done();
         var apply=function(){ setEvent(id,'going',evMeta); showToast('You\u2019re going ✓'); };
         if(hasEmail()){ apply(); return; }
         ensureEmailGate({ heading:'You&rsquo;re in. Save it with a <span class="ac">free account</span>.',
@@ -8765,7 +8771,6 @@
         var festLine=(a.festivals&&a.festivals.length)?'<p class="ah-fests" style="margin:0 0 14px"><b>Played at:</b> '+a.festivals.map(function(f){ return esc(f.name); }).join(' · ')+'</p>':'';
         var gemLine=(a.hiddenGem&&a.hiddenGem.level)?'<div class="fp-gemline"><span class="gem-pill"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 2h12l3.6 6L12 22 2.4 8z"/></svg><span>'+esc(a.hiddenGem.level)+'</span>'+(a.hiddenGem.reason?'<small>'+esc(a.hiddenGem.reason)+'</small>':'')+'</span></div>':'';
         var nextVenueAttr=(nextGig&&nextGig.venue)?' data-venue="'+esc(nextGig.venue)+'" data-city="'+esc(nextGig.city||'')+'"':'';
-        var logSvg='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>';
         var h='<div class="fp-artist">'+
           '<div class="fp-hero">'+
             '<div class="fp-photo">'+(a.image?img:genHero(a.name||slug, slug))+(a.country?'<div class="fp-origin">'+esc(a.country)+'</div>':'')+'</div>'+

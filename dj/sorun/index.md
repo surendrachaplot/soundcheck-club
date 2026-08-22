@@ -1,13 +1,14 @@
 # Sorun
 
-Sorun is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Badaboum, Paris on Sat, 19 Sept 2026.
+Sorun is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Le Makeda, Marseille on Fri, 4 Sept 2026.
 
-Sorun is an electro and tech house artist based in France, tracked on soundcheck, with 28 sets logged across Paris. Often billed alongside DJ FRRR, BJF and Jiken. Next up: Badaboum, Paris on Sat 19 Sept.
+Sorun is a club and electro artist based in France, tracked on soundcheck, with 29 sets logged across Marseille and Paris. Often billed alongside DJ FRRR, BJF and Jiken. Next up: Le Makeda, Marseille on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Le Makeda | Marseille |
 | Sat, 19 Sept 2026 | Badaboum | Paris |
 
 ## Recently played

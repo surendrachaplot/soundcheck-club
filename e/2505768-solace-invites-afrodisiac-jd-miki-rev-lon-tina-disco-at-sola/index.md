@@ -1,6 +1,6 @@
 # Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ at Solace
 
-Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ on Sat 22 Aug, Melbourne. 5 acts on the bill: Afrodisiac, JD (3), Miki and Rev Lon and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ on Sat 22 Aug, Melbourne. 7 acts on the bill: Afrodisiac, JD (3), JD (4) and Miki and 3 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ on Sat 22 Aug, Melb
 
 - Afrodisiac
 - JD (3)
+- JD (4)
 - Miki
+- Miki (3)
 - Rev Lon
 - Tina Disco
 

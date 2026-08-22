@@ -1,8 +1,8 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jolene Downtown Miami, Miami on Sat, 22 Aug 2026.
+Gerd Janson is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jolene Downtown Miami, Miami on Sat, 22 Aug 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 293 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Jolene Downtown Miami, Miami on Sat 22 Aug.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Jolene Downtown Miami, Miami on Sat 22 Aug.
 
 ## Upcoming shows
 

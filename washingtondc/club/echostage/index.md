@@ -1,8 +1,8 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Mutate presents: ALYSSA JOLEE Cera Khin Trym Yosuf" on Fri, 28 Aug 2026.
+Echostage is a music venue in Washington DC with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Mutate presents: ALYSSA JOLEE Cera Khin Trym Yosuf" on Fri, 28 Aug 2026.
 
-Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washingtondc listed on soundcheck. 22 upcoming nights, with line-ups including 999999999, Adrian Mills, Afrojack and Airrica and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 

@@ -1,6 +1,6 @@
-# Ballet: Trickpony, Notte Infinita [Live], Yaki at public records
+# Ballet: trickpony, Notte Infinita [Live], Yaki at public records
 
-Ballet: Trickpony, Notte Infinita [Live], Yaki at public records on Thu 17 Sept, Newyorkcity. 5 acts on the bill: emkay (FI), Mike Midnight, Notte Infinita and Roza Terenzi and 1 more. Downtempo. Preview the line-up and save it on soundcheck.
+Ballet: trickpony, Notte Infinita [Live], Yaki at public records on Thu 17 Sept, Newyorkcity. 5 acts on the bill: emkay (FI), Mike Midnight, Notte Infinita and Roza Terenzi and 1 more. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

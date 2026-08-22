@@ -1,8 +1,8 @@
 # Son of Son
 
-Son of Son is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
+Son of Son is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Clairière, Paris on Sat, 22 Aug 2026.
 
-Son of Son is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, 19:26 and 999999999. Next up: La Clairière, Paris on Sat 22 Aug.
+Son of Son is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Anyma and 19:26. Next up: La Clairière, Paris on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Son of Son is a techno and house artist tracked on soundcheck, with 40 sets logg
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | La Clairière | Paris |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Sun, 6 Sept 2026 | Radius | Chicago |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Thu, 24 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
@@ -27,6 +28,6 @@ Son of Son is a techno and house artist tracked on soundcheck, with 40 sets logg
 
 ## Shares bills with
 
-Adriatique, 19:26, 999999999
+Adriatique, Anyma, 19:26
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*

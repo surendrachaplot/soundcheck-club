@@ -1,8 +1,8 @@
 # Outset
 
-Outset is a music venue in Chicago with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ravefurrest ft. passengerprincess & MAILPUP" on Sat, 29 Aug 2026.
+Outset is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ravefurrest ft. passengerprincess & MAILPUP" on Sat, 29 Aug 2026.
 
-Outset is a music venue in Chicago listed on soundcheck. 6 upcoming nights, with line-ups including Cult Member, passengerprincess and uRaNg3L. Browse upcoming dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
+Outset is a music venue in Chicago listed on soundcheck. 7 upcoming nights, with line-ups including Cult Member, passengerprincess, uRaNg3L and Vegyn. Browse upcoming dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Outset is a music venue in Chicago listed on soundcheck. 6 upcoming nights, with
 | Sat, 3 Oct 2026 | 2000's Rave |  |
 | Fri, 23 Oct 2026 | Grabbitz |  |
 | Fri, 6 Nov 2026 | Parra For Cuva |  |
+| Fri, 20 Nov 2026 | Headache | Vegyn |
 
 ## Address
 

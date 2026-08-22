@@ -1,14 +1,15 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 22 Aug 2026.
+Lee Foss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 22 Aug 2026.
 
-Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: Sunnyside Pavilion, Toronto on Sat 22 Aug.
+Lee Foss is a house and tech house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Austin, Barcelona, Boston and Brisbane and 21 more. Often billed alongside Deeper Purpose, Sonny Fodera and ALISHA. Next up: Sunnyside Pavilion, Toronto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sunnyside Pavilion | Toronto |
+| Sat, 17 Oct 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 

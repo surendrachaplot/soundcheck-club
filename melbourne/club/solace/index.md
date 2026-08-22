@@ -8,7 +8,7 @@ Solace is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ | Afrodisiac, JD (3), Miki, Rev Lon, Tina Disco |
+| Sat, 22 Aug 2026 | Solace Invites Afrodisiac, JD, Miki, Rev Lon & Tina Disco⁠ | Afrodisiac, JD (3), JD (4), Miki, Miki (3), Rev Lon, Tina Disco |
 | Wed, 26 Aug 2026 | Free. Live. Music // Jazz Upstairs |  |
 | Thu, 27 Aug 2026 | Solace Radio x Daisy Records W/ Selena, Dawn Sports, Frankifettucini | Frankifettucini, Selena (2) |
 | Fri, 28 Aug 2026 | Tom Baker [3 Hour Set] Unlearn Everything Album Launch » presented by Capture | Tom Baker (AUS), Unknown Concept |

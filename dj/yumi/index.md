@@ -1,8 +1,8 @@
-# Yu Mi
+# Yumi
 
-Yu Mi is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Yumi is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Yu Mi is a techno and bass artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Detroit and Ghent and 11 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Yumi is a techno and bass artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Detroit and Ghent and 11 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 

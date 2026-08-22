@@ -1,13 +1,14 @@
 # Severja
 
-Severja is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at public records, New York City on Fri, 18 Sept 2026.
+Severja is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bar Laika, New York City on Wed, 16 Sept 2026.
 
-Severja is a techno and idm artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Copenhagen and Hongkong and 9 more. Often billed alongside Tangela, Agonis and Aion. Next up: public records, Newyorkcity on Fri 18 Sept.
+Severja is a techno and idm artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Copenhagen and Hongkong and 9 more. Often billed alongside Tangela, Agonis and Aion. Next up: Bar Laika, Newyorkcity on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Bar Laika | New York City |
 | Fri, 18 Sept 2026 | public records | New York City |
 
 ## Recently played

@@ -24,6 +24,6 @@ Second Wind at RADION on Sun 25 Oct, Amsterdam. 15 acts on the bill: 42nd Avenue
 - OK Williams
 - PHIA
 - Vasco
-- Yu Mi
+- Yumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2494410-second-wind-at-radion/)*

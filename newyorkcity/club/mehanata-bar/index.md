@@ -1,8 +1,8 @@
 # Mehanata Bar
 
-Mehanata Bar is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "The 2000s Forever Parrty by THE Y2K Parrty" on Sat, 22 Aug 2026.
+Mehanata Bar is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "The 2000s Forever Parrty by THE Y2K Parrty" on Sat, 22 Aug 2026.
 
-Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nights, with line-ups including DJanae and Kasey Cortez. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
+Mehanata Bar is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nights, with line-ups including DJanae and Kasey Cortez. Browse upcoming dates, start times and who's playing. 113, Ludlow street.
 
 ## What's on
 

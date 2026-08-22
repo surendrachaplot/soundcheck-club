@@ -1,8 +1,8 @@
 # Pijus
 
-Pijus is a House and Breakbeat artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Junkyard Club, Tbilisi on Tue, 13 Oct 2026.
+Pijus is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Junkyard Club, Tbilisi on Tue, 13 Oct 2026.
 
-Pijus is a house and breakbeat artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Dublin and London and 5 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: TBA - Junkyard Club, Tbilisi on Tue 13 Oct.
+Pijus is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Dublin and London and 5 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: TBA - Junkyard Club, Tbilisi on Tue 13 Oct.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
-# TBA - outdoors 
+# TBA - outdoors
 
-TBA - outdoors  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Chrysalis 2 - A La30 Fundraiser" on Fri, 18 Sept 2026.
+TBA - outdoors is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Chrysalis 2 - A La30 Fundraiser" on Fri, 18 Sept 2026.
 
-TBA - outdoors  is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including coldchainlogistics, Kiju, Kiviv and newfriend and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - outdoors is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including coldchainlogistics, Kiju, Kiviv and newfriend and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

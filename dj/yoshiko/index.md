@@ -1,8 +1,8 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur on Sat, 22 Aug 2026.
+Yoshiko is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur on Sat, 22 Aug 2026.
 
-Yoshiko is a techno and hardcore artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Dimitri K, The Dark Horror and A.N.I.. Next up: TBA - XOX Arena, ARCH GALERIES, Kualalumpur on Sat 22 Aug.
+Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Dimitri K, The Dark Horror and A.N.I.. Next up: TBA - XOX Arena, ARCH GALERIES, Kualalumpur on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 33 sets logg
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 23 Oct 2026 | Docks | Hamburg |
 | Sat, 24 Oct 2026 | Fabrik | Madrid |
+| Fri, 20 Nov 2026 | Warehouse | Nantes |
 
 ## Recently played
 

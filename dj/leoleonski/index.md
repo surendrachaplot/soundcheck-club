@@ -1,13 +1,14 @@
 # Leo Leonski
 
-Leo Leonski is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bodega Danza, Copenhagen on Sat, 29 Aug 2026.
+Leo Leonski is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Viertel, Basel on Sat, 22 Aug 2026.
 
-Leo Leonski is a house and deep house artist tracked on soundcheck, with 86 sets logged across Bali, Bangkok, Barcelona and Basel and 16 more. Often billed alongside Gyusco, 959er and ACID FLORA. Next up: Bodega Danza, Copenhagen on Sat 29 Aug.
+Leo Leonski is a house and deep house artist tracked on soundcheck, with 87 sets logged across Bali, Bangkok, Barcelona and Basel and 16 more. Often billed alongside Gyusco, 959er and ACID FLORA. Next up: Viertel, Basel on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Viertel | Basel |
 | Sat, 29 Aug 2026 | Bodega Danza | Copenhagen |
 
 ## Recently played

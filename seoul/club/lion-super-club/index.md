@@ -10,7 +10,7 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 4 upcoming night
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | SOUNDCLASH WEEKEND EDITION |  |
 | Thu, 27 Aug 2026 | SOUNDCLASH THURSDAY'S |  |
-| Fri, 28 Aug 2026 | TREMINAL L presents HYPATON |  |
+| Fri, 28 Aug 2026 | TERMINAL L |  |
 | Fri, 11 Sept 2026 | GLOBAL CALLING | Elderbrook |
 
 ## Address

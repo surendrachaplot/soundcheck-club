@@ -1,14 +1,15 @@
 # LUKAS (4)
 
-LUKAS (4) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
+LUKAS (4) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
 
-LUKAS (4) is a house and electro artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside Manu Oubiña, Guile and Anabel. Next up: Urban Spree, Berlin on Fri 28 Aug.
+LUKAS (4) is a house and electro artist tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside Manu Oubiña, Guile and Anabel. Next up: Urban Spree, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Urban Spree | Berlin |
+| Fri, 20 Nov 2026 | Avant Garten | Buenos Aires |
 
 ## Recently played
 

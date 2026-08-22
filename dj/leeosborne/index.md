@@ -1,8 +1,8 @@
 # Lee Osborne
 
-Lee Osborne is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 29 Aug 2026.
+Lee Osborne is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 29 Aug 2026.
 
-Lee Osborne is a techno and acid artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: TBA - Warehouse, Toronto on Sat 29 Aug.
+Lee Osborne is a techno and acid artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Ian Guthrie, Jeremy P. Caulfield and Bailey Ibbs. Next up: TBA - Warehouse, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lee Osborne is a techno and acid artist based in Canada, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - Warehouse | Toronto |
 | Sat, 12 Sept 2026 | Motorista Studio | Toronto |
+| Fri, 20 Nov 2026 | Standard Time | Toronto |
 
 ## Recently played
 

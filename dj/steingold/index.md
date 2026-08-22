@@ -1,13 +1,14 @@
 # Steingold
 
-Steingold is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Steingold is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Third Street Bar, Detroit on Sat, 22 Aug 2026.
 
-Steingold is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Chicago, Detroit, Losangeles and Toronto. Often billed alongside MIKE RANSOM, Ryan Spencer and Eddie Logix. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
+Steingold is a house and techno artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago, Detroit, Losangeles and Toronto. Often billed alongside MIKE RANSOM, Ryan Spencer and Eddie Logix. Next up: Third Street Bar, Detroit on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Third Street Bar | Detroit |
 | Mon, 7 Sept 2026 | 3fifty Terrace | Detroit |
 
 ## Recently played

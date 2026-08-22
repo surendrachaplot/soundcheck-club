@@ -1,8 +1,8 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Castaways, Chicago on Sun, 23 Aug 2026.
+Sasha is a Progressive House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Castaways, Chicago on Sun, 23 Aug 2026.
 
-Sasha is a progressive house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Castaways, Chicago on Sun 23 Aug.
+Sasha is a progressive house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Castaways, Chicago on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 160 s
 | Fri, 11 Sept 2026 | Reelworks Denver | Denver |
 | Sat, 12 Sept 2026 | Malkin Bowl | Vancouver |
 | Sat, 26 Sept 2026 | BERHTA | Washington DC |
+| Fri, 2 Oct 2026 | Frontón Bucareli | Mexico City |
 | Sat, 24 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
