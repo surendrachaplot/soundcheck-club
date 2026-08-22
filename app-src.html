@@ -962,7 +962,20 @@
        first paint — you do not have to say you are going to hand someone the
        link, which is the whole point of the loop. */
     .ev-invite{ margin:18px 0 0; padding:16px; background:var(--surface); border-top:1px solid var(--border); border-bottom:1px solid var(--border); display:flex; flex-direction:column; }
-    .ev-invite .eyebrow{ margin-bottom:0; }
+    /* The DS's micro-caption rule ("Unified micro-caption voice") re-declares
+       .eyebrow LATER at equal specificity and flattens it to 11px mono 600
+       /.12em. Board A/B/D/E/F all specify the Archivo 700 / 12px / .24em
+       eyebrow, so the invite surfaces restate it at higher specificity rather
+       than flipping the ~23 other .eyebrow sites in the app. Measured, not
+       eyeballed: getComputedStyle said 11px/1.32px before this rule existed. */
+    .ev-invite .eyebrow, .obv .eyebrow{
+      font-family:var(--body); font-size:var(--fs-xs); font-weight:700; line-height:1.42;
+      letter-spacing:0.24em; margin-bottom:0;
+    }
+    /* .fp-ab:not(.go) makes secondary pills transparent — right on the page
+       ground, wrong inside a surface band, where the pill then has no fill at
+       all. Board A draws it filled, so inside this module it is filled. */
+    .ev-invite .fp-ab, .inv-bar .fp-ab{ background:var(--surface-2); border:1px solid var(--border); }
     .ev-invite .evi-sub{ font-size:var(--fs-base); line-height:1.55; color:var(--muted); margin:6px 0 0; max-width:44ch; }
     .ev-invite .evi-row{ display:flex; align-items:center; gap:8px; margin-top:14px; }
     .ev-invite .evi-link{ flex:1; min-width:0; height:42px; display:flex; align-items:center; padding:0 14px; border-radius:var(--radius); background:var(--bg); border:1px solid var(--border);
@@ -981,7 +994,10 @@
     .inv-bar .inv-row{ display:flex; align-items:center; gap:10px; }
     .inv-bar .ob-cta{ margin-top:0; }
     .inv-bar .inv-note{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--faint); margin-top:10px; }
-    body.inv-open .bnav{ display:none; }   /* one answer bar at a time — never stacked on the tab bar */
+    /* One bar at a time. The tab bar, the dock and the radio FAB all live at the
+       bottom; any of them under the answer bar is two bars stacked. */
+    body.inv-open .bnav, body.inv-open .dock, body.inv-open .radio-fab{ display:none; }
+    body.inv-open #page-body{ padding-bottom:132px; }   /* the fixed bar must not cover the end of the bill */
     .ev-radio { display:inline-flex; align-self:flex-start; width:fit-content; max-width:100%; align-items:center; gap:8px; margin:10px 0 2px; background:rgba(255,154,61,0.08); border:1px solid rgba(255,154,61,0.35); color:var(--accent); border-radius:var(--radius-pill); padding:7px 13px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .ev-radio svg { width:var(--icon-sm); height:var(--icon-sm); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .ev-radio:hover { background:rgba(255,154,61,0.16); }
@@ -3729,7 +3745,7 @@
        natural-width buttons, quiet text links for secondary moves. */
     .obv{ position:fixed; inset:0; z-index:900; background:var(--bg); display:none; overflow-y:auto; -webkit-overflow-scrolling:touch; }
     .obv.show{ display:block; }
-    .ob-wrap{ max-width:560px; margin:0 auto; padding:26px 22px calc(48px + env(safe-area-inset-bottom)); min-height:100%; display:flex; flex-direction:column; }
+    .ob-wrap{ position:relative; max-width:560px; margin:0 auto; padding:26px 22px calc(48px + env(safe-area-inset-bottom)); min-height:100%; display:flex; flex-direction:column; }
     .ob-top{ display:flex; align-items:center; justify-content:space-between; margin-bottom:6vh; }
     .ob-dots{ display:flex; gap:7px; }
     .ob-dots i{ width:7px; height:7px; border-radius:50%; background:var(--surface-2); }
@@ -3754,6 +3770,11 @@
     .ob-lede{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); color:var(--fg); opacity:.86; line-height:1.24; margin:0 0 20px; max-width:26ch; }
     .obv input[type=email], .obv input[type=text], .obv input[type=tel]{ width:100%; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); color:var(--fg); font-size:var(--fs-md); padding:14px 16px; }
     .obv input:focus{ outline:none; border-color:var(--accent); }
+    /* Every full-screen step needs a door. D and E shipped without one in
+       review: a mistyped address left you with no way back to the page. */
+    .ob-x{ position:absolute; top:14px; right:16px; width:34px; height:34px; background:transparent; border:0; color:var(--muted);
+      font-size:var(--fs-lg); line-height:1; cursor:pointer; border-radius:var(--radius-pill); -webkit-tap-highlight-color:transparent; }
+    .ob-x:hover{ background:var(--surface); color:var(--fg); }
     .ob-cta{ display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:48px; padding:0 26px; margin-top:22px; background:var(--accent-grad); color:var(--accent-ink); border:0; border-radius:var(--radius); font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.14em; text-transform:uppercase; cursor:pointer; align-self:flex-start; transition:transform var(--dur-1) var(--ease-standard); }
     .ob-cta:active{ transform:scale(0.97); }
     .ob-cta:disabled{ opacity:0.45; cursor:default; }
@@ -3966,6 +3987,10 @@
         border:0; border-radius:0;
         margin-left:calc(-1 * var(--gut)); margin-right:calc(-1 * var(--gut));
       }
+      /* The invite module is a band like every other one here — board A draws it
+         edge to edge. It keeps its hairlines (they are what separates it from the
+         hero above) and pads back to the gutter so its content stays in line. */
+      .ev-invite{ margin-left:calc(-1 * var(--gut)); margin-right:calc(-1 * var(--gut)); padding:16px var(--gut); }
       .fp-sec, .fp-tabpanel .fp-sec{ margin-top:8px; }
       .fp-sech{ background:none; border-bottom:0; padding:14px 18px 2px; }
       .pfh-ribbon{ background:var(--surface); padding:0 9px; }   /* cells pad 9px → numbers land on the 18px gutter */
@@ -4021,7 +4046,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787422682187">
+<meta name="sc-build" content="1787424597092">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -6468,6 +6493,13 @@
       return h ? u+'?in='+encodeURIComponent(h) : u;
     }
     function invClose(){ var b=document.getElementById('inv-bar'); if(b) b.remove(); document.body.classList.remove('inv-open'); }
+    // A fixed bar that outlives its page is a bar on every page. Both exits from
+    // an entity view go through these, so both must drop it.
+    (function(){
+      var _op=openPanel, _hp=hidePage;
+      openPanel=function(h){ invClose(); return _op(h); };
+      hidePage=function(){ invClose(); return _hp.apply(this, arguments); };
+    })();
     // BOARD B — the answer bar. Gradient "I'm in" + .fp-ab "Can't make it",
     // one row, with the promise underneath that answering costs no install.
     function inviteBar(id, ev, evMeta, inviter){
@@ -6496,7 +6528,8 @@
     function invStepClaim(id, ev, inviter){
       obChrome('');
       var day=(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')||'');
-      var el=obBody('<div class="eyebrow">You&rsquo;re in'+(day?' &middot; '+esc(day):'')+'</div>'+
+      var el=obBody('<button class="ob-x" id="inv-x1" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">You&rsquo;re in'+(day?' &middot; '+esc(day):'')+'</div>'+
         '<h1 class="ob-h1">Save your event</h1>'+
         '<p class="ob-sub">Soundcheck helps you find gigs and artists based on what you enjoy.</p>'+
         '<div class="inv-poster" style="display:flex;gap:8px;margin-top:18px">'+
@@ -6517,11 +6550,17 @@
         var em=(ei.value||'').trim().toLowerCase();
         _inv.handle=(hi.value||'').trim().replace(/[^a-z0-9._-]/gi,'').toLowerCase();
         if(!EMAIL_RE.test(em)||em.length>254){ err.textContent='That email doesn\u2019t look right.'; return; }
+        if(_inv.handle && _inv.handle.length<3){ err.textContent='A handle needs at least 3 characters \u2014 or leave it blank.'; return; }
         _inv.email=em; var b=el.querySelector('#inv-go'); b.disabled=true; err.textContent='';
+        // pendingEmail only. emailGated is what hasEmail() reads as "this person
+        // has an account", and setting it here — BEFORE the code is verified —
+        // is the exact regression finishCodeSignIn's docblock warns about: it
+        // silently retires the gate for someone who never finished signing up.
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:em }) })
-          .then(function(r){ if(!r.ok) throw 0; setPref('emailGated',true); setPref('pendingEmail',em); invStepCode(id, ev, inviter); })
+          .then(function(r){ if(!r.ok) throw 0; setPref('pendingEmail',em); invStepCode(id, ev, inviter); })
           .catch(function(){ b.disabled=false; err.textContent='Couldn\u2019t send just now \u2014 try again.'; });
       }
+      el.querySelector('#inv-x1').addEventListener('click',obClose);
       el.querySelector('#inv-go').addEventListener('click',go);
       ei.addEventListener('keydown',function(e){ if(e.key==='Enter') go(); });
       setTimeout(function(){ hi.focus(); },80);
@@ -6531,13 +6570,15 @@
     function invStepCode(id, ev, inviter){
       obChrome('');
       var a0=((ev.artists||[])[0]||{});
-      var el=obBody('<div class="eyebrow">Check your inbox</div>'+
+      var el=obBody('<button class="ob-x" id="inv-x2" type="button" aria-label="Close">&times;</button>'+
+        '<div class="eyebrow">Check your inbox</div>'+
         '<h1 class="ob-h1">Type the code</h1>'+
         '<p class="ob-sub">We sent 6 letters and numbers to <b style="color:var(--fg)">'+esc(_inv.email)+'</b> &mdash; the link in the email works too.</p>'+
         '<input type="text" id="inv-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase">'+
         '<button class="ob-cta" id="inv-codego" type="button">Sign me in</button>'+
         '<div class="ob-err" id="inv-cerr"></div>'+
         '<button class="ob-alt" id="inv-resend" type="button">Nothing arrived? Send it again</button>'+
+        '<button class="ob-alt" id="inv-back" type="button">Wrong email &mdash; go back</button>'+
         (a0.name?('<div style="margin-top:34px;padding:14px 16px;border-radius:var(--radius);background:var(--surface);border:1px solid var(--border)">'+
           '<div style="font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--faint)">While you wait</div>'+
           '<div style="display:flex;align-items:center;gap:10px;margin-top:10px">'+
@@ -6548,10 +6589,22 @@
           '</div></div>'):''));
       var ci=el.querySelector('#inv-code'), cerr=el.querySelector('#inv-cerr'), cgo=el.querySelector('#inv-codego');
       async function verify(){
+        if(cgo.disabled) return;                                  // Enter must not double-submit a one-time code
         cerr.textContent=''; cgo.disabled=true;
-        var msg=await finishCodeSignIn(_inv.email, ci.value);
+        // Codes are issued from an uppercase alphabet; the onboarding path
+        // uppercases before sending and this one did not, so a lowercase typing
+        // of a correct code was rejected.
+        var msg=await finishCodeSignIn(_inv.email, (ci.value||'').trim().toUpperCase());
         if(msg){ cerr.textContent=msg; cgo.disabled=false; return; }
-        if(_inv.handle){ try{ await authedFetch('/api/handle',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:_inv.handle }) }); await loadMe(); }catch(_){} }
+        if(_inv.handle){
+          // A taken handle used to fail silently — you were told your profile was
+          // started under a name you did not get. Say so, keep the auto-assigned one.
+          try{
+            var hr=await authedFetch('/api/handle',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:_inv.handle }) });
+            if(!hr.ok) showToast('@'+_inv.handle+' was taken \u2014 you can pick another in your profile.');
+            await loadMe();
+          }catch(_){ }
+        }
         setEvent(id,'going',{title:ev.title,venue:ev.venue,day:ev._day});
         invStepDone(id, ev, inviter);
       }
@@ -6561,7 +6614,12 @@
         fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_inv.email }) })
           .then(function(){ cerr.textContent='Sent again \u2014 check your inbox.'; }).catch(function(){});
       });
-      var ip=el.querySelector('#inv-play'); if(ip) ip.addEventListener('click',function(){ obClose(); playArtistSets(a0.slug, a0.name); });
+      // mapEventDetail gives artists {name, contentUrl:'/'+slug} — there is no
+      // .slug on them, so reading one passed undefined into the sets lookup.
+      el.querySelector('#inv-x2').addEventListener('click',obClose);
+      el.querySelector('#inv-back').addEventListener('click',function(){ invStepClaim(id, ev, inviter); });
+      var ip=el.querySelector('#inv-play');
+      if(ip) ip.addEventListener('click',function(){ obClose(); playArtistSets(String(a0.contentUrl||'').replace(/^\//,''), a0.name); });
       setTimeout(function(){ ci.focus(); },80);
     }
     // BOARD F — done, and the loop points back out: their link now carries
@@ -6601,16 +6659,35 @@
       var mg=el.querySelector('p b'); if(mg) mg.addEventListener('click',function(){ obClose(); openAccount(); });
     }
     // .ics beats a deep link: it works on every phone and desktop, offline, with
-    // no calendar-provider account to pick.
+    // no calendar provider to choose. Two traps this hit in review — startTime is
+    // a full ISO datetime ("2026-07-31T19:00:00.000"), not "19:00", so naive
+    // string surgery emitted an unparseable DTSTART; and RFC 5545 requires
+    // commas, semicolons, backslashes and newlines in text values to be escaped,
+    // which LOCATION ("venue, city") breaks on every single time.
+    function icsEsc(v){ return String(v||'').replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\r?\n/g,'\\n'); }
+    function icsStamp(iso, dateOnly, fallback){
+      var m=/^(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})/.exec(String(iso||''));
+      if(m) return m[1]+m[2]+m[3]+'T'+m[4]+m[5]+'00';
+      var hm=/^(\d{2}):(\d{2})/.exec(String(iso||''));          // some rows carry a bare "23:00"
+      if(hm && dateOnly) return dateOnly+'T'+hm[1]+hm[2]+'00';
+      return dateOnly ? dateOnly+'T'+fallback : '';
+    }
     function addToCalendar(ev, id){
-      var d=String(ev.event_date||'').slice(0,10).replace(/-/g,'');
-      if(!d){ showToast('No date on this night yet'); return; }
-      var st=(ev.startTime||'23:00').replace(':','')+'00', en=(ev.endTime||'').replace(':','');
-      var dtEnd=en? (d+'T'+en+'00') : (d+'T235900');
-      var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//soundcheck//EN','BEGIN:VEVENT',
-        'UID:sc-'+eventIdOf(id)+'@soundcheck.club','DTSTART:'+d+'T'+st,'DTEND:'+dtEnd,
-        'SUMMARY:'+(ev.title||'A night'),'LOCATION:'+((ev.venue||'')+(ev.city?', '+cityLabel(ev.city):'')),
-        'URL:'+inviteUrl(id, ev.title, ev.venue),'END:VEVENT','END:VCALENDAR'].join('\r\n');
+      var day=String(ev.event_date||'').slice(0,10).replace(/-/g,'');
+      if(!day){ showToast('No date on this night yet'); return; }
+      var dtStart=icsStamp(ev.startTime||ev._time, day, '230000');
+      var dtEnd=icsStamp(ev.endTime, day, '235900');
+      if(dtEnd<=dtStart){                                        // a 06:00 finish is the NEXT day
+        var d=new Date(day.slice(0,4)+'-'+day.slice(4,6)+'-'+day.slice(6,8)+'T00:00:00Z');
+        d.setUTCDate(d.getUTCDate()+1);
+        var nx=d.toISOString().slice(0,10).replace(/-/g,'');
+        dtEnd=nx+dtEnd.slice(8);
+      }
+      var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//soundcheck//EN','CALSCALE:GREGORIAN','BEGIN:VEVENT',
+        'UID:sc-'+eventIdOf(id)+'@soundcheck.club','DTSTART:'+dtStart,'DTEND:'+dtEnd,
+        'SUMMARY:'+icsEsc(ev.title||'A night'),
+        'LOCATION:'+icsEsc((ev.venue||'')+(ev.city?', '+cityLabel(ev.city):'')),
+        'URL:'+icsEsc(inviteUrl(id, ev.title, ev.venue)),'END:VEVENT','END:VCALENDAR'].join('\r\n');
       var a=document.createElement('a');
       a.href='data:text/calendar;charset=utf-8,'+encodeURIComponent(ics);
       a.download=(ev.title||'night').replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'.ics';
@@ -9870,7 +9947,10 @@
         // the answer bar). Three separate checks would eventually disagree and
         // render half an invite. Not your own link, not a night that has already
         // happened, not one you already said yes to.
-        var _invActive = !!_inviteFrom && !isPast && evtStatus(id)!=='going' &&
+        // Both person-dependent guards (is this MY link, have I already said yes)
+        // need auth + the picks shelf loaded. _meLoaded is the same gate the email
+        // gate uses; without it the inviter is shown an invite to their own night.
+        var _invActive = !!_inviteFrom && !isPast && _meLoaded && evtStatus(id)!=='going' &&
           !(currentUser && currentUser.handle && String(currentUser.handle).toLowerCase()===_inviteFrom);
         var when=[(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')), formatTimeRange(ev.startTime,ev.endTime,ev._time)].filter(Boolean).join(' · ');
         var price=formatPrice(ev.minPrice, ev.maxPrice, ev.currency);
@@ -9916,7 +9996,7 @@
               (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
             '</div>'+
           '</div>'+
-          (isPast?'':('<div class="ev-invite">'+
+          (isPast||_invActive?'':('<div class="ev-invite">'+
             '<div class="eyebrow">Bring your friends</div>'+
             '<div class="evi-sub">Start a group. Let your friends do a soundcheck of the event.</div>'+
             '<div class="evi-row">'+
