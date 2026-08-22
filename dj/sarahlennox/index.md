@@ -1,14 +1,15 @@
 # Sarah Lennox
 
-Sarah Lennox is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hen's Teeth, Dublin on Sat, 29 Aug 2026.
+Sarah Lennox is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hen's Teeth, Dublin on Sat, 29 Aug 2026.
 
-Sarah Lennox is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Dublin. Often billed alongside DJ PIERR, Coyu and DJ Gary. Next up: Hen's Teeth, Dublin on Sat 29 Aug.
+Sarah Lennox is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside DJ PIERR, Cailín and Coyu. Next up: Hen's Teeth, Dublin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Hen's Teeth | Dublin |
+| Fri, 9 Oct 2026 | The Racket Space | Dublin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Sarah Lennox is a techno and electro artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-DJ PIERR, Coyu, DJ Gary
+DJ PIERR, Cailín, Coyu
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahlennox/)*

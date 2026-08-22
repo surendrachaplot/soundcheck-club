@@ -1,8 +1,8 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Katerina (ÉMOTSIYA), Monique Samantha, Jakob Grandin" on Sat, 22 Aug 2026.
+Trädgården is a music venue in Stockholm with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Katerina (ÉMOTSIYA), Monique Samantha, Jakob Grandin" on Sat, 22 Aug 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 7 upcoming nights, with line-ups including Andree Bohlin, Anthony Linell, Claudio PRC and Dorisburg and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 8 upcoming nights, with line-ups including Andree Bohlin, Anthony Linell, Claudio PRC and Dorisburg and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 7 upcoming nigh
 | Sat, 5 Sept 2026 | Fatuma, Norah |  |
 | Fri, 11 Sept 2026 | Eris Drew, Nina Michelle, Louis Wood | Eris Drew, Nina Michelle |
 | Sat, 12 Sept 2026 | Urgent Audio: Andree Bohlin, Nila Roe, Olle Hmm | Andree Bohlin |
+| Fri, 20 Nov 2026 | Sub Focus | Sub Focus |
 
 ## Address
 

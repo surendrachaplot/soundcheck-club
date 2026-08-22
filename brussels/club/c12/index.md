@@ -11,7 +11,7 @@ C12 is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with l
 | Sat, 22 Aug 2026 | C12 Nite with Paramida, Kathleen C, Softy |  |
 | Sat, 22 Aug 2026 | Queer Future Club x C12 | Alma Negrot, Azo |
 | Fri, 4 Sept 2026 | 2 Rooms, 2 Temperatures - C12 x 10SET |  |
-| Sat, 5 Sept 2026 | 707 Takeover l 002 | Answer Code Request, Herton, Ponygirl, Ôneyra |
+| Sat, 5 Sept 2026 | 707 Takeover l 002 | Answer Code Request, Herton, Ponygirl, Rafael Munoz, Ôneyra |
 | Fri, 11 Sept 2026 | Los Ninos: Pop&Disco Cheap&Chic | Afonso Peixoto, The Stress |
 | Sat, 19 Sept 2026 | C12 x PRNCPTL with LOLSNAKE, VINVAR, Egna | Egna, LOLSNAKE, VINVAR |
 | Sat, 26 Sept 2026 | Raw Code 1 Year Anniversary x VORTEX: C11 Takeover | Basic Feelings (2), Nastya Dikikh, Wim Wixx., gucccifer |

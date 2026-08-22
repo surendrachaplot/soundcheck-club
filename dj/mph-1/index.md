@@ -1,8 +1,8 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+MPH (1) is a Garage and Bass artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
-MPH (1) is a garage and bass artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Auckland and Austin and 38 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
+MPH (1) is a garage and bass artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Auckland and Austin and 38 more. Often billed alongside Oppidan, Flava D and Bushbaby. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ MPH (1) is a garage and bass artist tracked on soundcheck, with 111 sets logged 
 | Sat, 7 Nov 2026 | Royale | Boston |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | A.i Warehouse | Washington DC |
+| Fri, 20 Nov 2026 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 

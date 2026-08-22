@@ -9,7 +9,7 @@ CATRONICA is a psytrance and techno artist based in Japan, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | DeTour | Tokyo |
-| Fri, 11 Sept 2026 | Cave | Tokyo |
+| Fri, 11 Sept 2026 | Koenji Cave | Tokyo |
 | Tue, 22 Sept 2026 | Cave | Tokyo |
 
 ## Recently played

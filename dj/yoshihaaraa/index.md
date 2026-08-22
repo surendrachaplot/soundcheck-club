@@ -1,14 +1,15 @@
 # YOSHIHAARAA
 
-YOSHIHAARAA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
+YOSHIHAARAA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
 
-YOSHIHAARAA is a house and techno artist tracked on soundcheck, with 84 sets logged across Seoul and Tokyo. Often billed alongside Monkey Timers, YAMARCHY and KATAINAKA. Next up: WOMB, Tokyo on Fri 28 Aug.
+YOSHIHAARAA is a house and techno artist tracked on soundcheck, with 85 sets logged across Seoul and Tokyo. Often billed alongside Monkey Timers, YAMARCHY and KATAINAKA. Next up: WOMB, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | WOMB | Tokyo |
+| Sat, 29 Aug 2026 | Aoyama Tunnel | Tokyo |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Luke Hess
 
-Luke Hess is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Luke Hess is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Garage Noord, Amsterdam on Sat, 22 Aug 2026.
 
-Luke Hess is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Joshua Harrison, Brian Kage and Eddie Fowlkes. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
+Luke Hess is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Joshua Harrison, Brian Kage and Eddie Fowlkes. Next up: Garage Noord, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 22 Aug 2026 | Garage Noord | Amsterdam |
 | Fri, 11 Sept 2026 | public records | New York City |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |

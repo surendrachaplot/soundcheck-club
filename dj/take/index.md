@@ -1,14 +1,15 @@
 # Takē
 
-Takē is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Stalin, Prague on Fri, 28 Aug 2026.
+Takē is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Stalin, Prague on Fri, 28 Aug 2026.
 
-Takē is a techno and house artist based in Czech Republic, tracked on soundcheck, with 40 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and zazitech. Next up: Stalin, Prague on Fri 28 Aug.
+Takē is a techno and house artist based in Czech Republic, tracked on soundcheck, with 41 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and zazitech. Next up: Stalin, Prague on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Stalin | Prague |
+| Fri, 18 Sept 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
 

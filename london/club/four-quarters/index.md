@@ -1,13 +1,14 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "guEst. invites Mindstate & Zar Bank Holiday Special" on Fri, 28 Aug 2026.
+Four Quarters is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "MARIO KART WII WITH A LIVE BAND - £100 PRIZE" on Thu, 27 Aug 2026.
 
-Four Quarters is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Equinox (UK), Jon Hughes, Mindstate and Missile to the Moon and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
+Four Quarters is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Equinox (UK), Jon Hughes, Mindstate and Missile to the Moon and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | MARIO KART WII WITH A LIVE BAND - £100 PRIZE |  |
 | Fri, 28 Aug 2026 | guEst. invites Mindstate & Zar Bank Holiday Special | Mindstate, Zar. |
 | Fri, 28 Aug 2026 | Arcade Takeover (Disco, House, Classics) - Free Entry |  |
 | Fri, 4 Sept 2026 | LEVELS | Equinox (UK) |

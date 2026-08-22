@@ -1,14 +1,15 @@
 # Ôneyra
 
-Ôneyra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at C12, Brussels on Sat, 5 Sept 2026.
+Ôneyra is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at C12, Brussels on Sat, 5 Sept 2026.
 
-Ôneyra is a techno and trance artist based in Ireland, tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Cologne and London and 1 more. Often billed alongside Montague, Punktmidi and Rovin. Next up: C12, Brussels on Sat 5 Sept.
+Ôneyra is a techno and trance artist based in Ireland, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Cologne and London and 1 more. Often billed alongside MZR, Montague and Punktmidi. Next up: C12, Brussels on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | C12 | Brussels |
+| Thu, 10 Sept 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Montague, Punktmidi, Rovin
+MZR, Montague, Punktmidi
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneyra/)*

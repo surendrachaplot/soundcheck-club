@@ -1,8 +1,8 @@
 # Macky Gee
 
-Macky Gee is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Studio the Venue, Auckland on Fri, 28 Aug 2026.
+Macky Gee is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Studio the Venue, Auckland on Fri, 28 Aug 2026.
 
-Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Auckland, Birmingham, Brisbane and Bristol and 10 more. Often billed alongside 999999999, Angerfist and Basstripper. Next up: Studio the Venue, Auckland on Fri 28 Aug.
+Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 11 more. Often billed alongside Basstripper, Logan D and Voltage. Next up: Studio the Venue, Auckland on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on s
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Studio the Venue | Auckland |
 | Sat, 3 Oct 2026 | Hangar 34 | Liverpool |
+| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-999999999, Angerfist, Basstripper
+Basstripper, Logan D, Voltage
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*

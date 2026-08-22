@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Yamatai x She Beats presents: Ladies Night" on Sat, 22 Aug 2026.
+Planet Wax is a music venue in London with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Yamatai x She Beats presents: Ladies Night" on Sat, 22 Aug 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Amber Rose, Andy Foundations, Ani Klang and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including Amber Rose, Andy Foundations, Ani Klang and ARKNGL and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 

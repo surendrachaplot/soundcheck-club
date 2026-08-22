@@ -9,7 +9,7 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 2 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | B48 LIVE x THE GROOVE TELLERS | Freeka, Pullär |
-| Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Ysheso_ TBA | GEE LEE, Shaolin Cowboy, Target Demographic, ysheso__ |
+| Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti | GEE LEE, Shaolin Cowboy, Target Demographic, ysheso__ |
 
 ## Address
 

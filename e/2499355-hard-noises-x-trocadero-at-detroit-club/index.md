@@ -1,6 +1,6 @@
 # Hard Noises x Trocadero at DETROIT CLUB
 
-Hard Noises x Trocadero at DETROIT CLUB on Sat 26 Sept, Barcelona. 1 act on the bill: VØLNA. Techno. Preview the line-up and save it on soundcheck.
+Hard Noises x Trocadero at DETROIT CLUB on Sat 26 Sept, Barcelona. 1 act on the bill: VØLNA. Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

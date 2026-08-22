@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Cru2 Manchester" on Sat, 22 Aug 2026.
+Hidden is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Cru2 Manchester" on Sat, 22 Aug 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Alic, Andre Zimmer, Camille Doe and Chad Harrison and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including Alic, Andre Zimmer, Camille Doe and Chad Harrison and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 

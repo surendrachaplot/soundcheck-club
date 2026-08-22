@@ -1,8 +1,8 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 30 Aug 2026.
+Loco Dice is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 30 Aug 2026.
 
-Loco Dice is a tech house and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Los Angeles State Historic Park, Losangeles on Sun 30 Aug.
+Loco Dice is a tech house and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Los Angeles State Historic Park, Losangeles on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Loco Dice is a tech house and house artist tracked on soundcheck, with 201 sets 
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
+| Fri, 11 Sept 2026 | The Bassement | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Carroponte | Milan |

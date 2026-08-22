@@ -1,8 +1,8 @@
 # Phantom
 
-Phantom is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Phantom is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundcheck, with 33 sets logged across Antwerp, Berlin, Brighton and Bristol and 12 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Sawmills, Bristol on Sat 12 Sept.
+Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 13 more. Often billed alongside A.M.C., Carasel and BassLayerz. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Phantom is a drum & bass and jungle artist based in Serbia, tracked on soundchec
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 12 Sept 2026 | M-BIA | Berlin |
 | Fri, 6 Nov 2026 | Tank | Sheffield |
+| Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 
 ## Recently played
 

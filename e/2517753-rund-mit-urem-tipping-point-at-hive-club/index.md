@@ -1,6 +1,6 @@
 # RUND mit Urem (Tipping Point) at Hive Club
 
-RUND mit Urem (Tipping Point) at Hive Club on Fri 18 Sept, Zurich. 3 acts on the bill: Natch, Ruben Coslada and Urem. Preview the line-up and save it on soundcheck.
+RUND mit Urem (Tipping Point) at Hive Club on Fri 18 Sept, Zurich. 5 acts on the bill: Karla Mit K, Natch, R3NATA and Ruben Coslada and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ RUND mit Urem (Tipping Point) at Hive Club on Fri 18 Sept, Zurich. 3 acts on the
 
 ## Line-up
 
+- Karla Mit K
 - Natch
+- R3NATA
 - Ruben Coslada
 - Urem
 

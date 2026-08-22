@@ -1,14 +1,15 @@
 # Ruthless
 
-Ruthless is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
+Ruthless is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
 
-Ruthless is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 6 more. Often billed alongside Unglued, Flava D and LTJ Bukem. Next up: fabric, London on Fri 4 Sept.
+Ruthless is a drum & bass and jungle artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 7 more. Often billed alongside Nu:Tone, Unglued and Flava D. Next up: fabric, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | fabric | London |
+| Fri, 20 Nov 2026 | The Art School | Glasgow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ruthless is a drum & bass and jungle artist tracked on soundcheck, with 24 sets 
 
 ## Shares bills with
 
-Unglued, Flava D, LTJ Bukem
+Nu:Tone, Unglued, Flava D
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruthless/)*

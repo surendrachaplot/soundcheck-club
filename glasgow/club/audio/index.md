@@ -1,8 +1,8 @@
 # Audio
 
-Audio is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Overpressure" on Mon, 24 Aug 2026.
+Audio is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Overpressure" on Mon, 24 Aug 2026.
 
-Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including Benny Page, DJ Bax, DJ Hybrid and Jos.heat and 2 more. Browse upcoming dates, start times and who's playing. 14 Midland Street, G1 4PP.
+Audio is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including Benny Page, DJ Bax, DJ Hybrid and Jos.heat and 2 more. Browse upcoming dates, start times and who's playing. 14 Midland Street, G1 4PP.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Audio is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with 
 | Fri, 23 Oct 2026 | Jungle Testaments: Benny Page & DJ Hybrid | Benny Page, DJ Hybrid |
 | Sat, 24 Oct 2026 | Phetkore Vol.2: Nightmare Before Halloween |  |
 | Fri, 13 Nov 2026 | Euphoric Events Presents: ØRBENYX & JOSSA |  |
+| Fri, 20 Nov 2026 | Pye Corner Audio |  |
 
 ## Address
 

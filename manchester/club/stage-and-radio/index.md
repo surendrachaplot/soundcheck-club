@@ -17,7 +17,7 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 22 upcoming
 | Sun, 30 Aug 2026 | Good Minds Gathering X Scrambled Network |  |
 | Fri, 4 Sept 2026 | Beneath Earth Pres. HNDRXX Birthday Bash |  |
 | Fri, 4 Sept 2026 | Clockwork |  |
-| Sat, 5 Sept 2026 | Cinco Shades: Jentzen, Josh JKDP & More | Jentzen |
+| Sat, 5 Sept 2026 | Cinco Shades: RUSSKE & Special Guests | Jentzen |
 
 ## Address
 

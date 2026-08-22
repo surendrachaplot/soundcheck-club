@@ -1,8 +1,8 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nifra" on Sat, 22 Aug 2026.
+Ritter Butzke is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nifra" on Sat, 22 Aug 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aimé You, Anne-Sophie Selig, Antic Soul and Aracil and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aimé You, Anne-Sophie Selig, Antic Soul and Aracil and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 

@@ -1,14 +1,13 @@
 # Substance
 
-Substance is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Substance is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
-Substance is a techno and house artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Bristol and Cologne and 5 more. Often billed alongside DJ Pete, Inverse Element and Vainqueur. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
+Substance is a techno and house artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Bristol and Cologne and 5 more. Often billed alongside DJ Pete, Inverse Element and Vainqueur. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Tresor / Globus | Berlin |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 
 ## Recently played

@@ -9,7 +9,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 19 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | VIBE TRIBE FEST | DJ Freegah |
-| Sat, 22 Aug 2026 | SUMMER RAVE in Odonien by ART OF URBAN LIFE & ONLYRAVES | Empathogen |
+| Sat, 22 Aug 2026 | Abendkasse ab 23 Uhr!: SUMMER RAVE in Odonien by ART OF URBAN LIFE & ONLYRAVES | Empathogen |
 | Wed, 26 Aug 2026 | #MITTWOCHENENDE in Odonien | Bouncy Bitch, C H A Y A, Flex on Trax, Jaycut, LUMI, OSKAMAXX, Pamela Rave, RAFFA |
 | Fri, 28 Aug 2026 | Moonbootica x Odonien | Moonbootica |
 | Sat, 29 Aug 2026 | Petrified Phoenix Showcase in Odonien | Avocado, Baerbel, Daniel Neuland, Danito, Dave Dinger, JUSTICE (DE), Justice, NUAH, Nic Lorenz, Pauli Pocket, Rad.Lez, Rallo, Susi&Paula, VIVI (DE), derderwandert, vivi, vom Feisten |

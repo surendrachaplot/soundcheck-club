@@ -1,8 +1,8 @@
 # Kitty Hall
 
-Kitty Hall is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Kitty Hall is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
-Kitty Hall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton, Glasgow, Ibiza and London and 1 more. Often billed alongside Benji King, George Mensah and Jude Lenihan. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
+Kitty Hall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton, Glasgow, Ibiza and London and 2 more. Often billed alongside Benji King, East End Dubs and George Mensah. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kitty Hall is a house and tech house artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 | Fri, 13 Nov 2026 | NX Newcastle | Newcastle |
+| Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kitty Hall is a house and tech house artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Benji King, George Mensah, Jude Lenihan
+Benji King, East End Dubs, George Mensah
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*

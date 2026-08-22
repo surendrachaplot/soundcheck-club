@@ -1,14 +1,15 @@
 # Kali
 
-Kali is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Kali is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
-Kali is a techno and house artist based in Australia, tracked on soundcheck, with 48 sets logged across Berlin, Budapest, Copenhagen and Geneva and 7 more. Often billed alongside Hayato Iwaki, Reenie and YANNY (1). Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
+Kali is a techno and house artist based in Australia, tracked on soundcheck, with 49 sets logged across Berlin, Budapest, Copenhagen and Geneva and 7 more. Often billed alongside Hayato Iwaki, Reenie and YANNY (1). Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Beresford Hotel | Sydney |
+| Thu, 10 Sept 2026 | ÆDEN | Berlin |
 | Sat, 12 Sept 2026 | VENT | Tokyo |
 
 ## Recently played

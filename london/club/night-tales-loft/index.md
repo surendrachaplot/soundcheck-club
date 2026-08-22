@@ -1,8 +1,8 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 26 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "SOULFUEL: Rotational (Global Dance Music Sounds)" on Sat, 22 Aug 2026.
+Night Tales Loft is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "SOULFUEL: Rotational (Global Dance Music Sounds)" on Sat, 22 Aug 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including 6 SENSE, Alexander Nut, babyschön and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 6 SENSE, Alexander Nut, babyschön and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 

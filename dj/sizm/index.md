@@ -1,14 +1,14 @@
 # sizm
 
-sizm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cave, Tokyo on Sat, 22 Aug 2026.
+sizm is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Koenji Cave, Tokyo on Sat, 22 Aug 2026.
 
-sizm is a house and techno artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside BERLINER KINDL, COGEE and Taro. Next up: Cave, Tokyo on Sat 22 Aug.
+sizm is a house and techno artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside BERLINER KINDL, COGEE and Taro. Next up: Koenji Cave, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Cave | Tokyo |
+| Sat, 22 Aug 2026 | Koenji Cave | Tokyo |
 
 ## Recently played
 

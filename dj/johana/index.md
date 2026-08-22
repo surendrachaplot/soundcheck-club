@@ -1,14 +1,15 @@
 # Johana
 
-Johana is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
+Johana is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
 
-Johana is an electro and techno artist tracked on soundcheck, with 12 sets logged across Belgrade and London. Often billed alongside Amor Ante, Feloneezy and New Flesh (2). Next up: Karmakoma, Belgrade on Fri 11 Sept.
+Johana is a techno and electro artist tracked on soundcheck, with 13 sets logged across Belgrade and London. Often billed alongside Amor Ante, Feloneezy and New Flesh (2). Next up: Karmakoma, Belgrade on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
+| Fri, 25 Sept 2026 | Distillery N17 | London |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunset Park Rooftop, New York City on Sat, 22 Aug 2026.
+Archie Hamilton is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunset Park Rooftop, New York City on Sat, 22 Aug 2026.
 
-Archie Hamilton is a house and tech house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Sunset Park Rooftop, Newyorkcity on Sat 22 Aug.
+Archie Hamilton is a house and tech house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Sunset Park Rooftop, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 204
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

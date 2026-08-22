@@ -1,6 +1,6 @@
 # Mabu
 
-Mabu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
+Mabu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
 
 Mabu is a techno and house artist based in Poland, tracked on soundcheck, with 69 sets logged across Berlin and Warsaw. Often billed alongside HANICZ, KEVS and KoZa. Next up: Birgit, Berlin on Fri 21 Aug.
 
@@ -9,7 +9,6 @@ Mabu is a techno and house artist based in Poland, tracked on soundcheck, with 6
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Birgit | Berlin |
-| Fri, 21 Aug 2026 | Luzztro | Warsaw |
 
 ## Recently played
 

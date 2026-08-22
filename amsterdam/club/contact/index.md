@@ -9,7 +9,7 @@ CONTACT is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | CLUB CONTACT | Adrian Marth, Emilio Arias, Ofra |
-| Sat, 5 Sept 2026 | Discosabotage & 2lovers present Onur Özer | Denise Luzzi, Luval, Onur Özer |
+| Sat, 5 Sept 2026 | Discosabotage & 2lovers present Onur Özer  - daytime | Denise Luzzi, Luval, Onur Özer |
 
 ## Address
 

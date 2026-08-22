@@ -1,14 +1,14 @@
 # Aloetic
 
-Aloetic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - secret venue in Mishuku, Tokyo, Tokyo on Sat, 29 Aug 2026.
+Aloetic is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat, 29 Aug 2026.
 
-Aloetic is a techno and house artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside DALJAE, YOXIKI and ceza. Next up: TBA - secret venue in Mishuku, Tokyo, Tokyo on Sat 29 Aug.
+Aloetic is a techno and deep house artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside DALJAE, YOXIKI and ceza. Next up: TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA - secret venue in Mishuku, Tokyo | Tokyo |
+| Sat, 29 Aug 2026 | TBA - PinkNoiz - somewhere in Hatagaya | Tokyo |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Amnexia 10 YEARS: TESTPRESS, PRADA2000, ALT8, Lobsta B" on Fri, 21 Aug 2026.
+Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ANUBIS: Sevenum Six, Ophidian, BOTL, Heavora" on Sat, 22 Aug 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Airod, ALT8, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Airod, ANDATA, Angie (FR) and ANXHELA and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Amnexia 10 YEARS: TESTPRESS, PRADA2000, ALT8, Lobsta B | ALT8, Carla Schmitt, Lobsta B, Miza, PRADA2000, t e s t p r e s s |
 | Sat, 22 Aug 2026 | ANUBIS: Sevenum Six, Ophidian, BOTL, Heavora | BOTL, Heavora, Kuki, Ophidian, Sevenum Six |
 | Thu, 27 Aug 2026 | Orka: MIA OVA, Michel Ange, PAULINE D7, SKOLLARIS & vizionn | Michel Ange, vizionn |
 | Fri, 28 Aug 2026 | EUPHORIA SESSIONS: Elli Acula, KiNK, Lacchesi, Elise Massoni | Elise Massoni, Elli Acula, KiNK, Lacchesi, STL-P |
@@ -18,6 +17,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 15 upcoming nights,
 | Sat, 5 Sept 2026 | Organïk: ANXHELA, BLNK, Lolalita & MORE | ANXHELA, BLNK, Lolalita |
 | Fri, 11 Sept 2026 | Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax | Airod, Angie (FR), Cattoni, Terminal Trax, YENKOV |
 | Sat, 12 Sept 2026 | Cookie records: Sophie Lloyd, Kabylie Minogue, UN*DEUX | Audem, Kabylie Minogue, Sophie Lloyd, UN*DEUX |
+| Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # RHAPSODIE
 
-RHAPSODIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+RHAPSODIE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-RHAPSODIE is a techno and trance artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin and Geneva. Often billed alongside DJ Jordan, Vero_ and maniaclina. Next up: Void Club, Berlin on Fri 25 Sept.
+RHAPSODIE is a techno and trance artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and Geneva. Often billed alongside DJ Jordan, Vero_ and maniaclina. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Void Club | Berlin |
+| Wed, 30 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played
 

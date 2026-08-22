@@ -1,8 +1,8 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Villa, Oslo on Sat, 5 Sept 2026.
+DJ Hell is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Villa, Oslo on Sat, 5 Sept 2026.
 
-DJ Hell is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Binh, Helena Hauff and Paty Vapor. Next up: The Villa, Oslo on Sat 5 Sept.
+DJ Hell is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Helena Hauff and Paty Vapor. Next up: The Villa, Oslo on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Hell is a techno and house artist tracked on soundcheck, with 125 sets logged
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Rex Club | Paris |
 | Sat, 26 Sept 2026 | Eventhuset | Stockholm |
+| Sat, 10 Oct 2026 | The Art School | Glasgow |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |

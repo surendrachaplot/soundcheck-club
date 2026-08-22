@@ -1,8 +1,8 @@
 # TheMuffinMan
 
-TheMuffinMan is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
+TheMuffinMan is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
 
-TheMuffinMan is a techno and trance artist based in Italy, tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Athens and Basel and 22 more. Often billed alongside Funk Tribu, JOKESONYOU and TEDESCO. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 22 Aug.
+TheMuffinMan is a techno and trance artist based in Italy, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Basel and 22 more. Often billed alongside Funk Tribu, JOKESONYOU and TEDESCO. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ TheMuffinMan is a techno and trance artist based in Italy, tracked on soundcheck
 | Sat, 12 Sept 2026 | OXI | Berlin |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Thu, 5 Nov 2026 | The Berkeley Suite | Glasgow |
+| Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
+Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
 
-Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
+Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 72 se
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Factory Town | Miami |
 | Sat, 7 Nov 2026 | The Warehouse | Leeds |
+| Fri, 20 Nov 2026 | Electric Bristol | Bristol |
 
 ## Recently played
 

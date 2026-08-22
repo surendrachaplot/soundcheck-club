@@ -1,14 +1,13 @@
 # Ayesha
 
-Ayesha is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tresor / Globus, Berlin on Fri, 21 Aug 2026.
+Ayesha is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Strange Brew, Bristol on Sat, 22 Aug 2026.
 
-Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Tresor / Globus, Berlin on Fri 21 Aug.
+Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Strange Brew, Bristol on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 22 Aug 2026 | Strange Brew | Bristol |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 

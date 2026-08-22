@@ -1,14 +1,15 @@
 # Josh Bayat
 
-Josh Bayat is a EBM and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Carpet Shop, London on Sat, 3 Oct 2026.
+Josh Bayat is a EBM and New Wave artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Carpet Shop, London on Sat, 3 Oct 2026.
 
-Josh Bayat is an ebm and new wave artist tracked on soundcheck, with 22 sets logged across Leeds, London and Manchester. Often billed alongside Simon Scott, Harry James and Feldspar. Next up: The Carpet Shop, London on Sat 3 Oct.
+Josh Bayat is an ebm and new wave artist tracked on soundcheck, with 23 sets logged across Leeds, London and Manchester. Often billed alongside Simon Scott, Harry James and Feldspar. Next up: The Carpet Shop, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Carpet Shop | London |
+| Fri, 20 Nov 2026 | The Loft | Manchester |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!)" on Fri, 21 Aug 2026.
+Kater is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "DER GEBURTSTAG: Gurken im Olymp (+ Sunday Open Air!)" on Fri, 21 Aug 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, A.D.H.S. and Adri Alibi and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Javier Anxiety, Nadine Hennig, A.D.H.S. and Adri Alibi and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 

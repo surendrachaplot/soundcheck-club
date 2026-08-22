@@ -12,8 +12,8 @@ Hive Club is a music venue in Zurich listed on soundcheck. 7 upcoming nights, wi
 | Fri, 28 Aug 2026 | Mad Katz mit DVS1 & Ogazón | DVS1, Megix, Ogazón, Wandler |
 | Sat, 29 Aug 2026 | Rakete |  |
 | Fri, 4 Sept 2026 | Karotte All Night Long |  |
-| Fri, 18 Sept 2026 | RUND mit Urem (Tipping Point) | Natch, Ruben Coslada, Urem |
-| Fri, 25 Sept 2026 | Mad Katz x Tresor | Ben Sims, Fireground, Hitam, Mareena, Marisa Joyce |
+| Fri, 18 Sept 2026 | RUND mit Urem (Tipping Point) | Karla Mit K, Natch, R3NATA, Ruben Coslada, Urem |
+| Fri, 25 Sept 2026 | Mad Katz x Tresor | Ben Sims, Fireground, Flex, Hitam, Kuona, Mareena, Marisa Joyce |
 | Fri, 30 Oct 2026 | MAD KATZ mit Oscar Mulero, Verraco & SHDW | 1luu, MARCISM, Oscar Mulero, SHDW, Scar, Verraco |
 
 ## Address

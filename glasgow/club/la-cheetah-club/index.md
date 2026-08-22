@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "[SOLD OUT] Through The Roof // Scott Steer" on Sat, 22 Aug 2026.
+La Cheetah Club is a music venue in Glasgow with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "[SOLD OUT] Through The Roof // Scott Steer" on Sat, 22 Aug 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Antal, Arlo Duke, Danse Atmos and David Barbarossa and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming nights, with line-ups including Antal, Arlo Duke, Babyccino and Danse Atmos and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "J1 x Sekta Selekta: Badalian, Kondrat, Meke, Stroppy Pie" on Sat, 22 Aug 2026.
+Jasna 1 is a music venue in Warsaw with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "J1 x Sekta Selekta: Badalian, Kondrat, Meke, Stroppy Pie" on Sat, 22 Aug 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including 999999999, Abrew, Adelina and Aetha and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 13 upcoming nights, with line-ups including 999999999, Abrew, Adelina and Aetha and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 

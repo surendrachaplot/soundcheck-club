@@ -1,14 +1,13 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
+t e s t p r e s s is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Kilomètre25, Paris on Fri 21 Aug.
+t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 12 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |

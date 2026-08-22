@@ -1,14 +1,13 @@
 # PRADA2000
 
-PRADA2000 is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kilomètre25, Paris on Fri, 21 Aug 2026.
+PRADA2000 is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-PRADA2000 is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: Kilomètre25, Paris on Fri 21 Aug.
+PRADA2000 is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Cleopard2000, Adrian Mills and Mika Heggemann. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kilomètre25 | Paris |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Sat, 5 Sept 2026 | Spook Club | Valencia |

@@ -1,8 +1,8 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
-MCR-T is a techno and house artist tracked on soundcheck, with 257 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+MCR-T is a techno and house artist tracked on soundcheck, with 258 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ MCR-T is a techno and house artist tracked on soundcheck, with 257 sets logged a
 | Sat, 3 Oct 2026 | Schrotty | Cologne |
 | Sat, 17 Oct 2026 | Turbina | Budapest |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
+| Fri, 20 Nov 2026 | Hangaren | Copenhagen |
 
 ## Recently played
 

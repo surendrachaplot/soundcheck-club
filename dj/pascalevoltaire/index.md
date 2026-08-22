@@ -1,14 +1,13 @@
 # Pascale Voltaire
 
-Pascale Voltaire is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Luzztro, Warsaw on Fri, 21 Aug 2026.
+Pascale Voltaire is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
 
-Pascale Voltaire is a techno and progressive house artist based in Germany, tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Luzztro, Warsaw on Fri 21 Aug.
+Pascale Voltaire is a techno and progressive house artist based in Germany, tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside Florian François, Yves Meyer and Vlad Yaki. Next up: Birgit, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Luzztro | Warsaw |
 | Sat, 29 Aug 2026 | Birgit | Berlin |
 | Fri, 25 Sept 2026 | Kater | Berlin |
 

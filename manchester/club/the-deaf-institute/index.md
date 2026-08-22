@@ -10,7 +10,7 @@ The Deaf Institute is a music venue in Manchester listed on soundcheck. 4 upcomi
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Love Riot: Dandy x OUT OUT x Mx World |  |
 | Sun, 30 Aug 2026 | Hello Darling - Manchester Pride Special | DJ Klitbait, DJ Scissher, Kim Lana, Lenny Ye$, Treble Gemini |
-| Wed, 30 Sept 2026 | CubCru and Friends presents: Deaf Institute Takeover (Special Guest: Janaway) | Janaway, Sweetly, Tom Oakley |
+| Wed, 30 Sept 2026 | CubCru and Friends present: Deaf Institute Takeover (Special Guest: Janaway) | Janaway, Sweetly, Tom Oakley |
 | Fri, 9 Oct 2026 | Golden Years Season 2 Episode 1 |  |
 
 ## Address

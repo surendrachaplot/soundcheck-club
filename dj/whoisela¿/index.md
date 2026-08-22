@@ -1,13 +1,14 @@
 # Who is ela¿
 
-Who is ela¿ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Sat, 14 Nov 2026.
+Who is ela¿ is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tagada, Vienna on Sat, 3 Oct 2026.
 
-Who is ela¿ is a techno and trance artist tracked on soundcheck, with 46 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX (2). Next up: Odonien, Cologne on Sat 14 Nov.
+Who is ela¿ is a techno and trance artist tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside KRAWALLBARBIE, Anna Ullrich and BRX (2). Next up: Tagada, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Tagada | Vienna |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 
 ## Recently played

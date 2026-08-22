@@ -1,8 +1,8 @@
 # KUSS
 
-KUSS is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dune Park, Buenos Aires on Sat, 22 Aug 2026.
+KUSS is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dune Park, Buenos Aires on Sat, 22 Aug 2026.
 
-KUSS is a techno and electro artist based in France, tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Berlin and Brussels and 23 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: Dune Park, Buenosaires on Sat 22 Aug.
+KUSS is a techno and electro artist based in France, tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Berlin and Brussels and 23 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: Dune Park, Buenosaires on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ KUSS is a techno and electro artist based in France, tracked on soundcheck, with
 | Sat, 22 Aug 2026 | Dune Park | Buenos Aires |
 | Sat, 12 Sept 2026 | TBA - Secret Warehouse | Paris |
 | Fri, 25 Sept 2026 | RADION | Amsterdam |
+| Fri, 16 Oct 2026 | EXIL | Zurich |
 
 ## Recently played
 

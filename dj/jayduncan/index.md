@@ -1,14 +1,13 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Signal, New York City on Fri, 21 Aug 2026.
+Jay Duncan is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
-Jay Duncan is a techno and bass artist tracked on soundcheck, with 67 sets logged across Berlin, Bristol, Brussels and Copenhagen and 10 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: Signal, Newyorkcity on Fri 21 Aug.
+Jay Duncan is a techno and bass artist tracked on soundcheck, with 67 sets logged across Berlin, Bristol, Brussels and Copenhagen and 10 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: Gaffe, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Signal | New York City |
 | Sun, 30 Aug 2026 | Gaffe | London |
 | Fri, 18 Sept 2026 | Wharf Chambers | Leeds |
 | Sat, 3 Oct 2026 | The Carpet Shop | London |

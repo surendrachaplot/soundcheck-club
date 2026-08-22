@@ -1,14 +1,14 @@
 # Rhadewa
 
-Rhadewa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - secret venue in Mishuku, Tokyo, Tokyo on Sat, 29 Aug 2026.
+Rhadewa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat, 29 Aug 2026.
 
-Rhadewa is a techno and house artist based in Indonesia, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Drinkss, SuperUser and Takumi's Afterparty. Next up: TBA - secret venue in Mishuku, Tokyo, Tokyo on Sat 29 Aug.
+Rhadewa is a techno and house artist based in Indonesia, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Drinkss, SuperUser and Takumi's Afterparty. Next up: TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA - secret venue in Mishuku, Tokyo | Tokyo |
+| Sat, 29 Aug 2026 | TBA - PinkNoiz - somewhere in Hatagaya | Tokyo |
 | Sat, 5 Sept 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played

@@ -9,7 +9,7 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 6 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Entity + Herbivox presents OVERGROW | KateGia (2), SAAB (2), Sheps, Taylor Taylor, mckelv |
-| Sat, 5 Sept 2026 | Discosabotage & 2lovers afterparty | Alex Pastor, Matteo Racheli, Truman |
+| Sat, 5 Sept 2026 | Discosabotage & 2lovers afterparty - night time | Alex Pastor, Matteo Racheli, Truman |
 | Sat, 19 Sept 2026 | For The Rhythm presents: Fort Riddim Vol. 1 | Gibbo, Manscream |
 | Thu, 22 Oct 2026 | EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_ | GEE LEE, Pijus, Shaolin Cowboy, Target Demographic, upper class, ysheso__ |
 | Sun, 25 Oct 2026 | Official ADE After Party | Alex Pi, DJ Pierre, Joe Smooth |
