@@ -1,14 +1,13 @@
 # Flight Facilities
 
-Flight Facilities is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Magazine Open–Air, London on Sat, 22 Aug 2026.
+Flight Facilities is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
 
-Flight Facilities is a house and disco artist tracked on soundcheck, with 61 sets logged across Austin, Bali, Barcelona and Chicago and 19 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Magazine Open–Air, London on Sat 22 Aug.
+Flight Facilities is a house and disco artist tracked on soundcheck, with 61 sets logged across Austin, Bali, Barcelona and Chicago and 19 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: fabric, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Magazine Open–Air | London |
 | Sat, 22 Aug 2026 | fabric | London |
 | Sat, 29 Aug 2026 | Centre Point | Dublin |
 | Mon, 31 Aug 2026 | Pacha Ibiza | Ibiza |

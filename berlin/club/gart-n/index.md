@@ -1,14 +1,13 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Kalipo presents: Garden of Synths (open-air daytime rave w. Italo Brutalo, Kalipo...)" on Sat, 22 Aug 2026.
+gART.n is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sonntags by Lotte Ahoi" on Sun, 23 Aug 2026.
 
-gART.n is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 7heads, Ada, AGILY and Bonfante and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
+gART.n is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 7heads, Ada, AGILY and Bonfante and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Kalipo presents: Garden of Synths (open-air daytime rave w. Italo Brutalo, Kalipo...) | Italo Brutalo, Kalipo |
 | Sun, 23 Aug 2026 | Sonntags by Lotte Ahoi | C.love, Lotte Ahoi, Luis Rosenberg, Neobeo, Yusuf Lemone |
 | Sat, 29 Aug 2026 | Kotori Open Air | AGILY, Hemi, Sam Shure |
 | Sun, 30 Aug 2026 | OewerSause im gART.n | Martha van Straaten, Saraabb |

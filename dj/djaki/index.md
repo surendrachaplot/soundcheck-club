@@ -1,14 +1,13 @@
 # DJ AKi
 
-DJ AKi is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 22 Aug 2026.
+DJ AKi is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
 
-DJ AKi is a drum & bass and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Osaka, Tokyo and Utrecht. Often billed alongside KEiTA, YELLOCK and Kulage. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 22 Aug.
+DJ AKi is a drum & bass and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Osaka, Tokyo and Utrecht. Often billed alongside KEiTA, YELLOCK and Kulage. Next up: WOMB, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sat, 5 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played

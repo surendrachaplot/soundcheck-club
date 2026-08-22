@@ -1,14 +1,13 @@
 # Anni Herzer
 
-Anni Herzer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Porto Pollo, Vienna on Sat, 22 Aug 2026.
+Anni Herzer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
-Anni Herzer is a techno and house artist based in Austria, tracked on soundcheck, with 82 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside Paul Mile, LizN and MIA MIA. Next up: Porto Pollo, Vienna on Sat 22 Aug.
+Anni Herzer is a techno and house artist based in Austria, tracked on soundcheck, with 82 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside Paul Mile, LizN and MIA MIA. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Porto Pollo | Vienna |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played

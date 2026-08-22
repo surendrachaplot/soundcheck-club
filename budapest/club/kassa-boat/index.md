@@ -1,14 +1,13 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Kassa DECK with Syndanz" on Sat, 22 Aug 2026.
+Kassa Boat is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "B4 presents: B2B SPECIAL WITH - KUSO, RHONE, Nosphere AND MORE…" on Sat, 22 Aug 2026.
 
-Kassa Boat is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including baeker, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
+Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including baeker, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Kassa DECK with Syndanz | Jáky Chan |
 | Sat, 22 Aug 2026 | B4 presents: B2B SPECIAL WITH - KUSO, RHONE, Nosphere AND MORE… | Nosphere |
 | Fri, 28 Aug 2026 | The Hive Budapest 10th Anniversary with DLR - Monty - Subtension - Abstract | DLR |
 | Fri, 11 Sept 2026 | FLUX W/ Efan (UK) | Efan, Helena Lua, baeker |

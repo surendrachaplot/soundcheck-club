@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "terrordome Vol.54" on Sat, 22 Aug 2026.
+R Lounge is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "夢幻 vol.9" on Sat, 22 Aug 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including BEPPU, BERLINER KINDL, CITY1 and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including BEPPU, BERLINER KINDL, CITY1 and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | terrordome Vol.54 | DJ Shimamura |
 | Sat, 22 Aug 2026 | 夢幻 vol.9 | Dustvoxx |
 | Sun, 23 Aug 2026 | CRAZY BANANA -10th Anniversary- | MMM, MagRena |
 | Thu, 27 Aug 2026 | Resound | BERLINER KINDL, SIGNAL (JP), cosmolady |
@@ -18,6 +17,7 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, wit
 | Sat, 5 Sept 2026 | TOKYO-909 ver.4.0 | BEPPU, Remo-con, Sugiurumn |
 | Sat, 5 Sept 2026 | Sonic Drive | DJ Wada, DJ Yogurt, Yohei Hibiki |
 | Fri, 11 Sept 2026 | Attempt | Kotatsu, Krankent, SIGNAL (JP) |
+| Fri, 18 Sept 2026 | FEEDER feat. Ken Ishii | Kaori Watt, Ken Ishii, Nobuharu Morimoto |
 
 ## Address
 

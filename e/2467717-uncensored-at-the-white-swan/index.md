@@ -1,6 +1,6 @@
 # Uncensored at The White Swan
 
-Uncensored at The White Swan on Fri 28 Aug, London. Afrobeat. Preview the line-up and save it on soundcheck.
+Uncensored at The White Swan on Fri 28 Aug, London. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave & Open Air Garden at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave & Open Air Garden at Der Weiße Hase on Tue 27 Oct, Berlin. 1 act on the bill: MARRE. Trance and Techno. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave & Open Air Garden at Der Weiße Hase on Tue 27 Oct, Berlin. 2 acts on the bill: JUICY (DE) and MARRE. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Smash & HART ◢◤ Tuesday Rave & Open Air Garden at Der Weiße Hase on Tue 27 
 
 ## Line-up
 
+- JUICY (DE)
 - MARRE
 
 *Source: [soundcheck](https://soundcheck.club/e/2515574-smash-hart-tuesday-rave-open-air-garden-at-der-wei-e-hase/)*

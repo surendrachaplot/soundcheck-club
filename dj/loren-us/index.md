@@ -1,14 +1,13 @@
 # Loren
 
-Loren is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Detroit on Sat, 22 Aug 2026.
+Loren is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
-Loren is a techno and house artist tracked on soundcheck, with 211 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: TBA, Detroit on Sat 22 Aug.
+Loren is a techno and house artist tracked on soundcheck, with 211 sets logged across Berlin, Chicago, Detroit and Ibiza and 9 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA | Detroit |
 | Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played

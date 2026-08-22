@@ -1,6 +1,6 @@
 # dj peanut
 
-dj peanut is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sub Club, Glasgow on Sat, 22 Aug 2026.
+dj peanut is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sub Club, Glasgow on Sat, 22 Aug 2026.
 
 dj peanut is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol, Glasgow, London and Newcastle. Often billed alongside Peanut, Pigeon Steve and Sloan (2). Next up: Sub Club, Glasgow on Sat 22 Aug.
 
@@ -9,7 +9,6 @@ dj peanut is an experimental and techno artist based in United Kingdom, tracked 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sub Club | Glasgow |
-| Sat, 22 Aug 2026 | TBA | Glasgow |
 
 ## Recently played
 

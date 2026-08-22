@@ -1,8 +1,8 @@
-# TBA - SECRET LOCATION
+# TBA - Secret Location
 
-TBA - SECRET LOCATION is a music venue in London with 47 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Beach Rave - 2 Stages (Athens)" on Sat, 22 Aug 2026.
+TBA - Secret Location is a music venue in London with 47 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Beach Rave - 2 Stages (Athens)" on Sat, 22 Aug 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 47 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 47 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

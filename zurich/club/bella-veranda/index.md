@@ -1,14 +1,13 @@
 # Bella Veranda
 
-Bella Veranda is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Bella Veranda - ECHO" on Sat, 22 Aug 2026.
+Bella Veranda is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Bella Veranda - ME•PATE" on Sat, 26 Sept 2026.
 
-Bella Veranda is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including ALBERT2BOLLO and Andri. Browse upcoming dates, start times and who's playing.
+Bella Veranda is a music venue in Zurich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Bella Veranda - ECHO | ALBERT2BOLLO, Andri |
 | Sat, 26 Sept 2026 | Bella Veranda - ME•PATE |  |
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/bella-veranda/)*

@@ -1,14 +1,13 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "MAZE X - FATULER ALL DAY LONG" on Sat, 22 Aug 2026.
+Wigwam is a music venue in Dublin with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Wigwam presents: Hammer & Cáit" on Sat, 22 Aug 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BENZA and BOVSKI and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BENZA and BOVSKI and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | MAZE X - FATULER ALL DAY LONG |  |
 | Sat, 22 Aug 2026 | Wigwam presents: Hammer & Cáit | Cáit, Hammer |
 | Sat, 22 Aug 2026 | Injector presents: DJ BAX with Breaks & Bass Takeover |  |
 | Fri, 28 Aug 2026 | Wigwam x Influence invites: KIRSTY (All Night Long) | KIRSTY |
@@ -18,6 +17,7 @@ Wigwam is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with
 | Sat, 5 Sept 2026 | MAZE X - Toobris B2B BENZA | BENZA, Toobris |
 | Fri, 11 Sept 2026 | Wigwam presents: Demuja | Demuja |
 | Fri, 11 Sept 2026 | BOVSKI STORY* | ALPER SKR, BOVSKI, WINSLAO |
+| Fri, 25 Sept 2026 | RED LINE: Eskha - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, Eskha, SAMUX, Suko, Trypdø, WINSLAO |
 
 ## Address
 

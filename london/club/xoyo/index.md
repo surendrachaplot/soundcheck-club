@@ -9,7 +9,7 @@ XOYO is a music venue in London listed on soundcheck. 25 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | AAA Fusion presents Daxson extended set plus support | Aidyscape, Aldor, Andrew Sharpe, C-systems, DJMrB, Daxson, FROGR, IZZY(NL), Krevix, Mykei, Sago, Thiago Genez, YAARS |
-| Sat, 22 Aug 2026 | Zulu Nation - Summer Party  | DJ Majesty, European 305, N Fostell |
+| Sat, 22 Aug 2026 | Zulu Nation - SOLDOUT NO TICKETS ON THE DOOR | DJ Majesty, European 305, N Fostell |
 | Mon, 24 Aug 2026 | MOTION Every Monday |  |
 | Wed, 26 Aug 2026 | PARADOX | Cris Cioata, FREDGETLIFTED, HAIG |
 | Thu, 27 Aug 2026 | Insomnia London: Closing Party | SIDESHOW (2), gau7t, raina (2) |

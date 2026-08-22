@@ -1,14 +1,13 @@
 # MXV (UK)
 
-MXV (UK) is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+MXV (UK) is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
-MXV (UK) is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London, Nottingham and Prague. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: Camden Courtyard, London on Sat 22 Aug.
+MXV (UK) is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London, Nottingham and Prague. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: The Timber Loft, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Camden Courtyard | London |
 | Fri, 25 Sept 2026 | The Timber Loft | London |
 | Sat, 10 Oct 2026 | E1 | London |
 

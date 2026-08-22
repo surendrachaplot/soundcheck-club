@@ -1,14 +1,13 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 22 Aug 2026.
+Marie Davidson is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Signal, New York City on Sun, 23 Aug 2026.
 
-Marie Davidson is a techno and electro artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: The Pitt Market, Edinburgh on Sat 22 Aug.
+Marie Davidson is a techno and electro artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Signal, Newyorkcity on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | The Pitt Market | Edinburgh |
 | Sun, 23 Aug 2026 | Signal | New York City |
 | Fri, 28 Aug 2026 | La Récré | Montreal |
 | Tue, 1 Sept 2026 | Whelans | Dublin |

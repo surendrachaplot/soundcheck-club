@@ -16,7 +16,7 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 18 upcoming nig
 | Sat, 29 Aug 2026 | Liebe & Bass / Demo Aftershow | Bonq, Kaminka Merel, Maschine, NIKO INCRAVALLE |
 | Tue, 1 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Daenell |
 | Fri, 4 Sept 2026 | Antrieb #45 W/ Nachtigaller  VBR Residents | DarK LiZZ, Felix Reichelt, Kaminka Merel, Nachtigaller, TechNovaBader |
-| Tue, 8 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Cat Vermillion, Daniel Boon |
+| Tue, 8 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Cat Vermillion, Daniel Boon, Johnny Allwess |
 | Sat, 12 Sept 2026 | Die Lust am Feiern |  |
 
 ## Address

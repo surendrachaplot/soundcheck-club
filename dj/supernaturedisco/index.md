@@ -1,14 +1,13 @@
 # Supernature Disco
 
-Supernature Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 22 Aug 2026.
+Supernature Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Joshua Brooks, Manchester on Sun, 30 Aug 2026.
 
-Supernature Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London, Manchester and Newcastle. Often billed alongside James Greenwood, Chris Massey and Jamie Bull. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 22 Aug.
+Supernature Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London, Manchester and Newcastle. Often billed alongside James Greenwood, Chris Massey and Jamie Bull. Next up: Joshua Brooks, Manchester on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 | Sun, 30 Aug 2026 | Joshua Brooks | Manchester |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Andri
 
-Andri is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club Bellevue, Zurich on Sat, 22 Aug 2026.
+Andri is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Bellevue, Zurich on Sat, 22 Aug 2026.
 
 Andri is a house and afro house artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Zurich. Often billed alongside ALBERT2BOLLO. Next up: Club Bellevue, Zurich on Sat 22 Aug.
 
@@ -9,7 +9,6 @@ Andri is a house and afro house artist based in Switzerland, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Club Bellevue | Zurich |
-| Sat, 22 Aug 2026 | Bella Veranda | Zurich |
 
 ## Recently played
 
