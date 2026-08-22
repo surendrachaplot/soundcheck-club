@@ -1,14 +1,13 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
+Todd Edwards is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eden, Ibiza on Wed, 26 Aug 2026.
 
-Todd Edwards is a house and garage artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Elsewhere, Newyorkcity on Sat 22 Aug.
+Todd Edwards is a house and garage artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Eden, Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Elsewhere | New York City |
 | Wed, 26 Aug 2026 | Eden | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | The Blues Kitchen Manchester | Manchester |

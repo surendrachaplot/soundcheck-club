@@ -8,7 +8,7 @@ Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | ELECTRO ROCKS |  |
+| Sat, 22 Aug 2026 | ELECTRO ROCKS | Ricardo Castro |
 | Sat, 22 Aug 2026 | QTS: AFTER DARK | Farius, Pagano, Popper Cherry |
 | Fri, 28 Aug 2026 | KARMA KLUB | Amphia, Claudia Kane, Cosmic Caz, Nanzhen Yang, Ricardo Castro |
 | Fri, 4 Sept 2026 | Riot x One Night SWer Pride Festival |  |

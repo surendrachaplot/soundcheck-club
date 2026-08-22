@@ -12,7 +12,7 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wi
 | Fri, 28 Aug 2026 | Cracked(3): From Egg to (Wo)man | Diva DJ |
 | Thu, 3 Sept 2026 | Hard Techno Thursday - Paula Hilton invites | Micro Bites, Paula Hilton |
 | Fri, 11 Sept 2026 | Nomagie Community Event | HNX (030), LUISELLE, LUV.DELUXE, Nycky Estrella |
-| Sat, 12 Sept 2026 | Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $SUKA, Maria Roi, Dj handbag | Dj handbag, ENNIO, KINTEL, LADY $UKA, Nastya Muravyova |
+| Sat, 12 Sept 2026 | Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $UKA, Maria Roi, Dj handbag | Dj handbag, ENNIO, KINTEL, LADY $UKA, Nastya Muravyova |
 | Fri, 18 Sept 2026 | 7Fridays |  |
 
 ## Address

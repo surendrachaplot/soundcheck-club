@@ -954,6 +954,34 @@
     body.radio-on .fab-stack { display:flex; }
     @media (max-width:620px){ body.radio-on .fab-stack { bottom:calc(72px + env(safe-area-inset-bottom)); } }
     /* per-event "tune in" radio button (above each lineup) */
+    /* ── INVITE MODULE (Paper board A) + RECEIVER BAR (board B) ──────────
+       Values copied off the boards, not approximated: surface band with a
+       hairline top and bottom, 16px padding, .eyebrow (Archivo 700/0.24em,
+       gradient), 15px/1.55 muted body, a 42px link field beside an .fp-ab
+       Copy pill, and .ob-cta as the one gradient CTA. It is visible from the
+       first paint — you do not have to say you are going to hand someone the
+       link, which is the whole point of the loop. */
+    .ev-invite{ margin:18px 0 0; padding:16px; background:var(--surface); border-top:1px solid var(--border); border-bottom:1px solid var(--border); display:flex; flex-direction:column; }
+    .ev-invite .eyebrow{ margin-bottom:0; }
+    .ev-invite .evi-sub{ font-size:var(--fs-base); line-height:1.55; color:var(--muted); margin:6px 0 0; max-width:44ch; }
+    .ev-invite .evi-row{ display:flex; align-items:center; gap:8px; margin-top:14px; }
+    .ev-invite .evi-link{ flex:1; min-width:0; height:42px; display:flex; align-items:center; padding:0 14px; border-radius:var(--radius); background:var(--bg); border:1px solid var(--border);
+      font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono); color:var(--faint); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .ev-invite .fp-ab{ flex:none; }
+    .ev-invite .ob-cta{ margin-top:14px; }
+    /* Receiver: "u/x is going" strip under the meta, and the sticky answer bar.
+       The bar is fixed so the answer is reachable without scrolling the bill —
+       board B puts it over the page, not in the flow. */
+    .inv-strip{ display:flex; align-items:center; gap:10px; margin-top:14px; }
+    .inv-strip .inv-av{ width:28px; height:28px; border-radius:50%; flex:none; display:grid; place-items:center; background:var(--accent-grad); border:2px solid var(--bg);
+      font:800 var(--fs-xs)/1 var(--head); color:var(--accent-ink); }
+    .inv-strip span{ font:600 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--muted); }
+    .inv-bar{ position:fixed; left:0; right:0; bottom:0; z-index:900; display:flex; flex-direction:column; padding:14px 16px calc(24px + env(safe-area-inset-bottom));
+      background:linear-gradient(rgba(22,16,42,0), var(--bg) 26%); border-top:1px solid var(--border); }
+    .inv-bar .inv-row{ display:flex; align-items:center; gap:10px; }
+    .inv-bar .ob-cta{ margin-top:0; }
+    .inv-bar .inv-note{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--faint); margin-top:10px; }
+    body.inv-open .bnav{ display:none; }   /* one answer bar at a time — never stacked on the tab bar */
     .ev-radio { display:inline-flex; align-self:flex-start; width:fit-content; max-width:100%; align-items:center; gap:8px; margin:10px 0 2px; background:rgba(255,154,61,0.08); border:1px solid rgba(255,154,61,0.35); color:var(--accent); border-radius:var(--radius-pill); padding:7px 13px; font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.06em; text-transform:uppercase; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .ev-radio svg { width:var(--icon-sm); height:var(--icon-sm); stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
     .ev-radio:hover { background:rgba(255,154,61,0.16); }
@@ -3993,7 +4021,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787421259145">
+<meta name="sc-build" content="1787422682187">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -6430,52 +6458,170 @@
       var t=(title||'Event')+(venue?(' · '+venue):'');
       doShare({ title:t, text:t+' — preview every artist on soundcheck', url:url });
     }
-    // Invite links: /e/<id>-slug/?in=<handle>. The sheet asks one question and
-    // routes "I'm in" through the SAME gate every save uses — signed-in users
-    // are in with one tap, new people get the email→code flow, and people who
-    // already have an account just type the code from their inbox (same path).
-    function maybeInviteSheet(id, ev, isPast, evMeta, inviter){
-      inviter=String(inviter||'').toLowerCase();
-      if(!inviter) return;
-      if(isPast) return;                                    // the page already offers "Log this gig"
-      if(currentUser && currentUser.handle && String(currentUser.handle).toLowerCase()===inviter) return;  // own link
-      if(evtStatus(id)==='going') return;                   // already in
-      var when=[(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')), ev.venue].filter(Boolean).join(' · ');
-      var ov=document.createElement('div'); ov.className='email-overlay';
-      ov.innerHTML='<div class="email-modal" role="dialog" aria-modal="true" style="text-align:left">'+
-        '<button class="email-close" type="button" aria-label="Close">&times;</button>'+
-        '<h3>u/'+esc(inviter)+' invited <span class="ac">you</span>.</h3>'+
-        '<p></p>'+
-        '<div style="display:flex;align-items:center;gap:10px;margin-top:16px">'+
-          '<button type="button" class="ob-cta" id="inv-yes" style="margin-top:0">I&rsquo;m in</button>'+
-          '<button type="button" class="fp-ab" id="inv-no">Can&rsquo;t make it</button>'+
-        '</div>';
-      ov.querySelector('p').textContent=(ev.title||'This night')+(when?(' — '+when):'')+'. Say you\u2019re in and it\u2019s saved to your profile.';
-      document.body.appendChild(ov);
-      function done(){ ov.remove(); document.removeEventListener('keydown',onEsc); }
-      function onEsc(e){ if(e.key==='Escape') done(); }
-      document.addEventListener('keydown',onEsc);
-      ov.querySelector('.email-close').addEventListener('click',done);
-      ov.querySelector('#inv-no').addEventListener('click',function(){ done(); showToast('No stress — the sets are on this page.'); });
-      ov.addEventListener('click',function(e){ if(e.target===ov) done(); });
-      ov.querySelector('#inv-yes').addEventListener('click',function(){
-        done();
-        var apply=function(){ setEvent(id,'going',evMeta); showToast('You\u2019re going ✓'); };
-        if(hasEmail()){ apply(); return; }
-        ensureEmailGate({ heading:'You&rsquo;re in. Save it with a <span class="ac">free account</span>.',
-                          body:'Pop in your email &mdash; we&rsquo;ll send a link and a 6-character code. Already on soundcheck? Same box: type the code and you&rsquo;re signed in.' })
-          .then(function(ok){ if(ok) apply(); });
+    // ── INVITE FLOW (Paper page "Invite flow"): board B → D → E → F ───────
+    // Boards A and B are built into the event page itself, not a dialog: the
+    // receiver reads the real bill, plays the sets, and answers from a bar
+    // fixed over it. Board C (pick 3 acts) is deliberately not built.
+    function inviteUrl(id, title, venue){
+      var u=location.origin+SC_BASE+eventPath(eventIdOf(id), title, venue)+'/';
+      var h=(currentUser&&currentUser.handle)||'';
+      return h ? u+'?in='+encodeURIComponent(h) : u;
+    }
+    function invClose(){ var b=document.getElementById('inv-bar'); if(b) b.remove(); document.body.classList.remove('inv-open'); }
+    // BOARD B — the answer bar. Gradient "I'm in" + .fp-ab "Can't make it",
+    // one row, with the promise underneath that answering costs no install.
+    function inviteBar(id, ev, evMeta, inviter){
+      invClose();
+      var bar=document.createElement('div'); bar.className='inv-bar'; bar.id='inv-bar';
+      bar.innerHTML='<div class="inv-row">'+
+          '<button class="ob-cta" id="inv-yes" type="button">I&rsquo;m in</button>'+
+          '<button class="fp-ab" id="inv-no" type="button"><span>Can&rsquo;t make it</span></button>'+
+        '</div>'+
+        '<div class="inv-note">No app needed &mdash; you&rsquo;ll answer in the browser.</div>';
+      document.body.appendChild(bar); document.body.classList.add('inv-open');
+      bar.querySelector('#inv-no').addEventListener('click',function(){
+        invClose();
+        showToast('No stress \u2014 the sets are on this page.');
+      });
+      bar.querySelector('#inv-yes').addEventListener('click',function(){
+        invClose();
+        setEvent(id,'going',evMeta);           // the yes lands first, always
+        if(currentUser){ invStepDone(id, ev, inviter); return; }   // already signed in → straight to F
+        invStepClaim(id, ev, inviter);                             // D
       });
     }
+    // BOARD D — claim it. Handle + email, then a code. The handle is held until
+    // sign-in, because /api/handle needs a session; the code creates one.
+    var _inv={ handle:'', email:'' };
+    function invStepClaim(id, ev, inviter){
+      obChrome('');
+      var day=(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')||'');
+      var el=obBody('<div class="eyebrow">You&rsquo;re in'+(day?' &middot; '+esc(day):'')+'</div>'+
+        '<h1 class="ob-h1">Save your event</h1>'+
+        '<p class="ob-sub">Soundcheck helps you find gigs and artists based on what you enjoy.</p>'+
+        '<div class="inv-poster" style="display:flex;gap:8px;margin-top:18px">'+
+          '<div style="width:56px;height:74px;border-radius:var(--r-1);flex:none;background-size:cover;background-position:center;'+
+            (ev.poster?'background-image:url('+imgUrl(ev.poster,240)+')':'background:linear-gradient(150deg,#3d1352,#a02a63)')+'"></div>'+
+          '<div style="min-width:0;display:flex;flex-direction:column;justify-content:center">'+
+            '<div style="font:800 var(--fs-md)/1.25 var(--head);color:var(--fg)">'+esc(ev.title||'This night')+'</div>'+
+            '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">'+esc([day,ev.venue].filter(Boolean).join(' \u00b7 '))+'</div>'+
+          '</div>'+
+        '</div>'+
+        '<div class="handle-field" style="margin-top:24px"><span class="hpre">@</span><input id="inv-h" type="text" autocomplete="username" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="your handle" maxlength="24" value="'+attrEsc(_inv.handle)+'"></div>'+
+        '<input type="email" id="inv-e" placeholder="you@\u2026" autocomplete="email" inputmode="email" value="'+attrEsc(_inv.email)+'">'+
+        '<button class="ob-cta" id="inv-go" type="button">Email me a code</button>'+
+        '<div class="ob-err" id="inv-err"></div>'+
+        '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:14px;max-width:40ch">No password. One code, and your night is saved. Already on soundcheck? Use the same box &mdash; the code signs you in.</p>');
+      var hi=el.querySelector('#inv-h'), ei=el.querySelector('#inv-e'), err=el.querySelector('#inv-err');
+      function go(){
+        var em=(ei.value||'').trim().toLowerCase();
+        _inv.handle=(hi.value||'').trim().replace(/[^a-z0-9._-]/gi,'').toLowerCase();
+        if(!EMAIL_RE.test(em)||em.length>254){ err.textContent='That email doesn\u2019t look right.'; return; }
+        _inv.email=em; var b=el.querySelector('#inv-go'); b.disabled=true; err.textContent='';
+        fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:em }) })
+          .then(function(r){ if(!r.ok) throw 0; setPref('emailGated',true); setPref('pendingEmail',em); invStepCode(id, ev, inviter); })
+          .catch(function(){ b.disabled=false; err.textContent='Couldn\u2019t send just now \u2014 try again.'; });
+      }
+      el.querySelector('#inv-go').addEventListener('click',go);
+      ei.addEventListener('keydown',function(e){ if(e.key==='Enter') go(); });
+      setTimeout(function(){ hi.focus(); },80);
+    }
+    // BOARD E — the code, WITH a confirm button (the dead end that shipped once
+    // and must never ship again), and one set to play while they wait.
+    function invStepCode(id, ev, inviter){
+      obChrome('');
+      var a0=((ev.artists||[])[0]||{});
+      var el=obBody('<div class="eyebrow">Check your inbox</div>'+
+        '<h1 class="ob-h1">Type the code</h1>'+
+        '<p class="ob-sub">We sent 6 letters and numbers to <b style="color:var(--fg)">'+esc(_inv.email)+'</b> &mdash; the link in the email works too.</p>'+
+        '<input type="text" id="inv-code" class="ob-code" maxlength="8" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;" autocomplete="one-time-code" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase">'+
+        '<button class="ob-cta" id="inv-codego" type="button">Sign me in</button>'+
+        '<div class="ob-err" id="inv-cerr"></div>'+
+        '<button class="ob-alt" id="inv-resend" type="button">Nothing arrived? Send it again</button>'+
+        (a0.name?('<div style="margin-top:34px;padding:14px 16px;border-radius:var(--radius);background:var(--surface);border:1px solid var(--border)">'+
+          '<div style="font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--faint)">While you wait</div>'+
+          '<div style="display:flex;align-items:center;gap:10px;margin-top:10px">'+
+            '<div style="width:40px;height:40px;border-radius:var(--r-1);flex:none;background:linear-gradient(150deg,#3d1352,#a02a63)"></div>'+
+            '<div style="min-width:0;flex:1"><div style="font:800 var(--fs-base)/1.25 var(--head);color:var(--fg);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+esc(a0.name)+'</div>'+
+            '<div style="font:600 var(--fs-xs)/var(--lh-xs) var(--body);color:var(--faint);margin-top:2px">From this night\u2019s line-up</div></div>'+
+            '<button class="fp-ab go" id="inv-play" type="button"><span>Play</span></button>'+
+          '</div></div>'):''));
+      var ci=el.querySelector('#inv-code'), cerr=el.querySelector('#inv-cerr'), cgo=el.querySelector('#inv-codego');
+      async function verify(){
+        cerr.textContent=''; cgo.disabled=true;
+        var msg=await finishCodeSignIn(_inv.email, ci.value);
+        if(msg){ cerr.textContent=msg; cgo.disabled=false; return; }
+        if(_inv.handle){ try{ await authedFetch('/api/handle',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ handle:_inv.handle }) }); await loadMe(); }catch(_){} }
+        setEvent(id,'going',{title:ev.title,venue:ev.venue,day:ev._day});
+        invStepDone(id, ev, inviter);
+      }
+      cgo.addEventListener('click',verify);
+      ci.addEventListener('keydown',function(e){ if(e.key==='Enter') verify(); });
+      el.querySelector('#inv-resend').addEventListener('click',function(){
+        fetch(API_BASE+'/api/auth/start',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ email:_inv.email }) })
+          .then(function(){ cerr.textContent='Sent again \u2014 check your inbox.'; }).catch(function(){});
+      });
+      var ip=el.querySelector('#inv-play'); if(ip) ip.addEventListener('click',function(){ obClose(); playArtistSets(a0.slug, a0.name); });
+      setTimeout(function(){ ci.focus(); },80);
+    }
+    // BOARD F — done, and the loop points back out: their link now carries
+    // THEIR handle, so the next person sees "u/<them> is going".
+    function invStepDone(id, ev, inviter){
+      obChrome('');
+      var day=(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')||'');
+      var who=(currentUser&&currentUser.handle)?('@'+currentUser.handle+' \u00b7 profile started'):'You\u2019re going';
+      var el=obBody('<div class="eyebrow">'+esc(who)+'</div>'+
+        '<h1 class="ob-h1">You\u2019re on'+(day?' for '+esc(day.split(' ')[0]):'')+'</h1>'+
+        '<div style="margin-top:18px;border-radius:var(--radius);overflow:hidden;background:var(--surface);border:1px solid var(--border)">'+
+          '<div style="height:88px;position:relative;background-size:cover;background-position:center;'+
+            (ev.poster?'background-image:url('+imgUrl(ev.poster,600)+')':'background:linear-gradient(160deg,#3d1352,#a02a63 80%)')+'">'+
+            '<div style="position:absolute;left:0;right:0;bottom:0;height:60px;background:linear-gradient(rgba(33,24,64,0),var(--surface))"></div>'+
+            '<div style="position:absolute;left:16px;bottom:12px;font:800 var(--fs-md)/1.2 var(--head);color:var(--fg)">'+esc(ev.title||'This night')+'</div>'+
+          '</div>'+
+          '<div style="padding:12px 16px;display:flex;flex-direction:column;gap:10px">'+
+            '<div style="font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)">'+esc([day,ev.venue].filter(Boolean).join(' \u00b7 '))+'</div>'+
+            (inviter?('<div class="inv-strip" style="margin-top:0;padding-top:10px;border-top:1px solid var(--border)">'+
+              '<span class="inv-av" style="border-color:var(--surface)">'+esc((inviter[0]||'?').toUpperCase())+'</span>'+
+              '<span style="color:var(--fg)">You + u/'+esc(inviter)+' are going</span></div>'):'')+
+          '</div>'+
+        '</div>'+
+        '<div style="display:flex;gap:8px;margin-top:16px">'+
+          '<button class="fp-ab" id="inv-cal" type="button"><span>Add to calendar</span></button>'+
+          '<button class="fp-ab" id="inv-see" type="button"><span>See the night</span></button>'+
+        '</div>'+
+        '<div style="margin-top:22px;padding:16px;border-radius:var(--radius);background:var(--surface);border:1px solid var(--border);display:flex;flex-direction:column">'+
+          '<div class="eyebrow" style="margin-bottom:0">Your turn</div>'+
+          '<div class="evi-sub">Anyone else coming? Send them your link.</div>'+
+          '<button class="ob-cta" id="inv-share" type="button" style="margin-top:14px">Invite friends</button>'+
+        '</div>'+
+        '<p class="ob-sub" style="font-size:var(--fs-xs);margin-top:18px">Saved to your nights. <b style="color:var(--accent)">Manage</b></p>');
+      el.querySelector('#inv-see').addEventListener('click',obClose);
+      el.querySelector('#inv-share').addEventListener('click',function(){ shareInvite(id, ev.title, ev.venue); });
+      el.querySelector('#inv-cal').addEventListener('click',function(){ addToCalendar(ev, id); });
+      var mg=el.querySelector('p b'); if(mg) mg.addEventListener('click',function(){ obClose(); openAccount(); });
+    }
+    // .ics beats a deep link: it works on every phone and desktop, offline, with
+    // no calendar-provider account to pick.
+    function addToCalendar(ev, id){
+      var d=String(ev.event_date||'').slice(0,10).replace(/-/g,'');
+      if(!d){ showToast('No date on this night yet'); return; }
+      var st=(ev.startTime||'23:00').replace(':','')+'00', en=(ev.endTime||'').replace(':','');
+      var dtEnd=en? (d+'T'+en+'00') : (d+'T235900');
+      var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//soundcheck//EN','BEGIN:VEVENT',
+        'UID:sc-'+eventIdOf(id)+'@soundcheck.club','DTSTART:'+d+'T'+st,'DTEND:'+dtEnd,
+        'SUMMARY:'+(ev.title||'A night'),'LOCATION:'+((ev.venue||'')+(ev.city?', '+cityLabel(ev.city):'')),
+        'URL:'+inviteUrl(id, ev.title, ev.venue),'END:VEVENT','END:VCALENDAR'].join('\r\n');
+      var a=document.createElement('a');
+      a.href='data:text/calendar;charset=utf-8,'+encodeURIComponent(ics);
+      a.download=(ev.title||'night').replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'.ics';
+      document.body.appendChild(a); a.click(); a.remove();
+    }
     function shareInvite(id, title, venue){
-      var url=location.origin+SC_BASE+eventPath(eventIdOf(id), title, venue)+'/';
-      // ?in=<handle> makes the receiving page open the invite sheet. Anonymous
-      // (email-gated) senders have no handle — their link still works, it just
-      // opens the plain event page.
-      var h=(currentUser&&currentUser.handle)||'';
-      if(h) url+='?in='+encodeURIComponent(h);
       var t=(title||'A night')+(venue?(' at '+venue):'');
-      doShare({ title:t, text:'Come to this — '+t+'. Say you\u2019re in straight from the link.', url:url });
+      // The text must NOT contain the URL. navigator.share appends `url` itself,
+      // so a link inside `text` renders the link twice in the message — which is
+      // exactly what shipped. One link, carried by the field built for it.
+      doShare({ title:t, text:'Come to this — '+t+'. Say you\u2019re in straight from the link.', url:inviteUrl(id, title, venue) });
     }
     function sharePicks(){
       if(!pickCount()) return;
@@ -9707,7 +9853,7 @@
       id=eventIdOf(id);
       // The invite param must be read NOW: the canonical replaceState below
       // rewrites the URL and drops the query string before the sheet ever runs.
-      var _inviteFrom=((location.search||'').match(/[?&]in=([A-Za-z0-9._-]{2,24})(?:&|$)/)||[])[1]||'';
+      var _inviteFrom=(((location.search||'').match(/[?&]in=([A-Za-z0-9._-]{2,24})(?:&|$)/)||[])[1]||'').toLowerCase();
       trackView('event', id);
       if(((currentRoute().match(/^e\/(\d+)/)||[])[1])!==id) setRoute('e/'+id);
       var _vtPoster=vtPosterFrom(_vtSource);
@@ -9720,6 +9866,12 @@
         var _who=ev.title||((ev.artists||[])[0]||{}).name||'';
         history.replaceState({sc:1},'', SC_BASE+eventPath(id,_who,ev.venue)+'/');
         var isPast=ev.event_date && String(ev.event_date).slice(0,10) < todayISO();
+        // ONE predicate for the whole invite view (eyebrow + "is going" strip +
+        // the answer bar). Three separate checks would eventually disagree and
+        // render half an invite. Not your own link, not a night that has already
+        // happened, not one you already said yes to.
+        var _invActive = !!_inviteFrom && !isPast && evtStatus(id)!=='going' &&
+          !(currentUser && currentUser.handle && String(currentUser.handle).toLowerCase()===_inviteFrom);
         var when=[(ev._day||(ev.event_date?fmtDateLabel(String(ev.event_date).slice(0,10)):'')), formatTimeRange(ev.startTime,ev.endTime,ev._time)].filter(Boolean).join(' · ');
         var price=formatPrice(ev.minPrice, ev.maxPrice, ev.currency);
         var posterBg=ev.poster?'background-image:url('+imgUrl(ev.poster,1000)+')':'background:linear-gradient(150deg,#ff9a3d,#7c5cff)';
@@ -9732,10 +9884,12 @@
           '<div class="fp-ev-hero">'+
             '<div class="fp-ev-pcol"><div class="fp-ev-poster sc-hero"'+(ev.poster?' id="fp-ev-pos" role="button" tabindex="0" aria-label="View poster full size" style="cursor:zoom-in;'+posterBg+'"':' style="'+posterBg+'"')+'>'+stamp+(price?'<div class="fp-ev-price">'+esc(price)+'</div>':'')+'</div></div>'+
             '<div class="fp-ev-main">'+
+              (_invActive?'<div class="eyebrow" style="margin-bottom:6px">u/'+esc(_inviteFrom)+' invited you</div>':'')+
               '<div class="fp-kick">'+esc(when)+'</div>'+
               '<h1 class="fp-ev-title">'+esc(ev.title||'Event')+'</h1>'+
               '<div class="fp-ev-venue">at <a class="venue-link nav"'+(ev.venue?' href="'+esc(venueHref(ev.venue, ev.city))+'"':'')+' data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</a></div>'+
               (ev.city?'<div class="fp-ev-meta">'+esc(cityLabel(ev.city))+'</div>':'')+   /* genres live in the pill row below the buttons, not here */
+              (_invActive?'<div class="inv-strip"><span class="inv-av">'+esc((_inviteFrom[0]||'?').toUpperCase())+'</span><span>u/'+esc(_inviteFrom)+' is going</span></div>':'')+
               // Equal-width action row (Play same size as its siblings — grid wraps
               // to a second row on narrow screens without stretching). Share → corner icon, Tickets → below the blurb.
               (function(){
@@ -9757,12 +9911,20 @@
                 }
                 return '<div class="fp-ev-playbar'+(acts.length===1?' solo':'')+'">'+acts.join('')+'</div>';
               })()+
-              (isPast?'':'<button class="ev-radio" id="fp-ev-invite" type="button" style="display:'+(evtStatus(id)==='going'?'inline-flex':'none')+'"><span>Bring the group chat &mdash; invite friends</span></button>')+
               ((ev.genres||[]).length?'<div class="fp-ev-gline">'+(ev.genres||[]).slice(0,4).map(function(g){ return '<span class="fp-ev-gtag">'+esc(g)+'</span>'; }).join('')+'</div>':'')+
               (blurb?'<p class="fp-ev-blurb">'+esc(blurb)+'</p>':'')+
               (isPast?'':'<a class="fp-ev-tickets" href="'+ticketUrl+'" target="_blank" rel="noopener">Get tickets here →</a>')+
             '</div>'+
           '</div>'+
+          (isPast?'':('<div class="ev-invite">'+
+            '<div class="eyebrow">Bring your friends</div>'+
+            '<div class="evi-sub">Start a group. Let your friends do a soundcheck of the event.</div>'+
+            '<div class="evi-row">'+
+              '<div class="evi-link" id="fp-ev-invlink"></div>'+
+              '<button class="fp-ab" id="fp-ev-invcopy" type="button"><span>Copy</span></button>'+
+            '</div>'+
+            '<button class="ob-cta" id="fp-ev-invite" type="button">Invite friends</button>'+
+          '</div>'))+
           (ev.mine?('<div class="ev-mine">'+
               '<div class="ev-mine-top"><span class="ev-mine-h">You were there</span>'+
                 (ev.mine.rating!=null?'<span class="ev-mine-stars">'+'\u2605'.repeat(ev.mine.rating)+'</span>':'')+
@@ -9811,7 +9973,15 @@
         if(goBtn) goBtn.addEventListener('click',function(){ setEventGated(id, evtStatus(id)==='going'?'saved':'going', evMeta); });   // un-going keeps the interest
         var shr=document.getElementById('fp-ev-share'); if(shr) shr.addEventListener('click',function(){ shareEvent(id, ev.title, ev.venue); });
         var inv=document.getElementById('fp-ev-invite'); if(inv) inv.addEventListener('click',function(){ shareInvite(id, ev.title, ev.venue); });
-        if(_inviteFrom) maybeInviteSheet(id, ev, isPast, evMeta, _inviteFrom);
+        var invLink=document.getElementById('fp-ev-invlink');
+        if(invLink) invLink.textContent=inviteUrl(id, ev.title, ev.venue).replace(/^https?:\/\//,'');
+        var invCopy=document.getElementById('fp-ev-invcopy');
+        if(invCopy) invCopy.addEventListener('click',function(){
+          var u=inviteUrl(id, ev.title, ev.venue);
+          if(navigator.clipboard) navigator.clipboard.writeText(u).then(function(){ showToast('Link copied'); },function(){ window.prompt('Copy this link:', u); });
+          else window.prompt('Copy this link:', u);
+        });
+        if(_invActive) inviteBar(id, ev, evMeta, _inviteFrom);
         var fol=document.getElementById('fp-ev-follow'); if(fol) fol.addEventListener('click',function(){ toggleVenueFollow({slug:ev.venue_slug,name:ev.venue,following:ev.venueFollowing}, fol); });
         // Entity pages don't go through wireCard, so wire the venue links directly ("at <venue>" + "More nights at").
         document.querySelectorAll('#page-body .venue-link[data-venue]').forEach(function(b){ b.addEventListener('click',function(){ if(b.dataset.venue) openVenue(b.dataset.venue, ev.city); }); });

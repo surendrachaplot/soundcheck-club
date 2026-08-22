@@ -1,14 +1,15 @@
 # iNK MT
 
-iNK MT is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 30 Aug 2026.
+iNK MT is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 30 Aug 2026.
 
-iNK MT is a techno artist based in Malta, tracked on soundcheck, with 7 sets logged across Berlin and Malta. Often billed alongside OBLX, FIASKA and Joshua Calleja. Next up: The Rooftop at Gianpula Village, Malta on Sun 30 Aug.
+iNK MT is a techno artist based in Malta, tracked on soundcheck, with 8 sets logged across Berlin and Malta. Often billed alongside OBLX, FIASKA and Joshua Calleja. Next up: The Rooftop at Gianpula Village, Malta on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | The Rooftop at Gianpula Village | Malta |
+| Fri, 18 Sept 2026 | Liquid Club | Malta |
 
 ## Recently played
 
