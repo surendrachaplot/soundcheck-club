@@ -3773,6 +3773,12 @@
     .ob-lede{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); color:var(--fg); opacity:.86; line-height:1.24; margin:0 0 20px; max-width:26ch; }
     .obv input[type=email], .obv input[type=text], .obv input[type=tel]{ width:100%; background:var(--surface); border:1px solid var(--border); border-radius:var(--radius); color:var(--fg); font-size:var(--fs-md); padding:14px 16px; }
     .obv input:focus{ outline:none; border-color:var(--accent); }
+    /* .handle-field is already the box — its input must not draw a second one
+       inside it. The overlay's generic input rule was giving it a surface fill,
+       a border and a radius, so board D rendered a field nested in a field. */
+    .obv .handle-field{ background:var(--surface); border-color:var(--border); padding:0 16px; }
+    .obv .handle-field:focus-within{ border-color:var(--accent); }
+    .obv .handle-field input[type=text]{ background:transparent; border:0; border-radius:0; padding:14px 0 14px 4px; }
     /* Every full-screen step needs a door. D and E shipped without one in
        review: a mistyped address left you with no way back to the page. */
     .ob-x{ position:absolute; top:14px; right:16px; width:34px; height:34px; background:transparent; border:0; color:var(--muted);
@@ -4049,7 +4055,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787425772204">
+<meta name="sc-build" content="1787426926782">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
