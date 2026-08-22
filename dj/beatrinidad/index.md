@@ -1,14 +1,13 @@
 # Bea Trinidad
 
-Bea Trinidad is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 22 Aug 2026.
+Bea Trinidad is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Elsewhere, New York City on Sat, 5 Sept 2026.
 
-Bea Trinidad is a house and disco artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Bustin' Loose, Roland & Brother Rich and ANICHE. Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 22 Aug.
+Bea Trinidad is a house and disco artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Bustin' Loose, Roland & Brother Rich and ANICHE. Next up: Elsewhere, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Pier 78 at Hudson River Park | New York City |
 | Sat, 5 Sept 2026 | Elsewhere | New York City |
 | Sun, 6 Sept 2026 | Roberta's | New York City |
 

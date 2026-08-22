@@ -9,7 +9,7 @@ Le Bain is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sunset with Devoye | Devoye |
-| Sat, 22 Aug 2026 | ZACHY TIMES X Le Bain |  |
+| Sat, 22 Aug 2026 | ZACHY TIMES X Le Bain | Sweater On Polo |
 | Sun, 23 Aug 2026 | WORLD OF ECHOES feat. François K & Justin Strauss | Francois K, Justin Strauss |
 | Wed, 26 Aug 2026 | DANCE DANCE DANCE | DJ Moma, Uche |
 | Thu, 27 Aug 2026 | Susanne Bartsch Wants You ON TOP | Miss Parker, planetperris |

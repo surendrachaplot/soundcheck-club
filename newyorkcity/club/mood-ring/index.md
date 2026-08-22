@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Miss Monroe presents Girl Code" on Sat, 22 Aug 2026.
+Mood Ring is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Miss Monroe presents Girl Code" on Sat, 22 Aug 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Ah Dek, Alejandra Sabillón, ASTER (DJ) and bossy boots and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Ah Dek, Alejandra Sabillón, ASTER (DJ) and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nigh
 | Fri, 28 Aug 2026 | LIFE AFTER TRANCE / SHIBUYA69 | ASTER (DJ), Diveo, Gagbert, HAO (CN), Hao Ran |
 | Fri, 28 Aug 2026 | Rhythm Polemics Release Party | Ah Dek, Janus Rose, Ovid |
 | Sat, 29 Aug 2026 | potluck | DJ Fat Frog, Excuse The Beauty, dj 5spice, satandoll |
+| Wed, 2 Sept 2026 | Dance Support presents Devotion | girl_irl, shirlz |
+| Thu, 3 Sept 2026 | panatekk | BLAIZE, LaFHomme |
 | Fri, 4 Sept 2026 | BARRIO BOUNCE, A Budots & SEA Club Night | Castillonaire, WILHELMINA, rogue.wav, sebs (2) |
-| Fri, 4 Sept 2026 | Love Language with DJ Fifi & suciopath | suciopath |
-| Fri, 25 Sept 2026 | Mood Ring 9th Anniversary ~ Day One | Haruka (US), Kaili, Kweku, LANSUH, Loose Goose, No_4mat |
 
 ## Address
 

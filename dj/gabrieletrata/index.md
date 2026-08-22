@@ -1,14 +1,15 @@
 # Gabriel Etrata
 
-Gabriel Etrata is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 22 Aug 2026.
+Gabriel Etrata is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 22 Aug 2026.
 
-Gabriel Etrata is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 26 sets logged across Detroit and Newyorkcity. Often billed alongside LANSUH, Jay Dalawa and Alcantara. Next up: Dead Letter No. 9, Newyorkcity on Sat 22 Aug.
+Gabriel Etrata is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 27 sets logged across Detroit and Newyorkcity. Often billed alongside LANSUH, Jay Dalawa and Alcantara. Next up: Dead Letter No. 9, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Dead Letter No. 9 | New York City |
+| Thu, 17 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 

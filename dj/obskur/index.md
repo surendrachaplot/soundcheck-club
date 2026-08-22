@@ -1,8 +1,8 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
+Obskur is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
 
-Obskur is a house and tech house artist tracked on soundcheck, with 151 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Pacha Ibiza, Ibiza on Fri 28 Aug.
+Obskur is a house and tech house artist tracked on soundcheck, with 152 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Pacha Ibiza, Ibiza on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Obskur is a house and tech house artist tracked on soundcheck, with 151 sets log
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |

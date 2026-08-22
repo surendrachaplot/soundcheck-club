@@ -8,7 +8,7 @@ PRST is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with li
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Frazi.er selects: Vienna | Dizzy (PL), Frazi.er, MELIMEKO, TONI BA |
+| Sat, 22 Aug 2026 | Frazi.er selects: Vienna | Dizzy (PL), Frazi.er, MELIMEKO, SUE (AT), TONI BA |
 | Fri, 28 Aug 2026 | Anna Ullrich pres. ACHTERBAHN | Anna Ullrich, COLD ASS ICE, Sancta |
 | Sat, 29 Aug 2026 | PRST Klubnacht | 11:68PM, foxloe |
 | Fri, 4 Sept 2026 | Radio Rudina |  |

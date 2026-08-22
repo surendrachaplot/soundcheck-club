@@ -55,6 +55,6 @@ Osmosis in the Trees at TBA - Out ‘n’ About Treesort on Thu 24 Sept, Portlan
 - Trustfall
 - Vlada
 - Wata Igarashi
-- Yu Mi
+- Yumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2423344-osmosis-in-the-trees-at-tba-out-n-about-treesort/)*

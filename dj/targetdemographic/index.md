@@ -1,13 +1,14 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
+Target Demographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
 
-Target Demographic is a house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
+Target Demographic is a house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Forge | Bucharest |
 | Fri, 9 Oct 2026 | Forge | Bucharest |
 | Sat, 10 Oct 2026 | IT Athens | Athens |
 | Tue, 13 Oct 2026 | TBA - Junkyard Club | Tbilisi |

@@ -1,8 +1,8 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio" on Sat, 22 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Pasillos Silenciosos Vinyl Release Party - 3RU + Antonio Ocasio" on Sat, 22 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Alcantara, Amber Valentine, Asha Jasz and Birdee and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 

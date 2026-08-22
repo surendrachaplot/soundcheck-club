@@ -1,14 +1,13 @@
 # Culture
 
-Culture is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nü Androids presents SünDown: AC Slater" on Sat, 22 Aug 2026.
+Culture is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nü Androids presents: AC Slater at Night" on Sat, 22 Aug 2026.
 
-Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming nights, with line-ups including AC Slater, Gravagerz, Morgan Seatree and Nitefreak and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
+Culture is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights, with line-ups including AC Slater, Gravagerz, Morgan Seatree and Nitefreak and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Nü Androids presents SünDown: AC Slater |  |
 | Sat, 22 Aug 2026 | Nü Androids presents: AC Slater at Night | AC Slater |
 | Thu, 10 Sept 2026 | Nü Androids & Achromatic present: Ivy Lab |  |
 | Sat, 12 Sept 2026 | Nü Androids presents: MoBlack |  |
@@ -18,6 +17,7 @@ Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming night
 | Sun, 4 Oct 2026 | diffuse: Brunello x Dean Turnley |  |
 | Fri, 9 Oct 2026 | Nü Androids presents: Morgan Seatree | Morgan Seatree |
 | Sat, 10 Oct 2026 | Nü Androids presents: Arlo |  |
+| Sun, 18 Oct 2026 | Diffuse x Ranger Trucco present: Range | Ranger Trucco |
 
 ## Address
 

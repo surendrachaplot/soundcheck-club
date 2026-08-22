@@ -9,7 +9,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | DLIGHT - HOUSE / TECH HOUSE - | ALEXANDER M, ANDY DEDE, AY (10), DADO, EIGHT, HATSUYUKI |
-| Sun, 23 Aug 2026 | LAYOVER - HIPHOP / BASS / ALL MIX - |  |
+| Sun, 23 Aug 2026 | LAYOVER - HIPHOP / BASS / ALL MIX - | R1pq |
 | Thu, 27 Aug 2026 | PRISIM - ALL GOOD MUSIC / GLOBAL HITS / HARD TECHNO / TROPICAL GROOVES - |  |
 | Fri, 28 Aug 2026 | NEON STARS Vol.01 - TECHNO / BASS MUSIC / HOUSE - | HATSUYUKI, NOËL, REXY DEXY, RYO2, SAKO, STRATAH, TRID3NT, omeme_gangimari |
 | Sat, 29 Aug 2026 | COMET SOUNDS vol.4 - ALL MIX / HIPHOP - | ACHIRI, Sakuma, ecec |

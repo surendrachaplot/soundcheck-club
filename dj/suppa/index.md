@@ -1,14 +1,15 @@
 # SUPPA
 
-SUPPA is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Break Point, San Diego on Fri, 21 Aug 2026.
+SUPPA is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Break Point, San Diego on Fri, 21 Aug 2026.
 
-SUPPA is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Sherpa Slim, Baby Kush and techki. Next up: Break Point, Sandiego on Fri 21 Aug.
+SUPPA is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Sherpa Slim, AMANTE and Baby Kush. Next up: Break Point, Sandiego on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Break Point | San Diego |
+| Thu, 15 Oct 2026 | TBA - Kramer Junction, CA | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ SUPPA is a house and drum & bass artist based in United States of America, track
 
 ## Shares bills with
 
-Sherpa Slim, Baby Kush, techki
+Sherpa Slim, AMANTE, Baby Kush
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suppa/)*

@@ -1,8 +1,8 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 40 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "BASS BOAT: BOOGIE T - on the Road to Submersion Festival" on Sat, 22 Aug 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 39 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "BASS BOAT: BOOGIE T - on the Road to Submersion Festival" on Sat, 22 Aug 2026.
 
-Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 40 upcoming nights, with line-ups including Bea Trinidad, branqueeno, Bustin' Loose and DJ eh and 2 more. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
+Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 39 upcoming nights, with line-ups including DRITTO and Lush Tempora. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundchec
 | Sat, 22 Aug 2026 | NYC #1 LATIN & REGGAETON Sunset Yacht Cruise Boat Party |  |
 | Sat, 22 Aug 2026 | NYC #1 LATIN & REGGAETON Sunset Yacht Cruise Boat Party |  |
 | Sat, 22 Aug 2026 | NYC Sunset Boat Party: Reggaeton / Hip-Hop / House - Multi-Level Yacht |  |
-| Sat, 22 Aug 2026 | The Disco Express x City Soul x Sisters In Sound: NYC Sunset Cruise Day Party | Bea Trinidad, Bustin' Loose, DJ eh, Fátima, Roland & Brother Rich, SMURFOUDIRTY, Sarindipity, branqueeno |
 | Sat, 29 Aug 2026 | ELECTRONICA NYC Yacht Party: DRITTO | DRITTO |
 | Sat, 29 Aug 2026 | Electronica NYC Yacht Party: DRITTO |  |
+| Sat, 29 Aug 2026 | Electronica NYC Yacht Party: DRITTO | DRITTO, Lush Tempora |
 
 ## Address
 

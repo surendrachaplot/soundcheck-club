@@ -1,8 +1,8 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Dennis Cruz is a tech house and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Union Park, Chicago on Fri 4 Sept.
+Dennis Cruz is a tech house and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 177 set
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |
+| Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 | Sun, 25 Oct 2026 | Taets Art & Event Park | Amsterdam |

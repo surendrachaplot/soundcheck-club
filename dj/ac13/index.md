@@ -1,14 +1,14 @@
 # AC13
 
-AC13 is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
+AC13 is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - 810 E 61st St LA, 90001, Los Angeles on Sat, 22 Aug 2026.
 
-AC13 is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Bangkok and Brighton and 13 more. Often billed alongside Harriet Jaxxon, Charlie Tee and Disrupta. Next up: TBA - Los Angeles, Losangeles on Sat 22 Aug.
+AC13 is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Bangkok and Brighton and 13 more. Often billed alongside Harriet Jaxxon, Charlie Tee and Disrupta. Next up: TBA - 810 E 61st St LA, 90001, Losangeles on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 22 Aug 2026 | TBA - 810 E 61st St LA, 90001 | Los Angeles |
 | Fri, 28 Aug 2026 | Ham Farm, Lewes, | Brighton |
 
 ## Recently played

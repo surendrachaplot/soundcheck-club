@@ -16,7 +16,7 @@ OXI is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with li
 | Sat, 5 Sept 2026 | Small Great House 'September Edition' (Open Air + Indoor) 19 Hours | Cosmic Cherry, Darwin Stapel, David Silver, Eva Crystaltips, Jan Ketel, Johannes Albert, Lavan, Luca Olivotto, Maik Gyver, Nephews, Quadrakey, SELESSA T., Siggatunez, Soulidan |
 | Thu, 10 Sept 2026 | Broken Noise | Alex Levin, Comf, Forgotten Sounds, Howler (UK), Jotam., Nadine Talakovics |
 | Fri, 11 Sept 2026 | OXI SELECTED |  |
-| Sat, 12 Sept 2026 | SIN VERGÜENZA [OPEN AIR + INDOOR] | DJ Cringey, DJ SEXSTASY, Eliangel, FORTUNATA, Impulsive Behaviour, Maque, Ojos de miel, PvssyDivx, SHOKI287, STEYA, The Muffin Man, Vivienna, maríajosé |
+| Sat, 12 Sept 2026 | SIN VERGÜENZA [OPEN AIR + INDOOR] | DJ Cringey, DJ SEXSTASY, Eliangel, FORTUNATA, Impulsive Behaviour, Maque, Ojos de miel, PvssyDivx, SHOKI287, STEYA, TheMuffinMan, Vivienna, maríajosé |
 | Sun, 13 Sept 2026 | OXI SUNDAYS (OPEN AIR + INDOOR) | Ana Molina, Bacon Chang, Monokultur, Soela |
 
 ## Address

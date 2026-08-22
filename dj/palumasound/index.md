@@ -1,13 +1,14 @@
 # Paluma Sound
 
-Paluma Sound is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
+Paluma Sound is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
 
-Paluma Sound is a house and techno artist tracked on soundcheck, with 32 sets logged across Athens, Belgrade, Berlin and Bristol and 8 more. Often billed alongside Shaolin Cowboy, sunflwr and DJ Houseplants. Next up: Forge, Bucharest on Fri 9 Oct.
+Paluma Sound is a house and techno artist tracked on soundcheck, with 33 sets logged across Athens, Belgrade, Berlin and Bristol and 8 more. Often billed alongside Shaolin Cowboy, sunflwr and DJ Houseplants. Next up: Forge, Bucharest on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Forge | Bucharest |
 | Fri, 9 Oct 2026 | Forge | Bucharest |
 | Sat, 10 Oct 2026 | IT Athens | Athens |
 | Tue, 13 Oct 2026 | TBA - Junkyard Club | Tbilisi |

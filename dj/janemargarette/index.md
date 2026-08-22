@@ -1,14 +1,13 @@
 # Jane Margarette
 
-Jane Margarette is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - West Adams, Los Angeles on Sat, 22 Aug 2026.
+Jane Margarette is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Signal, New York City on Thu, 17 Sept 2026.
 
-Jane Margarette is a techno and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Newyorkcity. Often billed alongside Danny Goliger, Luke Mele and agraybé. Next up: TBA - West Adams, Losangeles on Sat 22 Aug.
+Jane Margarette is a techno and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Newyorkcity. Often billed alongside Danny Goliger, Luke Mele and agraybé. Next up: Signal, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - West Adams | Los Angeles |
 | Thu, 17 Sept 2026 | Signal | New York City |
 
 ## Recently played

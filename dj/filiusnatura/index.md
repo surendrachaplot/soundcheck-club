@@ -1,13 +1,14 @@
 # Filius Natura
 
-Filius Natura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at CHICO, Mexico City on Sat, 22 Aug 2026.
+Filius Natura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunday Sunday, Mexico City on Sat, 22 Aug 2026.
 
-Filius Natura is a house and techno artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Cinema Paradisco, Dimaio and Feral Wills. Next up: CHICO, Mexicocity on Sat 22 Aug.
+Filius Natura is a house and techno artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Cinema Paradisco, Dimaio and Feral Wills. Next up: Sunday Sunday, Mexicocity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | Sunday Sunday | Mexico City |
 | Sat, 22 Aug 2026 | CHICO | Mexico City |
 
 ## Recently played

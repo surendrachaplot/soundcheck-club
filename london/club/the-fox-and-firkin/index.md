@@ -1,14 +1,13 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 24 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dubtendo Day Party" on Sat, 22 Aug 2026.
+The Fox and Firkin is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dende Nation Pre Carnival Night with Reggae Choir" on Thu, 27 Aug 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Case (2) and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Case (2) and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Dubtendo Day Party |  |
 | Thu, 27 Aug 2026 | Dende Nation Pre Carnival Night with Reggae Choir |  |
 | Fri, 28 Aug 2026 | Ray Keith's Dread Bank Holiday | DJ Millz, Five Alive, Grooverider, HEXA, KL (8), KONZ, Ray Keith, Ty |
 | Sat, 29 Aug 2026 | The South London Soul Train All Dayer with DJ Cash Money + MC The Chill One [Live] | DJ Cash Money, Jazzheadchronic |
@@ -18,6 +17,7 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming 
 | Sun, 6 Sept 2026 | Lloyd Coxsone, Haseeb Iqbal, Linett Kamala | Haseeb Iqbal |
 | Fri, 11 Sept 2026 | Club Glow Takeover: Yas Reven, Henry Greenleaf, LMajor b2b.Mani Festo, Mak & Pasteman,  | Henry Greenleaf, LMajor, Mak & Pasteman, Mani Festo, Yas Reven |
 | Sat, 12 Sept 2026 | Aroop Roy & Friends | Aroop Roy, Jimpster, Kanem, Megatronic |
+| Fri, 18 Sept 2026 | Todd Terry | Todd Terry |
 
 ## Address
 

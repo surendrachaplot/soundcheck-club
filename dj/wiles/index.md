@@ -1,14 +1,15 @@
 # WÏLES
 
-WÏLES is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Nells / Common NQ, Edge Street, Manchester on Sat, 29 Aug 2026.
+WÏLES is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Nells / Common NQ, Edge Street, Manchester on Sat, 29 Aug 2026.
 
-WÏLES is a house and disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London and Manchester. Often billed alongside Joshua James, Lewis John and Bear Winder. Next up: TBA - Nells / Common NQ, Edge Street, Manchester on Sat 29 Aug.
+WÏLES is a house and disco artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London and Manchester. Often billed alongside Joshua James, Lewis John and Bear Winder. Next up: TBA - Nells / Common NQ, Edge Street, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - Nells / Common NQ, Edge Street | Manchester |
+| Fri, 9 Oct 2026 | The Eagle Bar | Manchester |
 
 ## Recently played
 
