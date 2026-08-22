@@ -1,6 +1,6 @@
 # Pleasure
 
-Pleasure is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
+Pleasure is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ÆDEN, Berlin on Sun, 23 Aug 2026.
 
 Pleasure is a house and disco artist tracked on soundcheck, with 24 sets logged across Athens, Bali, Berlin and Hamburg and 3 more. Often billed alongside Feasting, Gio Goltara and Jonathan Kusuma. Next up: ÆDEN, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Pleasure is a house and disco artist tracked on soundcheck, with 24 sets logged 
 
 Feasting, Gio Goltara, Jonathan Kusuma
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasure/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasure/)*

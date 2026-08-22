@@ -1,6 +1,6 @@
 # Episode Three
 
-Episode Three is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Last Arch, London on Sat, 3 Oct 2026.
+Episode Three is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Last Arch, London on Sat, 3 Oct 2026.
 
 Episode Three is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Dove (UK), KATARINA and Opus. Next up: Last Arch, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Episode Three is a drum & bass and jungle artist based in United Kingdom, tracke
 
 Dove (UK), KATARINA, Opus
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/episodethree/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/episodethree/)*

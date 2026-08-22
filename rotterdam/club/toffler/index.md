@@ -1,14 +1,13 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 15 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "TOFFLER presents LEYO and friends" on Fri, 21 Aug 2026.
+Toffler is a music venue in Rotterdam with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "TOFFLER x Maas Afterparty" on Sat, 22 Aug 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 15 upcoming nights, with line-ups including Ammé, Ben Horton, Boss Priester and Bumpr and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 14 upcoming nights, with line-ups including Ben Horton, Boss Priester, Bumpr and Capron and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TOFFLER presents LEYO and friends | Ammé, Robin Nicolas |
 | Sat, 22 Aug 2026 | TOFFLER x Maas Afterparty | JÄMO, davyboi |
 | Fri, 28 Aug 2026 | TOFFLER presents Boss Priester and friends | Boss Priester, DORA, Hidde van Wee |
 | Sat, 29 Aug 2026 | TOFFLER presents Changi and friends | Luca Ricci, Micky Hurts |
@@ -18,9 +17,10 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 15 upcoming nights, 
 | Sat, 12 Sept 2026 | TOFFLER presents Karim Soliman and friends | Shades |
 | Fri, 18 Sept 2026 | TOFFLER presents KLOUD | SEMPLIFIER |
 | Sat, 19 Sept 2026 | TOFFLER presents jWave, Jesse Maas | Ben Horton, Bumpr, Jesse Maas, jWave |
+| Fri, 25 Sept 2026 | Toffler presents CLAESSENS | CLAESSENS, RUL3 |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

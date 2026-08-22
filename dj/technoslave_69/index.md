@@ -1,6 +1,6 @@
 # Technoslave_69
 
-Technoslave_69 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
+Technoslave_69 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
 Technoslave_69 is a techno and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Budapest and Leipzig and 5 more. Often billed alongside Cybersex, TEKNA and 131bpm. Next up: RADION, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Technoslave_69 is a techno and house artist tracked on soundcheck, with 34 sets 
 
 Cybersex, TEKNA, 131bpm
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technoslave_69/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technoslave_69/)*

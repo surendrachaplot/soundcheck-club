@@ -1,6 +1,6 @@
 # TBA - Brooklyn
 
-TBA - Brooklyn is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Scrubs Lane Record Fair" on Sat, 22 Aug 2026.
+TBA - Brooklyn is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Scrubs Lane Record Fair" on Sat, 22 Aug 2026.
 
 TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Auspex, Cristobal Pesce, DJ Nobu and For Future's Sake and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Brooklyn is a music venue in Newyorkcity listed on soundcheck. 4 upcoming 
 | Sat, 3 Oct 2026 | MERGE all night long: Rrose | Rrose |
 | Fri, 9 Oct 2026 | Techno Brooklyn presents Cristobal Pesce | Cristobal Pesce |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-brooklyn/)*

@@ -1,8 +1,8 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "ETHER" on Fri, 21 Aug 2026.
+Sensorium is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ETHER" on Fri, 21 Aug 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including AZDRA, Bee Lincoln, Blck-Swan and Camilla Tarantino and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including AZDRA, Bee Lincoln, Blck-Swan and Camilla Tarantino and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Sensorium is a music venue in Berlin listed on soundcheck. 16 upcoming nights, w
 | Sat, 29 Aug 2026 | SENSO NACHT | el Capitan, ugurmeister |
 | Sun, 30 Aug 2026 | TRIG: FROM 23:00 - XXX |  |
 | Wed, 2 Sept 2026 | TECHNO MITTWOCH | Grippe, PETDuo, Sinetiketa, Viktor Kampf |
+| Sun, 6 Sept 2026 | TRIG: | Gabi, Loco (IT), Viktor Kampf |
 | Wed, 9 Sept 2026 | TECHNO MITTWOCH | Joana, Kardinal Bertram, MXC, Oliver Kotiużyński, UniKhatu |
-| Wed, 16 Sept 2026 | TECHNO MITTWOCH | Blck-Swan, FAUST (1), NYCTO, SAAMO |
-| Wed, 23 Sept 2026 | TECHNO MITTWOCH | pink-panther |
+| Sun, 13 Sept 2026 | TRIG | Fugist |
 
 ## Address
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

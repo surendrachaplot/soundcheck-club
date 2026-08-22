@@ -1,6 +1,6 @@
 # Unit 3
 
-Unit 3 is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "PolyDub Sound System - Yard Session" on Sat, 29 Aug 2026.
+Unit 3 is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "PolyDub Sound System - Yard Session" on Sat, 29 Aug 2026.
 
 Unit 3 is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Lukid and Rabiah. Browse upcoming dates, start times and who's playing. Unit 3, Gaunson House, Markfield Road, N15 4QQ.
 
@@ -14,4 +14,4 @@ Unit 3 is a music venue in London listed on soundcheck. 1 upcoming night, with l
 
 Unit 3, Gaunson House, Markfield Road, N15 4QQ, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-3/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-3/)*

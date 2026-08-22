@@ -1,6 +1,6 @@
 # Greick Jhøzsu
 
-Greick Jhøzsu is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lasociaciøn, Madrid on Sat, 12 Sept 2026.
+Greick Jhøzsu is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Lasociaciøn, Madrid on Sat, 12 Sept 2026.
 
 Greick Jhøzsu is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 15 sets logged across Ibiza and Madrid. Often billed alongside Jesus Riaño, SEMREH and Katnada. Next up: Lasociaciøn, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Greick Jhøzsu is a techno and minimal techno artist based in Spain, tracked on 
 
 Jesus Riaño, SEMREH, Katnada
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greickjhozsu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greickjhozsu/)*

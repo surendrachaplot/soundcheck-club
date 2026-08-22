@@ -1,13 +1,14 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The White Hotel, Manchester on Sat, 29 Aug 2026.
+Julie Desire is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 21 Aug 2026.
 
-Julie Desire is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: The White Hotel, Manchester on Sat 29 Aug.
+Julie Desire is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: La Station - Gare des Mines, Paris on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 21 Aug 2026 | La Station - Gare des Mines | Paris |
 | Sat, 29 Aug 2026 | The White Hotel | Manchester |
 | Sat, 5 Sept 2026 | La Station - Gare des Mines | Paris |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -15,6 +16,7 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 108 sets l
 
 ## Recently played
 
+- La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
 - ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 25 Jul 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - ÆDEN, Berlin — Sat, 4 Jul 2026
@@ -22,10 +24,9 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 108 sets l
 - Virage, Paris — Sun, 28 Jun 2026
 - Oven Club, Valencia — Sat, 20 Jun 2026
 - TBA - Ferme de Bissy, Rue de Bissy, Bonnelles, France, Paris — Fri, 12 Jun 2026
-- Illegaal, Brussels — Sat, 16 May 2026
 
 ## Shares bills with
 
 Cheriii, Mars O10C, A-440
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

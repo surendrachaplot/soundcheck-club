@@ -1,8 +1,8 @@
 # Isla Den
 
-Isla Den is a Pop and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
+Isla Den is a Pop and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Newspeak, Montreal on Fri, 25 Sept 2026.
 
-Isla Den is a pop and trance artist based in Canada, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside ESP, Malibu and Outback. Next up: Newspeak, Montreal on Fri 25 Sept.
+Isla Den is a pop and trance artist based in Canada, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside ESP, Malibu and Outback. Next up: Newspeak, Montreal on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Isla Den is a pop and trance artist based in Canada, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Newspeak | Montreal |
 | Sun, 27 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
+| Sat, 31 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Isla Den is a pop and trance artist based in Canada, tracked on soundcheck, with
 
 ESP, Malibu, Outback
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isladen/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isladen/)*

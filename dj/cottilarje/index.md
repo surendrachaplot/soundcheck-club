@@ -1,6 +1,6 @@
 # Cottí Larje
 
-Cottí Larje is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 5 Sept 2026.
+Cottí Larje is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 5 Sept 2026.
 
 Cottí Larje is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin and Munich. Often billed alongside antyo, Terzenbreaker and Fej:tal. Next up: Bahnwärter Thiel, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cottí Larje is a techno and house artist based in Germany, tracked on soundchec
 
 antyo, Terzenbreaker, Fej:tal
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cottilarje/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cottilarje/)*

@@ -1,6 +1,6 @@
 # Dave Tidey
 
-Dave Tidey is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Dolphin, Philadelphia on Fri, 4 Sept 2026.
+Dave Tidey is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Dolphin, Philadelphia on Fri, 4 Sept 2026.
 
 Dave Tidey is a house and garage artist based in United States of America, tracked on soundcheck, with 23 sets logged across Philadelphia. Often billed alongside G I N A, Shearn and Dj incognito mode. Next up: The Dolphin, Philadelphia on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Dave Tidey is a house and garage artist based in United States of America, track
 
 G I N A, Shearn, Dj incognito mode
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davetidey/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davetidey/)*

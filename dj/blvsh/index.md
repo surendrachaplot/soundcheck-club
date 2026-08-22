@@ -1,6 +1,6 @@
 # BLVSH
 
-BLVSH is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+BLVSH is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 BLVSH is a techno and deep house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside INVERNO, Triqi and hripsime. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ BLVSH is a techno and deep house artist based in Germany, tracked on soundcheck,
 
 INVERNO, Triqi, hripsime
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blvsh/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blvsh/)*

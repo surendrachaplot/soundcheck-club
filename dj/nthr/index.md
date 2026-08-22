@@ -1,6 +1,6 @@
 # NTHR
 
-NTHR is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Nether Club, Bucharest on Sat, 22 Aug 2026.
+NTHR is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Nether Club, Bucharest on Sat, 22 Aug 2026.
 
 NTHR is a techno and hardcore artist based in Romania, tracked on soundcheck, with 59 sets logged across Amsterdam and Bucharest. Often billed alongside GXXXGX, FILTRACK and FACDEZORDINESIPLEC. Next up: Nether Club, Bucharest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ NTHR is a techno and hardcore artist based in Romania, tracked on soundcheck, wi
 
 GXXXGX, FILTRACK, FACDEZORDINESIPLEC
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nthr/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nthr/)*

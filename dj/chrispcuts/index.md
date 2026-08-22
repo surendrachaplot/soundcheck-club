@@ -1,6 +1,6 @@
 # Chris P Cuts
 
-Chris P Cuts is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at KOKO, London on Sat, 22 Aug 2026.
+Chris P Cuts is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KOKO, London on Sat, 22 Aug 2026.
 
 Chris P Cuts is a hip-hop and funk / soul artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Dom Servini, AudDicted and CARISTA. Next up: KOKO, London on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Chris P Cuts is a hip-hop and funk / soul artist tracked on soundcheck, with 4 s
 
 Dom Servini, AudDicted, CARISTA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrispcuts/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrispcuts/)*

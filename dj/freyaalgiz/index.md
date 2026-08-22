@@ -1,13 +1,14 @@
 # Freya Algiz
 
-Freya Algiz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Minimal Bar, Berlin on Tue, 22 Sept 2026.
+Freya Algiz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at HUNGR, Tallinn on Fri, 28 Aug 2026.
 
-Freya Algiz is a techno and house artist based in Estonia, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Kat Kat Tat, FridaY (DE) and Monknash. Next up: Minimal Bar, Berlin on Tue 22 Sept.
+Freya Algiz is a techno and house artist based in Estonia, tracked on soundcheck, with 22 sets logged across Berlin and Tallinn. Often billed alongside Kat Kat Tat, FridaY (DE) and Monknash. Next up: HUNGR, Tallinn on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | HUNGR | Tallinn |
 | Tue, 22 Sept 2026 | Minimal Bar | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Freya Algiz is a techno and house artist based in Estonia, tracked on soundcheck
 
 Kat Kat Tat, FridaY (DE), Monknash
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freyaalgiz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freyaalgiz/)*

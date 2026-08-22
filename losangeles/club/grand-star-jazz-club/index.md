@@ -1,6 +1,6 @@
 # Grand Star Jazz Club
 
-Grand Star Jazz Club is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Soul Source: Jared Jackson B2B blksoap, Lucci, Hans, Mr. Choc, Mantron" on Sat, 29 Aug 2026.
+Grand Star Jazz Club is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Soul Source: Jared Jackson B2B blksoap, Lucci, Hans, Mr. Choc, Mantron" on Sat, 29 Aug 2026.
 
 Grand Star Jazz Club is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including blksoap. Browse upcoming dates, start times and who's playing. 943 Sun Mun Way, Los Angeles, CA 90012.
 
@@ -14,4 +14,4 @@ Grand Star Jazz Club is a music venue in Losangeles listed on soundcheck. 1 upco
 
 943 Sun Mun Way, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/grand-star-jazz-club/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/grand-star-jazz-club/)*

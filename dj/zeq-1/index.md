@@ -1,6 +1,6 @@
 # ZEQ (1)
 
-ZEQ (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Das Werk, Vienna on Fri, 9 Oct 2026.
+ZEQ (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Das Werk, Vienna on Fri, 9 Oct 2026.
 
 ZEQ (1) is a techno and trance artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside SUITSIDE, ASCHENBRENNER and Serafin (AT). Next up: Das Werk, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ZEQ (1) is a techno and trance artist based in Austria, tracked on soundcheck, w
 
 SUITSIDE, ASCHENBRENNER, Serafin (AT)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeq-1/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeq-1/)*

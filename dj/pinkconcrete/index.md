@@ -1,6 +1,6 @@
 # Pink Concrete
 
-Pink Concrete is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Pink Concrete is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 Pink Concrete is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Berlin and Chicago and 23 more. Often billed alongside Adamatron, Raketa95 and aláya. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -17,6 +17,7 @@ Pink Concrete is a techno and house artist tracked on soundcheck, with 148 sets 
 
 ## Recently played
 
+- Altenburg 1964, Prague — Fri, 21 Aug 2026
 - KREUZWERK, Berlin — Sun, 16 Aug 2026
 - Jasna 1, Warsaw — Fri, 14 Aug 2026
 - Fuchs2, Prague — Sat, 8 Aug 2026
@@ -24,10 +25,9 @@ Pink Concrete is a techno and house artist tracked on soundcheck, with 148 sets 
 - TBA, Amsterdam — Sun, 19 Jul 2026
 - Frankhan Selectist, Istanbul — Sat, 27 Jun 2026
 - Fuchs2, Prague — Sat, 20 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Adamatron, Raketa95, aláya
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkconcrete/)*

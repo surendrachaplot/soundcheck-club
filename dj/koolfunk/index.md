@@ -1,6 +1,6 @@
 # Koolfunk
 
-Koolfunk is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+Koolfunk is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
 
 Koolfunk is a tech house and techno artist based in Italy, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Enrico Chirchiello, Francesco Poggi and LIZAZA. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Koolfunk is a tech house and techno artist based in Italy, tracked on soundcheck
 
 Enrico Chirchiello, Francesco Poggi, LIZAZA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koolfunk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koolfunk/)*

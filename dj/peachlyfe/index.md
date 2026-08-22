@@ -1,6 +1,6 @@
 # Peachlyfe
 
-Peachlyfe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
+Peachlyfe is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
 
 Peachlyfe is a techno and trance artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Bassiani, Tbilisi on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Peachlyfe is a techno and trance artist tracked on soundcheck, with 123 sets log
 
 Ezy, Schacke, DJ Nah Care
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*

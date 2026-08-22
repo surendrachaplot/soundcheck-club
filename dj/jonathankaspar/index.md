@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Audio Club, Geneva on Sat, 22 Aug 2026.
+Jonathan Kaspar is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Audio Club, Geneva on Sat, 22 Aug 2026.
 
 Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Audio Club, Geneva on Sat 22 Aug.
 
@@ -33,4 +33,4 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 188 set
 
 Mira, Robag Wruhme, Chris Schwarzwälder
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

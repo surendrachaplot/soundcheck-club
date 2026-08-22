@@ -1,6 +1,6 @@
 # Sara Persico
 
-Sara Persico is a Experimental and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Panke, Berlin on Fri, 21 Aug 2026.
+Sara Persico is a Experimental and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Panke, Berlin on Fri, 21 Aug 2026.
 
 Sara Persico is an experimental and bass artist based in Italy, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Assyouti, Mika Oki and ABADIR. Next up: Panke, Berlin on Fri 21 Aug.
 
@@ -15,6 +15,7 @@ Sara Persico is an experimental and bass artist based in Italy, tracked on sound
 
 ## Recently played
 
+- Panke, Berlin — Fri, 21 Aug 2026
 - TBA - Fiume Calore, Naples — Sat, 11 Jul 2026
 - Gazometro, Rome — Fri, 10 Jul 2026
 - M.O.T, London — Sat, 6 Jun 2026
@@ -22,10 +23,9 @@ Sara Persico is an experimental and bass artist based in Italy, tracked on sound
 - Casa Montjuïc, Barcelona — Fri, 24 Apr 2026
 - Sala Estúdio Valentim de Barros, Lisbon — Wed, 22 Apr 2026
 - TBA - Secret Location near Jannowitzbrücke, Berlin — Sun, 19 Apr 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Assyouti, Mika Oki, ABADIR
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarapersico/)*

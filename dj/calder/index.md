@@ -1,8 +1,8 @@
 # Calder
 
-Calder is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
+Calder is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
 
-Calder is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dacxi, Manta and D'Nice. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
+Calder is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dacxi, Manta and D'Nice. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Calder is a house and progressive house artist based in United Kingdom, tracked 
 
 Dacxi, Manta, D'Nice
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calder/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calder/)*

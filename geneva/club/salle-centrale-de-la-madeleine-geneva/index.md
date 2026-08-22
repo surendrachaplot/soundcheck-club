@@ -1,6 +1,6 @@
 # Salle Centrale de la Madeleine, Geneva
 
-Salle Centrale de la Madeleine, Geneva is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "The World of John Williams by Ensemble BOW" on Fri, 11 Sept 2026.
+Salle Centrale de la Madeleine, Geneva is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "The World of John Williams by Ensemble BOW" on Fri, 11 Sept 2026.
 
 Salle Centrale de la Madeleine, Geneva is a music venue in Geneva listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Salle Centrale de la Madeleine, Geneva is a music venue in Geneva listed on soun
 | Fri, 11 Sept 2026 | The World of John Williams by Ensemble BOW |  |
 | Fri, 13 Nov 2026 | Interstellar: Tribute to Hans Zimmer by Mystery Ensemble |  |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/salle-centrale-de-la-madeleine-geneva/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/salle-centrale-de-la-madeleine-geneva/)*

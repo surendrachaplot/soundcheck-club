@@ -1,6 +1,6 @@
 # Gant-Man
 
-Gant-Man is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - LA, Los Angeles on Sat, 29 Aug 2026.
+Gant-Man is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - LA, Los Angeles on Sat, 29 Aug 2026.
 
 Gant-Man is a house and deep house artist tracked on soundcheck, with 26 sets logged across Chicago and Losangeles. Often billed alongside Czboogie, John Simmons and Gene Hunt. Next up: TBA - LA, Losangeles on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gant-Man is a house and deep house artist tracked on soundcheck, with 26 sets lo
 
 Czboogie, John Simmons, Gene Hunt
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gant-man-us/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gant-man-us/)*

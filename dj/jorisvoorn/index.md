@@ -1,6 +1,6 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
+Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
 
 Joris Voorn is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: TBA - Los Angeles, Losangeles on Sat 22 Aug.
 
@@ -33,4 +33,4 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 186 sets lo
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

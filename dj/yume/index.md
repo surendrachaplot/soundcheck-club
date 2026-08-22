@@ -1,6 +1,6 @@
 # Yume
 
-Yume is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Royal Lounge, Tokyo on Mon, 7 Sept 2026.
+Yume is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Royal Lounge, Tokyo on Mon, 7 Sept 2026.
 
 Yume is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Montreal, Naples, Osaka and Paris and 2 more. Often billed alongside SIGNAL (JP), AHREUM and ATT. Next up: Royal Lounge, Tokyo on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Yume is a techno and house artist based in United States of America, tracked on 
 
 SIGNAL (JP), AHREUM, ATT
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yume/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yume/)*

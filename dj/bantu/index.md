@@ -1,6 +1,6 @@
 # Bantu
 
-Bantu is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
+Bantu is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 14 Sept 2026.
 
 Bantu is an afro house and deep house artist based in South Africa, tracked on soundcheck, with 6 sets logged across Berlin, Ibiza, London and Losangeles and 2 more. Often billed alongside Andrea Oliva, Cincity and David Tort. Next up: Hï Ibiza, Ibiza on Mon 14 Sept.
 
@@ -22,4 +22,4 @@ Bantu is an afro house and deep house artist based in South Africa, tracked on s
 
 Andrea Oliva, Cincity, David Tort
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bantu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bantu/)*

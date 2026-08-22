@@ -1,19 +1,19 @@
 # maniaclina
 
-maniaclina is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+maniaclina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Z-Bau, Nürnberg on Sat, 3 Oct 2026.
 
-maniaclina is a techno and trance artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Cologne and Geneva and 10 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
+maniaclina is a techno and trance artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Cologne and Geneva and 10 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: Z-Bau, Nurnberg on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 3 Oct 2026 | Z-Bau | Nürnberg |
 | Sat, 24 Oct 2026 | Catonium | Hamburg |
 
 ## Recently played
 
+- CLUB OST & RENATE BERLIN, Berlin — Fri, 21 Aug 2026
 - Catonium, Hamburg — Sat, 1 Aug 2026
 - KitKatClub, Berlin — Fri, 31 Jul 2026
 - BFH Warehouse, Hamburg — Sat, 4 Jul 2026
@@ -21,10 +21,9 @@ maniaclina is a techno and trance artist tracked on soundcheck, with 113 sets lo
 - Acud Macht NEU, Berlin — Fri, 3 Jul 2026
 - Acud Macht NEU, Berlin — Fri, 3 Jul 2026
 - KitKatClub, Berlin — Wed, 1 Jul 2026
-- Prisma, Berlin — Thu, 25 Jun 2026
 
 ## Shares bills with
 
 Charlotte Lion, DJ Jordan, Sika Akis
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*

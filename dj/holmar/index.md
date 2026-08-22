@@ -1,14 +1,15 @@
 # Holmar
 
-Holmar is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Chocolate Factory, New York City on Thu, 10 Sept 2026.
+Holmar is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Chocolate Factory, New York City on Thu, 10 Sept 2026.
 
-Holmar is a house and deep house artist based in Iceland, tracked on soundcheck, with 27 sets logged across Berlin, Lisbon, Losangeles and Miami and 5 more. Often billed alongside Eddy Ali, Dax Lee and Jimbo James. Next up: The Chocolate Factory, Newyorkcity on Thu 10 Sept.
+Holmar is a house and deep house artist based in Iceland, tracked on soundcheck, with 28 sets logged across Berlin, Lisbon, Losangeles and Miami and 5 more. Often billed alongside Eddy Ali, Shane One and Dax Lee. Next up: The Chocolate Factory, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | The Chocolate Factory | New York City |
+| Sun, 27 Sept 2026 | The Sultan Room | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Holmar is a house and deep house artist based in Iceland, tracked on soundcheck,
 
 ## Shares bills with
 
-Eddy Ali, Dax Lee, Jimbo James
+Eddy Ali, Shane One, Dax Lee
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holmar/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holmar/)*

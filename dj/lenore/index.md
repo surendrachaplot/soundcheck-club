@@ -1,8 +1,8 @@
 # Lenore
 
-Lenore is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Zuzu, Boston on Sat, 22 Aug 2026.
+Lenore is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Zuzu, Boston on Sat, 22 Aug 2026.
 
-Lenore is a drum & bass and jungle artist tracked on soundcheck, with 109 sets logged across Boston, Milan and Washingtondc. Often billed alongside Mizeyesis, Sully and Terraphorm. Next up: Zuzu, Boston on Sat 22 Aug.
+Lenore is a drum & bass and jungle artist tracked on soundcheck, with 110 sets logged across Boston, Milan and Washingtondc. Often billed alongside Mizeyesis, Sully and Terraphorm. Next up: Zuzu, Boston on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lenore is a drum & bass and jungle artist tracked on soundcheck, with 109 sets l
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Zuzu | Boston |
 | Fri, 28 Aug 2026 | The Chemist | Boston |
+| Thu, 3 Sept 2026 | Phoenix Landing | Boston |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lenore is a drum & bass and jungle artist tracked on soundcheck, with 109 sets l
 
 Mizeyesis, Sully, Terraphorm
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenore/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenore/)*

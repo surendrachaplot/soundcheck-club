@@ -1,6 +1,6 @@
 # theories
 
-theories is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+theories is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 theories is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin and Brussels. Often billed alongside MFX (1), Menzel and DJ Buona Sara. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ theories is a techno and house artist tracked on soundcheck, with 25 sets logged
 
 MFX (1), Menzel, DJ Buona Sara
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*

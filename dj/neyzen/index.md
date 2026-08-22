@@ -1,6 +1,6 @@
 # Neyzen
 
-Neyzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ficken 3000, Berlin on Sat, 22 Aug 2026.
+Neyzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ficken 3000, Berlin on Sat, 22 Aug 2026.
 
 Neyzen is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin and Istanbul. Often billed alongside B-DRIVE, INTENSA and gredeson. Next up: Ficken 3000, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Neyzen is a techno and house artist tracked on soundcheck, with 15 sets logged a
 
 B-DRIVE, INTENSA, gredeson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neyzen/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neyzen/)*

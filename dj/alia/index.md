@@ -1,6 +1,6 @@
 # AliA
 
-AliA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+AliA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 AliA is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Lefto Early Bird, Mankiyan and Zenker Brothers. Next up: The Cause, London on Sat 22 Aug.
 
@@ -10,7 +10,7 @@ AliA is a house and techno artist tracked on soundcheck, with 109 sets logged ac
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | The Cause | London |
 | Sun, 20 Sept 2026 | Vaux-Hall | Brussels |
-| Fri, 25 Sept 2026 | HERE | London |
+| Fri, 25 Sept 2026 | Outernet Live | London |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
@@ -28,4 +28,4 @@ AliA is a house and techno artist tracked on soundcheck, with 109 sets logged ac
 
 Lefto Early Bird, Mankiyan, Zenker Brothers
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alia/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alia/)*

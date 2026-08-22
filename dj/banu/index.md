@@ -1,8 +1,8 @@
 # Banu
 
-Banu is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Banu is a Experimental and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
 
-Banu is an ambient and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Istanbul, Lisbon and Madrid and 1 more. Often billed alongside Alexy, Saint Caboclo and THIRTEEN DOZE. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
+Banu is an experimental and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Istanbul, Lisbon and Madrid and 1 more. Often billed alongside Alexy, Saint Caboclo and THIRTEEN DOZE. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Banu is an ambient and house artist based in Germany, tracked on soundcheck, wit
 
 Alexy, Saint Caboclo, THIRTEEN DOZE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banu/)*

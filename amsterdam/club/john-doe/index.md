@@ -1,8 +1,8 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 36 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "UNDERCORE - Peak Time - Hard Techno" on Fri, 21 Aug 2026.
+John Doe is a music venue in Amsterdam with 40 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "UNDERCORE - Peak Time - Hard Techno" on Fri, 21 Aug 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 36 upcoming nights, with line-ups including Alex Medina, ARTISTIKK, Alex Sharp and Billy Currie and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 40 upcoming nights, with line-ups including Alex Medina, ARTISTIKK, Alex Sharp and Bastiaan and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 36 upcoming nights,
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

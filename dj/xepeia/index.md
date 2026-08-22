@@ -1,6 +1,6 @@
 # Xepeia
 
-Xepeia is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
+Xepeia is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
 
 Xepeia is a techno and acid artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Diana May, Bazeja and Sanja Lapsin. Next up: Void Club, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Xepeia is a techno and acid artist tracked on soundcheck, with 10 sets logged ac
 
 Diana May, Bazeja, Sanja Lapsin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xepeia/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xepeia/)*

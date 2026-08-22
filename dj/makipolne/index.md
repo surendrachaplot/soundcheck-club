@@ -1,8 +1,8 @@
 # Maki Polne
 
-Maki Polne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Maki Polne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
-Maki Polne is a house and disco artist based in Poland, tracked on soundcheck, with 24 sets logged across Bangkok, Berlin and Warsaw. Often billed alongside Cesar Merveille, Rhadoo and Topper. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
+Maki Polne is a house and disco artist based in Poland, tracked on soundcheck, with 24 sets logged across Bangkok, Berlin and Warsaw. Often billed alongside Cesar Merveille, Topper and Katsuya Sano. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Maki Polne is a house and disco artist based in Poland, tracked on soundcheck, w
 
 ## Shares bills with
 
-Cesar Merveille, Rhadoo, Topper
+Cesar Merveille, Topper, Katsuya Sano
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makipolne/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makipolne/)*

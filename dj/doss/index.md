@@ -1,6 +1,6 @@
 # Doss
 
-Doss is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Dining Hall, Glasgow University Union, Glasgow on Sat, 22 Aug 2026.
+Doss is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Dining Hall, Glasgow University Union, Glasgow on Sat, 22 Aug 2026.
 
 Doss is a club and techno artist tracked on soundcheck, with 52 sets logged across Athens, Austin, Berlin and Brisbane and 19 more. Often billed alongside Yves Tumor, 1NN3R53LF and CFCF. Next up: The Dining Hall, Glasgow University Union, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Doss is a club and techno artist tracked on soundcheck, with 52 sets logged acro
 
 Yves Tumor, 1NN3R53LF, CFCF
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doss/)*

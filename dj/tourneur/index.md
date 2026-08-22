@@ -1,6 +1,6 @@
 # Tourneur
 
-Tourneur is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Tourneur is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Tourneur is a house and deep house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Dusseldorf. Often billed alongside Alex Grebe, Adam Charaf and Cali Caracho. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Tourneur is a house and deep house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Graf Adolf Platz, Düsseldorf — Fri, 21 Aug 2026
 - Süss War Gestern, Berlin — Tue, 19 May 2026
 - Bulbul Berlin, Berlin — Sat, 4 Oct 2025
 - Verve5 Rooftop, Düsseldorf — Sun, 28 Jul 2024
@@ -21,4 +22,4 @@ Tourneur is a house and deep house artist based in Germany, tracked on soundchec
 
 Alex Grebe, Adam Charaf, Cali Caracho
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tourneur/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tourneur/)*

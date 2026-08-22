@@ -1,6 +1,6 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Colorado Charlie, The Hague on Sat, 22 Aug 2026.
+Jan Blomqvist is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Colorado Charlie, The Hague on Sat, 22 Aug 2026.
 
 Jan Blomqvist is a house and deep house artist based in Germany, tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside WhoMadeWho, Bedouin and Colyn. Next up: Colorado Charlie, Thehague on Sat 22 Aug.
 
@@ -31,4 +31,4 @@ Jan Blomqvist is a house and deep house artist based in Germany, tracked on soun
 
 WhoMadeWho, Bedouin, Colyn
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

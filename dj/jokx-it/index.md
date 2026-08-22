@@ -1,6 +1,6 @@
 # JOKX
 
-JOKX is a Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Park.Cologne, Cologne on Sat, 29 Aug 2026.
+JOKX is a Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Park.Cologne, Cologne on Sat, 29 Aug 2026.
 
 JOKX is a trance artist tracked on soundcheck, with 5 sets logged across Cologne. Often billed alongside Atzendent, BabaBass3000 and CRITICAL ERROR 404. Next up: Park.Cologne, Cologne on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ JOKX is a trance artist tracked on soundcheck, with 5 sets logged across Cologne
 
 Atzendent, BabaBass3000, CRITICAL ERROR 404
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jokx-it/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jokx-it/)*

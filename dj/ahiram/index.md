@@ -1,6 +1,6 @@
 # Ahiram
 
-Ahiram is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
+Ahiram is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
 
 Ahiram is a minimal and electronica artist based in Sweden, tracked on soundcheck, with 9 sets logged across Oslo and Stockholm. Often billed alongside Victor Norman, Franca and Hraach. Next up: Gazebo, Stockholm on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ahiram is a minimal and electronica artist based in Sweden, tracked on soundchec
 
 Victor Norman, Franca, Hraach
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahiram/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahiram/)*

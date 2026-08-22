@@ -1,14 +1,13 @@
 # BUS Hexperience
 
-BUS Hexperience is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "FREE OPEN AIR // Bus Hexperience" on Fri, 21 Aug 2026.
+BUS Hexperience is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "OPEN AIR // Bus Hexperience" on Sat, 22 Aug 2026.
 
-BUS Hexperience is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Little Dumbo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
+BUS Hexperience is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Little Dumbo. Browse upcoming dates, start times and who's playing. C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |
 | Sat, 22 Aug 2026 | OPEN AIR // Bus Hexperience |  |
 | Sun, 23 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |
 | Thu, 27 Aug 2026 | FREE OPEN AIR // Bus Hexperience |  |
@@ -20,4 +19,4 @@ BUS Hexperience is a music venue in Barcelona listed on soundcheck. 7 upcoming n
 
 C/ Port Esportiu, 14, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bus-hexperience/)*

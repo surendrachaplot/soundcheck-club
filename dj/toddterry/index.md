@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
+Todd Terry is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 Todd Terry is a house and disco artist tracked on soundcheck, with 147 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Fri 21 Aug.
 
@@ -23,6 +23,7 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 147 sets logg
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Fri, 21 Aug 2026
 - Freeze HiFi, Liverpool — Wed, 19 Aug 2026
 - Joshua Brooks, Manchester — Sat, 1 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 147 sets logg
 - O Beach, Ibiza — Thu, 23 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
 - The Vault, London — Sat, 4 Jul 2026
-- Orrell Hill Woods, Liverpool — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

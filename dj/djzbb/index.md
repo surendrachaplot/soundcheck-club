@@ -1,6 +1,6 @@
 # DJ ZBB
 
-DJ ZBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+DJ ZBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, with 14 sets logged across Bangkok, Barcelona, Berlin and Prague and 2 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Esther Silex. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, w
 
 ## Recently played
 
+- Kater, Berlin — Fri, 21 Aug 2026
 - Renate, Berlin — Sat, 15 Aug 2026
 - Kater, Berlin — Sat, 11 Jul 2026
 - Golden Gate, Berlin — Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ DJ ZBB is a house and techno artist based in Australia, tracked on soundcheck, w
 - Village Underground Barcelona, Barcelona — Sat, 23 May 2026
 - SASS Music Club, Vienna — Fri, 8 May 2026
 - Porto Pollo, Vienna — Fri, 8 May 2026
-- TBA - Plänterwald, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 Britta Arnold, Chris Schwarzwälder, Esther Silex
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzbb/)*

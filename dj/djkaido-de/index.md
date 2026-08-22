@@ -1,6 +1,6 @@
 # DJ KAIDO
 
-DJ KAIDO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+DJ KAIDO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
 DJ KAIDO is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Cologne and Leipzig. Often billed alongside 3LEEZA, Cobb Douglas and DaSoMaZo. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ KAIDO is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 3LEEZA, Cobb Douglas, DaSoMaZo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*

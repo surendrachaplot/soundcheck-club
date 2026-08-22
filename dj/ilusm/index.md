@@ -1,14 +1,15 @@
 # ILUSM
 
-ILUSM is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
+ILUSM is a Club and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
 
-ILUSM is a club and hardcore artist based in United States of America, tracked on soundcheck, with 18 sets logged across Washingtondc. Often billed alongside DJ KORIS, Franxx and Girlypop Princess. Next up: TRANSMISSION DC, Washingtondc on Sat 29 Aug.
+ILUSM is a club and hardcore artist based in United States of America, tracked on soundcheck, with 19 sets logged across Washingtondc. Often billed alongside Franxx, Girlypop Princess and DJ KORIS. Next up: TRANSMISSION DC, Washingtondc on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TRANSMISSION DC | Washington DC |
+| Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ILUSM is a club and hardcore artist based in United States of America, tracked o
 
 ## Shares bills with
 
-DJ KORIS, Franxx, Girlypop Princess
+Franxx, Girlypop Princess, DJ KORIS
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilusm/)*

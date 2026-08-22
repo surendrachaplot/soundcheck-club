@@ -1,14 +1,13 @@
 # Rishi Romero
 
-Rishi Romero is a Hip-Hop and R&B artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club Leidse, Amsterdam on Fri, 21 Aug 2026.
+Rishi Romero is a Hip-Hop and R&B artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club Leidse, Amsterdam on Sat, 22 Aug 2026.
 
-Rishi Romero is a hip-hop and r&b artist tracked on soundcheck, with 52 sets logged across Amsterdam. Often billed alongside Oscar Osorio and Daff. Next up: Club Leidse, Amsterdam on Fri 21 Aug.
+Rishi Romero is a hip-hop and r&b artist tracked on soundcheck, with 52 sets logged across Amsterdam. Often billed alongside Oscar Osorio and Daff. Next up: Club Leidse, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Club Leidse | Amsterdam |
 | Sat, 22 Aug 2026 | Club Leidse | Amsterdam |
 | Fri, 28 Aug 2026 | Club Leidse | Amsterdam |
 | Sat, 29 Aug 2026 | Club Leidse | Amsterdam |
@@ -20,6 +19,7 @@ Rishi Romero is a hip-hop and r&b artist tracked on soundcheck, with 52 sets log
 
 ## Recently played
 
+- Club Leidse, Amsterdam — Fri, 21 Aug 2026
 - Club Leidse, Amsterdam — Sat, 15 Aug 2026
 - Club Leidse, Amsterdam — Fri, 14 Aug 2026
 - Club Leidse, Amsterdam — Sat, 8 Aug 2026
@@ -27,10 +27,9 @@ Rishi Romero is a hip-hop and r&b artist tracked on soundcheck, with 52 sets log
 - Club Leidse, Amsterdam — Sat, 1 Aug 2026
 - Club Leidse, Amsterdam — Fri, 31 Jul 2026
 - Club Leidse, Amsterdam — Sat, 25 Jul 2026
-- Club Leidse, Amsterdam — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Oscar Osorio, Daff
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rishiromero/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rishiromero/)*

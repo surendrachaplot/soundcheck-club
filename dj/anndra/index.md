@@ -1,6 +1,6 @@
 # ANNDRA
 
-ANNDRA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+ANNDRA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
 ANNDRA is a techno and industrial artist tracked on soundcheck, with 3 sets logged across Berlin, Riga and Tallinn. Often billed alongside NØSARA, 044 Jaw and DEP (LV). Next up: Korpuss, Riga on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ ANNDRA is a techno and industrial artist tracked on soundcheck, with 3 sets logg
 
 NØSARA, 044 Jaw, DEP (LV)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anndra/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anndra/)*

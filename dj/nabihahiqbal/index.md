@@ -1,14 +1,15 @@
 # Nabihah Iqbal
 
-Nabihah Iqbal is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Nabihah Iqbal is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 26 more. Often billed alongside Habibi Funk, Budino and CARISTA. Next up: Southwark Park, London on Sat 29 Aug.
+Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 84 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 26 more. Often billed alongside Habibi Funk, Optimo (Espacio) and Budino. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Southwark Park | London |
+| Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 | Sun, 13 Sept 2026 | public records | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ Nabihah Iqbal is a house and funk / soul artist tracked on soundcheck, with 83 s
 
 ## Shares bills with
 
-Habibi Funk, Budino, CARISTA
+Habibi Funk, Optimo (Espacio), Budino
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabihahiqbal/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nabihahiqbal/)*

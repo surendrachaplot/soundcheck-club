@@ -1,6 +1,6 @@
 # DC81
 
-DC81 is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
+DC81 is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
 
 DC81 is a house and electronica artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Mganz, juliboe and GUS PICCO. Next up: Discoteca Karma, Barcelona on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ DC81 is a house and electronica artist tracked on soundcheck, with 8 sets logged
 
 Mganz, juliboe, GUS PICCO
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dc81/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dc81/)*

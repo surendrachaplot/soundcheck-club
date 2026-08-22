@@ -1,6 +1,6 @@
 # Dimuth K
 
-Dimuth K is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bunker Toronto, Toronto on Fri, 11 Sept 2026.
+Dimuth K is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bunker Toronto, Toronto on Fri, 11 Sept 2026.
 
 Dimuth K is a progressive house and deep house artist tracked on soundcheck, with 22 sets logged across Amsterdam, London, Melbourne and Montreal and 1 more. Often billed alongside Simply City, Hernan Cattaneo and Adiel. Next up: Bunker Toronto, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dimuth K is a progressive house and deep house artist tracked on soundcheck, wit
 
 Simply City, Hernan Cattaneo, Adiel
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*

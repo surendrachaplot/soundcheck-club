@@ -1,6 +1,6 @@
 # Stelios Vassiloudis
 
-Stelios Vassiloudis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Shenzhen Songshan Sensea Mountain and Resort, Shenzhen on Sat, 29 Aug 2026.
+Stelios Vassiloudis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Shenzhen Songshan Sensea Mountain and Resort, Shenzhen on Sat, 29 Aug 2026.
 
 Stelios Vassiloudis is a house and techno artist based in Greece, tracked on soundcheck, with 27 sets logged across Athens, Bali, Bangkok and Barcelona and 10 more. Often billed alongside DJ Anthony2, Funk D'Void and James Taylor (AU). Next up: Shenzhen Songshan Sensea Mountain and Resort, Shenzhen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Stelios Vassiloudis is a house and techno artist based in Greece, tracked on sou
 
 DJ Anthony2, Funk D'Void, James Taylor (AU)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steliosvassiloudis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steliosvassiloudis/)*

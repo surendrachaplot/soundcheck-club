@@ -1,6 +1,6 @@
 # Keilecafe
 
-Keilecafe is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Krackfree Soundsystem 10 Years Anniversary Event - Rotterdam" on Sat, 5 Sept 2026.
+Keilecafe is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Krackfree Soundsystem 10 Years Anniversary Event - Rotterdam" on Sat, 5 Sept 2026.
 
 Keilecafe is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Vierhavensstraat 46, 3029 BG Rotterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Keilecafe is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. 
 
 Vierhavensstraat 46, 3029 BG Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/keilecafe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/keilecafe/)*

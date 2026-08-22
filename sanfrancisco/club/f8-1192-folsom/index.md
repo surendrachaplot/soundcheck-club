@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Matt Jereza's Birthday Takeover at F8" on Fri, 21 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "DVALITY INVITES NW0: DRO: CHAOS " on Sat, 22 Aug 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including Akumen, ANDYLAND, Andy Oro and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -8,8 +8,8 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 13 upcomin
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Matt Jereza's Birthday Takeover at F8 | Camillionaire, dj kelleyjane, ggpete |
 | Sat, 22 Aug 2026 | DVALITY INVITES NW0: DRO: CHAOS  |  |
+| Sun, 23 Aug 2026 | Stamina presents Lukeino | Lukeino |
 | Tue, 25 Aug 2026 | INTERZONE - MATRIX PARTY | Byter, Hex Embrace, Hopelesss |
 | Wed, 26 Aug 2026 | JustJovani'S TECHNO BIRTHDAY  | JustJovani |
 | Wed, 26 Aug 2026 | Strut SF and F8 present DJ Mes | DJ Mes, Matthew Brian, Sharon Buck |
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 13 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

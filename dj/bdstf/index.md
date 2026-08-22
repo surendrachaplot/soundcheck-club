@@ -1,6 +1,6 @@
 # bdstf
 
-bdstf is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at La Marbrerie, Paris on Sat, 26 Sept 2026.
+bdstf is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at La Marbrerie, Paris on Sat, 26 Sept 2026.
 
 bdstf is a club and experimental artist tracked on soundcheck, with 17 sets logged across Berlin, Hamburg, London and Paris and 1 more. Often billed alongside IRL (2), Laura Trance and Organ Tapes. Next up: La Marbrerie, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ bdstf is a club and experimental artist tracked on soundcheck, with 17 sets logg
 
 IRL (2), Laura Trance, Organ Tapes
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bdstf/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bdstf/)*

@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - The Brick Yard, Sheffield on Sat, 22 Aug 2026.
+Big Ang is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - The Brick Yard, Sheffield on Sat, 22 Aug 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Jamie Duggan, Silva Bumpa and Chad Harrison. Next up: TBA - The Brick Yard, Sheffield on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Big Ang is a bass and garage artist based in United Kingdom, tracked on soundche
 
 Jamie Duggan, Silva Bumpa, Chad Harrison
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

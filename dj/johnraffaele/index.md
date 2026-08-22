@@ -1,6 +1,6 @@
 # John Raffaele
 
-John Raffaele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jolene, Copenhagen on Sat, 22 Aug 2026.
+John Raffaele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Jolene, Copenhagen on Sat, 22 Aug 2026.
 
 John Raffaele is a house and techno artist tracked on soundcheck, with 75 sets logged across Austin, Barcelona, Boston and Brussels and 8 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: Jolene, Copenhagen on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ John Raffaele is a house and techno artist tracked on soundcheck, with 75 sets l
 
 Keen, Sweater, Rob Paine
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*

@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "am:topia" on Sat, 22 Aug 2026.
+Celeste is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "am:topia" on Sat, 22 Aug 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Boogaloo Steve, eyris, Mischa Beton and Nilya and 1 more. Browse upcoming dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -16,4 +16,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

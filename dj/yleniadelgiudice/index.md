@@ -1,6 +1,6 @@
 # Ylenia Del Giudice
 
-Ylenia Del Giudice is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Calatheabeachclub, Naples on Sat, 22 Aug 2026.
+Ylenia Del Giudice is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Calatheabeachclub, Naples on Sat, 22 Aug 2026.
 
 Ylenia Del Giudice is a deep house and disco artist tracked on soundcheck, with 7 sets logged across Naples and Zurich. Often billed alongside Gigi Testa, Fabrizio Fattore and Gerd Janson. Next up: Calatheabeachclub, Naples on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Ylenia Del Giudice is a deep house and disco artist tracked on soundcheck, with 
 
 Gigi Testa, Fabrizio Fattore, Gerd Janson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yleniadelgiudice/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yleniadelgiudice/)*

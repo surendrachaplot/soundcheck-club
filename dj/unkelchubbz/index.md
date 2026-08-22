@@ -1,6 +1,6 @@
 # Unkelchubbz
 
-Unkelchubbz is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Nué Seoul, Seoul on Sat, 22 Aug 2026.
+Unkelchubbz is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Nué Seoul, Seoul on Sat, 22 Aug 2026.
 
 Unkelchubbz is an afro house and deep house artist tracked on soundcheck, with 34 sets logged across Seoul. Often billed alongside Beijo Bae, Zion and KARLLLL. Next up: Nué Seoul, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Unkelchubbz is an afro house and deep house artist tracked on soundcheck, with 3
 
 Beijo Bae, Zion, KARLLLL
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unkelchubbz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unkelchubbz/)*

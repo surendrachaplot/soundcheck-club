@@ -1,6 +1,6 @@
 # KEINKOLLEKTIV X NEW KIDS at Distillery
 
-KEINKOLLEKTIV X NEW KIDS at Distillery on Sat 29 Aug, Leipzig. 6 acts on the bill: Bi Män, Delirante, DJ Skonti and han/nah and 2 more. Trance and House. Preview the line-up and save it on soundcheck.
+KEINKOLLEKTIV X NEW KIDS at Distillery on Sat 29 Aug, Leipzig. 7 acts on the bill: Bi Män, Delirante, DJ Skonti and han/nah and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ KEINKOLLEKTIV X NEW KIDS at Distillery on Sat 29 Aug, Leipzig. 6 acts on the bil
 - han/nah
 - LuckyLeo
 - Timstagram
+- vinyldependents
 
 *Source: [soundcheck](https://soundcheck.club/e/2482110-keinkollektiv-x-new-kids-at-distillery/)*

@@ -1,6 +1,6 @@
 # Avyakt
 
-Avyakt is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 1990, Glasgow on Sat, 22 Aug 2026.
+Avyakt is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 1990, Glasgow on Sat, 22 Aug 2026.
 
 Avyakt is a tech house and afro house artist based in India, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside Psync and Shoestepper.music. Next up: 1990, Glasgow on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ Avyakt is a tech house and afro house artist based in India, tracked on soundche
 
 Psync, Shoestepper.music
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avyakt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avyakt/)*

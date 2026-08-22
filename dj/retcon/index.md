@@ -1,6 +1,6 @@
 # RETCON
 
-RETCON is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
+RETCON is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
 
 RETCON is a techno and experimental artist tracked on soundcheck, with 28 sets logged across Detroit and Losangeles. Often billed alongside Kuuma, nels the operator and OMO (US). Next up: Paris Bar, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ RETCON is a techno and experimental artist tracked on soundcheck, with 28 sets l
 
 Kuuma, nels the operator, OMO (US)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retcon/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retcon/)*

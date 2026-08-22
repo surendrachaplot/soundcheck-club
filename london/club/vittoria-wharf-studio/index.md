@@ -1,19 +1,19 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Bailey Ibbs (House Set) - Hybrid Events " on Fri, 21 Aug 2026.
+Vittoria Wharf Studio is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "[FREE] Ossia Summer Day Party - Hackney Wick" on Sun, 23 Aug 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Amaliah, AmeliaBC, Arnault and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Amaliah, AmeliaBC, Arnault and CAMIVINA and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Bailey Ibbs (House Set) - Hybrid Events  | Bailey Ibbs |
-| Sun, 23 Aug 2026 | [FREE] Ossia Summer Day Party - Hackney Wick |  |
+| Sun, 23 Aug 2026 | [FREE] Ossia Summer Day Party - Hackney Wick | Tibasko |
 | Sat, 29 Aug 2026 | TranceParty:Preflight | Evian Christ, seretide |
 | Sat, 5 Sept 2026 | London Love Letter by Night | Amaliah, AmeliaBC, Danielle |
 | Sat, 5 Sept 2026 | Collide x Amaeo Label w/ SKALA & Theologos Day Party | Arnault, Greg Nox, Patrick Serhal, SKALA, Theologos |
 | Sat, 12 Sept 2026 | Amalfi Music x Bassic | Rhiavas, Wooka |
+| Fri, 25 Sept 2026 | Club Arcano III |  |
 | Sun, 27 Sept 2026 | Wachphase | CAMIVINA, LIL DARK ONE, Oculus., Tara Erizo, Tasman-UK, Vivra Verra |
 | Fri, 16 Oct 2026 | Nicky Elisabeth | Nicky Elisabeth |
 | Sat, 14 Nov 2026 | Riley presents Get with The Program - London |  |
@@ -22,4 +22,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 9 upcomin
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

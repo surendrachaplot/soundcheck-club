@@ -1,6 +1,6 @@
 # Concrete Husband
 
-Concrete Husband is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
+Concrete Husband is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
 
 Concrete Husband is a techno and house artist tracked on soundcheck, with 124 sets logged across Berlin, Boston, Copenhagen and Mexicocity and 5 more. Often billed alongside ALL EXITS, Juana and KXAH. Next up: TBA - 1 INGRAHAM ST, Newyorkcity on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Concrete Husband is a techno and house artist tracked on soundcheck, with 124 se
 
 ALL EXITS, Juana, KXAH
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*

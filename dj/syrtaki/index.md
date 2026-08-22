@@ -1,6 +1,6 @@
 # Syrtaki
 
-Syrtaki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Syrtaki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Syrtaki is a techno and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Thomas Hoffmann, Jonas Hilkert and ARCYDARO. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Syrtaki is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 Thomas Hoffmann, Jonas Hilkert, ARCYDARO
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syrtaki/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syrtaki/)*

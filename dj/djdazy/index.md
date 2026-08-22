@@ -1,6 +1,6 @@
 # DJ Dazy
 
-DJ Dazy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
+DJ Dazy is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
 
 DJ Dazy is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Portland and Sandiego. Often billed alongside DJ Colette, Ben Annand and DJ Heather. Next up: The Monty Bar, Losangeles on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ DJ Dazy is a house and deep house artist based in United States of America, trac
 
 DJ Colette, Ben Annand, DJ Heather
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*

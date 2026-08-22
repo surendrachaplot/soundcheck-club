@@ -1,6 +1,6 @@
 # Aniza (DE)
 
-Aniza (DE) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Climax-Institutes, Stuttgart on Fri, 21 Aug 2026.
+Aniza (DE) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Climax-Institutes, Stuttgart on Fri, 21 Aug 2026.
 
 Aniza (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg and Stuttgart. Often billed alongside crystal crimez (2), CALiACRA and 4materasu. Next up: Climax-Institutes, Stuttgart on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Aniza (DE) is a trance and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- Climax-Institutes, Stuttgart — Fri, 21 Aug 2026
 - Lehmann Club, Stuttgart — Fri, 29 May 2026
 - Fundbureau, Hamburg — Fri, 22 May 2026
 - Climax-Institutes, Stuttgart — Fri, 17 Apr 2026
@@ -23,4 +24,4 @@ Aniza (DE) is a trance and techno artist based in Germany, tracked on soundcheck
 
 crystal crimez (2), CALiACRA, 4materasu
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniza-de/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniza-de/)*

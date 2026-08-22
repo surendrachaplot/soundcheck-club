@@ -1,6 +1,6 @@
 # Jacob Grosse
 
-Jacob Grosse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ground Level Studios, Los Angeles on Sat, 22 Aug 2026.
+Jacob Grosse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ground Level Studios, Los Angeles on Sat, 22 Aug 2026.
 
 Jacob Grosse is a techno and trance artist tracked on soundcheck, with 8 sets logged across Denver, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Ashley Anngora, Mija and Artsychoke. Next up: Ground Level Studios, Losangeles on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ Jacob Grosse is a techno and trance artist tracked on soundcheck, with 8 sets lo
 
 Ashley Anngora, Mija, Artsychoke
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobgrosse/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobgrosse/)*

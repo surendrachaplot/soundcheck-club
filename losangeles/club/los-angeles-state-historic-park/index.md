@@ -1,13 +1,14 @@
 # Los Angeles State Historic Park
 
-Los Angeles State Historic Park is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Day Trip In The Park LA: Discip, Adam Sellouk, Gabss, Welker" on Sun, 23 Aug 2026.
+Los Angeles State Historic Park is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "1headzan" on Sat, 22 Aug 2026.
 
-Los Angeles State Historic Park is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Adam Auburn, Adam Sellouk, Archie Hamilton and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. 1245 N. Spring St, Los Angeles, CA 90012.
+Los Angeles State Historic Park is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Adam Auburn, Adam Sellouk, Archie Hamilton and Armand Van Helden and 2 more. Browse upcoming dates, start times and who's playing. 1245 N. Spring St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | 1headzan |  |
 | Sun, 23 Aug 2026 | Day Trip In The Park LA: Discip, Adam Sellouk, Gabss, Welker | Adam Sellouk |
 | Sun, 30 Aug 2026 | Day Trip In The Park LA: Loco Dice, Archie Hamilton | Archie Hamilton, Loco Dice |
 | Sun, 6 Sept 2026 | Day Trip In The Park LA: [PIV Takeover] Gaskin, Prunk, Robbie Doherty, Kellie Allen | Gaskin, Kellie Allen, Prunk, Robbie Doherty |
@@ -18,4 +19,4 @@ Los Angeles State Historic Park is a music venue in Losangeles listed on soundch
 
 1245 N. Spring St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-angeles-state-historic-park/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-angeles-state-historic-park/)*

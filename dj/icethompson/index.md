@@ -1,6 +1,6 @@
 # ICE THOMPSON
 
-ICE THOMPSON is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sun, 30 Aug 2026.
+ICE THOMPSON is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Roof Terrace BK, New York City on Sun, 30 Aug 2026.
 
 ICE THOMPSON is a house and deep house artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Andre Zimmer, Ben Sterling and Guzt. Next up: Roof Terrace BK, Newyorkcity on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ ICE THOMPSON is a house and deep house artist tracked on soundcheck, with 5 sets
 
 Andre Zimmer, Ben Sterling, Guzt
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icethompson/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/icethompson/)*

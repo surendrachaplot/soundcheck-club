@@ -1,6 +1,6 @@
 # Tamen
 
-Tamen is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 12 Sept 2026.
+Tamen is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at QQQ ST. Park, Melbourne on Sat, 12 Sept 2026.
 
 Tamen is a jungle and bass artist tracked on soundcheck, with 29 sets logged across Barcelona, Brisbane, Cork and Dublin and 7 more. Often billed alongside Pugilist, Emelyne and Ham (5). Next up: QQQ ST. Park, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tamen is a jungle and bass artist tracked on soundcheck, with 29 sets logged acr
 
 Pugilist, Emelyne, Ham (5)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamen/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamen/)*

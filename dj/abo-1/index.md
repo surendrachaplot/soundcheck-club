@@ -1,6 +1,6 @@
 # Abo Abo
 
-Abo Abo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 4 Sept 2026.
+Abo Abo is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 4 Sept 2026.
 
 Abo Abo is a techno and experimental artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 14 more. Often billed alongside TOMO (2), Marco Maldarella and Plastique01. Next up: Ankali & Planeta Za, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Abo Abo is a techno and experimental artist tracked on soundcheck, with 22 sets 
 
 TOMO (2), Marco Maldarella, Plastique01
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*

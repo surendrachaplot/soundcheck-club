@@ -1,8 +1,8 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+Olivia Mendez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
 
-Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Freddy K and MARRØN. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
+Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Freddy K and MARRØN. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 | Sun, 30 Aug 2026 | De Fik Garden | Amsterdam |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
+| Sat, 17 Oct 2026 | Gaffe | London |
+| Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 
 Chami, Freddy K, MARRØN
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

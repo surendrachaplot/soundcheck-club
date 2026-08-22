@@ -1,6 +1,6 @@
 # LASK (2)
 
-LASK (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
+LASK (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 LASK (2) is a house and techno artist based in Greece, tracked on soundcheck, with 29 sets logged across Athens and Barcelona. Often billed alongside Alexxx, PAZ WAZ HERE and Rele. Next up: Almar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ LASK (2) is a house and techno artist based in Greece, tracked on soundcheck, wi
 
 Alexxx, PAZ WAZ HERE, Rele
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lask-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lask-2/)*

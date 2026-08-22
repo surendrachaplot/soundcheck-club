@@ -1,6 +1,6 @@
 # Refilled
 
-Refilled is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Walnut Bar & Grill, New York City on Sat, 22 Aug 2026.
+Refilled is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Walnut Bar & Grill, New York City on Sat, 22 Aug 2026.
 
 Refilled is a club and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity and Philadelphia. Often billed alongside Flash Gea, Traps N Trees and shekdash. Next up: Walnut Bar & Grill, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Refilled is a club and house artist based in United States of America, tracked o
 
 Flash Gea, Traps N Trees, shekdash
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/refilled/)*

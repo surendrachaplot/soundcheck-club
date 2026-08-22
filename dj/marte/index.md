@@ -1,6 +1,6 @@
 # Marte
 
-Marte is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Marte is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Marte is a house and techno artist tracked on soundcheck, with 10 sets logged across Miami and Milan. Often billed alongside Berrakka, Danny Daze and Nicole Gallamini. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Marte is a house and techno artist tracked on soundcheck, with 10 sets logged ac
 
 Berrakka, Danny Daze, Nicole Gallamini
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*

@@ -1,6 +1,6 @@
 # Hansn
 
-Hansn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Romantica, Stuttgart on Fri, 21 Aug 2026.
+Hansn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Romantica, Stuttgart on Fri, 21 Aug 2026.
 
 Hansn is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Stuttgart. Often billed alongside Dominik Krammer, Hannes Schuchardt and BLAK & CRÉER. Next up: Romantica, Stuttgart on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Hansn is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- Romantica, Stuttgart — Fri, 21 Aug 2026
 - Romantica, Stuttgart — Fri, 17 Jul 2026
 - Romantica, Stuttgart — Fri, 22 May 2026
 - Romantica, Stuttgart — Fri, 24 Apr 2026
@@ -19,10 +20,9 @@ Hansn is a techno and house artist based in Germany, tracked on soundcheck, with
 - Romantica, Stuttgart — Fri, 27 Feb 2026
 - Romantica, Stuttgart — Fri, 23 Jan 2026
 - Romantica, Stuttgart — Fri, 26 Dec 2025
-- Romantica, Stuttgart — Fri, 26 Sept 2025
 
 ## Shares bills with
 
 Dominik Krammer, Hannes Schuchardt, BLAK & CRÉER
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hansn/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hansn/)*

@@ -1,6 +1,6 @@
 # Kinetic
 
-Kinetic is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Lady Hampshire, Sydney on Sat, 29 Aug 2026.
+Kinetic is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Lady Hampshire, Sydney on Sat, 29 Aug 2026.
 
 Kinetic is a disco and techno artist tracked on soundcheck, with 17 sets logged across Barcelona, Bristol, Porto and Sydney and 1 more. Often billed alongside Optimo (Espacio), Astin and CCL. Next up: The Lady Hampshire, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kinetic is a disco and techno artist tracked on soundcheck, with 17 sets logged 
 
 Optimo (Espacio), Astin, CCL
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinetic/)*

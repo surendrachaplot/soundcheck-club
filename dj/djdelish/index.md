@@ -1,6 +1,6 @@
 # DJ Delish
 
-DJ Delish is a House and Ballroom artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Dahlak Paradise, Philadelphia on Sat, 22 Aug 2026.
+DJ Delish is a House and Ballroom artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dahlak Paradise, Philadelphia on Sat, 22 Aug 2026.
 
 DJ Delish is a house and ballroom artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside DJ Dommis, Archangel and BLAIZE. Next up: Dahlak Paradise, Philadelphia on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ DJ Delish is a house and ballroom artist based in United States of America, trac
 
 DJ Dommis, Archangel, BLAIZE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*

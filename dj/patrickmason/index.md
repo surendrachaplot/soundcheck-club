@@ -1,8 +1,8 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Stereo, Montreal on Fri, 21 Aug 2026.
+Patrick Mason is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Stereo, Montreal on Fri, 21 Aug 2026.
 
-Patrick Mason is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Stereo, Montreal on Fri 21 Aug.
+Patrick Mason is a techno and house artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Héctor Oaks, 999999999 and I Hate Models. Next up: Stereo, Montreal on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 268 sets 
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Stereo | Montreal |
 | Sat, 22 Aug 2026 | Runnymede Hall | Toronto |
+| Sat, 5 Sept 2026 | Audio Club | Geneva |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Nitsa Club | Barcelona |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
@@ -19,10 +20,10 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 268 sets 
 | Thu, 24 Sept 2026 | Sub Club | Glasgow |
 | Fri, 25 Sept 2026 | Slaktkyrkan | Stockholm |
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
-| Wed, 21 Oct 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Stereo, Montreal — Fri, 21 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 2 Aug 2026
 - Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Patrick Mason is a techno and house artist tracked on soundcheck, with 268 sets 
 - Hï Ibiza, Ibiza — Sun, 12 Jul 2026
 - Mondo, Madrid — Sat, 4 Jul 2026
 - Poble Espanyol, Barcelona — Fri, 19 Jun 2026
-- [UNVRS], Ibiza — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Héctor Oaks, 999999999, I Hate Models
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

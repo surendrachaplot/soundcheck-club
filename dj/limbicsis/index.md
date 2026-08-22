@@ -1,6 +1,6 @@
 # limbic sis
 
-limbic sis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
+limbic sis is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
 
 limbic sis is a house and techno artist tracked on soundcheck, with 63 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 12 more. Often billed alongside FRÆNZ:, DJ Eivissa and 0megavybe. Next up: Else, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ limbic sis is a house and techno artist tracked on soundcheck, with 63 sets logg
 
 FRÆNZ:, DJ Eivissa, 0megavybe
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limbicsis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/limbicsis/)*

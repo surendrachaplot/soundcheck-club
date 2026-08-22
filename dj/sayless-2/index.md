@@ -1,6 +1,6 @@
 # DJ Say Less
 
-DJ Say Less is a Dancehall and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ormside Projects, London on Sun, 30 Aug 2026.
+DJ Say Less is a Dancehall and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ormside Projects, London on Sun, 30 Aug 2026.
 
 DJ Say Less is a dancehall and uk funky artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Klose One, Blasé Vanguard and Benton (UK). Next up: Ormside Projects, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ Say Less is a dancehall and uk funky artist based in United Kingdom, tracked 
 
 Klose One, Blasé Vanguard, Benton (UK)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayless-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayless-2/)*

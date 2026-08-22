@@ -1,6 +1,6 @@
 # Jaemus
 
-Jaemus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
+Jaemus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
 
 Jaemus is a house and deep house artist tracked on soundcheck, with 15 sets logged across Portland, Sandiego and Seattle. Often billed alongside Boys Don't Disco, Paul Najera and Pro-K. Next up: TBA, Sandiego on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jaemus is a house and deep house artist tracked on soundcheck, with 15 sets logg
 
 Boys Don't Disco, Paul Najera, Pro-K
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaemus/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaemus/)*

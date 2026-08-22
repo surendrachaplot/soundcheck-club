@@ -1,6 +1,6 @@
 # NATALIA.
 
-NATALIA. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
+NATALIA. is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 25 Aug 2026.
 
 NATALIA. is a club and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Dublin, Frankfurt, Leipzig and Newyorkcity and 2 more. Often billed alongside Syd (US), KOOB and Izzy Holmes. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ NATALIA. is a club and house artist based in United States of America, tracked o
 
 Syd (US), KOOB, Izzy Holmes
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia./)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia./)*

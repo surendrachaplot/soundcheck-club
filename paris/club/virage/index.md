@@ -1,8 +1,8 @@
 # Virage
 
-Virage is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "RITMO FATALE: The Hacker b2b Andi, Kendal, Jordan Nocturne, RAG" on Fri, 21 Aug 2026.
+Virage is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "RITMO FATALE: The Hacker b2b Andi, Kendal, Jordan Nocturne, RAG" on Fri, 21 Aug 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Aureb and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Aleksandir and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

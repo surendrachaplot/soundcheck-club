@@ -1,6 +1,6 @@
 # Fred again..
 
-Fred again.. is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Domaine National de Saint-Cloud, Paris on Wed, 26 Aug 2026.
+Fred again.. is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Domaine National de Saint-Cloud, Paris on Wed, 26 Aug 2026.
 
 Fred again.. is an electro and house artist tracked on soundcheck, with 35 sets logged across Bali, Berlin, Bristol and Budapest and 13 more. Often billed alongside Nia Archives, Skrillex and Dom Dolla. Next up: Domaine National de Saint-Cloud, Paris on Wed 26 Aug.
 
@@ -28,4 +28,4 @@ Fred again.. is an electro and house artist tracked on soundcheck, with 35 sets 
 
 Nia Archives, Skrillex, Dom Dolla
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredagain/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredagain/)*

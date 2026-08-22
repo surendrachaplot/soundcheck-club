@@ -1,6 +1,6 @@
 # Cellarman
 
-Cellarman is a Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Brasserie de la Senne, Brussels on Sat, 22 Aug 2026.
+Cellarman is a Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Brasserie de la Senne, Brussels on Sat, 22 Aug 2026.
 
 Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 21 sets logged across Brussels. Often billed alongside Expensive KVR, Hyzno and Arthychoc. Next up: Brasserie de la Senne, Brussels on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Cellarman is a drum & bass artist based in Belgium, tracked on soundcheck, with 
 
 Expensive KVR, Hyzno, Arthychoc
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*

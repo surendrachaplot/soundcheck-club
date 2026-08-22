@@ -1,6 +1,6 @@
 # Zkeletonz
 
-Zkeletonz is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Secret Location, London on Sat, 22 Aug 2026.
+Zkeletonz is a Post-Punk and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Secret Location, London on Sat, 22 Aug 2026.
 
 Zkeletonz is a post-punk and new wave artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: Secret Location, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Zkeletonz is a post-punk and new wave artist based in United Kingdom, tracked on
 
 Emergency Loop, Hyperfunk, JustElliot
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zkeletonz/)*

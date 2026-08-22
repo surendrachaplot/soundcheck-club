@@ -1,14 +1,13 @@
 # Traumer
 
-Traumer is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Santanna Mykonos, Mykonos on Fri, 21 Aug 2026.
+Traumer is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Santanna Mykonos, Mykonos on Fri 21 Aug.
+Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Santanna Mykonos | Mykonos |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 29 Aug 2026 | Maya Beach Experience | Naples |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
@@ -20,9 +19,11 @@ Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged
 | Sat, 12 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | FOLD | London |
+| Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Fri, 21 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
 - West Street, Glasgow — Sat, 15 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
@@ -30,10 +31,9 @@ Traumer is a house and techno artist tracked on soundcheck, with 303 sets logged
 - Sunset Park Rooftop, New York City — Fri, 31 Jul 2026
 - TBA - Camp Summerdaze Montreal, Montreal — Thu, 30 Jul 2026
 - TBA - Toronto, Toronto — Thu, 30 Jul 2026
-- Sophie Festival, Malaga — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

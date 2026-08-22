@@ -1,6 +1,6 @@
 # Liverpool Anglican Cathedral
 
-Liverpool Anglican Cathedral is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Tunde of Lighthouse Family Live in Liverpool Cathedral" on Thu, 10 Sept 2026.
+Liverpool Anglican Cathedral is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Tunde of Lighthouse Family Live in Liverpool Cathedral" on Thu, 10 Sept 2026.
 
 Liverpool Anglican Cathedral is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including K-Klass. Browse upcoming dates, start times and who's playing. 20 St James Rd; Liverpool; Merseyside; L1 7BY; United Kingdom.
 
@@ -17,4 +17,4 @@ Liverpool Anglican Cathedral is a music venue in Liverpool listed on soundcheck.
 
 20 St James Rd; Liverpool; Merseyside; L1 7BY; United Kingdom, Liverpool
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/liverpool-anglican-cathedral/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/liverpool-anglican-cathedral/)*

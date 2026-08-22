@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "ARETE" on Fri, 28 Aug 2026.
+Hangar48 Club is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ARETE" on Fri, 28 Aug 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including AGUCCI, Ana Sant, DJ CORDE SENSIBLE and Jara and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -21,4 +21,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 8 upcoming nights
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

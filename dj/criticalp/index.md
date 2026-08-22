@@ -1,6 +1,6 @@
 # critical P
 
-critical P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+critical P is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 critical P is a house and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin and Dusseldorf. Often billed alongside Jean-Jez, Kang and Kedi Bounce. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ critical P is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Graf Adolf Platz, Düsseldorf — Fri, 21 Aug 2026
 - Tresor / Globus, Berlin — Wed, 3 Jun 2026
 - Bulbul Berlin, Berlin — Sat, 16 May 2026
 - Fitzroy, Berlin — Sun, 26 Apr 2026
@@ -20,10 +21,9 @@ critical P is a house and techno artist based in Germany, tracked on soundcheck,
 - Monarch, Berlin — Sun, 8 Feb 2026
 - Bulbul Berlin, Berlin — Fri, 5 Dec 2025
 - Paloma, Berlin — Fri, 10 Oct 2025
-- Lark, Berlin — Sun, 21 Sept 2025
 
 ## Shares bills with
 
 Jean-Jez, Kang, Kedi Bounce
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalp/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalp/)*

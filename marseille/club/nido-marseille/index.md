@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Nido local heros - Tibahuult & Zakir" on Sat, 22 Aug 2026.
+Nido Marseille is a music venue in Marseille with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nido local heros - Tibahuult & Zakir" on Sat, 22 Aug 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 4 upcoming nights, with line-ups including Edward, KERN1000, Markus Sommer and Sweely. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -17,4 +17,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 4 upcoming ni
 
 20 boulevard fifi turin, Marseille
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

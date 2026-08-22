@@ -1,6 +1,6 @@
 # Aristo G
 
-Aristo G is a New Wave and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Pandora, Melbourne on Sat, 22 Aug 2026.
+Aristo G is a New Wave and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Pandora, Melbourne on Sat, 22 Aug 2026.
 
 Aristo G is a new wave and house artist based in Australia, tracked on soundcheck, with 12 sets logged across Melbourne. Often billed alongside Stockholm Syndrome, Mitch Tonta and Traxion. Next up: Club Pandora, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Aristo G is a new wave and house artist based in Australia, tracked on soundchec
 
 Stockholm Syndrome, Mitch Tonta, Traxion
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aristog/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aristog/)*

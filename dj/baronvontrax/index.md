@@ -1,6 +1,6 @@
 # Baron Von Trax
 
-Baron Von Trax is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ijver, Amsterdam on Fri, 23 Oct 2026.
+Baron Von Trax is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ijver, Amsterdam on Fri, 23 Oct 2026.
 
 Baron Von Trax is a trance and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 23 more. Often billed alongside Upper90, Bad Boombox and BAUGRUPPE90. Next up: Ijver, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Baron Von Trax is a trance and techno artist tracked on soundcheck, with 84 sets
 
 Upper90, Bad Boombox, BAUGRUPPE90
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*

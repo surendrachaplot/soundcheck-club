@@ -1,14 +1,13 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Distrikt, Leeds on Fri, 21 Aug 2026.
+Truly Madly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
-Truly Madly is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: Distrikt, Leeds on Fri 21 Aug.
+Truly Madly is a house and tech house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Distrikt | Leeds |
 | Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 | Fri, 18 Sept 2026 | Night Tales | London |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
@@ -18,6 +17,7 @@ Truly Madly is a house and tech house artist tracked on soundcheck, with 145 set
 
 ## Recently played
 
+- Distrikt, Leeds — Fri, 21 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
@@ -25,10 +25,9 @@ Truly Madly is a house and tech house artist tracked on soundcheck, with 145 set
 - Avenida Doctor Marañon 17, Barcelona, Barcelona — Sun, 21 Jun 2026
 - Sunseabar Beach Club, Barcelona — Sun, 21 Jun 2026
 - MR Porter Barcelona, Barcelona — Sat, 20 Jun 2026
-- Esferic Bcn, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

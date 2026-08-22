@@ -1,6 +1,6 @@
 # Ohhjay
 
-Ohhjay is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at EQ San Diego, San Diego on Thu, 27 Aug 2026.
+Ohhjay is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at EQ San Diego, San Diego on Thu, 27 Aug 2026.
 
 Ohhjay is a techno and minimal artist tracked on soundcheck, with 6 sets logged across Sandiego. Often billed alongside A.Knives, Alien Tom and Dianthe. Next up: EQ San Diego, Sandiego on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Ohhjay is a techno and minimal artist tracked on soundcheck, with 6 sets logged 
 
 A.Knives, Alien Tom, Dianthe
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohhjay/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohhjay/)*

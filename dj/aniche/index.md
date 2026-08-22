@@ -1,6 +1,6 @@
 # ANICHE
 
-ANICHE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Xanadu, New York City on Sun, 30 Aug 2026.
+ANICHE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Xanadu, New York City on Sun, 30 Aug 2026.
 
 ANICHE is a house and techno artist tracked on soundcheck, with 39 sets logged across Newyorkcity, Sanfrancisco and Tokyo. Often billed alongside Choo Choo, $EJ and STEEN. Next up: Xanadu, Newyorkcity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ ANICHE is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 Choo Choo, $EJ, STEEN
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniche/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniche/)*

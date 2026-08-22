@@ -1,6 +1,6 @@
 # Chich
 
-Chich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Glazart, Paris on Sat, 22 Aug 2026.
+Chich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Glazart, Paris on Sat, 22 Aug 2026.
 
 Chich is a techno and house artist based in Luxembourg, tracked on soundcheck, with 22 sets logged across Amsterdam, Lisbon, Malta and Montreal and 3 more. Often billed alongside Marco Ramos, Miss Oana and Industrialyzer. Next up: Glazart, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Chich is a techno and house artist based in Luxembourg, tracked on soundcheck, w
 
 Marco Ramos, Miss Oana, Industrialyzer
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djchich/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djchich/)*

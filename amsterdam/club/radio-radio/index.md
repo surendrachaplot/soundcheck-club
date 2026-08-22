@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Andy Luff • Alexia Glensy" on Fri, 21 Aug 2026.
+Radio Radio is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "DJ Life • Moxes • lizz.e" on Sat, 22 Aug 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Alexia Glensy, Andy Luff, Bennet (DE) and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Andy Luff • Alexia Glensy | Alexia Glensy, Andy Luff |
 | Sat, 22 Aug 2026 | DJ Life • Moxes • lizz.e | DJ Life, Moxes, lizz.e |
 | Fri, 28 Aug 2026 | Flo Masse • Kyra Khaldi • Same Faces | Flo Massé, Kyra Khaldi, SAMEFACES |
 | Sat, 29 Aug 2026 | Dam Swindle All Night | Dam Swindle |
@@ -19,4 +18,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 6 upcoming night
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

@@ -1,6 +1,6 @@
 # Hysteria
 
-Hysteria is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Hysteria is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Hysteria is a techno and hardcore artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin and Hamburg. Often billed alongside SuttleK, Kim Bergstrand and ALTRAX. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hysteria is a techno and hardcore artist based in Germany, tracked on soundcheck
 
 SuttleK, Kim Bergstrand, ALTRAX
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteria/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hysteria/)*

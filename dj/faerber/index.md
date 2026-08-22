@@ -1,6 +1,6 @@
 # Faerber
 
-Faerber is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
+Faerber is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
 
 Faerber is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 2 more. Often billed alongside N.R.M, ENNIO and HAMY. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Faerber is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 N.R.M, ENNIO, HAMY
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*

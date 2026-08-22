@@ -1,6 +1,6 @@
 # DARIUS
 
-DARIUS is a Afro House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
+DARIUS is a Afro House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at FS., Tokyo on Sat, 22 Aug 2026.
 
 DARIUS is an afro house and progressive house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Chicago, Losangeles, Paris and Sandiego and 1 more. Often billed alongside Louis Hale, Beau Sebastian and Gman. Next up: FS., Tokyo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DARIUS is an afro house and progressive house artist based in United States of A
 
 Louis Hale, Beau Sebastian, Gman
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darius/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darius/)*

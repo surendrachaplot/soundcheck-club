@@ -1,14 +1,13 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "DIGOOD" on Fri, 21 Aug 2026.
+Circus Tokyo is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "【SOLD OUT】Baby J in Tokyo" on Sat, 22 Aug 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including ACHIRI, Azumai, Baby J (2) and Coretex and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Azumai, Baby J (2), Coretex and Dustvoxx and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | DIGOOD | ACHIRI |
 | Sat, 22 Aug 2026 | 【SOLD OUT】Baby J in Tokyo | Baby J (2), Mando, RYUU, nasthug |
 | Fri, 28 Aug 2026 | Marc Houle Japan Tour 2026 | Kyoka, Marc Houle |
 | Sat, 29 Aug 2026 | Sam Binga | Azumai, Fonts, Sam Binga, Submerse |
@@ -18,9 +17,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights,
 | Fri, 11 Sept 2026 | OTO 1ST ANNIVERSARY -JOKESONYOU- | JOKESONYOU |
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 | Tue, 3 Nov 2026 | (DnB) Formula Tokyo show by Beginning | Formula LDN, SAKO |
+| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

@@ -1,6 +1,6 @@
 # 3HZ INVITES Sachsentrance at Şahika
 
-3HZ INVITES Sachsentrance at Şahika on Fri 25 Sept, Istanbul. 2 acts on the bill: RaverPik and Sabu!. Trance and Techno. Preview the line-up and save it on soundcheck.
+3HZ INVITES Sachsentrance at Şahika on Fri 25 Sept, Istanbul. 3 acts on the bill: obskure, RaverPik and Sabu!. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- obskure
 - RaverPik
 - Sabu!
 

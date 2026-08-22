@@ -1,6 +1,6 @@
 # JM Moser
 
-JM Moser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
+JM Moser is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
 
 JM Moser is a techno and club artist tracked on soundcheck, with 12 sets logged across Berlin, London and Newyorkcity. Often billed alongside DJ Fart in the Club, Bell Towers and David Fogarty. Next up: TBA - Secret Location, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ JM Moser is a techno and club artist tracked on soundcheck, with 12 sets logged 
 
 DJ Fart in the Club, Bell Towers, David Fogarty
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmmoser/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmmoser/)*

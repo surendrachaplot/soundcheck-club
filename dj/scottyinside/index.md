@@ -1,6 +1,6 @@
 # Scottyinside
 
-Scottyinside is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Brixton Jamm, London on Fri, 4 Sept 2026.
+Scottyinside is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Brixton Jamm, London on Fri, 4 Sept 2026.
 
 Scottyinside is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Jojo Deevoy, TILDA (2) and Alfie Fraser. Next up: Brixton Jamm, London on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Scottyinside is a garage and uk funky artist based in United Kingdom, tracked on
 
 Jojo Deevoy, TILDA (2), Alfie Fraser
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyinside/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyinside/)*

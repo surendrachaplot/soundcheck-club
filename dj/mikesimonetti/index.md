@@ -1,6 +1,6 @@
 # Mike Simonetti
 
-Mike Simonetti is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ICA, London on Thu, 3 Sept 2026.
+Mike Simonetti is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ICA, London on Thu, 3 Sept 2026.
 
 Mike Simonetti is an acid and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Dublin, London, Losangeles and Miami and 3 more. Often billed alongside Simonetti, Elvin T and Alexis Taylor. Next up: ICA, London on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Mike Simonetti is an acid and house artist based in United States of America, tr
 
 Simonetti, Elvin T, Alexis Taylor
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesimonetti/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesimonetti/)*

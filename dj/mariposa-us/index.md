@@ -1,8 +1,8 @@
 # Mariposa
 
-Mariposa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Pageant, New York City on Sat, 22 Aug 2026.
+Mariposa is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pageant, New York City on Sat, 22 Aug 2026.
 
-Mariposa is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Hamburg, Leipzig, Newyorkcity and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: Pageant, Newyorkcity on Sat 22 Aug.
+Mariposa is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Hamburg, Leipzig, Newyorkcity and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: Pageant, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mariposa is a house and techno artist based in United States of America, tracked
 | Sat, 22 Aug 2026 | Pageant | New York City |
 | Thu, 27 Aug 2026 | Archivio Records | New York City |
 | Sat, 19 Sept 2026 | Nowadays | New York City |
+| Fri, 25 Sept 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Mariposa is a house and techno artist based in United States of America, tracked
 
 Perna, Ladiez Drink Free, Drupe Jam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposa-us/)*

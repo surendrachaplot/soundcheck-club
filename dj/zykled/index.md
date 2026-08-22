@@ -1,6 +1,6 @@
 # ZYKLED
 
-ZYKLED is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
+ZYKLED is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
 
 ZYKLED is a techno and industrial artist tracked on soundcheck, with 4 sets logged across Zurich. Often billed alongside KAïA (2), 36birds and AEREA. Next up: Kraftwerk, Zurich on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ ZYKLED is a techno and industrial artist tracked on soundcheck, with 4 sets logg
 
 KAïA (2), 36birds, AEREA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zykled/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zykled/)*

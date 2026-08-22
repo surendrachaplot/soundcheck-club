@@ -1,6 +1,6 @@
 # Snufkin
 
-Snufkin is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Time is the new space, Rotterdam on Fri, 4 Sept 2026.
+Snufkin is a Club and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Time is the new space, Rotterdam on Fri, 4 Sept 2026.
 
 Snufkin is a club and ambient artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside SHALT, Slimfit and Akiko Haruna. Next up: Time is the new space, Rotterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Snufkin is a club and ambient artist tracked on soundcheck, with 9 sets logged a
 
 SHALT, Slimfit, Akiko Haruna
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snufkin/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snufkin/)*

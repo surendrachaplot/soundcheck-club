@@ -1,6 +1,6 @@
 # GLITTER55
 
-GLITTER55 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Point Ephémère, Paris on Sat, 5 Sept 2026.
+GLITTER55 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Point Ephémère, Paris on Sat, 5 Sept 2026.
 
 GLITTER55 is a techno and electro artist based in Morocco, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Deena Abdelwahed, Cheb Runner and Flore. Next up: Point Ephémère, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ GLITTER55 is a techno and electro artist based in Morocco, tracked on soundcheck
 
 Deena Abdelwahed, Cheb Runner, Flore
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glitter55/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glitter55/)*

@@ -1,6 +1,6 @@
 # Tiffany Calver
 
-Tiffany Calver is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
+Tiffany Calver is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
 
 Tiffany Calver is a hip-hop and electro artist tracked on soundcheck, with 31 sets logged across Amsterdam, Birmingham, Bristol and Glasgow and 5 more. Often billed alongside Keyrah, Changing Currents and FS Green. Next up: Freight Brixton, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Tiffany Calver is a hip-hop and electro artist tracked on soundcheck, with 31 se
 
 Keyrah, Changing Currents, FS Green
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanycalver/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanycalver/)*

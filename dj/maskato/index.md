@@ -1,6 +1,6 @@
 # Mas Kato
 
-Mas Kato is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Rekreasi, Bali on Sat, 22 Aug 2026.
+Mas Kato is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Rekreasi, Bali on Sat, 22 Aug 2026.
 
 Mas Kato is a minimal and house artist based in Australia, tracked on soundcheck, with 43 sets logged across Bali, Brisbane, Melbourne and Osaka and 2 more. Often billed alongside Kazuma Onishi, Jmcee and Blană. Next up: Rekreasi, Bali on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mas Kato is a minimal and house artist based in Australia, tracked on soundcheck
 
 Kazuma Onishi, Jmcee, Blană
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maskato/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maskato/)*

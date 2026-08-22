@@ -1,6 +1,6 @@
 # Yama Music
 
-Yama Music is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Timber Loft, London on Sun, 13 Sept 2026.
+Yama Music is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Timber Loft, London on Sun, 13 Sept 2026.
 
 Yama Music is an electronic artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Big Nick D, Formless and Harold.. Next up: The Timber Loft, London on Sun 13 Sept.
 
@@ -24,4 +24,4 @@ Yama Music is an electronic artist based in United Kingdom, tracked on soundchec
 
 Big Nick D, Formless, Harold.
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamamusic/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamamusic/)*

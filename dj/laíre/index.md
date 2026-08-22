@@ -1,6 +1,6 @@
 # LAÍRE
 
-LAÍRE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri, 21 Aug 2026.
+LAÍRE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri, 21 Aug 2026.
 
 LAÍRE is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside Dru Ruiz, Pressure Rhythm and DJ Candor. Next up: TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ LAÍRE is a techno and house artist based in United States of America, tracked o
 
 ## Recently played
 
+- TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit — Fri, 21 Aug 2026
 - TV Lounge, Detroit — Thu, 30 Jul 2026
 - TBA - Obedient Missionary Baptist Church, Detroit — Fri, 12 Jun 2026
 - Cannons, Detroit — Fri, 22 May 2026
@@ -25,4 +26,4 @@ LAÍRE is a techno and house artist based in United States of America, tracked o
 
 Dru Ruiz, Pressure Rhythm, DJ Candor
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laíre/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laíre/)*

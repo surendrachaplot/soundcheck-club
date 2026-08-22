@@ -1,6 +1,6 @@
 # Cristian Volpe
 
-Cristian Volpe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Maya Beach Experience, Naples on Sat, 29 Aug 2026.
+Cristian Volpe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Maya Beach Experience, Naples on Sat, 29 Aug 2026.
 
 Cristian Volpe is a house and tech house artist based in Italy, tracked on soundcheck, with 17 sets logged across Barcelona and Naples. Often billed alongside Alex Bohemien, Ludo Erre and Broosk. Next up: Maya Beach Experience, Naples on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Cristian Volpe is a house and tech house artist based in Italy, tracked on sound
 
 Alex Bohemien, Ludo Erre, Broosk
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvolpe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianvolpe/)*

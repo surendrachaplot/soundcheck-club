@@ -1,15 +1,14 @@
 # Egg London
 
-Egg London is a music venue in London with 46 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Egg LDN Pres: Afro House, Tribal & Afrobeats" on Fri, 21 Aug 2026.
+Egg London is a music venue in London with 46 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Egg LDN Pres: Afro House, Tribal & Afrobeats" on Fri, 21 Aug 2026.
 
-Egg London is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including ABSOLUTE., ANMLxPRTY, b-line and BABY JACKZ and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 46 upcoming nights, with line-ups including ABSOLUTE., ANMLxPRTY, b-line and Carly Wilford and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Egg LDN Pres: Afro House, Tribal & Afrobeats |  |
-| Fri, 21 Aug 2026 | BODY2BASS #MORECAKE | BABY JACKZ, Donnie Sunshine, LISAKEEKS, Nésa Thea, SAVSSOUNDS, Tsunamy, serenity soundz |
 | Sat, 22 Aug 2026 | Tube & Berger & REYUS at EGG | ABSOLUTE., Carly Wilford, Naomi Cazier, Pocci, REYUS, Sasha GiGi, Tube & Berger |
 | Sat, 22 Aug 2026 | NTG PRESENTS CAPTAIN BASS + MORE | b-line |
 | Sat, 22 Aug 2026 | Egg LDN Pres: SUBVRS - Tech House, Deep Tech & Deep House |  |
@@ -18,9 +17,10 @@ Egg London is a music venue in London listed on soundcheck. 46 upcoming nights, 
 | Fri, 28 Aug 2026 | AWOKEN 4TH BIRTHDAY | Decimal, European 305, Gemini, Interlude, Just P, Supa D |
 | Sat, 29 Aug 2026 | It's A Motive - Carnival Bank Holiday Party |  |
 | Sun, 30 Aug 2026 | Egg LDN Pres: Carnival Special Closing Party |  |
+| Wed, 2 Sept 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 
 ## Address
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

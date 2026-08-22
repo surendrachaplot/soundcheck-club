@@ -1,6 +1,6 @@
 # SOGI
 
-SOGI is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
+SOGI is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
 
 SOGI is a techno and bass artist based in Japan, tracked on soundcheck, with 65 sets logged across Tokyo. Often billed alongside arow, Rickshinmi and kuniii. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ SOGI is a techno and bass artist based in Japan, tracked on soundcheck, with 65 
 
 arow, Rickshinmi, kuniii
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sogi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sogi/)*

@@ -1,6 +1,6 @@
 # Saint Esprit
 
-Saint Esprit is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Le Bateau Phare, Paris on Sat, 12 Sept 2026.
+Saint Esprit is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Le Bateau Phare, Paris on Sat, 12 Sept 2026.
 
 Saint Esprit is a minimal and tech house artist tracked on soundcheck, with 10 sets logged across Malta, Marseille, Milan and Paris. Often billed alongside Gredine, Providence and ANSWR. Next up: Le Bateau Phare, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Saint Esprit is a minimal and tech house artist tracked on soundcheck, with 10 s
 
 Gredine, Providence, ANSWR
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintesprit/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintesprit/)*

@@ -1,19 +1,19 @@
 # Miles J Paralysis
 
-Miles J Paralysis is a Dub and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at McNeills, Glasgow on Fri, 21 Aug 2026.
+Miles J Paralysis is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
 
-Miles J Paralysis is a dub and techno artist tracked on soundcheck, with 7 sets logged across Aberdeen, Berlin, Glasgow and Leeds and 1 more. Often billed alongside Mike BC, Alexis Le-Tan and Bleaching Agent. Next up: McNeills, Glasgow on Fri 21 Aug.
+Miles J Paralysis is a dub and techno artist tracked on soundcheck, with 7 sets logged across Aberdeen, Berlin, Glasgow and Leeds and 1 more. Often billed alongside Mike BC, Alexis Le-Tan and Bleaching Agent. Next up: Paloma, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | McNeills | Glasgow |
 | Fri, 25 Sept 2026 | Paloma | Berlin |
 | Fri, 6 Nov 2026 | The Greyhound | London |
 
 ## Recently played
 
+- McNeills, Glasgow — Fri, 21 Aug 2026
 - D2, Aberdeen — Sat, 4 Apr 2026
 - Outlaws Yacht Club, Leeds — Sun, 15 Feb 2026
 - Outlaws Yacht Club, Leeds — Sat, 6 Dec 2025
@@ -23,4 +23,4 @@ Miles J Paralysis is a dub and techno artist tracked on soundcheck, with 7 sets 
 
 Mike BC, Alexis Le-Tan, Bleaching Agent
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*

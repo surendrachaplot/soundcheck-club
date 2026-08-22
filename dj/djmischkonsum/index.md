@@ -1,6 +1,6 @@
 # DJ Mischkonsum
 
-DJ Mischkonsum is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
+DJ Mischkonsum is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
 
 DJ Mischkonsum is a techno and trance artist tracked on soundcheck, with 43 sets logged across Antwerp, Berlin, Cologne and Leipzig and 5 more. Often billed alongside Bernossi, DJ Bruh and Mondaiji. Next up: Bahnwärter Thiel, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Mischkonsum is a techno and trance artist tracked on soundcheck, with 43 sets
 
 Bernossi, DJ Bruh, Mondaiji
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmischkonsum/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmischkonsum/)*

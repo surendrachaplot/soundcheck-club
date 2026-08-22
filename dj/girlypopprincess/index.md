@@ -1,14 +1,15 @@
 # Girlypop Princess
 
-Girlypop Princess is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 31 Aug 2026.
+Girlypop Princess is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 31 Aug 2026.
 
-Girlypop Princess is a club and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside NANAGOTCHI, Ether Pleaser and Franxx. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 31 Aug.
+Girlypop Princess is a club and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside NANAGOTCHI, Franxx and Ether Pleaser. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 30 Oct 2026 | Paragon | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ Girlypop Princess is a club and techno artist based in United States of America,
 
 ## Shares bills with
 
-NANAGOTCHI, Ether Pleaser, Franxx
+NANAGOTCHI, Franxx, Ether Pleaser
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*

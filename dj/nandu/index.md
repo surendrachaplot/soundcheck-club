@@ -1,20 +1,20 @@
 # Nandu
 
-Nandu is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Cova Santa, Ibiza on Fri, 21 Aug 2026.
+Nandu is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Void Mykonos, Mykonos on Sun, 23 Aug 2026.
 
-Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Yet More, Ivory and Bedouin. Next up: Cova Santa, Ibiza on Fri 21 Aug.
+Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Yet More, Ivory and Bedouin. Next up: Void Mykonos, Mykonos on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Cova Santa | Ibiza |
 | Sun, 23 Aug 2026 | Void Mykonos | Mykonos |
 | Fri, 4 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 18 Sept 2026 | TBA - MATRIARCH LA | Los Angeles |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Fri, 21 Aug 2026
 - Kastel, Istanbul — Sat, 8 Aug 2026
 - TBA - 16 Roof | Swissôtel The Bosphorus, Istanbul — Sat, 1 Aug 2026
 - Fridas Pier, Stuttgart — Sun, 26 Jul 2026
@@ -22,10 +22,9 @@ Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, 
 - Do Not Sit On The Furniture, Miami — Fri, 3 Jul 2026
 - Hï Ibiza, Ibiza — Mon, 29 Jun 2026
 - Void Mykonos, Mykonos — Sat, 27 Jun 2026
-- BORIS CLUB, Barcelona — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Yet More, Ivory, Bedouin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

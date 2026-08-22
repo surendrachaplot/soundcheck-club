@@ -1,6 +1,6 @@
 # Rosa Forever
 
-Rosa Forever is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Chmury, Warsaw on Sat, 22 Aug 2026.
+Rosa Forever is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Chmury, Warsaw on Sat, 22 Aug 2026.
 
 Rosa Forever is an experimental and electronica artist based in Poland, tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside Cyntia G. Wabia, HYPNOSIS THERAPY and KAROLINDA. Next up: Chmury, Warsaw on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Rosa Forever is an experimental and electronica artist based in Poland, tracked 
 
 Cyntia G. Wabia, HYPNOSIS THERAPY, KAROLINDA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaforever/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaforever/)*

@@ -1,6 +1,6 @@
 # The Lanes
 
-The Lanes is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "UWE Bristol Official Freshers - Open Air Disco Day Party" on Wed, 16 Sept 2026.
+The Lanes is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "UWE Bristol Official Freshers - Open Air Disco Day Party" on Wed, 16 Sept 2026.
 
 The Lanes is a music venue in Bristol listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 22 Nelson Street; Bristol BS1 2LD; United Kingdom.
 
@@ -15,4 +15,4 @@ The Lanes is a music venue in Bristol listed on soundcheck. 2 upcoming nights. B
 
 22 Nelson Street; Bristol BS1 2LD; United Kingdom, Bristol
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-lanes/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-lanes/)*

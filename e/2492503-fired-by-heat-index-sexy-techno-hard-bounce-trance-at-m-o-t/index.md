@@ -1,6 +1,6 @@
 # FIRED BY HEAT INDEX - SEXY TECHNO, HARD BOUNCE, TRANCE at M.O.T
 
-FIRED BY HEAT INDEX - SEXY TECHNO, HARD BOUNCE, TRANCE at M.O.T on Fri 4 Sept, London. 4 acts on the bill: AUDIO DUNE, GALLY, Sedex and Sophia Nicole. Trance and Techno. Preview the line-up and save it on soundcheck.
+FIRED BY HEAT INDEX - SEXY TECHNO, HARD BOUNCE, TRANCE at M.O.T on Fri 4 Sept, London. 5 acts on the bill: AUDIO DUNE, GALLY, LeNil and Sedex and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ FIRED BY HEAT INDEX - SEXY TECHNO, HARD BOUNCE, TRANCE at M.O.T on Fri 4 Sept, L
 
 - AUDIO DUNE
 - GALLY
+- LeNil
 - Sedex
 - Sophia Nicole
 

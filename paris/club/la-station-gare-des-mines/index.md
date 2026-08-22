@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Spectrum Waves: 2 DAYS" on Fri, 21 Aug 2026.
+La Station - Gare des Mines is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Spectrum Waves: 2 DAYS" on Fri, 21 Aug 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including A-440, Albal, Aubry and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -8,7 +8,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 19 u
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Spectrum Waves: 2 DAYS |  |
+| Fri, 21 Aug 2026 | Spectrum Waves: 2 DAYS | CRYME, Decoder, Egna, Equus Belli, Jesse G, Julie Desire, Juste S, Lea Occhi, RÆZA |
 | Thu, 27 Aug 2026 | Drag, Amour & Amitié |  |
 | Fri, 28 Aug 2026 | Ma soeur, j'ai raté le terminus  | A-440, Aubry, RAG |
 | Sat, 29 Aug 2026 | Sous Tes Reins | Corbeille Dallas, De Vedelly, Fatima Koanda, Stella K |
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 19 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

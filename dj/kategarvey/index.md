@@ -1,6 +1,6 @@
 # Kate Garvey
 
-Kate Garvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
+Kate Garvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Roof Terrace BK, New York City on Sat, 22 Aug 2026.
 
 Kate Garvey is a house and techno artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Alex Cecil, Amy Jor and Arianna Danae. Next up: Roof Terrace BK, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Kate Garvey is a house and techno artist tracked on soundcheck, with 13 sets log
 
 Alex Cecil, Amy Jor, Arianna Danae
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kategarvey/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kategarvey/)*

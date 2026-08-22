@@ -1,6 +1,6 @@
 # WTCHCRFT
 
-WTCHCRFT is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at La Récré, Montreal on Fri, 28 Aug 2026.
+WTCHCRFT is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Récré, Montreal on Fri, 28 Aug 2026.
 
 WTCHCRFT is a techno and club artist tracked on soundcheck, with 152 sets logged across Austin, Berlin, Boston and Chicago and 15 more. Often billed alongside KYRUH, RITCHRD and estoc. Next up: La Récré, Montreal on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ WTCHCRFT is a techno and club artist tracked on soundcheck, with 152 sets logged
 
 KYRUH, RITCHRD, estoc
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wtchcrft/)*

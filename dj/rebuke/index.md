@@ -1,6 +1,6 @@
 # Rebuke
 
-Rebuke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Coda, Toronto on Sat, 22 Aug 2026.
+Rebuke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Coda, Toronto on Sat, 22 Aug 2026.
 
 Rebuke is a techno and house artist tracked on soundcheck, with 90 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 37 more. Often billed alongside Kevin de Vries, Tale Of Us and Anyma. Next up: Coda, Toronto on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Rebuke is a techno and house artist tracked on soundcheck, with 90 sets logged a
 
 Kevin de Vries, Tale Of Us, Anyma
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*

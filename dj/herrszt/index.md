@@ -1,6 +1,6 @@
 # Herrszt
 
-Herrszt is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
+Herrszt is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
 
 Herrszt is a techno and dub techno artist tracked on soundcheck, with 16 sets logged across Krakow and Warsaw. Often billed alongside Subcode, Zariush and CTSD. Next up: Mastak, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Herrszt is a techno and dub techno artist tracked on soundcheck, with 16 sets lo
 
 Subcode, Zariush, CTSD
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herrszt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herrszt/)*

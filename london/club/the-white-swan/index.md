@@ -1,6 +1,6 @@
 # The White Swan
 
-The White Swan is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Unofficial Victoria Park afters: Girls Night Out + Pop Curious: Britney + Madonna Made Me Gay" on Sat, 22 Aug 2026.
+The White Swan is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Unofficial Victoria Park afters: Girls Night Out + Pop Curious: Britney + Madonna Made Me Gay" on Sat, 22 Aug 2026.
 
 The White Swan is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
 
@@ -16,4 +16,4 @@ The White Swan is a music venue in London listed on soundcheck. 3 upcoming night
 
 556 Commercial Road, Limehouse, E14 7JD, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*

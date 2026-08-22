@@ -1,14 +1,15 @@
 # Hannecart
 
-Hannecart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Hannecart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Reiss, Noach and Samuel Deep. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Hannecart is a house and techno artist based in Dominican Republic, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Reiss, Noach and Samuel Deep. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
+| Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hannecart is a house and techno artist based in Dominican Republic, tracked on s
 
 Reiss, Noach, Samuel Deep
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

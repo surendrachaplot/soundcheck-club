@@ -1,6 +1,6 @@
 # Masha Wordpress
 
-Masha Wordpress is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
+Masha Wordpress is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
 
 Masha Wordpress is a techno and electro artist based in Russia, tracked on soundcheck, with 19 sets logged across Amsterdam and Brussels. Often billed alongside LAN the Wireless, Lena Rigel and Dj Serko. Next up: murmur, Amsterdam on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Masha Wordpress is a techno and electro artist based in Russia, tracked on sound
 
 LAN the Wireless, Lena Rigel, Dj Serko
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashawordpress/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashawordpress/)*

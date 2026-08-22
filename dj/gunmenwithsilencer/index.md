@@ -1,6 +1,6 @@
 # Gunmen With Silencer
 
-Gunmen With Silencer is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at KHIDI, Tbilisi on Sat, 22 Aug 2026.
+Gunmen With Silencer is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KHIDI, Tbilisi on Sat, 22 Aug 2026.
 
 Gunmen With Silencer is an electronic artist tracked on soundcheck, with 7 sets logged across Tbilisi. Often billed alongside Steinblum, Astrobee and GTI. Next up: KHIDI, Tbilisi on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Gunmen With Silencer is an electronic artist tracked on soundcheck, with 7 sets 
 
 Steinblum, Astrobee, GTI
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gunmenwithsilencer/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gunmenwithsilencer/)*

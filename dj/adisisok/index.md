@@ -1,6 +1,6 @@
 # Adis Is OK
 
-Adis Is OK is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 21 Aug 2026.
+Adis Is OK is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 21 Aug 2026.
 
 Adis Is OK is a house and disco artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Berlin and Budapest and 3 more. Often billed alongside Switch Nollie, MAROSI and Badaro. Next up: Pontoon Budapest, Budapest on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Adis Is OK is a house and disco artist tracked on soundcheck, with 82 sets logge
 
 ## Recently played
 
+- Pontoon Budapest, Budapest — Fri, 21 Aug 2026
 - Renate, Berlin — Sat, 8 Aug 2026
 - Europa Boat, Budapest — Sat, 25 Jul 2026
 - Palazzo Permanens, Budapest — Thu, 18 Jun 2026
@@ -20,10 +21,9 @@ Adis Is OK is a house and disco artist tracked on soundcheck, with 82 sets logge
 - Turbina, Budapest — Sat, 30 May 2026
 - Doka, Amsterdam — Fri, 17 Apr 2026
 - BAR Inc, Osaka — Sun, 15 Mar 2026
-- Z Maruyama, Tokyo — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Switch Nollie, MAROSI, Badaro
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adisisok/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adisisok/)*

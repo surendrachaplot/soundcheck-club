@@ -1,10 +1,10 @@
 # Fluid Frequency at TBA
 
-Fluid Frequency at TBA on Sat 22 Aug, Chicago. 2 acts on the bill: Chrissy Tee and Toyacoyah. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Fluid Frequency at TBA on Sun 23 Aug, Chicago. 2 acts on the bill: Chrissy Tee and Toyacoyah. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 22 Aug 2026 |
+| Date | Sun, 23 Aug 2026 |
 | Venue | TBA |
 | City | Chicago |
 

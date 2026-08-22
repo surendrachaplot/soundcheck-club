@@ -1,6 +1,6 @@
 # Rizzle
 
-Rizzle is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Void Hall, Berlin on Sat, 17 Oct 2026.
+Rizzle is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Void Hall, Berlin on Sat, 17 Oct 2026.
 
 Rizzle is a drum & bass and dubstep artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brighton and Bristol and 2 more. Often billed alongside Koherent, Spektiv and Visionobi. Next up: Void Hall, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Rizzle is a drum & bass and dubstep artist tracked on soundcheck, with 13 sets l
 
 Koherent, Spektiv, Visionobi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rizzle/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rizzle/)*

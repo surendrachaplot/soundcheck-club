@@ -1,6 +1,6 @@
 # DJ Clone
 
-DJ Clone is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
+DJ Clone is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - 1 INGRAHAM ST, New York City on Sat, 22 Aug 2026.
 
 DJ Clone is a techno and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Austin, Barcelona, Berlin and Miami and 3 more. Often billed alongside Word of Command, Miss Parker and flirty800. Next up: TBA - 1 INGRAHAM ST, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DJ Clone is a techno and club artist based in United States of America, tracked 
 
 Word of Command, Miss Parker, flirty800
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djclone/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djclone/)*

@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Les Enfants pres. Mariiin All Night Long" on Fri, 21 Aug 2026.
+Les Enfants Brillants is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Les Enfants pres. Mariiin All Night Long" on Fri, 21 Aug 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Mariiin, Adi, Alexander Skancke and Alex Dima and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 23 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

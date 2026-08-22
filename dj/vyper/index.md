@@ -1,6 +1,6 @@
 # Vyper
 
-Vyper is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 444 Club, New York City on Sat, 22 Aug 2026.
+Vyper is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 444 Club, New York City on Sat, 22 Aug 2026.
 
 Vyper is a techno and hardcore artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Chicago and Edinburgh and 5 more. Often billed alongside Stealthy, Xana 101 and Cyb3r Bull. Next up: 444 Club, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Vyper is a techno and hardcore artist tracked on soundcheck, with 97 sets logged
 
 Stealthy, Xana 101, Cyb3r Bull
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vyper/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vyper/)*

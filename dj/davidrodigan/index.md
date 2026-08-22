@@ -1,6 +1,6 @@
 # David Rodigan
 
-David Rodigan is a Dub and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+David Rodigan is a Dub and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 David Rodigan is a dub and drum & bass artist tracked on soundcheck, with 35 sets logged across Barcelona, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Chimpo, Kirollus and Arielle Free. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ David Rodigan is a dub and drum & bass artist tracked on soundcheck, with 35 set
 
 Chimpo, Kirollus, Arielle Free
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodigan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodigan/)*

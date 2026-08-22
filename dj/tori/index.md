@@ -1,6 +1,6 @@
 # Tori
 
-Tori is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Flinders, Sydney on Sat, 5 Sept 2026.
+Tori is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Flinders, Sydney on Sat, 5 Sept 2026.
 
 Tori is a techno and acid artist tracked on soundcheck, with 28 sets logged across London, Madrid, Mexicocity and Sydney. Often billed alongside Pulpix, KHAOS IN ORDER and Leofix. Next up: The Flinders, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tori is a techno and acid artist tracked on soundcheck, with 28 sets logged acro
 
 Pulpix, KHAOS IN ORDER, Leofix
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tori/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tori/)*

@@ -1,13 +1,14 @@
 # DDD (2)
 
-DDD (2) is a Bass and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Barfly 4, Seoul on Sat, 22 Aug 2026.
+DDD (2) is a Bass and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNDERCITY, Seoul on Sat, 22 Aug 2026.
 
-DDD (2) is a bass and trance artist based in South Korea, tracked on soundcheck, with 26 sets logged across Seoul and Tokyo. Often billed alongside Dieman, Guinneissik and Kitty. Next up: Barfly 4, Seoul on Sat 22 Aug.
+DDD (2) is a bass and electro artist based in South Korea, tracked on soundcheck, with 27 sets logged across Seoul and Tokyo. Often billed alongside Dieman, Guinneissik and Kitty. Next up: UNDERCITY, Seoul on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 22 Aug 2026 | UNDERCITY | Seoul |
 | Sat, 22 Aug 2026 | Barfly 4 | Seoul |
 | Fri, 11 Sept 2026 | Cakeshop | Seoul |
 
@@ -26,4 +27,4 @@ DDD (2) is a bass and trance artist based in South Korea, tracked on soundcheck,
 
 Dieman, Guinneissik, Kitty
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddd-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddd-2/)*

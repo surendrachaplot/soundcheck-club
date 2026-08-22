@@ -1,6 +1,6 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "EMERGE SATURDAY AFTERPARTY -- Charlie Sparks" on Sat, 29 Aug 2026.
+The Telegraph Building is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "EMERGE SATURDAY AFTERPARTY -- Charlie Sparks" on Sat, 29 Aug 2026.
 
 The Telegraph Building is a music venue in Belfast listed on soundcheck. 7 upcoming nights, with line-ups including AMMARA, Black Traffic, blk. and Charlie Sparks and 2 more. Browse upcoming dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
@@ -20,4 +20,4 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 7 upcom
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

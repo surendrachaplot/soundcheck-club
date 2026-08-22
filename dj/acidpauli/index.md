@@ -1,8 +1,8 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 22 Aug 2026.
+Acid Pauli is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 22 Aug 2026.
 
-Acid Pauli is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Fridas Pier, Stuttgart on Sat 22 Aug.
+Acid Pauli is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Fridas Pier, Stuttgart on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Acid Pauli is a house and techno artist tracked on soundcheck, with 96 sets logg
 | Sat, 22 Aug 2026 | Fridas Pier | Stuttgart |
 | Sun, 23 Aug 2026 | Chinois Ibiza | Ibiza |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
+| Fri, 4 Sept 2026 | Holdenweid | Basel |
 | Fri, 4 Sept 2026 | Studio Zürich | Zurich |
 
 ## Recently played
@@ -28,4 +29,4 @@ Acid Pauli is a house and techno artist tracked on soundcheck, with 96 sets logg
 
 Viken Arman, Damian Lazarus, Jonathan Kaspar
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*

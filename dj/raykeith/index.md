@@ -1,6 +1,6 @@
 # Ray Keith
 
-Ray Keith is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Melkweg, Amsterdam on Mon, 24 Aug 2026.
+Ray Keith is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Melkweg, Amsterdam on Mon, 24 Aug 2026.
 
 Ray Keith is a drum & bass and jungle artist tracked on soundcheck, with 103 sets logged across Amsterdam, Austin, Boston and Brighton and 17 more. Often billed alongside Nicky Blackmarket, Grooverider and Jumping Jack Frost. Next up: Melkweg, Amsterdam on Mon 24 Aug.
 
@@ -10,7 +10,7 @@ Ray Keith is a drum & bass and jungle artist tracked on soundcheck, with 103 set
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Melkweg | Amsterdam |
 | Fri, 28 Aug 2026 | The Fox and Firkin | London |
-| Sat, 29 Aug 2026 | HERE | London |
+| Sat, 29 Aug 2026 | Outernet Live | London |
 | Sat, 5 Sept 2026 | Peckham Liberal Club | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Fri, 30 Oct 2026 | Tottenham Arts Collective | London |
@@ -30,4 +30,4 @@ Ray Keith is a drum & bass and jungle artist tracked on soundcheck, with 103 set
 
 Nicky Blackmarket, Grooverider, Jumping Jack Frost
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*

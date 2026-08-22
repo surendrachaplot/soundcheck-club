@@ -1,6 +1,6 @@
 # MIKITA (MX)
 
-MIKITA (MX) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
+MIKITA (MX) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
 
 MIKITA (MX) is a techno and house artist based in Mexico, tracked on soundcheck, with 26 sets logged across Leipzig and Mexicocity. Often billed alongside Portugal, Ursula Prawn and sadgal. Next up: TBA, Mexicocity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ MIKITA (MX) is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Portugal, Ursula Prawn, sadgal
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikitamx/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikitamx/)*

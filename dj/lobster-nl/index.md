@@ -1,8 +1,8 @@
 # Lobster (NL)
 
-Lobster (NL) is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Grelle Forelle, Vienna on Fri, 28 Aug 2026.
+Lobster (NL) is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Grelle Forelle, Vienna on Fri, 28 Aug 2026.
 
-Lobster (NL) is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: Grelle Forelle, Vienna on Fri 28 Aug.
+Lobster (NL) is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Grace Dahl, Phil Berg and Beste Hira. Next up: Grelle Forelle, Vienna on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Lobster (NL) is a techno and house artist tracked on soundcheck, with 146 sets l
 | Sat, 26 Sept 2026 | Forge | Bucharest |
 | Sat, 10 Oct 2026 | PIP Den Haag | The Hague |
 | Fri, 16 Oct 2026 | Astoria | Turin |
+| Sat, 17 Oct 2026 | Gaffe | London |
+| Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 | Wed, 21 Oct 2026 | BRET | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
 
@@ -32,4 +34,4 @@ Lobster (NL) is a techno and house artist tracked on soundcheck, with 146 sets l
 
 Grace Dahl, Phil Berg, Beste Hira
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lobster-nl/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lobster-nl/)*

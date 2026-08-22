@@ -1,8 +1,8 @@
 # Dacxi
 
-Dacxi is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
+Dacxi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 22 Aug 2026.
 
-Dacxi is a house and progressive house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Calder, Manta and D'Nice. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
+Dacxi is a house and techno artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Calder, Manta and D'Nice. Next up: Avalon Cafe Bermondsey, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Dacxi is a house and progressive house artist tracked on soundcheck, with 3 sets
 
 Calder, Manta, D'Nice
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dacxi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dacxi/)*

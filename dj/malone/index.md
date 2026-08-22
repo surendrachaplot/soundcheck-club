@@ -1,18 +1,18 @@
 # Malone
 
-Malone is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 21 Aug 2026.
+Malone is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Malone is a tech house and house artist tracked on soundcheck, with 95 sets logged across Austin, Barcelona, Boston and Buenosaires and 18 more. Often billed alongside Amal Nemer, Bakke and Ms. Mada. Next up: Jolene Downtown Miami, Miami on Fri 21 Aug.
+Malone is a tech house and house artist tracked on soundcheck, with 95 sets logged across Austin, Barcelona, Boston and Buenosaires and 18 more. Often billed alongside Amal Nemer, Bakke and Ms. Mada. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Jolene Downtown Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Fri, 21 Aug 2026
 - Ku Barcelona, Barcelona — Sun, 28 Jun 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
 - Club Space Miami, Miami — Fri, 5 Jun 2026
@@ -20,10 +20,9 @@ Malone is a tech house and house artist tracked on soundcheck, with 95 sets logg
 - The National Hotel, Miami — Sat, 21 Mar 2026
 - Carson Creek Ranch, Austin — Fri, 13 Mar 2026
 - D-EDGE, Sao Paulo — Thu, 12 Feb 2026
-- The Ground at Club Space, Miami — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Amal Nemer, Bakke, Ms. Mada
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malone/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malone/)*

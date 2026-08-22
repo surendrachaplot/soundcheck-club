@@ -1,14 +1,15 @@
 # Jamie G
 
-Jamie G is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Jamie G is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
-Jamie G is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Barcelona, Lisbon, Liverpool and London. Often billed alongside Funsta, Nicky Blackmarket and The Ragga Twins. Next up: Eutopia Whs, London on Sat 5 Sept.
+Jamie G is a drum & bass and jungle artist tracked on soundcheck, with 19 sets logged across Barcelona, Lisbon, Liverpool and London. Often billed alongside Funsta, Nicky Blackmarket and The Ragga Twins. Next up: Eutopia Whs, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
+| Sat, 12 Sept 2026 | Brixton Jamm | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jamie G is a drum & bass and jungle artist tracked on soundcheck, with 18 sets l
 
 Funsta, Nicky Blackmarket, The Ragga Twins
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieguk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieguk/)*

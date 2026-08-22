@@ -1,6 +1,6 @@
 # SEXY NANA Pool Party at TBA - Cherry on Top, Ganghoferstr 10
 
-SEXY NANA Pool Party at TBA - Cherry on Top, Ganghoferstr 10 on Sun 6 Sept, Berlin. 3 acts on the bill: maríajosé, Sherryaeri and Trigger T. Preview the line-up and save it on soundcheck.
+SEXY NANA Pool Party at TBA - Cherry on Top, Ganghoferstr 10 on Sun 6 Sept, Berlin. 3 acts on the bill: maríajosé, Sherryaeri and Trigger T. Reggaeton and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

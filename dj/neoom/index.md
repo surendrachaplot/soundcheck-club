@@ -1,6 +1,6 @@
 # Neoom
 
-Neoom is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Neoom is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Neoom is a techno artist based in Austria, tracked on soundcheck, with 9 sets logged across Vienna. Often billed alongside Angiko (2), PAUNA and Remnant. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Neoom is a techno artist based in Austria, tracked on soundcheck, with 9 sets lo
 
 ## Recently played
 
+- Seedcamp, Kautzen, Vienna — Fri, 21 Aug 2026
 - FLUCC, Vienna — Sun, 24 May 2026
 - Kramladen, Vienna — Thu, 19 Feb 2026
 - FLUCC, Vienna — Fri, 6 Feb 2026
@@ -19,10 +20,9 @@ Neoom is a techno artist based in Austria, tracked on soundcheck, with 9 sets lo
 - Rhiz, Vienna — Fri, 24 Oct 2025
 - FLUCC, Vienna — Sat, 19 Apr 2025
 - Kramladen, Vienna — Thu, 13 Mar 2025
-- Rhiz, Vienna — Sat, 14 Dec 2024
 
 ## Shares bills with
 
 Angiko (2), PAUNA, Remnant
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoom/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoom/)*

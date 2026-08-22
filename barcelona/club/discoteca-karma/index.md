@@ -1,6 +1,6 @@
 # Discoteca Karma
 
-Discoteca Karma is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "After Karma Session" on Sun, 23 Aug 2026.
+Discoteca Karma is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "After Karma Session" on Sun, 23 Aug 2026.
 
 Discoteca Karma is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including DC81, Frucula, GUS PICCO and Lautaro Deem and 2 more. Browse upcoming dates, start times and who's playing. Plaça Reial, 10, 08002 Barcelona.
 
@@ -14,4 +14,4 @@ Discoteca Karma is a music venue in Barcelona listed on soundcheck. 1 upcoming n
 
 Plaça Reial, 10, 08002 Barcelona, Barcelona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/discoteca-karma/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/discoteca-karma/)*

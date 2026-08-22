@@ -1,6 +1,6 @@
 # Motor City Drum Ensemble
 
-Motor City Drum Ensemble is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Quarters, Brighton on Sat, 26 Sept 2026.
+Motor City Drum Ensemble is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Quarters, Brighton on Sat, 26 Sept 2026.
 
 Motor City Drum Ensemble is a house and disco artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 30 more. Often billed alongside Danilo Plessow, Gerd Janson and Hugo LX. Next up: Quarters, Brighton on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Motor City Drum Ensemble is a house and disco artist based in Germany, tracked o
 
 Danilo Plessow, Gerd Janson, Hugo LX
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcde/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcde/)*

@@ -1,14 +1,13 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Browar Warszawski, Warsaw on Fri, 21 Aug 2026.
+Laolu is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
 
-Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: Browar Warszawski, Warsaw on Fri 21 Aug.
+Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: VENT, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Browar Warszawski | Warsaw |
 | Fri, 28 Aug 2026 | VENT | Tokyo |
 | Sat, 5 Sept 2026 | Savaya Bali | Bali |
 | Wed, 9 Sept 2026 | Zumana Bali | Bali |
@@ -17,6 +16,7 @@ Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logg
 
 ## Recently played
 
+- Browar Warszawski, Warsaw — Fri, 21 Aug 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 8 Aug 2026
 - Cova Santa, Ibiza — Fri, 31 Jul 2026
 - Lofi, Amsterdam — Sat, 11 Jul 2026
@@ -24,10 +24,9 @@ Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logg
 - Klein Phönix, Istanbul — Sat, 25 Apr 2026
 - Savaya Bali, Bali — Sun, 5 Apr 2026
 - Zelus Athens, Athens — Fri, 27 Mar 2026
-- Gallery, London — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

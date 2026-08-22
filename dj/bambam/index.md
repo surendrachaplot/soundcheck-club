@@ -1,6 +1,6 @@
 # BämBäm
 
-BämBäm is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
+BämBäm is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Crown Pier, London on Sat, 29 Aug 2026.
 
 BämBäm is a disco and house artist based in Germany, tracked on soundcheck, with 62 sets logged across London. Often billed alongside Alfredo Romero, VanRock and NYCity Soundz. Next up: Crown Pier, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ BämBäm is a disco and house artist based in Germany, tracked on soundcheck, wi
 
 Alfredo Romero, VanRock, NYCity Soundz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambam/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambam/)*

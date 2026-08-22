@@ -1,6 +1,6 @@
 # Hypnotic Black Magic
 
-Hypnotic Black Magic is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ministerium Club, Lisbon on Fri, 4 Sept 2026.
+Hypnotic Black Magic is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministerium Club, Lisbon on Fri, 4 Sept 2026.
 
 Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bali and Bangkok and 20 more. Often billed alongside Luis FMR, Andrea Cossu and Lateral Movement. Next up: Ministerium Club, Lisbon on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Hypnotic Black Magic is a techno and ambient artist tracked on soundcheck, with 
 
 Luis FMR, Andrea Cossu, Lateral Movement
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*

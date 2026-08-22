@@ -1,6 +1,6 @@
 # Itz3bby
 
-Itz3bby is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
+Itz3bby is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Itz3bby is a garage and house artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam and Rotterdam. Often billed alongside Franky Sticks, Jan Koster and Benja (NL). Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Itz3bby is a garage and house artist based in Netherlands, tracked on soundcheck
 
 Franky Sticks, Jan Koster, Benja (NL)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itz3bby/)*

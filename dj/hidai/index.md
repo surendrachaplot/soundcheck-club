@@ -1,6 +1,6 @@
 # HIDAI
 
-HIDAI is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Dual, Bangkok on Fri, 28 Aug 2026.
+HIDAI is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Dual, Bangkok on Fri, 28 Aug 2026.
 
 HIDAI is a techno and acid artist tracked on soundcheck, with 6 sets logged across Bangkok and Tokyo. Often billed alongside NUTMEG, Do Shock Booze and TEI TEI. Next up: Dual, Bangkok on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ HIDAI is a techno and acid artist tracked on soundcheck, with 6 sets logged acro
 
 NUTMEG, Do Shock Booze, TEI TEI
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hidai/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hidai/)*

@@ -1,14 +1,13 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Boomerang Beach, The Hague on Fri, 21 Aug 2026.
+Easttown is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Boomerang Beach, Thehague on Fri 21 Aug.
+Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Boomerang Beach | The Hague |
 | Fri, 21 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Sat, 29 Aug 2026 | TivoliVredenburg | Utrecht |
 | Sun, 30 Aug 2026 | Thuishaven | Amsterdam |
@@ -20,20 +19,21 @@ Easttown is a house and tech house artist tracked on soundcheck, with 98 sets lo
 | Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
+- Boomerang Beach, The Hague — Fri, 21 Aug 2026
+- Playa Soleil & Bora Bora, Ibiza — Fri, 21 Aug 2026
 - Thuishaven, Amsterdam — Sat, 15 Aug 2026
 - [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Pacha New York, New York City — Fri, 17 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Wed, 8 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona — Sun, 21 Jun 2026
-- Poble Espanyol, Barcelona — Sun, 21 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Rooléh, Joëlla Jackson, Franky Rizardo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

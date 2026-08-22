@@ -1,6 +1,6 @@
 # Arcfilter
 
-Arcfilter is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 11 Sept 2026.
+Arcfilter is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 11 Sept 2026.
 
 Arcfilter is a techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Malaga. Often billed alongside ALT8, ORBE and Riana Holley. Next up: Studio Club Malaga, Malaga on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Arcfilter is a techno artist tracked on soundcheck, with 15 sets logged across B
 
 ALT8, ORBE, Riana Holley
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arcfilter/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arcfilter/)*

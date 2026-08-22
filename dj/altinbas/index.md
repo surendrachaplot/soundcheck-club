@@ -1,14 +1,15 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
+Altinbas is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
 
-Altinbas is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: CLUB RAUM, Amsterdam on Sat 22 Aug.
+Altinbas is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: CLUB RAUM, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | CLUB RAUM | Amsterdam |
+| Fri, 16 Oct 2026 | La Gravière | Geneva |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 
@@ -27,4 +28,4 @@ Altinbas is a techno and house artist tracked on soundcheck, with 165 sets logge
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

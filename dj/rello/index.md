@@ -1,6 +1,6 @@
 # Rello
 
-Rello is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Rello is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Rello is a tech house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Austin, Ibiza, Miami and Newyorkcity and 1 more. Often billed alongside Ms. Mada, Natalia Roth and Sosa. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Rello is a tech house and house artist based in United States of America, tracke
 
 Ms. Mada, Natalia Roth, Sosa
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*

@@ -1,15 +1,13 @@
 # Night Tales
 
-Night Tales is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Night Tales: Hamish & Toby + Laurine & Cecilio" on Fri, 21 Aug 2026.
+Night Tales is a music venue in London with 28 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Paraiso Disco: House, Disco, Classics" on Sat, 22 Aug 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Alexia Glensy, Alex Neri, Ani Phoebe and Cap and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Alexia Glensy, Alex Neri, Ani Phoebe and Cap and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Night Tales: Hamish & Toby + Laurine & Cecilio | Cecilio, Hamish & Toby, Laurine |
-| Fri, 21 Aug 2026 | Solar: House, Minimal, Edits |  |
 | Sat, 22 Aug 2026 | Paraiso Disco: House, Disco, Classics |  |
 | Thu, 27 Aug 2026 | Rinse Summer Terrace Party ft. Diffrent, Fold b2b Cu.rve, Oscar Farrell + more | Diffrent, Fold, Mona Yim, Oscar Farrell, Samtheman |
 | Fri, 28 Aug 2026 | Night Tales: Joe Goddard [All Night Long] | Joe Goddard |
@@ -18,9 +16,11 @@ Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights,
 | Fri, 4 Sept 2026 | DISCO TEHRAN IN LONDON | Ani Phoebe, Liminal People, MIRZA |
 | Sat, 5 Sept 2026 | Origins: Alexia Glensy, Cap, Doudou MD [Slapfunk & VBX] | Alexia Glensy, Cap, Doudou MD |
 | Fri, 11 Sept 2026 | Cécille Records: Easttown, Nick Curley, Rooléh | Easttown, Nick Curly, Rooléh |
+| Sat, 12 Sept 2026 | Paraiso Disco with Never Dull [House, Disco, Classics] | Never Dull |
+| Fri, 18 Sept 2026 | Night Tales: Tristan da Cunha & Truly Madly [All Night Long] | Tristan da Cunha, Truly Madly |
 
 ## Address
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

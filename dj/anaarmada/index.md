@@ -1,6 +1,6 @@
 # Ana Armada
 
-Ana Armada is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fünk, Mexico City on Thu, 10 Sept 2026.
+Ana Armada is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Fünk, Mexico City on Thu, 10 Sept 2026.
 
 Ana Armada is a house and deep house artist based in Mexico, tracked on soundcheck, with 20 sets logged across Mexicocity. Often billed alongside Un Dilema, Alejandro Veneno and Alexa Rosas. Next up: Fünk, Mexicocity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Ana Armada is a house and deep house artist based in Mexico, tracked on soundche
 
 Un Dilema, Alejandro Veneno, Alexa Rosas
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaarmada/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaarmada/)*

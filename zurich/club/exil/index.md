@@ -1,6 +1,6 @@
 # EXIL
 
-EXIL is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Choke" on Fri, 4 Sept 2026.
+EXIL is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Choke" on Fri, 4 Sept 2026.
 
 EXIL is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Dekerim, FENIM0RE, Galopp and kso12 and 2 more. Browse upcoming dates, start times and who's playing. Hardstrasse 245; 8005, Zürich; Switzerland.
 
@@ -16,4 +16,4 @@ EXIL is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with li
 
 Hardstrasse 245; 8005, Zürich; Switzerland, Zurich
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/exil/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/exil/)*

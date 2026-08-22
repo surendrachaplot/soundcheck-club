@@ -1,6 +1,6 @@
 # EMBRZ (IE)
 
-EMBRZ (IE) is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Open Aera, Toronto on Sat, 22 Aug 2026.
+EMBRZ (IE) is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Open Aera, Toronto on Sat, 22 Aug 2026.
 
 EMBRZ (IE) is a deep house and progressive house artist tracked on soundcheck, with 38 sets logged across Austin, Belfast, Chicago and Denver and 14 more. Often billed alongside Le Youth, Sultan + Shepard and Massane. Next up: Open Aera, Toronto on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ EMBRZ (IE) is a deep house and progressive house artist tracked on soundcheck, w
 
 Le Youth, Sultan + Shepard, Massane
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/embrz-ie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/embrz-ie/)*

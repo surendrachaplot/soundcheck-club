@@ -1,6 +1,6 @@
 # Phil-o
 
-Phil-o is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Phil-o is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 Phil-o is a house and uk funky artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam and Rome. Often billed alongside Luca Bortolo, brokenhead and Acid Asian. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Phil-o is a house and uk funky artist based in Italy, tracked on soundcheck, wit
 
 Luca Bortolo, brokenhead, Acid Asian
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phil-o/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phil-o/)*

@@ -1,6 +1,6 @@
 # Dornika
 
-Dornika is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Else, Berlin on Sat, 22 Aug 2026.
+Dornika is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Else, Berlin on Sat, 22 Aug 2026.
 
 Dornika is a techno and house artist tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Leipzig and Marseille and 4 more. Often billed alongside ADAM MUNNINGS, Elninodiablo and Rafush. Next up: Else, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Dornika is a techno and house artist tracked on soundcheck, with 44 sets logged 
 
 ADAM MUNNINGS, Elninodiablo, Rafush
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dornika/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dornika/)*

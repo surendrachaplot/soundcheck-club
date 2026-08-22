@@ -1,6 +1,6 @@
 # eyris
 
-eyris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club Lucia, Vienna on Fri, 21 Aug 2026.
+eyris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club Lucia, Vienna on Fri, 21 Aug 2026.
 
 eyris is a techno and house artist tracked on soundcheck, with 25 sets logged across Vienna. Often billed alongside Lefteris, Alecid and San Thiago. Next up: Club Lucia, Vienna on Fri 21 Aug.
 
@@ -14,6 +14,7 @@ eyris is a techno and house artist tracked on soundcheck, with 25 sets logged ac
 
 ## Recently played
 
+- Club Lucia, Vienna — Fri, 21 Aug 2026
 - SASS Music Club, Vienna — Thu, 5 Mar 2026
 - Arena Beach, Vienna — Fri, 29 Aug 2025
 - SASS Music Club, Vienna — Sat, 12 Jul 2025
@@ -21,10 +22,9 @@ eyris is a techno and house artist tracked on soundcheck, with 25 sets logged ac
 - Der Ponyhof, Vienna — Fri, 28 Mar 2025
 - Der Ponyhof, Vienna — Sat, 22 Mar 2025
 - SASS Music Club, Vienna — Thu, 9 Jan 2025
-- Der Ponyhof, Vienna — Thu, 25 Jul 2024
 
 ## Shares bills with
 
 Lefteris, Alecid, San Thiago
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyris/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eyris/)*

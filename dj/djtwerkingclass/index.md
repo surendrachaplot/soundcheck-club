@@ -1,14 +1,15 @@
 # dj twerking class
 
-dj twerking class is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at elipamanoke, Leipzig on Sat, 29 Aug 2026.
+dj twerking class is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at elipamanoke, Leipzig on Sat, 29 Aug 2026.
 
-dj twerking class is a trance and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Jacky Ickx, lena xx and KLING&KLANG. Next up: elipamanoke, Leipzig on Sat 29 Aug.
+dj twerking class is a trance and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Jacky Ickx, lena xx and KLING&KLANG. Next up: elipamanoke, Leipzig on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | elipamanoke | Leipzig |
+| Fri, 30 Oct 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ dj twerking class is a trance and techno artist based in Germany, tracked on sou
 
 Jacky Ickx, lena xx, KLING&KLANG
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtwerkingclass/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtwerkingclass/)*

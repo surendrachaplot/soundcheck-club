@@ -1,6 +1,6 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 21 Aug 2026.
+Dan Ghenacia is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Teatro Pereyra, Ibiza on Fri, 21 Aug 2026.
 
 Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Teatro Pereyra, Ibiza on Fri 21 Aug.
 
@@ -15,6 +15,7 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 148 se
 
 ## Recently played
 
+- Teatro Pereyra, Ibiza — Fri, 21 Aug 2026
 - Quinta do Miratejo, Lisbon — Sun, 9 Aug 2026
 - La Terrrazza, Barcelona — Sat, 25 Jul 2026
 - Sophie Festival, Malaga — Sat, 11 Jul 2026
@@ -22,10 +23,9 @@ Dan Ghenacia is a house and tech house artist tracked on soundcheck, with 148 se
 - La Terrrazza, Barcelona — Sun, 21 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Sat, 20 Jun 2026
 - Les Enfants Brillants, Barcelona — Wed, 17 Jun 2026
-- Seawolf Records, Barcelona — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Shonky, Apollonia, Dyed Soundorom
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danghenacia/)*

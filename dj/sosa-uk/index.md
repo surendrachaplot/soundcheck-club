@@ -1,6 +1,6 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Steelyard Kelham, Sheffield on Sat, 22 Aug 2026.
+SOSA (UK) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Steelyard Kelham, Sheffield on Sat, 22 Aug 2026.
 
 SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 38 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Steelyard Kelham, Sheffield on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

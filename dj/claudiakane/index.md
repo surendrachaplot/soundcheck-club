@@ -1,6 +1,6 @@
 # Claudia Kane
 
-Claudia Kane is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Electrowerkz, London on Fri, 28 Aug 2026.
+Claudia Kane is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Electrowerkz, London on Fri, 28 Aug 2026.
 
 Claudia Kane is an ebm and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside Ricardo Castro, Arrosa and JON KRIEGER. Next up: Electrowerkz, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Claudia Kane is an ebm and techno artist based in United Kingdom, tracked on sou
 
 Ricardo Castro, Arrosa, JON KRIEGER
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudiakane/)*

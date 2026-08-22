@@ -1,6 +1,6 @@
 # Fusegrade
 
-Fusegrade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat, 22 Aug 2026.
+Fusegrade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat, 22 Aug 2026.
 
 Fusegrade is a techno and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Detroit. Often billed alongside Jorissen, James (6) and Andrea Ghita. Next up: TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Fusegrade is a techno and house artist based in United States of America, tracke
 
 Jorissen, James (6), Andrea Ghita
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fusegrade/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fusegrade/)*

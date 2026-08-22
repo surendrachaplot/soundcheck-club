@@ -1,6 +1,6 @@
 # Zenyth III at Nether Club
 
-Zenyth III at Nether Club on Sat 5 Sept, Bucharest. 2 acts on the bill: BUTCHER BABY and FAUST (1). Techno and EBM. Preview the line-up and save it on soundcheck.
+Zenyth III at Nether Club on Sat 5 Sept, Bucharest. 2 acts on the bill: BUTCHER BABY and FAUST (1). EBM and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

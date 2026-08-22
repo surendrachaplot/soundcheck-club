@@ -1,6 +1,6 @@
 # Aston Evans
 
-Aston Evans is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Skyline Sips, St James Quarter Rooftop, Edinburgh on Sun, 23 Aug 2026.
+Aston Evans is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Skyline Sips, St James Quarter Rooftop, Edinburgh on Sun, 23 Aug 2026.
 
 Aston Evans is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh, London, Malaga and Malta. Often billed alongside Groove Assassin, Milady and Sol Brown. Next up: Skyline Sips, St James Quarter Rooftop, Edinburgh on Sun 23 Aug.
 
@@ -22,4 +22,4 @@ Aston Evans is a house and disco artist based in United Kingdom, tracked on soun
 
 Groove Assassin, Milady, Sol Brown
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astonevans/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astonevans/)*

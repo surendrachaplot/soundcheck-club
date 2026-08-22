@@ -1,6 +1,6 @@
 # Gracey
 
-Gracey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Dr Morse, Melbourne on Sat, 22 Aug 2026.
+Gracey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Dr Morse, Melbourne on Sat, 22 Aug 2026.
 
 Gracey is a house and techno artist tracked on soundcheck, with 48 sets logged across Ibiza, London and Melbourne. Often billed alongside Séarlait, DJ Wise and Le Clobber. Next up: Dr Morse, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Gracey is a house and techno artist tracked on soundcheck, with 48 sets logged a
 
 Séarlait, DJ Wise, Le Clobber
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracey-aus/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracey-aus/)*

@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Selkie: inWaves - Debut EP Launch" on Tue, 25 Aug 2026.
+The Glad Cafe is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Selkie: inWaves - Debut EP Launch" on Tue, 25 Aug 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including Carla dal Forno, Loscil, more eaze and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -23,4 +23,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 19 upcoming nigh
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

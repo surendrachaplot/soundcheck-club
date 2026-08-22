@@ -1,14 +1,13 @@
 # Secret Location
 
-Secret Location is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "OFF Soto Series 7 with Alec Falconer & pekkuliar" on Fri, 21 Aug 2026.
+Secret Location is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "SleazeBox: LATE NIGHT DISCO pop-up" on Sat, 22 Aug 2026.
 
-Secret Location is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Alec Falconer, Kakura, N1NJA and pekkuliar and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
+Secret Location is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Kakura, N1NJA, VIZANO and Zkeletonz. Browse upcoming dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | OFF Soto Series 7 with Alec Falconer & pekkuliar | Alec Falconer, pekkuliar |
 | Sat, 22 Aug 2026 | SleazeBox: LATE NIGHT DISCO pop-up | Zkeletonz |
 | Sat, 29 Aug 2026 | Tripsitter |  |
 | Sat, 12 Sept 2026 | PROPER 002 - Hypnotic Techno |  |
@@ -18,4 +17,4 @@ Secret Location is a music venue in London listed on soundcheck. 5 upcoming nigh
 
 To Be Announced, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

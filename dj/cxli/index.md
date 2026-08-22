@@ -1,6 +1,6 @@
 # CXLI
 
-CXLI is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
+CXLI is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Carpet Shop, London on Fri, 28 Aug 2026.
 
 CXLI is an uk funky and baile funk artist tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside OTDELTA, Ìyáàlù and Papaoul. Next up: The Carpet Shop, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ CXLI is an uk funky and baile funk artist tracked on soundcheck, with 24 sets lo
 
 OTDELTA, Ìyáàlù, Papaoul
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*

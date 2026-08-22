@@ -1,6 +1,6 @@
 # GOLD DISC - ALL MIX - at ZEROTOKYO
 
-GOLD DISC - ALL MIX - at ZEROTOKYO on Fri 18 Sept, Tokyo. 1 act on the bill: Aiobahn. Pop. Preview the line-up and save it on soundcheck.
+GOLD DISC - ALL MIX - at ZEROTOKYO on Fri 18 Sept, Tokyo. 3 acts on the bill: Aiobahn, omeme_gangimari and Sekitova. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ GOLD DISC - ALL MIX - at ZEROTOKYO on Fri 18 Sept, Tokyo. 1 act on the bill: Aio
 ## Line-up
 
 - Aiobahn
+- omeme_gangimari
+- Sekitova
 
 *Source: [soundcheck](https://soundcheck.club/e/2485334-gold-disc-all-mix-at-zerotokyo/)*

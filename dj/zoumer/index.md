@@ -1,6 +1,6 @@
 # Zoumer
 
-Zoumer is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at KLEIN kbh, Copenhagen on Fri, 13 Nov 2026.
+Zoumer is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KLEIN kbh, Copenhagen on Fri, 13 Nov 2026.
 
 Zoumer is an experimental and pop artist tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside Debbie Sings, Deb Foam and Adexia. Next up: KLEIN kbh, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Zoumer is an experimental and pop artist tracked on soundcheck, with 9 sets logg
 
 Debbie Sings, Deb Foam, Adexia
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoumer/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoumer/)*

@@ -1,6 +1,6 @@
 # Kardano
 
-Kardano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 21 Aug 2026.
+Kardano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 21 Aug 2026.
 
 Kardano is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Amsterdam, Ibiza, Seattle and Toronto and 1 more. Often billed alongside Jared Love, Simon Neviani and HighCUE. Next up: Gorg-O-Mish, Vancouver on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Kardano is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 ## Recently played
 
+- Gorg-O-Mish, Vancouver — Fri, 21 Aug 2026
 - TBA, Vancouver — Sat, 18 Jul 2026
 - Gorg-O-Mish, Vancouver — Sat, 4 Jul 2026
 - Gorg-O-Mish, Vancouver — Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ Kardano is a house and techno artist based in Canada, tracked on soundcheck, wit
 - The Red Room, Vancouver — Thu, 26 Mar 2026
 - Gorg-O-Mish, Vancouver — Sun, 11 Jan 2026
 - TBA - VAN DE WERF, Amsterdam — Sat, 25 Oct 2025
-- nhow Amsterdam RAI, Amsterdam — Wed, 22 Oct 2025
 
 ## Shares bills with
 
 Jared Love, Simon Neviani, HighCUE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kardano/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kardano/)*

@@ -1,6 +1,6 @@
 # NORIZM
 
-NORIZM is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sound Bar Patrol, Tokyo on Sat, 22 Aug 2026.
+NORIZM is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sound Bar Patrol, Tokyo on Sat, 22 Aug 2026.
 
 NORIZM is a house and afro house artist tracked on soundcheck, with 6 sets logged across Osaka and Tokyo. Often billed alongside Mamazu, DJ SENOBY and Fushiming. Next up: Sound Bar Patrol, Tokyo on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ NORIZM is a house and afro house artist tracked on soundcheck, with 6 sets logge
 
 Mamazu, DJ SENOBY, Fushiming
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norizm/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norizm/)*

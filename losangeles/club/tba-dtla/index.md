@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "CVNTROL FREAK" on Sat, 22 Aug 2026.
+TBA - DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "CVNTROL FREAK" on Sat, 22 Aug 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including 6 SENSE, Alxander Ivey, Brick (US) and Buttechno and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nigh
 | Fri, 6 Nov 2026 | CLOSER presents THERMAL with 6 SENSE (LA Debut) | 6 SENSE, Brick (US), S.I.M, fun2bjane |
 | Sat, 14 Nov 2026 | OBSERVE 24 YEAR ANNIVERSARY // TICKETS OF TRUST AVAILABLE NOW |  |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

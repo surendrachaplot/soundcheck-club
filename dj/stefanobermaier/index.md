@@ -1,6 +1,6 @@
 # Stefan Obermaier
 
-Stefan Obermaier is a Drum & Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 13 Sept 2026.
+Stefan Obermaier is a Drum & Bass and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 13 Sept 2026.
 
 Stefan Obermaier is a drum & bass and r&b artist based in Austria, tracked on soundcheck, with 9 sets logged across Ibiza and Vienna. Often billed alongside Akali Akali, Anna Ullrich and Flo Real. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Stefan Obermaier is a drum & bass and r&b artist based in Austria, tracked on so
 
 Akali Akali, Anna Ullrich, Flo Real
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanobermaier/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanobermaier/)*

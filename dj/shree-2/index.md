@@ -1,6 +1,6 @@
 # Shree (2)
 
-Shree (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
+Shree (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Legal, Munich on Fri, 21 Aug 2026.
 
 Shree (2) is a house and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Munich. Often billed alongside Artifex (DE), Daisuki and FLETCH. Next up: Legal, Munich on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Shree (2) is a house and tech house artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Legal, Munich — Fri, 21 Aug 2026
 - Rote Sonne, Munich — Fri, 17 Jul 2026
 - Holy Home, Munich — Fri, 13 Mar 2026
 - Unter Deck, Munich — Sat, 28 Feb 2026
@@ -21,4 +22,4 @@ Shree (2) is a house and tech house artist based in Germany, tracked on soundche
 
 Artifex (DE), Daisuki, FLETCH
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shree-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shree-2/)*

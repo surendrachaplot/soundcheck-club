@@ -1,6 +1,6 @@
 # Yoffi
 
-Yoffi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
+Yoffi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
 
 Yoffi is a house and deep house artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Mr. D, TA AM and Laurent (3). Next up: Madam, Amsterdam on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Yoffi is a house and deep house artist tracked on soundcheck, with 5 sets logged
 
 Mr. D, TA AM, Laurent (3)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoffi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoffi/)*

@@ -1,6 +1,6 @@
 # D.O.K
 
-D.O.K is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Yan Gastro, Istanbul on Sat, 22 Aug 2026.
+D.O.K is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Yan Gastro, Istanbul on Sat, 22 Aug 2026.
 
 D.O.K is a house and dubstep artist tracked on soundcheck, with 6 sets logged across Istanbul, London and Manchester. Often billed alongside P Jam, Trends and Boylan. Next up: Yan Gastro, Istanbul on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ D.O.K is a house and dubstep artist tracked on soundcheck, with 6 sets logged ac
 
 P Jam, Trends, Boylan
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dok/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dok/)*

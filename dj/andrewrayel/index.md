@@ -1,6 +1,6 @@
 # Andrew Rayel
 
-Andrew Rayel is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bauhaus, Houston on Sat, 29 Aug 2026.
+Andrew Rayel is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bauhaus, Houston on Sat, 29 Aug 2026.
 
 Andrew Rayel is a trance and techno artist based in Moldova, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Denver and Houston and 14 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Bauhaus, Houston on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Andrew Rayel is a trance and techno artist based in Moldova, tracked on soundche
 
 Alesso, Armin van Buuren, Bart Skils
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*

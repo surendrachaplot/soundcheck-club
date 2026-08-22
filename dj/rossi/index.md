@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Brooklyn Storehouse, New York City on Fri, 21 Aug 2026.
+Rossi is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Expo Lawn West, Los Angeles on Sat, 22 Aug 2026.
 
-Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Brooklyn Storehouse, Newyorkcity on Fri 21 Aug.
+Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Expo Lawn West, Losangeles on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Brooklyn Storehouse | New York City |
 | Sat, 22 Aug 2026 | Expo Lawn West | Los Angeles |
 | Fri, 28 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
@@ -20,9 +19,11 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sat, 10 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Thu, 29 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 
 ## Recently played
 
+- Brooklyn Storehouse, New York City — Fri, 21 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - BCM, Mallorca — Tue, 28 Jul 2026
 - DC-10, Ibiza — Mon, 27 Jul 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 - KOKO, London — Sat, 18 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
 - Colorado Charlie, The Hague — Sun, 28 Jun 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

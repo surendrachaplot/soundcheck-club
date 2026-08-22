@@ -1,6 +1,6 @@
 # Flavio Diaz
 
-Flavio Diaz is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
+Flavio Diaz is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
 
 Flavio Diaz is a techno and industrial artist based in Italy, tracked on soundcheck, with 5 sets logged across Naples. Often billed alongside Adam Beyer, Billy Nasty and Cambric. Next up: Flava Beach, Naples on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Flavio Diaz is a techno and industrial artist based in Italy, tracked on soundch
 
 Adam Beyer, Billy Nasty, Cambric
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flaviodiaz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flaviodiaz/)*

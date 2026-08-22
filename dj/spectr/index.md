@@ -1,6 +1,6 @@
 # spectr
 
-spectr is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Le Molodoi, Strasbourg on Fri, 11 Sept 2026.
+spectr is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Le Molodoi, Strasbourg on Fri, 11 Sept 2026.
 
 spectr is a bass and garage artist tracked on soundcheck, with 13 sets logged across Lisbon and Strasbourg. Often billed alongside Lakaii, GTK (1) and LOWLO. Next up: Le Molodoi, Strasbourg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ spectr is a bass and garage artist tracked on soundcheck, with 13 sets logged ac
 
 Lakaii, GTK (1), LOWLO
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spectr/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spectr/)*

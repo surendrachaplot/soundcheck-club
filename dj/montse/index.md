@@ -1,6 +1,6 @@
 # Montse
 
-Montse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
+Montse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
 
 Montse is a techno and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Amsterdam, Madrid and Rotterdam. Often billed alongside Joya Astou, Mees Javois and Prance. Next up: TILLATEC, Amsterdam on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Montse is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 Joya Astou, Mees Javois, Prance
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*

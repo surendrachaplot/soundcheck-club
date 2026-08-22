@@ -1,8 +1,8 @@
 # James Harbrecht
 
-James Harbrecht is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+James Harbrecht is a Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
-James Harbrecht is a techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, London and Mexicocity and 2 more. Often billed alongside H Grade, Ylia (UK) and GIZZI. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
+James Harbrecht is a techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, London and Mexicocity and 2 more. Often billed alongside H Grade, Ylia (UK) and GIZZI. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ James Harbrecht is a techno artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | TILLATEC | Amsterdam |
 | Sun, 27 Sept 2026 | Starlane Pizza Bar | London |
+| Sat, 17 Oct 2026 | Gaffe | London |
+| Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ James Harbrecht is a techno artist based in United Kingdom, tracked on soundchec
 
 H Grade, Ylia (UK), GIZZI
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharbrecht/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharbrecht/)*

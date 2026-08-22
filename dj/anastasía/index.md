@@ -1,6 +1,6 @@
 # ANASTASÍA
 
-ANASTASÍA is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 4 Sept 2026.
+ANASTASÍA is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 4 Sept 2026.
 
 ANASTASÍA is a trance and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Munich. Often billed alongside Jan Minnerup, Vaneska and Listenblondie. Next up: Bahnwärter Thiel, Munich on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ ANASTASÍA is a trance and house artist based in Germany, tracked on soundcheck,
 
 Jan Minnerup, Vaneska, Listenblondie
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasía/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasía/)*

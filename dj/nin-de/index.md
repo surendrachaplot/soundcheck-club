@@ -1,6 +1,6 @@
 # N:in (DE)
 
-N:in (DE) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+N:in (DE) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 N:in (DE) is a techno and bass artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Christian Kluge, Laetizia and Ivaldo Gino. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ N:in (DE) is a techno and bass artist based in Germany, tracked on soundcheck, w
 
 Christian Kluge, Laetizia, Ivaldo Gino
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nin-de/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nin-de/)*

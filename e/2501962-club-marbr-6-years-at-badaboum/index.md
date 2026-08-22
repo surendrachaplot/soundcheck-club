@@ -1,6 +1,6 @@
 # Club — Marbré 6 Years at Badaboum
 
-Club — Marbré 6 Years at Badaboum on Sat 5 Sept, Paris. 2 acts on the bill: Pierrinski and Yambow. House and Tech House. Preview the line-up and save it on soundcheck.
+Club — Marbré 6 Years at Badaboum on Sat 5 Sept, Paris. 3 acts on the bill: Marbré, Pierrinski and Yambow. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Club — Marbré 6 Years at Badaboum on Sat 5 Sept, Paris. 2 acts on the bill: P
 
 ## Line-up
 
+- Marbré
 - Pierrinski
 - Yambow
 

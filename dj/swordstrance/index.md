@@ -1,6 +1,6 @@
 # Swordstrance
 
-Swordstrance is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, London on Fri, 21 Aug 2026.
+Swordstrance is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, London on Fri, 21 Aug 2026.
 
 Swordstrance is a trance and hardcore artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Synapsefirer, Baptist (UK) and flippedcrosses. Next up: TBA, London on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Swordstrance is a trance and hardcore artist tracked on soundcheck, with 7 sets 
 
 ## Recently played
 
+- TBA, London — Fri, 21 Aug 2026
 - Low Profile Studios, London — Sat, 5 Apr 2025
 - M.O.T, London — Thu, 13 Feb 2025
 - Off The Cuff, London — Sat, 30 Nov 2024
@@ -23,4 +24,4 @@ Swordstrance is a trance and hardcore artist tracked on soundcheck, with 7 sets 
 
 Synapsefirer, Baptist (UK), flippedcrosses
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swordstrance/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swordstrance/)*

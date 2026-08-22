@@ -1,6 +1,6 @@
 # derderwandert
 
-derderwandert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+derderwandert is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 derderwandert is a techno and house artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside Danito, Bensonius and NUS MUSIC. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ derderwandert is a techno and house artist tracked on soundcheck, with 10 sets l
 
 ## Recently played
 
+- Graf Adolf Platz, Düsseldorf — Fri, 21 Aug 2026
 - Birgit, Berlin — Fri, 17 Jul 2026
 - Bridge 48, Barcelona — Thu, 18 Jun 2026
 - Pracht, Frankfurt — Sat, 28 Feb 2026
@@ -20,10 +21,9 @@ derderwandert is a techno and house artist tracked on soundcheck, with 10 sets l
 - Helios37, Cologne — Fri, 15 Aug 2025
 - Helios37, Cologne — Sat, 8 Feb 2025
 - Nachtigall, Cologne — Wed, 2 Oct 2024
-- Odonien, Cologne — Sat, 8 Jul 2023
 
 ## Shares bills with
 
 Danito, Bensonius, NUS MUSIC
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derderwandert/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derderwandert/)*

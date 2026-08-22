@@ -1,6 +1,6 @@
 # SHIMMER
 
-SHIMMER is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Panke, Berlin on Tue, 25 Aug 2026.
+SHIMMER is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Panke, Berlin on Tue, 25 Aug 2026.
 
 SHIMMER is an electronic artist tracked on soundcheck, with 8 sets logged across Amsterdam and Berlin. Often billed alongside PunkFunkLove, Jayzo and Plab On. Next up: Panke, Berlin on Tue 25 Aug.
 
@@ -24,4 +24,4 @@ SHIMMER is an electronic artist tracked on soundcheck, with 8 sets logged across
 
 PunkFunkLove, Jayzo, Plab On
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmer-ne/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmer-ne/)*

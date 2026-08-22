@@ -1,6 +1,6 @@
 # Keenarf
 
-Keenarf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Luzztro, Warsaw on Fri, 21 Aug 2026.
+Keenarf is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Luzztro, Warsaw on Fri, 21 Aug 2026.
 
 Keenarf is a techno and house artist tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside Mabu, Chriss Jaxx and Daro. Next up: Luzztro, Warsaw on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Keenarf is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 ## Recently played
 
+- Luzztro, Warsaw — Fri, 21 Aug 2026
 - Luzztro, Warsaw — Fri, 1 May 2026
 - Smolna, Warsaw — Sat, 14 Feb 2026
 - Kalima, Warsaw — Sat, 30 Aug 2025
@@ -23,4 +24,4 @@ Keenarf is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 Mabu, Chriss Jaxx, Daro
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keenarf/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keenarf/)*

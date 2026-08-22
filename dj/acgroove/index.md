@@ -1,6 +1,6 @@
 # AC Groove
 
-AC Groove is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Black Cat Parr Street, Liverpool on Fri, 21 Aug 2026.
+AC Groove is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Black Cat Parr Street, Liverpool on Fri, 21 Aug 2026.
 
 AC Groove is a house and disco artist tracked on soundcheck, with 32 sets logged across Liverpool. Often billed alongside Ellie Jennings, Ethan West and Love Machine. Next up: TBA - Black Cat Parr Street, Liverpool on Fri 21 Aug.
 
@@ -14,6 +14,7 @@ AC Groove is a house and disco artist tracked on soundcheck, with 32 sets logged
 
 ## Recently played
 
+- TBA - Black Cat Parr Street, Liverpool — Fri, 21 Aug 2026
 - Commune, Liverpool — Sat, 13 Jun 2026
 - Zenn Rooftop, Liverpool — Sun, 24 May 2026
 - Baltic Market, Liverpool — Wed, 31 Dec 2025
@@ -21,10 +22,9 @@ AC Groove is a house and disco artist tracked on soundcheck, with 32 sets logged
 - Rubell's, Liverpool — Fri, 31 Oct 2025
 - Frederik's Bar, Liverpool — Fri, 31 Oct 2025
 - Kapsule, Liverpool — Sat, 27 Sept 2025
-- Botanical Gin Garden, Liverpool — Sat, 19 Jul 2025
 
 ## Shares bills with
 
 Ellie Jennings, Ethan West, Love Machine
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acgroove/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acgroove/)*

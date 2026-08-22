@@ -1,6 +1,6 @@
 # LUCIANA
 
-LUCIANA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sat, 22 Aug 2026.
+LUCIANA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sat, 22 Aug 2026.
 
 LUCIANA is a house and deep house artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona and Ibiza. Often billed alongside CHRIS RAZZ, Vanuza Casimiro and Ale Hope. Next up: Azul Rooftop Barceloneta, Barcelona on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ LUCIANA is a house and deep house artist based in Spain, tracked on soundcheck, 
 
 CHRIS RAZZ, Vanuza Casimiro, Ale Hope
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciana/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciana/)*

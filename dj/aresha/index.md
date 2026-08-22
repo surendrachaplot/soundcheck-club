@@ -1,6 +1,6 @@
 # ARESHA
 
-ARESHA is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mdlr, Singapore on Fri, 4 Sept 2026.
+ARESHA is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mdlr, Singapore on Fri, 4 Sept 2026.
 
 ARESHA is a bass and drum & bass artist tracked on soundcheck, with 3 sets logged across Singapore. Often billed alongside Anny (UK), DJ EZ and Degs. Next up: Mdlr, Singapore on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ ARESHA is a bass and drum & bass artist tracked on soundcheck, with 3 sets logge
 
 Anny (UK), DJ EZ, Degs
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aresha/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aresha/)*

@@ -1,6 +1,6 @@
 # Thurman Jackson
 
-Thurman Jackson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Neon Grotto, Austin on Thu, 27 Aug 2026.
+Thurman Jackson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Neon Grotto, Austin on Thu, 27 Aug 2026.
 
 Thurman Jackson is a house and disco artist tracked on soundcheck, with 42 sets logged across Austin. Often billed alongside Brother Pate, JT Donaldson and Knos. Next up: Neon Grotto, Austin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Thurman Jackson is a house and disco artist tracked on soundcheck, with 42 sets 
 
 Brother Pate, JT Donaldson, Knos
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thurmanjackson/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thurmanjackson/)*

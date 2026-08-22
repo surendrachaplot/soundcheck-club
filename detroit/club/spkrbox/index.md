@@ -1,15 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Crush" on Fri, 21 Aug 2026.
+Spkrbox is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Terms & Conditions" on Sat, 22 Aug 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including 888lambchop, Al Ester, Bale Defoe and Bethany Shorb and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including 888lambchop, Al Ester, Bale Defoe and DJ Hyperactive and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Crush | Joshua Tree, Psy-Chick |
-| Fri, 21 Aug 2026 | Catnip | Bethany Shorb |
 | Sat, 22 Aug 2026 | Terms & Conditions | Al Ester, Hazmat Live, Perish, Taylor Monai, Xan Bishop |
 | Sun, 23 Aug 2026 | Foggy Sunday | DJ Hyperactive, Dru Ruiz |
 | Tue, 25 Aug 2026 | T2B TUESDAYS: New Spkrbox Residency with TOP2BTTM | M00N PI, UNS4NE, we1sman |
@@ -21,4 +19,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming nights, wit
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

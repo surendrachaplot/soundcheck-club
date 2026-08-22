@@ -1,6 +1,6 @@
 # Hiroko Hacci
 
-Hiroko Hacci is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Amnesia Milano, Milan on Sat, 5 Sept 2026.
+Hiroko Hacci is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Amnesia Milano, Milan on Sat, 5 Sept 2026.
 
 Hiroko Hacci is an electro and house artist tracked on soundcheck, with 52 sets logged across Milan, Rome and Tokyo. Often billed alongside Giale, Creamy and Fabio Monesi. Next up: Amnesia Milano, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hiroko Hacci is an electro and house artist tracked on soundcheck, with 52 sets 
 
 Giale, Creamy, Fabio Monesi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokohacci/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokohacci/)*

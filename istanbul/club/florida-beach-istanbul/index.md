@@ -1,6 +1,6 @@
 # Florida Beach Istanbul
 
-Florida Beach Istanbul is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "ULTIMATE BEACH FESTIVAL ISTANBUL — The Season Closing ... FLORIDA BEACH" on Sat, 12 Sept 2026.
+Florida Beach Istanbul is a music venue in Istanbul with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ULTIMATE BEACH FESTIVAL ISTANBUL — The Season Closing ... FLORIDA BEACH" on Sat, 12 Sept 2026.
 
 Florida Beach Istanbul is a music venue in Istanbul listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Gümüşdere, Boğaziçi Kampüs Yolu 1/A, 34450 Sarıyer.
 
@@ -15,4 +15,4 @@ Florida Beach Istanbul is a music venue in Istanbul listed on soundcheck. 2 upco
 
 Gümüşdere, Boğaziçi Kampüs Yolu 1/A, 34450 Sarıyer, Istanbul
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/florida-beach-istanbul/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/florida-beach-istanbul/)*

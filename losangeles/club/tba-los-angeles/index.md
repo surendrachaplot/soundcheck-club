@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 17 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "RE/FORM presents Trip To Galaxy: Joris Voorn, LUIS MIRANDA, & Materielle" on Sat, 22 Aug 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "RE/FORM presents Trip To Galaxy: Joris Voorn, LUIS MIRANDA, & Materielle" on Sat, 22 Aug 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 17 upcoming nights, with line-ups including AC13, Adam X, Anastasia Giovani and Annika Wolfe and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 17 upcomi
 | Fri, 25 Sept 2026 | WORK OVER/TIME: JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath [Live], & Wata Igarashi | Blasha & Allatt, JIA, MARRØN, NEKTER, Rene Wise, Rrose, Sarah Wreath, Wata Igarashi |
 | Fri, 25 Sept 2026 | WORK OVER/TIME Day 1: NEKTER, Rrose, & Wata Igarashi | NEKTER, Rrose, Wata Igarashi |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

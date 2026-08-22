@@ -1,6 +1,6 @@
 # Aleja Sanchez
 
-Aleja Sanchez is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at LAUT, Barcelona on Sat, 12 Sept 2026.
+Aleja Sanchez is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at LAUT, Barcelona on Sat, 12 Sept 2026.
 
 Aleja Sanchez is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside Claudio PRC, !nertia and Agonis. Next up: LAUT, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Aleja Sanchez is a techno and dub techno artist based in Colombia, tracked on so
 
 Claudio PRC, !nertia, Agonis
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejasanchez/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejasanchez/)*

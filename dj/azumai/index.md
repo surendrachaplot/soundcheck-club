@@ -1,6 +1,6 @@
 # Azumai
 
-Azumai is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 29 Aug 2026.
+Azumai is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Circus Tokyo, Tokyo on Sat, 29 Aug 2026.
 
 Azumai is a drum & bass and bass artist tracked on soundcheck, with 31 sets logged across Hongkong and Tokyo. Often billed alongside SAKO, VECSILLE and yuitty. Next up: Circus Tokyo, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Azumai is a drum & bass and bass artist tracked on soundcheck, with 31 sets logg
 
 SAKO, VECSILLE, yuitty
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azumai/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azumai/)*

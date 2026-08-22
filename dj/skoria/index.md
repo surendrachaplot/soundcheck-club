@@ -1,6 +1,6 @@
 # Skoria
 
-Skoria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Distillery, Leipzig on Sun, 23 Aug 2026.
+Skoria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Distillery, Leipzig on Sun, 23 Aug 2026.
 
 Skoria is a techno and house artist tracked on soundcheck, with 22 sets logged across Berlin and Leipzig. Often billed alongside Emeveka, Moto Moto and NICI PALM. Next up: Distillery, Leipzig on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Skoria is a techno and house artist tracked on soundcheck, with 22 sets logged a
 
 Emeveka, Moto Moto, NICI PALM
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skoria/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skoria/)*

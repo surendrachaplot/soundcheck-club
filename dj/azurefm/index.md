@@ -1,6 +1,6 @@
 # Azure
 
-Azure is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Melrose House, Los Angeles on Sun, 30 Aug 2026.
+Azure is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Melrose House, Los Angeles on Sun, 30 Aug 2026.
 
 Azure is a club and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Bristol, Chicago, Losangeles and Newyorkcity. Often billed alongside Bianca Maieli, CHRYSALIS and Pauliewog. Next up: The Melrose House, Losangeles on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Azure is a club and house artist based in United States of America, tracked on s
 
 Bianca Maieli, CHRYSALIS, Pauliewog
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azurefm/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azurefm/)*

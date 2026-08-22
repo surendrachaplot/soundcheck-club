@@ -1,6 +1,6 @@
 # Universal Cave
 
-Universal Cave is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Jupiter Disco, New York City on Sat, 29 Aug 2026.
+Universal Cave is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jupiter Disco, New York City on Sat, 29 Aug 2026.
 
 Universal Cave is a house and disco artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Washingtondc. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: Jupiter Disco, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Universal Cave is a house and disco artist based in United States of America, tr
 
 Shawn Ryan, Zillas on Acid, JEWELSSEA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/universalcave/)*

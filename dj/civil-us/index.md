@@ -1,6 +1,6 @@
 # Civil
 
-Civil is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jupiter Disco, New York City on Sun, 6 Sept 2026.
+Civil is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Jupiter Disco, New York City on Sun, 6 Sept 2026.
 
 Civil is a club and experimental artist tracked on soundcheck, with 8 sets logged across Bristol and Newyorkcity. Often billed alongside Jetty, 1OO1O and ANNA PURA. Next up: Jupiter Disco, Newyorkcity on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Civil is a club and experimental artist tracked on soundcheck, with 8 sets logge
 
 Jetty, 1OO1O, ANNA PURA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/civil-us/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/civil-us/)*

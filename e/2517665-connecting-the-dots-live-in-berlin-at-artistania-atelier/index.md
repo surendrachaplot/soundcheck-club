@@ -1,6 +1,6 @@
-# Connecting The Dots: Live In Berlin at Artistania Atelier
+# Connecting The Dots : Live In Berlin at Artistania Atelier
 
-Connecting The Dots: Live In Berlin at Artistania Atelier on Wed 16 Sept, Berlin. Preview the line-up and save it on soundcheck.
+Connecting The Dots : Live In Berlin at Artistania Atelier on Wed 16 Sept, Berlin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

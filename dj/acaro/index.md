@@ -1,6 +1,6 @@
 # Aca [RO]
 
-Aca [RO] is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
+Aca [RO] is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cova Santa, Ibiza on Sun, 27 Sept 2026.
 
 Aca [RO] is a deep house and minimal artist based in France, tracked on soundcheck, with 13 sets logged across Budapest and Ibiza. Often billed alongside Ryan Connolly, HARRIE SUMMERS and Wheats. Next up: Cova Santa, Ibiza on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Aca [RO] is a deep house and minimal artist based in France, tracked on soundche
 
 Ryan Connolly, HARRIE SUMMERS, Wheats
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acaro/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acaro/)*

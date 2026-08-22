@@ -1,6 +1,6 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Crate Brewery, London on Sat, 22 Aug 2026.
+Laidlaw is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Crate Brewery, London on Sat, 22 Aug 2026.
 
 Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Crate Brewery, London on Sat 22 Aug.
 
@@ -36,4 +36,4 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets lo
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

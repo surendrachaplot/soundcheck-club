@@ -1,6 +1,6 @@
 # Ground (1)
 
-Ground (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at BAR Inc, Osaka on Fri, 11 Sept 2026.
+Ground (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at BAR Inc, Osaka on Fri, 11 Sept 2026.
 
 Ground (1) is a house and techno artist based in Japan, tracked on soundcheck, with 53 sets logged across Bangkok, Berlin, Kyoto and London and 3 more. Often billed alongside SATICA, Satoshi Otsuki and YAMA(JP/OSK). Next up: BAR Inc, Osaka on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ground (1) is a house and techno artist based in Japan, tracked on soundcheck, w
 
 SATICA, Satoshi Otsuki, YAMA(JP/OSK)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ground-1/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ground-1/)*

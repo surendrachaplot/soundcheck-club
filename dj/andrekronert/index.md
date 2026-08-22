@@ -1,6 +1,6 @@
 # Andre Kronert
 
-Andre Kronert is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ciao ciao Bar, Berlin on Fri, 28 Aug 2026.
+Andre Kronert is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ciao ciao Bar, Berlin on Fri, 28 Aug 2026.
 
 Andre Kronert is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Detroit and 4 more. Often billed alongside Claus Bachor, Edgar Peng and 909 RACING TEAM. Next up: ciao ciao Bar, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Andre Kronert is a techno and house artist based in Germany, tracked on soundche
 
 Claus Bachor, Edgar Peng, 909 RACING TEAM
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrekronert/)*

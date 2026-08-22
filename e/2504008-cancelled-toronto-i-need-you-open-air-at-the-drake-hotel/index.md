@@ -1,0 +1,11 @@
+# [CANCELLED] TORONTO, I NEED YOU (Open Air) at The Drake Hotel
+
+[CANCELLED] TORONTO, I NEED YOU (Open Air) at The Drake Hotel on Sun 23 Aug, Toronto. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sun, 23 Aug 2026 |
+| Venue | The Drake Hotel |
+| City | Toronto |
+
+*Source: [soundcheck](https://soundcheck.club/e/2504008-cancelled-toronto-i-need-you-open-air-at-the-drake-hotel/)*

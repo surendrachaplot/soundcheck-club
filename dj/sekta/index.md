@@ -1,6 +1,6 @@
 # Sekta
 
-Sekta is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+Sekta is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
 
 Sekta is a trance and techno artist based in Poland, tracked on soundcheck, with 4 sets logged across Copenhagen, Hobart, Melbourne and Sydney. Often billed alongside Alex Bohemien, Alexander Santana and Anna Logic. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Sekta is a trance and techno artist based in Poland, tracked on soundcheck, with
 
 Alex Bohemien, Alexander Santana, Anna Logic
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sekta/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sekta/)*

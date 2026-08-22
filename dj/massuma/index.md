@@ -1,6 +1,6 @@
 # Massuma
 
-Massuma is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 21 Aug 2026.
+Massuma is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 Massuma is a house and afro house artist tracked on soundcheck, with 7 sets logged across Ibiza, London, Mykonos and Zurich. Often billed alongside &friends, Afshin Momadi and Alan Dixon. Next up: Chinois Ibiza, Ibiza on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Massuma is a house and afro house artist tracked on soundcheck, with 7 sets logg
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Fri, 21 Aug 2026
 - Samigo Amusement, Zurich — Sat, 4 Jul 2026
 - Void Mykonos, Mykonos — Fri, 3 Jul 2026
 - KOKO, London — Sat, 27 Jun 2026
@@ -23,4 +24,4 @@ Massuma is a house and afro house artist tracked on soundcheck, with 7 sets logg
 
 &friends, Afshin Momadi, Alan Dixon
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massuma/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massuma/)*

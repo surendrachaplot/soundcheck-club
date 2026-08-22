@@ -1,14 +1,13 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Fridays at 77 x Chuleo Club: Slim Soledad, Zalina, Maz, Maria Piña" on Fri, 21 Aug 2026.
+Club 77 is a music venue in Sydney with 15 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Club 77: Reenie, Lorna Clarkson" on Sat, 22 Aug 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, with line-ups including Alex Diwa, Assembler Code, Caitlin Medcalf and Ciara and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 15 upcoming nights, with line-ups including Alex Diwa, Assembler Code, Caitlin Medcalf and Ciara and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Fridays at 77 x Chuleo Club: Slim Soledad, Zalina, Maz, Maria Piña | Maria Piña, Slim Soledad, Zalina |
 | Sat, 22 Aug 2026 | Club 77: Reenie, Lorna Clarkson | Lorna Clarkson, Reenie |
 | Sun, 23 Aug 2026 | 77 x Control: Sveta | DJ Sveta |
 | Fri, 28 Aug 2026 | Fridays at 77 x Love Message: Milkpaste, Unprotected Success, Alex Diwa, Harry Court | Alex Diwa, Harry Court, Milkpaste, Unprotected Success |
@@ -18,9 +17,10 @@ Club 77 is a music venue in Sydney listed on soundcheck. 16 upcoming nights, wit
 | Sun, 6 Sept 2026 | 77 x Control: Rydeen, sovblkpssy | Rydeen (AU), sovblkpssy |
 | Fri, 11 Sept 2026 | Fridays at 77 x Love Message: Kate Doherty, Milkpaste | Kate Doherty, Milkpaste |
 | Sat, 12 Sept 2026 | Club 77: Deepchild, Reenie | Deepchild, Reenie |
+| Fri, 18 Sept 2026 | Fridays at 77 x Konti Lang: Ciara b2b Setwun, Mango, POOKIE | Ciara, Mango, Pookie (2), Setwun |
 
 ## Address
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

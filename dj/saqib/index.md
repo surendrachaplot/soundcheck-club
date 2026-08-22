@@ -1,19 +1,19 @@
 # Saqib
 
-Saqib is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+Saqib is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Monkey Loft, Seattle on Thu, 10 Sept 2026.
 
-Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
+Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Boston, Losangeles and Miami and 5 more. Often billed alongside Nhii, Francesca Lombardo and Matt Caines. Next up: The Monkey Loft, Seattle on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Elsewhere | New York City |
 | Thu, 10 Sept 2026 | The Monkey Loft | Seattle |
 | Sat, 12 Sept 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 21 Aug 2026
 - House of Yes, New York City — Fri, 31 Jul 2026
 - TBA - Moss Venice, Los Angeles — Fri, 17 Jul 2026
 - House of Yes, New York City — Sat, 9 May 2026
@@ -21,10 +21,9 @@ Saqib is a house and deep house artist based in United States of America, tracke
 - Hyatt Regency Dock, Miami — Fri, 27 Mar 2026
 - Signal, New York City — Sat, 10 Jan 2026
 - Zum Barbarossa, Amsterdam — Sat, 25 Oct 2025
-- Duke Of Tokyo, Amsterdam — Thu, 23 Oct 2025
 
 ## Shares bills with
 
 Nhii, Francesca Lombardo, Matt Caines
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

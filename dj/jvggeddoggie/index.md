@@ -1,6 +1,6 @@
 # JvggedDoggie
 
-JvggedDoggie is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sala El Sol, Madrid on Sat, 22 Aug 2026.
+JvggedDoggie is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sala El Sol, Madrid on Sat, 22 Aug 2026.
 
 JvggedDoggie is a club and techno artist based in Spain, tracked on soundcheck, with 38 sets logged across Madrid. Often billed alongside TRIXYTRICKS, Pulpix and Nixy. Next up: Sala El Sol, Madrid on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ JvggedDoggie is a club and techno artist based in Spain, tracked on soundcheck, 
 
 TRIXYTRICKS, Pulpix, Nixy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jvggeddoggie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jvggeddoggie/)*

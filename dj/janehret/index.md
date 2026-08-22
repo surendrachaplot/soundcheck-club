@@ -1,6 +1,6 @@
 # Jan Ehret
 
-Jan Ehret is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at East Side Gallery Deck, Berlin on Sat, 22 Aug 2026.
+Jan Ehret is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at East Side Gallery Deck, Berlin on Sat, 22 Aug 2026.
 
 Jan Ehret is a techno and electro artist tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside Jakob Lesch, BOHO and Daria Zadekova. Next up: East Side Gallery Deck, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jan Ehret is a techno and electro artist tracked on soundcheck, with 17 sets log
 
 Jakob Lesch, BOHO, Daria Zadekova
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janehret/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janehret/)*

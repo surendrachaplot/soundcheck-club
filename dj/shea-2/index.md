@@ -1,6 +1,6 @@
 # SHEA (2)
 
-SHEA (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
+SHEA (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
 
 SHEA (2) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside KAYN, KILL 9 1 and MENACE (CA). Next up: Runnymede Hall, Toronto on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ SHEA (2) is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 KAYN, KILL 9 1, MENACE (CA)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shea-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shea-2/)*

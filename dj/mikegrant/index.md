@@ -1,6 +1,6 @@
 # Mike Grant
 
-Mike Grant is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Mike Grant is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 Mike Grant is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Buenosaires, Detroit and Malta and 4 more. Often billed alongside Eastside Jon, Andrés and DJ Godfather. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Mike Grant is a house and deep house artist based in United States of America, t
 
 Eastside Jon, Andrés, DJ Godfather
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegrant/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegrant/)*

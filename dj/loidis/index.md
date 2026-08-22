@@ -1,6 +1,6 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Signal, New York City on Fri, 4 Sept 2026.
+Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Signal, New York City on Fri, 4 Sept 2026.
 
 Loidis is a techno and minimal artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Python, Huerco S. and Skee Mask. Next up: Signal, Newyorkcity on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Loidis is a techno and minimal artist tracked on soundcheck, with 59 sets logged
 
 DJ Python, Huerco S., Skee Mask
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

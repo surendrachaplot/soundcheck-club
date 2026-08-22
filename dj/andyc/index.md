@@ -1,8 +1,8 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Live From Wythenshawe Park, Manchester on Sun, 30 Aug 2026.
+Andy C is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Live From Wythenshawe Park, Manchester on Sun, 30 Aug 2026.
 
-Andy C is a drum & bass and jungle artist tracked on soundcheck, with 99 sets logged across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Live From Wythenshawe Park, Manchester on Sun 30 Aug.
+Andy C is a drum & bass and jungle artist tracked on soundcheck, with 100 sets logged across Amsterdam, Auckland, Austin and Barcelona and 41 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Live From Wythenshawe Park, Manchester on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Andy C is a drum & bass and jungle artist tracked on soundcheck, with 99 sets lo
 | Fri, 2 Oct 2026 | Ministry Of Sound | London |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 7 Nov 2026 | Quarters | Brighton |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Andy C is a drum & bass and jungle artist tracked on soundcheck, with 99 sets lo
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

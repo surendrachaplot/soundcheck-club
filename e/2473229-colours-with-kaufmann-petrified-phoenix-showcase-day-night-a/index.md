@@ -1,6 +1,6 @@
 # COLOURS with Kaufmann - Petrified Phoenix Showcase - Day & Night at Tanzhaus West
 
-COLOURS with Kaufmann - Petrified Phoenix Showcase - Day & Night at Tanzhaus West on Sat 5 Sept, Frankfurt. 4 acts on the bill: Avocado, Dave Dinger, Die Ruhe and Kaufmann. Techno and House. Preview the line-up and save it on soundcheck.
+COLOURS with Kaufmann - Petrified Phoenix Showcase - Day & Night at Tanzhaus West on Sat 5 Sept, Frankfurt. 8 acts on the bill: Avocado, Daryl Johnson, Dave Dinger and Die Ruhe and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,12 @@ COLOURS with Kaufmann - Petrified Phoenix Showcase - Day & Night at Tanzhaus Wes
 ## Line-up
 
 - Avocado
+- Daryl Johnson
 - Dave Dinger
 - Die Ruhe
+- Flo Circus
+- Justice
 - Kaufmann
+- Rallo
 
 *Source: [soundcheck](https://soundcheck.club/e/2473229-colours-with-kaufmann-petrified-phoenix-showcase-day-night-a/)*

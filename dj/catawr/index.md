@@ -1,6 +1,6 @@
 # CATAWR
 
-CATAWR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Dunes, Ibiza on Sat, 22 Aug 2026.
+CATAWR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dunes, Ibiza on Sat, 22 Aug 2026.
 
 CATAWR is a house and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Ibiza. Often billed alongside Bøgen, Miguel Silva and Not Stereo. Next up: Dunes, Ibiza on Sat 22 Aug.
 
@@ -19,4 +19,4 @@ CATAWR is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Bøgen, Miguel Silva, Not Stereo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*

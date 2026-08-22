@@ -1,6 +1,6 @@
 # Nicolas Amaro
 
-Nicolas Amaro is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
+Nicolas Amaro is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
 
 Nicolas Amaro is an electro and acid artist tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside Wilowm, Lyonel and EMilio (2). Next up: Seaseaclub Barcelona, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Nicolas Amaro is an electro and acid artist tracked on soundcheck, with 13 sets 
 
 Wilowm, Lyonel, EMilio (2)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasamaro/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasamaro/)*

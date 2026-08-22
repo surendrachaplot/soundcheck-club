@@ -1,6 +1,6 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+MC GQ is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
 
 MC GQ is a drum & bass and jungle artist tracked on soundcheck, with 88 sets logged across Barcelona, Birmingham, Brighton and Bristol and 12 more. Often billed alongside SP:MC, Dillinja and Break. Next up: The Cause, London on Sat 22 Aug.
 
@@ -11,7 +11,7 @@ MC GQ is a drum & bass and jungle artist tracked on soundcheck, with 88 sets log
 | Sat, 22 Aug 2026 | The Cause | London |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Fri, 23 Oct 2026 | fabric | London |
-| Sat, 14 Nov 2026 | HERE | London |
+| Sat, 14 Nov 2026 | Outernet Live | London |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ MC GQ is a drum & bass and jungle artist tracked on soundcheck, with 88 sets log
 
 SP:MC, Dillinja, Break
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

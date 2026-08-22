@@ -1,6 +1,6 @@
 # Pablo Fatty Fatty
 
-Pablo Fatty Fatty is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Workmans Club, Dublin on Fri, 4 Sept 2026.
+Pablo Fatty Fatty is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Workmans Club, Dublin on Fri, 4 Sept 2026.
 
 Pablo Fatty Fatty is a house and disco artist based in Ireland, tracked on soundcheck, with 15 sets logged across Cork, Dublin and Krakow. Often billed alongside Ricky Chong, Frawl and Dave Moloney. Next up: The Workmans Club, Dublin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Pablo Fatty Fatty is a house and disco artist based in Ireland, tracked on sound
 
 Ricky Chong, Frawl, Dave Moloney
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablofattyfatty/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pablofattyfatty/)*

@@ -1,6 +1,6 @@
 # Nadine Hennig
 
-Nadine Hennig is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Nadine Hennig is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Nadine Hennig is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam and Berlin. Often billed alongside Bonjour Ben, MASCHA and Slurm McKenzie. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Nadine Hennig is a house and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Kater, Berlin — Fri, 21 Aug 2026
 - Golden Gate, Berlin — Sat, 25 Jul 2026
 - Golden Gate, Berlin — Sat, 31 Jan 2026
 - Kater, Berlin — Sat, 10 Jan 2026
@@ -20,10 +21,9 @@ Nadine Hennig is a house and techno artist based in Germany, tracked on soundche
 - Renate, Berlin — Fri, 16 May 2025
 - Kater, Berlin — Sat, 10 May 2025
 - TBA - Join our Telegram Channel for more info, Berlin — Wed, 7 May 2025
-- Klunkerkranich, Berlin — Thu, 24 Apr 2025
 
 ## Shares bills with
 
 Bonjour Ben, MASCHA, Slurm McKenzie
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/NadineHennig/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/NadineHennig/)*

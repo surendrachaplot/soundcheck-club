@@ -1,18 +1,18 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "SOUND OF KARMEN [Bambounou (3Hs30 set), James Djinn]" on Fri, 21 Aug 2026.
+Karmen Camina is a music venue in Strasbourg with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "KC [Arlanoa • Carla Schmitt • Mars O10C • Nass • 7seconds]" on Sat, 22 Aug 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Bambounou and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming nights, with line-ups including 1client, AMORAL, Arlanoa and Callèn and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | SOUND OF KARMEN [Bambounou (3Hs30 set), James Djinn] | Bambounou |
 | Sat, 22 Aug 2026 | KC [Arlanoa • Carla Schmitt • Mars O10C • Nass • 7seconds] | Arlanoa, Carla Schmitt, Mars O10C |
 | Fri, 28 Aug 2026 | Freeday Camina - KARMEN'S SUMMER STARS [Makar, Ursula, 1client] | 1client, Makar |
 | Sat, 29 Aug 2026 | BLINKD x CHROMA [NEUX • AMORAL • Shanda • Ponygirl • Don't Tell Mum • Lascar & Meursault] | AMORAL, Don't Tell Mum, NEUX, Ponygirl, Shanda |
 | Fri, 4 Sept 2026 | SOUND OF KARMEN [Peach (3h set) • Vio PRG (3h30 set)] | Peach, Vio PRG |
+| Sat, 5 Sept 2026 | KC [DBBD • PEUT ETRE • VOIDE (aka Ambre & teinture-mère) +TBC] | DBBD |
 | Thu, 10 Sept 2026 | BACK 2 MF [Devin Geko, Knuckle, Lude, Vano] | Lude (2) |
 | Sat, 12 Sept 2026 | KC [KITTIN • Vod Kasat • itako • Callèn & Ødass] | Callèn, Miss Kittin, Vod Kasat, itako |
 | Fri, 18 Sept 2026 | SPECIAL GROOVE [Deadbeat & Tikiman • Diane Moe] | Deadbeat, Paul St. Hilaire, Tikiman |
@@ -22,4 +22,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 9 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

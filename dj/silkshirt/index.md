@@ -1,6 +1,6 @@
 # silkshirt
 
-silkshirt is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jupiter Disco, New York City on Sun, 13 Sept 2026.
+silkshirt is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Jupiter Disco, New York City on Sun, 13 Sept 2026.
 
 silkshirt is a club and techno artist tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside BEYBLADE SHAWTY, 550am and AG (1). Next up: Jupiter Disco, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ silkshirt is a club and techno artist tracked on soundcheck, with 14 sets logged
 
 BEYBLADE SHAWTY, 550am, AG (1)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silkshirt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silkshirt/)*

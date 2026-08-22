@@ -1,6 +1,6 @@
-# Sunday Sessions LA x trommel (Vinyl Only) Open air at The Bridge
+# Sunday Sessions LA x trommel (Vinyl Only) Open Air at The Bridge
 
-Sunday Sessions LA x trommel (Vinyl Only) Open air at The Bridge on Sun 6 Sept, Losangeles. 3 acts on the bill: nanaceba, Silky and Stepushin. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA x trommel (Vinyl Only) Open Air at The Bridge on Sun 6 Sept, Losangeles. 3 acts on the bill: nanaceba, Silky and Stepushin. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

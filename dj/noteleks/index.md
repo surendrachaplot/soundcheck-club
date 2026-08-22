@@ -1,6 +1,6 @@
 # Nøteleks
 
-Nøteleks is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
+Nøteleks is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
 
 Nøteleks is a techno and gabber artist based in Czech Republic, tracked on soundcheck, with 25 sets logged across Prague. Often billed alongside NEUWERTH, 2NDRA and DAVIDOFFWHITE. Next up: Sacre Coeur Prague, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nøteleks is a techno and gabber artist based in Czech Republic, tracked on soun
 
 NEUWERTH, 2NDRA, DAVIDOFFWHITE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noteleks/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noteleks/)*

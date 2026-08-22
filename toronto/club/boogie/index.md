@@ -1,6 +1,6 @@
 # Boogie
 
-Boogie is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Casual SUNDAYS" on Sun, 23 Aug 2026.
+Boogie is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Casual SUNDAYS" on Sun, 23 Aug 2026.
 
 Boogie is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Jason Palma and RAY PRASAD. Browse upcoming dates, start times and who's playing. 1188 Queen St W, Toronto, ON M6J 1J6, Canada.
 
@@ -16,4 +16,4 @@ Boogie is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with
 
 1188 Queen St W, Toronto, ON M6J 1J6, Canada, Toronto
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*

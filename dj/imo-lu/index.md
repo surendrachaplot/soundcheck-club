@@ -1,6 +1,6 @@
 # imo-Lu
 
-imo-Lu is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 26 Aug 2026.
+imo-Lu is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 26 Aug 2026.
 
 imo-Lu is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 3 more. Often billed alongside Corran, Winslow and Hex (UK). Next up: Sneaky Pete's, Edinburgh on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ imo-Lu is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Corran, Winslow, Hex (UK)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imo-lu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imo-lu/)*

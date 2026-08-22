@@ -1,6 +1,6 @@
 # Double Dipp
 
-Double Dipp is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Schubas, Chicago on Fri, 28 Aug 2026.
+Double Dipp is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Schubas, Chicago on Fri, 28 Aug 2026.
 
 Double Dipp is a house and minimal artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago. Often billed alongside Anthony Cruz, Initial G and Beaux. Next up: Schubas, Chicago on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Double Dipp is a house and minimal artist based in United States of America, tra
 
 Anthony Cruz, Initial G, Beaux
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubledipp/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubledipp/)*

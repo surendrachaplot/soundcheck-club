@@ -1,6 +1,6 @@
 # Tazman
 
-Tazman is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Silbergold, Frankfurt on Fri, 21 Aug 2026.
+Tazman is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Silbergold, Frankfurt on Fri, 21 Aug 2026.
 
 Tazman is a techno artist tracked on soundcheck, with 5 sets logged across Berlin and Frankfurt. Often billed alongside Siinisteerrr, Nephilim Dream and POIZN. Next up: Silbergold, Frankfurt on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Tazman is a techno artist tracked on soundcheck, with 5 sets logged across Berli
 
 ## Recently played
 
+- Silbergold, Frankfurt — Fri, 21 Aug 2026
 - Silbergold, Frankfurt — Sat, 21 Mar 2026
 - Silbergold, Frankfurt — Sat, 11 Oct 2025
 - Silbergold, Frankfurt — Sat, 21 Jun 2025
@@ -21,4 +22,4 @@ Tazman is a techno artist tracked on soundcheck, with 5 sets logged across Berli
 
 Siinisteerrr, Nephilim Dream, POIZN
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tazman-de/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tazman-de/)*

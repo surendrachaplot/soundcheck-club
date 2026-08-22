@@ -1,8 +1,8 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Les Enfants goes to Seaseaclub pres. Arapu Bday Bash with Miguelle & TONS, Butch, Priku " on Sun, 23 Aug 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Les Enfants goes to Seaseaclub pres. Arapu Bday Bash with Miguelle & TONS, Butch, Priku " on Sun, 23 Aug 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including ABRIL LOVE, Agatha Pher, Alex (ES) and Apollonia and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including ABRIL LOVE, Agatha Pher, Alex (ES) and Apollonia and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 12 upco
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

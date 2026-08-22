@@ -1,14 +1,13 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "DREAMLAND X GIRLCORE" on Fri, 21 Aug 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "And Beyond // Adhesive Audio presents Eden Burns, Giorja, Sookie & Ultrasonic Future Outlaw" on Sat, 22 Aug 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Alex Milo, Allius, Amelia Leigh and Anop and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Alex Milo, Allius, Amelia Leigh and Awedinary and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | DREAMLAND X GIRLCORE | Anop, Hollyamorous, MintJuulPod, Triff (2), chlo333e, fUnlistenable |
 | Sat, 22 Aug 2026 | And Beyond // Adhesive Audio presents Eden Burns, Giorja, Sookie & Ultrasonic Future Outlaw | Eden Burns, Sookie (3) |
 | Sat, 29 Aug 2026 | MSM AUDIO // BANK HOLIDAY SUMMER SPECIAL |  |
 | Sat, 5 Sept 2026 | Revamp x senses | Alex Milo, Awedinary, Hanz, Kusasa, LOCKS, Max Ctrl, Yorlig, Zuri, cuci cuci coo, k.h0lle |
@@ -18,9 +17,10 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upco
 | Fri, 25 Sept 2026 | Evacuate the Dancefloor: Back to School |  |
 | Sat, 26 Sept 2026 | Headrush 009 - Hardgroove/Techno Club Night |  |
 | Fri, 2 Oct 2026 | Jaded Audio presents - Harley D & Kaz |  |
+| Fri, 16 Oct 2026 | RUSH presents: SPECTRAL | Amelia Leigh, Sweetly |
 
 ## Address
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

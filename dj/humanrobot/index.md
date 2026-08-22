@@ -1,6 +1,6 @@
 # Human Robot
 
-Human Robot is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Well Done Goods, Detroit on Sat, 22 Aug 2026.
+Human Robot is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Well Done Goods, Detroit on Sat, 22 Aug 2026.
 
 Human Robot is a techno and electronica artist based in Brazil, tracked on soundcheck, with 109 sets logged across Detroit. Often billed alongside Gary Martin, Body Mechanic and DJ Krazy. Next up: Well Done Goods, Detroit on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Human Robot is a techno and electronica artist based in Brazil, tracked on sound
 
 Gary Martin, Body Mechanic, DJ Krazy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*

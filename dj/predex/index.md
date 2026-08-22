@@ -1,6 +1,6 @@
 # Predex
 
-Predex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
+Predex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
 
 Predex is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Istanbul. Often billed alongside Adron_, ELIF and Manu Strasse. Next up: Birgit, Berlin on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Predex is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- Birgit, Berlin — Fri, 21 Aug 2026
 - Kater, Berlin — Fri, 31 Jul 2026
 - Klunkerkranich, Berlin — Sat, 16 May 2026
 - Kater, Berlin — Sat, 21 Feb 2026
@@ -20,10 +21,9 @@ Predex is a techno and house artist based in Germany, tracked on soundcheck, wit
 - Crack Bellmer, Berlin — Thu, 29 Jan 2026
 - Kater, Berlin — Fri, 14 Nov 2025
 - Crane Hotel Faralda, Amsterdam — Sun, 26 Oct 2025
-- Bar Feijoa, Amsterdam — Sun, 26 Oct 2025
 
 ## Shares bills with
 
 Adron_, ELIF, Manu Strasse
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/predex/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/predex/)*

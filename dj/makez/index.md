@@ -1,8 +1,8 @@
 # Makèz
 
-Makèz is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
+Makèz is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Elsewhere, New York City on Sat, 22 Aug 2026.
 
-Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Chicago and 16 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Elsewhere, Newyorkcity on Sat 22 Aug.
+Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Chicago and 16 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Elsewhere, Newyorkcity on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, 
 | Fri, 25 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, 
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

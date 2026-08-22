@@ -1,6 +1,6 @@
 # zikade
 
-zikade is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+zikade is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 zikade is a techno and electro artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Madrid and Prague and 1 more. Often billed alongside DJ BONEY S, CHRISPY and ilbroccolovolante. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -14,6 +14,7 @@ zikade is a techno and electro artist tracked on soundcheck, with 51 sets logged
 
 ## Recently played
 
+- Seedcamp, Kautzen, Vienna — Fri, 21 Aug 2026
 - Renate, Berlin — Thu, 20 Aug 2026
 - Beate Uwe, Berlin — Sat, 25 Jul 2026
 - Renate, Berlin — Thu, 16 Jul 2026
@@ -21,10 +22,9 @@ zikade is a techno and electro artist tracked on soundcheck, with 51 sets logged
 - Fuchs2, Prague — Fri, 27 Mar 2026
 - Kater, Berlin — Fri, 20 Mar 2026
 - Unplugbcn, Barcelona — Thu, 26 Feb 2026
-- Hangar48 Club, Madrid — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 DJ BONEY S, CHRISPY, ilbroccolovolante
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zikade/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zikade/)*

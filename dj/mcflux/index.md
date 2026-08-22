@@ -1,14 +1,14 @@
 # MC Flux
 
-MC Flux is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at HERE, London on Sat, 14 Nov 2026.
+MC Flux is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Outernet Live, London on Sat, 14 Nov 2026.
 
-MC Flux is a jungle and drum & bass artist tracked on soundcheck, with 9 sets logged across London and Toronto. Often billed alongside Subject 13, Abby Daze and Joe Le Groove. Next up: HERE, London on Sat 14 Nov.
+MC Flux is a jungle and drum & bass artist tracked on soundcheck, with 9 sets logged across London and Toronto. Often billed alongside Subject 13, Abby Daze and Joe Le Groove. Next up: Outernet Live, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | HERE | London |
+| Sat, 14 Nov 2026 | Outernet Live | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ MC Flux is a jungle and drum & bass artist tracked on soundcheck, with 9 sets lo
 
 Subject 13, Abby Daze, Joe Le Groove
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcflux/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcflux/)*

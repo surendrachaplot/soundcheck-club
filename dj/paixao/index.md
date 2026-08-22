@@ -1,6 +1,6 @@
 # Paixão
 
-Paixão is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ministerium Club, Lisbon on Sat, 22 Aug 2026.
+Paixão is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ministerium Club, Lisbon on Sat, 22 Aug 2026.
 
 Paixão is a techno and jungle artist based in Portugal, tracked on soundcheck, with 31 sets logged across Berlin, Krakow and Lisbon. Often billed alongside João Melgueira, MESTIZANA and Caroline Lethô. Next up: Ministerium Club, Lisbon on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Paixão is a techno and jungle artist based in Portugal, tracked on soundcheck, 
 
 João Melgueira, MESTIZANA, Caroline Lethô
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paixao/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paixao/)*

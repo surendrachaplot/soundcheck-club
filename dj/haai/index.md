@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Serpentine Galleries, London on Sat, 29 Aug 2026.
+HAAi is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Serpentine Galleries, London on Sat, 29 Aug 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Serpentine Galleries, London on Sat 29 Aug.
+HAAi is a techno and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Serpentine Galleries, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ HAAi is a techno and house artist tracked on soundcheck, with 201 sets logged ac
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Fri, 4 Sept 2026 | Electric Studios | Sheffield |
 | Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | The Ground at Club Space | Miami |
@@ -33,4 +34,4 @@ HAAi is a techno and house artist tracked on soundcheck, with 201 sets logged ac
 
 DJ Tennis, Saoirse, Gabrielle Kwarteng
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

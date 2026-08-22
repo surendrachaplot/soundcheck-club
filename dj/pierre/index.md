@@ -1,13 +1,14 @@
 # Pierre
 
-Pierre is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
+Pierre is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Atrium Žižkov, Prague on Sat, 29 Aug 2026.
 
-Pierre is a techno and house artist tracked on soundcheck, with 8 sets logged across Antwerp and Brussels. Often billed alongside Deg, Joris Voorn and Pan-Pot. Next up: Bodies in Space, Brussels on Sat 26 Sept.
+Pierre is a techno and house artist tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Prague. Often billed alongside Deg, Joris Voorn and Pan-Pot. Next up: Atrium Žižkov, Prague on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Atrium Žižkov | Prague |
 | Sat, 26 Sept 2026 | Bodies in Space | Brussels |
 
 ## Recently played
@@ -24,4 +25,4 @@ Pierre is a techno and house artist tracked on soundcheck, with 8 sets logged ac
 
 Deg, Joris Voorn, Pan-Pot
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierre/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierre/)*

@@ -1,6 +1,6 @@
 # Armen Miran
 
-Armen Miran is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Armen Miran is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Armen Miran is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 81 sets logged across Athens, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Nick Warren, Borella and Caleesi. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -16,6 +16,7 @@ Armen Miran is a deep house and progressive house artist based in United States 
 
 ## Recently played
 
+- Kater, Berlin — Fri, 21 Aug 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 12 Aug 2026
 - TBA, Los Angeles — Fri, 12 Jun 2026
 - Mdlr, Singapore — Tue, 26 May 2026
@@ -23,10 +24,9 @@ Armen Miran is a deep house and progressive house artist based in United States 
 - Flash, Washington DC — Sat, 11 Apr 2026
 - Aura Nightclub, Sydney — Sat, 7 Mar 2026
 - The Third Day, Melbourne — Fri, 6 Mar 2026
-- Signal, New York City — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Nick Warren, Borella, Caleesi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armenmiran/)*

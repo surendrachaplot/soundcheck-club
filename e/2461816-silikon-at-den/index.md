@@ -1,6 +1,6 @@
 # silikon at ÆDEN
 
-silikon at ÆDEN on Sat 24 Oct, Berlin. 9 acts on the bill: Carotin, DJ Gianni, DJ Zugzwang and ELOISA and 5 more. Techno and UK Funky. Preview the line-up and save it on soundcheck.
+silikon at ÆDEN on Sat 24 Oct, Berlin. 10 acts on the bill: Bae Blade, Carotin, DJ Gianni and DJ Zugzwang and 6 more. Techno and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ silikon at ÆDEN on Sat 24 Oct, Berlin. 9 acts on the bill: Carotin, DJ Gianni, 
 
 ## Line-up
 
+- Bae Blade
 - Carotin
 - DJ Gianni
 - DJ Zugzwang

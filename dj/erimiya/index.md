@@ -1,6 +1,6 @@
 # ERIMIYA
 
-ERIMIYA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
+ERIMIYA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
 
 ERIMIYA is a techno and house artist tracked on soundcheck, with 88 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RINALUCKY, Kojiro and Sick Boy. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ ERIMIYA is a techno and house artist tracked on soundcheck, with 88 sets logged 
 
 RINALUCKY, Kojiro, Sick Boy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erimiya/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erimiya/)*

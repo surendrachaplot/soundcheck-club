@@ -1,6 +1,6 @@
 # Sharpson
 
-Sharpson is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Islington Arts Club, London on Sat, 5 Sept 2026.
+Sharpson is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Islington Arts Club, London on Sat, 5 Sept 2026.
 
 Sharpson is a techno and drum & bass artist tracked on soundcheck, with 33 sets logged across Bristol, Cork, Dublin and London and 1 more. Often billed alongside Frame Shift, 2step.png and Decorum. Next up: Islington Arts Club, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sharpson is a techno and drum & bass artist tracked on soundcheck, with 33 sets 
 
 Frame Shift, 2step.png, Decorum
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharpson/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharpson/)*

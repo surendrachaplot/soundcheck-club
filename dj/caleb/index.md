@@ -1,6 +1,6 @@
 # Caleb
 
-Caleb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bar Piment, Seoul on Sat, 22 Aug 2026.
+Caleb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bar Piment, Seoul on Sat, 22 Aug 2026.
 
 Caleb is a techno and house artist tracked on soundcheck, with 17 sets logged across Newyorkcity and Seoul. Often billed alongside Taelyn, Isoz and Adroit Joe. Next up: Bar Piment, Seoul on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Caleb is a techno and house artist tracked on soundcheck, with 17 sets logged ac
 
 Taelyn, Isoz, Adroit Joe
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caleb/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caleb/)*

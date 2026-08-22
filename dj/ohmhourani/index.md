@@ -1,6 +1,6 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
+Ohm Hourani is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
 
 Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck, with 102 sets logged across Belgrade, Berlin, Boston and Detroit and 13 more. Often billed alongside Tomas Station, Vincent Lemieux and O.BEE. Next up: Port of Belgrade, Belgrade on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck
 
 Tomas Station, Vincent Lemieux, O.BEE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*

@@ -1,6 +1,6 @@
 # Jorg Kuning
 
-Jorg Kuning is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
+Jorg Kuning is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
 
 Jorg Kuning is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Berlin and Bristol and 13 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Macadam, Nantes on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Jorg Kuning is a house and tech house artist tracked on soundcheck, with 65 sets
 
 Bitzer Maloney, Daisy Moon, K-LONE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgkuning/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgkuning/)*

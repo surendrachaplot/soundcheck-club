@@ -1,6 +1,6 @@
 # Bodega Bruja
 
-Bodega Bruja is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Eavesdrop, New York City on Sat, 22 Aug 2026.
+Bodega Bruja is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eavesdrop, New York City on Sat, 22 Aug 2026.
 
 Bodega Bruja is a techno and house artist tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Recreational DJ, Marios and Aux 88. Next up: Eavesdrop, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Bodega Bruja is a techno and house artist tracked on soundcheck, with 16 sets lo
 
 Recreational DJ, Marios, Aux 88
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegabruja/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegabruja/)*

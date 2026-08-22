@@ -1,6 +1,6 @@
 # Marie Bloomfield
 
-Marie Bloomfield is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
+Marie Bloomfield is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Graf Adolf Platz, Düsseldorf on Fri, 21 Aug 2026.
 
 Marie Bloomfield is a tech house and techno artist based in Australia, tracked on soundcheck, with 8 sets logged across Cologne, Dusseldorf and Ibiza. Often billed alongside Adam Charaf, BOHEM and Cali Caracho. Next up: Graf Adolf Platz, Dusseldorf on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Marie Bloomfield is a tech house and techno artist based in Australia, tracked o
 
 ## Recently played
 
+- Graf Adolf Platz, Düsseldorf — Fri, 21 Aug 2026
 - Esbirra Ibiza, Ibiza — Fri, 14 Aug 2026
 - Esbirra Ibiza, Ibiza — Fri, 17 Jul 2026
 - Esbirra Ibiza, Ibiza — Fri, 26 Jun 2026
@@ -24,4 +25,4 @@ Marie Bloomfield is a tech house and techno artist based in Australia, tracked o
 
 Adam Charaf, BOHEM, Cali Caracho
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariebloomfield/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariebloomfield/)*

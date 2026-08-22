@@ -1,6 +1,6 @@
 # Sparrow (CH)
 
-Sparrow (CH) is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 21 Aug 2026.
+Sparrow (CH) is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 21 Aug 2026.
 
 Sparrow (CH) is an afro house and deep house artist based in Spain, tracked on soundcheck, with 4 sets logged across Amsterdam, Chicago, Ibiza and Newyorkcity. Often billed alongside CISUMMI, Major League Djz and Massuma. Next up: Chinois Ibiza, Ibiza on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Sparrow (CH) is an afro house and deep house artist based in Spain, tracked on s
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Fri, 21 Aug 2026
 - Spybar, Chicago — Fri, 12 Jun 2026
 - Het Sieraad, Amsterdam — Sat, 30 May 2026
 
@@ -20,4 +21,4 @@ Sparrow (CH) is an afro house and deep house artist based in Spain, tracked on s
 
 CISUMMI, Major League Djz, Massuma
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*

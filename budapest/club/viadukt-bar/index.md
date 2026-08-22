@@ -1,6 +1,6 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Andras Bader + Zvezda Beta" on Sat, 22 Aug 2026.
+Viadukt Bar is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Andras Bader + Zvezda Beta" on Sat, 22 Aug 2026.
 
 Viadukt Bar is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Daniel Meister, Derek (2), Electric Boutique and Meo Culpa and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
@@ -17,4 +17,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 4 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

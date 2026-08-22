@@ -1,6 +1,6 @@
 # Prizefight
 
-Prizefight is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Prizefight is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
 Prizefight is a techno and garage artist tracked on soundcheck, with 70 sets logged across Auckland, Brisbane, Hobart and Melbourne and 1 more. Often billed alongside TRUSTEE, IsGwan and KSMBA. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Prizefight is a techno and garage artist tracked on soundcheck, with 70 sets log
 
 TRUSTEE, IsGwan, KSMBA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*

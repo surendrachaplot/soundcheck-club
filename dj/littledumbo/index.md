@@ -1,6 +1,6 @@
 # Little Dumbo
 
-Little Dumbo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at BUS Hexperience, Barcelona on Fri, 28 Aug 2026.
+Little Dumbo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at BUS Hexperience, Barcelona on Fri, 28 Aug 2026.
 
 Little Dumbo is a house and electro artist tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Jo Kazan, Alphanova and Al Gray. Next up: BUS Hexperience, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Little Dumbo is a house and electro artist tracked on soundcheck, with 15 sets l
 
 Jo Kazan, Alphanova, Al Gray
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littledumbo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littledumbo/)*

@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "FDLA X MS DSF POOL PARTY" on Sat, 22 Aug 2026.
+Maaya is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "FDLA X MS DSF POOL PARTY" on Sat, 22 Aug 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including AMBRA, auto_timer, CRYME and Curses and 2 more. Browse upcoming dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -19,4 +19,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with l
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+Joss Dean is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
 Joss Dean is a house and tech house artist tracked on soundcheck, with 83 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 27 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
@@ -36,4 +36,4 @@ Joss Dean is a house and tech house artist tracked on soundcheck, with 83 sets l
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

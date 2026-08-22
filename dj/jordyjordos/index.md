@@ -1,6 +1,6 @@
 # Jordy Jordos
 
-Jordy Jordos is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Club NYX, Amsterdam on Sat, 5 Sept 2026.
+Jordy Jordos is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club NYX, Amsterdam on Sat, 5 Sept 2026.
 
 Jordy Jordos is a techno and pop artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Rotterdam. Often billed alongside Edward Meunier, Bass Btch and DJOOMPH. Next up: Club NYX, Amsterdam on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Jordy Jordos is a techno and pop artist based in Netherlands, tracked on soundch
 
 Edward Meunier, Bass Btch, DJOOMPH
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyjordos/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordyjordos/)*

@@ -1,14 +1,13 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 23 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Gene Farris" on Fri, 21 Aug 2026.
+Night We Met is a music venue in Nashville with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Amtrac" on Sat, 22 Aug 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 23 upcoming nights, with line-ups including Amtrac, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 22 upcoming nights, with line-ups including Amtrac, bradeazy, camoufly and CRi and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Gene Farris | Gene Farris |
 | Sat, 22 Aug 2026 | Amtrac | Amtrac, Stochastic |
 | Fri, 28 Aug 2026 | Yung Bae | MGR Mike |
 | Sat, 29 Aug 2026 | Marie Vaunt | Marie Vaunt |
@@ -18,9 +17,10 @@ Night We Met is a music venue in Nashville listed on soundcheck. 23 upcoming nig
 | Fri, 11 Sept 2026 | HoneyLuv | HoneyLuv |
 | Sat, 12 Sept 2026 | Wax Motif | Wax Motif |
 | Fri, 18 Sept 2026 | Main Phase | Cruel Mistress, Main Phase |
+| Sat, 19 Sept 2026 | camoufly | camoufly |
 
 ## Address
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

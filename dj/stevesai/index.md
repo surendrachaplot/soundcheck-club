@@ -1,6 +1,6 @@
 # Steve Sai
 
-Steve Sai is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Skull Bar, Athens on Sat, 22 Aug 2026.
+Steve Sai is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Skull Bar, Athens on Sat, 22 Aug 2026.
 
 Steve Sai is a techno and tech house artist tracked on soundcheck, with 46 sets logged across Athens, Berlin and Paris. Often billed alongside Deherian, DjSteph and Oliver Huntemann. Next up: Skull Bar, Athens on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Steve Sai is a techno and tech house artist tracked on soundcheck, with 46 sets 
 
 Deherian, DjSteph, Oliver Huntemann
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevesai/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevesai/)*

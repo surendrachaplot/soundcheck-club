@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Rave It Like the 90s: Donotstealmyname, Anabasine, Lex Ferenda" on Fri, 21 Aug 2026.
+Bar Datcha is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Rave It Like the 90s: Donotstealmyname, Anabasine, Lex Ferenda" on Fri, 21 Aug 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including Alina (MTL), Anabasine, Donotstealmyname and Emiliano Chamandy and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -20,4 +20,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming nights,
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

@@ -1,6 +1,6 @@
 # Eveline Fink
 
-Eveline Fink is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Minimal Bar, Berlin on Sat, 5 Sept 2026.
+Eveline Fink is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Minimal Bar, Berlin on Sat, 5 Sept 2026.
 
 Eveline Fink is a house and minimal artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Daniel Dreier, Danilo Schneider and Guido Schneider. Next up: Minimal Bar, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Eveline Fink is a house and minimal artist tracked on soundcheck, with 4 sets lo
 
 Daniel Dreier, Danilo Schneider, Guido Schneider
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evelinefink/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evelinefink/)*

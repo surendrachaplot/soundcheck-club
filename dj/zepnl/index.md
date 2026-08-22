@@ -1,6 +1,6 @@
 # ZEP (NL)
 
-ZEP (NL) is a Techno and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+ZEP (NL) is a Techno and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 ZEP (NL) is a techno and funk / soul artist tracked on soundcheck, with 16 sets logged across Amsterdam, Athens, Berlin and Marseille and 5 more. Often billed alongside Franky Sticks, Gyatso and Bastienne. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ZEP (NL) is a techno and funk / soul artist tracked on soundcheck, with 16 sets 
 
 Franky Sticks, Gyatso, Bastienne
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepnl/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepnl/)*

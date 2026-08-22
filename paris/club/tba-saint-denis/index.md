@@ -1,6 +1,6 @@
 # TBA - Saint-Denis
 
-TBA - Saint-Denis is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Animalia x useless seconds" on Sat, 29 Aug 2026.
+TBA - Saint-Denis is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Animalia x useless seconds" on Sat, 29 Aug 2026.
 
 TBA - Saint-Denis is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Atrice, Christian Coiffure, Forest and Kia (AU) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Saint-Denis is a music venue in Paris listed on soundcheck. 2 upcoming nig
 | Sat, 29 Aug 2026 | Animalia x useless seconds | Atrice, Christian Coiffure, Kia (AU), Surface Access, livwutang, mad miran |
 | Sat, 3 Oct 2026 | HORS-SOL [day warehouse] | Forest, Lena Willikens, Michelle, Zurkin |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-saint-denis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-saint-denis/)*

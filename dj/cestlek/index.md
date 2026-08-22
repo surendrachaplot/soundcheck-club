@@ -1,6 +1,6 @@
 # Cestlek
 
-Cestlek is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jaeger, Oslo on Sat, 5 Sept 2026.
+Cestlek is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Jaeger, Oslo on Sat, 5 Sept 2026.
 
 Cestlek is a tech house artist tracked on soundcheck, with 4 sets logged across Oslo and Tbilisi. Often billed alongside Gio Shengelia, Mozzy and Dali (GE). Next up: Jaeger, Oslo on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Cestlek is a tech house artist tracked on soundcheck, with 4 sets logged across 
 
 Gio Shengelia, Mozzy, Dali (GE)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cestlek/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cestlek/)*

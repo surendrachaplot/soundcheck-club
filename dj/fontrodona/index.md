@@ -1,6 +1,6 @@
 # Fontrodona
 
-Fontrodona is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The 212 Café & Bar, Leeds on Sat, 22 Aug 2026.
+Fontrodona is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The 212 Café & Bar, Leeds on Sat, 22 Aug 2026.
 
 Fontrodona is a disco and funk / soul artist tracked on soundcheck, with 26 sets logged across Dundee and Leeds. Often billed alongside Ronan Baxter, Auntie Flo and Avnu. Next up: The 212 Café & Bar, Leeds on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Fontrodona is a disco and funk / soul artist tracked on soundcheck, with 26 sets
 
 Ronan Baxter, Auntie Flo, Avnu
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fontrodona/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fontrodona/)*

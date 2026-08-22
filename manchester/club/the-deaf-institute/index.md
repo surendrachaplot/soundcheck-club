@@ -1,6 +1,6 @@
 # The Deaf Institute
 
-The Deaf Institute is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Love Riot: Dandy x OUT OUT x Mx World" on Fri, 28 Aug 2026.
+The Deaf Institute is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Love Riot: Dandy x OUT OUT x Mx World" on Fri, 28 Aug 2026.
 
 The Deaf Institute is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including DJ Klitbait, DJ Scissher, Janaway and Kim Lana and 2 more. Browse upcoming dates, start times and who's playing. 135 Grosvenor St, Manchester M1 7HE.
 
@@ -17,4 +17,4 @@ The Deaf Institute is a music venue in Manchester listed on soundcheck. 4 upcomi
 
 135 Grosvenor St, Manchester M1 7HE, Manchester
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-deaf-institute/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-deaf-institute/)*

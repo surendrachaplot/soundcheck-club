@@ -1,6 +1,6 @@
 # Shawnecy
 
-Shawnecy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
+Shawnecy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
 
 Shawnecy is a house and deep house artist tracked on soundcheck, with 4 sets logged across Ibiza and Munich. Often billed alongside Blas Cordero, Butch and Easttown. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Shawnecy is a house and deep house artist tracked on soundcheck, with 4 sets log
 
 ## Recently played
 
+- Playa Soleil & Bora Bora, Ibiza — Fri, 21 Aug 2026
 - Ibiza Jet, Ibiza — Tue, 24 Jun 2025
 - Flashbox, Munich — Sat, 24 Jun 2023
 
@@ -20,4 +21,4 @@ Shawnecy is a house and deep house artist tracked on soundcheck, with 4 sets log
 
 Blas Cordero, Butch, Easttown
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnecy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnecy/)*

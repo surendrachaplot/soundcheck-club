@@ -1,6 +1,6 @@
 # ADMINISTRATOR
 
-ADMINISTRATOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 22 Aug 2026.
+ADMINISTRATOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 22 Aug 2026.
 
 ADMINISTRATOR is a techno and house artist based in Australia, tracked on soundcheck, with 25 sets logged across Melbourne and Sydney. Often billed alongside Ham (5), DJ Kiti and Lewis Cancut. Next up: Revolver Upstairs, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ ADMINISTRATOR is a techno and house artist based in Australia, tracked on soundc
 
 Ham (5), DJ Kiti, Lewis Cancut
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/administrator/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/administrator/)*

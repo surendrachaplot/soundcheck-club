@@ -1,6 +1,6 @@
 # Bell Towers
 
-Bell Towers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The White Hotel, Manchester on Sun, 30 Aug 2026.
+Bell Towers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The White Hotel, Manchester on Sun, 30 Aug 2026.
 
 Bell Towers is a house and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bucharest and Copenhagen and 11 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Public Possession. Next up: The White Hotel, Manchester on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Bell Towers is a house and techno artist based in Australia, tracked on soundche
 
 David Fogarty, Sound Metaphors Djs, Public Possession
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*

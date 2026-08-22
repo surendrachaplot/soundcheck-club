@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Smolna, Warsaw on Wed, 26 Aug 2026.
+TBA is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Smolna, Warsaw on Wed, 26 Aug 2026.
 
-TBA is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Smolna, Warsaw on Wed 26 Aug.
+TBA is a techno and house artist tracked on soundcheck, with 248 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Smolna, Warsaw on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ TBA is a techno and house artist tracked on soundcheck, with 247 sets logged acr
 | Thu, 24 Sept 2026 | Phonox | London |
 | Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
 | Fri, 25 Sept 2026 | Slakthuset | Stockholm |
-| Thu, 1 Oct 2026 | Phonox | London |
+| Sat, 26 Sept 2026 | Haus73 | Hamburg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist tracked on soundcheck, with 247 sets logged acr
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

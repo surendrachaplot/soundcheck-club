@@ -1,14 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 34 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Azzecca (Extended Set) + William Kiss - Austin" on Fri, 21 Aug 2026.
+The Concourse Project is a music venue in Austin with 33 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "FREE with RSVP: Tony Romera + ESSEL" on Thu, 27 Aug 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 33 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Azzecca (Extended Set) + William Kiss - Austin | Azzecca, William Kiss |
 | Thu, 27 Aug 2026 | FREE with RSVP: Tony Romera + ESSEL | Tony Romera |
 | Fri, 28 Aug 2026 | Kayzo presents The Cage | Kayzo, hhunter |
 | Fri, 28 Aug 2026 | Westend (The Hangar) |  |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcomi
 | Sat, 5 Sept 2026 | WhoMadeWho (Hybrid DJ Set) | WhoMadeWho |
 | Sun, 6 Sept 2026 | Alignment + PETERBLUE | Alignment, PETERBLUE |
 | Sat, 12 Sept 2026 | LSR/CITY X by Gareth Emery | Gareth Emery |
+| Sat, 12 Sept 2026 | Natte Visstick (The Hangar) |  |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

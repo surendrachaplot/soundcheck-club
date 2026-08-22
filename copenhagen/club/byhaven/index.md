@@ -1,14 +1,13 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "MY LITTLE PARTY X CRINGE" on Fri, 21 Aug 2026.
+Byhaven is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "MAINSTREAM PRIDE" on Sat, 22 Aug 2026.
 
-Byhaven is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including Anna Logic, Danilo Kupfernagel, LEENI and Lush and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
+Byhaven is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including Danilo Kupfernagel, LEENI, Lush and NILU and 1 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | MY LITTLE PARTY X CRINGE | Anna Logic |
 | Sat, 22 Aug 2026 | MAINSTREAM PRIDE |  |
 | Sat, 22 Aug 2026 | Shady Nasty (AU) + Skt. DeLarge | Skt. DeLarge |
 | Sun, 23 Aug 2026 | Love.Rave - August Edition | Danilo Kupfernagel, LEENI, Lush, NILU |
@@ -18,4 +17,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

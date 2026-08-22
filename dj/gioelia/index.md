@@ -1,6 +1,6 @@
 # Gio Elia
 
-Gio Elia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Lion's Den, Miami on Sat, 29 Aug 2026.
+Gio Elia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lion's Den, Miami on Sat, 29 Aug 2026.
 
 Gio Elia is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Berlin, Mexicocity, Miami and Munich and 3 more. Often billed alongside True Vine, Bort and Danny Daze. Next up: Lion's Den, Miami on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Gio Elia is a techno and house artist based in United States of America, tracked
 
 True Vine, Bort, Danny Daze
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gioelia/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gioelia/)*

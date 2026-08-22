@@ -1,14 +1,14 @@
 # Cesco
 
-Cesco is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at HERE, London on Fri, 4 Sept 2026.
+Cesco is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
 
-Cesco is a drum & bass and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Birmingham and Brighton and 23 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: HERE, London on Fri 4 Sept.
+Cesco is a drum & bass and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Birmingham and Brighton and 23 more. Often billed alongside SP:MC, Alix Perez and Monty. Next up: Outernet Live, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | HERE | London |
+| Fri, 4 Sept 2026 | Outernet Live | London |
 | Sat, 26 Sept 2026 | Substation | Seattle |
 | Fri, 2 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Radius | Chicago |
@@ -28,4 +28,4 @@ Cesco is a drum & bass and bass artist tracked on soundcheck, with 60 sets logge
 
 SP:MC, Alix Perez, Monty
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cesco/)*

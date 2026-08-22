@@ -1,6 +1,6 @@
 # Ruïna (Daily Rave) at TBA - Kirchenruine Wachau
 
-Ruïna (Daily Rave) at TBA - Kirchenruine Wachau on Sat 22 Aug, Leipzig. Trance and House. Preview the line-up and save it on soundcheck.
+Ruïna (Daily Rave) at TBA - Kirchenruine Wachau on Sat 22 Aug, Leipzig. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

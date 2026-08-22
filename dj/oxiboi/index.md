@@ -1,6 +1,6 @@
 # oxiboi
 
-oxiboi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 21 Aug 2026.
+oxiboi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 21 Aug 2026.
 
 oxiboi is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Akito and Ascalypso. Next up: Enter Shibuya, Tokyo on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ oxiboi is a techno and electronica artist tracked on soundcheck, with 5 sets log
 
 ## Recently played
 
+- Enter Shibuya, Tokyo — Fri, 21 Aug 2026
 - West Harlem, Kyoto — Sun, 1 Dec 2024
 - West Harlem, Kyoto — Sat, 7 Sept 2024
 - WWWβ, Tokyo — Fri, 10 May 2024
@@ -21,4 +22,4 @@ oxiboi is a techno and electronica artist tracked on soundcheck, with 5 sets log
 
 Ryogo, Akito, Ascalypso
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxiboi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxiboi/)*

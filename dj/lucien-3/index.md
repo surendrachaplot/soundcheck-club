@@ -1,6 +1,6 @@
 # Lucien (3)
 
-Lucien (3) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sala Siroco, Madrid on Fri, 21 Aug 2026.
+Lucien (3) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sala Siroco, Madrid on Fri, 21 Aug 2026.
 
 Lucien (3) is a house and acid artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside Posada, Jose Vera and Misla. Next up: Sala Siroco, Madrid on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Lucien (3) is a house and acid artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
+- Sala Siroco, Madrid — Fri, 21 Aug 2026
 - Cafe La Palma, Madrid — Sat, 25 Jul 2026
 - Cafe La Palma, Madrid — Sat, 9 May 2026
 - Cafe La Palma, Madrid — Sat, 11 Apr 2026
@@ -21,4 +22,4 @@ Lucien (3) is a house and acid artist based in Spain, tracked on soundcheck, wit
 
 Posada, Jose Vera, Misla
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien-3/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucien-3/)*

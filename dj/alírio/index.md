@@ -1,6 +1,6 @@
 # Alírio
 
-Alírio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
+Alírio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at export, Rotterdam on Sat, 22 Aug 2026.
 
 Alírio is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Cashu, Tuxe and Kontronatura. Next up: export, Rotterdam on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Alírio is a house and techno artist tracked on soundcheck, with 81 sets logged 
 
 Cashu, Tuxe, Kontronatura
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alírio/)*

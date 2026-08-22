@@ -1,18 +1,18 @@
 # Andrés Solar
 
-Andrés Solar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Fri, 21 Aug 2026.
+Andrés Solar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Culture Box, Copenhagen on Sat, 5 Sept 2026.
 
-Andrés Solar is a techno and house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen and London. Often billed alongside Christian Sanchez, Franziska Berns and Mathew Jonson. Next up: fabric, London on Fri 21 Aug.
+Andrés Solar is a techno and house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen and London. Often billed alongside Christian Sanchez, Franziska Berns and Mathew Jonson. Next up: Culture Box, Copenhagen on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | fabric | London |
 | Sat, 5 Sept 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 
+- fabric, London — Fri, 21 Aug 2026
 - TBA, Copenhagen — Wed, 4 Jun 2025
 - fabric, London — Sat, 10 May 2025
 - fabric, London — Sun, 6 Oct 2024
@@ -22,4 +22,4 @@ Andrés Solar is a techno and house artist based in Denmark, tracked on soundche
 
 Christian Sanchez, Franziska Berns, Mathew Jonson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andressolar/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andressolar/)*

@@ -1,8 +1,8 @@
 # Yumi
 
-Yumi is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Yumi is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Yumi is a techno and bass artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Detroit and Ghent and 11 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Yumi is a techno and bass artist based in United States of America, tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Detroit and Ghent and 11 more. Often billed alongside Amelia Holt, deep creep and Hank Jackson. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yumi is a techno and bass artist based in United States of America, tracked on s
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
+| Fri, 2 Oct 2026 | Cu | London |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ Yumi is a techno and bass artist based in United States of America, tracked on s
 
 Amelia Holt, deep creep, Hank Jackson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yumi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yumi/)*

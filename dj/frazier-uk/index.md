@@ -1,8 +1,8 @@
 # Frazi.er
 
-Frazi.er is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at PRST, Vienna on Sat, 22 Aug 2026.
+Frazi.er is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at PRST, Vienna on Sat, 22 Aug 2026.
 
-Frazi.er is a techno and house artist tracked on soundcheck, with 100 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 27 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: PRST, Vienna on Sat 22 Aug.
+Frazi.er is a techno and house artist tracked on soundcheck, with 101 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 28 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: PRST, Vienna on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Frazi.er is a techno and house artist tracked on soundcheck, with 100 sets logge
 | Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |
 | Sat, 29 Aug 2026 | The Liquid Room | Edinburgh |
 | Mon, 31 Aug 2026 | Tresor / Globus | Berlin |
+| Thu, 3 Sept 2026 | TBA | Boston |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Frazi.er is a techno and house artist tracked on soundcheck, with 100 sets logge
 
 E.DN, Liam Cappello, 999999999
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*

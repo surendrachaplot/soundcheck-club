@@ -1,6 +1,6 @@
 # Holden Federico
 
-Holden Federico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 12 Sept 2026.
+Holden Federico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 12 Sept 2026.
 
 Holden Federico is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Dublin and Manchester and 6 more. Often billed alongside Analog Soul, MARRØN and Philippa Pacho. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Holden Federico is a techno and house artist based in United States of America, 
 
 Analog Soul, MARRØN, Philippa Pacho
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holdenfederico/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holdenfederico/)*

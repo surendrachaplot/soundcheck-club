@@ -1,8 +1,8 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Nantes Rave Techno XXL with Nikolina, 25EMEHEURE, Medusa" on Fri, 28 Aug 2026.
+Warehouse is a music venue in Nantes with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nantes Rave Techno XXL with Nikolina, 25EMEHEURE, Medusa" on Fri, 28 Aug 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 9 upcoming nights, with line-ups including 25EMEHEURE, Bellaire, Bob Sinclar and Corentin Mab and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, with line-ups including 25EMEHEURE, Bellaire, Bob Sinclar and Corentin Mab and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Warehouse is a music venue in Nantes listed on soundcheck. 9 upcoming nights, wi
 | Fri, 9 Oct 2026 | NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz | DJ Caline, MATRAKK, Maudux, NOVAH |
 | Sat, 10 Oct 2026 | THE RING x CLUB DE JOUR with Yann Muller, Trio Cover |  |
 | Fri, 16 Oct 2026 | PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys | Dr Donk, Vortek's |
+| Sat, 17 Oct 2026 | Club de Jour invite KÖLSCH | Kolsch |
 | Wed, 28 Oct 2026 | Deep Forest en concert à Nantes | Deep Forest |
 | Sat, 7 Nov 2026 | Club de Jour invite Bellaire & Dimitri From Paris | Bellaire, Corentin Mab, Dan Bono, Dimitri From Paris |
 
@@ -22,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 9 upcoming nights, wi
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

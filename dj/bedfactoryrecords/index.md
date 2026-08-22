@@ -1,6 +1,6 @@
 # Bedfactory Records
 
-Bedfactory Records is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
+Bedfactory Records is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
 
 Bedfactory Records is a house and disco artist tracked on soundcheck, with 22 sets logged across Brighton, Liverpool and London. Often billed alongside Jimmy Dinners, Nick Davis and Uncle Baz. Next up: Bar Bodega, Liverpool on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Bedfactory Records is a house and disco artist tracked on soundcheck, with 22 se
 
 Jimmy Dinners, Nick Davis, Uncle Baz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bedfactoryrecords/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bedfactoryrecords/)*

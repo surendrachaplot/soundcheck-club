@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
+Regis is a Techno and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Sat, 22 Aug 2026.
 
 Regis is a techno and drum & bass artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Razzmatazz, Barcelona on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Regis is a techno and drum & bass artist tracked on soundcheck, with 103 sets lo
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

@@ -1,6 +1,6 @@
 # Xterea
 
-Xterea is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
+Xterea is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
 
 Xterea is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside John T. Gast, Ben Vince and Kamixlo. Next up: Club Cheek, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Xterea is an experimental and club artist based in United Kingdom, tracked on so
 
 John T. Gast, Ben Vince, Kamixlo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xterea/)*

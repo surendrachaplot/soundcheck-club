@@ -1,26 +1,26 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "THROTTLE: OGUZ, NEUX, softchaos" on Fri, 21 Aug 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ChaseWest" on Fri, 28 Aug 2026.
 
-1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including Andromedik, BLUKE, ChaseWest and D.Dan and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
+1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including Andromedik, Black Plastica, BLUKE and ChaseWest and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | THROTTLE: OGUZ, NEUX, softchaos | ELA MENTAL, JustJovani, NEUX, OGUZ, RMNA, S.I.M, SNAQ, softchaos, xtcemi |
 | Fri, 28 Aug 2026 | ChaseWest | ChaseWest, Lanos |
 | Fri, 28 Aug 2026 | Black House Radio |  |
 | Thu, 3 Sept 2026 | Roni Size | Roni Size |
 | Fri, 4 Sept 2026 | Jason Ross | BLUKE, Moheato |
-| Thu, 10 Sept 2026 | THROTTLE: D. Dan | D.Dan |
+| Thu, 10 Sept 2026 | THROTTLE: D. Dan | Black Plastica, Cruz de Cal, D.Dan, Tatiana Vaughan (2), soundswhile |
 | Fri, 11 Sept 2026 | Pendulum | Andromedik, Pendulum |
 | Fri, 18 Sept 2026 | Mild Minds (DJ Set) |  |
 | Thu, 24 Sept 2026 | TUFF SF: Folsom Street Kick Off |  |
 | Fri, 2 Oct 2026 | DJ Smokey + ilykimchi |  |
+| Fri, 9 Oct 2026 | Riordan | Riordan |
 
 ## Address
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

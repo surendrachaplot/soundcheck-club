@@ -1,6 +1,6 @@
 # Beghelli
 
-Beghelli is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Círculo, Barcelona on Thu, 27 Aug 2026.
+Beghelli is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Círculo, Barcelona on Thu, 27 Aug 2026.
 
 Beghelli is an electro and deep house artist based in Spain, tracked on soundcheck, with 48 sets logged across Barcelona. Often billed alongside DANNX, Roberta.Mikeila and santa:na. Next up: Círculo, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Beghelli is an electro and deep house artist based in Spain, tracked on soundche
 
 DANNX, Roberta.Mikeila, santa:na
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beghelli/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beghelli/)*

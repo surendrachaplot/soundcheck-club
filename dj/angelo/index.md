@@ -1,6 +1,6 @@
 # An Gelo
 
-An Gelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+An Gelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 An Gelo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona and Tokyo. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ An Gelo is a house and techno artist based in United Kingdom, tracked on soundch
 
 Alexander Koning, Erick E, Lucien Foort
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelo/)*

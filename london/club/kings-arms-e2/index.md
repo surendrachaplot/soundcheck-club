@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Kings Turntable: Paul Cross [22.08.2022]" on Sat, 22 Aug 2026.
+Kings Arms E2 is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Kings Turntable: Paul Cross [22.08.2022]" on Sat, 22 Aug 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including NOYB and Nunonunonuno. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 16 upcoming night
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

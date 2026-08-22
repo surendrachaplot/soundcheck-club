@@ -1,6 +1,6 @@
 # Ëlorian
 
-Ëlorian is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fünk, Mexico City on Sat, 22 Aug 2026.
+Ëlorian is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fünk, Mexico City on Sat, 22 Aug 2026.
 
 Ëlorian is a house and progressive house artist based in Italy, tracked on soundcheck, with 11 sets logged across Berlin, Frankfurt, Mexicocity and Munich. Often billed alongside Esther Silex, Mina and Soulfunk. Next up: Fünk, Mexicocity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@
 
 Esther Silex, Mina, Soulfunk
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elorian/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elorian/)*

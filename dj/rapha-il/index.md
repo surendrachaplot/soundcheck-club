@@ -1,14 +1,14 @@
 # Rapha.
 
-Rapha. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Beach Neukölln, Berlin on Sat, 22 Aug 2026.
+Rapha. is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Door Club, Berlin on Fri, 18 Sept 2026.
 
-Rapha. is an electro and house artist tracked on soundcheck, with 12 sets logged across Berlin, London, Thehague and Warsaw. Often billed alongside Tarawar, Billa Bazz and PRZ. Next up: Beach Neukölln, Berlin on Sat 22 Aug.
+Rapha. is an electro and house artist tracked on soundcheck, with 12 sets logged across Berlin, London, Thehague and Warsaw. Often billed alongside Tarawar, Billa Bazz and PRZ. Next up: The Door Club, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Beach Neukölln | Berlin |
+| Fri, 18 Sept 2026 | The Door Club | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Rapha. is an electro and house artist tracked on soundcheck, with 12 sets logged
 
 Tarawar, Billa Bazz, PRZ
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rapha-il/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rapha-il/)*

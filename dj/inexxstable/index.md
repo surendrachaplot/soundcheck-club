@@ -1,6 +1,6 @@
 # INEXXSTABLE
 
-INEXXSTABLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+INEXXSTABLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
 
 INEXXSTABLE is a house and techno artist tracked on soundcheck, with 117 sets logged across Barcelona and Belgrade. Often billed alongside CLANDESTINE (2), Cucut and Brieela. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ INEXXSTABLE is a house and techno artist tracked on soundcheck, with 117 sets lo
 
 ## Recently played
 
+- Razzmatazz, Barcelona — Fri, 21 Aug 2026
 - La Terrrazza, Barcelona — Thu, 13 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - City Hall, Barcelona — Sat, 18 Jul 2026
@@ -19,10 +20,9 @@ INEXXSTABLE is a house and techno artist tracked on soundcheck, with 117 sets lo
 - TBA - Jardins Enric Sagnier, Barcelona — Fri, 26 Jun 2026
 - La Terrrazza, Barcelona — Thu, 25 Jun 2026
 - La Terrrazza, Barcelona — Wed, 17 Jun 2026
-- TBA - LA CALETA, Vilassar de Mar (Platja dels Pescadors), Barcelona — Sat, 16 May 2026
 
 ## Shares bills with
 
 CLANDESTINE (2), Cucut, Brieela
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*

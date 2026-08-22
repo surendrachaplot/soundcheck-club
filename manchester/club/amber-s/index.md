@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Glove Seazon" on Sat, 29 Aug 2026.
+Amber's is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Glove Seazon" on Sat, 29 Aug 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including Amelia Leigh, Arkane, Arpy Brown and Danny Roach and 2 more. Browse upcoming dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -19,4 +19,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 6 upcoming nights, 
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

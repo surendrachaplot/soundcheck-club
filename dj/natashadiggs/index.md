@@ -1,14 +1,13 @@
 # Natasha Diggs
 
-Natasha Diggs is a House and Funk / Soul artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 99 Scott Ave, New York City on Fri, 21 Aug 2026.
+Natasha Diggs is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunday Sunday, Mexico City on Sat, 22 Aug 2026.
 
-Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Bali and Barcelona and 20 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: 99 Scott Ave, Newyorkcity on Fri 21 Aug.
+Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Bali and Barcelona and 20 more. Often billed alongside Melvo Baptiste, The Shapeshifters and L3Ni. Next up: Sunday Sunday, Mexicocity on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | 99 Scott Ave | New York City |
 | Sat, 22 Aug 2026 | Sunday Sunday | Mexico City |
 | Sun, 6 Sept 2026 | Refuge | New York City |
 | Fri, 18 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 118 
 
 ## Recently played
 
+- 99 Scott Ave, New York City — Fri, 21 Aug 2026
 - 99 Scott Ave, New York City — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
 - W Barcelona, Barcelona — Sun, 19 Jul 2026
@@ -27,10 +27,9 @@ Natasha Diggs is a house and funk / soul artist tracked on soundcheck, with 118 
 - 20 W 36th St., New York City — Thu, 16 Jul 2026
 - 528 Ibiza, Ibiza — Thu, 2 Jul 2026
 - The Chocolate Factory, New York City — Sat, 20 Jun 2026
-- Amnesia Ibiza, Ibiza — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Melvo Baptiste, The Shapeshifters, L3Ni
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natashadiggs/)*

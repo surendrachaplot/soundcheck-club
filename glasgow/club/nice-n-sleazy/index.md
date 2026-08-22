@@ -1,15 +1,14 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Domino Dancing ft Junglehussi" on Fri, 21 Aug 2026.
+Nice N Sleazy is a music venue in Glasgow with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Once Upon A Drop (Jungle / Drum&Bass)(Free Tix Otd)" on Sat, 22 Aug 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming nights, with line-ups including Bristol Luke, Dean Munch, EL PADRE and Jay Cluss and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 8 upcoming nights, with line-ups including Bristol Luke, EL PADRE, Jay Cluss and Kenny Campbell and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Domino Dancing ft Junglehussi | Dean Munch, Junglehussi |
-| Sat, 22 Aug 2026 | Once Upon A Drop (Jungle / Drum&Bass) |  |
+| Sat, 22 Aug 2026 | Once Upon A Drop (Jungle / Drum&Bass)(Free Tix Otd) |  |
 | Tue, 25 Aug 2026 | OLD SCHOOL JUNGLE / DRUM AND BASS RAVE - RAVEGLA | Bristol Luke, Kenny Campbell, Maskka, Mellin |
 | Sat, 29 Aug 2026 | Ozone² |  |
 | Sat, 29 Aug 2026 | The 909 Society presents: Housework Volume 7 |  |
@@ -22,4 +21,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 9 upcoming night
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

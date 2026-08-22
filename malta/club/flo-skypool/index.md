@@ -1,6 +1,6 @@
 # Flo Skypool
 
-Flo Skypool is a music venue in Malta with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Pool & Party" on Sat, 22 Aug 2026.
+Flo Skypool is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Pool & Party" on Sat, 22 Aug 2026.
 
 Flo Skypool is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Flo Skypool is a music venue in Malta listed on soundcheck. 1 upcoming night. Br
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Pool & Party |  |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/flo-skypool/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/flo-skypool/)*

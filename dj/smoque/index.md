@@ -1,6 +1,6 @@
 # Smoque
 
-Smoque is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 22 Aug 2026.
+Smoque is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bajo Mundo, Mexico City on Sat, 22 Aug 2026.
 
 Smoque is a techno and trance artist tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Praqqa, Deenia and Umvral. Next up: Bajo Mundo, Mexicocity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Smoque is a techno and trance artist tracked on soundcheck, with 17 sets logged 
 
 Praqqa, Deenia, Umvral
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smoque/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smoque/)*

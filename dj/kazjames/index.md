@@ -1,6 +1,6 @@
 # Kaz James
 
-Kaz James is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Gin Ling Way, Chinatown, Los Angeles on Sat, 19 Sept 2026.
+Kaz James is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Gin Ling Way, Chinatown, Los Angeles on Sat, 19 Sept 2026.
 
 Kaz James is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Athens, Ibiza, Istanbul and London and 10 more. Often billed alongside Black Coffee, Carlita and Guy Gerber. Next up: Gin Ling Way, Chinatown, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kaz James is a house and afro house artist based in United Kingdom, tracked on s
 
 Black Coffee, Carlita, Guy Gerber
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazjames/)*

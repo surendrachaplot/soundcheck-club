@@ -1,14 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 20 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Oliver Koletzki presented by Public Works" on Fri, 21 Aug 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69" on Sat, 22 Aug 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 20 upcoming nights, with line-ups including 3kelves, AGROPOL, ALMAS and Âme and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including AGROPOL, ALMAS, Âme and BROKE LEG and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Oliver Koletzki presented by Public Works | 3kelves, Asymmetry, Benjamin K, Dylan C. Greene, Oliver Koletzki |
 | Sat, 22 Aug 2026 | ++ Generaiderz: LeNtO sAn fRaNcIsCo ++ MURDER CLUB, exmantera, Gabberbitch69 | Gabberbitch69, Hissy Fit, Technopagan, exmantera |
 | Fri, 28 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
 | Fri, 28 Aug 2026 | Öona Dahl & David Hohme presented by Public Works | David Hohme, Öona Dahl |
@@ -18,9 +17,10 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 20 upcoming 
 | Fri, 4 Sept 2026 | Entrañas presented by CLB INTRNCNL, Hazardous Nemesis, & Public Works | DJ Saratonin, Entrañas, Profesito |
 | Sat, 5 Sept 2026 | Partiboi69, Harrison BDP presented by Goldenvoice | Harrison BDP, Partiboi69 |
 | Fri, 11 Sept 2026 | Fatima Hajji presented by Public Works | Fatima Hajji, S.I.M, Sandra Mane, cstr |
+| Sat, 12 Sept 2026 | Boombox Cartel presented by Public Works & Insomniac |  |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

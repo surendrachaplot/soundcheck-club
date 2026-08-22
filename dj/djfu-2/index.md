@@ -1,6 +1,6 @@
 # DJ FU (2)
 
-DJ FU (2) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Social Room, Hong Kong on Sat, 5 Sept 2026.
+DJ FU (2) is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Social Room, Hong Kong on Sat, 5 Sept 2026.
 
 DJ FU (2) is a bass and drum & bass artist tracked on soundcheck, with 8 sets logged across Hongkong and Seoul. Often billed alongside ILLI (HK), Immuno and JFÜNG. Next up: Social Room, Hongkong on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ DJ FU (2) is a bass and drum & bass artist tracked on soundcheck, with 8 sets lo
 
 ILLI (HK), Immuno, JFÜNG
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfu-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfu-2/)*

@@ -1,6 +1,6 @@
 # Gianni Di Bernardo
 
-Gianni Di Bernardo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
+Gianni Di Bernardo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
 
 Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 17 more. Often billed alongside Luca Agnelli, Mattia Trani and PISAPIA (IT). Next up: UNO MALTA, Malta on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Gianni Di Bernardo is a techno and industrial artist tracked on soundcheck, with
 
 Luca Agnelli, Mattia Trani, PISAPIA (IT)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giannidibernardo/)*

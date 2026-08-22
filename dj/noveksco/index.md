@@ -1,6 +1,6 @@
 # NOVEK (SCO)
 
-NOVEK (SCO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
+NOVEK (SCO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at SWG3, Glasgow on Fri, 25 Sept 2026.
 
 NOVEK (SCO) is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside 90s Kidd, AXION and Daniel Campbell. Next up: SWG3, Glasgow on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ NOVEK (SCO) is a techno and trance artist based in United Kingdom, tracked on so
 
 90s Kidd, AXION, Daniel Campbell
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noveksco/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noveksco/)*

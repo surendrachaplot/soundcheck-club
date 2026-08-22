@@ -1,6 +1,6 @@
 # DJ Gilla
 
-DJ Gilla is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Total Refreshment Centre, London on Fri, 25 Sept 2026.
+DJ Gilla is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Total Refreshment Centre, London on Fri, 25 Sept 2026.
 
 DJ Gilla is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and London. Often billed alongside Russ Ryan, Alex Phountzi and BOSSdaddy. Next up: Total Refreshment Centre, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DJ Gilla is a broken beat and house artist based in United Kingdom, tracked on s
 
 Russ Ryan, Alex Phountzi, BOSSdaddy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*

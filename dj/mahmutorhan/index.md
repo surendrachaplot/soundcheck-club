@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 11 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 22 Aug 2026.
+Mahmut Orhan is a House and Afro House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 22 Aug 2026.
 
 Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Santanna Mykonos, Mykonos on Sat 22 Aug.
 
@@ -35,4 +35,4 @@ Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 se
 
 Shimza, Adriatique, Andrea Oliva
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

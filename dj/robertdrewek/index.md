@@ -1,8 +1,8 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Oven Club, Valencia on Sat, 29 Aug 2026.
+Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Oven Club, Valencia on Sat, 29 Aug 2026.
 
-Robert Drewek is a house and techno artist tracked on soundcheck, with 111 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: Oven Club, Valencia on Sat 29 Aug.
+Robert Drewek is a house and techno artist tracked on soundcheck, with 112 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: Oven Club, Valencia on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Robert Drewek is a house and techno artist tracked on soundcheck, with 111 sets 
 | Sat, 29 Aug 2026 | Oven Club | Valencia |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 19 Sept 2026 | TBA - CAFÉ BAR JARDIN BENSHEIM | Frankfurt |
+| Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Robert Drewek is a house and techno artist tracked on soundcheck, with 111 sets 
 
 Matt Star, Move D, Meat
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*

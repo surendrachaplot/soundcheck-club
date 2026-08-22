@@ -1,6 +1,6 @@
 # Giuseppe Martini
 
-Giuseppe Martini is a Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cocoa Mataró, Barcelona on Sat, 3 Oct 2026.
+Giuseppe Martini is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cocoa Mataró, Barcelona on Sat, 3 Oct 2026.
 
 Giuseppe Martini is a tech house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside DIROS, Toni Fernández and ART NO LOGIA. Next up: Cocoa Mataró, Barcelona on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Giuseppe Martini is a tech house artist tracked on soundcheck, with 3 sets logge
 
 DIROS, Toni Fernández, ART NO LOGIA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppemartini/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppemartini/)*

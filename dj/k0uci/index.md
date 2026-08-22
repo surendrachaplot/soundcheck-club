@@ -1,6 +1,6 @@
 # K0uci
 
-K0uci is a Psytrance and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Studio56, Paris on Sat, 22 Aug 2026.
+K0uci is a Psytrance and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Studio56, Paris on Sat, 22 Aug 2026.
 
 K0uci is a psytrance and acid artist tracked on soundcheck, with 30 sets logged across Nantes and Paris. Often billed alongside Hemei, Kinokosan and Drivr. Next up: Studio56, Paris on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ K0uci is a psytrance and acid artist tracked on soundcheck, with 30 sets logged 
 
 Hemei, Kinokosan, Drivr
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k0uci/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k0uci/)*

@@ -1,6 +1,6 @@
 # Vivra Verra
 
-Vivra Verra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
+Vivra Verra is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 23 Aug 2026.
 
 Vivra Verra is a techno and house artist based in Lebanon, tracked on soundcheck, with 17 sets logged across Bangkok, London, Manchester and Singapore. Often billed alongside Figs, Tara Erizo and HORN-E. Next up: NUMBER 90 LONDON, London on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Vivra Verra is a techno and house artist based in Lebanon, tracked on soundcheck
 
 Figs, Tara Erizo, HORN-E
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivraverra/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivraverra/)*

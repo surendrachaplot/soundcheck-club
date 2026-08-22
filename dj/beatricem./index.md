@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Palais de Tokyo, Paris on Sat, 29 Aug 2026.
+Beatrice M. is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Palais de Tokyo, Paris on Sat, 29 Aug 2026.
 
 Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Brighton and Bristol and 25 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: Palais de Tokyo, Paris on Sat 29 Aug.
 
@@ -9,7 +9,7 @@ Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 119 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Palais de Tokyo | Paris |
-| Fri, 4 Sept 2026 | HERE | London |
+| Fri, 4 Sept 2026 | Outernet Live | London |
 | Sat, 5 Sept 2026 | The White Hotel | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 23 Oct 2026 | OHM | Berlin |
@@ -29,4 +29,4 @@ Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 119 sets lo
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

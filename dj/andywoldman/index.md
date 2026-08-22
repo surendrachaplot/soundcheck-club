@@ -1,6 +1,6 @@
 # Andy Woldman
 
-Andy Woldman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fünk, Mexico City on Sat, 22 Aug 2026.
+Andy Woldman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Fünk, Mexico City on Sat, 22 Aug 2026.
 
 Andy Woldman is a progressive house and house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Mexicocity. Often billed alongside AKIVA, Aubrey Fry and Ben Pierre. Next up: Fünk, Mexicocity on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Andy Woldman is a progressive house and house artist tracked on soundcheck, with
 
 AKIVA, Aubrey Fry, Ben Pierre
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywoldman/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywoldman/)*

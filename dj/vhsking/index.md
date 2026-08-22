@@ -1,6 +1,6 @@
 # VHS King
 
-VHS King is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Los Angeles on Sat, 12 Sept 2026.
+VHS King is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Los Angeles on Sat, 12 Sept 2026.
 
 VHS King is a disco and house artist tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Chris Pavlov and Cole Thompson. Next up: TBA, Losangeles on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ VHS King is a disco and house artist tracked on soundcheck, with 4 sets logged a
 
 Chris Pavlov, Cole Thompson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vhsking/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vhsking/)*

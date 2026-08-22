@@ -1,6 +1,6 @@
 # L-Side
 
-L-Side is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - LOCAL SECRETO, Sao Paulo on Sat, 22 Aug 2026.
+L-Side is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - LOCAL SECRETO, Sao Paulo on Sat, 22 Aug 2026.
 
 L-Side is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Brighton, Budapest, Buenosaires and London and 3 more. Often billed alongside DJ Marky, Bryan Gee and Command Strange. Next up: TBA - LOCAL SECRETO, Saopaulo on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ L-Side is a drum & bass and jungle artist tracked on soundcheck, with 17 sets lo
 
 DJ Marky, Bryan Gee, Command Strange
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-side/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-side/)*

@@ -1,14 +1,15 @@
 # BAAWLA
 
-BAAWLA is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
+BAAWLA is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
 
-BAAWLA is a garage and club artist tracked on soundcheck, with 35 sets logged across Bangkok, Bristol, Hongkong and London and 1 more. Often billed alongside rom (6), Coziest and Virion. Next up: Pistil, Seoul on Fri 28 Aug.
+BAAWLA is a garage and club artist tracked on soundcheck, with 36 sets logged across Bangkok, Bristol, Hongkong and London and 1 more. Often billed alongside rom (6), AEIDA and Coziest. Next up: Pistil, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Pistil | Seoul |
+| Fri, 25 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ BAAWLA is a garage and club artist tracked on soundcheck, with 35 sets logged ac
 
 ## Shares bills with
 
-rom (6), Coziest, Virion
+rom (6), AEIDA, Coziest
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baawla/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baawla/)*

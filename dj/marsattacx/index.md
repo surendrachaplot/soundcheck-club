@@ -1,6 +1,6 @@
 # MarsattacX
 
-MarsattacX is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 33/45 Club, Valencia on Sat, 22 Aug 2026.
+MarsattacX is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 33/45 Club, Valencia on Sat, 22 Aug 2026.
 
 MarsattacX is an electro and techno artist based in Ukraine, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin and Valencia. Often billed alongside Lucho (VE), Kala Ros and Bejenec. Next up: 33/45 Club, Valencia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ MarsattacX is an electro and techno artist based in Ukraine, tracked on soundche
 
 Lucho (VE), Kala Ros, Bejenec
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsattacx/)*

@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 26 Aug 2026.
+Tini Gessler is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hï Ibiza, Ibiza on Wed, 26 Aug 2026.
 
 Tini Gessler is a tech house and house artist tracked on soundcheck, with 128 sets logged across Bali, Barcelona, Berlin and Boston and 26 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: Hï Ibiza, Ibiza on Wed 26 Aug.
 
@@ -32,4 +32,4 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 128 se
 
 Ilario Alicante, Andrea Oliva, Adam Beyer
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

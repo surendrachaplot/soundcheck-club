@@ -1,6 +1,6 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "FROM RAVE THE PLANET TO KRAKOW! UNDERBRIDGE FLOAT AFTERPARTY" on Sat, 22 Aug 2026.
+Noce KRK is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "FROM RAVE THE PLANET TO KRAKOW! UNDERBRIDGE FLOAT AFTERPARTY" on Sat, 22 Aug 2026.
 
 Noce KRK is a music venue in Krakow listed on soundcheck. 4 upcoming nights, with line-ups including Abrew, Adriana Lopez, Dimitri Cooman and Firefly and 2 more. Browse upcoming dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
@@ -17,4 +17,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 4 upcoming nights, wit
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

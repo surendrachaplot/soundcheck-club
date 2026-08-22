@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Sharlese is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 142 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -18,6 +18,7 @@ Sharlese is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
+- TBA - Private Campground, Seattle — Fri, 21 Aug 2026
 - Pony, Seattle — Sat, 8 Aug 2026
 - Südpol, Hamburg — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
@@ -25,10 +26,9 @@ Sharlese is a techno and house artist based in United States of America, tracked
 - H0L0, New York City — Fri, 10 Jul 2026
 - Podlasie Club, Chicago — Sat, 4 Jul 2026
 - Massive, Seattle — Wed, 24 Jun 2026
-- The Stud, San Francisco/Oakland — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

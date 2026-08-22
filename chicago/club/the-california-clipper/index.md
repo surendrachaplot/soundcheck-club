@@ -1,6 +1,6 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Night Moves" on Sat, 22 Aug 2026.
+The California Clipper is a music venue in Chicago with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Night Moves" on Sat, 22 Aug 2026.
 
 The California Clipper is a music venue in Chicago listed on soundcheck. 4 upcoming nights, with line-ups including Dan B Hood, iamBrandon, Jaq Attaque and Jesse Sandwich and 2 more. Browse upcoming dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
@@ -17,4 +17,4 @@ The California Clipper is a music venue in Chicago listed on soundcheck. 4 upcom
 
 1002 N California Ave, Chicago, IL 60622, Chicago
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*

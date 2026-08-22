@@ -1,6 +1,6 @@
 # Daryl Knows
 
-Daryl Knows is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Singapore on Sat, 22 Aug 2026.
+Daryl Knows is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Singapore on Sat, 22 Aug 2026.
 
 Daryl Knows is a house and techno artist tracked on soundcheck, with 51 sets logged across Bali, Bangkok, Hongkong and Kualalumpur and 4 more. Often billed alongside Dexter Colt, Dean Chew and Bongomann. Next up: TBA, Singapore on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Daryl Knows is a house and techno artist tracked on soundcheck, with 51 sets log
 
 Dexter Colt, Dean Chew, Bongomann
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darylknows/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darylknows/)*

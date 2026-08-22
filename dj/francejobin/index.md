@@ -1,6 +1,6 @@
 # France Jobin
 
-France Jobin is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+France Jobin is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 France Jobin is a techno and experimental artist based in Canada, tracked on soundcheck, with 8 sets logged across Glasgow and Montreal. Often billed alongside Honeydrip, Alan Harman and Aurora Halal. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -24,4 +24,4 @@ France Jobin is a techno and experimental artist based in Canada, tracked on sou
 
 Honeydrip, Alan Harman, Aurora Halal
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francejobin/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francejobin/)*

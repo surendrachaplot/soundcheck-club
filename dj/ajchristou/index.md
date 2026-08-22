@@ -1,6 +1,6 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Thuishaven, Amsterdam on Sun, 23 Aug 2026.
+AJ Christou is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Thuishaven, Amsterdam on Sun, 23 Aug 2026.
 
 AJ Christou is a tech house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Thuishaven, Amsterdam on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ AJ Christou is a tech house and house artist tracked on soundcheck, with 105 set
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

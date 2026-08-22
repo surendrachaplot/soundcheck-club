@@ -1,13 +1,14 @@
 # Mababy
 
-Mababy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+Mababy is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at KitKatClub, Berlin on Wed, 2 Sept 2026.
 
-Mababy is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Danito San, DJ Schieferkiefer and 4NOUK. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
+Mababy is a techno and tech house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Danito San, DJ Jordan and DJ Schieferkiefer. Next up: KitKatClub, Berlin on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Sept 2026 | KitKatClub | Berlin |
 | Fri, 18 Sept 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mababy is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Danito San, DJ Schieferkiefer, 4NOUK
+Danito San, DJ Jordan, DJ Schieferkiefer
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mababy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mababy/)*

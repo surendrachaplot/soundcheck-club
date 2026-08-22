@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "~ ' - ''~ < ;; } Dave Huismans / Pursuit Grooves {live} / Stow {live} / Ceremonies / Hemlock " on Thu, 27 Aug 2026.
+The Jama is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "~ ' - ''~ < ;; } Dave Huismans / Pursuit Grooves {live} / Stow {live} / Ceremonies / Hemlock " on Thu, 27 Aug 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Ceremonies, Dave Huismans, Facta and faisalkon and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
 
@@ -15,4 +15,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 2 upcoming nights, wi
 
 961 College Street, Toronto
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

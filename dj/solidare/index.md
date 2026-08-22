@@ -1,6 +1,6 @@
 # Solidare
 
-Solidare is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Solidare is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Solidare is a techno and club artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity and Washingtondc. Often billed alongside Mrs. Qbert, Vivian Oblivion and Artemis.105. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Solidare is a techno and club artist based in United States of America, tracked 
 
 Mrs. Qbert, Vivian Oblivion, Artemis.105
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solidare/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solidare/)*

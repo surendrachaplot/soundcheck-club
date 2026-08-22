@@ -1,6 +1,6 @@
 # Better Tomorrow
 
-Better Tomorrow is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Surface DIY with 9AM, Perry Mason, H.U.D.L & Fathersun" on Thu, 27 Aug 2026.
+Better Tomorrow is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Surface DIY with 9AM, Perry Mason, H.U.D.L & Fathersun" on Thu, 27 Aug 2026.
 
 Better Tomorrow is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Adam Rose, Capes, Fathersun and H.U.D.L and 2 more. Browse upcoming dates, start times and who's playing. 1133 Venice Blvd Los Angeles CA 90033.
 
@@ -15,4 +15,4 @@ Better Tomorrow is a music venue in Losangeles listed on soundcheck. 2 upcoming 
 
 1133 Venice Blvd Los Angeles CA 90033, Los Angeles
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*

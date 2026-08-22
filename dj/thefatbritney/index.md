@@ -1,6 +1,6 @@
 # The Fat Britney
 
-The Fat Britney is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
+The Fat Britney is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
 
 The Fat Britney is a house and baile funk artist tracked on soundcheck, with 18 sets logged across Manchester. Often billed alongside Bollibubbles, Meme Gold and Aiden Francis. Next up: renae, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ The Fat Britney is a house and baile funk artist tracked on soundcheck, with 18 
 
 Bollibubbles, Meme Gold, Aiden Francis
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thefatbritney/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thefatbritney/)*

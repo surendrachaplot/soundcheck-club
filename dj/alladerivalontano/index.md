@@ -1,6 +1,6 @@
 # AllaDerivaLontano
 
-AllaDerivaLontano is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Turbina, Budapest on Fri, 11 Sept 2026.
+AllaDerivaLontano is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Turbina, Budapest on Fri, 11 Sept 2026.
 
 AllaDerivaLontano is a techno and industrial artist based in Italy, tracked on soundcheck, with 24 sets logged across Budapest and Milan. Often billed alongside GLADJEE, Hi/Fi and Re Pigi. Next up: Turbina, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ AllaDerivaLontano is a techno and industrial artist based in Italy, tracked on s
 
 GLADJEE, Hi/Fi, Re Pigi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alladerivalontano/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alladerivalontano/)*

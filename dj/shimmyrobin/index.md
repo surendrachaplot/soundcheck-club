@@ -1,13 +1,14 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
+Shimmy Robin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ://about blank, Berlin on Sun, 23 Aug 2026.
 
-Shimmy Robin is a techno and house artist tracked on soundcheck, with 106 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside dj blip, Najeh and dj fako. Next up: Golden Pudel Club, Hamburg on Sat 29 Aug.
+Shimmy Robin is a techno and house artist tracked on soundcheck, with 107 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside dj blip, Najeh and dj fako. Next up: ://about blank, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | ://about blank | Berlin |
 | Sat, 29 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sat, 29 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sat, 12 Sept 2026 | Südpol | Hamburg |
@@ -27,4 +28,4 @@ Shimmy Robin is a techno and house artist tracked on soundcheck, with 106 sets l
 
 dj blip, Najeh, dj fako
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*

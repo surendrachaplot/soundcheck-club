@@ -1,8 +1,8 @@
 # Franky Greiner
 
-Franky Greiner is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Franky Greiner is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
-Franky Greiner is a techno and minimal artist tracked on soundcheck, with 18 sets logged across Berlin, Ibiza and Istanbul. Often billed alongside Cabanne, Altin Boshnjaku and Clovis. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
+Franky Greiner is a techno and minimal artist tracked on soundcheck, with 18 sets logged across Berlin, Ibiza and Istanbul. Often billed alongside Cabanne, Alex Kraemer and Altin Boshnjaku. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Franky Greiner is a techno and minimal artist tracked on soundcheck, with 18 set
 
 ## Shares bills with
 
-Cabanne, Altin Boshnjaku, Clovis
+Cabanne, Alex Kraemer, Altin Boshnjaku
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankygreiner/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankygreiner/)*

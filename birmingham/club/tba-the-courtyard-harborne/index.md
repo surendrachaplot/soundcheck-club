@@ -1,6 +1,6 @@
 # TBA - The Courtyard, Harborne
 
-TBA - The Courtyard, Harborne is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Sun Deck All Day" on Sun, 30 Aug 2026.
+TBA - The Courtyard, Harborne is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sun Deck All Day" on Sun, 30 Aug 2026.
 
 TBA - The Courtyard, Harborne is a music venue in Birmingham listed on soundcheck. 1 upcoming night, with line-ups including Will Penn. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Courtyard, Harborne is a music venue in Birmingham listed on soundchec
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Sun Deck All Day | Will Penn |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tba-the-courtyard-harborne/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/tba-the-courtyard-harborne/)*

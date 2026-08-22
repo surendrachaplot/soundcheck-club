@@ -1,6 +1,6 @@
 # UNREAL NA TOUR: TORONTO at 131 Mccormack St
 
-UNREAL NA TOUR: TORONTO at 131 Mccormack St on Fri 11 Sept, Toronto. 3 acts on the bill: CRISTI:ANA, KUKO and Winson. Techno. Preview the line-up and save it on soundcheck.
+UNREAL NA TOUR: TORONTO at 131 Mccormack St on Fri 11 Sept, Toronto. 4 acts on the bill: CRISTI:ANA, KUKO, Winson and Winson Ngoh. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ UNREAL NA TOUR: TORONTO at 131 Mccormack St on Fri 11 Sept, Toronto. 3 acts on t
 - CRISTI:ANA
 - KUKO
 - Winson
+- Winson Ngoh
 
 *Source: [soundcheck](https://soundcheck.club/e/2461038-unreal-na-tour-toronto-at-131-mccormack-st/)*

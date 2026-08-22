@@ -1,6 +1,6 @@
 # Shed
 
-Shed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Standard Time, Toronto on Sat, 17 Oct 2026.
+Shed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Standard Time, Toronto on Sat, 17 Oct 2026.
 
 Shed is a techno and house artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Head High, Skee Mask and CCL. Next up: Standard Time, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Shed is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Head High, Skee Mask, CCL
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shed/)*

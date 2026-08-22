@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 21 Aug 2026.
+Roy Rosenfeld is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 21 Aug 2026.
 
 Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: TBA - Club Araoz, Palermo, Buenosaires on Fri 21 Aug.
 
@@ -16,6 +16,7 @@ Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, wit
 
 ## Recently played
 
+- TBA - Club Araoz, Palermo, Buenos Aires — Fri, 21 Aug 2026
 - Grand Quai du Port de Montreal, Montreal — Sat, 15 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 29 Jun 2026
@@ -23,10 +24,9 @@ Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, wit
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 - Colorado Charlie, The Hague — Sat, 13 Jun 2026
 - Roof on Thewit, Chicago — Sat, 9 May 2026
-- Buddha Bar, Paris — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

@@ -1,6 +1,6 @@
 # MØSENGGE
 
-MØSENGGE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 1 Sept 2026.
+MØSENGGE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 1 Sept 2026.
 
 MØSENGGE is a techno and tech house artist based in Spain, tracked on soundcheck, with 13 sets logged across Ibiza. Often billed alongside SEMREH, AntZ (2) and Frazi.er. Next up: Amnesia Ibiza, Ibiza on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ MØSENGGE is a techno and tech house artist based in Spain, tracked on soundchec
 
 SEMREH, AntZ (2), Frazi.er
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosengge/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosengge/)*

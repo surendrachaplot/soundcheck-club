@@ -1,14 +1,13 @@
 # Burnski
 
-Burnski is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Loft, Manchester on Fri, 21 Aug 2026.
+Burnski is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
 
-Burnski is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Dennis Quin and Job de Jong. Next up: The Loft, Manchester on Fri 21 Aug.
+Burnski is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Dennis Quin and Job de Jong. Next up: Dullingham Polo Club, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | The Loft | Manchester |
 | Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Fri, 28 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Burnski is a house and tech house artist tracked on soundcheck, with 65 sets log
 
 ## Recently played
 
+- The Loft, Manchester — Fri, 21 Aug 2026
 - Cova Santa, Ibiza — Tue, 7 Jul 2026
 - ZT Hotel Villa Olimpica, Barcelona — Sat, 20 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
@@ -24,10 +24,9 @@ Burnski is a house and tech house artist tracked on soundcheck, with 65 sets log
 - WaV, Liverpool — Fri, 12 Jun 2026
 - Cova Santa, Ibiza — Tue, 9 Jun 2026
 - 528 Ibiza, Ibiza — Sun, 31 May 2026
-- The Cause, London — Sat, 23 May 2026
 
 ## Shares bills with
 
 Kepler, Dennis Quin, Job de Jong
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

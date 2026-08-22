@@ -1,6 +1,6 @@
 # Jo Kazan
 
-Jo Kazan is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 28 Aug 2026.
+Jo Kazan is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 28 Aug 2026.
 
 Jo Kazan is an electro and italo disco artist tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Andrea Love, Alice Youngling and Cabana. Next up: Almar Beach Club, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jo Kazan is an electro and italo disco artist tracked on soundcheck, with 66 set
 
 Andrea Love, Alice Youngling, Cabana
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jokazan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jokazan/)*

@@ -1,6 +1,6 @@
 # David Mayer
 
-David Mayer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+David Mayer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 David Mayer is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Hongkong, Ibiza and Paris. Often billed alongside Caleesi, Esther Silex and Franca. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ David Mayer is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- Kater, Berlin — Fri, 21 Aug 2026
 - Kater, Berlin — Thu, 2 Oct 2025
 - Chinois Ibiza, Ibiza — Fri, 1 Sept 2023
 - Popinjays, Hong Kong — Sat, 27 May 2023
@@ -22,4 +23,4 @@ David Mayer is a house and techno artist based in Germany, tracked on soundcheck
 
 Caleesi, Esther Silex, Franca
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmayer/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmayer/)*

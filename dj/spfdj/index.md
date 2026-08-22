@@ -1,14 +1,13 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Magazine Open–Air, London on Fri, 21 Aug 2026.
+SPFDJ is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
 
-SPFDJ is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Magazine Open–Air, London on Fri 21 Aug.
+SPFDJ is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: fi, Cologne on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Magazine Open–Air | London |
 | Sat, 22 Aug 2026 | fi | Cologne |
 | Sat, 29 Aug 2026 | Virage | Paris |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
@@ -20,6 +19,7 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 224 sets logged a
 
 ## Recently played
 
+- Magazine Open–Air, London — Fri, 21 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Praia de Esmoriz Beach, Porto — Sat, 11 Jul 2026
 - Hï Ibiza, Ibiza — Sun, 5 Jul 2026
@@ -27,10 +27,9 @@ SPFDJ is a techno and house artist tracked on soundcheck, with 224 sets logged a
 - Trädgården, Stockholm — Thu, 2 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 26 Jun 2026
 - Universe Athens, Athens — Sat, 30 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 DAX J, Anetha, MCMLXXXV
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

@@ -1,6 +1,6 @@
 # Sol tornasol
 
-Sol tornasol is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
+Sol tornasol is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 22 Aug 2026.
 
 Sol tornasol is a club and house artist based in Colombia, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Hamburg and Madrid and 2 more. Often billed alongside EDGAR KERRI, LOVEFOXY and Miqui Brightside. Next up: Golden Pudel Club, Hamburg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Sol tornasol is a club and house artist based in Colombia, tracked on soundcheck
 
 EDGAR KERRI, LOVEFOXY, Miqui Brightside
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*

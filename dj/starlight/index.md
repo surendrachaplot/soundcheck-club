@@ -1,6 +1,6 @@
 # Starlight
 
-Starlight is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
+Starlight is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
 
 Starlight is a latin bass and guaracha artist tracked on soundcheck, with 8 sets logged across London, Mexicocity and Toronto. Often billed alongside Disco 86, Diego Walle and HMR (MX). Next up: TBA, Mexicocity on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Starlight is a latin bass and guaracha artist tracked on soundcheck, with 8 sets
 
 Disco 86, Diego Walle, HMR (MX)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/starlight/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/starlight/)*

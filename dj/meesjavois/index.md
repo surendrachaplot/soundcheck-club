@@ -1,6 +1,6 @@
 # Mees Javois
 
-Mees Javois is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
+Mees Javois is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Sun, 23 Aug 2026.
 
 Mees Javois is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Lyon, Paris and Rotterdam and 2 more. Often billed alongside Prance, Bastienne and Joya Astou. Next up: TILLATEC, Amsterdam on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Mees Javois is a techno and house artist tracked on soundcheck, with 35 sets log
 
 Prance, Bastienne, Joya Astou
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meesjavois/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meesjavois/)*

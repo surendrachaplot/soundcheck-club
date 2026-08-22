@@ -1,6 +1,6 @@
 # Nightmares on Wax
 
-Nightmares on Wax is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 25 Aug 2026.
+Nightmares on Wax is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 25 Aug 2026.
 
 Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: 528 Ibiza, Ibiza on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 
 
 Colleen 'Cosmo' Murphy, Mr Scruff, Romare
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmaresonwax/)*

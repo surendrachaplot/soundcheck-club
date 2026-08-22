@@ -1,6 +1,6 @@
 # Jon Hussey
 
-Jon Hussey is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
+Jon Hussey is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
 
 Jon Hussey is a techno and acid artist based in Ireland, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Cork and Dublin and 1 more. Often billed alongside EMMIE, Alex Sparrow and Ayolxi. Next up: Pawn Shop, Dublin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Jon Hussey is a techno and acid artist based in Ireland, tracked on soundcheck, 
 
 EMMIE, Alex Sparrow, Ayolxi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonhussey/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonhussey/)*

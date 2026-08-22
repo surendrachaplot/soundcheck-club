@@ -1,6 +1,6 @@
 # suzu
 
-suzu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
+suzu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
 
 suzu is a house and techno artist tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside Koki, LEFTOLD and AI.U. Next up: Heavy Sick Zero, Tokyo on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ suzu is a house and techno artist tracked on soundcheck, with 6 sets logged acro
 
 Koki, LEFTOLD, AI.U
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzu/)*

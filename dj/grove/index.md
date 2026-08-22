@@ -1,6 +1,6 @@
 # Grove
 
-Grove is a Experimental and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
+Grove is a Experimental and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at HUNGR, Tallinn on Fri, 21 Aug 2026.
 
 Grove is an experimental and dancehall artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 16 more. Often billed alongside 2ManyDJs, Authentically Plastic and Chloé Caillet. Next up: HUNGR, Tallinn on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Grove is an experimental and dancehall artist tracked on soundcheck, with 50 set
 
 ## Recently played
 
+- HUNGR, Tallinn — Fri, 21 Aug 2026
 - Stereo, Glasgow — Fri, 22 May 2026
 - Otto Wagner Areal, Vienna — Thu, 21 May 2026
 - Recyclart, Brussels — Sat, 9 May 2026
@@ -19,10 +20,9 @@ Grove is an experimental and dancehall artist tracked on soundcheck, with 50 set
 - The Loco Klub, Bristol — Fri, 3 Apr 2026
 - Lakota, Bristol — Fri, 13 Mar 2026
 - Rebellion, Manchester — Fri, 20 Feb 2026
-- Cu, London — Thu, 5 Feb 2026
 
 ## Shares bills with
 
 2ManyDJs, Authentically Plastic, Chloé Caillet
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grove/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grove/)*

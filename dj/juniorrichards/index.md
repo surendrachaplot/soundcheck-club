@@ -1,19 +1,19 @@
 # Junior Richards
 
-Junior Richards is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Arch 535, London on Fri, 21 Aug 2026.
+Junior Richards is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
 
-Junior Richards is a techno and deep house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Drew Karma, Scott Braithwaite and Stuart Patterson. Next up: Arch 535, London on Fri 21 Aug.
+Junior Richards is a techno and deep house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Drew Karma, Scott Braithwaite and Stuart Patterson. Next up: The North London Tavern, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Arch 535 | London |
 | Sun, 30 Aug 2026 | The North London Tavern | London |
 | Sat, 5 Sept 2026 | Arch 535 | London |
 
 ## Recently played
 
+- Arch 535, London — Fri, 21 Aug 2026
 - Arch 535, London — Sat, 27 Jun 2026
 - Arch 535, London — Sat, 25 Apr 2026
 - Arch 535, London — Sat, 28 Feb 2026
@@ -26,4 +26,4 @@ Junior Richards is a techno and deep house artist tracked on soundcheck, with 10
 
 Drew Karma, Scott Braithwaite, Stuart Patterson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorrichards/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorrichards/)*

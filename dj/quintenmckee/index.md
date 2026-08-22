@@ -1,6 +1,6 @@
 # Quinten McKee
 
-Quinten McKee is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at DNA. CLUB, Berlin on Sat, 22 Aug 2026.
+Quinten McKee is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at DNA. CLUB, Berlin on Sat, 22 Aug 2026.
 
 Quinten McKee is a tech house and techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside HAUSBRAND, .Cheka and 1000kJulez. Next up: DNA. CLUB, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Quinten McKee is a tech house and techno artist tracked on soundcheck, with 9 se
 
 HAUSBRAND, .Cheka, 1000kJulez
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quintenmckee/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quintenmckee/)*

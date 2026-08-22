@@ -1,6 +1,6 @@
 # Photay
 
-Photay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bar Franca, Los Angeles on Thu, 20 Aug 2026.
+Photay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bar Franca, Los Angeles on Thu, 20 Aug 2026.
 
 Photay is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside Toribio, Colloboh and 2Lanes. Next up: Bar Franca, Losangeles on Thu 20 Aug.
 
@@ -26,4 +26,4 @@ Photay is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 Toribio, Colloboh, 2Lanes
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photay/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/photay/)*

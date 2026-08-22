@@ -1,6 +1,6 @@
 # AKWA
 
-AKWA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
+AKWA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
 
 AKWA is a house and disco artist tracked on soundcheck, with 41 sets logged across Berlin, London, Montreal and Newyorkcity and 1 more. Often billed alongside TESFAY, Andre Zimmer and Jacob de Hooge. Next up: Cafe 1001, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ AKWA is a house and disco artist tracked on soundcheck, with 41 sets logged acro
 
 TESFAY, Andre Zimmer, Jacob de Hooge
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akwa/)*

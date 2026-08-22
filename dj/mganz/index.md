@@ -1,6 +1,6 @@
 # Mganz
 
-Mganz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
+Mganz is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
 
 Mganz is a house and electronica artist based in Spain, tracked on soundcheck, with 24 sets logged across Austin, Barcelona and Madrid. Often billed alongside juliboe, DC81 and Frucula. Next up: Discoteca Karma, Barcelona on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Mganz is a house and electronica artist based in Spain, tracked on soundcheck, w
 
 juliboe, DC81, Frucula
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*

@@ -1,6 +1,6 @@
 # Leonard Hanson
 
-Leonard Hanson is a Minimal and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ascaroterassen, Stockholm on Sat, 22 Aug 2026.
+Leonard Hanson is a Minimal and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ascaroterassen, Stockholm on Sat, 22 Aug 2026.
 
 Leonard Hanson is a minimal and progressive house artist tracked on soundcheck, with 5 sets logged across Stockholm. Often billed alongside Ahiram, Lazy Fous and Victor Norman. Next up: Ascaroterassen, Stockholm on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Leonard Hanson is a minimal and progressive house artist tracked on soundcheck, 
 
 Ahiram, Lazy Fous, Victor Norman
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardhanson/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardhanson/)*

@@ -1,6 +1,6 @@
 # TYLERFROMWHERE
 
-TYLERFROMWHERE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Good Room, New York City on Sat, 19 Sept 2026.
+TYLERFROMWHERE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Good Room, New York City on Sat, 19 Sept 2026.
 
 TYLERFROMWHERE is a house and disco artist tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Andrew Devlin, DJ Shannon and NIGELTHREETIMES. Next up: Good Room, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ TYLERFROMWHERE is a house and disco artist tracked on soundcheck, with 23 sets l
 
 Andrew Devlin, DJ Shannon, NIGELTHREETIMES
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerfromwhere/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tylerfromwhere/)*

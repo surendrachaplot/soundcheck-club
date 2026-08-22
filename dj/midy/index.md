@@ -1,6 +1,6 @@
 # Midy
 
-Midy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
+Midy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at VENT, Tokyo on Sat, 22 Aug 2026.
 
 Midy is a house and disco artist based in Romania, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside scrab, An toi and Blackship. Next up: VENT, Tokyo on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ Midy is a house and disco artist based in Romania, tracked on soundcheck, with 5
 
 scrab, An toi, Blackship
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midy/)*

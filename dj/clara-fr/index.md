@@ -1,8 +1,8 @@
 # CLARA (FR)
 
-CLARA (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+CLARA (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
-CLARA (FR) is a house and techno artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Belgrade, Berlin and Dublin and 7 more. Often billed alongside Basstronauten, Bonq and Burning Woman. Next up: RAW Gelände, Berlin on Sat 29 Aug.
+CLARA (FR) is a house and techno artist based in France, tracked on soundcheck, with 17 sets logged across Barcelona, Belgrade, Berlin and Dublin and 7 more. Often billed alongside Albin Brezlan, Basstronauten and Bonq. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ CLARA (FR) is a house and techno artist based in France, tracked on soundcheck, 
 
 ## Shares bills with
 
-Basstronauten, Bonq, Burning Woman
+Albin Brezlan, Basstronauten, Bonq
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clara-fr/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clara-fr/)*

@@ -1,6 +1,6 @@
 # N3 (UA)
 
-N3 (UA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
+N3 (UA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
 
 N3 (UA) is a house and disco artist tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, London and Prague. Often billed alongside Katia Stieber, Amber Rose and Bauen. Next up: Colour Factory, London on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ N3 (UA) is a house and disco artist tracked on soundcheck, with 8 sets logged ac
 
 Katia Stieber, Amber Rose, Bauen
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n3ua/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n3ua/)*

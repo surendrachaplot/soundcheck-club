@@ -1,6 +1,6 @@
 # Marli
 
-Marli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fvtvr, Paris on Sat, 29 Aug 2026.
+Marli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fvtvr, Paris on Sat, 29 Aug 2026.
 
 Marli is a house and techno artist based in Australia, tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Madrid and Manchester and 2 more. Often billed alongside Ricky Nord, Emma Moon and Hannah D. Next up: Fvtvr, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Marli is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Ricky Nord, Emma Moon, Hannah D
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marli/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marli/)*

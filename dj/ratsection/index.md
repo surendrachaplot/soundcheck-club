@@ -1,6 +1,6 @@
 # Rat Section
 
-Rat Section is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Rooftop at One Hundred Shoreditch, London on Sun, 23 Aug 2026.
+Rat Section is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Rooftop at One Hundred Shoreditch, London on Sun, 23 Aug 2026.
 
 Rat Section is an experimental and electronica artist tracked on soundcheck, with 48 sets logged across Amsterdam, Bangkok, Basel and Berlin and 14 more. Often billed alongside NEW YORK, Covco and Mellowdramatics. Next up: The Rooftop at One Hundred Shoreditch, London on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Rat Section is an experimental and electronica artist tracked on soundcheck, wit
 
 NEW YORK, Covco, Mellowdramatics
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*

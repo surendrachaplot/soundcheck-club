@@ -1,6 +1,6 @@
 # Tempted Audio
 
-Tempted Audio is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
+Tempted Audio is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
 Tempted Audio is a techno and deep house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside André Galluzzi, CHEM:EX and DIEDE. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
@@ -20,4 +20,4 @@ Tempted Audio is a techno and deep house artist based in Netherlands, tracked on
 
 André Galluzzi, CHEM:EX, DIEDE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temptedaudio/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temptedaudio/)*

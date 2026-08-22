@@ -1,14 +1,13 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "X-Coast + Derv" on Fri, 21 Aug 2026.
+Wigwam is a music venue in Dublin with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "MAZE X - FATULER ALL DAY LONG" on Sat, 22 Aug 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BENZA and BOVSKI and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BENZA and BOVSKI and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | X-Coast + Derv | Derv, X-Coast |
 | Sat, 22 Aug 2026 | MAZE X - FATULER ALL DAY LONG |  |
 | Sat, 22 Aug 2026 | Wigwam presents: Hammer & Cáit | Cáit, Hammer |
 | Sat, 22 Aug 2026 | Injector presents: DJ BAX with Breaks & Bass Takeover |  |
@@ -18,9 +17,10 @@ Wigwam is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with
 | Fri, 4 Sept 2026 | Resonate Launch x Hybrid: Frederic. & EMMIE (ANL) | EMMIE, Frederic. |
 | Sat, 5 Sept 2026 | MAZE X - Toobris B2B BENZA | BENZA, Toobris |
 | Fri, 11 Sept 2026 | Wigwam presents: Demuja | Demuja |
+| Fri, 11 Sept 2026 | BOVSKI STORY* | ALPER SKR, BOVSKI, WINSLAO |
 
 ## Address
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

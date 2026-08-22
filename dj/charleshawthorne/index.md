@@ -1,6 +1,6 @@
 # Charles Hawthorne
 
-Charles Hawthorne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 7th West, San Francisco/Oakland on Sat, 22 Aug 2026.
+Charles Hawthorne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 7th West, San Francisco/Oakland on Sat, 22 Aug 2026.
 
 Charles Hawthorne is a house and disco artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity, Sanfrancisco and Seattle. Often billed alongside nina sol, David Harness and Mark O'Brien. Next up: 7th West, Sanfrancisco on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Charles Hawthorne is a house and disco artist based in United States of America,
 
 nina sol, David Harness, Mark O'Brien
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charleshawthorne/)*

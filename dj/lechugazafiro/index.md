@@ -1,6 +1,6 @@
 # Lechuga Zafiro
 
-Lechuga Zafiro is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Razzmatazz, Barcelona on Fri, 11 Sept 2026.
+Lechuga Zafiro is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Fri, 11 Sept 2026.
 
 Lechuga Zafiro is a techno and experimental artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Verraco, Animistic Beliefs and Bitter Babe. Next up: Razzmatazz, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Lechuga Zafiro is a techno and experimental artist tracked on soundcheck, with 6
 
 Verraco, Animistic Beliefs, Bitter Babe
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lechugazafiro/)*

@@ -1,14 +1,15 @@
 # Raffa Guido
 
-Raffa Guido is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bauhaus, Houston on Fri, 28 Aug 2026.
+Raffa Guido is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bauhaus, Houston on Fri, 28 Aug 2026.
 
-Raffa Guido is a house and afro house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Athens, Barcelona and Copenhagen and 13 more. Often billed alongside Bernis, Qazi and SKAI (LT). Next up: Bauhaus, Houston on Fri 28 Aug.
+Raffa Guido is a house and afro house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Copenhagen and 13 more. Often billed alongside Bernis, Qazi and SKAI (LT). Next up: Bauhaus, Houston on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Bauhaus | Houston |
+| Sat, 5 Sept 2026 | Audio Club | Geneva |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Raffa Guido is a house and afro house artist tracked on soundcheck, with 28 sets
 
 Bernis, Qazi, SKAI (LT)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raffaguido/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raffaguido/)*

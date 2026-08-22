@@ -1,14 +1,13 @@
 # Yes
 
-Yes is a music venue in Manchester with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Yes Roof Terrace: B-Music" on Fri, 21 Aug 2026.
+Yes is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro" on Fri, 28 Aug 2026.
 
-Yes is a music venue in Manchester listed on soundcheck. 12 upcoming nights, with line-ups including 1-800 GIRLS, Andy Votel, Digitalism and James Lavelle. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
+Yes is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including 1-800 GIRLS, Digitalism and James Lavelle. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Yes Roof Terrace: B-Music | Andy Votel |
 | Fri, 28 Aug 2026 | Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro |  |
 | Sat, 29 Aug 2026 | Yes Roof Terrace: James Lavelle | James Lavelle |
 | Sat, 29 Aug 2026 | Yes Roof Terrace: North Of The Island |  |
@@ -18,9 +17,10 @@ Yes is a music venue in Manchester listed on soundcheck. 12 upcoming nights, wit
 | Sat, 19 Sept 2026 | Deptford Northern Soul Club |  |
 | Sun, 4 Oct 2026 | JIM (Live) + Thought Leadership |  |
 | Fri, 9 Oct 2026 | Digitalism | Digitalism |
+| Sat, 17 Oct 2026 | Deptford Northern Soul Club |  |
 
 ## Address
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

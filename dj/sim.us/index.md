@@ -1,20 +1,20 @@
 # S.I.M
 
-S.I.M is a Techno and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 21 Aug 2026.
+S.I.M is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
 
-S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, 6 SENSE and Brick (US). Next up: 1015 Folsom, Sanfrancisco on Fri 21 Aug.
+S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, 6 SENSE and Brick (US). Next up: Arcana, Sanfrancisco on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | Arcana | San Francisco/Oakland |
 | Fri, 11 Sept 2026 | Public Works | San Francisco/Oakland |
 | Fri, 6 Nov 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
+- 1015 Folsom, San Francisco/Oakland — Fri, 21 Aug 2026
 - TBA - Los Angeles, Los Angeles — Sat, 15 Aug 2026
 - TBA - DTLA, Los Angeles — Sat, 30 May 2026
 - Monarch, San Francisco/Oakland — Fri, 15 May 2026
@@ -26,4 +26,4 @@ S.I.M is a techno and garage artist based in United States of America, tracked o
 
 cstr, 6 SENSE, Brick (US)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

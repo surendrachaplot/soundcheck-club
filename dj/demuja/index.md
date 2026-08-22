@@ -1,6 +1,6 @@
 # Demuja
 
-Demuja is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
+Demuja is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
 
 Demuja is a house and disco artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside Black Loops, Cinthie and EG (1). Next up: Wigwam, Dublin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Demuja is a house and disco artist tracked on soundcheck, with 103 sets logged a
 
 Black Loops, Cinthie, EG (1)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demuja/)*

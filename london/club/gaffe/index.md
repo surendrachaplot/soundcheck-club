@@ -1,8 +1,8 @@
 # Gaffe
 
-Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze" on Fri, 21 Aug 2026.
+Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze" on Fri, 21 Aug 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, Aleromaze, Alien Communications and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Aleromaze and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

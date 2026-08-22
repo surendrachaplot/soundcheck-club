@@ -1,6 +1,6 @@
 # Marcel Vogel
 
-Marcel Vogel is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Marcel Vogel is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Marcel Vogel is a disco and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 11 more. Often billed alongside Apparel Wax, Delfonic and Luke Solomon. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marcel Vogel is a disco and house artist tracked on soundcheck, with 50 sets log
 
 Apparel Wax, Delfonic, Luke Solomon
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*

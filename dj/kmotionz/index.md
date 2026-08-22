@@ -1,20 +1,20 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, London on Fri, 21 Aug 2026.
+K Motionz is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-K Motionz is a drum & bass and bass artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: TBA - Secret Location, London on Fri 21 Aug.
+K Motionz is a drum & bass and bass artist tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 26 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA - Secret Location | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 6 Nov 2026 | Quarters | Brighton |
 
 ## Recently played
 
+- TBA - Secret Location, London — Fri, 21 Aug 2026
 - Lofi, Amsterdam — Sat, 15 Aug 2026
 - Larimer Lounge, Denver — Sat, 1 Aug 2026
 - Silverworks Island, London — Sun, 5 Jul 2026
@@ -22,10 +22,9 @@ K Motionz is a drum & bass and bass artist tracked on soundcheck, with 80 sets l
 - Le Trabendo, Paris — Sat, 23 May 2026
 - Roxy, Prague — Fri, 15 May 2026
 - Now&Wow, Rotterdam — Sun, 26 Apr 2026
-- Antwerp Expo, Antwerp — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

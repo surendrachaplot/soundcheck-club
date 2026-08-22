@@ -1,6 +1,6 @@
 # WARNO
 
-WARNO is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at YOTO, Hamburg on Sat, 22 Aug 2026.
+WARNO is a Afrobeats and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at YOTO, Hamburg on Sat, 22 Aug 2026.
 
 WARNO is an afrobeats and baile funk artist tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside NEAF, J.TU and ARMAH. Next up: YOTO, Hamburg on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ WARNO is an afrobeats and baile funk artist tracked on soundcheck, with 7 sets l
 
 NEAF, J.TU, ARMAH
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warno/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warno/)*

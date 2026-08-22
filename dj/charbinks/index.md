@@ -1,6 +1,6 @@
 # CHARBINKS
 
-CHARBINKS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OneSixOne, Melbourne on Fri, 25 Sept 2026.
+CHARBINKS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at OneSixOne, Melbourne on Fri, 25 Sept 2026.
 
 CHARBINKS is a house and techno artist based in France, tracked on soundcheck, with 20 sets logged across Melbourne. Often billed alongside Andrew88, Andrea Guadalupi and TYNOMYTE. Next up: OneSixOne, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ CHARBINKS is a house and techno artist based in France, tracked on soundcheck, w
 
 Andrew88, Andrea Guadalupi, TYNOMYTE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charbinks/)*

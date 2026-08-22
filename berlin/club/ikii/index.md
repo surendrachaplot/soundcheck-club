@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Gather in sound vol. 6" on Sat, 22 Aug 2026.
+Ikii is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gather in sound vol. 6" on Sat, 22 Aug 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including 0dysseus, Alex Jenkin, Benjamin Freeney and DJ Treibsand and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

@@ -1,14 +1,15 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
+Nick Curly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
 
-Nick Curly is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Auckland and Bali and 38 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Auckland and Bali and 38 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
+| Sat, 5 Sept 2026 | Audio Club | Geneva |
 | Fri, 11 Sept 2026 | Night Tales | London |
 | Sat, 26 Sept 2026 | Studio Club Malaga | Malaga |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
@@ -17,6 +18,7 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 109 sets
 
 ## Recently played
 
+- Playa Soleil & Bora Bora, Ibiza — Fri, 21 Aug 2026
 - Gewölbe, Cologne — Sat, 15 Aug 2026
 - Playa Soleil & Bora Bora, Ibiza — Fri, 14 Aug 2026
 - Superior Ingredients, New York City — Sun, 2 Aug 2026
@@ -24,10 +26,9 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 109 sets
 - Floyd, Miami — Fri, 31 Jul 2026
 - Club Vinyl, Denver — Sat, 25 Jul 2026
 - Loo Loo, Mexico City — Thu, 23 Jul 2026
-- Playa Soleil & Bora Bora, Ibiza — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Easttown, Reboot, Andrew Azara
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

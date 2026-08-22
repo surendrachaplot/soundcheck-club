@@ -1,6 +1,6 @@
 # Oliver Ho
 
-Oliver Ho is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Astron Club, Athens on Sat, 12 Sept 2026.
+Oliver Ho is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Astron Club, Athens on Sat, 12 Sept 2026.
 
 Oliver Ho is a techno and industrial artist tracked on soundcheck, with 9 sets logged across Athens, Berlin, Birmingham and Madrid and 1 more. Often billed alongside Rangelova, Regis and Choronzon. Next up: Astron Club, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Oliver Ho is a techno and industrial artist tracked on soundcheck, with 9 sets l
 
 Rangelova, Regis, Choronzon
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverho/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverho/)*

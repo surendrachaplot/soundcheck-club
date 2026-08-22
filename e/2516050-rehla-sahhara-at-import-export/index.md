@@ -1,6 +1,6 @@
-# ·ⵣ· Rehla رحلة ٢ ⵣ saHHara ·ⵣ· at Import Export
+# Rehla رحلة ٢ ·ⵣ· saHHara · سهّارة at Import Export
 
-·ⵣ· Rehla رحلة ٢ ⵣ saHHara ·ⵣ· at Import Export on Sat 19 Sept, Munich. Techno. Preview the line-up and save it on soundcheck.
+Rehla رحلة ٢ ·ⵣ· saHHara · سهّارة at Import Export on Sat 19 Sept, Munich. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

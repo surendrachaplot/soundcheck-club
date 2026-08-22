@@ -1,6 +1,6 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bangkok Island, Bangkok on Sat, 22 Aug 2026.
+DJ B2B is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bangkok Island, Bangkok on Sat, 22 Aug 2026.
 
 DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 202 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Bangkok Island, Bangkok on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ DJ B2B is a hip-hop and techno artist tracked on soundcheck, with 202 sets logge
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

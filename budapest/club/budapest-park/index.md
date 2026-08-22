@@ -1,6 +1,6 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Big Fat Bachelorette Party 3.0. with DJ Endy, DJ Gomes ⏾ Nights of Budapest Park" on Sat, 22 Aug 2026.
+Budapest Park is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Big Fat Bachelorette Party 3.0. with DJ Endy, DJ Gomes ⏾ Nights of Budapest Park" on Sat, 22 Aug 2026.
 
 Budapest Park is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Âme, Mateo, Spirit and Teenage Mutants. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
@@ -20,4 +20,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 7 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Jazz Cafe, London on Sun, 30 Aug 2026.
+Roni Size is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Jazz Cafe, London on Sun, 30 Aug 2026.
 
 Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 26 more. Often billed alongside LTJ Bukem, Grooverider and Bryan Gee. Next up: The Jazz Cafe, London on Sun 30 Aug.
 
@@ -13,7 +13,7 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets
 | Fri, 4 Sept 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 | Fri, 4 Sept 2026 | Hidden Hall | Seattle |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
-| Sat, 14 Nov 2026 | HERE | London |
+| Sat, 14 Nov 2026 | Outernet Live | London |
 
 ## Recently played
 
@@ -30,4 +30,4 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets
 
 LTJ Bukem, Grooverider, Bryan Gee
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

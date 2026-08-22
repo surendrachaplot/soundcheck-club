@@ -1,6 +1,6 @@
 # PEDRIK
 
-PEDRIK is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
+PEDRIK is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
 
 PEDRIK is a disco and house artist based in Greece, tracked on soundcheck, with 12 sets logged across Athens. Often billed alongside Major Spirit, Samm (BE) and Sunday Soulman. Next up: TBA, Athens on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ PEDRIK is a disco and house artist based in Greece, tracked on soundcheck, with 
 
 Major Spirit, Samm (BE), Sunday Soulman
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrik/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrik/)*

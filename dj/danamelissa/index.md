@@ -1,6 +1,6 @@
 # Dana Melissa
 
-Dana Melissa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Himmel und Wasser, Vienna on Sat, 22 Aug 2026.
+Dana Melissa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Himmel und Wasser, Vienna on Sat, 22 Aug 2026.
 
 Dana Melissa is a techno and house artist based in Austria, tracked on soundcheck, with 44 sets logged across Amsterdam and Vienna. Often billed alongside Albin Brezlan, Huebl and Mark Michael. Next up: Himmel und Wasser, Vienna on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dana Melissa is a techno and house artist based in Austria, tracked on soundchec
 
 Albin Brezlan, Huebl, Mark Michael
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danamelissa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danamelissa/)*

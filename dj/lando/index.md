@@ -1,6 +1,6 @@
 # Lando
 
-Lando is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
+Lando is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 21 Aug 2026.
 
 Lando is an electro and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Austin, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Bongo & Pusk, Adolpho & Franky and Anek. Next up: Acud Macht NEU, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Lando is an electro and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- Acud Macht NEU, Berlin — Fri, 21 Aug 2026
 - Sameheads, Berlin — Sun, 24 May 2026
 - Club Tee Gee, Los Angeles — Thu, 8 Jan 2026
 - BORIS CLUB, Barcelona — Thu, 6 Nov 2025
@@ -19,10 +20,9 @@ Lando is an electro and house artist based in Germany, tracked on soundcheck, wi
 - Sameheads, Berlin — Wed, 10 Sept 2025
 - Zum Böhmischen Dorf, Berlin — Fri, 6 Jun 2025
 - Goya Social Club, Madrid — Thu, 5 Jun 2025
-- Audio Club, Geneva — Fri, 20 Dec 2024
 
 ## Shares bills with
 
 Bongo & Pusk, Adolpho & Franky, Anek
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lando/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lando/)*

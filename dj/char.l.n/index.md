@@ -1,14 +1,13 @@
 # Char.l.n
 
-Char.l.n is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ESC, Montreal on Thu, 20 Aug 2026.
+Char.l.n is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Montreal on Sun, 20 Sept 2026.
 
-Char.l.n is a techno and house artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside ALEX REV, Special K (CA) and Xaviera. Next up: ESC, Montreal on Thu 20 Aug.
+Char.l.n is a techno and house artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside ALEX REV, Special K (CA) and Xaviera. Next up: TBA, Montreal on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | ESC | Montreal |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 
 ## Recently played
@@ -26,4 +25,4 @@ Char.l.n is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 ALEX REV, Special K (CA), Xaviera
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/char.l.n/)*

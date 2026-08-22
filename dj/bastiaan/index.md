@@ -1,8 +1,8 @@
 # Bastiaan
 
-Bastiaan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Basing House, London on Sat, 29 Aug 2026.
+Bastiaan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Basing House, London on Sat, 29 Aug 2026.
 
-Bastiaan is a house and tech house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam, London and Prague. Often billed alongside ALTO  (UK), Kalani and Khaldera. Next up: Basing House, London on Sat 29 Aug.
+Bastiaan is a house and tech house artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam, London and Prague. Often billed alongside ALTO  (UK), Kalani and Khaldera. Next up: Basing House, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bastiaan is a house and tech house artist based in Netherlands, tracked on sound
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Basing House | London |
 | Sat, 29 Aug 2026 | Basing House | London |
+| Sat, 5 Sept 2026 | John Doe | Amsterdam |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Bastiaan is a house and tech house artist based in Netherlands, tracked on sound
 
 ALTO  (UK), Kalani, Khaldera
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiaan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastiaan/)*

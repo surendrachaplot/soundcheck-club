@@ -1,6 +1,6 @@
 # Kristin Velvet
 
-Kristin Velvet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
+Kristin Velvet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
 
 Kristin Velvet is a house and techno artist tracked on soundcheck, with 53 sets logged across Bali, Barcelona, Berlin and Cologne and 12 more. Often billed alongside Damian Lazarus, Daniel Steinberg and Frankie Flowerz. Next up: Club der Visionaere, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Kristin Velvet is a house and techno artist tracked on soundcheck, with 53 sets 
 
 Damian Lazarus, Daniel Steinberg, Frankie Flowerz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinvelvet/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinvelvet/)*

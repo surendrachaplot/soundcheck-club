@@ -1,15 +1,13 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Vespers present: Herberta, Luca Perry, Bekefi, ellzyb & Jezebelle  " on Fri, 21 Aug 2026.
+Vespers Club is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Ghouls Kiss" on Sat, 22 Aug 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including AAKAARA, Alexi Shell, Bekefi and Berwick (Live) and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including AAKAARA, Alexi Shell, Berwick (Live) and Chidera O and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Vespers present: Herberta, Luca Perry, Bekefi, ellzyb & Jezebelle   | Bekefi, Herberta, Jezebelle, Luca Perry, ellzyb |
-| Fri, 21 Aug 2026 | Vespers present: Switch Angel, Wolf Cutt, Exjaynine | Switch Angel |
 | Sat, 22 Aug 2026 | Ghouls Kiss | FrEaKyNoRiKy, LUNAx3, Princess Elf Bar, Takenbymarshall, Triff (2) |
 | Sat, 29 Aug 2026 | VEN3NO | ORFIGYAL |
 | Sun, 30 Aug 2026 | HEATED'S CARNIVAL AFTERS at VESPERS | Chidera O, MOYA_ |
@@ -21,4 +19,4 @@ Vespers Club is a music venue in London listed on soundcheck. 8 upcoming nights,
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

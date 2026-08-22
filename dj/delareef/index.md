@@ -1,6 +1,6 @@
 # De La Reef
 
-De La Reef is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+De La Reef is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
 De La Reef is a house and techno artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 2 more. Often billed alongside Alien Communications, Jos and Ste Roberts. Next up: FOLD, London on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ De La Reef is a house and techno artist tracked on soundcheck, with 63 sets logg
 
 Alien Communications, Jos, Ste Roberts
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delareef/)*

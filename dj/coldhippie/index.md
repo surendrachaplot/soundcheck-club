@@ -1,6 +1,6 @@
 # Cold Hippie
 
-Cold Hippie is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Time is the new space, Rotterdam on Sun, 30 Aug 2026.
+Cold Hippie is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Time is the new space, Rotterdam on Sun, 30 Aug 2026.
 
 Cold Hippie is a techno and breakbeat artist tracked on soundcheck, with 7 sets logged across Kualalumpur, London and Rotterdam. Often billed alongside Form Affinity, Squish and AYEGY. Next up: Time is the new space, Rotterdam on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ Cold Hippie is a techno and breakbeat artist tracked on soundcheck, with 7 sets 
 
 Form Affinity, Squish, AYEGY
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coldhippie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coldhippie/)*

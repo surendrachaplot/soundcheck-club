@@ -1,6 +1,6 @@
 # marshallkrk
 
-marshallkrk is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
+marshallkrk is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 21 Aug 2026.
 
 marshallkrk is a techno and bass artist based in Poland, tracked on soundcheck, with 4 sets logged across Krakow. Often billed alongside Ŧoxygene, Char2 and SMTHN. Next up: STK 47 WAREHOUSE, Krakow on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ marshallkrk is a techno and bass artist based in Poland, tracked on soundcheck, 
 
 ## Recently played
 
+- STK 47 WAREHOUSE, Krakow — Fri, 21 Aug 2026
 - Mashroom, Krakow — Fri, 3 Jul 2026
 - Mashroom, Krakow — Sat, 28 Mar 2026
 - Mashroom, Krakow — Sat, 21 Feb 2026
@@ -20,4 +21,4 @@ marshallkrk is a techno and bass artist based in Poland, tracked on soundcheck, 
 
 Ŧoxygene, Char2, SMTHN
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marshallkrk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marshallkrk/)*

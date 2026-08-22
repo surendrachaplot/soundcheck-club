@@ -1,14 +1,13 @@
 # Toy Room
 
-Toy Room is a music venue in Malta with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Circus" on Fri, 21 Aug 2026.
+Toy Room is a music venue in Malta with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Wild West Saturdays" on Sat, 22 Aug 2026.
 
-Toy Room is a music venue in Malta listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing.
+Toy Room is a music venue in Malta listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Circus |  |
 | Sat, 22 Aug 2026 | Wild West Saturdays |  |
 | Sun, 23 Aug 2026 | Love Night |  |
 | Mon, 24 Aug 2026 | Dolce Vita |  |
@@ -18,4 +17,4 @@ Toy Room is a music venue in Malta listed on soundcheck. 9 upcoming nights. Brow
 | Thu, 3 Sept 2026 | Kaboom Thursday |  |
 | Sat, 19 Sept 2026 | Toy Room Saturdays |  |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/toy-room/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/toy-room/)*

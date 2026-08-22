@@ -1,6 +1,6 @@
 # AWood
 
-AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
+AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
 
 AWood is a techno and house artist tracked on soundcheck, with 43 sets logged across Toronto and Vancouver. Often billed alongside Lucci (CA), DK PAU and Fizch. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ AWood is a techno and house artist tracked on soundcheck, with 43 sets logged ac
 
 Lucci (CA), DK PAU, Fizch
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*

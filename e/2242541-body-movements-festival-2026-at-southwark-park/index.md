@@ -1,6 +1,6 @@
 # Body Movements Festival 2026 at Southwark Park
 
-Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 42 acts on the bill: Amaliah, BASHKKA, Blasha & Allatt and Byron Yeates and 38 more. Preview the line-up and save it on soundcheck.
+Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 44 acts on the bill: Amaliah, BASHKKA, Blasha & Allatt and Byron Yeates and 40 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 42 acts on
 - GIDEÖN
 - Hannah Holland
 - Harietta
+- Harry Gay
 - HEZEN
 - Horse Meat Disco
 - House Gospel Choir
@@ -37,6 +38,7 @@ Body Movements Festival 2026 at Southwark Park on Sun 30 Aug, London. 42 acts on
 - Michelle Manetti
 - Mika.
 - Octo Octa
+- passer (UK)
 - Rakans
 - Romy
 - Roza Terenzi

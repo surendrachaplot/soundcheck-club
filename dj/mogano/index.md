@@ -1,6 +1,6 @@
 # Mogano
 
-Mogano is a Techno and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bünker Mataró, Barcelona on Fri, 4 Sept 2026.
+Mogano is a Techno and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bünker Mataró, Barcelona on Fri, 4 Sept 2026.
 
 Mogano is a techno and broken beat artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Hongkong and Krakow and 1 more. Often billed alongside Napakee, Nicki Black and BRAIS. Next up: Bünker Mataró, Barcelona on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Mogano is a techno and broken beat artist based in Germany, tracked on soundchec
 
 Napakee, Nicki Black, BRAIS
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mogano/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mogano/)*

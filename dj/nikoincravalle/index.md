@@ -1,6 +1,6 @@
 # NIKO INCRAVALLE
 
-NIKO INCRAVALLE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+NIKO INCRAVALLE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 NIKO INCRAVALLE is a techno and house artist tracked on soundcheck, with 23 sets logged across Berlin and Ibiza. Often billed alongside Maschine, Bisk and Kaminka Merel. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ NIKO INCRAVALLE is a techno and house artist tracked on soundcheck, with 23 sets
 
 Maschine, Bisk, Kaminka Merel
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoincravalle/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoincravalle/)*

@@ -1,6 +1,6 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+TRIPTYKH is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 45 sets logged across Antwerp, Auckland, Austin and Barcelona and 26 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 
 Aiden (DE), Kobosil, Ornella
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

@@ -1,14 +1,15 @@
 # Brizas
 
-Brizas is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
+Brizas is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
 
-Brizas is a house and deep house artist based in Guatemala, tracked on soundcheck, with 58 sets logged across Barcelona and Berlin. Often billed alongside MAF, Derovio and Lupe Republic. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 30 Aug.
+Brizas is a house and deep house artist based in Guatemala, tracked on soundcheck, with 59 sets logged across Barcelona and Berlin. Often billed alongside MAF, Derovio and Lupe Republic. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
+| Wed, 9 Sept 2026 | Macarena Club | Barcelona |
 | Thu, 24 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 8 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
@@ -27,4 +28,4 @@ Brizas is a house and deep house artist based in Guatemala, tracked on soundchec
 
 MAF, Derovio, Lupe Republic
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brizas/)*

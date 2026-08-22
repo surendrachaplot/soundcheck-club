@@ -1,8 +1,8 @@
 # 999999999
 
-999999999 is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+999999999 is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
-999999999 is a techno and house artist tracked on soundcheck, with 280 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
+999999999 is a techno and house artist tracked on soundcheck, with 281 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
+| Sat, 5 Sept 2026 | Radius | Chicago |
 | Sun, 6 Sept 2026 | Beach House San Diego | San Diego |
 | Fri, 11 Sept 2026 | TBA | Brussels |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Fri, 18 Sept 2026 | Index | Dublin |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
-| Sat, 26 Sept 2026 | TBA | Vancouver |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Nico Moreno
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

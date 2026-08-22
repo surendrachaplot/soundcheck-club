@@ -1,6 +1,6 @@
 # Steven Shade
 
-Steven Shade is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Steven Shade is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
 
 Steven Shade is a techno and tech house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 1 more. Often billed alongside Jayzo, Kos:mo and Specific Objects. Next up: Odonien, Cologne on Fri 21 Aug.
 
@@ -14,6 +14,7 @@ Steven Shade is a techno and tech house artist based in Germany, tracked on soun
 
 ## Recently played
 
+- Odonien, Cologne — Fri, 21 Aug 2026
 - Baalsaal, Hamburg — Fri, 14 Aug 2026
 - De Fik Garden, Amsterdam — Sat, 1 Aug 2026
 - Tanzhaus West, Frankfurt — Fri, 24 Jul 2026
@@ -21,10 +22,9 @@ Steven Shade is a techno and tech house artist based in Germany, tracked on soun
 - Baalsaal, Hamburg — Fri, 19 Jun 2026
 - ÆDEN, Berlin — Wed, 17 Jun 2026
 - Baalsaal, Hamburg — Fri, 29 May 2026
-- Baalsaal, Hamburg — Fri, 15 May 2026
 
 ## Shares bills with
 
 Jayzo, Kos:mo, Specific Objects
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenshade/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenshade/)*

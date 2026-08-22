@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Latin SK8 feat. Chiqui B & VAIINA: Earthquake Relief Charity Night for Colombia & Venezuela" on Thu, 20 Aug 2026.
+Xanadu is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Latin SK8 feat. Chiqui B & VAIINA: Earthquake Relief Charity Night for Colombia & Venezuela" on Thu, 20 Aug 2026.
 
 Xanadu is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Andrew Lenox, ANICHE, Bustin' Loose and David Paglia and 2 more. Browse upcoming dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Xanadu is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights,
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

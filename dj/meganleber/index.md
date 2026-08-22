@@ -1,6 +1,6 @@
 # Megan Leber
 
-Megan Leber is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
+Megan Leber is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Megan Leber is a techno and house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Speedy J, Colin Benders and JakoJako. Next up: ISOamsterdam, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Megan Leber is a techno and house artist based in Netherlands, tracked on soundc
 
 Speedy J, Colin Benders, JakoJako
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meganleber/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meganleber/)*

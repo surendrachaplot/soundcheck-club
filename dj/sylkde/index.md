@@ -1,6 +1,6 @@
 # SYLK (DE)
 
-SYLK (DE) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
+SYLK (DE) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
 
 SYLK (DE) is a techno and electro artist tracked on soundcheck, with 23 sets logged across Berlin and Munich. Often billed alongside rbmk, gonzo MDF and Arcann. Next up: Hoppetosse, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ SYLK (DE) is a techno and electro artist tracked on soundcheck, with 23 sets log
 
 ## Recently played
 
+- Hoppetosse, Berlin — Fri, 21 Aug 2026
 - Rote Sonne, Munich — Fri, 14 Aug 2026
 - Rote Sonne, Munich — Sun, 5 Apr 2026
 - Unter Deck, Munich — Sat, 27 Dec 2025
@@ -19,10 +20,9 @@ SYLK (DE) is a techno and electro artist tracked on soundcheck, with 23 sets log
 - Rote Sonne, Munich — Fri, 21 Feb 2025
 - Unter Deck, Munich — Sat, 25 Jan 2025
 - Rote Sonne, Munich — Tue, 31 Dec 2024
-- Lieberscholli, Munich — Fri, 20 Dec 2024
 
 ## Shares bills with
 
 rbmk, gonzo MDF, Arcann
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sylkde/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sylkde/)*

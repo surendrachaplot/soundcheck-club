@@ -1,26 +1,28 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, New York City on Fri, 21 Aug 2026.
+RUZE is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hornblower Spirit, San Francisco/Oakland on Sat, 22 Aug 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Elsewhere, Newyorkcity on Fri 21 Aug.
+RUZE is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Hornblower Spirit, Sanfrancisco on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Elsewhere | New York City |
 | Sat, 22 Aug 2026 | Hornblower Spirit | San Francisco/Oakland |
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | FORGE | Sheffield |
 | Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
+| Fri, 25 Sept 2026 | World Headquarters | Newcastle |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Marcfait | Amsterdam |
+| Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 21 Aug 2026
 - UNLOCKED, London — Thu, 16 Jul 2026
 - Cova Santa, Ibiza — Tue, 14 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
@@ -28,10 +30,9 @@ RUZE is a house and tech house artist tracked on soundcheck, with 115 sets logge
 - Club Space Miami, Miami — Fri, 19 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
 - W Barcelona, Barcelona — Sun, 14 Jun 2026
-- Chinois Ibiza, Ibiza — Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

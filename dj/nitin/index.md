@@ -1,6 +1,6 @@
 # Nitin
 
-Nitin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bambi's, Toronto on Sat, 22 Aug 2026.
+Nitin is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bambi's, Toronto on Sat, 22 Aug 2026.
 
 Nitin is a house and tech house artist based in Canada, tracked on soundcheck, with 37 sets logged across Detroit, Losangeles, Miami and Montreal and 3 more. Often billed alongside Kenny Glasgow, Steingold and butr. Next up: Bambi's, Toronto on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nitin is a house and tech house artist based in Canada, tracked on soundcheck, w
 
 Kenny Glasgow, Steingold, butr
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitin/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitin/)*

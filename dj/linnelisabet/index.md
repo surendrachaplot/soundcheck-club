@@ -1,6 +1,6 @@
 # Linn Elisabet
 
-Linn Elisabet is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Crack Bellmer, Berlin on Fri, 21 Aug 2026.
+Linn Elisabet is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Crack Bellmer, Berlin on Fri, 21 Aug 2026.
 
 Linn Elisabet is a techno and industrial artist based in Sweden, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Lyon and Milan and 6 more. Often billed alongside Tommy Four Seven, Franz Bush and SYNN. Next up: Crack Bellmer, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Linn Elisabet is a techno and industrial artist based in Sweden, tracked on soun
 
 ## Recently played
 
+- Crack Bellmer, Berlin — Fri, 21 Aug 2026
 - Fitzroy, Berlin — Fri, 17 Jul 2026
 - Renate, Berlin — Fri, 13 Mar 2026
 - Bike Jesus, Prague — Fri, 20 Feb 2026
@@ -19,10 +20,9 @@ Linn Elisabet is a techno and industrial artist based in Sweden, tracked on soun
 - RSO.BERLIN, Berlin — Fri, 3 Oct 2025
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 31 Jul 2025
 - Warehouse Elementenstraat, Amsterdam — Sat, 19 Oct 2024
-- RADION, Amsterdam — Sat, 10 Aug 2024
 
 ## Shares bills with
 
 Tommy Four Seven, Franz Bush, SYNN
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linnelisabet/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linnelisabet/)*

@@ -1,6 +1,6 @@
 # CBABY
 
-CBABY is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
+CBABY is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
 
 CBABY is a hardcore and gabber artist tracked on soundcheck, with 19 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Wor Lass, FOULMOUTH and Princess Elf Bar. Next up: The DBA, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ CBABY is a hardcore and gabber artist tracked on soundcheck, with 19 sets logged
 
 Wor Lass, FOULMOUTH, Princess Elf Bar
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cbaby/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cbaby/)*

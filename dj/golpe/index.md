@@ -1,8 +1,8 @@
 # Golpe
 
-Golpe is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
+Golpe is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Das Werk, Vienna on Fri, 28 Aug 2026.
 
-Golpe is a techno and industrial artist based in Czech Republic, tracked on soundcheck, with 33 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 10 more. Often billed alongside RiVid, ViperXXL and 2NDRA. Next up: Das Werk, Vienna on Fri 28 Aug.
+Golpe is a techno and industrial artist based in Czech Republic, tracked on soundcheck, with 34 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 10 more. Often billed alongside RiVid, ViperXXL and 2NDRA. Next up: Das Werk, Vienna on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Golpe is a techno and industrial artist based in Czech Republic, tracked on soun
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Das Werk | Vienna |
 | Sat, 29 Aug 2026 | Sky Lounge 360 | Prague |
+| Thu, 3 Sept 2026 | TBA - Skate Plaza Vltavská | Prague |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Golpe is a techno and industrial artist based in Czech Republic, tracked on soun
 
 RiVid, ViperXXL, 2NDRA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

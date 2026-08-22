@@ -1,6 +1,6 @@
 # Otto Wagner Areal
 
-Otto Wagner Areal is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Parken 2026_01" on Sat, 29 Aug 2026.
+Otto Wagner Areal is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Parken 2026_01" on Sat, 29 Aug 2026.
 
 Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Baby Vulture, FEELX, Francesco Corvi and House of Skin. Browse upcoming dates, start times and who's playing. Baumgartner Höhe 1, 1140 Wien.
 
@@ -14,4 +14,4 @@ Otto Wagner Areal is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Baumgartner Höhe 1, 1140 Wien, Vienna
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/otto-wagner-areal/)*

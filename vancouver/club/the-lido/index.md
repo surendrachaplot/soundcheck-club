@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Indoor Music with D.DEE and lb" on Sat, 22 Aug 2026.
+The Lido is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Indoor Music with D.DEE and lb" on Sat, 22 Aug 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, with line-ups including DJ D.Dee, Parmis, Pender Street Steppers and Roxy Motorola and 1 more. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -16,4 +16,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, 
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

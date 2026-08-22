@@ -1,6 +1,6 @@
 # SVR101
 
-SVR101 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Atno, Budapest on Sat, 22 Aug 2026.
+SVR101 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Atno, Budapest on Sat, 22 Aug 2026.
 
 SVR101 is an electro and house artist tracked on soundcheck, with 15 sets logged across Budapest. Often billed alongside Klayman, Vatsanah and Max Sinclair. Next up: Atno, Budapest on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ SVR101 is an electro and house artist tracked on soundcheck, with 15 sets logged
 
 Klayman, Vatsanah, Max Sinclair
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svr101/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svr101/)*

@@ -1,6 +1,6 @@
 # Malika Mahmoud
 
-Malika Mahmoud is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
+Malika Mahmoud is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
 
 Malika Mahmoud is a techno and bass artist tracked on soundcheck, with 15 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside Atusa, Muskila and Prof. Stranger. Next up: Poolen, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Malika Mahmoud is a techno and bass artist tracked on soundcheck, with 15 sets l
 
 Atusa, Muskila, Prof. Stranger
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malikamahmoud/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malikamahmoud/)*

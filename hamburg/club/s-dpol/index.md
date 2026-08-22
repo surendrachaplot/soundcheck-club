@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "unceen x Res Nullius with L.zwo" on Fri, 21 Aug 2026.
+Südpol is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "unceen x Res Nullius with L.zwo" on Fri, 21 Aug 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including A.B.U., Aexhy, AGY3NA and Ani con Gas and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -22,4 +22,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, wit
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

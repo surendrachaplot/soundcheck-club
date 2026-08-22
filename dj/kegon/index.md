@@ -1,6 +1,6 @@
 # kegøn
 
-kegøn is a Hip-Hop and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at WWW, Tokyo on Wed, 26 Aug 2026.
+kegøn is a Hip-Hop and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at WWW, Tokyo on Wed, 26 Aug 2026.
 
 kegøn is a hip-hop and pop artist based in Japan, tracked on soundcheck, with 18 sets logged across Seoul and Tokyo. Often billed alongside WAGAHAI IS NEKO, CLAIR (BAI) and Number Collector. Next up: WWW, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ kegøn is a hip-hop and pop artist based in Japan, tracked on soundcheck, with 1
 
 WAGAHAI IS NEKO, CLAIR (BAI), Number Collector
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kegon/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kegon/)*

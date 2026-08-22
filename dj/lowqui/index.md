@@ -1,14 +1,14 @@
 # LowQui
 
-LowQui is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at HERE, London on Sat, 26 Sept 2026.
+LowQui is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
-LowQui is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Bali, Birmingham, Brighton and Bristol and 10 more. Often billed alongside S.P.Y, Carasel and Black Sun Empire. Next up: HERE, London on Sat 26 Sept.
+LowQui is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Bali, Birmingham, Brighton and Bristol and 10 more. Often billed alongside S.P.Y, Carasel and Black Sun Empire. Next up: Outernet Live, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | HERE | London |
+| Sat, 26 Sept 2026 | Outernet Live | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ LowQui is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 S.P.Y, Carasel, Black Sun Empire
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowqui/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowqui/)*

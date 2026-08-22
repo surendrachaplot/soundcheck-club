@@ -1,6 +1,6 @@
 # Ruslan
 
-Ruslan is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
+Ruslan is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ESC, Montreal on Sun, 30 Aug 2026.
 
 Ruslan is a house and electro artist tracked on soundcheck, with 5 sets logged across Montreal and Newyorkcity. Often billed alongside Maksim, Ohm Hourani and Akufen. Next up: ESC, Montreal on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Ruslan is a house and electro artist tracked on soundcheck, with 5 sets logged a
 
 Maksim, Ohm Hourani, Akufen
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruslan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruslan/)*

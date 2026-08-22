@@ -1,6 +1,6 @@
 # Lasse
 
-Lasse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at nachbar, Amsterdam on Sat, 22 Aug 2026.
+Lasse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at nachbar, Amsterdam on Sat, 22 Aug 2026.
 
 Lasse is a house and techno artist based in Netherlands, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Lasse Top, Flits and Isaiah (NL). Next up: nachbar, Amsterdam on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Lasse is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Lasse Top, Flits, Isaiah (NL)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lasse/)*

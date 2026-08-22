@@ -1,6 +1,6 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Thuishaven, Amsterdam on Sun, 6 Sept 2026.
+Rich NXT is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Thuishaven, Amsterdam on Sun, 6 Sept 2026.
 
 Rich NXT is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 28 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: Thuishaven, Amsterdam on Sun 6 Sept.
 
@@ -29,4 +29,4 @@ Rich NXT is a house and tech house artist tracked on soundcheck, with 105 sets l
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

@@ -1,6 +1,6 @@
 # The Send Off with Double Take Discs + Friends at Process PDX
 
-The Send Off with Double Take Discs + Friends at Process PDX on Thu 27 Aug, Portland. 4 acts on the bill: Ana Sia, Hej Fund, Sol Elicio and TACIT (2). House and Bass. Preview the line-up and save it on soundcheck.
+The Send Off with Double Take Discs + Friends at Process PDX on Thu 27 Aug, Portland. 5 acts on the bill: Ana Sia, b3xtac33, Hej Fund and Sol Elicio and 1 more. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ The Send Off with Double Take Discs + Friends at Process PDX on Thu 27 Aug, Port
 ## Line-up
 
 - Ana Sia
+- b3xtac33
 - Hej Fund
 - Sol Elicio
 - TACIT (2)

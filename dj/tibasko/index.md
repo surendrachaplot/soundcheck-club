@@ -1,13 +1,14 @@
 # Tibasko
 
-Tibasko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
+Tibasko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 23 Aug 2026.
 
-Tibasko is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Aberdeen, Amsterdam, Bristol and Chicago and 15 more. Often billed alongside Bklava, Elderbrook and Fliss Mayo. Next up: The Dutch Master, London on Sat 5 Sept.
+Tibasko is a house and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Aberdeen, Amsterdam, Bristol and Chicago and 15 more. Often billed alongside Bklava, Elderbrook and Fliss Mayo. Next up: Vittoria Wharf Studio, London on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | Vittoria Wharf Studio | London |
 | Sat, 5 Sept 2026 | The Dutch Master | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tibasko is a house and techno artist based in United Kingdom, tracked on soundch
 
 Bklava, Elderbrook, Fliss Mayo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tibasko/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tibasko/)*

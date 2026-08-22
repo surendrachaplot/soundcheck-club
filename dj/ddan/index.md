@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+D.Dan is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

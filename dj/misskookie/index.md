@@ -1,6 +1,6 @@
 # miss kookie
 
-miss kookie is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Laska V21, Riga on Fri, 11 Sept 2026.
+miss kookie is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Laska V21, Riga on Fri, 11 Sept 2026.
 
 miss kookie is a techno and electro artist tracked on soundcheck, with 11 sets logged across Riga. Often billed alongside Freiya March, Pulss and Garjane. Next up: Laska V21, Riga on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ miss kookie is a techno and electro artist tracked on soundcheck, with 11 sets l
 
 Freiya March, Pulss, Garjane
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misskookie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misskookie/)*

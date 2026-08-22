@@ -1,6 +1,6 @@
-# Buttheads Label Party with Luisa, Marlon Clark, Shjva Temple Rat (live) and Martin Gilleshøj at TBA - secret location
+# Buttheads Label Party with Luisa, Marlon Clark, Shjva, Temple Rat (live) and Martin Gilleshøj at TBA - secret location
 
-Buttheads Label Party with Luisa, Marlon Clark, Shjva Temple Rat (live) and Martin Gilleshøj at TBA - secret location on Fri 11 Sept, Copenhagen. 5 acts on the bill: Luisa, Marlon Clark, Martin Gilleshøj and Shjva and 1 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Buttheads Label Party with Luisa, Marlon Clark, Shjva, Temple Rat (live) and Martin Gilleshøj at TBA - secret location on Fri 11 Sept, Copenhagen. 5 acts on the bill: Luisa, Marlon Clark, Martin Gilleshøj and Shjva and 1 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

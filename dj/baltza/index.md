@@ -1,8 +1,8 @@
 # Baltza
 
-Baltza is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Culture Box, Copenhagen on Sat, 22 Aug 2026.
+Baltza is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Culture Box, Copenhagen on Sat, 22 Aug 2026.
 
-Baltza is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin and Copenhagen. Often billed alongside Dgeral, Lucky Lube and DJ Nah Care. Next up: Culture Box, Copenhagen on Sat 22 Aug.
+Baltza is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin and Copenhagen. Often billed alongside Lucky Lube, Dgeral and DJ Woo Girl. Next up: Culture Box, Copenhagen on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Baltza is a house and techno artist tracked on soundcheck, with 32 sets logged a
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Culture Box | Copenhagen |
 | Fri, 28 Aug 2026 | Kater | Berlin |
+| Fri, 4 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Baltza is a house and techno artist tracked on soundcheck, with 32 sets logged a
 
 ## Shares bills with
 
-Dgeral, Lucky Lube, DJ Nah Care
+Lucky Lube, Dgeral, DJ Woo Girl
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baltza/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baltza/)*

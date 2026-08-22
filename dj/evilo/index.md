@@ -1,6 +1,6 @@
 # Evilo
 
-Evilo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
+Evilo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Mon, 24 Aug 2026.
 
 Evilo is a techno and trance artist tracked on soundcheck, with 25 sets logged across Berlin and Newyorkcity. Often billed alongside ciringe, Cyb3r Bull and Xana 101. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ Evilo is a techno and trance artist tracked on soundcheck, with 25 sets logged a
 
 ciringe, Cyb3r Bull, Xana 101
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilo/)*

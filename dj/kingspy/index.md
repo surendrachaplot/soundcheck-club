@@ -1,6 +1,6 @@
 # KINGSPY
 
-KINGSPY is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 22 Aug 2026.
+KINGSPY is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 22 Aug 2026.
 
 KINGSPY is a house and club artist based in United States of America, tracked on soundcheck, with 5 sets logged across Philadelphia. Often billed alongside Foxy Nora, DJ Dommis and DJ Matpat. Next up: Margolis Music Lounge, Philadelphia on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ KINGSPY is a house and club artist based in United States of America, tracked on
 
 Foxy Nora, DJ Dommis, DJ Matpat
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingspy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingspy/)*

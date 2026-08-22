@@ -1,6 +1,6 @@
 # Jalex
 
-Jalex is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
+Jalex is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
 
 Jalex is a techno and hardcore artist based in Italy, tracked on soundcheck, with 36 sets logged across Lisbon and Rome. Often billed alongside Carlo Ciferni, DOCET and Gabriele De Maria. Next up: Spazio Cavea, Rome on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jalex is a techno and hardcore artist based in Italy, tracked on soundcheck, wit
 
 Carlo Ciferni, DOCET, Gabriele De Maria
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalex/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalex/)*

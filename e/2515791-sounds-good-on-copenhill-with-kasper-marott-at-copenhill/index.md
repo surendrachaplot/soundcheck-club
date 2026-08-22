@@ -1,6 +1,6 @@
 # Sounds Good on Copenhill with Kasper Marott at Copenhill
 
-Sounds Good on Copenhill with Kasper Marott on Fri 18 Sept, Copenhagen. 5 acts on the bill: Arto (2), Kasper Marott, Max Finney and Miss Puppy and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Sounds Good on Copenhill with Kasper Marott on Fri 18 Sept, Copenhagen. 5 acts on the bill: Arto (2), Kasper Marott, Max Finney and Miss Puppy and 1 more. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

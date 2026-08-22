@@ -1,6 +1,6 @@
 # DJ Macid
 
-DJ Macid is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at MODULE, Copenhagen on Sat, 29 Aug 2026.
+DJ Macid is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at MODULE, Copenhagen on Sat, 29 Aug 2026.
 
 DJ Macid is a trance and techno artist tracked on soundcheck, with 16 sets logged across Copenhagen. Often billed alongside DJ Void, Holysss and Karl August. Next up: MODULE, Copenhagen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Macid is a trance and techno artist tracked on soundcheck, with 16 sets logge
 
 DJ Void, Holysss, Karl August
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacid/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacid/)*

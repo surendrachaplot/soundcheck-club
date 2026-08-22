@@ -1,6 +1,6 @@
 # Flo Pirke
 
-Flo Pirke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Golden Gate, Berlin on Sat, 22 Aug 2026.
+Flo Pirke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Gate, Berlin on Sat, 22 Aug 2026.
 
 Flo Pirke is a house and techno artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin and Hamburg. Often billed alongside Coco, Bee Lincoln and Empro. Next up: Golden Gate, Berlin on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Flo Pirke is a house and techno artist tracked on soundcheck, with 29 sets logge
 
 Coco, Bee Lincoln, Empro
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*

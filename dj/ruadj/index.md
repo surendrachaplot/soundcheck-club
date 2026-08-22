@@ -1,6 +1,6 @@
 # RUA DJ
 
-RUA DJ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, London on Fri, 18 Sept 2026.
+RUA DJ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, London on Fri, 18 Sept 2026.
 
 RUA DJ is a techno and house artist tracked on soundcheck, with 14 sets logged across Edinburgh, Glasgow, London and Manchester. Often billed alongside FITS ME FUNNY, Mixfits (2) and EMROSE. Next up: TBA, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ RUA DJ is a techno and house artist tracked on soundcheck, with 14 sets logged a
 
 FITS ME FUNNY, Mixfits (2), EMROSE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruadj/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruadj/)*

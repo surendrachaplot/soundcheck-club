@@ -1,14 +1,15 @@
 # Fatman D
 
-Fatman D is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Fatman D is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Fatman D is a drum & bass and jungle artist tracked on soundcheck, with 25 sets logged across Bangkok, Birmingham, Bristol and Hamburg and 7 more. Often billed alongside Nicky Blackmarket, Carasel and Inja. Next up: Sawmills, Bristol on Sat 12 Sept.
+Fatman D is a drum & bass and jungle artist tracked on soundcheck, with 26 sets logged across Bangkok, Birmingham, Bristol and Hamburg and 7 more. Often billed alongside Nicky Blackmarket, Carasel and Inja. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
+| Sat, 26 Sept 2026 | Fire | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fatman D is a drum & bass and jungle artist tracked on soundcheck, with 25 sets 
 
 Nicky Blackmarket, Carasel, Inja
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmand/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmand/)*

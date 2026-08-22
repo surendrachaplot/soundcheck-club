@@ -1,14 +1,15 @@
 # Airaboi
 
-Airaboi is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
+Airaboi is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 22 Aug 2026.
 
-Airaboi is a club and electro artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Luca Elsi, Cosmic Cherry and DJ Subaru. Next up: arkaoda Berlin, Berlin on Sat 22 Aug.
+Airaboi is an experimental and club artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Luca Elsi, Cosmic Cherry and DJ Subaru. Next up: arkaoda Berlin, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | arkaoda Berlin | Berlin |
+| Wed, 2 Sept 2026 | Giri | Berlin |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ Airaboi is a club and electro artist tracked on soundcheck, with 4 sets logged a
 
 Luca Elsi, Cosmic Cherry, DJ Subaru
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airaboi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airaboi/)*

@@ -1,6 +1,6 @@
 # Stessie Tfgn
 
-Stessie Tfgn is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Czech Boat, Prague on Sat, 22 Aug 2026.
+Stessie Tfgn is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Czech Boat, Prague on Sat, 22 Aug 2026.
 
 Stessie Tfgn is a tech house and house artist based in France, tracked on soundcheck, with 48 sets logged across Berlin and Prague. Often billed alongside Lucas Hulan, Schneider Lounge and Dona. Next up: Czech Boat, Prague on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Stessie Tfgn is a tech house and house artist based in France, tracked on soundc
 
 Lucas Hulan, Schneider Lounge, Dona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stessietfgn/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stessietfgn/)*

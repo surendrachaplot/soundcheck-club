@@ -1,6 +1,6 @@
 # Mees Salomé
 
-Mees Salomé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Colorado Charlie, The Hague on Sat, 29 Aug 2026.
+Mees Salomé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Colorado Charlie, The Hague on Sat, 29 Aug 2026.
 
 Mees Salomé is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Ibiza and 8 more. Often billed alongside Benny Rodrigues, Miss Melera and Rose Ringed. Next up: Colorado Charlie, Thehague on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Mees Salomé is a techno and house artist tracked on soundcheck, with 65 sets lo
 
 Benny Rodrigues, Miss Melera, Rose Ringed
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meessalome/)*

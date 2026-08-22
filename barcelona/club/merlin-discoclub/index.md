@@ -1,6 +1,6 @@
 # Merlin Discoclub
 
-Merlin Discoclub is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Shatta Dancehall" on Sat, 29 Aug 2026.
+Merlin Discoclub is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Shatta Dancehall" on Sat, 29 Aug 2026.
 
 Merlin Discoclub is a music venue in Barcelona listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer de la Diputació, 233, Eixample, 08007 Barcelona.
 
@@ -16,4 +16,4 @@ Merlin Discoclub is a music venue in Barcelona listed on soundcheck. 3 upcoming 
 
 Carrer de la Diputació, 233, Eixample, 08007 Barcelona, Barcelona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/merlin-discoclub/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/merlin-discoclub/)*

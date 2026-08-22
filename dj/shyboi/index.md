@@ -1,16 +1,18 @@
 # Shyboi
 
-Shyboi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Green Room NYC, New York City on Sat, 29 Aug 2026.
+Shyboi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Green Room NYC, New York City on Sat, 29 Aug 2026.
 
-Shyboi is a techno and house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Juliana Huxtable, Junior M (US) and MORENXXX. Next up: Green Room NYC, Newyorkcity on Sat 29 Aug.
+Shyboi is a techno and house artist based in United States of America, tracked on soundcheck, with 127 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Juliana Huxtable, Junior M (US) and MORENXXX. Next up: Green Room NYC, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Green Room NYC | New York City |
+| Fri, 11 Sept 2026 | H0L0 | New York City |
 | Sat, 12 Sept 2026 | Signal | New York City |
 | Sat, 26 Sept 2026 | Paragon | New York City |
+| Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Shyboi is a techno and house artist based in United States of America, tracked o
 
 Juliana Huxtable, Junior M (US), MORENXXX
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyboi/)*

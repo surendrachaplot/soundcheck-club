@@ -1,6 +1,6 @@
 # Fercho salazar
 
-Fercho salazar is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Casa Amante Club, Madrid on Fri, 21 Aug 2026.
+Fercho salazar is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Casa Amante Club, Madrid on Fri, 21 Aug 2026.
 
 Fercho salazar is a progressive house and house artist based in Costa Rica, tracked on soundcheck, with 6 sets logged across Budapest, Frankfurt, Hamburg and Madrid. Often billed alongside Andreas Henneberg, Animal Print and Calypsis. Next up: Casa Amante Club, Madrid on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Fercho salazar is a progressive house and house artist based in Costa Rica, trac
 
 ## Recently played
 
+- Casa Amante Club, Madrid — Fri, 21 Aug 2026
 - Fundbureau, Hamburg — Fri, 14 Aug 2026
 - Pracht, Frankfurt — Fri, 7 Aug 2026
 - Sala El Sol, Madrid — Fri, 31 Jul 2026
@@ -22,4 +23,4 @@ Fercho salazar is a progressive house and house artist based in Costa Rica, trac
 
 Andreas Henneberg, Animal Print, Calypsis
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferchosalazar/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferchosalazar/)*

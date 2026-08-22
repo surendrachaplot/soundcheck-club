@@ -1,6 +1,6 @@
 # Jesse James
 
-Jesse James is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
+Jesse James is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
 Jesse James is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Detroit, London and Munich and 2 more. Often billed alongside Shenin Amara, DJ S (UK) and Jerome Six. Next up: Studio 338, London on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Jesse James is a house and deep house artist based in United Kingdom, tracked on
 
 Shenin Amara, DJ S (UK), Jerome Six
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessejames/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessejames/)*

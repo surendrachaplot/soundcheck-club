@@ -1,6 +1,6 @@
 # Clicklounge
 
-Clicklounge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at B2 Rīga, Riga on Fri, 4 Sept 2026.
+Clicklounge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at B2 Rīga, Riga on Fri, 4 Sept 2026.
 
 Clicklounge is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Budapest, Lisbon and London and 5 more. Often billed alongside Tadas Quazar, FFAN and Richii. Next up: B2 Rīga, Riga on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Clicklounge is a house and techno artist tracked on soundcheck, with 13 sets log
 
 Tadas Quazar, FFAN, Richii
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clicklounge/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clicklounge/)*

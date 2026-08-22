@@ -1,6 +1,6 @@
 # The Nightbus
 
-The Nightbus is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 22 Aug 2026.
+The Nightbus is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat, 22 Aug 2026.
 
 The Nightbus is a club and bass artist tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside DJ Trade Trainer, ADAM MUNNINGS and AUCO. Next up: Kolonnadenhof der Museumsinsel Berlin, Berlin on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ The Nightbus is a club and bass artist tracked on soundcheck, with 6 sets logged
 
 DJ Trade Trainer, ADAM MUNNINGS, AUCO
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenightbus/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thenightbus/)*

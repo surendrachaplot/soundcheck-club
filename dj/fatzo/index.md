@@ -1,6 +1,6 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at [UNVRS], Ibiza on Sat, 22 Aug 2026.
+Fatzo is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at [UNVRS], Ibiza on Sat, 22 Aug 2026.
 
 Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: [UNVRS], Ibiza on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logg
 
 Oden, Armand Van Helden, Danny Howard
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

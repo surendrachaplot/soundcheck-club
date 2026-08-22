@@ -1,6 +1,6 @@
 # James Harcourt
 
-James Harcourt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
+James Harcourt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
 James Harcourt is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Amsterdam, London and Stockholm. Often billed alongside ALADAG, Baime and Coralie Llie. Next up: Escape, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ James Harcourt is a house and techno artist based in United Kingdom, tracked on 
 
 ALADAG, Baime, Coralie Llie
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharcourt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharcourt/)*

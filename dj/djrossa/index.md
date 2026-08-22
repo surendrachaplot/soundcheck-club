@@ -1,6 +1,6 @@
 # Rossa
 
-Rossa is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Melkweg, Amsterdam on Tue, 1 Sept 2026.
+Rossa is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Melkweg, Amsterdam on Tue, 1 Sept 2026.
 
 Rossa is a techno and drum & bass artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Belgrade and Riga. Often billed alongside Dexon, Aur3lius and Caelestis. Next up: Melkweg, Amsterdam on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Rossa is a techno and drum & bass artist tracked on soundcheck, with 26 sets log
 
 Dexon, Aur3lius, Caelestis
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrossa/)*

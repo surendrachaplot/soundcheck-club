@@ -1,6 +1,6 @@
 # FORESEER
 
-FORESEER is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Supernatural Haus, Miami on Sat, 22 Aug 2026.
+FORESEER is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Supernatural Haus, Miami on Sat, 22 Aug 2026.
 
 FORESEER is a club and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside Racci, Lady Narcisse and Pressure Point (US). Next up: Supernatural Haus, Miami on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ FORESEER is a club and techno artist based in United States of America, tracked 
 
 Racci, Lady Narcisse, Pressure Point (US)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foreseer/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foreseer/)*

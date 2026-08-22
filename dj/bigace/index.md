@@ -1,6 +1,6 @@
 # Big Ace
 
-Big Ace is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Art Club, Houston on Sat, 22 Aug 2026.
+Big Ace is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Art Club, Houston on Sat, 22 Aug 2026.
 
 Big Ace is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 7 sets logged across Houston, Losangeles, Seattle and Washingtondc. Often billed alongside HYPERFEMME, DJ Slugo and Morgan Morgan. Next up: Art Club, Houston on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Big Ace is a club and ghetto tech artist based in United States of America, trac
 
 HYPERFEMME, DJ Slugo, Morgan Morgan
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigace/)*

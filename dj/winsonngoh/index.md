@@ -1,8 +1,8 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Völklingen Ironworks, Berlin on Sat, 22 Aug 2026.
+Winson Ngoh is a Techno and Industrial artist with 15 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Völklingen Ironworks, Berlin on Sat, 22 Aug 2026.
 
-Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 15 more. Often billed alongside Fantasm, KLOFAMA and KUKO. Next up: Völklingen Ironworks, Berlin on Sat 22 Aug.
+Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside KUKO, Winson and Fantasm. Next up: Völklingen Ironworks, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -14,10 +14,12 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 25 set
 | Sat, 29 Aug 2026 | Dürener Badesee | Cologne |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
+| Fri, 4 Sept 2026 | Echostage | Washington DC |
+| Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
+| Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
-| Sat, 26 Sept 2026 | Gateshead International Stadium | Newcastle |
-| Sun, 11 Oct 2026 | TBA | Barcelona |
-| Sat, 17 Oct 2026 | TBA | Leipzig |
+| Fri, 18 Sept 2026 | Radius | Chicago |
+| Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
 
 ## Recently played
 
@@ -32,6 +34,6 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 25 set
 
 ## Shares bills with
 
-Fantasm, KLOFAMA, KUKO
+KUKO, Winson, Fantasm
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

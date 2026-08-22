@@ -1,6 +1,6 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
+Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
 
 Angerfist is a techno and hardcore artist tracked on soundcheck, with 65 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Alignment, Partyraiser and Trym. Next up: Eden, Ibiza on Tue 25 Aug.
 
@@ -30,4 +30,4 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 65 sets lo
 
 Alignment, Partyraiser, Trym
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

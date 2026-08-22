@@ -1,6 +1,6 @@
 # MIT (6)
 
-MIT (6) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
+MIT (6) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
 
 MIT (6) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Antwerp, Copenhagen, Rotterdam and Thehague and 1 more. Often billed alongside BLNK, BØĘRY and Cynthia Spiering. Next up: Maassilo, Rotterdam on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ MIT (6) is a techno and industrial artist based in Netherlands, tracked on sound
 
 BLNK, BØĘRY, Cynthia Spiering
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mit-6/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mit-6/)*

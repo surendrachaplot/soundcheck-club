@@ -1,6 +1,6 @@
 # Ben Repertoire
 
-Ben Repertoire is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Social, London on Sat, 7 Nov 2026.
+Ben Repertoire is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Social, London on Sat, 7 Nov 2026.
 
 Ben Repertoire is a jungle and drum & bass artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Haste, LMajor and Abby Daze. Next up: The Social, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Ben Repertoire is a jungle and drum & bass artist tracked on soundcheck, with 5 
 
 Haste, LMajor, Abby Daze
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benrepertoire/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benrepertoire/)*

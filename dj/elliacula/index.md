@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Kilomètre25, Paris on Fri, 28 Aug 2026.
+Elli Acula is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kilomètre25, Paris on Fri, 28 Aug 2026.
 
 Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Kilomètre25, Paris on Fri 28 Aug.
 
@@ -32,4 +32,4 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets log
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

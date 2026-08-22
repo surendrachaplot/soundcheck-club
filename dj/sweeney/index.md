@@ -1,6 +1,6 @@
 # Sweeney
 
-Sweeney is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
+Sweeney is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
 
 Sweeney is a house and garage artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Aberdeen, Dundee, Edinburgh and Ibiza and 1 more. Often billed alongside Sally Swan, Jardine and Tais-Toi. Next up: Ratpack Piano Bar, Edinburgh on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sweeney is a house and garage artist based in United Kingdom, tracked on soundch
 
 Sally Swan, Jardine, Tais-Toi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sweeney/)*

@@ -1,6 +1,6 @@
 # Inger Illel
 
-Inger Illel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Inger Illel is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Inger Illel is a techno and trance artist tracked on soundcheck, with 58 sets logged across Krakow, Prague, Tbilisi and Warsaw. Often billed alongside Atch22, INTT and Pink Concrete. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Inger Illel is a techno and trance artist tracked on soundcheck, with 58 sets lo
 
 Atch22, INTT, Pink Concrete
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingerillel/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingerillel/)*

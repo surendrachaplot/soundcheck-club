@@ -1,6 +1,6 @@
 # Eudoxie
 
-Eudoxie is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Low Profile Studios, London on Fri, 28 Aug 2026.
+Eudoxie is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Low Profile Studios, London on Fri, 28 Aug 2026.
 
 Eudoxie is a techno artist tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside MAXUCA, Hopeless Romantic and Lau.tastic. Next up: Low Profile Studios, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Eudoxie is a techno artist tracked on soundcheck, with 24 sets logged across Ber
 
 MAXUCA, Hopeless Romantic, Lau.tastic
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eudoxie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eudoxie/)*

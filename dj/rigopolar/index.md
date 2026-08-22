@@ -1,6 +1,6 @@
 # Rigopolar
 
-Rigopolar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Loo Loo, Mexico City on Fri, 28 Aug 2026.
+Rigopolar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Loo Loo, Mexico City on Fri, 28 Aug 2026.
 
 Rigopolar is a house and techno artist tracked on soundcheck, with 26 sets logged across Berlin, Hamburg, London and Losangeles and 6 more. Often billed alongside Discolypso Crew, Isaac Ferry and Ark3r. Next up: Loo Loo, Mexicocity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Rigopolar is a house and techno artist tracked on soundcheck, with 26 sets logge
 
 Discolypso Crew, Isaac Ferry, Ark3r
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rigopolar/)*

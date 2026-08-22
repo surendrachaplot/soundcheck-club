@@ -1,6 +1,6 @@
 # The Lower Level
 
-The Lower Level is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "MACHINA" on Sat, 29 Aug 2026.
+The Lower Level is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "MACHINA" on Sat, 29 Aug 2026.
 
 The Lower Level is a music venue in Boston listed on soundcheck. 3 upcoming nights, with line-ups including 1R.fm, AleBCostantino, DJ Bookworm and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
@@ -16,4 +16,4 @@ The Lower Level is a music venue in Boston listed on soundcheck. 3 upcoming nigh
 
 55 Bishop Allen Dr, Cambridge, MA 02139, USA, Boston
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-lower-level/)*

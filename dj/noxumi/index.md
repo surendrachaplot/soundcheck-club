@@ -1,6 +1,6 @@
 # Noxumi
 
-Noxumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
+Noxumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
 
 Noxumi is a techno and house artist based in Turkey, tracked on soundcheck, with 6 sets logged across Berlin and Leipzig. Often billed alongside Nadia Bel Air, DERICE and DIRTY YOUTH. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Noxumi is a techno and house artist based in Turkey, tracked on soundcheck, with
 
 ## Recently played
 
+- Ritter Butzke, Berlin — Fri, 21 Aug 2026
 - Prisma, Berlin — Tue, 28 Jul 2026
 - Beate Uwe, Berlin — Sat, 23 May 2026
 - Prisma, Berlin — Tue, 12 May 2026
@@ -22,4 +23,4 @@ Noxumi is a techno and house artist based in Turkey, tracked on soundcheck, with
 
 Nadia Bel Air, DERICE, DIRTY YOUTH
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*

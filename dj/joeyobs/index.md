@@ -1,6 +1,6 @@
 # Joey & OBS
 
-Joey & OBS is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
+Joey & OBS is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at fabric, London on Sun, 13 Sept 2026.
 
 Joey & OBS are a techno and deep house duo tracked on soundcheck, with 17 sets logged across London. Often billed alongside Andrea Giudice, Bachiá and Banksie. Next up: fabric, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Joey & OBS are a techno and deep house duo tracked on soundcheck, with 17 sets l
 
 Andrea Giudice, Bachiá, Banksie
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyobs/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyobs/)*

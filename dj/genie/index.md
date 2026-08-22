@@ -1,6 +1,6 @@
 # Génie
 
-Génie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
+Génie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
 
 Génie is a techno and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Glasgow and London. Often billed alongside Babyccino, DRUMA and Kairogen. Next up: The Clydesdale, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Génie is a techno and house artist based in United Kingdom, tracked on soundche
 
 Babyccino, DRUMA, Kairogen
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genie/)*

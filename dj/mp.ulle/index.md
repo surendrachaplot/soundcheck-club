@@ -1,6 +1,6 @@
 # mp.ulle
 
-mp.ulle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Conne Island, Leipzig on Sat, 22 Aug 2026.
+mp.ulle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Conne Island, Leipzig on Sat, 22 Aug 2026.
 
 mp.ulle is a house and techno artist tracked on soundcheck, with 50 sets logged across Bangkok, Berlin, Hamburg and Leipzig. Often billed alongside marengo (2), DJ G1NA R. and MIDNXGHT. Next up: Conne Island, Leipzig on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ mp.ulle is a house and techno artist tracked on soundcheck, with 50 sets logged 
 
 marengo (2), DJ G1NA R., MIDNXGHT
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mp.ulle/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mp.ulle/)*

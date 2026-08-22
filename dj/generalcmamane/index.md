@@ -1,6 +1,6 @@
 # General C'mamane
 
-General C'mamane is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
+General C'mamane is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
 
 General C'mamane is an afro house and afro tech artist based in South Africa, tracked on soundcheck, with 2 sets logged across Amsterdam and London. Often billed alongside CRUZ CTRL (3), Golden Lady and INTUIT. Next up: Parallel, Amsterdam on Fri 21 Aug.
 
@@ -11,8 +11,12 @@ General C'mamane is an afro house and afro tech artist based in South Africa, tr
 | Fri, 21 Aug 2026 | Parallel | Amsterdam |
 | Sun, 13 Sept 2026 | 93 Feet East | London |
 
+## Recently played
+
+- Parallel, Amsterdam — Fri, 21 Aug 2026
+
 ## Shares bills with
 
 CRUZ CTRL (3), Golden Lady, INTUIT
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generalcmamane/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generalcmamane/)*

@@ -1,6 +1,6 @@
 # Antoine Baiser
 
-Antoine Baiser is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+Antoine Baiser is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
 
 Antoine Baiser is a techno and electro artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside Surreal (DE), face* and Marco Baskind. Next up: Südpol, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Antoine Baiser is a techno and electro artist based in Germany, tracked on sound
 
 Surreal (DE), face*, Marco Baskind
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinebaiser/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoinebaiser/)*

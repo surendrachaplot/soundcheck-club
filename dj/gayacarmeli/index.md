@@ -1,6 +1,6 @@
 # Gaya Carmeli
 
-Gaya Carmeli is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
+Gaya Carmeli is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
 
 Gaya Carmeli is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam and Utrecht. Often billed alongside CØPTER, Alex Sharp and MIESØ. Next up: John Doe, Amsterdam on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Gaya Carmeli is a techno and industrial artist based in Netherlands, tracked on 
 
 CØPTER, Alex Sharp, MIESØ
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gayacarmeli/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gayacarmeli/)*

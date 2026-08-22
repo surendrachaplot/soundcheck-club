@@ -1,6 +1,6 @@
 # VISNEACS
 
-VISNEACS is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+VISNEACS is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 VISNEACS is a techno and club artist based in Mexico, tracked on soundcheck, with 16 sets logged across Prague. Often billed alongside DJames (2), Katrixia and AVHD. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ VISNEACS is a techno and club artist based in Mexico, tracked on soundcheck, wit
 
 ## Recently played
 
+- Altenburg 1964, Prague — Fri, 21 Aug 2026
 - Bike Jesus, Prague — Sat, 25 Jul 2026
 - Burza #4, Prague — Fri, 17 Jul 2026
 - Molekula, Prague — Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ VISNEACS is a techno and club artist based in Mexico, tracked on soundcheck, wit
 - Brix, Prague — Fri, 19 Jun 2026
 - Fuchs2, Prague — Fri, 29 May 2026
 - Husitská 22, Prague — Fri, 15 May 2026
-- Fuchs2, Prague — Thu, 14 May 2026
 
 ## Shares bills with
 
 DJames (2), Katrixia, AVHD
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*

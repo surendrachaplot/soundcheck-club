@@ -1,6 +1,6 @@
 # Guinneissik
 
-Guinneissik is a Noise and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Barfly 4, Seoul on Sat, 22 Aug 2026.
+Guinneissik is a Noise and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Barfly 4, Seoul on Sat, 22 Aug 2026.
 
 Guinneissik is a noise and trance artist based in South Korea, tracked on soundcheck, with 7 sets logged across Seoul and Tokyo. Often billed alongside DDD (2), Tabris and AEIDA. Next up: Barfly 4, Seoul on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Guinneissik is a noise and trance artist based in South Korea, tracked on soundc
 
 DDD (2), Tabris, AEIDA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guinneissik/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guinneissik/)*

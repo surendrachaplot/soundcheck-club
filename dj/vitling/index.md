@@ -1,6 +1,6 @@
 # Vitling
 
-Vitling is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
+Vitling is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
 
 Vitling is a bass and house artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Robot Girlfriend, 80HDJ and Heath Swedger. Next up: Containerhafen, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Vitling is a bass and house artist tracked on soundcheck, with 14 sets logged ac
 
 Robot Girlfriend, 80HDJ, Heath Swedger
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitling/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitling/)*

@@ -1,6 +1,6 @@
 # Camila (2)
 
-Camila (2) is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Chemist, Boston on Thu, 27 Aug 2026.
+Camila (2) is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Chemist, Boston on Thu, 27 Aug 2026.
 
 Camila (2) is a deep house and minimal techno artist tracked on soundcheck, with 6 sets logged across Boston. Often billed alongside 1R.fm, Bintokin and Chelita. Next up: The Chemist, Boston on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Camila (2) is a deep house and minimal techno artist tracked on soundcheck, with
 
 1R.fm, Bintokin, Chelita
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camila-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camila-2/)*

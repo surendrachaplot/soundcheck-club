@@ -1,6 +1,6 @@
 # Virtual Flavor
 
-Virtual Flavor is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Razzmatazz, Barcelona on Sat, 12 Sept 2026.
+Virtual Flavor is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Sat, 12 Sept 2026.
 
 Virtual Flavor is an electronic artist tracked on soundcheck, with 10 sets logged across Barcelona and Madrid. Often billed alongside DJ2D2, Kaidara and L'Miranda. Next up: Razzmatazz, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Virtual Flavor is an electronic artist tracked on soundcheck, with 10 sets logge
 
 DJ2D2, Kaidara, L'Miranda
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virtualflavor/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virtualflavor/)*

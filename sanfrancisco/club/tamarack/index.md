@@ -1,6 +1,6 @@
 # Tamarack
 
-Tamarack is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Cave Radio presents: Concrete Jungle" on Sat, 22 Aug 2026.
+Tamarack is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Cave Radio presents: Concrete Jungle" on Sat, 22 Aug 2026.
 
 Tamarack is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1501 Harrison Street Oakland CA 94612.
 
@@ -14,4 +14,4 @@ Tamarack is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night
 
 1501 Harrison Street Oakland CA 94612, San Francisco/Oakland
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tamarack/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tamarack/)*

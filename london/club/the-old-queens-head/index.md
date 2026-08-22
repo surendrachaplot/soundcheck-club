@@ -1,6 +1,6 @@
 # The Old Queens Head
 
-The Old Queens Head is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Wookie: UKG Special [BANK HOLIDAY SPECIAL]" on Fri, 28 Aug 2026.
+The Old Queens Head is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Wookie: UKG Special [BANK HOLIDAY SPECIAL]" on Fri, 28 Aug 2026.
 
 The Old Queens Head is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including DJ Q, Lovebirds and Wookie. Browse upcoming dates, start times and who's playing. 44 Essex Road; Islington; London N1 8LN; United Kingdom.
 
@@ -16,4 +16,4 @@ The Old Queens Head is a music venue in London listed on soundcheck. 3 upcoming 
 
 44 Essex Road; Islington; London N1 8LN; United Kingdom, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-queens-head/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-queens-head/)*

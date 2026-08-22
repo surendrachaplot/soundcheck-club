@@ -1,6 +1,6 @@
 # Lush Tempora
 
-Lush Tempora is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 29 Aug 2026.
+Lush Tempora is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Pier 78 at Hudson River Park, New York City on Sat, 29 Aug 2026.
 
 Lush Tempora is a techno and trance artist based in United States of America, tracked on soundcheck, with 11 sets logged across Budapest and Newyorkcity. Often billed alongside DRITTO, Arty and Bruce Wayne (US). Next up: Pier 78 at Hudson River Park, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lush Tempora is a techno and trance artist based in United States of America, tr
 
 DRITTO, Arty, Bruce Wayne (US)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lushtempora/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lushtempora/)*

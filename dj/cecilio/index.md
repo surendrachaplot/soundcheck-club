@@ -1,19 +1,19 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Night Tales, London on Fri, 21 Aug 2026.
+Cecilio is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Macadam, Nantes on Fri, 18 Sept 2026.
 
-Cecilio is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Night Tales, London on Fri 21 Aug.
+Cecilio is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Macadam, Nantes on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Night Tales | London |
 | Fri, 18 Sept 2026 | Macadam | Nantes |
 | Sat, 10 Oct 2026 | TBA - Miami | Miami |
 
 ## Recently played
 
+- Night Tales, London — Fri, 21 Aug 2026
 - MS Club, Marseille — Fri, 17 Jul 2026
 - Platforma Wolff, Bucharest — Sat, 11 Jul 2026
 - Club der Visionaere, Berlin — Sat, 4 Jul 2026
@@ -21,10 +21,9 @@ Cecilio is a house and techno artist tracked on soundcheck, with 106 sets logged
 - Le Trabendo, Paris — Sat, 30 May 2026
 - Palais, London — Sun, 24 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
-- TBA - Vesuvius Area, Naples — Sat, 2 May 2026
 
 ## Shares bills with
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

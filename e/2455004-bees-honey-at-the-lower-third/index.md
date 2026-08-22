@@ -1,6 +1,6 @@
 # bees & honey at The Lower Third
 
-bees & honey at The Lower Third on Fri 11 Sept, London. 1 act on the bill: bees & honey. House and Amapiano. Preview the line-up and save it on soundcheck.
+bees & honey at The Lower Third on Fri 11 Sept, London. 1 act on the bill: bees & honey. Pop and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

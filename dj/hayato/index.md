@@ -1,8 +1,8 @@
 # Hayato
 
-Hayato is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Modeci, Seoul on Thu, 27 Aug 2026.
+Hayato is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Modeci, Seoul on Thu, 27 Aug 2026.
 
-Hayato is a house and techno artist based in Japan, tracked on soundcheck, with 152 sets logged across London, Osaka, Seoul and Tokyo. Often billed alongside Hayato Iwaki, Sota Shimada and AMANE. Next up: Modeci, Seoul on Thu 27 Aug.
+Hayato is a house and techno artist based in Japan, tracked on soundcheck, with 153 sets logged across London, Osaka, Seoul and Tokyo. Often billed alongside Hayato Iwaki, Sota Shimada and AMANE. Next up: Modeci, Seoul on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Hayato is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
+- Koara, Tokyo — Fri, 21 Aug 2026
 - Red Bar, Tokyo — Tue, 18 Aug 2026
 - Oath, Tokyo — Tue, 28 Jul 2026
 - Enter Shibuya, Tokyo — Sat, 25 Jul 2026
@@ -19,10 +20,9 @@ Hayato is a house and techno artist based in Japan, tracked on soundcheck, with 
 - Aoyama Tunnel, Tokyo — Tue, 30 Jun 2026
 - Aoyama Tunnel, Tokyo — Mon, 15 Jun 2026
 - Red Bar, Tokyo — Tue, 9 Jun 2026
-- Oath, Tokyo — Fri, 22 May 2026
 
 ## Shares bills with
 
 Hayato Iwaki, Sota Shimada, AMANE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*

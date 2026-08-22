@@ -1,6 +1,6 @@
 # Kamyar Keramati
 
-Kamyar Keramati is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 29 Aug 2026.
+Kamyar Keramati is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 29 Aug 2026.
 
 Kamyar Keramati is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Malaga and Paris and 1 more. Often billed alongside Chicaiza, Patamamba and Dea (6). Next up: TBA - Secret Location, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kamyar Keramati is a house and techno artist tracked on soundcheck, with 31 sets
 
 Chicaiza, Patamamba, Dea (6)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamyarkeramati/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamyarkeramati/)*

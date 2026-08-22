@@ -1,6 +1,6 @@
 # Tallboy
 
-Tallboy is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Greyhound, London on Thu, 3 Sept 2026.
+Tallboy is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Greyhound, London on Thu, 3 Sept 2026.
 
 Tallboy is a jungle and garage artist tracked on soundcheck, with 24 sets logged across Cologne, Leeds, London and Manchester. Often billed alongside A.N.T, Marky V and Abby Daze. Next up: The Greyhound, London on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Tallboy is a jungle and garage artist tracked on soundcheck, with 24 sets logged
 
 A.N.T, Marky V, Abby Daze
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tallboy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tallboy/)*

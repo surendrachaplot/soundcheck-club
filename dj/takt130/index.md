@@ -1,6 +1,6 @@
 # TAKT130
 
-TAKT130 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
+TAKT130 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
 
 TAKT130 is a techno and house artist based in South Korea, tracked on soundcheck, with 44 sets logged across Berlin, Milan and Vienna. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: ://about blank, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ TAKT130 is a techno and house artist based in South Korea, tracked on soundcheck
 
 Gabrielle (DE), ATR DJ-TEAM, JOTAno
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takt130/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takt130/)*

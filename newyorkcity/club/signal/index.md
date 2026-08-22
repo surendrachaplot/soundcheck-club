@@ -1,8 +1,8 @@
 # Signal
 
-Signal is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Night & Day: Ash Lauryn, JADALAREIGN, Jay Duncan, shekdash, Donis" on Fri, 21 Aug 2026.
+Signal is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Night & Day: Ash Lauryn, JADALAREIGN, Jay Duncan, shekdash, Donis" on Fri, 21 Aug 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights,
 | Sat, 29 Aug 2026 | Luar presents: ALEXIS DE LA ROSA, MORENXXX, Sevyn Love, Bobby Beethoven, Alfonso Javier  | ALEXIS DE LA ROSA, Alfonso Javier, MORENXXX, Sevyn Love |
 | Thu, 3 Sept 2026 | Archivio presents mink, Pablo Romero & Daniel Dutts | Daniel Dutts, Pablo Romero, mink |
 | Fri, 4 Sept 2026 | Night & Day: Loidis, Enrica Falqui, Flo Massé, deep creep, J.Richards | Enrica Falqui, Flo Massé, J. Richards, Loidis, deep creep |
-| Sat, 5 Sept 2026 | Eduardo de la Calle, Bloody Mary, Grace Dahl, Cirqet | Bloody Mary, Cirqet, Eduardo de la Calle, Grace Dahl |
+| Sat, 5 Sept 2026 | Eduardo de la Calle, Bloody Mary, Grace Dahl, | Bloody Mary, Cirqet, Eduardo de la Calle, Grace Dahl |
 | Sun, 6 Sept 2026 | Higher!: Nita Aviance, Cakes Da Killa LIVE, Rush Davis, 550am | 550am, Cakes Da Killa, Nita Aviance, Rush Davis |
 | Thu, 10 Sept 2026 | Vigilante presents: Nu Zau, Amy Jor, Jeny Michelle | Amy Jor, Jeny Michelle, Nu Zau |
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

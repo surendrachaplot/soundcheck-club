@@ -1,6 +1,6 @@
 # Ainhoa G
 
-Ainhoa G is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Lucia, Vienna on Sat, 22 Aug 2026.
+Ainhoa G is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Lucia, Vienna on Sat, 22 Aug 2026.
 
 Ainhoa G is an electronic artist tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside DANBERG, Relinquo and Daniel Morgenstern. Next up: Club Lucia, Vienna on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ainhoa G is an electronic artist tracked on soundcheck, with 18 sets logged acro
 
 DANBERG, Relinquo, Daniel Morgenstern
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ainhoag/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ainhoag/)*

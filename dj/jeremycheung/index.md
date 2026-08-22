@@ -1,6 +1,6 @@
 # Jeremy Cheung
 
-Jeremy Cheung is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Social Room, Hong Kong on Sat, 22 Aug 2026.
+Jeremy Cheung is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Social Room, Hong Kong on Sat, 22 Aug 2026.
 
 Jeremy Cheung is a techno and house artist tracked on soundcheck, with 75 sets logged across Bangkok, Hongkong, Kualalumpur and Osaka and 4 more. Often billed alongside DJ Anthony2, AngeliKa and Casey Anderson. Next up: Social Room, Hongkong on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Jeremy Cheung is a techno and house artist tracked on soundcheck, with 75 sets l
 
 DJ Anthony2, AngeliKa, Casey Anderson
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycheung/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycheung/)*

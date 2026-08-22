@@ -1,6 +1,6 @@
 # andris
 
-andris is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at FLUCC, Vienna on Fri, 21 Aug 2026.
+andris is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at FLUCC, Vienna on Fri, 21 Aug 2026.
 
 andris is a techno and hardcore artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Basel, Budapest, Krakow and Vienna and 1 more. Often billed alongside Galopp, BRAINDAAMAGE and yves. Next up: FLUCC, Vienna on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ andris is a techno and hardcore artist based in Switzerland, tracked on soundche
 
 ## Recently played
 
+- FLUCC, Vienna — Fri, 21 Aug 2026
 - Supermarket, Zurich — Fri, 31 Jul 2026
 - Kraftwerk, Zurich — Fri, 3 Jul 2026
 - MÄX, Zurich — Sat, 30 May 2026
@@ -20,10 +21,9 @@ andris is a techno and hardcore artist based in Switzerland, tracked on soundche
 - Zinkbad Eventhalle, Zurich — Fri, 1 May 2026
 - Alte Kaserne, Zurich — Fri, 17 Apr 2026
 - Supermarket, Zurich — Fri, 26 Dec 2025
-- MÄX, Zurich — Sat, 13 Dec 2025
 
 ## Shares bills with
 
 Galopp, BRAINDAAMAGE, yves
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andris/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andris/)*

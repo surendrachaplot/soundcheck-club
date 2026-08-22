@@ -1,8 +1,8 @@
 # bees & honey
 
-bees & honey is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Lower Third, London on Fri, 11 Sept 2026.
+bees & honey is a Afro Tech and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Lower Third, London on Fri, 11 Sept 2026.
 
-bees & honey are a house and afro tech duo tracked on soundcheck, with 3 sets logged across Berlin, London and Madrid. Often billed alongside Benja (NL) and CAMET. Next up: The Lower Third, London on Fri 11 Sept.
+bees & honey are an afro tech and amapiano duo tracked on soundcheck, with 3 sets logged across Berlin, London and Madrid. Often billed alongside Benja (NL) and CAMET. Next up: The Lower Third, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ bees & honey are a house and afro tech duo tracked on soundcheck, with 3 sets lo
 
 Benja (NL), CAMET
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beesandhoney/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beesandhoney/)*

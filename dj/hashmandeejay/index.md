@@ -1,6 +1,6 @@
 # Hashman Deejay
 
-Hashman Deejay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+Hashman Deejay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
 Hashman Deejay is a house and techno artist tracked on soundcheck, with 31 sets logged across Austin, Berlin, Losangeles and Melbourne and 8 more. Often billed alongside PLO Man, DJ Trystero and Ben Fester. Next up: TBA, Vancouver on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Hashman Deejay is a house and techno artist tracked on soundcheck, with 31 sets 
 
 PLO Man, DJ Trystero, Ben Fester
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hashmandeejay/)*

@@ -1,6 +1,6 @@
 # Chaotic Pavilion presents HearThug at Acadana
 
-Chaotic Pavilion presents HearThug at Acadana on Fri 21 Aug, Hongkong. 2 acts on the bill: HearThug and Saint Bernard. House and Acid. Preview the line-up and save it on soundcheck.
+Chaotic Pavilion presents HearThug at Acadana on Fri 21 Aug, Hongkong. 3 acts on the bill: DJ Kirby, HearThug and Saint Bernard. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Chaotic Pavilion presents HearThug at Acadana on Fri 21 Aug, Hongkong. 2 acts on
 
 ## Line-up
 
+- DJ Kirby
 - HearThug
 - Saint Bernard
 

@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Alternative School presents: RELAY w/ Shigeto b2b Todd Modes + ameera b2b Sugar" on Fri, 28 Aug 2026.
+Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Alternative School presents: RELAY w/ Shigeto b2b Todd Modes + ameera b2b Sugar" on Fri, 28 Aug 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including The AM/AMX, DJ.K2, Aboudi Issa and Ameera and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -18,4 +18,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

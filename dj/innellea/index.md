@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Else, Berlin on Sat, 29 Aug 2026.
+Innellea is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Else, Berlin on Sat, 29 Aug 2026.
 
 Innellea is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Colyn, Mind Against and 8KAYS. Next up: Else, Berlin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Innellea is a techno and house artist tracked on soundcheck, with 139 sets logge
 
 Colyn, Mind Against, 8KAYS
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

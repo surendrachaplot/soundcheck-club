@@ -1,6 +1,6 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
+Giorgia Angiuli is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
 
 Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Lino Fuso, Cambric and Indira Paganotto. Next up: Ritter Butzke, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 66
 
 Lino Fuso, Cambric, Indira Paganotto
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

@@ -1,6 +1,6 @@
 # Arthur (US)
 
-Arthur (US) is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+Arthur (US) is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
 
 Arthur (US) is a dub and dancehall artist based in United States of America, tracked on soundcheck, with 4 sets logged across Berlin and London. Often billed alongside AceMoMA, Actress and Aho Ssan. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Arthur (US) is a dub and dancehall artist based in United States of America, tra
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
 - Bricks, London — Sat, 25 Jul 2026
 - Aktionshaus, Berlin — Sat, 7 Oct 2023
 - Kraftwerk Berlin, Berlin — Thu, 7 Sept 2023
@@ -20,4 +21,4 @@ Arthur (US) is a dub and dancehall artist based in United States of America, tra
 
 AceMoMA, Actress, Aho Ssan
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurus/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurus/)*

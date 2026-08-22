@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 25 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "AAA Fusion presents Daxson extended set plus support" on Sat, 22 Aug 2026.
+XOYO is a music venue in London with 25 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "AAA Fusion presents Daxson extended set plus support" on Sat, 22 Aug 2026.
 
 XOYO is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including Aidyscape, Aldor, Andrew Sharpe and AR (UK) and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 25 upcoming nights, with l
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

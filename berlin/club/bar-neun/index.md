@@ -1,6 +1,6 @@
 # Bar Neun
 
-Bar Neun is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Campos Sonoros" on Thu, 3 Sept 2026.
+Bar Neun is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Campos Sonoros" on Thu, 3 Sept 2026.
 
 Bar Neun is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Pücklerstraße 34, 10997 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Bar Neun is a music venue in Berlin listed on soundcheck. 1 upcoming night. Brow
 
 Pücklerstraße 34, 10997 Berlin, Germany, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bar-neun/)*

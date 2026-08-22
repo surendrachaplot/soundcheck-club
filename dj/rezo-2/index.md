@@ -1,14 +1,13 @@
 # Rezo (2)
 
-Rezo (2) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bolivar Beach Bar, Athens on Thu, 20 Aug 2026.
+Rezo (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bolivar Beach Bar, Athens on Thu, 27 Aug 2026.
 
-Rezo (2) is an electronic artist based in Greece, tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside DjSteph, Nick Devon and Miss Monique. Next up: Bolivar Beach Bar, Athens on Thu 20 Aug.
+Rezo (2) is an electronic artist based in Greece, tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside DjSteph, Nick Devon and Miss Monique. Next up: Bolivar Beach Bar, Athens on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | Bolivar Beach Bar | Athens |
 | Thu, 27 Aug 2026 | Bolivar Beach Bar | Athens |
 
 ## Recently played
@@ -26,4 +25,4 @@ Rezo (2) is an electronic artist based in Greece, tracked on soundcheck, with 19
 
 DjSteph, Nick Devon, Miss Monique
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rezo-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rezo-2/)*

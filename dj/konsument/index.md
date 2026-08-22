@@ -1,14 +1,15 @@
 # Konsument
 
-Konsument is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Humboldthain Club, Berlin on Sat, 5 Sept 2026.
+Konsument is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Humboldthain Club, Berlin on Sat, 5 Sept 2026.
 
-Konsument is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside DJ Spaßgetränk, DJ ŌVËRDRĪVÊ and NIKØ. Next up: Humboldthain Club, Berlin on Sat 5 Sept.
+Konsument is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside DJ Spaßgetränk, NIKØ and DJ ŌVËRDRĪVÊ. Next up: Humboldthain Club, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Humboldthain Club | Berlin |
+| Fri, 18 Sept 2026 | TBA - Secret location Neukölln | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Konsument is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-DJ Spaßgetränk, DJ ŌVËRDRĪVÊ, NIKØ
+DJ Spaßgetränk, NIKØ, DJ ŌVËRDRĪVÊ
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konsument/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konsument/)*

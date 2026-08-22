@@ -1,6 +1,6 @@
 # Tommy House
 
-Tommy House is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Débris, Tokyo on Sat, 22 Aug 2026.
+Tommy House is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Débris, Tokyo on Sat, 22 Aug 2026.
 
 Tommy House is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Tokyo. Often billed alongside DJ Flexure, cirra and BANANA-CHAN. Next up: Débris, Tokyo on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Tommy House is a house and techno artist based in United States of America, trac
 
 DJ Flexure, cirra, BANANA-CHAN
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhouse/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyhouse/)*

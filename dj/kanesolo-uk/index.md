@@ -1,6 +1,6 @@
 # Kane Solo
 
-Kane Solo is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
+Kane Solo is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Studio 338, London on Sat, 22 Aug 2026.
 
 Kane Solo is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across London and Malta. Often billed alongside Saf Mitchell, LUUD and Finn Eddy. Next up: Studio 338, London on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Kane Solo is a minimal and house artist based in United Kingdom, tracked on soun
 
 Saf Mitchell, LUUD, Finn Eddy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanesolo-uk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanesolo-uk/)*

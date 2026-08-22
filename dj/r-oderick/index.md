@@ -1,6 +1,6 @@
 # R-ODERICK
 
-R-ODERICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina, Toronto on Sat, 22 Aug 2026.
+R-ODERICK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina, Toronto on Sat, 22 Aug 2026.
 
 R-ODERICK is a techno and house artist based in Canada, tracked on soundcheck, with 61 sets logged across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: TBA - RAFFAELLA - 296 Brunswick Ave - Bloor/Spadina, Toronto on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ R-ODERICK is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Stashole, Venus in Foil, Adam X
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r-oderick/)*

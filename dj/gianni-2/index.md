@@ -1,6 +1,6 @@
 # GIANNI (2)
 
-GIANNI (2) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Supermarket, Zurich on Sat, 22 Aug 2026.
+GIANNI (2) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Supermarket, Zurich on Sat, 22 Aug 2026.
 
 GIANNI (2) is a techno and deep house artist tracked on soundcheck, with 6 sets logged across Zurich. Often billed alongside Patrischa, Reto Ardour and Ronny Grauer. Next up: Supermarket, Zurich on Sat 22 Aug.
 
@@ -22,4 +22,4 @@ GIANNI (2) is a techno and deep house artist tracked on soundcheck, with 6 sets 
 
 Patrischa, Reto Ardour, Ronny Grauer
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianni-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianni-2/)*

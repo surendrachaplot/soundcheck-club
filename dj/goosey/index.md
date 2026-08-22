@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Cause, London on Sun, 30 Aug 2026.
+Goosey is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sun, 30 Aug 2026.
 
 Goosey is a house and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 12 more. Often billed alongside Enzo is Burning, Manda Moor and Gaskin. Next up: The Cause, London on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Goosey is a house and tech house artist tracked on soundcheck, with 71 sets logg
 
 Enzo is Burning, Manda Moor, Gaskin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

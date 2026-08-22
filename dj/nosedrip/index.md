@@ -1,6 +1,6 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
+Nosedrip is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ruiterijcomplex, Brussels on Sat, 22 Aug 2026.
 
 Nosedrip is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside CJ Bolland, OKO DJ and Donato Dozzy. Next up: Ruiterijcomplex, Brussels on Sat 22 Aug.
 
@@ -29,4 +29,4 @@ Nosedrip is a techno and house artist tracked on soundcheck, with 124 sets logge
 
 CJ Bolland, OKO DJ, Donato Dozzy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

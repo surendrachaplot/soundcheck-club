@@ -1,6 +1,6 @@
 # Hasel (1)
 
-Hasel (1) is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at CHICO, Mexico City on Sat, 26 Sept 2026.
+Hasel (1) is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at CHICO, Mexico City on Sat, 26 Sept 2026.
 
 Hasel (1) is an electronica and downtempo artist tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside OBTA, Pog. and fka phaedra. Next up: CHICO, Mexicocity on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Hasel (1) is an electronica and downtempo artist tracked on soundcheck, with 7 s
 
 OBTA, Pog., fka phaedra
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hasel-1/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hasel-1/)*

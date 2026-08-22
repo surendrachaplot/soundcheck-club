@@ -1,8 +1,8 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HIP HOP NIGHT: DJ CARTER B2B DJ MARATHON (CLUB BANGERS ALL NIGHT)" on Sat, 22 Aug 2026.
+Big Pink is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "HIP HOP NIGHT: DJ CARTER B2B DJ MARATHON (CLUB BANGERS ALL NIGHT)" on Sat, 22 Aug 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including Botez. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including Botez. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
@@ -13,11 +13,14 @@ Big Pink is a music venue in Detroit listed on soundcheck. 7 upcoming nights, wi
 | Thu, 27 Aug 2026 | BIG STRETCH: YOGA WITH A LIVE DJ | Botez |
 | Fri, 28 Aug 2026 | CUFFING SZN: RO SPIT & COMPLETD (R&B + DANCE MUSIC) |  |
 | Sat, 29 Aug 2026 | HUMAN NATURE: MICHAEL JACKSON NIGHT (BLAAQGOLD) |  |
+| Fri, 4 Sept 2026 | PINK RODEO: BEYONCÉ NIGHT (WEAR PINK = FREE ENTRY) |  |
+| Sat, 5 Sept 2026 | VIBE CHECK: BLAKITO'S BIRTHDAY (OPEN FORMAT BANGERS) |  |
 | Sun, 6 Sept 2026 | TWERK x TEQUILA (Day Party) |  |
+| Sun, 6 Sept 2026 | HIPHOP NIGHT: DJ MOBEATZ & DJ KID MCFLY (CLUB BANGERS ALL NIGHT) |  |
 | Sat, 19 Sept 2026 | CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL |  |
 
 ## Address
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

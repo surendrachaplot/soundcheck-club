@@ -1,6 +1,6 @@
 # Hannah mit Hut
 
-Hannah mit Hut is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at FLUCC, Vienna on Sat, 22 Aug 2026.
+Hannah mit Hut is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at FLUCC, Vienna on Sat, 22 Aug 2026.
 
 Hannah mit Hut is a psytrance artist based in Austria, tracked on soundcheck, with 26 sets logged across Vienna. Often billed alongside LOUISA INDIA, Violetta (1) and Anatol. Next up: FLUCC, Vienna on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Hannah mit Hut is a psytrance artist based in Austria, tracked on soundcheck, wi
 
 LOUISA INDIA, Violetta (1), Anatol
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahmithut/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahmithut/)*

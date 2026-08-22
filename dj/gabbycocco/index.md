@@ -1,6 +1,6 @@
 # gabby cocco
 
-gabby cocco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 23 Aug 2026.
+gabby cocco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 23 Aug 2026.
 
 gabby cocco is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Mexicocity and Newyorkcity. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Sunday Sunday, Mexicocity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ gabby cocco is a house and techno artist based in United States of America, trac
 
 Chloe Battelle, James Juke, Rachel Opert
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbycocco/)*

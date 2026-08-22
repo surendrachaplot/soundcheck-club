@@ -1,6 +1,6 @@
 # Mandragora - Porto at Hard Club
 
-Mandragora - Porto at Hard Club on Sat 5 Sept, Porto. 1 act on the bill: Mandragora. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Mandragora - Porto at Hard Club on Sat 5 Sept, Porto. 1 act on the bill: Mandragora. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

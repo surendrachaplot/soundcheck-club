@@ -1,6 +1,6 @@
-# DUALISM with Paracek & SPEEDBOYS LIVE at Distillery
+# DUALISM with PARACEK & SPEEDBOYS LIVE at Distillery
 
-DUALISM with Paracek & SPEEDBOYS LIVE at Distillery on Fri 30 Oct, Leipzig. 2 acts on the bill: Paraçek and SPEEDBOYS. Trance and Techno. Preview the line-up and save it on soundcheck.
+DUALISM with PARACEK & SPEEDBOYS LIVE at Distillery on Fri 30 Oct, Leipzig. 9 acts on the bill: bertziherzi, DJ KAMMERFLIMMERN, dj twerking class and komszi*komsza and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,14 @@ DUALISM with Paracek & SPEEDBOYS LIVE at Distillery on Fri 30 Oct, Leipzig. 2 ac
 
 ## Line-up
 
+- bertziherzi
+- DJ KAMMERFLIMMERN
+- dj twerking class
+- komszi*komsza
+- LAURIX (DE)
+- Limoncello
 - Paraçek
 - SPEEDBOYS
+- Templeton
 
 *Source: [soundcheck](https://soundcheck.club/e/2370028-dualism-with-paracek-speedboys-live-at-distillery/)*

@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HEAT by UNDR - Kinky House & Techno Party" on Fri, 21 Aug 2026.
+Insomnia is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "HEAT by UNDR - Kinky House & Techno Party" on Fri, 21 Aug 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Andrea Marino, Bäggy, CosmiKat and Epicx and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 23 upcoming nights, wi
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

@@ -1,6 +1,6 @@
 # Tim Dauz
 
-Tim Dauz is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Magic Hour Rooftop Bar, New York City on Sat, 29 Aug 2026.
+Tim Dauz is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Magic Hour Rooftop Bar, New York City on Sat, 29 Aug 2026.
 
 Tim Dauz is a deep house and tech house artist tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Vans, RICK E and TORSK. Next up: Magic Hour Rooftop Bar, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Tim Dauz is a deep house and tech house artist tracked on soundcheck, with 21 se
 
 Vans, RICK E, TORSK
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timdauz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timdauz/)*

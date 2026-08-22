@@ -1,6 +1,6 @@
 # Wonderboi
 
-Wonderboi is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at 520 Alexander Street, Vancouver on Sat, 29 Aug 2026.
+Wonderboi is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 520 Alexander Street, Vancouver on Sat, 29 Aug 2026.
 
 Wonderboi is a techno and hardcore artist based in Canada, tracked on soundcheck, with 9 sets logged across Vancouver. Often billed alongside NIMAHA, Bÿständer and Sam AK. Next up: 520 Alexander Street, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Wonderboi is a techno and hardcore artist based in Canada, tracked on soundcheck
 
 NIMAHA, Bÿständer, Sam AK
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wonderboi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wonderboi/)*

@@ -1,14 +1,13 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "B-Side + Club Well - onesixone Thursday's" on Thu, 20 Aug 2026.
+OneSixOne is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "APOLETT - onesixone" on Fri, 21 Aug 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Andy Hart and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Andy Hart and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | B-Side + Club Well - onesixone Thursday's | B-SiDE (AU), Cara Murphy |
 | Fri, 21 Aug 2026 | APOLETT - onesixone | Adam Trace, Amber Ferraro, Jay Ramon |
 | Sat, 22 Aug 2026 | Audio Porn - onesixone Saturday's | Agent 86, Cara Murphy, Jay Ramon |
 | Sun, 23 Aug 2026 | Breakfast Club #519 (Winter's End 36hr) | Andy Hart, Ed Kent, Eluize, Jmcee, Jocelyn (3), Lawless (2), Tina Disco, Yarra (2), Zjoso |
@@ -20,4 +19,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming nights,
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

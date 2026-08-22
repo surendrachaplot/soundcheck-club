@@ -1,6 +1,6 @@
 # Debice
 
-Debice is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Estraperlo, Barcelona on Fri, 25 Sept 2026.
+Debice is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Estraperlo, Barcelona on Fri, 25 Sept 2026.
 
 Debice is a drum & bass and jungle artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona and Manchester. Often billed alongside Ekwols, MC Conrad and NoRelay. Next up: Estraperlo, Barcelona on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Debice is a drum & bass and jungle artist based in Spain, tracked on soundcheck,
 
 Ekwols, MC Conrad, NoRelay
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debice/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debice/)*

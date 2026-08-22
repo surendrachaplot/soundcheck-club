@@ -1,6 +1,6 @@
 # Vanco
 
-Vanco is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at La Gravière D'epeisses, Geneva on Fri, 4 Sept 2026.
+Vanco is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at La Gravière D'epeisses, Geneva on Fri, 4 Sept 2026.
 
 Vanco is an afro house and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Bali and Berlin and 14 more. Often billed alongside Sef Kombo, 2fox and AMÉMÉ. Next up: La Gravière D'epeisses, Geneva on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Vanco is an afro house and house artist tracked on soundcheck, with 34 sets logg
 
 Sef Kombo, 2fox, AMÉMÉ
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*

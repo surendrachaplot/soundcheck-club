@@ -1,6 +1,6 @@
 # Svreca
 
-Svreca is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 21 Aug 2026.
+Svreca is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 21 Aug 2026.
 
 Svreca is a techno and electronica artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside CONCEPTUAL, Kevin Matto and Reeko. Next up: RSO.BERLIN, Berlin on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Svreca is a techno and electronica artist tracked on soundcheck, with 62 sets lo
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Fri, 21 Aug 2026
 - TBA - Powered by: Void Acoustics, Madrid — Sat, 20 Jun 2026
 - Glazart, Paris — Sun, 14 Jun 2026
 - Onyx (E1), London — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Svreca is a techno and electronica artist tracked on soundcheck, with 62 sets lo
 - LAUT, Barcelona — Sat, 18 Apr 2026
 - TBA, Madrid — Sat, 11 Apr 2026
 - TBA - ENTITY poderes by Void Acostics, Madrid — Fri, 27 Mar 2026
-- Nitsa Club, Barcelona — Fri, 27 Feb 2026
 
 ## Shares bills with
 
 CONCEPTUAL, Kevin Matto, Reeko
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svreca/)*

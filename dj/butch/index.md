@@ -1,6 +1,6 @@
 # Butch
 
-Butch is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
+Butch is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
 
 Butch is a house and tech house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 17 more. Often billed alongside Toman, Nic Fanciulli and Solomun. Next up: Seaseaclub Barcelona, Barcelona on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ Butch is a house and tech house artist tracked on soundcheck, with 53 sets logge
 
 Toman, Nic Fanciulli, Solomun
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*

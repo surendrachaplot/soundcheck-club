@@ -1,6 +1,6 @@
 # Jo FLM
 
-Jo FLM is a Club and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
+Jo FLM is a Club and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Shunter, Rotterdam on Sat, 22 Aug 2026.
 
 Jo FLM is a club and dub artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Toff Youth, drum song (dj) and Ambu Bambu. Next up: Shunter, Rotterdam on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Jo FLM is a club and dub artist based in Netherlands, tracked on soundcheck, wit
 
 Toff Youth, drum song (dj), Ambu Bambu
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joflm/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joflm/)*

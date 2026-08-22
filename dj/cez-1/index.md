@@ -1,13 +1,14 @@
 # Cez (1)
 
-Cez (1) is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 6 Sept 2026.
+Cez (1) is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
-Cez (1) is a deep house and techno artist based in France, tracked on soundcheck, with 26 sets logged across Berlin, Lisbon and Nantes. Often billed alongside Lenny Mailleau, Hubble and Michel7000. Next up: TBA - Secret Location, Berlin on Sun 6 Sept.
+Cez (1) is a deep house and techno artist based in France, tracked on soundcheck, with 27 sets logged across Berlin, Lisbon and Nantes. Often billed alongside Lenny Mailleau, Hubble and Michel7000. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Club der Visionaere | Berlin |
 | Sun, 6 Sept 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cez (1) is a deep house and techno artist based in France, tracked on soundcheck
 
 Lenny Mailleau, Hubble, Michel7000
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cez-1/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cez-1/)*

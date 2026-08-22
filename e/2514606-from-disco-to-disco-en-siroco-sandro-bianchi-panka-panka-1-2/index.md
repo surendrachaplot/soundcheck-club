@@ -1,6 +1,6 @@
-# From Disco to disco en Siroco: SANDRO BIANCHI + PANKA PANKA 1/2 + Kamboya at Sala Siroco
+# From Disco to Disco en Siroco: SANDRO BIANCHI + PANKA PANKA 1/2 + Kamboya at Sala Siroco
 
-From Disco to disco en Siroco: SANDRO BIANCHI + PANKA PANKA 1/2 + Kamboya at Sala Siroco on Sat 22 Aug, Madrid. 1 act on the bill: Kamboya. House and Acid. Preview the line-up and save it on soundcheck.
+From Disco to Disco en Siroco: SANDRO BIANCHI + PANKA PANKA 1/2 + Kamboya at Sala Siroco on Sat 22 Aug, Madrid. 1 act on the bill: Kamboya. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

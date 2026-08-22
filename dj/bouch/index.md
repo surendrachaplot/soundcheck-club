@@ -1,6 +1,6 @@
 # Bouch
 
-Bouch is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
+Bouch is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
 
 Bouch is a house and electro artist tracked on soundcheck, with 12 sets logged across Barcelona and Berlin. Often billed alongside Lenut, Soliad and ildec. Next up: TBA, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Bouch is a house and electro artist tracked on soundcheck, with 12 sets logged a
 
 Lenut, Soliad, ildec
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouch/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouch/)*

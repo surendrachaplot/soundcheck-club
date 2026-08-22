@@ -1,6 +1,6 @@
 # PvssyDivx
 
-PvssyDivx is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+PvssyDivx is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
 PvssyDivx is a reggaeton and techno artist tracked on soundcheck, with 5 sets logged across Barcelona and Berlin. Often billed alongside 2AT, Anita B Queen and BZZHOUND. Next up: OXI, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ PvssyDivx is a reggaeton and techno artist tracked on soundcheck, with 5 sets lo
 
 2AT, Anita B Queen, BZZHOUND
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pvssydivx/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pvssydivx/)*

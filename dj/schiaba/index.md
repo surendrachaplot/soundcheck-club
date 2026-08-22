@@ -1,6 +1,6 @@
 # Schiaba
 
-Schiaba is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Schiaba is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Schiaba is a techno and dub techno artist tracked on soundcheck, with 6 sets logged across Vienna. Often billed alongside Jona Sorger, Angiko (2) and DJ Vibekiller. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Schiaba is a techno and dub techno artist tracked on soundcheck, with 6 sets log
 
 ## Recently played
 
+- Seedcamp, Kautzen, Vienna — Fri, 21 Aug 2026
 - R:Journey, Vienna — Fri, 5 Jun 2026
 - Grelle Forelle, Vienna — Fri, 10 Oct 2025
 - R:Journey, Vienna — Sat, 27 Sept 2025
@@ -22,4 +23,4 @@ Schiaba is a techno and dub techno artist tracked on soundcheck, with 6 sets log
 
 Jona Sorger, Angiko (2), DJ Vibekiller
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schiaba/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schiaba/)*

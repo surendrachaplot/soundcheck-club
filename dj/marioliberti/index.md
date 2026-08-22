@@ -1,6 +1,6 @@
 # Mario Liberti
 
-Mario Liberti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Oria After Dark, Toronto on Sat, 29 Aug 2026.
+Mario Liberti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Oria After Dark, Toronto on Sat, 29 Aug 2026.
 
 Mario Liberti is a house and techno artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Arthur Nozen, Alexkid and Robert Drewek. Next up: Oria After Dark, Toronto on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Mario Liberti is a house and techno artist tracked on soundcheck, with 37 sets l
 
 Arthur Nozen, Alexkid, Robert Drewek
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marioliberti/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marioliberti/)*

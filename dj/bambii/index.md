@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
+Bambii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
 
 Bambii is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Young Teesh, Nino Brown (2) and Chase & Status. Next up: Freight Brixton, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Bambii is a techno and house artist tracked on soundcheck, with 99 sets logged a
 
 Young Teesh, Nino Brown (2), Chase & Status
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

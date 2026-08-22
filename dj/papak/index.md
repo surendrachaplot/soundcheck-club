@@ -1,6 +1,6 @@
 # Papa K
 
-Papa K is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
+Papa K is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
 
 Papa K is a house and minimal artist tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside Annina, Cyko and Scoopsi. Next up: TBA - East Gallery Dock, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Papa K is a house and minimal artist tracked on soundcheck, with 35 sets logged 
 
 Annina, Cyko, Scoopsi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*

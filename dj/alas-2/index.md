@@ -1,8 +1,8 @@
 # Alas (2)
 
-Alas (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Alas (2) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
-Alas (2) is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside Cleopard2000, HiTMiLØW and 3Hertz. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
+Alas (2) is a techno and bass artist tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside Cleopard2000, HiTMiLØW and Pasat. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Alas (2) is a techno and trance artist tracked on soundcheck, with 6 sets logged
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
+- Phantom Bar Berlin, Berlin — Fri, 21 Aug 2026
 - Crack Bellmer, Berlin — Fri, 20 Feb 2026
 - Mikropol, Berlin — Fri, 6 Feb 2026
 - Bar Neun, Berlin — Sat, 1 Nov 2025
@@ -20,6 +22,6 @@ Alas (2) is a techno and trance artist tracked on soundcheck, with 6 sets logged
 
 ## Shares bills with
 
-Cleopard2000, HiTMiLØW, 3Hertz
+Cleopard2000, HiTMiLØW, Pasat
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alas-2/)*

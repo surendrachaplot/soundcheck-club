@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "LavaLava" on Fri, 21 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "LavaLava" on Fri, 21 Aug 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Adis Is OK, ANESI, Daniel Santiago and Dubecticut and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -19,4 +19,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

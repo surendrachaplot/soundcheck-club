@@ -1,6 +1,6 @@
 # Nick Davis
 
-Nick Davis is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
+Nick Davis is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bar Bodega, Liverpool on Sat, 22 Aug 2026.
 
 Nick Davis is a house and disco artist tracked on soundcheck, with 12 sets logged across Liverpool and London. Often billed alongside Bedfactory Records, Jimmy Dinners and Uncle Baz. Next up: Bar Bodega, Liverpool on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Nick Davis is a house and disco artist tracked on soundcheck, with 12 sets logge
 
 Bedfactory Records, Jimmy Dinners, Uncle Baz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdavis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickdavis/)*

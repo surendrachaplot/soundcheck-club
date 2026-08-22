@@ -1,14 +1,13 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at [UNVRS], Ibiza on Thu, 20 Aug 2026.
+Luciano is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
 
-Luciano is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: [UNVRS], Ibiza on Thu 20 Aug.
+Luciano is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Pacha Ibiza, Ibiza on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 28 Aug 2026 | Pacha Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | La Gravière D'epeisses | Geneva |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -32,4 +31,4 @@ Luciano is a house and tech house artist tracked on soundcheck, with 103 sets lo
 
 Sossa, Marco Carola, Prospa
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luciano/)*

@@ -1,6 +1,6 @@
 # MAD KATZ mit Oscar Mulero, Verraco & SHDW at Hive Club
 
-MAD KATZ mit Oscar Mulero, Verraco & SHDW at Hive Club on Fri 30 Oct, Zurich. 3 acts on the bill: Oscar Mulero, SHDW and Verraco. Preview the line-up and save it on soundcheck.
+MAD KATZ mit Oscar Mulero, Verraco & SHDW at Hive Club on Fri 30 Oct, Zurich. 6 acts on the bill: 1luu, MARCISM, Oscar Mulero and Scar and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ MAD KATZ mit Oscar Mulero, Verraco & SHDW at Hive Club on Fri 30 Oct, Zurich. 3 
 
 ## Line-up
 
+- 1luu
+- MARCISM
 - Oscar Mulero
+- Scar
 - SHDW
 - Verraco
 

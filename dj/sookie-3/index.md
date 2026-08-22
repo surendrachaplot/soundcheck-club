@@ -1,6 +1,6 @@
 # Sookie (3)
 
-Sookie (3) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Honey Street Studio, Manchester on Sat, 22 Aug 2026.
+Sookie (3) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Honey Street Studio, Manchester on Sat, 22 Aug 2026.
 
 Sookie (3) is a trance and techno artist based in Belgium, tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Dusseldorf and Ghent and 2 more. Often billed alongside su:zy, Sarah Wanita and Trancesetters of Westphalia. Next up: Honey Street Studio, Manchester on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ Sookie (3) is a trance and techno artist based in Belgium, tracked on soundcheck
 
 su:zy, Sarah Wanita, Trancesetters of Westphalia
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie-3/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie-3/)*

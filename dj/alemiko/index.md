@@ -1,14 +1,13 @@
 # alemiko
 
-alemiko is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at KitKatClub, Berlin on Thu, 20 Aug 2026.
+alemiko is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
 
-alemiko is a techno and trance artist tracked on soundcheck, with 124 sets logged across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and KLING&KLANG. Next up: KitKatClub, Berlin on Thu 20 Aug.
+alemiko is a techno and trance artist tracked on soundcheck, with 124 sets logged across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and KLING&KLANG. Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 20 Aug 2026 | KitKatClub | Berlin |
 | Fri, 21 Aug 2026 | Jonny Knüppel | Berlin |
 | Sat, 22 Aug 2026 | ://about blank | Berlin |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
@@ -20,6 +19,7 @@ alemiko is a techno and trance artist tracked on soundcheck, with 124 sets logge
 
 ## Recently played
 
+- Jonny Knüppel, Berlin — Fri, 21 Aug 2026
 - KitKatClub, Berlin — Thu, 20 Aug 2026
 - ://about blank, Berlin — Tue, 18 Aug 2026
 - OST, Berlin — Thu, 13 Aug 2026
@@ -27,10 +27,9 @@ alemiko is a techno and trance artist tracked on soundcheck, with 124 sets logge
 - ://about blank, Berlin — Fri, 31 Jul 2026
 - ://about blank, Berlin — Sat, 18 Jul 2026
 - ://about blank, Berlin — Sat, 4 Jul 2026
-- elipamanoke, Leipzig — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Balkhausen, Limoncello, KLING&KLANG
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alemiko/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alemiko/)*

@@ -1,14 +1,15 @@
 # Harriet Jaxxon
 
-Harriet Jaxxon is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Harriet Jaxxon is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logged across Auckland, Berlin, Boston and Brighton and 22 more. Often billed alongside Mozey, Inja and Voltage. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Auckland, Berlin, Boston and Brighton and 22 more. Often billed alongside Mozey, Inja and Voltage. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 3 Oct 2026 | The Lower Third | London |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ Harriet Jaxxon is a drum & bass and jungle artist tracked on soundcheck, with 60
 
 Mozey, Inja, Voltage
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*

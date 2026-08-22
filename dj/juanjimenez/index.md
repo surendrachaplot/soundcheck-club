@@ -1,6 +1,6 @@
 # JUAN JIMENEZ
 
-JUAN JIMENEZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ARTSPACE, New York City on Sat, 22 Aug 2026.
+JUAN JIMENEZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ARTSPACE, New York City on Sat, 22 Aug 2026.
 
 JUAN JIMENEZ is a tech house and house artist based in Colombia, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Cuellar, Mark Dumitrescu and Jean Pierre. Next up: ARTSPACE, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ JUAN JIMENEZ is a tech house and house artist based in Colombia, tracked on soun
 
 Cuellar, Mark Dumitrescu, Jean Pierre
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanjimenez/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanjimenez/)*

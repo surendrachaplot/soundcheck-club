@@ -1,6 +1,6 @@
 # Kumi
 
-Kumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Kumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Kumi is a techno and house artist based in Australia, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Brisbane and Detroit and 5 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kumi is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 JÄMO, Caleb Jay, J-OK
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*

@@ -1,6 +1,6 @@
 # gin (DE)
 
-gin (DE) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
+gin (DE) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
 gin (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Leipzig. Often billed alongside adamoandiamo, Parsec and VALENTIN FRAIS. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ gin (DE) is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 adamoandiamo, Parsec, VALENTIN FRAIS
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginde/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginde/)*

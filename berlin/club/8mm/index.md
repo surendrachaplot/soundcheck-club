@@ -1,14 +1,13 @@
 # 8MM
 
-8MM is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Unknown Callers - The Cramps - Greatest Gravy Release Party (Vengeance Records)" on Fri, 21 Aug 2026.
+8MM is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Crave Tapes DJ Night" on Sat, 22 Aug 2026.
 
-8MM is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Carlos GrabStein, Desolate Discotheque, Faux Sermons and Holywanderer and 2 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
+8MM is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including Carlos GrabStein, Desolate Discotheque, Holywanderer and miaw. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Unknown Callers - The Cramps - Greatest Gravy Release Party (Vengeance Records) | Faux Sermons, Justin Anastasi |
 | Sat, 22 Aug 2026 | Crave Tapes DJ Night | Carlos GrabStein, Desolate Discotheque, Holywanderer |
 | Sun, 13 Sept 2026 | 8MM & Shameless/Limitless present: Le Ren |  |
 | Tue, 15 Sept 2026 | 8MM & Shameless/Limitless present: miaw | miaw |
@@ -21,4 +20,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

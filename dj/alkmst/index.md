@@ -1,6 +1,6 @@
 # ALKMST
 
-ALKMST is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Los Angeles on Sun, 20 Sept 2026.
+ALKMST is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Los Angeles on Sun, 20 Sept 2026.
 
 ALKMST is a house and electronica artist tracked on soundcheck, with 63 sets logged across Austin, Boston, Chicago and Losangeles and 4 more. Often billed alongside Krane, Annika Wolfe and Arthur Onni. Next up: TBA, Losangeles on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ ALKMST is a house and electronica artist tracked on soundcheck, with 63 sets log
 
 Krane, Annika Wolfe, Arthur Onni
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alkmst/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alkmst/)*

@@ -1,6 +1,6 @@
 # Genghis C_nt
 
-Genghis C_nt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
+Genghis C_nt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ÆDEN, Berlin on Thu, 3 Sept 2026.
 
 Genghis C_nt is a techno and house artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Anaté, EHRHARDT and Pylerinstinct1. Next up: ÆDEN, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Genghis C_nt is a techno and house artist based in Spain, tracked on soundcheck,
 
 Anaté, EHRHARDT, Pylerinstinct1
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genghiscnt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genghiscnt/)*

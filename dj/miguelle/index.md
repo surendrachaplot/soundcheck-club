@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
+Miguelle is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 23 Aug 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Barcelona and Boston and 16 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Seaseaclub Barcelona, Barcelona on Sun 23 Aug.
 
@@ -30,4 +30,4 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

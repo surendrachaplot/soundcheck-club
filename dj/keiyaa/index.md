@@ -1,8 +1,8 @@
 # keiyaA
 
-keiyaA is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at MoMA PS1, New York City on Fri, 28 Aug 2026.
+keiyaA is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at MoMA PS1, New York City on Fri, 28 Aug 2026.
 
-keiyaA is a club and experimental artist tracked on soundcheck, with 27 sets logged across Brussels, Detroit, Hamburg and London and 4 more. Often billed alongside ARCHANGEL (US), gum.mp3 and 1morning. Next up: MoMA PS1, Newyorkcity on Fri 28 Aug.
+keiyaA is a club and experimental artist tracked on soundcheck, with 28 sets logged across Brussels, Detroit, Hamburg and London and 4 more. Often billed alongside ARCHANGEL (US), Ciel and Smerz. Next up: MoMA PS1, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ keiyaA is a club and experimental artist tracked on soundcheck, with 27 sets log
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | MoMA PS1 | New York City |
 | Sat, 29 Aug 2026 | Southwark Park | London |
+| Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ keiyaA is a club and experimental artist tracked on soundcheck, with 27 sets log
 
 ## Shares bills with
 
-ARCHANGEL (US), gum.mp3, 1morning
+ARCHANGEL (US), Ciel, Smerz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*

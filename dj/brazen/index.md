@@ -1,6 +1,6 @@
 # brazen
 
-brazen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 28 Aug 2026.
+brazen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Institute of Contemporary Art, Boston on Fri, 28 Aug 2026.
 
 brazen is a house and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Boston, Bristol and London. Often billed alongside Janaway, Mx. Blaire and Alfredo Rico-Dimas. Next up: Institute of Contemporary Art, Boston on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ brazen is a house and techno artist based in United States of America, tracked o
 
 Janaway, Mx. Blaire, Alfredo Rico-Dimas
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brazen/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brazen/)*

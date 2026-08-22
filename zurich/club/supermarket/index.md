@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Acid Town" on Fri, 21 Aug 2026.
+Supermarket is a music venue in Zurich with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sauvage Zurich Airport Afterparty" on Sat, 22 Aug 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights, with line-ups including FLETCH, Alci, Andrey Pushkarev and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming nights, with line-ups including FLETCH, Alci, Andrey Pushkarev and Anthik and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Acid Town | Patrik Widmer, mvdi |
 | Sat, 22 Aug 2026 | Sauvage Zurich Airport Afterparty | GIANNI (2), Josh Gigante |
 | Fri, 28 Aug 2026 | 2 Years Hidden Frequencies | Daniel Meister, Gianluca Felline |
 | Sat, 29 Aug 2026 | Grocery Terrace Closing | Antja, Cap, Gojnea76, Marlie, Wyatt (1) |
@@ -18,9 +17,10 @@ Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights,
 | Sat, 19 Sept 2026 | PLAYROOM | Benosah, FLETCH, Sirol |
 | Fri, 25 Sept 2026 | WE LOVE | Anthik |
 | Sat, 26 Sept 2026 | STAHLBOX37 | BRAINDAAMAGE, OMAKS, Valdemar, Vorteks |
+| Sat, 3 Oct 2026 | INCLUSIONS 3 - INKLUSIVER DAY-RAVE | ERROR (LYRASIS) |
 
 ## Address
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

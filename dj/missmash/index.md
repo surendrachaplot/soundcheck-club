@@ -1,6 +1,6 @@
 # Miss Mash
 
-Miss Mash is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Grow, London on Fri, 28 Aug 2026.
+Miss Mash is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Grow, London on Fri, 28 Aug 2026.
 
 Miss Mash is a house and jungle artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Bristol, London and Manchester. Often billed alongside Roaming Data, Anwar and Beavs. Next up: Grow, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Miss Mash is a house and jungle artist based in United Kingdom, tracked on sound
 
 Roaming Data, Anwar, Beavs
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*

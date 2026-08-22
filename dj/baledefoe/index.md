@@ -1,6 +1,6 @@
 # Bale Defoe
 
-Bale Defoe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spkrbox, Detroit on Thu, 27 Aug 2026.
+Bale Defoe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Spkrbox, Detroit on Thu, 27 Aug 2026.
 
 Bale Defoe is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit and Newyorkcity. Often billed alongside DJ Phil Minnick, Ryan McCray and Fresca. Next up: Spkrbox, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Bale Defoe is a house and techno artist based in United States of America, track
 
 DJ Phil Minnick, Ryan McCray, Fresca
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baledefoe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baledefoe/)*

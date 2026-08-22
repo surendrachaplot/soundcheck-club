@@ -1,14 +1,15 @@
 # Meri
 
-Meri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 22 Aug 2026.
+Meri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 22 Aug 2026.
 
-Meri is a house and techno artist tracked on soundcheck, with 18 sets logged across Istanbul and Tokyo. Often billed alongside Ali Cem Esmeray, Ergin Elvan and ANZU. Next up: Heavy Sick Zero, Tokyo on Sat 22 Aug.
+Meri is a house and techno artist tracked on soundcheck, with 19 sets logged across Istanbul and Tokyo. Often billed alongside Ali Cem Esmeray, Ergin Elvan and fvku. Next up: Heavy Sick Zero, Tokyo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Heavy Sick Zero | Tokyo |
+| Sat, 5 Sept 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Meri is a house and techno artist tracked on soundcheck, with 18 sets logged acr
 
 ## Shares bills with
 
-Ali Cem Esmeray, Ergin Elvan, ANZU
+Ali Cem Esmeray, Ergin Elvan, fvku
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meri/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meri/)*

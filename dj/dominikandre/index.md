@@ -1,6 +1,6 @@
 # Dominik André
 
-Dominik André is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Stereo (Zurich), Zurich on Sat, 22 Aug 2026.
+Dominik André is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Stereo (Zurich), Zurich on Sat, 22 Aug 2026.
 
 Dominik André is a house and electronica artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Dusseldorf and Kyoto and 4 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Stereo (Zurich), Zurich on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Dominik André is a house and electronica artist tracked on soundcheck, with 32 
 
 Nive, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*

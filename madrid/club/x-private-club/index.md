@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "NOIZZE W/ TWOLATE (HELLBENT, MOODCHILD, NERVOUS) FREE ENTRY" on Sat, 22 Aug 2026.
+X Private Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "NOIZZE W/ TWOLATE (HELLBENT, MOODCHILD, NERVOUS) FREE ENTRY" on Sat, 22 Aug 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Herrera (ES). Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -14,4 +14,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 1 upcoming night
 
 Madrid, Madrid
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

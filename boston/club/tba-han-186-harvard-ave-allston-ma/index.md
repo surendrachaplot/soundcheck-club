@@ -1,14 +1,13 @@
 # TBA - HAN 186 Harvard Ave, Allston, MA
 
-TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HAN: Fusion Fridays" on Fri, 21 Aug 2026.
+TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "HAN: Fusion Fridays" on Fri, 28 Aug 2026.
 
-TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+TBA - HAN 186 Harvard Ave, Allston, MA is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | HAN: Fusion Fridays |  |
 | Fri, 28 Aug 2026 | HAN: Fusion Fridays |  |
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-han-186-harvard-ave-allston-ma/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-han-186-harvard-ave-allston-ma/)*

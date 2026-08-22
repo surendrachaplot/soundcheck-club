@@ -1,20 +1,20 @@
 # Giulia Tess
 
-Giulia Tess is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Planet Wax, London on Fri, 21 Aug 2026.
+Giulia Tess is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
 
-Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, with 50 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Ell Murphy, Lawrence Hart and mixtress. Next up: Planet Wax, London on Fri 21 Aug.
+Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, with 50 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Ell Murphy, Lawrence Hart and mixtress. Next up: Electric Studios, Sheffield on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Planet Wax | London |
 | Fri, 4 Sept 2026 | Electric Studios | Sheffield |
 | Sat, 5 Sept 2026 | The Greyhound | London |
 | Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Planet Wax, London — Fri, 21 Aug 2026
 - Next Door Records Two, London — Sat, 8 Aug 2026
 - Dream Bags Jaguar Shoes, London — Fri, 31 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
@@ -22,10 +22,9 @@ Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, 
 - Not For Sale Gallery, London — Fri, 20 Mar 2026
 - Club Cheek, London — Sat, 28 Feb 2026
 - KOKO, London — Fri, 16 Jan 2026
-- Headrow House, Leeds — Tue, 30 Dec 2025
 
 ## Shares bills with
 
 Ell Murphy, Lawrence Hart, mixtress
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliatess/)*

@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 6 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "BRONX SAUNA >> FRANCO ROSSI >> LEGO >> CC LUNA >> MANI >> T.B.A" on Sat, 22 Aug 2026.
+Eventhuset is a music venue in Stockholm with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "BRONX SAUNA >> FRANCO ROSSI >> LEGO >> CC LUNA >> MANI >> T.B.A" on Sat, 22 Aug 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 6 upcoming nights, with line-ups including CC Luna, DJ Godfather, DJ KILLING and Franco Rossi and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -19,4 +19,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 6 upcoming nights
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

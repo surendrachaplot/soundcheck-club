@@ -1,6 +1,6 @@
 # Ryan Jones
 
-Ryan Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at All My Friends, London on Sun, 30 Aug 2026.
+Ryan Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at All My Friends, London on Sun, 30 Aug 2026.
 
 Ryan Jones is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Amaliah, Eddie Richards and KT. Next up: All My Friends, London on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ Ryan Jones is a house and tech house artist based in United Kingdom, tracked on 
 
 Amaliah, Eddie Richards, KT
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*

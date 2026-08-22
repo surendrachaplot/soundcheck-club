@@ -1,6 +1,6 @@
 # Daniel Boon
 
-Daniel Boon is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 8 Sept 2026.
+Daniel Boon is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 8 Sept 2026.
 
 Daniel Boon is a techno and tech house artist based in Germany, tracked on soundcheck, with 72 sets logged across Berlin. Often billed alongside Basstronauten, LORD of Psychedelics (2) and Diana May. Next up: Der Weiße Hase, Berlin on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Daniel Boon is a techno and tech house artist based in Germany, tracked on sound
 
 Basstronauten, LORD of Psychedelics (2), Diana May
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielboon/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielboon/)*

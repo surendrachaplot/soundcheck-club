@@ -1,6 +1,6 @@
 # Arlanoa
 
-Arlanoa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 22 Aug 2026.
+Arlanoa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 22 Aug 2026.
 
 Arlanoa is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 6 more. Often billed alongside DJ Bienveillance, Eclectic Elektra and Julie Desire. Next up: Karmen Camina, Strasbourg on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Arlanoa is a techno and house artist tracked on soundcheck, with 38 sets logged 
 
 DJ Bienveillance, Eclectic Elektra, Julie Desire
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arlanoa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arlanoa/)*

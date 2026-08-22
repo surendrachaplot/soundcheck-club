@@ -1,6 +1,6 @@
 # Nonalis
 
-Nonalis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roxy, Prague on Sat, 29 Aug 2026.
+Nonalis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Roxy, Prague on Sat, 29 Aug 2026.
 
 Nonalis is a techno and house artist based in Czech Republic, tracked on soundcheck, with 16 sets logged across Prague. Often billed alongside Rodrigo Ardilha, Illya and RiVid. Next up: Roxy, Prague on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Nonalis is a techno and house artist based in Czech Republic, tracked on soundch
 
 Rodrigo Ardilha, Illya, RiVid
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonalis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonalis/)*

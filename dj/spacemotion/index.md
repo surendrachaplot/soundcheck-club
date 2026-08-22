@@ -1,6 +1,6 @@
 # Space Motion
 
-Space Motion is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
+Space Motion is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
 
 Space Motion is a techno and progressive house artist tracked on soundcheck, with 45 sets logged across Austin, Bali, Barcelona and Belgrade and 21 more. Often billed alongside Anfisa Letyago, Anhauser and Djolee. Next up: TBA - BOATPARTY, Istanbul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Space Motion is a techno and progressive house artist tracked on soundcheck, wit
 
 Anfisa Letyago, Anhauser, Djolee
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spacemotion/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spacemotion/)*

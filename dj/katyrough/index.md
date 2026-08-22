@@ -1,6 +1,6 @@
 # Katy Rough
 
-Katy Rough is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at OST, Berlin on Fri, 21 Aug 2026.
+Katy Rough is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at OST, Berlin on Fri, 21 Aug 2026.
 
 Katy Rough is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Charleen Herzig, A.N.I. and IGDA. Next up: OST, Berlin on Fri 21 Aug.
 
@@ -16,6 +16,7 @@ Katy Rough is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- OST, Berlin — Fri, 21 Aug 2026
 - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
 - Edelfettwerk, Hamburg — Sat, 15 Aug 2026
 - Waschhaus, Berlin — Fri, 7 Aug 2026
@@ -23,10 +24,9 @@ Katy Rough is a techno and trance artist based in Germany, tracked on soundcheck
 - Bootshaus, Cologne — Fri, 24 Jul 2026
 - Essigfabrik, Cologne — Sat, 18 Jul 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- OST, Berlin — Sat, 9 May 2026
 
 ## Shares bills with
 
 Charleen Herzig, A.N.I., IGDA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrough/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyrough/)*

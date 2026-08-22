@@ -1,6 +1,6 @@
 # Asha Jasz
 
-Asha Jasz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
+Asha Jasz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
 
 Asha Jasz is a house and techno artist based in Poland, tracked on soundcheck, with 37 sets logged across Detroit, Newyorkcity and Washingtondc. Often billed alongside Jay Prouty, Vivian Wang and Connie. Next up: Dead Letter No. 9, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Asha Jasz is a house and techno artist based in Poland, tracked on soundcheck, w
 
 Jay Prouty, Vivian Wang, Connie
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashajasz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashajasz/)*

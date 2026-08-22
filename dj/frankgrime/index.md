@@ -1,6 +1,6 @@
 # Frank Grime
 
-Frank Grime is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
+Frank Grime is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
 
 Frank Grime is a techno and house artist tracked on soundcheck, with 22 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside Columba, Craigen and ITEM9. Next up: The Clydesdale, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Frank Grime is a techno and house artist tracked on soundcheck, with 22 sets log
 
 Columba, Craigen, ITEM9
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankgrime/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankgrime/)*

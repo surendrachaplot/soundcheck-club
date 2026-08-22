@@ -1,14 +1,15 @@
 # KENJI FURUYA
 
-KENJI FURUYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
+KENJI FURUYA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
 
-KENJI FURUYA is a techno and house artist based in Japan, tracked on soundcheck, with 27 sets logged across Tokyo. Often billed alongside FUJIMON, uuu7 and Karinga. Next up: WOMB, Tokyo on Sat 5 Sept.
+KENJI FURUYA is a techno and house artist based in Japan, tracked on soundcheck, with 28 sets logged across Tokyo. Often billed alongside FUJIMON, Kulage and uuu7. Next up: WOMB, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | WOMB | Tokyo |
+| Sat, 5 Sept 2026 | TBA | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ KENJI FURUYA is a techno and house artist based in Japan, tracked on soundcheck,
 
 ## Shares bills with
 
-FUJIMON, uuu7, Karinga
+FUJIMON, Kulage, uuu7
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjifuruya/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjifuruya/)*

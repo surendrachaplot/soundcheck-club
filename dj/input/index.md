@@ -1,6 +1,6 @@
 # input
 
-input is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
+input is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
 
 input is an afro house and deep house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside FedUp, ACCARD and AVANTIME. Next up: The Cross, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ input is an afro house and deep house artist based in United Kingdom, tracked on
 
 FedUp, ACCARD, AVANTIME
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/input/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/input/)*

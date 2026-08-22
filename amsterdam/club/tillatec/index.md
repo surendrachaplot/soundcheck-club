@@ -1,14 +1,14 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Dissident: Spekki Webu, Cryptofauna, angelboy" on Fri, 21 Aug 2026.
+TILLATEC is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dissident: Spekki Webu, Cryptofauna, angelboy (tix at door)" on Fri, 21 Aug 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Justine Perry, Amphia, androgienia and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Justine Perry, Amphia, androgienia and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Dissident: Spekki Webu, Cryptofauna, angelboy | Carly Zeng, Cryptofauna, DIORA, Spekki Webu, angelboy, marum |
+| Fri, 21 Aug 2026 | Dissident: Spekki Webu, Cryptofauna, angelboy (tix at door) | Carly Zeng, Cryptofauna, DIORA, Spekki Webu, angelboy, marum |
 | Sat, 22 Aug 2026 | ARMAT X REFORMA | Arkan, Hovani, James Harbrecht, PLATTER, Spikey Lee, androgienia, g3kko |
 | Sun, 23 Aug 2026 | ANTIDOTE 5 YEAR ANNIVERSARY | Dylan Fogarty, Flits, Mees Javois, Montse, Prance, VSSR, Varuna Agosti |
 | Fri, 28 Aug 2026 | Unsilenced with livwutang, Mery b2b Malom, skyra (live) | Malom, Mery, livwutang, skyra |
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights,
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

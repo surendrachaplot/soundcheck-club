@@ -1,6 +1,6 @@
 # Monica Venturella
 
-Monica Venturella is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Golden Gate, Berlin on Sat, 22 Aug 2026.
+Monica Venturella is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Gate, Berlin on Sat, 22 Aug 2026.
 
 Monica Venturella is a house and electro artist tracked on soundcheck, with 7 sets logged across Berlin, Bristol, Milan and Rome. Often billed alongside Enzo Leep, Flo Pirke and ANDREA SALVAGGIO. Next up: Golden Gate, Berlin on Sat 22 Aug.
 
@@ -23,4 +23,4 @@ Monica Venturella is a house and electro artist tracked on soundcheck, with 7 se
 
 Enzo Leep, Flo Pirke, ANDREA SALVAGGIO
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monicaventurella/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monicaventurella/)*

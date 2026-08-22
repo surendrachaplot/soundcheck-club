@@ -1,6 +1,6 @@
 # DOTT
 
-DOTT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Mitsuki, Tokyo on Mon, 12 Oct 2026.
+DOTT is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mitsuki, Tokyo on Mon, 12 Oct 2026.
 
 DOTT is a house and techno artist tracked on soundcheck, with 118 sets logged across Bali, Bangkok, Berlin and Hongkong and 7 more. Often billed alongside Sarayu, Elaheh and Jirus (MELA). Next up: Mitsuki, Tokyo on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ DOTT is a house and techno artist tracked on soundcheck, with 118 sets logged ac
 
 Sarayu, Elaheh, Jirus (MELA)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dott/)*

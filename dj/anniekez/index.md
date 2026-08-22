@@ -1,6 +1,6 @@
 # ANNIE KEZ
 
-ANNIE KEZ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Inner North Location, Melbourne on Sat, 12 Sept 2026.
+ANNIE KEZ is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Inner North Location, Melbourne on Sat, 12 Sept 2026.
 
 ANNIE KEZ is a house and techno artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne. Often billed alongside BDE, Ben Silver and Boogs. Next up: TBA - Inner North Location, Melbourne on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ ANNIE KEZ is a house and techno artist based in Australia, tracked on soundcheck
 
 BDE, Ben Silver, Boogs
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anniekez/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anniekez/)*

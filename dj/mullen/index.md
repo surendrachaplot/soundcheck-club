@@ -1,6 +1,6 @@
 # Mullen
 
-Mullen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Coil, Melbourne on Sat, 22 Aug 2026.
+Mullen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Coil, Melbourne on Sat, 22 Aug 2026.
 
 Mullen is a house and disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bangkok, Edinburgh, Glasgow and Melbourne. Often billed alongside Physix, Sundaymann and Carmen Baía. Next up: Coil, Melbourne on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Mullen is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Physix, Sundaymann, Carmen Baía
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mullen/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mullen/)*

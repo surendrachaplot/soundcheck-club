@@ -1,6 +1,6 @@
 # buny
 
-buny is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Cobalt, Vancouver on Sat, 22 Aug 2026.
+buny is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Cobalt, Vancouver on Sat, 22 Aug 2026.
 
 buny is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Vancouver. Often billed alongside EtOH, TR4CK ID? and Bÿständer. Next up: The Cobalt, Vancouver on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ buny is a techno and hardcore artist tracked on soundcheck, with 14 sets logged 
 
 EtOH, TR4CK ID?, Bÿständer
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buny/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buny/)*

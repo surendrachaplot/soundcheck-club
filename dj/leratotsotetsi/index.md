@@ -1,6 +1,6 @@
 # Lerato Tsotetsi
 
-Lerato Tsotetsi is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
+Lerato Tsotetsi is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
 
 Lerato Tsotetsi is an afro tech and afro house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Rotterdam. Often billed alongside Cincity, Meedy and Benny Rodrigues. Next up: Parallel, Amsterdam on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Lerato Tsotetsi is an afro tech and afro house artist based in Netherlands, trac
 
 ## Recently played
 
+- Parallel, Amsterdam — Fri, 21 Aug 2026
 - Melkweg, Amsterdam — Sat, 6 Jun 2026
 - Recreatiegebied Gaasperplas, Amsterdam — Sun, 8 Jun 2025
 - Paradiso, Amsterdam — Wed, 1 Jan 2025
@@ -24,4 +25,4 @@ Lerato Tsotetsi is an afro tech and afro house artist based in Netherlands, trac
 
 Cincity, Meedy, Benny Rodrigues
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leratotsotetsi/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leratotsotetsi/)*

@@ -1,6 +1,6 @@
 # SHEAR (TECHNO) at Z Maruyama
 
-SHEAR (TECHNO) at Z Maruyama on Sat 22 Aug, Tokyo. 4 acts on the bill: Nobuya, SENNY D, Shogo Ito and Shun Mizuki. Techno. Preview the line-up and save it on soundcheck.
+SHEAR (TECHNO) at Z Maruyama on Sat 22 Aug, Tokyo. 5 acts on the bill: Nobuya, NOBUYA (2), SENNY D and Shogo Ito and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SHEAR (TECHNO) at Z Maruyama on Sat 22 Aug, Tokyo. 4 acts on the bill: Nobuya, S
 ## Line-up
 
 - Nobuya
+- NOBUYA (2)
 - SENNY D
 - Shogo Ito
 - Shun Mizuki

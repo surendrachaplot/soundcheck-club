@@ -1,6 +1,6 @@
 # Bagheera
 
-Bagheera is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
+Bagheera is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
 
 Bagheera is an acid and electronica artist tracked on soundcheck, with 12 sets logged across Cork and Paris. Often billed alongside Arthur Nozen, Fabrice Dayan and Blanco. Next up: Auber Garden, Paris on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Bagheera is an acid and electronica artist tracked on soundcheck, with 12 sets l
 
 Arthur Nozen, Fabrice Dayan, Blanco
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bagheera/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bagheera/)*

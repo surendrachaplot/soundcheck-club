@@ -1,6 +1,6 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 22 Aug 2026.
+YOSHIMASA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 22 Aug 2026.
 
 YOSHIMASA is a techno and house artist tracked on soundcheck, with 87 sets logged across Tokyo. Often billed alongside DJ 34, Takami and FUMOFFU. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ YOSHIMASA is a techno and house artist tracked on soundcheck, with 87 sets logge
 
 DJ 34, Takami, FUMOFFU
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*

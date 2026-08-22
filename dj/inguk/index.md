@@ -1,6 +1,6 @@
 # ing (UK)
 
-ing (UK) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Rockstarhotel, Osaka on Sat, 5 Sept 2026.
+ing (UK) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Rockstarhotel, Osaka on Sat, 5 Sept 2026.
 
 ing (UK) is a bass and techno artist tracked on soundcheck, with 17 sets logged across Osaka. Often billed alongside Bloody Cheeki $odz, Messiahwaits and kakepon. Next up: Rockstarhotel, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ing (UK) is a bass and techno artist tracked on soundcheck, with 17 sets logged 
 
 Bloody Cheeki $odz, Messiahwaits, kakepon
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inguk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inguk/)*

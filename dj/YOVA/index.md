@@ -1,6 +1,6 @@
 # YOVA
 
-YOVA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+YOVA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
 
 YOVA is a techno and trance artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside DJ Henk, XIMA and SOHOE. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
 
@@ -15,6 +15,7 @@ YOVA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 25 Jul 2026
 - Humboldthain Club, Berlin — Fri, 10 Jul 2026
 - Lokschuppen Berlin, Berlin — Fri, 12 Jun 2026
@@ -22,10 +23,9 @@ YOVA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 - ÆDEN, Berlin — Sat, 30 May 2026
 - ://about blank, Berlin — Fri, 29 May 2026
 - ://about blank, Berlin — Fri, 15 May 2026
-- KitKatClub, Berlin — Thu, 14 May 2026
 
 ## Shares bills with
 
 DJ Henk, XIMA, SOHOE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/YOVA/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/YOVA/)*

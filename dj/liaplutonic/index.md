@@ -1,13 +1,14 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Lia Plutonic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Vino Disco, Montreal on Wed, 26 Aug 2026.
 
-Lia Plutonic is a house and techno artist tracked on soundcheck, with 71 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
+Lia Plutonic is a house and techno artist tracked on soundcheck, with 72 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Vino Disco, Montreal on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Vino Disco | Montreal |
 | Sun, 4 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lia Plutonic is a house and techno artist tracked on soundcheck, with 71 sets lo
 
 Guthrie, Lis Dalton, Pascale Project
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liaplutonic/)*

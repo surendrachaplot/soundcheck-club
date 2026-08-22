@@ -1,6 +1,6 @@
 # Aquarium
 
-Aquarium is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bonobo, Tokyo on Wed, 26 Aug 2026.
+Aquarium is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bonobo, Tokyo on Wed, 26 Aug 2026.
 
 Aquarium is a house and techno artist based in Japan, tracked on soundcheck, with 17 sets logged across Berlin and Tokyo. Often billed alongside lostbaggage, suimin and Ario. Next up: Bonobo, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Aquarium is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 lostbaggage, suimin, Ario
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarium/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aquarium/)*

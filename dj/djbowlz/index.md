@@ -1,6 +1,6 @@
 # Dj Bowlz
 
-Dj Bowlz is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
+Dj Bowlz is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
 
 Dj Bowlz is a techno and italo disco artist tracked on soundcheck, with 5 sets logged across Cologne. Often billed alongside andré wiese, Kashinski and PATEK!. Next up: TBA - „Lichtung“, Cologne on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Dj Bowlz is a techno and italo disco artist tracked on soundcheck, with 5 sets l
 
 andré wiese, Kashinski, PATEK!
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlz/)*

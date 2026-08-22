@@ -1,6 +1,6 @@
 # Coro Wine and Vinyls
 
-Coro Wine and Vinyls is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 21 Aug 2026; the next is "Midweek service with Linda shiro" on Wed, 19 Aug 2026.
+Coro Wine and Vinyls is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Midweek service with Linda shiro" on Wed, 19 Aug 2026.
 
 Coro Wine and Vinyls is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Linda shiro. Browse upcoming dates, start times and who's playing. Reichenberger strasse 61, 10999 Berlin.
 
@@ -14,4 +14,4 @@ Coro Wine and Vinyls is a music venue in Berlin listed on soundcheck. 1 upcoming
 
 Reichenberger strasse 61, 10999 Berlin, Berlin
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coro-wine-and-vinyls/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coro-wine-and-vinyls/)*

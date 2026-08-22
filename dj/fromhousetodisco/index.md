@@ -1,14 +1,14 @@
 # From House to Disco
 
-From House to Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Sao Paulo on Sat, 22 Aug 2026.
+From House to Disco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Espaço Usine, Sao Paulo on Sat, 22 Aug 2026.
 
-From House to Disco is a house and disco artist based in Brazil, tracked on soundcheck, with 59 sets logged across Berlin, Lisbon, Newyorkcity and Saopaulo. Often billed alongside Paulete Lindacelva, Tessuto and Leo Janeiro. Next up: TBA, Saopaulo on Sat 22 Aug.
+From House to Disco is a house and disco artist based in Brazil, tracked on soundcheck, with 59 sets logged across Berlin, Lisbon, Newyorkcity and Saopaulo. Often billed alongside Paulete Lindacelva, Tessuto and Leo Janeiro. Next up: Espaço Usine, Saopaulo on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA | Sao Paulo |
+| Sat, 22 Aug 2026 | Espaço Usine | Sao Paulo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ From House to Disco is a house and disco artist based in Brazil, tracked on soun
 
 Paulete Lindacelva, Tessuto, Leo Janeiro
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromhousetodisco/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromhousetodisco/)*

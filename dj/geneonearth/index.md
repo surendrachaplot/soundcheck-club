@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Gene On Earth is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Gene On Earth is a house and tech house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and Coast 2 Coast. Next up: The Cause, London on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Gene On Earth is a house and tech house artist tracked on soundcheck, with 199 s
 
 The Ghost, Dyed Soundorom, Coast 2 Coast
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

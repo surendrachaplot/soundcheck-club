@@ -1,6 +1,6 @@
 # KLD (1)
 
-KLD (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Athens on Sat, 22 Aug 2026.
+KLD (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Athens on Sat, 22 Aug 2026.
 
 KLD (1) is a techno and trance artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens. Often billed alongside ROSHI, Pelany and Imperium. Next up: TBA, Athens on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ KLD (1) is a techno and trance artist based in Greece, tracked on soundcheck, wi
 
 ROSHI, Pelany, Imperium
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kld-1/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kld-1/)*

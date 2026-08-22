@@ -1,6 +1,6 @@
 # LUAR (NL)
 
-LUAR (NL) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+LUAR (NL) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 LUAR (NL) is a techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Cologne and Milan and 2 more. Often billed alongside Any Mello, BIANKA and Djen (2). Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ LUAR (NL) is a techno artist tracked on soundcheck, with 10 sets logged across A
 
 ## Recently played
 
+- Seedcamp, Kautzen, Vienna — Fri, 21 Aug 2026
 - TILLATEC, Amsterdam — Fri, 12 Jun 2026
 - RADION, Amsterdam — Fri, 29 May 2026
 - Odonien, Cologne — Sat, 21 Mar 2026
@@ -20,10 +21,9 @@ LUAR (NL) is a techno artist tracked on soundcheck, with 10 sets logged across A
 - DKR Milano, Milan — Sat, 28 Feb 2026
 - RADION, Amsterdam — Sat, 21 Feb 2026
 - Tresor / Globus, Berlin — Wed, 17 Dec 2025
-- Crack Bellmer, Berlin — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Any Mello, BIANKA, Djen (2)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luarnl/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luarnl/)*

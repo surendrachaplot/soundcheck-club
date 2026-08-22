@@ -1,6 +1,6 @@
 # ALESSA(JP)
 
-ALESSA(JP) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Joule, Osaka on Wed, 26 Aug 2026.
+ALESSA(JP) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Joule, Osaka on Wed, 26 Aug 2026.
 
 ALESSA(JP) is a techno and tech house artist based in Japan, tracked on soundcheck, with 19 sets logged across Osaka. Often billed alongside O-MAN, NOBUYA (2) and FENGX2. Next up: Joule, Osaka on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ ALESSA(JP) is a techno and tech house artist based in Japan, tracked on soundche
 
 O-MAN, NOBUYA (2), FENGX2
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessajp/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessajp/)*

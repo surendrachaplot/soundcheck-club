@@ -1,6 +1,6 @@
 # Dylan Payne
 
-Dylan Payne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Moondog Hifi, New York City on Sat, 22 Aug 2026.
+Dylan Payne is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Moondog Hifi, New York City on Sat, 22 Aug 2026.
 
 Dylan Payne is a house and techno artist based in United States of America, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Boston and Detroit and 9 more. Often billed alongside Highkin', Krane and O.BEE. Next up: Moondog Hifi, Newyorkcity on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Dylan Payne is a house and techno artist based in United States of America, trac
 
 Highkin', Krane, O.BEE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*

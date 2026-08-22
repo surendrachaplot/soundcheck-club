@@ -1,6 +1,6 @@
 # Fideles
 
-Fideles is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Mediapark Köln, Cologne on Sat, 29 Aug 2026.
+Fideles is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Mediapark Köln, Cologne on Sat, 29 Aug 2026.
 
 Fideles is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside Brina Knauss, Miss Monique and Mathame. Next up: Mediapark Köln, Cologne on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Fideles is a techno and house artist tracked on soundcheck, with 121 sets logged
 
 Brina Knauss, Miss Monique, Mathame
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

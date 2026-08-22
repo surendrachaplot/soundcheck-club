@@ -1,6 +1,6 @@
 # Hipp-e
 
-Hipp-e is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
+Hipp-e is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Los Angeles on Fri, 21 Aug 2026.
 
 Hipp-e is a tech house and deep house artist tracked on soundcheck, with 3 sets logged across Denver, London and Losangeles. Often billed alongside H-Foundation, Halo Varga and Anaïs Sasha. Next up: TBA, Losangeles on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Hipp-e is a tech house and deep house artist tracked on soundcheck, with 3 sets 
 
 ## Recently played
 
+- TBA, Los Angeles — Fri, 21 Aug 2026
 - Temple Denver, Denver — Fri, 3 Oct 2025
 - fabric, London — Sat, 24 Jun 2023
 
@@ -19,4 +20,4 @@ Hipp-e is a tech house and deep house artist tracked on soundcheck, with 3 sets 
 
 H-Foundation, Halo Varga, Anaïs Sasha
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hippe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hippe/)*

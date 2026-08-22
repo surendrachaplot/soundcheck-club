@@ -1,6 +1,6 @@
 # An Dannsa Dub
 
-An Dannsa Dub is a Dub and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Dining Hall, Glasgow University Union, Glasgow on Sat, 22 Aug 2026.
+An Dannsa Dub is a Dub and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Dining Hall, Glasgow University Union, Glasgow on Sat, 22 Aug 2026.
 
 An Dannsa Dub is a dub and jungle artist tracked on soundcheck, with 11 sets logged across Edinburgh, Glasgow, London and Newcastle. Often billed alongside Alpha Steppa, Doss and Eva Lazarus. Next up: The Dining Hall, Glasgow University Union, Glasgow on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ An Dannsa Dub is a dub and jungle artist tracked on soundcheck, with 11 sets log
 
 Alpha Steppa, Doss, Eva Lazarus
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andannsadub/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andannsadub/)*

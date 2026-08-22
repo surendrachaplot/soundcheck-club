@@ -1,6 +1,6 @@
 # Softy
 
-Softy is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
+Softy is a Electro and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
 
 Softy is an electro and garage artist tracked on soundcheck, with 6 sets logged across Antwerp, Brussels and London. Often billed alongside Azo, Helena Lauwaert and Promis3. Next up: Place D'espagne, Brussels on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Softy is an electro and garage artist tracked on soundcheck, with 6 sets logged 
 
 Azo, Helena Lauwaert, Promis3
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softy/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softy/)*

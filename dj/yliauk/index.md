@@ -1,14 +1,16 @@
 # Ylia (UK)
 
-Ylia (UK) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+Ylia (UK) is a Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
 
-Ylia (UK) is a techno artist tracked on soundcheck, with 31 sets logged across Berlin, London and Milan. Often billed alongside H Grade, James Harbrecht and Deranged. Next up: Sui Generis, London on Sat 22 Aug.
+Ylia (UK) is a techno artist tracked on soundcheck, with 33 sets logged across Berlin, London and Milan. Often billed alongside H Grade, James Harbrecht and Deranged. Next up: Sui Generis, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | Sui Generis | London |
+| Sat, 17 Oct 2026 | Gaffe | London |
+| Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Ylia (UK) is a techno artist tracked on soundcheck, with 31 sets logged across B
 
 H Grade, James Harbrecht, Deranged
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yliauk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yliauk/)*

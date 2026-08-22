@@ -1,13 +1,14 @@
 # Dominique Tijoux
 
-Dominique Tijoux is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
+Dominique Tijoux is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
 
-Dominique Tijoux is a house and progressive house artist tracked on soundcheck, with 4 sets logged across Barcelona and Buenosaires. Often billed alongside Javier Labarca, Daniel Sanchez and Munøz. Next up: Jardins de la Devesa, Girona, Barcelona on Sat 5 Sept.
+Dominique Tijoux is a house and progressive house artist tracked on soundcheck, with 5 sets logged across Barcelona and Buenosaires. Often billed alongside Javier Labarca, Daniel Sanchez and Munøz. Next up: Macarena Club, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Macarena Club | Barcelona |
 | Sat, 5 Sept 2026 | Jardins de la Devesa, Girona | Barcelona |
 
 ## Recently played
@@ -20,4 +21,4 @@ Dominique Tijoux is a house and progressive house artist tracked on soundcheck, 
 
 Javier Labarca, Daniel Sanchez, Munøz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquetijoux/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquetijoux/)*

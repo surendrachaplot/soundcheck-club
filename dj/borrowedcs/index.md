@@ -1,6 +1,6 @@
 # Borrowed CS
 
-Borrowed CS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
+Borrowed CS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
 
 Borrowed CS is a house and techno artist tracked on soundcheck, with 11 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Frank Booker, Kédu and Adriana (1). Next up: The Evelyn Hotel, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Borrowed CS is a house and techno artist tracked on soundcheck, with 11 sets log
 
 Frank Booker, Kédu, Adriana (1)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borrowedcs/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borrowedcs/)*

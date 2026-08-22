@@ -1,6 +1,6 @@
 # ED (MX)
 
-ED (MX) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Fünk, Mexico City on Thu, 27 Aug 2026.
+ED (MX) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Fünk, Mexico City on Thu, 27 Aug 2026.
 
 ED (MX) is a house and minimal artist based in Mexico, tracked on soundcheck, with 38 sets logged across Copenhagen, Mexicocity, Miami and Paris. Often billed alongside Itza Chacón, Mejia and Alo. Next up: Fünk, Mexicocity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ ED (MX) is a house and minimal artist based in Mexico, tracked on soundcheck, wi
 
 Itza Chacón, Mejia, Alo
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

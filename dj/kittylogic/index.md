@@ -1,6 +1,6 @@
 # Kitty Logic
 
-Kitty Logic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Warehouse, Los Angeles on Sun, 23 Aug 2026.
+Kitty Logic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Warehouse, Los Angeles on Sun, 23 Aug 2026.
 
 Kitty Logic is a techno and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Losangeles, Sandiego and Vancouver. Often billed alongside BLANC MAMBA, VAP1D and Boris. Next up: TBA - Warehouse, Losangeles on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Kitty Logic is a techno and house artist based in United States of America, trac
 
 BLANC MAMBA, VAP1D, Boris
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittylogic/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittylogic/)*

@@ -1,6 +1,6 @@
 # VSK
 
-VSK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 22 Aug 2026.
+VSK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 22 Aug 2026.
 
 VSK is a techno and acid artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 13 more. Often billed alongside Tommy Four Seven, Cristian Marras and Tauceti (FR). Next up: Lehmann Club, Stuttgart on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ VSK is a techno and acid artist tracked on soundcheck, with 48 sets logged acros
 
 Tommy Four Seven, Cristian Marras, Tauceti (FR)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsk/)*

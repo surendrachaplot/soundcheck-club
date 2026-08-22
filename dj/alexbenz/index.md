@@ -1,6 +1,6 @@
 # Alex Benz
 
-Alex Benz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
+Alex Benz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
 
 Alex Benz is a techno and house artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside djcob, Bailey Brown and Madman. Next up: Hoppetosse, Berlin on Fri 21 Aug.
 
@@ -14,6 +14,7 @@ Alex Benz is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Hoppetosse, Berlin — Fri, 21 Aug 2026
 - Karoline 45, Hamburg — Sat, 8 Aug 2026
 - Westhafen, Leipzig — Sat, 1 Aug 2026
 - Lilli Escher, Hamburg — Thu, 14 May 2026
@@ -21,10 +22,9 @@ Alex Benz is a techno and house artist based in Germany, tracked on soundcheck, 
 - Baalsaal, Hamburg — Fri, 1 May 2026
 - La Cova, Hamburg — Sat, 18 Apr 2026
 - Edelfettwerk, Hamburg — Sat, 4 Apr 2026
-- Baalsaal, Hamburg — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 djcob, Bailey Brown, Madman
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbenz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbenz/)*

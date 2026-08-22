@@ -1,6 +1,6 @@
 # PLATTER
 
-PLATTER is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+PLATTER is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
 PLATTER is a techno and bass artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, g3kko and MATRIX3K. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
@@ -27,4 +27,4 @@ PLATTER is a techno and bass artist tracked on soundcheck, with 33 sets logged a
 
 androgienia, g3kko, MATRIX3K
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/platter/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/platter/)*

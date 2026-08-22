@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "People Like Us" on Sat, 22 Aug 2026.
+Civic Underground is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "People Like Us" on Sat, 22 Aug 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Harry Hayes and Timmy Regisford. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -17,4 +17,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 4 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

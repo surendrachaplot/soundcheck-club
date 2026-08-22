@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "BREATHE: HAPOL" on Fri, 21 Aug 2026.
+La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "[SOLD OUT] Through The Roof // Scott Steer" on Sat, 22 Aug 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Arlo Duke, Danse Atmos, David Barbarossa and David Scott and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Antal, Arlo Duke, Danse Atmos and David Barbarossa and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | BREATHE: HAPOL | HAPOL, Jamie Gunn, Robbie |
 | Sat, 22 Aug 2026 | [SOLD OUT] Through The Roof // Scott Steer |  |
 | Sun, 23 Aug 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
 | Thu, 27 Aug 2026 | Repetitions: Vinyl Only | Eubo, Gourlay, Johnny Greig |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming ni
 | Sun, 30 Aug 2026 | KEEP ON with special guest The Revenge | David Barbarossa, OOFT, The Revenge |
 | Thu, 3 Sept 2026 | Lewis Carroll // Bounce In Motion | Lee Brown, Lewis Carroll, Thomas + James |
 | Thu, 3 Sept 2026 | Sin Clair (In The Round) |  |
+| Fri, 4 Sept 2026 | SMART//CASUAL - gau7t, Orla Halligan, Et Al | Et Al (1), Orla Halligan, gau7t |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

@@ -1,6 +1,6 @@
 # FREAKENSTEIN
 
-FREAKENSTEIN is a Electro and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Hidden, Manchester on Fri, 25 Sept 2026.
+FREAKENSTEIN is a Electro and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hidden, Manchester on Fri, 25 Sept 2026.
 
 FREAKENSTEIN is an electro and balearic artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 4 more. Often billed alongside Anna Wall, Anthea and Bobby.. Next up: Hidden, Manchester on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ FREAKENSTEIN is an electro and balearic artist based in United Kingdom, tracked 
 
 Anna Wall, Anthea, Bobby.
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freakenstein/)*

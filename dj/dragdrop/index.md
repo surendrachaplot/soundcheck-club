@@ -1,6 +1,6 @@
 # Drag & Drop
 
-Drag & Drop is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Drag & Drop is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 Drag & Drop are a club and house duo tracked on soundcheck, with 14 sets logged across Berlin and Frankfurt. Often billed alongside Dan Bay, Bo Irion and Laurine Philippe. Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Drag & Drop are a club and house duo tracked on soundcheck, with 14 sets logged 
 
 Dan Bay, Bo Irion, Laurine Philippe
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragdrop/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragdrop/)*

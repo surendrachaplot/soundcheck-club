@@ -1,6 +1,6 @@
 # Billy Cocks
 
-Billy Cocks is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Billy Cocks is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Billy Cocks is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across London, Malta and Osaka. Often billed alongside Larry London, Ellie Cocks and Darrell Privett. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Billy Cocks is a house and tech house artist based in United Kingdom, tracked on
 
 Larry London, Ellie Cocks, Darrell Privett
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billycocks/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billycocks/)*

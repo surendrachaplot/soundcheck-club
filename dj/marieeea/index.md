@@ -1,6 +1,6 @@
 # MARIEEEA
 
-MARIEEEA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 30 Aug 2026.
+MARIEEEA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 30 Aug 2026.
 
 MARIEEEA is a techno and trance artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Sohtech, DEBBIE (IT) and Elle Rêve. Next up: Edelfettwerk, Hamburg on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ MARIEEEA is a techno and trance artist tracked on soundcheck, with 41 sets logge
 
 Sohtech, DEBBIE (IT), Elle Rêve
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*

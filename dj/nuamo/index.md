@@ -1,6 +1,6 @@
 # NuAmo
 
-NuAmo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
+NuAmo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
 
 NuAmo is a disco and house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Pilar Jordan, Tornadotoni and Aggy. Next up: OXI, Berlin on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ NuAmo is a disco and house artist tracked on soundcheck, with 6 sets logged acro
 
 ## Recently played
 
+- OXI, Berlin — Fri, 21 Aug 2026
 - Paloma, Berlin — Sun, 8 Mar 2026
 - Süss War Gestern, Berlin — Wed, 31 Dec 2025
 - Bulbul Berlin, Berlin — Sat, 1 Nov 2025
@@ -22,4 +23,4 @@ NuAmo is a disco and house artist tracked on soundcheck, with 6 sets logged acro
 
 Pilar Jordan, Tornadotoni, Aggy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuamo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuamo/)*

@@ -1,6 +1,6 @@
 # Inferno
 
-Inferno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Klub Mechanik, Warsaw on Fri, 16 Oct 2026.
+Inferno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Klub Mechanik, Warsaw on Fri, 16 Oct 2026.
 
 Inferno is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Berlin, London and Warsaw. Often billed alongside Dan Beaumont, Donnie Sunshine and FAFF. Next up: Klub Mechanik, Warsaw on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Inferno is a techno and house artist based in United States of America, tracked 
 
 Dan Beaumont, Donnie Sunshine, FAFF
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inferno/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inferno/)*

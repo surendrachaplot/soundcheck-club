@@ -1,6 +1,6 @@
 # Ricky Ryan
 
-Ricky Ryan is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 29 Aug 2026.
+Ricky Ryan is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 29 Aug 2026.
 
 Ricky Ryan is a progressive house and tech house artist based in Argentina, tracked on soundcheck, with 4 sets logged across Buenosaires. Often billed alongside Fede Gomez. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Ricky Ryan is a progressive house and tech house artist based in Argentina, trac
 
 Fede Gomez
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickyryan/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickyryan/)*

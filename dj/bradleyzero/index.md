@@ -1,14 +1,13 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Fidelity Studio, Dublin on Fri, 21 Aug 2026.
+Bradley Zero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Bradley Zero is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Austin, Bali and Bangkok and 51 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: Fidelity Studio, Dublin on Fri 21 Aug.
+Bradley Zero is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Austin, Bali and Bangkok and 51 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Fidelity Studio | Dublin |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | The Cause | London |
@@ -18,6 +17,7 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 214 sets l
 
 ## Recently played
 
+- Fidelity Studio, Dublin — Fri, 21 Aug 2026
 - SAGE, Berlin — Sat, 8 Aug 2026
 - DC-10, Ibiza — Mon, 3 Aug 2026
 - Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
@@ -25,10 +25,9 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 214 sets l
 - Calatheabeachclub, Naples — Sat, 18 Jul 2026
 - Hï Ibiza, Ibiza — Fri, 17 Jul 2026
 - Radio Radio, Amsterdam — Sat, 11 Jul 2026
-- TBA - Palais Longchamp , Marseille — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 MLE (UK), Sally C, Chloé Caillet
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

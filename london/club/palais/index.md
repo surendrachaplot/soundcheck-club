@@ -1,14 +1,13 @@
 # Palais
 
-Palais is a music venue in London with 20 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Palais: ÜBERKIKZ, HANAA & HEZEN" on Fri, 21 Aug 2026.
+Palais is a music venue in London with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Palais: Slam & ANNĒ  " on Sat, 22 Aug 2026.
 
-Palais is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Alex Kassian, AMORAL, Andy Garvey and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Alex Kassian, AMORAL, Andy Garvey and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Palais: ÜBERKIKZ, HANAA & HEZEN | HEZEN, ÜBERKIKZ |
 | Sat, 22 Aug 2026 | Palais: Slam & ANNĒ   | ANNĒ, Slam |
 | Fri, 28 Aug 2026 | Palais: Make A Dance, Eden Burns & Meltmode | Eden Burns, Make A Dance, Meltmode (2) |
 | Sat, 29 Aug 2026 | Palais: In House |  |
@@ -18,9 +17,10 @@ Palais is a music venue in London listed on soundcheck. 20 upcoming nights, with
 | Fri, 11 Sept 2026 | Palais: TSHA & DJ Holographic | DJ Holographic, TSHA |
 | Sat, 12 Sept 2026 | Palais: JakoJako, AMORAL & Tasha | AMORAL, JakoJako, Tasha |
 | Fri, 18 Sept 2026 | Origins: Sally C, Eclair Fifi & Cáit | Cáit, Eclair Fifi, Sally C |
+| Sat, 19 Sept 2026 | Origins: DJ Storm, Silva Snipa & VXRGO | DJ Storm, Silva Snipa, VXRGO |
 
 ## Address
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

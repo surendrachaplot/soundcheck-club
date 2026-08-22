@@ -1,14 +1,13 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "HOUSE RULES x EUPHÓRIA: Chapter III" on Fri, 21 Aug 2026.
+The DBA is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "HØL: Phil Berg, Blame The Mono, Arkane b2b INLIMEN, Danny Roach, djcd, švedka, Edac" on Sat, 22 Aug 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including 4STR0, Aiden Francis, Ali Roche (2) and Arkane and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | HOUSE RULES x EUPHÓRIA: Chapter III | BRNE, FXCKBOUT, HSTN, KeepKeep, RYLO (UK), SHUNTA, blo rida, imad:re |
 | Sat, 22 Aug 2026 | HØL: Phil Berg, Blame The Mono, Arkane b2b INLIMEN, Danny Roach, djcd, švedka, Edac | Arkane, Blame The Mono, Danny Roach, Edac, INLIMEN, Phil Berg, djcd, švedka |
 | Fri, 28 Aug 2026 | FILTH: Alternative Queer Pride | Deventi, Egui, Gridlock, Kessie, RayRay, SBBS, TAITO, Varanasi, quarter ohm |
 | Fri, 28 Aug 2026 | QueerPOC Brazilian Funk Rave |  |
@@ -18,9 +17,10 @@ The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights,
 | Sat, 5 Sept 2026 | BOOTLEG 002 | Jess Rose, Karlie Marx, MARACUYá, Qoqnut, atalaya |
 | Sat, 5 Sept 2026 | HOTLINE | 4STR0, Danny Roach, Deventi, Jase Jeffery, Kabel, djcd |
 | Fri, 11 Sept 2026 | Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things | Layson, Marlon Baleci, Scarlett O'Malley |
+| Sat, 12 Sept 2026 | Babemaxxx: The Final Climaxxx | BMOL, MYOHMY, Pacemaker, e-kitty, gwlucas |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

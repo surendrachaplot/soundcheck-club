@@ -1,8 +1,8 @@
 # YHWH Nailgun
 
-YHWH Nailgun is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+YHWH Nailgun is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside DjRUM, Smerz and gyrofield. Next up: Southwark Park, London on Sat 29 Aug.
+YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside DjRUM, Smerz and Blood Orange. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 25 s
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Sat, 29 Aug 2026 | Avalon Cafe Bermondsey | London |
 | Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
+| Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -26,6 +27,6 @@ YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 25 s
 
 ## Shares bills with
 
-DjRUM, Smerz, gyrofield
+DjRUM, Smerz, Blood Orange
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhwhnailgun/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhwhnailgun/)*

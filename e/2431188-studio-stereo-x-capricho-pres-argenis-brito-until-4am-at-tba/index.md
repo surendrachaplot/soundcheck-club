@@ -1,6 +1,6 @@
 # Studio Stereo x Capricho pres. Argenis Brito (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Capricho pres. Argenis Brito (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 22 Aug, Barcelona. 4 acts on the bill: Argenis Brito, Bastard Love, Bumpy Jones and Habb. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Capricho pres. Argenis Brito (until 4am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 22 Aug, Barcelona. 5 acts on the bill: Argenis Brito, Bastard Love, Bumpy Jones and Habb and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Studio Stereo x Capricho pres. Argenis Brito (until 4am) at TBA - Studio Stereo,
 - Bastard Love
 - Bumpy Jones
 - Habb
+- Ill Spleen
 
 *Source: [soundcheck](https://soundcheck.club/e/2431188-studio-stereo-x-capricho-pres-argenis-brito-until-4am-at-tba/)*

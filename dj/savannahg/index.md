@@ -1,6 +1,6 @@
 # Savannah G
 
-Savannah G is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Detroit on Sat, 22 Aug 2026.
+Savannah G is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Detroit on Sat, 22 Aug 2026.
 
 Savannah G is a disco and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Detroit, Newyorkcity and Toronto. Often billed alongside Auntie Chanel, Stevano and Jesse Cory. Next up: TBA, Detroit on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Savannah G is a disco and house artist based in United States of America, tracke
 
 Auntie Chanel, Stevano, Jesse Cory
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savannahg/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savannahg/)*

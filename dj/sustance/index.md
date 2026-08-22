@@ -1,14 +1,14 @@
 # Sustance
 
-Sustance is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at HERE, London on Sat, 26 Sept 2026.
+Sustance is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
-Sustance is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Auckland, Berlin, Brighton and Bristol and 16 more. Often billed alongside Monrroe, GLXY and Duskee. Next up: HERE, London on Sat 26 Sept.
+Sustance is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Auckland, Berlin, Brighton and Bristol and 16 more. Often billed alongside Monrroe, GLXY and Duskee. Next up: Outernet Live, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | HERE | London |
+| Sat, 26 Sept 2026 | Outernet Live | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Sustance is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Monrroe, GLXY, Duskee
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sustance/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sustance/)*

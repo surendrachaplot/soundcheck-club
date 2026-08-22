@@ -1,6 +1,6 @@
 # Cowa
 
-Cowa is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
+Cowa is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
 
 Cowa is a house and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Philadelphia and Washingtondc. Often billed alongside Big Queso, tj groover and Qino Bounce. Next up: Liberty Point, Philadelphia on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Cowa is a house and club artist based in United States of America, tracked on so
 
 Big Queso, tj groover, Qino Bounce
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*

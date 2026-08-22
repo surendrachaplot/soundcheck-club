@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "BAILE DO OUTRO LADO X ONDA COLLECTIVE" on Fri, 21 Aug 2026.
+Skatecafe is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "NOLANDS" on Sat, 22 Aug 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including AAlva, A For Alpha, amara and awhlkuhn and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including A For Alpha, amara, awhlkuhn and BENITO (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | BAILE DO OUTRO LADO X ONDA COLLECTIVE | AAlva, Denise Lopes, Not Yet (2), Pedro da Mata, YAS (9) |
 | Sat, 22 Aug 2026 | NOLANDS |  |
 | Fri, 28 Aug 2026 | AZÚCAR INVITES THE HERD | Jazz Dalia, LAMSI |
 | Sat, 29 Aug 2026 | HARTO FALIÓN (US, LIVE), OGR+ZELDZAME (LIVE), BOBBIN, AGP | BENITO (DE) |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights
 | Thu, 24 Sept 2026 | PIP BLOM 10 YEARS |  |
 | Thu, 24 Sept 2026 | PIP BLOM 10 YEARS | Pip Blom |
 | Sat, 26 Sept 2026 | WAP SHOO WAP PRESENTS: SPLIT SYSTEM (AUS) + THE ETTERS (LIVE) |  |
+| Fri, 2 Oct 2026 | HET VELD: THE SECOND TRANSMISSION |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

@@ -1,6 +1,6 @@
 # YEPIK
 
-YEPIK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at MH5 Rooftop, Munich on Sat, 22 Aug 2026.
+YEPIK is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at MH5 Rooftop, Munich on Sat, 22 Aug 2026.
 
 YEPIK is a house and tech house artist tracked on soundcheck, with 4 sets logged across Cologne and Munich. Often billed alongside Alice DiMar, B-ZEY and Black Box. Next up: MH5 Rooftop, Munich on Sat 22 Aug.
 
@@ -20,4 +20,4 @@ YEPIK is a house and tech house artist tracked on soundcheck, with 4 sets logged
 
 Alice DiMar, B-ZEY, Black Box
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yepik/)*

@@ -1,6 +1,6 @@
 # 4\4
 
-4\4 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sekta Selekta, Krakow on Fri, 4 Sept 2026.
+4\4 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sekta Selekta, Krakow on Fri, 4 Sept 2026.
 
 4\4 is a techno and electro artist tracked on soundcheck, with 18 sets logged across Krakow. Often billed alongside Kola (PL), Intyre and Catch_22 (1). Next up: Sekta Selekta, Krakow on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 Kola (PL), Intyre, Catch_22 (1)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/44/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/44/)*

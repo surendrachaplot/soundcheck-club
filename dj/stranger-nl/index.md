@@ -1,6 +1,6 @@
 # stranger (NL)
 
-stranger (NL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+stranger (NL) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 stranger (NL) is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Chlär, DAX J and Beste Hira. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ stranger (NL) is a techno and house artist tracked on soundcheck, with 89 sets l
 
 Chlär, DAX J, Beste Hira
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stranger-nl/)*

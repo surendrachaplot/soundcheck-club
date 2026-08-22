@@ -1,6 +1,6 @@
 # Guido Balboa
 
-Guido Balboa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Guido Balboa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Guido Balboa is a house and techno artist tracked on soundcheck, with 17 sets logged across Hongkong and Shenzhen. Often billed alongside MLCH, Yadin Moha and Mengzy. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Guido Balboa is a house and techno artist tracked on soundcheck, with 17 sets lo
 
 MLCH, Yadin Moha, Mengzy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidobalboa/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidobalboa/)*

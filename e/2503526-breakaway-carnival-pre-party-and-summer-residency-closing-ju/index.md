@@ -1,6 +1,6 @@
-# Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle/Drum & Bass at Dalston Den
+# Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle / Drum & Bass at Dalston Den
 
-Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle/Drum & Bass at Dalston Den on Fri 28 Aug, London. 6 acts on the bill: Agility, Blake (2), Bryn Brax and LEO SELECTS and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle / Drum & Bass at Dalston Den on Fri 28 Aug, London. 7 acts on the bill: Agility, Blake (2), Bryn Brax and LEO SELECTS and 3 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle/Drum & Bass 
 - Blake (2)
 - Bryn Brax
 - LEO SELECTS
+- Napes
 - Whatsname
 - zoneSL
 

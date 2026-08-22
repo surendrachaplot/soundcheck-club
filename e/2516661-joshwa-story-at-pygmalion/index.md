@@ -1,6 +1,6 @@
 # JOSHWA STORY* at Pygmalion
 
-JOSHWA STORY* at Pygmalion on Fri 25 Sept, Dublin. 1 act on the bill: Joshwa. House and Tech House. Preview the line-up and save it on soundcheck.
+JOSHWA STORY* at Pygmalion on Fri 25 Sept, Dublin. 1 act on the bill: Joshwa. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

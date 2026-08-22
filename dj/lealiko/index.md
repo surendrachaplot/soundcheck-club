@@ -1,6 +1,6 @@
 # Leali Ko
 
-Leali Ko is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Leali Ko is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
 
 Leali Ko is a techno and industrial artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Frankfurt and Hamburg. Often billed alongside Ropemaker, AMBAM and ALLY. Next up: Odonien, Cologne on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ Leali Ko is a techno and industrial artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Odonien, Cologne — Fri, 21 Aug 2026
 - Elektroküche, Cologne — Sat, 27 Jun 2026
 - Baalsaal, Hamburg — Fri, 10 Apr 2026
 - Tanzhaus West, Frankfurt — Fri, 28 Nov 2025
@@ -24,4 +25,4 @@ Leali Ko is a techno and industrial artist based in Germany, tracked on soundche
 
 Ropemaker, AMBAM, ALLY
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lealiko/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lealiko/)*

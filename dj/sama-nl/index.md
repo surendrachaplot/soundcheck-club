@@ -1,6 +1,6 @@
 # SAMA (NL)
 
-SAMA (NL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 18 Sept 2026.
+SAMA (NL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 18 Sept 2026.
 
 SAMA (NL) is a techno and house artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Ibiza, London and Madrid and 5 more. Often billed alongside Vera Grace, SHE/HER and Delano Legito. Next up: Chinois Ibiza, Ibiza on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ SAMA (NL) is a techno and house artist based in Netherlands, tracked on soundche
 
 Vera Grace, SHE/HER, Delano Legito
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*

@@ -1,22 +1,24 @@
 # Franz Scala
 
-Franz Scala is a Italo Disco and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at CLUB OST & RENATE BERLIN, Berlin on Fri, 21 Aug 2026.
+Franz Scala is a Italo Disco and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at OXI, Berlin on Sat, 22 Aug 2026.
 
-Franz Scala is an italo disco and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 26 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: CLUB OST & RENATE BERLIN, Berlin on Fri 21 Aug.
+Franz Scala is an italo disco and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 26 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: OXI, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | CLUB OST & RENATE BERLIN | Berlin |
 | Sat, 22 Aug 2026 | OXI | Berlin |
 | Sat, 29 Aug 2026 | Renate | Berlin |
+| Sat, 5 Sept 2026 | Fünk | Mexico City |
+| Fri, 11 Sept 2026 | Melt Underground | Buenos Aires |
 | Fri, 18 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 | Fri, 9 Oct 2026 | Bohnengold | Berlin |
 
 ## Recently played
 
+- CLUB OST & RENATE BERLIN, Berlin — Fri, 21 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Hang Dai Chinese, Dublin — Fri, 31 Jul 2026
 - Sensorium, Berlin — Sat, 11 Jul 2026
@@ -24,10 +26,9 @@ Franz Scala is an italo disco and house artist tracked on soundcheck, with 160 s
 - Jonny Knüppel, Berlin — Sat, 4 Jul 2026
 - TBA - Secret location Neukölln, Berlin — Sat, 27 Jun 2026
 - Kater, Berlin — Fri, 26 Jun 2026
-- Sala Upload Barcelona, Barcelona — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Fabrizio Mammarella, Giulia Gutterer, Paty Vapor
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*

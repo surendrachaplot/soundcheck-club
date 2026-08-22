@@ -1,6 +1,6 @@
 # ZapWo
 
-ZapWo is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Angāra Koncertzāle, Riga on Sat, 22 Aug 2026.
+ZapWo is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Angāra Koncertzāle, Riga on Sat, 22 Aug 2026.
 
 ZapWo is a drum & bass and techno artist based in Latvia, tracked on soundcheck, with 8 sets logged across Riga. Often billed alongside EP!C, MISSLORI and nummurs. Next up: Angāra Koncertzāle, Riga on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ ZapWo is a drum & bass and techno artist based in Latvia, tracked on soundcheck,
 
 EP!C, MISSLORI, nummurs
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zapwo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zapwo/)*

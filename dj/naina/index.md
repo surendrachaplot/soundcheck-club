@@ -1,6 +1,6 @@
 # Naina
 
-Naina is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
+Naina is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 29 Aug 2026.
 
 Naina is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Bristol, Leeds and London and 4 more. Often billed alongside Napes, SHERELLE and Samurai Breaks. Next up: NUMBER 90 LONDON, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Naina is a jungle and garage artist based in United Kingdom, tracked on soundche
 
 Napes, SHERELLE, Samurai Breaks
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naina/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naina/)*

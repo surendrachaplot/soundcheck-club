@@ -1,8 +1,8 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Dana Ruh is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Dana Ruh is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Barcelona, Berlin and Boston and 34 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Dana Ruh is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Berlin and Boston and 34 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Dana Ruh is a house and techno artist tracked on soundcheck, with 144 sets logge
 | Sat, 12 Sept 2026 | Green Room NYC | New York City |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 19 Sept 2026 | Kater | Berlin |
+| Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sun, 25 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played
@@ -32,4 +33,4 @@ Dana Ruh is a house and techno artist tracked on soundcheck, with 144 sets logge
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

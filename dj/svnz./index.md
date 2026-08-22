@@ -1,6 +1,6 @@
 # SVNZ.
 
-SVNZ. is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Cadavra, Madrid on Thu, 27 Aug 2026.
+SVNZ. is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cadavra, Madrid on Thu, 27 Aug 2026.
 
 SVNZ. is a techno and electronica artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid. Often billed alongside JHONSON., Alienata and Ana Sant. Next up: Cadavra, Madrid on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ SVNZ. is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 JHONSON., Alienata, Ana Sant
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svnz./)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svnz./)*

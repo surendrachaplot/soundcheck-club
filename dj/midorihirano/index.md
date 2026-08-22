@@ -1,6 +1,6 @@
 # Midori Hirano
 
-Midori Hirano is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Silent Green, Berlin on Wed, 2 Sept 2026.
+Midori Hirano is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Silent Green, Berlin on Wed, 2 Sept 2026.
 
 Midori Hirano is an ambient and experimental artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Chicago and Nurnberg and 1 more. Often billed alongside Kyoka, Radio Hito and Tomoko Sauvage. Next up: Silent Green, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Midori Hirano is an ambient and experimental artist based in Japan, tracked on s
 
 Kyoka, Radio Hito, Tomoko Sauvage
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midorihirano/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midorihirano/)*

@@ -1,6 +1,6 @@
 # CicE
 
-CicE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, Bangkok on Sat, 22 Aug 2026.
+CicE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Elsewhere, Bangkok on Sat, 22 Aug 2026.
 
 CicE is a house and techno artist based in China, tracked on soundcheck, with 12 sets logged across Bangkok, London, Shanghai and Shenzhen. Often billed alongside Jeff Chong, OoLONG (2) and Chouchou. Next up: Elsewhere, Bangkok on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ CicE is a house and techno artist based in China, tracked on soundcheck, with 12
 
 Jeff Chong, OoLONG (2), Chouchou
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cice/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cice/)*

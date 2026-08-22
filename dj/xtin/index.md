@@ -1,6 +1,6 @@
 # X Tin
 
-X Tin is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at OHM, Berlin on Sat, 29 Aug 2026.
+X Tin is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at OHM, Berlin on Sat, 29 Aug 2026.
 
 X Tin is a techno and industrial artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin, Chicago, Leipzig and Madrid and 4 more. Often billed alongside Alien Rain, Inverse Element and Milton Bradley. Next up: OHM, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ X Tin is a techno and industrial artist based in Germany, tracked on soundcheck,
 
 Alien Rain, Inverse Element, Milton Bradley
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtin/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtin/)*

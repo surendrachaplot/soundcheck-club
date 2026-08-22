@@ -1,6 +1,6 @@
 # Tommahawk
 
-Tommahawk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Tommahawk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
 
 Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Odonien, Cologne on Fri 21 Aug.
 
@@ -13,6 +13,7 @@ Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Odonien, Cologne — Fri, 21 Aug 2026
 - Columbiahalle, Berlin — Sat, 15 Aug 2026
 - Fridas Pier, Stuttgart — Fri, 17 Jul 2026
 - Lieberscholli, Munich — Fri, 17 Jul 2026
@@ -20,10 +21,9 @@ Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, 
 - Uebel & Gefährlich, Hamburg — Sat, 4 Jul 2026
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
 - Ritter Butzke, Berlin — Sat, 13 Jun 2026
-- KitKatClub, Berlin — Wed, 15 Apr 2026
 
 ## Shares bills with
 
 Sabura, MikAH, A.N.I.
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*

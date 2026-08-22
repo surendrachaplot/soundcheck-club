@@ -1,6 +1,6 @@
 # dare balogun
 
-dare balogun is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+dare balogun is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 dare balogun is a house and electronica artist tracked on soundcheck, with 21 sets logged across Amsterdam, Brighton, Lisbon and London and 2 more. Often billed alongside Shy One, Will Silver and A-Rex. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ dare balogun is a house and electronica artist tracked on soundcheck, with 21 se
 
 Shy One, Will Silver, A-Rex
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darebalogun/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darebalogun/)*

@@ -1,6 +1,6 @@
 # Hej Fund
 
-Hej Fund is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
+Hej Fund is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
 
 Hej Fund is a bass and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Portland. Often billed alongside Ana Sia, Sol Elicio and Andy Warren. Next up: Process PDX, Portland on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Hej Fund is a bass and house artist based in United States of America, tracked o
 
 Ana Sia, Sol Elicio, Andy Warren
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hejfund/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hejfund/)*

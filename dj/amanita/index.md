@@ -1,6 +1,6 @@
 # Amanita
 
-Amanita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 4 Sept 2026.
+Amanita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 4 Sept 2026.
 
 Amanita is a techno and trance artist tracked on soundcheck, with 26 sets logged across Berlin, Lisbon, Lyon and Milan and 4 more. Often billed alongside The Burrell Connection, DJ Bienveillance and Sister Effect. Next up: Ankali & Planeta Za, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Amanita is a techno and trance artist tracked on soundcheck, with 26 sets logged
 
 The Burrell Connection, DJ Bienveillance, Sister Effect
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amanita/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amanita/)*

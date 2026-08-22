@@ -1,6 +1,6 @@
 # From the Tropics
 
-From the Tropics is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The Vic Bar, Melbourne on Sat, 22 Aug 2026.
+From the Tropics is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Vic Bar, Melbourne on Sat, 22 Aug 2026.
 
 From the Tropics is a house and deep house artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Roja (2). Next up: The Vic Bar, Melbourne on Sat 22 Aug.
 
@@ -24,4 +24,4 @@ From the Tropics is a house and deep house artist based in Australia, tracked on
 
 Roja (2)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromthetropics/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromthetropics/)*

@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Signal, New York City on Fri, 21 Aug 2026.
+Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Signal, New York City on Fri, 21 Aug 2026.
 
 Ash Lauryn is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Signal, Newyorkcity on Fri 21 Aug.
 
@@ -16,6 +16,7 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 123 sets log
 
 ## Recently played
 
+- Signal, New York City — Fri, 21 Aug 2026
 - Night Tales Loft, London — Fri, 31 Jul 2026
 - TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sat, 18 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 28 Jun 2026
@@ -23,10 +24,9 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 123 sets log
 - The Loading Dock, Austin — Fri, 19 Jun 2026
 - TBA - East Williamsburg, New York City — Sat, 6 Jun 2026
 - MotorCity Wine, Detroit — Sun, 24 May 2026
-- Spot Lite Detroit, Detroit — Sat, 23 May 2026
 
 ## Shares bills with
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

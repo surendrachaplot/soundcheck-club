@@ -1,6 +1,6 @@
 # Nina
 
-Nina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Spice H2O, Stockholm on Sat, 22 Aug 2026.
+Nina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Spice H2O, Stockholm on Sat, 22 Aug 2026.
 
 Nina is a techno and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Good News, Nika Son and F#X. Next up: Spice H2O, Stockholm on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Nina is a techno and house artist tracked on soundcheck, with 23 sets logged acr
 
 Good News, Nika Son, F#X
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nina/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nina/)*

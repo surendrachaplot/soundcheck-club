@@ -1,6 +1,6 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
+Black Rave Culture is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
 
 Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 28 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: La Gravière, Geneva on Fri 21 Aug.
 
@@ -17,6 +17,7 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 se
 
 ## Recently played
 
+- La Gravière, Geneva — Fri, 21 Aug 2026
 - Jumbi, London — Sat, 15 Aug 2026
 - Phonox, London — Sat, 15 Aug 2026
 - Tresor / Globus, Berlin — Fri, 14 Aug 2026
@@ -24,10 +25,9 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 se
 - Sacré, Paris — Fri, 7 Aug 2026
 - TRANSMISSION DC, Washington DC — Sat, 25 Jul 2026
 - Podlasie Club, Chicago — Sat, 18 Jul 2026
-- Sunset Park Rooftop, New York City — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Nativesun, Amal, James Bangura
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

@@ -1,6 +1,6 @@
 # PAC (2)
 
-PAC (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - Brooklyn Open Air, New York City on Sat, 22 Aug 2026.
+PAC (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Brooklyn Open Air, New York City on Sat, 22 Aug 2026.
 
 PAC (2) is a techno and house artist tracked on soundcheck, with 19 sets logged across Copenhagen and Newyorkcity. Often billed alongside S A M I, sixsix and DJ Machine (2). Next up: TBA - Brooklyn Open Air, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ PAC (2) is a techno and house artist tracked on soundcheck, with 19 sets logged 
 
 S A M I, sixsix, DJ Machine (2)
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pac-2/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pac-2/)*

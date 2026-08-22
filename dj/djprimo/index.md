@@ -1,6 +1,6 @@
 # DJ Primo
 
-DJ Primo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 22 Aug 2026.
+DJ Primo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 22 Aug 2026.
 
 DJ Primo is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Shvili, Max Sprauer and Kiyoshi. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Primo is a house and techno artist based in United States of America, tracked
 
 Shvili, Max Sprauer, Kiyoshi
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimo/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimo/)*

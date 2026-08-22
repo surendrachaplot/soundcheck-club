@@ -1,8 +1,8 @@
 # Innerstice
 
-Innerstice is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
+Innerstice is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Camden Courtyard, London on Sat, 22 Aug 2026.
 
-Innerstice is a techno and progressive house artist tracked on soundcheck, with 45 sets logged across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and Karellos. Next up: Camden Courtyard, London on Sat 22 Aug.
+Innerstice is a techno and progressive house artist tracked on soundcheck, with 46 sets logged across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and Karellos. Next up: Camden Courtyard, London on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Innerstice is a techno and progressive house artist tracked on soundcheck, with 
 | Fri, 4 Sept 2026 | Tereza Joanne Boat | London |
 | Sun, 13 Sept 2026 | Club Cheek | London |
 | Fri, 9 Oct 2026 | Ministry Of Sound | London |
+| Fri, 30 Oct 2026 | E1 | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Innerstice is a techno and progressive house artist tracked on soundcheck, with 
 
 Carina Lawrence, Adela, Karellos
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*

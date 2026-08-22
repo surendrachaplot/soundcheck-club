@@ -1,6 +1,6 @@
 # Fedde Le Grand
 
-Fedde Le Grand is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 19 Sept 2026.
+Fedde Le Grand is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 19 Sept 2026.
 
 Fedde Le Grand is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Armin van Buuren, David Guetta and Paul Reynolds. Next up: Sunnyside Pavilion, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Fedde Le Grand is a house and progressive house artist based in Netherlands, tra
 
 Armin van Buuren, David Guetta, Paul Reynolds
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feddelegrand/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feddelegrand/)*

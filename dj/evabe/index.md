@@ -1,6 +1,6 @@
 # Eva Be
 
-Eva Be is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
+Eva Be is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
 
 Eva Be is a house and funk / soul artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Clé, DJ Cle and Eddy Ramich. Next up: Club der Visionaere, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Eva Be is a house and funk / soul artist tracked on soundcheck, with 23 sets log
 
 Clé, DJ Cle, Eddy Ramich
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evabe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evabe/)*

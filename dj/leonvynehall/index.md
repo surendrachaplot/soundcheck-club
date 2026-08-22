@@ -1,14 +1,13 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Floyd, Miami on Fri, 21 Aug 2026.
+Leon Vynehall is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at smartbar, Chicago on Sat, 22 Aug 2026.
 
-Leon Vynehall is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and NIKS. Next up: Floyd, Miami on Fri 21 Aug.
+Leon Vynehall is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Moxie, Young Marco and NIKS. Next up: smartbar, Chicago on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Floyd | Miami |
 | Sat, 22 Aug 2026 | smartbar | Chicago |
 | Thu, 27 Aug 2026 | Middlesex | Boston |
 | Fri, 28 Aug 2026 | Standard Time | Toronto |
@@ -19,6 +18,7 @@ Leon Vynehall is a house and techno artist tracked on soundcheck, with 134 sets 
 
 ## Recently played
 
+- Floyd, Miami — Fri, 21 Aug 2026
 - La Terrrazza, Barcelona — Sat, 8 Aug 2026
 - TBA - Shipyards North Vancouver, Vancouver — Sat, 18 Jul 2026
 - M.O.T, London — Sat, 20 Jun 2026
@@ -26,10 +26,9 @@ Leon Vynehall is a house and techno artist tracked on soundcheck, with 134 sets 
 - Concorde 2, Brighton — Fri, 12 Jun 2026
 - RSO.BERLIN, Berlin — Thu, 14 May 2026
 - Place Noord, Brussels — Sat, 9 May 2026
-- Frankhan Selectist, Istanbul — Sat, 2 May 2026
 
 ## Shares bills with
 
 Moxie, Young Marco, NIKS
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

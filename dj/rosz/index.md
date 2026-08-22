@@ -1,6 +1,6 @@
 # ROSZ
 
-ROSZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
+ROSZ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Smolna, Warsaw on Fri, 21 Aug 2026.
 
 ROSZ is a techno and house artist tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Piotr Ho, 2HOT2PLAY and BEXA. Next up: Smolna, Warsaw on Fri 21 Aug.
 
@@ -12,6 +12,7 @@ ROSZ is a techno and house artist tracked on soundcheck, with 4 sets logged acro
 
 ## Recently played
 
+- Smolna, Warsaw — Fri, 21 Aug 2026
 - Smolna, Warsaw — Fri, 12 Jun 2026
 - Smolna, Warsaw — Fri, 23 Aug 2024
 - K-Bar Powiśle, Warsaw — Thu, 25 May 2023
@@ -20,4 +21,4 @@ ROSZ is a techno and house artist tracked on soundcheck, with 4 sets logged acro
 
 Piotr Ho, 2HOT2PLAY, BEXA
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosz/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosz/)*

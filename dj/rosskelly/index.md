@@ -1,6 +1,6 @@
 # Ross Kelly
 
-Ross Kelly is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at The California Clipper, Chicago on Sat, 22 Aug 2026.
+Ross Kelly is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The California Clipper, Chicago on Sat, 22 Aug 2026.
 
 Ross Kelly is a new wave and italo disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago. Often billed alongside Jesse Sandwich, Ali Najdi and Beau Wanzer. Next up: The California Clipper, Chicago on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Ross Kelly is a new wave and italo disco artist based in United States of Americ
 
 Jesse Sandwich, Ali Najdi, Beau Wanzer
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosskelly/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosskelly/)*

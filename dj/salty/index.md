@@ -1,6 +1,6 @@
 # Salty
 
-Salty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Soleil, Toronto on Sat, 12 Sept 2026.
+Salty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Soleil, Toronto on Sat, 12 Sept 2026.
 
 Salty is a techno and house artist tracked on soundcheck, with 8 sets logged across Austin, Montreal, Nashville and Tokyo and 1 more. Often billed alongside 2HZY, 999ADJ and BMG. Next up: Soleil, Toronto on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Salty is a techno and house artist tracked on soundcheck, with 8 sets logged acr
 
 2HZY, 999ADJ, BMG
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salty/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salty/)*

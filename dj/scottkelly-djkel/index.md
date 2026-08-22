@@ -1,6 +1,6 @@
 # Scott Kelly (DJ Kel)
 
-Scott Kelly (DJ Kel) is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at TBA, Chicago on Fri, 11 Sept 2026.
+Scott Kelly (DJ Kel) is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Chicago on Fri, 11 Sept 2026.
 
 Scott Kelly (DJ Kel) is an acid and ambient artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago and Philadelphia. Often billed alongside m50, 6LOV3 and ADAB. Next up: TBA, Chicago on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Scott Kelly (DJ Kel) is an acid and ambient artist based in United States of Ame
 
 m50, 6LOV3, ADAB
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottkelly-djkel/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottkelly-djkel/)*

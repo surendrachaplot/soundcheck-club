@@ -1,6 +1,6 @@
 # KinAhau
 
-KinAhau is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
+KinAhau is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
 
 KinAhau is a house and tech house artist based in Mexico, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside Beltran, Danyelino and Ben Sterling. Next up: Elsewhere, Newyorkcity on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ KinAhau is a house and tech house artist based in Mexico, tracked on soundcheck,
 
 Beltran, Danyelino, Ben Sterling
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*

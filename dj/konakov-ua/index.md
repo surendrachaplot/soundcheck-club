@@ -1,6 +1,6 @@
 # Konakov
 
-Konakov is a Ambient and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+Konakov is a Ambient and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Konakov is an ambient and electro artist based in Ukraine, tracked on soundcheck, with 16 sets logged across Berlin, Glasgow, Liverpool and London and 1 more. Often billed alongside Andriy K., Neue Medecina and AXT. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ Konakov is an ambient and electro artist based in Ukraine, tracked on soundcheck
 
 Andriy K., Neue Medecina, AXT
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*

@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 12 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Electroclash: Post-Punk, Indie - with Evil Women [Punk Set] & residents" on Fri, 21 Aug 2026.
+Movers is a music venue in Nottingham with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "A love letter to... Donna Summer: Disco, House, R&B" on Sat, 22 Aug 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 12 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jamz Supernova and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 11 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jamz Supernova and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Electroclash: Post-Punk, Indie - with Evil Women [Punk Set] & residents |  |
 | Sat, 22 Aug 2026 | A love letter to... Donna Summer: Disco, House, R&B |  |
 | Thu, 27 Aug 2026 | Sip N Paint: hosted by Da Vinci Club |  |
 | Fri, 28 Aug 2026 | Victory Album Listening Party: Pholo, Frost, Morgue, Lvcky + more | Lvcky |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 12 upcoming nights, 
 | Sat, 5 Sept 2026 | ARCHAEOLOGY: Deep House - Digging for Beats |  |
 | Sat, 12 Sept 2026 | Truth & Lies: Wild and Heavy International Rhythms |  |
 | Fri, 18 Sept 2026 | Electroclash Y2K: Meebs, Annie, Meg Mog |  |
+| Sat, 19 Sept 2026 | Jack DiY & Free Party: A Folk History [Party + Film Screening] | Jack DiY |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

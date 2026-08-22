@@ -1,6 +1,6 @@
 # Mikekon
 
-Mikekon is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Coil, Melbourne on Sat, 22 Aug 2026.
+Mikekon is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Coil, Melbourne on Sat, 22 Aug 2026.
 
 Mikekon is a deep house and house artist tracked on soundcheck, with 37 sets logged across Melbourne and Sydney. Often billed alongside DJ Ingrid, ritmiq and James Locksmith. Next up: Coil, Melbourne on Sat 22 Aug.
 
@@ -26,4 +26,4 @@ Mikekon is a deep house and house artist tracked on soundcheck, with 37 sets log
 
 DJ Ingrid, ritmiq, James Locksmith
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekon/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekon/)*

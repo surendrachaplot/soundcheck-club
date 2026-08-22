@@ -1,6 +1,6 @@
 # M7 Club
 
-M7 Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "M7 presenta [Up Room] LAXTER, SuttleK & Rømerø [Main Room] Piolini, Adviro & Mëss" on Fri, 21 Aug 2026.
+M7 Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "M7 presenta [Main Room] Piolini, Adviro & Mëss [Up Room] LAXTER, SuttleK & Rømerø " on Fri, 21 Aug 2026.
 
 M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including AAD (1), Adviro, ArceX and Eva Toya and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Mèxic, 7, 08004 Barcelona, Spain.
 
@@ -8,7 +8,7 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | M7 presenta [Up Room] LAXTER, SuttleK & Rømerø [Main Room] Piolini, Adviro & Mëss | Adviro, LAXTER, SuttleK |
+| Fri, 21 Aug 2026 | M7 presenta [Main Room] Piolini, Adviro & Mëss [Up Room] LAXTER, SuttleK & Rømerø  | Adviro, LAXTER, SuttleK |
 | Sat, 22 Aug 2026 | Eva Toya, Mary Ann, Khali, Blessed, Guirao & Marc Fx | Eva Toya |
 | Sun, 23 Aug 2026 | HARD BOUNCE [Mêss & Adviro] | Adviro |
 | Thu, 27 Aug 2026 | HARD BOUNCE [Marc FX & Adviro] | Adviro |
@@ -23,4 +23,4 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, 
 
 Carrer de Mèxic, 7, 08004 Barcelona, Spain, Barcelona
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/m7-club/)*

@@ -1,6 +1,6 @@
 # anzie
 
-anzie is a R&B and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at BarKa, Warsaw on Sat, 22 Aug 2026.
+anzie is a R&B and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at BarKa, Warsaw on Sat, 22 Aug 2026.
 
 anzie is a r&b and baile funk artist tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside Janek Pirks, PITCHY PEACHY and Sosia. Next up: BarKa, Warsaw on Sat 22 Aug.
 
@@ -21,4 +21,4 @@ anzie is a r&b and baile funk artist tracked on soundcheck, with 5 sets logged a
 
 Janek Pirks, PITCHY PEACHY, Sosia
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anzie/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anzie/)*

@@ -1,6 +1,6 @@
 # Yuri
 
-Yuri is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 18 Aug 2026.
+Yuri is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at COUNTER CLUB, Tokyo on Tue, 18 Aug 2026.
 
 Yuri is a techno and progressive house artist based in Japan, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Berlin and Montreal and 1 more. Often billed alongside 1-800 GIRLS, AMARANTE and ANZU. Next up: COUNTER CLUB, Tokyo on Tue 18 Aug.
 
@@ -23,4 +23,4 @@ Yuri is a techno and progressive house artist based in Japan, tracked on soundch
 
 1-800 GIRLS, AMARANTE, ANZU
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuri/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuri/)*

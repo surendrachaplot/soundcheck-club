@@ -1,6 +1,6 @@
 # nath eps
 
-nath eps is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Club Cheek, London on Sat, 19 Sept 2026.
+nath eps is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Cheek, London on Sat, 19 Sept 2026.
 
 nath eps is a house and funk / soul artist tracked on soundcheck, with 16 sets logged across Berlin, Bristol and London. Often billed alongside joey manzi, Saige Sounds and Alexander Nut. Next up: Club Cheek, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ nath eps is a house and funk / soul artist tracked on soundcheck, with 16 sets l
 
 joey manzi, Saige Sounds, Alexander Nut
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natheps/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natheps/)*

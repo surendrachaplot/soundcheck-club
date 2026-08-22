@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "TORMENTA: Ina Housez B2B Giulia Mad, DJ Chris B2B Bembi, Guido Mik , Vico Deep, Yhago" on Fri, 21 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "TORMENTA: Ina Housez B2B Giulia Mad, DJ Chris B2B Bembi, Guido Mik , Vico Deep, Yhago" on Fri, 21 Aug 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Bembi and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 22 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Bembi and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 19 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

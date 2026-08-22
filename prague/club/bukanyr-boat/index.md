@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Fri, 21 Aug 2026; the next is "Vivacity - Pavel Bidlo, Cubik, Kobe" on Fri, 21 Aug 2026.
+Bukanyr Boat is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Vivacity - Pavel Bidlo, Cubik, Kobe" on Fri, 21 Aug 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including Axis Alpha, Biodan, Blackloud and Cubik and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -21,4 +21,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming nights,
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

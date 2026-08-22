@@ -1,6 +1,6 @@
 # SIS:DEM
 
-SIS:DEM is a Garage and Dub artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
+SIS:DEM is a Garage and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
 
 SIS:DEM is a garage and dub artist tracked on soundcheck, with 17 sets logged across Bristol and London. Often billed alongside Lily Huu, Phia500 and Duality. Next up: The Crown, Bristol on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ SIS:DEM is a garage and dub artist tracked on soundcheck, with 17 sets logged ac
 
 Lily Huu, Phia500, Duality
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisdem/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sisdem/)*

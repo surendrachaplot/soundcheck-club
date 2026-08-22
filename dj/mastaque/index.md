@@ -1,6 +1,6 @@
 # mastaque
 
-mastaque is a Hip-Hop and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+mastaque is a Hip-Hop and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
 
 mastaque is a hip-hop and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Cass Brewster, Continental GT and Crazy Cousinz. Next up: Ministry Of Sound, London on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ mastaque is a hip-hop and garage artist based in United Kingdom, tracked on soun
 
 Cass Brewster, Continental GT, Crazy Cousinz
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*

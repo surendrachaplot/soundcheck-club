@@ -1,6 +1,6 @@
 # Acid Boner
 
-Acid Boner is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
+Acid Boner is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Acid Boner is an acid and techno artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Aberdeen, Barcelona, Dundee and Edinburgh and 2 more. Often billed alongside Illogical Operator, Cornetta and Is Kill. Next up: Monarch, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Acid Boner is an acid and techno artist based in United Kingdom, tracked on soun
 
 Illogical Operator, Cornetta, Is Kill
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidboner/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidboner/)*

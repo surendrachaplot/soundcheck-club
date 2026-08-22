@@ -1,6 +1,6 @@
 # Grippe
 
-Grippe is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Sensorium, Berlin on Wed, 2 Sept 2026.
+Grippe is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sensorium, Berlin on Wed, 2 Sept 2026.
 
 Grippe is a tech house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Bee Lincoln, Viktor Kampf and C.R.MINE. Next up: Sensorium, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Grippe is a tech house and techno artist based in Germany, tracked on soundcheck
 
 Bee Lincoln, Viktor Kampf, C.R.MINE
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grippe/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grippe/)*

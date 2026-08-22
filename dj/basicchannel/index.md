@@ -1,6 +1,6 @@
 # Basic Channel
 
-Basic Channel is a Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
+Basic Channel is a Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Melkweg, Amsterdam on Sun, 25 Oct 2026.
 
 Basic Channel is a dub artist based in Germany, tracked on soundcheck, with 3 sets logged across Amsterdam, Dublin and Nurnberg. Often billed alongside Moritz von Oswald, Bernossi and Cleric. Next up: Melkweg, Amsterdam on Sun 25 Oct.
 
@@ -19,4 +19,4 @@ Basic Channel is a dub artist based in Germany, tracked on soundcheck, with 3 se
 
 Moritz von Oswald, Bernossi, Cleric
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchannel/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchannel/)*

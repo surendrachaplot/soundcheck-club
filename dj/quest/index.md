@@ -1,13 +1,14 @@
 # Quest
 
-Quest is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 28 Aug 2026.
+Quest is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Gorg-O-Mish, Vancouver on Sun, 23 Aug 2026.
 
-Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 28 Aug.
+Quest is a techno and house artist based in United Kingdom, tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 29 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Gorg-O-Mish, Vancouver on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 23 Aug 2026 | Gorg-O-Mish | Vancouver |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Sept 2026 | Stereo | Montreal |
 | Sun, 6 Sept 2026 | Jolene Downtown Miami | Miami |
@@ -31,4 +32,4 @@ Quest is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Christian AB, Adiel, Marcel Dettmann
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*

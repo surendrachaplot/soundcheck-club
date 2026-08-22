@@ -1,6 +1,6 @@
 # DJ Dommis
 
-DJ Dommis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 22 Aug 2026.
+DJ Dommis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Margolis Music Lounge, Philadelphia on Sat, 22 Aug 2026.
 
 DJ Dommis is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJ Delish, Rob Paine and DJ lil'dave. Next up: Margolis Music Lounge, Philadelphia on Sat 22 Aug.
 
@@ -25,4 +25,4 @@ DJ Dommis is a house and funk / soul artist based in United States of America, t
 
 DJ Delish, Rob Paine, DJ lil'dave
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdommis/)*

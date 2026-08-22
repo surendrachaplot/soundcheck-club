@@ -1,6 +1,6 @@
 # Ryan King
 
-Ryan King is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
+Ryan King is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
 
 Ryan King is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity and Philadelphia. Often billed alongside Burchan Acar, Amy Jor and Bella Mutino. Next up: Roof Terrace BK, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Ryan King is a house and techno artist based in United States of America, tracke
 
 Burchan Acar, Amy Jor, Bella Mutino
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*

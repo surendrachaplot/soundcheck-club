@@ -1,13 +1,14 @@
 # Eline (BE)
 
-Eline (BE) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 21 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Eline (BE) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
 
-Eline (BE) is a house and electro artist tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: ZENNER, Berlin on Fri 16 Oct.
+Eline (BE) is a house and electro artist tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 2 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: TBA - Secret Venue, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | TBA - Secret Venue | Berlin |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Eline (BE) is a house and electro artist tracked on soundcheck, with 28 sets log
 
 Courtesy, Lola Haro, r.omy
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*

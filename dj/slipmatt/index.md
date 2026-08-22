@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a House and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 21 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 22 Aug 2026.
+Slipmatt is a House and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Slipmatt is a house and hardcore artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Ratpack, Nicky Blackmarket and DJ SS. Next up: 528 Ibiza, Ibiza on Sat 22 Aug.
 
@@ -28,4 +28,4 @@ Slipmatt is a house and hardcore artist tracked on soundcheck, with 60 sets logg
 
 Ratpack, Nicky Blackmarket, DJ SS
 
-*Updated Fri, 21 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
