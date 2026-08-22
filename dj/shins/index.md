@@ -1,8 +1,8 @@
 # Shins
 
-Shins is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Edge Seoul, Seoul on Fri, 28 Aug 2026.
+Shins is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Edge Seoul, Seoul on Fri, 28 Aug 2026.
 
-Shins is a garage and jungle artist based in South Korea, tracked on soundcheck, with 113 sets logged across Bangkok, Hongkong, Kyoto and Seoul and 1 more. Often billed alongside Mordecai, DJ Co.kr and Juuno. Next up: The Edge Seoul, Seoul on Fri 28 Aug.
+Shins is a garage and jungle artist based in South Korea, tracked on soundcheck, with 114 sets logged across Bangkok, Hongkong, Kyoto and Seoul and 1 more. Often billed alongside Mordecai, DJ Co.kr and Juuno. Next up: The Edge Seoul, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shins is a garage and jungle artist based in South Korea, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Edge Seoul | Seoul |
 | Tue, 1 Sept 2026 | Cakeshop | Seoul |
+| Sat, 12 Sept 2026 | The Edge Seoul | Seoul |
 
 ## Recently played
 

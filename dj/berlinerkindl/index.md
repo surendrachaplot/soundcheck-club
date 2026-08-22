@@ -11,8 +11,8 @@ BERLINER KINDL is a techno and psytrance artist based in Japan, tracked on sound
 | Sat, 22 Aug 2026 | Koenji Cave | Tokyo |
 | Thu, 27 Aug 2026 | R Lounge | Tokyo |
 | Sat, 29 Aug 2026 | Koenji Cave | Tokyo |
-| Sat, 5 Sept 2026 | Cave | Tokyo |
-| Sat, 12 Sept 2026 | Cave | Tokyo |
+| Sat, 5 Sept 2026 | Koenji Cave | Tokyo |
+| Sat, 12 Sept 2026 | Koenji Cave | Tokyo |
 
 ## Recently played
 

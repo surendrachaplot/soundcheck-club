@@ -1,14 +1,15 @@
 # Sawteeth
 
-Sawteeth is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Edge Seoul, Seoul on Fri, 28 Aug 2026.
+Sawteeth is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Edge Seoul, Seoul on Fri, 28 Aug 2026.
 
-Sawteeth is a jungle and garage artist based in South Korea, tracked on soundcheck, with 22 sets logged across Seoul. Often billed alongside Shins, DJ Funny and Pjeon. Next up: The Edge Seoul, Seoul on Fri 28 Aug.
+Sawteeth is a jungle and garage artist based in South Korea, tracked on soundcheck, with 23 sets logged across Seoul. Often billed alongside Shins, DJ Funny and Pjeon. Next up: The Edge Seoul, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Edge Seoul | Seoul |
+| Sat, 12 Sept 2026 | The Edge Seoul | Seoul |
 
 ## Recently played
 

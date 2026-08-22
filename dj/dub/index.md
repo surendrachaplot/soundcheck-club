@@ -1,14 +1,15 @@
 # dUb
 
-dUb is a Dub and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Blues Kitchen Brixton, London on Sun, 13 Sept 2026.
+dUb is a Dub and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Blues Kitchen Brixton, London on Sun, 13 Sept 2026.
 
-dUb is a dub and funk / soul artist based in Greece, tracked on soundcheck, with 24 sets logged across Bali, Bangkok, Barcelona and Bristol and 10 more. Often billed alongside Bass, Jungle (UK) and AM (8). Next up: The Blues Kitchen Brixton, London on Sun 13 Sept.
+dUb is a dub and funk / soul artist based in Greece, tracked on soundcheck, with 25 sets logged across Bali, Bangkok, Barcelona and Bristol and 11 more. Often billed alongside Bass, Jungle (UK) and AM (8). Next up: The Blues Kitchen Brixton, London on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | The Blues Kitchen Brixton | London |
+| Sat, 19 Sept 2026 | The Coup by BUNKERBUNKER!! | Singapore |
 
 ## Recently played
 
