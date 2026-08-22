@@ -1,14 +1,13 @@
 # Kilo Vee
 
-Kilo Vee is a Bass and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at OHM, Berlin on Fri, 21 Aug 2026.
+Kilo Vee is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at HWK, London on Sat, 22 Aug 2026.
 
-Kilo Vee is a bass and club artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside ALEX WANG, Rui Ho and 8Kitoo. Next up: OHM, Berlin on Fri 21 Aug.
+Kilo Vee is a bass and club artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside ALEX WANG, Rui Ho and 8Kitoo. Next up: HWK, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | OHM | Berlin |
 | Sat, 22 Aug 2026 | HWK | London |
 | Fri, 28 Aug 2026 | Laak | The Hague |
 

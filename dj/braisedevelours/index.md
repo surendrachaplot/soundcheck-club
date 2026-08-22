@@ -1,14 +1,13 @@
 # Braises de Velours
 
-Braises de Velours is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
+Braises de Velours is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Port-Choiseul, Geneva on Fri, 21 Aug 2026.
 
-Braises de Velours is a bass and drum & bass artist based in Switzerland, tracked on soundcheck, with 48 sets logged across Geneva, Lyon, Milan and Nantes and 2 more. Often billed alongside Dj Laxxiste A., picchu and ATØNAL. Next up: La Gravière, Geneva on Fri 21 Aug.
+Braises de Velours is a bass and drum & bass artist based in Switzerland, tracked on soundcheck, with 48 sets logged across Geneva, Lyon, Milan and Nantes and 2 more. Often billed alongside Dj Laxxiste A., picchu and ATØNAL. Next up: Port-Choiseul, Geneva on Fri 21 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | La Gravière | Geneva |
 | Fri, 21 Aug 2026 | Port-Choiseul | Geneva |
 
 ## Recently played

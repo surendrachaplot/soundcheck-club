@@ -1,14 +1,13 @@
 # Christa K
 
-Christa K is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hoppetosse, Berlin on Fri, 21 Aug 2026.
+Christa K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Westhafen, Leipzig on Sat, 19 Sept 2026.
 
-Christa K is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: Hoppetosse, Berlin on Fri 21 Aug.
+Christa K is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: Westhafen, Leipzig on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Hoppetosse | Berlin |
 | Sat, 19 Sept 2026 | Westhafen | Leipzig |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Karyendasoul
 
-Karyendasoul is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Parallel, Amsterdam on Fri, 21 Aug 2026.
+Karyendasoul is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Karyendasoul is an afro house and deep house artist based in South Africa, tracked on soundcheck, with 14 sets logged across Amsterdam, Lisbon, London and Malta and 2 more. Often billed alongside Meedy, Rancido and DJ BREYTH. Next up: Parallel, Amsterdam on Fri 21 Aug.
+Karyendasoul is an afro house and deep house artist based in South Africa, tracked on soundcheck, with 14 sets logged across Amsterdam, Lisbon, London and Malta and 2 more. Often billed alongside Meedy, Rancido and DJ BREYTH. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Parallel | Amsterdam |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 
 ## Recently played

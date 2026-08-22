@@ -1,14 +1,13 @@
 # Matriark
 
-Matriark is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 21 Aug 2026.
+Matriark is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hangaren, Copenhagen on Sun, 23 Aug 2026.
 
-Matriark is a techno and trance artist based in Norway, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Den Anden Side, Copenhagen on Fri 21 Aug.
+Matriark is a techno and trance artist based in Norway, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: Hangaren, Copenhagen on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Den Anden Side | Copenhagen |
 | Sun, 23 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 4 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Sat, 5 Sept 2026 | Hangaren | Copenhagen |

@@ -1,14 +1,13 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Meke invites: justcallmesergio, Lil Dave" on Fri, 21 Aug 2026.
+Sekta Selekta is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "LOCAL CONNECTION: ZAREMBA, jjvisionn, Hubsond, CONCLAVE" on Sat, 22 Aug 2026.
 
-Sekta Selekta is a music venue in Krakow listed on soundcheck. 5 upcoming nights, with line-ups including 4\4, Casio the Calculator, Glassz and Hubsond and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
+Sekta Selekta is a music venue in Krakow listed on soundcheck. 4 upcoming nights, with line-ups including 4\4, Casio the Calculator, Glassz and Hubsond and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Meke invites: justcallmesergio, Lil Dave | Lil'Dave, Meke, justcallmesergio |
 | Sat, 22 Aug 2026 | LOCAL CONNECTION: ZAREMBA, jjvisionn, Hubsond, CONCLAVE | Hubsond, ZAREMBA |
 | Sun, 23 Aug 2026 | The Waves of Emotions at Sekta Selekta | Glassz, Kondrat |
 | Fri, 28 Aug 2026 | Sekta Selekta: Maksym Tkach, Casio the Calculator, user228322 | Casio the Calculator, Maksym Tkach, user228322 |

@@ -1,14 +1,13 @@
 # Charleen Herzig
 
-Charleen Herzig is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Südpol, Hamburg on Fri, 21 Aug 2026.
+Charleen Herzig is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
 
-Charleen Herzig is a techno and trance artist tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Limoncello, Katy Rough and DETOXX. Next up: Südpol, Hamburg on Fri 21 Aug.
+Charleen Herzig is a techno and trance artist tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Limoncello, Katy Rough and DETOXX. Next up: Sommerbad Neukölln, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Südpol | Hamburg |
 | Sun, 30 Aug 2026 | Sommerbad Neukölln | Berlin |
 | Sun, 30 Aug 2026 | Sommerbad Neuköln | Berlin |
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |

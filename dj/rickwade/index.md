@@ -1,14 +1,13 @@
 # Rick Wade
 
-Rick Wade is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - 15605 Woodrow Wilson st Detroit , Detroit on Fri, 21 Aug 2026.
+Rick Wade is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Marble Bar, Detroit on Fri, 28 Aug 2026.
 
-Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Barcelona, Buenosaires and Chicago and 9 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: TBA - 15605 Woodrow Wilson st Detroit , Detroit on Fri 21 Aug.
+Rick Wade is a house and deep house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Austin, Barcelona, Buenosaires and Chicago and 9 more. Often billed alongside Chuck Daniels, Norm Talley and Delano Smith. Next up: Marble Bar, Detroit on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA - 15605 Woodrow Wilson st Detroit  | Detroit |
 | Fri, 28 Aug 2026 | Marble Bar | Detroit |
 
 ## Recently played

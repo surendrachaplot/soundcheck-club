@@ -1,14 +1,13 @@
 # Stereo
 
-Stereo is a music venue in Montreal with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "OCTOV x Stereo: Patrick Mason - KORVN" on Fri, 21 Aug 2026.
+Stereo is a music venue in Montreal with 20 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Eelke Kleijn (All Night Long)" on Sat, 22 Aug 2026.
 
-Stereo is a music venue in Montreal listed on soundcheck. 21 upcoming nights, with line-ups including Âme, Andrey Pushkarev, Chus & Ceballos and Danny Tenaglia and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
+Stereo is a music venue in Montreal listed on soundcheck. 20 upcoming nights, with line-ups including Âme, Andrey Pushkarev, Chus & Ceballos and Danny Tenaglia and 2 more. Browse upcoming dates, start times and who's playing. 858 Saint-Catherine Street East; Montreal, QC H2L 2E3; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | OCTOV x Stereo: Patrick Mason - KORVN | KORVN, Patrick Mason |
 | Sat, 22 Aug 2026 | Eelke Kleijn (All Night Long) | Eelke Kleijn |
 | Fri, 28 Aug 2026 | Luigi Madonna - Mayfie | Luigi Madonna |
 | Sat, 29 Aug 2026 | Chus & Ceballos (All Night Long) | Chus & Ceballos |
@@ -18,6 +17,7 @@ Stereo is a music venue in Montreal listed on soundcheck. 21 upcoming nights, wi
 | Sat, 12 Sept 2026 | Analog Volts x Stereo: Flo Massé - Monile | Flo Massé, Monile |
 | Fri, 18 Sept 2026 | Wata Igarashi | Wata Igarashi |
 | Sat, 19 Sept 2026 | Âme (Live) - Trikk | Trikk, Âme |
+| Fri, 25 Sept 2026 | Ignez - Marcal | Ignez, Marcal |
 
 ## Address
 

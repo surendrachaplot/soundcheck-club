@@ -1,14 +1,13 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gorg-O-Mish presents: Jared Love, Leon V & Kardano" on Fri, 21 Aug 2026.
+Gorg-O-Mish is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gorg-O-Mish presents: Jon Delerious, Luke McKeehan & Tyler Stadius" on Sat, 22 Aug 2026.
 
-Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 6 upcoming nights, with line-ups including 2flowers, Adam 2, Jared Love and Kardano and 2 more. Browse upcoming dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
+Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 5 upcoming nights, with line-ups including 2flowers, Adam 2, Luca Fernandez and Luke McKeehan and 2 more. Browse upcoming dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Gorg-O-Mish presents: Jared Love, Leon V & Kardano | Jared Love, Kardano, Leon V |
 | Sat, 22 Aug 2026 | Gorg-O-Mish presents: Jon Delerious, Luke McKeehan & Tyler Stadius | Luke McKeehan, Tyler Stadius |
 | Sun, 23 Aug 2026 | Gorg-O-Mish presents: Quest & G-Luve | Quest |
 | Fri, 28 Aug 2026 | Gorg-O-Mish presents: Neighbour, Mike McSuede & Sirena | Mike McSuede, Neighbour, Sirena |

@@ -1,14 +1,13 @@
 # RichBeat
 
-RichBeat is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+RichBeat is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Lokschuppen Berlin, Berlin on Tue, 25 Aug 2026.
 
-RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Lisatrix, e.leptic and B.R.K.Ø.. Next up: ://about blank, Berlin on Fri 21 Aug.
+RichBeat is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Lisatrix, e.leptic and B.R.K.Ø.. Next up: Lokschuppen Berlin, Berlin on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | ://about blank | Berlin |
 | Tue, 25 Aug 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

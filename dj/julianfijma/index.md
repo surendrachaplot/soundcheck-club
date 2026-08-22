@@ -1,14 +1,13 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Ground at Club Space, Miami on Fri, 21 Aug 2026.
+Julian Fijma is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Cova Santa, Ibiza on Mon, 7 Sept 2026.
 
-Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 30 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: The Ground at Club Space, Miami on Fri 21 Aug.
+Julian Fijma is a house and tech house artist tracked on soundcheck, with 108 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 30 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: Cova Santa, Ibiza on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | The Ground at Club Space | Miami |
 | Mon, 7 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 11 Sept 2026 | Coda | Toronto |
 | Sat, 12 Sept 2026 | Smoke & Mirrors | Chicago |

@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE" on Fri, 21 Aug 2026.
+Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe" on Sat, 22 Aug 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including 00rt, Alba Franch, Amine S and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 00rt, Alba Franch, Amine S and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Amnexia 10 ANS: TOXIC MACHINERY b2b USH, RAGETRAIN & MORE | Nightowl |
 | Sat, 22 Aug 2026 | CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe | Camille Doe, Ewan McVicar, Lu.Re, Matrefakt |
 | Fri, 28 Aug 2026 | RAW : KLOUD, LARS HUISMANN, Danny Wabbit, Tigerhead & Dizzy | Danny Wabbit, Dizzy, KLOUD, Tigerhead |
 | Sat, 29 Aug 2026 | ROAR x ORGANÏK x 23:59: OPEN RAVE AFTERPARTY | Radar (RU), Rebekah, Stan Christ |
@@ -18,6 +17,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 14 upcoming nights, with
 | Fri, 11 Sept 2026 | THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE | A.N.I., BOTICKA, SaltySis, Yoshiko |
 | Sat, 12 Sept 2026 | TAPE: Felinae, Amygdala, FC Kabagar, INSO.ENCE, KLÖSS &  | Amygdala, Annie, FC Kabagar, Felinae, KLÖSS |
 | Thu, 17 Sept 2026 | Orka: MOSMOZ, Wanton, SKOLLARIS & PAULINE D7 | Wanton |
+| Sat, 19 Sept 2026 | OFF THE GRID: Dave Clarke, Louisahhh, Candy Cox, L.F.T, David Shaw and The Beat live | Candy Cox, Dave Clarke, David Shaw and The Beat, L.F.T., Louisahhh |
 
 ## Address
 

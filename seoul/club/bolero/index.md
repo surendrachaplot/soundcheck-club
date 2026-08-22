@@ -1,14 +1,13 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Bolero: DEEP BREATH" on Fri, 21 Aug 2026.
+Bolero is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Bolero: WAV INVITES: FUZZ" on Sat, 22 Aug 2026.
 
-Bolero is a music venue in Seoul listed on soundcheck. 5 upcoming nights, with line-ups including BILL.E, bojvck, DASTY and DOBERMAN and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
+Bolero is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including BILL.E, bojvck, DOBERMAN and Hyejin and 2 more. Browse upcoming dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Bolero: DEEP BREATH | DASTY, KINGMCK, SKiiDA |
 | Sat, 22 Aug 2026 | Bolero: WAV INVITES: FUZZ | BILL.E, SKiiDA, Yunu |
 | Thu, 27 Aug 2026 | Bolero: 'LUST' RELEASE PARTY | MOHOHOMO, OLOGI, SKiiDA, Xena (KR), Zion |
 | Fri, 28 Aug 2026 | Bolero: FRIENDS | DOBERMAN, KOLLIN, MAR VISTA, SKiiDA, SVRS |

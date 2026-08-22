@@ -1,14 +1,13 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+Vagabund is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 23 Aug 2026.
 
-Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Basel and Berlin and 10 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
+Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Basel and Berlin and 10 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Kiesgrube, Dusseldorf on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Razzmatazz | Barcelona |
 | Sun, 23 Aug 2026 | Kiesgrube | Düsseldorf |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Gewölbe | Cologne |

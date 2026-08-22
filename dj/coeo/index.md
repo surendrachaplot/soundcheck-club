@@ -1,14 +1,13 @@
 # COEO
 
-COEO is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
+COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
-COEO is a house and disco artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Kapote, Max NRG Supply and Athlete Whippet. Next up: Bahnwärter Thiel, Munich on Fri 21 Aug.
+COEO is a house and disco artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Kapote, Max NRG Supply and Athlete Whippet. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Bahnwärter Thiel | Munich |
 | Sat, 5 Sept 2026 | Ministry Of Sound | London |
 | Sat, 12 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 14 Nov 2026 | Sala Villanos | Madrid |

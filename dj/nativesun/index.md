@@ -1,14 +1,13 @@
 # Nativesun
 
-Nativesun is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Gravière, Geneva on Fri, 21 Aug 2026.
+Nativesun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
 
-Nativesun is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Geneva and London and 13 more. Often billed alongside James Bangura, Black Rave Culture and Amal. Next up: La Gravière, Geneva on Fri 21 Aug.
+Nativesun is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Geneva and London and 13 more. Often billed alongside James Bangura, Black Rave Culture and Amal. Next up: Bastet, Philadelphia on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | La Gravière | Geneva |
 | Sat, 5 Sept 2026 | Bastet | Philadelphia |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 

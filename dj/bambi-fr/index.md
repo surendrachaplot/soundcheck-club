@@ -1,14 +1,13 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Macadam, Nantes on Fri, 21 Aug 2026.
+Bambi (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at FOLD, London on Sat, 22 Aug 2026.
 
-Bambi (FR) is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: Macadam, Nantes on Fri 21 Aug.
+Bambi (FR) is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: FOLD, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Macadam | Nantes |
 | Sat, 22 Aug 2026 | FOLD | London |
 
 ## Recently played

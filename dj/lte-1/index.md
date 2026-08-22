@@ -1,14 +1,13 @@
 # LTE (1)
 
-LTE (1) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Newtown Radio, New York City on Fri, 21 Aug 2026.
+LTE (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 1 Sept 2026.
 
-LTE (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside Jalpari, Alex Hell-n and Petal. Next up: Newtown Radio, Newyorkcity on Fri 21 Aug.
+LTE (1) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside Jalpari, Alex Hell-n and Petal. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Newtown Radio | New York City |
 | Tue, 1 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "INPUT pres Part Time Killer & Trancemaster Krause" on Fri, 21 Aug 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "PRISM pres Daria Kolosova" on Sat, 22 Aug 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including 753, Adiel, Ana Alves and ARODES and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including 753, Adiel, Ana Alves and ARODES and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | INPUT pres Part Time Killer & Trancemaster Krause | Keyklau, Part Time Killer, Trancemaster Krause |
 | Sat, 22 Aug 2026 | PRISM pres Daria Kolosova | Daria Kolosova |
 | Sun, 23 Aug 2026 | OUTRO Official Afterparty | ARODES, Echonomist, Josh Gigante, Martim Rola, Way Of Thinking |
 | Sun, 23 Aug 2026 | OUTRO / Official Afterparty 23.08 / Artists from Brunch Electronik To Be Announced | ARODES, Echonomist, Way Of Thinking |
@@ -18,6 +17,7 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Sun, 30 Aug 2026 | OUTRO Official Afterparty |  |
 | Fri, 4 Sept 2026 | PRISM pres D. DAN | Ana Alves, D.Dan |
 | Thu, 10 Sept 2026 | PRISM Hard pres Azyr | Azyr, Giusseppi |
+| Fri, 11 Sept 2026 | INPUT pres HI-LO | HI-LO, LOZA/ANSO |
 
 ## Address
 

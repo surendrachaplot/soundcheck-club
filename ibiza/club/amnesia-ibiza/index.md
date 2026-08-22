@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 43 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Glitterbox" on Fri, 21 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 42 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Pyramid" on Sun, 23 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 43 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 42 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Glitterbox | Busy P, Cassius, Catz 'N Dogz, Groove Armada, MiNNA, Mousse T., Salomé Le Chat, Todd Terry |
 | Sun, 23 Aug 2026 | Pyramid | Aida Arko, Clara Cuvé, Fumiya Tanaka, Germano Ventura, Juliet Fox, Kepler, Laidlaw, Ricardo Villalobos, Sara Landry |
 | Mon, 24 Aug 2026 | NRG | Ben Hemsley, Black Traffic, Diffrent, Jezza & Jod |
 | Tue, 25 Aug 2026 | Joseph Capriati presents Metamorfosi | ANNĒ, Alarico, Antonio Pepe, Archie Hamilton, Enzo Siragusa, Fleur Shore, Freddy K, Joseph Capriati, Marco Tropeano |
@@ -18,6 +17,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 43 upcoming nights
 | Sun, 30 Aug 2026 | Pyramid | 999999999, Ben Sterling, Gaskin, Katnada, Kim April, Nina Kraviz, Saraga, Yanamaste |
 | Mon, 31 Aug 2026 | NRG | Ben Hemsley, Benwal, DART, Denis Sulta, Kyle Starkey, Leena Punks, Robbie Doherty |
 | Tue, 1 Sept 2026 | Joseph Capriati presents Metamorfosi | ALEXANDER M, Anfisa Letyago, Ben Klock, GENNARO, Héctor Oaks, Joseph Capriati, Josh Baker, MØSENGGE |
+| Wed, 2 Sept 2026 | Resistance Ibiza | Adam Beyer, Eric Prydz, Innellea |
 
 ## Address
 

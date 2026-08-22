@@ -1,14 +1,13 @@
 # Kasper Koman
 
-Kasper Koman is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kassa Boat, Budapest on Fri, 21 Aug 2026.
+Kasper Koman is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Kasper Koman is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Jody Wisternoff, Alex O'Rion and Because of Art. Next up: Kassa Boat, Budapest on Fri 21 Aug.
+Kasper Koman is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Jody Wisternoff, Alex O'Rion and Because of Art. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kassa Boat | Budapest |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Thu, 22 Oct 2026 | Akhnaton | Amsterdam |
 | Thu, 22 Oct 2026 | Paradiso | Amsterdam |

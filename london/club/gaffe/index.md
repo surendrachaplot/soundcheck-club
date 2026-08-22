@@ -1,14 +1,13 @@
 # Gaffe
 
-Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze" on Fri, 21 Aug 2026.
+Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Singularity X Ground Rules: Day 2 Night" on Sat, 22 Aug 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Aleromaze and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Alien Communications and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Indigaura: AYIM, Cosmic Caz, Kaytseng, Melati, Medlock & Xquisite Korpse, Aleromaze | AYIM, Aleromaze, Cosmic Caz, Kaytseng, Max Burstyn, Medlock, Melati, Xquisite Korpse |
 | Sat, 22 Aug 2026 | Singularity X Ground Rules: Day 2 Night |  |
 | Fri, 28 Aug 2026 | FREEDIVE//004:Wendy,Gamine,Massimo | Gamine, Wendy Bkz |
 | Sun, 30 Aug 2026 | May I? - Holy Tongue (Live), Craig Richards, Peach, Enrica Falqui, Chez De Milo, Jay Duncan  | Chez de Milo, Craig Richards, Enrica Falqui, Gabriel Rai, Jay Duncan, Kian OK, Patrick Rowe, Peach |
@@ -18,6 +17,7 @@ Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with 
 | Fri, 18 Sept 2026 | Refractor On Tour London ● 5th Anniversary ● | Feral, Jan Swam, TSUNIMAN, Timnah |
 | Sat, 19 Sept 2026 | Wisdom Teeth: Pariah, Manami, Jorg Kuning, FYI Robyn & Facta x K-LONE (All Day Long) | FYI Robyn, Facta, Jorg Kuning, K-LONE, Manami, Pariah |
 | Sun, 20 Sept 2026 | meanwhile... summer closing | ANNX, Fais Le Beau, Ludi, Oliver Scala, Wigs |
+| Fri, 25 Sept 2026 | Nachtlicker XI |  |
 
 ## Address
 

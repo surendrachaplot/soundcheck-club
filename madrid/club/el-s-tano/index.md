@@ -1,14 +1,13 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 22 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "TORMENTA: Ina Housez B2B Giulia Mad, DJ Chris B2B Bembi, Guido Mik , Vico Deep, Yhago" on Fri, 21 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "HOUSENATION X ROTTEN CITY BASEMENT: Javi Redondo, Álvaro Cabana" on Sat, 22 Aug 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 22 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Bembi and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Deetron and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TORMENTA: Ina Housez B2B Giulia Mad, DJ Chris B2B Bembi, Guido Mik , Vico Deep, Yhago | Bembi, Giulia Mad, Guidomik, Vico Deep, Yhago |
 | Sat, 22 Aug 2026 | HOUSENATION X ROTTEN CITY BASEMENT: Javi Redondo, Álvaro Cabana | Alvaro Cabana, Javi Redondo |
 | Sun, 23 Aug 2026 | RIOT CLUB: Arzadous, Arok Shiva, Capitán Pum Pum | Arok Shiva |
 | Thu, 27 Aug 2026 | DANZE AFRIKA: DJ Mois, DJ MBA | DJ MBA, DJ Mois |
@@ -18,6 +17,7 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 22 upcoming nights, 
 | Sun, 30 Aug 2026 | RIOT CLUB: Stereocode, Arok Shiva, Jorge Carreño | Arok Shiva |
 | Fri, 4 Sept 2026 | AXIOM CLUBBING: Xpansul, R1TON, Súper Pä, Sfhir | R1TON, Súper Pä, Xpansul |
 | Sat, 5 Sept 2026 | BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea | Héctor Pericet, Julio Machicado |
+| Sun, 6 Sept 2026 | RIOT CLUB: Alviker, Arok Shiva, Leofix | Alviker, Arok Shiva, Leofix |
 
 ## Address
 

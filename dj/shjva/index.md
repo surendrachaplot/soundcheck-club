@@ -1,14 +1,13 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Mastak, Warsaw on Fri, 21 Aug 2026.
+Shjva is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
-Shjva is a techno and trance artist tracked on soundcheck, with 80 sets logged across Athens, Berlin, Brussels and Cologne and 15 more. Often billed alongside Samogulov, Plastik (1) and Volodymyr Gnatenko. Next up: Mastak, Warsaw on Fri 21 Aug.
+Shjva is a techno and trance artist tracked on soundcheck, with 80 sets logged across Athens, Berlin, Brussels and Cologne and 15 more. Often billed alongside Samogulov, Plastik (1) and Volodymyr Gnatenko. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Mastak | Warsaw |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 5 Sept 2026 | Miradouro de Baixo | Lisbon |
 | Fri, 11 Sept 2026 | TBA - secret location | Copenhagen |

@@ -1,14 +1,13 @@
 # NeZoomie
 
-NeZoomie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at OXI, Berlin on Fri, 21 Aug 2026.
+NeZoomie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
 
-NeZoomie is a house and disco artist based in Italy, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Frank Motetti, Anjawah and Unsined. Next up: OXI, Berlin on Fri 21 Aug.
+NeZoomie is a house and disco artist based in Italy, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Frank Motetti, Anjawah and Unsined. Next up: Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | OXI | Berlin |
 | Sat, 26 Sept 2026 | Kesselhaus & Maschinenhaus Kulturbrauerei Berlin | Berlin |
 
 ## Recently played

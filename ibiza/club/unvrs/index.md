@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 49 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "David Guetta presents Galactic Circus" on Fri, 21 Aug 2026.
+[UNVRS] is a music venue in Ibiza with 48 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "elrow Ibiza" on Sat, 22 Aug 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 49 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 48 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | David Guetta presents Galactic Circus | David Guetta, Loofy, Meduza |
 | Sat, 22 Aug 2026 | elrow Ibiza | De La Swing, Fatboy Slim, Fatzo, Oden, Us Two |
 | Sun, 23 Aug 2026 | Carl Cox | Carl Cox, PAUZA, The Martinez Brothers |
 | Mon, 24 Aug 2026 | Tiësto | KI/KI, Paige Tomlinson, Tiesto |
@@ -18,6 +17,7 @@
 | Fri, 28 Aug 2026 | David Guetta presents Galactic Circus | David Guetta, Miss Monique |
 | Sat, 29 Aug 2026 | elrow Ibiza | Andres Campo, Bora Uzer, Toni Alvarez |
 | Sun, 30 Aug 2026 | Carl Cox | Brina Knauss, Carl Cox, Honey Dijon, Joseph Capriati, Melon Bomb |
+| Mon, 31 Aug 2026 | Tiësto - CLOSING PARTY | DJ Try (US), Massano, Tiesto |
 
 ## Address
 

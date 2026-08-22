@@ -1,14 +1,13 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fvtvr, Paris on Fri, 21 Aug 2026.
+Slam is a Techno and Dub Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Palais, London on Sat, 22 Aug 2026.
 
-Slam is a techno and dub techno artist tracked on soundcheck, with 134 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 29 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Fvtvr, Paris on Fri 21 Aug.
+Slam is a techno and dub techno artist tracked on soundcheck, with 134 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 29 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Palais, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Fvtvr | Paris |
 | Sat, 22 Aug 2026 | Palais | London |
 | Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |
 | Fri, 11 Sept 2026 | Sub Club | Glasgow |

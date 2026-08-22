@@ -1,14 +1,13 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Fri, 21 Aug 2026.
+Spekki Webu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Spekki Webu is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside OCCA, Mama Snake and Feral. Next up: TILLATEC, Amsterdam on Fri 21 Aug.
+Spekki Webu is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside OCCA, Mama Snake and Feral. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TILLATEC | Amsterdam |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 

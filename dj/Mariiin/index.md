@@ -1,14 +1,13 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 21 Aug 2026.
+Mariiin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
 
-Mariiin is a techno and electro artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Binh. Next up: Les Enfants Brillants, Barcelona on Fri 21 Aug.
+Mariiin is a techno and electro artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Binh. Next up: Club der Visionaere, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 4 Sept 2026 | Club der Visionaere | Berlin |
 | Fri, 11 Sept 2026 | Rex Club | Paris |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |

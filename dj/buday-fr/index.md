@@ -1,14 +1,13 @@
 # Buday
 
-Buday is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ://about blank, Berlin on Fri, 21 Aug 2026.
+Buday is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
-Buday is a techno and trance artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Mar/us, BOYCA and Cristian Marras. Next up: ://about blank, Berlin on Fri 21 Aug.
+Buday is a techno and trance artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Mar/us, BOYCA and Cristian Marras. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | ://about blank | Berlin |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
 | Sat, 10 Oct 2026 | RADION | Amsterdam |
 

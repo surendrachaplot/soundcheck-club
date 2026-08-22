@@ -1,14 +1,13 @@
 # SACID
 
-SACID is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 21 Aug 2026.
+SACID is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
-SACID is a trance and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Alina Viktoria, Aexhy and H369. Next up: Jonny Knüppel, Berlin on Fri 21 Aug.
+SACID is a trance and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Alina Viktoria, Aexhy and H369. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Jonny Knüppel | Berlin |
 | Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 26 Sept 2026 | ://about blank | Berlin |
 

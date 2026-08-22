@@ -1,14 +1,13 @@
 # KICK (DET)
 
-KICK (DET) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri, 21 Aug 2026.
+KICK (DET) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat, 10 Oct 2026.
 
-KICK (DET) is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Redax, moregasm and DJ SPHiNX. Next up: TBA - Obedient Missionary Baptist Church (9500 Stoepel), Detroit on Fri 21 Aug.
+KICK (DET) is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Redax, moregasm and DJ SPHiNX. Next up: TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA - Obedient Missionary Baptist Church (9500 Stoepel) | Detroit |
 | Sat, 10 Oct 2026 | TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203 | Detroit |
 
 ## Recently played

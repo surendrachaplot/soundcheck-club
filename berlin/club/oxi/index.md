@@ -1,14 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Common Ground with LIFTED, Flinta Club Deck & What A Playground" on Fri, 21 Aug 2026.
+OXI is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours)" on Sat, 22 Aug 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Aggy, Ahni, Alexander Kowalski and Alex Levin and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Alexander Kowalski, Alex Levin, Ana Molina and Bacon Chang and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Common Ground with LIFTED, Flinta Club Deck & What A Playground | Aggy, Ahni, NeZoomie, NuAmo, Pilar Jordan, elliephunk |
 | Sat, 22 Aug 2026 | Toy Tonics presents ITALOMANIA (OPEN AIR & INDOOR 18 hours) | Bayetë, Camilo Miranda, Delfonic, Franz Scala, Luca Averna, Luca Elsi, Trujillo, keikee |
 | Sun, 23 Aug 2026 | OXIgarten presents Garage Girls with Moxie, livwutang & many more | Garage Girls, HEDDA, Jana Falcon, Moxie, livwutang |
 | Tue, 25 Aug 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Alexander Kowalski, Hontas, OCD, Viktoria Spielmann |
@@ -18,6 +17,7 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 | Thu, 10 Sept 2026 | Broken Noise | Alex Levin, Comf, Forgotten Sounds, Howler (UK), Jotam., Nadine Talakovics |
 | Fri, 11 Sept 2026 | OXI SELECTED |  |
 | Sat, 12 Sept 2026 | SIN VERGÜENZA [OPEN AIR + INDOOR] | DJ Cringey, DJ SEXSTASY, Eliangel, FORTUNATA, Impulsive Behaviour, Maque, Ojos de miel, PvssyDivx, SHOKI287, STEYA, TheMuffinMan, Vivienna, maríajosé |
+| Sun, 13 Sept 2026 | OXI SUNDAYS (OPEN AIR + INDOOR) | Ana Molina, Bacon Chang, Monokultur, Soela |
 
 ## Address
 

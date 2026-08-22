@@ -1,14 +1,13 @@
 # Quelza
 
-Quelza is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The White Hotel, Manchester on Fri, 21 Aug 2026.
+Quelza is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Substation, Seattle on Wed, 2 Sept 2026.
 
-Quelza is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: The White Hotel, Manchester on Fri 21 Aug.
+Quelza is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: Substation, Seattle on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | The White Hotel | Manchester |
 | Wed, 2 Sept 2026 | Substation | Seattle |
 | Fri, 4 Sept 2026 | Trädgården | Stockholm |
 | Fri, 4 Sept 2026 | BASEMENT | New York City |

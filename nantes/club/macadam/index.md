@@ -1,14 +1,13 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Macadam • Kohra B2B Bambi - all night long" on Fri, 21 Aug 2026.
+Macadam is a music venue in Nantes with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Macadam x CONTINUUM • Psyk ~ ANNX ~ REDLUVED" on Sat, 22 Aug 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 18 upcoming nights, with line-ups including A.Fruit, Alan.D, Alex Kassian and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 17 upcoming nights, with line-ups including A.Fruit, Alan.D, Alex Kassian and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Macadam • Kohra B2B Bambi - all night long | Bambi (FR), Kohra |
 | Sat, 22 Aug 2026 | Macadam x CONTINUUM • Psyk ~ ANNX ~ REDLUVED | ANNX, Psyk, REDLUVED |
 | Thu, 27 Aug 2026 | Macadam x Combo Bongos • Alan.D ~ Symraah | Alan.D |
 | Fri, 28 Aug 2026 | Macadam x ONSHORE • Na Nich ~ Mademoisel ~ Sunraï ~ Space Bond | Mademoisel, Sunchase |
@@ -18,6 +17,7 @@ Macadam is a music venue in Nantes listed on soundcheck. 18 upcoming nights, wit
 | Thu, 10 Sept 2026 | Macadam x Collectif 360 • Alura ~ Johan |  |
 | Fri, 11 Sept 2026 | CHAT MANIK x Macadam |  |
 | Sat, 12 Sept 2026 | Macadam 9 years anniversary • RONI ~ Nadia Struiwigh (live) ~ Nawme ~ Aasana | Nadia Struiwigh, Nawme, RONI |
+| Sun, 13 Sept 2026 | Gloria 9 years anniversary · Vladimir Ivkovic ~ Alex Kassian ~ RIGO ~ Maï-Linh ~ Youl ~ Sizmos | Alex Kassian, Maï-Linh, RIGO, Vladimir Ivkovic, Youl |
 
 ## Address
 

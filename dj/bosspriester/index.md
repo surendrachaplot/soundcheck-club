@@ -1,14 +1,13 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 21 Aug 2026.
+Boss Priester is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
 
-Boss Priester is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Shelter Amsterdam, Amsterdam on Fri 21 Aug.
+Boss Priester is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Toffler, Rotterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 28 Aug 2026 | Toffler | Rotterdam |
 | Sun, 30 Aug 2026 | The Nest | Nottingham |
 | Sun, 30 Aug 2026 | Steelyard Kelham | Sheffield |
@@ -20,6 +19,7 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 101 s
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 | Tue, 29 Sept 2026 | Cova Santa | Ibiza |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
+| Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 

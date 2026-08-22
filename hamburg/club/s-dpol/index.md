@@ -1,14 +1,13 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "unceen x Res Nullius with L.zwo" on Fri, 21 Aug 2026.
+Südpol is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sachsentrance x Südpol" on Sat, 22 Aug 2026.
 
-Südpol is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including A.B.U., Aexhy, AGY3NA and Ani con Gas and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
+Südpol is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including A.B.U., Aexhy, AGY3NA and Anna Ullrich and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | unceen x Res Nullius with L.zwo | Ani con Gas, Arlo Bell, BREITBAND, Charleen Herzig, Dr. G, L.zwo, LMTwo, Limoncello, SunnDior, Taskä, WAYRA |
 | Sat, 22 Aug 2026 | Sachsentrance x Südpol | Aexhy, CARGO, GI.O, Kirk (US), Sabu!, Softdrive, The Jakob Sister, kichererbsenstampf, stargurl |
 | Thu, 27 Aug 2026 | Technotischtennis |  |
 | Sat, 29 Aug 2026 | Früher ist alles besser | Antoine Baiser, Jakob Seidensticker, Jeanette Trèsbien, M.Rux, MELINA (3), Marco Baskind, Mila Stern, Surreal (DE), Thomas Stieler, Xenaia, lil.lili |

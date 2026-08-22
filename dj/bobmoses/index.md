@@ -1,14 +1,13 @@
 # Bob Moses
 
-Bob Moses is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Nitsa Club, Barcelona on Fri, 21 Aug 2026.
+Bob Moses is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 23 Aug 2026.
 
-Bob Moses is a house and deep house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Budapest and 19 more. Often billed alongside Ben Böhmer, Boys Noize and Claptone. Next up: Nitsa Club, Barcelona on Fri 21 Aug.
+Bob Moses is a house and deep house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Barcelona and Budapest and 19 more. Often billed alongside Ben Böhmer, Boys Noize and Claptone. Next up: 528 Ibiza, Ibiza on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Nitsa Club | Barcelona |
 | Sun, 23 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Fri, 23 Oct 2026 | O der Klub | Vienna |

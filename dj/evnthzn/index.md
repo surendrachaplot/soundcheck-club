@@ -1,14 +1,13 @@
 # EVNTHZN
 
-EVNTHZN is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Fri, 21 Aug 2026.
+EVNTHZN is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
 
-EVNTHZN is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside BALAI, DERICE and DJ Perroz. Next up: Ritter Butzke, Berlin on Fri 21 Aug.
+EVNTHZN is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside BALAI, DERICE and DJ Perroz. Next up: Akhnaton, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Ritter Butzke | Berlin |
 | Wed, 21 Oct 2026 | Akhnaton | Amsterdam |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at FOLD, London on Fri, 21 Aug 2026.
+Voigtmann is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
 
-Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: FOLD, London on Fri 21 Aug.
+Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Ratpack Piano Bar, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | FOLD | London |
 | Sat, 29 Aug 2026 | Ratpack Piano Bar | Edinburgh |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | The Loft | Manchester |

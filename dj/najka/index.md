@@ -1,14 +1,13 @@
 # Najka
 
-Najka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Flamingo, Berlin on Fri, 21 Aug 2026.
+Najka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Prisma, Berlin on Thu, 27 Aug 2026.
 
-Najka is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Lisatrix, PyjamaMama and Ancient Alien. Next up: Golden Flamingo, Berlin on Fri 21 Aug.
+Najka is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Lisatrix, PyjamaMama and Ancient Alien. Next up: Prisma, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Golden Flamingo | Berlin |
 | Thu, 27 Aug 2026 | Prisma | Berlin |
 
 ## Recently played

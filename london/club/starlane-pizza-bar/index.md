@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 27 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "WaxRunnerz at Starlane Pizza Bar" on Fri, 21 Aug 2026.
+Starlane Pizza Bar is a music venue in London with 26 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "WLR presents" on Sat, 22 Aug 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | WaxRunnerz at Starlane Pizza Bar | Ize (1), Jude Lenihan, Marcus Waxx, Mya (1), NOIDMATE, SCCO |
 | Sat, 22 Aug 2026 | WLR presents | Ethan Flint, FYN (1), Josh Claydon, KAZIA, Kian Norton, Tremur, Zak Miller |
 | Sat, 22 Aug 2026 | Starlane presents: Janeret, Gartzzea, TOT & Lucy B | Gartzzea, Janeret, Lucy B, TOT (BR) |
 | Sun, 23 Aug 2026 | Oscillate Summer Closing | Elia Nafzger, FrezZ, Gabski, Mescu, Stefan Andrei, Zigy |
@@ -18,6 +17,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 27 upcoming 
 | Sat, 29 Aug 2026 | Alien Communications 7th Birthday: After Party | Andrew James Gustav, Anna Wall, De La Reef, Jos |
 | Sat, 29 Aug 2026 | Psyked x Housejackers: MUCKANIKS, Milzy, Bowlesy + MORE | MUCKANIKS, Milzy, TABZ |
 | Sun, 30 Aug 2026 | Breathe & Parallelism - 12hr Marathon / From House to Techno | Belmonte, Clemente Loffredo, Colaps, Cristian Sirica, John's, Parallel G, Subradeon |
+| Mon, 31 Aug 2026 | EXTENDED BANK HOLIDAY FEST | Dale, Greg Nox, LeVin, PR Department, Robbo, Thierry |
 
 ## Address
 

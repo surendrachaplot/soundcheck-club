@@ -1,14 +1,13 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Boss Priester b2b Kepler (all night)" on Fri, 21 Aug 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Shelter presents: Bondru - Julian Anthony, The Ghost & More" on Sat, 22 Aug 2026.
 
-Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
+Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Boss Priester b2b Kepler (all night) | Boss Priester, Kepler (EE), Kim April |
 | Sat, 22 Aug 2026 | Shelter presents: Bondru - Julian Anthony, The Ghost & More | Isabelle Koci, Izak Jules, Julian Anthony, Julien Fuentes, LORI (NL), The Ghost |
 | Fri, 28 Aug 2026 | Jesse Maas curates | Burnski, Jesse Maas, Jhobei, Larry De Kat, Reeshy |
 | Sat, 29 Aug 2026 | 10SERIES by Shelter / TINS (all night) | TINS |
@@ -18,6 +17,7 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 19 upcomin
 | Sat, 19 Sept 2026 | Shelter presents: Signal NYC - Benny Rodrigues, Doudou MD | Benny Rodrigues, Doudou MD, Foghan, Gian-Paul, J. Richards, Nathan Homan |
 | Fri, 25 Sept 2026 | 10SERIES by Shelter - Hidde van Wee (all night long) | Hidde van Wee, zondagskind |
 | Sat, 26 Sept 2026 | Archie Hamilton, DXNBY, Jhobei | A For Alpha, Archie Hamilton, DXNBY, Elvi (1), Jhobei, Kim April |
+| Fri, 2 Oct 2026 | Alex Dienaar b2b Nathan Alzon, Ellia Jaya | Ellia Jaya, Joris van Gelder, Nathan Alzon, Shanne, Wodda |
 
 ## Address
 

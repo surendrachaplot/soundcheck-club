@@ -1,14 +1,13 @@
 # Tristan K (1)
 
-Tristan K (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Artheater, Cologne on Fri, 21 Aug 2026.
+Tristan K (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - SECRET WAREHOUSE, Cologne on Sat, 12 Sept 2026.
 
-Tristan K (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne. Often billed alongside anyka, B!B! and DAVIDE (2). Next up: Artheater, Cologne on Fri 21 Aug.
+Tristan K (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne. Often billed alongside anyka, B!B! and DAVIDE (2). Next up: TBA - SECRET WAREHOUSE, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Artheater | Cologne |
 | Sat, 12 Sept 2026 | TBA - SECRET WAREHOUSE | Cologne |
 
 ## Recently played

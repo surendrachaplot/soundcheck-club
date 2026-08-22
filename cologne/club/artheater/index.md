@@ -1,14 +1,13 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Jump House by Dados" on Fri, 21 Aug 2026.
+Artheater is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "jedermensch. x PhonoVision" on Sat, 22 Aug 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Aaro (3), alleira, Annemalie and anyka and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Aaro (3), alleira, Annemalie and Arninho and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Jump House by Dados | Diffrent, Ken Brause, Lizzle, Tristan K (1), anyka, snoritz |
 | Sat, 22 Aug 2026 | jedermensch. x PhonoVision | Annemalie, Arninho, HiHat, Schuhmacher (3), alleira, lollo |
 | Fri, 28 Aug 2026 | Aura Extra with slin & Tarkno all night long on vinyl | Tarkno, slin |
 | Sat, 5 Sept 2026 | akt x hyperlove | Aaro (3), DJ ASS TITS, KLARYOKO, Maara, ZAHNATZIN |

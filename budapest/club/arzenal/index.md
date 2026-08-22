@@ -1,14 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Arzenál vs Katlan: The Summer Festival 2026" on Wed, 19 Aug 2026.
+Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nachtwerk Pres. Vieze Asbak I Juul Exler I Anoluxx" on Fri, 28 Aug 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Arzenál vs Katlan: The Summer Festival 2026 | JAPAU, Johannes Schuster, KUKO, OGUZ, Part Time Killer, Raxeller, Restricted, Ueberrest, elMefti |
 | Fri, 28 Aug 2026 | Nachtwerk Pres. Vieze Asbak I Juul Exler I Anoluxx | Vieze Asbak |
 | Sat, 5 Sept 2026 | ELYSIUM SUMMER CLOSING with Neon Graveyard + Technokool | Neon Graveyard, Technokool |
 | Fri, 11 Sept 2026 | Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED |  |
@@ -18,6 +17,7 @@ Arzenal is a music venue in Budapest listed on soundcheck. 12 upcoming nights, w
 | Sat, 3 Oct 2026 | Avatar & VégrePéntek! & Arzenál pres. Liquid Soul - FREE EVENT | Liquid Soul |
 | Fri, 9 Oct 2026 | UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG | Cloudy |
 | Fri, 16 Oct 2026 | Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT | FUMI |
+| Sat, 7 Nov 2026 | Raum für Ton x ARZENÁL: Parallx, AESZTETIK, Kabay, Leskus, Tarkan | AESZTETIK, Kabay, Leskus, MAHA, Parallx, THIRD 2HIFT, Tarkan |
 
 ## Address
 

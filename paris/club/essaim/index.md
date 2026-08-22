@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "tribalism - Ben Sims, Céline B" on Fri, 21 Aug 2026.
+essaim is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "cocoon - Hunee b2b Mattias El Mansouri - all night long" on Sat, 22 Aug 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including ANNĒ, Ben Sims, Céline Technorama and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including ANNĒ, DJ Nobu, Feral and FJAAK and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | tribalism - Ben Sims, Céline B | Ben Sims, Céline Technorama |
 | Sat, 22 Aug 2026 | cocoon - Hunee b2b Mattias El Mansouri - all night long | Hunee, Mattias El Mansouri |
 | Fri, 28 Aug 2026 | tribalism - Ignez - all night long | Ignez |
 | Sat, 29 Aug 2026 | reshape - Neffa-T, Simo Cell, TTristana | Neffa-T, Simo Cell, TTristana |
@@ -18,6 +17,7 @@ essaim is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Sat, 12 Sept 2026 | polar vortex - Feral & Luigi Tozzi Live, KEUT, Sandrien | Feral, KEUT, Luigi Tozzi, Sandrien |
 | Fri, 18 Sept 2026 | tribalism - Reem Ari, Rene Wise | Rene Wise |
 | Sat, 19 Sept 2026 | cocoon - Fumiya Tanaka, Gaga | Fumiya Tanaka |
+| Fri, 25 Sept 2026 | tribalism - DJ Nobu - all night long | DJ Nobu |
 
 ## Address
 

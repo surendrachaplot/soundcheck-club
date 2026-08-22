@@ -1,14 +1,13 @@
 # Luttrell
 
-Luttrell is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club Vinyl, Denver on Sat, 22 Aug 2026.
+Luttrell is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hotel Via, San Francisco/Oakland on Sun, 23 Aug 2026.
 
-Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Chicago and Denver and 16 more. Often billed alongside Hana, Jody Wisternoff and CRi. Next up: Club Vinyl, Denver on Sat 22 Aug.
+Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Chicago and Denver and 16 more. Often billed alongside Hana, Jody Wisternoff and CRi. Next up: Hotel Via, Sanfrancisco on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Club Vinyl | Denver |
 | Sun, 23 Aug 2026 | Hotel Via | San Francisco/Oakland |
 | Sat, 29 Aug 2026 | Joshua Brooks | Manchester |
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |

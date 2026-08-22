@@ -1,14 +1,13 @@
 # Devønn
 
-Devønn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 520 Alexander Street, Vancouver on Fri, 21 Aug 2026.
+Devønn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Vancouver on Fri, 4 Sept 2026.
 
-Devønn is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Marist, NIMAHA and Bÿständer. Next up: 520 Alexander Street, Vancouver on Fri 21 Aug.
+Devønn is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Vancouver. Often billed alongside Marist, NIMAHA and Bÿständer. Next up: TBA, Vancouver on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | 520 Alexander Street | Vancouver |
 | Fri, 4 Sept 2026 | TBA | Vancouver |
 
 ## Recently played

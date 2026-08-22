@@ -1,14 +1,13 @@
 # MARIE.MOON
 
-MARIE.MOON is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Void Club, Berlin on Fri, 21 Aug 2026.
+MARIE.MOON is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ciao ciao Bar, Berlin on Sun, 6 Sept 2026.
 
-MARIE.MOON is a house and techno artist tracked on soundcheck, with 79 sets logged across Berlin. Often billed alongside Upzet, No Silver Bullet and Caro Vola. Next up: Void Club, Berlin on Fri 21 Aug.
+MARIE.MOON is a house and techno artist tracked on soundcheck, with 79 sets logged across Berlin. Often billed alongside Upzet, No Silver Bullet and Caro Vola. Next up: ciao ciao Bar, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Void Club | Berlin |
 | Sun, 6 Sept 2026 | ciao ciao Bar | Berlin |
 | Fri, 11 Sept 2026 | Bohnengold | Berlin |
 

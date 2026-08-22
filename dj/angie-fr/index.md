@@ -1,14 +1,13 @@
 # Angie (FR)
 
-Angie (FR) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Fri, 21 Aug 2026.
+Angie (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kilomètre25, Paris on Fri, 11 Sept 2026.
 
-Angie (FR) is a techno and trance artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Cologne and Nantes and 2 more. Often billed alongside In-Tan, Alpha Tracks and Cattoni. Next up: Odonien, Cologne on Fri 21 Aug.
+Angie (FR) is a techno and trance artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Cologne and Nantes and 2 more. Often billed alongside In-Tan, Alpha Tracks and Cattoni. Next up: Kilomètre25, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Odonien | Cologne |
 | Fri, 11 Sept 2026 | Kilomètre25 | Paris |
 
 ## Recently played

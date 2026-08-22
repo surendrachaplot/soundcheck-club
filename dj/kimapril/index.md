@@ -1,14 +1,13 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 21 Aug 2026.
+Kim April is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
 
-Kim April is a house and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside ELVI (SE), Job de Jong and M-High. Next up: Shelter Amsterdam, Amsterdam on Fri 21 Aug.
+Kim April is a house and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside ELVI (SE), Job de Jong and M-High. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Egg London | London |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |

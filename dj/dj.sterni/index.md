@@ -1,14 +1,13 @@
 # sterni (DE)
 
-sterni (DE) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ÆDEN, Berlin on Fri, 21 Aug 2026.
+sterni (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
-sterni (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Munich. Often billed alongside 20_5_3_8_14_15, m4tsch1 and 4NOUK. Next up: ÆDEN, Berlin on Fri 21 Aug.
+sterni (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin and Munich. Often billed alongside 20_5_3_8_14_15, m4tsch1 and 4NOUK. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | ÆDEN | Berlin |
 | Fri, 23 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played

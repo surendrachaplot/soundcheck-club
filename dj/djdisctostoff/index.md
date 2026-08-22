@@ -1,14 +1,13 @@
 # DJ Discostoff
 
-DJ Discostoff is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fundbureau, Hamburg on Fri, 21 Aug 2026.
+DJ Discostoff is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Helios37, Cologne on Sat, 12 Sept 2026.
 
-DJ Discostoff is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Rosilicious, DJ Tallboy and Marco Eisenberg. Next up: Fundbureau, Hamburg on Fri 21 Aug.
+DJ Discostoff is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Rosilicious, DJ Tallboy and Marco Eisenberg. Next up: Helios37, Cologne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Fundbureau | Hamburg |
 | Sat, 12 Sept 2026 | Helios37 | Cologne |
 | Fri, 2 Oct 2026 | Bootshaus | Cologne |
 

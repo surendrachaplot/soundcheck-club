@@ -1,14 +1,13 @@
 # Zemög
 
-Zemög is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministerium Club, Lisbon on Fri, 21 Aug 2026.
+Zemög is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Gare Porto, Porto on Sat, 22 Aug 2026.
 
-Zemög is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Buenosaires and Lisbon and 7 more. Often billed alongside Inger, SUZAN (2) and AllA. Next up: Ministerium Club, Lisbon on Fri 21 Aug.
+Zemög is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Buenosaires and Lisbon and 7 more. Often billed alongside Inger, SUZAN (2) and AllA. Next up: Gare Porto, Porto on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Ministerium Club | Lisbon |
 | Sat, 22 Aug 2026 | Gare Porto | Porto |
 
 ## Recently played

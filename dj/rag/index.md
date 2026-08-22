@@ -1,14 +1,13 @@
 # RAG
 
-RAG is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Virage, Paris on Fri, 21 Aug 2026.
+RAG is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 28 Aug 2026.
 
-RAG is a techno and club artist tracked on soundcheck, with 55 sets logged across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside PEPIITA, Anaco and COCKO. Next up: Virage, Paris on Fri 21 Aug.
+RAG is a techno and club artist tracked on soundcheck, with 55 sets logged across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside PEPIITA, Anaco and COCKO. Next up: La Station - Gare des Mines, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Virage | Paris |
 | Fri, 28 Aug 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played

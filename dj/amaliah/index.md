@@ -1,14 +1,13 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Fri, 21 Aug 2026.
+Amaliah is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Razzmatazz, Barcelona on Fri 21 Aug.
+Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Razzmatazz | Barcelona |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 5 Sept 2026 | Vittoria Wharf Studio | London |
 | Sat, 19 Sept 2026 | Cadavra | Madrid |

@@ -1,14 +1,13 @@
 # DjSteph
 
-DjSteph is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 21 Aug 2026.
+DjSteph is a electronic artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bolivar Beach Bar, Athens on Thu, 27 Aug 2026.
 
-DjSteph is an electronic artist tracked on soundcheck, with 27 sets logged across Athens. Often billed alongside Rezo (2), Steve Sai and Nick Devon. Next up: Bolivar Beach Bar, Athens on Fri 21 Aug.
+DjSteph is an electronic artist tracked on soundcheck, with 27 sets logged across Athens. Often billed alongside Rezo (2), Steve Sai and Nick Devon. Next up: Bolivar Beach Bar, Athens on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Bolivar Beach Bar | Athens |
 | Thu, 27 Aug 2026 | Bolivar Beach Bar | Athens |
 | Thu, 10 Sept 2026 | Bolivar Beach Bar | Athens |
 | Sat, 12 Sept 2026 | Bolivar Beach Bar | Athens |

@@ -1,14 +1,13 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 14 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Else, Berlin on Fri, 21 Aug 2026.
+Dan Shake is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Fuse, Brussels on Sat, 22 Aug 2026.
 
-Dan Shake is a house and disco artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Else, Berlin on Fri 21 Aug.
+Dan Shake is a house and disco artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Eliza Rose, Eats Everything and MiNNA. Next up: Fuse, Brussels on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Else | Berlin |
 | Sat, 22 Aug 2026 | Fuse | Brussels |
 | Thu, 3 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | MIDNIGHT EAST | Tokyo |
@@ -20,6 +19,7 @@ Dan Shake is a house and disco artist tracked on soundcheck, with 192 sets logge
 | Sat, 17 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
+| Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 

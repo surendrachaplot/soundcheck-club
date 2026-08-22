@@ -1,14 +1,13 @@
 # AEIDA
 
-AEIDA is a Breakbeat and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pistil, Seoul on Fri, 21 Aug 2026.
+AEIDA is a Breakbeat and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
 
-AEIDA is a breakbeat and garage artist tracked on soundcheck, with 40 sets logged across Seoul and Tokyo. Often billed alongside HASHTAGPOPE, BAAWLA and WEEUN KIM. Next up: Pistil, Seoul on Fri 21 Aug.
+AEIDA is a breakbeat and garage artist tracked on soundcheck, with 40 sets logged across Seoul and Tokyo. Often billed alongside HASHTAGPOPE, BAAWLA and WEEUN KIM. Next up: Pistil, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Pistil | Seoul |
 | Fri, 28 Aug 2026 | Pistil | Seoul |
 | Fri, 25 Sept 2026 | Cakeshop | Seoul |
 

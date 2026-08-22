@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "All Night Long w/ Jessica Nightlife, freesi, Roses OD & ONLYLU" on Fri, 21 Aug 2026.
+Golden Pudel Club is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Hoe Down Throw Down x SLIC Unit Open Air" on Sat, 22 Aug 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Barbaros, CHIEF QUEEF, dj blip and DJ KILLING and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including Barbaros, CHIEF QUEEF, dj blip and DJ KILLING and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | All Night Long w/ Jessica Nightlife, freesi, Roses OD & ONLYLU | ONLYLU, Roses OD, freesi |
 | Sat, 22 Aug 2026 | Hoe Down Throw Down x SLIC Unit Open Air | Nissa Carrington, Roof (2), Slimgirl fat, Sol tornasol, Unfug Abla, yung_womb |
 | Sat, 22 Aug 2026 | Hoe Down Throw Down x SLIC Unit After Party | CHIEF QUEEF, Nissa Carrington, Roof (2), yung_womb |
 | Sun, 23 Aug 2026 | MFOG w/ sdfkt. (aka. superdefekt) & friend |  |
@@ -18,6 +17,7 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 11 upcoming 
 | Sat, 29 Aug 2026 | blipmotif | Barbaros, Eddie Ness, Laetizia, Marta Aurelia, Shimmy Robin, dj blip, keos |
 | Sat, 29 Aug 2026 | blipmotif | Barbaros, Eddie Ness, Fovian, Laetizia, Marta Aurelia, Mila Stern, Shimmy Robin, dj blip |
 | Mon, 7 Sept 2026 | Auf Montage Ausstellung und Musik im Golden Pudel Club mit Karla Zipfel |  |
+| Sat, 26 Sept 2026 | fuego with Sedaction, Ibizer, LAIDA, Laundry Service | Ibizer, Laundry Service, Sedaction |
 
 ## Address
 

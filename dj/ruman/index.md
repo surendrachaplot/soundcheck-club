@@ -1,14 +1,13 @@
 # Ruman
 
-Ruman is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 21 Aug 2026.
+Ruman is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
-Ruman is a techno and ambient artist based in Spain, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg, Madrid and Porto. Often billed alongside Katya Milch, Stanislav Tolkachev and Josef Kunz. Next up: RSO.BERLIN, Berlin on Fri 21 Aug.
+Ruman is a techno and ambient artist based in Spain, tracked on soundcheck, with 19 sets logged across Berlin, Hamburg, Madrid and Porto. Often billed alongside Katya Milch, Stanislav Tolkachev and Josef Kunz. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | RSO.BERLIN | Berlin |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
 
 ## Recently played

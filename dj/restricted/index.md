@@ -1,14 +1,13 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Arzenal, Budapest on Wed, 19 Aug 2026.
+Restricted is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Sat, 29 Aug 2026.
 
-Restricted is a techno and hardcore artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: Arzenal, Budapest on Wed 19 Aug.
+Restricted is a techno and hardcore artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Azyr, JAZZY (2) and Nikolina. Next up: UNO MALTA, Malta on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Arzenal | Budapest |
 | Sat, 29 Aug 2026 | UNO MALTA | Malta |
 | Sun, 30 Aug 2026 | Boucher Road Fields | Belfast |
 | Sun, 6 Sept 2026 | Brooklyn Storehouse | New York City |

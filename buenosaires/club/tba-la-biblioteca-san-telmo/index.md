@@ -1,14 +1,13 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Paul Deep x La Biblioteca, San Telmo Buenos Aires" on Fri, 21 Aug 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Maxi Degrassi + JAZMIN - by SOMOS PRODUCE, LA BIBLIOTECA" on Sat, 22 Aug 2026.
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 14 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 13 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Paul Deep x La Biblioteca, San Telmo Buenos Aires | Franco Dalmati, Paul Deep |
 | Sat, 22 Aug 2026 | Maxi Degrassi + JAZMIN - by SOMOS PRODUCE, LA BIBLIOTECA | Maxi Degrassi |
 | Fri, 28 Aug 2026 | Coqueit x Inusual, La Biblioteca, San Telmo Buenos Aires |  |
 | Sat, 29 Aug 2026 | Maze 28 + Ricky Ryan x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Ricky Ryan |
@@ -18,5 +17,6 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Fri, 11 Sept 2026 | Alex Stein x Karmic, La Biblioteca, San Telmo Buenos Aires | Alex Stein |
 | Sat, 12 Sept 2026 | Alex O'Rion + Nicolas Viana x My House, La Biblioteca, San Telmo Buenos Aires | Alex O'Rion |
 | Fri, 18 Sept 2026 | Patrice Bäumel x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Patrice Bäumel |
+| Sat, 19 Sept 2026 | FRANCO BA x My House – La Biblioteca, San Telmo Buenos Aires | FRANCO BA |
 
 *Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

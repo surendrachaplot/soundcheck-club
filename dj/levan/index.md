@@ -1,14 +1,13 @@
 # Levan
 
-Levan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Teritorija, Riga on Fri, 21 Aug 2026.
+Levan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Teritorija, Riga on Sat, 29 Aug 2026.
 
-Levan is a house and techno artist tracked on soundcheck, with 4 sets logged across Riga. Often billed alongside Aniri Chan, Kelvin and ARRISHA. Next up: Teritorija, Riga on Fri 21 Aug.
+Levan is a house and techno artist tracked on soundcheck, with 4 sets logged across Riga. Often billed alongside Aniri Chan, Kelvin and ARRISHA. Next up: Teritorija, Riga on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Teritorija | Riga |
 | Sat, 29 Aug 2026 | Teritorija | Riga |
 
 ## Recently played

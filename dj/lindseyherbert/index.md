@@ -1,14 +1,13 @@
 # Lindsey Herbert
 
-Lindsey Herbert is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Vibehaus ATX, Austin on Fri, 21 Aug 2026.
+Lindsey Herbert is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Austin on Sat, 22 Aug 2026.
 
-Lindsey Herbert is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: Vibehaus ATX, Austin on Fri 21 Aug.
+Lindsey Herbert is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Richie Hawtin, PLEASURES (US) and Decoder. Next up: TBA, Austin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Vibehaus ATX | Austin |
 | Sat, 22 Aug 2026 | TBA | Austin |
 | Fri, 28 Aug 2026 | Domicile | Miami |
 | Fri, 4 Sept 2026 | Union Park | Chicago |

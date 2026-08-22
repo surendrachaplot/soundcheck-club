@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dissident: Spekki Webu, Cryptofauna, angelboy (tix at door)" on Fri, 21 Aug 2026.
+TILLATEC is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ARMAT X REFORMA" on Sat, 22 Aug 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Justine Perry, Amphia, androgienia and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Justine Perry, Amphia, androgienia and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Dissident: Spekki Webu, Cryptofauna, angelboy (tix at door) | Carly Zeng, Cryptofauna, DIORA, Spekki Webu, angelboy, marum |
 | Sat, 22 Aug 2026 | ARMAT X REFORMA | Arkan, Hovani, James Harbrecht, PLATTER, Spikey Lee, androgienia, g3kko |
 | Sun, 23 Aug 2026 | ANTIDOTE 5 YEAR ANNIVERSARY | Dylan Fogarty, Flits, Mees Javois, Montse, Prance, VSSR, Varuna Agosti |
 | Fri, 28 Aug 2026 | Unsilenced with livwutang, Mery b2b Malom, skyra (live) | Malom, Mery, livwutang, skyra |
@@ -18,6 +17,7 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights,
 | Sat, 19 Sept 2026 | VBX SUMMER CLOSING - TILLATEC 19.09 | DJ Split, Nosedrip, PHIA, THC, Tommy Chikara, Velasco, dj sweet6teen |
 | Wed, 21 Oct 2026 | LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 | Ben Klock, DVS1, Laia, Roll Dann, Setaoc Mass, The Lady Machine |
 | Thu, 22 Oct 2026 | Vault Sessions ADE - TILLATEC | Blasha & Allatt, D.Dan, DJ Nobu, Ecilo, FILTRACK, Hemka, Jelena, Justine Perry, Lea Occhi, Paula Koski, Pink Concrete, Sandrien, Stef Mendesidis |
+| Thu, 22 Oct 2026 | Vault Sessions x Mutual Rytm ADE | ANNĒ, Disguised, Human Safari, Hyden, I-RO, KiNK, Mara Menace, Phil Berg, SHDW, Sera J |
 
 ## Address
 

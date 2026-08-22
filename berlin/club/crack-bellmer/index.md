@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ANIMAL FARM x MAJJA" on Fri, 21 Aug 2026.
+Crack Bellmer is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "saHHara · سهّارة ⵣ Raksha · ركشة" on Sat, 22 Aug 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Alias Shay, babymullet, BILLY and C.love and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Alias Shay, babymullet, BILLY and C.love and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | ANIMAL FARM x MAJJA | Gioski, Linn Elisabet, Marsch, Miia Magia, Pooja B, Znzl |
 | Sat, 22 Aug 2026 | saHHara · سهّارة ⵣ Raksha · ركشة | Alias Shay, Nora Moon, Saphe, saHHar |
 | Sun, 23 Aug 2026 | fling  | Florian Pas, Pavelo Promillo, Talia Dorr, babymullet, groovyjuri, nasty (1) |
 | Wed, 26 Aug 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL **DANCEFLOOR EDITION** |  |
@@ -18,6 +17,7 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 14 upcoming night
 | Sun, 30 Aug 2026 | Dyke Goth Night |  |
 | Fri, 4 Sept 2026 | Bad Dad with CYRK, Geneva, Vivienne & Dugong | CYRK, Geneva_, La Schmock, MVHY |
 | Fri, 11 Sept 2026 | Tales of Dakno: The Berlin Story | BILLY, Mario Ignacio, Stella Fiore |
+| Sun, 13 Sept 2026 | Party Dyke's Hoe-Down: A Queer FLINTA* Cowboy Western Party |  |
 
 ## Address
 

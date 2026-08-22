@@ -1,14 +1,13 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Shamrock Bar & Basement, Buenos Aires on Fri, 21 Aug 2026.
+Mystery Affair is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Terrrazza, Barcelona on Thu, 10 Sept 2026.
 
-Mystery Affair is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: The Shamrock Bar & Basement, Buenosaires on Fri 21 Aug.
+Mystery Affair is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Berlin and 16 more. Often billed alongside Ursula Prawn, Portugal and sadgal. Next up: La Terrrazza, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | The Shamrock Bar & Basement | Buenos Aires |
 | Thu, 10 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 19 Sept 2026 | YuYu Cine Club | Mexico City |
 

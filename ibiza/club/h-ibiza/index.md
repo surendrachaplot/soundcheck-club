@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 47 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dom Dolla" on Fri, 21 Aug 2026.
+Hï Ibiza is a music venue in Ibiza with 46 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Black Coffee" on Sat, 22 Aug 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 46 upcoming nights, with line-ups including 8KAYS, Adam Beyer, Adam Ten and A For Alpha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Dom Dolla | Cinthie, Dom Dolla, Ewan McVicar, LAMMER |
 | Sat, 22 Aug 2026 | Black Coffee | Black Coffee, Joeski, Kerri Chandler, Locky, Marsolo, Skepta |
 | Sun, 23 Aug 2026 | CamelPhat present Summer of Love | CamelPhat, Indira Paganotto, Kobosil |
 | Mon, 24 Aug 2026 | Francis Mercier presents Solèy | Andrea Oliva, Francis Mercier, Marten Lou, Peace Control |
@@ -18,6 +17,7 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights, wi
 | Fri, 28 Aug 2026 | Dom Dolla | Dom Dolla, Ewan McVicar, Sasha, Spray |
 | Sat, 29 Aug 2026 | Black Coffee | Angelos, Black Coffee, DJ Tennis |
 | Sun, 30 Aug 2026 | CamelPhat present Summer of Love | CamelPhat, Elli Acula, Indira Paganotto, KiNK, Marhu |
+| Mon, 31 Aug 2026 | Francis Mercier presents Solèy | AWEN, Andrea Oliva, Francis Mercier, Maxi Meraki, Sistek, THEMBA |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Jan Loup
 
-Jan Loup is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 21 Aug 2026.
+Jan Loup is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 22 Aug 2026.
 
-Jan Loup is a bass and techno artist based in France, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Budapest and 19 more. Often billed alongside Maquis Son Sistèm, A Strange Wedding and Woody92. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 21 Aug.
+Jan Loup is a bass and techno artist based in France, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Brussels and Budapest and 19 more. Often billed alongside Maquis Son Sistèm, A Strange Wedding and Woody92. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 22 Aug 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 23 Oct 2026 | OHM | Berlin |

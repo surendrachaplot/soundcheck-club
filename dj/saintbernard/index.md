@@ -1,14 +1,13 @@
 # Saint Bernard
 
-Saint Bernard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Acadana, Hong Kong on Fri, 21 Aug 2026.
+Saint Bernard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Saint Bernard is a house and techno artist tracked on soundcheck, with 37 sets logged across Hongkong. Often billed alongside Anyss, DJ Kirby and MLCH. Next up: Acadana, Hongkong on Fri 21 Aug.
+Saint Bernard is a house and techno artist tracked on soundcheck, with 37 sets logged across Hongkong. Often billed alongside Anyss, DJ Kirby and MLCH. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Acadana | Hong Kong |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played

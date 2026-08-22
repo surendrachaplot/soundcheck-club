@@ -1,14 +1,13 @@
 # Kapote
 
-Kapote is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 21 Aug 2026.
+Kapote is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Jazz Cafe, London on Sat, 22 Aug 2026.
 
-Kapote is a house and disco artist tracked on soundcheck, with 219 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: Bahnwärter Thiel, Munich on Fri 21 Aug.
+Kapote is a house and disco artist tracked on soundcheck, with 219 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: The Jazz Cafe, London on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Bahnwärter Thiel | Munich |
 | Sat, 22 Aug 2026 | The Jazz Cafe | London |
 | Fri, 4 Sept 2026 | Studio1111 | Berlin |
 | Sat, 5 Sept 2026 | LoHi | New York City |

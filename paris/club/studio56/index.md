@@ -1,14 +1,13 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Pressure" on Fri, 21 Aug 2026.
+Studio56 is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Ignition" on Sat, 22 Aug 2026.
 
-Studio56 is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Drivr, Ev (19), K0uci and Killoverjoy and 1 more. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
+Studio56 is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Drivr, K0uci, Killoverjoy and Nola. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Pressure | Ev (19) |
 | Sat, 22 Aug 2026 | Ignition | Drivr, K0uci |
 | Sun, 23 Aug 2026 | Fracture W/ Benmaster , Dox , Nzolito |  |
 | Mon, 24 Aug 2026 | Core W/ Lili , Ltmg , Stax |  |

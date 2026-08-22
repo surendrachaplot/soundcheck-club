@@ -1,14 +1,13 @@
 # Nickodemus
 
-Nickodemus is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Macarena Club, Barcelona on Fri, 21 Aug 2026.
+Nickodemus is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Chocolate Factory, New York City on Thu, 10 Sept 2026.
 
-Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Barcelona, Dundee, Geneva and Ibiza and 9 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: Macarena Club, Barcelona on Fri 21 Aug.
+Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Barcelona, Dundee, Geneva and Ibiza and 9 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: The Chocolate Factory, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Macarena Club | Barcelona |
 | Thu, 10 Sept 2026 | The Chocolate Factory | New York City |
 
 ## Recently played

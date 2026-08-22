@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Huerta/Zenta/Genki Tanaka/Chuckroll" on Fri, 21 Aug 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "AFTERLIFE with NOCO(Paramount)" on Sat, 22 Aug 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including An toi, Celter, DJ Zenta and DOTT and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including An toi, Celter, DOTT and DSKE and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Huerta/Zenta/Genki Tanaka/Chuckroll | DJ Zenta, Genki Tanaka, Huerta |
 | Sat, 22 Aug 2026 | AFTERLIFE with NOCO(Paramount) | Mari Sakurai, Shinsuke Goto |
 | Mon, 24 Aug 2026 | ISM |  |
 | Tue, 25 Aug 2026 | ACID HOSPITAL | KAKERU, YAMARCHY, teppei |

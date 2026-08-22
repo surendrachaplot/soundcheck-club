@@ -1,14 +1,13 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Flamingo, Berlin on Fri, 21 Aug 2026.
+PyjamaMama is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
 
-PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside Dj Sunflash, DJ Spaßgetränk and PHLOXO. Next up: Golden Flamingo, Berlin on Fri 21 Aug.
+PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside Dj Sunflash, DJ Spaßgetränk and PHLOXO. Next up: ÆDEN, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Golden Flamingo | Berlin |
 | Fri, 28 Aug 2026 | ÆDEN | Berlin |
 | Wed, 2 Sept 2026 | KitKatClub | Berlin |
 | Sat, 5 Sept 2026 | Œlgarten | Berlin |

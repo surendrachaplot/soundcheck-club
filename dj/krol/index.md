@@ -1,14 +1,13 @@
 # K:ROL
 
-K:ROL is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 21 Aug 2026.
+K:ROL is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at BORIS CLUB, Barcelona on Sat, 22 Aug 2026.
 
-K:ROL is a house and techno artist based in Spain, tracked on soundcheck, with 57 sets logged across Barcelona. Often billed alongside Ivan Pugliares, Andrea Castells and Cipy. Next up: BORIS CLUB, Barcelona on Fri 21 Aug.
+K:ROL is a house and techno artist based in Spain, tracked on soundcheck, with 57 sets logged across Barcelona. Often billed alongside Ivan Pugliares, Andrea Castells and Cipy. Next up: BORIS CLUB, Barcelona on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | BORIS CLUB | Barcelona |
 | Sat, 22 Aug 2026 | BORIS CLUB | Barcelona |
 | Sat, 5 Sept 2026 | BORIS CLUB | Barcelona |
 | Fri, 18 Sept 2026 | BORIS CLUB | Barcelona |

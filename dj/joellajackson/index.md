@@ -1,14 +1,13 @@
 # Joëlla Jackson
 
-Joëlla Jackson is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Playa Soleil & Bora Bora, Ibiza on Fri, 21 Aug 2026.
+Joëlla Jackson is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at KOKO, London on Fri, 28 Aug 2026.
 
-Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: Playa Soleil & Bora Bora, Ibiza on Fri 21 Aug.
+Joëlla Jackson is a house and tech house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Benny Rodrigues, Franky Rizardo and Mason Collective. Next up: KOKO, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Playa Soleil & Bora Bora | Ibiza |
 | Fri, 28 Aug 2026 | KOKO | London |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Tue, 1 Sept 2026 | Hï Ibiza | Ibiza |

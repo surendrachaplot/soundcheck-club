@@ -1,6 +1,6 @@
 # 131bpm
 
-131bpm is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
+131bpm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KREUZWERK, Berlin on Fri, 21 Aug 2026.
 
 131bpm is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 24 more. Often billed alongside Camilla Rae, Aaron Blau and Stella Zekri. Next up: KREUZWERK, Berlin on Fri 21 Aug.
 
@@ -9,7 +9,6 @@
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | KREUZWERK | Berlin |
-| Fri, 21 Aug 2026 | AMT | Berlin |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Gioski
 
-Gioski is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
+Gioski is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Birgit, Berlin on Fri, 21 Aug 2026.
 
 Gioski is a techno and acid artist tracked on soundcheck, with 61 sets logged across Basel, Berlin, Geneva and Zurich. Often billed alongside Pooja B, Alex Nantaya and Frankie Flowerz. Next up: Birgit, Berlin on Fri 21 Aug.
 
@@ -9,7 +9,6 @@ Gioski is a techno and acid artist tracked on soundcheck, with 61 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | Birgit | Berlin |
-| Fri, 21 Aug 2026 | Crack Bellmer | Berlin |
 | Mon, 31 Aug 2026 | KitKatClub | Berlin |
 | Fri, 4 Sept 2026 | Zoo | Geneva |
 | Fri, 18 Sept 2026 | Raedli | Zurich |

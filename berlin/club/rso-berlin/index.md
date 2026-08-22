@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "SEMANTICA w/ Svreca, Mary Yuzovskaya, CONCEPTUAL, Ruman live" on Fri, 21 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "La Mala Noche" on Sat, 22 Aug 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and ābnamā and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | SEMANTICA w/ Svreca, Mary Yuzovskaya, CONCEPTUAL, Ruman live | CONCEPTUAL, Mary Yuzovskaya, Ruman, Svreca |
 | Sat, 22 Aug 2026 | La Mala Noche | Ananda (BR), Bella Sarris, Berenice, Byron Yeates, Cari Lekebusch, D.Dan, DJ TOOL, Disk Cartel, Hyperaktivist, JASSS, Jen Cardini, Kikelomo, Meilgaarden, OMOLOKO, Rosati, S-candalo, THC, Yazzus, ābnamā |
 | Sun, 23 Aug 2026 | Jauchomatic - Open Air (since 1995) By The People For The People (Baergarten) | DJ Jauche |
 | Sun, 23 Aug 2026 | JAUCHOMATIC - Open Air - By the People for the People (since 1995) / Baergarten | DJ Jauche |
@@ -18,6 +17,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, 
 | Sat, 5 Sept 2026 | XTRUDE w/ Alexander Kowalski, Justine Perry, Philippa Pacho, Benjamin Damage and BADSISTA | Alexander Kowalski, BADSISTA, Benjamin Damage, Blue Hour, DINA, HEDDA, Justine Perry, Mademoisel, Philippa Pacho, Procombo, RONI, VEL (MA), Ø [Phase] |
 | Fri, 11 Sept 2026 | The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer | .VRIL, Ahmet Sisman, Dasha Rush, Ehua, Felix Fleer |
 | Sat, 12 Sept 2026 | Home Again Festival - 10 Years | Andra, Blame Anthony, Butterhands, Cassy, Chris Stassy, DJ Split, Dan Ghenacia, Disguised, Dj Norma, Eris Drew, GOME, Greta Spark, Home Again Soundsystem, LIA, Lobster (NL), Manuel Fischer, Mara Menace, Marsch, Meggy, Power Squad, Quest, Quest (IT), Robert Owens, Robin RB, Rosa Red, Ryan Elliott, Solomun, TSHA, Thabo, Thalo Santana, Tiago Oudman, Vera, ferrari rot, hawi |
+| Fri, 18 Sept 2026 | KHIDI NIGHT w/ Ancient Methods, Boston 168 live, Liza Rivs and Vulkanski | Ancient Methods, Boston 168, Liza Rivs, Vulkanski |
 
 ## Address
 
