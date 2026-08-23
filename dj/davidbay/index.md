@@ -1,6 +1,6 @@
 # david bay
 
-david bay is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 27 Aug 2026.
+david bay is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 david bay is a house and disco artist based in Germany, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Brussels and Hamburg and 5 more. Often billed alongside DJ Dreams, Purple Disco Machine and Hufnagel. Next up: Pacha Ibiza, Ibiza on Thu 27 Aug.
 
@@ -16,6 +16,7 @@ david bay is a house and disco artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Magazine Open–Air, London — Sat, 22 Aug 2026
 - Pacha Ibiza, Ibiza — Thu, 20 Aug 2026
 - Pacha Ibiza, Ibiza — Thu, 23 Jul 2026
 - Pacha Ibiza, Ibiza — Thu, 16 Jul 2026
@@ -23,10 +24,9 @@ david bay is a house and disco artist based in Germany, tracked on soundcheck, w
 - Pacha Ibiza, Ibiza — Sat, 9 May 2026
 - OXI, Berlin — Sat, 18 Apr 2026
 - Howler, Melbourne — Sun, 22 Mar 2026
-- Chinese Laundry, Sydney — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 DJ Dreams, Purple Disco Machine, Hufnagel
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbay/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbay/)*

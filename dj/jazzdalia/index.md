@@ -1,6 +1,6 @@
 # Jazz Dalia
 
-Jazz Dalia is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Skatecafe, Amsterdam on Fri, 28 Aug 2026.
+Jazz Dalia is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Skatecafe, Amsterdam on Fri, 28 Aug 2026.
 
 Jazz Dalia is a house and bass artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside LAMSI, Héctor Oaks and Jerrau. Next up: Skatecafe, Amsterdam on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Jazz Dalia is a house and bass artist based in Netherlands, tracked on soundchec
 
 LAMSI, Héctor Oaks, Jerrau
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzdalia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzdalia/)*

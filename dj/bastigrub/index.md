@@ -1,6 +1,6 @@
 # Basti Grub
 
-Basti Grub is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at MTW, Frankfurt on Fri, 4 Sept 2026.
+Basti Grub is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at MTW, Frankfurt on Fri, 4 Sept 2026.
 
 Basti Grub is a house and electro artist based in Germany, tracked on soundcheck, with 9 sets logged across Bali, Frankfurt, Miami and Munich and 1 more. Often billed alongside Sonson, 2Reisende and Biagio Sibilla. Next up: MTW, Frankfurt on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Basti Grub is a house and electro artist based in Germany, tracked on soundcheck
 
 Sonson, 2Reisende, Biagio Sibilla
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastigrub/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastigrub/)*

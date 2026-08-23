@@ -1,6 +1,6 @@
 # Meiremax
 
-Meiremax is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
+Meiremax is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Forge, Bucharest on Fri, 28 Aug 2026.
 
 Meiremax is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 14 sets logged across Antwerp and Bucharest. Often billed alongside Dalek, Project Morpheus and El Jefe (RO). Next up: Forge, Bucharest on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Meiremax is a hardcore and gabber artist based in Belgium, tracked on soundcheck
 
 Dalek, Project Morpheus, El Jefe (RO)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meiremax/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meiremax/)*

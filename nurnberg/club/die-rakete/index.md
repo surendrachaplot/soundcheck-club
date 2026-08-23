@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Die Rakete pres. Anja Schneider" on Sat, 22 Aug 2026.
+Die Rakete is a music venue in Nürnberg with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Die Rakete pres. Anja Schneider" on Sat, 22 Aug 2026.
 
 Die Rakete is a music venue in Nurnberg listed on soundcheck. 7 upcoming nights, with line-ups including Alex Stein, Annie O, Bernhard Groeger and Emina Helena and 2 more. Browse upcoming dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -20,4 +20,4 @@ Die Rakete is a music venue in Nurnberg listed on soundcheck. 7 upcoming nights,
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

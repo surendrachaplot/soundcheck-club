@@ -1,6 +1,6 @@
 # General Lee's Cocktail House
 
-General Lee's Cocktail House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Made to Move 8 Year Anniversary" on Thu, 10 Sept 2026.
+General Lee's Cocktail House is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Made to Move 8 Year Anniversary" on Thu, 10 Sept 2026.
 
 General Lee's Cocktail House is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including agraybé, Akumen, Andy Oro and No Pressure. Browse upcoming dates, start times and who's playing. 475 Gin Ling Way, Los Angeles, California, 90012.
 
@@ -14,4 +14,4 @@ General Lee's Cocktail House is a music venue in Losangeles listed on soundcheck
 
 475 Gin Ling Way, Los Angeles, California, 90012, Los Angeles
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-cocktail-house/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/general-lee-s-cocktail-house/)*

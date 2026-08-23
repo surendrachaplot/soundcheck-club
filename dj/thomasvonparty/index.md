@@ -1,6 +1,6 @@
 # Thomas Von Party
 
-Thomas Von Party is a Acid and Dub artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Vino Disco, Montreal on Wed, 26 Aug 2026.
+Thomas Von Party is a Acid and Dub artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Vino Disco, Montreal on Wed, 26 Aug 2026.
 
 Thomas Von Party is an acid and dub artist based in Canada, tracked on soundcheck, with 15 sets logged across Milan and Montreal. Often billed alongside Dj Sarcastic, Nosh and Andie. Next up: Vino Disco, Montreal on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Thomas Von Party is an acid and dub artist based in Canada, tracked on soundchec
 
 Dj Sarcastic, Nosh, Andie
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasvonparty/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasvonparty/)*

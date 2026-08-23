@@ -1,6 +1,6 @@
 # Willow J
 
-Willow J is a Club and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
+Willow J is a Club and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
 
 Willow J is a club and trance artist tracked on soundcheck, with 23 sets logged across Brighton, Leeds and Manchester. Often billed alongside Princess Elf Bar, Lucky Bunny and maevie. Next up: Daltons Brighton, Brighton on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Willow J is a club and trance artist tracked on soundcheck, with 23 sets logged 
 
 Princess Elf Bar, Lucky Bunny, maevie
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*

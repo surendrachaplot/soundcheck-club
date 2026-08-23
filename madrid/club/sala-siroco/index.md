@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "From Disco to Disco en Siroco: SANDRO BIANCHI + PANKA PANKA 1/2 + Kamboya" on Sat, 22 Aug 2026.
+Sala Siroco is a music venue in Madrid with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "From Disco to Disco en Siroco: SANDRO BIANCHI + PANKA PANKA 1/2 + Kamboya" on Sat, 22 Aug 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, with line-ups including Belkan, Djen, Fer Xplosion and G4G0 and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -22,4 +22,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 9 upcoming nights, 
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

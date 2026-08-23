@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Ministerium Club // Elless & Benn, Paixão & Nuvem" on Sat, 22 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ministerium Club // Elless & Benn, Paixão & Nuvem" on Sat, 22 Aug 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including Angel Karel, BIIA, BLNK and DJ Nox and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming ni
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

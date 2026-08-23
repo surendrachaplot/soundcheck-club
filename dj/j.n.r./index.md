@@ -1,6 +1,6 @@
 # J.N.R.
 
-J.N.R. is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
+J.N.R. is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
 
 J.N.R. is a house and garage artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Mexicocity and Newyorkcity. Often billed alongside Gigi Rio, CAMILLA and Lucia Haze. Next up: Honey's, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ J.N.R. is a house and garage artist based in United Kingdom, tracked on soundche
 
 Gigi Rio, CAMILLA, Lucia Haze
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.n.r./)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.n.r./)*

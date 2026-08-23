@@ -1,6 +1,6 @@
 # BELLA (NL)
 
-BELLA (NL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
+BELLA (NL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
 
 BELLA (NL) is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Boris Coelman, TINS and KALLE (NL). Next up: CLUB RAUM, Amsterdam on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ BELLA (NL) is a house and techno artist tracked on soundcheck, with 147 sets log
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Sat, 22 Aug 2026
 - Lofi, Amsterdam — Sun, 9 Aug 2026
 - Minigolf Hard, Zurich — Sat, 8 Aug 2026
 - Radio Radio, Amsterdam — Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ BELLA (NL) is a house and techno artist tracked on soundcheck, with 147 sets log
 - Donauinsel, Vienna — Fri, 3 Jul 2026
 - Cadavra, Madrid — Fri, 3 Jul 2026
 - Core, Madrid — Sat, 27 Jun 2026
-- Radio Radio, Amsterdam — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Boris Coelman, TINS, KALLE (NL)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bella-nl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bella-nl/)*

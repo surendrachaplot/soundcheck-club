@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe" on Sat, 22 Aug 2026.
+Mia Mao is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CHECK THIS OUT X GUDU : Ewan McVicar, Lu.Re, Matrefakt & Camille Doe" on Sat, 22 Aug 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 00rt, Alba Franch, Amine S and Amygdala and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 13 upcoming nights, with
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

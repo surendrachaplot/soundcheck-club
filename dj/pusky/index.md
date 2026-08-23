@@ -1,6 +1,6 @@
 # Pusky
 
-Pusky is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Warehouse 25, Brisbane on Fri, 25 Sept 2026.
+Pusky is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Warehouse 25, Brisbane on Fri, 25 Sept 2026.
 
 Pusky is a techno and garage artist based in Australia, tracked on soundcheck, with 12 sets logged across Brisbane and Sydney. Often billed alongside TRUSTEE, Public Nuisance and Talat. Next up: Warehouse 25, Brisbane on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Pusky is a techno and garage artist based in Australia, tracked on soundcheck, w
 
 TRUSTEE, Public Nuisance, Talat
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pusky/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pusky/)*

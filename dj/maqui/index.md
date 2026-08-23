@@ -1,6 +1,6 @@
 # maqui
 
-maqui is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Forestlimit, Tokyo on Fri, 28 Aug 2026.
+maqui is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Forestlimit, Tokyo on Fri, 28 Aug 2026.
 
 maqui is an experimental and bass artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside VALON, Xamd and okadada. Next up: Forestlimit, Tokyo on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ maqui is an experimental and bass artist tracked on soundcheck, with 5 sets logg
 
 VALON, Xamd, okadada
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maqui/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maqui/)*

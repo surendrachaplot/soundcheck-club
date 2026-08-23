@@ -1,6 +1,6 @@
 # A'phreaq
 
-A'phreaq is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at La Fabrica, Washington DC on Sat, 12 Sept 2026.
+A'phreaq is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at La Fabrica, Washington DC on Sat, 12 Sept 2026.
 
 A'phreaq is a techno artist tracked on soundcheck, with 2 sets logged across Washingtondc. Often billed alongside MAXIMILIANO (US), Brent Shay and Dalton Taylor. Next up: La Fabrica, Washingtondc on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ A'phreaq is a techno artist tracked on soundcheck, with 2 sets logged across Was
 
 MAXIMILIANO (US), Brent Shay, Dalton Taylor
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aphreaq/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aphreaq/)*

@@ -1,6 +1,6 @@
 # Lawrence Le Doux
 
-Lawrence Le Doux is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kiosk Radio, Brussels on Sun, 30 Aug 2026.
+Lawrence Le Doux is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kiosk Radio, Brussels on Sun, 30 Aug 2026.
 
 Lawrence Le Doux is a techno and electronica artist based in Belgium, tracked on soundcheck, with 3 sets logged across Brussels and Rotterdam. Often billed alongside Eversines, John Talabot and Konduku. Next up: Kiosk Radio, Brussels on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Lawrence Le Doux is a techno and electronica artist based in Belgium, tracked on
 
 Eversines, John Talabot, Konduku
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceledoux/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceledoux/)*

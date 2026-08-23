@@ -1,6 +1,6 @@
 # Jocelyn (3)
 
-Jocelyn (3) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at OneSixOne, Melbourne on Sun, 23 Aug 2026.
+Jocelyn (3) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OneSixOne, Melbourne on Sun, 23 Aug 2026.
 
 Jocelyn (3) is a house and acid artist based in Australia, tracked on soundcheck, with 9 sets logged across Hobart and Melbourne. Often billed alongside Morphlink, Alex Morris and Anaya (2). Next up: OneSixOne, Melbourne on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Jocelyn (3) is a house and acid artist based in Australia, tracked on soundcheck
 
 Morphlink, Alex Morris, Anaya (2)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jocelyn-3/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jocelyn-3/)*

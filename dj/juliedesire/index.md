@@ -1,14 +1,13 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 21 Aug 2026.
+Julie Desire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The White Hotel, Manchester on Sat, 29 Aug 2026.
 
-Julie Desire is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: La Station - Gare des Mines, Paris on Fri 21 Aug.
+Julie Desire is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: The White Hotel, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | La Station - Gare des Mines | Paris |
 | Sat, 29 Aug 2026 | The White Hotel | Manchester |
 | Sat, 5 Sept 2026 | La Station - Gare des Mines | Paris |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
@@ -29,4 +28,4 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 109 sets l
 
 Cheriii, Mars O10C, A-440
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

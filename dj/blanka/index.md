@@ -1,6 +1,6 @@
 # BLANKA
 
-BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+BLANKA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 BLANKA is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Angioma, Quelza and Setaoc Mass. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ BLANKA is a techno and house artist tracked on soundcheck, with 137 sets logged 
 
 Angioma, Quelza, Setaoc Mass
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blanka/)*

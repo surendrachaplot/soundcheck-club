@@ -1,6 +1,6 @@
 # Atelier Gardens Campus
 
-Atelier Gardens Campus is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sounding Kinship: Rooftop Listening Ambient Event" on Thu, 3 Sept 2026.
+Atelier Gardens Campus is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Sounding Kinship: Rooftop Listening Ambient Event" on Thu, 3 Sept 2026.
 
 Atelier Gardens Campus is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Fletchy Boy, goldie (2), Hamatsuki and Kamila and 2 more. Browse upcoming dates, start times and who's playing. Oberlandstraße 26-35, 12099 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Atelier Gardens Campus is a music venue in Berlin listed on soundcheck. 2 upcomi
 
 Oberlandstraße 26-35, 12099 Berlin, Germany, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-gardens-campus/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atelier-gardens-campus/)*

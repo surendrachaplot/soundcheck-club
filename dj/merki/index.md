@@ -1,6 +1,6 @@
 # Merki
 
-Merki is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Classic Grand, Glasgow on Fri, 28 Aug 2026.
+Merki is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Classic Grand, Glasgow on Fri, 28 Aug 2026.
 
 Merki is a hardcore and club artist tracked on soundcheck, with 10 sets logged across Glasgow and Newcastle. Often billed alongside Alan Benn, Andy Whitby and Lozza. Next up: The Classic Grand, Glasgow on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Merki is a hardcore and club artist tracked on soundcheck, with 10 sets logged a
 
 Alan Benn, Andy Whitby, Lozza
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merki/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merki/)*

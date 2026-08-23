@@ -1,6 +1,6 @@
 # Nigel Hey
 
-Nigel Hey is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
+Nigel Hey is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Boomerang Beach, The Hague on Sun, 23 Aug 2026.
 
 Nigel Hey is a tech house and house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Karim Soliman, MENESIX and DAF. Next up: Boomerang Beach, Thehague on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Nigel Hey is a tech house and house artist based in Netherlands, tracked on soun
 
 Karim Soliman, MENESIX, DAF
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelhey/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nigelhey/)*

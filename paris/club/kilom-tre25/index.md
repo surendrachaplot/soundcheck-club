@@ -1,6 +1,6 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ANUBIS: Sevenum Six, Ophidian, BOTL, Heavora" on Sat, 22 Aug 2026.
+Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ANUBIS: Sevenum Six, Ophidian, BOTL, Heavora" on Sat, 22 Aug 2026.
 
 Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Airod, ANDATA, Angie (FR) and ANXHELA and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
@@ -23,4 +23,4 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights,
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

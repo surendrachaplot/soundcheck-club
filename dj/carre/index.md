@@ -1,20 +1,20 @@
 # Carré
 
-Carré is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Cause, London on Sat, 22 Aug 2026.
+Carré is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Carré is a bass and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Samwise (US), Seyer (UK) and Darwin. Next up: The Cause, London on Sat 22 Aug.
+Carré is a bass and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Samwise (US), Seyer (UK) and Darwin. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | The Cause | London |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | Palais | London |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 
 ## Recently played
 
+- The Cause, London — Sat, 22 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
 - Gaffe, London — Sat, 4 Jul 2026
 - Eden, Ibiza — Wed, 24 Jun 2026
@@ -22,10 +22,9 @@ Carré is a bass and techno artist based in United States of America, tracked on
 - Process PDX, Portland — Sat, 30 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
 - DSTRKT Club Berlin, Berlin — Fri, 15 May 2026
-- ASIAT Park, Brussels — Thu, 14 May 2026
 
 ## Shares bills with
 
 Samwise (US), Seyer (UK), Darwin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

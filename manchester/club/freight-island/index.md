@@ -1,6 +1,6 @@
 # Freight Island
 
-Freight Island is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Ghosts of Garage with MARK HILL (Artful Dodger), Jeremy Sylvester b2b Mike Millrain - FREE Tick" on Sun, 6 Sept 2026.
+Freight Island is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ghosts of Garage with MARK HILL (Artful Dodger), Jeremy Sylvester b2b Mike Millrain - FREE Tick" on Sun, 6 Sept 2026.
 
 Freight Island is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Chunky, Jeremy Sylvester, Mike Millrain and Particles and 1 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester M1 2PZ.
 
@@ -14,4 +14,4 @@ Freight Island is a music venue in Manchester listed on soundcheck. 1 upcoming n
 
 11 Baring St, Manchester M1 2PZ, Manchester
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/freight-island/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/freight-island/)*

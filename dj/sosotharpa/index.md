@@ -1,6 +1,6 @@
 # Soso Tharpa
 
-Soso Tharpa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Doubles, Washington DC on Sat, 19 Sept 2026.
+Soso Tharpa is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Doubles, Washington DC on Sat, 19 Sept 2026.
 
 Soso Tharpa is a techno and bass artist tracked on soundcheck, with 21 sets logged across Barcelona, Boston, Newyorkcity and Washingtondc. Often billed alongside Djoser, Baronhawk Poitier and Dave from Stoke. Next up: Doubles, Washingtondc on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Soso Tharpa is a techno and bass artist tracked on soundcheck, with 21 sets logg
 
 Djoser, Baronhawk Poitier, Dave from Stoke
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosotharpa/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosotharpa/)*

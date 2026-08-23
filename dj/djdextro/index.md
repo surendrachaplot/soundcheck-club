@@ -1,6 +1,6 @@
 # DJ Dextro
 
-DJ Dextro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
+DJ Dextro is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
 
 DJ Dextro is a techno and acid artist based in Portugal, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside Marco Ramos, A.Paul and BASSTIEN. Next up: Liquid Club, Malta on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DJ Dextro is a techno and acid artist based in Portugal, tracked on soundcheck, 
 
 Marco Ramos, A.Paul, BASSTIEN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*

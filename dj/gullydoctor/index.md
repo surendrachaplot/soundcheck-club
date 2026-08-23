@@ -1,6 +1,6 @@
 # gullydoctor
 
-gullydoctor is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+gullydoctor is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 gullydoctor is a club and house artist tracked on soundcheck, with 10 sets logged across Dublin and London. Often billed alongside Alba (2), JWY (1) and Sémaé. Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ gullydoctor is a club and house artist tracked on soundcheck, with 10 sets logge
 
 Alba (2), JWY (1), Sémaé
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gullydoctor/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gullydoctor/)*

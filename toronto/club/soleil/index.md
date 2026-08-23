@@ -1,6 +1,6 @@
 # Soleil
 
-Soleil is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Rhythmic Roots X Ritual Recall: Open Air Summer Closer" on Sat, 12 Sept 2026.
+Soleil is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rhythmic Roots X Ritual Recall: Open Air Summer Closer" on Sat, 12 Sept 2026.
 
 Soleil is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Edan Negrin, maxedvisa, Nicholas Nothing and Pursuit Grooves and 1 more. Browse upcoming dates, start times and who's playing. 1251 Dundas Street West.
 
@@ -14,4 +14,4 @@ Soleil is a music venue in Toronto listed on soundcheck. 1 upcoming night, with 
 
 1251 Dundas Street West, Toronto
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/soleil/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/soleil/)*

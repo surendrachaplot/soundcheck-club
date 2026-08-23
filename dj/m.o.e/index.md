@@ -1,6 +1,6 @@
 # M.o.E
 
-M.o.E is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
+M.o.E is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Boulderhalle Dynochrom, Frankfurt on Sat, 22 Aug 2026.
 
 M.o.E is a house and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Frankfurt. Often billed alongside Pierre Vice, Aimé You and Carl Bergé. Next up: Boulderhalle Dynochrom, Frankfurt on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ M.o.E is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Boulderhalle Dynochrom, Frankfurt — Sat, 22 Aug 2026
 - Jonny Knüppel, Berlin — Fri, 10 Jul 2026
 - Mom's Limousine Service, Berlin — Sat, 10 Jan 2026
 - Mom's Limousine Service, Berlin — Thu, 11 Dec 2025
@@ -21,4 +22,4 @@ M.o.E is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 Pierre Vice, Aimé You, Carl Bergé
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.o.e/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.o.e/)*

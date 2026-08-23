@@ -1,14 +1,13 @@
 # Saint Judes
 
-Saint Judes is a music venue in Glasgow with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "It's Never Too Late presents: Kyau & Albert" on Sat, 22 Aug 2026.
+Saint Judes is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "I Am A Raver: LUGZY - Nanna Makina" on Sat, 5 Sept 2026.
 
-Saint Judes is a music venue in Glasgow listed on soundcheck. 5 upcoming nights, with line-ups including DJ Zitkus, Kyau & Albert, Lugzy and Nanna Makina and 2 more. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
+Saint Judes is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including DJ Zitkus, Lugzy and Nanna Makina. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | It's Never Too Late presents: Kyau & Albert | Kyau & Albert, Stephen Adamson, Stephen Kirkwood, Yeadon |
 | Sat, 5 Sept 2026 | I Am A Raver: LUGZY - Nanna Makina | Lugzy, Nanna Makina |
 | Sat, 5 Sept 2026 | Archaos & Vickies Anthems |  |
 | Sat, 12 Sept 2026 | I Am A Raver Over 30s | DJ Zitkus |
@@ -18,4 +17,4 @@ Saint Judes is a music venue in Glasgow listed on soundcheck. 5 upcoming nights,
 
 190 Bath Street; Glasgow, G2 4HG; Scotland, Glasgow
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*

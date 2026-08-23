@@ -1,6 +1,6 @@
 # Rotciv
 
-Rotciv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+Rotciv is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
 
 Rotciv is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Frankfurt, Nantes and Paris and 2 more. Often billed alongside Curses, Massimiliano Pagliara and Peter Schumann. Next up: Kater, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Rotciv is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Curses, Massimiliano Pagliara, Peter Schumann
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rotciv/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rotciv/)*

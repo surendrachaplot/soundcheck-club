@@ -1,6 +1,6 @@
 # Zsikla
 
-Zsikla is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - MEDER, Budapest on Wed, 26 Aug 2026.
+Zsikla is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - MEDER, Budapest on Wed, 26 Aug 2026.
 
 Zsikla is a minimal and tech house artist tracked on soundcheck, with 12 sets logged across Budapest. Often billed alongside Artic Yoyo, Drabar and Ratkay. Next up: TBA - MEDER, Budapest on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Zsikla is a minimal and tech house artist tracked on soundcheck, with 12 sets lo
 
 Artic Yoyo, Drabar, Ratkay
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zsikla/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zsikla/)*

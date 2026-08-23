@@ -1,6 +1,6 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
+Afem Syko is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
 
 Afem Syko is a techno and trance artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Virage, Paris on Sat 22 Aug.
 
@@ -17,6 +17,7 @@ Afem Syko is a techno and trance artist tracked on soundcheck, with 153 sets log
 
 ## Recently played
 
+- Virage, Paris — Sat, 22 Aug 2026
 - Lehmann Club, Stuttgart — Fri, 7 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 - 821 Runnymede Rd, Toronto — Sat, 4 Jul 2026
@@ -24,10 +25,9 @@ Afem Syko is a techno and trance artist tracked on soundcheck, with 153 sets log
 - Quinta do Miratejo, Lisbon — Wed, 10 Jun 2026
 - TBA - World Club Dome , Frankfurt — Sat, 6 Jun 2026
 - Tonfabrik Aalen, Stuttgart — Sat, 6 Jun 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

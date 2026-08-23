@@ -1,6 +1,6 @@
 # Spear
 
-Spear is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Nova Jazz Cava, Barcelona on Sat, 26 Sept 2026.
+Spear is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Nova Jazz Cava, Barcelona on Sat, 26 Sept 2026.
 
 Spear is a techno and electronica artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside ABSIS, Cyklos and Sonic Wave Collective. Next up: Nova Jazz Cava, Barcelona on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Spear is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 ABSIS, Cyklos, Sonic Wave Collective
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spear/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spear/)*

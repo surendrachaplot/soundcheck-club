@@ -1,6 +1,6 @@
 # Mayro
 
-Mayro is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
+Mayro is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
 
 Mayro is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 6 more. Often billed alongside DJ Ruby, Dowden and John Cosani. Next up: TBA - FORO PEDREGAL, Mexicocity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mayro is a progressive house and techno artist based in Argentina, tracked on so
 
 DJ Ruby, Dowden, John Cosani
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayro/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayro/)*

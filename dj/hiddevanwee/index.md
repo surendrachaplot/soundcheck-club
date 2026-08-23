@@ -1,6 +1,6 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
+Hidde van Wee is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
 
 Hidde van Wee is a house and tech house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Toffler, Rotterdam on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 68 se
 
 Boss Priester, Sidney Charles, Benny Rodrigues
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

@@ -1,6 +1,6 @@
 # Marian Ariss
 
-Marian Ariss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 30 Aug 2026.
+Marian Ariss is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 30 Aug 2026.
 
 Marian Ariss is a house and tech house artist tracked on soundcheck, with 35 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Isa Rojas, Kevin de Vries and Massano. Next up: Ku Barcelona, Barcelona on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Marian Ariss is a house and tech house artist tracked on soundcheck, with 35 set
 
 Isa Rojas, Kevin de Vries, Massano
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marianariss/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marianariss/)*

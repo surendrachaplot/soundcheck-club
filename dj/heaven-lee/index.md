@@ -1,6 +1,6 @@
 # HEAVEN-LEE
 
-HEAVEN-LEE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
+HEAVEN-LEE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
 
 HEAVEN-LEE is a house and tech house artist tracked on soundcheck, with 16 sets logged across Brighton and London. Often billed alongside 3 Minds, Silverlining and Eddie Richards. Next up: The Ministry, London on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ HEAVEN-LEE is a house and tech house artist tracked on soundcheck, with 16 sets 
 
 3 Minds, Silverlining, Eddie Richards
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heaven-lee/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heaven-lee/)*

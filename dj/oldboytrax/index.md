@@ -1,6 +1,6 @@
 # Oldboy (UK)
 
-Oldboy (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
+Oldboy (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
 
 Oldboy (UK) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Brighton, Edinburgh and London. Often billed alongside Oldboy (2), Adam Pits and Amaliah. Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ Oldboy (UK) is a house and garage artist based in United Kingdom, tracked on sou
 
 Oldboy (2), Adam Pits, Amaliah
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboytrax/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboytrax/)*

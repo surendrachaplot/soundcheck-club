@@ -1,14 +1,13 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur on Sat, 22 Aug 2026.
+Yoshiko is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
 
-Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Dimitri K, The Dark Horror and A.N.I.. Next up: TBA - XOX Arena, ARCH GALERIES, Kualalumpur on Sat 22 Aug.
+Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Dimitri K, The Dark Horror and A.N.I.. Next up: The Classic Grand, Glasgow on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - XOX Arena, ARCH GALERIES | Kuala Lumpur |
 | Sat, 29 Aug 2026 | The Classic Grand | Glasgow |
 | Fri, 11 Sept 2026 | Bootshaus | Cologne |
 | Fri, 11 Sept 2026 | Mia Mao | Paris |
@@ -21,6 +20,7 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logg
 
 ## Recently played
 
+- TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur — Sat, 22 Aug 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - Le Kilowatt, Paris — Sat, 25 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 18 Jun 2026
@@ -28,10 +28,9 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logg
 - Klub Progresja, Warsaw — Wed, 3 Jun 2026
 - IDRA, Manchester — Sat, 30 May 2026
 - DSTRKT Club Berlin, Berlin — Fri, 29 May 2026
-- Rex Club, Paris — Wed, 1 Apr 2026
 
 ## Shares bills with
 
 Dimitri K, The Dark Horror, A.N.I.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

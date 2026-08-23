@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "VER pres. Paraçek INVITES I Open Air" on Sun, 23 Aug 2026.
+Edelfettwerk is a music venue in Hamburg with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "VER pres. Paraçek INVITES I Open Air" on Sun, 23 Aug 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights, with line-ups including Carotin, Cera Khin, Charlie and DJ SKIPLIST and 2 more. Browse upcoming dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -18,4 +18,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming nights
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

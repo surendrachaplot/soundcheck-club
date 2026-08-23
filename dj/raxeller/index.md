@@ -1,6 +1,6 @@
 # Raxeller
 
-Raxeller is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Strantwerpen, Antwerp on Sat, 5 Sept 2026.
+Raxeller is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Strantwerpen, Antwerp on Sat, 5 Sept 2026.
 
 Raxeller is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside 6EJOU, KARAH and Alignment. Next up: Strantwerpen, Antwerp on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Raxeller is a techno and industrial artist based in Netherlands, tracked on soun
 
 6EJOU, KARAH, Alignment
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*

@@ -1,6 +1,6 @@
 # Le Fou
 
-Le Fou is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+Le Fou is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
 Le Fou is a techno and experimental artist tracked on soundcheck, with 10 sets logged across Austin, Barcelona, Berlin and London and 2 more. Often billed alongside Beto Delgado, Joey Plastic and Kerri LeBon. Next up: TBA, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Le Fou is a techno and experimental artist tracked on soundcheck, with 10 sets l
 
 Beto Delgado, Joey Plastic, Kerri LeBon
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lefou-cn/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lefou-cn/)*

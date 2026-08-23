@@ -1,6 +1,6 @@
 # ysheso__
 
-ysheso__ is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+ysheso__ is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
 ysheso__ is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside GEE LEE, Shaolin Cowboy and Target Demographic. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ ysheso__ is a house and breakbeat artist based in United States of America, trac
 
 GEE LEE, Shaolin Cowboy, Target Demographic
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*

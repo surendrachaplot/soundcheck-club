@@ -1,6 +1,6 @@
 # VIVI (DE)
 
-VIVI (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+VIVI (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 VIVI (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Hamburg and Munich. Often billed alongside JUSTICE (DE), Baerbel and Susi&Paula. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ VIVI (DE) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 JUSTICE (DE), Baerbel, Susi&Paula
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivide/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivide/)*

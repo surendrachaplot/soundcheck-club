@@ -1,6 +1,6 @@
 # ALYSH
 
-ALYSH is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Alcatraz Milano, Milan on Sat, 29 Aug 2026.
+ALYSH is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Alcatraz Milano, Milan on Sat, 29 Aug 2026.
 
 ALYSH is an industrial and techno artist tracked on soundcheck, with 2 sets logged across Milan and Rome. Often billed alongside Alessandro Reale, Cristopher Arcuri and GIULIA (IT). Next up: Alcatraz Milano, Milan on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ ALYSH is an industrial and techno artist tracked on soundcheck, with 2 sets logg
 
 Alessandro Reale, Cristopher Arcuri, GIULIA (IT)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alysh/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alysh/)*

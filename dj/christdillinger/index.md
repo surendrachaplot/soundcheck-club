@@ -1,6 +1,6 @@
 # Christ Dillinger
 
-Christ Dillinger is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Rubix Warehouse & Tetris Studios, Melbourne on Fri, 4 Sept 2026.
+Christ Dillinger is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Rubix Warehouse & Tetris Studios, Melbourne on Fri, 4 Sept 2026.
 
 Christ Dillinger is a hip-hop and r&b artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, London and Melbourne and 5 more. Often billed alongside Acid Souljah, Warlord® and exmantera. Next up: Rubix Warehouse & Tetris Studios, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Christ Dillinger is a hip-hop and r&b artist tracked on soundcheck, with 18 sets
 
 Acid Souljah, Warlord®, exmantera
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christdillinger/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christdillinger/)*

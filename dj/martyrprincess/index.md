@@ -1,6 +1,6 @@
 # Martyr Princess
 
-Martyr Princess is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+Martyr Princess is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Martyr Princess is a techno and latin bass artist based in United States of America, tracked on soundcheck, with 3 sets logged across Sanfrancisco. Often billed alongside @djlobottomy, xtcemi and DJ Mutant Otter. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Martyr Princess is a techno and latin bass artist based in United States of Amer
 
 @djlobottomy, xtcemi, DJ Mutant Otter
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martyrprincess/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martyrprincess/)*

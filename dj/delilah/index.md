@@ -1,6 +1,6 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
+Delilah is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
 
 Delilah is a house and tech house artist tracked on soundcheck, with 37 sets logged across Berlin, Bristol, Brussels and Dublin and 6 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: [UNVRS], Ibiza on Wed 26 Aug.
 
@@ -32,4 +32,4 @@ Delilah is a house and tech house artist tracked on soundcheck, with 37 sets log
 
 MiNNA, Rossi, Sidney Charles
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

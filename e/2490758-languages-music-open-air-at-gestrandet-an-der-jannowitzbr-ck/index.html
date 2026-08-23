@@ -12,8 +12,16 @@
   <!-- Warm the API connection (TLS) before the first /api/day fetch fires. -->
   <link rel="preconnect" href="https://api.soundcheck.club" crossorigin />
   <link rel="preconnect" href="https://i.ytimg.com" />
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <!-- ORDER MATTERS FOR CRAWLERS. Bing fetches /favicon.ico first and otherwise
+       takes a RASTER <link>; it largely will not use an SVG. favicon-32x32.png
+       was declared here for months while 404ing, so the only icon that resolved
+       was the SVG — which is why search results showed a generic globe instead
+       of the logo. All of these are generated from icons/icon-512.png by
+       build-club, so they cannot drift or go missing again. -->
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/icons/icon-192.png" />
   <!-- PWA: installable on iOS/Android, standalone, dark chrome -->
   <link rel="manifest" href="/manifest.webmanifest" />
@@ -21,12 +29,12 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.cf71ba844d4d.css">
+  <link rel="stylesheet" href="/app.a264bc1e7a6d.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1786630030323">
-  <meta property="og:image" content="https://api.soundcheck.club/api/og?t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
+<meta name="sc-build" content="1787439399179">
+  <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 <meta name="description" content="languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 6 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/">
 <meta property="og:type" content="website">
@@ -37,11 +45,11 @@
 <meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&amp;w=1000">
 <meta name="twitter:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&amp;w=1000">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"languages music Open Air","url":"https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/","description":"languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 6 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-29T14:00:00+02:00","endDate":"2026-08-29T22:00:00+02:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Gestrandet An Der Jannowitzbrücke","address":{"@type":"PostalAddress","streetAddress":"Rolandufer, 10179 Berlin, Germany","addressLocality":"Berlin","addressCountry":"DE"},"geo":{"@type":"GeoCoordinates","latitude":52.51427,"longitude":13.419347},"url":"https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/"},"performer":[{"@type":"MusicGroup","name":"Alex Narrow","url":"https://soundcheck.club/dj/alex-narrow/"},{"@type":"MusicGroup","name":"Die Jane","url":"https://soundcheck.club/dj/die-jane/"},{"@type":"MusicGroup","name":"Mike Koglin","url":"https://soundcheck.club/dj/mike-koglin/"},{"@type":"MusicGroup","name":"MoodFreak","url":"https://soundcheck.club/dj/moodfreak/"},{"@type":"MusicGroup","name":"Planty Snips","url":"https://soundcheck.club/dj/planty-snips/"},{"@type":"MusicGroup","name":"Wiebe Roose","url":"https://soundcheck.club/dj/wiebe-roose/"}],"organizer":[{"@type":"Organization","name":"MoodFreak"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/","price":"0","priceCurrency":"EUR","availability":"https://schema.org/InStock","validFrom":"2026-08-13"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&w=1200&h=675&fit=cover"],"isAccessibleForFree":true}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"languages music Open Air","url":"https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/","description":"languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 6 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-29T14:00:00+02:00","endDate":"2026-08-29T22:00:00+02:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Gestrandet An Der Jannowitzbrücke","address":{"@type":"PostalAddress","streetAddress":"Rolandufer, 10179 Berlin, Germany","addressLocality":"Berlin","addressCountry":"DE"},"geo":{"@type":"GeoCoordinates","latitude":52.51427,"longitude":13.419347},"url":"https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/"},"performer":[{"@type":"MusicGroup","name":"Alex Narrow","url":"https://soundcheck.club/dj/alex-narrow/"},{"@type":"MusicGroup","name":"Die Jane","url":"https://soundcheck.club/dj/die-jane/"},{"@type":"MusicGroup","name":"Mike Koglin","url":"https://soundcheck.club/dj/mike-koglin/"},{"@type":"MusicGroup","name":"MoodFreak","url":"https://soundcheck.club/dj/moodfreak/"},{"@type":"MusicGroup","name":"Planty Snips","url":"https://soundcheck.club/dj/planty-snips/"},{"@type":"MusicGroup","name":"Wiebe Roose","url":"https://soundcheck.club/dj/wiebe-roose/"}],"organizer":[{"@type":"Organization","name":"MoodFreak"}],"offers":{"@type":"Offer","url":"https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/","price":"0","priceCurrency":"EUR","availability":"https://schema.org/InStock","validFrom":"2026-08-23"},"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F5d1db367298b2f25687272b893dbd62972bc8bda.jpg&w=1200&h=675&fit=cover"],"isAccessibleForFree":true}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Berlin","item":"https://soundcheck.club/berlin/"},{"@type":"ListItem","position":3,"name":"languages music Open Air"}]}</script>
 </head>
 <body>
-<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#f3ece6;font-family:system-ui,sans-serif"><h1>languages music Open Air</h1><p>languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 6 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.</p><table><tbody><tr><th>Date</th><td>Sat, 29 Aug 2026</td></tr><tr><th>Venue</th><td><a style="color:#ff7a6b" href="https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/">Gestrandet An Der Jannowitzbrücke</a></td></tr><tr><th>City</th><td><a style="color:#ff7a6b" href="https://soundcheck.club/berlin/">Berlin</a></td></tr><tr><th>Acts</th><td>6</td></tr></tbody></table><h2>Line-up</h2><ul><li><a style="color:#ff7a6b" href="https://soundcheck.club/dj/alexnarrow/">Alex Narrow</a></li><li><a style="color:#ff7a6b" href="https://soundcheck.club/dj/diejane-de/">Die Jane</a></li><li><a style="color:#ff7a6b" href="https://soundcheck.club/dj/mikekoglin/">Mike Koglin</a></li><li><a style="color:#ff7a6b" href="https://soundcheck.club/dj/moodfreak/">MoodFreak</a></li><li><a style="color:#ff7a6b" href="https://soundcheck.club/dj/plantysnips/">Planty Snips</a></li><li><a style="color:#ff7a6b" href="https://soundcheck.club/dj/wieberoose/">Wiebe Roose</a></li></ul><p><a style="color:#ff7a6b" href="https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/">Open on soundcheck</a></p></main></noscript>
+<noscript><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#FDF3EC;font-family:'Archivo',system-ui,sans-serif"><h1>languages music Open Air</h1><p>languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 6 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.</p><table><tbody><tr><th>Date</th><td>Sat, 29 Aug 2026</td></tr><tr><th>Venue</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/">Gestrandet An Der Jannowitzbrücke</a></td></tr><tr><th>City</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/berlin/">Berlin</a></td></tr><tr><th>Acts</th><td>6</td></tr></tbody></table><h2>Line-up</h2><ul><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/alexnarrow/">Alex Narrow</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/diejane-de/">Die Jane</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/mikekoglin/">Mike Koglin</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/moodfreak/">MoodFreak</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/plantysnips/">Planty Snips</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/wieberoose/">Wiebe Roose</a></li></ul><p><a style="color:#FF9A3D" href="https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/">Open on soundcheck</a></p></main></noscript>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
   <main class="wrap">
     <nav>
@@ -50,10 +58,8 @@
       <button class="hdr-city" id="hdr-city" type="button" aria-label="Change city"><span id="hdr-city-name">London</span><svg class="cs-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></button>
         <span class="sc-navtitle" id="sc-navtitle" aria-hidden="true">What&rsquo;s on</span>
       <div class="nav-links" id="nav-links">
-        <button class="nl" data-nav="discover" type="button">Discover</button>
+        <button class="nl" data-nav="home" type="button">Home</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
-        <button class="nl" data-nav="lists" type="button">Guides</button>
-        <button class="nl" data-nav="upcoming" type="button">Upcoming</button>
         <button class="nl" data-nav="radio" type="button">Radio</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
@@ -97,7 +103,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-13/">Thu 13 Aug <span class="c">26 events</span></a></li><li><a href="/london/2026-08-14/">Fri 14 Aug <span class="c">85 events</span></a></li><li><a href="/london/2026-08-15/">Sat 15 Aug <span class="c">140 events</span></a></li><li><a href="/london/2026-08-16/">Sun 16 Aug <span class="c">30 events</span></a></li><li><a href="/london/2026-08-18/">Tue 18 Aug <span class="c">5 events</span></a></li><li><a href="/london/2026-08-19/">Wed 19 Aug <span class="c">12 events</span></a></li><li><a href="/london/2026-08-20/">Thu 20 Aug <span class="c">31 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-22/">Sat 22 Aug <span class="c">123 events</span></a></li><li><a href="/london/2026-08-23/">Sun 23 Aug <span class="c">21 events</span></a></li><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">9 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">96 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">125 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">85 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -165,7 +171,7 @@
       <button class="auth-close" id="auth-close" type="button" aria-label="Close">&times;</button>
       <div id="auth-form-state">
         <div class="eyebrow">Save your picks</div>
-        <h3>Sign in to <span style="color:var(--accent)">soundcheck</span>.</h3>
+        <h3>Sign in to <span class="ac">soundcheck</span>.</h3>
         <p>No password &mdash; we&rsquo;ll email you a magic link, so your picks follow you across devices.</p>
         <form id="auth-form">
           <input type="email" id="auth-email" placeholder="you@email.com" autocomplete="email" inputmode="email" required>
@@ -176,7 +182,7 @@
       <div id="auth-sent-state" class="sent" hidden>
         <div class="big">&#9993;&#65039;</div>
         <h3>Check your inbox.</h3>
-        <p>We sent a magic link to <b id="auth-sent-to"></b>. Tap it on this device &mdash; or, if you&rsquo;ve installed the app, enter the code from the email:</p>
+        <p>We sent a magic link to <b id="auth-sent-to"></b>. Tap the link, or type the 6-character code from the email &mdash; either works, on any device:</p>
         <input type="text" id="auth-code" placeholder="Code" maxlength="8" autocomplete="one-time-code" inputmode="text" autocapitalize="characters" autocorrect="off" spellcheck="false" style="text-transform:uppercase;text-align:center;letter-spacing:0.3em;font-weight:700;">
         <button class="go" type="button" id="auth-code-go">Sign in with code</button>
         <div class="err" id="auth-code-err"></div>
@@ -214,7 +220,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.cf71ba844d4d.js" defer></script>
+  <script src="/app.a264bc1e7a6d.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

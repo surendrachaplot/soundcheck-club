@@ -1,6 +1,6 @@
 # Dirt Vibes
 
-Dirt Vibes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Elysian Park, Los Angeles on Sun, 30 Aug 2026.
+Dirt Vibes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Elysian Park, Los Angeles on Sun, 30 Aug 2026.
 
 Dirt Vibes is a house and deep house artist based in Colombia, tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside Beggar, Choopsie and AIRS. Next up: Elysian Park, Losangeles on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Dirt Vibes is a house and deep house artist based in Colombia, tracked on soundc
 
 Beggar, Choopsie, AIRS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtvibes/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtvibes/)*

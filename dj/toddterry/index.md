@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Paragon, New York City on Sat, 29 Aug 2026.
+Todd Terry is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Paragon, New York City on Sat, 29 Aug 2026.
 
 Todd Terry is a house and disco artist tracked on soundcheck, with 147 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Paragon, Newyorkcity on Sat 29 Aug.
 
@@ -35,4 +35,4 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 147 sets logg
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

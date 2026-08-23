@@ -1,6 +1,6 @@
 # steamboi
 
-steamboi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+steamboi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 steamboi is a techno and trance artist tracked on soundcheck, with 85 sets logged across Copenhagen and Oslo. Often billed alongside DJ 2LATE, Kardinal Bertram and Britney Speed. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ steamboi is a techno and trance artist tracked on soundcheck, with 85 sets logge
 
 DJ 2LATE, Kardinal Bertram, Britney Speed
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steamboi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steamboi/)*

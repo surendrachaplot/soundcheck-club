@@ -1,6 +1,6 @@
 # Tribe Dj
 
-Tribe Dj is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Flamingo, Berlin on Sat, 29 Aug 2026.
+Tribe Dj is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Golden Flamingo, Berlin on Sat, 29 Aug 2026.
 
 Tribe Dj is a techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin and London. Often billed alongside Luciano Mancini Luke, Paolo Tossio and Erica (IT). Next up: Golden Flamingo, Berlin on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Tribe Dj is a techno artist based in Italy, tracked on soundcheck, with 5 sets l
 
 Luciano Mancini Luke, Paolo Tossio, Erica (IT)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tribedj/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tribedj/)*

@@ -1,6 +1,6 @@
 # Some Guest
 
-Some Guest is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Panke, Berlin on Sat, 22 Aug 2026.
+Some Guest is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Panke, Berlin on Sat, 22 Aug 2026.
 
 Some Guest is a latin bass and techno artist based in Poland, tracked on soundcheck, with 72 sets logged across Berlin, Edinburgh, Krakow and Milan and 4 more. Often billed alongside iffi, faron and Kovvalsky. Next up: Panke, Berlin on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Some Guest is a latin bass and techno artist based in Poland, tracked on soundch
 
 ## Recently played
 
+- Panke, Berlin — Sat, 22 Aug 2026
 - BarKa, Warsaw — Wed, 29 Jul 2026
 - K-Bar Powiśle, Warsaw — Tue, 14 Jul 2026
 - Jasna 1, Warsaw — Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Some Guest is a latin bass and techno artist based in Poland, tracked on soundch
 - Jasna 1, Warsaw — Sat, 9 May 2026
 - Jasna 1, Warsaw — Fri, 3 Apr 2026
 - B-SIDE, Warsaw — Fri, 6 Mar 2026
-- Jasna 1, Warsaw — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 iffi, faron, Kovvalsky
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someguest/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/someguest/)*

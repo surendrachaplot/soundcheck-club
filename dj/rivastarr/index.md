@@ -1,6 +1,6 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 27 Aug 2026.
+Riva Starr is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 Riva Starr is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Bali and Barcelona and 24 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Chinois Ibiza, Ibiza on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 77 sets 
 
 Lowsteppa, Armand Van Helden, Paige Tomlinson
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

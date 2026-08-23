@@ -1,6 +1,6 @@
 # ELEANOR
 
-ELEANOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
+ELEANOR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
 
 ELEANOR is a techno and house artist based in Australia, tracked on soundcheck, with 18 sets logged across Leeds, London, Manchester and Tokyo. Often billed alongside Al Wootton, Ally Tropical and Bobby.. Next up: radial, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ELEANOR is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Al Wootton, Ally Tropical, Bobby.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleanor/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eleanor/)*

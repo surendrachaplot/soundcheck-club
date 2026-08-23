@@ -1,6 +1,6 @@
 # Supergross
 
-Supergross is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Supergross is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Supergross is a techno and bass artist based in Ireland, tracked on soundcheck, with 35 sets logged across Berlin, Cork, Dublin and Galway and 2 more. Often billed alongside Walodja, 2727 and Pepi Soljanka. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Supergross is a techno and bass artist based in Ireland, tracked on soundcheck, 
 
 Walodja, 2727, Pepi Soljanka
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supergross/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supergross/)*

@@ -1,14 +1,13 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Toffler, Rotterdam on Sat, 22 Aug 2026.
+davyboi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Toffler, Rotterdam on Sat 22 Aug.
+davyboi is a techno and trance artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Toffler | Rotterdam |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | Home The Venue | Sydney |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
@@ -20,9 +19,11 @@ davyboi is a techno and trance artist tracked on soundcheck, with 160 sets logge
 | Fri, 25 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
+| Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
 
 ## Recently played
 
+- Toffler, Rotterdam — Sat, 22 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 14 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ davyboi is a techno and trance artist tracked on soundcheck, with 160 sets logge
 - Boomerang Beach, The Hague — Sun, 19 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 - Club Phoenix - Gianpula Village, Malta — Sat, 11 Jul 2026
-- Else, Berlin — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

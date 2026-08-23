@@ -1,6 +1,6 @@
 # Note
 
-Note is a Drum & Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Nineteen Toronto, Toronto on Thu, 8 Oct 2026.
+Note is a Drum & Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Nineteen Toronto, Toronto on Thu, 8 Oct 2026.
 
 Note is a drum & bass and pop artist tracked on soundcheck, with 12 sets logged across Amsterdam, Glasgow, London and Manchester and 2 more. Often billed alongside Zar., Kublai and Lenzman. Next up: Nineteen Toronto, Toronto on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Note is a drum & bass and pop artist tracked on soundcheck, with 12 sets logged 
 
 Zar., Kublai, Lenzman
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/note/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/note/)*

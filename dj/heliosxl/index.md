@@ -1,6 +1,6 @@
 # Helios XL
 
-Helios XL is a Jungle and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kult Yard, Singapore on Sun, 23 Aug 2026.
+Helios XL is a Jungle and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kult Yard, Singapore on Sun, 23 Aug 2026.
 
 Helios XL is a jungle and techno artist based in Singapore, tracked on soundcheck, with 29 sets logged across Hongkong, Kualalumpur and Singapore. Often billed alongside Dexter Colt, TASHASAN and Jony Maddkidz. Next up: Kult Yard, Singapore on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Helios XL is a jungle and techno artist based in Singapore, tracked on soundchec
 
 Dexter Colt, TASHASAN, Jony Maddkidz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosxl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosxl/)*

@@ -1,6 +1,6 @@
 # Amal
 
-Amal is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
+Amal is a Club and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
 
 Amal is a club and house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Austin, Berlin and Chicago and 9 more. Often billed alongside Nativesun, Black Rave Culture and Amal (US). Next up: Bastet, Philadelphia on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Amal is a club and house artist based in United States of America, tracked on so
 
 Nativesun, Black Rave Culture, Amal (US)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amal/)*

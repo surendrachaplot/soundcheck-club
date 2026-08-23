@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "A Night Of Soundsystem Culture II" on Sat, 22 Aug 2026.
+Yamamori Tengu is a music venue in Dublin with 19 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Four Four presents: Future Éire at Tengu" on Fri, 28 Aug 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and Benson and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and Benson and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | A Night Of Soundsystem Culture II | Jacky Murda, Rub A Dub HiFi |
 | Fri, 28 Aug 2026 | Four Four presents: Future Éire at Tengu |  |
 | Sat, 29 Aug 2026 | Tengu x Supper presents: Magda | Magda, Mercorn, Nev Jio, Royce Larøca |
 | Fri, 4 Sept 2026 | OMNI.DUB presents: The Ghost | The Ghost |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nigh
 | Fri, 11 Sept 2026 | Club Comfort presents: JD REID | JD. REID, Roo Honeychild, Selky |
 | Sat, 12 Sept 2026 | District X Afters: Tengu |  |
 | Thu, 17 Sept 2026 | IADT Freshers Ball |  |
+| Fri, 18 Sept 2026 | Tengu Culture Night: angel tabris, Ambit, Rustal (Live) & Dub Revival  Hosted by Cian Finn | Ambit, Rub A Dub HiFi, Rustal, angel tabris |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

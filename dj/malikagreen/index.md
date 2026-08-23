@@ -1,6 +1,6 @@
 # MALIKA GREEN
 
-MALIKA GREEN is a Dancehall and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
+MALIKA GREEN is a Dancehall and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
 
 MALIKA GREEN is a dancehall and garage artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Donnie Sunshine, Grove and KaYa (UK). Next up: Tola, London on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ MALIKA GREEN is a dancehall and garage artist tracked on soundcheck, with 6 sets
 
 Donnie Sunshine, Grove, KaYa (UK)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malikagreen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malikagreen/)*

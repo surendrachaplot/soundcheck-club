@@ -1,6 +1,6 @@
 # Theologos
 
-Theologos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
+Theologos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
 
 Theologos is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside SKALA, Dirty Doering and ELIF. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Theologos is a techno and house artist based in Germany, tracked on soundcheck, 
 
 SKALA, Dirty Doering, ELIF
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theologos/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theologos/)*

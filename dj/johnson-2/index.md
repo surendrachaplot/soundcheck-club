@@ -1,6 +1,6 @@
 # Johnson (2)
 
-Johnson (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 30 Aug 2026.
+Johnson (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 30 Aug 2026.
 
 Johnson (2) is a house and techno artist based in Italy, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Adrian Camilo, Francesco Salvadori and Al_Massimo. Next up: Boat - MS Rhein, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Johnson (2) is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Adrian Camilo, Francesco Salvadori, Al_Massimo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnson-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnson-2/)*

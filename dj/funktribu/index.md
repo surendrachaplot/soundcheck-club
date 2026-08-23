@@ -1,6 +1,6 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
+Funk Tribu is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
 
 Funk Tribu is a techno and trance artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Boucher Road Fields, Belfast on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Funk Tribu is a techno and trance artist tracked on soundcheck, with 171 sets lo
 
 Bad Boombox, 999999999, Azyr
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

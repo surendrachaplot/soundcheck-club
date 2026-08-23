@@ -1,6 +1,6 @@
 # HIMAWARI
 
-HIMAWARI is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Saloon, Tokyo on Fri, 21 Aug 2026.
+HIMAWARI is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Saloon, Tokyo on Fri, 21 Aug 2026.
 
 HIMAWARI is a house and techno artist tracked on soundcheck, with 135 sets logged across Osaka and Tokyo. Often billed alongside Romy Mats, kengotaki and CYBERHACKSYSTEM. Next up: Saloon, Tokyo on Fri 21 Aug.
 
@@ -29,4 +29,4 @@ HIMAWARI is a house and techno artist tracked on soundcheck, with 135 sets logge
 
 Romy Mats, kengotaki, CYBERHACKSYSTEM
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/himawari/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/himawari/)*

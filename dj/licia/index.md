@@ -1,6 +1,6 @@
 # Licia
 
-Licia is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
+Licia is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
 
 Licia is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 5 more. Often billed alongside Andromedik, SOTA and 1991 (UK). Next up: Sala Dresden, Barcelona on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Licia is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Andromedik, SOTA, 1991 (UK)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licia/)*

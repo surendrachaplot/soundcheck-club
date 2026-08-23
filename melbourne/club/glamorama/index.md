@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Hooker + Fosters at Glamorama Saturdays" on Sat, 22 Aug 2026.
+Glamorama is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Interval - Clifford [UK]  JÄXM" on Fri, 28 Aug 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including bellxsxs, Clifford, Dan Newman and DJ JNETT and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including bellxsxs, Clifford, Dan Newman and DJ JNETT and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Hooker + Fosters at Glamorama Saturdays | Fosters, Hooker, Matt Radovich |
 | Fri, 28 Aug 2026 | Interval - Clifford [UK]  JÄXM | Clifford |
 | Sat, 29 Aug 2026 | Fabrication | bellxsxs |
 | Sat, 29 Aug 2026 | People's Party at Glamorama Saturdays | Joey Coco, Slumdog |
@@ -23,4 +22,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 10 upcoming nights
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

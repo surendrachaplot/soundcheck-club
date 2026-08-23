@@ -1,6 +1,6 @@
 # Oliver Huntemann
 
-Oliver Huntemann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at elsewhere, Brisbane on Sun, 30 Aug 2026.
+Oliver Huntemann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at elsewhere, Brisbane on Sun, 30 Aug 2026.
 
 Oliver Huntemann is a techno and house artist based in Germany, tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Auckland and Bali and 23 more. Often billed alongside Steve Sai, Tommahawk and Andre Winter. Next up: elsewhere, Brisbane on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Oliver Huntemann is a techno and house artist based in Germany, tracked on sound
 
 Steve Sai, Tommahawk, Andre Winter
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*

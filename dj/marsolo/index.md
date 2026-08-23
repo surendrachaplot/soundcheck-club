@@ -1,6 +1,6 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 22 Aug 2026.
+Marsolo is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 22 Aug 2026.
 
 Marsolo is a house and tech house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and Locklead. Next up: Hï Ibiza, Ibiza on Sat 22 Aug.
 
@@ -23,6 +23,7 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 157 sets lo
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sat, 22 Aug 2026
 - Magazine Open–Air, London — Sat, 15 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
@@ -30,10 +31,9 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 157 sets lo
 - Pacha Ibiza, Ibiza — Wed, 29 Jul 2026
 - Amnesia Ibiza, Ibiza — Tue, 14 Jul 2026
 - FORGE, Sheffield — Sat, 11 Jul 2026
-- Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 
 ## Shares bills with
 
 Jamback, Josh Baker, Locklead
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

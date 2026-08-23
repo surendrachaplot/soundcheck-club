@@ -1,6 +1,6 @@
 # Luny
 
-Luny is a Broken Beat and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Section 8, Melbourne on Wed, 26 Aug 2026.
+Luny is a Broken Beat and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Section 8, Melbourne on Wed, 26 Aug 2026.
 
 Luny is a broken beat and dub artist tracked on soundcheck, with 5 sets logged across London, Melbourne and Sydney. Often billed alongside CXLI, Hacker Boi Ale and Kabir. Next up: Section 8, Melbourne on Wed 26 Aug.
 
@@ -21,4 +21,4 @@ Luny is a broken beat and dub artist tracked on soundcheck, with 5 sets logged a
 
 CXLI, Hacker Boi Ale, Kabir
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luny/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luny/)*

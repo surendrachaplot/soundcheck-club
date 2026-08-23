@@ -1,6 +1,6 @@
 # Made By Pete
 
-Made By Pete is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 11 Sept 2026.
+Made By Pete is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Made By Pete is a deep house and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Bali, Berlin and Birmingham and 12 more. Often billed alongside Damian Lazarus, Bedouin and Cameron Jack. Next up: Napa Music Hall, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Made By Pete is a deep house and house artist tracked on soundcheck, with 37 set
 
 Damian Lazarus, Bedouin, Cameron Jack
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madebypete/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madebypete/)*

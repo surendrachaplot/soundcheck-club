@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Singularity X Ground Rules: Day 2 Night" on Sat, 22 Aug 2026.
+Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Singularity X Ground Rules: Day 2 Night" on Sat, 22 Aug 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, Alien Communications and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

@@ -1,14 +1,13 @@
 # Voltage
 
-Voltage is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - 810 E 61st St LA, 90001, Los Angeles on Sat, 22 Aug 2026.
+Voltage is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Otherside London, London on Sat, 29 Aug 2026.
 
-Voltage is a drum & bass and jungle artist tracked on soundcheck, with 63 sets logged across Amsterdam, Auckland, Bali and Birmingham and 14 more. Often billed alongside Inja, Turno and Bladerunner. Next up: TBA - 810 E 61st St LA, 90001, Losangeles on Sat 22 Aug.
+Voltage is a drum & bass and jungle artist tracked on soundcheck, with 63 sets logged across Amsterdam, Auckland, Bali and Birmingham and 14 more. Often billed alongside Inja, Turno and Bladerunner. Next up: Otherside London, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - 810 E 61st St LA, 90001 | Los Angeles |
 | Sat, 29 Aug 2026 | Otherside London | London |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
@@ -16,6 +15,7 @@ Voltage is a drum & bass and jungle artist tracked on soundcheck, with 63 sets l
 
 ## Recently played
 
+- TBA - 810 E 61st St LA, 90001, Los Angeles — Sat, 22 Aug 2026
 - Joshua Brooks, Manchester — Thu, 30 Jul 2026
 - Boston Manor Park, London — Fri, 24 Jul 2026
 - Beaver Works, Leeds — Sat, 16 May 2026
@@ -23,10 +23,9 @@ Voltage is a drum & bass and jungle artist tracked on soundcheck, with 63 sets l
 - The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam — Fri, 24 Apr 2026
 - Lost Horizon, Bristol — Thu, 9 Apr 2026
 - Basing House, London — Sat, 14 Feb 2026
-- IDRA, Manchester — Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Inja, Turno, Bladerunner
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*

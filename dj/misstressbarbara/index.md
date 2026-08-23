@@ -1,6 +1,6 @@
 # Misstress Barbara
 
-Misstress Barbara is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
+Misstress Barbara is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
 
 Misstress Barbara is a techno and new wave artist based in Canada, tracked on soundcheck, with 21 sets logged across Barcelona, Madrid, Montreal and Paris. Often billed alongside Atroxx, Ken Ishii and Nicole Moudaber. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Misstress Barbara is a techno and new wave artist based in Canada, tracked on so
 
 Atroxx, Ken Ishii, Nicole Moudaber
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misstressbarbara/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misstressbarbara/)*

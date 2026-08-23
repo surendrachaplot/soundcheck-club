@@ -1,6 +1,6 @@
 # Akanbi
 
-Akanbi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Système, Montreal on Thu, 3 Sept 2026.
+Akanbi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Système, Montreal on Thu, 3 Sept 2026.
 
 Akanbi is a techno and club artist based in United States of America, tracked on soundcheck, with 116 sets logged across Amsterdam, Basel, Berlin and Bristol and 19 more. Often billed alongside The Large, Yogic and DJ Voices. Next up: Système, Montreal on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Akanbi is a techno and club artist based in United States of America, tracked on
 
 The Large, Yogic, DJ Voices
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*

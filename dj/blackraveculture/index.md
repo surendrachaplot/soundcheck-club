@@ -1,6 +1,6 @@
 # Black Rave Culture
 
-Black Rave Culture is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 29 Aug 2026.
+Black Rave Culture is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 29 Aug 2026.
 
 Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 28 more. Often billed alongside Nativesun, Amal and James Bangura. Next up: YuYu Cine Club, Mexicocity on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Black Rave Culture is a techno and club artist tracked on soundcheck, with 94 se
 
 Nativesun, Amal, James Bangura
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackraveculture/)*

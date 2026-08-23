@@ -1,6 +1,6 @@
 # Syd (2)
 
-Syd (2) is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
+Syd (2) is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
 
 Syd (2) is a bass and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit and Newyorkcity. Often billed alongside Fullbodydurag, Garrison XR and AG (1). Next up: Marble Bar, Detroit on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Syd (2) is a bass and electro artist based in United States of America, tracked 
 
 Fullbodydurag, Garrison XR, AG (1)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-2/)*

@@ -1,6 +1,6 @@
 # Afgang
 
-Afgang is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Afgang is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Afgang is a trance and techno artist based in Denmark, tracked on soundcheck, with 13 sets logged across Copenhagen. Often billed alongside FILTH.y, maurinstarr and Ellen Allien. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Afgang is a trance and techno artist based in Denmark, tracked on soundcheck, wi
 
 FILTH.y, maurinstarr, Ellen Allien
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afgang/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afgang/)*

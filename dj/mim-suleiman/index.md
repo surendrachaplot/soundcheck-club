@@ -1,6 +1,6 @@
 # Mim Suleiman
 
-Mim Suleiman is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - GRUB Stretford , Manchester on Sat, 29 Aug 2026.
+Mim Suleiman is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - GRUB Stretford , Manchester on Sat, 29 Aug 2026.
 
 Mim Suleiman is a house and afrobeat artist tracked on soundcheck, with 10 sets logged across Amsterdam, London, Manchester and Melbourne and 2 more. Often billed alongside Abena, Ajuma and Allan Strange. Next up: TBA - GRUB Stretford , Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mim Suleiman is a house and afrobeat artist tracked on soundcheck, with 10 sets 
 
 Abena, Ajuma, Allan Strange
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mim-suleiman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mim-suleiman/)*

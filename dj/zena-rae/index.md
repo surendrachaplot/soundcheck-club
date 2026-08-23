@@ -1,6 +1,6 @@
 # Zena-Rae
 
-Zena-Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mono, Rotterdam on Sat, 29 Aug 2026.
+Zena-Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mono, Rotterdam on Sat, 29 Aug 2026.
 
 Zena-Rae is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Rotterdam and Sandiego. Often billed alongside Ansjowvis, OG Karin and Chirty. Next up: Mono, Rotterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Zena-Rae is a house and techno artist based in United States of America, tracked
 
 Ansjowvis, OG Karin, Chirty
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-rae/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-rae/)*

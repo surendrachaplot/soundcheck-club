@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Moodymann is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Moodymann is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -21,6 +21,7 @@ Moodymann is a house and techno artist tracked on soundcheck, with 159 sets logg
 
 ## Recently played
 
+- TBA, Singapore — Sat, 22 Aug 2026
 - Potato Head Beach Club, Bali — Fri, 21 Aug 2026
 - Regent Theater, DTLA, Los Angeles — Fri, 14 Aug 2026
 - ZIK Zeit ist Knapp, Berlin — Sun, 9 Aug 2026
@@ -28,10 +29,9 @@ Moodymann is a house and techno artist tracked on soundcheck, with 159 sets logg
 - Superior Ingredients, New York City — Fri, 17 Jul 2026
 - TBA - 416 Morse St NE, Washington, DC 20002, Washington DC — Sat, 4 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 23 Jun 2026
-- BLITZ, Munich — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

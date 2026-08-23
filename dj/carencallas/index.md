@@ -1,6 +1,6 @@
 # Caren Callas
 
-Caren Callas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Zuckerzauber, Berlin on Sun, 23 Aug 2026.
+Caren Callas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Zuckerzauber, Berlin on Sun, 23 Aug 2026.
 
 Caren Callas is a house and techno artist tracked on soundcheck, with 77 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside babxi, Camea and Naicet. Next up: Zuckerzauber, Berlin on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Caren Callas is a house and techno artist tracked on soundcheck, with 77 sets lo
 
 babxi, Camea, Naicet
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*

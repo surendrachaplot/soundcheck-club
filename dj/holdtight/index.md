@@ -1,6 +1,6 @@
 # HOLDTight
 
-HOLDTight is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+HOLDTight is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 HOLDTight is a house and disco artist tracked on soundcheck, with 16 sets logged across Brighton, Nantes, Paris and Strasbourg and 1 more. Often billed alongside Gee Lane, BANANA-CHAN and MALKÖ. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ HOLDTight is a house and disco artist tracked on soundcheck, with 16 sets logged
 
 Gee Lane, BANANA-CHAN, MALKÖ
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holdtight/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holdtight/)*

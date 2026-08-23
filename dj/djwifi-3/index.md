@@ -1,6 +1,6 @@
 # Dj Wifi (3)
 
-Dj Wifi (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
+Dj Wifi (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
 
 Dj Wifi (3) is a techno and trance artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin and Vienna. Often billed alongside pinklotion, BLUDHOUND and Swiver. Next up: FLUCC, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dj Wifi (3) is a techno and trance artist tracked on soundcheck, with 58 sets lo
 
 pinklotion, BLUDHOUND, Swiver
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi-3/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwifi-3/)*

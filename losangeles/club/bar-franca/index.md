@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "This Week at Bar Franca" on Thu, 20 Aug 2026.
+Bar Franca is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "This Week at Bar Franca" on Thu, 20 Aug 2026.
 
 Bar Franca is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Gunnar Haslam, Ian Llorens and Photay. Browse upcoming dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -16,4 +16,4 @@ Bar Franca is a music venue in Losangeles listed on soundcheck. 3 upcoming night
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

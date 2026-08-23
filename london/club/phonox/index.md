@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 38 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Giegling: Edward, Konstantin" on Sat, 22 Aug 2026.
+Phonox is a music venue in London with 37 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde with Blackeye MC" on Fri, 28 Aug 2026.
 
-Phonox is a music venue in London listed on soundcheck. 38 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 37 upcoming nights, with line-ups including Abby Daze, Alan Fitzpatrick, Alba Heidari and Amaliah and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Giegling: Edward, Konstantin | Edward, Konstantin |
 | Fri, 28 Aug 2026 | Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde with Blackeye MC | Abby Daze, Blackeye MC, Coco Bryce, Dwarde, Sully, Tim Reaper |
 | Sat, 29 Aug 2026 | MOT Day Party: CIRCULATE with Introspekt & Josey Rebelle + Phonox Afterparty | Binh, DJ Nobu, Introspekt, Josey Rebelle |
 | Sat, 29 Aug 2026 | Phonox: DJ Nobu & Binh | Binh, DJ Nobu |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming nights, with
 | Sat, 5 Sept 2026 | Phonox: Wilfy D, malix, Goldie Quaker, Scotti Dee B2B Decimal | Wilfy D, malix |
 | Thu, 10 Sept 2026 | INSOMNIA LONDON LAUNCH @ Phonox |  |
 | Fri, 11 Sept 2026 | MssingNo, Zomby, amil raja + more | MssingNo, Zomby, amil raja, leahgte |
+| Sat, 12 Sept 2026 | MRD, EARGASM GOD, Lobsta B | EARGASM GOD, Lobsta B, MRD (NO) |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

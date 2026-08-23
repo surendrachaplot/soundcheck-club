@@ -1,6 +1,6 @@
 # DJ Sour
 
-DJ Sour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Auensee Leipzig, Leipzig on Sat, 29 Aug 2026.
+DJ Sour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Auensee Leipzig, Leipzig on Sat, 29 Aug 2026.
 
 DJ Sour is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Leipzig and Newyorkcity. Often billed alongside DJ Thank You, SEXINCHURCH and Ms Carrie Stacks. Next up: TBA - Auensee Leipzig, Leipzig on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Sour is a techno and house artist based in United States of America, tracked 
 
 DJ Thank You, SEXINCHURCH, Ms Carrie Stacks
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsour/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsour/)*

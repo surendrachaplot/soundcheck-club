@@ -1,6 +1,6 @@
 # Marc van Linden
 
-Marc van Linden is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Music Club Pulse 22, Prague on Sat, 12 Sept 2026.
+Marc van Linden is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Music Club Pulse 22, Prague on Sat, 12 Sept 2026.
 
 Marc van Linden is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Ibiza, Prague and Zurich. Often billed alongside GHOST DE, DJ Jordan and Rob Robsen. Next up: Music Club Pulse 22, Prague on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Marc van Linden is a trance and techno artist based in Germany, tracked on sound
 
 GHOST DE, DJ Jordan, Rob Robsen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcvanlinden/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcvanlinden/)*

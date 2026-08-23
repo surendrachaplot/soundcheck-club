@@ -1,6 +1,6 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
+Tijana T is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 22 Aug 2026.
 
 Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 35 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: CLUB RAUM, Amsterdam on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 
 ## Recently played
 
+- CLUB RAUM, Amsterdam — Sat, 22 Aug 2026
 - Macadam, Nantes — Sun, 9 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
 - Karmakoma, Belgrade — Fri, 17 Jul 2026
@@ -21,10 +22,9 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 - Odds and Ends, Copenhagen — Sun, 24 May 2026
 - Mystic Skatepark, Prague — Sat, 23 May 2026
 - Ložionica, Belgrade — Fri, 22 May 2026
-- BLITZ, Munich — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Marcel Dettmann, Sedef Adasï, Adiel
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*

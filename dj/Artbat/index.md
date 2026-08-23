@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 23 Aug 2026.
+Artbat is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 23 Aug 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Jardins de Joan Brossa, Barcelona on Sun 23 Aug.
 
@@ -31,4 +31,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 120 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

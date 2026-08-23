@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Legal KLUBNACHT w./ ÆX, Jojo Vice, LaLa, Monaco Marco & Navid" on Sat, 22 Aug 2026.
+Legal is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Legal KLUBNACHT w./ ÆX, Jojo Vice, LaLa, Monaco Marco & Navid" on Sat, 22 Aug 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including -LaLa-, Æ-X, Almedina (2) and Audio Werner and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -19,4 +19,4 @@ Legal is a music venue in Munich listed on soundcheck. 6 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

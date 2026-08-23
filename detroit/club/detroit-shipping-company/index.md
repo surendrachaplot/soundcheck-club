@@ -1,6 +1,6 @@
 # Detroit Shipping Company
 
-Detroit Shipping Company is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Grave Rave" on Sat, 31 Oct 2026.
+Detroit Shipping Company is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Grave Rave" on Sat, 31 Oct 2026.
 
 Detroit Shipping Company is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including DJ STAKXX. Browse upcoming dates, start times and who's playing. 474 PETEBORO ST DETROIT MI 48201.
 
@@ -14,4 +14,4 @@ Detroit Shipping Company is a music venue in Detroit listed on soundcheck. 1 upc
 
 474 PETEBORO ST DETROIT MI 48201, Detroit
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/detroit-shipping-company/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/detroit-shipping-company/)*

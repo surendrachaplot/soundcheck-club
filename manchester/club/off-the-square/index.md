@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "STATIK: Intimate Sessions Vol.1" on Fri, 21 Aug 2026.
+Off The Square is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "STATIK: Intimate Sessions Vol.1" on Fri, 21 Aug 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Chael-UK, MAD Beats, Mistress de Funk and Shumbo Jebang. Browse upcoming dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -15,4 +15,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 2 upcoming n
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

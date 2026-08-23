@@ -1,6 +1,6 @@
 # Boomerang Beach
 
-Boomerang Beach is a music venue in The Hague with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Give Soul at the Beach - August" on Sun, 23 Aug 2026.
+Boomerang Beach is a music venue in The Hague with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Give Soul at the Beach - August" on Sun, 23 Aug 2026.
 
 Boomerang Beach is a music venue in Thehague listed on soundcheck. 3 upcoming nights, with line-ups including CLAESSENS, DAF, Daria Kolosova and DJANGO (NL) and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands.
 
@@ -16,4 +16,4 @@ Boomerang Beach is a music venue in Thehague listed on soundcheck. 3 upcoming ni
 
 Zwarte Pad 63 2586JM Scheveningen, Zuid-Holland, Netherlands, The Hague
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/boomerang-beach/)*

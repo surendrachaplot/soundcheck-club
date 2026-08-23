@@ -1,6 +1,6 @@
 # Laura Jackson
 
-Laura Jackson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Yard, Manchester on Sat, 12 Sept 2026.
+Laura Jackson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Yard, Manchester on Sat, 12 Sept 2026.
 
 Laura Jackson is a disco and house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across London and Manchester. Often billed alongside Jamie Bull, Supernature Disco and Timo-G. Next up: The Yard, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Laura Jackson is a disco and house artist based in United Kingdom, tracked on so
 
 Jamie Bull, Supernature Disco, Timo-G
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurajackson/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurajackson/)*

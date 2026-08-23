@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 218 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 62 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -22,6 +22,7 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 218 sets logged
 
 ## Recently played
 
+- Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Substation, Seattle — Sat, 8 Aug 2026
 - Nowadays, New York City — Thu, 6 Aug 2026
@@ -29,10 +30,9 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 218 sets logged
 - Brooklyn Army Terminal, New York City — Fri, 31 Jul 2026
 - La Terrrazza, Barcelona — Sat, 18 Jul 2026
 - Trädgården, Stockholm — Thu, 16 Jul 2026
-- Amnesia Ibiza, Ibiza — Mon, 13 Jul 2026
 
 ## Shares bills with
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

@@ -1,6 +1,6 @@
 # Rafael (IS)
 
-Rafael (IS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Luz De Gas, Barcelona on Sat, 22 Aug 2026.
+Rafael (IS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Luz De Gas, Barcelona on Sat, 22 Aug 2026.
 
 Rafael (IS) is a tech house and house artist tracked on soundcheck, with 24 sets logged across Austin, Barcelona, Berlin and Brisbane and 13 more. Often billed alongside Jamie Jones, Afriqua and Daizy. Next up: Luz De Gas, Barcelona on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ Rafael (IS) is a tech house and house artist tracked on soundcheck, with 24 sets
 
 ## Recently played
 
+- Luz De Gas, Barcelona — Sat, 22 Aug 2026
 - Coda, Toronto — Fri, 31 Jul 2026
 - The Cause, London — Fri, 26 Jun 2026
 - Sunday Sunday, Mexico City — Sat, 20 Jun 2026
@@ -21,10 +22,9 @@ Rafael (IS) is a tech house and house artist tracked on soundcheck, with 24 sets
 - Dojo Boutique Club, Budapest — Fri, 8 May 2026
 - Night We Met, Nashville — Fri, 3 Apr 2026
 - Jolene Downtown Miami, Miami — Wed, 25 Mar 2026
-- Santa Monica Pier, Los Angeles — Sun, 15 Feb 2026
 
 ## Shares bills with
 
 Jamie Jones, Afriqua, Daizy
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*

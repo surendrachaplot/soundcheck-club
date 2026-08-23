@@ -1,6 +1,6 @@
 # zi!
 
-zi! is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Système, Montreal on Thu, 3 Sept 2026.
+zi! is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Système, Montreal on Thu, 3 Sept 2026.
 
 zi! is a techno and house artist tracked on soundcheck, with 68 sets logged across Auckland, Chicago, Melbourne and Montreal and 5 more. Often billed alongside Field Note, Dijipoune and Lia Plutonic. Next up: Système, Montreal on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ zi! is a techno and house artist tracked on soundcheck, with 68 sets logged acro
 
 Field Note, Dijipoune, Lia Plutonic
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zi/)*

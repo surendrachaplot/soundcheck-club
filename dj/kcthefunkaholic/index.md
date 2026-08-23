@@ -1,6 +1,6 @@
 # KC The Funkaholic
 
-KC The Funkaholic is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
+KC The Funkaholic is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
 
 KC The Funkaholic is a house and broken beat artist tracked on soundcheck, with 22 sets logged across Amsterdam, Paris and Utrecht. Often billed alongside Alexander Koning, Dimitri (1) and Leroy Rey. Next up: Paradiso, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ KC The Funkaholic is a house and broken beat artist tracked on soundcheck, with 
 
 Alexander Koning, Dimitri (1), Leroy Rey
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kcthefunkaholic/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kcthefunkaholic/)*

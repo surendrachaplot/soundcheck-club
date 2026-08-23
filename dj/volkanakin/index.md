@@ -1,6 +1,6 @@
 # Volkan Akin
 
-Volkan Akin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Volkan Akin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
 
 Volkan Akin is a house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Ibiza and Rome. Often billed alongside Stipé, Arno aka Einzelkind and Foehn & Jerome. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
 
@@ -15,6 +15,7 @@ Volkan Akin is a house and techno artist tracked on soundcheck, with 28 sets log
 
 ## Recently played
 
+- Haus der Visionäre, Berlin — Sat, 22 Aug 2026
 - Club der Visionaere, Berlin — Sun, 24 May 2026
 - Funkhaus Berlin, Berlin — Sun, 17 May 2026
 - Circolo degli Illuminati, Rome — Sat, 9 May 2026
@@ -22,10 +23,9 @@ Volkan Akin is a house and techno artist tracked on soundcheck, with 28 sets log
 - MaHalla, Berlin — Wed, 31 Dec 2025
 - Renate, Berlin — Sat, 27 Dec 2025
 - Klaproos, Amsterdam — Sun, 26 Oct 2025
-- Club der Visionaere, Berlin — Sun, 21 Sept 2025
 
 ## Shares bills with
 
 Stipé, Arno aka Einzelkind, Foehn & Jerome
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volkanakin/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volkanakin/)*

@@ -1,6 +1,6 @@
 # Pauli Pocket
 
-Pauli Pocket is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Pauli Pocket is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Pauli Pocket is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 14 more. Often billed alongside Foolik, Sascha Cawa and Britta Arnold. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -30,4 +30,4 @@ Pauli Pocket is a techno and house artist tracked on soundcheck, with 132 sets l
 
 Foolik, Sascha Cawa, Britta Arnold
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulipocket/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulipocket/)*

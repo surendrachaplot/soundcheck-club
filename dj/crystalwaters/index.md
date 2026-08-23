@@ -1,6 +1,6 @@
 # Crystal Waters
 
-Crystal Waters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Pershing Square, Los Angeles on Sat, 29 Aug 2026.
+Crystal Waters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Pershing Square, Los Angeles on Sat, 29 Aug 2026.
 
 Crystal Waters is a house and techno artist tracked on soundcheck, with 8 sets logged across Ibiza, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Heidi Lawden, Jamie 3:26 and B'UGO. Next up: Pershing Square, Losangeles on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Crystal Waters is a house and techno artist tracked on soundcheck, with 8 sets l
 
 Heidi Lawden, Jamie 3:26, B'UGO
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalwaters/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalwaters/)*

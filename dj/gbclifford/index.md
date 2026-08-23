@@ -1,6 +1,6 @@
 # GBClifford
 
-GBClifford is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Studiodb, Berlin on Fri, 28 Aug 2026.
+GBClifford is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Studiodb, Berlin on Fri, 28 Aug 2026.
 
 GBClifford is an electronica and experimental artist tracked on soundcheck, with 6 sets logged across Berlin, Prague and Rome. Often billed alongside Edúv Syn, Exui and Apu Nanu. Next up: Studiodb, Berlin on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ GBClifford is an electronica and experimental artist tracked on soundcheck, with
 
 Edúv Syn, Exui, Apu Nanu
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gbclifford/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gbclifford/)*

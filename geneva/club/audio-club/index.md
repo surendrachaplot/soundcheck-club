@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Jonathan Kaspar · BLACK SPACE · La Forêt · TWOFORALL" on Sat, 22 Aug 2026.
+Audio Club is a music venue in Geneva with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Jonathan Kaspar · BLACK SPACE · La Forêt · TWOFORALL" on Sat, 22 Aug 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 4 upcoming nights, with line-ups including Agoria, Alan Dixon, Breakbot and Carlos Willengton and 2 more. Browse upcoming dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -17,4 +17,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 4 upcoming nights, w
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

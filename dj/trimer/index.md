@@ -1,6 +1,6 @@
 # Trimer
 
-Trimer is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Unit 1, London on Sun, 23 Aug 2026.
+Trimer is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Unit 1, London on Sun, 23 Aug 2026.
 
 Trimer is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Birmingham, Brighton, Bristol and Glasgow and 3 more. Often billed alongside Benny L, Fatman D and North Base. Next up: Unit 1, London on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Trimer is a drum & bass and jungle artist tracked on soundcheck, with 17 sets lo
 
 Benny L, Fatman D, North Base
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trimer/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trimer/)*

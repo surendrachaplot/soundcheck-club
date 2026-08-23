@@ -1,6 +1,6 @@
 # Limin Southbank
 
-Limin Southbank is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Lime of Yuh Life" on Sun, 23 Aug 2026.
+Limin Southbank is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Lime of Yuh Life" on Sun, 23 Aug 2026.
 
 Limin Southbank is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Jus Now. Browse upcoming dates, start times and who's playing. 56 Upper Ground, London SE1 9PP.
 
@@ -14,4 +14,4 @@ Limin Southbank is a music venue in London listed on soundcheck. 1 upcoming nigh
 
 56 Upper Ground, London SE1 9PP, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/limin-southbank/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/limin-southbank/)*

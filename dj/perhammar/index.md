@@ -1,14 +1,13 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at St Brides Church, Liverpool on Sat, 22 Aug 2026.
+Per Hammar is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Roof Terrace BK, New York City on Fri, 28 Aug 2026.
 
-Per Hammar is a minimal and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Auckland, Austin and Bangkok and 32 more. Often billed alongside Olga Korol, Abbas and Bo Irion. Next up: St Brides Church, Liverpool on Sat 22 Aug.
+Per Hammar is a minimal and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Auckland, Austin and Bangkok and 32 more. Often billed alongside Olga Korol, Abbas and Bo Irion. Next up: Roof Terrace BK, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | St Brides Church | Liverpool |
 | Fri, 28 Aug 2026 | Roof Terrace BK | New York City |
 | Sat, 29 Aug 2026 | 131 Mccormack St | Toronto |
 | Fri, 4 Sept 2026 | Moon Club | Bristol |
@@ -16,6 +15,7 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 79 sets log
 
 ## Recently played
 
+- St Brides Church, Liverpool — Sat, 22 Aug 2026
 - Night Tales, London — Sat, 1 Aug 2026
 - Macadam, Nantes — Sat, 27 Jun 2026
 - Kiku Room, San Diego — Sat, 18 Apr 2026
@@ -23,10 +23,9 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 79 sets log
 - Signal, New York City — Thu, 16 Apr 2026
 - Golden Gate, Berlin — Fri, 23 Jan 2026
 - Renate, Berlin — Sat, 20 Dec 2025
-- Sonoris Sound Studios, Hamburg — Fri, 19 Dec 2025
 
 ## Shares bills with
 
 Olga Korol, Abbas, Bo Irion
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

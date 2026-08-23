@@ -1,6 +1,6 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
+Logan D is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
 
 Logan D is a drum & bass and jungle artist tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 8 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
 
@@ -15,6 +15,7 @@ Logan D is a drum & bass and jungle artist tracked on soundcheck, with 43 sets l
 
 ## Recently played
 
+- Antwerp Expo, Antwerp — Sat, 22 Aug 2026
 - Boston Manor Park, London — Fri, 24 Jul 2026
 - M.O.T, London — Sat, 11 Jul 2026
 - The Camden, London — Fri, 26 Jun 2026
@@ -22,10 +23,9 @@ Logan D is a drum & bass and jungle artist tracked on soundcheck, with 43 sets l
 - Beaver Works, Leeds — Sat, 16 May 2026
 - Dunnings 2, London — Sat, 9 May 2026
 - E1, London — Sat, 4 Apr 2026
-- UNLOCKED, London — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*

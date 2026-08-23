@@ -1,6 +1,6 @@
 # carlo kalu
 
-carlo kalu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
+carlo kalu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
 
 carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Hamburg and Prague and 2 more. Often billed alongside Crystal O, Joey (2) and KILIÅN. Next up: Das Werk, Vienna on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck
 
 Crystal O, Joey (2), KILIÅN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokalu/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokalu/)*

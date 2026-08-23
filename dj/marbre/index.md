@@ -1,6 +1,6 @@
 # Marbré
 
-Marbré is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Badaboum, Paris on Sat, 5 Sept 2026.
+Marbré is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Badaboum, Paris on Sat, 5 Sept 2026.
 
 Marbré is a house and disco artist tracked on soundcheck, with 36 sets logged across London, Montreal and Paris. Often billed alongside Pierrinski, Yambow and Lyss. Next up: Badaboum, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Marbré is a house and disco artist tracked on soundcheck, with 36 sets logged a
 
 Pierrinski, Yambow, Lyss
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marbre/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marbre/)*

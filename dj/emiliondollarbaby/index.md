@@ -1,6 +1,6 @@
 # Emilion Dollar Baby
 
-Emilion Dollar Baby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Prisma, Berlin on Sun, 30 Aug 2026.
+Emilion Dollar Baby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Prisma, Berlin on Sun, 30 Aug 2026.
 
 Emilion Dollar Baby is a house and techno artist tracked on soundcheck, with 28 sets logged across Berlin and London. Often billed alongside Kazuki Takahashi, Yukari and DJ Kodah. Next up: Prisma, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Emilion Dollar Baby is a house and techno artist tracked on soundcheck, with 28 
 
 Kazuki Takahashi, Yukari, DJ Kodah
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*

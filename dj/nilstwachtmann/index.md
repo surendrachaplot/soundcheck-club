@@ -1,6 +1,6 @@
 # Nils Twachtmann
 
-Nils Twachtmann is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
+Nils Twachtmann is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Golden Gate, Berlin on Thu, 27 Aug 2026.
 
 Nils Twachtmann is a house and deep house artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Melbourne, Prague and Sydney. Often billed alongside Monika Ross, Joséphine de Retour and Coss. Next up: Golden Gate, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Nils Twachtmann is a house and deep house artist based in Germany, tracked on so
 
 Monika Ross, Joséphine de Retour, Coss
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilstwachtmann/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilstwachtmann/)*

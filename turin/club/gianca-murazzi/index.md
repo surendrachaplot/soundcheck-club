@@ -1,6 +1,6 @@
 # Gianca - Murazzi
 
-Gianca - Murazzi is a music venue in Turin with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "GENAU OPENING: Isabel Soto (NYXII - Ostgut Ton)" on Fri, 11 Sept 2026.
+Gianca - Murazzi is a music venue in Turin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "GENAU OPENING: Isabel Soto (NYXII - Ostgut Ton)" on Fri, 11 Sept 2026.
 
 Gianca - Murazzi is a music venue in Turin listed on soundcheck. 1 upcoming night, with line-ups including Gandalf and Isabel Soto. Browse upcoming dates, start times and who's playing. Torino, 10123, Murazzi del Po Gipo Farassino.
 
@@ -14,4 +14,4 @@ Gianca - Murazzi is a music venue in Turin listed on soundcheck. 1 upcoming nigh
 
 Torino, 10123, Murazzi del Po Gipo Farassino, Turin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*

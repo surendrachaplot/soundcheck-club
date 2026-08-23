@@ -1,6 +1,6 @@
 # Ella Knight
 
-Ella Knight is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
+Ella Knight is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
 
 Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: fabric, London on Sat 22 Aug.
 
@@ -21,6 +21,7 @@ Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets log
 
 ## Recently played
 
+- fabric, London — Sat, 22 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - 528 Ibiza, Ibiza — Thu, 23 Jul 2026
@@ -28,10 +29,9 @@ Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets log
 - Binks Yard, Nottingham — Sat, 27 Jun 2026
 - Amnesia Ibiza, Ibiza — Fri, 26 Jun 2026
 - Praia Irmão, Lisbon — Thu, 18 Jun 2026
-- Steelyard Kelham, Sheffield — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Dan Shake, Scarlett O'Malley, Kirollus
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaknight/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaknight/)*

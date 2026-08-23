@@ -1,6 +1,6 @@
 # YONG YING
 
-YONG YING is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Drinkhall Venue, Berlin on Thu, 27 Aug 2026.
+YONG YING is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Drinkhall Venue, Berlin on Thu, 27 Aug 2026.
 
 YONG YING is a techno and industrial artist tracked on soundcheck, with 40 sets logged across Bangkok, Berlin, Hongkong and Seoul and 2 more. Often billed alongside Nanogram, INVERNO and Ká (DE). Next up: Drinkhall Venue, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ YONG YING is a techno and industrial artist tracked on soundcheck, with 40 sets 
 
 Nanogram, INVERNO, Ká (DE)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yongying/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yongying/)*

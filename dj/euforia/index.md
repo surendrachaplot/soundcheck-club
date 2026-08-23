@@ -1,6 +1,6 @@
 # Euforia
 
-Euforia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
+Euforia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
 
 Euforia is a techno and house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Bapho999 and Dora Jeen. Next up: TBA, Barcelona on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Euforia is a techno and house artist tracked on soundcheck, with 3 sets logged a
 
 Bapho999, Dora Jeen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/euforia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/euforia/)*

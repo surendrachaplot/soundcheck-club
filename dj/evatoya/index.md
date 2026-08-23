@@ -1,6 +1,6 @@
 # Eva Toya
 
-Eva Toya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at M7 Club, Barcelona on Sat, 22 Aug 2026.
+Eva Toya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M7 Club, Barcelona on Sat, 22 Aug 2026.
 
 Eva Toya is a techno and house artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona and Ibiza. Often billed alongside Dj Cherry, G45M3N and Rowsi. Next up: M7 Club, Barcelona on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Eva Toya is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
+- M7 Club, Barcelona — Sat, 22 Aug 2026
 - TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza — Sun, 9 Aug 2026
 - TBA - new private central location, tba 48h before the event to all ticket holders, Barcelona — Fri, 24 Jul 2026
 
@@ -19,4 +20,4 @@ Eva Toya is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 Dj Cherry, G45M3N, Rowsi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evatoya/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evatoya/)*

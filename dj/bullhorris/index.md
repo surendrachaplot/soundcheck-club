@@ -1,18 +1,18 @@
 # Bull Horris
 
-Bull Horris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pallas Projects Studios, Dublin on Sat, 22 Aug 2026.
+Bull Horris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
 
-Bull Horris is a house and techno artist tracked on soundcheck, with 36 sets logged across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Mercorn, Tadhg K and Cáit. Next up: Pallas Projects Studios, Dublin on Sat 22 Aug.
+Bull Horris is a house and techno artist tracked on soundcheck, with 36 sets logged across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Mercorn, Tadhg K and Cáit. Next up: Yamamori Tengu, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Pallas Projects Studios | Dublin |
 | Fri, 2 Oct 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
 
+- Pallas Projects Studios, Dublin — Sat, 22 Aug 2026
 - The Big Romance, Dublin — Fri, 14 Aug 2026
 - The Oh Yeah Centre, Belfast — Sat, 25 Jul 2026
 - The Big Romance, Dublin — Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ Bull Horris is a house and techno artist tracked on soundcheck, with 36 sets log
 - Flux Studios D2, Dublin — Sat, 27 Jun 2026
 - The Big Romance, Dublin — Fri, 12 Jun 2026
 - The Big Romance, Dublin — Fri, 13 Mar 2026
-- The Big Romance, Dublin — Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Mercorn, Tadhg K, Cáit
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*

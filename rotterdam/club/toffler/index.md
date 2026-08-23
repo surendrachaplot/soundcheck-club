@@ -1,14 +1,13 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "TOFFLER x Maas Afterparty" on Sat, 22 Aug 2026.
+Toffler is a music venue in Rotterdam with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "TOFFLER presents Boss Priester and friends" on Fri, 28 Aug 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 14 upcoming nights, with line-ups including Ben Horton, Boss Priester, Bumpr and Capron and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming nights, with line-ups including Ben Horton, Boss Priester, Bumpr and Capron and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TOFFLER x Maas Afterparty | JÄMO, davyboi |
 | Fri, 28 Aug 2026 | TOFFLER presents Boss Priester and friends | Boss Priester, DORA, Hidde van Wee |
 | Sat, 29 Aug 2026 | TOFFLER presents Changi and friends | Luca Ricci, Micky Hurts |
 | Fri, 4 Sept 2026 | TOFFLER presents G-NO and friends | Rob Stillekens |
@@ -18,9 +17,10 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 14 upcoming nights, 
 | Fri, 18 Sept 2026 | TOFFLER presents KLOUD | SEMPLIFIER |
 | Sat, 19 Sept 2026 | TOFFLER presents jWave, Jesse Maas | Ben Horton, Bumpr, Jesse Maas, jWave |
 | Fri, 25 Sept 2026 | Toffler presents CLAESSENS | CLAESSENS, RUL3 |
+| Sat, 26 Sept 2026 | Toffler presents Chris Gialanze, De Sluwe Vos | Chris Gialanze, De Sluwe Vos |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

@@ -1,6 +1,6 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
+Spencer Brown is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
 
 Spencer Brown is a progressive house and house artist tracked on soundcheck, with 84 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Late Night Shri. Next up: TBA - Pier 62, Seattle on Mon 7 Sept.
 
@@ -28,4 +28,4 @@ Spencer Brown is a progressive house and house artist tracked on soundcheck, wit
 
 Qrion, John Digweed, Late Night Shri
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

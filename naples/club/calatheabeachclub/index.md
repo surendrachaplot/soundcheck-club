@@ -1,14 +1,13 @@
 # Calatheabeachclub
 
-Calatheabeachclub is a music venue in Naples with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ONDA • Timmy Regisford + Fabrizio Fattore, Ylenia Del Giudice" on Sat, 22 Aug 2026.
+Calatheabeachclub is a music venue in Naples with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ONDA x PARTYNOTCOM • SDK (Simone de Kunovich) + ALEXANDER M, Cvmpanile" on Sat, 29 Aug 2026.
 
-Calatheabeachclub is a music venue in Naples listed on soundcheck. 3 upcoming nights, with line-ups including ALEXANDER M, Cvmpanile, Fabio Stingo and Fabrizio Fattore and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
+Calatheabeachclub is a music venue in Naples listed on soundcheck. 2 upcoming nights, with line-ups including ALEXANDER M, Cvmpanile, Fabio Stingo and Gabriele Russo and 2 more. Browse upcoming dates, start times and who's playing. via giuseppe saverio mercadante 81030 Castel Volturno Caserta.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | ONDA • Timmy Regisford + Fabrizio Fattore, Ylenia Del Giudice | Fabrizio Fattore, Timmy Regisford, Ylenia Del Giudice |
 | Sat, 29 Aug 2026 | ONDA x PARTYNOTCOM • SDK (Simone de Kunovich) + ALEXANDER M, Cvmpanile | ALEXANDER M, Cvmpanile, Fabio Stingo, Gabriele Russo, Simone de Kunovich, The Blessed Madonna |
 | Sat, 5 Sept 2026 | L'ULTIMA ONDA |  |
 
@@ -16,4 +15,4 @@ Calatheabeachclub is a music venue in Naples listed on soundcheck. 3 upcoming ni
 
 via giuseppe saverio mercadante 81030 Castel Volturno Caserta, Naples
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/calatheabeachclub/)*

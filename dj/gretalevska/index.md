@@ -1,6 +1,6 @@
 # Greta Levska
 
-Greta Levska is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
+Greta Levska is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Greta Levska is a house and techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 3 more. Often billed alongside Danny Howard, Sonny Fodera and Gorgon City. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Greta Levska is a house and techno artist based in Spain, tracked on soundcheck,
 
 Danny Howard, Sonny Fodera, Gorgon City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalevska/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretalevska/)*

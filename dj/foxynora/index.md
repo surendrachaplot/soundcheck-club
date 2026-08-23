@@ -1,6 +1,6 @@
 # Foxy Nora
 
-Foxy Nora is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bastet, Philadelphia on Sat, 29 Aug 2026.
+Foxy Nora is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bastet, Philadelphia on Sat, 29 Aug 2026.
 
 Foxy Nora is a house and club artist based in United States of America, tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside ADAB, Cubby and KINGSPY. Next up: Bastet, Philadelphia on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Foxy Nora is a house and club artist based in United States of America, tracked 
 
 ADAB, Cubby, KINGSPY
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxynora/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxynora/)*

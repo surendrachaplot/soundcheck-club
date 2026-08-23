@@ -1,6 +1,6 @@
 # e-kitty
 
-e-kitty is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
+e-kitty is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
 
 e-kitty is a jungle and techno artist tracked on soundcheck, with 34 sets logged across Brighton, Liverpool, London and Manchester and 2 more. Often billed alongside Pacemaker, melba and Snoozy. Next up: The DBA, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ e-kitty is a jungle and techno artist tracked on soundcheck, with 34 sets logged
 
 Pacemaker, melba, Snoozy
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e-kitty/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e-kitty/)*

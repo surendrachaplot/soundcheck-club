@@ -1,6 +1,6 @@
 # Ms.G
 
-Ms.G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at radial, London on Sun, 13 Sept 2026.
+Ms.G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at radial, London on Sun, 13 Sept 2026.
 
 Ms.G is a house and techno artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bristol and Dublin and 6 more. Often billed alongside Michelle Manetti, Marie Malarie and FAFF. Next up: radial, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Ms.G is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Michelle Manetti, Marie Malarie, FAFF
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.g/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.g/)*

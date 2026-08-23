@@ -1,6 +1,6 @@
 # CJ Jeff
 
-CJ Jeff is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 20 Sept 2026.
+CJ Jeff is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 20 Sept 2026.
 
 CJ Jeff is a tech house and house artist based in Greece, tracked on soundcheck, with 46 sets logged across Athens, Barcelona, Berlin and Chicago and 8 more. Often billed alongside Dub Tiger, Agent Greg and Diogo Accioly. Next up: Ku Barcelona, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ CJ Jeff is a tech house and house artist based in Greece, tracked on soundcheck,
 
 Dub Tiger, Agent Greg, Diogo Accioly
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjjeff/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjjeff/)*

@@ -1,6 +1,6 @@
 # angel tabris
 
-angel tabris is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 18 Sept 2026.
+angel tabris is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 18 Sept 2026.
 
 angel tabris is a jungle and drum & bass artist based in Ireland, tracked on soundcheck, with 25 sets logged across Dublin. Often billed alongside Jalana, SHO and Carl Flynn. Next up: Yamamori Tengu, Dublin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ angel tabris is a jungle and drum & bass artist based in Ireland, tracked on sou
 
 Jalana, SHO, Carl Flynn
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angeltabris/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angeltabris/)*

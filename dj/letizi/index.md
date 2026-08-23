@@ -1,6 +1,6 @@
 # Le TIZI
 
-Le TIZI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
+Le TIZI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
 
 Le TIZI is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg, Munich and Newyorkcity. Often billed alongside Concentio, Confred and Ede. Next up: Ritter Butzke, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Le TIZI is a house and techno artist tracked on soundcheck, with 10 sets logged 
 
 Concentio, Confred, Ede
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/letizi/)*

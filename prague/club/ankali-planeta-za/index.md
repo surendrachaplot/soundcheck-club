@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "─୨ৎ─2 YEARS of Zona Magica─୨ৎ─" on Sat, 22 Aug 2026.
+Ankali & Planeta Za is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "─୨ৎ─2 YEARS of Zona Magica─୨ৎ─" on Sat, 22 Aug 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Abo Abo, Adamovia, AE.WAI and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -23,4 +23,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

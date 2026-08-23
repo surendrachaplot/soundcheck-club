@@ -1,6 +1,6 @@
 # Arkan
 
-Arkan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+Arkan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
 
 Arkan is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Maris Shilton, Mathys Lenne and slin. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Arkan is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- TILLATEC, Amsterdam — Sat, 22 Aug 2026
 - TBA - secret location, Barcelona — Fri, 31 Jul 2026
 - Die Rakete, Nürnberg — Sat, 13 Jun 2026
 - Tresor / Globus, Berlin — Fri, 8 May 2026
@@ -20,10 +21,9 @@ Arkan is a techno and house artist based in Germany, tracked on soundcheck, with
 - Fvtvr, Paris — Fri, 6 Feb 2026
 - Axxon N., Leipzig — Sat, 24 Jan 2026
 - Tresor / Globus, Berlin — Sat, 10 Jan 2026
-- Virage, Paris — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Maris Shilton, Mathys Lenne, slin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkan/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkan/)*

@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "夢幻 vol.9" on Sat, 22 Aug 2026.
+R Lounge is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CRAZY BANANA -10th Anniversary-" on Sun, 23 Aug 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including BEPPU, BERLINER KINDL, CITY1 and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including BEPPU, BERLINER KINDL, CITY1 and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | 夢幻 vol.9 | Dustvoxx |
 | Sun, 23 Aug 2026 | CRAZY BANANA -10th Anniversary- | MMM, MagRena |
 | Thu, 27 Aug 2026 | Resound | BERLINER KINDL, SIGNAL (JP), cosmolady |
 | Sat, 29 Aug 2026 | DUST RIOT vol.4 | SONATA |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, wit
 | Sat, 5 Sept 2026 | Sonic Drive | DJ Wada, DJ Yogurt, Yohei Hibiki |
 | Fri, 11 Sept 2026 | Attempt | Kotatsu, Krankent, SIGNAL (JP) |
 | Fri, 18 Sept 2026 | FEEDER feat. Ken Ishii | Kaori Watt, Ken Ishii, Nobuharu Morimoto |
+| Tue, 22 Sept 2026 | HeartsGrow |  |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

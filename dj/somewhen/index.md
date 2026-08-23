@@ -1,6 +1,6 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Somewhen is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Somewhen is a techno and trance artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -35,4 +35,4 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 205 sets logg
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

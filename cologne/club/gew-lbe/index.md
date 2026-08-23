@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Klubnacht with Carl Craig, Marcel Janovsky" on Sat, 22 Aug 2026.
+Gewölbe is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Klubnacht with Carl Craig, Marcel Janovsky" on Sat, 22 Aug 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including Adiel, Carl Craig, DCHM and Di² (1) and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming nights, w
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

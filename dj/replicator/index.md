@@ -1,6 +1,6 @@
 # Replicator
 
-Replicator is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
+Replicator is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ESC, Montreal on Sat, 22 Aug 2026.
 
 Replicator is a hardcore and club artist based in United States of America, tracked on soundcheck, with 27 sets logged across Boston, London, Montreal and Newyorkcity. Often billed alongside Chelita, DJ maddog and 99jakes. Next up: ESC, Montreal on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Replicator is a hardcore and club artist based in United States of America, trac
 
 ## Recently played
 
+- ESC, Montreal — Sat, 22 Aug 2026
 - Vauxhall Arches, London — Fri, 27 Feb 2026
 - Rash, New York City — Fri, 15 Nov 2024
 - Trans-Pecos, New York City — Fri, 18 Oct 2024
@@ -19,10 +20,9 @@ Replicator is a hardcore and club artist based in United States of America, trac
 - Le Père, New York City — Thu, 12 Sept 2024
 - Mood Ring, New York City — Fri, 2 Aug 2024
 - Fresh Pond Beer Garden, Boston — Sat, 20 Jul 2024
-- Cantab Lounge, Boston — Fri, 21 Jun 2024
 
 ## Shares bills with
 
 Chelita, DJ maddog, 99jakes
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/replicator/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/replicator/)*

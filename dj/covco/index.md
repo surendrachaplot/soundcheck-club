@@ -1,6 +1,6 @@
 # Covco
 
-Covco is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Rooftop at One Hundred Shoreditch, London on Sun, 23 Aug 2026.
+Covco is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Rooftop at One Hundred Shoreditch, London on Sun, 23 Aug 2026.
 
 Covco is a bass and experimental artist tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Brussels and Glasgow and 6 more. Often billed alongside Rat Section, Crystallmess and John T. Gast. Next up: The Rooftop at One Hundred Shoreditch, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Covco is a bass and experimental artist tracked on soundcheck, with 32 sets logg
 
 Rat Section, Crystallmess, John T. Gast
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/covco/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/covco/)*

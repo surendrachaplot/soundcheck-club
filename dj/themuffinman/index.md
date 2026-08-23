@@ -1,14 +1,13 @@
-# The Muffin Man
+# TheMuffinMan
 
-The Muffin Man is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 22 Aug 2026.
+TheMuffinMan is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
-The Muffin Man is a techno and trance artist based in Italy, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Basel and 22 more. Often billed alongside Funk Tribu, JOKESONYOU and TEDESCO. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 22 Aug.
+TheMuffinMan is a techno and trance artist based in Italy, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Basel and 22 more. Often billed alongside Funk Tribu, JOKESONYOU and TEDESCO. Next up: OXI, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 | Sat, 12 Sept 2026 | OXI | Berlin |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Thu, 5 Nov 2026 | The Berkeley Suite | Glasgow |
@@ -16,6 +15,7 @@ The Muffin Man is a techno and trance artist based in Italy, tracked on soundche
 
 ## Recently played
 
+- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 22 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 4 Jul 2026
 - Kilomètre25, Paris — Thu, 2 Jul 2026
 - Ministerium Club, Lisbon — Thu, 18 Jun 2026
@@ -23,10 +23,9 @@ The Muffin Man is a techno and trance artist based in Italy, tracked on soundche
 - Else, Berlin — Fri, 15 May 2026
 - Bike Jesus, Prague — Fri, 8 May 2026
 - The Prospect Building, Bristol — Sun, 3 May 2026
-- TBA - STUDIO76 POWERED BY VOID ACOUSTICS, Madrid — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Funk Tribu, JOKESONYOU, TEDESCO
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*

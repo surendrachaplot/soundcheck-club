@@ -1,6 +1,6 @@
 # Ute Ungewiss
 
-Ute Ungewiss is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Studio 14 (RBB Dachlounge), Berlin on Fri, 28 Aug 2026.
+Ute Ungewiss is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Studio 14 (RBB Dachlounge), Berlin on Fri, 28 Aug 2026.
 
 Ute Ungewiss is a house and deep house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside eigenstil, Parinaz and Glückspilz. Next up: Studio 14 (RBB Dachlounge), Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ute Ungewiss is a house and deep house artist based in Germany, tracked on sound
 
 eigenstil, Parinaz, Glückspilz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uteungewiss/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uteungewiss/)*

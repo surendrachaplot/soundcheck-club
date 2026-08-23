@@ -1,6 +1,6 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 22 Aug 2026.
+Dr Banana is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 22 Aug 2026.
 
 Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Rumore Nightclub Capri, Naples on Sat 22 Aug.
 
@@ -23,6 +23,7 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logg
 
 ## Recently played
 
+- Rumore Nightclub Capri, Naples — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 16 Aug 2026
 - Les Enfants Brillants, Barcelona — Fri, 14 Aug 2026
 - Sukkerbiten, Oslo — Sat, 8 Aug 2026
@@ -30,10 +31,9 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logg
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
 - 528 Ibiza, Ibiza — Tue, 2 Jun 2026
 - Night Tales, London — Fri, 29 May 2026
-- Freight Island, Manchester — Sun, 24 May 2026
 
 ## Shares bills with
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

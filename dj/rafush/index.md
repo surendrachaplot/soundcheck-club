@@ -1,6 +1,6 @@
 # Rafush
 
-Rafush is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 23 Aug 2026.
+Rafush is a House and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 23 Aug 2026.
 
 Rafush is a house and bass artist tracked on soundcheck, with 127 sets logged across Basel, Berlin, Cologne and Hamburg and 4 more. Often billed alongside Dj Goodboy, Punani and ADAM MUNNINGS. Next up: arkaoda Berlin, Berlin on Sun 23 Aug.
 
@@ -29,4 +29,4 @@ Rafush is a house and bass artist tracked on soundcheck, with 127 sets logged ac
 
 Dj Goodboy, Punani, ADAM MUNNINGS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*

@@ -1,6 +1,6 @@
 # Stark
 
-Stark is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Atno, Budapest on Sat, 29 Aug 2026.
+Stark is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Atno, Budapest on Sat, 29 Aug 2026.
 
 Stark is a tech house and minimal artist tracked on soundcheck, with 23 sets logged across Berlin, Budapest and Newyorkcity. Often billed alongside Hanussen, Knoll and MSKD. Next up: Atno, Budapest on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Stark is a tech house and minimal artist tracked on soundcheck, with 23 sets log
 
 Hanussen, Knoll, MSKD
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*

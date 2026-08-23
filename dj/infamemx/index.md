@@ -1,6 +1,6 @@
 # INFAME (MX)
 
-INFAME (MX) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+INFAME (MX) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 INFAME (MX) is a techno and minimal techno artist based in Mexico, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Mexicocity and 2 more. Often billed alongside Mikka, Rocco.fx and S-vibe. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ INFAME (MX) is a techno and minimal techno artist based in Mexico, tracked on so
 
 Mikka, Rocco.fx, S-vibe
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infamemx/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infamemx/)*

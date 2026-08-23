@@ -1,6 +1,6 @@
 # Celine Roman
 
-Celine Roman is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+Celine Roman is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
 Celine Roman is a deep house and minimal artist based in Romania, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 1 more. Often billed alongside Alex Sharp, Andrey Pushkarev and Lola Palmer. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Celine Roman is a deep house and minimal artist based in Romania, tracked on sou
 
 Alex Sharp, Andrey Pushkarev, Lola Palmer
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celineroman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/celineroman/)*

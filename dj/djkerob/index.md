@@ -1,6 +1,6 @@
 # Dj Kero B
 
-Dj Kero B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Romantica, Stuttgart on Sat, 22 Aug 2026.
+Dj Kero B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Romantica, Stuttgart on Sat, 22 Aug 2026.
 
 Dj Kero B is a techno and house artist tracked on soundcheck, with 5 sets logged across Stuttgart. Often billed alongside Needs (2), Stereo Visions and BIIA. Next up: Romantica, Stuttgart on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Dj Kero B is a techno and house artist tracked on soundcheck, with 5 sets logged
 
 ## Recently played
 
+- Romantica, Stuttgart — Sat, 22 Aug 2026
 - Climax-Institutes, Stuttgart — Fri, 6 Mar 2026
 - TBA - Kulturbunker Stuttgart, Stuttgart — Fri, 30 Jan 2026
 - Lehmann Club, Stuttgart — Sat, 5 Jul 2025
@@ -21,4 +22,4 @@ Dj Kero B is a techno and house artist tracked on soundcheck, with 5 sets logged
 
 Needs (2), Stereo Visions, BIIA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerob/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerob/)*

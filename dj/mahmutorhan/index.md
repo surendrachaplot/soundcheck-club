@@ -1,14 +1,13 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Santanna Mykonos, Mykonos on Sat, 22 Aug 2026.
+Mahmut Orhan is a House and Afro House artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Chinois Ibiza, Ibiza on Wed, 26 Aug 2026.
 
-Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Santanna Mykonos, Mykonos on Sat 22 Aug.
+Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Chinois Ibiza, Ibiza on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Santanna Mykonos | Mykonos |
 | Wed, 26 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 28 Aug 2026 | UNO MALTA | Malta |
 | Fri, 28 Aug 2026 | UNO MALTA | Malta |
@@ -22,6 +21,7 @@ Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 se
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Sat, 22 Aug 2026
 - Chinois Ibiza, Ibiza — Wed, 19 Aug 2026
 - Void Mykonos, Mykonos — Sun, 16 Aug 2026
 - Chinois Ibiza, Ibiza — Wed, 12 Aug 2026
@@ -29,10 +29,9 @@ Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 se
 - Old Royal Naval College, London — Sat, 8 Aug 2026
 - Void Mykonos, Mykonos — Fri, 7 Aug 2026
 - Chinois Ibiza, Ibiza — Wed, 5 Aug 2026
-- Kiesgrube, Düsseldorf — Sun, 2 Aug 2026
 
 ## Shares bills with
 
 Shimza, Adriatique, Andrea Oliva
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

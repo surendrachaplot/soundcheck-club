@@ -1,6 +1,6 @@
 # Nekes
 
-Nekes is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
+Nekes is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Fri, 28 Aug 2026.
 
 Nekes is a house and minimal artist based in Germany, tracked on soundcheck, with 51 sets logged across Athens, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Federico Molinari, Alvaro Medina and Liou. Next up: Club der Visionaere, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Nekes is a house and minimal artist based in Germany, tracked on soundcheck, wit
 
 Federico Molinari, Alvaro Medina, Liou
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekes/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekes/)*

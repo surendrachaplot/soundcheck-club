@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "NOKTURN - MarekSPolzki, Pean, sporra, La Libre" on Sat, 22 Aug 2026.
+Mastak is a music venue in Warsaw with 21 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "NOKTURN - MarekSPolzki, Pean, sporra, La Libre" on Sat, 22 Aug 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 21 upcoming nights, with line-ups including Ania R, Herrszt, JESS.mp5 and LZN (PL) and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -23,4 +23,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 21 upcoming nights, with
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

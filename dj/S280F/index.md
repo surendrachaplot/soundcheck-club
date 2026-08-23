@@ -1,6 +1,6 @@
 # S280F
 
-S280F is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tuff Club, Singapore on Fri, 18 Sept 2026.
+S280F is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tuff Club, Singapore on Fri, 18 Sept 2026.
 
 S280F is an experimental and noise artist tracked on soundcheck, with 29 sets logged across Austin, Berlin, Brisbane and Glasgow and 13 more. Often billed alongside Ship Sket, Blood of Aza and Freestyler (2). Next up: Tuff Club, Singapore on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ S280F is an experimental and noise artist tracked on soundcheck, with 29 sets lo
 
 Ship Sket, Blood of Aza, Freestyler (2)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/S280F/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/S280F/)*

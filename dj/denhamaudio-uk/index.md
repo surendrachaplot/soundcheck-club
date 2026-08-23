@@ -1,6 +1,6 @@
 # Denham Audio
 
-Denham Audio is a Breakbeat and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
+Denham Audio is a Breakbeat and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
 
 Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Next Door Records, London on Wed 26 Aug.
 
@@ -27,4 +27,4 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 144 se
 
 Mani Festo, Rebekah Abdeen, Borai
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*

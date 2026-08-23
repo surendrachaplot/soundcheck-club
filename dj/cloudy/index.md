@@ -1,6 +1,6 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 23 Aug 2026.
+Cloudy is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 23 Aug 2026.
 
 Cloudy is a techno and trance artist tracked on soundcheck, with 215 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 54 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Kiesgrube, Dusseldorf on Sun 23 Aug.
 
@@ -36,4 +36,4 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 215 sets logged
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

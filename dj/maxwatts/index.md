@@ -1,6 +1,6 @@
 # Max Watts
 
-Max Watts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Trans-Pecos, New York City on Thu, 17 Sept 2026.
+Max Watts is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Trans-Pecos, New York City on Thu, 17 Sept 2026.
 
 Max Watts is a techno and house artist tracked on soundcheck, with 99 sets logged across Berlin, Chicago, Detroit and London and 9 more. Often billed alongside Sugar (4), Miguel Cisne and MGUN. Next up: Trans-Pecos, Newyorkcity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Max Watts is a techno and house artist tracked on soundcheck, with 99 sets logge
 
 Sugar (4), Miguel Cisne, MGUN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwatts/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwatts/)*

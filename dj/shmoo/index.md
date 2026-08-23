@@ -1,6 +1,6 @@
 # Shmoo
 
-Shmoo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Blue Leopard Lounge, Chicago on Sat, 29 Aug 2026.
+Shmoo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Blue Leopard Lounge, Chicago on Sat, 29 Aug 2026.
 
 Shmoo is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago. Often billed alongside Wyser, Ilana Ariella and DJ Lady D. Next up: Blue Leopard Lounge, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Shmoo is a house and deep house artist based in United States of America, tracke
 
 Wyser, Ilana Ariella, DJ Lady D
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shmoo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shmoo/)*

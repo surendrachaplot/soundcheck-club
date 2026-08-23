@@ -1,14 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Jolene Downtown Miami, Miami on Sat, 22 Aug 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at public records, New York City on Sun, 23 Aug 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Jolene Downtown Miami, Miami on Sat 22 Aug.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: public records, Newyorkcity on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Jolene Downtown Miami | Miami |
 | Sun, 23 Aug 2026 | public records | New York City |
 | Fri, 28 Aug 2026 | Jaeger | Oslo |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
@@ -20,9 +19,11 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets lo
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Sat, 22 Aug 2026
 - YuYu Cine Club, Mexico City — Fri, 21 Aug 2026
 - TBA, Glasgow — Sat, 15 Aug 2026
 - Sub Club, Glasgow — Sat, 15 Aug 2026
@@ -30,10 +31,9 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets lo
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - DC-10, Ibiza — Mon, 10 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

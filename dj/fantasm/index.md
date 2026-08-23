@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Fantasm is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Fantasm is a techno and hardcore artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -35,4 +35,4 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 75 sets logg
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

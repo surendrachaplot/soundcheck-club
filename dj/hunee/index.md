@@ -1,6 +1,6 @@
 # Hunee
 
-Hunee is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at essaim, Paris on Sat, 22 Aug 2026.
+Hunee is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at essaim, Paris on Sat, 22 Aug 2026.
 
 Hunee is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: essaim, Paris on Sat 22 Aug.
 
@@ -20,17 +20,17 @@ Hunee is a house and disco artist tracked on soundcheck, with 144 sets logged ac
 
 ## Recently played
 
+- essaim, Paris — Sat, 22 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
 - Serpentine Galleries, London — Sat, 15 Aug 2026
 - La Terrrazza, Barcelona — Sat, 8 Aug 2026
 - Boomtown (Kouter), Ghent — Sat, 18 Jul 2026
 - Hito Scheveningen, The Hague — Sat, 11 Jul 2026
 - DC-10, Ibiza — Mon, 15 Jun 2026
 - berlinClub, Madrid — Sat, 6 Jun 2026
-- Het Twiske, Amsterdam — Sat, 23 May 2026
-- TBA - Park den Brandt, Antwerp — Sat, 23 May 2026
 
 ## Shares bills with
 
 Antal, Call Super, Job Jobse
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

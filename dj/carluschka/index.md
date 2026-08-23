@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Carluschka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Berlin, Hamburg, Leipzig and Lisbon and 3 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Locke, Hamburg — Fri, 14 Aug 2026
 - Späti 4 You, Berlin — Sat, 1 Aug 2026
 - Golden Pudel Club, Hamburg — Thu, 30 Jul 2026
@@ -20,10 +21,9 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 - Turtur, Hamburg — Fri, 10 Jul 2026
 - Locke, Hamburg — Thu, 9 Jul 2026
 - Café Schöne Aussichten (CSA), Hamburg — Sun, 5 Jul 2026
-- Golden Pudel Club, Hamburg — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

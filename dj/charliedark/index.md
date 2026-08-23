@@ -1,6 +1,6 @@
 # Charlie Dark
 
-Charlie Dark is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cafe 1001, London on Fri, 28 Aug 2026.
+Charlie Dark is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Cafe 1001, London on Fri, 28 Aug 2026.
 
 Charlie Dark is a disco and house artist tracked on soundcheck, with 54 sets logged across Barcelona, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Dean Bryce, MiNNA and Tash LC. Next up: Cafe 1001, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Charlie Dark is a disco and house artist tracked on soundcheck, with 54 sets log
 
 Dean Bryce, MiNNA, Tash LC
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliedark/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliedark/)*

@@ -1,6 +1,6 @@
 # Biondo
 
-Biondo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
+Biondo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
 
 Biondo is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Ibiza and Valencia. Often billed alongside Dj badtrip, Lucía Gea and Ariezzz. Next up: Eden, Ibiza on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Biondo is a techno and tech house artist tracked on soundcheck, with 15 sets log
 
 Dj badtrip, Lucía Gea, Ariezzz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biondo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biondo/)*

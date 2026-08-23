@@ -1,6 +1,6 @@
 # Mike Shannon
 
-Mike Shannon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
+Mike Shannon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
 
 Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside Stipé, DeWalta and Deadbeat. Next up: Club der Visionaere, Berlin on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck
 
 Stipé, DeWalta, Deadbeat
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*

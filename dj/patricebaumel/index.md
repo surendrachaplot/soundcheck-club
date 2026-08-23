@@ -1,6 +1,6 @@
 # Patrice Bäumel
 
-Patrice Bäumel is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 28 Aug 2026.
+Patrice Bäumel is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Patrice Bäumel is a techno and house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 39 more. Often billed alongside Patrice, Sasha and Hernan Cattaneo. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Patrice Bäumel is a techno and house artist tracked on soundcheck, with 147 set
 
 Patrice, Sasha, Hernan Cattaneo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patricebaumel/)*

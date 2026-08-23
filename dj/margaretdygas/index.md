@@ -1,14 +1,13 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
+Margaret Dygas is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
-Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Port of Belgrade, Belgrade on Sat 22 Aug.
+Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Port of Belgrade | Belgrade |
 | Sun, 6 Sept 2026 | Club der Visionaere | Berlin |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 2 Oct 2026 | FOLD | London |
@@ -16,6 +15,7 @@ Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 set
 
 ## Recently played
 
+- Port of Belgrade, Belgrade — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 2 Aug 2026
 - Supermarket, Zurich — Sat, 25 Jul 2026
 - Club Guesthouse, Bucharest — Sat, 27 Jun 2026
@@ -23,10 +23,9 @@ Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 set
 - Night Tales, London — Sat, 20 Jun 2026
 - Castell de BEN Viure, Barcelona — Fri, 19 Jun 2026
 - TBA - East Williamsburg, New York City — Fri, 29 May 2026
-- Green Room NYC, New York City — Thu, 28 May 2026
 
 ## Shares bills with
 
 Edward, Francesco Del Garda, Sonja Moonear
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

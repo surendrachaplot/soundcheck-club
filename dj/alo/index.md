@@ -1,14 +1,13 @@
 # Alo
 
-Alo is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Vista, Mexico City on Wed, 19 Aug 2026.
+Alo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Mexico City on Fri, 28 Aug 2026.
 
-Alo is an electronica and house artist based in Mexico, tracked on soundcheck, with 53 sets logged across Mexicocity. Often billed alongside Bluecommand, Mejia and Bastard Love. Next up: La Vista, Mexicocity on Wed 19 Aug.
+Alo is an electronica and house artist based in Mexico, tracked on soundcheck, with 53 sets logged across Mexicocity. Often billed alongside Bluecommand, Mejia and Bastard Love. Next up: TBA, Mexicocity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | La Vista | Mexico City |
 | Fri, 28 Aug 2026 | TBA | Mexico City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Alo is an electronica and house artist based in Mexico, tracked on soundcheck, w
 
 Bluecommand, Mejia, Bastard Love
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alo/)*

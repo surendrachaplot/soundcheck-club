@@ -1,14 +1,13 @@
 # Decoder
 
-Decoder is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 21 Aug 2026.
+Decoder is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
 
-Decoder is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: La Station - Gare des Mines, Paris on Fri 21 Aug.
+Decoder is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | La Station - Gare des Mines | Paris |
 | Sat, 12 Sept 2026 | TBA - 4211 Todd Ln Suite A | Austin |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Mon, 9 Nov 2026 | public records | New York City |
@@ -29,4 +28,4 @@ Decoder is a techno and house artist tracked on soundcheck, with 85 sets logged 
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

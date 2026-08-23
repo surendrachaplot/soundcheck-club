@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Moving Pictures - djs Roman Rai, Vik, Daniel Neighbour, Sidartha Siliceo live (sitar & drums)" on Sat, 22 Aug 2026.
+Bukanyr Boat is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Moving Pictures - djs Roman Rai, Vik, Daniel Neighbour, Sidartha Siliceo live (sitar & drums)" on Sat, 22 Aug 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including abecko, Axis Alpha, Biodan and Blackloud and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming nights
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

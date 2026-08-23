@@ -1,6 +1,6 @@
 # DJ Woo Girl
 
-DJ Woo Girl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+DJ Woo Girl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 DJ Woo Girl is a house and techno artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen. Often billed alongside Baltza, Lucky Lube and DJ Nah Care. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Woo Girl is a house and techno artist based in Denmark, tracked on soundcheck
 
 Baltza, Lucky Lube, DJ Nah Care
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwoogirl/)*

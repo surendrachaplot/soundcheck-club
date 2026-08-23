@@ -1,6 +1,6 @@
 # LAURIX (DE)
 
-LAURIX (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 26 Aug 2026.
+LAURIX (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 26 Aug 2026.
 
 LAURIX (DE) is a trance and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Hamburg, Leipzig and Naples and 1 more. Often billed alongside Ivana Parti, Limoncello and Krash Cora. Next up: Lokschuppen Berlin, Berlin on Wed 26 Aug.
 
@@ -27,4 +27,4 @@ LAURIX (DE) is a trance and techno artist tracked on soundcheck, with 31 sets lo
 
 Ivana Parti, Limoncello, Krash Cora
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurixde/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurixde/)*

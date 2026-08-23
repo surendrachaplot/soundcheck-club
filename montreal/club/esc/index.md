@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "☆ Strawberry Gothcake x 909 Worldwide : Return to Elysium ☆" on Sat, 22 Aug 2026.
+ESC is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "☆ Strawberry Gothcake x 909 Worldwide : Return to Elysium ☆" on Sat, 22 Aug 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including 99jakes, Akufen, Alice Gas and CrisseMarqueur and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -20,4 +20,4 @@ ESC is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

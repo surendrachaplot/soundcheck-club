@@ -1,6 +1,6 @@
 # Stealth
 
-Stealth is a music venue in Nottingham with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "A.M.C presents: Grassroots Energy (Nottingham)" on Fri, 2 Oct 2026.
+Stealth is a music venue in Nottingham with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "A.M.C presents: Grassroots Energy (Nottingham)" on Fri, 2 Oct 2026.
 
 Stealth is a music venue in Nottingham listed on soundcheck. 3 upcoming nights, with line-ups including A.M.C. and Crossy. Browse upcoming dates, start times and who's playing. Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom.
 
@@ -16,4 +16,4 @@ Stealth is a music venue in Nottingham listed on soundcheck. 3 upcoming nights, 
 
 Masonic Place, Goldsmith Street, Nottingham, NG1 5JT, United Kingdom, Nottingham
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/stealth/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/stealth/)*

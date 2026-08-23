@@ -1,6 +1,6 @@
 # Wencat
 
-Wencat is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
+Wencat is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - outdoors, Montreal on Fri, 18 Sept 2026.
 
 Wencat is a bass and dubstep artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside coldchainlogistics, Pleurire and Kiviv. Next up: TBA - outdoors, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Wencat is a bass and dubstep artist based in Canada, tracked on soundcheck, with
 
 coldchainlogistics, Pleurire, Kiviv
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wencat/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wencat/)*

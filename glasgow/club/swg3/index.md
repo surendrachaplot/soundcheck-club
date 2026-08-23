@@ -1,14 +1,13 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "FULL TILT" on Sat, 22 Aug 2026.
+SWG3 is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Joshwa" on Fri, 28 Aug 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with line-ups including Above & Beyond, Alexandria, AXION and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including Above & Beyond, Alexandria, AXION and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | FULL TILT |  |
 | Fri, 28 Aug 2026 | Joshwa | Joshwa |
 | Sat, 29 Aug 2026 | M4 Festival |  |
 | Fri, 18 Sept 2026 | NIGHTVISION Presents: Funk Tribu | Funk Tribu |
@@ -18,9 +17,10 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with 
 | Fri, 25 Sept 2026 | 25 years of NOVEK | AXION, NOVEK (SCO) |
 | Fri, 25 Sept 2026 | FLY - House Heads pres. Luuk van Dijk, Robbie Doherty & Prunk + more | Luuk van Dijk, Prunk, Robbie Doherty |
 | Sun, 27 Sept 2026 | Elevate: Paco Osuna | Paco Osuna |
+| Sat, 3 Oct 2026 | Daft Disko [A French House & Disco Party] |  |
 
 ## Address
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

@@ -1,6 +1,6 @@
 # KANE.
 
-KANE. is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Grow, London on Fri, 4 Sept 2026.
+KANE. is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Grow, London on Fri, 4 Sept 2026.
 
 KANE. is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Losangeles. Often billed alongside Komanche, Ben hauke and Bluetoof. Next up: Grow, London on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ KANE. is a house and broken beat artist based in United Kingdom, tracked on soun
 
 Komanche, Ben hauke, Bluetoof
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kane./)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kane./)*

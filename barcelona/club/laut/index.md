@@ -1,14 +1,13 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Forest On Stasys B2B Alderaan" on Sat, 22 Aug 2026.
+LAUT is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Aura Nox + C.MØ + Omvra" on Fri, 28 Aug 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Alderaan, Aleja Sanchez, Armela and Aura Nox and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including Aleja Sanchez, Armela, Aura Nox and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Forest On Stasys B2B Alderaan | Alderaan, Forest On Stasys |
 | Fri, 28 Aug 2026 | Aura Nox + C.MØ + Omvra | Aura Nox, C.MØ, Omvra |
 | Sat, 29 Aug 2026 | MOTA (All Night Long) | MOTA |
 | Fri, 4 Sept 2026 | HAKKE: Armela + Sergio b2b Francesco | Armela, Francesco (BCN), SERGIO (HAKKE) |
@@ -18,9 +17,10 @@ LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, wit
 | Fri, 18 Sept 2026 | HORS-SOL: Jolly b2b Lastvuska b2b Maryu | Jolly (FR), Lastvuska, Maryu |
 | Sat, 19 Sept 2026 | Sonhan + Lucient | Lucient, Sonhan |
 | Fri, 25 Sept 2026 | Ekkel + Jhort | Ekkel, Jhort |
+| Sat, 26 Sept 2026 | Vardae (All night long) | Vardae |
 
 ## Address
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

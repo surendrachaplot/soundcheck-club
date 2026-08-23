@@ -1,6 +1,6 @@
 # S.U.R.E.
 
-S.U.R.E. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bread & Butter Arch, London on Sat, 26 Sept 2026.
+S.U.R.E. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bread & Butter Arch, London on Sat, 26 Sept 2026.
 
 S.U.R.E. is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Bristol and London. Often billed alongside Sharpson, Simon Alfred and BRUSS. Next up: Bread & Butter Arch, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ S.U.R.E. is a house and deep house artist based in United Kingdom, tracked on so
 
 Sharpson, Simon Alfred, BRUSS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sure/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sure/)*

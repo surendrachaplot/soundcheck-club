@@ -1,6 +1,6 @@
 # GK Machine
 
-GK Machine is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 26 Sept 2026.
+GK Machine is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 26 Sept 2026.
 
 GK Machine is an acid and experimental artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Aberdeen, Edinburgh, Glasgow and Leeds. Often billed alongside Illogical Operator, Wrong Party! and 98dots. Next up: The Berkeley Suite, Glasgow on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ GK Machine is an acid and experimental artist based in United Kingdom, tracked o
 
 Illogical Operator, Wrong Party!, 98dots
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gkmachine/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gkmachine/)*

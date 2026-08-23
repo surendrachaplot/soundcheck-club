@@ -1,6 +1,6 @@
 # Kristen London
 
-Kristen London is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
+Kristen London is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
 
 Kristen London is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside Szobi, DJ girlcrush and Ah Dek. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Kristen London is a house and techno artist based in United States of America, t
 
 Szobi, DJ girlcrush, Ah Dek
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristenlondon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristenlondon/)*

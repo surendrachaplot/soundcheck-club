@@ -1,6 +1,6 @@
 # The AM/AMX
 
-The AM/AMX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 29 Aug 2026.
+The AM/AMX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 29 Aug 2026.
 
 The AM/AMX is a techno and house artist tracked on soundcheck, with 83 sets logged across Berlin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside Ash Lauryn, Isaac Prieto and Max Watts. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ The AM/AMX is a techno and house artist tracked on soundcheck, with 83 sets logg
 
 Ash Lauryn, Isaac Prieto, Max Watts
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*

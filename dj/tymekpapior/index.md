@@ -1,6 +1,6 @@
 # Tymek Papior
 
-Tymek Papior is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Teatr Łaźnia Nowa, Krakow on Fri, 9 Oct 2026.
+Tymek Papior is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Teatr Łaźnia Nowa, Krakow on Fri, 9 Oct 2026.
 
 Tymek Papior is an electronic artist tracked on soundcheck, with 9 sets logged across Krakow, London and Warsaw. Often billed alongside Natan Kryszk, A Guy Called Gerald and Assyouti. Next up: Teatr Łaźnia Nowa, Krakow on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Tymek Papior is an electronic artist tracked on soundcheck, with 9 sets logged a
 
 Natan Kryszk, A Guy Called Gerald, Assyouti
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tymekpapior/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tymekpapior/)*

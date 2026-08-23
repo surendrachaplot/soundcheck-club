@@ -1,6 +1,6 @@
 # Nxt Museum
 
-Nxt Museum is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Mr. Belt & Wezol at Nxt Museum ADE" on Fri, 23 Oct 2026.
+Nxt Museum is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Mr. Belt & Wezol at Nxt Museum ADE" on Fri, 23 Oct 2026.
 
 Nxt Museum is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Mr. Belt & Wezol. Browse upcoming dates, start times and who's playing. Asterweg 22, 1031 HP Amsterdam.
 
@@ -14,4 +14,4 @@ Nxt Museum is a music venue in Amsterdam listed on soundcheck. 1 upcoming night,
 
 Asterweg 22, 1031 HP Amsterdam, Amsterdam
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nxt-museum/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nxt-museum/)*

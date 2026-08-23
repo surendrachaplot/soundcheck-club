@@ -1,6 +1,6 @@
 # HUNGR
 
-HUNGR is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Safara Festival" on Fri, 21 Aug 2026.
+HUNGR is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Safara Festival" on Fri, 21 Aug 2026.
 
 HUNGR is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with line-ups including Aeden (1), Baba Sy, Bamba and Brenna Ryan and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, 10411 Tallinn, Harju.
 
@@ -15,4 +15,4 @@ HUNGR is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with 
 
 Peetri 6, 10411 Tallinn, Harju, Tallinn
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hungr/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hungr/)*

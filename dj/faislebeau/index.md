@@ -1,6 +1,6 @@
 # Fais Le Beau
 
-Fais Le Beau is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
+Fais Le Beau is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
 
 Fais Le Beau is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Sixsixsixties, Dana Kuehr and Melissa Juice. Next up: Buda BXL, Brussels on Sat 22 Aug.
 
@@ -17,6 +17,7 @@ Fais Le Beau is a house and techno artist tracked on soundcheck, with 137 sets l
 
 ## Recently played
 
+- Buda BXL, Brussels — Sat, 22 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - 09h30-05h30, Antwerp — Sat, 8 Aug 2026
 - La Station - Gare des Mines, Paris — Fri, 24 Jul 2026
@@ -24,10 +25,9 @@ Fais Le Beau is a house and techno artist tracked on soundcheck, with 137 sets l
 - KREUZWERK, Berlin — Sat, 27 Jun 2026
 - Bar15, Stockholm — Sat, 6 Jun 2026
 - Illegaal, Brussels — Sun, 31 May 2026
-- Skatecafe, Amsterdam — Sat, 23 May 2026
 
 ## Shares bills with
 
 Sixsixsixties, Dana Kuehr, Melissa Juice
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faislebeau/)*

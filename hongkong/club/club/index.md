@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 17 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Host with Sulk (OIL Soundsystem, Taipei) [All Night Long]" on Sat, 22 Aug 2026.
+宀 Club is a music venue in Hong Kong with 17 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Host with Sulk (OIL Soundsystem, Taipei) [All Night Long]" on Sat, 22 Aug 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 17 upcoming nights, with line-ups including 69DB, A Strange Wedding, Daura and DJ Yazi and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

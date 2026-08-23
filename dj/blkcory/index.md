@@ -1,6 +1,6 @@
 # blkcory
 
-blkcory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sidestreet, Toronto on Sun, 23 Aug 2026.
+blkcory is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sidestreet, Toronto on Sun, 23 Aug 2026.
 
 blkcory is a house and afro house artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Lot D. Next up: Sidestreet, Toronto on Sun 23 Aug.
 
@@ -24,4 +24,4 @@ blkcory is a house and afro house artist based in Canada, tracked on soundcheck,
 
 Lot D
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blkcory/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blkcory/)*

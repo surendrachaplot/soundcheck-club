@@ -1,6 +1,6 @@
 # Kinso
 
-Kinso is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Headrow House, Leeds on Fri, 18 Sept 2026.
+Kinso is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Headrow House, Leeds on Fri, 18 Sept 2026.
 
 Kinso is a house and garage artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside Luke Reynolds, This & That and Cam Harrop. Next up: Headrow House, Leeds on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Kinso is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Luke Reynolds, This & That, Cam Harrop
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinso/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinso/)*

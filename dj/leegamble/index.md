@@ -1,6 +1,6 @@
 # Lee Gamble
 
-Lee Gamble is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+Lee Gamble is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
 Lee Gamble is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside ojoo, JASSS and Kode9. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Lee Gamble is a techno and experimental artist based in United Kingdom, tracked 
 
 ojoo, JASSS, Kode9
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*

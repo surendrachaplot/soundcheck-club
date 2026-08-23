@@ -1,6 +1,6 @@
 # Sindri
 
-Sindri is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Akbar, Los Angeles on Fri, 18 Sept 2026.
+Sindri is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Akbar, Los Angeles on Fri, 18 Sept 2026.
 
 Sindri is a disco and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Athens, Losangeles, Mexicocity and Newyorkcity and 4 more. Often billed alongside Lovefingers, BEYA and Bears In Space. Next up: Akbar, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sindri is a disco and house artist based in United States of America, tracked on
 
 Lovefingers, BEYA, Bears In Space
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sindri/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sindri/)*

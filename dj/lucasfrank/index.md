@@ -1,6 +1,6 @@
 # Lucas Frank
 
-Lucas Frank is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
+Lucas Frank is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Discoteca Karma, Barcelona on Sun, 23 Aug 2026.
 
 Lucas Frank is a house and afro house artist based in Argentina, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Babo, DC81 and Frucula. Next up: Discoteca Karma, Barcelona on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Lucas Frank is a house and afro house artist based in Argentina, tracked on soun
 
 Babo, DC81, Frucula
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*

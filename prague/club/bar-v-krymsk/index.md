@@ -1,14 +1,13 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Yukimura" on Sat, 22 Aug 2026.
+Bar v Krymský is a music venue in Prague with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Semily Vibes" on Fri, 28 Aug 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 16 upcoming nights, with line-ups including Eva Falt, ishka machina, Orkus and Raphael Kosmos and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 15 upcoming nights, with line-ups including Eva Falt, ishka machina, Orkus and Raphael Kosmos and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Yukimura |  |
 | Fri, 28 Aug 2026 | Semily Vibes |  |
 | Sat, 29 Aug 2026 | Sat & Advance Martin | Sat |
 | Thu, 3 Sept 2026 | Ypsilonka |  |
@@ -18,9 +17,10 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 16 upcoming nigh
 | Fri, 11 Sept 2026 | Eva Falt & Othervision | Eva Falt |
 | Sat, 12 Sept 2026 | Locked-In ➔ All Night Long | Sam van der Toure |
 | Wed, 16 Sept 2026 | Scratch 004 with DJ Flux & Czechmike |  |
+| Thu, 17 Sept 2026 | Keytar Records Night |  |
 
 ## Address
 
 Krymská 21, Praha, Prague
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

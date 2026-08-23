@@ -1,6 +1,6 @@
 # Na Diavl
 
-Na Diavl is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 25 Aug 2026.
+Na Diavl is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 25 Aug 2026.
 
 Na Diavl is an electronica and experimental artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan, Naples and Rome. Often billed alongside Vagliolise, Collarbone and Fernando Costantini. Next up: THE MAGICK BAR, Rome on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Na Diavl is an electronica and experimental artist based in Italy, tracked on so
 
 Vagliolise, Collarbone, Fernando Costantini
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiavl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiavl/)*

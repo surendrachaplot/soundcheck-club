@@ -1,14 +1,13 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hornblower Spirit, San Francisco/Oakland on Sat, 22 Aug 2026.
+RUZE is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 3 Sept 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Hornblower Spirit, Sanfrancisco on Sat 22 Aug.
+RUZE is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Chinois Ibiza, Ibiza on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Hornblower Spirit | San Francisco/Oakland |
 | Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | FORGE | Sheffield |
 | Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
@@ -22,6 +21,7 @@ RUZE is a house and tech house artist tracked on soundcheck, with 117 sets logge
 
 ## Recently played
 
+- Hornblower Spirit, San Francisco/Oakland — Sat, 22 Aug 2026
 - Elsewhere, New York City — Fri, 21 Aug 2026
 - UNLOCKED, London — Thu, 16 Jul 2026
 - Cova Santa, Ibiza — Tue, 14 Jul 2026
@@ -29,10 +29,9 @@ RUZE is a house and tech house artist tracked on soundcheck, with 117 sets logge
 - Cova Santa, Ibiza — Tue, 23 Jun 2026
 - Club Space Miami, Miami — Fri, 19 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
-- W Barcelona, Barcelona — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

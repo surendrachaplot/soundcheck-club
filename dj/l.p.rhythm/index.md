@@ -1,14 +1,13 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dullingham Polo Club, London on Sat, 22 Aug 2026.
+L.P. Rhythm is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 175 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 30 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Dullingham Polo Club, London on Sat 22 Aug.
+L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 175 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 30 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Dullingham Polo Club | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Thu, 17 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,9 +19,11 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 175 set
 | Sun, 4 Oct 2026 | Superior Ingredients | New York City |
 | Fri, 16 Oct 2026 | Newspeak | Montreal |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played
 
+- Dullingham Polo Club, London — Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 - 528 Ibiza, Ibiza — Sun, 12 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
@@ -30,10 +31,9 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 175 set
 - Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - Fvtvr, Paris — Sat, 20 Jun 2026
-- Esferic Bcn, Barcelona — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Gaskin, Luuk van Dijk, Josh Baker
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

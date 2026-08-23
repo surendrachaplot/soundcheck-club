@@ -1,6 +1,6 @@
 # Sampology
 
-Sampology is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
+Sampology is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
 
 Sampology is a house and club artist based in Australia, tracked on soundcheck, with 13 sets logged across Auckland, Bangkok, Brisbane and Hobart and 2 more. Often billed alongside AROHA, Antal and Babetech. Next up: Howler, Melbourne on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Sampology is a house and club artist based in Australia, tracked on soundcheck, 
 
 AROHA, Antal, Babetech
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampology/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampology/)*

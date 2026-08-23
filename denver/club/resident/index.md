@@ -1,6 +1,6 @@
 # Resident
 
-Resident is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Rafael Cerato" on Fri, 2 Oct 2026.
+Resident is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rafael Cerato" on Fri, 2 Oct 2026.
 
 Resident is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Rafael Cerato. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Resident is a music venue in Denver listed on soundcheck. 1 upcoming night, with
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Rafael Cerato | Rafael Cerato |
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/resident/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/resident/)*

@@ -1,6 +1,6 @@
 # Gibbin
 
-Gibbin is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Greyhound, London on Fri, 6 Nov 2026.
+Gibbin is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Greyhound, London on Fri, 6 Nov 2026.
 
 Gibbin is a house and dub artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Feldspar, Allecto and Antepop. Next up: The Greyhound, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Gibbin is a house and dub artist tracked on soundcheck, with 9 sets logged acros
 
 Feldspar, Allecto, Antepop
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gibbin/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gibbin/)*

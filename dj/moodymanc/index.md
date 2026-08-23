@@ -1,6 +1,6 @@
 # Moodymanc
 
-Moodymanc is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Underbank, Manchester on Sat, 29 Aug 2026.
+Moodymanc is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Underbank, Manchester on Sat, 29 Aug 2026.
 
 Moodymanc is a house and afro house artist tracked on soundcheck, with 17 sets logged across Manchester. Often billed alongside Citizen Simmo, Hannah O'Gorman and Julie Wills. Next up: The Underbank, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Moodymanc is a house and afro house artist tracked on soundcheck, with 17 sets l
 
 Citizen Simmo, Hannah O'Gorman, Julie Wills
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymanc/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymanc/)*

@@ -1,6 +1,6 @@
 # Retrospect
 
-Retrospect is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Patterns, Brighton on Sun, 30 Aug 2026.
+Retrospect is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Patterns, Brighton on Sun, 30 Aug 2026.
 
 Retrospect is a house and garage artist tracked on soundcheck, with 8 sets logged across Brighton and London. Often billed alongside Edo.1, ADR (UK) and AZAAD. Next up: Patterns, Brighton on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Retrospect is a house and garage artist tracked on soundcheck, with 8 sets logge
 
 Edo.1, ADR (UK), AZAAD
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retrospect/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retrospect/)*

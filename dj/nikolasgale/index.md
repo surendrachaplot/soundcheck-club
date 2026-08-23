@@ -1,6 +1,6 @@
 # Nikolas Gale
 
-Nikolas Gale is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Skull Bar, Athens on Sun, 23 Aug 2026.
+Nikolas Gale is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Skull Bar, Athens on Sun, 23 Aug 2026.
 
 Nikolas Gale is a house and deep house artist tracked on soundcheck, with 82 sets logged across Athens. Often billed alongside Stiko, Useless Co. and Bonso. Next up: Skull Bar, Athens on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Nikolas Gale is a house and deep house artist tracked on soundcheck, with 82 set
 
 Stiko, Useless Co., Bonso
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolasgale/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolasgale/)*

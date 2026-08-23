@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui" on Sat, 22 Aug 2026.
+Void Club is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "VOID x Vanta.nyx VI with Ødium, Gabrielle, kutscher, K.EULE, Section 63 (UK), Aynaet, Shurui" on Sat, 22 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Alex Xandra, Andriiic, Anton Quasi and audite and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

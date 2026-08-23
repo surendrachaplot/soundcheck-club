@@ -1,18 +1,18 @@
 # Dos Flakos
 
-Dos Flakos is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Walnut Bar & Grill, New York City on Sat, 22 Aug 2026.
+Dos Flakos is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Eden NYC, New York City on Sun, 6 Sept 2026.
 
-Dos Flakos is a house and reggaeton artist tracked on soundcheck, with 52 sets logged across Austin, Chicago, Losangeles and Madrid and 6 more. Often billed alongside DJ Ultra Violet, Rosa Perreo and Cquestt. Next up: Walnut Bar & Grill, Newyorkcity on Sat 22 Aug.
+Dos Flakos is a house and reggaeton artist tracked on soundcheck, with 52 sets logged across Austin, Chicago, Losangeles and Madrid and 6 more. Often billed alongside DJ Ultra Violet, Rosa Perreo and Cquestt. Next up: Eden NYC, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Walnut Bar & Grill | New York City |
 | Sun, 6 Sept 2026 | Eden NYC | New York City |
 
 ## Recently played
 
+- Walnut Bar & Grill, New York City — Sat, 22 Aug 2026
 - Dead Letter No. 9, New York City — Fri, 21 Aug 2026
 - Pacific Science Center, Seattle — Sat, 15 Aug 2026
 - House of Yes, New York City — Sat, 8 Aug 2026
@@ -20,10 +20,9 @@ Dos Flakos is a house and reggaeton artist tracked on soundcheck, with 52 sets l
 - TBA -  DTLA Warehouse, Los Angeles — Sat, 18 Jul 2026
 - The Chocolate Factory, New York City — Sat, 11 Jul 2026
 - Floyd, Miami — Fri, 26 Jun 2026
-- Dead Letter No. 9, New York City — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 DJ Ultra Violet, Rosa Perreo, Cquestt
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dosflakos/)*

@@ -1,6 +1,6 @@
 # Ryan Spencer
 
-Ryan Spencer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Cafeteria, Toronto on Fri, 28 Aug 2026.
+Ryan Spencer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Cafeteria, Toronto on Fri, 28 Aug 2026.
 
 Ryan Spencer is a house and techno artist based in United States of America, tracked on soundcheck, with 258 sets logged across Detroit, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Cafeteria, Toronto on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Ryan Spencer is a house and techno artist based in United States of America, tra
 
 Shigeto, Charles Trees, Tammy Lakkis
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanspencer/)*

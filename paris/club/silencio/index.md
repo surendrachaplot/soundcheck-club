@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Major League Djz / Fabrice Dayan / Sib" on Sat, 22 Aug 2026.
+Silencio is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Major League Djz / Fabrice Dayan / Sib" on Sat, 22 Aug 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Major League Djz and RYX (1). Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -19,4 +19,4 @@ Silencio is a music venue in Paris listed on soundcheck. 6 upcoming nights, with
 
 142 rue Montmartre Paris, Paris
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

@@ -1,6 +1,6 @@
 # SIMBAH
 
-SIMBAH is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at WOMB, Tokyo on Wed, 26 Aug 2026.
+SIMBAH is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at WOMB, Tokyo on Wed, 26 Aug 2026.
 
 SIMBAH is a house and tech house artist tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside CLESENT, IRODORI and Leo Gabriel. Next up: WOMB, Tokyo on Wed 26 Aug.
 
@@ -19,4 +19,4 @@ SIMBAH is a house and tech house artist tracked on soundcheck, with 3 sets logge
 
 CLESENT, IRODORI, Leo Gabriel
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*

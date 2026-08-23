@@ -1,6 +1,6 @@
 # Index
 
-Index is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Index: Indira Paganotto" on Fri, 4 Sept 2026.
+Index is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Index: Indira Paganotto" on Fri, 4 Sept 2026.
 
 Index is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including 999999999, horsegiirL, Indira Paganotto and Nicole Spagnol and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
@@ -18,4 +18,4 @@ Index is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with l
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

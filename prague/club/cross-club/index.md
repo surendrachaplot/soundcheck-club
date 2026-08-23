@@ -1,6 +1,6 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "CROSS SQUARE with MUCHA" on Sat, 22 Aug 2026.
+Cross Club is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CROSS SQUARE with MUCHA" on Sat, 22 Aug 2026.
 
 Cross Club is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including AMAR DURGA, Dukla and Zwooky. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
@@ -23,4 +23,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 11 upcoming nights, 
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

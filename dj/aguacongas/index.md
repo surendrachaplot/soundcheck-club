@@ -1,14 +1,14 @@
 # Agua con gas
 
-Agua con gas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ziegrastraße 11, Berlin on Fri, 28 Aug 2026.
+Agua con gas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - DM @blxwjobcenter INSTA and get the Address, Berlin on Fri, 28 Aug 2026.
 
-Agua con gas is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Buenosaires and Tbilisi. Often billed alongside SENERGI, Aaron Blau and CHRANDY. Next up: Ziegrastraße 11, Berlin on Fri 28 Aug.
+Agua con gas is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Buenosaires and Tbilisi. Often billed alongside SENERGI, Aaron Blau and CHRANDY. Next up: TBA - DM @blxwjobcenter INSTA and get the Address, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Ziegrastraße 11 | Berlin |
+| Fri, 28 Aug 2026 | TBA - DM @blxwjobcenter INSTA and get the Address | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Agua con gas is a house and techno artist based in Germany, tracked on soundchec
 
 SENERGI, Aaron Blau, CHRANDY
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguacongas/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguacongas/)*

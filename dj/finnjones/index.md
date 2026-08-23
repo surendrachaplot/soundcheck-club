@@ -1,6 +1,6 @@
 # Finn Jones
 
-Finn Jones is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
+Finn Jones is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Xanadu, New York City on Sun, 23 Aug 2026.
 
 Finn Jones is a disco and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Losangeles and Newyorkcity. Often billed alongside Lauren Murada, Party Dad and Douglas Sherman. Next up: Xanadu, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Finn Jones is a disco and house artist based in United Kingdom, tracked on sound
 
 Lauren Murada, Party Dad, Douglas Sherman
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finnjones/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/finnjones/)*

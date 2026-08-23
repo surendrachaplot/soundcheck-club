@@ -1,6 +1,6 @@
 # Temenon
 
-Temenon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
+Temenon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Private Campground, Seattle on Fri, 21 Aug 2026.
 
 Temenon is a house and techno artist tracked on soundcheck, with 16 sets logged across Losangeles and Seattle. Often billed alongside Freddy M, Cy Hanson and KJ3 (US). Next up: TBA - Private Campground, Seattle on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Temenon is a house and techno artist tracked on soundcheck, with 16 sets logged 
 
 Freddy M, Cy Hanson, KJ3 (US)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temenon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temenon/)*

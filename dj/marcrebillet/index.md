@@ -1,6 +1,6 @@
 # Marc Rebillet
 
-Marc Rebillet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Union Market, Washington DC on Sat, 3 Oct 2026.
+Marc Rebillet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Union Market, Washington DC on Sat, 3 Oct 2026.
 
 Marc Rebillet is a house and deep house artist tracked on soundcheck, with 20 sets logged across Bali, Barcelona, Budapest and Dublin and 12 more. Often billed alongside WhoMadeWho, I Hate Models and Anyma. Next up: Union Market, Washingtondc on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Marc Rebillet is a house and deep house artist tracked on soundcheck, with 20 se
 
 WhoMadeWho, I Hate Models, Anyma
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcrebillet/)*

@@ -1,6 +1,6 @@
 # gum.mp3
 
-gum.mp3 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+gum.mp3 is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 gum.mp3 is a house and garage artist based in United States of America, tracked on soundcheck, with 71 sets logged across Austin, Boston, Chicago and Detroit and 12 more. Often billed alongside Swami Sound, Dazegxd and EDEN BEKELE. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ gum.mp3 is a house and garage artist based in United States of America, tracked 
 
 Swami Sound, Dazegxd, EDEN BEKELE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*

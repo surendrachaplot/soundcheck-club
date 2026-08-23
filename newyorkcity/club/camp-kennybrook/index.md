@@ -1,6 +1,6 @@
 # Camp Kennybrook
 
-Camp Kennybrook is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Sustain-Release Year Twelve" on Thu, 10 Sept 2026.
+Camp Kennybrook is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Sustain-Release Year Twelve" on Thu, 10 Sept 2026.
 
 Camp Kennybrook is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including LYDO, Amelia Holt, Andy Martin and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 73 Camp Road, Monticello, NY 12701.
 
@@ -14,4 +14,4 @@ Camp Kennybrook is a music venue in Newyorkcity listed on soundcheck. 1 upcoming
 
 73 Camp Road, Monticello, NY 12701, New York City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/camp-kennybrook/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/camp-kennybrook/)*

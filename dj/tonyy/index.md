@@ -1,6 +1,6 @@
 # tonyy
 
-tonyy is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 12 Sept 2026.
+tonyy is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 12 Sept 2026.
 
 tonyy is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Erik Braun, Holden Federico and Karcelen. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ tonyy is a techno and dub techno artist based in United States of America, track
 
 Erik Braun, Holden Federico, Karcelen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyy/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyy/)*

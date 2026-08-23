@@ -1,6 +1,6 @@
 # Hector Mamajuana
 
-Hector Mamajuana is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
+Hector Mamajuana is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
 
 Hector Mamajuana is a drum & bass and house artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside DJ Paul C, MIZTAH LEX and Alex Jay. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Hector Mamajuana is a drum & bass and house artist tracked on soundcheck, with 1
 
 DJ Paul C, MIZTAH LEX, Alex Jay
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormamajuana/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormamajuana/)*

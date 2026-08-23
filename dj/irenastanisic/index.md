@@ -1,6 +1,6 @@
 # Irena Stanisic
 
-Irena Stanisic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
+Irena Stanisic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
 
 Irena Stanisic is a house and deep house artist based in North Macedonia, tracked on soundcheck, with 59 sets logged across Mexicocity and Newyorkcity. Often billed alongside Barreto, JNGLEJ and papa jazz. Next up: Tonal, Mexicocity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Irena Stanisic is a house and deep house artist based in North Macedonia, tracke
 
 Barreto, JNGLEJ, papa jazz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irenastanisic/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irenastanisic/)*

@@ -1,6 +1,6 @@
 # Oliver Lieb
 
-Oliver Lieb is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
+Oliver Lieb is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 22 Aug 2026.
 
 Oliver Lieb is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Frankfurt, London and Madrid and 1 more. Often billed alongside DJ Dag, 808 State and Alexander Koning. Next up: Tanzhaus West, Frankfurt on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Oliver Lieb is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
+- Tanzhaus West, Frankfurt — Sat, 22 Aug 2026
 - Perkins Park, Stuttgart — Sat, 28 Feb 2026
 - Sala ART, Madrid — Sat, 10 May 2025
 - Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 2 Sept 2023
@@ -21,4 +22,4 @@ Oliver Lieb is a techno and trance artist based in Germany, tracked on soundchec
 
 DJ Dag, 808 State, Alexander Koning
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*

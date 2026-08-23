@@ -1,6 +1,6 @@
 # Marta Aurelia
 
-Marta Aurelia is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
+Marta Aurelia is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
 
 Marta Aurelia is a techno artist tracked on soundcheck, with 23 sets logged across Berlin and Hamburg. Often billed alongside Surreal (DE), Le.Fu and Marco Baskind. Next up: Golden Pudel Club, Hamburg on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Marta Aurelia is a techno artist tracked on soundcheck, with 23 sets logged acro
 
 Surreal (DE), Le.Fu, Marco Baskind
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaurelia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaurelia/)*

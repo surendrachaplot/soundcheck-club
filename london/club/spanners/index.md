@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "SUGAR 004 with Angel D'lite + Bethan - All Night Long " on Fri, 28 Aug 2026.
+Spanners is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "SUGAR 004 with Angel D'lite + Bethan - All Night Long " on Fri, 28 Aug 2026.
 
 Spanners is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Angel D'lite, Bethan, Bitzer Maloney and Jim Janco and 2 more. Browse upcoming dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -18,4 +18,4 @@ Spanners is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

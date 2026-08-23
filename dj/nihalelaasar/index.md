@@ -1,6 +1,6 @@
 # Nihal El Aasar
 
-Nihal El Aasar is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Stereo, Glasgow on Sat, 12 Sept 2026.
+Nihal El Aasar is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Stereo, Glasgow on Sat, 12 Sept 2026.
 
 Nihal El Aasar is a club and experimental artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Glasgow, London and Manchester. Often billed alongside Toumba, Fantastic Man and Jeneen. Next up: Stereo, Glasgow on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nihal El Aasar is a club and experimental artist based in United Kingdom, tracke
 
 Toumba, Fantastic Man, Jeneen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nihalelaasar/)*

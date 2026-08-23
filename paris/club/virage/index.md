@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "GALOP GALOP: Afem Syko, Cara Elizabeth, SATYS FYRE" on Sat, 22 Aug 2026.
+Virage is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "GALOP GALOP: Afem Syko, Cara Elizabeth, SATYS FYRE" on Sat, 22 Aug 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Afem Syko and Aleksandir and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -23,4 +23,4 @@ Virage is a music venue in Paris listed on soundcheck. 12 upcoming nights, with 
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
+WhoMadeWho is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
 
 WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Mercado Pago Hall, Saopaulo on Sat 22 Aug.
 
@@ -17,6 +17,7 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets log
 
 ## Recently played
 
+- Mercado Pago Hall, Sao Paulo — Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
@@ -24,10 +25,9 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets log
 - Antonioli Hangar, Ibiza — Tue, 7 Jul 2026
 - Pacha Ibiza, Ibiza — Tue, 16 Jun 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- Hippodrome de Vincennes, Paris — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

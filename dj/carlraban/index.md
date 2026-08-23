@@ -1,6 +1,6 @@
 # Carl Raban
 
-Carl Raban is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
+Carl Raban is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Seedcamp, Kautzen, Vienna on Fri, 21 Aug 2026.
 
 Carl Raban is a techno and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Vienna. Often billed alongside Younes Jamil, underdawoods and DJ SKIN. Next up: Seedcamp, Kautzen, Vienna on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Carl Raban is a techno and trance artist based in Germany, tracked on soundcheck
 
 Younes Jamil, underdawoods, DJ SKIN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlraban/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlraban/)*

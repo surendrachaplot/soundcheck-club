@@ -1,6 +1,6 @@
 # Chaia
 
-Chaia is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Audium, San Francisco/Oakland on Sat, 5 Sept 2026.
+Chaia is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Audium, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Chaia is an ambient and techno artist tracked on soundcheck, with 27 sets logged across Chicago, Denver, Detroit and Glasgow and 8 more. Often billed alongside Kenjiro, Sha3by Chic and Alina (MTL). Next up: Audium, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Chaia is an ambient and techno artist tracked on soundcheck, with 27 sets logged
 
 Kenjiro, Sha3by Chic, Alina (MTL)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaia/)*

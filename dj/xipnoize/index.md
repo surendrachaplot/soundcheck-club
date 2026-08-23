@@ -1,6 +1,6 @@
 # XipNoize
 
-XipNoize is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
+XipNoize is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 XipNoize is a techno and house artist based in Spain, tracked on soundcheck, with 39 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and NOBODYISALICE. Next up: Almar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ XipNoize is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 Gabo Oliveira, PAZ WAZ HERE, NOBODYISALICE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*

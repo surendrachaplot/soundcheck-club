@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Du Tanzt Dich Mal" on Sat, 22 Aug 2026.
+SASS Music Club is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Morgengymnastik" on Sun, 23 Aug 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including C.love, Crazy Sonic, Dcascallana and Diego (3) and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including C.love, Crazy Sonic, Dcascallana and Diego (3) and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Du Tanzt Dich Mal | EUGEN1O |
 | Sun, 23 Aug 2026 | Morgengymnastik | KILL.DB |
 | Thu, 27 Aug 2026 | jeez louise |  |
 | Fri, 28 Aug 2026 | Rhythmic Playground | Nook, eyris |
@@ -19,4 +18,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 6 upcoming nigh
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

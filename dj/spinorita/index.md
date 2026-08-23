@@ -1,6 +1,6 @@
 # Spiñorita
 
-Spiñorita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Homage Brewing, Los Angeles on Fri, 28 Aug 2026.
+Spiñorita is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Homage Brewing, Los Angeles on Fri, 28 Aug 2026.
 
 Spiñorita is a house and disco artist based in United States of America, tracked on soundcheck, with 54 sets logged across Chicago, Detroit, Losangeles and Mexicocity and 3 more. Often billed alongside Daddy Kev, BAE BAE and Big Happy. Next up: Homage Brewing, Losangeles on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Spiñorita is a house and disco artist based in United States of America, tracke
 
 Daddy Kev, BAE BAE, Big Happy
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinorita/)*

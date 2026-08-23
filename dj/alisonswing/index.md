@@ -1,13 +1,14 @@
 # Alison Swing
 
-Alison Swing is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Alison Swing is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
 
-Alison Swing is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ City, Akirahawks and DJ NORTHERN. Next up: Renate, Berlin on Fri 11 Sept.
+Alison Swing is a house and techno artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside DJ City, Akirahawks and DJ NORTHERN. Next up: OXI, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | OXI | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Thu, 24 Sept 2026 | Paloma | Berlin |
 
@@ -26,4 +27,4 @@ Alison Swing is a house and techno artist based in United States of America, tra
 
 DJ City, Akirahawks, DJ NORTHERN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisonswing/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisonswing/)*

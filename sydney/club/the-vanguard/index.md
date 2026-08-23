@@ -1,6 +1,6 @@
 # The Vanguard
 
-The Vanguard is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "The Vanguard Presents: Parallel" on Sat, 29 Aug 2026.
+The Vanguard is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Vanguard Presents: Parallel" on Sat, 29 Aug 2026.
 
 The Vanguard is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Couch Mechanic, DAYZZI and TIISHA. Browse upcoming dates, start times and who's playing. 42 King St; Newtown, NSW 2042; Australia.
 
@@ -14,4 +14,4 @@ The Vanguard is a music venue in Sydney listed on soundcheck. 1 upcoming night, 
 
 42 King St; Newtown, NSW 2042; Australia, Sydney
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*

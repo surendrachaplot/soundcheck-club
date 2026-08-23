@@ -1,6 +1,6 @@
 # Tony Bellotti
 
-Tony Bellotti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Smolna, Warsaw on Fri, 11 Sept 2026.
+Tony Bellotti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Smolna, Warsaw on Fri, 11 Sept 2026.
 
 Tony Bellotti is a techno and house artist based in Poland, tracked on soundcheck, with 6 sets logged across Warsaw. Often billed alongside NOXI, Indecorum and Kollektiv Turmstrasse. Next up: Smolna, Warsaw on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Tony Bellotti is a techno and house artist based in Poland, tracked on soundchec
 
 NOXI, Indecorum, Kollektiv Turmstrasse
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybellotti/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonybellotti/)*

@@ -1,6 +1,6 @@
 # Kim Turnbull
 
-Kim Turnbull is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paradise, London on Mon, 31 Aug 2026.
+Kim Turnbull is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paradise, London on Mon, 31 Aug 2026.
 
 Kim Turnbull is a hip-hop and afrobeat artist tracked on soundcheck, with 7 sets logged across Bali, Brussels, Ibiza and London. Often billed alongside Keyrah, Tommy Gold and 2M. Next up: Paradise, London on Mon 31 Aug.
 
@@ -23,4 +23,4 @@ Kim Turnbull is a hip-hop and afrobeat artist tracked on soundcheck, with 7 sets
 
 Keyrah, Tommy Gold, 2M
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimturnbull/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimturnbull/)*

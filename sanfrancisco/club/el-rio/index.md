@@ -1,6 +1,6 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "GRÜV with Xolo" on Wed, 26 Aug 2026.
+El Rio is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "GRÜV with Xolo" on Wed, 26 Aug 2026.
 
 El Rio is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including ALICE STRIBLING, mymy and QUEENIE (US). Browse upcoming dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
@@ -17,4 +17,4 @@ El Rio is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights,
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

@@ -1,6 +1,6 @@
 # COLD ASS ICE
 
-COLD ASS ICE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at PRST, Vienna on Fri, 28 Aug 2026.
+COLD ASS ICE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at PRST, Vienna on Fri, 28 Aug 2026.
 
 COLD ASS ICE is a techno and trance artist tracked on soundcheck, with 13 sets logged across Amsterdam, Cologne, Hamburg and Munich and 2 more. Often billed alongside ASCHENBRENNER, Anna Ullrich and BabaBass3000. Next up: PRST, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ COLD ASS ICE is a techno and trance artist tracked on soundcheck, with 13 sets l
 
 ASCHENBRENNER, Anna Ullrich, BabaBass3000
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coldassice/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coldassice/)*

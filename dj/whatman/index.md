@@ -1,6 +1,6 @@
 # Whatman
 
-Whatman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at clubasia, Tokyo on Thu, 27 Aug 2026.
+Whatman is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at clubasia, Tokyo on Thu, 27 Aug 2026.
 
 Whatman is a techno and bass artist tracked on soundcheck, with 52 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside E.O.U, Vís (1) and ntank. Next up: clubasia, Tokyo on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Whatman is a techno and bass artist tracked on soundcheck, with 52 sets logged a
 
 E.O.U, Vís (1), ntank
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whatman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whatman/)*

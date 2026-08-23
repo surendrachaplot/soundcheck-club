@@ -1,6 +1,6 @@
 # gucccifer
 
-gucccifer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at C12, Brussels on Sat, 26 Sept 2026.
+gucccifer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
 gucccifer is a techno and trance artist based in Bulgaria, tracked on soundcheck, with 27 sets logged across Amsterdam and Brussels. Often billed alongside H BADGER, VOYA and Philippe Flantier. Next up: C12, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ gucccifer is a techno and trance artist based in Bulgaria, tracked on soundcheck
 
 H BADGER, VOYA, Philippe Flantier
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gucccifer/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gucccifer/)*

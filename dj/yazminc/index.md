@@ -1,6 +1,6 @@
 # YazminC
 
-YazminC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
+YazminC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
 
 YazminC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol, Leeds, Liverpool and Manchester. Often billed alongside Pablo, Seeka and Chimpo. Next up: Meraki, Liverpool on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ YazminC is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Pablo, Seeka, Chimpo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yazminc/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yazminc/)*

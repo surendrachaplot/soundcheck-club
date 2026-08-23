@@ -1,6 +1,6 @@
 # B0YG1RL
 
-B0YG1RL is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+B0YG1RL is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
 B0YG1RL is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Mexicocity, Miami, Newyorkcity and Toronto. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: TBA, Toronto on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ B0YG1RL is a techno and club artist based in United States of America, tracked o
 
 Lady Narcisse, Racci, Aphex Twink
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b0yg1rl/)*

@@ -1,14 +1,13 @@
 # Bolivar Beach Bar
 
-Bolivar Beach Bar is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gordo I Sat Aug 22" on Sat, 22 Aug 2026.
+Bolivar Beach Bar is a music venue in Athens with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Mayans with Âme Live I Thu Aug 27" on Thu, 27 Aug 2026.
 
-Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
+Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 7 upcoming nights, with line-ups including Adam Beyer, Âme, Brina Knauss and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Posidonos Avenue, Alimos, Athens.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Gordo I Sat Aug 22 | Dino MFU, Gordo (1) |
 | Thu, 27 Aug 2026 | Mayans with Âme Live I Thu Aug 27 | DjSteph, Rezo (2), Âme |
 | Fri, 28 Aug 2026 | Caiiro b3b Da Capo b3b Enoo Napa I Fri Aug 28 | Caiiro, Da Capo, Enoo Napa |
 | Sat, 29 Aug 2026 | Enrico Sangiuliano I Sama' Abdulhadi Ι Sat 29 Aug | Enrico Sangiuliano, Manolaco, Sama' Abdulhadi |
@@ -21,4 +20,4 @@ Bolivar Beach Bar is a music venue in Athens listed on soundcheck. 8 upcoming ni
 
 Posidonos Avenue, Alimos, Athens, Athens
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/bolivar-beach-bar/)*

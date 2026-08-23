@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hertz, Seoul on Sat, 22 Aug 2026.
+HearThug is a House and Electro artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hertz, Seoul on Sat, 22 Aug 2026.
 
 HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Hertz, Seoul on Sat 22 Aug.
 
@@ -18,6 +18,7 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 
 ## Recently played
 
+- Hertz, Seoul — Sat, 22 Aug 2026
 - Acadana, Hong Kong — Fri, 21 Aug 2026
 - Ministerium Club, Lisbon — Sat, 8 Aug 2026
 - Gretchen, Berlin — Fri, 10 Jul 2026
@@ -25,10 +26,9 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 - UMI, Brussels — Fri, 5 Jun 2026
 - Parco Industria Alfa Romeo, Milan — Sat, 23 May 2026
 - PRST, Vienna — Fri, 8 May 2026
-- Starlane Pizza Bar, London — Sat, 2 May 2026
 
 ## Shares bills with
 
 Occibel, IAMBP, Alyhas
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

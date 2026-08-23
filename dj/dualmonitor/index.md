@@ -1,6 +1,6 @@
 # Dual Monitor
 
-Dual Monitor is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
+Dual Monitor is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
 
 Dual Monitor is a bass and techno artist tracked on soundcheck, with 51 sets logged across Bristol, Cardiff, Chicago and Copenhagen and 12 more. Often billed alongside Pluralist (UK), BLUMITSU and Frazer Ray. Next up: radial, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dual Monitor is a bass and techno artist tracked on soundcheck, with 51 sets log
 
 Pluralist (UK), BLUMITSU, Frazer Ray
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dualmonitor/)*

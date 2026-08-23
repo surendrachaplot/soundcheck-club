@@ -1,6 +1,6 @@
 # TimTVL
 
-TimTVL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
+TimTVL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
 
 TimTVL is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Ivan Kyrov, promzon and rita bass. Next up: The Russian House, Melbourne on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ TimTVL is a techno and electronica artist tracked on soundcheck, with 5 sets log
 
 Ivan Kyrov, promzon, rita bass
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timtvl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timtvl/)*

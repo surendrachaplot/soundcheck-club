@@ -1,6 +1,6 @@
 # Mama Snake
 
-Mama Snake is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Mama Snake is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Mama Snake is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside BASHKKA, Spekki Webu and DJ TOOL. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Mama Snake is a techno and house artist tracked on soundcheck, with 193 sets log
 
 BASHKKA, Spekki Webu, DJ TOOL
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasnake-de/)*

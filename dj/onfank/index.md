@@ -1,6 +1,6 @@
 # Onfank
 
-Onfank is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
+Onfank is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Onfank is a house and electro artist based in Italy, tracked on soundcheck, with 6 sets logged across Barcelona and Ibiza. Often billed alongside Alexxx, DJ Carlitos and DJ Senc. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Onfank is a house and electro artist based in Italy, tracked on soundcheck, with
 
 Alexxx, DJ Carlitos, DJ Senc
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onfank/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onfank/)*

@@ -1,6 +1,6 @@
 # RAAM BAND
 
-RAAM BAND is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - The Reserve, 212 E 125th St The Living Room, New York, NY, New York City on Fri, 13 Nov 2026.
+RAAM BAND is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - The Reserve, 212 E 125th St The Living Room, New York, NY, New York City on Fri, 13 Nov 2026.
 
 RAAM BAND is an afro house and afro tech artist tracked on soundcheck, with 18 sets logged across Newyorkcity. Next up: TBA - The Reserve, 212 E 125th St The Living Room, New York, NY, Newyorkcity on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ RAAM BAND is an afro house and afro tech artist tracked on soundcheck, with 18 s
 - TBA - SKINOS NYC 123 Washington St New York, NY 10006 , New York City — Sun, 4 May 2025
 - TBA - SKINOS NYC 123 Washington St New York, NY 10006 , New York City — Sun, 20 Apr 2025
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raamband/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raamband/)*

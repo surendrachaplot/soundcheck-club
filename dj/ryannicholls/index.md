@@ -1,14 +1,13 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tunnel Club, Birmingham on Sat, 22 Aug 2026.
+Ryan Nicholls is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Distrikt, Leeds on Fri, 4 Sept 2026.
 
-Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Josh Gregg, Ryan Resso and Fleur Shore. Next up: Tunnel Club, Birmingham on Sat 22 Aug.
+Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Josh Gregg, Ryan Resso and Fleur Shore. Next up: Distrikt, Leeds on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Tunnel Club | Birmingham |
 | Fri, 4 Sept 2026 | Distrikt | Leeds |
 | Sat, 5 Sept 2026 | FORGE | Sheffield |
 | Tue, 8 Sept 2026 | Hï Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 28 se
 
 ## Recently played
 
+- Tunnel Club, Birmingham — Sat, 22 Aug 2026
 - Ku Barcelona, Barcelona — Sun, 12 Jul 2026
 - Cova Santa, Ibiza — Tue, 23 Jun 2026
 - Sunseabar Beach Club, Barcelona — Thu, 18 Jun 2026
@@ -24,10 +24,9 @@ Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 28 se
 - Calluna, Nottingham — Sat, 2 May 2026
 - fabric, London — Fri, 20 Mar 2026
 - Ministry Of Sound, London — Sat, 24 Jan 2026
-- Lab11, Birmingham — Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Josh Gregg, Ryan Resso, Fleur Shore
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*

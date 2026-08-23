@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "House Of PAURRO x Magic City: Marie Davidson, Jubilee x PAURRO" on Sun, 23 Aug 2026.
+Signal is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "House Of PAURRO x Magic City: Marie Davidson, Jubilee x PAURRO" on Sun, 23 Aug 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

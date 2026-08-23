@@ -1,6 +1,6 @@
 # Jorge Escribano
 
-Jorge Escribano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
+Jorge Escribano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
 Jorge Escribano is a house and techno artist based in Spain, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: Sunseabar Beach Club, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jorge Escribano is a house and techno artist based in Spain, tracked on soundche
 
 Cecilio, Laurine, Avo (ES)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*

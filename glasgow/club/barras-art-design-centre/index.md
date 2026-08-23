@@ -1,6 +1,6 @@
 # Barras Art & Design Centre
 
-Barras Art & Design Centre is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Soul On Sunday Day Party" on Sun, 30 Aug 2026.
+Barras Art & Design Centre is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Soul On Sunday Day Party" on Sun, 30 Aug 2026.
 
 Barras Art & Design Centre is a music venue in Glasgow listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 54 Calton Entry, Glasgow, Scotland, United Kingdom G40 2SB.
 
@@ -16,4 +16,4 @@ Barras Art & Design Centre is a music venue in Glasgow listed on soundcheck. 3 u
 
 54 Calton Entry, Glasgow, Scotland, United Kingdom G40 2SB, Glasgow
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/barras-art-design-centre/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/barras-art-design-centre/)*

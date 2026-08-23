@@ -1,6 +1,6 @@
 # DJ Roach
 
-DJ Roach is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+DJ Roach is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 DJ Roach is a techno and electro artist tracked on soundcheck, with 36 sets logged across Amsterdam, Boston, Detroit and Toronto and 1 more. Often billed alongside DJ Godfather, Detroit Techno Militia 2x4 and Drivetrain. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ DJ Roach is a techno and electro artist tracked on soundcheck, with 36 sets logg
 
 DJ Godfather, Detroit Techno Militia 2x4, Drivetrain
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djroach/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djroach/)*

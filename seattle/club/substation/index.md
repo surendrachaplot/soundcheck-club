@@ -1,8 +1,8 @@
 # Substation
 
-Substation is a music venue in Seattle with 35 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Star Monster" on Thu, 27 Aug 2026.
+Substation is a music venue in Seattle with 36 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Star Monster" on Thu, 27 Aug 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 35 upcoming nights, with line-ups including AC Slater, AEREA, alexia.f and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 36 upcoming nights, with line-ups including AC Slater, AEREA, alexia.f and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 35 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

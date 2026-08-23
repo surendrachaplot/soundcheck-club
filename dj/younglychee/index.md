@@ -1,6 +1,6 @@
 # Young Lychee
 
-Young Lychee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Young Lychee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 Young Lychee is a techno and trance artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside DJ Fucks Himself, HEDDA and DJ Thai Take Away. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Young Lychee is a techno and trance artist based in Germany, tracked on soundche
 
 DJ Fucks Himself, HEDDA, DJ Thai Take Away
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/younglychee/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/younglychee/)*

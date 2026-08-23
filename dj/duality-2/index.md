@@ -1,6 +1,6 @@
 # Duality (US)
 
-Duality (US) is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Duality (US) is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Duality (US) is a footwork and club artist tracked on soundcheck, with 50 sets logged across Austin, Chicago, Miami and Nashville and 3 more. Often billed alongside 619!, Roll-e and Sel.6. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Duality (US) is a footwork and club artist tracked on soundcheck, with 50 sets l
 
 619!, Roll-e, Sel.6
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duality-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duality-2/)*

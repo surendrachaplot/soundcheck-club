@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ELECTRO ROCKS" on Sat, 22 Aug 2026.
+Electrowerkz is a music venue in London with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ELECTRO ROCKS" on Sat, 22 Aug 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Amphia, AyChibs, Chris de Buerre and Claudia Kane and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -23,4 +23,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 10 upcoming nights
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

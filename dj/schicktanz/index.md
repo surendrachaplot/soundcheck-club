@@ -1,6 +1,6 @@
 # Schicktanz
 
-Schicktanz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
+Schicktanz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
 
 Schicktanz is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Hamburg and Munich. Often billed alongside Vysion, BNZN and KVLR. Next up: KREUZWERK, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Schicktanz is a techno and trance artist based in Germany, tracked on soundcheck
 
 Vysion, BNZN, KVLR
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*

@@ -1,8 +1,8 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "The Black Box presents: Bwompster & Basura (Sinewave Symbiotes Tour)" on Thu, 3 Sept 2026.
+The Black Box is a music venue in Denver with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Black Box presents: Bwompster & Basura (Sinewave Symbiotes Tour)" on Thu, 3 Sept 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 8 upcoming nights, with line-ups including Daedelus, Daxta, DJ Paypal and Mefjus and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 9 upcoming nights, with line-ups including Daedelus, Daxta, DJ Paypal and Mefjus and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
@@ -16,9 +16,10 @@ The Black Box is a music venue in Denver listed on soundcheck. 8 upcoming nights
 | Fri, 25 Sept 2026 | @adsfradio presents: Daedelus (360 set) with Mux Mool, Sinistarr b2b J Bolivar, Despise | Daedelus, Mux Mool, Sinistarr |
 | Sat, 31 Oct 2026 | Sub.mission presents: Monty & Apparition | Monty |
 | Fri, 20 Nov 2026 | The Black Box: 10 Years (Night One) |  |
+| Sat, 21 Nov 2026 | The Black Box: 10 Years (Night Two) |  |
 
 ## Address
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

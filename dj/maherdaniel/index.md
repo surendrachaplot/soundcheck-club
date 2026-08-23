@@ -1,20 +1,20 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Port of Belgrade, Belgrade on Sat, 22 Aug 2026.
+Maher Daniel is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sophie Festival, Malaga on Sat, 19 Sept 2026.
 
-Maher Daniel is a house and minimal artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Port of Belgrade, Belgrade on Sat 22 Aug.
+Maher Daniel is a house and minimal artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Sophie Festival, Malaga on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Port of Belgrade | Belgrade |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 26 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- Port of Belgrade, Belgrade — Sat, 22 Aug 2026
 - Playa Soleil Ibiza, Ibiza — Wed, 19 Aug 2026
 - Refuge, New York City — Sat, 18 Jul 2026
 - Floyd, Miami — Sun, 12 Jul 2026
@@ -22,10 +22,9 @@ Maher Daniel is a house and minimal artist tracked on soundcheck, with 103 sets 
 - Club Space Miami, Miami — Sat, 23 May 2026
 - Flash, Washington DC — Sun, 17 May 2026
 - Goya Social Club, Madrid — Sat, 9 May 2026
-- Refuge, New York City — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

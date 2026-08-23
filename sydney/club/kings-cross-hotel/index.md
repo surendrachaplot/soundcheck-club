@@ -1,6 +1,6 @@
 # Kings Cross Hotel
 
-Kings Cross Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "4TF - HARD BOUNCE FOREVER" on Fri, 28 Aug 2026.
+Kings Cross Hotel is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "4TF - HARD BOUNCE FOREVER" on Fri, 28 Aug 2026.
 
 Kings Cross Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Audiophile. Browse upcoming dates, start times and who's playing. 244–248 William St, Potts Point NSW 2011, Australia.
 
@@ -15,4 +15,4 @@ Kings Cross Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming ni
 
 244–248 William St, Potts Point NSW 2011, Australia, Sydney
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/kings-cross-hotel/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/kings-cross-hotel/)*

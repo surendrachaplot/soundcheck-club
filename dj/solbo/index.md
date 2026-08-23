@@ -1,6 +1,6 @@
 # Sölbo
 
-Sölbo is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at StereoBar, Montreal on Sat, 26 Sept 2026.
+Sölbo is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at StereoBar, Montreal on Sat, 26 Sept 2026.
 
 Sölbo is a techno and afro tech artist tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Agents Of Time, Airon and Rodriguez Jr.. Next up: StereoBar, Montreal on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Sölbo is a techno and afro tech artist tracked on soundcheck, with 3 sets logge
 
 Agents Of Time, Airon, Rodriguez Jr.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solbo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solbo/)*

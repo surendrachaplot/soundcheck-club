@@ -1,6 +1,6 @@
 # Disgonuts
 
-Disgonuts is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at La Terrrazza, Barcelona on Fri, 28 Aug 2026.
+Disgonuts is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at La Terrrazza, Barcelona on Fri, 28 Aug 2026.
 
 Disgonuts is a house and disco artist based in United States of America, tracked on soundcheck, with 83 sets logged across Barcelona, Detroit, Hamburg and London and 6 more. Often billed alongside JKriv, Aaron Dae and Willy Soul. Next up: La Terrrazza, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Disgonuts is a house and disco artist based in United States of America, tracked
 
 JKriv, Aaron Dae, Willy Soul
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disgonuts/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disgonuts/)*

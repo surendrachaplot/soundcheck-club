@@ -1,6 +1,6 @@
 # Fabrizio Rat - La Machina
 
-Fabrizio Rat - La Machina is a Jazz and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
+Fabrizio Rat - La Machina is a Jazz and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
 
 Fabrizio Rat - La Machina is a jazz and techno artist tracked on soundcheck, with 5 sets logged across Berlin, Milan and Paris. Often billed alongside Industrial Romantico, Dolce Potente and Bubbling. Next up: Kantine am Berghain, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Fabrizio Rat - La Machina is a jazz and techno artist tracked on soundcheck, wit
 
 Industrial Romantico, Dolce Potente, Bubbling
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziorat-fr/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziorat-fr/)*

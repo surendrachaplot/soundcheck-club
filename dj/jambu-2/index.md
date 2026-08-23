@@ -1,6 +1,6 @@
 # Jambu (2)
 
-Jambu (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KitKatClub, Berlin on Thu, 27 Aug 2026.
+Jambu (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Thu, 27 Aug 2026.
 
 Jambu (2) is a techno and trance artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside EZA (DE), Jambu and Jasonmagkatzen. Next up: KitKatClub, Berlin on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ Jambu (2) is a techno and trance artist tracked on soundcheck, with 2 sets logge
 
 EZA (DE), Jambu, Jasonmagkatzen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jambu-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jambu-2/)*

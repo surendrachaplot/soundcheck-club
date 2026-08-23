@@ -1,6 +1,6 @@
 # more eaze
 
-more eaze is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Glad Cafe, Glasgow on Tue, 1 Sept 2026.
+more eaze is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Glad Cafe, Glasgow on Tue, 1 Sept 2026.
 
 more eaze is an experimental and ambient artist tracked on soundcheck, with 16 sets logged across Berlin, Glasgow, London and Newyorkcity and 3 more. Often billed alongside aya, Andriana-Yaroslava Saienko and Heinali. Next up: The Glad Cafe, Glasgow on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ more eaze is an experimental and ambient artist tracked on soundcheck, with 16 s
 
 aya, Andriana-Yaroslava Saienko, Heinali
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*

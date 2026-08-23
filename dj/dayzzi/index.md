@@ -1,6 +1,6 @@
 # DAYZZI
 
-DAYZZI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Vanguard, Sydney on Sat, 29 Aug 2026.
+DAYZZI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Vanguard, Sydney on Sat, 29 Aug 2026.
 
 DAYZZI is a techno and house artist based in Australia, tracked on soundcheck, with 38 sets logged across Melbourne and Sydney. Often billed alongside DAUG, Silly Lily and Caleb Jackson. Next up: The Vanguard, Sydney on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DAYZZI is a techno and house artist based in Australia, tracked on soundcheck, w
 
 DAUG, Silly Lily, Caleb Jackson
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzzi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzzi/)*

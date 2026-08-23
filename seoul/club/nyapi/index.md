@@ -1,6 +1,6 @@
 # Nyapi
 
-Nyapi is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Somewhere Deep in My Heart" on Sat, 22 Aug 2026.
+Nyapi is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Somewhere Deep in My Heart" on Sat, 22 Aug 2026.
 
 Nyapi is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including .2ndfloor, Juncheol, chani and FFAN and 2 more. Browse upcoming dates, start times and who's playing. 187 Itaewon-ro Yongsan-gu, Seoul South Korea.
 
@@ -17,4 +17,4 @@ Nyapi is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with li
 
 187 Itaewon-ro Yongsan-gu, Seoul South Korea, Seoul
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nyapi/)*

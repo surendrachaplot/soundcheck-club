@@ -1,6 +1,6 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at VENT, Tokyo on Sat, 29 Aug 2026.
+Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at VENT, Tokyo on Sat, 29 Aug 2026.
 
 Matrixxman is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: VENT, Tokyo on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Matrixxman is a techno and house artist tracked on soundcheck, with 167 sets log
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

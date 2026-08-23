@@ -1,6 +1,6 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+JAMIIE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 JAMIIE is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ JAMIIE is a house and techno artist tracked on soundcheck, with 97 sets logged a
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

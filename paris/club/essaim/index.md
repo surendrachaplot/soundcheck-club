@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "cocoon - Hunee b2b Mattias El Mansouri - all night long" on Sat, 22 Aug 2026.
+essaim is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "cocoon - Hunee b2b Mattias El Mansouri - all night long" on Sat, 22 Aug 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including ANNĒ, DJ Nobu, Feral and FJAAK and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 12 upcoming nights, with 
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

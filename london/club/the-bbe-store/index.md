@@ -1,6 +1,6 @@
 # The BBE Store
 
-The BBE Store is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Love Injection - Universal Love Release Party" on Fri, 28 Aug 2026.
+The BBE Store is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Love Injection - Universal Love Release Party" on Fri, 28 Aug 2026.
 
 The BBE Store is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Love Injection. Browse upcoming dates, start times and who's playing. 376 Helmsley Pl, London E8 3SB.
 
@@ -14,4 +14,4 @@ The BBE Store is a music venue in London listed on soundcheck. 1 upcoming night,
 
 376 Helmsley Pl, London E8 3SB, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*

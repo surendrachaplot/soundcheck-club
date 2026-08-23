@@ -1,6 +1,6 @@
 # Nancy June
 
-Nancy June is a Jungle and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
+Nancy June is a Jungle and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
 
 Nancy June is a jungle and dubstep artist tracked on soundcheck, with 61 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, SP:MC and Neffa-T. Next up: The Carpet Shop, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Nancy June is a jungle and dubstep artist tracked on soundcheck, with 61 sets lo
 
 SGT Pokes, SP:MC, Neffa-T
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nancyjune/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nancyjune/)*

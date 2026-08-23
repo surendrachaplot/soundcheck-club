@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "DJ Hangout Manchester" on Sun, 23 Aug 2026.
+Ramona is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "DJ Hangout Manchester" on Sun, 23 Aug 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including Chafik Bali, Chanel Carmichael, Ginster and Jess Rose and 2 more. Browse upcoming dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -17,4 +17,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 4 upcoming nights, w
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

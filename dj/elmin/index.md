@@ -1,6 +1,6 @@
 # ELM(IN)
 
-ELM(IN) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - NeuKölln Berlin, Berlin on Sat, 5 Sept 2026.
+ELM(IN) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - NeuKölln Berlin, Berlin on Sat, 5 Sept 2026.
 
 ELM(IN) is a techno and idm artist tracked on soundcheck, with 6 sets logged across Berlin and Hongkong. Often billed alongside Dj Iryna, Mohaym and Toxido Mask. Next up: TBA - NeuKölln Berlin, Berlin on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ ELM(IN) is a techno and idm artist tracked on soundcheck, with 6 sets logged acr
 
 Dj Iryna, Mohaym, Toxido Mask
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elmin/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elmin/)*

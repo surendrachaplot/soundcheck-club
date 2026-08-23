@@ -1,6 +1,6 @@
 # Terax
 
-Terax is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Aoyama Tunnel, Tokyo on Mon, 24 Aug 2026.
+Terax is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Aoyama Tunnel, Tokyo on Mon, 24 Aug 2026.
 
 Terax is a house and techno artist tracked on soundcheck, with 179 sets logged across Tokyo. Often billed alongside hiroto yano, Onométro and kagurun. Next up: Aoyama Tunnel, Tokyo on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Terax is a house and techno artist tracked on soundcheck, with 179 sets logged a
 
 hiroto yano, Onométro, kagurun
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terax/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terax/)*

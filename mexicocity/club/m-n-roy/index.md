@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "ATLAS 221 + MR. CROWLEY" on Sat, 22 Aug 2026.
+M.N.Roy is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ATLAS 221 + MR. CROWLEY" on Sat, 22 Aug 2026.
 
 M.N.Roy is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including Colossio, Jimeno Arnaud and Soni Ceron. Browse upcoming dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -16,4 +16,4 @@ M.N.Roy is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, 
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

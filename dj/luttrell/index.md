@@ -1,6 +1,6 @@
 # Luttrell
 
-Luttrell is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hotel Via, San Francisco/Oakland on Sun, 23 Aug 2026.
+Luttrell is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hotel Via, San Francisco/Oakland on Sun, 23 Aug 2026.
 
 Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Chicago and Denver and 16 more. Often billed alongside Hana, Jody Wisternoff and CRi. Next up: Hotel Via, Sanfrancisco on Sun 23 Aug.
 
@@ -14,6 +14,7 @@ Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets lo
 
 ## Recently played
 
+- Club Vinyl, Denver — Sat, 22 Aug 2026
 - Open Aera, Toronto — Sat, 15 Aug 2026
 - Story Toronto, Toronto — Sat, 15 Aug 2026
 - ZeyZey, Miami — Fri, 14 Aug 2026
@@ -21,10 +22,9 @@ Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets lo
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 4 Jul 2026
 - Level 8 DTLA, Los Angeles — Sat, 27 Jun 2026
 - Superior Ingredients, New York City — Sun, 31 Aug 2025
-- Harbor House DTLA, Los Angeles — Fri, 8 Aug 2025
 
 ## Shares bills with
 
 Hana, Jody Wisternoff, CRi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*

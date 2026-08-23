@@ -1,6 +1,6 @@
 # DJ Wada
 
-DJ Wada is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at R Lounge, Tokyo on Sat, 5 Sept 2026.
+DJ Wada is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at R Lounge, Tokyo on Sat, 5 Sept 2026.
 
 DJ Wada is a techno and house artist based in Japan, tracked on soundcheck, with 97 sets logged across Tokyo. Often billed alongside DAIY, NABE and Yos.. Next up: R Lounge, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Wada is a techno and house artist based in Japan, tracked on soundcheck, with
 
 DAIY, NABE, Yos.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwada/)*

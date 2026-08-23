@@ -1,6 +1,6 @@
 # Mylena
 
-Mylena is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Barracuda Beach Club, Lisbon on Sat, 29 Aug 2026.
+Mylena is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Barracuda Beach Club, Lisbon on Sat, 29 Aug 2026.
 
 Mylena is a house and latin bass artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside Bass Toast, Diego Knows and Dub Tiger. Next up: Barracuda Beach Club, Lisbon on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Mylena is a house and latin bass artist tracked on soundcheck, with 7 sets logge
 
 Bass Toast, Diego Knows, Dub Tiger
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylena/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mylena/)*

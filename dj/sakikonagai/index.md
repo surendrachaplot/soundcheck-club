@@ -1,6 +1,6 @@
 # Sakiko Nagai
 
-Sakiko Nagai is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 23 Aug 2026.
+Sakiko Nagai is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 23 Aug 2026.
 
 Sakiko Nagai is a house and disco artist based in Canada, tracked on soundcheck, with 43 sets logged across Montreal, Tokyo, Toronto and Vancouver. Often billed alongside Roland Gonzales, Janina Marie and Jodie D. Next up: Paradise Grapevine Winery, Toronto on Sun 23 Aug.
 
@@ -27,4 +27,4 @@ Sakiko Nagai is a house and disco artist based in Canada, tracked on soundcheck,
 
 Roland Gonzales, Janina Marie, Jodie D
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakikonagai/)*

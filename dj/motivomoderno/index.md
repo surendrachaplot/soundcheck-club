@@ -1,6 +1,6 @@
 # MOTIVO MODERNO
 
-MOTIVO MODERNO is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Melkweg, Amsterdam on Tue, 29 Sept 2026.
+MOTIVO MODERNO is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Melkweg, Amsterdam on Tue, 29 Sept 2026.
 
 MOTIVO MODERNO is a techno artist based in Greece, tracked on soundcheck, with 5 sets logged across Amsterdam and Athens. Often billed alongside Dexon, Icey Planet and Jipan. Next up: Melkweg, Amsterdam on Tue 29 Sept.
 
@@ -21,4 +21,4 @@ MOTIVO MODERNO is a techno artist based in Greece, tracked on soundcheck, with 5
 
 Dexon, Icey Planet, Jipan
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motivomoderno/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motivomoderno/)*

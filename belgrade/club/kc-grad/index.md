@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Garden Of Groove" on Sun, 23 Aug 2026.
+KC Grad is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Garden Of Groove" on Sun, 23 Aug 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, with line-ups including Paluma Sound and Shaolin Cowboy. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -16,4 +16,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, wi
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

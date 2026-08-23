@@ -1,6 +1,6 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Romantica, Stuttgart on Fri, 28 Aug 2026.
+Daniel Neuland is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Romantica, Stuttgart on Fri, 28 Aug 2026.
 
 Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: Romantica, Stuttgart on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Daniel Neuland is a techno and tech house artist tracked on soundcheck, with 67 
 
 vom Feisten, Martin Ka, Naicet
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*

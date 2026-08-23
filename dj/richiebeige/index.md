@@ -1,6 +1,6 @@
 # Richie Beige
 
-Richie Beige is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at BarKa, Warsaw on Thu, 27 Aug 2026.
+Richie Beige is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at BarKa, Warsaw on Thu, 27 Aug 2026.
 
 Richie Beige is a techno and electro artist based in Ukraine, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Hamburg and Krakow and 2 more. Often billed alongside dd (PL), faron and iffi. Next up: BarKa, Warsaw on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Richie Beige is a techno and electro artist based in Ukraine, tracked on soundch
 
 dd (PL), faron, iffi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiebeige/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richiebeige/)*

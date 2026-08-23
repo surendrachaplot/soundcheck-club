@@ -1,6 +1,6 @@
 # Hector Romero
 
-Hector Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at MAD Radio NYC, New York City on Thu, 27 Aug 2026.
+Hector Romero is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at MAD Radio NYC, New York City on Thu, 27 Aug 2026.
 
 Hector Romero is a house and deep house artist tracked on soundcheck, with 34 sets logged across Barcelona, Detroit, Frankfurt and Miami and 4 more. Often billed alongside Mr. V, Piem and Anna Tur. Next up: MAD Radio NYC, Newyorkcity on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Hector Romero is a house and deep house artist tracked on soundcheck, with 34 se
 
 Mr. V, Piem, Anna Tur
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectorromero/)*

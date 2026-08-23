@@ -1,6 +1,6 @@
 # JUSTICE (DE)
 
-JUSTICE (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
+JUSTICE (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Odonien, Cologne on Sat, 29 Aug 2026.
 
 JUSTICE (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Budapest, Cologne and Hamburg. Often billed alongside Baerbel, VIVI (DE) and Susi&Paula. Next up: Odonien, Cologne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ JUSTICE (DE) is a house and techno artist based in Germany, tracked on soundchec
 
 Baerbel, VIVI (DE), Susi&Paula
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justicede/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justicede/)*

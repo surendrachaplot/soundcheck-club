@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
+Cinthie is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tempelhof Airport, Berlin on Sat, 22 Aug 2026.
 
-Cinthie is a house and techno artist tracked on soundcheck, with 278 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
+Cinthie is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Tempelhof Airport, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
@@ -18,9 +18,11 @@ Cinthie is a house and techno artist tracked on soundcheck, with 278 sets logged
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 13 Nov 2026 | Sala Villanos | Madrid |
+| Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
+- Tempelhof Airport, Berlin — Sat, 22 Aug 2026
 - Hï Ibiza, Ibiza — Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
 - Sub Club, Glasgow — Sun, 2 Aug 2026
@@ -28,10 +30,9 @@ Cinthie is a house and techno artist tracked on soundcheck, with 278 sets logged
 - Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
 - Tongva Park, Los Angeles — Sat, 11 Jul 2026
 - Cova Santa, Ibiza — Tue, 7 Jul 2026
-- Sparta Schwimmclub, Frankfurt — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

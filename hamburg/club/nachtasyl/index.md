@@ -1,6 +1,6 @@
 # Nachtasyl
 
-Nachtasyl is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "ARTGROOVE vol.2" on Fri, 28 Aug 2026.
+Nachtasyl is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "ARTGROOVE vol.2" on Fri, 28 Aug 2026.
 
 Nachtasyl is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Finus, Linh (2) and Ozudemle. Browse upcoming dates, start times and who's playing. Alstertor 1, 20095 Hamburg, Germany.
 
@@ -14,4 +14,4 @@ Nachtasyl is a music venue in Hamburg listed on soundcheck. 1 upcoming night, wi
 
 Alstertor 1, 20095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/nachtasyl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/nachtasyl/)*

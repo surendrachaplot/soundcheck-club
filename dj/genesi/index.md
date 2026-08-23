@@ -1,6 +1,6 @@
 # GENESI
 
-GENESI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Savaya Bali, Bali on Sat, 29 Aug 2026.
+GENESI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Savaya Bali, Bali on Sat, 29 Aug 2026.
 
 GENESI is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Bali and Barcelona and 18 more. Often billed alongside Meduza, James Hype (UK) and David Guetta. Next up: Savaya Bali, Bali on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ GENESI is a house and techno artist tracked on soundcheck, with 52 sets logged a
 
 Meduza, James Hype (UK), David Guetta
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi/)*

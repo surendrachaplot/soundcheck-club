@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "HOUSENATION X ROTTEN CITY BASEMENT: Javi Redondo, Álvaro Cabana" on Sat, 22 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HOUSENATION X ROTTEN CITY BASEMENT: Javi Redondo, Álvaro Cabana" on Sat, 22 Aug 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Deetron and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 21 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

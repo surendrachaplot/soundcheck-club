@@ -1,6 +1,6 @@
 # Kenton Slash Demon
 
-Kenton Slash Demon is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at VEGA, Copenhagen on Sat, 31 Oct 2026.
+Kenton Slash Demon is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at VEGA, Copenhagen on Sat, 31 Oct 2026.
 
 Kenton Slash Demon is an electronic artist tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Ahadadream, Avalon Emerson and Bicep. Next up: VEGA, Copenhagen on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Kenton Slash Demon is an electronic artist tracked on soundcheck, with 3 sets lo
 
 Ahadadream, Avalon Emerson, Bicep
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentonslashdemon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kentonslashdemon/)*

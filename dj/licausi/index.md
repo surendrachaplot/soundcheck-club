@@ -1,6 +1,6 @@
 # Li Causi
 
-Li Causi is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
+Li Causi is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
 
 Li Causi is a house and italo disco artist tracked on soundcheck, with 10 sets logged across London, Mexicocity and Milan. Often billed alongside Farrant, Lukas Leigh and Bren Bailey. Next up: Palais, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Li Causi is a house and italo disco artist tracked on soundcheck, with 10 sets l
 
 Farrant, Lukas Leigh, Bren Bailey
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licausi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licausi/)*

@@ -1,14 +1,13 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: 93 Feet East, London on Sat 22 Aug.
+Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: Mint Warehouse, Leeds on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | 93 Feet East | London |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Sun, 30 Aug 2026 | Mint Warehouse | Leeds |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
@@ -20,6 +19,7 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- 93 Feet East, London — Sat, 22 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 26 Jul 2026
 - Cova Santa, Ibiza — Tue, 21 Jul 2026
@@ -27,10 +27,9 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 - TBA - Wave, Mallorca — Fri, 26 Jun 2026
 - La Terrrazza, Barcelona — Sun, 21 Jun 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
-- Patterns, Brighton — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

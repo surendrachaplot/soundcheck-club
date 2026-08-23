@@ -1,6 +1,6 @@
 # Fire & Lightbox
 
-Fire & Lightbox is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Notting Hill Carnival Afterparty - Rampage Sound X Shabba Party" on Sun, 30 Aug 2026.
+Fire & Lightbox is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Notting Hill Carnival Afterparty - Rampage Sound X Shabba Party" on Sun, 30 Aug 2026.
 
 Fire & Lightbox is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Ben Jammin, Billy Daniel Bunter, Boundless (1) and Charlie Brown and 2 more. Browse upcoming dates, start times and who's playing. 39 Parry Street, London, SW8 1RT.
 
@@ -15,4 +15,4 @@ Fire & Lightbox is a music venue in London listed on soundcheck. 2 upcoming nigh
 
 39 Parry Street, London, SW8 1RT, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire-lightbox/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire-lightbox/)*

@@ -1,6 +1,6 @@
 # Scotty Cal
 
-Scotty Cal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sol Rooftop Bali, Bali on Fri, 28 Aug 2026.
+Scotty Cal is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sol Rooftop Bali, Bali on Fri, 28 Aug 2026.
 
 Scotty Cal is a house and disco artist based in Australia, tracked on soundcheck, with 35 sets logged across Bali and Sydney. Often billed alongside Kaiser Waldon, Jimmy Galvin and Ben Nott. Next up: Sol Rooftop Bali, Bali on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Scotty Cal is a house and disco artist based in Australia, tracked on soundcheck
 
 Kaiser Waldon, Jimmy Galvin, Ben Nott
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottycal/)*

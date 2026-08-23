@@ -1,18 +1,18 @@
 # Stephen Kirkwood
 
-Stephen Kirkwood is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Saint Judes, Glasgow on Sat, 22 Aug 2026.
+Stephen Kirkwood is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 528 Ibiza, Ibiza on Thu, 24 Sept 2026.
 
-Stephen Kirkwood is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow and Ibiza. Often billed alongside Paul Van Dyk, Alex M.O.R.P.H. and Aly & Fila. Next up: Saint Judes, Glasgow on Sat 22 Aug.
+Stephen Kirkwood is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow and Ibiza. Often billed alongside Paul Van Dyk, Alex M.O.R.P.H. and Aly & Fila. Next up: 528 Ibiza, Ibiza on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Saint Judes | Glasgow |
 | Thu, 24 Sept 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
+- Saint Judes, Glasgow — Sat, 22 Aug 2026
 - Eden, Ibiza — Thu, 11 Sept 2025
 - Eden, Ibiza — Thu, 26 Sept 2024
 - Club 69, Glasgow — Fri, 8 Sept 2023
@@ -22,4 +22,4 @@ Stephen Kirkwood is a trance and progressive house artist based in United Kingdo
 
 Paul Van Dyk, Alex M.O.R.P.H., Aly & Fila
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenkirkwood/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenkirkwood/)*

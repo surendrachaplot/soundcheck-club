@@ -1,6 +1,6 @@
 # Dr. J
 
-Dr. J is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 23 Aug 2026.
+Dr. J is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 23 Aug 2026.
 
 Dr. J is a house and electro artist tracked on soundcheck, with 2 sets logged across Berlin and Toronto. Often billed alongside Roland Gonzales and Sakiko Nagai. Next up: Paradise Grapevine Winery, Toronto on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ Dr. J is a house and electro artist tracked on soundcheck, with 2 sets logged ac
 
 Roland Gonzales, Sakiko Nagai
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drj/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drj/)*

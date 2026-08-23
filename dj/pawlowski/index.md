@@ -1,6 +1,6 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
+Pawlowski is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
 
 Pawlowski is a techno and trance artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 46 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Antwerp Expo, Antwerp on Sun 23 Aug.
 
@@ -31,4 +31,4 @@ Pawlowski is a techno and trance artist tracked on soundcheck, with 115 sets log
 
 Nico Moreno, Azyr, DYEN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski/)*

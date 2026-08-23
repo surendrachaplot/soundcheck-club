@@ -1,6 +1,6 @@
 # Ace Shyllon
 
-Ace Shyllon is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Arch535, London on Sat, 26 Sept 2026.
+Ace Shyllon is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Arch535, London on Sat, 26 Sept 2026.
 
 Ace Shyllon is a house and deep house artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside VIBRANT C, Booker T and Lil Meesh. Next up: Arch535, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ace Shyllon is a house and deep house artist tracked on soundcheck, with 12 sets
 
 VIBRANT C, Booker T, Lil Meesh
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aceshyllon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aceshyllon/)*

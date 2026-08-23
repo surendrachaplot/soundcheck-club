@@ -1,15 +1,13 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Crate Brewery, London on Sat, 22 Aug 2026.
+Laidlaw is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Crate Brewery, London on Sat 22 Aug.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Crate Brewery | London |
-| Sat, 22 Aug 2026 | NUMBER 90 LONDON | London |
 | Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | The Nest | Nottingham |
@@ -20,20 +18,22 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets lo
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
+| Sat, 17 Oct 2026 | The Dome | Liverpool |
+| Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 
 ## Recently played
 
+- Crate Brewery, London — Sat, 22 Aug 2026
+- NUMBER 90 LONDON, London — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 16 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 15 Aug 2026
 - Flash, Washington DC — Sun, 9 Aug 2026
 - Knockdown Center, New York City — Sat, 8 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 7 Aug 2026
 - [UNVRS], Ibiza — Wed, 29 Jul 2026
-- Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
-- Gaffe, London — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

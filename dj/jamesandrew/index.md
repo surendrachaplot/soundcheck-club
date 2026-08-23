@@ -1,6 +1,6 @@
 # James Andrew
 
-James Andrew is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
+James Andrew is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
 
 James Andrew is a house and techno artist tracked on soundcheck, with 39 sets logged across Barcelona, Brussels, Ibiza and Leeds and 8 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ James Andrew is a house and techno artist tracked on soundcheck, with 39 sets lo
 
 Charley, Heels & Souls, Apple B
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

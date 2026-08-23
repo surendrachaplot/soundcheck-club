@@ -1,6 +1,6 @@
 # Boofy
 
-Boofy is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
+Boofy is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Carpet Shop, London on Sun, 23 Aug 2026.
 
 Boofy is a dubstep and grime artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bristol, Chicago, Leeds and London and 5 more. Often billed alongside Neffa-T, Commodo and Drone (UK). Next up: The Carpet Shop, London on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Boofy is a dubstep and grime artist based in United Kingdom, tracked on soundche
 
 Neffa-T, Commodo, Drone (UK)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boofy/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boofy/)*

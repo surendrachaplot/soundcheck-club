@@ -1,6 +1,6 @@
 # U Know Y
 
-U Know Y is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
+U Know Y is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
 
 U Know Y is a house and garage artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Bare Tecture, DJ with Soul and Kat_Es. Next up: Beate Uwe, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ U Know Y is a house and garage artist based in Germany, tracked on soundcheck, w
 
 Bare Tecture, DJ with Soul, Kat_Es
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uknowy/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uknowy/)*

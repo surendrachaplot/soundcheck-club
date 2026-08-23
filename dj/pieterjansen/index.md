@@ -1,6 +1,6 @@
 # Pieter Jansen
 
-Pieter Jansen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+Pieter Jansen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
 
 Pieter Jansen is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 5 more. Often billed alongside Eversines, Marie K (1) and Caim. Next up: Renate, Berlin on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ Pieter Jansen is a house and techno artist tracked on soundcheck, with 49 sets l
 
 ## Recently played
 
+- Renate, Berlin — Sat, 22 Aug 2026
 - Platforma Wolff, Bucharest — Sat, 11 Jul 2026
 - RADION, Amsterdam — Fri, 10 Jul 2026
 - Benelux BAR, Amsterdam — Sun, 7 Jun 2026
@@ -21,10 +22,9 @@ Pieter Jansen is a house and techno artist tracked on soundcheck, with 49 sets l
 - Doka, Amsterdam — Fri, 22 May 2026
 - KABUL à GoGo, Utrecht — Sat, 2 May 2026
 - Skatecafe, Amsterdam — Sun, 29 Mar 2026
-- RADION, Amsterdam — Thu, 1 Jan 2026
 
 ## Shares bills with
 
 Eversines, Marie K (1), Caim
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pieterjansen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pieterjansen/)*

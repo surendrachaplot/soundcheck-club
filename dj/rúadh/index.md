@@ -1,6 +1,6 @@
 # Rúadh
 
-Rúadh is a Acid and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
+Rúadh is a Acid and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
 
 Rúadh is an acid and garage artist tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside Deventi, Connor (UK) and FXCKBOUT. Next up: The DBA, Manchester on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Rúadh is an acid and garage artist tracked on soundcheck, with 5 sets logged ac
 
 Deventi, Connor (UK), FXCKBOUT
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rúadh/)*

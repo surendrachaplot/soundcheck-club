@@ -1,6 +1,6 @@
 # BR-Z
 
-BR-Z is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Bag Factory, Manchester on Sun, 23 Aug 2026.
+BR-Z is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Bag Factory, Manchester on Sun, 23 Aug 2026.
 
 BR-Z is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside Indeva, Sebred and Yes-I-Am. Next up: The Bag Factory, Manchester on Sun 23 Aug.
 
@@ -18,4 +18,4 @@ BR-Z is a jungle and bass artist based in United Kingdom, tracked on soundcheck,
 
 Indeva, Sebred, Yes-I-Am
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/br-z/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/br-z/)*

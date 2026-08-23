@@ -1,6 +1,6 @@
 # Nektar Agu
 
-Nektar Agu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Melt Underground, Buenos Aires on Sat, 22 Aug 2026.
+Nektar Agu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Melt Underground, Buenos Aires on Sat, 22 Aug 2026.
 
 Nektar Agu is a house and minimal artist tracked on soundcheck, with 5 sets logged across Buenosaires. Often billed alongside David Calo, Dunkel Dame and Herck. Next up: Melt Underground, Buenosaires on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Nektar Agu is a house and minimal artist tracked on soundcheck, with 5 sets logg
 
 ## Recently played
 
+- Melt Underground, Buenos Aires — Sat, 22 Aug 2026
 - TBA -  Mixar Music Roseti 2118.  Ciudad Autonoma de Buenos Aires, Buenos Aires — Sat, 12 Oct 2024
 - TBA - El Muelle, Costanera, Buenos Aires — Sat, 20 Jul 2024
 - Downtempo, Buenos Aires — Wed, 22 May 2024
@@ -21,4 +22,4 @@ Nektar Agu is a house and minimal artist tracked on soundcheck, with 5 sets logg
 
 David Calo, Dunkel Dame, Herck
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nektaragu/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nektaragu/)*

@@ -1,14 +1,13 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "GTA Pres: NOIYSE PROJECT Live at DAWN TO DUSK - AUCKLAND 2026" on Sat, 22 Aug 2026.
+The Mothership is a music venue in Auckland with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Lost Nightclubs" on Sat, 29 Aug 2026.
 
-The Mothership is a music venue in Auckland listed on soundcheck. 8 upcoming nights, with line-ups including Aaiste, Eddie Richards, Estiva and Isaac Denny and 2 more. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
+The Mothership is a music venue in Auckland listed on soundcheck. 7 upcoming nights, with line-ups including Eddie Richards, Estiva, Isaac Denny and Mariano Mellino and 1 more. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | GTA Pres: NOIYSE PROJECT Live at DAWN TO DUSK - AUCKLAND 2026 | Aaiste, NOIYSE PROJECT |
 | Sat, 29 Aug 2026 | Lost Nightclubs |  |
 | Sat, 5 Sept 2026 | Estiva [Anjunabeats / Armada / Enhanced] | Estiva |
 | Sat, 12 Sept 2026 | HOMO HOUSE |  |
@@ -21,4 +20,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 8 upcoming nig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

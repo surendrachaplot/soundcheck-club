@@ -1,6 +1,6 @@
 # Zombieflesheater
 
-Zombieflesheater is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at FLUCC, Vienna on Fri, 28 Aug 2026.
+Zombieflesheater is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at FLUCC, Vienna on Fri, 28 Aug 2026.
 
 Zombieflesheater is a breakcore and hardcore artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Chaosy, Costa (FR) and Donation. Next up: FLUCC, Vienna on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Zombieflesheater is a breakcore and hardcore artist tracked on soundcheck, with 
 
 Chaosy, Costa (FR), Donation
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zombieflesheater/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zombieflesheater/)*

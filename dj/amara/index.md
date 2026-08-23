@@ -1,6 +1,6 @@
 # amara
 
-amara is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
+amara is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
 
 amara is a club and electro artist based in Spain, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside T.NO, SANTØS and awhlkuhn. Next up: Skatecafe, Amsterdam on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ amara is a club and electro artist based in Spain, tracked on soundcheck, with 2
 
 T.NO, SANTØS, awhlkuhn
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amara/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amara/)*

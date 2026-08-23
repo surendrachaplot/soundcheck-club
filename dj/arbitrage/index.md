@@ -1,6 +1,6 @@
 # DJ Exit
 
-DJ Exit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+DJ Exit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
 DJ Exit is a techno and house artist tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside MCR-T, Clara Cuvé and ALI3N. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ DJ Exit is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 MCR-T, Clara Cuvé, ALI3N
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arbitrage/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arbitrage/)*

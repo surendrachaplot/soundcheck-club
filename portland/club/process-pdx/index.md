@@ -1,14 +1,13 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "THEE BAILE PDX" on Sat, 22 Aug 2026.
+Process PDX is a music venue in Portland with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Send Off with Double Take Discs + Friends" on Thu, 27 Aug 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming nights, with line-ups including Amtrac, Ana Sia, b3xtac33 and BMG and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 8 upcoming nights, with line-ups including Amtrac, Ana Sia, b3xtac33 and BMG and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | THEE BAILE PDX |  |
 | Thu, 27 Aug 2026 | The Send Off with Double Take Discs + Friends | Ana Sia, Hej Fund, Sol Elicio, TACIT (2), b3xtac33 |
 | Fri, 28 Aug 2026 | Samewave Radio 4 Year Anniversary |  |
 | Sat, 29 Aug 2026 | Thread the Needle with PLO Man, Tracy Why | PLO Man |
@@ -22,4 +21,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming nights
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

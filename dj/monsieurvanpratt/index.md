@@ -1,6 +1,6 @@
 # Monsieur Van Pratt
 
-Monsieur Van Pratt is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sacré, Paris on Sat, 12 Sept 2026.
+Monsieur Van Pratt is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sacré, Paris on Sat, 12 Sept 2026.
 
 Monsieur Van Pratt is a house and disco artist based in Mexico, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Copenhagen and London and 2 more. Often billed alongside Disco 86, Bustin' Loose and Barreto. Next up: Sacré, Paris on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Monsieur Van Pratt is a house and disco artist based in Mexico, tracked on sound
 
 Disco 86, Bustin' Loose, Barreto
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurvanpratt/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurvanpratt/)*

@@ -1,6 +1,6 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
+The Ghost is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 22 Aug 2026.
 
 The Ghost is a house and tech house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 38 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Shelter Amsterdam, Amsterdam on Sat 22 Aug.
 
@@ -16,6 +16,7 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 173 sets 
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam — Sat, 22 Aug 2026
 - Tresor / Globus, Berlin — Thu, 13 Aug 2026
 - Tresor / Globus, Berlin — Thu, 13 Aug 2026
 - Jardim do Èden, Lisbon — Fri, 31 Jul 2026
@@ -23,10 +24,9 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 173 sets 
 - La Terrrazza, Barcelona — Sat, 11 Jul 2026
 - Sawmills, Bristol — Sat, 4 Jul 2026
 - Palais, London — Fri, 3 Jul 2026
-- Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Gene On Earth, Coast 2 Coast, Dr Banana
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

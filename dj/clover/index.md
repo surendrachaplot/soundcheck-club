@@ -1,6 +1,6 @@
 # Clover
 
-Clover is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
+Clover is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ex Macello, Milan on Fri, 11 Sept 2026.
 
 Clover is a techno and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Milan, Paris and Tokyo. Often billed alongside Andrewww, Acid Gigi and Acidgigi. Next up: Ex Macello, Milan on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Clover is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Andrewww, Acid Gigi, Acidgigi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clover/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clover/)*

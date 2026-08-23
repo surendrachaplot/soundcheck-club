@@ -1,6 +1,6 @@
 # Coyote Fly Riga
 
-Coyote Fly Riga is a music venue in Riga with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Pigments Terrace Soiree" on Fri, 28 Aug 2026.
+Coyote Fly Riga is a music venue in Riga with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Pigments Terrace Soiree" on Fri, 28 Aug 2026.
 
 Coyote Fly Riga is a music venue in Riga listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Riga, Terbatas street 2.
 
@@ -14,4 +14,4 @@ Coyote Fly Riga is a music venue in Riga listed on soundcheck. 1 upcoming night.
 
 Riga, Terbatas street 2, Riga
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/coyote-fly-riga/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/coyote-fly-riga/)*

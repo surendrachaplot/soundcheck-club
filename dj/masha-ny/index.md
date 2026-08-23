@@ -1,14 +1,13 @@
 # Ma Sha
 
-Ma Sha is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Unité.22, Marseille on Sat, 22 Aug 2026.
+Ma Sha is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Standard Time, Toronto on Thu, 3 Sept 2026.
 
-Ma Sha is a techno and bass artist tracked on soundcheck, with 95 sets logged across Bangkok, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Unité.22, Marseille on Sat 22 Aug.
+Ma Sha is a techno and bass artist tracked on soundcheck, with 95 sets logged across Bangkok, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Sobolik, Sheepshead and Ayesha. Next up: Standard Time, Toronto on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Unité.22 | Marseille |
 | Thu, 3 Sept 2026 | Standard Time | Toronto |
 | Fri, 4 Sept 2026 | Société des arts technologiques | Montreal |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -18,6 +17,7 @@ Ma Sha is a techno and bass artist tracked on soundcheck, with 95 sets logged ac
 
 ## Recently played
 
+- Unité.22, Marseille — Sat, 22 Aug 2026
 - Horn, Bangkok — Fri, 17 Jul 2026
 - Le Trabendo, Paris — Fri, 19 Jun 2026
 - TBA, Denver — Sat, 13 Jun 2026
@@ -25,10 +25,9 @@ Ma Sha is a techno and bass artist tracked on soundcheck, with 95 sets logged ac
 - TBA - Secret Loft Location, New York City — Sat, 6 Jun 2026
 - Bossa Nova Civic Club, New York City — Fri, 5 Jun 2026
 - Marble Bar, Detroit — Sun, 24 May 2026
-- Renate, Berlin — Fri, 8 May 2026
 
 ## Shares bills with
 
 Sobolik, Sheepshead, Ayesha
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masha-ny/)*

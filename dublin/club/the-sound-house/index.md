@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dance Party 2" on Wed, 26 Aug 2026.
+The Sound House is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dance Party 2" on Wed, 26 Aug 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including Bronwyn., Girls of the Internet, JWY (1) and Sean Johnston and 1 more. Browse upcoming dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -21,4 +21,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming nigh
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

@@ -1,6 +1,6 @@
 # Changing Currents
 
-Changing Currents is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
+Changing Currents is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
 
 Changing Currents is a house and baile funk artist tracked on soundcheck, with 30 sets logged across Bangkok, Barcelona, Brighton and Bristol and 5 more. Often billed alongside Tiffany Calver, Diego Armando and ELLADHC. Next up: Freight Brixton, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Changing Currents is a house and baile funk artist tracked on soundcheck, with 3
 
 Tiffany Calver, Diego Armando, ELLADHC
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/changingcurrents/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/changingcurrents/)*

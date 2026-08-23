@@ -1,6 +1,6 @@
 # H93 (KR)
 
-H93 (KR) is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at UNDERCITY, Seoul on Sat, 5 Sept 2026.
+H93 (KR) is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at UNDERCITY, Seoul on Sat, 5 Sept 2026.
 
 H93 (KR) is a club and electro artist based in South Korea, tracked on soundcheck, with 50 sets logged across Seoul. Often billed alongside AVEN (KR), STAN MYLOR and TERRA (KR). Next up: UNDERCITY, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ H93 (KR) is a club and electro artist based in South Korea, tracked on soundchec
 
 AVEN (KR), STAN MYLOR, TERRA (KR)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h93kr/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h93kr/)*

@@ -1,6 +1,6 @@
 # Eloïß
 
-Eloïß is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Eloïß is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Eloïß is a downtempo and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Paris. Often billed alongside Corios, R3NATA and Tvísker. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Eloïß is a downtempo and techno artist based in Germany, tracked on soundcheck
 
 Corios, R3NATA, Tvísker
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elois-de/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elois-de/)*

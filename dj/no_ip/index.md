@@ -1,6 +1,6 @@
 # no_ip
 
-no_ip is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
+no_ip is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
 
 no_ip is a techno and tech house artist based in Spain, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Raxon, Shall Ocin and Damon Jee. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ no_ip is a techno and tech house artist based in Spain, tracked on soundcheck, w
 
 Raxon, Shall Ocin, Damon Jee
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no_ip/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no_ip/)*

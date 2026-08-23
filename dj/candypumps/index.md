@@ -1,6 +1,6 @@
 # CANDY PUMPS
 
-CANDY PUMPS is a Dubstep and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Trojský zámek, Prague on Tue, 25 Aug 2026.
+CANDY PUMPS is a Dubstep and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Trojský zámek, Prague on Tue, 25 Aug 2026.
 
 CANDY PUMPS is a dubstep and electro artist tracked on soundcheck, with 4 sets logged across Berlin and Prague. Often billed alongside BABYNYMPH777, Bugiebby and DIORA. Next up: Trojský zámek, Prague on Tue 25 Aug.
 
@@ -20,4 +20,4 @@ CANDY PUMPS is a dubstep and electro artist tracked on soundcheck, with 4 sets l
 
 BABYNYMPH777, Bugiebby, DIORA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candypumps/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candypumps/)*

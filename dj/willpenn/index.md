@@ -1,6 +1,6 @@
 # Will Penn
 
-Will Penn is a Techno and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - The Courtyard, Harborne, Birmingham on Sun, 30 Aug 2026.
+Will Penn is a Techno and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - The Courtyard, Harborne, Birmingham on Sun, 30 Aug 2026.
 
 Will Penn is a techno and grime artist tracked on soundcheck, with 5 sets logged across Birmingham. Often billed alongside Auracul, Caldera and Dan Lee. Next up: TBA - The Courtyard, Harborne, Birmingham on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Will Penn is a techno and grime artist tracked on soundcheck, with 5 sets logged
 
 Auracul, Caldera, Dan Lee
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willpenn/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willpenn/)*

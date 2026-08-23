@@ -1,6 +1,6 @@
 # Sub Zero
 
-Sub Zero is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Sub Zero is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Sub Zero is a drum & bass and bass artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Birmingham and Brighton and 9 more. Often billed alongside Harry Shotta, BassLayerz and Eksman. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sub Zero is a drum & bass and bass artist tracked on soundcheck, with 57 sets lo
 
 Harry Shotta, BassLayerz, Eksman
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subzero/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subzero/)*

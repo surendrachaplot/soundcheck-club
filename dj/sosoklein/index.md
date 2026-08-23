@@ -1,6 +1,6 @@
 # Soso Klein
 
-Soso Klein is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Beate Uwe, Berlin on Sat, 12 Sept 2026.
+Soso Klein is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Beate Uwe, Berlin on Sat, 12 Sept 2026.
 
 Soso Klein is a downtempo and house artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Copenhagen and Munich. Often billed alongside Horst Haller, Alex.Do and Elias Doré. Next up: Beate Uwe, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Soso Klein is a downtempo and house artist based in France, tracked on soundchec
 
 Horst Haller, Alex.Do, Elias Doré
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosoklein/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosoklein/)*

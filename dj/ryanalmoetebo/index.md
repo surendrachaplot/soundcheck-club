@@ -1,6 +1,6 @@
 # Ryan Almoete Bo
 
-Ryan Almoete Bo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
+Ryan Almoete Bo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
 
 Ryan Almoete Bo is a techno and club artist tracked on soundcheck, with 3 sets logged across Washingtondc. Often billed alongside ILUSM, JACKIECHANSDOG and LowNotes. Next up: TRANSMISSION DC, Washingtondc on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Ryan Almoete Bo is a techno and club artist tracked on soundcheck, with 3 sets l
 
 ILUSM, JACKIECHANSDOG, LowNotes
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanalmoetebo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanalmoetebo/)*

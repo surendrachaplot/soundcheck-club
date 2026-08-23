@@ -1,6 +1,6 @@
 # Kenzura
 
-Kenzura is a Drum & Bass and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Kenzura is a Drum & Bass and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Kenzura is a drum & bass and house artist tracked on soundcheck, with 22 sets logged across Berlin and London. Often billed alongside IHOPEIEXIST, Aynaet and Hovercat. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Kenzura is a drum & bass and house artist tracked on soundcheck, with 22 sets lo
 
 IHOPEIEXIST, Aynaet, Hovercat
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzura/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzura/)*

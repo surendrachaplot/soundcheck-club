@@ -1,6 +1,6 @@
 # Jon Hopkins
 
-Jon Hopkins is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at GASHOUDER, Amsterdam on Tue, 17 Nov 2026.
+Jon Hopkins is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at GASHOUDER, Amsterdam on Tue, 17 Nov 2026.
 
 Jon Hopkins is a house and electro artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Dublin and London and 3 more. Often billed alongside Eliza Rose, Jyoty and TSHA. Next up: GASHOUDER, Amsterdam on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Jon Hopkins is a house and electro artist tracked on soundcheck, with 15 sets lo
 
 Eliza Rose, Jyoty, TSHA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonhopkins/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonhopkins/)*

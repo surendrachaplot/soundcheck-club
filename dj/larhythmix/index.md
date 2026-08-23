@@ -1,6 +1,6 @@
 # Larhythmix
 
-Larhythmix is a Hip-Hop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
+Larhythmix is a Hip-Hop and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
 
 Larhythmix is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Creatura, DEMEANOR and Dub Isotope. Next up: Crack Bellmer, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Larhythmix is a hip-hop and experimental artist based in United Kingdom, tracked
 
 Creatura, DEMEANOR, Dub Isotope
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larhythmix/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larhythmix/)*

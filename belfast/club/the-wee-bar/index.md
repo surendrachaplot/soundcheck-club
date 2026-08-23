@@ -1,6 +1,6 @@
 # The Wee Bar
 
-The Wee Bar is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Contact presents: Sam Girling" on Sat, 19 Sept 2026.
+The Wee Bar is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Contact presents: Sam Girling" on Sat, 19 Sept 2026.
 
 The Wee Bar is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including Sam Girling. Browse upcoming dates, start times and who's playing. 1 Elmwood Avenue, BT9 6AZ.
 
@@ -14,4 +14,4 @@ The Wee Bar is a music venue in Belfast listed on soundcheck. 1 upcoming night, 
 
 1 Elmwood Avenue, BT9 6AZ, Belfast
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-wee-bar/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-wee-bar/)*

@@ -1,6 +1,6 @@
 # Aurelia
 
-Aurelia is a Minimal and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bardo Speakeasy, Mexico City on Wed, 19 Aug 2026.
+Aurelia is a Minimal and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bardo Speakeasy, Mexico City on Wed, 19 Aug 2026.
 
 Aurelia is a minimal and downtempo artist tracked on soundcheck, with 7 sets logged across Lisbon and Mexicocity. Often billed alongside ADAKEO, Babybruise and DJ Flirt. Next up: Bardo Speakeasy, Mexicocity on Wed 19 Aug.
 
@@ -24,4 +24,4 @@ Aurelia is a minimal and downtempo artist tracked on soundcheck, with 7 sets log
 
 ADAKEO, Babybruise, DJ Flirt
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelia/)*

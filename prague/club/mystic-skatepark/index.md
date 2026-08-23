@@ -1,6 +1,6 @@
 # Mystic Skatepark
 
-Mystic Skatepark is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG)" on Sat, 5 Sept 2026.
+Mystic Skatepark is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG)" on Sat, 5 Sept 2026.
 
 Mystic Skatepark is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including 2NDRA, 3ever, Bailey Ibbs and Diva and 2 more. Browse upcoming dates, start times and who's playing. Štvanice 944, 170 00 Praha 7, Czech Republic.
 
@@ -14,4 +14,4 @@ Mystic Skatepark is a music venue in Prague listed on soundcheck. 1 upcoming nig
 
 Štvanice 944, 170 00 Praha 7, Czech Republic, Prague
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/mystic-skatepark/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/mystic-skatepark/)*

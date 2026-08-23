@@ -1,6 +1,6 @@
 # Peter Sheppard
 
-Peter Sheppard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
+Peter Sheppard is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
 
 Peter Sheppard is a house and techno artist tracked on soundcheck, with 37 sets logged across Mexicocity and Portland. Often billed alongside Andy Warren, Trustfall and Ginkgo. Next up: White Owl Social Club, Portland on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Peter Sheppard is a house and techno artist tracked on soundcheck, with 37 sets 
 
 Andy Warren, Trustfall, Ginkgo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petersheppard/)*

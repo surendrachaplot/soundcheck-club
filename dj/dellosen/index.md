@@ -1,6 +1,6 @@
 # Dellosen
 
-Dellosen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 22 Aug 2026.
+Dellosen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 22 Aug 2026.
 
 Dellosen is a techno and house artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside DAVIDE (2), Schmidde and ced.rocks. Next up: Club Frau Holle, Hamburg on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Dellosen is a techno and house artist tracked on soundcheck, with 6 sets logged 
 
 ## Recently played
 
+- Club Frau Holle, Hamburg — Sat, 22 Aug 2026
 - Turtur, Hamburg — Thu, 21 May 2026
 - Club Frau Holle, Hamburg — Fri, 15 May 2026
 - Club Frau Holle, Hamburg — Sat, 11 Apr 2026
@@ -22,4 +23,4 @@ Dellosen is a techno and house artist tracked on soundcheck, with 6 sets logged 
 
 DAVIDE (2), Schmidde, ced.rocks
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dellosen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dellosen/)*

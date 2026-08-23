@@ -1,6 +1,6 @@
 # Kasango
 
-Kasango is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 12 Sept 2026.
+Kasango is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Kasango is an afro house and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Athens and Bali and 16 more. Often billed alongside Francis Mercier, Khenya and Caiiro. Next up: Hï Ibiza, Ibiza on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kasango is an afro house and house artist tracked on soundcheck, with 52 sets lo
 
 Francis Mercier, Khenya, Caiiro
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasango/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasango/)*

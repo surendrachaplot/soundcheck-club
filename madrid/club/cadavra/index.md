@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 27 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "CDVR invites Hollywood" on Sat, 22 Aug 2026.
+Cadavra is a music venue in Madrid with 27 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CDVR invites Hollywood" on Sat, 22 Aug 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 27 upcoming nights, with line-ups including Alienata, Alvaro Cabana, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 27 upcoming nights, wit
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

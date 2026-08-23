@@ -1,6 +1,6 @@
 # André Butano
 
-André Butano is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Macarena Club, Barcelona on Fri, 28 Aug 2026.
+André Butano is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Macarena Club, Barcelona on Fri, 28 Aug 2026.
 
 André Butano is a tech house and house artist based in Chile, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Karla Amaro, Paco Osuna and Vicente Larrain. Next up: Macarena Club, Barcelona on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ André Butano is a tech house and house artist based in Chile, tracked on soundc
 
 Karla Amaro, Paco Osuna, Vicente Larrain
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butano/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butano/)*

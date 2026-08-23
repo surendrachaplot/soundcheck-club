@@ -1,6 +1,6 @@
 # LYZA
 
-LYZA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KREUZWERK, Berlin on Fri, 9 Oct 2026.
+LYZA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KREUZWERK, Berlin on Fri, 9 Oct 2026.
 
 LYZA is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Madrid and Paris and 1 more. Often billed alongside AMORAL, Lyric and ogtrues. Next up: KREUZWERK, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ LYZA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 AMORAL, Lyric, ogtrues
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyza/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyza/)*

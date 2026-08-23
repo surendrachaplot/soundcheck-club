@@ -1,6 +1,6 @@
 # 0dysseus
 
-0dysseus is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ikii, Berlin on Wed, 26 Aug 2026.
+0dysseus is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ikii, Berlin on Wed, 26 Aug 2026.
 
 0dysseus is a deep house and techno artist based in Greece, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside DJ Treibsand, Benjamin Freeney and danger soundsystem. Next up: Ikii, Berlin on Wed 26 Aug.
 
@@ -26,4 +26,4 @@
 
 DJ Treibsand, Benjamin Freeney, danger soundsystem
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*

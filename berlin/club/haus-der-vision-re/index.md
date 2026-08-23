@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Quirk x SlapFunk" on Sat, 22 Aug 2026.
+Haus der Visionäre is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Quirk x SlapFunk" on Sat, 22 Aug 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Alexander Skancke, Amir Alexander, Anahita Sadighi and Bruno Schmidt and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -17,4 +17,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 4 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

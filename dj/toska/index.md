@@ -1,6 +1,6 @@
 # Toska
 
-Toska is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+Toska is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
 
 Toska is a techno and tech house artist based in Taiwan, tracked on soundcheck, with 7 sets logged across Melbourne, Newyorkcity and Taipei. Often billed alongside Korey Dobson, Etwas and HYBE. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Toska is a techno and tech house artist based in Taiwan, tracked on soundcheck, 
 
 Korey Dobson, Etwas, HYBE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toska/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toska/)*

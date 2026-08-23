@@ -1,6 +1,6 @@
 # SAAB (2)
 
-SAAB (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
+SAAB (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
 
 SAAB (2) is a bass and techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Sheps, Taylor Taylor and AKIYE. Next up: Waterhouse Studios, Amsterdam on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ SAAB (2) is a bass and techno artist based in Spain, tracked on soundcheck, with
 
 Sheps, Taylor Taylor, AKIYE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saab-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saab-2/)*

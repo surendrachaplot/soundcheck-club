@@ -1,6 +1,6 @@
 # Poppi
 
-Poppi is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Poppi is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 Poppi is a disco and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Bristol and London. Often billed alongside Bustin' Loose, Caio Cenci and Crystal Touch. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Poppi is a disco and house artist tracked on soundcheck, with 33 sets logged acr
 
 Bustin' Loose, Caio Cenci, Crystal Touch
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poppi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poppi/)*

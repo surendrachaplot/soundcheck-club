@@ -1,6 +1,6 @@
 # Rares Gherman
 
-Rares Gherman is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
+Rares Gherman is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
 
 Rares Gherman is a minimal and house artist based in Romania, tracked on soundcheck, with 22 sets logged across Amsterdam, Bucharest and Copenhagen. Often billed alongside styx, LerKu and PRCP. Next up: Culture Box, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rares Gherman is a minimal and house artist based in Romania, tracked on soundch
 
 styx, LerKu, PRCP
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raresgherman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raresgherman/)*

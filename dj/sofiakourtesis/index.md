@@ -1,6 +1,6 @@
 # Sofia Kourtesis
 
-Sofia Kourtesis is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
+Sofia Kourtesis is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
 
 Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Bonobo, DJ Tennis and Paula Tape. Next up: Elsewhere, Newyorkcity on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Sofia Kourtesis is a house and techno artist tracked on soundcheck, with 139 set
 
 Bonobo, DJ Tennis, Paula Tape
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakourtesis/)*

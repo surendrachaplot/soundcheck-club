@@ -1,6 +1,6 @@
 # Mammo
 
-Mammo is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 3 Oct 2026.
+Mammo is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 3 Oct 2026.
 
 Mammo is a techno and dub artist based in United States of America, tracked on soundcheck, with 4 sets logged across Amsterdam and Lisbon. Often billed alongside Andre Cascais, Eversines and Gizem Öz. Next up: Collect LX Factory, Lisbon on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Mammo is a techno and dub artist based in United States of America, tracked on s
 
 Andre Cascais, Eversines, Gizem Öz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mammo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mammo/)*

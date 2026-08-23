@@ -1,6 +1,6 @@
 # Dela Nesto
 
-Dela Nesto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Gibus Club, Paris on Sat, 5 Sept 2026.
+Dela Nesto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Gibus Club, Paris on Sat, 5 Sept 2026.
 
 Dela Nesto is a house and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: Gibus Club, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dela Nesto is a house and techno artist based in Germany, tracked on soundcheck,
 
 MARIE.MOON, Caro Vola, Dorsch
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delanesto/)*

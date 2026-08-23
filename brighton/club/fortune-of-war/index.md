@@ -1,6 +1,6 @@
 # Fortune of War
 
-Fortune of War is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "HAPTIC PRESENTS" on Sat, 12 Sept 2026.
+Fortune of War is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "HAPTIC PRESENTS" on Sat, 12 Sept 2026.
 
 Fortune of War is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including Oliver Molina and Rubén Baiz. Browse upcoming dates, start times and who's playing. 157 King's Rd, Brighton, East Sussex BN1 1NB.
 
@@ -14,4 +14,4 @@ Fortune of War is a music venue in Brighton listed on soundcheck. 1 upcoming nig
 
 157 King's Rd, Brighton, East Sussex BN1 1NB, Brighton
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/fortune-of-war/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/fortune-of-war/)*

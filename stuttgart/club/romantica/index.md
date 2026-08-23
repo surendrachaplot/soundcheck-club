@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 11 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN  " on Fri, 21 Aug 2026.
+Romantica is a music venue in Stuttgart with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN  " on Fri, 21 Aug 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 11 upcoming nights, with line-ups including Daniel Neuland, Davy, Dj Kero B and Dominik Krammer and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -23,4 +23,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 11 upcoming nights
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

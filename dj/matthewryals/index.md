@@ -1,6 +1,6 @@
 # Matthew Ryals
 
-Matthew Ryals is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Madame Claude, Berlin on Mon, 14 Sept 2026.
+Matthew Ryals is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Madame Claude, Berlin on Mon, 14 Sept 2026.
 
 Matthew Ryals is an experimental and noise artist based in United States of America, tracked on soundcheck, with 46 sets logged across Austin, Belfast, Berlin and Boston and 22 more. Often billed alongside Public Speaking, Brian Wenner and Chantal Michelle. Next up: Madame Claude, Berlin on Mon 14 Sept.
 
@@ -25,4 +25,4 @@ Matthew Ryals is an experimental and noise artist based in United States of Amer
 
 Public Speaking, Brian Wenner, Chantal Michelle
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewryals/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewryals/)*

@@ -1,6 +1,6 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministerium Club, Lisbon on Fri, 28 Aug 2026.
+Kee_ko is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ministerium Club, Lisbon on Fri, 28 Aug 2026.
 
 Kee_ko is a house and techno artist tracked on soundcheck, with 181 sets logged across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and Gear. Next up: Ministerium Club, Lisbon on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Kee_ko is a house and techno artist tracked on soundcheck, with 181 sets logged 
 
 Jorge Caiado, John-E, Gear
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*

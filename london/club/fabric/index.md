@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 29 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Broadwick Live presents: Flight Facilities, Kirollus, Jennifer Loveless, Fort Romeau + more" on Sat, 22 Aug 2026.
+fabric is a music venue in London with 29 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Broadwick Live presents: Flight Facilities, Kirollus, Jennifer Loveless, Fort Romeau + more" on Sat, 22 Aug 2026.
 
 fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including A For Alpha, A Hard Day's Dance, Alfie and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

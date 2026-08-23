@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "DJ Rozwell - DC" on Thu, 3 Sept 2026.
+Sinners and Saints is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "DJ Rozwell - DC" on Thu, 3 Sept 2026.
 
 Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including dicqbeats, GOkibstarGO and XXHARDBIT3S. Browse upcoming dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
@@ -15,4 +15,4 @@ Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 2 upco
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

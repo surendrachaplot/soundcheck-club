@@ -1,6 +1,6 @@
 # Marc Gonen
 
-Marc Gonen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
+Marc Gonen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
 
 Marc Gonen is a house and techno artist based in Turkey, tracked on soundcheck, with 33 sets logged across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Doruk, Orkun Bozdemir and Black Batu. Next up: TBA, Athens on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Marc Gonen is a house and techno artist based in Turkey, tracked on soundcheck, 
 
 Doruk, Orkun Bozdemir, Black Batu
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcgonen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcgonen/)*

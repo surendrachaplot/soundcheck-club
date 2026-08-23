@@ -1,6 +1,6 @@
 # DJ Kensei
 
-DJ Kensei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Heavy Sick Zero, Tokyo on Fri, 28 Aug 2026.
+DJ Kensei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Heavy Sick Zero, Tokyo on Fri, 28 Aug 2026.
 
 DJ Kensei is a house and techno artist based in Japan, tracked on soundcheck, with 65 sets logged across Bangkok, Kyoto, Osaka and Tokyo. Often billed alongside Sunga, YouForgot and 7e. Next up: Heavy Sick Zero, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Kensei is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 Sunga, YouForgot, 7e
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkensei/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkensei/)*

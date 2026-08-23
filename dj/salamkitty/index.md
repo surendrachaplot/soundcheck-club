@@ -1,6 +1,6 @@
 # Salam Kitty
 
-Salam Kitty is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 4 Sept 2026.
+Salam Kitty is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 4 Sept 2026.
 
 Salam Kitty is a club and experimental artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Edinburgh, Glasgow, London and Seoul. Often billed alongside Bellarosa, DIJA and HUNTRESS. Next up: EXIT Glasgow, Glasgow on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Salam Kitty is a club and experimental artist based in United Kingdom, tracked o
 
 Bellarosa, DIJA, HUNTRESS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*

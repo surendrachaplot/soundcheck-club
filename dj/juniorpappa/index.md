@@ -1,6 +1,6 @@
 # Junior Pappa
 
-Junior Pappa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 27 Aug 2026.
+Junior Pappa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 27 Aug 2026.
 
 Junior Pappa is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Istanbul and Mykonos. Often billed alongside Fused, Agent Greg and Alesso. Next up: Cavo Paradiso, Mykonos on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Junior Pappa is a techno and house artist tracked on soundcheck, with 26 sets lo
 
 Fused, Agent Greg, Alesso
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorpappa/)*

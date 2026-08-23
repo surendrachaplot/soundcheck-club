@@ -1,14 +1,13 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at BRET, Amsterdam on Fri, 21 Aug 2026.
+Gabriel Muñoz is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
-Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Lasse Top and Bella Claxton. Next up: BRET, Amsterdam on Fri 21 Aug.
+Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Lasse Top and Bella Claxton. Next up: Renate, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | BRET | Amsterdam |
 | Sat, 29 Aug 2026 | Renate | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
@@ -28,4 +27,4 @@ Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 35 sets 
 
 Milion, Lasse Top, Bella Claxton
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*

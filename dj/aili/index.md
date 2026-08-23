@@ -1,6 +1,6 @@
 # Aili
 
-Aili is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at OT301, Amsterdam on Thu, 22 Oct 2026.
+Aili is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OT301, Amsterdam on Thu, 22 Oct 2026.
 
 Aili is an electro and experimental artist tracked on soundcheck, with 7 sets logged across Amsterdam, Antwerp, Brussels and Nantes and 1 more. Often billed alongside gaiko, AJNA and Ampe. Next up: OT301, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Aili is an electro and experimental artist tracked on soundcheck, with 7 sets lo
 
 gaiko, AJNA, Ampe
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aili/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aili/)*

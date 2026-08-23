@@ -1,6 +1,6 @@
 # Ms. Mada
 
-Ms. Mada is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Pacha New York, New York City on Sat, 29 Aug 2026.
+Ms. Mada is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Pacha New York, New York City on Sat, 29 Aug 2026.
 
 Ms. Mada is a house and tech house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Danyelino, Bakke and Dennis Cruz. Next up: Pacha New York, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ms. Mada is a house and tech house artist tracked on soundcheck, with 225 sets l
 
 Danyelino, Bakke, Dennis Cruz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.mada/)*

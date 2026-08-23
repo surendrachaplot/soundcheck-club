@@ -1,6 +1,6 @@
 # Traffic
 
-Traffic is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "FETCH with Cyberkills (BR)" on Sat, 5 Sept 2026.
+Traffic is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "FETCH with Cyberkills (BR)" on Sat, 5 Sept 2026.
 
 Traffic is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DJ PS2 DESBLOQUEADO, intoxxy, MUNÉO and pìccolo and 1 more. Browse upcoming dates, start times and who's playing. 1-4-48 B2F, Nishiazabu, Minato-ku, Tokyo, 106-0031 Japan.
 
@@ -14,4 +14,4 @@ Traffic is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with l
 
 1-4-48 B2F, Nishiazabu, Minato-ku, Tokyo, 106-0031 Japan, Tokyo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/traffic/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/traffic/)*

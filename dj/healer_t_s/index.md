@@ -1,6 +1,6 @@
 # Healer_t_s
 
-Healer_t_s is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 29 Aug 2026.
+Healer_t_s is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 29 Aug 2026.
 
 Healer_t_s is a techno and industrial artist tracked on soundcheck, with 12 sets logged across Seoul. Often billed alongside La Louve, ATISMIA and Paranoid Kid (KR). Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Healer_t_s is a techno and industrial artist tracked on soundcheck, with 12 sets
 
 La Louve, ATISMIA, Paranoid Kid (KR)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/healer_t_s/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/healer_t_s/)*

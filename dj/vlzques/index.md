@@ -1,6 +1,6 @@
 # VLZQUES
 
-VLZQUES is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+VLZQUES is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
 
 VLZQUES is a techno artist tracked on soundcheck, with 23 sets logged across Barcelona, Krakow and Prague. Often billed alongside yangovica, VISNEACS and AVHD. Next up: Altenburg 1964, Prague on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ VLZQUES is a techno artist tracked on soundcheck, with 23 sets logged across Bar
 
 yangovica, VISNEACS, AVHD
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlzques/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlzques/)*

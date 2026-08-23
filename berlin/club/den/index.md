@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT)" on Sat, 22 Aug 2026.
+ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT)" on Sat, 22 Aug 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including KIV., Aaron Blau, Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

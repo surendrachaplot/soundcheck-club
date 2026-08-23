@@ -1,6 +1,6 @@
 # Sinetiketa
 
-Sinetiketa is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Sensorium, Berlin on Wed, 2 Sept 2026.
+Sinetiketa is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sensorium, Berlin on Wed, 2 Sept 2026.
 
 Sinetiketa is a techno and tech house artist based in Argentina, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside 10961, DURØ and P3PA. Next up: Sensorium, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Sinetiketa is a techno and tech house artist based in Argentina, tracked on soun
 
 10961, DURØ, P3PA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinetiketa/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinetiketa/)*

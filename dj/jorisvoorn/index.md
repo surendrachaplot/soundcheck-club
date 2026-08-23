@@ -1,14 +1,13 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 22 Aug 2026.
+Joris Voorn is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 29 Aug 2026.
 
-Joris Voorn is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: TBA - Los Angeles, Losangeles on Sat 22 Aug.
+Joris Voorn is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 29 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Sat, 29 Aug 2026 | AMK Club | Buenos Aires |
 | Sat, 12 Sept 2026 | [UNVRS] | Ibiza |
@@ -20,6 +19,7 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 186 sets lo
 
 ## Recently played
 
+- TBA - Los Angeles, Los Angeles — Sat, 22 Aug 2026
 - Zsiráf, Budapest — Thu, 13 Aug 2026
 - Obudai Island, Budapest — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
@@ -27,10 +27,9 @@ Joris Voorn is a techno and house artist tracked on soundcheck, with 186 sets lo
 - Castelo de Sesimbra, Lisbon — Fri, 17 Jul 2026
 - Lofi, Amsterdam — Sat, 27 Jun 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 19 Jun 2026
-- Hï Ibiza, Ibiza — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Adam Beyer, Kevin de Vries, Artbat
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

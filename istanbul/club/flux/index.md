@@ -1,14 +1,13 @@
 # Flux
 
-Flux is a music venue in Istanbul with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "RX Saturdaze" on Sat, 22 Aug 2026.
+Flux is a music venue in Istanbul with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Flux Fridays: Fratello" on Fri, 28 Aug 2026.
 
-Flux is a music venue in Istanbul listed on soundcheck. 10 upcoming nights, with line-ups including Answer Code Request, FILTRACK, FJAAK and Fratello and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
+Flux is a music venue in Istanbul listed on soundcheck. 9 upcoming nights, with line-ups including Answer Code Request, FILTRACK, FJAAK and Fratello and 2 more. Browse upcoming dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | RX Saturdaze | OZUM, Procombo |
 | Fri, 28 Aug 2026 | Flux Fridays: Fratello | Fratello |
 | Sat, 29 Aug 2026 | RX Saturdaze | Junior, Procombo |
 | Sat, 5 Sept 2026 | 3HZ INVITES: UFO95 (live) | Peja, UFO95, obskure |
@@ -23,4 +22,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 10 upcoming nights, with
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

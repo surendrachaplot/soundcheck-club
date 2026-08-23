@@ -1,6 +1,6 @@
 # District
 
-District is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Soundsystem Showdown V2" on Sat, 29 Aug 2026.
+District is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Soundsystem Showdown V2" on Sat, 29 Aug 2026.
 
 District is a music venue in Liverpool listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 61 Jordan St, Liverpool, L1 0BW.
 
@@ -18,4 +18,4 @@ District is a music venue in Liverpool listed on soundcheck. 5 upcoming nights. 
 
 61 Jordan St, Liverpool, L1 0BW, Liverpool
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/district/)*

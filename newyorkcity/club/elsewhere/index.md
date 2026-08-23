@@ -1,15 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 44 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "sound.wav: a boat party by Elsewhere & Eavesdrop w/ BRIDGE, DJ Shannon" on Sat, 22 Aug 2026.
+Elsewhere is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Tarka: LILLA, SAMIA, Ushka, Zara Dekho b2b Dynoman" on Sun, 23 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 44 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | sound.wav: a boat party by Elsewhere & Eavesdrop w/ BRIDGE, DJ Shannon | Bridge (NY), DJ Shannon |
-| Sat, 22 Aug 2026 | SG Lewis, Cosmo, Edd, Griffin Maxwell Brooks, Ksenyeah B2B Manguito, Makèz, Things You Say | Cosmo (NY), Edd (1), Griffin Maxwell Brooks, Ksenyeah, Makèz, Manguito, SG Lewis, Things You Say |
 | Sun, 23 Aug 2026 | Tarka: LILLA, SAMIA, Ushka, Zara Dekho b2b Dynoman | Dynoman, LILLA, SAMIA, Ushka, Zara Dekho |
 | Thu, 27 Aug 2026 | Rival Consoles | Rival Consoles |
 | Thu, 27 Aug 2026 | Water From Your Eyes (Rachel Brown) DJ Set, DJ Practice |  |
@@ -18,9 +16,11 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 44 upcoming nigh
 | Sat, 29 Aug 2026 | Out & Abt |  |
 | Sat, 29 Aug 2026 | KinAhau, Pablo Romero, Ugo Banchi, RAW CUTS: Next Up - Liv Lawson, Doran Naderi, Gavin Parisi | JOSIE., KinAhau, Pablo Romero, Ugo Banchi |
 | Sun, 30 Aug 2026 | DISCOS EL HIJO PRESENTS: Préndelo PueblaYork - hellotones 'El Hijo de PueblaYork' | Marvelito, Mextape |
+| Thu, 3 Sept 2026 | Sylvan Esso (DJ set), Tama Gucci, Swaya | Swaya, Sylvan Esso, Tama Gucci |
+| Fri, 4 Sept 2026 | Klingande, hanzondeck | Klingande, hanzondeck |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

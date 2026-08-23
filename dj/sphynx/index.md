@@ -1,6 +1,6 @@
 # Sphynx
 
-Sphynx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at SILO, New York City on Sun, 23 Aug 2026.
+Sphynx is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at SILO, New York City on Sun, 23 Aug 2026.
 
 Sphynx is a house and disco artist tracked on soundcheck, with 10 sets logged across Athens, Losangeles, Newyorkcity and Saopaulo. Often billed alongside Renato Cohen, 1tbsp and Acid Asian. Next up: SILO, Newyorkcity on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Sphynx is a house and disco artist tracked on soundcheck, with 10 sets logged ac
 
 Renato Cohen, 1tbsp, Acid Asian
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sphynx/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sphynx/)*

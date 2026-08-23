@@ -1,6 +1,6 @@
 # ALTO  (UK)
 
-ALTO  (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Basing House, London on Sat, 29 Aug 2026.
+ALTO  (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Basing House, London on Sat, 29 Aug 2026.
 
 ALTO  (UK) is a house and tech house artist tracked on soundcheck, with 14 sets logged across Ibiza, Leeds and London. Often billed alongside Shenin Amara, Beezo and Friendzy. Next up: Basing House, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ ALTO  (UK) is a house and tech house artist tracked on soundcheck, with 14 sets 
 
 Shenin Amara, Beezo, Friendzy
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altouk/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/altouk/)*

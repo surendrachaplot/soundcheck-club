@@ -1,6 +1,6 @@
 # BUYMEFLOVVERS
 
-BUYMEFLOVVERS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - New location, Toronto on Fri, 13 Nov 2026.
+BUYMEFLOVVERS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - New location, Toronto on Fri, 13 Nov 2026.
 
 BUYMEFLOVVERS is a techno and industrial artist based in Canada, tracked on soundcheck, with 31 sets logged across Montreal and Toronto. Often billed alongside ucanquit, D.Blavatsky and Karscher. Next up: TBA - New location, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ BUYMEFLOVVERS is a techno and industrial artist based in Canada, tracked on soun
 
 ucanquit, D.Blavatsky, Karscher
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*

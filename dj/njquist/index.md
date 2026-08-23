@@ -1,6 +1,6 @@
 # N.J. Quist
 
-N.J. Quist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
+N.J. Quist is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 22 Aug 2026.
 
 N.J. Quist is a techno and house artist tracked on soundcheck, with 3 sets logged across Frankfurt and Warsaw. Often billed alongside Bodin, DJ ASS TITS and GERKE. Next up: Tokonoma Club, Frankfurt on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ N.J. Quist is a techno and house artist tracked on soundcheck, with 3 sets logge
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt — Sat, 22 Aug 2026
 - Mastak, Warsaw — Sun, 1 Feb 2026
 - Silbergold, Frankfurt — Thu, 30 May 2024
 
@@ -19,4 +20,4 @@ N.J. Quist is a techno and house artist tracked on soundcheck, with 3 sets logge
 
 Bodin, DJ ASS TITS, GERKE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/njquist/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/njquist/)*

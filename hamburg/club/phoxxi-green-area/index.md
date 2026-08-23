@@ -1,6 +1,6 @@
 # Phoxxi Green Area
 
-Phoxxi Green Area is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "AOS FESTIVAL 2026" on Sat, 22 Aug 2026.
+Phoxxi Green Area is a music venue in Hamburg with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "AOS FESTIVAL 2026" on Sat, 22 Aug 2026.
 
 Phoxxi Green Area is a music venue in Hamburg listed on soundcheck. 2 upcoming nights, with line-ups including Alec Dienaar, Anton Jonathan, Blasha & Allatt and Carluschka and 2 more. Browse upcoming dates, start times and who's playing. Deichtorstrasse 1-2, 20095 Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Phoxxi Green Area is a music venue in Hamburg listed on soundcheck. 2 upcoming n
 
 Deichtorstrasse 1-2, 20095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/phoxxi-green-area/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/phoxxi-green-area/)*

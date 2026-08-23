@@ -1,14 +1,13 @@
 # Hall
 
-Hall is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Cosmonaut" on Sat, 22 Aug 2026.
+Hall is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "KONTRAST with Mija - Hall x SVE x culture unseen" on Fri, 4 Sept 2026.
 
-Hall is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with line-ups including animaTek (2), ANNDRA, Cosmonaut and Discolisko and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
+Hall is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with line-ups including animaTek (2), ANNDRA, Discolisko and In Furcht and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Cosmonaut | Cosmonaut, Ken Dark |
 | Fri, 4 Sept 2026 | KONTRAST with Mija - Hall x SVE x culture unseen | Mija, QSLAP, Unknown Horizon |
 | Sat, 5 Sept 2026 | Scorched Earth: Skee Mask | Skee Mask, Tanel Mütt, animaTek (2), no-a |
 | Fri, 11 Sept 2026 | HELLINN - CROSS BORDER EDITION | ANNDRA, Discolisko, In Furcht, Jori Samarin, Lee Wander, MEDINA, NØSARA, QSLAP, RSKS, Sensory Deprivation, Techno Hate Project |
@@ -18,4 +17,4 @@ Hall is a music venue in Tallinn listed on soundcheck. 5 upcoming nights, with l
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

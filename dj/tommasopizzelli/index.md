@@ -1,6 +1,6 @@
 # Tommaso Pizzelli
 
-Tommaso Pizzelli is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Oven Club, Valencia on Sat, 19 Sept 2026.
+Tommaso Pizzelli is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Oven Club, Valencia on Sat, 19 Sept 2026.
 
 Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Alexxx and Lucía Gea. Next up: Oven Club, Valencia on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Tommaso Pizzelli is a tech house and house artist tracked on soundcheck, with 57
 
 DJ Free Download, Alexxx, Lucía Gea
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*

@@ -1,6 +1,6 @@
 # Grace Thompson
 
-Grace Thompson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KitKatClub, Berlin on Wed, 30 Sept 2026.
+Grace Thompson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Wed, 30 Sept 2026.
 
 Grace Thompson is a techno and house artist tracked on soundcheck, with 85 sets logged across Berlin and Frankfurt. Often billed alongside DJ Jordan, A.N.I. and LeoSkiDj. Next up: KitKatClub, Berlin on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Grace Thompson is a techno and house artist tracked on soundcheck, with 85 sets 
 
 DJ Jordan, A.N.I., LeoSkiDj
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracethompson/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracethompson/)*

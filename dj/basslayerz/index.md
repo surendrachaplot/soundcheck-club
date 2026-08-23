@@ -1,6 +1,6 @@
 # BassLayerz
 
-BassLayerz is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
+BassLayerz is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
 
 BassLayerz is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 12 more. Often billed alongside Hedex, Carasel and Eksman. Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
 
@@ -15,6 +15,7 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 ## Recently played
 
+- Antwerp Expo, Antwerp — Sat, 22 Aug 2026
 - Tank, Sheffield — Sun, 19 Jul 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Antwerp Expo, Antwerp — Fri, 17 Apr 2026
@@ -22,10 +23,9 @@ BassLayerz is a drum & bass and jungle artist based in United Kingdom, tracked o
 - IDRA, Manchester — Sat, 7 Feb 2026
 - Bootshaus, Cologne — Fri, 9 Jan 2026
 - Tank, Sheffield — Sat, 6 Dec 2025
-- The Dome, Liverpool — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Hedex, Carasel, Eksman
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basslayerz/)*

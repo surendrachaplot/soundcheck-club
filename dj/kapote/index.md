@@ -1,14 +1,13 @@
 # Kapote
 
-Kapote is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Jazz Cafe, London on Sat, 22 Aug 2026.
+Kapote is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Studio1111, Berlin on Fri, 4 Sept 2026.
 
-Kapote is a house and disco artist tracked on soundcheck, with 219 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: The Jazz Cafe, London on Sat 22 Aug.
+Kapote is a house and disco artist tracked on soundcheck, with 219 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: Studio1111, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | The Jazz Cafe | London |
 | Fri, 4 Sept 2026 | Studio1111 | Berlin |
 | Sat, 5 Sept 2026 | LoHi | New York City |
 | Fri, 11 Sept 2026 | Klub Werkstatt | Copenhagen |
@@ -17,6 +16,7 @@ Kapote is a house and disco artist tracked on soundcheck, with 219 sets logged a
 
 ## Recently played
 
+- The Jazz Cafe, London — Sat, 22 Aug 2026
 - Bahnwärter Thiel, Munich — Fri, 21 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
@@ -24,10 +24,9 @@ Kapote is a house and disco artist tracked on soundcheck, with 219 sets logged a
 - LIVE EVIL, Munich — Fri, 17 Jul 2026
 - Parc de la Trinitat, Barcelona — Sun, 12 Jul 2026
 - Luz De Gas, Barcelona — Sun, 12 Jul 2026
-- ÆDEN, Berlin — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Sam Ruffillo, Gee Lane, Cody Currie
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

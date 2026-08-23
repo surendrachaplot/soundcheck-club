@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Dende Nation Pre Carnival Night with Reggae Choir" on Thu, 27 Aug 2026.
+The Fox and Firkin is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dende Nation Pre Carnival Night with Reggae Choir" on Thu, 27 Aug 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Aroop Roy, Breaka, Cami Layé Okún and Case (2) and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 23 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

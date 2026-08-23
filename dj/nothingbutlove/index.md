@@ -1,6 +1,6 @@
 # Nothing But Love
 
-Nothing But Love is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
+Nothing But Love is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
 
 Nothing But Love is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam and Munich. Often billed alongside Alex Volta, Quirin (DE) and Yubik. Next up: Lieberscholli, Munich on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nothing But Love is a techno and house artist based in Germany, tracked on sound
 
 Alex Volta, Quirin (DE), Yubik
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nothingbutlove/)*

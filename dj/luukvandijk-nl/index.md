@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 22 Aug 2026.
+Luuk van Dijk is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Sat, 22 Aug 2026.
 
 Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Crobar - Buenos Aires, Buenosaires on Sat 22 Aug.
 
@@ -23,6 +23,7 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 231 s
 
 ## Recently played
 
+- Crobar - Buenos Aires, Buenos Aires — Sat, 22 Aug 2026
 - Lofi, Amsterdam — Fri, 14 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 11 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 231 s
 - Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
 - Those Who Dance, Lisbon — Fri, 17 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- [UNVRS], Ibiza — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

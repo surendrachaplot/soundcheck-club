@@ -1,6 +1,6 @@
 # Astro
 
-Astro is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
+Astro is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
 
 Astro is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Birmingham and Buenosaires and 3 more. Often billed alongside Febe, Miss Voltaghe and Barreto. Next up: Tonal, Mexicocity on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ Astro is a house and deep house artist based in United Kingdom, tracked on sound
 
 Febe, Miss Voltaghe, Barreto
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*

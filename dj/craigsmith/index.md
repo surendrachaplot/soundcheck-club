@@ -1,6 +1,6 @@
 # Craig Smith
 
-Craig Smith is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Skyline Sips, St James Quarter Rooftop, Edinburgh on Sun, 23 Aug 2026.
+Craig Smith is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Skyline Sips, St James Quarter Rooftop, Edinburgh on Sun, 23 Aug 2026.
 
 Craig Smith is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Berlin, Dublin, Edinburgh and Glasgow and 6 more. Often billed alongside Natasha Kitty Katt, Neil Pierce and Ronnie Herel. Next up: Skyline Sips, St James Quarter Rooftop, Edinburgh on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Craig Smith is a house and deep house artist based in United Kingdom, tracked on
 
 Natasha Kitty Katt, Neil Pierce, Ronnie Herel
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigsmith/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigsmith/)*

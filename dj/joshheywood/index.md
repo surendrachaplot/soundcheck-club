@@ -1,6 +1,6 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Josh Heywood is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Josh Heywood is a techno and house artist tracked on soundcheck, with 56 sets logged across Auckland, Brisbane, Melbourne and Sydney and 1 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Josh Heywood is a techno and house artist tracked on soundcheck, with 56 sets lo
 
 Etwas, HYBE, Matteo Freyrie
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshheywood/)*

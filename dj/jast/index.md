@@ -1,6 +1,6 @@
 # JĀST
 
-JĀST is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 27 Aug 2026.
+JĀST is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 JĀST is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Ibiza. Often billed alongside UNYCA, Eyad and LEYLA\ /NOUHEYLA. Next up: Hï Ibiza, Ibiza on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ JĀST is a house and techno artist based in Germany, tracked on soundcheck, with
 
 UNYCA, Eyad, LEYLA\ /NOUHEYLA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jast/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jast/)*

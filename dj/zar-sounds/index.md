@@ -1,6 +1,6 @@
 # Zar.
 
-Zar. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Four Quarters, London on Fri, 28 Aug 2026.
+Zar. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Four Quarters, London on Fri, 28 Aug 2026.
 
 Zar. is a drum & bass and jungle artist tracked on soundcheck, with 57 sets logged across Berlin, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Verbz, Channell and EVABEE. Next up: Four Quarters, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Zar. is a drum & bass and jungle artist tracked on soundcheck, with 57 sets logg
 
 Verbz, Channell, EVABEE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*

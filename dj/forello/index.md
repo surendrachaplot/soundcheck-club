@@ -1,6 +1,6 @@
 # Forello
 
-Forello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ESC, Montreal on Sat, 26 Sept 2026.
+Forello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ESC, Montreal on Sat, 26 Sept 2026.
 
 Forello is a techno and house artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Buenosaires and Montreal. Often billed alongside E110101, PERT and TINKERHELL. Next up: ESC, Montreal on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Forello is a techno and house artist tracked on soundcheck, with 23 sets logged 
 
 E110101, PERT, TINKERHELL
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forello/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forello/)*

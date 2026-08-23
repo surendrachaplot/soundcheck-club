@@ -1,6 +1,6 @@
 # Terry Cotta
 
-Terry Cotta is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The Greyhound, London on Fri, 16 Oct 2026.
+Terry Cotta is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Greyhound, London on Fri, 16 Oct 2026.
 
 Terry Cotta is a minimal and tech house artist tracked on soundcheck, with 9 sets logged across Berlin and London. Often billed alongside Woodwerk, Aletha and Bobby.. Next up: The Greyhound, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Terry Cotta is a minimal and tech house artist tracked on soundcheck, with 9 set
 
 Woodwerk, Aletha, Bobby.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terrycotta/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terrycotta/)*

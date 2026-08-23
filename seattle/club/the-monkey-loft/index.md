@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Deck'd Out #11 with Global Bounce & Selector Records Showcases" on Thu, 27 Aug 2026.
+The Monkey Loft is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Deck'd Out #11 with Global Bounce & Selector Records Showcases" on Thu, 27 Aug 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Pezzner, Saqib and Tony H. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -17,4 +17,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 4 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

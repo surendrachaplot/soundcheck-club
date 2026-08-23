@@ -1,6 +1,6 @@
 # PERISinLE
 
-PERISinLE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+PERISinLE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
 
 PERISinLE is a house and tech house artist tracked on soundcheck, with 24 sets logged across Leipzig and Munich. Often billed alongside catchycrew, Martin Young and Chris Manura. Next up: Westhafen, Leipzig on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ PERISinLE is a house and tech house artist tracked on soundcheck, with 24 sets l
 
 ## Recently played
 
+- Westhafen, Leipzig — Sat, 22 Aug 2026
 - Donna, Leipzig — Sat, 13 Jun 2026
 - Dankbar, Leipzig — Sat, 18 Apr 2026
 - Dankbar, Leipzig — Sat, 7 Feb 2026
@@ -21,10 +22,9 @@ PERISinLE is a house and tech house artist tracked on soundcheck, with 24 sets l
 - Dankbar, Leipzig — Sat, 25 Oct 2025
 - Dankbar, Leipzig — Sat, 30 Aug 2025
 - Dankbar, Leipzig — Sat, 5 Jul 2025
-- Westhafen, Leipzig — Thu, 1 May 2025
 
 ## Shares bills with
 
 catchycrew, Martin Young, Chris Manura
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perisinle/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perisinle/)*

@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "UNDER CLUB • ANNEX" on Sat, 22 Aug 2026.
+Domicile is a music venue in Miami with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "UNDER CLUB • ANNEX" on Sat, 22 Aug 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 5 upcoming nights, with line-ups including Diana Franco, EMP, Felizeta and feph and 2 more. Browse upcoming dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -18,4 +18,4 @@ Domicile is a music venue in Miami listed on soundcheck. 5 upcoming nights, with
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

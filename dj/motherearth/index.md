@@ -1,19 +1,19 @@
 # Mother Earth
 
-Mother Earth is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at NUMBER 90 LONDON, London on Sat, 22 Aug 2026.
+Mother Earth is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
 
-Mother Earth is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 9 more. Often billed alongside Dr Banana, Laidlaw and B.Love. Next up: NUMBER 90 LONDON, London on Sat 22 Aug.
+Mother Earth is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 9 more. Often billed alongside Dr Banana, Laidlaw and B.Love. Next up: Praia Fluvial da Rapoula do Côa, Porto on Mon 24 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | NUMBER 90 LONDON | London |
 | Mon, 24 Aug 2026 | Praia Fluvial da Rapoula do Côa | Porto |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
 
+- NUMBER 90 LONDON, London — Sat, 22 Aug 2026
 - Distrikt, Leeds — Fri, 14 Aug 2026
 - The Poetry Club, Glasgow — Sat, 18 Apr 2026
 - 93 Feet East > Star Lane, London — Sat, 11 Apr 2026
@@ -21,10 +21,9 @@ Mother Earth is a house and tech house artist based in United Kingdom, tracked o
 - Gaffe, London — Fri, 27 Mar 2026
 - Soup, Manchester — Sat, 7 Mar 2026
 - The Lion and Lamb, London — Thu, 18 Dec 2025
-- Low Profile Studios, London — Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Dr Banana, Laidlaw, B.Love
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*

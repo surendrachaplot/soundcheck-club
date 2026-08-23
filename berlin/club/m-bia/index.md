@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Freakquency with Hatikwa" on Sat, 22 Aug 2026.
+M-BIA is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Freakquency with Hatikwa" on Sat, 22 Aug 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Anime, BrettHit, Daora and Deadly Guns and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

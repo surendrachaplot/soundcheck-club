@@ -1,6 +1,6 @@
 # Entrp
 
-Entrp is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Cinetol, Amsterdam on Sat, 26 Sept 2026.
+Entrp is a EBM and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Cinetol, Amsterdam on Sat, 26 Sept 2026.
 
 Entrp is an ebm and post-punk artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Isaac Newtune, Camy Huot and MOFS. Next up: Cinetol, Amsterdam on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Entrp is an ebm and post-punk artist based in Netherlands, tracked on soundcheck
 
 Isaac Newtune, Camy Huot, MOFS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entrp/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entrp/)*

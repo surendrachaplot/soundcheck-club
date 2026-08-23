@@ -1,6 +1,6 @@
 # Dannheimer
 
-Dannheimer is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
+Dannheimer is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
 
 Dannheimer is a minimal and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham. Often billed alongside Adam Mclean, Adam Shelton and Dea (6). Next up: komunal, Birmingham on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Dannheimer is a minimal and techno artist based in United Kingdom, tracked on so
 
 Adam Mclean, Adam Shelton, Dea (6)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannheimer/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannheimer/)*

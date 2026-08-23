@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Timo Maas / Ryan Dank / Baltza / Karina Lin / ASLI" on Sat, 22 Aug 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Timo Maas / Ryan Dank / Baltza / Karina Lin / ASLI" on Sat, 22 Aug 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including ADAPT (DK), Aja Gulris, Albano Bastonero and Alex Stein and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

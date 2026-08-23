@@ -1,6 +1,6 @@
 # HEN YANNI
 
-HEN YANNI is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
+HEN YANNI is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
 
 HEN YANNI is a house and electro artist based in France, tracked on soundcheck, with 36 sets logged across Bangkok, Berlin, Hongkong and Mexicocity and 1 more. Often billed alongside Alejandro Molinari, Daniel Weil and Middle Sky Boom. Next up: Tonal, Mexicocity on Wed 19 Aug.
 
@@ -26,4 +26,4 @@ HEN YANNI is a house and electro artist based in France, tracked on soundcheck, 
 
 Alejandro Molinari, Daniel Weil, Middle Sky Boom
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henyanni/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henyanni/)*

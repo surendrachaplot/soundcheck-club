@@ -1,6 +1,6 @@
 # IgP (1)
 
-IgP (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at SILO, New York City on Thu, 27 Aug 2026.
+IgP (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at SILO, New York City on Thu, 27 Aug 2026.
 
 IgP (1) is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside KRAVE, Bruce Wayne (US) and JHANA. Next up: SILO, Newyorkcity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ IgP (1) is a techno and house artist based in United States of America, tracked 
 
 KRAVE, Bruce Wayne (US), JHANA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/igp-1/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/igp-1/)*

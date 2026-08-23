@@ -1,6 +1,6 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Planet V: Brighton" on Sat, 29 Aug 2026.
+Concorde 2 is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Planet V: Brighton" on Sat, 29 Aug 2026.
 
 Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Bryan Gee, Command Strange, Deefa and Dillinja and 2 more. Browse upcoming dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
@@ -18,4 +18,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming nights,
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

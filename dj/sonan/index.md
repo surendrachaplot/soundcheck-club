@@ -1,6 +1,6 @@
 # Sonan
 
-Sonan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Yellow House, Amsterdam on Fri, 28 Aug 2026.
+Sonan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Yellow House, Amsterdam on Fri, 28 Aug 2026.
 
 Sonan is a house and techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam and Utrecht. Often billed alongside Didier Armeni, DIØN and Eileen (NL). Next up: Yellow House, Amsterdam on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Sonan is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Didier Armeni, DIØN, Eileen (NL)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonan/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonan/)*

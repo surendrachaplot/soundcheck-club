@@ -1,6 +1,6 @@
 # Muziekgebouw aan t' IJ
 
-Muziekgebouw aan t' IJ is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Nothing Here Now x The Rest Is Noise with Loraine James, Anysia Kym, 8ULENTINA, KROES, sign.nah" on Sat, 19 Sept 2026.
+Muziekgebouw aan t' IJ is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Nothing Here Now x The Rest Is Noise with Loraine James, Anysia Kym, 8ULENTINA, KROES, sign.nah" on Sat, 19 Sept 2026.
 
 Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including 2K88, 8ULENTINA, Bianca Scout and Burchhhha and 2 more. Browse upcoming dates, start times and who's playing. Piet Heinkade 1, 1019 BR Amsterdam.
 
@@ -18,4 +18,4 @@ Muziekgebouw aan t' IJ is a music venue in Amsterdam listed on soundcheck. 5 upc
 
 Piet Heinkade 1, 1019 BR Amsterdam, Amsterdam
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/muziekgebouw-aan-t-ij/)*

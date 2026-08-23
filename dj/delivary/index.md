@@ -1,6 +1,6 @@
 # DELIVARY
 
-DELIVARY is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Porto Pollo, Vienna on Sun, 23 Aug 2026.
+DELIVARY is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Porto Pollo, Vienna on Sun, 23 Aug 2026.
 
 DELIVARY is a progressive house artist tracked on soundcheck, with 5 sets logged across Vienna. Often billed alongside Fabian Freudenthaler, Fede Frostl and KILIÅN. Next up: Porto Pollo, Vienna on Sun 23 Aug.
 
@@ -21,4 +21,4 @@ DELIVARY is a progressive house artist tracked on soundcheck, with 5 sets logged
 
 Fabian Freudenthaler, Fede Frostl, KILIÅN
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delivary/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delivary/)*

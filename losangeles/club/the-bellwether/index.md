@@ -1,6 +1,6 @@
 # The Bellwether
 
-The Bellwether is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Earlybirds Club" on Sat, 19 Sept 2026.
+The Bellwether is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Earlybirds Club" on Sat, 19 Sept 2026.
 
 The Bellwether is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including Parra for Cuva, Tricky and Wuki. Browse upcoming dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
 
@@ -20,4 +20,4 @@ The Bellwether is a music venue in Losangeles listed on soundcheck. 7 upcoming n
 
 333 S Boylston St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*

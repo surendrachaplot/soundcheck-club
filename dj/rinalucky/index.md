@@ -1,6 +1,6 @@
 # RINALUCKY
 
-RINALUCKY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Bonobo, Tokyo on Sat, 22 Aug 2026.
+RINALUCKY is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bonobo, Tokyo on Sat, 22 Aug 2026.
 
 RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, with 124 sets logged across Osaka, Seoul and Tokyo. Often billed alongside RYOHEI, Drunken Kong and ERIMIYA. Next up: Bonobo, Tokyo on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 ## Recently played
 
+- Bonobo, Tokyo — Sat, 22 Aug 2026
 - VENT, Tokyo — Sat, 8 Aug 2026
 - Red Bar, Tokyo — Thu, 16 Jul 2026
 - VENT, Tokyo — Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ RINALUCKY is a techno and house artist based in Japan, tracked on soundcheck, wi
 - TBA - somewhere in nishiazabu, Tokyo — Fri, 5 Jun 2026
 - WOMB, Tokyo — Tue, 5 May 2026
 - VENT, Tokyo — Tue, 28 Apr 2026
-- Red Bar, Tokyo — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 RYOHEI, Drunken Kong, ERIMIYA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinalucky/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinalucky/)*

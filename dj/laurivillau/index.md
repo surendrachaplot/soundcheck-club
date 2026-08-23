@@ -1,6 +1,6 @@
 # Lauri Villau
 
-Lauri Villau is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hall, Tallinn on Sat, 17 Oct 2026.
+Lauri Villau is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hall, Tallinn on Sat, 17 Oct 2026.
 
 Lauri Villau is a drum & bass and techno artist tracked on soundcheck, with 4 sets logged across Tallinn. Often billed alongside RENGO. Next up: Hall, Tallinn on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Lauri Villau is a drum & bass and techno artist tracked on soundcheck, with 4 se
 
 RENGO
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurivillau/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurivillau/)*

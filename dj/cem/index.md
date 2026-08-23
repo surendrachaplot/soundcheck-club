@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - PIT//STOP PALACE, New York City on Fri, 4 Sept 2026.
+CEM is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - PIT//STOP PALACE, New York City on Fri, 4 Sept 2026.
 
 CEM is a techno and house artist based in Germany, tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Barcelona and Berlin and 48 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: TBA - PIT//STOP PALACE, Newyorkcity on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ CEM is a techno and house artist based in Germany, tracked on soundcheck, with 1
 
 MCMLXXXV, JASSS, Dj Saliva
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

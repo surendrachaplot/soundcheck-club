@@ -1,6 +1,6 @@
 # Tuff Trax
 
-Tuff Trax is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 22 Aug 2026.
+Tuff Trax is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 22 Aug 2026.
 
 Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside IsGwan, Kovac and Tinika. Next up: Revolver Upstairs, Melbourne on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
+- Revolver Upstairs, Melbourne — Sat, 22 Aug 2026
 - TBA - Il Mercato Centrale, Melbourne — Sat, 15 Aug 2026
 - Colour Factory, London — Sun, 24 May 2026
 - BRET, Amsterdam — Fri, 22 May 2026
@@ -21,10 +22,9 @@ Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck
 - Revolver Upstairs, Melbourne — Sat, 18 Apr 2026
 - Glamorama, Melbourne — Fri, 13 Mar 2026
 - Revolver Upstairs, Melbourne — Sat, 14 Feb 2026
-- Whitehart Bar, Melbourne — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 IsGwan, Kovac, Tinika
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*

@@ -1,6 +1,6 @@
 # Huey Mnemonic
 
-Huey Mnemonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at FOLD, London on Sat, 10 Oct 2026.
+Huey Mnemonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
 Huey Mnemonic is a techno and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Chicago and Denver and 8 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: FOLD, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Huey Mnemonic is a techno and house artist based in United States of America, tr
 
 D. Strange, Underground Resistance, 2Lanes
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*

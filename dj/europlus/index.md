@@ -1,6 +1,6 @@
 # EUROPLUS
 
-EUROPLUS is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+EUROPLUS is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 EUROPLUS is a trance and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside YËDM, Blame the Booker and DETOXX. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ EUROPLUS is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 YËDM, Blame the Booker, DETOXX
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/europlus/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/europlus/)*

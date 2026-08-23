@@ -1,6 +1,6 @@
 # WILL CARRIGAN.
 
-WILL CARRIGAN. is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 28 Aug 2026.
+WILL CARRIGAN. is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 28 Aug 2026.
 
 WILL CARRIGAN. is a house and trance artist tracked on soundcheck, with 5 sets logged across Belfast and Glasgow. Often billed alongside Body Clinic, CIAN__ and Divergence. Next up: The Ulster Sports Club, Belfast on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ WILL CARRIGAN. is a house and trance artist tracked on soundcheck, with 5 sets l
 
 Body Clinic, CIAN__, Divergence
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willcarrigan/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willcarrigan/)*

@@ -1,6 +1,6 @@
 # Trilucid
 
-Trilucid is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 93 Feet East, London on Sat, 26 Sept 2026.
+Trilucid is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 93 Feet East, London on Sat, 26 Sept 2026.
 
 Trilucid is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, London and Nottingham. Often billed alongside MXV (UK), Tris (UK) and ALLKNIGHT. Next up: 93 Feet East, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Trilucid is a progressive house and deep house artist based in United Kingdom, t
 
 MXV (UK), Tris (UK), ALLKNIGHT
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trilucid/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trilucid/)*

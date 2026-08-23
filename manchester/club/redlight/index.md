@@ -1,6 +1,6 @@
 # Redlight
 
-Redlight is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "HOUSE RULES X Redlight" on Thu, 27 Aug 2026.
+Redlight is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HOUSE RULES X Redlight" on Thu, 27 Aug 2026.
 
 Redlight is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Dan Louder, Gareth Gray, imad:re and Lashimba and 2 more. Browse upcoming dates, start times and who's playing. 4-2 Little David St, Manchester M1 3GL.
 
@@ -16,4 +16,4 @@ Redlight is a music venue in Manchester listed on soundcheck. 3 upcoming nights,
 
 4-2 Little David St, Manchester M1 3GL, Manchester
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/redlight/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/redlight/)*

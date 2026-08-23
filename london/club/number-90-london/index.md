@@ -1,14 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Beeyou: At Night (Laidlaw pt.2)" on Sat, 22 Aug 2026.
+NUMBER 90 LONDON is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Snooze After Hours" on Sun, 23 Aug 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Adam Curtain and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Beeyou: At Night (Laidlaw pt.2) | Just Jam, Laidlaw, Mother Earth |
 | Sun, 23 Aug 2026 | Snooze After Hours | Alek Mater, Essentia (Duplicity), Gridlock, HMMND, OllyK, PAVEL__, Sofi., Vivra Verra |
 | Thu, 27 Aug 2026 | Carina Lawrence - Rebirth Single Launch Party | Carina Lawrence |
 | Fri, 28 Aug 2026 | BST PRESENTS | COUCOU CHLOE, Jawnino, Woesum |
@@ -18,9 +17,10 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming ni
 | Fri, 4 Sept 2026 | Sweet Greens Vol. III - No.90 | Dolce Verde |
 | Fri, 11 Sept 2026 | Soundscape x Round About present: 90 Hideout | Adam Curtain, Buddy. (2), IZZY (UK), Silverlining, Ste Roberts, Sunny D |
 | Fri, 11 Sept 2026 | SEXTOU 17 | Alírio, Huamaniser, Twang, Voicedrone, bbecks |
+| Sat, 19 Sept 2026 | Faem e Li |  |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

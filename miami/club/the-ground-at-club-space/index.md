@@ -1,6 +1,6 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "OTHERWORLD x PARASITE" on Sat, 22 Aug 2026.
+The Ground at Club Space is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "OTHERWORLD x PARASITE" on Sat, 22 Aug 2026.
 
 The Ground at Club Space is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including 1tbsp, Actress, Bok Bok and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
@@ -23,4 +23,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 15 upco
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

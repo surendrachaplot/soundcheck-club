@@ -1,6 +1,6 @@
 # SuperUser
 
-SuperUser is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+SuperUser is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 SuperUser is a techno and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Bangkok, Osaka, Tokyo and Valencia. Often billed alongside DJ Dante, uuu7 and Drinkss. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ SuperUser is a techno and house artist based in United Kingdom, tracked on sound
 
 DJ Dante, uuu7, Drinkss
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superuser/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superuser/)*

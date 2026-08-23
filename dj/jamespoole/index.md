@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at FORGE, Sheffield on Sat, 5 Sept 2026.
+James Poole is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at FORGE, Sheffield on Sat, 5 Sept 2026.
 
 James Poole is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester and Sheffield. Often billed alongside Ryan Nicholls, Archie Hamilton and Ben Murphy. Next up: FORGE, Sheffield on Sat 5 Sept.
 
@@ -15,4 +15,4 @@ James Poole is a minimal and house artist based in United Kingdom, tracked on so
 
 Ryan Nicholls, Archie Hamilton, Ben Murphy
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

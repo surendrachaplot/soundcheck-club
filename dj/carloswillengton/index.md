@@ -1,6 +1,6 @@
 # Carlos Willengton
 
-Carlos Willengton is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Audio Club, Geneva on Fri, 28 Aug 2026.
+Carlos Willengton is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Audio Club, Geneva on Fri, 28 Aug 2026.
 
 Carlos Willengton is a house and disco artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside DimSum, Ismael Rivas and Kirollus. Next up: Audio Club, Geneva on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Carlos Willengton is a house and disco artist tracked on soundcheck, with 66 set
 
 DimSum, Ismael Rivas, Kirollus
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carloswillengton/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carloswillengton/)*

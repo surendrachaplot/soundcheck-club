@@ -1,6 +1,6 @@
 # Joe Hart
 
-Joe Hart is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Spanners, London on Sat, 17 Oct 2026.
+Joe Hart is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Spanners, London on Sat, 17 Oct 2026.
 
 Joe Hart is a house and electro artist tracked on soundcheck, with 33 sets logged across Edinburgh, Glasgow, London and Newyorkcity. Often billed alongside Scott Fraser, Civic Grief and ARA-U. Next up: Spanners, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Joe Hart is a house and electro artist tracked on soundcheck, with 33 sets logge
 
 Scott Fraser, Civic Grief, ARA-U
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart/)*

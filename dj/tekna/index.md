@@ -1,6 +1,6 @@
 # TEKNA
 
-TEKNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 30 Oct 2026.
+TEKNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Warehouse Elementenstraat, Amsterdam on Fri, 30 Oct 2026.
 
 TEKNA is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Cybersex, DIORA and Technoslave_69. Next up: Warehouse Elementenstraat, Amsterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TEKNA is a techno and house artist tracked on soundcheck, with 40 sets logged ac
 
 Cybersex, DIORA, Technoslave_69
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekna/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekna/)*

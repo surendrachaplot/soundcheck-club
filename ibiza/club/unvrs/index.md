@@ -1,6 +1,6 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 48 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "elrow Ibiza" on Sat, 22 Aug 2026.
+[UNVRS] is a music venue in Ibiza with 48 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "elrow Ibiza" on Sat, 22 Aug 2026.
 
 [UNVRS] is a music venue in Ibiza listed on soundcheck. 48 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
@@ -23,4 +23,4 @@
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

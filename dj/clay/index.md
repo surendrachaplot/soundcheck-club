@@ -1,6 +1,6 @@
 # Clay
 
-Clay is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Departamento, Mexico City on Wed, 19 Aug 2026.
+Clay is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Departamento, Mexico City on Wed, 19 Aug 2026.
 
 Clay is a house and downtempo artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Mexicocity and Milan. Often billed alongside DJ EL, PATO WATSON and ArmaDisco. Next up: Departamento, Mexicocity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Clay is a house and downtempo artist based in Italy, tracked on soundcheck, with
 
 DJ EL, PATO WATSON, ArmaDisco
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clay/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clay/)*

@@ -1,6 +1,6 @@
 # ali e.
 
-ali e. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
+ali e. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
 
 ali e. is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Hamburg and Leipzig. Often billed alongside beccs, Aii PS and Elle C Ductive. Next up: Distillery, Leipzig on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ali e. is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 beccs, Aii PS, Elle C Ductive
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alie./)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alie./)*

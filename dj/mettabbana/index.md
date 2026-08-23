@@ -1,6 +1,6 @@
 # Mettabbana
 
-Mettabbana is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Flash, Washington DC on Sun, 4 Oct 2026.
+Mettabbana is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Flash, Washington DC on Sun, 4 Oct 2026.
 
 Mettabbana is a house and deep house artist tracked on soundcheck, with 20 sets logged across Hamburg and Washingtondc. Often billed alongside TierraDelFuego, Jus Nowhere and TiERRA. Next up: Flash, Washingtondc on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mettabbana is a house and deep house artist tracked on soundcheck, with 20 sets 
 
 TierraDelFuego, Jus Nowhere, TiERRA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mettabbana/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mettabbana/)*

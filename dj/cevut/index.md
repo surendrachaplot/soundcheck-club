@@ -1,6 +1,6 @@
 # Čevut
 
-Čevut is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
+Čevut is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
 
 Čevut is a techno and minimal techno artist tracked on soundcheck, with 15 sets logged across Belgrade. Often billed alongside Impedance, Balša and Dažbog. Next up: Para Klub Beograd, Belgrade on Sun 13 Sept.
 
@@ -25,4 +25,4 @@
 
 Impedance, Balša, Dažbog
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cevut/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cevut/)*

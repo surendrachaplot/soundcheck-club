@@ -1,6 +1,6 @@
 # YELLOWUHURU
 
-YELLOWUHURU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Dual, Bangkok on Fri, 28 Aug 2026.
+YELLOWUHURU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dual, Bangkok on Fri, 28 Aug 2026.
 
 YELLOWUHURU is a house and techno artist tracked on soundcheck, with 190 sets logged across Bangkok, Berlin, Hongkong and Kyoto and 4 more. Often billed alongside suimin, YAMARCHY and bungo. Next up: Dual, Bangkok on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ YELLOWUHURU is a house and techno artist tracked on soundcheck, with 190 sets lo
 
 suimin, YAMARCHY, bungo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yellowuhuru/)*

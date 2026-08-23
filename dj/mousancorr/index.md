@@ -1,6 +1,6 @@
 # Mousan Corr
 
-Mousan Corr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Culture Box, Copenhagen on Fri, 2 Oct 2026.
+Mousan Corr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Culture Box, Copenhagen on Fri, 2 Oct 2026.
 
 Mousan Corr is a house and disco artist tracked on soundcheck, with 23 sets logged across Copenhagen. Often billed alongside Tim Andresen, NILU and Aja Gulris. Next up: Culture Box, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mousan Corr is a house and disco artist tracked on soundcheck, with 23 sets logg
 
 Tim Andresen, NILU, Aja Gulris
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mousancorr/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mousancorr/)*

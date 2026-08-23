@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
+Locklead is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
 
 Locklead is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: Mint Warehouse, Leeds on Sun 30 Aug.
 
@@ -36,4 +36,4 @@ Locklead is a house and tech house artist tracked on soundcheck, with 188 sets l
 
 Marsolo, Chris Stassy, East End Dubs
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

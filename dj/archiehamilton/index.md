@@ -1,14 +1,13 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sunset Park Rooftop, New York City on Sat, 22 Aug 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 25 Aug 2026.
 
-Archie Hamilton is a house and tech house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Sunset Park Rooftop, Newyorkcity on Sat 22 Aug.
+Archie Hamilton is a house and tech house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Amnesia Ibiza, Ibiza on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Sunset Park Rooftop | New York City |
 | Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Los Angeles State Historic Park | Los Angeles |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 205
 
 ## Recently played
 
+- Sunset Park Rooftop, New York City — Sat, 22 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 21 Aug 2026
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - [UNVRS], Ibiza — Wed, 5 Aug 2026
@@ -30,10 +30,9 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 205
 - NUMBER 90 LONDON, London — Fri, 17 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 14 Jul 2026
 - Ku Barcelona, Barcelona — Fri, 19 Jun 2026
-- Playa Soleil Ibiza, Ibiza — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

@@ -1,6 +1,6 @@
 # Your Unkle Magik
 
-Your Unkle Magik is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Your Unkle Magik is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 Your Unkle Magik is a house and deep house artist tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside Ian Llorens, DJ Sneak and Gilbert0. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Losangeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Your Unkle Magik is a house and deep house artist tracked on soundcheck, with 10
 
 Ian Llorens, DJ Sneak, Gilbert0
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourunklemagik/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourunklemagik/)*

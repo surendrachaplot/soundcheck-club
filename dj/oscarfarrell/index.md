@@ -1,18 +1,18 @@
 # Oscar Farrell
 
-Oscar Farrell is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Greyhound, London on Sat, 22 Aug 2026.
+Oscar Farrell is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Night Tales, London on Thu, 27 Aug 2026.
 
-Oscar Farrell is a house and tech house artist tracked on soundcheck, with 25 sets logged across London, Losangeles, Manchester and Newyorkcity and 1 more. Often billed alongside George Daniel, Kelly Lee Owens and 2D0GS. Next up: The Greyhound, London on Sat 22 Aug.
+Oscar Farrell is a house and tech house artist tracked on soundcheck, with 25 sets logged across London, Losangeles, Manchester and Newyorkcity and 1 more. Often billed alongside George Daniel, Kelly Lee Owens and 2D0GS. Next up: Night Tales, London on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | The Greyhound | London |
 | Thu, 27 Aug 2026 | Night Tales | London |
 
 ## Recently played
 
+- The Greyhound, London — Sat, 22 Aug 2026
 - fabric, London — Thu, 9 Jul 2026
 - Colour Factory, London — Fri, 12 Jun 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
@@ -20,10 +20,9 @@ Oscar Farrell is a house and tech house artist tracked on soundcheck, with 25 se
 - Phonica Records, London — Wed, 29 Apr 2026
 - Palais, London — Thu, 23 Apr 2026
 - The Glove That Fits, London — Fri, 17 Apr 2026
-- TBA - Downtown LA, Los Angeles — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 George Daniel, Kelly Lee Owens, 2D0GS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfarrell/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfarrell/)*

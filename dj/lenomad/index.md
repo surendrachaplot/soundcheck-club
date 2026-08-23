@@ -1,6 +1,6 @@
 # Le Nomad
 
-Le Nomad is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at El Internacional, Madrid on Sat, 22 Aug 2026.
+Le Nomad is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at El Internacional, Madrid on Sat, 22 Aug 2026.
 
 Le Nomad is a house and electronica artist tracked on soundcheck, with 74 sets logged across Barcelona, Budapest, Madrid and Newyorkcity and 1 more. Often billed alongside Foie Gras, Antoine. and 1Night Only. Next up: El Internacional, Madrid on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Le Nomad is a house and electronica artist tracked on soundcheck, with 74 sets l
 
 ## Recently played
 
+- El Internacional, Madrid — Sat, 22 Aug 2026
 - berlinClub, Madrid — Fri, 10 Jul 2026
 - Subcero Club, Madrid — Sat, 27 Jun 2026
 - Cadavra, Madrid — Sat, 20 Jun 2026
@@ -20,10 +21,9 @@ Le Nomad is a house and electronica artist tracked on soundcheck, with 74 sets l
 - Say No More Madrid, Madrid — Sat, 13 Jun 2026
 - 303 Audiophile Bar, Barcelona — Fri, 5 Jun 2026
 - Subcero Club, Madrid — Fri, 29 May 2026
-- Gilda Club, Madrid — Fri, 22 May 2026
 
 ## Shares bills with
 
 Foie Gras, Antoine., 1Night Only
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenomad/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenomad/)*

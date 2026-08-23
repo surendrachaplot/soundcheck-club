@@ -1,6 +1,6 @@
 # Vitor Batista
 
-Vitor Batista is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 23 Aug 2026.
+Vitor Batista is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 23 Aug 2026.
 
 Vitor Batista is a techno and electronica artist based in Portugal, tracked on soundcheck, with 13 sets logged across Lisbon. Often billed alongside Schlingen, Diana Oliveira and Gear. Next up: Harbour Music Shelter, Lisbon on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Vitor Batista is a techno and electronica artist based in Portugal, tracked on s
 
 Schlingen, Diana Oliveira, Gear
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorbatista/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorbatista/)*

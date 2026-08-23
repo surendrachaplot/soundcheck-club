@@ -1,6 +1,6 @@
 # INVT
 
-INVT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Art Club, Houston on Fri, 28 Aug 2026.
+INVT is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Art Club, Houston on Fri, 28 Aug 2026.
 
 INVT is a house and techno artist tracked on soundcheck, with 125 sets logged across Barcelona, Berlin, Birmingham and Bristol and 31 more. Often billed alongside Danny Daze, Jubilee and Jonny From Space. Next up: Art Club, Houston on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ INVT is a house and techno artist tracked on soundcheck, with 125 sets logged ac
 
 Danny Daze, Jubilee, Jonny From Space
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

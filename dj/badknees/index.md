@@ -1,6 +1,6 @@
 # Badknees
 
-Badknees is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hule, Mexico City on Wed, 19 Aug 2026.
+Badknees is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hule, Mexico City on Wed, 19 Aug 2026.
 
 Badknees is a downtempo and house artist tracked on soundcheck, with 18 sets logged across Mexicocity. Often billed alongside SWIMS, FEROTO and Alejandro Veneno. Next up: Hule, Mexicocity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Badknees is a downtempo and house artist tracked on soundcheck, with 18 sets log
 
 SWIMS, FEROTO, Alejandro Veneno
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badknees/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badknees/)*

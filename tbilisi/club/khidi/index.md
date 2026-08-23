@@ -1,6 +1,6 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "G2: Gunmen with Silencer, Steinblum, Tekachimo" on Sat, 22 Aug 2026.
+KHIDI is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "G2: Gunmen with Silencer, Steinblum, Tekachimo" on Sat, 22 Aug 2026.
 
 KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, with line-ups including Dali (GE), Frequency Shifter, Gunmen With Silencer and Obstructor and 1 more. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
@@ -16,4 +16,4 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, with 
 
 Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

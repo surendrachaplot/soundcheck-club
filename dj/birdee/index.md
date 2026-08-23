@@ -1,6 +1,6 @@
 # Birdee
 
-Birdee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 11 Sept 2026.
+Birdee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 11 Sept 2026.
 
 Birdee is a house and disco artist tracked on soundcheck, with 22 sets logged across Berlin, Leeds, London and Losangeles and 5 more. Often billed alongside Bustin' Loose, Colour Vision and Monsieur Van Pratt. Next up: Dead Letter No. 9, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Birdee is a house and disco artist tracked on soundcheck, with 22 sets logged ac
 
 Bustin' Loose, Colour Vision, Monsieur Van Pratt
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/birdee/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/birdee/)*

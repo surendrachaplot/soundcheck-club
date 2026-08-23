@@ -1,8 +1,8 @@
 # Spin
 
-Spin is a music venue in San Diego with 14 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "SUNLIGHT SOCIAL W/ Oliver Koletzki" on Sun, 23 Aug 2026.
+Spin is a music venue in San Diego with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "SUNLIGHT SOCIAL W/ Oliver Koletzki" on Sun, 23 Aug 2026.
 
-Spin is a music venue in Sandiego listed on soundcheck. 14 upcoming nights, with line-ups including 6 SENSE, aali, Apache and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
+Spin is a music venue in Sandiego listed on soundcheck. 15 upcoming nights, with line-ups including 6 SENSE, aali, Apache and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 14 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

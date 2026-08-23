@@ -1,6 +1,6 @@
 # Franco Rossi
 
-Franco Rossi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eventhuset, Stockholm on Sat, 22 Aug 2026.
+Franco Rossi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eventhuset, Stockholm on Sat, 22 Aug 2026.
 
 Franco Rossi is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: Eventhuset, Stockholm on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Franco Rossi is a techno and house artist tracked on soundcheck, with 54 sets lo
 
 ## Recently played
 
+- Eventhuset, Stockholm — Sat, 22 Aug 2026
 - Sunseabar Beach Club, Barcelona — Thu, 30 Jul 2026
 - Sigma, Ibiza — Sat, 20 Jun 2026
 - 7833 Soundlab, Barcelona — Sat, 13 Jun 2026
@@ -20,10 +21,9 @@ Franco Rossi is a techno and house artist tracked on soundcheck, with 54 sets lo
 - M7 Club, Barcelona — Sun, 24 May 2026
 - Renate, Berlin — Sat, 9 May 2026
 - Les Enfants Brillants, Barcelona — Thu, 23 Apr 2026
-- Under Club, Buenos Aires — Sun, 22 Mar 2026
 
 ## Shares bills with
 
 JXXXO, ANDRØMEDA, Ana Alves
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*

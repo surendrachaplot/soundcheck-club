@@ -1,6 +1,6 @@
 # Steinblum
 
-Steinblum is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at KHIDI, Tbilisi on Sat, 22 Aug 2026.
+Steinblum is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KHIDI, Tbilisi on Sat, 22 Aug 2026.
 
 Steinblum is an electronic artist tracked on soundcheck, with 8 sets logged across Tbilisi. Often billed alongside Gunmen With Silencer, Sani and Bekuchi. Next up: KHIDI, Tbilisi on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Steinblum is an electronic artist tracked on soundcheck, with 8 sets logged acro
 
 ## Recently played
 
+- KHIDI, Tbilisi — Sat, 22 Aug 2026
 - KHIDI, Tbilisi — Sat, 21 Feb 2026
 - Left Bank, Tbilisi — Fri, 26 Dec 2025
 - Left Bank, Tbilisi — Fri, 5 Sept 2025
@@ -24,4 +25,4 @@ Steinblum is an electronic artist tracked on soundcheck, with 8 sets logged acro
 
 Gunmen With Silencer, Sani, Bekuchi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steinblum/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steinblum/)*

@@ -1,6 +1,6 @@
 # Zemin Art Gallery
 
-Zemin Art Gallery is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "TASTE OF GRACE" on Fri, 11 Sept 2026.
+Zemin Art Gallery is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "TASTE OF GRACE" on Fri, 11 Sept 2026.
 
 Zemin Art Gallery is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including House Of Grace and Lady J (Berlin). Browse upcoming dates, start times and who's playing. Urbanstraße 3, 10961 Berlin.
 
@@ -14,4 +14,4 @@ Zemin Art Gallery is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Urbanstraße 3, 10961 Berlin, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zemin-art-gallery/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zemin-art-gallery/)*

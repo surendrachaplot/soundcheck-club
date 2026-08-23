@@ -1,6 +1,6 @@
 # Cataract
 
-Cataract is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
+Cataract is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
 
 Cataract is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Chicago, Losangeles and Newyorkcity. Often billed alongside Ben Chaddha, Trader O and Choo Choo. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Cataract is a house and techno artist based in United States of America, tracked
 
 Ben Chaddha, Trader O, Choo Choo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cataract/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cataract/)*

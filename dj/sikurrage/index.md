@@ -1,6 +1,6 @@
 # Si Kurrage
 
-Si Kurrage is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
+Si Kurrage is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
 
 Si Kurrage is a disco and house artist tracked on soundcheck, with 24 sets logged across Ibiza and London. Often billed alongside Mr Shiver, Sancho Panza and Stuart Patterson. Next up: The North London Tavern, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Si Kurrage is a disco and house artist tracked on soundcheck, with 24 sets logge
 
 Mr Shiver, Sancho Panza, Stuart Patterson
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikurrage/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikurrage/)*

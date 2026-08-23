@@ -1,6 +1,6 @@
 # DJ Treibsand
 
-DJ Treibsand is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ikii, Berlin on Wed, 26 Aug 2026.
+DJ Treibsand is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ikii, Berlin on Wed, 26 Aug 2026.
 
 DJ Treibsand is an ambient and experimental artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside 0dysseus, Benjamin Freeney and 3.14. Next up: Ikii, Berlin on Wed 26 Aug.
 
@@ -23,4 +23,4 @@ DJ Treibsand is an ambient and experimental artist tracked on soundcheck, with 7
 
 0dysseus, Benjamin Freeney, 3.14
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtreibsand/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtreibsand/)*

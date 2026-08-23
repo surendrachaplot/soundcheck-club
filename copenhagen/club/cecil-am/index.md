@@ -1,6 +1,6 @@
 # Cecil AM
 
-Cecil AM is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Olof Dreijer (SE) (The Knife)" on Sat, 24 Oct 2026.
+Cecil AM is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Olof Dreijer (SE) (The Knife)" on Sat, 24 Oct 2026.
 
 Cecil AM is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Olof Dreijer. Browse upcoming dates, start times and who's playing. Niels Hemmingsens Gade 10, 1153 København, Denmark.
 
@@ -14,4 +14,4 @@ Cecil AM is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, 
 
 Niels Hemmingsens Gade 10, 1153 København, Denmark, Copenhagen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/cecil-am/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/cecil-am/)*

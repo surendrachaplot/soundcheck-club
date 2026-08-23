@@ -1,14 +1,13 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "bug bop" on Sat, 22 Aug 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "EAST COAST POWER DYNAMICS" on Thu, 27 Aug 2026.
 
-Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 5 upcoming nights, with line-ups including Brad Scott, Deluxe Ultra, DJ Baby Berlin and Firestone and 2 more. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
+Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Brad Scott, DJ Baby Berlin and Justin Carver. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | bug bop | Deluxe Ultra, Firestone, hopifer, lorboo |
 | Thu, 27 Aug 2026 | EAST COAST POWER DYNAMICS | Justin Carver |
 | Fri, 28 Aug 2026 | Disco 2000 - Millennial Trash Dance Party For All | Brad Scott, DJ Baby Berlin |
 | Thu, 24 Sept 2026 | EAST COAST POWER DYNAMICS CABS PREPARTY |  |
@@ -18,4 +17,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 5 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

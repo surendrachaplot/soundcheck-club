@@ -1,6 +1,6 @@
 # stilli
 
-stilli is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 27 Aug 2026.
+stilli is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 27 Aug 2026.
 
 stilli is an electronic artist tracked on soundcheck, with 16 sets logged across Berlin and Munich. Often billed alongside back2beanie, P1RELLI and Knallplatten. Next up: Bahnwärter Thiel, Munich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ stilli is an electronic artist tracked on soundcheck, with 16 sets logged across
 
 back2beanie, P1RELLI, Knallplatten
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stilli/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stilli/)*

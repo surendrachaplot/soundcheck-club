@@ -1,6 +1,6 @@
 # Grima & Azza
 
-Grima & Azza is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Grima & Azza is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Grima & Azza are a drum & bass and jungle duo tracked on soundcheck, with 15 sets logged across Amsterdam, Birmingham, Bristol and Leeds and 1 more. Often billed alongside Benny L, Logan D and Eksman. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Grima & Azza are a drum & bass and jungle duo tracked on soundcheck, with 15 set
 
 Benny L, Logan D, Eksman
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grimaazza/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grimaazza/)*

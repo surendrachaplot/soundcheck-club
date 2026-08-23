@@ -1,6 +1,6 @@
 # Nogue (ES)
 
-Nogue (ES) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Specka, Madrid on Fri, 18 Sept 2026.
+Nogue (ES) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Specka, Madrid on Fri, 18 Sept 2026.
 
 Nogue (ES) is an electronica and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona and Madrid. Often billed alongside BENZA, David Ponziano and Deceit. Next up: Specka, Madrid on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Nogue (ES) is an electronica and house artist based in Spain, tracked on soundch
 
 BENZA, David Ponziano, Deceit
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nogue-madrid/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nogue-madrid/)*

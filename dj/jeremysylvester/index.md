@@ -1,14 +1,13 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Basing House, London on Sat, 22 Aug 2026.
+Jeremy Sylvester is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Drop inn, Birmingham on Sat, 29 Aug 2026.
 
-Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: Basing House, London on Sat 22 Aug.
+Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: The Drop inn, Birmingham on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Basing House | London |
 | Sat, 29 Aug 2026 | The Drop inn | Birmingham |
 | Sun, 6 Sept 2026 | Freight Island | Manchester |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
@@ -17,6 +16,7 @@ Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 111 se
 
 ## Recently played
 
+- Basing House, London — Sat, 22 Aug 2026
 - Starlane Pizza Bar, London — Sat, 8 Aug 2026
 - Gaffe, London — Sat, 18 Jul 2026
 - Document, Bristol — Sat, 11 Jul 2026
@@ -24,10 +24,9 @@ Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 111 se
 - Plot 22, Sheffield — Sat, 27 Jun 2026
 - Distrikt, Leeds — Sat, 20 Jun 2026
 - ZeyZey, Miami — Sat, 6 Jun 2026
-- Nowadays, New York City — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

@@ -1,6 +1,6 @@
 # ADUBZ
 
-ADUBZ is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Evangeline, Toronto on Thu, 27 Aug 2026.
+ADUBZ is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Evangeline, Toronto on Thu, 27 Aug 2026.
 
 ADUBZ is a house and club artist tracked on soundcheck, with 5 sets logged across Sanfrancisco and Toronto. Often billed alongside Mackswell. Next up: Evangeline, Toronto on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ ADUBZ is a house and club artist tracked on soundcheck, with 5 sets logged acros
 
 Mackswell
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adubz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adubz/)*

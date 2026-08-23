@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "RAZZCLUBS:  Saint Ludo + NUMEN: Regis Live + Kwartz + Oran Ray Live & MORE" on Sat, 22 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "RAZZCLUBS:  Saint Ludo + NUMEN: Regis Live + Kwartz + Oran Ray Live & MORE" on Sat, 22 Aug 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Alienata, Ana Alves, Anika Kunst and Antiribeiro and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 15 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

@@ -1,6 +1,6 @@
 # Utip
 
-Utip is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Riga Wake, Riga on Sat, 29 Aug 2026.
+Utip is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Riga Wake, Riga on Sat, 29 Aug 2026.
 
 Utip is a house and minimal artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Hypnoize, Isaac Elejalde and Danilo Schneider. Next up: Riga Wake, Riga on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Utip is a house and minimal artist tracked on soundcheck, with 31 sets logged ac
 
 Hypnoize, Isaac Elejalde, Danilo Schneider
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*

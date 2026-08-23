@@ -1,6 +1,6 @@
 # Hugo (US)
 
-Hugo (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
+Hugo (US) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Roof Terrace BK, New York City on Sun, 23 Aug 2026.
 
 Hugo (US) is a house and techno artist tracked on soundcheck, with 21 sets logged across Boston, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Taiga, Burchan Acar and Rama NYC. Next up: Roof Terrace BK, Newyorkcity on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Hugo (US) is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 Taiga, Burchan Acar, Rama NYC
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugo-dj-usa/)*

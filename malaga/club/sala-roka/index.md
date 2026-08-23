@@ -1,6 +1,6 @@
 # Sala Roka
 
-Sala Roka is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Abstract presenta: Feria de Malaga" on Sat, 22 Aug 2026.
+Sala Roka is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Abstract presenta: Feria de Malaga" on Sat, 22 Aug 2026.
 
 Sala Roka is a music venue in Malaga listed on soundcheck. 1 upcoming night, with line-ups including BIXBITA and Fhiga. Browse upcoming dates, start times and who's playing. Calle Leda Nº1 29006.
 
@@ -14,4 +14,4 @@ Sala Roka is a music venue in Malaga listed on soundcheck. 1 upcoming night, wit
 
 Calle Leda Nº1 29006, Malaga
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sala-roka/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sala-roka/)*

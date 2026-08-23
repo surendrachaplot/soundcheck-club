@@ -1,6 +1,6 @@
 # PØVE
 
-PØVE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
+PØVE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ÆDEN, Berlin on Sat, 22 Aug 2026.
 
 PØVE is a techno and industrial artist based in Spain, tracked on soundcheck, with 9 sets logged across Berlin and Madrid. Often billed alongside MAURER, VOICEX and Santos.. Next up: ÆDEN, Berlin on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ PØVE is a techno and industrial artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
+- ÆDEN, Berlin — Sat, 22 Aug 2026
 - Lokschuppen Berlin, Berlin — Sat, 6 Jun 2026
 - ÆDEN, Berlin — Sat, 13 Dec 2025
 - ÆDEN, Berlin — Sat, 18 Oct 2025
@@ -19,10 +20,9 @@ PØVE is a techno and industrial artist based in Spain, tracked on soundcheck, w
 - TBA, Berlin — Sat, 1 Mar 2025
 - Sala Pirandello, Madrid — Fri, 23 Aug 2024
 - Patones, Madrid — Sat, 15 Jun 2024
-- Sala ON Madrid, Madrid — Fri, 5 May 2023
 
 ## Shares bills with
 
 MAURER, VOICEX, Santos.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pove/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pove/)*

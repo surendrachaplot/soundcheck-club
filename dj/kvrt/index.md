@@ -1,6 +1,6 @@
 # Kvrt
 
-Kvrt is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Flinders, Sydney on Sat, 19 Sept 2026.
+Kvrt is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Flinders, Sydney on Sat, 19 Sept 2026.
 
 Kvrt is a techno and industrial artist based in Germany, tracked on soundcheck, with 18 sets logged across Sydney. Often billed alongside pretzelz, Bleach and ARTISAH. Next up: The Flinders, Sydney on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kvrt is a techno and industrial artist based in Germany, tracked on soundcheck, 
 
 pretzelz, Bleach, ARTISAH
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvrt/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvrt/)*

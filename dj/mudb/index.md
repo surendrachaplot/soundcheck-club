@@ -1,6 +1,6 @@
 # Mu dB
 
-Mu dB is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Atelier Gardens Campus, Berlin on Sat, 5 Sept 2026.
+Mu dB is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Atelier Gardens Campus, Berlin on Sat, 5 Sept 2026.
 
 Mu dB is a deep house and house artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside The Pushamann, Fletchy Boy and Maik Yells. Next up: Atelier Gardens Campus, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mu dB is a deep house and house artist tracked on soundcheck, with 14 sets logge
 
 The Pushamann, Fletchy Boy, Maik Yells
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mudb/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mudb/)*

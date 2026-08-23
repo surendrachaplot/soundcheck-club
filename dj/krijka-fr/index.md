@@ -1,6 +1,6 @@
 # Krijka
 
-Krijka is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
+Krijka is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Stoked&stoned, Seoul on Sun, 23 Aug 2026.
 
 Krijka is a techno and tech house artist tracked on soundcheck, with 141 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: Stoked&stoned, Seoul on Sun 23 Aug.
 
@@ -28,4 +28,4 @@ Krijka is a techno and tech house artist tracked on soundcheck, with 141 sets lo
 
 Mihak, Lyumin, Oho.
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*

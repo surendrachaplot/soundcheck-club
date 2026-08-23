@@ -1,6 +1,6 @@
 # IV33
 
-IV33 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Belgrade on Sat, 22 Aug 2026.
+IV33 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Belgrade on Sat, 22 Aug 2026.
 
 IV33 is a trance and techno artist tracked on soundcheck, with 3 sets logged across Belgrade. Often billed alongside Freezly, MARKO BEZA and Moose D. Next up: TBA, Belgrade on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ IV33 is a trance and techno artist tracked on soundcheck, with 3 sets logged acr
 
 ## Recently played
 
+- TBA, Belgrade — Sat, 22 Aug 2026
 - Kult, Belgrade — Thu, 4 Jun 2026
 - Kult, Belgrade — Thu, 29 Jan 2026
 
@@ -19,4 +20,4 @@ IV33 is a trance and techno artist tracked on soundcheck, with 3 sets logged acr
 
 Freezly, MARKO BEZA, Moose D
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iv33/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iv33/)*

@@ -1,6 +1,6 @@
 # ANDRØMEDA
 
-ANDRØMEDA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Jasna 1, Warsaw on Sat, 5 Sept 2026.
+ANDRØMEDA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jasna 1, Warsaw on Sat, 5 Sept 2026.
 
 ANDRØMEDA is a techno and industrial artist tracked on soundcheck, with 35 sets logged across Barcelona, Brighton, Hongkong and Krakow and 4 more. Often billed alongside Vi (PL), Gareth Wild and Aaron Liberator. Next up: Jasna 1, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ANDRØMEDA is a techno and industrial artist tracked on soundcheck, with 35 sets
 
 Vi (PL), Gareth Wild, Aaron Liberator
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andromeda-uk/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andromeda-uk/)*

@@ -1,6 +1,6 @@
 # FEVZEE
 
-FEVZEE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 29 Aug 2026.
+FEVZEE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 29 Aug 2026.
 
 FEVZEE is a techno and tech house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin and Istanbul. Often billed alongside Vero Standke, MEEMA and Mattone. Next up: Festsaal Kreuzberg, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ FEVZEE is a techno and tech house artist tracked on soundcheck, with 22 sets log
 
 Vero Standke, MEEMA, Mattone
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fevzee/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fevzee/)*

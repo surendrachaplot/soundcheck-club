@@ -1,6 +1,6 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
+Nu Zau is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
 
 Nu Zau is a minimal and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 24 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Les Enfants Brillants, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nu Zau is a minimal and house artist tracked on soundcheck, with 86 sets logged 
 
 Sepp, Arapu, Sublee
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

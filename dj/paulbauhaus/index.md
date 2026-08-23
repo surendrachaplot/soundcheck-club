@@ -1,6 +1,6 @@
 # Paul Bauhaus
 
-Paul Bauhaus is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Humboldthain Club, Berlin on Sat, 22 Aug 2026.
+Paul Bauhaus is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Humboldthain Club, Berlin on Sat, 22 Aug 2026.
 
 Paul Bauhaus is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Patchy, EZA (DE) and DJ Spaßgetränk. Next up: Humboldthain Club, Berlin on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Paul Bauhaus is a techno and trance artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Humboldthain Club, Berlin — Sat, 22 Aug 2026
 - Humboldthain Club, Berlin — Fri, 24 Jul 2026
 - ÆDEN, Berlin — Fri, 10 Jul 2026
 - Suuud, Berlin — Sun, 21 Jun 2026
@@ -20,10 +21,9 @@ Paul Bauhaus is a techno and trance artist based in Germany, tracked on soundche
 - ÆDEN, Berlin — Fri, 10 Apr 2026
 - Void Club, Berlin — Fri, 27 Mar 2026
 - Void Club, Berlin — Fri, 20 Feb 2026
-- Orangerie Neukölln, Berlin — Sun, 15 Feb 2026
 
 ## Shares bills with
 
 Patchy, EZA (DE), DJ Spaßgetränk
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbauhaus/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbauhaus/)*

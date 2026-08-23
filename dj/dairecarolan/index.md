@@ -1,6 +1,6 @@
 # Daire Carolan
 
-Daire Carolan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
+Daire Carolan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
 
 Daire Carolan is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Dublin and London. Often billed alongside Ally Tropical, Samson A.K and ELLLL. Next up: Paloma, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Daire Carolan is a house and techno artist tracked on soundcheck, with 22 sets l
 
 Ally Tropical, Samson A.K, ELLLL
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dairecarolan/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dairecarolan/)*

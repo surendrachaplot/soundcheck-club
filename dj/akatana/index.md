@@ -1,6 +1,6 @@
 # Akatana
 
-Akatana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
+Akatana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
 
 Akatana is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Paris. Often billed alongside Hubble, Kaloustian and Fanfarrosa. Next up: Perro Loco, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Akatana is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Hubble, Kaloustian, Fanfarrosa
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akatana/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akatana/)*

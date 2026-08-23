@@ -1,6 +1,6 @@
 # BelaBang
 
-BelaBang is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
+BelaBang is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Golden Gate, Berlin on Sat, 29 Aug 2026.
 
 BelaBang is an electronic artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Samuel Fach, A.B.U. and Anestis. Next up: Golden Gate, Berlin on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ BelaBang is an electronic artist based in Germany, tracked on soundcheck, with 2
 
 Samuel Fach, A.B.U., Anestis
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belabang/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belabang/)*

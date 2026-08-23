@@ -1,6 +1,6 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 29 Aug 2026.
+Adam X is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Los Angeles, Los Angeles on Sat, 29 Aug 2026.
 
 Adam X is a techno and acid artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Brussels and Chicago and 14 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: TBA - Los Angeles, Losangeles on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Adam X is a techno and acid artist tracked on soundcheck, with 69 sets logged ac
 
 MAEDON, Frankie Bones, Orphx
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*

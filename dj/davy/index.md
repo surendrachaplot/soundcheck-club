@@ -1,6 +1,6 @@
 # Davy
 
-Davy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Romantica, Stuttgart on Sun, 23 Aug 2026.
+Davy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Romantica, Stuttgart on Sun, 23 Aug 2026.
 
 Davy is a techno and electro artist tracked on soundcheck, with 24 sets logged across Berlin, Brussels, Frankfurt and Ghent and 3 more. Often billed alongside T.A.M.22, Mogus and Annechoic. Next up: Romantica, Stuttgart on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Davy is a techno and electro artist tracked on soundcheck, with 24 sets logged a
 
 T.A.M.22, Mogus, Annechoic
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davy/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davy/)*

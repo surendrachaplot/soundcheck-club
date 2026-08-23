@@ -1,6 +1,6 @@
 # creasedvenetian
 
-creasedvenetian is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Secret Outdoor Location, Brisbane on Sat, 22 Aug 2026.
+creasedvenetian is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Outdoor Location, Brisbane on Sat, 22 Aug 2026.
 
 creasedvenetian is a minimal and minimal techno artist tracked on soundcheck, with 6 sets logged across Brisbane. Often billed alongside pudding, Lamache and Nathan Pinder. Next up: TBA - Secret Outdoor Location, Brisbane on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ creasedvenetian is a minimal and minimal techno artist tracked on soundcheck, wi
 
 ## Recently played
 
+- TBA - Secret Outdoor Location, Brisbane — Sat, 22 Aug 2026
 - Bakery Lane, Brisbane — Sun, 19 Jul 2026
 - Black Bear Lodge, Brisbane — Sun, 3 May 2026
 - TBA - 454 Brunswick Street, Fortitude Valley, Brisbane — Sun, 5 Apr 2026
@@ -22,4 +23,4 @@ creasedvenetian is a minimal and minimal techno artist tracked on soundcheck, wi
 
 pudding, Lamache, Nathan Pinder
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creasedvenetian/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/creasedvenetian/)*

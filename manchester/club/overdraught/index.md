@@ -1,6 +1,6 @@
 # OverDraught
 
-OverDraught is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "PACE" on Sat, 19 Sept 2026.
+OverDraught is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "PACE" on Sat, 19 Sept 2026.
 
 OverDraught is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 855 Stockport Rd, Manchester M19 3PW, United Kingdom.
 
@@ -14,4 +14,4 @@ OverDraught is a music venue in Manchester listed on soundcheck. 1 upcoming nigh
 
 855 Stockport Rd, Manchester M19 3PW, United Kingdom, Manchester
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/overdraught/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/overdraught/)*

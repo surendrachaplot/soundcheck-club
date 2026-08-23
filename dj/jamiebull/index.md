@@ -1,6 +1,6 @@
 # Jamie Bull
 
-Jamie Bull is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Jamie Bull is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Jamie Bull is a house and disco artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Barcelona, Bristol, London and Manchester and 1 more. Often billed alongside Gina Breeze, Will TRAMP! and Erol Alkan. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jamie Bull is a house and disco artist based in United Kingdom, tracked on sound
 
 Gina Breeze, Will TRAMP!, Erol Alkan
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebull/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebull/)*

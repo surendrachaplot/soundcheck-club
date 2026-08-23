@@ -1,6 +1,6 @@
 # Noiro
 
-Noiro is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at 303 Audiophile Bar, Barcelona on Thu, 17 Sept 2026.
+Noiro is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 303 Audiophile Bar, Barcelona on Thu, 17 Sept 2026.
 
 Noiro is a house and electro artist tracked on soundcheck, with 16 sets logged across Barcelona, Marseille and Paris. Often billed alongside LEGRAM VG, Alyhas and Arthur Nozen. Next up: 303 Audiophile Bar, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Noiro is a house and electro artist tracked on soundcheck, with 16 sets logged a
 
 LEGRAM VG, Alyhas, Arthur Nozen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noiro/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noiro/)*

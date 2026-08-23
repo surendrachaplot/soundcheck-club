@@ -1,6 +1,6 @@
 # Maggie
 
-Maggie is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Le Makeda, Marseille on Fri, 4 Sept 2026.
+Maggie is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Le Makeda, Marseille on Fri, 4 Sept 2026.
 
 Maggie is a bass and breakbeat artist based in France, tracked on soundcheck, with 8 sets logged across Istanbul, Marseille, Paris and Seoul. Often billed alongside ANDOW, Aloka and Annie. Next up: Le Makeda, Marseille on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Maggie is a bass and breakbeat artist based in France, tracked on soundcheck, wi
 
 ANDOW, Aloka, Annie
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggie/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggie/)*

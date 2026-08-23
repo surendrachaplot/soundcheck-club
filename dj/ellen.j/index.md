@@ -1,6 +1,6 @@
 # ellen.j
 
-ellen.j is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 3 Sept 2026.
+ellen.j is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 3 Sept 2026.
 
 ellen.j is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Newyorkcity. Often billed alongside elle xxo, Connector and Cowgrrrl. Next up: Dead Letter No. 9, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ ellen.j is a house and techno artist based in United States of America, tracked 
 
 elle xxo, Connector, Cowgrrrl
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellen.j/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellen.j/)*

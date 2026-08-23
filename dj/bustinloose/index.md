@@ -1,6 +1,6 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Bustin' Loose is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 Bustin' Loose is a house and disco artist tracked on soundcheck, with 150 sets logged across Aberdeen, Amsterdam, Antwerp and Berlin and 15 more. Often billed alongside Tatiana, Magnolia_ and Roland & Brother Rich. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -17,6 +17,7 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 150 sets l
 
 ## Recently played
 
+- Pier 78 at Hudson River Park, New York City — Sat, 22 Aug 2026
 - Ciao Ciao, New York City — Sat, 15 Aug 2026
 - Vera Cocina & بار, Washington DC — Fri, 7 Aug 2026
 - Vera Cocina & بار, Washington DC — Fri, 7 Aug 2026
@@ -24,10 +25,9 @@ Bustin' Loose is a house and disco artist tracked on soundcheck, with 150 sets l
 - Ciao Ciao, New York City — Sat, 11 Jul 2026
 - XOYO, London — Sat, 4 Jul 2026
 - Ciao Ciao, New York City — Sat, 13 Jun 2026
-- Superior Ingredients, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Tatiana, Magnolia_, Roland & Brother Rich
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

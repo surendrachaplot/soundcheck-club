@@ -1,6 +1,6 @@
 # Donis
 
-Donis is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
+Donis is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
 
 Donis is a house and techno artist based in United States of America, tracked on soundcheck, with 140 sets logged across Barcelona, Boston, Chicago and Detroit and 6 more. Often billed alongside Total XTC, JADALAREIGN and k.tea. Next up: fabric, London on Sat 22 Aug.
 
@@ -16,6 +16,7 @@ Donis is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
+- fabric, London — Sat, 22 Aug 2026
 - Signal, New York City — Fri, 21 Aug 2026
 - Dead Letter No. 9, New York City — Sun, 16 Aug 2026
 - MAD Radio NYC, New York City — Fri, 14 Aug 2026
@@ -23,10 +24,9 @@ Donis is a house and techno artist based in United States of America, tracked on
 - Paragon, New York City — Fri, 10 Jul 2026
 - Xanadu, New York City — Sun, 5 Jul 2026
 - Le Bain, New York City — Sat, 4 Jul 2026
-- House of Yes, New York City — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Total XTC, JADALAREIGN, k.tea
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donis/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donis/)*

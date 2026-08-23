@@ -1,6 +1,6 @@
 # Geeneus
 
-Geeneus is a UK Funky and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paradise, London on Mon, 31 Aug 2026.
+Geeneus is a UK Funky and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paradise, London on Mon, 31 Aug 2026.
 
 Geeneus is an uk funky and afrobeat artist tracked on soundcheck, with 14 sets logged across Bristol and London. Often billed alongside Katy B, Oneman and Tippa. Next up: Paradise, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Geeneus is an uk funky and afrobeat artist tracked on soundcheck, with 14 sets l
 
 Katy B, Oneman, Tippa
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geeneus/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geeneus/)*

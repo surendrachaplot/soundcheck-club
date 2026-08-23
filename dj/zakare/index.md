@@ -1,6 +1,6 @@
 # ZAKARE
 
-ZAKARE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Mtkvarze, Tbilisi on Sat, 22 Aug 2026.
+ZAKARE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mtkvarze, Tbilisi on Sat, 22 Aug 2026.
 
 ZAKARE is a techno and tech house artist based in Georgia, tracked on soundcheck, with 8 sets logged across Berlin and Tbilisi. Often billed alongside LEZHAVA, APOLLOH and BLACK ANTHEM RESTORE. Next up: Mtkvarze, Tbilisi on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ ZAKARE is a techno and tech house artist based in Georgia, tracked on soundcheck
 
 ## Recently played
 
+- Mtkvarze, Tbilisi — Sat, 22 Aug 2026
 - OXI, Berlin — Tue, 28 Jul 2026
 - Sensorium, Berlin — Sat, 25 Jul 2026
 - KHIDI, Tbilisi — Sat, 27 Dec 2025
@@ -24,4 +25,4 @@ ZAKARE is a techno and tech house artist based in Georgia, tracked on soundcheck
 
 LEZHAVA, APOLLOH, BLACK ANTHEM RESTORE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakare/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakare/)*

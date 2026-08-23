@@ -1,6 +1,6 @@
 # Abriss Andrej
 
-Abriss Andrej is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
+Abriss Andrej is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
 
 Abriss Andrej is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside FLOORi, Little Nats and GEMO. Next up: PETER EDEL, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Abriss Andrej is a techno and house artist based in Germany, tracked on soundche
 
 FLOORi, Little Nats, GEMO
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abrissandrej/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abrissandrej/)*

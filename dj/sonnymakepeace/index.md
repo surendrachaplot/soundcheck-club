@@ -1,6 +1,6 @@
 # sonny makepeace
 
-sonny makepeace is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Home, Deptford SE8, London on Sat, 29 Aug 2026.
+sonny makepeace is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Home, Deptford SE8, London on Sat, 29 Aug 2026.
 
 sonny makepeace is a garage and house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside demerara, Calm Stiege and Capo Lee. Next up: TBA - Home, Deptford SE8, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ sonny makepeace is a garage and house artist tracked on soundcheck, with 9 sets 
 
 demerara, Calm Stiege, Capo Lee
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnymakepeace/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnymakepeace/)*

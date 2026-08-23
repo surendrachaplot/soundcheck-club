@@ -1,6 +1,6 @@
 # Pino Peña
 
-Pino Peña is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Pino Peña is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
 
 Pino Peña is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Dusseldorf, Glasgow and Mexicocity and 4 more. Often billed alongside Digabuna, Egotot and wallflower_. Next up: Hoppetosse, Berlin on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Pino Peña is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Hoppetosse, Berlin — Sat, 22 Aug 2026
 - Rote Sonne, Munich — Fri, 7 Aug 2026
 - Rote Sonne, Munich — Fri, 7 Aug 2026
 - Phantom Bar Berlin, Berlin — Fri, 3 Jul 2026
@@ -20,10 +21,9 @@ Pino Peña is a techno and house artist based in Germany, tracked on soundcheck,
 - ://about blank, Berlin — Sat, 18 Apr 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 11 Apr 2026
 - Stereo, Glasgow — Sat, 14 Mar 2026
-- Renate, Berlin — Thu, 4 Dec 2025
 
 ## Shares bills with
 
 Digabuna, Egotot, wallflower_
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pinopena/)*

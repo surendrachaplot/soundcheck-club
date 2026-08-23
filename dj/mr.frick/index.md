@@ -1,6 +1,6 @@
 # Mr. Frick
 
-Mr. Frick is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
+Mr. Frick is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
 
 Mr. Frick is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Denver and Sanfrancisco. Often billed alongside Newnumbertwo, DJ PurRpLeXeD and DSQISE. Next up: TBA - Nineteen25, Denver on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Mr. Frick is a techno and house artist based in United States of America, tracke
 
 Newnumbertwo, DJ PurRpLeXeD, DSQISE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.frick/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.frick/)*

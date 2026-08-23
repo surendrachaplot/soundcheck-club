@@ -1,6 +1,6 @@
 # Hanussen
 
-Hanussen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Atno, Budapest on Sat, 29 Aug 2026.
+Hanussen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Atno, Budapest on Sat, 29 Aug 2026.
 
 Hanussen is a house and techno artist tracked on soundcheck, with 42 sets logged across Budapest. Often billed alongside Kekrim, Knoll and MAROSI. Next up: Atno, Budapest on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hanussen is a house and techno artist tracked on soundcheck, with 42 sets logged
 
 Kekrim, Knoll, MAROSI
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanussen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanussen/)*

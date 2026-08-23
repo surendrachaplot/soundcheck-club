@@ -1,15 +1,13 @@
 # Eavesdrop
 
-Eavesdrop is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Bodega Bruja" on Sat, 22 Aug 2026.
+Eavesdrop is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "DJ Dan C.E." on Sun, 23 Aug 2026.
 
-Eavesdrop is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including Alien D, antron, Bodega Bruja and Cosmo and 2 more. Browse upcoming dates, start times and who's playing. 674 Manhattan Avenue, Brooklyn NY 11222.
+Eavesdrop is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Alien D, antron, Dynoman and HunnyBunny and 2 more. Browse upcoming dates, start times and who's playing. 674 Manhattan Avenue, Brooklyn NY 11222.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Bodega Bruja | Bodega Bruja |
-| Sat, 22 Aug 2026 | Cosmo | Cosmo |
 | Sun, 23 Aug 2026 | DJ Dan C.E. |  |
 | Sun, 23 Aug 2026 | NoahShea | NoahShea |
 | Thu, 27 Aug 2026 | Dynoman | Dynoman |
@@ -23,4 +21,4 @@ Eavesdrop is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nigh
 
 674 Manhattan Avenue, Brooklyn NY 11222, New York City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eavesdrop/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eavesdrop/)*

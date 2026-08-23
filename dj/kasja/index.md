@@ -1,6 +1,6 @@
 # Kasja
 
-Kasja is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 23 Aug 2026.
+Kasja is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 23 Aug 2026.
 
 Kasja is a club and experimental artist tracked on soundcheck, with 18 sets logged across Athens and Berlin. Often billed alongside Milad Samara, ELAYN and Souci. Next up: arkaoda Berlin, Berlin on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Kasja is a club and experimental artist tracked on soundcheck, with 18 sets logg
 
 Milad Samara, ELAYN, Souci
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasja/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasja/)*

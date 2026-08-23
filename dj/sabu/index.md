@@ -1,6 +1,6 @@
 # Sabu!
 
-Sabu! is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Südpol, Hamburg on Sat, 22 Aug 2026.
+Sabu! is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Südpol, Hamburg on Sat, 22 Aug 2026.
 
 Sabu! is a trance and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside RaverPik, The Jakob Sister and Blame the Booker. Next up: Südpol, Hamburg on Sat 22 Aug.
 
@@ -17,6 +17,7 @@ Sabu! is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
+- Südpol, Hamburg — Sat, 22 Aug 2026
 - Lokschuppen Berlin, Berlin — Wed, 5 Aug 2026
 - Containerhafen, Berlin — Sun, 19 Jul 2026
 - Tanzhaus West, Frankfurt — Sat, 11 Jul 2026
@@ -24,10 +25,9 @@ Sabu! is a trance and techno artist based in Germany, tracked on soundcheck, wit
 - MS Rheinland, Cologne — Sat, 6 Jun 2026
 - Fabrique im Gängeviertel, Hamburg — Fri, 22 May 2026
 - Moritzbastei, Leipzig — Sat, 16 May 2026
-- Zoo, Geneva — Sat, 9 May 2026
 
 ## Shares bills with
 
 RaverPik, The Jakob Sister, Blame the Booker
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabu/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabu/)*

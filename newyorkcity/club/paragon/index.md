@@ -1,14 +1,13 @@
 # Paragon
 
-Paragon is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE" on Sat, 22 Aug 2026.
+Paragon is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Pressure: Randomer, Flores Negras, Juno + SLICK DOWN with De Schuurman" on Fri, 28 Aug 2026.
 
-Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Adred, Anna Eberg, Annie Lew and Anónima and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
+Paragon is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Adred, Anna Eberg, Annie Lew and Anónima and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phantasma: Phase Fatale, Juliana Huxtable, Nymph + MORE | Bodegaparty, Daniro, Juliana Huxtable, NoahG, Nymph (NY), Nymphostar, Phase Fatale, Tromac, jo_sway, purp, shekdash |
 | Fri, 28 Aug 2026 | Pressure: Randomer, Flores Negras, Juno + SLICK DOWN with De Schuurman | De Schuurman, Flores Negras, Juno (NY), Love Higher, Randomer, Simisola, wahala.wav |
 | Sat, 29 Aug 2026 | Paradiso: Todd Terry, Stonie Blue, Madre Guía + DAIYAH, Pure Immanence | DAIYAH, Madre Guía, Pure Immanence, Stonie Blue, Todd Terry |
 | Fri, 4 Sept 2026 | METALHEADZ: Goldie, Adred, Diverge + Anónima, LOKA | Adred, Anónima, Diverge, Goldie, LOKA (US) |
@@ -18,9 +17,10 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights
 | Thu, 17 Sept 2026 | DJ LAG, Ethan Tomas, Mohogany | DJ LAG |
 | Fri, 18 Sept 2026 | OOMFCON 1 Year Anniversary with BODYHACK + BIAS + KI-HOLE | ARCHANGEL (US), Daniro, Gagbert, L4RV4, LUN★, Malcolm XL, Robyn DaBank, SELENE (3), Soo Intoit, Xana 101, moong!rl |
 | Sat, 19 Sept 2026 | Pressure: CEM, Leonce, Makadsi + Angelito Collective | CEM, Clit.hub, Leonce, Makadsi |
+| Fri, 25 Sept 2026 | RAGGA NYC | Juliana Huxtable, Sausha |
 
 ## Address
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

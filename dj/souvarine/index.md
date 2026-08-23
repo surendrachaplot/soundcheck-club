@@ -1,6 +1,6 @@
 # Sou Varine
 
-Sou Varine is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
+Sou Varine is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
 
 Sou Varine is an experimental and dub artist tracked on soundcheck, with 10 sets logged across London and Paris. Often billed alongside Mike Levitt, Esmé and Chinese Daughter. Next up: Club Cheek, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sou Varine is an experimental and dub artist tracked on soundcheck, with 10 sets
 
 Mike Levitt, Esmé, Chinese Daughter
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souvarine/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souvarine/)*

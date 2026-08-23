@@ -1,6 +1,6 @@
 # Kardano
 
-Kardano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Fable Bar & Grill, Vancouver on Sat, 5 Sept 2026.
+Kardano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fable Bar & Grill, Vancouver on Sat, 5 Sept 2026.
 
 Kardano is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Amsterdam, Ibiza, Seattle and Toronto and 1 more. Often billed alongside Jared Love, Simon Neviani and HighCUE. Next up: Fable Bar & Grill, Vancouver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kardano is a house and techno artist based in Canada, tracked on soundcheck, wit
 
 Jared Love, Simon Neviani, HighCUE
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kardano/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kardano/)*

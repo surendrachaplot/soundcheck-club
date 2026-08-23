@@ -1,6 +1,6 @@
 # Spinrillo
 
-Spinrillo is a Club and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Eden NYC, New York City on Sun, 6 Sept 2026.
+Spinrillo is a Club and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Eden NYC, New York City on Sun, 6 Sept 2026.
 
 Spinrillo is a club and afro house artist tracked on soundcheck, with 14 sets logged across Mexicocity, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Tim Fields, Nanoos and Teigh. Next up: Eden NYC, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Spinrillo is a club and afro house artist tracked on soundcheck, with 14 sets lo
 
 Tim Fields, Nanoos, Teigh
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinrillo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinrillo/)*

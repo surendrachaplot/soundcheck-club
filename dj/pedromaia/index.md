@@ -1,6 +1,6 @@
 # Pedro Maia
 
-Pedro Maia is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
+Pedro Maia is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
 
 Pedro Maia is an experimental and electronica artist based in Spain, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Klara Lewis, Nik Colk Void and Blawan. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pedro Maia is an experimental and electronica artist based in Spain, tracked on 
 
 Klara Lewis, Nik Colk Void, Blawan
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedromaia/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedromaia/)*

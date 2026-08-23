@@ -1,6 +1,6 @@
 # LOSTBOYJAY
 
-LOSTBOYJAY is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
+LOSTBOYJAY is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
 
 LOSTBOYJAY is a house and deep house artist tracked on soundcheck, with 19 sets logged across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Andrew Pololos, Armand Van Helden and Benny Benassi. Next up: TBA, Toronto on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ LOSTBOYJAY is a house and deep house artist tracked on soundcheck, with 19 sets 
 
 Andrew Pololos, Armand Van Helden, Benny Benassi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*

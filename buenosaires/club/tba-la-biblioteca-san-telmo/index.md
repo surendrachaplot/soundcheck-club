@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Maxi Degrassi + JAZMIN - by SOMOS PRODUCE, LA BIBLIOTECA" on Sat, 22 Aug 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Maxi Degrassi + JAZMIN - by SOMOS PRODUCE, LA BIBLIOTECA" on Sat, 22 Aug 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 13 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Fri, 18 Sept 2026 | Patrice Bäumel x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Patrice Bäumel |
 | Sat, 19 Sept 2026 | FRANCO BA x My House – La Biblioteca, San Telmo Buenos Aires | FRANCO BA |
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

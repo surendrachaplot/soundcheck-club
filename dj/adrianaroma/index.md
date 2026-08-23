@@ -1,6 +1,6 @@
 # Adriana Roma
 
-Adriana Roma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
+Adriana Roma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
 
 Adriana Roma is a house and techno artist based in Mexico, tracked on soundcheck, with 43 sets logged across Hongkong, Losangeles, Mexicocity and Newyorkcity. Often billed alongside Irena Stanisic, Valeriana and Barreto. Next up: Tonal, Mexicocity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ Adriana Roma is a house and techno artist based in Mexico, tracked on soundcheck
 
 Irena Stanisic, Valeriana, Barreto
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaroma/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaroma/)*

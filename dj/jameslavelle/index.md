@@ -1,14 +1,13 @@
 # James Lavelle
 
-James Lavelle is a Hip-Hop and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at 93 Feet East, London on Sat, 22 Aug 2026.
+James Lavelle is a Hip-Hop and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Sat, 29 Aug 2026.
 
-James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Belfast and Birmingham and 11 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: 93 Feet East, London on Sat 22 Aug.
+James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Belfast and Birmingham and 11 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: fabric, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | 93 Feet East | London |
 | Sat, 29 Aug 2026 | fabric | London |
 | Sat, 29 Aug 2026 | Yes | Manchester |
 | Fri, 25 Sept 2026 | Sidney & Matilda | Sheffield |
@@ -19,6 +18,7 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- 93 Feet East, London — Sat, 22 Aug 2026
 - Chelmsford City Racecourse, London — Sat, 23 May 2026
 - Bullitt Belfast, Belfast — Sat, 23 May 2026
 - clubasia, Tokyo — Sat, 2 May 2026
@@ -26,10 +26,9 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 - Patterns, Brighton — Sat, 21 Mar 2026
 - The Social, London — Fri, 6 Mar 2026
 - Gallery, London — Thu, 22 Jan 2026
-- The Social, London — Fri, 21 Nov 2025
 
 ## Shares bills with
 
 UNKLE, Elliot Schooling, Liam Palmer
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*

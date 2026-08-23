@@ -1,6 +1,6 @@
 # Tuesday Gonzalez
 
-Tuesday Gonzalez is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at West Port Oracle, Edinburgh on Sun, 23 Aug 2026.
+Tuesday Gonzalez is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at West Port Oracle, Edinburgh on Sun, 23 Aug 2026.
 
 Tuesday Gonzalez is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Edinburgh and Glasgow. Often billed alongside Percy Main, Soul Jam and David Barbarossa. Next up: West Port Oracle, Edinburgh on Sun 23 Aug.
 
@@ -26,4 +26,4 @@ Tuesday Gonzalez is a disco and funk / soul artist based in United Kingdom, trac
 
 Percy Main, Soul Jam, David Barbarossa
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesdaygonzalez/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tuesdaygonzalez/)*

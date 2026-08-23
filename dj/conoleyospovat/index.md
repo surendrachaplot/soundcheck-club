@@ -1,6 +1,6 @@
 # Conoley Ospovat
 
-Conoley Ospovat is a Acid and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
+Conoley Ospovat is a Acid and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at White Owl Social Club, Portland on Sun, 23 Aug 2026.
 
 Conoley Ospovat is an acid and ambient artist tracked on soundcheck, with 20 sets logged across Chicago and Portland. Often billed alongside m50, Dan Lodig and Shanti. Next up: White Owl Social Club, Portland on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Conoley Ospovat is an acid and ambient artist tracked on soundcheck, with 20 set
 
 m50, Dan Lodig, Shanti
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conoleyospovat/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conoleyospovat/)*

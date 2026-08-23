@@ -1,6 +1,6 @@
 # Lily London
 
-Lily London is a Broken Beat and Grime artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+Lily London is a Broken Beat and Grime artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
 
 Lily London is a broken beat and grime artist tracked on soundcheck, with 32 sets logged across Brighton and London. Often billed alongside Dreamrdreamr, Earful of Wax and Nancy June. Next up: Colour Factory, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Lily London is a broken beat and grime artist tracked on soundcheck, with 32 set
 
 Dreamrdreamr, Earful of Wax, Nancy June
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*

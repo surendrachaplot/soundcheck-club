@@ -1,6 +1,6 @@
 # MoMA PS1
 
-MoMA PS1 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Warm Up: TDJ/ De Schuurman/keiyaA/ DJ WORKING CLASS" on Fri, 28 Aug 2026.
+MoMA PS1 is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Warm Up: TDJ/ De Schuurman/keiyaA/ DJ WORKING CLASS" on Fri, 28 Aug 2026.
 
 MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including De Schuurman, keiyaA and TDJ. Browse upcoming dates, start times and who's playing. 22-25 Jackson Avenue; Long Island City, NY 11101; United States.
 
@@ -14,4 +14,4 @@ MoMA PS1 is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night,
 
 22-25 Jackson Avenue; Long Island City, NY 11101; United States, New York City
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moma-ps1/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moma-ps1/)*

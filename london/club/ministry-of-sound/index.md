@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Rulin: DJ Harvey (All Night Long) - SOLD OUT" on Sat, 22 Aug 2026.
+Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rulin: DJ Harvey (All Night Long) - SOLD OUT" on Sat, 22 Aug 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Alex Mills, Amtrac, Andy C and Asch Pintura and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming n
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

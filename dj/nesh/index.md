@@ -1,6 +1,6 @@
 # NESH
 
-NESH is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Night We Met, Nashville on Fri, 4 Sept 2026.
+NESH is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Night We Met, Nashville on Fri, 4 Sept 2026.
 
 NESH is an electronica and tech house artist tracked on soundcheck, with 3 sets logged across Mexicocity, Nashville and Tbilisi. Often billed alongside Baby Mango, DJezmo and Diego Walle. Next up: Night We Met, Nashville on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ NESH is an electronica and tech house artist tracked on soundcheck, with 3 sets 
 
 Baby Mango, DJezmo, Diego Walle
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nesh/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nesh/)*

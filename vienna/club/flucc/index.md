@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "An R'n'B party called JACK" on Sat, 22 Aug 2026.
+FLUCC is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "An R'n'B party called JACK" on Sat, 22 Aug 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including A.Pringle, anxxxious_t, DJ Lucy Bakanal and Dj Wifi (3) and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -22,4 +22,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

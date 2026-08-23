@@ -1,6 +1,6 @@
 # Leyla (3)
 
-Leyla (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Legal, Munich on Fri, 4 Sept 2026.
+Leyla (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Legal, Munich on Fri, 4 Sept 2026.
 
 Leyla (3) is a house and tech house artist based in Germany, tracked on soundcheck, with 28 sets logged across Munich, Paris and Vienna. Often billed alongside DJoy, sianza and tanjuesch. Next up: Legal, Munich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Leyla (3) is a house and tech house artist based in Germany, tracked on soundche
 
 DJoy, sianza, tanjuesch
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyla-3/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyla-3/)*

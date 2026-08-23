@@ -1,6 +1,6 @@
 # Pastrana
 
-Pastrana is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
+Pastrana is a Classical and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tonal, Mexico City on Wed, 19 Aug 2026.
 
 Pastrana is a classical and dancehall artist based in Angola, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Tonga Conga, AB and Irena Stanisic. Next up: Tonal, Mexicocity on Wed 19 Aug.
 
@@ -23,4 +23,4 @@ Pastrana is a classical and dancehall artist based in Angola, tracked on soundch
 
 Tonga Conga, AB, Irena Stanisic
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pastrana/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pastrana/)*

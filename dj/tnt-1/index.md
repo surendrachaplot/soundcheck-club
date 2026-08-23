@@ -1,6 +1,6 @@
 # tnt (1)
 
-tnt (1) is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+tnt (1) is a Techno and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 tnt (1) is a techno and drum & bass artist tracked on soundcheck, with 17 sets logged across Amsterdam, Birmingham, Kualalumpur and London and 7 more. Often billed alongside Coone, MC GQ and b-line. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ tnt (1) is a techno and drum & bass artist tracked on soundcheck, with 17 sets l
 
 Coone, MC GQ, b-line
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tnt-1/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tnt-1/)*

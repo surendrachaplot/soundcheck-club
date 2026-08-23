@@ -1,6 +1,6 @@
 # Durante
 
-Durante is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 22 Aug 2026.
+Durante is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Level 8 DTLA, Los Angeles on Sat, 22 Aug 2026.
 
 Durante is a house and progressive house artist tracked on soundcheck, with 54 sets logged across Austin, Brighton, Bristol and Buenosaires and 18 more. Often billed alongside Marsh, Braxton and Hana. Next up: Level 8 DTLA, Losangeles on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Durante is a house and progressive house artist tracked on soundcheck, with 54 s
 
 ## Recently played
 
+- Level 8 DTLA, Los Angeles — Sat, 22 Aug 2026
 - TBA - La Biblioteca, San Telmo, Buenos Aires — Fri, 7 Aug 2026
 - Night We Met, Nashville — Fri, 17 Jul 2026
 - Room 22, Sydney — Sat, 11 Jul 2026
@@ -19,10 +20,9 @@ Durante is a house and progressive house artist tracked on soundcheck, with 54 s
 - Spin, San Diego — Fri, 15 May 2026
 - The Lower Third, London — Fri, 8 May 2026
 - Archive, Leeds — Sun, 3 May 2026
-- Digital, Newcastle — Sat, 2 May 2026
 
 ## Shares bills with
 
 Marsh, Braxton, Hana
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*

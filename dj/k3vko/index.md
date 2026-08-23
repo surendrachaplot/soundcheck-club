@@ -1,6 +1,6 @@
 # K3VKO
 
-K3VKO is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at M-BIA, Berlin on Sat, 22 Aug 2026.
+K3VKO is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M-BIA, Berlin on Sat, 22 Aug 2026.
 
 K3VKO is a psytrance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside RHYTMOX, Daora and Momentune. Next up: M-BIA, Berlin on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ K3VKO is a psytrance and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- M-BIA, Berlin — Sat, 22 Aug 2026
 - M-BIA, Berlin — Sat, 18 Jul 2026
 - M-BIA, Berlin — Sat, 27 Jun 2026
 - M-BIA, Berlin — Sat, 18 Apr 2026
@@ -22,4 +23,4 @@ K3VKO is a psytrance and techno artist based in Germany, tracked on soundcheck, 
 
 RHYTMOX, Daora, Momentune
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k3vko/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k3vko/)*

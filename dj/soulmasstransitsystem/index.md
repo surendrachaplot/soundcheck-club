@@ -1,6 +1,6 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The Loft, Manchester on Sat, 17 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Loft, Manchester on Sat, 17 Oct 2026.
 
 Soul Mass Transit System is a garage and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Auckland and Bali and 37 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: The Loft, Manchester on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Soul Mass Transit System is a garage and house artist tracked on soundcheck, wit
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

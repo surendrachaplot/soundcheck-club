@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Free Saturdays: Kath J • Memotech • Toko k" on Sat, 22 Aug 2026.
+Left Bank is a music venue in Tbilisi with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Free Saturdays: Kath J • Memotech • Toko k" on Sat, 22 Aug 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, with line-ups including Ash Scholem, Cobert, Gacha and Giorgi Pipia and 2 more. Browse upcoming dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -16,4 +16,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 3 upcoming nights, w
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

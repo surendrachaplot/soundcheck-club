@@ -1,6 +1,6 @@
 # m-int
 
-m-int is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Forestlimit, Tokyo on Sat, 22 Aug 2026.
+m-int is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Forestlimit, Tokyo on Sat, 22 Aug 2026.
 
 m-int is a techno and house artist tracked on soundcheck, with 35 sets logged across Kyoto and Tokyo. Often billed alongside arow, Hue Ray and K8 (TYO GQOM). Next up: Forestlimit, Tokyo on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ m-int is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 ## Recently played
 
+- Forestlimit, Tokyo — Sat, 22 Aug 2026
 - Oath, Tokyo — Fri, 7 Aug 2026
 - clubasia, Tokyo — Thu, 6 Aug 2026
 - Red Bar, Tokyo — Tue, 21 Jul 2026
@@ -21,10 +22,9 @@ m-int is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 - Azumaya, Tokyo — Sat, 13 Jun 2026
 - Forestlimit, Tokyo — Wed, 3 Jun 2026
 - clubasia, Tokyo — Sat, 30 May 2026
-- Enter Shibuya, Tokyo — Sat, 23 May 2026
 
 ## Shares bills with
 
 arow, Hue Ray, K8 (TYO GQOM)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-int/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-int/)*

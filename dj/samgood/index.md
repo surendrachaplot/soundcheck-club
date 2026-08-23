@@ -1,6 +1,6 @@
 # samgood
 
-samgood is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Hangaren, Copenhagen on Sat, 12 Sept 2026.
+samgood is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Sat, 12 Sept 2026.
 
 samgood is a house and garage artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Talons, parashoot and Ave Maria. Next up: Hangaren, Copenhagen on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ samgood is a house and garage artist based in Denmark, tracked on soundcheck, wi
 
 Talons, parashoot, Ave Maria
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgood/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgood/)*

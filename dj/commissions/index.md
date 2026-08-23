@@ -1,6 +1,6 @@
 # Commissions
 
-Commissions is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 3 Oct 2026.
+Commissions is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 3 Oct 2026.
 
 Commissions is a techno and electro artist tracked on soundcheck, with 5 sets logged across Cork and Dublin. Often billed alongside Little O (IE), Anodyne and Autumns. Next up: Yamamori Tengu, Dublin on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Commissions is a techno and electro artist tracked on soundcheck, with 5 sets lo
 
 Little O (IE), Anodyne, Autumns
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/commissions/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/commissions/)*

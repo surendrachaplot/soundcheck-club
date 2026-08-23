@@ -1,20 +1,20 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Sui Generis, London on Sat, 22 Aug 2026.
+CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
 
-CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: Sui Generis, London on Sat 22 Aug.
+CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: The Glove That Fits, London on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Sui Generis | London |
 | Thu, 3 Sept 2026 | The Glove That Fits | London |
 | Sat, 5 Sept 2026 | The Steel Yard | London |
 | Sat, 12 Sept 2026 | Algha's Plantroom | London |
 
 ## Recently played
 
+- Sui Generis, London — Sat, 22 Aug 2026
 - Colour Factory, London — Fri, 7 Aug 2026
 - The White Hotel, Manchester — Sat, 1 Aug 2026
 - Starlane Pizza Bar, London — Sun, 19 Jul 2026
@@ -22,10 +22,9 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 - Vespers Club, London — Sat, 2 May 2026
 - TBA - secret, London — Sat, 18 Apr 2026
 - Corsica Studios, London — Wed, 25 Mar 2026
-- TBA - 30 Dean Street Soho, London — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 nohexcode, Modlar, KAVARI
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

@@ -1,6 +1,6 @@
 # ERA Club
 
-ERA Club is a music venue in Tallinn with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Mutism x Dreamscape: Stone (UK)" on Sat, 5 Sept 2026.
+ERA Club is a music venue in Tallinn with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Mutism x Dreamscape: Stone (UK)" on Sat, 5 Sept 2026.
 
 ERA Club is a music venue in Tallinn listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Ahtri 10 A Tallinn Estonia.
 
@@ -14,4 +14,4 @@ ERA Club is a music venue in Tallinn listed on soundcheck. 1 upcoming night. Bro
 
 Ahtri 10 A Tallinn Estonia, Tallinn
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/era-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/era-club/)*

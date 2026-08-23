@@ -1,6 +1,6 @@
 # The Glitz
 
-The Glitz is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+The Glitz is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
 
 The Glitz is a club and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside Julian Haffner, Marco Baskind and Surreal (DE). Next up: Westhafen, Leipzig on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ The Glitz is a club and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Westhafen, Leipzig — Sat, 22 Aug 2026
 - Kulturkosmos Müritz e.V., Berlin — Sat, 11 Jan 2025
 - Ritter Butzke, Berlin — Sat, 19 Oct 2024
 - Die Rakete, Nürnberg — Sat, 21 Sept 2024
@@ -24,4 +25,4 @@ The Glitz is a club and techno artist based in Germany, tracked on soundcheck, w
 
 Julian Haffner, Marco Baskind, Surreal (DE)
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theglitz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theglitz/)*

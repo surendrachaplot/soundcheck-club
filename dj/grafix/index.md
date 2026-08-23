@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Grafix is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -29,4 +29,4 @@ Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Wilkinson, A Little Sound, BassLayerz
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*

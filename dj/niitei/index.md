@@ -1,6 +1,6 @@
 # Nii Tei
 
-Nii Tei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Lion's Den, Miami on Sun, 30 Aug 2026.
+Nii Tei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lion's Den, Miami on Sun, 30 Aug 2026.
 
 Nii Tei is a house and deep house artist based in United States of America, tracked on soundcheck, with 92 sets logged across Losangeles, Miami, Newyorkcity and Washingtondc. Often billed alongside Bakke, Dude Skywalker and DIFFER. Next up: Lion's Den, Miami on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Nii Tei is a house and deep house artist based in United States of America, trac
 
 Bakke, Dude Skywalker, DIFFER
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*

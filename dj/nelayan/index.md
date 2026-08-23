@@ -1,6 +1,6 @@
 # Nelayan
 
-Nelayan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Rachdingue, Barcelona on Sat, 22 Aug 2026.
+Nelayan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Rachdingue, Barcelona on Sat, 22 Aug 2026.
 
 Nelayan is a techno and club artist tracked on soundcheck, with 6 sets logged across Amsterdam and Barcelona. Often billed alongside Julian Ess, AELVA K and Albin Brezlan. Next up: Rachdingue, Barcelona on Sat 22 Aug.
 
@@ -13,6 +13,7 @@ Nelayan is a techno and club artist tracked on soundcheck, with 6 sets logged ac
 
 ## Recently played
 
+- Rachdingue, Barcelona — Sat, 22 Aug 2026
 - Rachdingue, Barcelona — Sat, 9 May 2026
 - Rachdingue, Barcelona — Sat, 7 Mar 2026
 - Rachdingue, Barcelona — Sat, 23 Aug 2025
@@ -22,4 +23,4 @@ Nelayan is a techno and club artist tracked on soundcheck, with 6 sets logged ac
 
 Julian Ess, AELVA K, Albin Brezlan
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nelayan/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nelayan/)*

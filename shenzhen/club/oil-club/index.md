@@ -1,14 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 27 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "D1S x 競速地獄 Race to Ruin Pres. Paul Seul" on Sat, 22 Aug 2026.
+OIL Club is a music venue in Shenzhen with 26 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "V Í A The Collective: Tempted" on Sun, 23 Aug 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 27 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Anita B Queen and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 26 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Anita B Queen and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | D1S x 競速地獄 Race to Ruin Pres. Paul Seul | DJ 86, Paul Seul, TiaNT, zzm (2) |
 | Sun, 23 Aug 2026 | V Í A The Collective: Tempted | Minh (2), Sydney Barringer |
 | Thu, 27 Aug 2026 | Dissolve The Ego Pres: Nikos | o0 (1) |
 | Fri, 28 Aug 2026 | 闪耀星BlazingStars Pres. otakotak 2026中国巡演 | Butterfly (2), Flower Boy, Replica.mp3, hatemebaby |
@@ -18,9 +17,10 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 27 upcoming nights, 
 | Fri, 4 Sept 2026 | SYNTONY |  |
 | Sat, 5 Sept 2026 | 捣蛋会所: Anita B Queen | Anita B Queen, Fatalis, Warmchainss, zzm (2) |
 | Sun, 6 Sept 2026 | Water music | Kagami Smile, Ngly |
+| Fri, 11 Sept 2026 | Dabeull in Shenzhen | Jascer, o0 (1) |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

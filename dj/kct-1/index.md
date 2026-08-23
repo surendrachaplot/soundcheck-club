@@ -1,6 +1,6 @@
 # KCT (1)
 
-KCT (1) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at WOMB, Tokyo on Sat, 29 Aug 2026.
+KCT (1) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at WOMB, Tokyo on Sat, 29 Aug 2026.
 
 KCT (1) is a techno and bass artist based in Japan, tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside AMIDAdrive, SOGI and CITY1. Next up: WOMB, Tokyo on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ KCT (1) is a techno and bass artist based in Japan, tracked on soundcheck, with 
 
 AMIDAdrive, SOGI, CITY1
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kct-1/)*

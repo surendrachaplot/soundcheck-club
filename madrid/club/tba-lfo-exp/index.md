@@ -1,6 +1,6 @@
 # TBA - LFO.exp
 
-TBA - LFO.exp is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Animalia x Fiesta x Fiesta" on Sat, 5 Sept 2026.
+TBA - LFO.exp is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Animalia x Fiesta x Fiesta" on Sat, 5 Sept 2026.
 
 TBA - LFO.exp is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Azu Tiwaline, Baldman, Javi Lier and Kia (AU) and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - LFO.exp is a music venue in Madrid listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Animalia x Fiesta x Fiesta | Azu Tiwaline, Baldman, Javi Lier, Kia (AU), Lolo (AU) |
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo-exp/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo-exp/)*

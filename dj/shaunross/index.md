@@ -1,6 +1,6 @@
 # Shaun Ross
 
-Shaun Ross is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Shaun Ross is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
 
 Shaun Ross is a house and afro house artist based in United States of America, tracked on soundcheck, with 64 sets logged across Berlin, Chicago, Detroit and Ibiza and 7 more. Often billed alongside Rush Davis, Ashley Younniä and Saturn Risin9. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
 
@@ -14,6 +14,7 @@ Shaun Ross is a house and afro house artist based in United States of America, t
 
 ## Recently played
 
+- Queen Elizabeth Olympic Park, London — Sat, 22 Aug 2026
 - Le Bain, New York City — Wed, 5 Aug 2026
 - Los Globos, Los Angeles — Sat, 1 Aug 2026
 - Djoon, Paris — Sun, 5 Jul 2026
@@ -21,10 +22,9 @@ Shaun Ross is a house and afro house artist based in United States of America, t
 - Elsewhere, New York City — Fri, 22 May 2026
 - Apartment 503, Los Angeles — Sat, 4 Apr 2026
 - TBA, Los Angeles — Thu, 12 Mar 2026
-- TBA - 624 S Anderson St Los Angeles CA 90023, Los Angeles — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Rush Davis, Ashley Younniä, Saturn Risin9
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunross/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunross/)*

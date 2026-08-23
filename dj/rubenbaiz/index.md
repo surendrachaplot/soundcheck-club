@@ -1,6 +1,6 @@
 # Rubén Baiz
 
-Rubén Baiz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Carats cafe, Brighton on Sat, 5 Sept 2026.
+Rubén Baiz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Carats cafe, Brighton on Sat, 5 Sept 2026.
 
 Rubén Baiz is a house and techno artist tracked on soundcheck, with 14 sets logged across Brighton, Ibiza and London. Often billed alongside Oliver Molina, Berna and ALISHA. Next up: TBA - Carats cafe, Brighton on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Rubén Baiz is a house and techno artist tracked on soundcheck, with 14 sets log
 
 Oliver Molina, Berna, ALISHA
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenbaiz/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenbaiz/)*

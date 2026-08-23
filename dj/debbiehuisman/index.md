@@ -1,6 +1,6 @@
 # Debbie Huisman
 
-Debbie Huisman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+Debbie Huisman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
 
 Debbie Huisman is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Charlton, INA (3) and Invalid Request. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
 
@@ -25,4 +25,4 @@ Debbie Huisman is a techno and house artist tracked on soundcheck, with 17 sets 
 
 Charlton, INA (3), Invalid Request
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiehuisman/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debbiehuisman/)*

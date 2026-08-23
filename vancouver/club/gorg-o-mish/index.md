@@ -1,6 +1,6 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Gorg-O-Mish presents: Jon Delerious, Luke McKeehan & Tyler Stadius" on Sat, 22 Aug 2026.
+Gorg-O-Mish is a music venue in Vancouver with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Gorg-O-Mish presents: Jon Delerious, Luke McKeehan & Tyler Stadius" on Sat, 22 Aug 2026.
 
 Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 5 upcoming nights, with line-ups including 2flowers, Adam 2, Luca Fernandez and Luke McKeehan and 2 more. Browse upcoming dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
@@ -18,4 +18,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 5 upcoming night
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

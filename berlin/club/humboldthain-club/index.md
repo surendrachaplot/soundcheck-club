@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "10€ ANTI PARTY BERLIN // Karaoke, Beer-Pong, Free Shots at entry presented by Delululand" on Sat, 22 Aug 2026.
+Humboldthain Club is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "10€ ANTI PARTY BERLIN // Karaoke, Beer-Pong, Free Shots at entry presented by Delululand" on Sat, 22 Aug 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including YOVA, Atzlina, bbymeister and Dexy's Midnight and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

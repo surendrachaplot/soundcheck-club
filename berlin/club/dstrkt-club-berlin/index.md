@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "BlackWorks BERLIN - DSTRKT" on Sat, 29 Aug 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "BlackWorks BERLIN - DSTRKT" on Sat, 29 Aug 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Paolo Ferrara, Alex Friday, Alviker and Andreas Florin and 2 more. Browse upcoming dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -17,4 +17,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming n
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

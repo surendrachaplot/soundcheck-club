@@ -1,6 +1,6 @@
 # Lilflower
 
-Lilflower is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Beverly's NYC, New York City on Wed, 26 Aug 2026.
+Lilflower is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Beverly's NYC, New York City on Wed, 26 Aug 2026.
 
 Lilflower is a techno and trance artist tracked on soundcheck, with 37 sets logged across Newyorkcity and Philadelphia. Often billed alongside ASTER (DJ), WONNSSS and fake.stan. Next up: Beverly's NYC, Newyorkcity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Lilflower is a techno and trance artist tracked on soundcheck, with 37 sets logg
 
 ASTER (DJ), WONNSSS, fake.stan
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilflower/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilflower/)*

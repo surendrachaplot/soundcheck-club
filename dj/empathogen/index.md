@@ -1,6 +1,6 @@
 # Empathogen
 
-Empathogen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Odonien, Cologne on Sat, 22 Aug 2026.
+Empathogen is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Odonien, Cologne on Sat, 22 Aug 2026.
 
 Empathogen is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne. Often billed alongside BabaBass3000, Baumeister98 and OSKAMAXX. Next up: Odonien, Cologne on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Empathogen is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- Odonien, Cologne — Sat, 22 Aug 2026
 - Artheater, Cologne — Sat, 6 Jun 2026
 - TBA - Belgisches Viertel & Kwartier Latäng, Cologne — Sat, 12 Jul 2025
 - JAKI, Cologne — Sat, 12 Jul 2025
@@ -22,4 +23,4 @@ Empathogen is a techno and trance artist based in Germany, tracked on soundcheck
 
 BabaBass3000, Baumeister98, OSKAMAXX
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/empathogen/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/empathogen/)*

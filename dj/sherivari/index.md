@@ -1,6 +1,6 @@
 # Sheri Vari
 
-Sheri Vari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Lux Fragil, Lisbon on Sat, 22 Aug 2026.
+Sheri Vari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Lux Fragil, Lisbon on Sat, 22 Aug 2026.
 
 Sheri Vari is a house and disco artist tracked on soundcheck, with 57 sets logged across Lisbon and Porto. Often billed alongside Godi Osegueda, HNRQ (2) and Helder Russo. Next up: Lux Fragil, Lisbon on Sat 22 Aug.
 
@@ -12,6 +12,7 @@ Sheri Vari is a house and disco artist tracked on soundcheck, with 57 sets logge
 
 ## Recently played
 
+- Lux Fragil, Lisbon — Sat, 22 Aug 2026
 - Lux Fragil, Lisbon — Fri, 24 Jul 2026
 - Terreiro das Missas, Lisbon — Sat, 27 Jun 2026
 - Plano B, Porto — Fri, 12 Jun 2026
@@ -19,10 +20,9 @@ Sheri Vari is a house and disco artist tracked on soundcheck, with 57 sets logge
 - TBA - The Front Bar, Lisbon — Sat, 9 May 2026
 - Lux Fragil, Lisbon — Sat, 4 Apr 2026
 - Plano B, Porto — Sat, 21 Mar 2026
-- Outra Cena, Lisbon — Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Godi Osegueda, HNRQ (2), Helder Russo
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherivari/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sherivari/)*

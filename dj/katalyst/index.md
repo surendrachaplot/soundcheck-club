@@ -1,6 +1,6 @@
 # Katalyst
 
-Katalyst is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Katalyst is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Katalyst is a drum & bass and jungle artist tracked on soundcheck, with 13 sets logged across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Deekline, Navigator and Benny L. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Katalyst is a drum & bass and jungle artist tracked on soundcheck, with 13 sets 
 
 Deekline, Navigator, Benny L
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyst/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katalyst/)*

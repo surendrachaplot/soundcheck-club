@@ -1,6 +1,6 @@
 # Varanasi
 
-Varanasi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
+Varanasi is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
 
 Varanasi is a techno and electro artist tracked on soundcheck, with 35 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: The DBA, Manchester on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Varanasi is a techno and electro artist tracked on soundcheck, with 35 sets logg
 
 Himboy, RayRay, SBBS
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

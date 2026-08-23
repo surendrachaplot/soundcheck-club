@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Zoo, Geneva on Fri, 28 Aug 2026.
+Philippa Pacho is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Zoo, Geneva on Fri, 28 Aug 2026.
 
 Philippa Pacho is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Zoo, Geneva on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 215 sets
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

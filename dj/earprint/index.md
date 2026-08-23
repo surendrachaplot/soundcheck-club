@@ -1,6 +1,6 @@
 # EARPRINT
 
-EARPRINT is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
+EARPRINT is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
 
 EARPRINT is a techno and psytrance artist tracked on soundcheck, with 7 sets logged across Antwerp and London. Often billed alongside Ebru Al, Mensih and R4VF. Next up: TBA - Secret Location, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ EARPRINT is a techno and psytrance artist tracked on soundcheck, with 7 sets log
 
 Ebru Al, Mensih, R4VF
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earprint/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earprint/)*

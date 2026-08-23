@@ -1,6 +1,6 @@
 # Bee Noir
 
-Bee Noir is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Rave Odyssey Uk "The resistance"" on Sat, 22 Aug 2026.
+Bee Noir is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rave Odyssey Uk "The resistance"" on Sat, 22 Aug 2026.
 
 Bee Noir is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Drumsound & Bassline Smith and Flux. Browse upcoming dates, start times and who's playing. Arch 1 Trinity Wy Salford M3 5EN England.
 
@@ -15,4 +15,4 @@ Bee Noir is a music venue in Manchester listed on soundcheck. 2 upcoming nights,
 
 Arch 1 Trinity Wy Salford M3 5EN England, Manchester
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bee-noir/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/bee-noir/)*

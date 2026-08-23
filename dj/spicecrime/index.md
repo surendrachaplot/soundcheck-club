@@ -1,6 +1,6 @@
 # Spice Crime
 
-Spice Crime is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 3 Sept 2026.
+Spice Crime is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 3 Sept 2026.
 
 Spice Crime is a techno and trance artist tracked on soundcheck, with 28 sets logged across Miami and Newyorkcity. Often billed alongside Violeta, KUJO (US) and DomnRob. Next up: Do Not Sit On The Furniture, Miami on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Spice Crime is a techno and trance artist tracked on soundcheck, with 28 sets lo
 
 Violeta, KUJO (US), DomnRob
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spicecrime/)*

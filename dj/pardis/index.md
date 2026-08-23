@@ -1,6 +1,6 @@
 # Pardis
 
-Pardis is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Nachtflug & Starz, Cologne on Sun, 6 Sept 2026.
+Pardis is a Techno and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Nachtflug & Starz, Cologne on Sun, 6 Sept 2026.
 
 Pardis is a techno and pop artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Cologne and Hamburg. Often billed alongside AMSL, AGNY and Eszter. Next up: Nachtflug & Starz, Cologne on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Pardis is a techno and pop artist based in Germany, tracked on soundcheck, with 
 
 AMSL, AGNY, Eszter
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pardis/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pardis/)*

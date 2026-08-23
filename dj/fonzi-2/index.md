@@ -1,6 +1,6 @@
 # Fonzi (2)
 
-Fonzi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 30 Aug 2026.
+Fonzi (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Harbour Music Shelter, Lisbon on Sun, 30 Aug 2026.
 
 Fonzi (2) is a house and techno artist tracked on soundcheck, with 26 sets logged across Lisbon and Porto. Often billed alongside Nibius, Pitcho and Kaesar. Next up: Harbour Music Shelter, Lisbon on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Fonzi (2) is a house and techno artist tracked on soundcheck, with 26 sets logge
 
 Nibius, Pitcho, Kaesar
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzi-2/)*

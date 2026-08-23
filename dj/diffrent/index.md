@@ -1,6 +1,6 @@
 # Diffrent
 
-Diffrent is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 24 Aug 2026.
+Diffrent is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 24 Aug 2026.
 
 Diffrent is a house and garage artist tracked on soundcheck, with 129 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Kyle Starkey, Faster Horses and SAIDAH. Next up: Amnesia Ibiza, Ibiza on Mon 24 Aug.
 
@@ -33,4 +33,4 @@ Diffrent is a house and garage artist tracked on soundcheck, with 129 sets logge
 
 Kyle Starkey, Faster Horses, SAIDAH
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

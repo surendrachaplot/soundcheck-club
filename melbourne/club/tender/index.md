@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "Hybrid Man pres. Hearing Things" on Sat, 5 Sept 2026.
+Tender is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Hybrid Man pres. Hearing Things" on Sat, 5 Sept 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Hybrid Man. Browse upcoming dates, start times and who's playing. 535 Sydney Road.
 
@@ -14,4 +14,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming night, wit
 
 535 Sydney Road, Melbourne
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

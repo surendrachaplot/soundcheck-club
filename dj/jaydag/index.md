@@ -1,6 +1,6 @@
 # Jayda G
 
-Jayda G is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
+Jayda G is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Belfast and 46 more. Often billed alongside Melvo Baptiste, Barry Can't Swim and salute. Next up: Amnesia Ibiza, Ibiza on Fri 4 Sept.
 
@@ -19,6 +19,7 @@ Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged
 
 ## Recently played
 
+- Magazine Open–Air, London — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Tue, 18 Aug 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - Pacha Ibiza, Ibiza — Mon, 27 Jul 2026
@@ -26,10 +27,9 @@ Jayda G is a house and techno artist tracked on soundcheck, with 126 sets logged
 - 620 Jones, San Francisco/Oakland — Sun, 5 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 28 Jun 2026
 - Amnesia Ibiza, Ibiza — Fri, 12 Jun 2026
-- BCM, Mallorca — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Barry Can't Swim, salute
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydag/)*

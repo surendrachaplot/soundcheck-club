@@ -1,6 +1,6 @@
 # Lowkey Seoul
 
-Lowkey Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sat, 22 Aug 2026; the next is "DE SCHOOL vol.8 presented by HAGY" on Sat, 22 Aug 2026.
+Lowkey Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "DE SCHOOL vol.8 presented by HAGY" on Sat, 22 Aug 2026.
 
 Lowkey Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Kaya. Browse upcoming dates, start times and who's playing. Seoul, Gangnam-gu, Apgujeong-ro, 46 gil 75 B1.
 
@@ -14,4 +14,4 @@ Lowkey Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night, w
 
 Seoul, Gangnam-gu, Apgujeong-ro, 46 gil 75 B1, Seoul
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lowkey-seoul/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lowkey-seoul/)*

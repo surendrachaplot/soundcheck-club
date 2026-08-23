@@ -1,14 +1,13 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 16 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "EXXPLANA FUNK PARTY • ESPÍRITO SANTO NIGHT" on Sat, 22 Aug 2026.
+Brixton Jamm is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "House & Disco at Jamm" on Fri, 28 Aug 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Crazy Cousinz, DJ SS, Donch and Donnie Sunshine and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Crazy Cousinz, DJ SS, Donch and Donnie Sunshine and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | EXXPLANA FUNK PARTY • ESPÍRITO SANTO NIGHT |  |
 | Fri, 28 Aug 2026 | House & Disco at Jamm |  |
 | Fri, 28 Aug 2026 | AFROHEAT LONDON - CARNIVAL WEEKEND | Larizzle, P Montana |
 | Sun, 30 Aug 2026 | PULSE x POSH x EITC London present: The Official London Carnival Lineup |  |
@@ -18,9 +17,10 @@ Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming nights
 | Fri, 4 Sept 2026 | Remember Them Days: UK Funky Special feat. Crazy Cousinz | Crazy Cousinz, Donch, Scottyinside |
 | Sat, 5 Sept 2026 | House & Disco at Jamm |  |
 | Fri, 11 Sept 2026 | Raise the Bar presents: Wrekonize - Edited for Reality UK Tour |  |
+| Fri, 11 Sept 2026 | Fred Again vs Daft Punk |  |
 
 ## Address
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

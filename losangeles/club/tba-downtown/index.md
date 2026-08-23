@@ -1,6 +1,6 @@
 # TBA - Downtown
 
-TBA - Downtown is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "CSW x PACIFIC MODE: Powder [4hr set] and DJ Healthy" on Fri, 4 Sept 2026.
+TBA - Downtown is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CSW x PACIFIC MODE: Powder [4hr set] and DJ Healthy" on Fri, 4 Sept 2026.
 
 TBA - Downtown is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Act of Rage, Andy Martin, DJ Healthy and Mez Monty and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Downtown is a music venue in Losangeles listed on soundcheck. 4 upcoming n
 | Fri, 18 Sept 2026 | Act of Rage [NL] - Hard + Raw - Embryon | Act of Rage |
 | Sat, 19 Sept 2026 | CSW - Andy Martin [3hr], OK EG [live], sysk | Andy Martin, OK EG, sysk |
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown/)*

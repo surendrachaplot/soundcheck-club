@@ -1,6 +1,6 @@
 # Jean Mauj
 
-Jean Mauj is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Jean Mauj is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
 
 Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Berlin and Cologne and 7 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
 
@@ -15,6 +15,7 @@ Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Karoline 45, Hamburg — Sat, 23 May 2026
 - fi, Cologne — Fri, 22 May 2026
 - Aahhh Rooftop, Munich — Sat, 16 May 2026
@@ -22,10 +23,9 @@ Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, 
 - Escala25, Lisbon — Sat, 2 May 2026
 - Südpol, Hamburg — Fri, 24 Apr 2026
 - Schrotty, Cologne — Sat, 4 Apr 2026
-- Uebel & Gefährlich, Hamburg — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Anton Jonathan, Carluschka, Daisy Weweh
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*

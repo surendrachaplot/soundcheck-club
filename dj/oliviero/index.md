@@ -1,6 +1,6 @@
 # Oliviero
 
-Oliviero is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 22 Aug 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
+Oliviero is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
 
 Oliviero is a techno and minimal artist tracked on soundcheck, with 9 sets logged across Berlin, Milan, Rome and Warsaw. Often billed alongside Andrea Saba, Francesco Maria and Alessandro Addi. Next up: Ritter Butzke, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Oliviero is a techno and minimal artist tracked on soundcheck, with 9 sets logge
 
 Andrea Saba, Francesco Maria, Alessandro Addi
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviero/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviero/)*

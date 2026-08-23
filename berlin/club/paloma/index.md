@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler" on Sat, 22 Aug 2026.
+Paloma is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HVY ROTATION with DJoy and Tiago Walter" on Fri, 28 Aug 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aimé You, Alison Swing, ANDI A. and Arnaud Denzler and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aimé You, Alison Swing, ANDI A. and bb:fm and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | THE GET DOWN with Mandel Turner, Balthazar Martinez, Arnaud Denzler | Arnaud Denzler, Balthazar Martinez, Mandel Turner |
 | Fri, 28 Aug 2026 | HVY ROTATION with DJoy and Tiago Walter | DJoy, Klix (DE), Tiago Walter |
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Thu, 3 Sept 2026 | GROOVE BURO \w Dick Jockey | Dick Jockey, Fineberg, Karolina Bnv |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with
 | Sun, 6 Sept 2026 | Vinyl Flea Market |  |
 | Sun, 6 Sept 2026 | Schimmer Records Showcase | Nat Wendell, Pino Peña, Vanaenae, uiava, wallflower_ |
 | Thu, 10 Sept 2026 | Ausländerbehörde with Madalba (Tresor), JEDRANALINE, DJ Regret & Tan B | DJ Regret, JEDRANALINE, Madalba |
+| Fri, 11 Sept 2026 | Paloma x Selectors Club | ANDI A., Roko (2), Thomas Heinrich |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

@@ -1,6 +1,6 @@
 # Labüsch-Bar, Winterthur
 
-Labüsch-Bar, Winterthur is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Sat, 22 Aug 2026; the next is "Ü40 Timeless Nights" on Fri, 4 Sept 2026.
+Labüsch-Bar, Winterthur is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ü40 Timeless Nights" on Fri, 4 Sept 2026.
 
 Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Zur Kesselschmiede 27, 8400 Winterthur, Switzerland.
 
@@ -15,4 +15,4 @@ Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 2 upco
 
 Zur Kesselschmiede 27, 8400 Winterthur, Switzerland, Zurich
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*

@@ -1,14 +1,13 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Runnymede Hall, Toronto on Sat, 22 Aug 2026.
+DJ Minx is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
 
-DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Runnymede Hall, Toronto on Sat 22 Aug.
+DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Under the K Bridge, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Runnymede Hall | Toronto |
 | Sat, 29 Aug 2026 | Under the K Bridge | New York City |
 | Fri, 11 Sept 2026 | Südpol | Hamburg |
 | Sat, 12 Sept 2026 | Südpol | Hamburg |
@@ -18,6 +17,7 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged
 
 ## Recently played
 
+- Runnymede Hall, Toronto — Sat, 22 Aug 2026
 - Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
 - Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
 - TBA - 416 Morse St NE, Washington, DC 20002, Washington DC — Sat, 4 Jul 2026
@@ -25,10 +25,9 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged
 - smartbar, Chicago — Sat, 27 Jun 2026
 - Spot Lite Detroit, Detroit — Thu, 25 Jun 2026
 - Academy LA, Los Angeles — Sat, 20 Jun 2026
-- TBA - Downtown LA, Los Angeles — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

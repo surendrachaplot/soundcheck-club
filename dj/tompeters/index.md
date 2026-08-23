@@ -1,14 +1,13 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 22 Aug 2026, next at Club Rawhide, New York City on Sat, 22 Aug 2026.
+Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Thu, 27 Aug 2026.
 
-Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Club Rawhide, Newyorkcity on Sat 22 Aug.
+Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Club der Visionaere, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Club Rawhide | New York City |
 | Thu, 27 Aug 2026 | Club der Visionaere | Berlin |
 | Sat, 5 Sept 2026 | Lehmann Club | Stuttgart |
 | Sat, 12 Sept 2026 | KREUZWERK | Berlin |
@@ -16,6 +15,7 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
+- Club Rawhide, New York City — Sat, 22 Aug 2026
 - BASEMENT, New York City — Sat, 15 Aug 2026
 - Georgia Bar, Berlin — Fri, 14 Aug 2026
 - ciao ciao Bar, Berlin — Tue, 11 Aug 2026
@@ -23,10 +23,9 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 - Mtkvarze, Tbilisi — Sat, 11 Jul 2026
 - Paragon, New York City — Sat, 4 Jul 2026
 - Club Rawhide, New York City — Fri, 3 Jul 2026
-- Rumi, New York City — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Sat, 22 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
