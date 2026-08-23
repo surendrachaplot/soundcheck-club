@@ -1,14 +1,13 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at BRET, Amsterdam on Sat, 22 Aug 2026.
+DJ Rino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
-DJ Rino is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: BRET, Amsterdam on Sat 22 Aug.
+DJ Rino is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Gaffe, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | BRET | Amsterdam |
 | Sat, 5 Sept 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |

@@ -1,8 +1,8 @@
 # Basing House
 
-Basing House is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "SUBLOW.FM PRESENTS UK TRIBAL EDITION" on Thu, 27 Aug 2026.
+Basing House is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "SUBLOW.FM PRESENTS UK TRIBAL EDITION" on Thu, 27 Aug 2026.
 
-Basing House is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including AALEX, Adela, ALTO  (UK) and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including AALEX, Adela, ALTO  (UK) and Alythia Kwan and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 

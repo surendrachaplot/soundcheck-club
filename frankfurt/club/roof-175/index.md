@@ -1,14 +1,13 @@
 # Roof 175
 
-Roof 175 is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Hard Impact & Fury - Tekk Night at Roof, Mainz" on Sat, 22 Aug 2026.
+Roof 175 is a music venue in Frankfurt with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Mandora pres. KNTRLVRLST, Charleen Herzig, MR TECHNO" on Sat, 19 Sept 2026.
 
-Roof 175 is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights, with line-ups including Charleen Herzig, DeGuzman, KNTRLVRLST and Noise Not War. Browse upcoming dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
+Roof 175 is a music venue in Frankfurt listed on soundcheck. 2 upcoming nights, with line-ups including Charleen Herzig, DeGuzman, KNTRLVRLST and Noise Not War. Browse upcoming dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Hard Impact & Fury - Tekk Night at Roof, Mainz |  |
 | Sat, 19 Sept 2026 | Mandora pres. KNTRLVRLST, Charleen Herzig, MR TECHNO | Charleen Herzig, KNTRLVRLST |
 | Sat, 26 Sept 2026 | 𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 End of September Wake Up Call | DeGuzman, Noise Not War |
 

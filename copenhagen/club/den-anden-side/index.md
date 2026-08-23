@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Syntharax & Friends" on Sat, 22 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FOMO Vol. 6: FOMO Land" on Fri, 28 Aug 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Adam Eisert, Alexander Santana, Anders HP and Anton Goltermann and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Adam Eisert, Anders HP, Anton Goltermann and Astral Bandit and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Syntharax & Friends | Alexander Santana, CF682, DJ BENDER, Lead Ore, Martin Gilleshøj, Mia Lund, SONYDIAM |
 | Fri, 28 Aug 2026 | FOMO Vol. 6: FOMO Land | Elias Gozal, Jessie Dols, UBER KNAST |
 | Sat, 29 Aug 2026 | Whipped x Eros Haven | EI.VN, Gavnlig, Holtz (2), Lukr Range |
 | Sat, 29 Aug 2026 | Enter The Void Vol. 3 at Den Anden Ende | Astral Bandit, DJ Void |

@@ -1,14 +1,13 @@
 # POPU
 
-POPU is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat, 22 Aug 2026.
+POPU is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Outdoor Location, Vancouver on Fri, 28 Aug 2026.
 
-POPU is a techno and house artist tracked on soundcheck, with 79 sets logged across Bangkok, Seoul, Tokyo and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver on Sat 22 Aug.
+POPU is a techno and house artist tracked on soundcheck, with 79 sets logged across Bangkok, Seoul, Tokyo and Vancouver. Often billed alongside DK PAU, Behrad Tehrani and Fizch. Next up: TBA - Outdoor Location, Vancouver on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2) | Vancouver |
 | Fri, 28 Aug 2026 | TBA - Outdoor Location | Vancouver |
 | Sat, 12 Sept 2026 | TBA - Secret Location | Vancouver |
 | Sat, 10 Oct 2026 | TBA | Vancouver |

@@ -1,14 +1,13 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "─୨ৎ─2 YEARS of Zona Magica─୨ৎ─" on Sat, 22 Aug 2026.
+Ankali & Planeta Za is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Yuggadus Birthday" on Fri, 28 Aug 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Abo Abo, Adamovia, AE.WAI and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Abo Abo, Adamovia, AE.WAI and Alfred Czital and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | ─୨ৎ─2 YEARS of Zona Magica─୨ৎ─ | Kontronatura, Noise Casino, VISNEACS, mata rubia, patricccio |
 | Fri, 28 Aug 2026 | Yuggadus Birthday | Alfred Czital, Caim, Jemazzz, JöëK, LONG, Yan (CZ), ishka machina |
 | Sat, 29 Aug 2026 | FEMXCORE x R E J U V | MAXImum, Mother Menace, olesia |
 | Sat, 29 Aug 2026 | FEMXCORE x R E J U V | Big Lil, DARDANELLA, MAXImum, Mother Menace, olesia, zey |

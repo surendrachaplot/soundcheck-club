@@ -1,14 +1,13 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 22 Aug 2026.
+Tauceti (FR) is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Fuse, Brussels on Sat, 5 Sept 2026.
 
-Tauceti (FR) is a techno and ambient artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Lehmann Club, Stuttgart on Sat 22 Aug.
+Tauceti (FR) is a techno and ambient artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Tommy Four Seven, Kangding Ray and Psyk. Next up: Fuse, Brussels on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Lehmann Club | Stuttgart |
 | Sat, 5 Sept 2026 | Fuse | Brussels |
 | Fri, 18 Sept 2026 | Fvtvr | Paris |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |

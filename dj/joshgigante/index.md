@@ -1,14 +1,13 @@
 # Josh Gigante
 
-Josh Gigante is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Supermarket, Zurich on Sat, 22 Aug 2026.
+Josh Gigante is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 23 Aug 2026.
 
-Josh Gigante is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bali, Barcelona and Basel and 10 more. Often billed alongside Read the News, Afshin Momadi and Massano. Next up: Supermarket, Zurich on Sat 22 Aug.
+Josh Gigante is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bali, Barcelona and Basel and 10 more. Often billed alongside Read the News, Afshin Momadi and Massano. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Supermarket | Zurich |
 | Sun, 23 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played

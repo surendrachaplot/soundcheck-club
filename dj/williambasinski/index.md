@@ -1,14 +1,13 @@
 # William Basinski
 
-William Basinski is a Ambient and Experimental artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Royal Exhibition Building, Melbourne on Sat, 22 Aug 2026.
+William Basinski is a Ambient and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
-William Basinski is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Basel, Belgrade and Berlin and 24 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: Royal Exhibition Building, Melbourne on Sat 22 Aug.
+William Basinski is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Basel, Belgrade and Berlin and 24 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Royal Exhibition Building | Melbourne |
 | Thu, 17 Sept 2026 | Kaserne Basel | Basel |
 | Sat, 19 Sept 2026 | Teatar 78 | Belgrade |
 | Sun, 8 Nov 2026 | BERHTA | Washington DC |

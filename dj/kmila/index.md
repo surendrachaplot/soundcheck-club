@@ -1,14 +1,13 @@
 # KMILA
 
-KMILA is a Techno and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+KMILA is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
 
-KMILA is a techno and neo perreo artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, London and Manchester and 2 more. Often billed alongside Puñññal, Rattlesnakke and Julio César. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
+KMILA is a techno and neo perreo artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, London and Manchester and 2 more. Often billed alongside Puñññal, Rattlesnakke and Julio César. Next up: Nitsa Club, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 29 Aug 2026 | Nitsa Club | Barcelona |
 
 ## Recently played

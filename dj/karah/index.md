@@ -1,14 +1,13 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Spook Club, Valencia on Sat, 22 Aug 2026.
+KARAH is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
-KARAH is a techno and industrial artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Spook Club, Valencia on Sat 22 Aug.
+KARAH is a techno and industrial artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Spook Club | Valencia |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | E1 | London |

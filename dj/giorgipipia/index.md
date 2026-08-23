@@ -1,14 +1,13 @@
 # Giorgi Pipia
 
-Giorgi Pipia is a Hip-Hop and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sabagiro, Tbilisi on Sat, 22 Aug 2026.
+Giorgi Pipia is a Hip-Hop and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Left Bank, Tbilisi on Sat, 29 Aug 2026.
 
-Giorgi Pipia is a hip-hop and electro artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Ash Scholem, Dali (GE) and Routes Not Roots. Next up: Sabagiro, Tbilisi on Sat 22 Aug.
+Giorgi Pipia is a hip-hop and electro artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Ash Scholem, Dali (GE) and Routes Not Roots. Next up: Left Bank, Tbilisi on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Sabagiro | Tbilisi |
 | Sat, 29 Aug 2026 | Left Bank | Tbilisi |
 
 ## Recently played

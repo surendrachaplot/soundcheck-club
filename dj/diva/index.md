@@ -1,14 +1,13 @@
 # Diva
 
-Diva is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+Diva is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
-Diva is a techno and trance artist based in Belarus, tracked on soundcheck, with 40 sets logged across Prague. Often billed alongside 2NDRA, SJ Yellow and S.N.R.I.. Next up: Altenburg 1964, Prague on Fri 21 Aug.
+Diva is a techno and trance artist based in Belarus, tracked on soundcheck, with 40 sets logged across Prague. Often billed alongside 2NDRA, SJ Yellow and S.N.R.I.. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 | Sat, 12 Sept 2026 | Altenburg 1964 | Prague |
 

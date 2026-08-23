@@ -1,14 +1,13 @@
 # Ryan Dank (2)
 
-Ryan Dank (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Culture Box, Copenhagen on Sat, 22 Aug 2026.
+Ryan Dank (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
 
-Ryan Dank (2) is a house and techno artist based in Denmark, tracked on soundcheck, with 36 sets logged across Copenhagen and Oslo. Often billed alongside DJ Spice, Jonas Tuk and Tim Andresen. Next up: Culture Box, Copenhagen on Sat 22 Aug.
+Ryan Dank (2) is a house and techno artist based in Denmark, tracked on soundcheck, with 36 sets logged across Copenhagen and Oslo. Often billed alongside DJ Spice, Jonas Tuk and Tim Andresen. Next up: Klub Werkstatt, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Culture Box | Copenhagen |
 | Fri, 11 Sept 2026 | Klub Werkstatt | Copenhagen |
 | Fri, 18 Sept 2026 | Copenhill | Copenhagen |
 

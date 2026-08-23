@@ -1,14 +1,13 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT)" on Sat, 22 Aug 2026.
+ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arbër, MXC, Vaccaro" on Sun, 23 Aug 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including KIV., Aaron Blau, Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including KIV., Aaron Blau, Acierate and Alfa Cornae and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | FEIERAMT x LAPSUS x DOLLHAUS (21 HOURS DAY + NIGHT) | Dylan Fogarty, EMIRA, Human Experiments, JenTen, Jessie Granqvist, Ksenia K, MAURER, Maris Shilton, Mython, PØVE, Santos., TAUREAN (2), Taurean, VOICEX |
 | Sun, 23 Aug 2026 | Figments: Berlin's Finest with DJ Pete, Spencer Parker, K-H1, Mottomo, KIV, arbër, MXC, Vaccaro | DJ Pete, K-H1, KIV., MXC, Mottomo, No Auer, Pleasure, Spencer Parker, Vaccaro, arbër, kts<3, luci., søssa |
 | Wed, 26 Aug 2026 | ＬＩＬＩＴＨ✦ |  |
 | Thu, 27 Aug 2026 | CANCELLED -  OBXENE |  |
@@ -18,6 +17,7 @@
 | Thu, 3 Sept 2026 | Soundhall | Blosvenn, DMZ (DE), Genghis C_nt, K1000o, PW DISTORTION, Philena, Pylerinstinct1, Redondoo, Yiye, wisje |
 | Fri, 4 Sept 2026 | Cuddles: VIRGO SEASON | Aaron Blau, Chico Blanco, Katy De Jesus, MCMLXXXV, Sterling Juan Diaz, Vani Vachi, Verushka, puppy |
 | Thu, 10 Sept 2026 | CHROMA XXL - OFFBEAT SESSION | Conntex, Delta Division, Jynki, Kali, Ketarina, MZR, Ôneyra |
+| Fri, 11 Sept 2026 | Lieber tot N° 2 – Synth & Minimal Wave Festival | Graftak, LaFontaine, Light Asylum, Mara Mortem, Martial Canterel, Testbild |
 
 ## Address
 

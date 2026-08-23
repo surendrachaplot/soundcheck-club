@@ -1,8 +1,8 @@
 # LeVin
 
-LeVin is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
+LeVin is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
 
-LeVin is a minimal and house artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Often billed alongside Dale, Greg Nox and PR Department. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
+LeVin is a house and minimal artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Often billed alongside Dale, Greg Nox and PR Department. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
 
 ## Upcoming shows
 

@@ -1,14 +1,13 @@
 # Charmeine
 
-Charmeine is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
+Charmeine is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
-Charmeine is a house and tech house artist based in Turkey, tracked on soundcheck, with 28 sets logged across Barcelona, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside BLOND:ISH, Denis Sulta and Dorian Craft. Next up: Mercado Pago Hall, Saopaulo on Sat 22 Aug.
+Charmeine is a house and tech house artist based in Turkey, tracked on soundcheck, with 28 sets logged across Barcelona, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside BLOND:ISH, Denis Sulta and Dorian Craft. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Mercado Pago Hall | Sao Paulo |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
 
 ## Recently played

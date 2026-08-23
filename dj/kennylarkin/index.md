@@ -1,14 +1,13 @@
 # Kenny Larkin
 
-Kenny Larkin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Haus der Visionäre, Berlin on Sat, 22 Aug 2026.
+Kenny Larkin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Sat, 5 Sept 2026.
 
-Kenny Larkin is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 20 more. Often billed alongside Octave One, Carl Craig and DJ Hell. Next up: Haus der Visionäre, Berlin on Sat 22 Aug.
+Kenny Larkin is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 20 more. Often billed alongside Octave One, Carl Craig and DJ Hell. Next up: fabric, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Haus der Visionäre | Berlin |
 | Sat, 5 Sept 2026 | fabric | London |
 
 ## Recently played

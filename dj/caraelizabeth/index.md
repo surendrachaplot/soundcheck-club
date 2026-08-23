@@ -1,14 +1,13 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Virage, Paris on Sat, 22 Aug 2026.
+Cara Elizabeth is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 20 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: Virage, Paris on Sat 22 Aug.
+Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 20 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Virage | Paris |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |

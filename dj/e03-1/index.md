@@ -1,14 +1,13 @@
 # e03 (1)
 
-e03 (1) is a R&B and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+e03 (1) is a R&B and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 23 Aug 2026.
 
-e03 (1) is a r&b and experimental artist tracked on soundcheck, with 7 sets logged across Berlin and Tbilisi. Often billed alongside bod [包家巷], Warlord® and exmantera. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
+e03 (1) is a r&b and experimental artist tracked on soundcheck, with 7 sets logged across Berlin and Tbilisi. Often billed alongside bod [包家巷], Warlord® and exmantera. Next up: TBA - Secret Location, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sun, 23 Aug 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played

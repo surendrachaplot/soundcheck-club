@@ -1,14 +1,13 @@
 # Rattlesnakke
 
-Rattlesnakke is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 22 Aug 2026.
+Rattlesnakke is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Botanique, Brussels on Sat, 17 Oct 2026.
 
-Rattlesnakke is a techno and latin bass artist based in Argentina, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside KMILA, Sushinigami and AMANTRA. Next up: Village Underground Barcelona, Barcelona on Sat 22 Aug.
+Rattlesnakke is a techno and latin bass artist based in Argentina, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside KMILA, Sushinigami and AMANTRA. Next up: Botanique, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 17 Oct 2026 | Botanique | Brussels |
 
 ## Recently played

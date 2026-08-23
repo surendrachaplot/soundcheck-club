@@ -1,14 +1,13 @@
 # Ric Piccolo
 
-Ric Piccolo is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Clwds, Tallinn on Sat, 22 Aug 2026.
+Ric Piccolo is a Italo Disco and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bohnengold, Berlin on Fri, 28 Aug 2026.
 
-Ric Piccolo is an italo disco and disco artist based in Germany, tracked on soundcheck, with 59 sets logged across Barcelona, Basel, Belgrade and Berlin and 18 more. Often billed alongside Furor Exótica, Harari and Furotica. Next up: Clwds, Tallinn on Sat 22 Aug.
+Ric Piccolo is an italo disco and disco artist based in Germany, tracked on soundcheck, with 59 sets logged across Barcelona, Basel, Belgrade and Berlin and 18 more. Often billed alongside Furor Exótica, Harari and Furotica. Next up: Bohnengold, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Clwds | Tallinn |
 | Fri, 28 Aug 2026 | Bohnengold | Berlin |
 | Sat, 29 Aug 2026 | B-SIDE | Warsaw |
 

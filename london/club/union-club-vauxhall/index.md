@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Signature Techno After party - Open until 10am" on Sat, 22 Aug 2026.
+Union Club, Vauxhall is a music venue in London with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Orbit Sunday night / Monday morning after party" on Sun, 23 Aug 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Dhez, Donato Alberti, Donnie Bianco and Duwat? and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Dhez, Donnie Bianco, Duwat? and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Signature Techno After party - Open until 10am | Donato Alberti, Donnie Bianco, Monnay, Thomas Galbardi, Ununu |
 | Sun, 23 Aug 2026 | Orbit Sunday night / Monday morning after party | Donnie Bianco, Thomas Galbardi |
 | Thu, 27 Aug 2026 | DESIRE - Weekly Thursday After Party - HOUSEWIFE | Dhez, Duwat?, Housewife (UK), Simone Sim |
 | Fri, 28 Aug 2026 | FOX IN THE BOX (Friday weekly Afterparty open until 10am) | Enrico Chirchiello, JUAN VEGA |

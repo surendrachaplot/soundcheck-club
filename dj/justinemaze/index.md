@@ -1,14 +1,13 @@
 # Justine Maze
 
-Justine Maze is a Techno and EBM artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at KALT, Strasbourg on Sat, 22 Aug 2026.
+Justine Maze is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
-Justine Maze is a techno and ebm artist based in France, tracked on soundcheck, with 17 sets logged across Strasbourg. Often billed alongside Lude (2), Cinder and Tatlo. Next up: KALT, Strasbourg on Sat 22 Aug.
+Justine Maze is a techno and ebm artist based in France, tracked on soundcheck, with 17 sets logged across Strasbourg. Often billed alongside Lude (2), Cinder and Tatlo. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | KALT | Strasbourg |
 | Thu, 3 Sept 2026 | Manufacture des Tabacs - Strasbourg | Strasbourg |
 | Fri, 4 Sept 2026 | Manufacture des Tabacs - Strasbourg | Strasbourg |
 

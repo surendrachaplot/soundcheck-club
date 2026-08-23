@@ -1,14 +1,13 @@
 # alemiko
 
-alemiko is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at ://about blank, Berlin on Sat, 22 Aug 2026.
+alemiko is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
-alemiko is a techno and trance artist tracked on soundcheck, with 124 sets logged across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and KLING&KLANG. Next up: ://about blank, Berlin on Sat 22 Aug.
+alemiko is a techno and trance artist tracked on soundcheck, with 124 sets logged across Berlin, Leipzig and Malta. Often billed alongside Balkhausen, Limoncello and KLING&KLANG. Next up: ://about blank, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | ://about blank | Berlin |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
 | Wed, 9 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 11 Sept 2026 | Lokschuppen Berlin | Berlin |

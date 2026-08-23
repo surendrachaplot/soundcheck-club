@@ -1,14 +1,13 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 22 Aug 2026.
+Layla Benitez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bauhaus, Houston on Fri, 4 Sept 2026.
 
-Layla Benitez is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 22 Aug.
+Layla Benitez is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Bauhaus, Houston on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Fri, 4 Sept 2026 | Bauhaus | Houston |
 | Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |
 

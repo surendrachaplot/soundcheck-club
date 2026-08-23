@@ -1,14 +1,13 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "OTHERWORLD x PARASITE" on Sat, 22 Aug 2026.
+The Ground at Club Space is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Lisa's Kickback" on Fri, 28 Aug 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 15 upcoming nights, with line-ups including 1tbsp, Actress, Bok Bok and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including 1tbsp, Actress, Bok Bok and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | OTHERWORLD x PARASITE | LOLSNAKE, M7, Virgo, jay york |
 | Fri, 28 Aug 2026 | Lisa's Kickback |  |
 | Fri, 28 Aug 2026 | Lisa's Kickback: Andrea Quintero | Freddy Bello, Lousy Lover |
 | Sat, 29 Aug 2026 | Casa Whispers presents: Caves of Kukulkán |  |
@@ -18,6 +17,7 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 15 upco
 | Fri, 11 Sept 2026 | House Hats: RSquared + VITO (UK) | RSquared, VITO (UK) |
 | Sat, 19 Sept 2026 | Nitzer Ebb | Nitzer Ebb, Sepehr, Souls Departed |
 | Fri, 25 Sept 2026 | Autonomy: SHERELLE, Bok Bok, & Introspekt | Bok Bok, Introspekt, Marie Qrie, SHERELLE, Xilla |
+| Fri, 9 Oct 2026 | Rebecca Black: Exhibitionism on Tour |  |
 
 ## Address
 

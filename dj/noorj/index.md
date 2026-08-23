@@ -1,14 +1,13 @@
 # noorj
 
-noorj is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+noorj is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 23 Aug 2026.
 
-noorj is an ambient and experimental artist tracked on soundcheck, with 5 sets logged across Berlin and Vienna. Often billed alongside Buttechno, XTCLVR and bod [包家巷]. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
+noorj is an ambient and experimental artist tracked on soundcheck, with 5 sets logged across Berlin and Vienna. Often billed alongside Buttechno, XTCLVR and bod [包家巷]. Next up: TBA - Secret Location, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sun, 23 Aug 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played

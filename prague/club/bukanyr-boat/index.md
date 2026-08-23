@@ -1,14 +1,13 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Moving Pictures - djs Roman Rai, Vik, Daniel Neighbour, Sidartha Siliceo live (sitar & drums)" on Sat, 22 Aug 2026.
+Bukanyr Boat is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Bukanyr Boat: 28th Anniversary w. Biesmans (Running Back / Berlin)" on Fri, 28 Aug 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including abecko, Axis Alpha, Biodan and Blackloud and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including abecko, Axis Alpha, Biodan and Blackloud and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Moving Pictures - djs Roman Rai, Vik, Daniel Neighbour, Sidartha Siliceo live (sitar & drums) | Daniel Neighbour, Roman Rai |
 | Fri, 28 Aug 2026 | Bukanyr Boat: 28th Anniversary w. Biesmans (Running Back / Berlin) | Biesmans, Biodan, Blackloud, S.Tian |
 | Sat, 29 Aug 2026 | Weltraum - djs Silvester Suske, Axis Alpha, Eva Falt | Axis Alpha, Eva Falt |
 | Fri, 4 Sept 2026 | Innuendo Showcase - DJs EFÍMERO (MEX) & Vakuri (MEX) | EFÍMERO |
@@ -18,6 +17,7 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming nights
 | Fri, 18 Sept 2026 | Caren Callas (DE / Paracou), Lillou, Takē | Caren Callas, Lillou, Takē |
 | Sat, 19 Sept 2026 | Vivacity - Cubik, Da Moon, Sta | Cubik, Da Moon |
 | Fri, 25 Sept 2026 | rákosí crew djs ábéčko, duboisi, Kirill Astra, Rosso Reisen | Kirill Astra, abecko, duboisi |
+| Sat, 26 Sept 2026 | Part Time Locals - djs Radul (RO), Sam Gittis & friends | Radul, Sam Gittis |
 
 ## Address
 

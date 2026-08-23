@@ -1,14 +1,13 @@
 # TBA - AMK Club, Almagro
 
-TBA - AMK Club, Almagro is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "19:26 & MORE ARTISTS - by SAVAGE, AMK CLUB" on Sat, 22 Aug 2026.
+TBA - AMK Club, Almagro is a music venue in Buenos Aires with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Joris Voorn & MORE ARTISTS [TRIP TO GALAXY] - by ELEMENTS & EXTERNAL, AMK CLUB" on Sat, 29 Aug 2026.
 
-TBA - AMK Club, Almagro is a music venue in Buenosaires listed on soundcheck. 6 upcoming nights, with line-ups including 19:26, Agustin Giri, Joris Voorn and Juan Elvadin and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - AMK Club, Almagro is a music venue in Buenosaires listed on soundcheck. 5 upcoming nights, with line-ups including Agustin Giri, Joris Voorn, Juan Hansen and Kevin Di Serna and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | 19:26 & MORE ARTISTS - by SAVAGE, AMK CLUB | 19:26, Juan Elvadin, Layla Benitez |
 | Sat, 29 Aug 2026 | Joris Voorn & MORE ARTISTS [TRIP TO GALAXY] - by ELEMENTS & EXTERNAL, AMK CLUB | Joris Voorn |
 | Sat, 5 Sept 2026 | Juan Hansen & MORE ARTISTS [ULTRASONIDO ALBUM TOUR] - by SAVAGE, AMK CLUB | Agustin Giri, Juan Hansen |
 | Sat, 12 Sept 2026 | Magdalena & MORE ARTISTS – by FREAK ME OUT & THE MUSIC ROUTE, AMK CLUB | Magdalena, Magdalena (DE), Mila Journée |

@@ -1,14 +1,13 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
+In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Thu, 27 Aug 2026.
 
-In Verruf is a techno and trance artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: OST, Berlin on Sat 22 Aug.
+In Verruf is a techno and trance artist tracked on soundcheck, with 134 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: INPUT High Fidelity Dance Club, Barcelona on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | OST | Berlin |
 | Thu, 27 Aug 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 29 Aug 2026 | Maassilo | Rotterdam |

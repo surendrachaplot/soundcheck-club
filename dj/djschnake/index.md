@@ -1,14 +1,13 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 21 Aug 2026.
+Dj Schnake is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
 
-Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Lokschuppen Berlin, Berlin on Fri 21 Aug.
+Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Antwerp Expo, Antwerp on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Fri, 18 Sept 2026 | Hidden | Manchester |

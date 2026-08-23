@@ -1,14 +1,13 @@
 # O.M.Theorem
 
-O.M.Theorem is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+O.M.Theorem is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 29 Aug 2026.
 
-O.M.Theorem is a dub and bass artist based in Norway, tracked on soundcheck, with 18 sets logged across Berlin and Riga. Often billed alongside 16 Faces, Cate Hops and FridaY (DE). Next up: Renate, Berlin on Sat 22 Aug.
+O.M.Theorem is a dub and bass artist based in Norway, tracked on soundcheck, with 18 sets logged across Berlin and Riga. Often billed alongside 16 Faces, Cate Hops and FridaY (DE). Next up: Kaņepes Kultūras Centrs, Riga on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Renate | Berlin |
 | Sat, 29 Aug 2026 | Kaņepes Kultūras Centrs | Riga |
 | Sat, 5 Sept 2026 | TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations | Berlin |
 

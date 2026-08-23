@@ -1,14 +1,13 @@
 # Sevenum Six
 
-Sevenum Six is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kilomètre25, Paris on Sat, 22 Aug 2026.
+Sevenum Six is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Chinastraat, Ghent on Sat, 3 Oct 2026.
 
-Sevenum Six is a techno and acid artist tracked on soundcheck, with 31 sets logged across Antwerp, Brussels, Geneva and Ghent and 5 more. Often billed alongside Lena De Roose, Radze and Helena Lauwaert. Next up: Kilomètre25, Paris on Sat 22 Aug.
+Sevenum Six is a techno and acid artist tracked on soundcheck, with 31 sets logged across Antwerp, Brussels, Geneva and Ghent and 5 more. Often billed alongside Lena De Roose, Radze and Helena Lauwaert. Next up: Chinastraat, Ghent on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Chinastraat | Ghent |
 
 ## Recently played

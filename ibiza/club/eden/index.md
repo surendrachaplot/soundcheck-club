@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 32 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FUEGO WEEK 13" on Sat, 22 Aug 2026.
+Eden is a music venue in Ibiza with 31 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ACCUSED @ Eden Ibiza" on Sun, 23 Aug 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 32 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 31 upcoming nights, with line-ups including ACA (YU), Alberto Costa, Alle Farben and Andres Campo and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | FUEGO WEEK 13 |  |
 | Sun, 23 Aug 2026 | ACCUSED @ Eden Ibiza | ACA (YU), Félix (UK), James Cooper (UK), Jamie Fielding, Ramin Rezaie, Reelow, Sam Marzi |
 | Mon, 24 Aug 2026 | ACTIN' BAD WEEK 8 (Presented by Holler At Me) | Alle Farben, Noel Holler |
 | Mon, 24 Aug 2026 | ACTIN' BAD WEEK 8 (Presented by Holler At Me) | Alle Farben, Noel Holler |
@@ -18,6 +17,7 @@ Eden is a music venue in Ibiza listed on soundcheck. 32 upcoming nights, with li
 | Thu, 27 Aug 2026 | MARKUS SCHULZ - Opening Party | Markus Schulz |
 | Fri, 28 Aug 2026 | FIRE IN THE CLUB WEEK 13 |  |
 | Sat, 29 Aug 2026 | FUEGO WEEK 14 |  |
+| Mon, 31 Aug 2026 | ACTIN' BAD WEEK 9 (Presented by Holler At Me) | Noel Holler |
 
 ## Address
 

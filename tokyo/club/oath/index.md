@@ -1,14 +1,13 @@
 # Oath
 
-Oath is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "DtRm presents 'Höja'" on Sat, 22 Aug 2026.
+Oath is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "OATH MONDAY" on Mon, 24 Aug 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Aki Dolanikov, Amps, DJ SHO and GooPer and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Aki Dolanikov, Amps, GooPer and hiroto yano and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | DtRm presents 'Höja' | DJ SHO, NYAO, NullDaSensei |
 | Mon, 24 Aug 2026 | OATH MONDAY | Aki Dolanikov |
 | Tue, 25 Aug 2026 | OATH TUESDAY | hiroto yano |
 | Wed, 26 Aug 2026 | OATH WEDNESDAY |  |

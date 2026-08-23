@@ -11,8 +11,8 @@ Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line
 | Sat, 29 Aug 2026 | RAMEN SOUND presents: CHROMA (reprise) | DJ Button Moon |
 | Sat, 12 Sept 2026 | Good People vol.3 | Itoa, Lady Jules |
 | Sat, 19 Sept 2026 | 21 years of keysound | Blackdown, Elijah and Skilliam, Logos, MC Koast, Mumdance |
-| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yumi |
-| Fri, 9 Oct 2026 | TUSH: Breaks, Bass & Techno Charity Fundraiser |  |
+| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yu Mi |
+| Fri, 9 Oct 2026 | TUSH: Breaks, Bass & Techno Charity Fundraiser | Kassita |
 | Sat, 24 Oct 2026 | clockwork: dj ladle, dj fynn, corchuelo, something good |  |
 
 ## Address

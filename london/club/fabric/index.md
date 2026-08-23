@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 29 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Broadwick Live presents: Flight Facilities, Kirollus, Jennifer Loveless, Fort Romeau + more" on Sat, 22 Aug 2026.
+fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CAYA by fabric: Inermu - James Dexter (All Night Long)" on Sun, 23 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including A For Alpha, A Hard Day's Dance, Alfie and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including A For Alpha, Alfie, Ali Velmi and Amoss and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Broadwick Live presents: Flight Facilities, Kirollus, Jennifer Loveless, Fort Romeau + more | A Hard Day's Dance, Aroop Roy, Donis, Ella Knight, Flight Facilities, Fort Romeau, Jennifer Loveless, Kirollus, MILLIE, Pheebs |
 | Sun, 23 Aug 2026 | CAYA by fabric: Inermu - James Dexter (All Night Long) | James Dexter |
 | Fri, 28 Aug 2026 | FABRICLIVE: Piano People Afterparty - TXC, ZEE NXUMALO, MöRDA, DEB FA, JADA JADE | LIMZy, MöRDA, OneThabs |
 | Sat, 29 Aug 2026 | Appetite Afterparty (Saturday) - Skream, Jamback, Jaden Thompson, Kellie Allen + more | HALFPINT, Jaden Thompson, Jamback, James Lavelle, Kellie Allen, Lewis Carroll, Phill de Janeiro, Skream, Tom Da Silva |
@@ -18,6 +17,7 @@ fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with
 | Sun, 6 Sept 2026 | CAYA by fabric: Rarebit x CUE - DJ Cosworth, Oldboy, Lucas Alexander + more | Cam Foster, DJ Cosworth, Lucas Alexander, Oldboy |
 | Fri, 11 Sept 2026 | Heavy House Society: Sidney Charles + more TBA | Sidney Charles |
 | Sat, 12 Sept 2026 | fabric presents Mount Kimbie mix launch: Yu Su, Tijana T, Leo Gosh, DJ Python, Galcher Lustwerk | DJ Python, Galcher Lustwerk, Leo Gosh, Mor Elian, Mount Kimbie, Tijana T, Yu Su |
+| Sun, 13 Sept 2026 | CAYA by fabric: bloop london Radio - 11 Year Anniversary | Alfie, Dean Mir, El Cassar, Elliot Moriarty, Hunter. S, I Like Wires, Joey & OBS, Kanedo, Lake Turner |
 
 ## Address
 

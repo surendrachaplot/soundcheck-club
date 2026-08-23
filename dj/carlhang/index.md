@@ -1,14 +1,13 @@
 # Carl Hang
 
-Carl Hang is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hoppetosse, Berlin on Sat, 22 Aug 2026.
+Carl Hang is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
 
-Carl Hang is a house and techno artist based in Germany, tracked on soundcheck, with 101 sets logged across Basel, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Wall Ra, DJ Business (2) and Femdelic. Next up: Hoppetosse, Berlin on Sat 22 Aug.
+Carl Hang is a house and techno artist based in Germany, tracked on soundcheck, with 101 sets logged across Basel, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Wall Ra, DJ Business (2) and Femdelic. Next up: Renate, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Hoppetosse | Berlin |
 | Fri, 18 Sept 2026 | Renate | Berlin |
 | Sat, 19 Sept 2026 | Paloma | Berlin |
 | Thu, 24 Sept 2026 | Badehaus Berlin | Berlin |

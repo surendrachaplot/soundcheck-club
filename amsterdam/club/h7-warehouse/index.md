@@ -1,14 +1,13 @@
 # H7 Warehouse
 
-H7 Warehouse is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dark Session: H7 AFTERPARTY // AMSTERDAM (BOILER ROOM)" on Sun, 23 Aug 2026.
+H7 Warehouse is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Intercell x 999999999 Invites | ADE By Night" on Thu, 22 Oct 2026.
 
-H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including 999999999, Altinbas, Alycia Bezgo and Azzurro and 2 more. Browse upcoming dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
+H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including 999999999, Altinbas, Alycia Bezgo and Azzurro and 2 more. Browse upcoming dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Dark Session: H7 AFTERPARTY // AMSTERDAM (BOILER ROOM) | LS41 (2), TiTi |
 | Thu, 22 Oct 2026 | Intercell x 999999999 Invites / ADE By Night | 999999999, DJ Hyperdrive, SAMOH, Supergloss, Yasmin Regisford |
 | Thu, 22 Oct 2026 | Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026 | Maddix |
 | Fri, 23 Oct 2026 | Intercell x Mika Heggemann Invites / ADE By Day | Alycia Bezgo, Azzurro, Cleopard2000, Faster Horses, Mika Heggemann, Olive Anguz |

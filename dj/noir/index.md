@@ -1,14 +1,13 @@
 # Noir
 
-Noir is a Drum & Bass and Grime artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sat, 22 Aug 2026.
+Noir is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
-Noir is a drum & bass and grime artist based in Denmark, tracked on soundcheck, with 9 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 2 more. Often billed alongside BassLayerz, Maze (FR) and SKYWALKER (US). Next up: Antwerp Expo, Antwerp on Sat 22 Aug.
+Noir is a drum & bass and grime artist based in Denmark, tracked on soundcheck, with 9 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 2 more. Often billed alongside BassLayerz, Maze (FR) and SKYWALKER (US). Next up: Fuchs2, Prague on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Antwerp Expo | Antwerp |
 | Sat, 26 Sept 2026 | Fuchs2 | Prague |
 
 ## Recently played

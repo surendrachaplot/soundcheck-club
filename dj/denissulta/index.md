@@ -1,14 +1,13 @@
 # Denis Sulta
 
-Denis Sulta is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mercado Pago Hall, Sao Paulo on Sat, 22 Aug 2026.
+Denis Sulta is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 31 Aug 2026.
 
-Denis Sulta is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stassy. Next up: Mercado Pago Hall, Saopaulo on Sat 22 Aug.
+Denis Sulta is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 49 more. Often billed alongside Ben Hemsley, Sarah Story and Chris Stassy. Next up: Amnesia Ibiza, Ibiza on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Mercado Pago Hall | Sao Paulo |
 | Mon, 31 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |

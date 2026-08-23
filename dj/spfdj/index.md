@@ -1,14 +1,13 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at fi, Cologne on Sat, 22 Aug 2026.
+SPFDJ is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
 
-SPFDJ is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: fi, Cologne on Sat 22 Aug.
+SPFDJ is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside DAX J, Anetha and MCMLXXXV. Next up: Virage, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | fi | Cologne |
 | Sat, 29 Aug 2026 | Virage | Paris |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Fri, 25 Sept 2026 | The Bongo Club | Edinburgh |

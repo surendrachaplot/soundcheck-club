@@ -1,14 +1,13 @@
 # Rodèk
 
-Rodèk is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Westhafen, Leipzig on Sat, 22 Aug 2026.
+Rodèk is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Auensee Leipzig, Leipzig on Sat, 29 Aug 2026.
 
-Rodèk is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Leipzig. Often billed alongside knete, Friedrich Gegner and Rn86. Next up: Westhafen, Leipzig on Sat 22 Aug.
+Rodèk is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Leipzig. Often billed alongside knete, Friedrich Gegner and Rn86. Next up: TBA - Auensee Leipzig, Leipzig on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Westhafen | Leipzig |
 | Sat, 29 Aug 2026 | TBA - Auensee Leipzig | Leipzig |
 
 ## Recently played

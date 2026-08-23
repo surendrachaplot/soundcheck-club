@@ -1,14 +1,13 @@
 # feph
 
-feph is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Domicile, Miami on Sat, 22 Aug 2026.
+feph is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-feph is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Amsterdam, Boston, Buenosaires and Miami. Often billed alongside Mr. Tron, Souls Departed and Artime. Next up: Domicile, Miami on Sat 22 Aug.
+feph is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Amsterdam, Boston, Buenosaires and Miami. Often billed alongside Mr. Tron, Souls Departed and Artime. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Domicile | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

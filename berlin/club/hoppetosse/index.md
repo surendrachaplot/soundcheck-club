@@ -1,14 +1,13 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "coppi at Hoppetosse " on Sat, 22 Aug 2026.
+Hoppetosse is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Analog meets Digital: rooftop hangout x djay Pro" on Sun, 23 Aug 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Balthazar Martinez, BODYSHIFT, Carina Posse and Carl Hang and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including BODYSHIFT, Carina Posse, Casimir von Oettingen and Coco and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | coppi at Hoppetosse  | Balthazar Martinez, Carl Hang, Lask, Lucas Depta, Pino Peña, Pschukk, Salty DJ, Sevensol, Toni Pfad, Violetta (DE), ele uno |
 | Sun, 23 Aug 2026 | Analog meets Digital: rooftop hangout x djay Pro |  |
 | Fri, 11 Sept 2026 | 23 Jahre Betriebsfeier | BODYSHIFT, Carina Posse, Casimir von Oettingen, Coco, Elli Altenberger, Empro, Flo Pirke, Ida Daugaard, Jakob Seidensticker, Lucas Hulan, MELINA (3), Marco Resmann, Mona Moore, Roni Amitai, Scoopsi, Spencer Parker, Surreal (DE), The Reason Y, Tweaken |
 | Fri, 25 Sept 2026 | Musek Vol. VII | Francesco Farfa, Hamsa, Janina, Miki |

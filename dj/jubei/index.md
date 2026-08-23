@@ -1,14 +1,13 @@
 # Jubei
 
-Jubei is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Japan Monterrey, Mexico City on Sat, 22 Aug 2026.
+Jubei is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Amigo, Ghent on Sat, 7 Nov 2026.
 
-Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Basel, Berlin, Brighton and Bristol and 7 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Japan Monterrey, Mexicocity on Sat 22 Aug.
+Jubei is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Basel, Berlin, Brighton and Bristol and 7 more. Often billed alongside SP:MC, DJ Flight and Breakage. Next up: Amigo, Ghent on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Japan Monterrey | Mexico City |
 | Sat, 7 Nov 2026 | Amigo | Ghent |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Rumore Nightclub Capri
 
-Rumore Nightclub Capri is a music venue in Naples with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rumore Season 26 Party N°38 W/ Dr Banana & Melody" on Sat, 22 Aug 2026.
+Rumore Nightclub Capri is a music venue in Naples with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rumore Season 26 Party N°39 W/ Mara & TONY IANNICELLI" on Thu, 27 Aug 2026.
 
-Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 8 upcoming nights, with line-ups including Céline, Cumhur Jay, Dr Banana and Gabriele Russo and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
+Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 7 upcoming nights, with line-ups including Céline, Cumhur Jay, Gabriele Russo and Jonny Rock and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Rumore Season 26 Party N°38 W/ Dr Banana & Melody | Dr Banana |
 | Thu, 27 Aug 2026 | Rumore Season 26 Party N°39 W/ Mara & TONY IANNICELLI | TONY IANNICELLI |
 | Fri, 28 Aug 2026 | Rumore Season 26 Party N°40 W/ Cumhur Jay & Orazio Rispo | Cumhur Jay, Orazio Rispo |
 | Sat, 29 Aug 2026 | Rumore Season 26 Party N°41 W/ Kenia & Maure | Kenia |

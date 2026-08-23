@@ -1,8 +1,8 @@
 # Neurodancer (AU)
 
-Neurodancer (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
+Neurodancer (AU) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
 
-Neurodancer (AU) is a techno and trance artist based in Australia, tracked on soundcheck, with 1 set logged across Sydney. Often billed alongside Andy Garvey, Eastern Distributor and amuwa. Next up: TBA, Sydney on Sat 5 Sept.
+Neurodancer (AU) is a trance and techno artist based in Australia, tracked on soundcheck, with 1 set logged across Sydney. Often billed alongside Andy Garvey, Eastern Distributor and amuwa. Next up: TBA, Sydney on Sat 5 Sept.
 
 ## Upcoming shows
 

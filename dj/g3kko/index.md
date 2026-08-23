@@ -1,14 +1,13 @@
 # g3kko
 
-g3kko is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TILLATEC, Amsterdam on Sat, 22 Aug 2026.
+g3kko is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
-g3kko is a techno and experimental artist based in Poland, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, PLATTER and BOYCA. Next up: TILLATEC, Amsterdam on Sat 22 Aug.
+g3kko is a techno and experimental artist based in Poland, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, PLATTER and BOYCA. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TILLATEC | Amsterdam |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played

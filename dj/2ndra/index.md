@@ -1,14 +1,13 @@
 # 2NDRA
 
-2NDRA is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Altenburg 1964, Prague on Fri, 21 Aug 2026.
+2NDRA is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Skate Plaza Vltavská, Prague on Thu, 3 Sept 2026.
 
-2NDRA is a techno and dub techno artist tracked on soundcheck, with 59 sets logged across Lisbon and Prague. Often billed alongside RiVid, Nøteleks and SJ Yellow. Next up: Altenburg 1964, Prague on Fri 21 Aug.
+2NDRA is a techno and dub techno artist tracked on soundcheck, with 59 sets logged across Lisbon and Prague. Often billed alongside RiVid, Nøteleks and SJ Yellow. Next up: TBA - Skate Plaza Vltavská, Prague on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Altenburg 1964 | Prague |
 | Thu, 3 Sept 2026 | TBA - Skate Plaza Vltavská | Prague |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 

@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Razjeb x Danse Macabre" on Sat, 22 Aug 2026.
+Smolna is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HIDEOUT SOCIAL CLUB #20 || VIVØ x TBA" on Wed, 26 Aug 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including Anela, Cwtv, Francesca and Francesca (PL) and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including Cwtv, Francesca, Francesca (PL) and long w and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Razjeb x Danse Macabre | Anela, HELLIS, KASSANDRA, Mady, NO FACE, Yu Kawabata, iLAN |
 | Wed, 26 Aug 2026 | HIDEOUT SOCIAL CLUB #20 // VIVØ x TBA | TBA, VIVØ |
 | Fri, 28 Aug 2026 | Theviacya invites | Francesca, Francesca (PL), Mushin, SPNN, SYS.END, Theviacya |
 | Fri, 4 Sept 2026 | Smolna x Bassmates | Sarba, long w |

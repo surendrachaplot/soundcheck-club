@@ -1,14 +1,13 @@
 # DTEXX
 
-DTEXX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at OST, Berlin on Sat, 22 Aug 2026.
+DTEXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
 
-DTEXX is a techno and trance artist tracked on soundcheck, with 61 sets logged across Berlin, Leipzig, Lisbon and Milan and 3 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: OST, Berlin on Sat 22 Aug.
+DTEXX is a techno and trance artist tracked on soundcheck, with 61 sets logged across Berlin, Leipzig, Lisbon and Milan and 3 more. Often billed alongside SIKXTO, Filialleiter and Trancestrudel. Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | OST | Berlin |
 | Sat, 29 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
 

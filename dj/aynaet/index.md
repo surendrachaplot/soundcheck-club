@@ -1,14 +1,13 @@
 # Aynaet
 
-Aynaet is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Void Club, Berlin on Sat, 22 Aug 2026.
+Aynaet is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Void Club, Berlin on Fri, 18 Sept 2026.
 
-Aynaet is a drum & bass and techno artist tracked on soundcheck, with 61 sets logged across Berlin. Often billed alongside Upzet, Anton Quasi and IHOPEIEXIST. Next up: Void Club, Berlin on Sat 22 Aug.
+Aynaet is a drum & bass and techno artist tracked on soundcheck, with 61 sets logged across Berlin. Often billed alongside Upzet, Anton Quasi and IHOPEIEXIST. Next up: Void Club, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Void Club | Berlin |
 | Fri, 18 Sept 2026 | Void Club | Berlin |
 
 ## Recently played

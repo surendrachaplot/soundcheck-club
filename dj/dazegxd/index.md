@@ -1,14 +1,13 @@
 # Dazegxd
 
-Dazegxd is a Jungle and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The White Hotel, Manchester on Sat, 22 Aug 2026.
+Dazegxd is a Jungle and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Berkeley Suite, Glasgow on Tue, 25 Aug 2026.
 
-Dazegxd is a jungle and club artist tracked on soundcheck, with 98 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: The White Hotel, Manchester on Sat 22 Aug.
+Dazegxd is a jungle and club artist tracked on soundcheck, with 98 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: The Berkeley Suite, Glasgow on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | The White Hotel | Manchester |
 | Tue, 25 Aug 2026 | The Berkeley Suite | Glasgow |
 | Sat, 29 Aug 2026 | The Ton of Brix | London |
 | Sat, 12 Sept 2026 | TBA - CALL INFOLINE | Boston |

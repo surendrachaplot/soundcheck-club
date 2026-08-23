@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "DVALITY INVITES NW0: DRO: CHAOS " on Sat, 22 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 12 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Stamina presents Lukeino" on Sun, 23 Aug 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 13 upcoming nights, with line-ups including Akumen, ANDYLAND, Andy Oro and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 12 upcoming nights, with line-ups including Akumen, ANDYLAND, Andy Oro and bastiengoat and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | DVALITY INVITES NW0: DRO: CHAOS  |  |
 | Sun, 23 Aug 2026 | Stamina presents Lukeino | Lukeino |
 | Tue, 25 Aug 2026 | INTERZONE - MATRIX PARTY | Byter, Hex Embrace, Hopelesss |
 | Wed, 26 Aug 2026 | JustJovani'S TECHNO BIRTHDAY  | JustJovani |
@@ -18,6 +17,7 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 13 upcomin
 | Fri, 4 Sept 2026 | HYPERDRIVE with KAYA! |  |
 | Sat, 5 Sept 2026 | Mostly Cloudy: B2B2B2B2B | ANDYLAND, Akumen, Andy Oro, DJ Saratonin, HEAVENLY ARCH, Lil Bebe Cyborg, MALICIEL, Milli Meng, Profesito, QUEENIE (US), YANNI, felipe d, xtcemi |
 | Fri, 11 Sept 2026 | MOMENTUM PRESENTS: 2SIINZ | Byrd, SNAQ |
+| Thu, 1 Oct 2026 | CONNECT OCT 2026 | JustJovani |
 
 ## Address
 

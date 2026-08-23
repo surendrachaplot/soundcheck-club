@@ -1,14 +1,13 @@
 # RHYTMOX
 
-RHYTMOX is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at M-BIA, Berlin on Sat, 22 Aug 2026.
+RHYTMOX is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-RHYTMOX is a psytrance and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin and Cologne. Often billed alongside Texo, monervo and Momentune. Next up: M-BIA, Berlin on Sat 22 Aug.
+RHYTMOX is a psytrance and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin and Cologne. Often billed alongside Texo, monervo and Momentune. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | M-BIA | Berlin |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 
 ## Recently played

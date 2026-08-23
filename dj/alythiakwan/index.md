@@ -1,8 +1,8 @@
 # Alythia Kwan
 
-Alythia Kwan is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Alythia Kwan is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
-Alythia Kwan is a progressive house and deep house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside MARIUS SEBASTIAN, AALEX and Fernweh (2). Next up: Basing House, London on Fri 11 Sept.
+Alythia Kwan is a progressive house and deep house artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside MARIUS SEBASTIAN, Fernweh (2) and MEAKIN. Next up: Basing House, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alythia Kwan is a progressive house and deep house artist tracked on soundcheck,
 | Fri, 11 Sept 2026 | Basing House | London |
 | Fri, 25 Sept 2026 | The Timber Loft | London |
 | Sat, 17 Oct 2026 | UNLOCKED | London |
+| Sat, 21 Nov 2026 | Basing House | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Alythia Kwan is a progressive house and deep house artist tracked on soundcheck,
 
 ## Shares bills with
 
-MARIUS SEBASTIAN, AALEX, Fernweh (2)
+MARIUS SEBASTIAN, Fernweh (2), MEAKIN
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alythiakwan/)*

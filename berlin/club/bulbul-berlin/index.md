@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "GOOD SOULS: Shabi, Kat_Es, Javier Anxiety, Marcus Holder" on Sat, 22 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP" on Thu, 27 Aug 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Javier Anxiety, Almost Famous, Better Call Paul and boyyyish and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Almost Famous, Better Call Paul, boyyyish and Buzz Boutique and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | GOOD SOULS: Shabi, Kat_Es, Javier Anxiety, Marcus Holder | Javier Anxiety, Kat_Es, Marcus Holder, Shabi |
 | Thu, 27 Aug 2026 | FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP | Buzz Boutique, ROBERT KAMP, Unna Foulanah |
 | Fri, 28 Aug 2026 | Durchreise: Etiennette, mp.ulle, Jasper Kråch, Siegfried Plemo | Etiennette, Jasper Kråch, Siegfried Plemo, mp.ulle |
 | Sat, 29 Aug 2026 | BULBUL ALL NIGHT: Nikklaas, BEKA, DJ Sanni, Casa Marrone | DJ Sanni, Nikklaas |

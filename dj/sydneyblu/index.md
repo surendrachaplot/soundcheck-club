@@ -1,14 +1,13 @@
 # Sydney Blu
 
-Sydney Blu is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Vertigo, Toronto on Fri, 21 Aug 2026.
+Sydney Blu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
 
-Sydney Blu is a house and tech house artist based in Canada, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 9 more. Often billed alongside SHERA, Videri and RUDEE NIK. Next up: Vertigo, Toronto on Fri 21 Aug.
+Sydney Blu is a house and tech house artist based in Canada, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 9 more. Often billed alongside SHERA, Videri and RUDEE NIK. Next up: Gorg-O-Mish, Vancouver on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Vertigo | Toronto |
 | Sat, 29 Aug 2026 | Gorg-O-Mish | Vancouver |
 
 ## Recently played

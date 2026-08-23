@@ -1,14 +1,13 @@
 # Red Bar
 
-Red Bar is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "REDBAR SATURDAY" on Sat, 22 Aug 2026.
+Red Bar is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "REDBAR MONDAY" on Mon, 24 Aug 2026.
 
-Red Bar is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 3rill, BOW (1), CALPISS and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
+Red Bar is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including 3rill, BOW (1), Dazzle Drums and KAKERU and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Shibuya, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | REDBAR SATURDAY | CALPISS, Haruka Katagata |
 | Mon, 24 Aug 2026 | REDBAR MONDAY | 3rill, Keigo (JP), Onométro |
 | Tue, 25 Aug 2026 | REDBAR TUESDAY | Sota Shimada |
 | Wed, 26 Aug 2026 | REDBAR WEDNESDAY | KAKERU |

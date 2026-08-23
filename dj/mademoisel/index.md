@@ -1,14 +1,13 @@
 # Mademoisel
 
-Mademoisel is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Sat, 22 Aug 2026.
+Mademoisel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Macadam, Nantes on Fri, 28 Aug 2026.
 
-Mademoisel is a techno and trance artist tracked on soundcheck, with 48 sets logged across Berlin, Copenhagen, London and Lyon and 5 more. Often billed alongside DJ SKIN, ISA (ES) and Aquamarine. Next up: Renate, Berlin on Sat 22 Aug.
+Mademoisel is a techno and trance artist tracked on soundcheck, with 48 sets logged across Berlin, Copenhagen, London and Lyon and 5 more. Often billed alongside DJ SKIN, ISA (ES) and Aquamarine. Next up: Macadam, Nantes on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Renate | Berlin |
 | Fri, 28 Aug 2026 | Macadam | Nantes |
 | Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 11 Sept 2026 | TBA - Neukölln Secret Location | Berlin |

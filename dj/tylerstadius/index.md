@@ -1,14 +1,13 @@
 # Tyler Stadius
 
-Tyler Stadius is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 22 Aug 2026.
+Tyler Stadius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
 
-Tyler Stadius is a house and techno artist based in Canada, tracked on soundcheck, with 20 sets logged across Vancouver. Often billed alongside Jay Tripwire, Afrooz and Luke McKeehan. Next up: Gorg-O-Mish, Vancouver on Sat 22 Aug.
+Tyler Stadius is a house and techno artist based in Canada, tracked on soundcheck, with 20 sets logged across Vancouver. Often billed alongside Jay Tripwire, Afrooz and Luke McKeehan. Next up: TBA, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Gorg-O-Mish | Vancouver |
 | Fri, 2 Oct 2026 | TBA | Vancouver |
 
 ## Recently played

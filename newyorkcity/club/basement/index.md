@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism" on Sat, 22 Aug 2026.
+BASEMENT is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy" on Sat, 29 Aug 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Dustin Zahn / Nastia Reigel / NEUX / / Eau De Cologne: Natuta / MVHY / Mutualism | Dustin Zahn, MVHY, Mutualism, NEUX, Nastia Reigel, Natuta |
 | Sat, 29 Aug 2026 | Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy | Annie Lew, Beste Hira, Immy, James Axon, Jason Kendig, Kilopatrah Jones, Yonti |
 | Tue, 1 Sept 2026 | Twitch live with zamvoil |  |
 | Fri, 4 Sept 2026 | Quelza / Takaaki Itoh / ketia / Tommy Hart / Sevyn | Quelza, Sevyn, Takaaki Itoh, Tommy Hart, ketia |
@@ -18,6 +17,7 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 11 upcoming night
 | Fri, 18 Sept 2026 | Mama Snake / Anabel Arroyo / Katie Rex / Fafi Abdel Nour / Gabrielle Kwarteng / Jek | Anabel Arroyo, Fafi Abdel Nour, Gabrielle Kwarteng, Jek (US), Katie Rex, Mama Snake |
 | Sat, 19 Sept 2026 | DAY+NIGHT: D.Dan/ Mos/ Elle Dee/ Freddy K/ RonLikeHell/ cotton/ Massi Pagliara/ Heidi L/ KimAnh | D.Dan, Elle Dee, Freddy K, Heidi Lawden, Kim Anh, Massimiliano Pagliara, Mos (NYC), Ron Like Hell, cotton |
 | Fri, 25 Sept 2026 | MUTUAL RYTM: SHDW / Phil Berg / Regent / Hemka / JADALAREIGN / Mike Servito / Saia | Hemka, JADALAREIGN, Mike Servito, Phil Berg, Regent, SHDW, Saia |
+| Sat, 26 Sept 2026 | Mac Declos / Marcal / Cora / Perfect Lovers / Victor Rodriguez / Chris Cruse / Kilopatrah Jones | Chris Cruse, Cora (CN), Kilopatrah Jones, Mac Declos, Marcal, Perfect Lovers, Victor Rodriguez |
 
 ## Address
 

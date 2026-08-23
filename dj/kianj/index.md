@@ -1,8 +1,8 @@
 # KIANJ
 
-KIANJ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+KIANJ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
 
-KIANJ is a techno and trance artist based in Sri Lanka, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside Alex Bohemien, Etwas and HYBE. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
+KIANJ is a trance and techno artist based in Sri Lanka, tracked on soundcheck, with 1 set logged across Melbourne. Often billed alongside Alex Bohemien, Etwas and HYBE. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
 
 ## Upcoming shows
 

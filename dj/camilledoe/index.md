@@ -1,14 +1,13 @@
 # Camille Doe
 
-Camille Doe is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mia Mao, Paris on Sat, 22 Aug 2026.
+Camille Doe is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Camille Doe is a house and garage artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Mia Mao, Paris on Sat 22 Aug.
+Camille Doe is a house and garage artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Mia Mao | Paris |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |

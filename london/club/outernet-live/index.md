@@ -1,8 +1,8 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Orange At The Astoria Reunion" on Sat, 29 Aug 2026.
+Outernet Live is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Orange At The Astoria Reunion" on Sat, 29 Aug 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AliA, ALISHA, Alix Perez and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including AliA, ALISHA, Alix Perez and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 

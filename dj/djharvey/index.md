@@ -1,14 +1,13 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ministry Of Sound, London on Sat, 22 Aug 2026.
+DJ Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Knockdown Center, New York City on Fri, 18 Sept 2026.
 
-DJ Harvey is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Bali and Chicago and 13 more. Often billed alongside Heidi Lawden, Natasha Diggs and Seth Troxler. Next up: Ministry Of Sound, London on Sat 22 Aug.
+DJ Harvey is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Bali and Chicago and 13 more. Often billed alongside Heidi Lawden, Natasha Diggs and Seth Troxler. Next up: Knockdown Center, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Ministry Of Sound | London |
 | Fri, 18 Sept 2026 | Knockdown Center | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 

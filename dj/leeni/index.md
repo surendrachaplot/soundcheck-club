@@ -1,14 +1,13 @@
 # LEENI
 
-LEENI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Distillery, Leipzig on Sat, 22 Aug 2026.
+LEENI is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Byhaven, Copenhagen on Sun, 23 Aug 2026.
 
-LEENI is a techno and house artist tracked on soundcheck, with 81 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Falke. Next up: Distillery, Leipzig on Sat 22 Aug.
+LEENI is a techno and house artist tracked on soundcheck, with 81 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Falke. Next up: Byhaven, Copenhagen on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Distillery | Leipzig |
 | Sun, 23 Aug 2026 | Byhaven | Copenhagen |
 | Sat, 19 Sept 2026 | gART.n | Berlin |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |

@@ -1,14 +1,13 @@
 # Solardo
 
-Solardo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 22 Aug 2026.
+Solardo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
 
-Solardo is a house and tech house artist tracked on soundcheck, with 146 sets logged across Aberdeen, Amsterdam, Austin and Bali and 42 more. Often billed alongside Claptone, Andrea Oliva and Vintage Culture. Next up: Chinois Ibiza, Ibiza on Sat 22 Aug.
+Solardo is a house and tech house artist tracked on soundcheck, with 146 sets logged across Aberdeen, Amsterdam, Austin and Bali and 42 more. Often billed alongside Claptone, Andrea Oliva and Vintage Culture. Next up: Fabrik, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Fabrik | Madrid |
 | Sat, 26 Sept 2026 | E1 | London |
 

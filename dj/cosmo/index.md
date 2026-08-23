@@ -1,14 +1,13 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Charlatan, Ghent on Sat, 22 Aug 2026.
+Cosmo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
 
-Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Bucharest, Chicago and Ghent and 11 more. Often billed alongside Jordz, Kim.Qna and Phi Phi. Next up: Charlatan, Ghent on Sat 22 Aug.
+Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Bucharest, Chicago and Ghent and 11 more. Often billed alongside Jordz, Kim.Qna and Phi Phi. Next up: House of Yes, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Charlatan | Ghent |
 | Sat, 5 Sept 2026 | House of Yes | New York City |
 
 ## Recently played

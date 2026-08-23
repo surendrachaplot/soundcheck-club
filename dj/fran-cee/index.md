@@ -1,14 +1,13 @@
 # Fran-Cee
 
-Fran-Cee is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Der Weiße Hase, Berlin on Sat, 22 Aug 2026.
+Fran-Cee is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Sun, 6 Sept 2026.
 
-Fran-Cee is a techno and tech house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Epicx, Wiebe Roose and Ben Green. Next up: Der Weiße Hase, Berlin on Sat 22 Aug.
+Fran-Cee is a techno and tech house artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Epicx, Wiebe Roose and Ben Green. Next up: KitKatClub, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Der Weiße Hase | Berlin |
 | Sun, 6 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played

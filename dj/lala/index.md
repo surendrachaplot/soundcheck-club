@@ -1,14 +1,13 @@
 # La La
 
-La La is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Legal, Munich on Sat, 22 Aug 2026.
+La La is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-La La is a house and techno artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Legal, Munich on Sat 22 Aug.
+La La is a house and techno artist tracked on soundcheck, with 142 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Legal | Munich |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

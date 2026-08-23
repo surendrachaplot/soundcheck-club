@@ -1,14 +1,13 @@
 # Tylr
 
-Tylr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat, 22 Aug 2026.
+Tylr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Eagle of Detroit, London on Sat, 29 Aug 2026.
 
-Tylr is a house and techno artist tracked on soundcheck, with 325 sets logged across Detroit, London, Newyorkcity and Seattle and 1 more. Often billed alongside Loren, Kass (US) and Garrison XR. Next up: TBA - The Vault : 16940 Hamilton Avenue:, Detroit on Sat 22 Aug.
+Tylr is a house and techno artist tracked on soundcheck, with 325 sets logged across Detroit, London, Newyorkcity and Seattle and 1 more. Often billed alongside Loren, Kass (US) and Garrison XR. Next up: The Eagle of Detroit, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - The Vault : 16940 Hamilton Avenue: | Detroit |
 | Sat, 29 Aug 2026 | The Eagle of Detroit | London |
 
 ## Recently played

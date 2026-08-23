@@ -1,14 +1,13 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Vetor Club x Plasma x Pirexia (10 hrs) - Tickets en DICE" on Sat, 22 Aug 2026.
+Village Underground Barcelona is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "MUSA 4º ANIVERSARIO - OPEN AIR 12H" on Sat, 29 Aug 2026.
 
-Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including A.Fruit, Albal, Alex Picone and AMANTRA and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
+Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including A.Fruit, Albal, Alex Picone and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Vetor Club x Plasma x Pirexia (10 hrs) - Tickets en DICE | AMANTRA, Cherolainne, Julio César, KBRAL, KMILA, M8NSE, Rattlesnakke, SIMONA, T0M1, ZEI (Br) |
 | Sat, 29 Aug 2026 | MUSA 4º ANIVERSARIO - OPEN AIR 12H | Doppelganger, Drazzit, Nina Pixina, SANTANA, Schacke, Tangela, Verushka |
 | Fri, 4 Sept 2026 | Azadi Soundsystem pres. Kahn & Neek | A.Fruit, DJ Der, Kahn, Miramizu, Neek |
 | Sat, 5 Sept 2026 | The Ghost + Heels&Souls + PolK (Groove Grill) | Cortazar, Heels & Souls, Orson Sinaka, Pol K, The Ghost |

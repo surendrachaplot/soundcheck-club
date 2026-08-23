@@ -1,14 +1,13 @@
 # Dadachoe
 
-Dadachoe is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at RO Seoul, Seoul on Sat, 22 Aug 2026.
+Dadachoe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Faust, Seoul on Fri, 28 Aug 2026.
 
-Dadachoe is a house and deep house artist based in South Korea, tracked on soundcheck, with 12 sets logged across Osaka and Seoul. Often billed alongside Nocturnal (KR), Minish and Stann Lumo. Next up: RO Seoul, Seoul on Sat 22 Aug.
+Dadachoe is a house and deep house artist based in South Korea, tracked on soundcheck, with 12 sets logged across Osaka and Seoul. Often billed alongside Nocturnal (KR), Minish and Stann Lumo. Next up: Faust, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | RO Seoul | Seoul |
 | Fri, 28 Aug 2026 | Faust | Seoul |
 
 ## Recently played

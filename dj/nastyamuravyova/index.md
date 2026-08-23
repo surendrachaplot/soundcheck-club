@@ -1,14 +1,13 @@
 # Nastya Muravyova
 
-Nastya Muravyova is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 22 Aug 2026.
+Nastya Muravyova is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Marmorbar, Berlin on Sat, 12 Sept 2026.
 
-Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 22 Aug.
+Nastya Muravyova is a techno and house artist based in Ukraine, tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Marmorbar, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 12 Sept 2026 | Marmorbar | Berlin |
 | Sat, 19 Sept 2026 | TBA - Secret Location | Amsterdam |
 

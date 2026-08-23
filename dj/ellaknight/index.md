@@ -1,14 +1,13 @@
 # Ella Knight
 
-Ella Knight is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Sat, 22 Aug 2026.
+Ella Knight is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: fabric, London on Sat 22 Aug.
+Ella Knight is a house and disco artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | fabric | London |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 4 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |

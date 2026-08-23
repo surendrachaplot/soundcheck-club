@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Atmo: NysoK + Pol R + G Groove / Bar: Cosy O & DJ Lance" on Sat, 22 Aug 2026.
+Oven Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Souleast b2b Soumz" on Wed, 26 Aug 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 6 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Cheriii and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 5 upcoming nights, with line-ups including Aguirre, Ariezzz, BAR (DE) and Cheriii and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Atmo: NysoK + Pol R + G Groove / Bar: Cosy O & DJ Lance | BAR (DE) |
 | Wed, 26 Aug 2026 | Souleast b2b Soumz |  |
 | Thu, 27 Aug 2026 | ERA: Aguirre + Jag + Robson | Aguirre, Robson |
 | Fri, 28 Aug 2026 | Total: Cheriii + Ariezzz + Ladrillovitz / Bar: Strange Boy & Fran-K | Ariezzz, BAR (DE), Cheriii, Ladrillovitz |

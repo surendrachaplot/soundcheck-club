@@ -1,14 +1,13 @@
 # Monnay
 
-Monnay is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Club, Vauxhall, London on Sat, 22 Aug 2026.
+Monnay is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Colesdale Farm, London on Sun, 6 Sept 2026.
 
-Monnay is a techno and progressive house artist tracked on soundcheck, with 16 sets logged across Dublin and London. Often billed alongside Kling, Loora and Thomas Galbardi. Next up: Union Club, Vauxhall, London on Sat 22 Aug.
+Monnay is a techno and progressive house artist tracked on soundcheck, with 16 sets logged across Dublin and London. Often billed alongside Kling, Loora and Thomas Galbardi. Next up: Colesdale Farm, London on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Union Club, Vauxhall | London |
 | Sun, 6 Sept 2026 | Colesdale Farm | London |
 
 ## Recently played

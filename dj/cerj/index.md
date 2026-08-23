@@ -1,14 +1,13 @@
 # CERJ
 
-CERJ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Sat, 22 Aug 2026.
+CERJ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Culture Box, Copenhagen on Sat, 29 Aug 2026.
 
-CERJ is a techno and house artist tracked on soundcheck, with 51 sets logged across Copenhagen, Frankfurt and London. Often billed alongside Aja Gulris, Only Ollie and Anders HP. Next up: Hangaren, Copenhagen on Sat 22 Aug.
+CERJ is a techno and house artist tracked on soundcheck, with 51 sets logged across Copenhagen, Frankfurt and London. Often billed alongside Aja Gulris, Only Ollie and Anders HP. Next up: Culture Box, Copenhagen on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 29 Aug 2026 | Culture Box | Copenhagen |
 | Sat, 26 Sept 2026 | Culture Box | Copenhagen |
 | Fri, 2 Oct 2026 | Den Anden Side | Copenhagen |

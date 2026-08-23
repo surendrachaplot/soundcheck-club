@@ -1,14 +1,13 @@
 # Albin Brezlan
 
-Albin Brezlan is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Das Werk, Vienna on Sat, 22 Aug 2026.
+Albin Brezlan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Wed, 26 Aug 2026.
 
-Albin Brezlan is a techno and house artist based in Austria, tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: Das Werk, Vienna on Sat 22 Aug.
+Albin Brezlan is a techno and house artist based in Austria, tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: KitKatClub, Berlin on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Das Werk | Vienna |
 | Wed, 26 Aug 2026 | KitKatClub | Berlin |
 | Wed, 26 Aug 2026 | KitKatClub | Berlin |
 | Fri, 28 Aug 2026 | Birgit | Berlin |

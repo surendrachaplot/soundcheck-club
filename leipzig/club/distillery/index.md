@@ -1,14 +1,13 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "NA ENDLICH" on Sat, 22 Aug 2026.
+Distillery is a music venue in Leipzig with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "PROGRESSIVE SUNDAY" on Sun, 23 Aug 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 8 upcoming nights, with line-ups including Alexia (2), ali e., bertziherzi and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 7 upcoming nights, with line-ups including Alexia (2), ali e., bertziherzi and Bi Män and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | NA ENDLICH | Daniel Stefanik, Danilo Kupfernagel, KIMYA, LEENI, Malena (2), Mathias Kaden |
 | Sun, 23 Aug 2026 | PROGRESSIVE SUNDAY | Emeveka, Skoria |
 | Fri, 28 Aug 2026 | RUDE UNDERGROUND |  |
 | Sat, 29 Aug 2026 | KEINKOLLEKTIV X NEW KIDS | Bi Män, DJ Skonti, Delirante, LuckyLeo, Timstagram, han/nah, vinyldependents |

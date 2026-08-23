@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ANUBIS: Sevenum Six, Ophidian, BOTL, Heavora" on Sat, 22 Aug 2026.
+Kilomètre25 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Orka: MIA OVA, Michel Ange, PAULINE D7, SKOLLARIS & vizionn" on Thu, 27 Aug 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including Airod, ANDATA, Angie (FR) and ANXHELA and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Airod, ANDATA, Angie (FR) and ANXHELA and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | ANUBIS: Sevenum Six, Ophidian, BOTL, Heavora | BOTL, Heavora, Kuki, Ophidian, Sevenum Six |
 | Thu, 27 Aug 2026 | Orka: MIA OVA, Michel Ange, PAULINE D7, SKOLLARIS & vizionn | Michel Ange, vizionn |
 | Fri, 28 Aug 2026 | EUPHORIA SESSIONS: Elli Acula, KiNK, Lacchesi, Elise Massoni | Elise Massoni, Elli Acula, KiNK, Lacchesi, STL-P |
 | Sat, 29 Aug 2026 | HOTMESS: Laure Croft, Bours?, Yasmin Gardezi & MORE | Bours?, LUNATIXX, Laure Croft, NO MISS, Yasmin Gardezi |
@@ -18,6 +17,7 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights,
 | Fri, 11 Sept 2026 | Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax | Airod, Angie (FR), Cattoni, Terminal Trax, YENKOV |
 | Sat, 12 Sept 2026 | Cookie records: Sophie Lloyd, Kabylie Minogue, UN*DEUX | Audem, Kabylie Minogue, Sophie Lloyd, UN*DEUX |
 | Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
+| Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
 
 ## Address
 

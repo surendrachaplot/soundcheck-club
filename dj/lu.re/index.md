@@ -1,14 +1,13 @@
 # Lu.Re
 
-Lu.Re is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mia Mao, Paris on Sat, 22 Aug 2026.
+Lu.Re is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M.O.T, London on Fri, 18 Sept 2026.
 
-Lu.Re is a garage and house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Brighton, Brisbane and Bristol and 9 more. Often billed alongside Oneman, Jaguar and Jossy Mitsu. Next up: Mia Mao, Paris on Sat 22 Aug.
+Lu.Re is a garage and house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Brighton, Brisbane and Bristol and 9 more. Often billed alongside Oneman, Jaguar and Jossy Mitsu. Next up: M.O.T, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Mia Mao | Paris |
 | Fri, 18 Sept 2026 | M.O.T | London |
 
 ## Recently played

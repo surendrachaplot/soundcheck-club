@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 38 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Don Toliver Live at E11EVEN" on Sat, 22 Aug 2026.
+E11EVEN MIAMI is a music venue in Miami with 37 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "DJ Stretch at E11EVEN" on Sun, 23 Aug 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 38 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 37 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Don Toliver Live at E11EVEN |  |
 | Sun, 23 Aug 2026 | DJ Stretch at E11EVEN |  |
 | Mon, 24 Aug 2026 | Chizzle at E11EVEN |  |
 | Tue, 25 Aug 2026 | Richard Fraioli at E11EVEN |  |
@@ -18,6 +17,7 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 38 upcoming nights
 | Sun, 30 Aug 2026 | Damaged Goods at E11EVEN |  |
 | Mon, 31 Aug 2026 | Affect at E11EVEN |  |
 | Tue, 1 Sept 2026 | PeeWee |  |
+| Wed, 2 Sept 2026 | LDW ft Roxy Ferrari |  |
 
 ## Address
 

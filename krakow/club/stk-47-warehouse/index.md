@@ -1,14 +1,13 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Neurodydaktyka - DnB - Techno at STK" on Sat, 22 Aug 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Wulkan (secret lineup)" on Fri, 28 Aug 2026.
 
-STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming nights, with line-ups including A.C., DJ Ricky, Eddie Santini and ERNST (UA) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
+STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nights, with line-ups including A.C., DJ Ricky, Eddie Santini and ERNST (UA) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Neurodydaktyka - DnB - Techno at STK |  |
 | Fri, 28 Aug 2026 | Wulkan (secret lineup) |  |
 | Sat, 29 Aug 2026 | PROPER ACID TECHNO RAVE w\ Eddie Santini | A.C., Eddie Santini, Grymek |
 | Sat, 5 Sept 2026 | KRAKÓW W TRANSIE STK47 WAREHOUSE RAVE | Mikouaj Rejw / Wixapol S.A., TORRENTZ, Wixapol |

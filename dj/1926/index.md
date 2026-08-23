@@ -1,14 +1,13 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 22 Aug 2026.
+19:26 is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-19:26 is a techno and electronica artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Barcelona and Basel and 21 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 22 Aug.
+19:26 is a techno and electronica artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Barcelona and Basel and 21 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Fri, 2 Oct 2026 | Knockdown Center | New York City |
 
 ## Recently played
