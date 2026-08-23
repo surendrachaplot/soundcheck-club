@@ -1,14 +1,15 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Opening Concert: Roda de Santo (PT) + Carla Schack (BR/DK)" on Fri, 28 Aug 2026.
+ALICE is a music venue in Copenhagen with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Opening Concert: Roda de Santo (PT) + Carla Schack (BR/DK)" on Fri, 28 Aug 2026.
 
-ALICE is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Dengue Dengue Dengue, Laryssa Kim, Mike Sheridan and Mykki Blanco and 2 more. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
+ALICE is a music venue in Copenhagen listed on soundcheck. 11 upcoming nights, with line-ups including Dengue Dengue Dengue, Laryssa Kim, Mike Sheridan and Mykki Blanco and 2 more. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Opening Concert: Roda de Santo (PT) + Carla Schack (BR/DK) |  |
+| Wed, 2 Sept 2026 | ALICE TUNES IN #3 Danske Kvalmer + Terence Dougherty + Orestis Marantos  + Sofia Cardich |  |
 | Sat, 5 Sept 2026 | Dengue Dengue Dengue (PE) | Dengue Dengue Dengue |
 | Thu, 10 Sept 2026 | Mike Sheridan 'Touch' album release | Mike Sheridan |
 | Fri, 11 Sept 2026 | NYX (UK) |  |
@@ -17,7 +18,6 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, w
 | Wed, 30 Sept 2026 | Laryssa Kim (IT/CG) | Laryssa Kim |
 | Thu, 8 Oct 2026 | Krøyer + Mouth Wound |  |
 | Wed, 14 Oct 2026 | Mykki Blanco (US) | Mykki Blanco |
-| Fri, 23 Oct 2026 | Kiss Facility (FR) at ALICE |  |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # Ika (GE)
 
-Ika (GE) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Ika (GE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bassiani, Tbilisi on Fri, 4 Sept 2026.
 
-Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, with 118 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Usherenko, Gio Shengelia and Toke (GE). Next up: TBA, Tbilisi on Fri 21 Aug.
+Ika (GE) is a house and techno artist based in Georgia, tracked on soundcheck, with 118 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Usherenko, Gio Shengelia and Toke (GE). Next up: Bassiani, Tbilisi on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA | Tbilisi |
 | Fri, 4 Sept 2026 | Bassiani | Tbilisi |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 

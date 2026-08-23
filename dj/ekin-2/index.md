@@ -1,8 +1,8 @@
 # EKIN (2)
 
-EKIN (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Story Toronto, Toronto on Fri, 11 Sept 2026.
+EKIN (2) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Story Toronto, Toronto on Fri, 11 Sept 2026.
 
-EKIN (2) is a techno and electronica artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside KAS:ST, Katy Rise and Riza Yildirim. Next up: Story Toronto, Toronto on Fri 11 Sept.
+EKIN (2) is an electronica and techno artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Riza Yildirim, KAS:ST and Katy Rise. Next up: Story Toronto, Toronto on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ EKIN (2) is a techno and electronica artist based in Canada, tracked on soundche
 
 ## Shares bills with
 
-KAS:ST, Katy Rise, Riza Yildirim
+Riza Yildirim, KAS:ST, Katy Rise
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ekin-2/)*

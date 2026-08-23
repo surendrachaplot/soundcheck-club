@@ -1,14 +1,13 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Sunday's Prescription - Chica Acosta" on Sun, 23 Aug 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Tuesday's Prescription - LeMichael" on Tue, 25 Aug 2026.
 
-Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Clap Kent, DiSALAZAR, fetche and LeMichael and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
+Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Clap Kent, DiSALAZAR, fetche and LeMichael and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Sunday's Prescription - Chica Acosta |  |
 | Tue, 25 Aug 2026 | Tuesday's Prescription - LeMichael | LeMichael |
 | Wed, 26 Aug 2026 | Wednesday's Prescription - LOZA/ANSO | LOZA/ANSO |
 | Thu, 27 Aug 2026 | Thursday's Prescription - DiSALAZAR | DiSALAZAR |

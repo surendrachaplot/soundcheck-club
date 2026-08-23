@@ -1,14 +1,15 @@
 # Juan Atkins
 
-Juan Atkins is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Joule, Osaka on Fri, 28 Aug 2026.
+Juan Atkins is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Joule, Osaka on Fri, 28 Aug 2026.
 
-Juan Atkins is a techno and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 22 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: Joule, Osaka on Fri 28 Aug.
+Juan Atkins is a techno and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 23 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: Joule, Osaka on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Joule | Osaka |
+| Fri, 4 Sept 2026 | clubasia | Tokyo |
 | Fri, 11 Sept 2026 | Südpol | Hamburg |
 | Sat, 12 Sept 2026 | Südpol | Hamburg |
 | Sat, 17 Oct 2026 | KALT | Strasbourg |

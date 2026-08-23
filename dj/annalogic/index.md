@@ -1,6 +1,6 @@
 # Anna Logic
 
-Anna Logic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
+Anna Logic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
 
 Anna Logic is a techno and house artist tracked on soundcheck, with 121 sets logged across Barcelona, Berlin, Buenosaires and Copenhagen and 2 more. Often billed alongside Kardinal Bertram, Morten Talking and Johannes Astrup. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 23 Aug.
 
@@ -8,7 +8,6 @@ Anna Logic is a techno and house artist tracked on soundcheck, with 121 sets log
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Sun, 23 Aug 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 
 ## Recently played

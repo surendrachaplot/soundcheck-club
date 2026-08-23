@@ -1,14 +1,13 @@
 # The Cause
 
-The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Christian Löffler presents 'Until We Meet Again'" on Sun, 23 Aug 2026.
+The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dankie Sounds - DANK HOLIDAY OPEN AIR #OONTZOONTZ" on Sat, 29 Aug 2026.
 
-The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including KT, Aba Shanti-I, Alex Kassian and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including KT, Aba Shanti-I, Alex Kassian and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Christian Löffler presents 'Until We Meet Again' | Christian Löffler, Meredi, Sofia Ilyas, TWO LANES |
 | Sat, 29 Aug 2026 | Dankie Sounds - DANK HOLIDAY OPEN AIR #OONTZOONTZ |  |
 | Sun, 30 Aug 2026 | Body Movements After Dark - 2026 |  |
 | Sun, 30 Aug 2026 | BLOND:ISH presents ABRACADABRA London | BLOND:ISH, Goosey, Salomé Le Chat |
@@ -18,6 +17,7 @@ The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, w
 | Fri, 18 Sept 2026 | SG Lewis presents Forever Days | D Stone, Heidi Lawden, SG Lewis, Storm Mollison, Strath, TEED, X & Ivy |
 | Sat, 19 Sept 2026 | The Cause: Summer Festival | Dan Beaumont, ESG, Gilles Peterson, Horse Meat Disco, Joe Claussell, Nadia Ksaiba |
 | Sun, 20 Sept 2026 | X CLUB. present HIDE THE JUNK | Jeshi, KT, Luke Alessi, Miley Serious, Sam Alfred, X CLUB. |
+| Sat, 26 Sept 2026 | Kolter (All Day Long) - London | Kolter |
 
 ## Address
 

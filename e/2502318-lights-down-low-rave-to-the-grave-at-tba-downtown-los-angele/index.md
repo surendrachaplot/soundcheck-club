@@ -1,6 +1,6 @@
 # Lights Down Low: Rave to the Grave at TBA - Downtown Los Angeles
 
-Lights Down Low: Rave to the Grave at TBA - Downtown Los Angeles on Sat 31 Oct, Losangeles. 6 acts on the bill: Avalon Emerson, Corey Sizemore, Effy and Ellen Allien and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Lights Down Low: Rave to the Grave at TBA - Downtown Los Angeles on Sat 31 Oct, Losangeles. 7 acts on the bill: Avalon Emerson, Corey Sizemore, Effy and Ellen Allien and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Lights Down Low: Rave to the Grave at TBA - Downtown Los Angeles on Sat 31 Oct, 
 - Corey Sizemore
 - Effy
 - Ellen Allien
+- JOHNNY_HEALTH
 - Richie Panic
 - SEXTILE
 

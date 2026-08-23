@@ -5,7 +5,7 @@ u/zoe (@zoe) has logged 6 club nights across 3 venues on soundcheck, based in Lo
 - Nights logged: 6
 - Venues: 3
 - Cities: 1
-- Seen live: 15
+- Seen live: 14
 
 ## Most seen
 

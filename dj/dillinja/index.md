@@ -1,14 +1,13 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Wardrobe, Leeds on Sun, 23 Aug 2026.
+Dillinja is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
-Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: The Wardrobe, Leeds on Sun 23 Aug.
+Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | The Wardrobe | Leeds |
 | Sat, 29 Aug 2026 | Concorde 2 | Brighton |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 4 Sept 2026 | TivoliVredenburg | Utrecht |
@@ -18,6 +17,7 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 113 sets
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 | Fri, 23 Oct 2026 | Sidney & Matilda | Sheffield |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
+| Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 
 ## Recently played
 

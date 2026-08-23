@@ -1,14 +1,13 @@
 # Tinzo
 
-Tinzo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club Vinyl, Denver on Sun, 23 Aug 2026.
+Tinzo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Tinzo is a house and techno artist tracked on soundcheck, with 121 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Jojo Lorenzo, RaeCola and Varist. Next up: Club Vinyl, Denver on Sun 23 Aug.
+Tinzo is a house and techno artist tracked on soundcheck, with 121 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Jojo Lorenzo, RaeCola and Varist. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Club Vinyl | Denver |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 16 Oct 2026 | Don Quixote | Los Angeles |
 | Sat, 24 Oct 2026 | TBA - SECRET LOCATION | San Francisco/Oakland |

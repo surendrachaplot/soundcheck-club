@@ -1,15 +1,14 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN  " on Fri, 21 Aug 2026.
+Romantica is a music venue in Stuttgart with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN  " on Fri, 21 Aug 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Daniel Neuland, Davy, Dominik Krammer and Hansn and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming nights, with line-ups including Daniel Neuland, Dominik Krammer, Hansn and Hjalte and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 21 Aug 2026 | WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN   | Dominik Krammer, Hansn |
-| Sun, 23 Aug 2026 | EARLY BIRDY AFTERHOUR BIS 14 UHR mit DIFFERENT SPACES CREW (Lehmann) | Davy |
 | Sun, 23 Aug 2026 | BUNTER HUND am SONNTAG mit YOTA |  |
 | Tue, 25 Aug 2026 | MÄRCHENSTUNDE AM DIENSTAG MIT DJ AMTSANMAßUNG |  |
 | Thu, 27 Aug 2026 | KATZENGOLD am DONNERSTAG meets ENTRANCE | Hjalte, Stereo Visions |

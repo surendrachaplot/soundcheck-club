@@ -1,8 +1,8 @@
 # SAPHOS
 
-SAPHOS is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club 69, Glasgow on Sat, 29 Aug 2026.
+SAPHOS is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club 69, Glasgow on Sat, 29 Aug 2026.
 
-SAPHOS is a trance and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Aileron and COURTEZ. Next up: Club 69, Glasgow on Sat 29 Aug.
+SAPHOS is a tech house and trance artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside COURTEZ and Aileron. Next up: Club 69, Glasgow on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ SAPHOS is a trance and tech house artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Aileron, COURTEZ
+COURTEZ, Aileron
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saphos/)*

@@ -1,6 +1,6 @@
 # Truth & Lies: Wild and Heavy International Rhythms at Movers
 
-Truth & Lies: Wild and Heavy International Rhythms at Movers on Sat 12 Sept, Nottingham. Funk / Soul and Afrobeat. Preview the line-up and save it on soundcheck.
+Truth & Lies: Wild and Heavy International Rhythms at Movers on Sat 12 Sept, Nottingham. Afrobeat and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

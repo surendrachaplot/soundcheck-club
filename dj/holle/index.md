@@ -2,7 +2,7 @@
 
 HOLLE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
-HOLLE is a techno and trance artist tracked on soundcheck, with 7 sets logged across Bangkok and Berlin. Often billed alongside 5.5MM, Balkhausen and 4NOUK. Next up: ://about blank, Berlin on Fri 28 Aug.
+HOLLE is a techno and trance artist tracked on soundcheck, with 7 sets logged across Bangkok and Berlin. Often billed alongside 5.5MM, Balkhausen and HØLLE (2). Next up: ://about blank, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ HOLLE is a techno and trance artist tracked on soundcheck, with 7 sets logged ac
 
 ## Shares bills with
 
-5.5MM, Balkhausen, 4NOUK
+5.5MM, Balkhausen, HØLLE (2)
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holle/)*

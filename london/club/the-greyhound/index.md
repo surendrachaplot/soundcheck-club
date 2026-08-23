@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "JC LOVES U" on Sun, 23 Aug 2026.
+The Greyhound is a music venue in London with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "MiiKu Exe (miku rave)" on Thu, 27 Aug 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Alex Wilcox, Blossom Hill, Dylan Forbes and EVIL THWEK and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Alex Wilcox, Blossom Hill, Dylan Forbes and EVIL THWEK and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | JC LOVES U |  |
 | Thu, 27 Aug 2026 | MiiKu Exe (miku rave) |  |
 | Fri, 28 Aug 2026 | TBD x Pulse presents |  |
 | Thu, 3 Sept 2026 | Start Here | Tallboy, VERTEX (2), limi, vish |
@@ -18,6 +17,7 @@ The Greyhound is a music venue in London listed on soundcheck. 15 upcoming night
 | Wed, 23 Sept 2026 | Brief Encounters presents: RenzNiro, roop, Tommy Ryoma + Ratiba Ayadi  | RenzNiro, roop |
 | Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
 | Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs |
+| Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
 
 ## Address
 

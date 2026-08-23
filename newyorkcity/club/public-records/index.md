@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Nursery: Gerd Janson, Ron Like Hell" on Sun, 23 Aug 2026.
+public records is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Voiski, Annie Lew / Andrey Pushkarev / Max Dowd" on Fri, 28 Aug 2026.
 
-public records is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including The AM/AMX, BLKshine, MORENXXX and Paula Tape and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including The AM/AMX, BLKshine, MORENXXX and Paula Tape and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | The Nursery: Gerd Janson, Ron Like Hell | Gerd Janson, Ron Like Hell |
 | Fri, 28 Aug 2026 | Voiski, Annie Lew / Andrey Pushkarev / Max Dowd | Andrey Pushkarev, Annie Lew, Max Dowd, Voiski |
 | Sat, 29 Aug 2026 | Norm Talley, Sav G / NAP, deep creep / Francis Harris & Tal | Francis Harris, NAP (MX), Norm Talley, Savannah G, deep creep |
 | Sun, 30 Aug 2026 | The Nursery: Leon Vynehall All Day Long | Leon Vynehall |
@@ -18,6 +17,7 @@ public records is a music venue in Newyorkcity listed on soundcheck. 35 upcoming
 | Sun, 6 Sept 2026 | Ritual Day-Into-Night: Lovie, Jenifa Mayanja / Leonce, BLKshine | BLKshine, Jenifa Mayanja, Leonce, Lovie |
 | Mon, 7 Sept 2026 | The Nursery: Eli Escobar, Benny Soto | Benny Soto, Eli Escobar |
 | Fri, 11 Sept 2026 | Simone de Kunovich / Luke Hess, Michelle Kay / Emsho | Emsho, Luke Hess, Michelle Kay, Simone de Kunovich |
+| Sat, 12 Sept 2026 | Paula Tape, S4M23 / Hidden Spheres, Jeffrey Sfire / Cosmo | Cosmo (NY), Hidden Spheres, Jeffrey Sfire, Paula Tape, S4M23 |
 
 ## Address
 

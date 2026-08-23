@@ -1,8 +1,8 @@
 # b-line
 
-b-line is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+b-line is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
-b-line is a drum & bass and bass artist tracked on soundcheck, with 11 sets logged across Amsterdam, Birmingham, Leeds and London and 1 more. Often billed alongside Grima & Azza, Logan D and Harry Shotta. Next up: Eutopia Whs, London on Sat 5 Sept.
+b-line is a drum & bass and jungle artist tracked on soundcheck, with 12 sets logged across Amsterdam, Birmingham, Leeds and London and 1 more. Often billed alongside Logan D, Grima & Azza and Harry Shotta. Next up: Eutopia Whs, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ b-line is a drum & bass and bass artist tracked on soundcheck, with 11 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
+| Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ b-line is a drum & bass and bass artist tracked on soundcheck, with 11 sets logg
 
 ## Shares bills with
 
-Grima & Azza, Logan D, Harry Shotta
+Logan D, Grima & Azza, Harry Shotta
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b-line/)*

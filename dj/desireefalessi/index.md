@@ -1,14 +1,13 @@
 # Desirée Falessi
 
-Desirée Falessi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun, 23 Aug 2026.
+Desirée Falessi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Cadavra, Madrid on Sat, 3 Oct 2026.
 
-Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Magda, Monile and Enrica Falqui. Next up: Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin on Sun 23 Aug.
+Desirée Falessi is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Magda, Monile and Enrica Falqui. Next up: Cadavra, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin | Berlin |
 | Sat, 3 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played

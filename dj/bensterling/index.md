@@ -1,8 +1,8 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 24 Aug 2026.
+Ben Sterling is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 24 Aug 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside Marco Carola, Ms. Mada and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Mon 24 Aug.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Ms. Mada and Dennis Cruz. Next up: Santanna Mykonos, Mykonos on Mon 24 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 184 se
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 
 ## Recently played
 

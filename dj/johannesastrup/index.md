@@ -1,6 +1,6 @@
 # Johannes Astrup
 
-Johannes Astrup is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
+Johannes Astrup is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 23 Aug 2026.
 
 Johannes Astrup is a techno and trance artist based in Denmark, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Copenhagen and Dusseldorf and 2 more. Often billed alongside Milo Makua, Anders Horse and Anna Logic. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 23 Aug.
 
@@ -8,7 +8,6 @@ Johannes Astrup is a techno and trance artist based in Denmark, tracked on sound
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Sun, 23 Aug 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Sat, 5 Sept 2026 | Den Anden Side | Copenhagen |
 

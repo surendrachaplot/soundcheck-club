@@ -2,7 +2,7 @@
 
 Latecomer is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Fox and Firkin, London on Sat, 21 Nov 2026.
 
-Latecomer is an electro and techno artist tracked on soundcheck, with 1 set logged across London. Often billed alongside Emerald and mixtress. Next up: The Fox and Firkin, London on Sat 21 Nov.
+Latecomer is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Emerald and mixtress. Next up: The Fox and Firkin, London on Sat 21 Nov.
 
 ## Upcoming shows
 

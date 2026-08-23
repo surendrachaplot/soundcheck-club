@@ -2,7 +2,7 @@
 
 Sketchy is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Sketchy is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside ADO (DE), Add FM and Ado. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Sketchy is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Zurich. Often billed alongside Sabura, Bennet (DE) and Spekki Webu. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Sketchy is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 ## Shares bills with
 
-ADO (DE), Add FM, Ado
+Sabura, Bennet (DE), Spekki Webu
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sketchy/)*

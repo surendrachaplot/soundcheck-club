@@ -1,14 +1,14 @@
 # Sevyn 0000
 
-Sevyn 0000 is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - PIT//STOP PALACE, New York City on Fri, 4 Sept 2026.
+Sevyn 0000 is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, New York City on Fri, 4 Sept 2026.
 
-Sevyn 0000 is a techno and club artist based in United States of America, tracked on soundcheck, with 95 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside Bapari, Memphy and MCMLXXXV. Next up: TBA - PIT//STOP PALACE, Newyorkcity on Fri 4 Sept.
+Sevyn 0000 is a techno and club artist based in United States of America, tracked on soundcheck, with 95 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside Bapari, Memphy and MCMLXXXV. Next up: TBA, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - PIT//STOP PALACE | New York City |
+| Fri, 4 Sept 2026 | TBA | New York City |
 | Thu, 24 Sept 2026 | Qncc | New York City |
 | Fri, 25 Sept 2026 | TBA | Los Angeles |
 | Fri, 25 Sept 2026 | Qncc | New York City |

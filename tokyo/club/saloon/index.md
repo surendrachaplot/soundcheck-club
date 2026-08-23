@@ -1,8 +1,8 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "suede.i.d  " on Thu, 27 Aug 2026.
+Saloon is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "suede.i.d  " on Thu, 27 Aug 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including AKARI, Andrew (TREKKIE TRAX), Do Shock Booze and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including AKARI, Andrew (TREKKIE TRAX), Do Shock Booze and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Saloon is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with 
 | Thu, 3 Sept 2026 | MONOGATARI 003 | HAYATE, MoEPiKA, S.H.V |
 | Fri, 4 Sept 2026 | unknown (pt.4) | HAYATE, NTsKi, Stones Taro, ecec |
 | Fri, 4 Sept 2026 | unknown (pt.4) | HAYATE, NTsKi, Stones Taro, ecec |
-| Thu, 10 Sept 2026 | Weekend Madman |  |
+| Thu, 10 Sept 2026 | Weekend Madman | Frankie $, George Bolton, MileZ |
+| Thu, 10 Sept 2026 | Weekend madman  Far east geezer&Whitend presents | Frankie |
 | Fri, 11 Sept 2026 | CIVIL vol.5 | Goth-Trad, S.H.V |
 | Sat, 12 Sept 2026 | UP YA ARCHIVES × attic | HALU(Tribal Connection), Nia Archives, Ryota (JP), nasthug |
-| Fri, 25 Sept 2026 | Est-ce que  vol.3 |  |
-| Sat, 26 Sept 2026 | MEiYOU | Do Shock Booze, SOGI, Shhhhh |
+| Mon, 21 Sept 2026 | CONNECTOR |  |
 
 ## Address
 

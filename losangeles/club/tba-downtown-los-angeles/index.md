@@ -14,7 +14,7 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 19 Sept 2026 | body wave: Felix Dickinson (UK), Masha Mar, Junior | Felix Dickinson, Masha Mar |
 | Fri, 25 Sept 2026 | Certified Groovers: Gene On Earth in LA | Chemtrail Johnny, Cromie, Gene On Earth, Gilbert0, Hazy, Ian Llorens, Momo Trosman |
 | Sat, 3 Oct 2026 | Midnight Lovers with Eli Escobar | Eli Escobar |
-| Sat, 31 Oct 2026 | Lights Down Low: Rave to the Grave | Avalon Emerson, Corey Sizemore, Effy, Ellen Allien, Richie Panic, SEXTILE |
+| Sat, 31 Oct 2026 | Lights Down Low: Rave to the Grave | Avalon Emerson, Corey Sizemore, Effy, Ellen Allien, JOHNNY_HEALTH, Richie Panic, SEXTILE |
 | Sat, 31 Oct 2026 | Giegling in LA (The Halloween Special) |  |
 | Sat, 31 Oct 2026 | Certified Groovers: HALLOWEEN PARTY |  |
 | Sat, 7 Nov 2026 | Lights Down Low feat. yaego | yaego |

@@ -1,14 +1,13 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+DJ MELL G is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Badaboum, Paris on Sat, 26 Sept 2026.
 
-DJ MELL G is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+DJ MELL G is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: Badaboum, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 26 Sept 2026 | Badaboum | Paris |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |

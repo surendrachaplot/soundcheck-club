@@ -1,14 +1,13 @@
 # Clit.hub
 
-Clit.hub is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 23 Aug 2026.
+Clit.hub is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
 
-Clit.hub is a club and experimental artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside LITA DA DOLL, Amarji King and Archangel. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 23 Aug.
+Clit.hub is a club and experimental artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside LITA DA DOLL, Amarji King and Archangel. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 19 Sept 2026 | Elsewhere | New York City |
 | Sat, 19 Sept 2026 | Paragon | New York City |
 

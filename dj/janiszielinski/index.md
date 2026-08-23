@@ -1,14 +1,13 @@
 # Janis Zielinski
 
-Janis Zielinski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Janis Zielinski is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
 
-Janis Zielinski is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Janis Zielinski is a techno and trance artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: Blaue Lagune, Dusseldorf on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 5 Sept 2026 | Blaue Lagune | Düsseldorf |
 | Sun, 6 Sept 2026 | Boomerang Beach | The Hague |
 | Sat, 12 Sept 2026 | Gewölbe | Cologne |

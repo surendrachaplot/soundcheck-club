@@ -1,14 +1,13 @@
 # Usherenko
 
-Usherenko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Usherenko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
 
-Usherenko is a house and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ika (GE), Gio Shengelia and Julian Bomm. Next up: TBA, Tbilisi on Fri 21 Aug.
+Usherenko is a house and techno artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Ika (GE), Gio Shengelia and Julian Bomm. Next up: TBA - Arts District LA, Losangeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA | Tbilisi |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 
 ## Recently played

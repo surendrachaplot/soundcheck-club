@@ -1,14 +1,13 @@
 # Bambi (Menage a Trois)
 
-Bambi (Menage a Trois) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bangkok Island, Bangkok on Sat, 22 Aug 2026.
+Bambi (Menage a Trois) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hi-Lawn D.C., Washington DC on Sat, 5 Sept 2026.
 
-Bambi (Menage a Trois) is a techno and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Bangkok, Barcelona, Berlin and Cologne and 5 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: Bangkok Island, Bangkok on Sat 22 Aug.
+Bambi (Menage a Trois) is a techno and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Bangkok, Barcelona, Berlin and Cologne and 5 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: Hi-Lawn D.C., Washingtondc on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Bangkok Island | Bangkok |
 | Sat, 5 Sept 2026 | Hi-Lawn D.C. | Washington DC |
 
 ## Recently played

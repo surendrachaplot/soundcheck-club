@@ -1,14 +1,13 @@
 # PEAKSOU
 
-PEAKSOU is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Art Club (Plan de Campagne), Marseille on Sun, 23 Aug 2026.
+PEAKSOU is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
 
-PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Marseille and Nantes and 1 more. Often billed alongside 25EMEHEURE, AISHA and Bones 33. Next up: TBA - Art Club (Plan de Campagne), Marseille on Sun 23 Aug.
+PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Marseille and Nantes and 1 more. Often billed alongside 25EMEHEURE, AISHA and Bones 33. Next up: Kilomètre25, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | TBA - Art Club (Plan de Campagne) | Marseille |
 | Sat, 19 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 

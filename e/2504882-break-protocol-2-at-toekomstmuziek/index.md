@@ -1,6 +1,6 @@
 # BREAK PROTOCOL #2 at Toekomstmuziek
 
-BREAK PROTOCOL #2 at Toekomstmuziek on Sat 17 Oct, Amsterdam. 4 acts on the bill: BTWN NTWRX, Daniel Englisch, Low-D and Oliver Kucera. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+BREAK PROTOCOL #2 at Toekomstmuziek on Sat 17 Oct, Amsterdam. 5 acts on the bill: BTWN NTWRX, Daniel Englisch, Low-D and Maus and 1 more. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BREAK PROTOCOL #2 at Toekomstmuziek on Sat 17 Oct, Amsterdam. 4 acts on the bill
 - BTWN NTWRX
 - Daniel Englisch
 - Low-D
+- Maus
 - Oliver Kucera
 
 *Source: [soundcheck](https://soundcheck.club/e/2504882-break-protocol-2-at-toekomstmuziek/)*

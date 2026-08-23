@@ -1,14 +1,13 @@
 # Fiyahdred
 
-Fiyahdred is a Amapiano and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 22 Aug 2026.
+Fiyahdred is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
 
-Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Karen Nyame KG, Bok Bok and Donnie Sunshine. Next up: Queen Elizabeth Olympic Park, London on Sat 22 Aug.
+Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Karen Nyame KG, Bok Bok and Donnie Sunshine. Next up: Ormside Projects, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Queen Elizabeth Olympic Park | London |
 | Fri, 28 Aug 2026 | Ormside Projects | London |
 | Sun, 30 Aug 2026 | Ballroom at Palais | London |
 

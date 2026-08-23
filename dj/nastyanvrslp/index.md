@@ -1,14 +1,13 @@
 # NASTYA NVRSLP
 
-NASTYA NVRSLP is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Œlgarten, Berlin on Sun, 23 Aug 2026.
+NASTYA NVRSLP is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Wanderlust, Paris on Thu, 10 Sept 2026.
 
-NASTYA NVRSLP is a techno and trance artist tracked on soundcheck, with 53 sets logged across Berlin, Krakow, Montreal and Paris and 4 more. Often billed alongside Sept, Bianca Badita and ALIS.. Next up: Œlgarten, Berlin on Sun 23 Aug.
+NASTYA NVRSLP is a techno and trance artist tracked on soundcheck, with 53 sets logged across Berlin, Krakow, Montreal and Paris and 4 more. Often billed alongside Sept, Bianca Badita and ALIS.. Next up: Wanderlust, Paris on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Œlgarten | Berlin |
 | Thu, 10 Sept 2026 | Wanderlust | Paris |
 | Sat, 12 Sept 2026 | Else | Berlin |
 

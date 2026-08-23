@@ -1,8 +1,8 @@
 # Jayzo
 
-Jayzo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Jayzo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
-Jayzo is a techno and house artist based in Netherlands, tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 17 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
+Jayzo is a techno and house artist based in Netherlands, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 17 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jayzo is a techno and house artist based in Netherlands, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Thu, 17 Sept 2026 | OIL Club | Shenzhen |
+| Sat, 31 Oct 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 

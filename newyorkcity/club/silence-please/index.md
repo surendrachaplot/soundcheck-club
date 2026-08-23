@@ -1,14 +1,14 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Local Services with K-LAJ (Live) and Tiny T-Bone" on Sat, 22 Aug 2026.
+Silence Please is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ambient Set by Alex Lustig" on Thu, 10 Sept 2026.
 
-Silence Please is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Lajmi Khalil and Tiny T-Bone. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Alex Lustig. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Local Services with K-LAJ (Live) and Tiny T-Bone | Lajmi Khalil, Tiny T-Bone |
+| Thu, 10 Sept 2026 | Ambient Set by Alex Lustig | Alex Lustig |
 
 ## Address
 

@@ -1,14 +1,13 @@
 # TWO LANES
 
-TWO LANES is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Cause, London on Sun, 23 Aug 2026.
+TWO LANES is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Columbia Theater, Berlin on Fri, 2 Oct 2026.
 
-TWO LANES is a techno and electronica artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: The Cause, London on Sun 23 Aug.
+TWO LANES is a techno and electronica artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Monolink, Christian Löffler and J.WOCKENFUSS. Next up: Columbia Theater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | Columbia Theater | Berlin |
 | Wed, 14 Oct 2026 | Razzmatazz 2 | Barcelona |
 | Thu, 15 Oct 2026 | Mon Live | Madrid |

@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Tresor Klubnacht" on Sat, 22 Aug 2026.
+Tresor / Globus is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "◥◣ALL EXCESS x SINGULARITY◥◣ (TRESOR + AURORA BAR / 2 floors)" on Mon, 24 Aug 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including 7CIRCLE, AERAE, Anabel Arroyo and Anthony Linell and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -8,7 +8,6 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 20 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Tresor Klubnacht | Function, Hadone, Nastya Vogan, Nat Wendell, Natascha Kann, SORAYA*, Soraya, Youandewan |
 | Mon, 24 Aug 2026 | ◥◣ALL EXCESS x SINGULARITY◥◣ (TRESOR + AURORA BAR / 2 floors) | Kandelissa, MOIA, NLI, Nhū, Schiela, Selina (DE) |
 | Wed, 26 Aug 2026 | Büro Siebzig: dreamcastmoe LIVE hosted by Refuge Worldwide | dreamcastmoe |
 | Wed, 26 Aug 2026 | Tresor New Faces hosted by Primal Instinct | BETIX, Lucyd, Revolucien |
@@ -18,6 +17,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 20 upcoming nig
 | Wed, 2 Sept 2026 | Tresor New Faces hosted by Carmen Electro | Carmen Electro, DJ Mondfinsternis, Miss Italia, Nathan Alexander |
 | Fri, 4 Sept 2026 | Tresor: The Continuous present | Dychromatic, Hemka, Hitam, RP Boo, Sepehr, Shaleen, YASMEENAH (2) |
 | Sat, 5 Sept 2026 | Tresor invites O/V/R | Beatrice (DE), CRYME, James Ruskin, O/V/R, Regis, Samuel Kerridge, Stella Zekri, WINDFUHR |
+| Wed, 9 Sept 2026 | Tresor New Faces hosted by Super Sound Tool | Blint, One Agent, OneAgent, Victoria Arena, jiyun kim |
 
 ## Address
 

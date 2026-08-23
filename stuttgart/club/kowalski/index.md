@@ -1,14 +1,13 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HERZ & SEELE SONNTAG AUF DER Kowalski TERRASSE" on Sun, 23 Aug 2026.
+Kowalski is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "TRUE LOVE - ALL STAR NIGHT" on Fri, 28 Aug 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including Solvane and tim|bre. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | HERZ & SEELE SONNTAG AUF DER Kowalski TERRASSE | Solvane, tim/bre |
 | Fri, 28 Aug 2026 | TRUE LOVE - ALL STAR NIGHT |  |
 | Sat, 29 Aug 2026 | ALVIN KYER B-DAY BASH • ALVIN KYER & FRIENDS |  |
 | Sun, 30 Aug 2026 | LOVEPOP IM SOMMER - TEADANCE AUF DER Kowalski TERRASSE |  |

@@ -1,15 +1,14 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "kosmoss" on Sat, 22 Aug 2026.
+ZUBAR is a music venue in Tokyo with 19 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "kosmoss" on Sat, 22 Aug 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including Abura, AKARI, Dsitb and Emerson and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming nights, with line-ups including Abura, AKARI, Dsitb and Emerson and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 22 Aug 2026 | kosmoss |  |
-| Sun, 23 Aug 2026 | CLEAN #29 | TOSHIHISA HIRANO |
 | Wed, 26 Aug 2026 | 笠井爾示 and friends |  |
 | Thu, 27 Aug 2026 | SUPER SONIC |  |
 | Fri, 28 Aug 2026 | 'eclectic | AKARI, Tada |
@@ -18,6 +17,7 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with l
 | Sun, 30 Aug 2026 | SUMMERTIME SADNESS |  |
 | Wed, 2 Sept 2026 | JAZZ SENTINEL |  |
 | Thu, 3 Sept 2026 | SHINE #1 | Kazu |
+| Fri, 4 Sept 2026 | MAGOME BASIC |  |
 
 ## Address
 

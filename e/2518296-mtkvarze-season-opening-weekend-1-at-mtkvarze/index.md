@@ -1,6 +1,6 @@
 # Mtkvarze Season Opening Weekend #1 at Mtkvarze
 
-Mtkvarze Season Opening Weekend #1 on Fri 28 Aug, Tbilisi. 5 acts on the bill: Dual Pistols, Giorgi Devadze, KETEVAN and Mocongo and 1 more. Preview the line-up and save it on soundcheck.
+Mtkvarze Season Opening Weekend #1 on Fri 28 Aug, Tbilisi. 10 acts on the bill: Dual Pistols, Giorgi Devadze, Hatsvali and KETEVAN and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,13 @@ Mtkvarze Season Opening Weekend #1 on Fri 28 Aug, Tbilisi. 5 acts on the bill: D
 
 - Dual Pistols
 - Giorgi Devadze
+- Hatsvali
 - KETEVAN
+- Kraumur
 - Mocongo
 - Script (GE)
+- Sevda
+- Toko k
+- Yate
 
 *Source: [soundcheck](https://soundcheck.club/e/2518296-mtkvarze-season-opening-weekend-1-at-mtkvarze/)*

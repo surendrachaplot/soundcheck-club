@@ -1,14 +1,13 @@
 # Talia Dorr
 
-Talia Dorr is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Talia Dorr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Crack Bellmer, Berlin on Sun, 23 Aug 2026.
 
-Talia Dorr is a house and techno artist based in Germany, tracked on soundcheck, with 82 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Carl Bergé, Pauly and DJ Babyblade. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Talia Dorr is a house and techno artist based in Germany, tracked on soundcheck, with 82 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Carl Bergé, Pauly and DJ Babyblade. Next up: Crack Bellmer, Berlin on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sun, 23 Aug 2026 | Crack Bellmer | Berlin |
 | Sun, 30 Aug 2026 | OXI | Berlin |
 | Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |

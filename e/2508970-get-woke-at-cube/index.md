@@ -1,6 +1,6 @@
 # GET WOKE at Cube
 
-GET WOKE at Cube on Sat 29 Aug, Tokyo. 5 acts on the bill: CYBERHACKSYSTEM, EMILIO (3), PANICWORKS and roomquake and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+GET WOKE at Cube on Sat 29 Aug, Tokyo. 5 acts on the bill: CYBERHACKSYSTEM, EMILIO (3), PANICWORKS and roomquake and 1 more. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

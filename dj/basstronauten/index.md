@@ -1,14 +1,15 @@
 # Basstronauten
 
-Basstronauten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+Basstronauten is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
-Basstronauten is a techno and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics (2) and DAZA. Next up: RAW Gelände, Berlin on Sat 29 Aug.
+Basstronauten is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics (2) and DAZA. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | RAW Gelände | Berlin |
+| Sat, 21 Nov 2026 | ORWO Haus | Berlin |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Maus
 
-Maus is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Système, Montreal on Fri, 4 Sept 2026.
+Maus is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Système, Montreal on Fri, 4 Sept 2026.
 
-Maus is a house and deep house artist based in Canada, tracked on soundcheck, with 13 sets logged across Athens, Frankfurt and Montreal. Often billed alongside Cristobal Urbina, Drag & Drop and Ostrich. Next up: Système, Montreal on Fri 4 Sept.
+Maus is a house and deep house artist based in Canada, tracked on soundcheck, with 14 sets logged across Amsterdam, Athens, Frankfurt and Montreal. Often billed alongside Cristobal Urbina, Drag & Drop and Ostrich. Next up: Système, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Système | Montreal |
+| Sat, 17 Oct 2026 | Toekomstmuziek | Amsterdam |
 
 ## Recently played
 

@@ -1,14 +1,14 @@
 # 18+
 
-18+ is a Reggaeton and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Mexico City on Sat, 29 Aug 2026.
+18+ is a Reggaeton and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - DOMUS (Republica de Cuba 58), Mexico City on Sat, 29 Aug 2026.
 
-18+ is a reggaeton and hardcore artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Boston, Brighton and Bristol and 11 more. Often billed alongside PM, ALEX REV and Aexhy. Next up: TBA, Mexicocity on Sat 29 Aug.
+18+ is a reggaeton and hardcore artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Boston, Brighton and Bristol and 11 more. Often billed alongside PM, ALEX REV and Aexhy. Next up: TBA - DOMUS (Republica de Cuba 58), Mexicocity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA | Mexico City |
+| Sat, 29 Aug 2026 | TBA - DOMUS (Republica de Cuba 58) | Mexico City |
 
 ## Recently played
 

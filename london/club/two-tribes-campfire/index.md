@@ -9,7 +9,7 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Rhythm Social x Soul Satisfaction present: Poly-Ritmo | Justin Cambray, Maria Hanlon, Poly-Ritmo |
-| Sat, 29 Aug 2026 | Guava Jamz Day & Night W/ Dele Sosimi Live Band | Conrad Lee, Dele Sosimi, K.O.G, idaH |
+| Sat, 29 Aug 2026 | Guava Jamz Carnival Warm Up Party | Conrad Lee, Dele Sosimi, K.O.G, idaH |
 | Sat, 29 Aug 2026 | Carnival Warm Up Party |  |
 | Sun, 30 Aug 2026 | Quinn & Friends: Carnival Party | Tiffany Quinn |
 | Fri, 4 Sept 2026 | PURR: House, Bass, Techno, Electro, Funky (by Ragdoll Rhythms) | Sands Spheric, Tees |

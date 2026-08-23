@@ -1,14 +1,13 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Le Bain, New York City on Sun, 23 Aug 2026.
+Justin Strauss is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at public records, New York City on Fri, 4 Sept 2026.
 
-Justin Strauss is a house and electro artist tracked on soundcheck, with 176 sets logged across Belfast, Berlin, Boston and Chicago and 12 more. Often billed alongside Andi, Max Pask and Eli Escobar. Next up: Le Bain, Newyorkcity on Sun 23 Aug.
+Justin Strauss is a house and electro artist tracked on soundcheck, with 176 sets logged across Belfast, Berlin, Boston and Chicago and 12 more. Often billed alongside Andi, Max Pask and Eli Escobar. Next up: public records, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Le Bain | New York City |
 | Fri, 4 Sept 2026 | public records | New York City |
 | Fri, 11 Sept 2026 | Good Room | New York City |
 | Thu, 17 Sept 2026 | public records | New York City |

@@ -1,8 +1,8 @@
 # Tell Moore
 
-Tell Moore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at BASIS, Utrecht on Sat, 29 Aug 2026.
+Tell Moore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at BASIS, Utrecht on Sat, 29 Aug 2026.
 
-Tell Moore is a techno and trance artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Berlin and Utrecht. Often billed alongside 4NOUK, August Kind and Bae Blade. Next up: BASIS, Utrecht on Sat 29 Aug.
+Tell Moore is a techno and house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Berlin and Utrecht. Often billed alongside 4NOUK, August Kind and Bae Blade. Next up: BASIS, Utrecht on Sat 29 Aug.
 
 ## Upcoming shows
 

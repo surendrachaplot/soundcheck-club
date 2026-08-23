@@ -1,14 +1,13 @@
 # Udda
 
-Udda is a Bass and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 23 Aug 2026.
+Udda is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
-Udda is a bass and ambient artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: TBA - Secret Location, Berlin on Sun 23 Aug.
+Udda is a bass and ambient artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | TBA - Secret Location | Berlin |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played

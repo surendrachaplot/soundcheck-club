@@ -1,8 +1,8 @@
 # NØMAD
 
-NØMAD is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "THE SCHRANZ CONNECTION: Malke & Otak - Toronto" on Fri, 28 Aug 2026.
+NØMAD is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "THE SCHRANZ CONNECTION: Malke & Otak - Toronto" on Fri, 28 Aug 2026.
 
-NØMAD is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including A_C_E., Bou (UK), FridaY (DE) and Malke and 2 more. Browse upcoming dates, start times and who's playing. 725 Queen Street East, Toronto, ON M4M 1H1, Canada.
+NØMAD is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including A_C_E., Bou (UK), FridaY (DE) and Malke and 2 more. Browse upcoming dates, start times and who's playing. 725 Queen Street East, Toronto, ON M4M 1H1, Canada.
 
 ## What's on
 
@@ -10,6 +10,7 @@ NØMAD is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | THE SCHRANZ CONNECTION: Malke & Otak - Toronto | A_C_E., FridaY (DE), Malke, ÖTAK |
 | Fri, 18 Sept 2026 | BOU at NOMAD | Bou (UK), SZETO |
+| Sat, 21 Nov 2026 | Psychedelic Babylon: NEELIX and Friends in Toronto |  |
 
 ## Address
 

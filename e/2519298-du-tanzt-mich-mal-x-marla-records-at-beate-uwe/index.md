@@ -1,0 +1,17 @@
+# Du Tanzt Mich Mal X Marla Records at Beate Uwe
+
+Du Tanzt Mich Mal X Marla Records at Beate Uwe on Fri 4 Sept, Berlin. 3 acts on the bill: Fanfarrosa, Fazee and Frankov. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 4 Sept 2026 |
+| Venue | Beate Uwe |
+| City | Berlin |
+
+## Line-up
+
+- Fanfarrosa
+- Fazee
+- Frankov
+
+*Source: [soundcheck](https://soundcheck.club/e/2519298-du-tanzt-mich-mal-x-marla-records-at-beate-uwe/)*

@@ -1,14 +1,15 @@
 # Mani Festo
 
-Mani Festo is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
+Mani Festo is a Breakbeat and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
 
-Mani Festo is a breakbeat and bass artist tracked on soundcheck, with 56 sets logged across Auckland, Berlin, Brighton and Brisbane and 19 more. Often billed alongside Denham Audio, LMajor and Borai. Next up: The Fox and Firkin, London on Fri 11 Sept.
+Mani Festo is a breakbeat and bass artist tracked on soundcheck, with 57 sets logged across Auckland, Berlin, Brighton and Brisbane and 19 more. Often billed alongside Denham Audio, LMajor and Borai. Next up: The Fox and Firkin, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Fox and Firkin | London |
+| Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 
 ## Recently played
 

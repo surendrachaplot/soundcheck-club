@@ -1,8 +1,8 @@
 # Florian Schirmacher
 
-Florian Schirmacher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
+Florian Schirmacher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
 
-Florian Schirmacher is a techno and house artist based in Germany, tracked on soundcheck, with 1 set logged across Hamburg. Often billed alongside DAVIDE (2), Daniel Dreier and Guido Schneider. Next up: Club Frau Holle, Hamburg on Fri 4 Sept.
+Florian Schirmacher is a house and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Hamburg. Often billed alongside Guido Schneider, DAVIDE (2) and Daniel Dreier. Next up: Club Frau Holle, Hamburg on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Florian Schirmacher is a techno and house artist based in Germany, tracked on so
 
 ## Shares bills with
 
-DAVIDE (2), Daniel Dreier, Guido Schneider
+Guido Schneider, DAVIDE (2), Daniel Dreier
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florianschirmacher/)*

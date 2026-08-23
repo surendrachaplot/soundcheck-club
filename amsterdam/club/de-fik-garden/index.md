@@ -15,7 +15,7 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 8 upcoming nig
 | Sun, 30 Aug 2026 | Vault Sessions All Vinyl WKNDR / Afterhours / De Fik Garden | Chami, Claudio PRC, Louis The 4th, Olivia Mendez |
 | Sat, 5 Sept 2026 | Ondergronds Verzetje | Franky Jones |
 | Sat, 24 Oct 2026 | Vault Sessions & Friends ADE | Comrade Winston, Delano Legito, Idilay, JIA, Joya Astou, Kim She, Prance, TWIENA |
-| Sat, 31 Oct 2026 | EAST Techno Collective - Halloween Warehouse |  |
+| Sat, 31 Oct 2026 | EAST Techno Collective - Halloween Warehouse | Jayzo |
 
 ## Address
 

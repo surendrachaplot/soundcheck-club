@@ -2,7 +2,7 @@
 
 Seymen (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 29 Aug 2026.
 
-Seymen (2) is an electro and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside FEVZEE, Harry Wills and Mattone. Next up: Festsaal Kreuzberg, Berlin on Sat 29 Aug.
+Seymen (2) is an electro and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Harry Wills, Vero Standke and Mayuri. Next up: Festsaal Kreuzberg, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Seymen (2) is an electro and techno artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-FEVZEE, Harry Wills, Mattone
+Harry Wills, Vero Standke, Mayuri
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seymen-2/)*

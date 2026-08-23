@@ -1,14 +1,13 @@
 # Christian Löffler
 
-Christian Löffler is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Cause, London on Sun, 23 Aug 2026.
+Christian Löffler is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Christian Löffler is a house and electronica artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: The Cause, London on Sun 23 Aug.
+Christian Löffler is a house and electronica artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | The Cause | London |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 29 Aug 2026 | SAGE | Berlin |
 | Sat, 5 Sept 2026 | Südbrücke Open Air | Cologne |

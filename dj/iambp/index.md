@@ -1,14 +1,13 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phare Citadelle, Strasbourg on Fri, 21 Aug 2026.
+IAMBP is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Citadelle de Marseille, Marseille on Sat, 29 Aug 2026.
 
-IAMBP is an electro and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Phare Citadelle, Strasbourg on Fri 21 Aug.
+IAMBP is an electro and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Citadelle de Marseille, Marseille on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Phare Citadelle | Strasbourg |
 | Sat, 29 Aug 2026 | Citadelle de Marseille | Marseille |
 | Sat, 19 Sept 2026 | Le 6b | Paris |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |

@@ -1,14 +1,13 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Lea Occhi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
 
-Lea Occhi is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Lea Occhi is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Toscan Haas, Amotik and Lobster (NL). Next up: Artheater, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 11 Sept 2026 | Artheater | Cologne |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 19 Sept 2026 | Fuchs2 | Prague |

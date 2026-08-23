@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+Blasha & Allatt is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 274 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 274 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Macadam, Nantes on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Sat, 29 Aug 2026 | Macadam | Nantes |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 4 Sept 2026 | Studio Club Malaga | Malaga |

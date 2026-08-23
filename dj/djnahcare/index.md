@@ -1,14 +1,13 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bassiani, Tbilisi on Sat, 22 Aug 2026.
+DJ Nah Care is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Sat, 5 Sept 2026.
 
-DJ Nah Care is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Bassiani, Tbilisi on Sat 22 Aug.
+DJ Nah Care is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Hangaren, Copenhagen on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Bassiani | Tbilisi |
 | Sat, 5 Sept 2026 | Hangaren | Copenhagen |
 
 ## Recently played

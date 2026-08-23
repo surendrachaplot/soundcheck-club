@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Photek: Free Time" on Sun, 23 Aug 2026.
+Sneaky Pete's is a music venue in Edinburgh with 31 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Postal 160BPM Special: Creep Woland, Clean Up, Clo, WBBR b2b JMB" on Sun, 23 Aug 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming nights, with line-ups including Aldonna, Alexis Taylor, All Night Passion and Amber Leith and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming nights, with line-ups including Aldonna, Alexis Taylor, All Night Passion and Amber Leith and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Photek: Free Time | Photek |
 | Sun, 23 Aug 2026 | Postal 160BPM Special: Creep Woland, Clean Up, Clo, WBBR b2b JMB | CLO (2), Clean Up Crew (2), Creep Woland, WBBR |
 | Mon, 24 Aug 2026 | Ride n Bounce | m1 (1), monicat |
 | Tue, 25 Aug 2026 | RARE Club // Fringe Closer | Becca Egan, cara hegarty, zohra |
@@ -18,6 +17,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming ni
 | Sat, 29 Aug 2026 | Soul Jam: All Night Passion | All Night Passion, Percy Main, Tuesday Gonzalez |
 | Sun, 30 Aug 2026 | Postal Festival Closing Party | Casement, Drumheller, Georj, Myrtle, amhailt.xox |
 | Mon, 31 Aug 2026 | Ride n Bounce x Gay Garage Festival Closing Party | Skillis, m1 (1), monicat |
+| Wed, 2 Sept 2026 | Midnight Bass // Wrap Party - the final final party |  |
 
 ## Address
 

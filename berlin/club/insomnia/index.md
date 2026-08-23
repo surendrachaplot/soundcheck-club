@@ -1,8 +1,8 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Berlin Kink" on Thu, 27 Aug 2026.
+Insomnia is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Berlin Kink" on Thu, 27 Aug 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Andrea Marino, CosmiKat, Epicx and JaMoll-official and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Andrea Marino, CosmiKat, Epicx and JaMoll-official and 2 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 

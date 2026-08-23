@@ -1,8 +1,8 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "2 Years In Balance I Open Air & Indoor" on Sun, 30 Aug 2026.
+KREUZWERK is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "2 Years In Balance I Open Air & Indoor" on Sun, 30 Aug 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Aaron Blau, Amphia, BUTZ and Carly Zeng and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aaron Blau, Amphia, BUTZ and Carly Zeng and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
@@ -17,7 +17,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 | Fri, 25 Sept 2026 | OVERLOAD #4 |  |
 | Fri, 2 Oct 2026 | EAU DE COLOGNE |  |
 | Fri, 9 Oct 2026 | Carmen Electro & BUTZ invite Laia, LYZA  | BUTZ, Carmen Electro, LYZA, Laia |
-| Sat, 14 Nov 2026 | tracey |  |
+| Sun, 11 Oct 2026 | tracey zero |  |
 
 ## Address
 

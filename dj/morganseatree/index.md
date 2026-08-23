@@ -1,8 +1,8 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Morgan Seatree is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Morgan Seatree is a house and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Belfast and Birmingham and 24 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Morgan Seatree is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Belfast and Birmingham and 25 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Morgan Seatree is a house and tech house artist tracked on soundcheck, with 84 s
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Culture | Washington DC |
 | Fri, 16 Oct 2026 | SILO | New York City |
+| Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 
 ## Recently played
 

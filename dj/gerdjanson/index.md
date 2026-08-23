@@ -1,14 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at public records, New York City on Sun, 23 Aug 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Jaeger, Oslo on Fri, 28 Aug 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: public records, Newyorkcity on Sun 23 Aug.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 295 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Jaeger, Oslo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | public records | New York City |
 | Fri, 28 Aug 2026 | Jaeger | Oslo |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
@@ -20,6 +19,7 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 294 sets lo
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
+| Sat, 21 Nov 2026 | TBA | Melbourne |
 
 ## Recently played
 

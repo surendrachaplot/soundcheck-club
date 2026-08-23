@@ -1,8 +1,8 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
+Rebekah Abdeen is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
 
-Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 54 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Sport Mode. Next up: Next Door Records, London on Wed 26 Aug.
+Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 55 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: Next Door Records, London on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 54 sets l
 | Wed, 26 Aug 2026 | Next Door Records | London |
 | Sat, 5 Sept 2026 | Oxygenic | Newcastle |
 | Thu, 24 Sept 2026 | The Fox and Firkin | London |
+| Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 54 sets l
 
 ## Shares bills with
 
-Denham Audio, Trudy Knight, Sport Mode
+Denham Audio, Trudy Knight, Triple Point
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

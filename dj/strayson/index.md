@@ -1,13 +1,14 @@
 # STRAY SON
 
-STRAY SON is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
+STRAY SON is a Deep House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Century, London on Sat, 29 Aug 2026.
 
-STRAY SON is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam and London. Often billed alongside Tear of Joy, Ebz and LUNÄTICO (IT). Next up: The Cross, London on Sat 5 Sept.
+STRAY SON is a deep house and afro house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam and London. Often billed alongside Tear of Joy, Ebz and LUNÄTICO (IT). Next up: Century, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Century | London |
 | Sat, 5 Sept 2026 | The Cross | London |
 
 ## Recently played

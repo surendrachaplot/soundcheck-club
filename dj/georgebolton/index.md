@@ -1,0 +1,28 @@
+# George Bolton
+
+George Bolton is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Saloon, Tokyo on Thu, 10 Sept 2026.
+
+George Bolton is a house and hip-hop artist tracked on soundcheck, with 55 sets logged across Osaka, Paris and Tokyo. Often billed alongside WASP, ecec and Shunpei (Beebar). Next up: Saloon, Tokyo on Thu 10 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 10 Sept 2026 | Saloon | Tokyo |
+
+## Recently played
+
+- 不眠遊戯ライオン - Music Bar Lion, Tokyo — Fri, 14 Aug 2026
+- 不眠遊戯ライオン - Music Bar Lion, Tokyo — Tue, 11 Aug 2026
+- clubasia, Tokyo — Fri, 3 Jul 2026
+- Saloon, Tokyo — Sat, 27 Jun 2026
+- Saloon, Tokyo — Sat, 20 Jun 2026
+- Saloon, Tokyo — Fri, 19 Jun 2026
+- Enter Shibuya, Tokyo — Sat, 16 May 2026
+- Circus Osaka, Osaka — Fri, 27 Mar 2026
+
+## Shares bills with
+
+WASP, ecec, Shunpei (Beebar)
+
+*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebolton/)*

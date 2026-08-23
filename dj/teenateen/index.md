@@ -1,14 +1,13 @@
 # Teen A Teen
 
-Teen A Teen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Teen A Teen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sensorium, Berlin on Fri, 28 Aug 2026.
 
-Teen A Teen is a techno and house artist based in Georgia, tracked on soundcheck, with 18 sets logged across Berlin, Leipzig and Tbilisi. Often billed alongside Magrra, Mocongo and SADUN. Next up: TBA, Tbilisi on Fri 21 Aug.
+Teen A Teen is a techno and house artist based in Georgia, tracked on soundcheck, with 18 sets logged across Berlin, Leipzig and Tbilisi. Often billed alongside Magrra, Mocongo and SADUN. Next up: Sensorium, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA | Tbilisi |
 | Fri, 28 Aug 2026 | Sensorium | Berlin |
 
 ## Recently played

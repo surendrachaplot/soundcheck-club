@@ -1,8 +1,8 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Luke Una presents É Soul Cultura" on Sun, 30 Aug 2026.
+Hidden is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Luke Una presents É Soul Cultura" on Sun, 30 Aug 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 

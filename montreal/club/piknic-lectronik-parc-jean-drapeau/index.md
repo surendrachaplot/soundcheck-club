@@ -1,14 +1,13 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Piknic Électronik MTL #12: Worakls" on Sun, 23 Aug 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Adriatique - Parc Jean-Drapeau" on Fri, 28 Aug 2026.
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 18 upcoming nights, with line-ups including Adriatique, AMÉMÉ, Anaïs Ley and Asha and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Adriatique, AMÉMÉ, Asha and Baby Bimbo and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Piknic Électronik MTL #12: Worakls | Anaïs Ley, Jares, Worakls |
 | Fri, 28 Aug 2026 | Adriatique - Parc Jean-Drapeau | Adriatique, Colyn, Kolophane |
 | Sat, 29 Aug 2026 | Hernán Cattáneo - Parc Jean-Drapeau | Hernan Cattaneo |
 | Sun, 30 Aug 2026 | Piknic Électronik MTL #13: Danny Tenaglia / MUTEK | Danny Tenaglia, Guillaume Michaud |
@@ -18,6 +17,7 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 | Sun, 13 Sept 2026 | Piknic Électronik MTL #16: Dean Turnley, Julian Fijma / Roche Musique: Didi Han, Cezaire | Cezaire, Dean Turnley, Didi Han, Julian Fijma, Prospa |
 | Sat, 19 Sept 2026 | RuPaul DJ Set - Parc Jean-Drapeau | BisouBizou |
 | Sat, 26 Sept 2026 | Ricardo Villalobos - Parc Jean-Drapeau | Maher Daniel, Ricardo Villalobos |
+| Sun, 27 Sept 2026 | Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves | Baby Bimbo, Egyptian Lover, Isla Den, Lorenzi, Martyn Bootyspoon, Yume, livwutang |
 
 ## Address
 

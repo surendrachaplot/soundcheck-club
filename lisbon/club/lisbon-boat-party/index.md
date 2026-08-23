@@ -1,14 +1,13 @@
 # Lisbon Boat Party
 
-Lisbon Boat Party is a music venue in Lisbon with 19 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Lisbon Boat Party" on Sat, 22 Aug 2026.
+Lisbon Boat Party is a music venue in Lisbon with 18 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Lisbon Boat Party" on Thu, 27 Aug 2026.
 
-Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 19 upcoming nights. Browse upcoming dates, start times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.
+Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 18 upcoming nights. Browse upcoming dates, start times and who's playing. Lisbon Boat Party, Doca de Alcântara Norte, 1350-352 Lisboa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Lisbon Boat Party |  |
 | Thu, 27 Aug 2026 | Lisbon Boat Party |  |
 | Fri, 28 Aug 2026 | Lisbon Boat Party |  |
 | Sat, 29 Aug 2026 | Lisbon Boat Party |  |
@@ -18,6 +17,7 @@ Lisbon Boat Party is a music venue in Lisbon listed on soundcheck. 19 upcoming n
 | Thu, 10 Sept 2026 | Lisbon Boat Party |  |
 | Fri, 11 Sept 2026 | Lisbon Boat Party |  |
 | Sat, 12 Sept 2026 | Lisbon Boat Party |  |
+| Thu, 17 Sept 2026 | Lisbon Boat Party |  |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Autumns
 
-Autumns is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Whelans, Dublin on Tue, 1 Sept 2026.
+Autumns is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Whelans, Dublin on Tue, 1 Sept 2026.
 
-Autumns is a techno and industrial artist based in Ireland, tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Cork and Dublin and 10 more. Often billed alongside Kahn, Batu and CCL. Next up: Whelans, Dublin on Tue 1 Sept.
+Autumns is a techno and industrial artist based in Ireland, tracked on soundcheck, with 31 sets logged across Berlin, Bristol, Cork and Dublin and 10 more. Often billed alongside Kahn, Batu and CCL. Next up: Whelans, Dublin on Tue 1 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Autumns is a techno and industrial artist based in Ireland, tracked on soundchec
 | Tue, 1 Sept 2026 | Whelans | Dublin |
 | Tue, 1 Sept 2026 | Whelans | Dublin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 21 Nov 2026 | The Workmans Club | Dublin |
 
 ## Recently played
 

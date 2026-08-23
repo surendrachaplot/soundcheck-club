@@ -1,14 +1,15 @@
 # Daniela Dair
 
-Daniela Dair is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at DNA. CLUB, Berlin on Fri, 28 Aug 2026.
+Daniela Dair is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at DNA. CLUB, Berlin on Fri, 28 Aug 2026.
 
-Daniela Dair is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside 20_5_3_8_14_15, Error507 and Ravejezuz. Next up: DNA. CLUB, Berlin on Fri 28 Aug.
+Daniela Dair is a techno and tech house artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside 20_5_3_8_14_15, Error507 and Ravejezuz. Next up: DNA. CLUB, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | DNA. CLUB | Berlin |
+| Sat, 29 Aug 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
 

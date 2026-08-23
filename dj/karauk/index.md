@@ -1,8 +1,8 @@
 # Kara (UK)
 
-Kara (UK) is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Kara (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logged across Amsterdam, Bangkok, Birmingham and Brighton and 21 more. Often billed alongside Dillinja, IC3 and K Motionz. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Birmingham and Brighton and 21 more. Often billed alongside Dillinja, IC3 and K Motionz. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kara (UK) is a drum & bass and jungle artist tracked on soundcheck, with 60 sets
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Sat, 12 Sept 2026 | Thuishaven | Amsterdam |
+| Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 23 Aug 2026.
+Paraçek is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Paraçek is a techno and trance artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: Edelfettwerk, Hamburg on Sun 23 Aug.
+Paraçek is a techno and trance artist tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Edelfettwerk | Hamburg |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Fri, 4 Sept 2026 | Lokschuppen Berlin | Berlin |

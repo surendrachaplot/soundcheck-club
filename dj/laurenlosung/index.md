@@ -1,8 +1,8 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Colorado Charlie, The Hague on Sun, 23 Aug 2026.
+Lauren Lo Sung is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Colorado Charlie, The Hague on Sun, 23 Aug 2026.
 
-Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Colorado Charlie, Thehague on Sun 23 Aug.
+Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Colorado Charlie, Thehague on Sun 23 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 100 
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 12 Sept 2026 | XOYO | London |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 
 ## Recently played
 

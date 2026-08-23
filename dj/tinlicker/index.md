@@ -1,8 +1,8 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at House Of Blues Chicago, Chicago on Wed, 16 Sept 2026.
+Tinlicker is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at House Of Blues Chicago, Chicago on Wed, 16 Sept 2026.
 
-Tinlicker is a progressive house and deep house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: House Of Blues Chicago, Chicago on Wed 16 Sept.
+Tinlicker is a progressive house and deep house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: House Of Blues Chicago, Chicago on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tinlicker is a progressive house and deep house artist tracked on soundcheck, wi
 | Fri, 25 Sept 2026 | Roadrunner | Boston |
 | Sat, 10 Oct 2026 | The Midway | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sat, 21 Nov 2026 | Roxy | Prague |
 
 ## Recently played
 

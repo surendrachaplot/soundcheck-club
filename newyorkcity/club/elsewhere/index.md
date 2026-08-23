@@ -1,14 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 43 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Tarka: LILLA, SAMIA, Ushka, Zara Dekho b2b Dynoman" on Sun, 23 Aug 2026.
+Elsewhere is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rival Consoles" on Thu, 27 Aug 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Tarka: LILLA, SAMIA, Ushka, Zara Dekho b2b Dynoman | Dynoman, LILLA, SAMIA, Ushka, Zara Dekho |
 | Thu, 27 Aug 2026 | Rival Consoles | Rival Consoles |
 | Thu, 27 Aug 2026 | Water From Your Eyes (Rachel Brown) DJ Set, DJ Practice |  |
 | Fri, 28 Aug 2026 | Karachi Community Radio: 9 years with Bianca Oblivion, Asad Khan, Yas Meen Selectress | Athena, Athena (2), Bianca Oblivion, DJ ATTENTION, Evilo, Jalpari, Nick AM, Sparklmami, Viper, Yas Meen Selectress, ash. |
@@ -18,6 +17,7 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 43 upcoming nigh
 | Sun, 30 Aug 2026 | DISCOS EL HIJO PRESENTS: Préndelo PueblaYork - hellotones 'El Hijo de PueblaYork' | Marvelito, Mextape |
 | Thu, 3 Sept 2026 | Sylvan Esso (DJ set), Tama Gucci, Swaya | Swaya, Sylvan Esso, Tama Gucci |
 | Fri, 4 Sept 2026 | Klingande, hanzondeck | Klingande, hanzondeck |
+| Fri, 4 Sept 2026 | Sofia Kourtesis (DJ Set), Sorley, EREZ, House Hats: Trainer RED, Steffy, Baum b2b Teecee | Baum, E R E Z, Sofia Kourtesis, Steffy, Teecee |
 
 ## Address
 

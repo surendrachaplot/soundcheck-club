@@ -1,14 +1,13 @@
 # ANNA
 
-ANNA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 23 Aug 2026.
+ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-ANNA is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Jardins de Joan Brossa, Barcelona on Sun 23 Aug.
+ANNA is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Odonien | Cologne |

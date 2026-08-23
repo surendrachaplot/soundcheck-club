@@ -1,15 +1,14 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "THE HOOD NEEDS HOUSE" on Sun, 23 Aug 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "THE HOOD NEEDS HOUSE" on Sun, 23 Aug 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including The AM/AMX, Ah Dek, Aleska and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including The AM/AMX, Ah Dek, Aleska and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | THE HOOD NEEDS HOUSE | Jedai, Jiggy Crack, Kweku Saunderson, SMURFOUDIRTY, cry$cross, nish. |
-| Sun, 23 Aug 2026 | panatekk Happy Hour with Clit.hub, Coral Kill, LaFHomme | Clit.hub, CoralKILL, LaFHomme |
 | Mon, 24 Aug 2026 | Supraliminal | Bookworms, Evilo, Jalpari, MIRA MIRA, Rage.inald |
 | Tue, 25 Aug 2026 | Obscur: Via App, Zeigler, SWIMMIE, serpentskirt b2b Subcultures | SWIMMIE, Subcultures, Via App, Zeigler, serpentskirt |
 | Tue, 25 Aug 2026 | AREOLA spelling bee: happy hour | NATALIA., Syd (US) |
@@ -18,6 +17,7 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 33 u
 | Fri, 28 Aug 2026 | Soundbath with Dj Nico + BEARCAT + shekdash | BEARCAT, Dj Nico, shekdash |
 | Sat, 29 Aug 2026 | Realms of Techno with AMX + KYRUH +Wytheda | KYRUH, The AM/AMX |
 | Sat, 29 Aug 2026 | Happy Hour: Liberated |  |
+| Sun, 30 Aug 2026 | Candela presents: Greg Beato, DAY/DEM, Perna, phiphi | DAY/DEM, Greg Beato, Perna, phiphi |
 
 ## Address
 

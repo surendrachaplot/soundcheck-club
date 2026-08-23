@@ -1,8 +1,8 @@
 # Pino Arduini
 
-Pino Arduini is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Cello, Basel on Sat, 12 Sept 2026.
+Pino Arduini is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Cello, Basel on Sat, 12 Sept 2026.
 
-Pino Arduini is a house and deep house artist based in Switzerland, tracked on soundcheck, with 1 set logged across Basel. Often billed alongside Ed Luis. Next up: Club Cello, Basel on Sat 12 Sept.
+Pino Arduini is a deep house and house artist based in Switzerland, tracked on soundcheck, with 1 set logged across Basel. Often billed alongside Ed Luis. Next up: Club Cello, Basel on Sat 12 Sept.
 
 ## Upcoming shows
 

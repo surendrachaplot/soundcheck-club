@@ -2,7 +2,7 @@
 
 Joon is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-Joon is an experimental artist based in United States of America, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Alex Smoke, Alif Hilal and Alliyah Enyo. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+Joon is an experimental artist based in United States of America, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Raivo Sloan, SPIME.IM and Roberto Maqueda. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Joon is an experimental artist based in United States of America, tracked on sou
 
 ## Shares bills with
 
-Alex Smoke, Alif Hilal, Alliyah Enyo
+Raivo Sloan, SPIME.IM, Roberto Maqueda
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joon/)*

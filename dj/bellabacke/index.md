@@ -1,14 +1,15 @@
 # Bella Backe
 
-Bella Backe is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 27 Aug 2026.
+Bella Backe is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 27 Aug 2026.
 
-Bella Backe is a house and afro house artist tracked on soundcheck, with 74 sets logged across Bali, Ibiza, London and Melbourne and 1 more. Often billed alongside Caleb Jackson, Mixed Methods and Callyy. Next up: Ushuaïa Ibiza, Ibiza on Thu 27 Aug.
+Bella Backe is a house and afro house artist tracked on soundcheck, with 75 sets logged across Bali, Ibiza, London and Melbourne and 1 more. Often billed alongside Caleb Jackson, Mixed Methods and Callyy. Next up: Ushuaïa Ibiza, Ibiza on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Ushuaïa Ibiza | Ibiza |
+| Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 
 ## Recently played
 

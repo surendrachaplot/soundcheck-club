@@ -1,6 +1,6 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
+Dj Schnake is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Antwerp Expo, Antwerp on Sun, 23 Aug 2026.
 
 Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Antwerp Expo, Antwerp on Sun 23 Aug.
 
@@ -8,7 +8,6 @@ Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets log
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Sun, 23 Aug 2026 | Antwerp Expo | Antwerp |
 | Fri, 18 Sept 2026 | Hidden | Manchester |
 | Fri, 2 Oct 2026 | Le Petit Salon | Lyon |

@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+KUKO is a Techno and Trance artist with 22 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+KUKO is a techno and trance artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 

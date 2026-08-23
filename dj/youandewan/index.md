@@ -1,14 +1,13 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tresor / Globus, Berlin on Sat, 22 Aug 2026.
+Youandewan is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
 
-Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: Tresor / Globus, Berlin on Sat 22 Aug.
+Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: The Loft, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 12 Sept 2026 | The Loft | Manchester |
 | Fri, 25 Sept 2026 | Village Underground | London |
 

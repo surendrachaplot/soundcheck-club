@@ -1,13 +1,14 @@
 # J-Slyde
 
-J-Slyde is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+J-Slyde is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
-J-Slyde is a bass and drum & bass artist tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Aaron Static, Bigboss and Clayton Fox. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
+J-Slyde is a house and bass artist tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Aaron Static, Clayton Fox and Manoy. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Whitehart Bar | Melbourne |
 | Sat, 29 Aug 2026 | Whitehart Bar | Melbourne |
 
 ## Recently played
@@ -17,6 +18,6 @@ J-Slyde is a bass and drum & bass artist tracked on soundcheck, with 3 sets logg
 
 ## Shares bills with
 
-Aaron Static, Bigboss, Clayton Fox
+Aaron Static, Clayton Fox, Manoy
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-slyde/)*

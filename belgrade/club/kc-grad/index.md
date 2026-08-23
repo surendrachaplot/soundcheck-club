@@ -10,7 +10,7 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, wi
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | Garden Of Groove |  |
 | Thu, 15 Oct 2026 | Alexander Zaloopin, Uvazhaemiy, DJ Blevanson |  |
-| Sat, 7 Nov 2026 | EELF Presents - Belgrade: Shaolin Cowboy, Paluma Sound, Ghetto Uni TBA | Paluma Sound, Shaolin Cowboy |
+| Sat, 7 Nov 2026 | EELF Presents - Belgrade: Shaolin Cowboy, Paluma Sound, Ghetto Uni  | Paluma Sound, Shaolin Cowboy |
 
 ## Address
 

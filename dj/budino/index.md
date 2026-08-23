@@ -1,14 +1,13 @@
 # Budino
 
-Budino is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 22 Aug 2026.
+Budino is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Good Room, New York City on Sun, 6 Sept 2026.
 
-Budino is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Cabaret Sauvage, Paris on Sat 22 Aug.
+Budino is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Good Room, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Cabaret Sauvage | Paris |
 | Sun, 6 Sept 2026 | Good Room | New York City |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |

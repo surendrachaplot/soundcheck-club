@@ -8,7 +8,7 @@ Mystic Skatepark is a music venue in Prague listed on soundcheck. 1 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG) | 2NDRA, 3ever, Bailey Ibbs, DJames, Diva, Fatty M, Inger Illel, MLK:M, Misha Jaru, Nina Farrina, Polaris, S.Tian, SJ Yellow, Schwa, Technadze, Teresi, Veela, White Aura, Yanamaste, Zuzana Hakl |
+| Sat, 5 Sept 2026 | Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG) | 2NDRA, 3ever, Bailey Ibbs, DJames, Diva, Fatty M, Inger Illel, MLK:M, Misha Jaru, Nina Farrina, Polaris, Riki Boro, S.Tian, SJ Yellow, Schwa, Technadze, Teresi, Veela, White Aura, Yanamaste, Zuzana Hakl, mʊdʌki |
 
 ## Address
 

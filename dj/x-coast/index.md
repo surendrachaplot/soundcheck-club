@@ -1,14 +1,13 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 22 Aug 2026.
+X-Coast is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Colour Factory, London on Fri, 2 Oct 2026.
 
-X-Coast is a techno and house artist tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 59 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Phoxxi Green Area, Hamburg on Sat 22 Aug.
+X-Coast is a techno and house artist tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 59 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Colour Factory, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Phoxxi Green Area | Hamburg |
 | Fri, 2 Oct 2026 | Colour Factory | London |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 

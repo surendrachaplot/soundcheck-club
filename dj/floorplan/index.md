@@ -1,8 +1,8 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+Floorplan is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
-Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
+Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Floorplan is a house and techno artist based in United States of America, tracke
 | Fri, 18 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Sun, 4 Oct 2026 | public records | New York City |
+| Sat, 21 Nov 2026 | Under Club | Buenos Aires |
 
 ## Recently played
 

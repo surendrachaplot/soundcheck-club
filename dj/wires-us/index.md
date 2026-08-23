@@ -1,8 +1,8 @@
 # Wires (US)
 
-Wires (US) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at SILO, New York City on Thu, 27 Aug 2026.
+Wires (US) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at SILO, New York City on Thu, 27 Aug 2026.
 
-Wires (US) is a techno and trance artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Bruce Wayne (US), Com Truise and ELIVVATE. Next up: SILO, Newyorkcity on Thu 27 Aug.
+Wires (US) is a trance and techno artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Bruce Wayne (US), Com Truise and ELIVVATE. Next up: SILO, Newyorkcity on Thu 27 Aug.
 
 ## Upcoming shows
 

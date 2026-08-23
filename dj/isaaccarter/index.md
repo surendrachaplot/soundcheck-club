@@ -1,14 +1,13 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Nowadays, New York City on Sat, 22 Aug 2026.
+Isaac Carter is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Flash, Washington DC on Sun, 23 Aug 2026.
 
-Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Nowadays, Newyorkcity on Sat 22 Aug.
+Isaac Carter is a house and deep house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Flash, Washingtondc on Sun 23 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Nowadays | New York City |
 | Sun, 23 Aug 2026 | Flash | Washington DC |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | SAGE | Berlin |

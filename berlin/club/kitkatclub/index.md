@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 32 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Nachspiel" on Sun, 23 Aug 2026.
+KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Electric Monday Summer Special Latex Valencia ORACLE CULTURE" on Mon, 24 Aug 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming nights, with line-ups including Albin Brezlan, Alice D., Alma Negrot and Ana Lilia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Albin Brezlan, Alice D., Alma Negrot and Ana Lilia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Nachspiel | MARCEL db |
 | Mon, 24 Aug 2026 | Electric Monday Summer Special Latex Valencia ORACLE CULTURE | Frankie Flowerz |
 | Wed, 26 Aug 2026 | SYMBIOTIKKA at KitKat Club Berlin | Albin Brezlan, DJ Jordan, Joris Turenhout |
 | Wed, 26 Aug 2026 | Symbiotikka | Albin Brezlan, DJ Jordan |
@@ -18,6 +17,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming nights, 
 | Mon, 31 Aug 2026 | Electric Monday Summer Special  | Dose, Frankie Flowerz, Gioski, Tobi Dei (DE) |
 | Wed, 2 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Mababy, PyjamaMama, Rachel Raw |
 | Thu, 3 Sept 2026 | UNITY AT KITKAT CLUB | Joe Shmoo, Stacy |
+| Fri, 4 Sept 2026 | Four Play |  |
 
 ## Address
 

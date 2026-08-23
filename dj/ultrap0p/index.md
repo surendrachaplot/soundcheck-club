@@ -1,8 +1,8 @@
 # ultrap0p
 
-ultrap0p is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
+ultrap0p is a Pop and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
 
-ultrap0p is a club and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Cure2 and Piscesprince. Next up: Jade, Newyorkcity on Sat 5 Sept.
+ultrap0p is a pop and trance artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Cure2 and Piscesprince. Next up: Jade, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 

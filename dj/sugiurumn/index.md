@@ -1,14 +1,13 @@
 # Sugiurumn
 
-Sugiurumn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 23 Aug 2026.
+Sugiurumn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at R Lounge, Tokyo on Sat, 5 Sept 2026.
 
-Sugiurumn is a techno and house artist based in Japan, tracked on soundcheck, with 48 sets logged across Osaka and Tokyo. Often billed alongside Ko Kimura, Nao Nomura and Yamariki. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 23 Aug.
+Sugiurumn is a techno and house artist based in Japan, tracked on soundcheck, with 48 sets logged across Osaka and Tokyo. Often billed alongside Ko Kimura, Nao Nomura and Yamariki. Next up: R Lounge, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 | Sat, 5 Sept 2026 | R Lounge | Tokyo |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Minh (2)
 
-Minh (2) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OIL Club, Shenzhen on Sun, 23 Aug 2026.
+Minh (2) is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OIL Club, Shenzhen on Sun, 23 Aug 2026.
 
-Minh (2) is a techno and idm artist based in Vietnam, tracked on soundcheck, with 1 set logged across Shenzhen. Often billed alongside Sydney Barringer. Next up: OIL Club, Shenzhen on Sun 23 Aug.
+Minh (2) is an idm and techno artist based in Vietnam, tracked on soundcheck, with 1 set logged across Shenzhen. Often billed alongside Sydney Barringer. Next up: OIL Club, Shenzhen on Sun 23 Aug.
 
 ## Upcoming shows
 

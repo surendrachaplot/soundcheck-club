@@ -1,14 +1,13 @@
 # Dynoman
 
-Dynoman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Elsewhere, New York City on Sun, 23 Aug 2026.
+Dynoman is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Eavesdrop, New York City on Thu, 27 Aug 2026.
 
-Dynoman is a techno and club artist tracked on soundcheck, with 59 sets logged across Newyorkcity and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Elsewhere, Newyorkcity on Sun 23 Aug.
+Dynoman is a techno and club artist tracked on soundcheck, with 59 sets logged across Newyorkcity and Toronto. Often billed alongside Zara Dekho, Arianna Danae and JIALING. Next up: Eavesdrop, Newyorkcity on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Elsewhere | New York City |
 | Thu, 27 Aug 2026 | Eavesdrop | New York City |
 
 ## Recently played

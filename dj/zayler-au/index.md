@@ -1,13 +1,14 @@
 # Zayler
 
-Zayler is a Garage and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+Zayler is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
-Zayler is a garage and footwork artist based in Australia, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Manoy, Olsen Umbrella and Aaron Static. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
+Zayler is a garage and house artist based in Australia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Manoy, Olsen Umbrella and Aaron Static. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Whitehart Bar | Melbourne |
 | Sat, 29 Aug 2026 | Whitehart Bar | Melbourne |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Bella Sarris
 
-Bella Sarris is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Buda BXL, Brussels on Sat, 22 Aug 2026.
+Bella Sarris is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
-Bella Sarris is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside ISAbella, THC and Roza Terenzi. Next up: Buda BXL, Brussels on Sat 22 Aug.
+Bella Sarris is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside ISAbella, THC and Roza Terenzi. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Buda BXL | Brussels |
 | Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | Hangaren | Copenhagen |
 

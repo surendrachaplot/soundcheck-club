@@ -1,8 +1,8 @@
 # Killa P
 
-Killa P is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
+Killa P is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
 
-Killa P is a drum & bass and jungle artist tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Brighton and Bristol and 16 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: The Clock Factory, Bristol on Fri 25 Sept.
+Killa P is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Barcelona, Berlin, Brighton and Bristol and 16 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: The Clock Factory, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Killa P is a drum & bass and jungle artist tracked on soundcheck, with 78 sets l
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
+| Sat, 31 Oct 2026 | TAC (Tottenham Arts Collective) | London |
 
 ## Recently played
 

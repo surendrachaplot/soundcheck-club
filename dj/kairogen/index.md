@@ -1,14 +1,13 @@
 # Kairogen
 
-Kairogen is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Clydesdale, Glasgow on Sat, 22 Aug 2026.
+Kairogen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
-Kairogen is a techno and house artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: The Clydesdale, Glasgow on Sat 22 Aug.
+Kairogen is a techno and house artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | The Clydesdale | Glasgow |
 | Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 | Fri, 11 Sept 2026 | 1990 | Glasgow |
 | Sat, 19 Sept 2026 | The Old Burnt Barns | Glasgow |

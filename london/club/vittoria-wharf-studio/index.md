@@ -1,14 +1,13 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "[FREE] Ossia Summer Day Party - Hackney Wick" on Sun, 23 Aug 2026.
+Vittoria Wharf Studio is a music venue in London with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "TranceParty:Preflight" on Sat, 29 Aug 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Amaliah, AmeliaBC, Arnault and CAMIVINA and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Amaliah, AmeliaBC, Arnault and CAMIVINA and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | [FREE] Ossia Summer Day Party - Hackney Wick | Tibasko |
 | Sat, 29 Aug 2026 | TranceParty:Preflight | Evian Christ, seretide |
 | Sat, 5 Sept 2026 | London Love Letter by Night | Amaliah, AmeliaBC, Danielle |
 | Sat, 5 Sept 2026 | Collide x Amaeo Label w/ SKALA & Theologos Day Party | Arnault, Greg Nox, Patrick Serhal, SKALA, Theologos |

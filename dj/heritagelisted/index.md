@@ -1,8 +1,8 @@
 # Heritage Listed
 
-Heritage Listed is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Db55, Amsterdam on Fri, 28 Aug 2026.
+Heritage Listed is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Db55, Amsterdam on Fri, 28 Aug 2026.
 
-Heritage Listed is a house and disco artist tracked on soundcheck, with 28 sets logged across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Pura Pachanga. Next up: Db55, Amsterdam on Fri 28 Aug.
+Heritage Listed is a house and disco artist tracked on soundcheck, with 29 sets logged across Amsterdam, Geneva, Melbourne and Paris. Often billed alongside Le Hutin, Kirilski and Pura Pachanga. Next up: Db55, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Heritage Listed is a house and disco artist tracked on soundcheck, with 28 sets 
 | Fri, 28 Aug 2026 | Db55 | Amsterdam |
 | Sat, 5 Sept 2026 | Madam | Amsterdam |
 | Sat, 12 Sept 2026 | Sportpark Riekerhaven | Amsterdam |
+| Sun, 25 Oct 2026 | Panama | Amsterdam |
 
 ## Recently played
 

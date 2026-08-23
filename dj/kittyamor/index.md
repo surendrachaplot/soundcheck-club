@@ -1,14 +1,13 @@
 # Kitty Amor
 
-Kitty Amor is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Revolver Upstairs, Melbourne on Sun, 23 Aug 2026.
+Kitty Amor is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at SILO, New York City on Sat, 12 Sept 2026.
 
-Kitty Amor is a house and afro house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: Revolver Upstairs, Melbourne on Sun 23 Aug.
+Kitty Amor is a house and afro house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: SILO, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Revolver Upstairs | Melbourne |
 | Sat, 12 Sept 2026 | SILO | New York City |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |

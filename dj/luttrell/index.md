@@ -1,14 +1,13 @@
 # Luttrell
 
-Luttrell is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hotel Via, San Francisco/Oakland on Sun, 23 Aug 2026.
+Luttrell is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Joshua Brooks, Manchester on Sat, 29 Aug 2026.
 
-Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Chicago and Denver and 16 more. Often billed alongside Hana, Jody Wisternoff and CRi. Next up: Hotel Via, Sanfrancisco on Sun 23 Aug.
+Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Chicago and Denver and 16 more. Often billed alongside Hana, Jody Wisternoff and CRi. Next up: Joshua Brooks, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Hotel Via | San Francisco/Oakland |
 | Sat, 29 Aug 2026 | Joshua Brooks | Manchester |
 | Fri, 30 Oct 2026 | Foro Basement | Mexico City |
 

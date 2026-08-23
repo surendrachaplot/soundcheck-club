@@ -1,14 +1,13 @@
 # Danilo Kupfernagel
 
-Danilo Kupfernagel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Byhaven, Copenhagen on Sun, 23 Aug 2026.
+Danilo Kupfernagel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Czech Boat, Prague on Sat, 19 Sept 2026.
 
-Danilo Kupfernagel is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Byhaven, Copenhagen on Sun 23 Aug.
+Danilo Kupfernagel is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Czech Boat, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Byhaven | Copenhagen |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |
 | Sat, 17 Oct 2026 | Beate Uwe | Berlin |
 

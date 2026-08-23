@@ -1,6 +1,6 @@
 # Hold'em x Born 2B: A Space Odyssey at Born 2B Music Bar
 
-Hold'em x Born 2B: A Space Odyssey at Born 2B Music Bar on Fri 28 Aug, Barcelona. 4 acts on the bill: Carvach, Hermansen, IMVIC and W2M. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Hold'em x Born 2B: A Space Odyssey at Born 2B Music Bar on Fri 28 Aug, Barcelona. 5 acts on the bill: Carvach, Chrissential, Hermansen and IMVIC and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Hold'em x Born 2B: A Space Odyssey at Born 2B Music Bar on Fri 28 Aug, Barcelona
 ## Line-up
 
 - Carvach
+- Chrissential
 - Hermansen
 - IMVIC
 - W2M

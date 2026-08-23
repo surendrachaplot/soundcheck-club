@@ -1,14 +1,13 @@
 # Kazu
 
-Kazu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Numm, Tokyo on Sun, 23 Aug 2026.
+Kazu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at ZUBAR, Tokyo on Thu, 3 Sept 2026.
 
-Kazu is a techno and house artist based in Japan, tracked on soundcheck, with 23 sets logged across Hongkong and Tokyo. Often billed alongside RYUGO, YuWa and shimosoma. Next up: Numm, Tokyo on Sun 23 Aug.
+Kazu is a techno and house artist based in Japan, tracked on soundcheck, with 23 sets logged across Hongkong and Tokyo. Often billed alongside RYUGO, YuWa and shimosoma. Next up: ZUBAR, Tokyo on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Numm | Tokyo |
 | Thu, 3 Sept 2026 | ZUBAR | Tokyo |
 | Sat, 12 Sept 2026 | VENT | Tokyo |
 

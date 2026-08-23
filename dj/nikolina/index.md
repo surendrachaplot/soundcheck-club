@@ -1,8 +1,8 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
+Nikolina is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
 
-Nikolina is a techno and industrial artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Azyr, Restricted and Adrian Mills. Next up: Brooklyn Storehouse, Newyorkcity on Sun 6 Sept.
+Nikolina is a techno and industrial artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Austin and Barcelona and 45 more. Often billed alongside Azyr, Restricted and Adrian Mills. Next up: Brooklyn Storehouse, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Nikolina is a techno and industrial artist tracked on soundcheck, with 106 sets 
 | Fri, 30 Oct 2026 | TBA - 131 McCormack  | Toronto |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
+| Sat, 21 Nov 2026 | The Garage | Madrid |
 
 ## Recently played
 

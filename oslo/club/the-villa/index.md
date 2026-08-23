@@ -2,14 +2,14 @@
 
 The Villa is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Peder Mannerfelt (SE)" on Fri, 28 Aug 2026.
 
-The Villa is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Daichi Wada, Finnebassen, DJ Hell and Kasper Marott and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
+The Villa is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Anders Hajem, Daichi Wada, Finnebassen and DJ Hell and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Peder Mannerfelt (SE) | Peder Mannerfelt |
-| Sat, 29 Aug 2026 | Skatebård | Skatebård |
+| Sat, 29 Aug 2026 | Skatebård & The Inari Signal / SS: BCR Releaseparty | Anders Hajem, Henrik Villard, Skatebård |
 | Sat, 5 Sept 2026 | DJ Hell (DE), Bjarne Melgaard (DJ Set), Kristoffer Karlsen & Øyvind Morken | DJ Hell, Øyvind Morken |
 | Fri, 11 Sept 2026 | Foreningen For Elektronisk Musikk pres. Kasper Marott (DK) / SS: Frie Arealer | Kasper Marott |
 | Sat, 12 Sept 2026 | Sam Girling (UK) | Sam Girling, Simon Tyv, Svebbe |

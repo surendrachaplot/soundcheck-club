@@ -1,14 +1,14 @@
 # Hatsvali
 
-Hatsvali is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Tbilisi on Fri, 21 Aug 2026.
+Hatsvali is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
 
-Hatsvali is a house and tech house artist based in Georgia, tracked on soundcheck, with 53 sets logged across Tbilisi. Often billed alongside Gio Shengelia, Bero and Mocongo. Next up: TBA, Tbilisi on Fri 21 Aug.
+Hatsvali is a house and tech house artist based in Georgia, tracked on soundcheck, with 54 sets logged across Tbilisi. Often billed alongside Gio Shengelia, Mocongo and Sevda. Next up: Mtkvarze, Tbilisi on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | TBA | Tbilisi |
+| Fri, 28 Aug 2026 | Mtkvarze | Tbilisi |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Hatsvali is a house and tech house artist based in Georgia, tracked on soundchec
 
 ## Shares bills with
 
-Gio Shengelia, Bero, Mocongo
+Gio Shengelia, Mocongo, Sevda
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hatsvali/)*

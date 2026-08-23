@@ -1,14 +1,13 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "VYBZ Festival" on Sun, 23 Aug 2026.
+Thuishaven is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "30 AUG - Thuishaven with Toman / Dean Turnley / AAT" on Sun, 30 Aug 2026.
 
-Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Kepler, AAT (NL), AJ Christou and Alec Dienaar and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
+Thuishaven is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Kepler, AAT (NL), Alec Dienaar and Alexander Koning and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | VYBZ Festival | AJ Christou |
 | Sun, 30 Aug 2026 | 30 AUG - Thuishaven with Toman / Dean Turnley / AAT | AAT (NL), Dean Turnley, Easttown, Jordan Brando, Toman, William Kiss |
 | Sun, 6 Sept 2026 | 06 SEP - Thuishaven with Kolter 10HRS SOLD OUT | Giammarco Orsini, Kolter, Rich NXT, Tiago Walter |
 | Sat, 12 Sept 2026 | Liquicity Family Day 2026 | Blooom, Circadian, Kara (UK), Makoto, Method, Seba, Skepsis, Vanity Roxane |
@@ -18,6 +17,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming night
 | Sun, 4 Oct 2026 | 04 OKT - IOSIO 10HRS | IOSIO |
 | Thu, 22 Oct 2026 | Glitterbox ADE | Bridge (NY), Carl Craig, Eliza Rose, Ella Knight, HoneyLuv, Horse Meat Disco, Laura Meester, Melvo Baptiste, The Shapeshifters, Tonno Disko |
 | Thu, 22 Oct 2026 | Defected ADE | Joëlla Jackson, Makèz, Melé, RUZE, Ranger Trucco, Sam Divine, TSHA |
+| Fri, 23 Oct 2026 | 23 OCT - Friday Day with salute / Diffrent & Bella Claxton | Bella Claxton, Deborah Aime La Bagarre, Diffrent, Emma B, Faster Horses, LILLI & 4LOVE, Mike Momburg, NewTone, OLIVIA LENSEN, Sophia Violet, Special Request, Strath, salute |
 
 ## Address
 

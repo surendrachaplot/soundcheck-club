@@ -1,14 +1,13 @@
 # LYLO (NL)
 
-LYLO (NL) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Paradiso Noord / Tolhuistuin, Amsterdam on Sun, 23 Aug 2026.
+LYLO (NL) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lofi, Amsterdam on Sat, 5 Sept 2026.
 
-LYLO (NL) is a house and techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Philou Louzolo, Mo Wrights and TINS. Next up: Paradiso Noord / Tolhuistuin, Amsterdam on Sun 23 Aug.
+LYLO (NL) is a house and techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, London and Rotterdam and 1 more. Often billed alongside Philou Louzolo, Mo Wrights and TINS. Next up: Lofi, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Paradiso Noord / Tolhuistuin | Amsterdam |
 | Sat, 5 Sept 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 

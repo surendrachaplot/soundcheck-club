@@ -1,14 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 21 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "SUNDAY SERVICE" on Sun, 23 Aug 2026.
+Planet Wax is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "OPEN DECKS" on Wed, 26 Aug 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Andy Foundations, Ani Klang, ARKNGL and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Andy Foundations, Ani Klang, ARKNGL and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | SUNDAY SERVICE | Sho Gabi, Uncle G, Yasmine (UK) |
 | Wed, 26 Aug 2026 | OPEN DECKS |  |
 | Thu, 27 Aug 2026 | OBSIDIAN RECORDS: POP-UP | DJ Ollie, GEOMETRIKK, Tilly |
 | Fri, 28 Aug 2026 | OVERTONE // Takeover Planet Wax | Just Jane, Manga Saint Hilare |
@@ -18,6 +17,7 @@ Planet Wax is a music venue in London listed on soundcheck. 21 upcoming nights, 
 | Sat, 29 Aug 2026 | PIRATEZ: Label Takeover | Estevez (1), Proto |
 | Thu, 3 Sept 2026 | LEGACY: ROOTS... Where the sound began | Logan D, Millz, Nicky Blackmarket |
 | Fri, 4 Sept 2026 | Planet Wax INC // A Family Affair | Dexta, Slundarq, Uncle G |
+| Sat, 5 Sept 2026 | AKO BEATZ: Label Takeover | DJ Stretch, Decibella |
 
 ## Address
 

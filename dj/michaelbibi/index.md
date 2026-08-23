@@ -1,8 +1,8 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Michael Bibi is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 19 more. Often billed alongside Dennis Cruz, Chris Stassy and PAWSA. Next up: Union Park, Chicago on Fri 4 Sept.
+Michael Bibi is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 19 more. Often billed alongside Dennis Cruz, PAWSA and Chris Stassy. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 | Thu, 24 Sept 2026 | Ex Macello | Milan |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
+| Sat, 21 Nov 2026 | TBA - Arena Norte, Nuñez | Buenos Aires |
 
 ## Recently played
 
@@ -28,6 +29,6 @@ Michael Bibi is a tech house and house artist based in United Kingdom, tracked o
 
 ## Shares bills with
 
-Dennis Cruz, Chris Stassy, PAWSA
+Dennis Cruz, PAWSA, Chris Stassy
 
 *Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

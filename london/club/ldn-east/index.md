@@ -10,7 +10,7 @@ LDN East is a music venue in London listed on soundcheck. 7 upcoming nights, wit
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Take Off 16+ End Of Summer Open Air Rave |  |
 | Sat, 29 Aug 2026 | Country Club - Outdoor Country Music Festival - London |  |
-| Sat, 29 Aug 2026 | forward motion |  |
+| Sat, 29 Aug 2026 | no |  |
 | Sat, 5 Sept 2026 | A day with Crazy P (DJ Set) | Crazy P |
 | Sun, 6 Sept 2026 | 2016 Replay: SENSES Block Party (Summer Special) |  |
 | Sat, 24 Oct 2026 | House Warming Day Party |  |

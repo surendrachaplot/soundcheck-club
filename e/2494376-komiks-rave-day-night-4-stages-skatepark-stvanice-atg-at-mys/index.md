@@ -1,6 +1,6 @@
 # Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG) at Mystic Skatepark
 
-Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG) at Mystic Skatepark on Sat 5 Sept, Prague. 20 acts on the bill: 2NDRA, 3ever, Bailey Ibbs and Diva and 16 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG) at Mystic Skatepark on Sat 5 Sept, Prague. 22 acts on the bill: 2NDRA, 3ever, Bailey Ibbs and Diva and 18 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,8 +19,10 @@ Komiks Rave ☆ Day & Night, 4 Stages (Skatepark Stvanice + ATG) at Mystic Skate
 - Inger Illel
 - Misha Jaru
 - MLK:M
+- mʊdʌki
 - Nina Farrina
 - Polaris
+- Riki Boro
 - S.Tian
 - Schwa
 - SJ Yellow

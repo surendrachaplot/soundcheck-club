@@ -1,14 +1,13 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Spin, San Diego on Sun, 23 Aug 2026.
+Oliver Koletzki is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Flash, Washington DC on Sat, 29 Aug 2026.
 
-Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Spin, Sandiego on Sun 23 Aug.
+Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Flash, Washingtondc on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Spin | San Diego |
 | Sat, 29 Aug 2026 | Flash | Washington DC |
 | Sat, 19 Sept 2026 | Tanzhaus West | Frankfurt |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
