@@ -13,7 +13,7 @@ Ray Keith is a drum & bass and jungle artist tracked on soundcheck, with 103 set
 | Sat, 29 Aug 2026 | Outernet Live | London |
 | Sat, 5 Sept 2026 | Peckham Liberal Club | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
-| Fri, 30 Oct 2026 | Tottenham Arts Collective | London |
+| Fri, 30 Oct 2026 | Club360 | London |
 
 ## Recently played
 

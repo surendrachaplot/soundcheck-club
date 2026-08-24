@@ -10,7 +10,7 @@ Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 40 se
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | XOYO | London |
 | Sat, 10 Oct 2026 | Gretchen | Berlin |
-| Fri, 30 Oct 2026 | Tottenham Arts Collective | London |
+| Fri, 30 Oct 2026 | Club360 | London |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ MC Gusto is a drum & bass and jungle artist tracked on soundcheck, with 31 sets 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Distillery N17 | London |
 | Fri, 9 Oct 2026 | The Bongo Club | Edinburgh |
-| Fri, 30 Oct 2026 | Tottenham Arts Collective | London |
+| Fri, 30 Oct 2026 | Club360 | London |
 
 ## Recently played
 
