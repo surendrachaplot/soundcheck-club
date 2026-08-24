@@ -819,6 +819,26 @@
     .dock.expanded .bar-knob { width:46px; height:46px; box-shadow:0 6px 18px rgba(0,0,0,0.45); }
     .dock.expanded .bar-knob .ic { display:block; width:22px; height:22px; }
     /* Tracklist button (expanded dock, only when the playing video has a parsed tracklist) + sheet */
+    /* WRONG-SET REPORT. Icon only, bottom-right, and never a word — Suren was
+       explicit: "keep the icon on the bottom right - do not have to say words
+       report video specially in the expanded dock on mobile". A label would also
+       put a second piece of text next to Tracklist and make the row read as two
+       equal actions, which they are not. 44px target like the dock's close. */
+    .dock-report { display:none; position:absolute; right:10px; bottom:calc(10px + env(safe-area-inset-bottom)); z-index:4;
+      width:44px; height:44px; align-items:center; justify-content:center; padding:0;
+      background:transparent; border:none; border-radius:var(--radius-btn); color:var(--faint); cursor:pointer;
+      -webkit-tap-highlight-color:transparent; transition:color var(--dur-1); }
+    .dock-report svg { width:17px; height:17px; display:block; }
+    .dock-report:hover { color:var(--accent); }
+    .dock-report.on { color:var(--sel); }          /* reported — violet is "selected" everywhere else */
+    .dock-report:disabled { cursor:default; }
+    .dock.show .dock-report { display:inline-flex; }
+    /* Collapsed there is no bottom to sit in — the panel is one tight row — so it
+       tucks in beside the close button instead. A direct child of .panel (which is
+       position:relative) rather than a child of .corner, because .corner is itself
+       absolutely positioned and a child of it cannot move to the other corner. */
+    .dock:not(.expanded) .dock-report { top:50%; bottom:auto; right:56px; transform:translateY(-50%); width:40px; height:40px; }
+    @media (max-width:640px){ .dock:not(.expanded) .dock-report { right:48px; } }
     .dock-tl { display:none; align-items:center; gap:8px; order:3; margin:2px auto 0; border:1px solid var(--border); background:var(--surface-2); color:var(--fg); border-radius:var(--radius-pill); font:600 var(--fs-sm)/var(--lh-sm) var(--body); padding:8px 16px; cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .dock-tl svg { width:16px; height:16px; flex:none; }
     .dock-tl:hover { border-color:var(--accent); color:var(--accent); }
@@ -4081,7 +4101,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787584746344">
+<meta name="sc-build" content="1787588210063">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4176,6 +4196,7 @@
       <div class="corner">
         <button class="iconbtn" id="dock-close" type="button" aria-label="Stop and close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button>
       </div>
+      <button class="dock-report" id="dock-report" type="button" aria-label="Wrong set — this is not this artist" title="Wrong set?"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" x2="4" y1="22" y2="15"/></svg></button>
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
@@ -4734,6 +4755,48 @@
       if(Object.prototype.hasOwnProperty.call(_nextGigCache, slug)){ render(_nextGigCache[slug]); return; }
       pubGet('/api/artist/next?slug='+encodeURIComponent(slug)).then(function(j){ var g=(j&&j.next)||null; _nextGigCache[slug]=g; render(g); }).catch(function(){});
     }
+    // ── Wrong set ────────────────────────────────────────────────────────────
+    // One tap, no sheet, no "tell us why". The only fact worth collecting is
+    // that this is not this artist, and asking for more is how you get nothing.
+    //
+    // Sticky per video, per artist, in localStorage: reopen the dock tomorrow
+    // and it still reads as reported. That is a UI memory, not a vote count —
+    // the server does the demoting and does not trust the client for it.
+    var _rep = { videoId:'', slug:'', source:'' };
+    function _repKey(slug, videoId){ return 'sc.rep.'+slug+'.'+videoId; }
+    function _repDone(slug, videoId){ try{ return !!localStorage.getItem(_repKey(slug,videoId)); }catch(_){ return false; } }
+    function setDockReport(videoId, slug, source){
+      _rep = { videoId:videoId||'', slug:slug||'', source:source||'' };
+      var b=document.getElementById('dock-report'); if(!b) return;
+      var can = !!(_rep.videoId && _rep.slug);
+      // No artist slug means nothing to demote it FROM — hide rather than offer a
+      // button that cannot do anything.
+      b.style.display = can ? '' : 'none';
+      var done = can && _repDone(_rep.slug, _rep.videoId);
+      b.classList.toggle('on', done);
+      b.disabled = done;
+      b.setAttribute('aria-label', done ? 'Already reported' : 'Wrong set — this is not this artist');
+      b.title = done ? 'Reported' : 'Wrong set?';
+    }
+    (function(){
+      var b=document.getElementById('dock-report'); if(!b) return;
+      b.addEventListener('click', function(e){
+        e.stopPropagation();                       // the panel toggles the dock; this must not
+        if(b.disabled || !_rep.videoId || !_rep.slug) return;
+        var slug=_rep.slug, videoId=_rep.videoId;
+        b.disabled=true;
+        // Mark it done immediately. The demote is the server's job and it either
+        // works or it does not, but making someone tap twice to find out is worse
+        // than trusting them once.
+        try{ localStorage.setItem(_repKey(slug,videoId),'1'); }catch(_){}
+        b.classList.add('on'); b.title='Reported'; b.setAttribute('aria-label','Already reported');
+        showToast('Thanks — we\u2019ll stop playing that one.');
+        fetch(API_BASE+'/api/report/video',{ method:'POST', headers:{'Content-Type':'application/json'},
+          body: JSON.stringify({ slug:slug, videoId:videoId, source:_rep.source, pageUrl:location.href }) })
+          .catch(function(){});
+      });
+    })();
+
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
       msMeta(name, src);
@@ -4850,6 +4913,9 @@
       // inside this tap, so mobile autoplay is allowed — no second press needed.
       var reuse = ytPlayer && ytReadyFlag && currentType==='yt' && f && f.isConnected;
       currentType='yt';
+      // What the report button reports. Set BEFORE openDockUI so the button is
+      // already armed by the time the dock slides in.
+      setDockReport(videoId, (btn&&btn.dataset&&btn.dataset.slug)||'', 'youtube');
       openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
       loadTracklist(videoId);   // parse the video's description tracklist (if any) → dock "Tracklist" button
       if(reuse){
@@ -4984,6 +5050,12 @@
     // audio too, so one helper covers both and the Sets tab uses it as well.
     function playScUrl(url, title, art, source){
       if(!url) return false;
+      // No report button on SoundCloud or NTS: the demote reorders an artist's
+      // YouTube sets, and there is no YouTube video here to move. Offering a
+      // control that cannot do anything is worse than not offering one. If SC
+      // matches turn out to be wrong often, give sc_sets the same treatment and
+      // arm it here — the button does not need to change.
+      setDockReport('', '', source||'soundcloud');
       var el=document.createElement('button'); el.className='play sc';
       el.dataset.sc=url; el.dataset.name=title||'Set';
       el.dataset.poster=art||''; el.dataset.venue=source||'SoundCloud';

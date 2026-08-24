@@ -1,6 +1,6 @@
 # Tilect LOVES Not on Earth at LAUT
 
-Tilect LOVES Not on Earth at LAUT on Thu 17 Sept, Barcelona. Breakbeat and Electronica. Preview the line-up and save it on soundcheck.
+Tilect LOVES Not on Earth at LAUT on Thu 17 Sept, Barcelona. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

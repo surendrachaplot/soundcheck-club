@@ -1,8 +1,8 @@
 # Princess Xixi
 
-Princess Xixi is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ollex Inn, London on Sat, 29 Aug 2026.
+Princess Xixi is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ollex Inn, London on Sat, 29 Aug 2026.
 
-Princess Xixi is a club and techno artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Ollex Inn, London on Sat 29 Aug.
+Princess Xixi is a club and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Ollex Inn, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Princess Xixi is a club and techno artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Ollex Inn | London |
 | Sun, 6 Sept 2026 | Hackney Bridge | London |
+| Thu, 24 Sept 2026 | Piehouse Coop | London |
 
 ## Recently played
 

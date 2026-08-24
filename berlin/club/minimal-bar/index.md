@@ -15,7 +15,7 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 84 upcoming nights,
 | Fri, 28 Aug 2026 | DAZA & freunde | Andre Salmon, Culo Sucio, DAZA, Daniel Jaramillo |
 | Sat, 29 Aug 2026 | Equilibrisme x Dub Explorations | Man-L, Quadrant Soundscape |
 | Sat, 29 Aug 2026 | Equilibrisme x Dub Explorations | Man-L, Quadrant Soundscape |
-| Sun, 30 Aug 2026 | DEEP SUNDAYS mit Clarence !FREE ENTRY | Clarence |
+| Sun, 30 Aug 2026 | DEEP SUNDAYS mit Clarence | Clarence, Clarence (2) |
 | Mon, 31 Aug 2026 | manic.monday mit Beta Basti | Beta Basti, Pablo Cornejo |
 | Tue, 1 Sept 2026 | go.play mit TBA |  |
 

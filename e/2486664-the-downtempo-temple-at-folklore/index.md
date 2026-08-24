@@ -1,6 +1,6 @@
 # The DownTempo Temple at Folklore
 
-The DownTempo Temple at Folklore on Sat 17 Oct, London. 5 acts on the bill: Altayef, Apsara (UK), Marco (UK) and Parra Vie and 1 more. Downtempo. Preview the line-up and save it on soundcheck.
+The DownTempo Temple at Folklore on Sat 17 Oct, London. 6 acts on the bill: AALEX, Altayef, Apsara (UK) and Marco (UK) and 2 more. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The DownTempo Temple at Folklore on Sat 17 Oct, London. 5 acts on the bill: Alta
 
 ## Line-up
 
+- AALEX
 - Altayef
 - Apsara (UK)
 - Marco (UK)

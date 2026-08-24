@@ -1,8 +1,8 @@
 # Workforce
 
-Workforce is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Workforce is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Workforce is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Workforce is a drum & bass and jungle artist tracked on soundcheck, with 43 sets logged across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Workforce is a drum & bass and jungle artist tracked on soundcheck, with 42 sets
 | Sat, 19 Sept 2026 | Gretchen | Berlin |
 | Sat, 26 Sept 2026 | Outernet Live | London |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 7 Nov 2026 | M.O.T | London |
 
 ## Recently played
 

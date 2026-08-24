@@ -1,8 +1,8 @@
 # AALEX
 
-AALEX is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Observatory Sky Bar, London on Fri, 4 Sept 2026.
+AALEX is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Observatory Sky Bar, London on Fri, 4 Sept 2026.
 
-AALEX is a deep house and progressive house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Alythia Kwan, MARIUS SEBASTIAN and MEAKIN. Next up: The Observatory Sky Bar, London on Fri 4 Sept.
+AALEX is a deep house and progressive house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Alythia Kwan, MARIUS SEBASTIAN and MEAKIN. Next up: The Observatory Sky Bar, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AALEX is a deep house and progressive house artist tracked on soundcheck, with 5
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Observatory Sky Bar | London |
 | Fri, 11 Sept 2026 | Basing House | London |
+| Sat, 17 Oct 2026 | Folklore | London |
 
 ## Recently played
 
