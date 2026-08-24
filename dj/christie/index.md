@@ -1,14 +1,13 @@
 # Christie
 
-Christie is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Gare / Le Gore, Paris on Sun, 23 Aug 2026.
+Christie is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Glazart, Paris on Sun, 30 Aug 2026.
 
-Christie is a techno and electro artist tracked on soundcheck, with 36 sets logged across Marseille, Nantes and Paris. Often billed alongside In-Tan, Cattoni and Bours?. Next up: La Gare / Le Gore, Paris on Sun 23 Aug.
+Christie is a techno and electro artist tracked on soundcheck, with 36 sets logged across Marseille, Nantes and Paris. Often billed alongside In-Tan, Cattoni and Bours?. Next up: Glazart, Paris on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | La Gare / Le Gore | Paris |
 | Sun, 30 Aug 2026 | Glazart | Paris |
 
 ## Recently played

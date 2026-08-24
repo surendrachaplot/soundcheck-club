@@ -1,14 +1,13 @@
 # Aida Arko
 
-Aida Arko is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
+Aida Arko is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Spook Club, Valencia on Sat, 29 Aug 2026.
 
-Aida Arko is a techno and industrial artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Angel Karel, Mar/us and Metaraph. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
+Aida Arko is a techno and industrial artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Angel Karel, Mar/us and Metaraph. Next up: Spook Club, Valencia on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Spook Club | Valencia |
 
 ## Recently played

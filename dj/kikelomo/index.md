@@ -1,14 +1,13 @@
 # Kikelomo
 
-Kikelomo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Kikelomo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
-Kikelomo is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Virginia. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
+Kikelomo is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Basel and Belfast and 18 more. Often billed alongside Honey Dijon, Avalon Emerson and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
-# TBA - SECRET LOCATION
+# TBA - Secret Location
 
-TBA - SECRET LOCATION is a music venue in London with 45 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ECLIPSE FEST PRESENTS: BLACK ORBIT 2026" on Sun, 23 Aug 2026.
+TBA - Secret Location is a music venue in London with 44 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Twink Bash: Flooded" on Fri, 28 Aug 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 45 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 44 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | ECLIPSE FEST PRESENTS: BLACK ORBIT 2026 |  |
 | Fri, 28 Aug 2026 | Twink Bash: Flooded | 550am, Enya Botello, Nark |
 | Fri, 28 Aug 2026 | Green Machine 4 Year Anniversary with Amelia Holt (NY) | Amelia Holt, Fortune (US), Jaggy, Joel Chandler, Nolia, frail808, patrick conahan |
 | Fri, 28 Aug 2026 | Sound Out Recs - Label Launch Party |  |
@@ -18,5 +17,6 @@ TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 45 upcomi
 | Sat, 29 Aug 2026 | Flow State & Lake Effect with NVST and Succubass | Hot Take, NVST, Relativity Lounge, Succubass |
 | Sat, 29 Aug 2026 | EKOE - Forest Gathering | EARPRINT, Oscar Jones, Simoon Pedro, TEZZA, Vitor Boza |
 | Sat, 29 Aug 2026 | HOW HOT IS HOT w EVAA / KAMYAR KERAMATI / CHAOS DISCO CLUB | Evaa_, Kamyar Keramati, chaos.disco.club |
+| Sat, 29 Aug 2026 | Gathering |  |
 
 *Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

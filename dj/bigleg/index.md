@@ -1,14 +1,13 @@
 # Big Leg
 
-Big Leg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 23 Aug 2026.
+Big Leg is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Big Leg is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Copenhagen and London and 7 more. Often billed alongside Mark Gill, DJ CHICHI and Rafush. Next up: arkaoda Berlin, Berlin on Sun 23 Aug.
+Big Leg is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Copenhagen and London and 7 more. Often billed alongside Mark Gill, DJ CHICHI and Rafush. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | arkaoda Berlin | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played

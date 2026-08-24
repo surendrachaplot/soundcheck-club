@@ -1,14 +1,13 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 23 Aug 2026.
+Acid Pauli is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Acid Pauli is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Chinois Ibiza, Ibiza on Sun 23 Aug.
+Acid Pauli is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Chinois Ibiza | Ibiza |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 4 Sept 2026 | Holdenweid | Basel |
 | Fri, 4 Sept 2026 | Studio Zürich | Zurich |

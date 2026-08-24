@@ -1,14 +1,13 @@
 # Nandu
 
-Nandu is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Void Mykonos, Mykonos on Sun, 23 Aug 2026.
+Nandu is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Fri, 4 Sept 2026.
 
-Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Yet More, Ivory and Bedouin. Next up: Void Mykonos, Mykonos on Sun 23 Aug.
+Nandu is a deep house and house artist based in Denmark, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Brussels and 33 more. Often billed alongside Yet More, Ivory and Bedouin. Next up: Hangaren, Copenhagen on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Void Mykonos | Mykonos |
 | Fri, 4 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 18 Sept 2026 | TBA - MATRIARCH LA | Los Angeles |
 

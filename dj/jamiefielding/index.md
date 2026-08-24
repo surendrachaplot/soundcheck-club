@@ -1,14 +1,13 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Eden, Ibiza on Sun, 23 Aug 2026.
+Jamie Fielding is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Jamie Fielding is a house and tech house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Niteplan, Job de Jong and Josh Baker. Next up: Eden, Ibiza on Sun 23 Aug.
+Jamie Fielding is a house and tech house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 12 more. Often billed alongside Niteplan, Job de Jong and Josh Baker. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Eden | Ibiza |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Studio 338 | London |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |

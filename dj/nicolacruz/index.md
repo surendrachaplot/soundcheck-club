@@ -1,14 +1,13 @@
 # Nicola Cruz
 
-Nicola Cruz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Nicola Cruz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
-Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
+Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 
 ## Recently played

@@ -10,6 +10,12 @@
   <meta property="og:description" content="Find your music for tonight in Newcastle — club nights, DJ line-ups and venues across 104 cities on soundcheck. Follow the artists and venues you love, log your gigs and stream every DJ's sets." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
+       at build time, so verifying is one env var and a rebuild — the token is not a
+       secret (it is served on every page by design) but it does not belong in git.
+       A DNS TXT record on Cloudflare is the better property type (it covers www,
+       http and every subdomain); this tag is the fallback when DNS is not to hand. -->
+  <meta name="google-site-verification" content="" />
   <!-- Self-hosted Latin variable fonts (no third-party origin). One file per family
        serves every weight via the wght axis — preload both so first-paint text in
        any weight is ready immediately. @font-face is inline in the <style> block. -->
@@ -39,7 +45,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787526152777">
+<meta name="sc-build" content="1787577495287">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=Newcastle&s=Find%20your%20music%20for%20tonight" />
   <link rel="canonical" href="https://soundcheck.club/newcastle/" />
 </head>
@@ -97,7 +103,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="newcastle"><h2>What&rsquo;s on in Newcastle this week</h2><ul class="home-seo-dates"><li><a href="/newcastle/2026-08-28/">Fri 28 Aug <span class="c">7 events</span></a></li><li><a href="/newcastle/2026-08-29/">Sat 29 Aug <span class="c">5 events</span></a></li><li><a href="/newcastle/2026-08-30/">Sun 30 Aug <span class="c">8 events</span></a></li><li><a href="/newcastle/2026-09-05/">Sat 5 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/newcastle/this-weekend/">This weekend in Newcastle</a> <a href="/newcastle/scene/">Newcastle scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="newcastle"><h2>What&rsquo;s on in Newcastle this week</h2><ul class="home-seo-dates"><li><a href="/newcastle/2026-08-28/">Fri 28 Aug <span class="c">7 events</span></a></li><li><a href="/newcastle/2026-08-29/">Sat 29 Aug <span class="c">5 events</span></a></li><li><a href="/newcastle/2026-08-30/">Sun 30 Aug <span class="c">8 events</span></a></li><li><a href="/newcastle/2026-09-05/">Sat 5 Sept <span class="c">7 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/newcastle/this-weekend/">This weekend in Newcastle</a> <a href="/newcastle/scene/">Newcastle scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.

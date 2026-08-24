@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "MFOG w/ sdfkt. (aka. superdefekt) & friend" on Sun, 23 Aug 2026.
+Golden Pudel Club is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Afrotonic" on Wed, 26 Aug 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including Barbaros, dj blip, DJ KILLING and Eddie Ness and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including Barbaros, dj blip, DJ KILLING and Eddie Ness and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | MFOG w/ sdfkt. (aka. superdefekt) & friend |  |
 | Wed, 26 Aug 2026 | Afrotonic |  |
 | Thu, 27 Aug 2026 | P.O.V. (Point of View) Vol. I – Hosted by INTERTRONIKA w/ Joy, Lenker, Lesbi Honest, Mama Love | MAMA LOVE |
 | Fri, 28 Aug 2026 | EGYM w/ Paranoid London, Dj Killing, Festnacht and Newinfluenzer | DJ KILLING, Festnacht, Newinfluenzer, Paranoid London |

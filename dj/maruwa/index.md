@@ -1,14 +1,13 @@
 # Maruwa
 
-Maruwa is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Maruwa is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mondo, Madrid on Sat, 10 Oct 2026.
 
-Maruwa is a house and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
+Maruwa is a house and trance artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Mondo, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Mondo | Madrid |
 
 ## Recently played

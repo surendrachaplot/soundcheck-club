@@ -1,14 +1,13 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 23 Aug 2026.
+Kobosil is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
-Kobosil is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Hï Ibiza, Ibiza on Sun 23 Aug.
+Kobosil is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 29 Aug 2026 | Maassilo | Rotterdam |
 | Sat, 5 Sept 2026 | Industry City | New York City |

@@ -1,14 +1,13 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Byron Yeates is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-Byron Yeates is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
+Byron Yeates is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | RSO.BERLIN | Berlin |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 29 Aug 2026 | Gut Level | Sheffield |
 | Sun, 30 Aug 2026 | Southwark Park | London |

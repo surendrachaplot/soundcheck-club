@@ -1,14 +1,13 @@
 # The Mole
 
-The Mole is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Sun, 23 Aug 2026.
+The Mole is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ZENNER, Berlin on Fri, 2 Oct 2026.
 
-The Mole is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Mexicocity, Montreal and Vancouver. Often billed alongside Mike Shannon, Sammy Dee and Zip. Next up: Club der Visionaere, Berlin on Sun 23 Aug.
+The Mole is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Mexicocity, Montreal and Vancouver. Often billed alongside Mike Shannon, Sammy Dee and Zip. Next up: ZENNER, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Club der Visionaere | Berlin |
 | Fri, 2 Oct 2026 | ZENNER | Berlin |
 
 ## Recently played

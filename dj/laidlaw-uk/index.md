@@ -1,14 +1,13 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
+Laidlaw is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sun, 30 Aug 2026 | The Nest | Nottingham |
 | Thu, 3 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets lo
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | The Dome | Liverpool |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

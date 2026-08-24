@@ -1,14 +1,13 @@
 # Viken Arman
 
-Viken Arman is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 23 Aug 2026.
+Viken Arman is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Cova Santa, Ibiza on Fri, 4 Sept 2026.
 
-Viken Arman is a house and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: Chinois Ibiza, Ibiza on Sun 23 Aug.
+Viken Arman is a house and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside Cesar Merveille, Acid Pauli and Mira. Next up: Cova Santa, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Chinois Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 12 Sept 2026 | LA-YAM Rooftop | London |
 

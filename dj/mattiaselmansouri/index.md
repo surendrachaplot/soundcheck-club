@@ -1,14 +1,13 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Mattias El Mansouri is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Palais, London on Sat, 3 Oct 2026.
 
-Mattias El Mansouri is a house and techno artist based in Sweden, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Sergej Orlov, Hunee and Oberman. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
+Mattias El Mansouri is a house and techno artist based in Sweden, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Sergej Orlov, Hunee and Oberman. Next up: Palais, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | Palais | London |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |

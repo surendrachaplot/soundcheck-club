@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 66 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "[BOILER] TAPE pres. SHANIXX, FC KABAGAR + MORE" on Sun, 23 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 65 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "PHASE:ONE" on Tue, 25 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 66 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 65 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | [BOILER] TAPE pres. SHANIXX, FC KABAGAR + MORE | FC Kabagar, KLÖSS, Shanixx |
 | Tue, 25 Aug 2026 | PHASE:ONE | RichBeat |
 | Wed, 26 Aug 2026 | SIGNALS - 5€ Tickets - with GI.O, LAURIX, YOUNG LOLO & AH-NICE | AH-N!CE, GI.O, LAURIX (DE) |
 | Thu, 27 Aug 2026 | Chantal's House of Shame |  |
@@ -18,6 +17,7 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 66 upcoming 
 | Sun, 30 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | Hanne B, SØMOS |
 | Tue, 1 Sept 2026 | PHASE:ONE |  |
 | Wed, 2 Sept 2026 | SIGNALS - 5€ Tickets - with Trancestrudel ALL NIGHT LONG | Trancestrudel |
+| Fri, 4 Sept 2026 | LOKSCHUPPEN KLUBNACHT pres. PARACEK INVITES w CARGO, MRGNSTRN + MORE | ABAD MANNERS, Anna Ullrich, CARGO, CARGO (DE), Carotin, Cobb Douglas, DJ SKIPLIST, ELOISA, KLITTY, MRGNSTRN, Ozzwald, Paraçek, Sonora, UNORDNUNGSAMT, ZÖ (1) |
 
 ## Address
 

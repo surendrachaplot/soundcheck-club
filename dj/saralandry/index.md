@@ -1,14 +1,13 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 23 Aug 2026.
+Sara Landry is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Sara Landry is a techno and house artist tracked on soundcheck, with 193 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Amnesia Ibiza, Ibiza on Sun 23 Aug.
+Sara Landry is a techno and house artist tracked on soundcheck, with 193 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Factory Town | Miami |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
