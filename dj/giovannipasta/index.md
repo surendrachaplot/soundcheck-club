@@ -1,6 +1,6 @@
 # GiovanniPasta
 
-GiovanniPasta is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at High Origins Speciality Coffee, Dublin on Sat, 29 Aug 2026.
+GiovanniPasta is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at High Origins Speciality Coffee, Dublin on Sat, 29 Aug 2026.
 
 GiovanniPasta is a house and disco artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside Evil Anto and sona.dj. Next up: High Origins Speciality Coffee, Dublin on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ GiovanniPasta is a house and disco artist based in Ireland, tracked on soundchec
 
 Evil Anto, sona.dj
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannipasta/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannipasta/)*

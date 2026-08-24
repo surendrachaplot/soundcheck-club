@@ -1,6 +1,6 @@
 # LOZA|ANSO
 
-LOZA|ANSO is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dr. Dou Social Club, Barcelona on Wed, 26 Aug 2026.
+LOZA|ANSO is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dr. Dou Social Club, Barcelona on Wed, 26 Aug 2026.
 
 LOZA|ANSO is a techno and tech house artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona. Often billed alongside Cambric, Lino Fuso and ADRIANNA. Next up: Dr. Dou Social Club, Barcelona on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ LOZA|ANSO is a techno and tech house artist based in Spain, tracked on soundchec
 
 Cambric, Lino Fuso, ADRIANNA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozaanso/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lozaanso/)*

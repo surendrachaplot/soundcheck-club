@@ -1,6 +1,6 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Vintage Culture is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Vintage Culture is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Vintage Culture is a house and tech house artist tracked on soundcheck, with 188
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

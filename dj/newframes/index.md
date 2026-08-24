@@ -1,6 +1,6 @@
 # New Frames
 
-New Frames is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
+New Frames is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
 
 New Frames is a techno and electronica artist tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Budapest and Cologne and 8 more. Often billed alongside Phase Fatale, Unhuman and Lucinee. Next up: The Space KU Damm, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ New Frames is a techno and electronica artist tracked on soundcheck, with 29 set
 
 Phase Fatale, Unhuman, Lucinee
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*

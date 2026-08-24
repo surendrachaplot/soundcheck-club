@@ -1,6 +1,6 @@
 # Dual DeStress
 
-Dual DeStress is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at A38, Budapest on Fri, 4 Sept 2026.
+Dual DeStress is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at A38, Budapest on Fri, 4 Sept 2026.
 
 Dual DeStress is a techno and progressive house artist based in Hungary, tracked on soundcheck, with 20 sets logged across Budapest and Vienna. Often billed alongside Dreadsun, Alena Noctis and Belocca. Next up: A38, Budapest on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Dual DeStress is a techno and progressive house artist based in Hungary, tracked
 
 Dreadsun, Alena Noctis, Belocca
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdestress/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdestress/)*

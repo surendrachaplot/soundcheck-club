@@ -1,6 +1,6 @@
 # the2$
 
-the2$ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Azumaya, Tokyo on Thu, 27 Aug 2026.
+the2$ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Azumaya, Tokyo on Thu, 27 Aug 2026.
 
 the2$ is a techno and industrial artist based in Japan, tracked on soundcheck, with 77 sets logged across Seoul, Shenzhen and Tokyo. Often billed alongside Golpe Mortal, KOSEI and TEI TEI. Next up: Azumaya, Tokyo on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ the2$ is a techno and industrial artist based in Japan, tracked on soundcheck, w
 
 Golpe Mortal, KOSEI, TEI TEI
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/the2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/the2/)*

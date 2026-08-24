@@ -1,6 +1,6 @@
 # eric.a
 
-eric.a is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
+eric.a is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
 
 eric.a is an electronic artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside JD Typo, Lyo. and xupid. Next up: TBA - Lovétosse, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ eric.a is an electronic artist tracked on soundcheck, with 16 sets logged across
 
 JD Typo, Lyo., xupid
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eric.a/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eric.a/)*

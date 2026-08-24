@@ -1,6 +1,6 @@
 # Lucifer
 
-Lucifer is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Lucifer is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Lucifer is a house and trance artist based in France, tracked on soundcheck, with 57 sets logged across Cologne, Liverpool, Marseille and Newyorkcity and 3 more. Often billed alongside Fenouil2000, Loki Starfish and Kandelissa. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lucifer is a house and trance artist based in France, tracked on soundcheck, wit
 
 Fenouil2000, Loki Starfish, Kandelissa
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*

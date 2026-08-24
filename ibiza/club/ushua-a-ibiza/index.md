@@ -1,6 +1,6 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "F*** ME I'M FAMOUS! by David Guetta" on Mon, 24 Aug 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "F*** ME I'M FAMOUS! by David Guetta" on Mon, 24 Aug 2026.
 
 Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with line-ups including Afrojack, Alesso, Andrea Oliva and Antares and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 37 upcoming night
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

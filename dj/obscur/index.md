@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at La Gare / Le Gore, Paris on Fri, 28 Aug 2026.
+Obscur is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Gare / Le Gore, Paris on Fri, 28 Aug 2026.
 
 Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Belgrade and Berlin and 3 more. Often billed alongside 04061, 314A and A.mo. Next up: La Gare / Le Gore, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, 
 
 04061, 314A, A.mo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

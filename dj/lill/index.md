@@ -1,6 +1,6 @@
 # Lill
 
-Lill is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tšungel, Tallinn on Sat, 29 Aug 2026.
+Lill is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tšungel, Tallinn on Sat, 29 Aug 2026.
 
 Lill is a house and minimal artist based in Estonia, tracked on soundcheck, with 10 sets logged across Manchester and Tallinn. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: Tšungel, Tallinn on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Lill is a house and minimal artist based in Estonia, tracked on soundcheck, with
 
 ALCATRAZ, ARMANA KHAN, Aiden Francis
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*

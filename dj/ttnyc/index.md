@@ -1,6 +1,6 @@
 # TT (NYC)
 
-TT (NYC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OHM, Berlin on Sat, 29 Aug 2026.
+TT (NYC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at OHM, Berlin on Sat, 29 Aug 2026.
 
 TT (NYC) is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Ghent and Hamburg and 2 more. Often billed alongside Shaun J. Wright, FASHION (US) and MORENXXX. Next up: OHM, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ TT (NYC) is a techno and house artist based in United States of America, tracked
 
 Shaun J. Wright, FASHION (US), MORENXXX
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttnyc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ttnyc/)*

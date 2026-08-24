@@ -1,6 +1,6 @@
 # Makèz
 
-Makèz is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Flash, Washington DC on Fri, 28 Aug 2026.
+Makèz is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Flash, Washington DC on Fri, 28 Aug 2026.
 
 Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Chicago and 16 more. Often billed alongside ANOTR, Dan Shake and MiNNA. Next up: Flash, Washingtondc on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ Makèz is a house and disco artist based in Netherlands, tracked on soundcheck, 
 
 ANOTR, Dan Shake, MiNNA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makez/)*

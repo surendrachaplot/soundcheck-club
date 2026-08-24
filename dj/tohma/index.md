@@ -1,6 +1,6 @@
 # Tohma
 
-Tohma is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
+Tohma is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
 Tohma is a house and disco artist based in Belgium, tracked on soundcheck, with 7 sets logged across Antwerp. Often billed alongside Arter, Jef Nice and Kirollus. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Tohma is a house and disco artist based in Belgium, tracked on soundcheck, with 
 
 Arter, Jef Nice, Kirollus
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tohma/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tohma/)*

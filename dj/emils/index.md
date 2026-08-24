@@ -1,6 +1,6 @@
 # EMILS
 
-EMILS is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at A38, Budapest on Thu, 3 Sept 2026.
+EMILS is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at A38, Budapest on Thu, 3 Sept 2026.
 
 EMILS is a minimal and techno artist tracked on soundcheck, with 9 sets logged across Budapest, Malta and Riga. Often billed alongside BACO, Bonair and Electric Boutique. Next up: A38, Budapest on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ EMILS is a minimal and techno artist tracked on soundcheck, with 9 sets logged a
 
 BACO, Bonair, Electric Boutique
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emils/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emils/)*

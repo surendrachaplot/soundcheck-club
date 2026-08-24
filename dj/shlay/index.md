@@ -1,6 +1,6 @@
 # shlay
 
-shlay is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+shlay is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 shlay is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Shiloh (UK), SUNI SIDE UP and Mas Fuego. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ shlay is a minimal and tech house artist based in United Kingdom, tracked on sou
 
 Shiloh (UK), SUNI SIDE UP, Mas Fuego
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shlay/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shlay/)*

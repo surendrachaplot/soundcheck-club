@@ -1,6 +1,6 @@
 # Bird : downtown
 
-Bird : downtown is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "DJ Flux & Nyboe at bird: downtown" on Fri, 18 Sept 2026.
+Bird : downtown is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "DJ Flux & Nyboe at bird: downtown" on Fri, 18 Sept 2026.
 
 Bird : downtown is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Nyboe. Browse upcoming dates, start times and who's playing. Palægade 8.
 
@@ -14,4 +14,4 @@ Bird : downtown is a music venue in Copenhagen listed on soundcheck. 1 upcoming 
 
 Palægade 8, Copenhagen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/bird-downtown/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/bird-downtown/)*

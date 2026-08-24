@@ -1,6 +1,6 @@
 # Valeron
 
-Valeron is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Scorpios, Mykonos on Wed, 9 Sept 2026.
+Valeron is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Scorpios, Mykonos on Wed, 9 Sept 2026.
 
 Valeron is a tech house and house artist based in Greece, tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Istanbul and London and 3 more. Often billed alongside Chris child, Tourist Ath and &ME. Next up: Scorpios, Mykonos on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Valeron is a tech house and house artist based in Greece, tracked on soundcheck,
 
 Chris child, Tourist Ath, &ME
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeron/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeron/)*

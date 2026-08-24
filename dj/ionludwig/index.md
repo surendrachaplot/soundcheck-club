@@ -1,6 +1,6 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Ion Ludwig is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Ion Ludwig is a minimal and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside Rhadoo, Aline (CH) and Edward. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ion Ludwig is a minimal and house artist tracked on soundcheck, with 83 sets log
 
 Rhadoo, Aline (CH), Edward
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

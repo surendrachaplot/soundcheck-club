@@ -1,6 +1,6 @@
 # HORS-SOL [day warehouse] at TBA - Saint-Denis
 
-HORS-SOL [day warehouse] at TBA - Saint-Denis on Sat 3 Oct, Paris. 4 acts on the bill: Forest, Lena Willikens, Michelle and Zurkin. Preview the line-up and save it on soundcheck.
+HORS-SOL [day warehouse] at TBA - Saint-Denis on Sat 3 Oct, Paris. 5 acts on the bill: Forest, Hewan Aman, Lena Willikens and Michelle and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HORS-SOL [day warehouse] at TBA - Saint-Denis on Sat 3 Oct, Paris. 4 acts on the
 ## Line-up
 
 - Forest
+- Hewan Aman
 - Lena Willikens
 - Michelle
 - Zurkin

@@ -1,6 +1,6 @@
 # Toni Alvarez
 
-Toni Alvarez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at [UNVRS], Ibiza on Sat, 29 Aug 2026.
+Toni Alvarez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at [UNVRS], Ibiza on Sat, 29 Aug 2026.
 
 Toni Alvarez is a techno and tech house artist based in Spain, tracked on soundcheck, with 10 sets logged across Ibiza, Lisbon and Paris. Often billed alongside Trik (2), Carol d'Souza and DIMENSION 9. Next up: [UNVRS], Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Toni Alvarez is a techno and tech house artist based in Spain, tracked on soundc
 
 Trik (2), Carol d'Souza, DIMENSION 9
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonialvarez/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonialvarez/)*

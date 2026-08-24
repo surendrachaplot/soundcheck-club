@@ -1,13 +1,14 @@
 # SPORTMANN
 
-SPORTMANN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fundbureau, Hamburg on Fri, 11 Sept 2026.
+SPORTMANN is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
-SPORTMANN is a techno and industrial artist tracked on soundcheck, with 50 sets logged across Bangkok, Berlin, Hamburg and Lisbon. Often billed alongside AKIIM, co:co and Carluschka. Next up: Fundbureau, Hamburg on Fri 11 Sept.
+SPORTMANN is a techno and industrial artist tracked on soundcheck, with 51 sets logged across Bangkok, Berlin, Hamburg and Lisbon. Often billed alongside AKIIM, co:co and Carluschka. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Helgoländer Allee | Hamburg |
 | Fri, 11 Sept 2026 | Fundbureau | Hamburg |
 
 ## Recently played
@@ -25,4 +26,4 @@ SPORTMANN is a techno and industrial artist tracked on soundcheck, with 50 sets 
 
 AKIIM, co:co, Carluschka
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmann/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sportmann/)*

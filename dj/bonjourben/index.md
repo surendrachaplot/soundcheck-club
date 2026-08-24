@@ -1,6 +1,6 @@
 # Bonjour Ben
 
-Bonjour Ben is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Bonjour Ben is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Bonjour Ben is a house and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Dusseldorf, Hamburg and Leipzig and 2 more. Often billed alongside Daniel Czerner, Edgar Peng and Alma Linda. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Bonjour Ben is a house and techno artist based in Germany, tracked on soundcheck
 
 Daniel Czerner, Edgar Peng, Alma Linda
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjourben/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonjourben/)*

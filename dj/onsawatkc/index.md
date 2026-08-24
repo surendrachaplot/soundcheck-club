@@ -1,6 +1,6 @@
 # Onsawa&tkc
 
-Onsawa&tkc is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at HVEN, Tokyo on Fri, 28 Aug 2026.
+Onsawa&tkc is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at HVEN, Tokyo on Fri, 28 Aug 2026.
 
 Onsawa&tkc is a house and tech house artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside Kotono Shirai, Anri and Ayantula. Next up: HVEN, Tokyo on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Onsawa&tkc is a house and tech house artist based in Japan, tracked on soundchec
 
 Kotono Shirai, Anri, Ayantula
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsawatkc/)*

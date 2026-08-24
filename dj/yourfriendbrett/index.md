@@ -1,6 +1,6 @@
 # Your Friend Brett
 
-Your Friend Brett is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Phoenix Landing, Boston on Wed, 26 Aug 2026.
+Your Friend Brett is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Phoenix Landing, Boston on Wed, 26 Aug 2026.
 
 Your Friend Brett is a house and disco artist tracked on soundcheck, with 10 sets logged across Boston and Detroit. Often billed alongside Adam Gibbons, AleBCostantino and Alex Slater. Next up: Phoenix Landing, Boston on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Your Friend Brett is a house and disco artist tracked on soundcheck, with 10 set
 
 Adam Gibbons, AleBCostantino, Alex Slater
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourfriendbrett/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourfriendbrett/)*

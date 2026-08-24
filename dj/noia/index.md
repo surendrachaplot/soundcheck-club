@@ -1,6 +1,6 @@
 # N.O.I.A.
 
-N.O.I.A. is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
+N.O.I.A. is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
 
 N.O.I.A. is an electronic artist based in Italy, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Lennart (NL), Franz Scala and DASH (SLO). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Sept.
 
@@ -14,4 +14,4 @@ N.O.I.A. is an electronic artist based in Italy, tracked on soundcheck, with 1 s
 
 Lennart (NL), Franz Scala, DASH (SLO)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noia/)*

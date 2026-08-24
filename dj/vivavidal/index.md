@@ -1,6 +1,6 @@
 # Viva Vidal
 
-Viva Vidal is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Viva Vidal is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Viva Vidal is an electronica and house artist tracked on soundcheck, with 20 sets logged across Miami. Often billed alongside Roll-e, Marie Qrie and Milo Ziro. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Viva Vidal is an electronica and house artist tracked on soundcheck, with 20 set
 
 Roll-e, Marie Qrie, Milo Ziro
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivavidal/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivavidal/)*

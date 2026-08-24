@@ -1,6 +1,6 @@
 # BLXSS
 
-BLXSS is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sugarkane Alley, Boston on Sat, 29 Aug 2026.
+BLXSS is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sugarkane Alley, Boston on Sat, 29 Aug 2026.
 
 BLXSS is a disco and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside brazen. Next up: Sugarkane Alley, Boston on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ BLXSS is a disco and club artist based in United States of America, tracked on s
 
 brazen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*

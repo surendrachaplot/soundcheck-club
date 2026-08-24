@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rival Consoles" on Thu, 27 Aug 2026.
+Elsewhere is a music venue in New York City with 42 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Rival Consoles" on Thu, 27 Aug 2026.
 
 Elsewhere is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 42 upcoming nigh
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

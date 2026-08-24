@@ -1,6 +1,6 @@
 # Pax Arabiana
 
-Pax Arabiana is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at BORIS CLUB, Barcelona on Thu, 24 Sept 2026.
+Pax Arabiana is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at BORIS CLUB, Barcelona on Thu, 24 Sept 2026.
 
 Pax Arabiana is a house and tech house artist tracked on soundcheck, with 19 sets logged across Barcelona and London. Often billed alongside Dips, Dish Dash and Emmanuel Jal. Next up: BORIS CLUB, Barcelona on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Pax Arabiana is a house and tech house artist tracked on soundcheck, with 19 set
 
 Dips, Dish Dash, Emmanuel Jal
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paxarabiana/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paxarabiana/)*

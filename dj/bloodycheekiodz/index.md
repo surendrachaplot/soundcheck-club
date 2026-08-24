@@ -1,6 +1,6 @@
 # Bloody Cheeki $odz
 
-Bloody Cheeki $odz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at BAR Inc, Osaka on Tue, 22 Sept 2026.
+Bloody Cheeki $odz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at BAR Inc, Osaka on Tue, 22 Sept 2026.
 
 Bloody Cheeki $odz is a garage and bass artist tracked on soundcheck, with 11 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside DJ Hype, MC GQ and Makoto. Next up: BAR Inc, Osaka on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Bloody Cheeki $odz is a garage and bass artist tracked on soundcheck, with 11 se
 
 DJ Hype, MC GQ, Makoto
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodycheekiodz/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodycheekiodz/)*

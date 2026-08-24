@@ -1,6 +1,6 @@
 # MTooray
 
-MTooray is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Annua, Mexico City on Sat, 29 Aug 2026.
+MTooray is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Annua, Mexico City on Sat, 29 Aug 2026.
 
 MTooray is a baile funk and amapiano artist tracked on soundcheck, with 35 sets logged across Detroit, London, Losangeles and Mexicocity and 3 more. Often billed alongside Bianca Maieli, DJ SUDI and Aku. Next up: Annua, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MTooray is a baile funk and amapiano artist tracked on soundcheck, with 35 sets 
 
 Bianca Maieli, DJ SUDI, Aku
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mtooray/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mtooray/)*

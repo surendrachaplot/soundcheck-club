@@ -1,6 +1,6 @@
 # capitano (she/her)
 
-capitano (she/her) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+capitano (she/her) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 capitano (she/her) is a techno and experimental artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside ailin, ARCYDARO and Dana Ruh. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ capitano (she/her) is a techno and experimental artist based in Germany, tracked
 
 ailin, ARCYDARO, Dana Ruh
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanosheher/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanosheher/)*

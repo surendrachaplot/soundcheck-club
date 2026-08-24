@@ -1,6 +1,6 @@
 # Wiebe Roose
 
-Wiebe Roose is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 29 Aug 2026.
+Wiebe Roose is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 29 Aug 2026.
 
 Wiebe Roose is a techno and tech house artist based in Belgium, tracked on soundcheck, with 139 sets logged across Bangkok, Barcelona, Berlin and Cologne and 4 more. Often billed alongside DAV3, Monty and Epicx. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Wiebe Roose is a techno and tech house artist based in Belgium, tracked on sound
 
 DAV3, Monty, Epicx
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wieberoose/)*

@@ -1,6 +1,6 @@
 # Izata
 
-Izata is a Pop and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Room 22, Sydney on Fri, 28 Aug 2026.
+Izata is a Pop and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Room 22, Sydney on Fri, 28 Aug 2026.
 
 Izata is a pop and bass artist based in Australia, tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside 0800KIN, Attu and BASS SLVT. Next up: Room 22, Sydney on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Izata is a pop and bass artist based in Australia, tracked on soundcheck, with 3
 
 0800KIN, Attu, BASS SLVT
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izata/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izata/)*

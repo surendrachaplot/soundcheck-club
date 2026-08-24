@@ -1,6 +1,6 @@
 # Rebel Of Sleep
 
-Rebel Of Sleep is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 10 Sept 2026.
+Rebel Of Sleep is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 10 Sept 2026.
 
 Rebel Of Sleep is a progressive house and techno artist based in France, tracked on soundcheck, with 11 sets logged across London, Montreal and Toronto. Often billed alongside AYEENB, 6RAJ and ALLKNIGHT. Next up: Jardins Gamelin, Montreal on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Rebel Of Sleep is a progressive house and techno artist based in France, tracked
 
 AYEENB, 6RAJ, ALLKNIGHT
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelofsleep/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelofsleep/)*

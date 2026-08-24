@@ -1,6 +1,6 @@
 # RSKS
 
-RSKS is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
+RSKS is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
 
 RSKS is a techno artist based in Finland, tracked on soundcheck, with 1 set logged across Tallinn. Often billed alongside Discolisko, MEDINA and NØSARA. Next up: Hall, Tallinn on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ RSKS is a techno artist based in Finland, tracked on soundcheck, with 1 set logg
 
 Discolisko, MEDINA, NØSARA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsks/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rsks/)*

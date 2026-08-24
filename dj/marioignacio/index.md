@@ -1,6 +1,6 @@
 # Mario Ignacio
 
-Mario Ignacio is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Crack Bellmer, Berlin on Fri, 11 Sept 2026.
+Mario Ignacio is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Crack Bellmer, Berlin on Fri, 11 Sept 2026.
 
 Mario Ignacio is a techno and minimal techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside BILLY, Brian Topham and Dan Berg. Next up: Crack Bellmer, Berlin on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Mario Ignacio is a techno and minimal techno artist tracked on soundcheck, with 
 
 BILLY, Brian Topham, Dan Berg
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marioignacio/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marioignacio/)*

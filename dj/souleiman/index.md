@@ -1,6 +1,6 @@
 # Souleiman
 
-Souleiman is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Brussels, Brussels on Sun, 30 Aug 2026.
+Souleiman is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Sun, 30 Aug 2026.
 
 Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Ghent and Milan. Often billed alongside Sonhan, Fais Le Beau and Marie-Julie. Next up: TBA - Brussels, Brussels on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 30 se
 
 Sonhan, Fais Le Beau, Marie-Julie
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*

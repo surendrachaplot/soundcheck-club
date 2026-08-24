@@ -1,6 +1,6 @@
 # Hunee
 
-Hunee is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
+Hunee is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 22 Aug 2026.
 
 Hunee is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 22 Aug.
 
@@ -32,4 +32,4 @@ Hunee is a house and disco artist tracked on soundcheck, with 144 sets logged ac
 
 Antal, Call Super, Job Jobse
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

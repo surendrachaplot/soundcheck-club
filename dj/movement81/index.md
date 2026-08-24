@@ -1,6 +1,6 @@
 # Movement81
 
-Movement81 is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mary St Live, Sheffield on Sat, 3 Oct 2026.
+Movement81 is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mary St Live, Sheffield on Sat, 3 Oct 2026.
 
 Movement81 is an electronica and experimental artist tracked on soundcheck, with 10 sets logged across Bristol, Cardiff, London and Sheffield. Often billed alongside AM sin, Beau Beaumont and Delay Grounds. Next up: Mary St Live, Sheffield on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Movement81 is an electronica and experimental artist tracked on soundcheck, with
 
 AM sin, Beau Beaumont, Delay Grounds
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/movement81/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/movement81/)*

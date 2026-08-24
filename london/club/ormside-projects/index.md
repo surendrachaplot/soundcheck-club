@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ibrahim Alfa Jnr. & feeo (with introduction from Phoebe Beckett Chingono)" on Thu, 27 Aug 2026.
+Ormside Projects is a music venue in London with 15 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ibrahim Alfa Jnr. & feeo (with introduction from Phoebe Beckett Chingono)" on Thu, 27 Aug 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 404 eros, anu, AYEGY and Azu Tiwaline and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming ni
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

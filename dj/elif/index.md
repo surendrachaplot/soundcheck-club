@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+ELIF is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -28,4 +28,4 @@ ELIF is a house and techno artist tracked on soundcheck, with 138 sets logged ac
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

@@ -1,6 +1,6 @@
 # Parris
 
-Parris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Parris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Parris is a techno and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside DJ Voices, Call Super and Danielle. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Parris is a techno and house artist based in United Kingdom, tracked on soundche
 
 DJ Voices, Call Super, Danielle
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parris/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parris/)*

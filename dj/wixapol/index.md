@@ -1,6 +1,6 @@
 # Wixapol
 
-Wixapol is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 5 Sept 2026.
+Wixapol is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 5 Sept 2026.
 
 Wixapol is a techno and hardcore artist based in Poland, tracked on soundcheck, with 16 sets logged across Geneva, Krakow, London and Newyorkcity and 2 more. Often billed alongside TORRENTZ, Mikouaj Rejw / Wixapol S.A. and PLATTER. Next up: STK 47 WAREHOUSE, Krakow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wixapol is a techno and hardcore artist based in Poland, tracked on soundcheck, 
 
 TORRENTZ, Mikouaj Rejw / Wixapol S.A., PLATTER
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*

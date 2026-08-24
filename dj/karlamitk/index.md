@@ -1,6 +1,6 @@
 # Karla Mit K
 
-Karla Mit K is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Klunkerkranich, Berlin on Fri, 28 Aug 2026.
+Karla Mit K is a electronic artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Klunkerkranich, Berlin on Fri, 28 Aug 2026.
 
 Karla Mit K is an electronic artist tracked on soundcheck, with 6 sets logged across Berlin, Munich and Zurich. Often billed alongside ANNAWAFFEL, André Dancekowski and Benjamin Fröhlich. Next up: Klunkerkranich, Berlin on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Karla Mit K is an electronic artist tracked on soundcheck, with 6 sets logged ac
 
 ANNAWAFFEL, André Dancekowski, Benjamin Fröhlich
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karlamitk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karlamitk/)*

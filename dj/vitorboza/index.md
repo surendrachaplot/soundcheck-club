@@ -1,6 +1,6 @@
 # Vitor Boza
 
-Vitor Boza is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
+Vitor Boza is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location, London on Sat, 29 Aug 2026.
 
 Vitor Boza is a techno and psytrance artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Amphia, EARPRINT and FITS ME FUNNY. Next up: TBA - Secret Location, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Vitor Boza is a techno and psytrance artist tracked on soundcheck, with 3 sets l
 
 Amphia, EARPRINT, FITS ME FUNNY
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorboza/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorboza/)*

@@ -1,6 +1,6 @@
 # Janaway
 
-Janaway is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Janaway is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
 Janaway is a jungle and hardcore artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside The Bass Injector, Guido YZ and Mousai. Next up: Lakota, Bristol on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Janaway is a jungle and hardcore artist tracked on soundcheck, with 79 sets logg
 
 The Bass Injector, Guido YZ, Mousai
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janaway/)*

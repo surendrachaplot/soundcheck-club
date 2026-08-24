@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 42 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "MOCKY and friends - LA meets BERLIN JAM with MAYLEE TODD *live" on Wed, 26 Aug 2026.
+Gretchen is a music venue in Berlin with 42 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "MOCKY and friends - LA meets BERLIN JAM with MAYLEE TODD *live" on Wed, 26 Aug 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 42 upcoming nights, with line-ups including Acid Arab, Alley Cat, Bel Cobain and Congo Natty and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 42 upcoming nights, wi
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

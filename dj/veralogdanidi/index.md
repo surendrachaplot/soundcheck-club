@@ -1,6 +1,6 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
+Vera Logdanidi is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
 
 Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Na Nich, Altinbas and Efdemin. Next up: Jasna 1, Warsaw on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Vera Logdanidi is a techno and ambient artist tracked on soundcheck, with 60 set
 
 Na Nich, Altinbas, Efdemin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*

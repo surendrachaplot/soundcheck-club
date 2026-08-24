@@ -1,6 +1,6 @@
 # La Cigale
 
-La Cigale is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Minelek Sessions w/May Mc Laren, Berger Muzik & Dim Deck" on Tue, 25 Aug 2026.
+La Cigale is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Minelek Sessions w/May Mc Laren, Berger Muzik & Dim Deck" on Tue, 25 Aug 2026.
 
 La Cigale is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Berger Muzik and May Mc Laren. Browse upcoming dates, start times and who's playing. 25 de Mayo 597, C1002ABK CABA, Argentina.
 
@@ -14,4 +14,4 @@ La Cigale is a music venue in Buenosaires listed on soundcheck. 1 upcoming night
 
 25 de Mayo 597, C1002ABK CABA, Argentina, Buenos Aires
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-cigale/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-cigale/)*

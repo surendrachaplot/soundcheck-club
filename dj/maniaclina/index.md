@@ -1,6 +1,6 @@
 # maniaclina
 
-maniaclina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Z-Bau, Nürnberg on Sat, 3 Oct 2026.
+maniaclina is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Z-Bau, Nürnberg on Sat, 3 Oct 2026.
 
 maniaclina is a techno and trance artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Cologne and Geneva and 10 more. Often billed alongside Charlotte Lion, DJ Jordan and Sika Akis. Next up: Z-Bau, Nurnberg on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ maniaclina is a techno and trance artist tracked on soundcheck, with 113 sets lo
 
 Charlotte Lion, DJ Jordan, Sika Akis
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maniaclina/)*

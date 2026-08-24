@@ -1,6 +1,6 @@
 # LANSUH
 
-LANSUH is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
+LANSUH is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
 
 LANSUH is a house and disco artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit, Mexicocity and Newyorkcity. Often billed alongside Jay Dalawa, Alcantara and Gabriel Etrata. Next up: Dead Letter No. 9, Newyorkcity on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ LANSUH is a house and disco artist based in United States of America, tracked on
 
 Jay Dalawa, Alcantara, Gabriel Etrata
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lansuh/)*

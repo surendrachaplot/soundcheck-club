@@ -1,6 +1,6 @@
 # DJ Phantasy
 
-DJ Phantasy is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+DJ Phantasy is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 DJ Phantasy is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Amsterdam, Brighton, London and Malaga and 2 more. Often billed alongside Kenny Ken, Nicky Blackmarket and DJ Hype. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Phantasy is a drum & bass and jungle artist tracked on soundcheck, with 17 se
 
 Kenny Ken, Nicky Blackmarket, DJ Hype
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djphantasy/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djphantasy/)*

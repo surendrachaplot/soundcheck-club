@@ -1,6 +1,6 @@
 # Emi Galvan
 
-Emi Galvan is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Grand Hall, La Plata, Buenos Aires on Sat, 29 Aug 2026.
+Emi Galvan is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Grand Hall, La Plata, Buenos Aires on Sat, 29 Aug 2026.
 
 Emi Galvan is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Kamilo Sanclemente, NOIYSE PROJECT and Baliology. Next up: TBA - Grand Hall, La Plata, Buenosaires on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Emi Galvan is a progressive house and techno artist based in Argentina, tracked 
 
 Kamilo Sanclemente, NOIYSE PROJECT, Baliology
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emigalvan-ar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emigalvan-ar/)*

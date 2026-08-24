@@ -1,6 +1,6 @@
 # T3J (1)
 
-T3J (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Inner North Warehouse, Melbourne on Sat, 5 Sept 2026.
+T3J (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Inner North Warehouse, Melbourne on Sat, 5 Sept 2026.
 
 T3J (1) is a techno and electronica artist tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside ALIEN-A, AMY. and AVAXA. Next up: TBA - Inner North Warehouse, Melbourne on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ T3J (1) is a techno and electronica artist tracked on soundcheck, with 4 sets lo
 
 ALIEN-A, AMY., AVAXA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t3j-1/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t3j-1/)*

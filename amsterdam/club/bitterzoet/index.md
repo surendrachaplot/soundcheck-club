@@ -1,6 +1,6 @@
 # Bitterzoet
 
-Bitterzoet is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Wed, 23 Sept 2026.
+Bitterzoet is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Blockhead, ProleteR, Arms and Sleepers" on Wed, 23 Sept 2026.
 
 Bitterzoet is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Blockhead. Browse upcoming dates, start times and who's playing. Spuistraat 2; 1012 Binnenstad; Amsterdam; Netherlands.
 
@@ -15,4 +15,4 @@ Bitterzoet is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights
 
 Spuistraat 2; 1012 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bitterzoet/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bitterzoet/)*

@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Hive Budapest 10th Anniversary with DLR - Monty - Subtension - Abstract" on Fri, 28 Aug 2026.
+Kassa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "The Hive Budapest 10th Anniversary with DLR - Monty - Subtension - Abstract" on Fri, 28 Aug 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including baeker, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -18,4 +18,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights,
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

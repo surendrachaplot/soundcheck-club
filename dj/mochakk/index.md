@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Mochakk is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
 Mochakk is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: DC-10, Ibiza on Mon 24 Aug.
 
@@ -36,4 +36,4 @@ Mochakk is a house and techno artist tracked on soundcheck, with 156 sets logged
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

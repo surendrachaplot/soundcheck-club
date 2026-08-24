@@ -1,6 +1,6 @@
 # mink
 
-mink is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Signal, New York City on Thu, 3 Sept 2026.
+mink is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Signal, New York City on Thu, 3 Sept 2026.
 
 mink is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Barcelona, Bristol, Bucharest and Ibiza and 4 more. Often billed alongside Sossa, Pablo Romero and Seth Troxler. Next up: Signal, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ mink is a house and techno artist based in United States of America, tracked on 
 
 Sossa, Pablo Romero, Seth Troxler
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mink/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mink/)*

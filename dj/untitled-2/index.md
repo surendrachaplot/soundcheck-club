@@ -1,6 +1,6 @@
 # untitled (2)
 
-untitled (2) is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bolero, Seoul on Sat, 29 Aug 2026.
+untitled (2) is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Bolero, Seoul on Sat, 29 Aug 2026.
 
 untitled (2) is a club and bass artist based in South Korea, tracked on soundcheck, with 49 sets logged across Hongkong, Seoul and Shenzhen. Often billed alongside Hyejin, Shins and MOONICE. Next up: Bolero, Seoul on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ untitled (2) is a club and bass artist based in South Korea, tracked on soundche
 
 Hyejin, Shins, MOONICE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/untitled-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/untitled-2/)*

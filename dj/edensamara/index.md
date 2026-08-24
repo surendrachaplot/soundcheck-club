@@ -1,6 +1,6 @@
 # Eden Samara
 
-Eden Samara is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ICA, London on Wed, 9 Sept 2026.
+Eden Samara is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ICA, London on Wed, 9 Sept 2026.
 
 Eden Samara is an electronica and ambient artist tracked on soundcheck, with 4 sets logged across Berlin, Brussels and London. Often billed alongside Ben Bertrand, Carmen Villain and Clara!. Next up: ICA, London on Wed 9 Sept.
 
@@ -20,4 +20,4 @@ Eden Samara is an electronica and ambient artist tracked on soundcheck, with 4 s
 
 Ben Bertrand, Carmen Villain, Clara!
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edensamara/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edensamara/)*

@@ -1,6 +1,6 @@
 # Philipp Lüers
 
-Philipp Lüers is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
+Philipp Lüers is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
 
 Philipp Lüers is a house and minimal artist based in Germany, tracked on soundcheck, with 14 sets logged across Munich. Often billed alongside iamluie, DJ HOT and CHUBBS. Next up: LIVE EVIL, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Philipp Lüers is a house and minimal artist based in Germany, tracked on soundc
 
 iamluie, DJ HOT, CHUBBS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippluers/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philippluers/)*

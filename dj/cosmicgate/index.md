@@ -1,6 +1,6 @@
 # Cosmic Gate
 
-Cosmic Gate is a Trance and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Teatru Blue Arena, Malta on Sun, 30 Aug 2026.
+Cosmic Gate is a Trance and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Teatru Blue Arena, Malta on Sun, 30 Aug 2026.
 
 Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Auckland, Austin and Belfast and 26 more. Often billed alongside Luccio, Armin van Buuren and Ferry Corsten. Next up: Teatru Blue Arena, Malta on Sun 30 Aug.
 
@@ -32,4 +32,4 @@ Cosmic Gate is a trance and progressive house artist tracked on soundcheck, with
 
 Luccio, Armin van Buuren, Ferry Corsten
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicgate/)*

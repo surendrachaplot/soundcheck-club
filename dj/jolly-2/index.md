@@ -1,6 +1,6 @@
 # Jolly (2)
 
-Jolly (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 24 Sept 2026.
+Jolly (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 24 Sept 2026.
 
 Jolly (2) is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside VEL (MA), AISHA and Agata. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ Jolly (2) is a techno and trance artist tracked on soundcheck, with 4 sets logge
 
 VEL (MA), AISHA, Agata
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-2/)*

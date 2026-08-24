@@ -1,6 +1,6 @@
 # Raf Reza
 
-Raf Reza is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
+Raf Reza is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
 
 Raf Reza is a house and dub artist tracked on soundcheck, with 84 sets logged across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside Kaspr, DJ Trustfall and Ragz. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Raf Reza is a house and dub artist tracked on soundcheck, with 84 sets logged ac
 
 Kaspr, DJ Trustfall, Ragz
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*

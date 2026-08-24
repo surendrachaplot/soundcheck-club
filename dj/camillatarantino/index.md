@@ -1,6 +1,6 @@
 # Camilla Tarantino
 
-Camilla Tarantino is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sensorium, Berlin on Sun, 23 Aug 2026.
+Camilla Tarantino is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sensorium, Berlin on Sun, 23 Aug 2026.
 
 Camilla Tarantino is a techno and tech house artist tracked on soundcheck, with 34 sets logged across Berlin. Often billed alongside Viktor Kampf, Ilyas S and Francesca Kazka. Next up: Sensorium, Berlin on Sun 23 Aug.
 
@@ -12,6 +12,7 @@ Camilla Tarantino is a techno and tech house artist tracked on soundcheck, with 
 
 ## Recently played
 
+- Sensorium, Berlin — Sun, 23 Aug 2026
 - Kantine am Berghain, Berlin — Wed, 17 Jun 2026
 - Sensorium, Berlin — Sun, 14 Jun 2026
 - Sensorium, Berlin — Sat, 6 Jun 2026
@@ -19,10 +20,9 @@ Camilla Tarantino is a techno and tech house artist tracked on soundcheck, with 
 - Sensorium, Berlin — Fri, 27 Mar 2026
 - Sensorium, Berlin — Sat, 7 Mar 2026
 - AVA Club, Berlin — Sun, 15 Feb 2026
-- AVA Club, Berlin — Sat, 10 Jan 2026
 
 ## Shares bills with
 
 Viktor Kampf, Ilyas S, Francesca Kazka
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camillatarantino/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camillatarantino/)*

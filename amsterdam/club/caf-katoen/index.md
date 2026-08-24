@@ -1,6 +1,6 @@
 # Café Katoen
 
-Café Katoen is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "100% KATOEN" on Thu, 27 Aug 2026.
+Café Katoen is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "100% KATOEN" on Thu, 27 Aug 2026.
 
 Café Katoen is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Oude Turfmarkt 153, 1012 GC Amsterdam.
 
@@ -14,4 +14,4 @@ Café Katoen is a music venue in Amsterdam listed on soundcheck. 1 upcoming nigh
 
 Oude Turfmarkt 153, 1012 GC Amsterdam, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-katoen/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-katoen/)*

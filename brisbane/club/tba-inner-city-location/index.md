@@ -1,6 +1,6 @@
 # TBA - Inner City Location
 
-TBA - Inner City Location is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ground Zero" on Sat, 19 Sept 2026.
+TBA - Inner City Location is a music venue in Brisbane with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ground Zero" on Sat, 19 Sept 2026.
 
 TBA - Inner City Location is a music venue in Brisbane listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Inner City Location is a music venue in Brisbane listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Ground Zero |  |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tba-inner-city-location/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/tba-inner-city-location/)*

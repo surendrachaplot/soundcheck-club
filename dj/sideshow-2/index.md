@@ -1,6 +1,6 @@
 # SIDESHOW (2)
 
-SIDESHOW (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at XOYO, London on Thu, 27 Aug 2026.
+SIDESHOW (2) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at XOYO, London on Thu, 27 Aug 2026.
 
 SIDESHOW (2) is a techno and drum & bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Artificial Red, Betsy Mae and Cheff The Boy. Next up: XOYO, London on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ SIDESHOW (2) is a techno and drum & bass artist based in United Kingdom, tracked
 
 Artificial Red, Betsy Mae, Cheff The Boy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sideshow-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sideshow-2/)*

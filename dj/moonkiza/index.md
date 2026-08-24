@@ -1,6 +1,6 @@
 # MøønkiZa
 
-MøønkiZa is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at La Terrrazza, Barcelona on Thu, 27 Aug 2026.
+MøønkiZa is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Terrrazza, Barcelona on Thu, 27 Aug 2026.
 
 MøønkiZa is a house and progressive house artist tracked on soundcheck, with 80 sets logged across Barcelona. Often billed alongside Agatha Pher, EVES DJ and Daniel Aguilar (2). Next up: La Terrrazza, Barcelona on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ MøønkiZa is a house and progressive house artist tracked on soundcheck, with 8
 
 Agatha Pher, EVES DJ, Daniel Aguilar (2)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*

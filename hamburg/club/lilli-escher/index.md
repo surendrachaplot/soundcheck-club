@@ -1,6 +1,6 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Faust b2b Sopht.ice" on Tue, 25 Aug 2026.
+Lilli Escher is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Faust b2b Sopht.ice" on Tue, 25 Aug 2026.
 
 Lilli Escher is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Alex Benz, Newinfluenzer and Sasha Zlykh. Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 4 upcoming nights
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

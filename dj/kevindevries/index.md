@@ -1,6 +1,6 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Kevin de Vries is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Kevin de Vries is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Tale Of Us, Chris Avantgarde and Anyma. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Kevin de Vries is a techno and house artist tracked on soundcheck, with 166 sets
 
 Tale Of Us, Chris Avantgarde, Anyma
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

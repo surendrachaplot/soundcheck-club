@@ -1,6 +1,6 @@
 # DJ BREYTH
 
-DJ BREYTH is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+DJ BREYTH is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
 DJ BREYTH is an afro house and afro tech artist tracked on soundcheck, with 18 sets logged across Amsterdam, Ibiza, Lisbon and London and 4 more. Often billed alongside Van Zand, Bun Xapa and Enoo Napa. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ BREYTH is an afro house and afro tech artist tracked on soundcheck, with 18 s
 
 Van Zand, Bun Xapa, Enoo Napa
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbreyth/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbreyth/)*

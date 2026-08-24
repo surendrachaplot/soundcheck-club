@@ -1,6 +1,6 @@
 # Santiago Garcia
 
-Santiago Garcia is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 23 Aug 2026.
+Santiago Garcia is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Chinois Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Santiago Garcia is a deep house and house artist based in Argentina, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Buenosaires and Chicago and 13 more. Often billed alongside Bedouin, Amiti and Avangart Tabldot. Next up: Chinois Ibiza, Ibiza on Sun 23 Aug.
 
@@ -13,6 +13,7 @@ Santiago Garcia is a deep house and house artist based in Argentina, tracked on 
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Sun, 23 Aug 2026
 - Kastel, Istanbul — Sat, 22 Aug 2026
 - Kater, Berlin — Fri, 5 Jun 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 4 Apr 2026
@@ -20,10 +21,9 @@ Santiago Garcia is a deep house and house artist based in Argentina, tracked on 
 - Berlin, Los Angeles — Sat, 28 Feb 2026
 - Spin, San Diego — Sun, 14 Dec 2025
 - Berlin, Los Angeles — Sat, 13 Dec 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Bedouin, Amiti, Avangart Tabldot
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagogarcia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagogarcia/)*

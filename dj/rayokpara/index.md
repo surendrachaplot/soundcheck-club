@@ -1,6 +1,6 @@
 # Ray Okpara
 
-Ray Okpara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Sat, 12 Sept 2026.
+Ray Okpara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Sat, 12 Sept 2026.
 
 Ray Okpara is a house and techno artist tracked on soundcheck, with 40 sets logged across Berlin, Frankfurt, Geneva and London and 5 more. Often billed alongside Okain, Marko Nastic and Moruki. Next up: Club der Visionaere, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ray Okpara is a house and techno artist tracked on soundcheck, with 40 sets logg
 
 Okain, Marko Nastic, Moruki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayokpara/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayokpara/)*

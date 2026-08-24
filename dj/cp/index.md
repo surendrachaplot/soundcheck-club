@@ -1,6 +1,6 @@
 # CP
 
-CP is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
+CP is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
 
 CP is a deep house and progressive house artist tracked on soundcheck, with 2 sets logged across Antwerp and Brussels. Often billed alongside Akira, Be and Deg. Next up: Bodies in Space, Brussels on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ CP is a deep house and progressive house artist tracked on soundcheck, with 2 se
 
 Akira, Be, Deg
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cp/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cp/)*

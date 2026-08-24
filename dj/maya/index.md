@@ -1,6 +1,6 @@
 # Maya
 
-Maya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
+Maya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
 
 Maya is a house and techno artist based in Italy, tracked on soundcheck, with 8 sets logged across Kyoto and Tokyo. Often billed alongside AHREUM, MARK MILA and Shogo Ito. Next up: VENT, Tokyo on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Maya is a house and techno artist based in Italy, tracked on soundcheck, with 8 
 
 AHREUM, MARK MILA, Shogo Ito
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maya/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maya/)*

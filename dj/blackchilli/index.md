@@ -1,6 +1,6 @@
 # BlackChilli
 
-BlackChilli is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Café Berlín, Madrid on Fri, 28 Aug 2026.
+BlackChilli is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Café Berlín, Madrid on Fri, 28 Aug 2026.
 
 BlackChilli is an electronica and electro artist tracked on soundcheck, with 18 sets logged across Lisbon, Madrid and Mexicocity. Often billed alongside FedeFink, Bembi and Guada Mariani. Next up: Café Berlín, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ BlackChilli is an electronica and electro artist tracked on soundcheck, with 18 
 
 FedeFink, Bembi, Guada Mariani
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackchilli/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackchilli/)*

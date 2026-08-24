@@ -1,6 +1,6 @@
 # Rasaaq
 
-Rasaaq is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Super5, Lyon on Fri, 28 Aug 2026.
+Rasaaq is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Super5, Lyon on Fri, 28 Aug 2026.
 
 Rasaaq is a house and techno artist tracked on soundcheck, with 43 sets logged across Boston, Brussels, Copenhagen and Denver and 4 more. Often billed alongside CHAOUKI, Joe Rizk and CAMILLA. Next up: Super5, Lyon on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Rasaaq is a house and techno artist tracked on soundcheck, with 43 sets logged a
 
 CHAOUKI, Joe Rizk, CAMILLA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*

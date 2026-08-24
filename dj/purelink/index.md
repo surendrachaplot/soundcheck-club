@@ -1,6 +1,6 @@
 # Purelink
 
-Purelink is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Purelink is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Purelink is an ambient and experimental artist tracked on soundcheck, with 61 sets logged across Barcelona, Bristol, Chicago and Copenhagen and 24 more. Often billed alongside mad miran, DjRUM and Eiko Ishibashi. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Purelink is an ambient and experimental artist tracked on soundcheck, with 61 se
 
 mad miran, DjRUM, Eiko Ishibashi
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purelink/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purelink/)*

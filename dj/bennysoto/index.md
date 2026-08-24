@@ -1,6 +1,6 @@
 # Benny Soto
 
-Benny Soto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at MAD Radio NYC, New York City on Thu, 27 Aug 2026.
+Benny Soto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at MAD Radio NYC, New York City on Thu, 27 Aug 2026.
 
 Benny Soto is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity. Often billed alongside Mike Nervous, Danny Krivit and AG (NYC). Next up: MAD Radio NYC, Newyorkcity on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Benny Soto is a house and techno artist based in United States of America, track
 
 Mike Nervous, Danny Krivit, AG (NYC)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*

@@ -1,6 +1,6 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Fabrizio Mammarella is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
 
 Fabrizio Mammarella is a house and techno artist based in Italy, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 21 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: Kater, Berlin on Fri 21 Aug.
 
@@ -26,4 +26,4 @@ Fabrizio Mammarella is a house and techno artist based in Italy, tracked on soun
 
 Giulia Gutterer, Franz Scala, Charlie
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomammarella/)*

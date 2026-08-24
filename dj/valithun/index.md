@@ -1,6 +1,6 @@
 # VALI THUN
 
-VALI THUN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+VALI THUN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 VALI THUN is a house and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Munich and Newyorkcity. Often billed alongside Nik Andersson, Offkit and Taisy. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ VALI THUN is a house and tech house artist based in Germany, tracked on soundche
 
 Nik Andersson, Offkit, Taisy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valithun/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valithun/)*

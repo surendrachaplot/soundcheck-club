@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Bronx Techno Zoo - we are all beautiful animals, OSO, Nous Klear, T.B.A" on Sat, 29 Aug 2026.
+Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Bronx Techno Zoo - we are all beautiful animals, OSO, Nous Klear, T.B.A" on Sat, 29 Aug 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights, with line-ups including DJ Godfather, DJ KILLING, GT7 and DJ Hell and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -18,4 +18,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

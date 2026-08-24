@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Block: Kyle Starkey & Tjade" on Fri, 4 Sept 2026.
+block. is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Block: Kyle Starkey & Tjade" on Fri, 4 Sept 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Captain Wallop, Connect, Janeret and Kyle Starkey and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -18,4 +18,4 @@ block. is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with 
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

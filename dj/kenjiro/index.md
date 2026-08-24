@@ -1,6 +1,6 @@
 # Kenjiro
 
-Kenjiro is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at DeTour, Tokyo on Thu, 27 Aug 2026.
+Kenjiro is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DeTour, Tokyo on Thu, 27 Aug 2026.
 
 Kenjiro is a house and techno artist based in United States of America, tracked on soundcheck, with 186 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: DeTour, Tokyo on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Kenjiro is a house and techno artist based in United States of America, tracked 
 
 Shigeto, Charles Trees, Tammy Lakkis
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiro/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiro/)*

@@ -1,6 +1,6 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Soft Launch (Collingwood Basement)" on Fri, 28 Aug 2026.
+Collingwood Basement is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Soft Launch (Collingwood Basement)" on Fri, 28 Aug 2026.
 
 Collingwood Basement is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Baby G, Chucheewa, Flat Esoteric and Katie Pearson and 2 more. Browse upcoming dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
@@ -16,4 +16,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 3 upcom
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

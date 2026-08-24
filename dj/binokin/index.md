@@ -1,6 +1,6 @@
 # Bin Okin
 
-Bin Okin is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Minimal Bar, Berlin on Sat, 26 Sept 2026.
+Bin Okin is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Minimal Bar, Berlin on Sat, 26 Sept 2026.
 
 Bin Okin is a techno and deep house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Geneva. Often billed alongside Salvo Salvatore, B/ANNIMALĪ and DAV3. Next up: Minimal Bar, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bin Okin is a techno and deep house artist based in Germany, tracked on soundche
 
 Salvo Salvatore, B/ANNIMALĪ, DAV3
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binokin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binokin/)*

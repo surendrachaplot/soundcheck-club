@@ -1,6 +1,6 @@
 # Daniel Plainview
 
-Daniel Plainview is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+Daniel Plainview is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 Daniel Plainview is a techno and deep house artist based in Ireland, tracked on soundcheck, with 4 sets logged across Amsterdam and Utrecht. Often billed alongside A*S*Y*S (2), Alan Fitzpatrick and Bermio. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Daniel Plainview is a techno and deep house artist based in Ireland, tracked on 
 
 A*S*Y*S (2), Alan Fitzpatrick, Bermio
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielplainview/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielplainview/)*

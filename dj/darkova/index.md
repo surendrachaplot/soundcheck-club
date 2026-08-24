@@ -1,6 +1,6 @@
 # Darkova
 
-Darkova is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 19 Sept 2026.
+Darkova is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 19 Sept 2026.
 
 Darkova is a techno and minimal techno artist based in Canada, tracked on soundcheck, with 38 sets logged across Montreal and Toronto. Often billed alongside Alley Kay, Measure Divide and Vadim Khan. Next up: 131 Mccormack St, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Darkova is a techno and minimal techno artist based in Canada, tracked on soundc
 
 Alley Kay, Measure Divide, Vadim Khan
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darkova/)*

@@ -1,6 +1,6 @@
 # Mechatok
 
-Mechatok is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
+Mechatok is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
 
 Mechatok is an electro and experimental artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Kamixlo, Oli XL and TOXE. Next up: Melkweg, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mechatok is an electro and experimental artist based in Germany, tracked on soun
 
 Kamixlo, Oli XL, TOXE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*

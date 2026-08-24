@@ -1,6 +1,6 @@
 # MUSICKLUNATIC
 
-MUSICKLUNATIC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Home, Deptford SE8, London on Sat, 29 Aug 2026.
+MUSICKLUNATIC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Home, Deptford SE8, London on Sat, 29 Aug 2026.
 
 MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside DungeonMaster, AMAR (UK) and Helios Manoeuvres. Next up: TBA - Home, Deptford SE8, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MUSICKLUNATIC is a techno and house artist tracked on soundcheck, with 25 sets l
 
 DungeonMaster, AMAR (UK), Helios Manoeuvres
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musicklunatic/)*

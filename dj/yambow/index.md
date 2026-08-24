@@ -1,6 +1,6 @@
 # Yambow
 
-Yambow is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Badaboum, Paris on Sat, 5 Sept 2026.
+Yambow is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Badaboum, Paris on Sat, 5 Sept 2026.
 
 Yambow is a house and trance artist based in France, tracked on soundcheck, with 24 sets logged across Newyorkcity and Paris. Often billed alongside Pierrinski, Marbré and Laila Amira. Next up: Badaboum, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Yambow is a house and trance artist based in France, tracked on soundcheck, with
 
 Pierrinski, Marbré, Laila Amira
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yambow/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yambow/)*

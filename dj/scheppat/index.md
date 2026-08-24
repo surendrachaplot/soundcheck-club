@@ -1,6 +1,6 @@
 # SCHEPPAT
 
-SCHEPPAT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
+SCHEPPAT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
 
 SCHEPPAT is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Frankfurt. Often billed alongside Franzi Dries, DJ DRECKISCH and DJ HÖRDE. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ SCHEPPAT is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 Franzi Dries, DJ DRECKISCH, DJ HÖRDE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scheppat/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scheppat/)*

@@ -1,6 +1,6 @@
 # Beautiful Swimmers
 
-Beautiful Swimmers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Good Room, New York City on Fri, 4 Sept 2026.
+Beautiful Swimmers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Good Room, New York City on Fri, 4 Sept 2026.
 
 Beautiful Swimmers is a house and techno artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Bristol and Denver and 9 more. Often billed alongside CCL, livwutang and Aurora Halal. Next up: Good Room, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Beautiful Swimmers is a house and techno artist tracked on soundcheck, with 31 s
 
 CCL, livwutang, Aurora Halal
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beautifulswimmers/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beautifulswimmers/)*

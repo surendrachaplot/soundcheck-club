@@ -1,14 +1,16 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "BRANCHIE LAB at MAGICK BAR - W/ Daura, Green, Na Diavl" on Tue, 25 Aug 2026.
+THE MAGICK BAR is a music venue in Rome with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Purplebrain with Kapitano, Misstake, Tommi Kinan" on Mon, 24 Aug 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 6 upcoming nights, with line-ups including Daura, Donato Dozzy, Franzoh and Green (IT) and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 8 upcoming nights, with line-ups including Cosimo Damiano, Daura, Donato Dozzy and Franzoh and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Mon, 24 Aug 2026 | Purplebrain with Kapitano, Misstake, Tommi Kinan |  |
 | Tue, 25 Aug 2026 | BRANCHIE LAB at MAGICK BAR - W/ Daura, Green, Na Diavl | Daura, Green (IT), Na Diavl |
+| Fri, 28 Aug 2026 | Anarchy in The Club with Cosimo Damiano, Ziur | Cosimo Damiano, Ziúr |
 | Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |
 | Thu, 3 Sept 2026 | Singularity |  |
 | Wed, 9 Sept 2026 | THE MAGICK BAR presents: Donato Dozzy, Matisa | Donato Dozzy, Matisa |
@@ -19,4 +21,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 6 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

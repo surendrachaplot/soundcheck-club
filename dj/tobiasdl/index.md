@@ -1,6 +1,6 @@
 # Tobias DL
 
-Tobias DL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 28 Aug 2026.
+Tobias DL is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Club Morocco, Costa Salguero, Buenos Aires on Fri, 28 Aug 2026.
 
 Tobias DL is a house and tech house artist tracked on soundcheck, with 30 sets logged across Buenosaires. Often billed alongside Festa Bros, Elio Riso and Loulou Players. Next up: TBA - Club Morocco, Costa Salguero, Buenosaires on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Tobias DL is a house and tech house artist tracked on soundcheck, with 30 sets l
 
 Festa Bros, Elio Riso, Loulou Players
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiasdl/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiasdl/)*

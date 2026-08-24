@@ -1,6 +1,6 @@
 # Martin Garrix
 
-Martin Garrix is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 27 Aug 2026.
+Martin Garrix is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 Martin Garrix is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Austin, Boston and Budapest and 14 more. Often billed alongside Miss Monique, Afrojack and Artbat. Next up: Ushuaïa Ibiza, Ibiza on Thu 27 Aug.
 
@@ -29,4 +29,4 @@ Martin Garrix is a house and progressive house artist based in Netherlands, trac
 
 Miss Monique, Afrojack, Artbat
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martingarrix/)*

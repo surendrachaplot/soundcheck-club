@@ -1,6 +1,6 @@
 # Josh Wickers
 
-Josh Wickers is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
+Josh Wickers is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
 
 Josh Wickers is a house and garage artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside George Askaroff, Bridger Ryland and Blatant Suspects. Next up: Tola, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Josh Wickers is a house and garage artist based in United Kingdom, tracked on so
 
 George Askaroff, Bridger Ryland, Blatant Suspects
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwickers/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwickers/)*

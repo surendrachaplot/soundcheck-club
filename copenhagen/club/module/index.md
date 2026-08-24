@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "UNZ UNZ X MODULE" on Fri, 28 Aug 2026.
+MODULE is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "UNZ UNZ X MODULE" on Fri, 28 Aug 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including ALADAG, Baime, Captain Bubblegum and dj bootymagic and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -17,4 +17,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, w
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

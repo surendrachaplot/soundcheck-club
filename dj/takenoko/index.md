@@ -1,6 +1,6 @@
 # TAKENOKO
 
-TAKENOKO is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Circus Osaka, Osaka on Fri, 4 Sept 2026.
+TAKENOKO is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Circus Osaka, Osaka on Fri, 4 Sept 2026.
 
 TAKENOKO is a bass and techno artist based in Japan, tracked on soundcheck, with 57 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside SAMO (JP), kengotaki and YUVIE. Next up: Circus Osaka, Osaka on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ TAKENOKO is a bass and techno artist based in Japan, tracked on soundcheck, with
 
 SAMO (JP), kengotaki, YUVIE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takenoko/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takenoko/)*

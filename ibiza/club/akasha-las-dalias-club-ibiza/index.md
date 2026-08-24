@@ -1,14 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 47 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Nido" on Sun, 23 Aug 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 46 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Peace N´Music" on Mon, 24 Aug 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights, with line-ups including Alfonso Ares, Aracil, Athie Umgido and Audera and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 46 upcoming nights, with line-ups including Alfonso Ares, Aracil, Athie Umgido and Audera and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Nido | Alfonso Ares, Sorä, Yamil |
 | Mon, 24 Aug 2026 | Peace N´Music |  |
 | Tue, 25 Aug 2026 | Borealis |  |
 | Tue, 25 Aug 2026 | Ethereal | Bego Martin, Chelu Garcia, Claudio Ricci |
@@ -18,9 +17,10 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 4
 | Sun, 30 Aug 2026 | Nido | Athie Umgido, Irenee S, VITE |
 | Mon, 31 Aug 2026 | Peace N´Music | DJ Pippi, Willie Graff |
 | Tue, 1 Sept 2026 | Borealis |  |
+| Wed, 2 Sept 2026 | Namaste |  |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

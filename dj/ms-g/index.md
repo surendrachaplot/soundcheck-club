@@ -1,6 +1,6 @@
 # ms-g
 
-ms-g is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 26 Aug 2026.
+ms-g is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 26 Aug 2026.
 
 ms-g is a drum & bass and jungle artist tracked on soundcheck, with 2 sets logged across Edinburgh. Often billed alongside Amber Leith, Corran and Kelso. Next up: Sneaky Pete's, Edinburgh on Wed 26 Aug.
 
@@ -18,4 +18,4 @@ ms-g is a drum & bass and jungle artist tracked on soundcheck, with 2 sets logge
 
 Amber Leith, Corran, Kelso
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms-g/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ms-g/)*

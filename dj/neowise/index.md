@@ -1,6 +1,6 @@
 # Neowise
 
-Neowise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
+Neowise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
 
 Neowise is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin, Nantes and Stuttgart. Often billed alongside ACID B4RBIE, Alex Kassian and Alphanova. Next up: Renate, Berlin on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Neowise is a techno and house artist tracked on soundcheck, with 3 sets logged a
 
 ACID B4RBIE, Alex Kassian, Alphanova
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neowise/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neowise/)*

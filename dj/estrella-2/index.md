@@ -1,6 +1,6 @@
 # ESTRELLA
 
-ESTRELLA is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 4 Sept 2026.
+ESTRELLA is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 ESTRELLA is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Rotterdam and Sanfrancisco and 1 more. Often billed alongside Andy (NL), Crinkhoff and Kyra Khaldi. Next up: Monarch, Sanfrancisco on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ ESTRELLA is a house and tech house artist tracked on soundcheck, with 37 sets lo
 
 Andy (NL), Crinkhoff, Kyra Khaldi
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estrella-2/)*

@@ -1,6 +1,6 @@
 # NIX Barcelon
 
-NIX Barcelon is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "OFF pres Ale De Tuglie & ALBERTO DIMEO at NIX CLUB" on Sun, 30 Aug 2026.
+NIX Barcelon is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "OFF pres Ale De Tuglie & ALBERTO DIMEO at NIX CLUB" on Sun, 30 Aug 2026.
 
 NIX Barcelon is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including ALBERTO DIMEO, Ale De Tuglie and Sebastián Peña. Browse upcoming dates, start times and who's playing. Diputacion 92, Barcelona.
 
@@ -14,4 +14,4 @@ NIX Barcelon is a music venue in Barcelona listed on soundcheck. 1 upcoming nigh
 
 Diputacion 92, Barcelona, Barcelona
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelon/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelon/)*

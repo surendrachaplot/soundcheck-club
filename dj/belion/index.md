@@ -1,6 +1,6 @@
 # Be Lion
 
-Be Lion is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Endlss Disco Hotel, Ibiza on Thu, 27 Aug 2026.
+Be Lion is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Endlss Disco Hotel, Ibiza on Thu, 27 Aug 2026.
 
 Be Lion is a minimal and tech house artist tracked on soundcheck, with 8 sets logged across Amsterdam and Ibiza. Often billed alongside Ìngryd Gobbo, Affani and Kikko. Next up: Endlss Disco Hotel, Ibiza on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ Be Lion is a minimal and tech house artist tracked on soundcheck, with 8 sets lo
 
 Ìngryd Gobbo, Affani, Kikko
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*

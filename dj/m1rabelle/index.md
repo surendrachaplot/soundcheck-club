@@ -1,6 +1,6 @@
 # M1RABELLE
 
-M1RABELLE is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Humboldthain Club, Berlin on Sat, 12 Sept 2026.
+M1RABELLE is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Humboldthain Club, Berlin on Sat, 12 Sept 2026.
 
 M1RABELLE is a hip-hop and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Anne-Lu, Bexi and Bélavie. Next up: Humboldthain Club, Berlin on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ M1RABELLE is a hip-hop and techno artist based in Germany, tracked on soundcheck
 
 Anne-Lu, Bexi, Bélavie
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m1rabelle/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m1rabelle/)*

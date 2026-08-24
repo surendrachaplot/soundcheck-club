@@ -1,6 +1,6 @@
 # TBA - AMK Club, Almagro
 
-TBA - AMK Club, Almagro is a music venue in Buenos Aires with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Joris Voorn & MORE ARTISTS [TRIP TO GALAXY] - by ELEMENTS & EXTERNAL, AMK CLUB" on Sat, 29 Aug 2026.
+TBA - AMK Club, Almagro is a music venue in Buenos Aires with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Joris Voorn & MORE ARTISTS [TRIP TO GALAXY] - by ELEMENTS & EXTERNAL, AMK CLUB" on Sat, 29 Aug 2026.
 
 TBA - AMK Club, Almagro is a music venue in Buenosaires listed on soundcheck. 5 upcoming nights, with line-ups including Agustin Giri, Joris Voorn, Juan Hansen and Kevin Di Serna and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - AMK Club, Almagro is a music venue in Buenosaires listed on soundcheck. 5 
 | Fri, 23 Oct 2026 | Nick Warren + Kevin Di Serna [DIA 1] - by FRAGMENT, AMK CLUB | Kevin Di Serna, Nick Warren |
 | Sun, 25 Oct 2026 | Nick Warren [DIA 2] - by FRAGMENT, AMK CLUB | Nick Warren |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-amk-club-almagro/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-amk-club-almagro/)*

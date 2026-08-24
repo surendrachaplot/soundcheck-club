@@ -1,6 +1,6 @@
 # ShioriyBradshaw
 
-ShioriyBradshaw is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Circus Osaka, Osaka on Fri, 28 Aug 2026.
+ShioriyBradshaw is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Circus Osaka, Osaka on Fri, 28 Aug 2026.
 
 ShioriyBradshaw is a techno and house artist based in Japan, tracked on soundcheck, with 86 sets logged across Bangkok, Newyorkcity, Osaka and Seoul and 2 more. Often billed alongside Romy Mats, MoEPiKA and HIMAWARI. Next up: Circus Osaka, Osaka on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ ShioriyBradshaw is a techno and house artist based in Japan, tracked on soundche
 
 Romy Mats, MoEPiKA, HIMAWARI
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shioriybradshaw/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shioriybradshaw/)*

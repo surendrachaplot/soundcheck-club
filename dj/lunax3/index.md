@@ -1,6 +1,6 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Eiger Studios, Leeds on Mon, 24 Aug 2026.
+LUNAx3 is a Gabber and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Eiger Studios, Leeds on Mon, 24 Aug 2026.
 
 LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 18 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside beansclub, Purity Filter and RUBY RAWR. Next up: Eiger Studios, Leeds on Mon 24 Aug.
 
@@ -29,4 +29,4 @@ LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 18 sets logge
 
 beansclub, Purity Filter, RUBY RAWR
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

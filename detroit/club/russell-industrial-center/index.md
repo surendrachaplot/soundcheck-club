@@ -1,6 +1,6 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Westend" on Sat, 10 Oct 2026.
+Russell Industrial Center is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Westend" on Sat, 10 Oct 2026.
 
 Russell Industrial Center is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including Luke Alexander, Mona Black and Steve Aoki. Browse upcoming dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
@@ -16,4 +16,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 3 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

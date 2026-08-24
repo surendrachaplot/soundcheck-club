@@ -1,6 +1,6 @@
 # Soni Ceron
 
-Soni Ceron is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M.N.Roy, Mexico City on Fri, 28 Aug 2026.
+Soni Ceron is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at M.N.Roy, Mexico City on Fri, 28 Aug 2026.
 
 Soni Ceron is a house and deep house artist tracked on soundcheck, with 35 sets logged across Mexicocity. Often billed alongside Danesholme, Valeriana and papa jazz. Next up: M.N.Roy, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Soni Ceron is a house and deep house artist tracked on soundcheck, with 35 sets 
 
 Danesholme, Valeriana, papa jazz
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soniceron/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soniceron/)*

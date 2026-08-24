@@ -1,6 +1,6 @@
 # KESSIN
 
-KESSIN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Cafe Del Mar, Sydney on Sat, 12 Sept 2026.
+KESSIN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Cafe Del Mar, Sydney on Sat, 12 Sept 2026.
 
 KESSIN is a house and tech house artist tracked on soundcheck, with 13 sets logged across Bali, Brisbane, London and Melbourne and 1 more. Often billed alongside Adam Trace, Katie Hill and Wade. Next up: Cafe Del Mar, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KESSIN is a house and tech house artist tracked on soundcheck, with 13 sets logg
 
 Adam Trace, Katie Hill, Wade
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kessin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kessin/)*

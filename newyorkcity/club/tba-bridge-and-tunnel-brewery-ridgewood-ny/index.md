@@ -1,6 +1,6 @@
 # TBA - Bridge and Tunnel Brewery, Ridgewood, NY
 
-TBA - Bridge and Tunnel Brewery, Ridgewood, NY is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Blu Anxxiety, Drogato, No Values, No Weapon, Carson Bartlett, and Marigny" on Sun, 30 Aug 2026.
+TBA - Bridge and Tunnel Brewery, Ridgewood, NY is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Blu Anxxiety, Drogato, No Values, No Weapon, Carson Bartlett, and Marigny" on Sun, 30 Aug 2026.
 
 TBA - Bridge and Tunnel Brewery, Ridgewood, NY is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bridge and Tunnel Brewery, Ridgewood, NY is a music venue in Newyorkcity l
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Blu Anxxiety, Drogato, No Values, No Weapon, Carson Bartlett, and Marigny |  |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bridge-and-tunnel-brewery-ridgewood-ny/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-bridge-and-tunnel-brewery-ridgewood-ny/)*

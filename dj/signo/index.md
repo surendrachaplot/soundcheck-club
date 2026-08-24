@@ -1,6 +1,6 @@
 # Signo
 
-Signo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Artlab, Buenos Aires on Sat, 29 Aug 2026.
+Signo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Artlab, Buenos Aires on Sat, 29 Aug 2026.
 
 Signo is a house and electronica artist based in Argentina, tracked on soundcheck, with 18 sets logged across Buenosaires. Often billed alongside Pato Mallet, Loïc and Dobao. Next up: Artlab, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Signo is a house and electronica artist based in Argentina, tracked on soundchec
 
 Pato Mallet, Loïc, Dobao
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/signo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/signo/)*

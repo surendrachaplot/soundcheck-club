@@ -1,6 +1,6 @@
 # M.B.I.
 
-M.B.I. is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at BarKa, Warsaw on Thu, 27 Aug 2026.
+M.B.I. is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at BarKa, Warsaw on Thu, 27 Aug 2026.
 
 M.B.I. is a bass and electro artist tracked on soundcheck, with 8 sets logged across Warsaw. Often billed alongside Richie Beige, iffi and Zły Pies. Next up: BarKa, Warsaw on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ M.B.I. is a bass and electro artist tracked on soundcheck, with 8 sets logged ac
 
 Richie Beige, iffi, Zły Pies
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.b.i./)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.b.i./)*

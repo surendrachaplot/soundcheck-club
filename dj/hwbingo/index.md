@@ -1,6 +1,6 @@
 # HW BINGO
 
-HW BINGO is a Bass and Gqom artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at clubasia, Tokyo on Fri, 28 Aug 2026.
+HW BINGO is a Bass and Gqom artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at clubasia, Tokyo on Fri, 28 Aug 2026.
 
 HW BINGO is a bass and gqom artist based in Japan, tracked on soundcheck, with 29 sets logged across Seoul and Tokyo. Often billed alongside mitokon, K8 (TYO GQOM) and CYBERHACKSYSTEM. Next up: clubasia, Tokyo on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ HW BINGO is a bass and gqom artist based in Japan, tracked on soundcheck, with 2
 
 mitokon, K8 (TYO GQOM), CYBERHACKSYSTEM
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hwbingo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hwbingo/)*

@@ -1,6 +1,6 @@
 # LX one
 
-LX one is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
+LX one is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at fabric, London on Fri, 23 Oct 2026.
 
 LX one is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol and London. Often billed alongside SP:MC, Cesco and MC GQ. Next up: fabric, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LX one is a dubstep and drum & bass artist based in United Kingdom, tracked on s
 
 SP:MC, Cesco, MC GQ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lxone/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lxone/)*

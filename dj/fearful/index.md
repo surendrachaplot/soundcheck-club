@@ -1,6 +1,6 @@
 # Fearful
 
-Fearful is a Drum & Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Nest, Basel on Sat, 12 Sept 2026.
+Fearful is a Drum & Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Nest, Basel on Sat, 12 Sept 2026.
 
 Fearful is a drum & bass and footwork artist tracked on soundcheck, with 7 sets logged across Basel, London and Prague. Often billed alongside Arkaik, Chamba and MC Gusto. Next up: Nest, Basel on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Fearful is a drum & bass and footwork artist tracked on soundcheck, with 7 sets 
 
 Arkaik, Chamba, MC Gusto
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fearful/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fearful/)*

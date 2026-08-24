@@ -1,6 +1,6 @@
 # Yuta Aoki
 
-Yuta Aoki is a Techno and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Circus Osaka, Osaka on Sat, 29 Aug 2026.
+Yuta Aoki is a Techno and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Circus Osaka, Osaka on Sat, 29 Aug 2026.
 
 Yuta Aoki is a techno and grime artist tracked on soundcheck, with 4 sets logged across Osaka and Tokyo. Often billed alongside Etherion, RY0N4 and FUMI. Next up: Circus Osaka, Osaka on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Yuta Aoki is a techno and grime artist tracked on soundcheck, with 4 sets logged
 
 Etherion, RY0N4, FUMI
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yutaaoki/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yutaaoki/)*

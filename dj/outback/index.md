@@ -1,6 +1,6 @@
 # Outback
 
-Outback is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
+Outback is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
 
 Outback is a hardcore and gabber artist based in Canada, tracked on soundcheck, with 66 sets logged across Boston, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside the bald girl, Beamskii and Technopagan. Next up: The Pearl, Vancouver on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Outback is a hardcore and gabber artist based in Canada, tracked on soundcheck, 
 
 the bald girl, Beamskii, Technopagan
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outback/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outback/)*

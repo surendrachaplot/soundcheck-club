@@ -1,6 +1,6 @@
 # NEXCYIA
 
-NEXCYIA is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+NEXCYIA is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 NEXCYIA is an ambient and experimental artist based in France, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 7 more. Often billed alongside mu tate, Softmatter and bod [包家巷]. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ NEXCYIA is an ambient and experimental artist based in France, tracked on soundc
 
 mu tate, Softmatter, bod [包家巷]
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nexcyia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nexcyia/)*

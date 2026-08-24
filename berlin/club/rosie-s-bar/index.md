@@ -1,6 +1,6 @@
 # Rosie's Bar
 
-Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "!Free Entry! Rosie's Bar presents: NTT records Showcase- Tommy Complex & Roy Mansur" on Fri, 28 Aug 2026.
+Rosie's Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "!Free Entry! Rosie's Bar presents: NTT records Showcase- Tommy Complex & Roy Mansur" on Fri, 28 Aug 2026.
 
 Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Roy Mansur. Browse upcoming dates, start times and who's playing. Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin.
 
@@ -14,4 +14,4 @@ Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*

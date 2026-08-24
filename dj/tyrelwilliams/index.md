@@ -1,6 +1,6 @@
 # Tyrel Williams
 
-Tyrel Williams is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Chop Suey, Seattle on Sun, 30 Aug 2026.
+Tyrel Williams is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Chop Suey, Seattle on Sun, 30 Aug 2026.
 
 Tyrel Williams is a house and acid artist based in United States of America, tracked on soundcheck, with 53 sets logged across Berlin, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Solar, C.L.A.W.S. and Mozhgan. Next up: Chop Suey, Seattle on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Tyrel Williams is a house and acid artist based in United States of America, tra
 
 Solar, C.L.A.W.S., Mozhgan
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrelwilliams/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrelwilliams/)*

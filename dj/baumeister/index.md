@@ -1,6 +1,6 @@
 # Baumeister
 
-Baumeister is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+Baumeister is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 Baumeister is a trance and techno artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside DJ WASSERFALL, KLING&KLANG and Sabu!. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Baumeister is a trance and techno artist based in Switzerland, tracked on soundc
 
 DJ WASSERFALL, KLING&KLANG, Sabu!
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baumeister/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baumeister/)*

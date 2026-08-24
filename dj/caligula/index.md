@@ -1,6 +1,6 @@
 # Caligula
 
-Caligula is a Minimal Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
+Caligula is a Minimal Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
 
 Caligula is a minimal techno and dub techno artist tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Rome. Often billed alongside Bleach (2), In A Slaughter Brain and Linda shiro. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Caligula is a minimal techno and dub techno artist tracked on soundcheck, with 4
 
 Bleach (2), In A Slaughter Brain, Linda shiro
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caligula/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caligula/)*

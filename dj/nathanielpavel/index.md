@@ -1,6 +1,6 @@
 # Nathaniel Pavel
 
-Nathaniel Pavel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at SubT Lounge, Chicago on Sat, 5 Sept 2026.
+Nathaniel Pavel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at SubT Lounge, Chicago on Sat, 5 Sept 2026.
 
 Nathaniel Pavel is a techno and house artist tracked on soundcheck, with 12 sets logged across Chicago. Often billed alongside mike ext, KEEFE and Rabsha. Next up: SubT Lounge, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nathaniel Pavel is a techno and house artist tracked on soundcheck, with 12 sets
 
 mike ext, KEEFE, Rabsha
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanielpavel/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanielpavel/)*

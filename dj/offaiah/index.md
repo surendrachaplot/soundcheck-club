@@ -1,6 +1,6 @@
 # OFFAIAH
 
-OFFAIAH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 11 Sept 2026.
+OFFAIAH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 OFFAIAH is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Auckland, Austin, Chicago and Denver and 11 more. Often billed alongside Gene Farris, Claptone and Marc Kinchen. Next up: Ushuaïa Ibiza, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ OFFAIAH is a house and tech house artist based in United Kingdom, tracked on sou
 
 Gene Farris, Claptone, Marc Kinchen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/offaiah/)*

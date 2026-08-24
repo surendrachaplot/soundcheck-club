@@ -1,6 +1,6 @@
 # Haus of Ralph
 
-Haus of Ralph is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Red Rattler, Sydney on Sat, 19 Sept 2026.
+Haus of Ralph is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Red Rattler, Sydney on Sat, 19 Sept 2026.
 
 Haus of Ralph is a bass and club artist tracked on soundcheck, with 66 sets logged across Auckland, Bangkok, Berlin and Brisbane and 3 more. Often billed alongside Cristal No.5, Zalina and House Mum. Next up: The Red Rattler, Sydney on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Haus of Ralph is a bass and club artist tracked on soundcheck, with 66 sets logg
 
 Cristal No.5, Zalina, House Mum
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hausofralph/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hausofralph/)*

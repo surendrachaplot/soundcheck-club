@@ -1,6 +1,6 @@
 # HashR
 
-HashR is a Tech House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Makossa, London on Fri, 11 Sept 2026.
+HashR is a Tech House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club Makossa, London on Fri, 11 Sept 2026.
 
 HashR is a tech house and bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Hoodwink, Apostle and Chef Dhruv. Next up: Club Makossa, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ HashR is a tech house and bass artist based in United Kingdom, tracked on soundc
 
 Hoodwink, Apostle, Chef Dhruv
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hashr/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hashr/)*

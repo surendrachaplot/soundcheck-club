@@ -1,6 +1,6 @@
 # Unna Foulanah
 
-Unna Foulanah is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 27 Aug 2026.
+Unna Foulanah is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 27 Aug 2026.
 
 Unna Foulanah is a house and minimal artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Pia Kauitl, Esteban De Haro and Flandez. Next up: Bulbul Berlin, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Unna Foulanah is a house and minimal artist based in Germany, tracked on soundch
 
 Pia Kauitl, Esteban De Haro, Flandez
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unnafoulanah/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unnafoulanah/)*

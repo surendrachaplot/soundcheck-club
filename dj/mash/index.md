@@ -1,6 +1,6 @@
 # Mash
 
-Mash is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Socore Factory, Osaka on Wed, 26 Aug 2026.
+Mash is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Socore Factory, Osaka on Wed, 26 Aug 2026.
 
 Mash is a house and hip-hop artist based in Germany, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Glasgow and Osaka and 2 more. Often billed alongside Bouki, Sim Select and Cousin. Next up: Socore Factory, Osaka on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Mash is a house and hip-hop artist based in Germany, tracked on soundcheck, with
 
 Bouki, Sim Select, Cousin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mash/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mash/)*

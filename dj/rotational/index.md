@@ -1,6 +1,6 @@
 # Rotational
 
-Rotational is a Dub and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+Rotational is a Dub and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 Rotational is a dub and electronica artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Bristol and Dublin and 5 more. Often billed alongside Tash LC, AAMIROO and Aalia Iraki. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Rotational is a dub and electronica artist tracked on soundcheck, with 18 sets l
 
 Tash LC, AAMIROO, Aalia Iraki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rotational/)*

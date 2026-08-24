@@ -1,6 +1,6 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Thu, 27 Aug 2026.
+Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Thu, 27 Aug 2026.
 
 Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: Club der Visionaere, Berlin on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

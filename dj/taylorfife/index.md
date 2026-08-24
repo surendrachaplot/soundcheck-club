@@ -1,6 +1,6 @@
 # Taylor Fife
 
-Taylor Fife is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Gin Rummy Bar, Los Angeles on Fri, 28 Aug 2026.
+Taylor Fife is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gin Rummy Bar, Los Angeles on Fri, 28 Aug 2026.
 
 Taylor Fife is a balearic and house artist tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside Birch Koolman. Next up: Gin Rummy Bar, Losangeles on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Taylor Fife is a balearic and house artist tracked on soundcheck, with 2 sets lo
 
 Birch Koolman
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorfife/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorfife/)*

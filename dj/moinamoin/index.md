@@ -1,6 +1,6 @@
 # Moina Moin
 
-Moina Moin is a Funk / Soul and Gqom artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
+Moina Moin is a Funk / Soul and Gqom artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
 
 Moina Moin is a funk / soul and gqom artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow and London. Often billed alongside Tekhole, veryt and Phoebe Massey. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Moina Moin is a funk / soul and gqom artist based in United Kingdom, tracked on 
 
 Tekhole, veryt, Phoebe Massey
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moinamoin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moinamoin/)*

@@ -1,6 +1,6 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "#2 cult at collect, lx factory" on Sat, 29 Aug 2026.
+Collect LX Factory is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "#2 cult at collect, lx factory" on Sat, 29 Aug 2026.
 
 Collect LX Factory is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including Andre Cascais, Bernardo Vaz, Billi and Eric Furtado and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
@@ -22,4 +22,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 9 upcoming n
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

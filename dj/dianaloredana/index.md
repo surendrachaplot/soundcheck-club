@@ -1,6 +1,6 @@
 # Diana Loredana
 
-Diana Loredana is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at One•75 BAR, London on Sat, 29 Aug 2026.
+Diana Loredana is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at One•75 BAR, London on Sat, 29 Aug 2026.
 
 Diana Loredana is a techno and tech house artist tracked on soundcheck, with 270 sets logged across Amsterdam, Barcelona, London and Osaka and 1 more. Often billed alongside Thomas Galbardi, Duwat? and Simone Sim. Next up: One•75 BAR, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Diana Loredana is a techno and tech house artist tracked on soundcheck, with 270
 
 Thomas Galbardi, Duwat?, Simone Sim
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaloredana/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaloredana/)*

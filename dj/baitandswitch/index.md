@@ -1,6 +1,6 @@
 # Bait and Switch
 
-Bait and Switch is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
+Bait and Switch is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 19 Sept 2026.
 
 Bait and Switch are an electronic duo based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Frankfurt. Often billed alongside Andrale, Bo Irion and Switch. Next up: Tanzhaus West, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bait and Switch are an electronic duo based in Germany, tracked on soundcheck, w
 
 Andrale, Bo Irion, Switch
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baitandswitch/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baitandswitch/)*

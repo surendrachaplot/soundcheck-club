@@ -1,13 +1,14 @@
 # FALCO (2)
 
-FALCO (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Lake Zurich, Zurich on Sat, 5 Sept 2026.
+FALCO (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Spkrbox, Detroit on Wed, 26 Aug 2026.
 
-FALCO (2) is a techno and house artist based in Switzerland, tracked on soundcheck, with 24 sets logged across Basel, Detroit, Madrid and Miami and 1 more. Often billed alongside Galopp, Dekerim and Nhū. Next up: Lake Zurich, Zurich on Sat 5 Sept.
+FALCO (2) is a techno and house artist based in Switzerland, tracked on soundcheck, with 25 sets logged across Basel, Detroit, Madrid and Miami and 1 more. Often billed alongside Galopp, Dekerim and Nhū. Next up: Spkrbox, Detroit on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Spkrbox | Detroit |
 | Sat, 5 Sept 2026 | Lake Zurich | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@ FALCO (2) is a techno and house artist based in Switzerland, tracked on soundche
 
 Galopp, Dekerim, Nhū
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falco-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falco-2/)*

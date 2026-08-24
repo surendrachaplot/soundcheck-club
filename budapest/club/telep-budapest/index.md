@@ -1,6 +1,6 @@
 # Telep Budapest
 
-Telep Budapest is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Josefina Tapia x Telep" on Mon, 24 Aug 2026.
+Telep Budapest is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Josefina Tapia x Telep" on Mon, 24 Aug 2026.
 
 Telep Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Josefina Tapia (2). Browse upcoming dates, start times and who's playing. Budapest, Madách Imre út 8, 1075 Hungary.
 
@@ -14,4 +14,4 @@ Telep Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming nig
 
 Budapest, Madách Imre út 8, 1075 Hungary, Budapest
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/telep-budapest/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/telep-budapest/)*

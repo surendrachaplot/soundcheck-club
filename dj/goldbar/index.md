@@ -1,6 +1,6 @@
 # Goldbar
 
-Goldbar is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Total Refreshment Centre, London on Fri, 25 Sept 2026.
+Goldbar is a Broken Beat and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Total Refreshment Centre, London on Fri, 25 Sept 2026.
 
 Goldbar is a broken beat and jazz artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside DJ Heny.G, Last Nubian and Paul Robinson. Next up: Total Refreshment Centre, London on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Goldbar is a broken beat and jazz artist tracked on soundcheck, with 6 sets logg
 
 DJ Heny.G, Last Nubian, Paul Robinson
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldbar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldbar/)*

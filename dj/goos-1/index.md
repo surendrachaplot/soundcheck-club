@@ -1,6 +1,6 @@
 # Goos (1)
 
-Goos (1) is a Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 30 Oct 2026.
+Goos (1) is a Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 30 Oct 2026.
 
 Goos (1) is a minimal artist based in India, tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside Masedia. Next up: Fridas Pier, Stuttgart on Fri 30 Oct.
 
@@ -14,4 +14,4 @@ Goos (1) is a minimal artist based in India, tracked on soundcheck, with 1 set l
 
 Masedia
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goos-1/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goos-1/)*

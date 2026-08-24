@@ -1,6 +1,6 @@
 # Form Affinity
 
-Form Affinity is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
+Form Affinity is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
 Form Affinity is a bass and techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Cold Hippie, Madjestic Kasual and DJ Evil DJ. Next up: Ormside Projects, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Form Affinity is a bass and techno artist tracked on soundcheck, with 9 sets log
 
 Cold Hippie, Madjestic Kasual, DJ Evil DJ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formaffinity/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formaffinity/)*

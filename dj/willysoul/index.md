@@ -1,6 +1,6 @@
 # Willy Soul
 
-Willy Soul is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
+Willy Soul is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
 
 Willy Soul is a house and disco artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Greg Paulus and Nickodemus. Next up: H0L0, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Willy Soul is a house and disco artist based in United States of America, tracke
 
 Disgonuts, Greg Paulus, Nickodemus
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willysoul/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willysoul/)*

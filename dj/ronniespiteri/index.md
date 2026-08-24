@@ -1,6 +1,6 @@
 # Ronnie Spiteri
 
-Ronnie Spiteri is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at LA-YAM Rooftop, London on Sat, 5 Sept 2026.
+Ronnie Spiteri is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LA-YAM Rooftop, London on Sat, 5 Sept 2026.
 
 Ronnie Spiteri is a house and tech house artist tracked on soundcheck, with 9 sets logged across London, Manchester, Miami and Toronto. Often billed alongside Alan Fitzpatrick, Avesie and A.S.H. Next up: LA-YAM Rooftop, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ronnie Spiteri is a house and tech house artist tracked on soundcheck, with 9 se
 
 Alan Fitzpatrick, Avesie, A.S.H
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronniespiteri/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ronniespiteri/)*

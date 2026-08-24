@@ -1,6 +1,6 @@
 # Droom
 
-Droom is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
+Droom is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
 
 Droom is an italo disco and disco artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Rotterdam and Thehague. Often billed alongside Alden Tyrell, DD and Dynamic D. Next up: TBA - Inter-city , Thehague on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Droom is an italo disco and disco artist based in Netherlands, tracked on soundc
 
 Alden Tyrell, DD, Dynamic D
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/droom/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/droom/)*

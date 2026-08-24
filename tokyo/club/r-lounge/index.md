@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Resound" on Thu, 27 Aug 2026.
+R Lounge is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Resound" on Thu, 27 Aug 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including BEPPU, BERLINER KINDL, CITY1 and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, wit
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

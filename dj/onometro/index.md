@@ -1,6 +1,6 @@
 # Onométro
 
-Onométro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Red Bar, Tokyo on Mon, 24 Aug 2026.
+Onométro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Red Bar, Tokyo on Mon, 24 Aug 2026.
 
 Onométro is a house and techno artist tracked on soundcheck, with 53 sets logged across Tokyo. Often billed alongside takumar, Terax and 3rill. Next up: Red Bar, Tokyo on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Onométro is a house and techno artist tracked on soundcheck, with 53 sets logge
 
 takumar, Terax, 3rill
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onometro/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onometro/)*

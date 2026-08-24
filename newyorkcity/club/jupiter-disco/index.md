@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 22 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Sunday Bliss: La Reinarde, Miss Hapselam, Elephantglasses" on Sun, 23 Aug 2026.
+Jupiter Disco is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Jack Pompe + Special Guests TBA" on Wed, 26 Aug 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 22 upcoming nights, with line-ups including Boat Neck, Brutal Twink, chicas over rice and Civil and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights, with line-ups including Boat Neck, Brutal Twink, chicas over rice and Civil and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Sunday Bliss: La Reinarde, Miss Hapselam, Elephantglasses | Elephantglasses, La Reinarde |
 | Wed, 26 Aug 2026 | Jack Pompe + Special Guests TBA |  |
 | Thu, 27 Aug 2026 | Taj + Dj Practice  | Taj |
 | Fri, 28 Aug 2026 | Cecily & Heidy P | Dj incognito mode |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 22 upcoming 
 | Thu, 3 Sept 2026 | Roost.World (All Night) | Roost.World |
 | Fri, 4 Sept 2026 | Big Beat Freaks: Hiatt dB, Freak Out | Freak Out!, Hiatt dB |
 | Sat, 5 Sept 2026 | nightclubmedics: diedforthis + Extra Meesh | Extra Meesh, diedforthis |
+| Sun, 6 Sept 2026 | Ear, Nose, & Throat: hazzi, Tagof, swello, Civil | Civil |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

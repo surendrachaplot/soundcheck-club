@@ -1,6 +1,6 @@
 # Lynx (2)
 
-Lynx (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fabrique im Gängeviertel, Hamburg on Thu, 10 Sept 2026.
+Lynx (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fabrique im Gängeviertel, Hamburg on Thu, 10 Sept 2026.
 
 Lynx (2) is a house and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Hamburg. Next up: Fabrique im Gängeviertel, Hamburg on Thu 10 Sept.
 
@@ -10,4 +10,4 @@ Lynx (2) is a house and techno artist based in Germany, tracked on soundcheck, w
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Fabrique im Gängeviertel | Hamburg |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lynx-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lynx-2/)*

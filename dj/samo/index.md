@@ -1,6 +1,6 @@
 # Samo
 
-Samo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
+Samo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
 Samo is a house and techno artist based in Denmark, tracked on soundcheck, with 88 sets logged across Hongkong, Kyoto, London and Mexicocity and 4 more. Often billed alongside YUVIE, kengotaki and r1ku. Next up: Bread and Butter, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Samo is a house and techno artist based in Denmark, tracked on soundcheck, with 
 
 YUVIE, kengotaki, r1ku
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samo/)*

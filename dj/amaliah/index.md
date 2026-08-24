@@ -1,6 +1,6 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Amaliah is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged
 
 NIKS, Danielle, Call Super
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

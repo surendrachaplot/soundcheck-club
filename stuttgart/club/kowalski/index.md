@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "TRUE LOVE - ALL STAR NIGHT" on Fri, 28 Aug 2026.
+Kowalski is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "TRUE LOVE - ALL STAR NIGHT" on Fri, 28 Aug 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -17,4 +17,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights. 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

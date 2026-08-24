@@ -1,6 +1,6 @@
 # SHAY DOE
 
-SHAY DOE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at My Aeon, Melbourne on Fri, 4 Sept 2026.
+SHAY DOE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at My Aeon, Melbourne on Fri, 4 Sept 2026.
 
 SHAY DOE is a techno and industrial artist tracked on soundcheck, with 30 sets logged across Detroit, Melbourne and Newyorkcity. Often billed alongside CAITY WATSON, Mr. Rachele and Lincoln J. K. Webber. Next up: My Aeon, Melbourne on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ SHAY DOE is a techno and industrial artist tracked on soundcheck, with 30 sets l
 
 CAITY WATSON, Mr. Rachele, Lincoln J. K. Webber
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydoe/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydoe/)*

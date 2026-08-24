@@ -1,6 +1,6 @@
 # Donnie Sunshine
 
-Donnie Sunshine is a House and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Brixton Jamm, London on Mon, 31 Aug 2026.
+Donnie Sunshine is a House and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Brixton Jamm, London on Mon, 31 Aug 2026.
 
 Donnie Sunshine is a house and dancehall artist tracked on soundcheck, with 73 sets logged across London, Manchester and Paris. Often billed alongside Mark-Ashley Dupé, AyChibs and THEMPRESS. Next up: Brixton Jamm, London on Mon 31 Aug.
 
@@ -27,4 +27,4 @@ Donnie Sunshine is a house and dancehall artist tracked on soundcheck, with 73 s
 
 Mark-Ashley Dupé, AyChibs, THEMPRESS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*

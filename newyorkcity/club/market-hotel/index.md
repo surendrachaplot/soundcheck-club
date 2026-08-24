@@ -1,6 +1,6 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "THE Y2K PARTY! 2000s POP PERFECTION" on Fri, 28 Aug 2026.
+Market Hotel is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "THE Y2K PARTY! 2000s POP PERFECTION" on Fri, 28 Aug 2026.
 
 Market Hotel is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Amarji King, ARMANA KHAN, BLAIZE and Caín Lima and 2 more. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
@@ -20,4 +20,4 @@ Market Hotel is a music venue in Newyorkcity listed on soundcheck. 7 upcoming ni
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "KRUISPUNT & Pacific Ondergronds: zomerse samenkomst" on Sun, 23 Aug 2026.
+Garage Noord is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "DJ Marcelle (all night) + bar40 hosted by awhlkuhn" on Fri, 28 Aug 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including 42nd Avenue, Akua, amil raja and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including 42nd Avenue, Akua, amil raja and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | KRUISPUNT & Pacific Ondergronds: zomerse samenkomst |  |
 | Fri, 28 Aug 2026 | DJ Marcelle (all night) + bar40 hosted by awhlkuhn |  |
 | Sat, 29 Aug 2026 | BBBwithluv welcomes Body Is A Miracle |  |
 | Sat, 5 Sept 2026 | PERREO31 |  |
@@ -19,4 +18,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 6 upcoming nigh
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

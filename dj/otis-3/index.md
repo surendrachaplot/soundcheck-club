@@ -1,6 +1,6 @@
 # OTIS (3)
 
-OTIS (3) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 30 Aug 2026.
+OTIS (3) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Boat - MS Rhein, Berlin on Sun, 30 Aug 2026.
 
 OTIS (3) is a house and electro artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Budapest and Denver and 11 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Boat - MS Rhein, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ OTIS (3) is a house and electro artist tracked on soundcheck, with 34 sets logge
 
 Paul Lution, Intheismah, Alex Dima
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*

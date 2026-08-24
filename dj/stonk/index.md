@@ -1,6 +1,6 @@
 # STONK
 
-STONK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+STONK is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 STONK is a techno and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside E.DN, Gourlay and Arkane. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ STONK is a techno and house artist based in United Kingdom, tracked on soundchec
 
 E.DN, Gourlay, Arkane
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stonk/)*

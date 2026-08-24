@@ -1,6 +1,6 @@
 # Soofnic
 
-Soofnic is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Soofnic is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Soofnic is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam, Ibiza and Malta. Often billed alongside Abdy, Andrew Rayel and Black Box. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Soofnic is a house and progressive house artist based in Netherlands, tracked on
 
 Abdy, Andrew Rayel, Black Box
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soofnic/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soofnic/)*

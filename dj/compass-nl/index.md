@@ -1,6 +1,6 @@
 # Compass
 
-Compass is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Compass is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Compass is a house and acid artist tracked on soundcheck, with 8 sets logged across Amsterdam, London and Manchester. Often billed alongside Joey Fontaine, Emilia G and Alessio Tonin. Next up: TBA, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Compass is a house and acid artist tracked on soundcheck, with 8 sets logged acr
 
 Joey Fontaine, Emilia G, Alessio Tonin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/compass-nl/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/compass-nl/)*

@@ -1,6 +1,6 @@
 # Logan_olm
 
-Logan_olm is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
+Logan_olm is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Colour Factory, London on Sat, 19 Sept 2026.
 
 Logan_olm is a garage and uk funky artist tracked on soundcheck, with 12 sets logged across Belgrade, Bristol, Brussels and Copenhagen and 2 more. Often billed alongside Duppy, Kruz Leone and Oblig. Next up: Colour Factory, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Logan_olm is a garage and uk funky artist tracked on soundcheck, with 12 sets lo
 
 Duppy, Kruz Leone, Oblig
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/logan_olm/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/logan_olm/)*

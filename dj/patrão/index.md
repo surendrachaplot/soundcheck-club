@@ -1,6 +1,6 @@
 # PATRÃO
 
-PATRÃO is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bateau de Genève, Geneva on Sat, 5 Sept 2026.
+PATRÃO is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bateau de Genève, Geneva on Sat, 5 Sept 2026.
 
 PATRÃO is a baile funk and afrobeat artist tracked on soundcheck, with 6 sets logged across Geneva. Often billed alongside Imsobaby, Esengo and Habiboo. Next up: Bateau de Genève, Geneva on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ PATRÃO is a baile funk and afrobeat artist tracked on soundcheck, with 6 sets l
 
 Imsobaby, Esengo, Habiboo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrão/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrão/)*

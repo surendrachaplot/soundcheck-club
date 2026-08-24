@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Freudentaumel x QS1" on Fri, 28 Aug 2026.
+Jonny Knüppel is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Freudentaumel x QS1" on Fri, 28 Aug 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including AAMIROO, Aber DJ, Andriy K. and Beryll and 2 more. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -16,4 +16,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 3 upcoming night
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

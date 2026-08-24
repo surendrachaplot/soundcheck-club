@@ -1,6 +1,6 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Industrial Detroit - BEIGE, Kenjiro, Kirill, Deadlines" on Fri, 11 Sept 2026.
+Tangent Gallery is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Industrial Detroit - BEIGE, Kenjiro, Kirill, Deadlines" on Fri, 11 Sept 2026.
 
 Tangent Gallery is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including Afra, BEIGE, BMG and Daniel Bell and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
@@ -19,4 +19,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 6 upcoming nig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

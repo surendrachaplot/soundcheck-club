@@ -1,6 +1,6 @@
 # Doreen
 
-Doreen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
+Doreen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
 
 Doreen is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Boston, Copenhagen and Frankfurt and 1 more. Often billed alongside Iron Curtis, Robert Drewek and Jus-Ed. Next up: Club der Visionaere, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Doreen is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Iron Curtis, Robert Drewek, Jus-Ed
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doreen/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doreen/)*

@@ -1,6 +1,6 @@
 # Amalie
 
-Amalie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Brussels, Brussels on Sun, 30 Aug 2026.
+Amalie is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Sun, 30 Aug 2026.
 
 Amalie is a techno and trance artist based in Belgium, tracked on soundcheck, with 34 sets logged across Antwerp, Brussels and Ghent. Often billed alongside UGZR, Clara D and Hank (Be). Next up: TBA - Brussels, Brussels on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Amalie is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 
 UGZR, Clara D, Hank (Be)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amalie/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amalie/)*

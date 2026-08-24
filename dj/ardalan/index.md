@@ -1,6 +1,6 @@
 # Ardalan
 
-Ardalan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Firehouse (Pacific Beach), San Diego on Sat, 29 Aug 2026.
+Ardalan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Firehouse (Pacific Beach), San Diego on Sat, 29 Aug 2026.
 
 Ardalan is a house and tech house artist tracked on soundcheck, with 77 sets logged across Austin, Berlin, Chicago and Denver and 10 more. Often billed alongside Life on Planets, Justin Martin and RUDEE NIK. Next up: Firehouse (Pacific Beach), Sandiego on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ardalan is a house and tech house artist tracked on soundcheck, with 77 sets log
 
 Life on Planets, Justin Martin, RUDEE NIK
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ardalan/)*

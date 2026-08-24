@@ -1,6 +1,6 @@
 # Pambouk
 
-Pambouk is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Gazebo, Stockholm on Sat, 29 Aug 2026.
+Pambouk is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gazebo, Stockholm on Sat, 29 Aug 2026.
 
 Pambouk is an electronica and progressive house artist based in Lebanon, tracked on soundcheck, with 1 set logged across Stockholm. Next up: Gazebo, Stockholm on Sat 29 Aug.
 
@@ -10,4 +10,4 @@ Pambouk is an electronica and progressive house artist based in Lebanon, tracked
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Gazebo | Stockholm |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pambouk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pambouk/)*

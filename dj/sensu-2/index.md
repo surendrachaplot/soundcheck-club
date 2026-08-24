@@ -1,6 +1,6 @@
 # Sensu (2)
 
-Sensu (2) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
+Sensu (2) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
 
 Sensu (2) is a house and garage artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Brighton, Bristol, Geneva and London and 4 more. Often billed alongside Auramatic, Swimming Paul and Arithmittel. Next up: Badaboum, Paris on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Sensu (2) is a house and garage artist based in Switzerland, tracked on soundche
 
 Auramatic, Swimming Paul, Arithmittel
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu-2/)*

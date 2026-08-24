@@ -1,6 +1,6 @@
 # HWRD
 
-HWRD is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
+HWRD is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
 
 HWRD is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Auckland, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside Shrff, LOUVE (DE) and Amilli. Next up: Artheater, Cologne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ HWRD is a techno and minimal techno artist based in Germany, tracked on soundche
 
 Shrff, LOUVE (DE), Amilli
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hwrd/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hwrd/)*

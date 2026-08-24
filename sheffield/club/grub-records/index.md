@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Cheff City Sounds" on Fri, 28 Aug 2026.
+Grub Records is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Cheff City Sounds" on Fri, 28 Aug 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -15,4 +15,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 2 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

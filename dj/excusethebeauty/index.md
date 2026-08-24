@@ -1,6 +1,6 @@
 # Excuse The Beauty
 
-Excuse The Beauty is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mood Ring, New York City on Sat, 29 Aug 2026.
+Excuse The Beauty is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mood Ring, New York City on Sat, 29 Aug 2026.
 
 Excuse The Beauty is an electronic artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Antide, Connector and DJ Fat Frog. Next up: Mood Ring, Newyorkcity on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Excuse The Beauty is an electronic artist tracked on soundcheck, with 2 sets log
 
 Antide, Connector, DJ Fat Frog
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excusethebeauty/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excusethebeauty/)*

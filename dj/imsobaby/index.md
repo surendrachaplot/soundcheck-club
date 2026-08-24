@@ -1,6 +1,6 @@
 # Imsobaby
 
-Imsobaby is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at La Gravière, Geneva on Fri, 28 Aug 2026.
+Imsobaby is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at La Gravière, Geneva on Fri, 28 Aug 2026.
 
 Imsobaby is a baile funk and afrobeats artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Amsterdam, Brussels, Geneva and Paris and 1 more. Often billed alongside Esengo, Hirma and Chinnamasta. Next up: La Gravière, Geneva on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Imsobaby is a baile funk and afrobeats artist based in Switzerland, tracked on s
 
 Esengo, Hirma, Chinnamasta
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imsobaby/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imsobaby/)*

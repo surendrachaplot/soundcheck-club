@@ -1,6 +1,6 @@
 # Paxx
 
-Paxx is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
+Paxx is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
 
 Paxx is a tech house and house artist tracked on soundcheck, with 4 sets logged across Munich and Vienna. Often billed alongside Chet Rubbs, Kongusto and Melchiorr. Next up: Legal, Munich on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Paxx is a tech house and house artist tracked on soundcheck, with 4 sets logged 
 
 Chet Rubbs, Kongusto, Melchiorr
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paxx/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paxx/)*

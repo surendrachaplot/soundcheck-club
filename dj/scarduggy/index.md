@@ -1,6 +1,6 @@
 # Scar Duggy
 
-Scar Duggy is a Baile Funk and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+Scar Duggy is a Baile Funk and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 Scar Duggy is a baile funk and grime artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Mango Park, 1-800 GIRLS and A For Alpha. Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Scar Duggy is a baile funk and grime artist tracked on soundcheck, with 7 sets l
 
 Mango Park, 1-800 GIRLS, A For Alpha
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarduggy/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarduggy/)*

@@ -1,6 +1,6 @@
 # Mademoisel
 
-Mademoisel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Macadam, Nantes on Fri, 28 Aug 2026.
+Mademoisel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Macadam, Nantes on Fri, 28 Aug 2026.
 
 Mademoisel is a techno and trance artist tracked on soundcheck, with 48 sets logged across Berlin, Copenhagen, London and Lyon and 5 more. Often billed alongside DJ SKIN, ISA (ES) and Aquamarine. Next up: Macadam, Nantes on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Mademoisel is a techno and trance artist tracked on soundcheck, with 48 sets log
 
 DJ SKIN, ISA (ES), Aquamarine
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mademoisel/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mademoisel/)*

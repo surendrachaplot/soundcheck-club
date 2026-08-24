@@ -1,6 +1,6 @@
 # Naco Taco
 
-Naco Taco is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Giving Groove x Boston Open Decks" on Sat, 29 Aug 2026.
+Naco Taco is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Giving Groove x Boston Open Decks" on Sat, 29 Aug 2026.
 
 Naco Taco is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including ASHACK. Browse upcoming dates, start times and who's playing. 297 Massachusetts Ave, Cambridge, MA 02139, USA.
 
@@ -15,4 +15,4 @@ Naco Taco is a music venue in Boston listed on soundcheck. 2 upcoming nights, wi
 
 297 Massachusetts Ave, Cambridge, MA 02139, USA, Boston
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/naco-taco/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/naco-taco/)*

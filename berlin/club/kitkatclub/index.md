@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Electric Monday Summer Special Latex Valencia ORACLE CULTURE" on Mon, 24 Aug 2026.
+KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Electric Monday Summer Special Latex Valencia ORACLE CULTURE" on Mon, 24 Aug 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Albin Brezlan, Alice D., Alma Negrot and Ana Lilia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, 
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

@@ -1,6 +1,6 @@
 # Neil Pierce
 
-Neil Pierce is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Neil Pierce is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Neil Pierce is a deep house and house artist tracked on soundcheck, with 38 sets logged across Birmingham, Chicago, Dublin and Edinburgh and 6 more. Often billed alongside Sy Sez, Ronnie Herel and DJ Spen. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Neil Pierce is a deep house and house artist tracked on soundcheck, with 38 sets
 
 Sy Sez, Ronnie Herel, DJ Spen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilpierce/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neilpierce/)*

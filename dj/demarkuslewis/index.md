@@ -1,6 +1,6 @@
 # Demarkus Lewis
 
-Demarkus Lewis is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at MAD Radio NYC, New York City on Fri, 28 Aug 2026.
+Demarkus Lewis is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at MAD Radio NYC, New York City on Fri, 28 Aug 2026.
 
 Demarkus Lewis is a house and acid artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Denver, Detroit and Miami and 3 more. Often billed alongside Brett Johnson, Alex DL and Alton Miller. Next up: MAD Radio NYC, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Demarkus Lewis is a house and acid artist based in United States of America, tra
 
 Brett Johnson, Alex DL, Alton Miller
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demarkuslewis/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demarkuslewis/)*

@@ -1,6 +1,6 @@
 # Astra Miami
 
-Astra Miami is a music venue in Miami with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "SKYHOUSE SESSIONS - Astra Miami" on Sat, 19 Sept 2026.
+Astra Miami is a music venue in Miami with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "SKYHOUSE SESSIONS - Astra Miami" on Sat, 19 Sept 2026.
 
 Astra Miami is a music venue in Miami listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2103 NW 2nd Ave, Miami, FL 33127, United States.
 
@@ -14,4 +14,4 @@ Astra Miami is a music venue in Miami listed on soundcheck. 1 upcoming night. Br
 
 2103 NW 2nd Ave, Miami, FL 33127, United States, Miami
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/astra-miami/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/astra-miami/)*

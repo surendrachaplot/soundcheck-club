@@ -1,6 +1,6 @@
 # Impulsive Behaviour
 
-Impulsive Behaviour is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+Impulsive Behaviour is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
 Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Geneva and Lisbon and 6 more. Often billed alongside Adrian Mills, Cloudy and The Muffin Man. Next up: OXI, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Impulsive Behaviour is a techno and hardcore artist based in United Kingdom, tra
 
 Adrian Mills, Cloudy, The Muffin Man
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/impulsivebehaviour/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/impulsivebehaviour/)*

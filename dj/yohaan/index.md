@@ -1,6 +1,6 @@
 # yo haan
 
-yo haan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Altenburg 1964, Prague on Sat, 29 Aug 2026.
+yo haan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Altenburg 1964, Prague on Sat, 29 Aug 2026.
 
 yo haan is a techno and electro artist based in Czech Republic, tracked on soundcheck, with 36 sets logged across Prague. Often billed alongside SJ Yellow, 3ever and Nina Farrina. Next up: Altenburg 1964, Prague on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ yo haan is a techno and electro artist based in Czech Republic, tracked on sound
 
 SJ Yellow, 3ever, Nina Farrina
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohaan/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohaan/)*

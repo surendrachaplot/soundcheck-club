@@ -1,6 +1,6 @@
 # PILIGN
 
-PILIGN is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
+PILIGN is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
 
 PILIGN is an acid and techno artist based in Argentina, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside RŌ (FLX4), HERS and SYM. Next up: M7 Club, Barcelona on Fri 28 Aug.
 
@@ -14,4 +14,4 @@ PILIGN is an acid and techno artist based in Argentina, tracked on soundcheck, w
 
 RŌ (FLX4), HERS, SYM
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilign/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilign/)*

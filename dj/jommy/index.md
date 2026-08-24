@@ -1,6 +1,6 @@
 # JOMMY
 
-JOMMY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Azumaya, Tokyo on Fri, 28 Aug 2026.
+JOMMY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Azumaya, Tokyo on Fri, 28 Aug 2026.
 
 JOMMY is a house and techno artist tracked on soundcheck, with 62 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside KINGMCK, DJ SHINTARO and YUVIE. Next up: Azumaya, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ JOMMY is a house and techno artist tracked on soundcheck, with 62 sets logged ac
 
 KINGMCK, DJ SHINTARO, YUVIE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jommy/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jommy/)*

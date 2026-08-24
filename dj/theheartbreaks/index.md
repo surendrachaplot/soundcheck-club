@@ -1,6 +1,6 @@
 # The Heartbreaks
 
-The Heartbreaks is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club NYX, Amsterdam on Sat, 29 Aug 2026.
+The Heartbreaks is a Pop and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club NYX, Amsterdam on Sat, 29 Aug 2026.
 
 The Heartbreaks is a pop and disco artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Aiscream, Babs op de beat and Divine. Next up: Club NYX, Amsterdam on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ The Heartbreaks is a pop and disco artist based in Netherlands, tracked on sound
 
 Aiscream, Babs op de beat, Divine
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theheartbreaks/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theheartbreaks/)*

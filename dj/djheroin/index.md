@@ -1,6 +1,6 @@
 # DJ Heroin
 
-DJ Heroin is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ISOamsterdam, Amsterdam on Fri, 4 Sept 2026.
+DJ Heroin is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ISOamsterdam, Amsterdam on Fri, 4 Sept 2026.
 
 DJ Heroin is an experimental and pop artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Brussels and London and 3 more. Often billed alongside DJ GHEPARD, N3LYSTAR and Rat Section. Next up: ISOamsterdam, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Heroin is an experimental and pop artist tracked on soundcheck, with 12 sets 
 
 DJ GHEPARD, N3LYSTAR, Rat Section
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheroin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheroin/)*

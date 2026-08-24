@@ -1,6 +1,6 @@
 # Chafik Bali
 
-Chafik Bali is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ramona, Manchester on Fri, 28 Aug 2026.
+Chafik Bali is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ramona, Manchester on Fri, 28 Aug 2026.
 
 Chafik Bali is a house and electro artist based in Tunisia, tracked on soundcheck, with 13 sets logged across London and Manchester. Often billed alongside Judas Du, Jess Rose and Nick Charles. Next up: Ramona, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Chafik Bali is a house and electro artist based in Tunisia, tracked on soundchec
 
 Judas Du, Jess Rose, Nick Charles
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chafikbali/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chafikbali/)*

@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Bubble House x Club Up" on Fri, 28 Aug 2026.
+Club Up is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Bubble House x Club Up" on Fri, 28 Aug 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Boyos Soundsystem, Danny Snowden, Jeremy Sylvester and Lauren Steel and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -21,4 +21,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, w
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

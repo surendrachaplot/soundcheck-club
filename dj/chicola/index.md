@@ -1,6 +1,6 @@
 # Chicola
 
-Chicola is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Chicola is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Chicola is a progressive house and techno artist based in Israel, tracked on soundcheck, with 8 sets logged across Amsterdam, Buenosaires, London and Mexicocity and 1 more. Often billed alongside Guy Mantzur, DJ Zombi and Eli Nissan. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Chicola is a progressive house and techno artist based in Israel, tracked on sou
 
 Guy Mantzur, DJ Zombi, Eli Nissan
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicola/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicola/)*

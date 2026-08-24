@@ -1,6 +1,6 @@
 # STAN (6)
 
-STAN (6) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Starlane Pizza Bar, London on Thu, 27 Aug 2026.
+STAN (6) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Starlane Pizza Bar, London on Thu, 27 Aug 2026.
 
 STAN (6) is a tech house and house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside T Simm, THEO (5) and CICELY. Next up: Starlane Pizza Bar, London on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ STAN (6) is a tech house and house artist tracked on soundcheck, with 3 sets log
 
 T Simm, THEO (5), CICELY
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stan-6/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stan-6/)*

@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a Jazz and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+Chedda Bred is a Jazz and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 Chedda Bred is a jazz and broken beat artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Chedda Bred is a jazz and broken beat artist tracked on soundcheck, with 20 sets
 
 Chedda B, Neue Grafik, limi
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

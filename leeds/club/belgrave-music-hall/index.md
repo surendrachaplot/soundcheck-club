@@ -1,6 +1,6 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 18 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Listening Group #84 - Floating Points Special" on Mon, 24 Aug 2026.
+Belgrave Music Hall is a music venue in Leeds with 18 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Listening Group #84 - Floating Points Special" on Mon, 24 Aug 2026.
 
 Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 18 upcoming nights, with line-ups including Allen Watts, Bel Cobain, Elder Island and Frost Children and 2 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
@@ -23,4 +23,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 18 upcoming 
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

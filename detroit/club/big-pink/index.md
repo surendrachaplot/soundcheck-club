@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "RETIRED BADDIES: SUNDAY DAY PARTY (2000S THROWBACKS)" on Sun, 23 Aug 2026.
+Big Pink is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "RETIRED BADDIES: SUNDAY DAY PARTY (2000S THROWBACKS)" on Sun, 23 Aug 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including Botez. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -22,4 +22,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming nights, wi
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

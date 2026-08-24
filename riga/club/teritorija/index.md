@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Golden Habit" on Fri, 28 Aug 2026.
+Teritorija is a music venue in Riga with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Golden Habit" on Fri, 28 Aug 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming nights, with line-ups including Aniri Chan, ARRISHA, DV8 (LV) and Golden Habit and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -22,4 +22,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming nights, wit
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

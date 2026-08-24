@@ -1,6 +1,6 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Chai Rave LA: ON THE ROOFTOP at LEVEL8 ON AUG 29TH! (ONE YEAR ANNIVERSARY!)" on Sat, 29 Aug 2026.
+Level 8 DTLA is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Chai Rave LA: ON THE ROOFTOP at LEVEL8 ON AUG 29TH! (ONE YEAR ANNIVERSARY!)" on Sat, 29 Aug 2026.
 
 Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including Apache and Grum. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
@@ -19,4 +19,4 @@ Level 8 DTLA is a music venue in Losangeles listed on soundcheck. 6 upcoming nig
 
 1254 S Figueroa St, Los Angeles, CA 90015, Los Angeles
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/level-8-dtla/)*

@@ -1,8 +1,8 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+Jhobei is a House and Electro artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
 
-Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 9 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
+Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 10 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 B.Love, Julian Anthony, Reeshy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

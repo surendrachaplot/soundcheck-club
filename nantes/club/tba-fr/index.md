@@ -1,6 +1,6 @@
 # TBA - FR
 
-TBA - FR is a music venue in Nantes with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Field Notes 𒆠 Peers+ Europe" on Fri, 4 Sept 2026.
+TBA - FR is a music venue in Nantes with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Field Notes 𒆠 Peers+ Europe" on Fri, 4 Sept 2026.
 
 TBA - FR is a music venue in Nantes listed on soundcheck. 1 upcoming night, with line-ups including Eisenheim. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - FR is a music venue in Nantes listed on soundcheck. 1 upcoming night, with
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Field Notes 𒆠 Peers+ Europe | Eisenheim |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/tba-fr/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/tba-fr/)*

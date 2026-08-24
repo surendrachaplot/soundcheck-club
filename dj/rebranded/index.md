@@ -1,6 +1,6 @@
 # rebrånded
 
-rebrånded is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+rebrånded is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 rebrånded is a techno and tech house artist tracked on soundcheck, with 31 sets logged across Amsterdam, London and Utrecht. Often billed alongside Antonio Fevola, Inez Akker and Caelestis. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ rebrånded is a techno and tech house artist tracked on soundcheck, with 31 sets
 
 Antonio Fevola, Inez Akker, Caelestis
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebranded/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebranded/)*

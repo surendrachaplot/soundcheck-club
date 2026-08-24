@@ -1,6 +1,6 @@
 # fTronic
 
-fTronic is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club Makossa, London on Fri, 28 Aug 2026.
+fTronic is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club Makossa, London on Fri, 28 Aug 2026.
 
 fTronic is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London. Often billed alongside PEDRØ, MAÏS and Benebe. Next up: Club Makossa, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ fTronic is a house and electronica artist based in United Kingdom, tracked on so
 
 PEDRØ, MAÏS, Benebe
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ftronic/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ftronic/)*

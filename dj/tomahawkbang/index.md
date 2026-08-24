@@ -1,6 +1,6 @@
 # Tomahawk Bang
 
-Tomahawk Bang is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Lighthouse, London on Fri, 23 Oct 2026.
+Tomahawk Bang is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Lighthouse, London on Fri, 23 Oct 2026.
 
 Tomahawk Bang is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 3 sets logged across London, Sanfrancisco and Vancouver. Often billed alongside Blu Moon, Coflo and Handsome Tiger. Next up: The Lighthouse, London on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Tomahawk Bang is a house and breakbeat artist based in United States of America,
 
 Blu Moon, Coflo, Handsome Tiger
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomahawkbang/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomahawkbang/)*

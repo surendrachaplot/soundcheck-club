@@ -1,6 +1,6 @@
 # Ny Bastion
 
-Ny Bastion is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ny Bastion & Maladies presents: Solen synker, synges bort." on Fri, 28 Aug 2026.
+Ny Bastion is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ny Bastion & Maladies presents: Solen synker, synges bort." on Fri, 28 Aug 2026.
 
 Ny Bastion is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Søren Maria Buschmann. Browse upcoming dates, start times and who's playing. Refshalevej 28, Copenhagen, Denmark, 1432.
 
@@ -15,4 +15,4 @@ Ny Bastion is a music venue in Copenhagen listed on soundcheck. 2 upcoming night
 
 Refshalevej 28, Copenhagen, Denmark, 1432, Copenhagen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/ny-bastion/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/ny-bastion/)*

@@ -1,6 +1,6 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
+Nick Curly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
 
 Nick Curly is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Auckland and Bali and 38 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Audio Club, Geneva on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 110 sets
 
 Easttown, Reboot, Andrew Azara
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

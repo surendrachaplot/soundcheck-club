@@ -1,6 +1,6 @@
 # Daniel Dreier
 
-Daniel Dreier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
+Daniel Dreier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
 
 Daniel Dreier is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin and Hamburg. Often billed alongside Guido Schneider, Alex Kraemer and DAVIDE (2). Next up: Club Frau Holle, Hamburg on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Daniel Dreier is a techno and house artist tracked on soundcheck, with 12 sets l
 
 Guido Schneider, Alex Kraemer, DAVIDE (2)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldreier/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldreier/)*

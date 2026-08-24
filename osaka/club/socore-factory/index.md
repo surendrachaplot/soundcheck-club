@@ -1,6 +1,6 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HOOFIT" on Wed, 26 Aug 2026.
+Socore Factory is a music venue in Osaka with 21 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "HOOFIT" on Wed, 26 Aug 2026.
 
 Socore Factory is a music venue in Osaka listed on soundcheck. 21 upcoming nights, with line-ups including ANCHIN, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
@@ -23,4 +23,4 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 21 upcoming night
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

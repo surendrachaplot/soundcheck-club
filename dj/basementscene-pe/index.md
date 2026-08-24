@@ -1,6 +1,6 @@
 # Basement Scene
 
-Basement Scene is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
+Basement Scene is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
 
 Basement Scene is a techno and tech house artist tracked on soundcheck, with 46 sets logged across Barcelona. Often billed alongside CHRIS RAZZ, Miguel Silva and Elwei. Next up: City Hall, Barcelona on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Basement Scene is a techno and tech house artist tracked on soundcheck, with 46 
 
 CHRIS RAZZ, Miguel Silva, Elwei
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basementscene-pe/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basementscene-pe/)*

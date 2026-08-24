@@ -1,6 +1,6 @@
 # La Belle Angele
 
-La Belle Angele is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Jackhammer presents Billy Nasty and Mr.C" on Sat, 29 Aug 2026.
+La Belle Angele is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Jackhammer presents Billy Nasty and Mr.C" on Sat, 29 Aug 2026.
 
 La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including Billy Nasty, cara hegarty, Fërb and Keyte and 2 more. Browse upcoming dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming n
 
 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*

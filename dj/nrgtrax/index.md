@@ -1,6 +1,6 @@
 # NRG Trax
 
-NRG Trax is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Club 69, Glasgow on Fri, 28 Aug 2026.
+NRG Trax is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club 69, Glasgow on Fri, 28 Aug 2026.
 
 NRG Trax is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Edinburgh, Glasgow, Madrid and Newcastle. Often billed alongside Andy Whitby, Klubfiller and Alan Benn. Next up: Club 69, Glasgow on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ NRG Trax is a tech house and techno artist based in United Kingdom, tracked on s
 
 Andy Whitby, Klubfiller, Alan Benn
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nrgtrax/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nrgtrax/)*

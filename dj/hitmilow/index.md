@@ -1,6 +1,6 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+HiTMiLØW is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 HiTMiLØW is a techno and trance artist tracked on soundcheck, with 81 sets logged across Barcelona, Berlin, Budapest and Cologne and 15 more. Often billed alongside Cleopard2000, Justin Tinderdate and Elotrance. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ HiTMiLØW is a techno and trance artist tracked on soundcheck, with 81 sets logg
 
 Cleopard2000, Justin Tinderdate, Elotrance
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*

@@ -1,6 +1,6 @@
 # DJ JNETT
 
-DJ JNETT is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Melbourne Town Hall, Melbourne on Sat, 29 Aug 2026.
+DJ JNETT is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Melbourne Town Hall, Melbourne on Sat, 29 Aug 2026.
 
 DJ JNETT is a house and deep house artist based in Australia, tracked on soundcheck, with 128 sets logged across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Colette, Zjoso and Moopie. Next up: Melbourne Town Hall, Melbourne on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ DJ JNETT is a house and deep house artist based in Australia, tracked on soundch
 
 Colette, Zjoso, Moopie
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*

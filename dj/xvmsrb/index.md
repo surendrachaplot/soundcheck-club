@@ -1,6 +1,6 @@
 # XVM (SRB)
 
-XVM (SRB) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Raedli, Zurich on Fri, 18 Sept 2026.
+XVM (SRB) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Raedli, Zurich on Fri, 18 Sept 2026.
 
 XVM (SRB) is a techno and electronica artist tracked on soundcheck, with 3 sets logged across Belgrade, Madrid and Zurich. Often billed alongside 6EJOU, ACOR and ANDWHO. Next up: Raedli, Zurich on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ XVM (SRB) is a techno and electronica artist tracked on soundcheck, with 3 sets 
 
 6EJOU, ACOR, ANDWHO
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xvmsrb/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xvmsrb/)*

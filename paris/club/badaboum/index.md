@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Club — Area: Ocean b2b how2fly, Shake Daddy, dj try, Sensu" on Fri, 28 Aug 2026.
+Badaboum is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Club — Area: Ocean b2b how2fly, Shake Daddy, dj try, Sensu" on Fri, 28 Aug 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including anyoneID, BADSISTA, Blasha & Allatt and Breaka and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -23,4 +23,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 13 upcoming nights, wit
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

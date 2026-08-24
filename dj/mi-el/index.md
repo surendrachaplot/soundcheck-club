@@ -1,6 +1,6 @@
 # mi-el
 
-mi-el is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Deutsche Oper Berlin, Berlin on Sat, 29 Aug 2026.
+mi-el is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Deutsche Oper Berlin, Berlin on Sat, 29 Aug 2026.
 
 mi-el is a bass and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Batu, re:ni and Amaliah. Next up: Deutsche Oper Berlin, Berlin on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ mi-el is a bass and techno artist tracked on soundcheck, with 110 sets logged ac
 
 Batu, re:ni, Amaliah
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*

@@ -1,6 +1,6 @@
 # Somejerk
 
-Somejerk is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hollywood Live, Miami on Wed, 26 Aug 2026.
+Somejerk is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hollywood Live, Miami on Wed, 26 Aug 2026.
 
 Somejerk is a jungle and drum & bass artist tracked on soundcheck, with 2 sets logged across Miami. Often billed alongside Craze, DJ Strife and Krispy. Next up: Hollywood Live, Miami on Wed 26 Aug.
 
@@ -18,4 +18,4 @@ Somejerk is a jungle and drum & bass artist tracked on soundcheck, with 2 sets l
 
 Craze, DJ Strife, Krispy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somejerk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somejerk/)*

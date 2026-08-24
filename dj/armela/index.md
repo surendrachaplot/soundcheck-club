@@ -1,6 +1,6 @@
 # Armela
 
-Armela is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at LAUT, Barcelona on Fri, 4 Sept 2026.
+Armela is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LAUT, Barcelona on Fri, 4 Sept 2026.
 
 Armela is an electro and techno artist based in Spain, tracked on soundcheck, with 35 sets logged across Barcelona and Berlin. Often billed alongside MøønkiZa, Diego Montiel and Francesco (BCN). Next up: LAUT, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Armela is an electro and techno artist based in Spain, tracked on soundcheck, wi
 
 MøønkiZa, Diego Montiel, Francesco (BCN)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armela/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armela/)*

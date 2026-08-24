@@ -1,6 +1,6 @@
 # the Therapy
 
-the Therapy is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 11 Sept 2026.
+the Therapy is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 11 Sept 2026.
 
 the Therapy is an acid and techno artist tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside LARTEK, Lukas Meunier and Nicolas Binder. Next up: Fridas Pier, Stuttgart on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ the Therapy is an acid and techno artist tracked on soundcheck, with 1 set logge
 
 LARTEK, Lukas Meunier, Nicolas Binder
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thetherapy/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thetherapy/)*

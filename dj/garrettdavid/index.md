@@ -1,6 +1,6 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Loft, Manchester on Fri, 4 Sept 2026.
+Garrett David is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Loft, Manchester on Fri, 4 Sept 2026.
 
 Garrett David is a house and disco artist tracked on soundcheck, with 197 sets logged across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: The Loft, Manchester on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Garrett David is a house and disco artist tracked on soundcheck, with 197 sets l
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

@@ -1,6 +1,6 @@
 # Cab Drivers
 
-Cab Drivers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
+Cab Drivers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
 
 Cab Drivers is a house and disco artist tracked on soundcheck, with 4 sets logged across Berlin and Frankfurt. Often billed alongside Annina, Marc Brauner and ATEQ. Next up: Tokonoma Club, Frankfurt on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Cab Drivers is a house and disco artist tracked on soundcheck, with 4 sets logge
 
 Annina, Marc Brauner, ATEQ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabdrivers/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabdrivers/)*

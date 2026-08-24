@@ -1,6 +1,6 @@
 # Sanel
 
-Sanel is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
+Sanel is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
 
 Sanel is a tech house and minimal artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Basel and Berlin and 3 more. Often billed alongside Philip Bogdan, Jiggy and Biagio Sibilla. Next up: Waranga, Stuttgart on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sanel is a tech house and minimal artist tracked on soundcheck, with 55 sets log
 
 Philip Bogdan, Jiggy, Biagio Sibilla
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanel/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanel/)*

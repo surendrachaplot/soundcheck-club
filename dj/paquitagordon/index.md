@@ -1,6 +1,6 @@
 # Paquita Gordon
 
-Paquita Gordon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Paquita Gordon is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Paquita Gordon is a house and techno artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside BASHKKA, Francesco Del Garda and Marco Shuttle. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Paquita Gordon is a house and techno artist tracked on soundcheck, with 129 sets
 
 BASHKKA, Francesco Del Garda, Marco Shuttle
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

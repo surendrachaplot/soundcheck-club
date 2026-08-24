@@ -1,6 +1,6 @@
 # ART NO LOGIA
 
-ART NO LOGIA is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
+ART NO LOGIA is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 25 Sept 2026.
 
 ART NO LOGIA is a tech house and house artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Ibiza and Madrid and 3 more. Often billed alongside AJ Christou, BizZa and Mason Collective. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ ART NO LOGIA is a tech house and house artist tracked on soundcheck, with 33 set
 
 AJ Christou, BizZa, Mason Collective
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artnologia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artnologia/)*

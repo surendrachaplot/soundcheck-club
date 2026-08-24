@@ -1,6 +1,6 @@
 # THELMA
 
-THELMA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Badaboum, Paris on Fri, 4 Sept 2026.
+THELMA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Badaboum, Paris on Fri, 4 Sept 2026.
 
 THELMA is a techno and house artist tracked on soundcheck, with 94 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Faster Horses, Helena Lauwaert and Pegassi. Next up: Badaboum, Paris on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ THELMA is a techno and house artist tracked on soundcheck, with 94 sets logged a
 
 Faster Horses, Helena Lauwaert, Pegassi
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

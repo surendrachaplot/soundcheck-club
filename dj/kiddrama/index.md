@@ -1,6 +1,6 @@
 # Kid Drama
 
-Kid Drama is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Phonox, London on Sat, 3 Oct 2026.
+Kid Drama is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Phonox, London on Sat, 3 Oct 2026.
 
 Kid Drama is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London and Paris. Often billed alongside Need For Mirrors, Doc Scott and Loxy. Next up: Phonox, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kid Drama is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Need For Mirrors, Doc Scott, Loxy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddrama/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddrama/)*

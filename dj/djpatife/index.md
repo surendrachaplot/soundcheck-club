@@ -1,6 +1,6 @@
 # DJ Patife
 
-DJ Patife is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Jazz Cafe, London on Sun, 30 Aug 2026.
+DJ Patife is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Jazz Cafe, London on Sun, 30 Aug 2026.
 
 DJ Patife is a drum & bass and jungle artist tracked on soundcheck, with 2 sets logged across Lisbon and London. Often billed alongside Delikwe, Patife and Roni Size. Next up: The Jazz Cafe, London on Sun 30 Aug.
 
@@ -18,4 +18,4 @@ DJ Patife is a drum & bass and jungle artist tracked on soundcheck, with 2 sets 
 
 Delikwe, Patife, Roni Size
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpatife/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpatife/)*

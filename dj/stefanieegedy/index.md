@@ -1,6 +1,6 @@
 # Stefanie Egedy
 
-Stefanie Egedy is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
+Stefanie Egedy is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gessnerallee, Zurich on Fri, 2 Oct 2026.
 
 Stefanie Egedy is an experimental and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, London and Zurich. Often billed alongside Ale Hop, Electric Indigo and Jasmine Guffond. Next up: Gessnerallee, Zurich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Stefanie Egedy is an experimental and techno artist based in Germany, tracked on
 
 Ale Hop, Electric Indigo, Jasmine Guffond
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanieegedy/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanieegedy/)*

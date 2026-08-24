@@ -1,6 +1,6 @@
 # Fineberg
 
-Fineberg is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Paloma, Berlin on Thu, 3 Sept 2026.
+Fineberg is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Paloma, Berlin on Thu, 3 Sept 2026.
 
 Fineberg is a house and acid artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Karolina Bnv, CEEE and Dick Jockey. Next up: Paloma, Berlin on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Fineberg is a house and acid artist tracked on soundcheck, with 18 sets logged a
 
 Karolina Bnv, CEEE, Dick Jockey
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fineberg-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fineberg-2/)*

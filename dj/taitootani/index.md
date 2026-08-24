@@ -1,6 +1,6 @@
 # Taito Otani
 
-Taito Otani is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Cafe Bar Livre, Tokyo on Fri, 28 Aug 2026.
+Taito Otani is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Cafe Bar Livre, Tokyo on Fri, 28 Aug 2026.
 
 Taito Otani is an experimental and noise artist tracked on soundcheck, with 6 sets logged across Tokyo. Often billed alongside Hackmarkt, Tsuyoshi Otabe and junkie babe. Next up: Cafe Bar Livre, Tokyo on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Taito Otani is an experimental and noise artist tracked on soundcheck, with 6 se
 
 Hackmarkt, Tsuyoshi Otabe, junkie babe
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taitootani/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taitootani/)*

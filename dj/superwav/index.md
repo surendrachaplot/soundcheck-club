@@ -1,6 +1,6 @@
 # SUPER WAV
 
-SUPER WAV is a Deep House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jupiter Disco, New York City on Wed, 2 Sept 2026.
+SUPER WAV is a Deep House and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jupiter Disco, New York City on Wed, 2 Sept 2026.
 
 SUPER WAV is a deep house and ambient artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Interpretive Sound, Choo Choo and Club Soda. Next up: Jupiter Disco, Newyorkcity on Wed 2 Sept.
 
@@ -23,4 +23,4 @@ SUPER WAV is a deep house and ambient artist based in United States of America, 
 
 Interpretive Sound, Choo Choo, Club Soda
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superwav/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superwav/)*

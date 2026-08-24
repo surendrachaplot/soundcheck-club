@@ -1,6 +1,6 @@
 # Luigi Di Venere
 
-Luigi Di Venere is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
+Luigi Di Venere is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
 
 Luigi Di Venere is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside Stathis (GR), Massimiliano Pagliara and Chris Cruse. Next up: The DBA, Manchester on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Luigi Di Venere is a house and techno artist tracked on soundcheck, with 106 set
 
 Stathis (GR), Massimiliano Pagliara, Chris Cruse
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidivenere/)*

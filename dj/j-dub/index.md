@@ -1,6 +1,6 @@
 # J-Dub
 
-J-Dub is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
+J-Dub is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
 
 J-Dub is a house and deep house artist tracked on soundcheck, with 17 sets logged across Losangeles, Miami and Sanfrancisco. Often billed alongside Mark Farina, DJ Sneak and SEEPS. Next up: The Monty Bar, Losangeles on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ J-Dub is a house and deep house artist tracked on soundcheck, with 17 sets logge
 
 Mark Farina, DJ Sneak, SEEPS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dub/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dub/)*

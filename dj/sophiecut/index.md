@@ -1,6 +1,6 @@
 # Sophie Cut
 
-Sophie Cut is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 21 Nov 2026.
+Sophie Cut is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 21 Nov 2026.
 
 Sophie Cut is a techno and trance artist tracked on soundcheck, with 14 sets logged across Hamburg. Often billed alongside Love Defender, NYON and ACID B4RBIE. Next up: Uebel & Gefährlich, Hamburg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sophie Cut is a techno and trance artist tracked on soundcheck, with 14 sets log
 
 Love Defender, NYON, ACID B4RBIE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiecut/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiecut/)*

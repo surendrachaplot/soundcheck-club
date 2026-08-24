@@ -1,6 +1,6 @@
 # anu
 
-anu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ormside Projects, London on Sat, 29 Aug 2026.
+anu is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ormside Projects, London on Sat, 29 Aug 2026.
 
 anu is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside 404 eros, Avsluta and NIKS. Next up: Ormside Projects, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ anu is a house and techno artist based in United Kingdom, tracked on soundcheck,
 
 404 eros, Avsluta, NIKS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anu/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anu/)*

@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Green Room NYC, New York City on Fri, 28 Aug 2026.
+Max Sprauer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Green Room NYC, New York City on Fri, 28 Aug 2026.
 
 Max Sprauer is a house and techno artist tracked on soundcheck, with 101 sets logged across Berlin, Boston, Brussels and Chicago and 8 more. Often billed alongside Shvili, Rama NYC and Desyn. Next up: Green Room NYC, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 101 sets lo
 
 Shvili, Rama NYC, Desyn
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

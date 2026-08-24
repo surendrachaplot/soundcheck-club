@@ -1,6 +1,6 @@
 # TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX
 
-TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "TEMPORAL BODIES - PROJECT ENSEMBLE Studio Season 006" on Fri, 28 Aug 2026.
+TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "TEMPORAL BODIES - PROJECT ENSEMBLE Studio Season 006" on Fri, 28 Aug 2026.
 
 TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Elijah Aike and reialise. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX is a music venue i
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TEMPORAL BODIES - PROJECT ENSEMBLE Studio Season 006 | Elijah Aike, reialise |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-keystone-crescent-no-9-caledonian-road-london-n1-9dx/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-keystone-crescent-no-9-caledonian-road-london-n1-9dx/)*

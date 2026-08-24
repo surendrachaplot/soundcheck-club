@@ -1,6 +1,6 @@
 # ROSIE
 
-ROSIE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
+ROSIE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 ROSIE is a house and garage artist tracked on soundcheck, with 40 sets logged across Belfast, Berlin, Ghent and Ibiza and 4 more. Often billed alongside Man Power, Swin and Ben Caldwell. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ ROSIE is a house and garage artist tracked on soundcheck, with 40 sets logged ac
 
 Man Power, Swin, Ben Caldwell
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosie/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosie/)*

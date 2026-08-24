@@ -1,6 +1,6 @@
 # DJ Koreatown
 
-DJ Koreatown is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+DJ Koreatown is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
 DJ Koreatown is an electronica and garage artist tracked on soundcheck, with 6 sets logged across Vancouver. Often billed alongside alecks, 2flowers and Beau of Earth. Next up: TBA, Vancouver on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ DJ Koreatown is an electronica and garage artist tracked on soundcheck, with 6 s
 
 alecks, 2flowers, Beau of Earth
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoreatown/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoreatown/)*

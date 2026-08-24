@@ -1,6 +1,6 @@
 # Shogun
 
-Shogun is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Room 22, Sydney on Fri, 28 Aug 2026.
+Shogun is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Room 22, Sydney on Fri, 28 Aug 2026.
 
 Shogun is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 11 sets logged across Berlin, Dublin, Houston and Lisbon and 4 more. Often billed alongside DJ IDeaL, AKONA and AYANA KOSHIBA. Next up: Room 22, Sydney on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Shogun is a techno and hardcore artist based in United States of America, tracke
 
 DJ IDeaL, AKONA, AYANA KOSHIBA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*

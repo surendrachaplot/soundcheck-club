@@ -1,6 +1,6 @@
 # Albin Brezlan
 
-Albin Brezlan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Wed, 26 Aug 2026.
+Albin Brezlan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at KitKatClub, Berlin on Wed, 26 Aug 2026.
 
 Albin Brezlan is a techno and house artist based in Austria, tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Huebl, Mark Michael and Dana Melissa. Next up: KitKatClub, Berlin on Wed 26 Aug.
 
@@ -32,4 +32,4 @@ Albin Brezlan is a techno and house artist based in Austria, tracked on soundche
 
 Huebl, Mark Michael, Dana Melissa
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albinbrezlan/)*

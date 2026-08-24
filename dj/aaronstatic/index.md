@@ -1,6 +1,6 @@
 # Aaron Static
 
-Aaron Static is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+Aaron Static is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
 Aaron Static is a drum & bass and bass artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne. Often billed alongside Stackpackers, J-Slyde and MELTA. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Aaron Static is a drum & bass and bass artist based in Australia, tracked on sou
 
 Stackpackers, J-Slyde, MELTA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronstatic/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronstatic/)*

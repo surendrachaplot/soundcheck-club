@@ -1,6 +1,6 @@
 # King Shiloh
 
-King Shiloh is a Dub and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Au Nix Nox, Paris on Fri, 11 Sept 2026.
+King Shiloh is a Dub and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Au Nix Nox, Paris on Fri, 11 Sept 2026.
 
 King Shiloh is a dub and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Ghent, Leeds and Losangeles and 3 more. Often billed alongside Iration Steppas, Mala and Channel One Sound. Next up: Au Nix Nox, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ King Shiloh is a dub and techno artist based in Netherlands, tracked on soundche
 
 Iration Steppas, Mala, Channel One Sound
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshiloh/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshiloh/)*

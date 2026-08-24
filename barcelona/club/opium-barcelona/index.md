@@ -1,6 +1,6 @@
 # Opium Barcelona
 
-Opium Barcelona is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "WEDJS pres Steve Aoki" on Wed, 26 Aug 2026.
+Opium Barcelona is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "WEDJS pres Steve Aoki" on Wed, 26 Aug 2026.
 
 Opium Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Gordo, Steve Aoki and Wade. Browse upcoming dates, start times and who's playing. Paseo Maritimo, 34; 08003 Barcelona; Spain.
 
@@ -16,4 +16,4 @@ Opium Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming n
 
 Paseo Maritimo, 34; 08003 Barcelona; Spain, Barcelona
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opium-barcelona/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opium-barcelona/)*

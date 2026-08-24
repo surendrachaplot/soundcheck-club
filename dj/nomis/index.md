@@ -1,6 +1,6 @@
 # Nomis
 
-Nomis is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at La Clairière, Paris on Sat, 29 Aug 2026.
+Nomis is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Clairière, Paris on Sat, 29 Aug 2026.
 
 Nomis is an afro house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Ibiza, Newyorkcity and Paris and 1 more. Often billed alongside Sasson, Oktave and ARKADYAN. Next up: La Clairière, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Nomis is an afro house and deep house artist tracked on soundcheck, with 29 sets
 
 Sasson, Oktave, ARKADYAN
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomis/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomis/)*

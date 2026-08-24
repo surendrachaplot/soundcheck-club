@@ -1,6 +1,6 @@
 # Document
 
-Document is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Fantazia - Document Open Air" on Sun, 30 Aug 2026.
+Document is a music venue in Bristol with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Fantazia - Document Open Air" on Sun, 30 Aug 2026.
 
 Document is a music venue in Bristol listed on soundcheck. 3 upcoming nights, with line-ups including Kepler, Altern-8, Anil Aras and bullet tooth and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
@@ -16,4 +16,4 @@ Document is a music venue in Bristol listed on soundcheck. 3 upcoming nights, wi
 
 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH, Bristol
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/document/)*

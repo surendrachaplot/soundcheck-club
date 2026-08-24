@@ -1,6 +1,6 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 29 Aug 2026.
+Sedef Adasï is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Phoxxi Green Area, Hamburg on Sat, 29 Aug 2026.
 
 Sedef Adasï is a techno and house artist tracked on soundcheck, with 272 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Phoxxi Green Area, Hamburg on Sat 29 Aug.
 
@@ -34,4 +34,4 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 272 sets l
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

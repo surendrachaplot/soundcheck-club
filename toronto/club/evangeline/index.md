@@ -1,6 +1,6 @@
 # Evangeline
 
-Evangeline is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Que Rico" on Thu, 27 Aug 2026.
+Evangeline is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Que Rico" on Thu, 27 Aug 2026.
 
 Evangeline is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including ADUBZ and SAVVV. Browse upcoming dates, start times and who's playing. 51 Camden St, Toronto, ON M5V 1V2, Canada.
 
@@ -15,4 +15,4 @@ Evangeline is a music venue in Toronto listed on soundcheck. 2 upcoming nights, 
 
 51 Camden St, Toronto, ON M5V 1V2, Canada, Toronto
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evangeline/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evangeline/)*

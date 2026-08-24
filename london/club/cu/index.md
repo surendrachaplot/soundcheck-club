@@ -1,6 +1,6 @@
 # Cu
 
-Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "RAMEN SOUND presents: CHROMA (reprise)" on Sat, 29 Aug 2026.
+Cu is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "RAMEN SOUND presents: CHROMA (reprise)" on Sat, 29 Aug 2026.
 
 Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including BIG REG, Blackdown, DJ Button Moon and Elijah and Skilliam and 2 more. Browse upcoming dates, start times and who's playing. 574, 576 Kingsland Rd, London E8 4AP, United Kingdom.
 
@@ -19,4 +19,4 @@ Cu is a music venue in London listed on soundcheck. 6 upcoming nights, with line
 
 574, 576 Kingsland Rd, London E8 4AP, United Kingdom, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/cu/)*

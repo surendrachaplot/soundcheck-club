@@ -1,6 +1,6 @@
 # RodCee
 
-RodCee is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Basing House, London on Sat, 19 Sept 2026.
+RodCee is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Basing House, London on Sat, 19 Sept 2026.
 
 RodCee is a house and tech house artist tracked on soundcheck, with 4 sets logged across London and Malta. Often billed alongside Dan Cluskey, LuxNL and Alex Liveris. Next up: Basing House, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ RodCee is a house and tech house artist tracked on soundcheck, with 4 sets logge
 
 Dan Cluskey, LuxNL, Alex Liveris
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodcee/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodcee/)*

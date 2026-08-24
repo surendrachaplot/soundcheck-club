@@ -1,6 +1,6 @@
 # Matmos
 
-Matmos is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Matmos is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Matmos is an experimental and electronica artist tracked on soundcheck, with 17 sets logged across Athens, Berlin, Cork and Glasgow and 10 more. Often billed alongside Eiko Ishibashi, Jay Glass Dubs and Lord Spikeheart. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Matmos is an experimental and electronica artist tracked on soundcheck, with 17 
 
 Eiko Ishibashi, Jay Glass Dubs, Lord Spikeheart
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matmos/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matmos/)*

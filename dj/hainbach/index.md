@@ -1,6 +1,6 @@
 # Hainbach
 
-Hainbach is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Hainbach is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Hainbach is an ambient and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Bristol, Istanbul and London and 3 more. Often billed alongside Ah! Kosmos, Barker and Dasha Rush. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Hainbach is an ambient and techno artist based in Germany, tracked on soundcheck
 
 Ah! Kosmos, Barker, Dasha Rush
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hainbach/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hainbach/)*

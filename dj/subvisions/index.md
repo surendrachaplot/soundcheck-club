@@ -1,6 +1,6 @@
 # SUBVISIONS
 
-SUBVISIONS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
+SUBVISIONS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
 
 SUBVISIONS is a techno and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Leeds. Often billed alongside Ventah, MOUTH and ATTA. Next up: The Hifi Club, Leeds on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SUBVISIONS is a techno and house artist based in United Kingdom, tracked on soun
 
 Ventah, MOUTH, ATTA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*

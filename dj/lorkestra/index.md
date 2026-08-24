@@ -1,6 +1,6 @@
 # Lorkestra
 
-Lorkestra is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Esplanade du J4, Marseille on Thu, 27 Aug 2026.
+Lorkestra is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Esplanade du J4, Marseille on Thu, 27 Aug 2026.
 
 Lorkestra is a baile funk and club artist tracked on soundcheck, with 23 sets logged across Athens, Geneva, Hamburg and Madrid and 2 more. Often billed alongside ARTEM (FR), Saari and Bob Sleigh. Next up: Esplanade du J4, Marseille on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Lorkestra is a baile funk and club artist tracked on soundcheck, with 23 sets lo
 
 ARTEM (FR), Saari, Bob Sleigh
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorkestra/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorkestra/)*

@@ -1,6 +1,6 @@
 # TZO (1)
 
-TZO (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Beat Boutique, Hamburg on Fri, 28 Aug 2026.
+TZO (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Beat Boutique, Hamburg on Fri, 28 Aug 2026.
 
 TZO (1) is a techno and industrial artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside KIM AHLF, TRYPTAJ and AH-N!CE. Next up: Beat Boutique, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ TZO (1) is a techno and industrial artist based in Germany, tracked on soundchec
 
 KIM AHLF, TRYPTAJ, AH-N!CE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzo-1/)*

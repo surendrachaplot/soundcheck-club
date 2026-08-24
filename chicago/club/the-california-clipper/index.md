@@ -1,14 +1,13 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "LAGOS: DUB" on Sun, 23 Aug 2026.
+The California Clipper is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "TRIAGE: An Industry Night" on Tue, 25 Aug 2026.
 
-The California Clipper is a music venue in Chicago listed on soundcheck. 3 upcoming nights, with line-ups including Dan B Hood, iamBrandon, Jaq Attaque and Leo123 and 2 more. Browse upcoming dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
+The California Clipper is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Dan B Hood, iamBrandon, Jaq Attaque and Madeline (Chi). Browse upcoming dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | LAGOS: DUB | Leo123, Radius |
 | Tue, 25 Aug 2026 | TRIAGE: An Industry Night | Dan B Hood, Jaq Attaque, Madeline (Chi) |
 | Fri, 28 Aug 2026 | House Prescription: 1 Year Anniversary | iamBrandon |
 
@@ -16,4 +15,4 @@ The California Clipper is a music venue in Chicago listed on soundcheck. 3 upcom
 
 1002 N California Ave, Chicago, IL 60622, Chicago
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*

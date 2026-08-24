@@ -1,14 +1,13 @@
 # Casa Amante Club
 
-Casa Amante Club is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Domingos de Amante: Valderrama" on Sun, 23 Aug 2026.
+Casa Amante Club is a music venue in Madrid with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "CA: Alex Sosa" on Wed, 26 Aug 2026.
 
-Casa Amante Club is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Alex Sosa, Daya Dadlani, JAVS and lebollet and 2 more. Browse upcoming dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
+Casa Amante Club is a music venue in Madrid listed on soundcheck. 6 upcoming nights, with line-ups including Alex Sosa, Daya Dadlani, JAVS and lebollet and 2 more. Browse upcoming dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Domingos de Amante: Valderrama | Valderrama |
 | Wed, 26 Aug 2026 | CA: Alex Sosa | Alex Sosa |
 | Thu, 27 Aug 2026 | CA: Maik Miroux | Maik Miroux |
 | Fri, 28 Aug 2026 | CA: Lebollet + Mar Bravo | Mar Bravo, lebollet |
@@ -20,4 +19,4 @@ Casa Amante Club is a music venue in Madrid listed on soundcheck. 7 upcoming nig
 
 Calle de Santiago, 3, 28013 Madrid, España, Madrid
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*

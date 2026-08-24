@@ -1,6 +1,6 @@
 # Jordan Tilstone
 
-Jordan Tilstone is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
+Jordan Tilstone is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
 
 Jordan Tilstone is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Belfast, Birmingham, Leeds and Liverpool and 2 more. Often billed alongside Amber Broos, Arielle and Ben Hemsley. Next up: The Temple, Belfast on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Jordan Tilstone is a trance and techno artist based in United Kingdom, tracked o
 
 Amber Broos, Arielle, Ben Hemsley
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*

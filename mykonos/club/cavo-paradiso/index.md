@@ -1,6 +1,6 @@
 # Cavo Paradiso
 
-Cavo Paradiso is a music venue in Mykonos with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Armand Van Helden | Egmond" on Tue, 25 Aug 2026.
+Cavo Paradiso is a music venue in Mykonos with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Armand Van Helden | Egmond" on Tue, 25 Aug 2026.
 
 Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 4 upcoming nights, with line-ups including Armand Van Helden, Claptone, Fused and Gorgon City and 2 more. Browse upcoming dates, start times and who's playing. Paradise beach, Mikonos 846 00, Greece.
 
@@ -17,4 +17,4 @@ Cavo Paradiso is a music venue in Mykonos listed on soundcheck. 4 upcoming night
 
 Paradise beach, Mikonos 846 00, Greece, Mykonos
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/cavo-paradiso/)*

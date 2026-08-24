@@ -1,6 +1,6 @@
 # Cami Roams
 
-Cami Roams is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paname sur Seine, Paris on Sun, 30 Aug 2026.
+Cami Roams is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Paname sur Seine, Paris on Sun, 30 Aug 2026.
 
 Cami Roams is an italo disco and house artist tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside Apéro Notturno, C.L.E.O 2.5.A.7 and Clinique Lacuna. Next up: Paname sur Seine, Paris on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ Cami Roams is an italo disco and house artist tracked on soundcheck, with 4 sets
 
 Apéro Notturno, C.L.E.O 2.5.A.7, Clinique Lacuna
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camiroams/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camiroams/)*

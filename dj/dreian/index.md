@@ -1,6 +1,6 @@
 # DREIAN
 
-DREIAN is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Egg London, London on Fri, 4 Sept 2026.
+DREIAN is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Egg London, London on Fri, 4 Sept 2026.
 
 DREIAN is a techno and progressive house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, London and Munich. Often billed alongside BLILI, D.M.S and Will Lewis. Next up: Egg London, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DREIAN is a techno and progressive house artist tracked on soundcheck, with 46 s
 
 BLILI, D.M.S, Will Lewis
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreian/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dreian/)*

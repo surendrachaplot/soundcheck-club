@@ -1,14 +1,13 @@
 # Mike Millrain
 
-Mike Millrain is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Freight Brixton, London on Sat, 22 Aug 2026.
+Mike Millrain is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Freight Island, Manchester on Sun, 6 Sept 2026.
 
-Mike Millrain is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London, Manchester and Toronto. Often billed alongside Chunky, Lady Passion and Rich Reason. Next up: Freight Brixton, London on Sat 22 Aug.
+Mike Millrain is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London, Manchester and Toronto. Often billed alongside Chunky, Lady Passion and Rich Reason. Next up: Freight Island, Manchester on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Freight Brixton | London |
 | Sun, 6 Sept 2026 | Freight Island | Manchester |
 
 ## Recently played
@@ -23,4 +22,4 @@ Mike Millrain is a garage and techno artist based in United Kingdom, tracked on 
 
 Chunky, Lady Passion, Rich Reason
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemillrain/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemillrain/)*

@@ -1,6 +1,6 @@
 # Viet (1)
 
-Viet (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Noon + Cafe, Osaka on Fri, 11 Sept 2026.
+Viet (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Noon + Cafe, Osaka on Fri, 11 Sept 2026.
 
 Viet (1) is a house and techno artist tracked on soundcheck, with 3 sets logged across Kyoto and Osaka. Often billed alongside COTA, Jonathan Kusuma and Tui (1). Next up: Noon + Cafe, Osaka on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Viet (1) is a house and techno artist tracked on soundcheck, with 3 sets logged 
 
 COTA, Jonathan Kusuma, Tui (1)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viet-1/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viet-1/)*

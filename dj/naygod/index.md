@@ -1,6 +1,6 @@
 # NAYGOD
 
-NAYGOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Homage Brewing, Los Angeles on Fri, 28 Aug 2026.
+NAYGOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Homage Brewing, Los Angeles on Fri, 28 Aug 2026.
 
 NAYGOD is a house and techno artist tracked on soundcheck, with 39 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside Miracles, Colored Craig and Terrell Brooke. Next up: Homage Brewing, Losangeles on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ NAYGOD is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 Miracles, Colored Craig, Terrell Brooke
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*

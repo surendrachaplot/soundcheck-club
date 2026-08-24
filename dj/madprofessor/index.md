@@ -1,6 +1,6 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Le Molodoi, Strasbourg on Fri, 11 Sept 2026.
+Mad Professor is a Dub and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Le Molodoi, Strasbourg on Fri, 11 Sept 2026.
 
 Mad Professor is a dub and bass artist tracked on soundcheck, with 64 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: Le Molodoi, Strasbourg on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Mad Professor is a dub and bass artist tracked on soundcheck, with 64 sets logge
 
 DjRUM, Tash LC, Arsenal Mikebe
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madprofessor/)*

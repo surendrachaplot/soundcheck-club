@@ -1,6 +1,6 @@
 # Merve
 
-Merve is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dalston Superstore, London on Thu, 27 Aug 2026.
+Merve is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dalston Superstore, London on Thu, 27 Aug 2026.
 
 Merve is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Fastlove, Sansibar and Fais Le Beau. Next up: Dalston Superstore, London on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Merve is a house and techno artist tracked on soundcheck, with 84 sets logged ac
 
 Fastlove, Sansibar, Fais Le Beau
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merve/)*

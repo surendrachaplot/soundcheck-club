@@ -1,6 +1,6 @@
 # Tanit
 
-Tanit is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
+Tanit is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
 
 Tanit is a techno artist based in Russia, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Misha Svirid, nicole lukiys and Malouna. Next up: AMT, Berlin on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ Tanit is a techno artist based in Russia, tracked on soundcheck, with 1 set logg
 
 Misha Svirid, nicole lukiys, Malouna
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanit/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanit/)*

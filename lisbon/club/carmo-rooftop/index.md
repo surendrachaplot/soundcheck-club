@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats" on Fri, 11 Sept 2026.
+Carmo Rooftop is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats" on Fri, 11 Sept 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including Eric Furtado, Kee_ko, MURI and PAZ WAZ HERE and 2 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -16,4 +16,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 3 upcoming nights
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

@@ -1,6 +1,6 @@
 # LOLA KiND
 
-LOLA KiND is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at EL SÓTANO, Madrid on Sat, 12 Sept 2026.
+LOLA KiND is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at EL SÓTANO, Madrid on Sat, 12 Sept 2026.
 
 LOLA KiND is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside Avocado, LALENA and AGNY. Next up: EL SÓTANO, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LOLA KiND is a techno and tech house artist tracked on soundcheck, with 15 sets 
 
 Avocado, LALENA, AGNY
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakind/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakind/)*

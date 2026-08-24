@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Afro Carnival Riddim N Bass" on Fri, 28 Aug 2026.
+The Sultan Room is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Afro Carnival Riddim N Bass" on Fri, 28 Aug 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Carlo Sine, Gardy Girault, Greg Eversoul and Holmar and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -20,4 +20,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 7 upcoming
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

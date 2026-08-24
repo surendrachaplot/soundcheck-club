@@ -1,6 +1,6 @@
 # glas___skin
 
-glas___skin is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
+glas___skin is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
 
 glas___skin is an experimental and idm artist tracked on soundcheck, with 15 sets logged across Bristol, Budapest and London. Often billed alongside Naramnesia, overshine and Ship Sket. Next up: Atno, Budapest on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ glas___skin is an experimental and idm artist tracked on soundcheck, with 15 set
 
 Naramnesia, overshine, Ship Sket
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glas___skin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glas___skin/)*

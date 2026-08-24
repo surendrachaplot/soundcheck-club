@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 28 Aug 2026.
+Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 28 Aug 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Sneaky Pete's, Edinburgh on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 166 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

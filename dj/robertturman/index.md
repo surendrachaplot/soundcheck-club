@@ -1,6 +1,6 @@
 # Robert Turman
 
-Robert Turman is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Robert Turman is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
 Robert Turman is an ambient and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Jessy Lanza, Charlemagne Palestine and Terekke. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
@@ -14,4 +14,4 @@ Robert Turman is an ambient and techno artist based in United States of America,
 
 Jessy Lanza, Charlemagne Palestine, Terekke
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertturman/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertturman/)*

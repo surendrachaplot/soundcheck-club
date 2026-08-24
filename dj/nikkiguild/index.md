@@ -1,6 +1,6 @@
 # Nikki Guild
 
-Nikki Guild is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+Nikki Guild is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
 
 Nikki Guild is a house and electro artist tracked on soundcheck, with 11 sets logged across Edinburgh. Often billed alongside ona:v, Bartek and ENAEN. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Nikki Guild is a house and electro artist tracked on soundcheck, with 11 sets lo
 
 ona:v, Bartek, ENAEN
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkiguild/)*

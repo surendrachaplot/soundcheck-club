@@ -1,14 +1,13 @@
 # Linda shiro
 
-Linda shiro is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Coro Wine and Vinyls, Berlin on Wed, 19 Aug 2026.
+Linda shiro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
 
-Linda shiro is a house and minimal artist based in Italy, tracked on soundcheck, with 29 sets logged across Barcelona and Berlin. Often billed alongside maniac&me, Planetary Echoes and Caligula. Next up: Coro Wine and Vinyls, Berlin on Wed 19 Aug.
+Linda shiro is a house and minimal artist based in Italy, tracked on soundcheck, with 29 sets logged across Barcelona and Berlin. Often billed alongside maniac&me, Planetary Echoes and Caligula. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 19 Aug 2026 | Coro Wine and Vinyls | Berlin |
 | Sat, 12 Sept 2026 | TBA - Neukolln | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Linda shiro is a house and minimal artist based in Italy, tracked on soundcheck,
 
 maniac&me, Planetary Echoes, Caligula
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*

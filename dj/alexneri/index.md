@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Nocturna, Ibiza on Fri, 28 Aug 2026.
+Alex Neri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Nocturna, Ibiza on Fri, 28 Aug 2026.
 
 Alex Neri is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside GNMR, Giammarco Orsini and Brasi. Next up: Nocturna, Ibiza on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Alex Neri is a house and techno artist tracked on soundcheck, with 67 sets logge
 
 GNMR, Giammarco Orsini, Brasi
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

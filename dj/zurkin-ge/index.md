@@ -1,6 +1,6 @@
 # Zurkin
 
-Zurkin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
+Zurkin is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 Zurkin is a house and techno artist tracked on soundcheck, with 111 sets logged across Barcelona, Berlin, London and Melbourne and 8 more. Often billed alongside Zitto, Gio Shengelia and Ndrx. Next up: FOLD, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Zurkin is a house and techno artist tracked on soundcheck, with 111 sets logged 
 
 Zitto, Gio Shengelia, Ndrx
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zurkin-ge/)*

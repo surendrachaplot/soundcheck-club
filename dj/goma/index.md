@@ -1,6 +1,6 @@
 # GOMA
 
-GOMA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bella, San Francisco/Oakland on Fri, 28 Aug 2026.
+GOMA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bella, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 GOMA is an afro house and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside ANCARCO, Alex Oxley and Roxanne Roll. Next up: Bella, Sanfrancisco on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ GOMA is an afro house and house artist based in United States of America, tracke
 
 ANCARCO, Alex Oxley, Roxanne Roll
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goma/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goma/)*

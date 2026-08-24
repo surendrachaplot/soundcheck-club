@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rythym Amsterdam" on Thu, 27 Aug 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Rythym Amsterdam" on Thu, 27 Aug 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Becking, Boris Coelman, Chunky and Easttown and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 10 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

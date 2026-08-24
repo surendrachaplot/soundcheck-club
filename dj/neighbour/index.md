@@ -1,6 +1,6 @@
 # Neighbour
 
-Neighbour is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 28 Aug 2026.
+Neighbour is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 28 Aug 2026.
 
 Neighbour is a minimal and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Vancouver. Often billed alongside Afrooz, Ev O'Reilly and Mike McSuede. Next up: Gorg-O-Mish, Vancouver on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Neighbour is a minimal and house artist based in Germany, tracked on soundcheck,
 
 Afrooz, Ev O'Reilly, Mike McSuede
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neighbour/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neighbour/)*

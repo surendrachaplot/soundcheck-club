@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Shanti Celeste is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 
 Peach, Saoirse, Ogazón
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

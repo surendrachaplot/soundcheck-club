@@ -1,6 +1,6 @@
 # anaiis
 
-anaiis is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+anaiis is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 anaiis is an experimental and hip-hop artist tracked on soundcheck, with 8 sets logged across Bristol, London and Tokyo. Often billed alongside IAMNOBODI, 1-800 GIRLS and 5ive. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ anaiis is an experimental and hip-hop artist tracked on soundcheck, with 8 sets 
 
 IAMNOBODI, 1-800 GIRLS, 5ive
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaiis/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaiis/)*

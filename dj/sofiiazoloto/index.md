@@ -1,6 +1,6 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 27 Aug 2026.
+Sofiia Zoloto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 27 Aug 2026.
 
 Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 42 sets logged across Berlin, Munich, Nurnberg and Prague and 1 more. Often billed alongside 9LALEY, Miran N and Muallem. Next up: Bahnwärter Thiel, Munich on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 42 sets l
 
 9LALEY, Miran N, Muallem
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

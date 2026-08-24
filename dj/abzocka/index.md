@@ -1,6 +1,6 @@
 # Abzocka
 
-Abzocka is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
+Abzocka is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu, 27 Aug 2026.
 
 Abzocka is a techno and hardcore artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside Benzn, TAKTSTÖRER and Tiefundton. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Thu 27 Aug.
 
@@ -23,4 +23,4 @@ Abzocka is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 Benzn, TAKTSTÖRER, Tiefundton
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abzocka/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abzocka/)*

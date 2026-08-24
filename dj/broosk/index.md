@@ -1,6 +1,6 @@
 # Broosk
 
-Broosk is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Dunes, Portland on Wed, 26 Aug 2026.
+Broosk is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dunes, Portland on Wed, 26 Aug 2026.
 
 Broosk is a tech house and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Naples and Portland. Often billed alongside Alex Bohemien, Cristian Volpe and Bruno Mazzei. Next up: Dunes, Portland on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Broosk is a tech house and house artist tracked on soundcheck, with 21 sets logg
 
 Alex Bohemien, Cristian Volpe, Bruno Mazzei
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/broosk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/broosk/)*

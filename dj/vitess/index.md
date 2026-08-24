@@ -1,13 +1,14 @@
 # Vitess
 
-Vitess is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at 93 Feet East, London on Fri, 25 Sept 2026.
+Vitess is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 5 Sept 2026.
 
-Vitess is a house and minimal artist based in France, tracked on soundcheck, with 95 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Grand V, Occibel and THEOS (1). Next up: 93 Feet East, London on Fri 25 Sept.
+Vitess is a house and tech house artist based in France, tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Grand V, Occibel and THEOS (1). Next up: Parco Industria Alfa Romeo - Portello, Milan on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Parco Industria Alfa Romeo - Portello | Milan |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
@@ -26,4 +27,4 @@ Vitess is a house and minimal artist based in France, tracked on soundcheck, wit
 
 Grand V, Occibel, THEOS (1)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*

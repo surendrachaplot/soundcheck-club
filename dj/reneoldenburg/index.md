@@ -1,6 +1,6 @@
 # Rene Oldenburg
 
-Rene Oldenburg is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Heidereuter Am Peetzsee - Grünheide (Mark), Berlin on Sat, 29 Aug 2026.
+Rene Oldenburg is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Heidereuter Am Peetzsee - Grünheide (Mark), Berlin on Sat, 29 Aug 2026.
 
 Rene Oldenburg is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Milk N Coffee, Somaphon and Marc Prochnow. Next up: TBA - Heidereuter Am Peetzsee - Grünheide (Mark), Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Rene Oldenburg is a techno and tech house artist tracked on soundcheck, with 24 
 
 Milk N Coffee, Somaphon, Marc Prochnow
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*

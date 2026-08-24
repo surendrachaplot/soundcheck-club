@@ -1,6 +1,6 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Breakfast Club #519 (Winter's End 36hr)" on Sun, 23 Aug 2026.
+OneSixOne is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Breakfast Club #519 (Winter's End 36hr)" on Sun, 23 Aug 2026.
 
 OneSixOne is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including Adam Trace, Agent 86, Andy Hart and Cara Murphy and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
@@ -18,4 +18,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 5 upcoming nights,
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

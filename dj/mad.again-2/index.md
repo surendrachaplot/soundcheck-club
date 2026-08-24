@@ -1,6 +1,6 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Mad.Again (2) is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Mad.Again (2) is a house and tech house artist tracked on soundcheck, with 65 se
 
 Locky, Liam Palmer, Elliot Schooling
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.again-2/)*

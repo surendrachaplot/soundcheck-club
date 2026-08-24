@@ -1,6 +1,6 @@
 # TBA - EORA
 
-TBA - EORA is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "OFFERING IIII" on Sat, 12 Sept 2026.
+TBA - EORA is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "OFFERING IIII" on Sat, 12 Sept 2026.
 
 TBA - EORA is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Arsonist, CORIN, E3P and ealing and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - EORA is a music venue in Sydney listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | OFFERING IIII | Arsonist, CORIN, E3P, Ptwiggs, ealing |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-eora/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-eora/)*

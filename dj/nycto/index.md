@@ -1,6 +1,6 @@
 # NYCTO
 
-NYCTO is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 28 Aug 2026.
+NYCTO is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Aether Club Budapest, Budapest on Fri, 28 Aug 2026.
 
 NYCTO is a tech house and minimal artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Budapest, Losangeles and Montreal. Often billed alongside Blck-Swan, Blosvenn and SAAMO. Next up: Aether Club Budapest, Budapest on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ NYCTO is a tech house and minimal artist based in Germany, tracked on soundcheck
 
 Blck-Swan, Blosvenn, SAAMO
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*

@@ -1,6 +1,6 @@
 # TYGAPAW
 
-TYGAPAW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
+TYGAPAW is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
 
 TYGAPAW is a techno and house artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Juliana Huxtable, Shyboi and LSDXOXO. Next up: La Machine Du Moulin Rouge, Paris on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ TYGAPAW is a techno and house artist based in United States of America, tracked 
 
 Juliana Huxtable, Shyboi, LSDXOXO
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tygapaw/)*

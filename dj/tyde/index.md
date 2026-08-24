@@ -1,6 +1,6 @@
 # TYDE
 
-TYDE is a Progressive House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at DNA. CLUB, Berlin on Fri, 4 Sept 2026.
+TYDE is a Progressive House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at DNA. CLUB, Berlin on Fri, 4 Sept 2026.
 
 TYDE is a progressive house and dub techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Astrocue, Tallah and ARYA (3). Next up: DNA. CLUB, Berlin on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ TYDE is a progressive house and dub techno artist tracked on soundcheck, with 2 
 
 Astrocue, Tallah, ARYA (3)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyde/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyde/)*

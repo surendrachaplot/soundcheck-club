@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FOMO Vol. 6: FOMO Land" on Fri, 28 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "FOMO Vol. 6: FOMO Land" on Fri, 28 Aug 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 7 upcoming nights, with line-ups including Adam Eisert, Anders HP, Anton Goltermann and Astral Bandit and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -20,4 +20,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 7 upcoming n
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

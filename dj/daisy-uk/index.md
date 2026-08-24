@@ -1,6 +1,6 @@
 # DAISY
 
-DAISY is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at renae, Manchester on Sat, 5 Sept 2026.
+DAISY is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at renae, Manchester on Sat, 5 Sept 2026.
 
 DAISY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 12 more. Often billed alongside Silva Bumpa, Oldboy (2) and Prozak (IRL). Next up: renae, Manchester on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ DAISY is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Silva Bumpa, Oldboy (2), Prozak (IRL)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*

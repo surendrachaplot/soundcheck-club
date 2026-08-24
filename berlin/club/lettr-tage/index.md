@@ -1,6 +1,6 @@
 # Lettrétage
 
-Lettrétage is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "CONVERGENCE 13" on Sat, 12 Sept 2026.
+Lettrétage is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "CONVERGENCE 13" on Sat, 12 Sept 2026.
 
 Lettrétage is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Veteranenstraße 21 10119 Berlin.
 
@@ -14,4 +14,4 @@ Lettrétage is a music venue in Berlin listed on soundcheck. 1 upcoming night. B
 
 Veteranenstraße 21 10119 Berlin, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lettr-tage/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lettr-tage/)*

@@ -1,6 +1,6 @@
 # RAG
 
-RAG is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 28 Aug 2026.
+RAG is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 28 Aug 2026.
 
 RAG is a techno and club artist tracked on soundcheck, with 55 sets logged across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside PEPIITA, Anaco and COCKO. Next up: La Station - Gare des Mines, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ RAG is a techno and club artist tracked on soundcheck, with 55 sets logged acros
 
 PEPIITA, Anaco, COCKO
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*

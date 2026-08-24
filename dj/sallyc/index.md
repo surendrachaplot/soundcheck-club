@@ -1,6 +1,6 @@
 # Sally C
 
-Sally C is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Sally C is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Auckland and Austin and 63 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Sally C is a house and techno artist tracked on soundcheck, with 263 sets logged
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
+Cam Stockman is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mint Warehouse, Leeds on Sun, 30 Aug 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: Mint Warehouse, Leeds on Sun 30 Aug.
 
@@ -32,4 +32,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

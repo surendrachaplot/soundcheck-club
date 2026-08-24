@@ -1,6 +1,6 @@
 # DJanae
 
-DJanae is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mehanata Bar, New York City on Thu, 27 Aug 2026.
+DJanae is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mehanata Bar, New York City on Thu, 27 Aug 2026.
 
 DJanae is a club and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside HEYFAYBAE, Petite Nhi and shirlz. Next up: Mehanata Bar, Newyorkcity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ DJanae is a club and techno artist based in United States of America, tracked on
 
 HEYFAYBAE, Petite Nhi, shirlz
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*

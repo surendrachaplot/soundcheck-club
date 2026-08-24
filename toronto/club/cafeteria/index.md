@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "PASSION NOUVEAU: Ryan Spencer, Invisible City, Tony Price & Milch" on Fri, 28 Aug 2026.
+Cafeteria is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "PASSION NOUVEAU: Ryan Spencer, Invisible City, Tony Price & Milch" on Fri, 28 Aug 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Gremlinz, Indie Sleaze, Invisible City and KAVARI and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -19,4 +19,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

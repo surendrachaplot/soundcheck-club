@@ -1,6 +1,6 @@
 # 25EMEHEURE
 
-25EMEHEURE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Warehouse, Nantes on Fri, 28 Aug 2026.
+25EMEHEURE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Warehouse, Nantes on Fri, 28 Aug 2026.
 
 25EMEHEURE is a techno and trance artist based in France, tracked on soundcheck, with 32 sets logged across Berlin, Geneva, Lisbon and Lyon and 4 more. Often billed alongside William Luck, ECZODIA and HIBI. Next up: Warehouse, Nantes on Fri 28 Aug.
 
@@ -25,4 +25,4 @@
 
 William Luck, ECZODIA, HIBI
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/25emeheure/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/25emeheure/)*

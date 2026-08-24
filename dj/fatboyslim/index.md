@@ -1,6 +1,6 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Movistar Arena Buenos Aires, Buenos Aires on Sat, 5 Sept 2026.
+Fatboy Slim is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Movistar Arena Buenos Aires, Buenos Aires on Sat, 5 Sept 2026.
 
 Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Movistar Arena Buenos Aires, Buenosaires on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Fatboy Slim is a house and tech house artist tracked on soundcheck, with 94 sets
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

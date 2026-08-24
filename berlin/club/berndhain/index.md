@@ -1,6 +1,6 @@
 # Berndhain
 
-Berndhain is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ArtIDicction" on Fri, 4 Sept 2026.
+Berndhain is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ArtIDicction" on Fri, 4 Sept 2026.
 
 Berndhain is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Bonzo (2), D1rty Duck, dj_kareless and DJ Keyframe and 2 more. Browse upcoming dates, start times and who's playing. Simon-Dach-Straße 32, 10245 Berlin.
 
@@ -15,4 +15,4 @@ Berndhain is a music venue in Berlin listed on soundcheck. 2 upcoming nights, wi
 
 Simon-Dach-Straße 32, 10245 Berlin, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berndhain/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berndhain/)*

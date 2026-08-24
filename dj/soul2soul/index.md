@@ -1,6 +1,6 @@
 # Soul II Soul
 
-Soul II Soul is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Night Tales Loft, London on Fri, 18 Sept 2026.
+Soul II Soul is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Night Tales Loft, London on Fri, 18 Sept 2026.
 
 Soul II Soul is a disco and house artist tracked on soundcheck, with 8 sets logged across Birmingham, Glasgow, London and Manchester and 1 more. Often billed alongside Roger Sanchez, 808 State and Graeme Park. Next up: Night Tales Loft, London on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Soul II Soul is a disco and house artist tracked on soundcheck, with 8 sets logg
 
 Roger Sanchez, 808 State, Graeme Park
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soul2soul/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soul2soul/)*

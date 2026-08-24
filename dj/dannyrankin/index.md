@@ -1,6 +1,6 @@
 # Danny Rankin
 
-Danny Rankin is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at In The Hanging Garden, Hobart on Sat, 12 Sept 2026.
+Danny Rankin is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at In The Hanging Garden, Hobart on Sat, 12 Sept 2026.
 
 Danny Rankin is a garage and jungle artist tracked on soundcheck, with 33 sets logged across Bristol, Glasgow, Hobart and Leeds and 4 more. Often billed alongside Arthi, Girls Don't Sync and Klose One. Next up: In The Hanging Garden, Hobart on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Danny Rankin is a garage and jungle artist tracked on soundcheck, with 33 sets l
 
 Arthi, Girls Don't Sync, Klose One
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*

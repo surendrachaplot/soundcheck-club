@@ -1,6 +1,6 @@
 # Galen
 
-Galen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Benelux BAR, Amsterdam on Sun, 20 Sept 2026.
+Galen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Benelux BAR, Amsterdam on Sun, 20 Sept 2026.
 
 Galen is a house and disco artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Losangeles, Newyorkcity and Sanfrancisco and 2 more. Often billed alongside Solar, Anthony Mansfield and DJ M3. Next up: Benelux BAR, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Galen is a house and disco artist based in United States of America, tracked on 
 
 Solar, Anthony Mansfield, DJ M3
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galen/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galen/)*

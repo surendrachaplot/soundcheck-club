@@ -1,6 +1,6 @@
 # Lorna Clarkson
 
-Lorna Clarkson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
+Lorna Clarkson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
 
 Lorna Clarkson is a techno and house artist based in Australia, tracked on soundcheck, with 22 sets logged across Sydney. Often billed alongside Kato, Simon Caldwell and Annabelle Gaspar. Next up: TBA - Inner West Location, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lorna Clarkson is a techno and house artist based in Australia, tracked on sound
 
 Kato, Simon Caldwell, Annabelle Gaspar
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lornaclarkson/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lornaclarkson/)*

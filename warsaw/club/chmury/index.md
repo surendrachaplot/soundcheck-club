@@ -1,6 +1,6 @@
 # Chmury
 
-Chmury is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Friday I'm In Love" on Fri, 28 Aug 2026.
+Chmury is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Friday I'm In Love" on Fri, 28 Aug 2026.
 
 Chmury is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Catnapp, Chino, czuly and REV0LT. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -16,4 +16,4 @@ Chmury is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with 
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*

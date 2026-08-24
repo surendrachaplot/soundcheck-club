@@ -1,14 +1,13 @@
 # Plastician
 
-Plastician is a Dubstep and Grime artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Freight Brixton, London on Sat, 22 Aug 2026.
+Plastician is a Dubstep and Grime artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
 
-Plastician is a dubstep and grime artist tracked on soundcheck, with 69 sets logged across Auckland, Birmingham, Bristol and Chicago and 14 more. Often billed alongside Just Jane, Skream and El-B. Next up: Freight Brixton, London on Sat 22 Aug.
+Plastician is a dubstep and grime artist tracked on soundcheck, with 69 sets logged across Auckland, Birmingham, Bristol and Chicago and 14 more. Often billed alongside Just Jane, Skream and El-B. Next up: The Clock Factory, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Freight Brixton | London |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
@@ -27,4 +26,4 @@ Plastician is a dubstep and grime artist tracked on soundcheck, with 69 sets log
 
 Just Jane, Skream, El-B
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/plastician/)*

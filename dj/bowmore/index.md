@@ -1,6 +1,6 @@
 # Bowmore
 
-Bowmore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Bowmore is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Bowmore is a techno and trance artist tracked on soundcheck, with 35 sets logged across Geneva and Zurich. Often billed alongside Ecar, Julian Muller and Maara. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Bowmore is a techno and trance artist tracked on soundcheck, with 35 sets logged
 
 Ecar, Julian Muller, Maara
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmore/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bowmore/)*

@@ -1,6 +1,6 @@
 # Userkiller
 
-Userkiller is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Userkiller is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Userkiller is a techno and tech house artist tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside DAV3, Bisk and ED2000. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Userkiller is a techno and tech house artist tracked on soundcheck, with 38 sets
 
 DAV3, Bisk, ED2000
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/userkiller/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/userkiller/)*

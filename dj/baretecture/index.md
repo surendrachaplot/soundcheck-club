@@ -1,6 +1,6 @@
 # Bare Tecture
 
-Bare Tecture is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
+Bare Tecture is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Beate Uwe, Berlin on Sat, 26 Sept 2026.
 
 Bare Tecture is a house and garage artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside DJ with Soul, U Know Y and Kat_Es. Next up: Beate Uwe, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Bare Tecture is a house and garage artist based in Germany, tracked on soundchec
 
 DJ with Soul, U Know Y, Kat_Es
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baretecture/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baretecture/)*

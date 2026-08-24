@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+Burnski is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
 
 Burnski is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Dennis Quin and Job de Jong. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Burnski is a house and tech house artist tracked on soundcheck, with 65 sets log
 
 Kepler, Dennis Quin, Job de Jong
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

@@ -1,6 +1,6 @@
 # Mathame
 
-Mathame is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Mediapark Köln, Cologne on Sat, 29 Aug 2026.
+Mathame is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mediapark Köln, Cologne on Sat, 29 Aug 2026.
 
 Mathame is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Lyke, Olympe and Brina Knauss. Next up: Mediapark Köln, Cologne on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Mathame is a techno and house artist tracked on soundcheck, with 158 sets logged
 
 Lyke, Olympe, Brina Knauss
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

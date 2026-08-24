@@ -1,6 +1,6 @@
 # KYOTO
 
-KYOTO is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
+KYOTO is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
 
 KYOTO is a techno and progressive house artist based in Mexico, tracked on soundcheck, with 5 sets logged across Barcelona and Budapest. Often billed alongside Yeison M, ANESI and Basement Scene. Next up: City Hall, Barcelona on Wed 26 Aug.
 
@@ -21,4 +21,4 @@ KYOTO is a techno and progressive house artist based in Mexico, tracked on sound
 
 Yeison M, ANESI, Basement Scene
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoto/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyoto/)*

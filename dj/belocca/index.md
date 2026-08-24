@@ -1,6 +1,6 @@
 # Belocca
 
-Belocca is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+Belocca is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
 Belocca is a techno and acid artist based in Hungary, tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dreadsun, Joris Turenhout and Ozzy Riot. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Belocca is a techno and acid artist based in Hungary, tracked on soundcheck, wit
 
 Dreadsun, Joris Turenhout, Ozzy Riot
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belocca/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belocca/)*

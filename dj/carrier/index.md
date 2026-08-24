@@ -1,6 +1,6 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Gare Porto, Porto on Fri, 28 Aug 2026.
+Carrier is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Gare Porto, Porto on Fri, 28 Aug 2026.
 
 Carrier is a techno and experimental artist tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Gare Porto, Porto on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Carrier is a techno and experimental artist tracked on soundcheck, with 74 sets 
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

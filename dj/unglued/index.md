@@ -1,6 +1,6 @@
 # Unglued
 
-Unglued is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ground Floor, Philadelphia on Fri, 4 Sept 2026.
+Unglued is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ground Floor, Philadelphia on Fri, 4 Sept 2026.
 
 Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Berlin and Boston and 20 more. Often billed alongside Degs, Whiney and Metrik. Next up: Ground Floor, Philadelphia on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Unglued is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 Degs, Whiney, Metrik
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unglued/)*

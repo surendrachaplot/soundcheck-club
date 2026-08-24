@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Flash, Washington DC on Sat, 29 Aug 2026.
+Oliver Koletzki is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Flash, Washington DC on Sat, 29 Aug 2026.
 
 Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Flash, Washingtondc on Sat 29 Aug.
 
@@ -16,6 +16,7 @@ Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 set
 
 ## Recently played
 
+- Spin, San Diego — Sun, 23 Aug 2026
 - Berlin, Los Angeles — Sat, 22 Aug 2026
 - Public Works, San Francisco/Oakland — Fri, 21 Aug 2026
 - Cova Santa, Ibiza — Fri, 7 Aug 2026
@@ -23,10 +24,9 @@ Oliver Koletzki is a techno and house artist tracked on soundcheck, with 121 set
 - TBA - Camp Summerdaze Montreal, Montreal — Thu, 30 Jul 2026
 - TBA - Toronto, Toronto — Thu, 30 Jul 2026
 - Stil vor Talent Headquarter, Berlin — Sun, 21 Jun 2026
-- Fridas Pier, Stuttgart — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

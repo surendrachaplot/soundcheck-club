@@ -1,6 +1,6 @@
 # Interlude
 
-Interlude is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Egg London, London on Fri, 28 Aug 2026.
+Interlude is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Egg London, London on Fri, 28 Aug 2026.
 
 Interlude is a house and experimental artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Bristol and Bucharest and 2 more. Often billed alongside Bross, DJ Doubt and Deselecta. Next up: Egg London, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Interlude is a house and experimental artist tracked on soundcheck, with 19 sets
 
 Bross, DJ Doubt, Deselecta
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interlude/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interlude/)*

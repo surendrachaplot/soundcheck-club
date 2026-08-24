@@ -1,6 +1,6 @@
 # iamluie
 
-iamluie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
+iamluie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
 
 iamluie is a house and minimal artist based in Germany, tracked on soundcheck, with 34 sets logged across Cologne and Munich. Often billed alongside DJ HOT, CHUBBS and Philipp Lüers. Next up: LIVE EVIL, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ iamluie is a house and minimal artist based in Germany, tracked on soundcheck, w
 
 DJ HOT, CHUBBS, Philipp Lüers
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamluie/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamluie/)*

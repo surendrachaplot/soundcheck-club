@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Marcellus Pittman + Nacho Marco" on Sat, 12 Sept 2026.
+Sala Villanos is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Marcellus Pittman + Nacho Marco" on Sat, 12 Sept 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Acid Hero, Axel Boman, Cinthie and COEO and 2 more. Browse upcoming dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 14 upcoming night
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*

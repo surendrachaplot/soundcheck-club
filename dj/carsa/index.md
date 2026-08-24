@@ -1,6 +1,6 @@
 # CARSA
 
-CARSA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+CARSA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 CARSA is a tech house and minimal artist based in Portugal, tracked on soundcheck, with 10 sets logged across Amsterdam and London. Often billed alongside Tato (2), Pedro Villa and Ale Grooves. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ CARSA is a tech house and minimal artist based in Portugal, tracked on soundchec
 
 Tato (2), Pedro Villa, Ale Grooves
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carsa/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carsa/)*

@@ -1,6 +1,6 @@
 # Burnhard
 
-Burnhard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Lady Hampshire, Sydney on Sat, 29 Aug 2026.
+Burnhard is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Lady Hampshire, Sydney on Sat, 29 Aug 2026.
 
 Burnhard is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, Hamburg and Sydney. Often billed alongside Niemand & Keiner, Ady Toledano and Amy Dabbs. Next up: The Lady Hampshire, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Burnhard is a techno and house artist tracked on soundcheck, with 9 sets logged 
 
 Niemand & Keiner, Ady Toledano, Amy Dabbs
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnhard/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnhard/)*

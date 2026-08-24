@@ -1,14 +1,15 @@
 # ROOG
 
-ROOG is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Amsterdam on Fri, 28 Aug 2026.
+ROOG is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Amsterdam on Fri, 28 Aug 2026.
 
-ROOG is a house and tech house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Ibiza, Liverpool and Rotterdam and 2 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: TBA, Amsterdam on Fri 28 Aug.
+ROOG is a house and tech house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Ibiza, Liverpool and Rotterdam and 2 more. Often billed alongside Erick E, Alexander Koning and Lucien Foort. Next up: TBA, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA | Amsterdam |
+| Tue, 8 Sept 2026 | Sundara Club | Ibiza |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Wed, 16 Sept 2026 | Freeze HiFi | Liverpool |
 | Sat, 26 Sept 2026 | Paal69 | Amsterdam |
@@ -31,4 +32,4 @@ ROOG is a house and tech house artist tracked on soundcheck, with 72 sets logged
 
 Erick E, Alexander Koning, Lucien Foort
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roog/)*

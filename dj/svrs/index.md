@@ -1,6 +1,6 @@
 # SVRS
 
-SVRS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bolero, Seoul on Fri, 28 Aug 2026.
+SVRS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bolero, Seoul on Fri, 28 Aug 2026.
 
 SVRS is a house and club artist tracked on soundcheck, with 19 sets logged across Seoul. Often billed alongside Multivsn, SUJINPAAK and HYUNHXEE. Next up: Bolero, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ SVRS is a house and club artist tracked on soundcheck, with 19 sets logged acros
 
 Multivsn, SUJINPAAK, HYUNHXEE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svrs/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svrs/)*

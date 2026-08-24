@@ -1,6 +1,6 @@
 # pìccolo
 
-pìccolo is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
+pìccolo is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
 
 pìccolo is a techno and baile funk artist based in Japan, tracked on soundcheck, with 29 sets logged across Seoul, Shanghai and Tokyo. Often billed alongside MUNÉO, mionn and DJ PS2 DESBLOQUEADO. Next up: Daikanyama ORD., Tokyo on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ pìccolo is a techno and baile funk artist based in Japan, tracked on soundcheck
 
 MUNÉO, mionn, DJ PS2 DESBLOQUEADO
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pìccolo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pìccolo/)*

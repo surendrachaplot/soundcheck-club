@@ -1,6 +1,6 @@
 # RHYNOK
 
-RHYNOK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
+RHYNOK is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
 
 RHYNOK is a techno artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside AYLIN IDAH, Atibo and Command Control. Next up: TBA - HACKNEY WICK, London on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ RHYNOK is a techno artist tracked on soundcheck, with 2 sets logged across Londo
 
 AYLIN IDAH, Atibo, Command Control
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhynok/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhynok/)*

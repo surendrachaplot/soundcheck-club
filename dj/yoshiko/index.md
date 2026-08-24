@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
+Yoshiko is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
 
 Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Dimitri K, The Dark Horror and A.N.I.. Next up: The Classic Grand, Glasgow on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Yoshiko is a techno and hardcore artist tracked on soundcheck, with 34 sets logg
 
 Dimitri K, The Dark Horror, A.N.I.
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

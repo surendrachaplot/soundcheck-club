@@ -1,6 +1,6 @@
 # Taqsim
 
-Taqsim is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
+Taqsim is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Andy Arts, Detroit on Fri, 18 Sept 2026.
 
 Taqsim is an experimental and ambient artist tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside otodojo, Cherriel and Kenjiro. Next up: Andy Arts, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Taqsim is an experimental and ambient artist tracked on soundcheck, with 9 sets 
 
 otodojo, Cherriel, Kenjiro
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taqsim/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taqsim/)*

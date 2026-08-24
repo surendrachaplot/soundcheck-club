@@ -1,6 +1,6 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Nocturna, Ibiza on Wed, 2 Sept 2026.
+Grace Sands is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Nocturna, Ibiza on Wed, 2 Sept 2026.
 
 Grace Sands is a house and deep house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Nocturna, Ibiza on Wed 2 Sept.
 
@@ -29,4 +29,4 @@ Grace Sands is a house and deep house artist tracked on soundcheck, with 137 set
 
 Roi Perez, Hannah Holland, Josh Caffé
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracesands/)*

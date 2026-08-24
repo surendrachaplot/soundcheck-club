@@ -1,6 +1,6 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+Nadia Struiwigh is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
 
 Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside DJ MELL G, .VRIL and DjRUM. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Nadia Struiwigh is a techno and house artist tracked on soundcheck, with 76 sets
 
 DJ MELL G, .VRIL, DjRUM
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

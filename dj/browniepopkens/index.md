@@ -1,6 +1,6 @@
 # Brownie Popkens
 
-Brownie Popkens is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Wireless Club, Bangkok on Fri, 28 Aug 2026.
+Brownie Popkens is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Wireless Club, Bangkok on Fri, 28 Aug 2026.
 
 Brownie Popkens is a techno and electronica artist based in Thailand, tracked on soundcheck, with 13 sets logged across Bangkok. Often billed alongside Mae Happyair, L3SS TH4N and MAYTAE. Next up: The Wireless Club, Bangkok on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Brownie Popkens is a techno and electronica artist based in Thailand, tracked on
 
 Mae Happyair, L3SS TH4N, MAYTAE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/browniepopkens/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/browniepopkens/)*

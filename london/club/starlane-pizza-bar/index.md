@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Oscillate Summer Closing" on Sun, 23 Aug 2026.
+Starlane Pizza Bar is a music venue in London with 23 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Son's of Ian & Friends Starlane" on Thu, 27 Aug 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Andrew James Gustav and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Oscillate Summer Closing | Elia Nafzger, FrezZ, Gabski, Mescu, Stefan Andrei, Zigy |
 | Thu, 27 Aug 2026 | Son's of Ian & Friends Starlane | Quinlan, STAN (6), T Simm, THEO (5) |
 | Fri, 28 Aug 2026 | Good Bit Of Kit PRESENTS: | NOIDMATE |
 | Sat, 29 Aug 2026 | Serving Tunes: 001 / Proper Dancing Music All Day Long | Cardinal Sound |
@@ -18,9 +17,10 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming 
 | Mon, 31 Aug 2026 | EXTENDED BANK HOLIDAY FEST | Dale, Greg Nox, LeVin, PR Department, Robbo, Thierry |
 | Sat, 5 Sept 2026 | Distant Audio x Blushh Audio | Ize (1), Jordan Masters, LACEY, Reeshy |
 | Sat, 5 Sept 2026 | OTTO VOL 3 | Dan Anderson, Horsemen, IZZY (UK), Lesenburg, Nick Kelly, Tommy- (UK), krif |
+| Sun, 6 Sept 2026 | Crescent London: Sunday Explorations X |  |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

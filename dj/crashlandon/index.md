@@ -1,6 +1,6 @@
 # Crash Landon
 
-Crash Landon is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Substation, Seattle on Sun, 20 Sept 2026.
+Crash Landon is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Substation, Seattle on Sun, 20 Sept 2026.
 
 Crash Landon is a disco and house artist tracked on soundcheck, with 5 sets logged across Losangeles and Seattle. Often billed alongside Anish Kumar, Avignon and Hot N' Spicy Disco. Next up: Substation, Seattle on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Crash Landon is a disco and house artist tracked on soundcheck, with 5 sets logg
 
 Anish Kumar, Avignon, Hot N' Spicy Disco
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crashlandon/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crashlandon/)*

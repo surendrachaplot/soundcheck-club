@@ -1,6 +1,6 @@
 # Mark William Lewis
 
-Mark William Lewis is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Mark William Lewis is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Mark William Lewis is an experimental and hip-hop artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Copenhagen and Glasgow and 6 more. Often billed alongside James Massiah, Blood Orange and Ciel. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mark William Lewis is an experimental and hip-hop artist based in United Kingdom
 
 James Massiah, Blood Orange, Ciel
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliamlewis/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markwilliamlewis/)*

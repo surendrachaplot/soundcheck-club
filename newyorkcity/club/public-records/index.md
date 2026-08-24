@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Voiski, Annie Lew / Andrey Pushkarev / Max Dowd" on Fri, 28 Aug 2026.
+public records is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Voiski, Annie Lew / Andrey Pushkarev / Max Dowd" on Fri, 28 Aug 2026.
 
 public records is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including The AM/AMX, BLKshine, MORENXXX and Paula Tape and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in Newyorkcity listed on soundcheck. 34 upcoming
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

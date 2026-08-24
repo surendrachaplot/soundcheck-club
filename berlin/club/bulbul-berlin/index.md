@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP" on Thu, 27 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP" on Thu, 27 Aug 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Almost Famous, Better Call Paul, boyyyish and Buzz Boutique and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

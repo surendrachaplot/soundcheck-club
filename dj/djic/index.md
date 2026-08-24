@@ -1,6 +1,6 @@
 # DJ IC
 
-DJ IC is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
+DJ IC is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
 
 DJ IC is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Birmingham and London. Often billed alongside Supa D, Tippa and LOKI (2). Next up: Onyx (E1), London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ DJ IC is an afro house and afro tech artist based in United Kingdom, tracked on 
 
 Supa D, Tippa, LOKI (2)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djic/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djic/)*

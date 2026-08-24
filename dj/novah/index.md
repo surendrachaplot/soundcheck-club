@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 30 Aug 2026.
+NOVAH is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Edelfettwerk, Hamburg on Sun, 30 Aug 2026.
 
 NOVAH is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Cloudy, Nico Moreno and Alignment. Next up: Edelfettwerk, Hamburg on Sun 30 Aug.
 
@@ -20,6 +20,7 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 164 sets logged 
 
 ## Recently played
 
+- Kiesgrube, Düsseldorf — Sun, 23 Aug 2026
 - Burgess Park, London — Sat, 1 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Camperdown Country Park, Dundee — Sat, 4 Jul 2026
@@ -27,10 +28,9 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 164 sets logged 
 - Ushuaïa Ibiza, Ibiza — Wed, 17 Jun 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - Ruigenhoek, Utrecht — Sat, 30 May 2026
-- Universe Athens, Athens — Sat, 30 May 2026
 
 ## Shares bills with
 
 Cloudy, Nico Moreno, Alignment
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

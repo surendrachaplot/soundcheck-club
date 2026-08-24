@@ -1,6 +1,6 @@
 # Hank (US)
 
-Hank (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at fabric, London on Sun, 30 Aug 2026.
+Hank (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at fabric, London on Sun, 30 Aug 2026.
 
 Hank (US) is a house and tech house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Austin, Brussels, Chicago and Dusseldorf and 11 more. Often billed alongside BLOND:ISH, Ewan McVicar and FISHER. Next up: fabric, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Hank (US) is a house and tech house artist based in United States of America, tr
 
 BLOND:ISH, Ewan McVicar, FISHER
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hank-us/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hank-us/)*

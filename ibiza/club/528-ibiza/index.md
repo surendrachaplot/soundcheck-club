@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 25 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Brunch Electronik Ibiza X The Gardens of Babylon 23.08 / Bob Moses, Henrik Schwarz (Live)" on Sun, 23 Aug 2026.
+528 Ibiza is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "PIKES PRESENTS AT 528 WITH Nightmares on Wax" on Tue, 25 Aug 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 25 upcoming nights, with line-ups including Kepler, Paula Tape, ALEXANDER M and Alex M.O.R.P.H. and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including Kepler, Paula Tape, ALEXANDER M and Alex M.O.R.P.H. and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 23.08 / Bob Moses, Henrik Schwarz (Live) | Bob Moses, Cristina Tosio, Henrik Schwarz, Julia Sandstorm, Landikhan, Omer Tayar, SHARE (NL) |
 | Tue, 25 Aug 2026 | PIKES PRESENTS AT 528 WITH Nightmares on Wax | Colleen 'Cosmo' Murphy, JKriv, Mr Scruff, Nightmares on Wax, Samsön |
 | Sat, 29 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS CLOSING | Allister Whitehead, Clara Da Costa, Jason Bye, K-Klass, Sarah Main |
 | Sun, 30 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 30.08 / WhoMadeWho, Mind Against | JANE RYSE, Mind Against, WhoMadeWho |
@@ -18,9 +17,10 @@
 | Sat, 5 Sept 2026 | PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una | CC:DISCO!, Erol Alkan, Hunee, Luke Una, Paula Tape |
 | Tue, 8 Sept 2026 | PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO | Bushwacka!, Groove Armada, Prosumer, TEED |
 | Sat, 12 Sept 2026 | PIKES PRESENTS AT 528 WITH Kruder & Dorfmeister | George FitzGerald, Kruder & Dorfmeister |
+| Sun, 13 Sept 2026 | NEXUP with Max Dean | Max Dean |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

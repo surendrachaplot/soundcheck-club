@@ -1,6 +1,6 @@
 # Kamar
 
-Kamar is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Grow, London on Fri, 28 Aug 2026.
+Kamar is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Grow, London on Fri, 28 Aug 2026.
 
 Kamar is a dub and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Lisbon and London. Often billed alongside Daniele Mizar, Esa and Sonido Tupinamba. Next up: Grow, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kamar is a dub and house artist based in United Kingdom, tracked on soundcheck, 
 
 Daniele Mizar, Esa, Sonido Tupinamba
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamar/)*

@@ -1,6 +1,6 @@
 # JUN/V:SiTOR
 
-JUN/V:SiTOR is a Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Forestlimit, Tokyo on Sat, 12 Sept 2026.
+JUN/V:SiTOR is a Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Forestlimit, Tokyo on Sat, 12 Sept 2026.
 
 JUN/V:SiTOR is a bass artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Next up: Forestlimit, Tokyo on Sat 12 Sept.
 
@@ -10,4 +10,4 @@ JUN/V:SiTOR is a bass artist based in Japan, tracked on soundcheck, with 1 set l
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Forestlimit | Tokyo |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junvsitor/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junvsitor/)*

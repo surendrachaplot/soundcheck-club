@@ -1,6 +1,6 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Schrotty, Cologne on Fri, 28 Aug 2026.
+SHOKI287 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Schrotty, Cologne on Fri, 28 Aug 2026.
 
 SHOKI287 is a techno and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 22 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: Schrotty, Cologne on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ SHOKI287 is a techno and trance artist tracked on soundcheck, with 87 sets logge
 
 DJ Cringey, DJ https, Justin Tinderdate
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

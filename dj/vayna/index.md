@@ -1,6 +1,6 @@
 # Vayna
 
-Vayna is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 12 Sept 2026.
+Vayna is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 12 Sept 2026.
 
 Vayna is a minimal and house artist tracked on soundcheck, with 11 sets logged across Budapest. Often billed alongside Captain Knuckles, Antique (HU) and Sunny. Next up: Aether Club Budapest, Budapest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vayna is a minimal and house artist tracked on soundcheck, with 11 sets logged a
 
 Captain Knuckles, Antique (HU), Sunny
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vayna/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vayna/)*

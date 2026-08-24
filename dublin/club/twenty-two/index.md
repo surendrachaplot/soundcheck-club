@@ -1,18 +1,17 @@
 # Twenty Two
 
-Twenty Two is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "THE WEEKND: The AfterParty at [Club Twenty Two] SUN 23rd Aug" on Sun, 23 Aug 2026.
+Twenty Two is a music venue in Dublin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "LOSTBOYJAY STORY*" on Fri, 9 Oct 2026.
 
-Twenty Two is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including LOSTBOYJAY. Browse upcoming dates, start times and who's playing. 22 Anne St S, Dublin, D02 CH94, Ireland.
+Twenty Two is a music venue in Dublin listed on soundcheck. 1 upcoming night, with line-ups including LOSTBOYJAY. Browse upcoming dates, start times and who's playing. 22 Anne St S, Dublin, D02 CH94, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | THE WEEKND: The AfterParty at [Club Twenty Two] SUN 23rd Aug |  |
 | Fri, 9 Oct 2026 | LOSTBOYJAY STORY* | LOSTBOYJAY |
 
 ## Address
 
 22 Anne St S, Dublin, D02 CH94, Ireland, Dublin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/twenty-two/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/twenty-two/)*

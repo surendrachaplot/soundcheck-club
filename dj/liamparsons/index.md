@@ -1,6 +1,6 @@
 # Liam Parsons
 
-Liam Parsons is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Scala, London on Fri, 25 Sept 2026.
+Liam Parsons is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Scala, London on Fri, 25 Sept 2026.
 
 Liam Parsons is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside teleopath, S_STEELE and Joshua James. Next up: The Scala, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Liam Parsons is a house and tech house artist based in United Kingdom, tracked o
 
 teleopath, S_STEELE, Joshua James
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamparsons/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamparsons/)*

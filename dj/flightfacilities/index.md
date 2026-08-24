@@ -1,6 +1,6 @@
 # Flight Facilities
 
-Flight Facilities is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Centre Point, Dublin on Sat, 29 Aug 2026.
+Flight Facilities is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Centre Point, Dublin on Sat, 29 Aug 2026.
 
 Flight Facilities is a house and disco artist tracked on soundcheck, with 61 sets logged across Austin, Bali, Barcelona and Chicago and 19 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Centre Point, Dublin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Flight Facilities is a house and disco artist tracked on soundcheck, with 61 set
 
 Armand Van Helden, Claptone, Hannah Laing
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*

@@ -1,6 +1,6 @@
 # NewYorkKnick
 
-NewYorkKnick is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Studio 151, New York City on Wed, 26 Aug 2026.
+NewYorkKnick is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Studio 151, New York City on Wed, 26 Aug 2026.
 
 NewYorkKnick is a deep house and disco artist tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside Djavan Guy, Wavy Bagels and Aquiles Navarro. Next up: Studio 151, Newyorkcity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ NewYorkKnick is a deep house and disco artist tracked on soundcheck, with 15 set
 
 Djavan Guy, Wavy Bagels, Aquiles Navarro
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newyorkknick/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newyorkknick/)*

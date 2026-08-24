@@ -1,6 +1,6 @@
 # ANFS
 
-ANFS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Astron Club, Athens on Sat, 12 Sept 2026.
+ANFS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Astron Club, Athens on Sat, 12 Sept 2026.
 
 ANFS is a techno and industrial artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside 3.14, Sawf and JERM. Next up: Astron Club, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ANFS is a techno and industrial artist tracked on soundcheck, with 53 sets logge
 
 3.14, Sawf, JERM
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anfs/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anfs/)*

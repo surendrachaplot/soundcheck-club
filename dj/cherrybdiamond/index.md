@@ -1,6 +1,6 @@
 # Cherry B Diamond
 
-Cherry B Diamond is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Wanderlust, Paris on Thu, 27 Aug 2026.
+Cherry B Diamond is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Wanderlust, Paris on Thu, 27 Aug 2026.
 
 Cherry B Diamond is a techno and bass artist tracked on soundcheck, with 7 sets logged across Berlin and Paris. Often billed alongside 4wallzz, Aexhy and Bollmann. Next up: Wanderlust, Paris on Thu 27 Aug.
 
@@ -23,4 +23,4 @@ Cherry B Diamond is a techno and bass artist tracked on soundcheck, with 7 sets 
 
 4wallzz, Aexhy, Bollmann
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrybdiamond/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherrybdiamond/)*

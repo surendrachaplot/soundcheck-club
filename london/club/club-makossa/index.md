@@ -1,6 +1,6 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Sarky Dubz Showcase (Jungle Drum & Bass + Live Performances) - FREE EVENT" on Thu, 27 Aug 2026.
+Club Makossa is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Sarky Dubz Showcase (Jungle Drum & Bass + Live Performances) - FREE EVENT" on Thu, 27 Aug 2026.
 
 Club Makossa is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alex Haze UK, Anna Kiss, Aruna and Bella Rysk and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
@@ -23,4 +23,4 @@ Club Makossa is a music venue in London listed on soundcheck. 13 upcoming nights
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

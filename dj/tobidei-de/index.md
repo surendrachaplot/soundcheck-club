@@ -1,6 +1,6 @@
 # Tobi Dei (DE)
 
-Tobi Dei (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Mon, 31 Aug 2026.
+Tobi Dei (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at KitKatClub, Berlin on Mon, 31 Aug 2026.
 
 Tobi Dei (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Elli Altenberger, Leon Licht and Sisyphos. Next up: KitKatClub, Berlin on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Tobi Dei (DE) is a techno and house artist based in Germany, tracked on soundche
 
 Elli Altenberger, Leon Licht, Sisyphos
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobidei-de/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobidei-de/)*

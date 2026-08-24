@@ -1,6 +1,6 @@
 # LEWIE
 
-LEWIE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Grey Space In The Middle, The Hague on Sat, 5 Sept 2026.
+LEWIE is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Grey Space In The Middle, The Hague on Sat, 5 Sept 2026.
 
 LEWIE is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Berlin and Thehague. Often billed alongside Doktoro, Black Cadmium and BäRK (NE). Next up: The Grey Space In The Middle, Thehague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ LEWIE is a techno and electronica artist tracked on soundcheck, with 9 sets logg
 
 Doktoro, Black Cadmium, BäRK (NE)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewie/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewie/)*

@@ -1,6 +1,6 @@
 # Doug Cooney
 
-Doug Cooney is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
+Doug Cooney is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
 
 Doug Cooney is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin and Dublin. Often billed alongside Philip Galvin Jnr, Offtrack and Doiléir. Next up: Pawn Shop, Dublin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Doug Cooney is a techno and house artist tracked on soundcheck, with 14 sets log
 
 Philip Galvin Jnr, Offtrack, Doiléir
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dougcooney/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dougcooney/)*

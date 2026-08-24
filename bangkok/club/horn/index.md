@@ -1,6 +1,6 @@
 # Horn
 
-Horn is a music venue in Bangkok with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "YUMM SPORTS 2026" on Sat, 29 Aug 2026.
+Horn is a music venue in Bangkok with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "YUMM SPORTS 2026" on Sat, 29 Aug 2026.
 
 Horn is a music venue in Bangkok listed on soundcheck. 5 upcoming nights, with line-ups including Anita B Queen, Em-J, Mae Happyair and Malaii.exe and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
@@ -18,4 +18,4 @@ Horn is a music venue in Bangkok listed on soundcheck. 5 upcoming nights, with l
 
 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand, Bangkok
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*

@@ -1,6 +1,6 @@
 # MarcoYu
 
-MarcoYu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 宀 Club, Hong Kong on Fri, 11 Sept 2026.
+MarcoYu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 宀 Club, Hong Kong on Fri, 11 Sept 2026.
 
 MarcoYu is a techno and house artist based in China, tracked on soundcheck, with 44 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Nanogram, Dan-neo and Finsent C. Next up: 宀 Club, Hongkong on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MarcoYu is a techno and house artist based in China, tracked on soundcheck, with
 
 Nanogram, Dan-neo, Finsent C
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyu-cn/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyu-cn/)*

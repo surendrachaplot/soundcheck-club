@@ -1,6 +1,6 @@
 # vsyana
 
-vsyana is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+vsyana is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 vsyana is a techno and latin bass artist tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside Lotusoph, Sel.6 and Romulo Del Castillo. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ vsyana is a techno and latin bass artist tracked on soundcheck, with 9 sets logg
 
 Lotusoph, Sel.6, Romulo Del Castillo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsyana/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsyana/)*

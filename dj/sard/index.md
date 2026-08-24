@@ -1,6 +1,6 @@
 # Sard
 
-Sard is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at NWHR, Montreal on Sat, 29 Aug 2026.
+Sard is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at NWHR, Montreal on Sat, 29 Aug 2026.
 
 Sard is a techno and acid artist tracked on soundcheck, with 42 sets logged across Chicago, Denver, Detroit and Montreal and 5 more. Often billed alongside Amino, Dretraxx and Miguel Cisne. Next up: NWHR, Montreal on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sard is a techno and acid artist tracked on soundcheck, with 42 sets logged acro
 
 Amino, Dretraxx, Miguel Cisne
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*

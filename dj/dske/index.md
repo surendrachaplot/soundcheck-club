@@ -1,6 +1,6 @@
 # DSKE
 
-DSKE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mitsuki, Tokyo on Sat, 19 Sept 2026.
+DSKE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mitsuki, Tokyo on Sat, 19 Sept 2026.
 
 DSKE is a house and techno artist tracked on soundcheck, with 73 sets logged across Hongkong, Seattle, Seoul and Singapore and 1 more. Often billed alongside MAYUDEPTH, DJ POIPOI and MUNÉO. Next up: Mitsuki, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DSKE is a house and techno artist tracked on soundcheck, with 73 sets logged acr
 
 MAYUDEPTH, DJ POIPOI, MUNÉO
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dske/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dske/)*

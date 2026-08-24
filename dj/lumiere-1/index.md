@@ -1,8 +1,8 @@
 # Lumiere
 
-Lumiere is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
+Lumiere is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
-Lumiere is a house and techno artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Sunseabar Beach Club, Barcelona on Sun 30 Aug.
+Lumiere is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Anah, Francesco Del Garda and Binh. Next up: Sunseabar Beach Club, Barcelona on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lumiere is a house and techno artist tracked on soundcheck, with 111 sets logged
 | Sun, 30 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Les Enfants Brillants | Barcelona |
+| Sat, 19 Sept 2026 | Almar Beach Club | Barcelona |
 | Fri, 9 Oct 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
 | Sat, 17 Oct 2026 | Night Tales | London |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
@@ -30,4 +31,4 @@ Lumiere is a house and techno artist tracked on soundcheck, with 111 sets logged
 
 Anah, Francesco Del Garda, Binh
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumiere-1/)*

@@ -1,6 +1,6 @@
 # Graftak
 
-Graftak is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
+Graftak is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
 
 Graftak is a techno and ebm artist tracked on soundcheck, with 26 sets logged across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside IN_CONSTANT, Kim Peers and Violently Happy. Next up: ÆDEN, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Graftak is a techno and ebm artist tracked on soundcheck, with 26 sets logged ac
 
 IN_CONSTANT, Kim Peers, Violently Happy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graftak/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graftak/)*

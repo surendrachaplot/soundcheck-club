@@ -1,6 +1,6 @@
 # Jasmin Giovanazzi
 
-Jasmin Giovanazzi is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+Jasmin Giovanazzi is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
 Jasmin Giovanazzi is a techno artist tracked on soundcheck, with 14 sets logged across Berlin and Stuttgart. Often billed alongside Solvados, DEN!SE and Gabrielle (DE). Next up: ://about blank, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Jasmin Giovanazzi is a techno artist tracked on soundcheck, with 14 sets logged 
 
 Solvados, DEN!SE, Gabrielle (DE)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmingiovanazzi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmingiovanazzi/)*

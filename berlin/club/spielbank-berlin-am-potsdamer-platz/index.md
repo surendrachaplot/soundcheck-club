@@ -1,6 +1,6 @@
 # Spielbank Berlin am Potsdamer Platz
 
-Spielbank Berlin am Potsdamer Platz is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Music Lounge mit Andrés Marino" on Wed, 26 Aug 2026.
+Spielbank Berlin am Potsdamer Platz is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Music Lounge mit Andrés Marino" on Wed, 26 Aug 2026.
 
 Spielbank Berlin am Potsdamer Platz is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Abribass and Cedric Scheibel. Browse upcoming dates, start times and who's playing. Marlene-Dietrich Platz 1; Mitte; 10178 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Spielbank Berlin am Potsdamer Platz is a music venue in Berlin listed on soundch
 
 Marlene-Dietrich Platz 1; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spielbank-berlin-am-potsdamer-platz/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spielbank-berlin-am-potsdamer-platz/)*

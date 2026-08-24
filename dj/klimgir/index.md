@@ -1,6 +1,6 @@
 # KLIM (GIR)
 
-KLIM (GIR) is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - secret location, Barcelona on Sat, 19 Sept 2026.
+KLIM (GIR) is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - secret location, Barcelona on Sat, 19 Sept 2026.
 
 KLIM (GIR) is a bass and trance artist tracked on soundcheck, with 9 sets logged across Barcelona, London and Madrid. Often billed alongside Tangente, Niia Y and Alba Heidari. Next up: TBA - secret location, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KLIM (GIR) is a bass and trance artist tracked on soundcheck, with 9 sets logged
 
 Tangente, Niia Y, Alba Heidari
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klimgir/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klimgir/)*

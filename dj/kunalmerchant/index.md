@@ -1,6 +1,6 @@
 # Kunal Merchant
 
-Kunal Merchant is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at A.i Warehouse, Washington DC on Sat, 26 Sept 2026.
+Kunal Merchant is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at A.i Warehouse, Washington DC on Sat, 26 Sept 2026.
 
 Kunal Merchant is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Birmingham and Boston and 15 more. Often billed alongside Kahani, Anvaya and Ethyr. Next up: A.i Warehouse, Washingtondc on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Kunal Merchant is a house and techno artist based in United States of America, t
 
 Kahani, Anvaya, Ethyr
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kunalmerchant/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kunalmerchant/)*

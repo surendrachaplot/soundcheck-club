@@ -1,6 +1,6 @@
 # Giulia Gutterer
 
-Giulia Gutterer is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
+Giulia Gutterer is a Italo Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
 
 Giulia Gutterer is an italo disco and house artist based in Italy, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Fabrizio Mammarella, Franz Scala and Curses. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Giulia Gutterer is an italo disco and house artist based in Italy, tracked on so
 
 Fabrizio Mammarella, Franz Scala, Curses
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*

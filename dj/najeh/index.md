@@ -1,6 +1,6 @@
 # Najeh
 
-Najeh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 25 Aug 2026.
+Najeh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Chinois Ibiza, Ibiza on Tue, 25 Aug 2026.
 
 Najeh is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Berlin and Hamburg and 6 more. Often billed alongside Shimmy Robin, Lenard Klein and EliaHaze. Next up: Chinois Ibiza, Ibiza on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Najeh is a house and techno artist tracked on soundcheck, with 91 sets logged ac
 
 Shimmy Robin, Lenard Klein, EliaHaze
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/najeh/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/najeh/)*

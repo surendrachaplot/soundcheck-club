@@ -1,6 +1,6 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at 宀 Club, Hong Kong on Fri, 28 Aug 2026.
+Mr. Ho is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at 宀 Club, Hong Kong on Fri, 28 Aug 2026.
 
 Mr. Ho is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Auckland and Bali and 35 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: 宀 Club, Hongkong on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Mr. Ho is a house and techno artist tracked on soundcheck, with 119 sets logged 
 
 Luca Lozano, Wada Yosuke, Mogwaa
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

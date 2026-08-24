@@ -1,6 +1,6 @@
 # H2o6
 
-H2o6 is a music venue in Riga with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Selecta: Camo & Krooked / Arcando" on Sat, 29 Aug 2026.
+H2o6 is a music venue in Riga with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Selecta: Camo & Krooked / Arcando" on Sat, 29 Aug 2026.
 
 H2o6 is a music venue in Riga listed on soundcheck. 2 upcoming nights, with line-ups including Camo & Krooked, ENTER (EE), KETA (LV) and Qerty and 1 more. Browse upcoming dates, start times and who's playing. Ūdens iela 6, Riga, Latvia-1007.
 
@@ -15,4 +15,4 @@ H2o6 is a music venue in Riga listed on soundcheck. 2 upcoming nights, with line
 
 Ūdens iela 6, Riga, Latvia-1007, Riga
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/h2o6/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/h2o6/)*

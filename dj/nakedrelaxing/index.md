@@ -1,6 +1,6 @@
 # naked relaxing
 
-naked relaxing is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Prozak 2.0, Krakow on Sat, 5 Sept 2026.
+naked relaxing is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Prozak 2.0, Krakow on Sat, 5 Sept 2026.
 
 naked relaxing is a techno and trance artist tracked on soundcheck, with 50 sets logged across Krakow and Warsaw. Often billed alongside Meg (PL), Kuriozum and daisy cutter. Next up: Prozak 2.0, Krakow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ naked relaxing is a techno and trance artist tracked on soundcheck, with 50 sets
 
 Meg (PL), Kuriozum, daisy cutter
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedrelaxing/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedrelaxing/)*

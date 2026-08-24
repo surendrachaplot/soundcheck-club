@@ -1,6 +1,6 @@
 # ILAYRUNI
 
-ILAYRUNI is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+ILAYRUNI is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
 
 ILAYRUNI is an electronic artist tracked on soundcheck, with 3 sets logged across Barcelona and Madrid. Often billed alongside Amulador, Aöcram and Bassywax. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ ILAYRUNI is an electronic artist tracked on soundcheck, with 3 sets logged acros
 
 Amulador, Aöcram, Bassywax
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilayruni/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilayruni/)*

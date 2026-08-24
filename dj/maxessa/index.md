@@ -1,6 +1,6 @@
 # Max Essa
 
-Max Essa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Aoyama Tunnel, Tokyo on Fri, 28 Aug 2026.
+Max Essa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Aoyama Tunnel, Tokyo on Fri, 28 Aug 2026.
 
 Max Essa is a house and techno artist based in Japan, tracked on soundcheck, with 90 sets logged across Tokyo. Often billed alongside Kengo, DJ Nori and Pine. Next up: Aoyama Tunnel, Tokyo on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Max Essa is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 Kengo, DJ Nori, Pine
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxessa/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxessa/)*

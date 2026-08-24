@@ -1,6 +1,6 @@
 # Aston Evans
 
-Aston Evans is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Aston Evans is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Aston Evans is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh, London, Malaga and Malta. Often billed alongside Groove Assassin, Milady and Sol Brown. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -12,6 +12,7 @@ Aston Evans is a house and disco artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Skyline Sips, St James Quarter Rooftop, Edinburgh — Sun, 23 Aug 2026
 - TBA - Fuengirola - Mijas Costa, Malaga — Fri, 17 Apr 2026
 - TBA - 11 Art Club, Fuengirola, Malaga — Fri, 17 Apr 2026
 - Leith Arches, Edinburgh — Fri, 12 Sept 2025
@@ -21,4 +22,4 @@ Aston Evans is a house and disco artist based in United Kingdom, tracked on soun
 
 Groove Assassin, Milady, Sol Brown
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astonevans/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astonevans/)*

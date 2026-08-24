@@ -1,6 +1,6 @@
 # Mr. Redley
 
-Mr. Redley is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Carpet Shop, London on Sat, 29 Aug 2026.
+Mr. Redley is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Carpet Shop, London on Sat, 29 Aug 2026.
 
 Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Bristol and Hamburg and 4 more. Often billed alongside JAXX TMS, LORA S and NIKS. Next up: The Carpet Shop, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mr. Redley is a house and funk / soul artist tracked on soundcheck, with 70 sets
 
 JAXX TMS, LORA S, NIKS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrredley/)*

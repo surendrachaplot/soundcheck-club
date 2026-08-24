@@ -1,6 +1,6 @@
 # Omid Darvish
 
-Omid Darvish is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Omid Darvish is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 Omid Darvish is an electronica and experimental artist based in Iran, tracked on soundcheck, with 1 set logged across Vienna. Often billed alongside Alpha Tracks, Amma Ateria and Torus. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ Omid Darvish is an electronica and experimental artist based in Iran, tracked on
 
 Alpha Tracks, Amma Ateria, Torus
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omiddarvish/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omiddarvish/)*

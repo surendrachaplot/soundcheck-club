@@ -1,6 +1,6 @@
 # estoc
 
-estoc is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
+estoc is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 estoc is a club and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Austin and Bangkok and 30 more. Often billed alongside WTCHCRFT, Tom Marsi and bastiengoat. Next up: F8 1192 Folsom, Sanfrancisco on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ estoc is a club and techno artist tracked on soundcheck, with 75 sets logged acr
 
 WTCHCRFT, Tom Marsi, bastiengoat
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estoc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estoc/)*

@@ -1,6 +1,6 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Gorg-O-Mish presents: Quest & G-Luve" on Sun, 23 Aug 2026.
+Gorg-O-Mish is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Gorg-O-Mish presents: Quest & G-Luve" on Sun, 23 Aug 2026.
 
 Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, with line-ups including 2flowers, Adam 2, Luca Fernandez and LVT and 2 more. Browse upcoming dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
@@ -17,4 +17,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 4 upcoming night
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

@@ -1,6 +1,6 @@
 # Fester
 
-Fester is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Fester is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Fester is a house and breakbeat artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles. Often billed alongside Jesse Brooks, Danny Zee and 6BLOCC. Next up: TBA, Losangeles on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Fester is a house and breakbeat artist based in United States of America, tracke
 
 Jesse Brooks, Danny Zee, 6BLOCC
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fester/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fester/)*

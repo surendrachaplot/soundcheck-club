@@ -1,6 +1,6 @@
 # Iglooghost
 
-Iglooghost is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
+Iglooghost is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Iglooghost is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 22 more. Often billed alongside BABii, HiTech and SHERELLE. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Iglooghost is an experimental and electronica artist based in United Kingdom, tr
 
 BABii, HiTech, SHERELLE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iglooghost/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iglooghost/)*

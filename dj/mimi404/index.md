@@ -1,6 +1,6 @@
 # MIMI404
 
-MIMI404 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+MIMI404 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 MIMI404 is a techno and trance artist tracked on soundcheck, with 62 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ MIMI404 is a techno and trance artist tracked on soundcheck, with 62 sets logged
 
 e.leptic, E.T., bbymeister
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi404/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi404/)*

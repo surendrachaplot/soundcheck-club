@@ -1,6 +1,6 @@
 # Abbeydale Picture House
 
-Abbeydale Picture House is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Doobskins Summer Closer" on Sun, 30 Aug 2026.
+Abbeydale Picture House is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "The Doobskins Summer Closer" on Sun, 30 Aug 2026.
 
 Abbeydale Picture House is a music venue in Sheffield listed on soundcheck. 1 upcoming night, with line-ups including Alex Hartley, Freddie Grisbi, obviouslyalex and The Doobskins. Browse upcoming dates, start times and who's playing. 387 Abbeydale Road; Sheffield; England.
 
@@ -14,4 +14,4 @@ Abbeydale Picture House is a music venue in Sheffield listed on soundcheck. 1 up
 
 387 Abbeydale Road; Sheffield; England, Sheffield
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/abbeydale-picture-house/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/abbeydale-picture-house/)*

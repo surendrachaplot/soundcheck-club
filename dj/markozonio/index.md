@@ -1,6 +1,6 @@
 # Markozonio
 
-Markozonio is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Dalston Den, London on Fri, 4 Sept 2026.
+Markozonio is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dalston Den, London on Fri, 4 Sept 2026.
 
 Markozonio is a tech house and house artist based in North Macedonia, tracked on soundcheck, with 6 sets logged across Auckland and London. Often billed alongside AJ Manning, Jefferson King and Arcadia. Next up: Dalston Den, London on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Markozonio is a tech house and house artist based in North Macedonia, tracked on
 
 AJ Manning, Jefferson King, Arcadia
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markozonio/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markozonio/)*

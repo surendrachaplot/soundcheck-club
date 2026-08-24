@@ -1,6 +1,6 @@
 # CHICCA
 
-CHICCA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
+CHICCA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
 
 CHICCA is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside EEBEE, IGGY and Sheccy. Next up: Lord Napier, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ CHICCA is a house and techno artist based in United Kingdom, tracked on soundche
 
 EEBEE, IGGY, Sheccy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*

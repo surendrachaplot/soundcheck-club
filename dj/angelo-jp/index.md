@@ -1,6 +1,6 @@
 # angelo
 
-angelo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+angelo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
 
 angelo is a techno and acid artist tracked on soundcheck, with 2 sets logged across Amsterdam and Tokyo. Often billed alongside 7e, Alexander Koning and Dimitri (1). Next up: Thuishaven, Amsterdam on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ angelo is a techno and acid artist tracked on soundcheck, with 2 sets logged acr
 
 7e, Alexander Koning, Dimitri (1)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelo-jp/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelo-jp/)*

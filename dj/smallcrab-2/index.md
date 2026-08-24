@@ -1,6 +1,6 @@
 # Small Crab (2)
 
-Small Crab (2) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
+Small Crab (2) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at radial, London on Sat, 12 Sept 2026.
 
 Small Crab (2) is a bass and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Belfast, Berlin, Bristol and Dublin and 11 more. Often billed alongside Angel Cat, Syz and Jay Carder. Next up: radial, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Small Crab (2) is a bass and techno artist based in Germany, tracked on soundche
 
 Angel Cat, Syz, Jay Carder
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab-2/)*

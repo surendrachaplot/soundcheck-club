@@ -1,6 +1,6 @@
 # Nyra
 
-Nyra is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
+Nyra is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
 
 Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Athens and Belfast and 16 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: Maassilo, Rotterdam on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Chloé Caillet, Demi Riquisimo, Grace Sands
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*

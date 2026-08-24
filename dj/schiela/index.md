@@ -1,6 +1,6 @@
 # Schiela
 
-Schiela is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
+Schiela is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
 
 Schiela is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Istanbul and Newyorkcity and 1 more. Often billed alongside Christoph Faust, Power Squad and Alyssa & Gia. Next up: Tresor / Globus, Berlin on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ Schiela is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Christoph Faust, Power Squad, Alyssa & Gia
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schiela/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schiela/)*

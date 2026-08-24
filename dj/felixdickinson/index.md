@@ -1,6 +1,6 @@
 # Felix Dickinson
 
-Felix Dickinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 19 Sept 2026.
+Felix Dickinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 19 Sept 2026.
 
 Felix Dickinson is a house and techno artist tracked on soundcheck, with 45 sets logged across Athens, Belgrade, Berlin and Brighton and 12 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Felix Dickinson is a house and techno artist tracked on soundcheck, with 45 sets
 
 Dave Harvey, Chez de Milo, Ellie Stokes
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*

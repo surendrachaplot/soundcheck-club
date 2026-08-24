@@ -1,6 +1,6 @@
 # Juan Maclean
 
-Juan Maclean is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
+Juan Maclean is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
 
 Juan Maclean is a house and disco artist based in United States of America, tracked on soundcheck, with 66 sets logged across Austin, Barcelona, Boston and Chicago and 19 more. Often billed alongside Matthew Dear, Gee Dee and Kate Stein. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Juan Maclean is a house and disco artist based in United States of America, trac
 
 Matthew Dear, Gee Dee, Kate Stein
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*

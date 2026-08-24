@@ -1,6 +1,6 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The William Vale, New York City on Sun, 30 Aug 2026.
+Azzecca is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The William Vale, New York City on Sun, 30 Aug 2026.
 
 Azzecca is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: The William Vale, Newyorkcity on Sun 30 Aug.
 
@@ -30,4 +30,4 @@ Azzecca is a house and techno artist tracked on soundcheck, with 80 sets logged 
 
 Gorgon City, Chris Lake, Dom Dolla
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

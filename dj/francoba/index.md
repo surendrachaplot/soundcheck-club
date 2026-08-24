@@ -1,6 +1,6 @@
 # FRANCO BA
 
-FRANCO BA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 19 Sept 2026.
+FRANCO BA is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 19 Sept 2026.
 
 FRANCO BA is a tech house and minimal artist based in Argentina, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Jay de Lys, Mau P and 999999999. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ FRANCO BA is a tech house and minimal artist based in Argentina, tracked on soun
 
 Jay de Lys, Mau P, 999999999
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francoba/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francoba/)*

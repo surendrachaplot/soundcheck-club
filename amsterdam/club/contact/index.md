@@ -1,6 +1,6 @@
 # CONTACT
 
-CONTACT is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CLUB CONTACT" on Sun, 30 Aug 2026.
+CONTACT is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "CLUB CONTACT" on Sun, 30 Aug 2026.
 
 CONTACT is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Adrian Marth, Denise Luzzi, Emilio Arias and Luval and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 47, 1014AN, Amsterdam.
 
@@ -15,4 +15,4 @@ CONTACT is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, w
 
 Contactweg 47, 1014AN, Amsterdam, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/contact/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/contact/)*

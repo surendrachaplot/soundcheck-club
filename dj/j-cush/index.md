@@ -1,6 +1,6 @@
 # J-Cush
 
-J-Cush is a Footwork and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
+J-Cush is a Footwork and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
 
 J-Cush is a footwork and hip-hop artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Uche, SAY3 and DJ TiGa. Next up: Pianos, Newyorkcity on Wed 26 Aug.
 
@@ -22,4 +22,4 @@ J-Cush is a footwork and hip-hop artist based in United States of America, track
 
 Uche, SAY3, DJ TiGa
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-cush/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j-cush/)*

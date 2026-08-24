@@ -1,6 +1,6 @@
 # Sam Gittis
 
-Sam Gittis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kunstkraftwerk, Leipzig on Sat, 12 Sept 2026.
+Sam Gittis is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kunstkraftwerk, Leipzig on Sat, 12 Sept 2026.
 
 Sam Gittis is a house and tech house artist tracked on soundcheck, with 122 sets logged across Berlin, Budapest, Leipzig and Miami and 2 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed (2). Next up: Kunstkraftwerk, Leipzig on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Sam Gittis is a house and tech house artist tracked on soundcheck, with 122 sets
 
 Sebastian Paiza, Chad Andrew, Tatomed (2)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*

@@ -1,6 +1,6 @@
 # Kujo
 
-Kujo is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 3 Sept 2026.
+Kujo is a Techno and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 3 Sept 2026.
 
 Kujo is a techno and neo perreo artist tracked on soundcheck, with 7 sets logged across London, Miami and Paris. Often billed alongside SATURNSARii, Ale Acosta and Drew McDowall. Next up: Jolene Downtown Miami, Miami on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Kujo is a techno and neo perreo artist tracked on soundcheck, with 7 sets logged
 
 SATURNSARii, Ale Acosta, Drew McDowall
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kujo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kujo/)*

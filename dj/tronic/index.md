@@ -1,6 +1,6 @@
 # Tronic
 
-Tronic is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M-BIA, Berlin on Sat, 12 Sept 2026.
+Tronic is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at M-BIA, Berlin on Sat, 12 Sept 2026.
 
 Tronic is a techno and psytrance artist tracked on soundcheck, with 5 sets logged across Berlin, Hamburg and Vienna. Often billed alongside 2nd Floor, Abyss and Anna Reusch. Next up: M-BIA, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Tronic is a techno and psytrance artist tracked on soundcheck, with 5 sets logge
 
 2nd Floor, Abyss, Anna Reusch
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tronic/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tronic/)*

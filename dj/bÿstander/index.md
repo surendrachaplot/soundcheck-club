@@ -1,14 +1,14 @@
 # Bÿständer
 
-Bÿständer is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 520 Alexander Street, Vancouver on Sat, 29 Aug 2026.
+Bÿständer is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - VANCOUVER, Vancouver on Sat, 29 Aug 2026.
 
-Bÿständer is a techno and industrial artist tracked on soundcheck, with 38 sets logged across Montreal and Vancouver. Often billed alongside Behrad Tehrani, C-Star and MED!C. Next up: 520 Alexander Street, Vancouver on Sat 29 Aug.
+Bÿständer is a techno and industrial artist tracked on soundcheck, with 38 sets logged across Montreal and Vancouver. Often billed alongside Behrad Tehrani, C-Star and MED!C. Next up: TBA - VANCOUVER, Vancouver on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | 520 Alexander Street | Vancouver |
+| Sat, 29 Aug 2026 | TBA - VANCOUVER | Vancouver |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Bÿständer is a techno and industrial artist tracked on soundcheck, with 38 set
 
 Behrad Tehrani, C-Star, MED!C
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bÿstander/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bÿstander/)*

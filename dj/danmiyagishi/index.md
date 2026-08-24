@@ -1,6 +1,6 @@
 # Dan Miyagishi
 
-Dan Miyagishi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Z Maruyama, Tokyo on Sat, 29 Aug 2026.
+Dan Miyagishi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Z Maruyama, Tokyo on Sat, 29 Aug 2026.
 
 Dan Miyagishi is a house and tech house artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside PUNK N MATRIX, Yamariki and CARTOON. Next up: Z Maruyama, Tokyo on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Dan Miyagishi is a house and tech house artist based in Japan, tracked on soundc
 
 PUNK N MATRIX, Yamariki, CARTOON
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danmiyagishi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danmiyagishi/)*

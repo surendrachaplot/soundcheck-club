@@ -1,6 +1,6 @@
 # Max Wagner
 
-Max Wagner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
+Max Wagner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
 
 Max Wagner is a techno and house artist tracked on soundcheck, with 48 sets logged across Chicago, Leipzig, Munich and Vienna. Often billed alongside maro, GOLDI (AT) and Kat Ze. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Max Wagner is a techno and house artist tracked on soundcheck, with 48 sets logg
 
 maro, GOLDI (AT), Kat Ze
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwagner/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwagner/)*

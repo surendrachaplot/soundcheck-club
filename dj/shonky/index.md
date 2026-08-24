@@ -1,6 +1,6 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Rex Club, Paris on Sat, 29 Aug 2026.
+Shonky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Rex Club, Paris on Sat, 29 Aug 2026.
 
 Shonky is a house and tech house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Rex Club, Paris on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Shonky is a house and tech house artist tracked on soundcheck, with 219 sets log
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

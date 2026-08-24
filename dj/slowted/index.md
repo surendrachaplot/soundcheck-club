@@ -1,6 +1,6 @@
 # Slow Ted
 
-Slow Ted is a Breakbeat and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 29 Aug 2026.
+Slow Ted is a Breakbeat and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 29 Aug 2026.
 
 Slow Ted is a breakbeat and progressive house artist based in Sweden, tracked on soundcheck, with 1 set logged across Stockholm. Often billed alongside Braxton, Klur and LAR (UK). Next up: Blique by Nobis Rooftop, Stockholm on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Slow Ted is a breakbeat and progressive house artist based in Sweden, tracked on
 
 Braxton, Klur, LAR (UK)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowted/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slowted/)*

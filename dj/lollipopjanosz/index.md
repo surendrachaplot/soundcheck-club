@@ -1,6 +1,6 @@
 # Lollipop Janosz
 
-Lollipop Janosz is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Karmakoma, Belgrade on Fri, 28 Aug 2026.
+Lollipop Janosz is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Karmakoma, Belgrade on Fri, 28 Aug 2026.
 
 Lollipop Janosz is a techno and electronica artist tracked on soundcheck, with 48 sets logged across Belgrade. Often billed alongside Filip Xavi, Impedance and Luka Jukic. Next up: Karmakoma, Belgrade on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lollipop Janosz is a techno and electronica artist tracked on soundcheck, with 4
 
 Filip Xavi, Impedance, Luka Jukic
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lollipopjanosz/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lollipopjanosz/)*

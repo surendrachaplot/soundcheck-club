@@ -1,14 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at FOLD, London on Sun, 23 Aug 2026.
+Alarico is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 25 Aug 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: FOLD, London on Sun 23 Aug.
+Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Amnesia Ibiza, Ibiza on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | FOLD | London |
 | Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Sept 2026 | Odonien | Cologne |
@@ -20,9 +19,11 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
+| Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
+- FOLD, London — Sun, 23 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 - EXIL, Zurich — Sat, 8 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - TBA, Mexico City — Sat, 1 Aug 2026
-- TRANSMISSION DC, Washington DC — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

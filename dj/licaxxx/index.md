@@ -1,6 +1,6 @@
 # Licaxxx
 
-Licaxxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 31 Aug 2026.
+Licaxxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 31 Aug 2026.
 
 Licaxxx is a house and techno artist based in Japan, tracked on soundcheck, with 91 sets logged across Hongkong, Kyoto, Lyon and Melbourne and 4 more. Often billed alongside JUN INAGAWA, FELINE (JP) and kengotaki. Next up: Enter Shibuya, Tokyo on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Licaxxx is a house and techno artist based in Japan, tracked on soundcheck, with
 
 JUN INAGAWA, FELINE (JP), kengotaki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/licaxxx/)*

@@ -1,6 +1,6 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ChaseWest" on Fri, 28 Aug 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ChaseWest" on Fri, 28 Aug 2026.
 
 1015 Folsom is a music venue in Sanfrancisco listed on soundcheck. 14 upcoming nights, with line-ups including 2ManyDJs, Andromedik, Black Plastica and BLUKE and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

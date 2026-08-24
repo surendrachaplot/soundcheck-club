@@ -1,6 +1,6 @@
 # Maksym Tkach
 
-Maksym Tkach is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Sekta Selekta, Krakow on Fri, 28 Aug 2026.
+Maksym Tkach is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sekta Selekta, Krakow on Fri, 28 Aug 2026.
 
 Maksym Tkach is a minimal and tech house artist tracked on soundcheck, with 21 sets logged across Berlin, Krakow, Prague and Tbilisi and 1 more. Often billed alongside Mike Trofimov, Roma Khropko and Loves_kills. Next up: Sekta Selekta, Krakow on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Maksym Tkach is a minimal and tech house artist tracked on soundcheck, with 21 s
 
 Mike Trofimov, Roma Khropko, Loves_kills
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maksymtkach/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maksymtkach/)*

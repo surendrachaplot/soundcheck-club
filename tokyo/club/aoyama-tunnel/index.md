@@ -1,6 +1,6 @@
 # Aoyama Tunnel
 
-Aoyama Tunnel is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "TUNNEL MONDAY" on Mon, 24 Aug 2026.
+Aoyama Tunnel is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "TUNNEL MONDAY" on Mon, 24 Aug 2026.
 
 Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including dj yumi-cco, Ippei, Max Essa and takumar and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002.
 
@@ -19,4 +19,4 @@ Aoyama Tunnel is a music venue in Tokyo listed on soundcheck. 6 upcoming nights,
 
 4-5-9 B1 Shibuya, Shibuya-ku, Tokyo 150-0002, Tokyo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-tunnel/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-tunnel/)*

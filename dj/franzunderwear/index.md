@@ -1,6 +1,6 @@
 # Franz Scala
 
-Franz Scala is a Italo Disco and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+Franz Scala is a Italo Disco and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
 Franz Scala is an italo disco and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 26 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: Renate, Berlin on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Franz Scala is an italo disco and house artist tracked on soundcheck, with 162 s
 
 Fabrizio Mammarella, Giulia Gutterer, Paty Vapor
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*

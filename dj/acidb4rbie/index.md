@@ -1,6 +1,6 @@
 # ACID B4RBIE
 
-ACID B4RBIE is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
+ACID B4RBIE is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Renate, Berlin on Thu, 27 Aug 2026.
 
 ACID B4RBIE is a techno and acid artist tracked on soundcheck, with 24 sets logged across Berlin and Hamburg. Often billed alongside DJ Hellfire, Billy Bam and Bailey Brown. Next up: Renate, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ ACID B4RBIE is a techno and acid artist tracked on soundcheck, with 24 sets logg
 
 DJ Hellfire, Billy Bam, Bailey Brown
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidb4rbie/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidb4rbie/)*

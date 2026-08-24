@@ -1,6 +1,6 @@
 # Midwife
 
-Midwife is a Breakbeat and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The White Hotel, Manchester on Tue, 3 Nov 2026.
+Midwife is a Breakbeat and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The White Hotel, Manchester on Tue, 3 Nov 2026.
 
 Midwife is a breakbeat and experimental artist tracked on soundcheck, with 9 sets logged across Berlin, Glasgow, London and Manchester. Often billed alongside KLOO, 222babychai and BHV2099. Next up: The White Hotel, Manchester on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Midwife is a breakbeat and experimental artist tracked on soundcheck, with 9 set
 
 KLOO, 222babychai, BHV2099
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midwife/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midwife/)*

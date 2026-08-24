@@ -1,8 +1,8 @@
 # Jean Philippe
 
-Jean Philippe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Amok Club, Mallorca on Mon, 31 Aug 2026.
+Jean Philippe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Amok Club, Mallorca on Mon, 31 Aug 2026.
 
-Jean Philippe is a house and techno artist based in Austria, tracked on soundcheck, with 1 set logged across Mallorca. Often billed alongside Tripolism and Mole (1). Next up: Amok Club, Mallorca on Mon 31 Aug.
+Jean Philippe is a techno and house artist based in Austria, tracked on soundcheck, with 1 set logged across Mallorca. Often billed alongside Mole (1) and Tripolism. Next up: Amok Club, Mallorca on Mon 31 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Jean Philippe is a house and techno artist based in Austria, tracked on soundche
 
 ## Shares bills with
 
-Tripolism, Mole (1)
+Mole (1), Tripolism
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanphilippe/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanphilippe/)*

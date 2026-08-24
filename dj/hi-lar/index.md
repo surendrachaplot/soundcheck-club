@@ -1,6 +1,6 @@
 # Hi-Lar
 
-Hi-Lar is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
+Hi-Lar is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
 
 Hi-Lar is an ambient and bass artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Discotopian, Chris Speed Visuals and New Frames. Next up: The Space KU Damm, Berlin on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Hi-Lar is an ambient and bass artist based in Germany, tracked on soundcheck, wi
 
 Discotopian, Chris Speed Visuals, New Frames
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lar/)*

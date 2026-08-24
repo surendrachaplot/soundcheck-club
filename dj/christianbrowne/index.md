@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
+Christian AB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
 
 Christian AB is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Quest (IT), Francesco Del Garda and Quest. Next up: Amnesia Ibiza, Ibiza on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Christian AB is a house and techno artist tracked on soundcheck, with 190 sets l
 
 Quest (IT), Francesco Del Garda, Quest
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianbrowne/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianbrowne/)*

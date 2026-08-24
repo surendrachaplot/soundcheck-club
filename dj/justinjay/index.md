@@ -1,6 +1,6 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Sacré, Paris on Fri, 11 Sept 2026.
+Justin Jay is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Sacré, Paris on Fri, 11 Sept 2026.
 
 Justin Jay is a house and techno artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 26 more. Often billed alongside Bad Boombox, Janis Zielinski and Mija. Next up: Sacré, Paris on Fri 11 Sept.
 
@@ -17,6 +17,7 @@ Justin Jay is a house and techno artist tracked on soundcheck, with 76 sets logg
 
 ## Recently played
 
+- Lieberscholli, Munich — Sun, 23 Aug 2026
 - The Berkeley Suite, Glasgow — Sat, 27 Jun 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - La Java, Paris — Sat, 30 May 2026
@@ -24,10 +25,9 @@ Justin Jay is a house and techno artist tracked on soundcheck, with 76 sets logg
 - Antwerp Expo, Antwerp — Sat, 18 Apr 2026
 - Bsmnt, Boston — Sat, 7 Mar 2026
 - 70 Scott Avenue, New York City — Fri, 6 Mar 2026
-- Monarch, Berlin — Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Bad Boombox, Janis Zielinski, Mija
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*

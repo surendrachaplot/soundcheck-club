@@ -1,6 +1,6 @@
 # ISORA
 
-ISORA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at M.O.T, London on Sat, 12 Sept 2026.
+ISORA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at M.O.T, London on Sat, 12 Sept 2026.
 
 ISORA is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bristol and London and 1 more. Often billed alongside Krunx, The Bass Injector and Shirley Temper. Next up: M.O.T, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ISORA is a techno and acid artist based in United Kingdom, tracked on soundcheck
 
 Krunx, The Bass Injector, Shirley Temper
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isora/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isora/)*

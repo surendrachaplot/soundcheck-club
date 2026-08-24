@@ -1,6 +1,6 @@
 # Fireground
 
-Fireground is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
+Fireground is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
 
 Fireground is a techno and house artist based in Italy, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Zenker Brothers, Stenny and Ben Sims. Next up: Tresor / Globus, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Fireground is a techno and house artist based in Italy, tracked on soundcheck, w
 
 Zenker Brothers, Stenny, Ben Sims
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*

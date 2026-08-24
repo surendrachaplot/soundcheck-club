@@ -1,6 +1,6 @@
 # Whitenoise (PT)
 
-Whitenoise (PT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Lux Fragil, Lisbon on Thu, 27 Aug 2026.
+Whitenoise (PT) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Lux Fragil, Lisbon on Thu, 27 Aug 2026.
 
 Whitenoise (PT) is a house and tech house artist based in Portugal, tracked on soundcheck, with 42 sets logged across Lisbon, Madrid, Porto and Valencia. Often billed alongside DJ Nox, Fragoso and Cuba (PT). Next up: Lux Fragil, Lisbon on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Whitenoise (PT) is a house and tech house artist based in Portugal, tracked on s
 
 DJ Nox, Fragoso, Cuba (PT)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenoise-pt/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenoise-pt/)*

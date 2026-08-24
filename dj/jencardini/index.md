@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
+Jen Cardini is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 22 Aug 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: RSO.BERLIN, Berlin on Sat 22 Aug.
 
@@ -30,4 +30,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 247 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

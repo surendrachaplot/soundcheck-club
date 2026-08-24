@@ -1,6 +1,6 @@
 # Steve Bicknell
 
-Steve Bicknell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Moog Club, Barcelona on Wed, 26 Aug 2026.
+Steve Bicknell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Moog Club, Barcelona on Wed, 26 Aug 2026.
 
 Steve Bicknell is a techno and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Barcelona and Basel and 10 more. Often billed alongside Kerrie, Mareena and Bloody Mary. Next up: Moog Club, Barcelona on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Steve Bicknell is a techno and house artist based in United Kingdom, tracked on 
 
 Kerrie, Mareena, Bloody Mary
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*

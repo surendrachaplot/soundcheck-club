@@ -1,6 +1,6 @@
 # Waikiki
 
-Waikiki is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Spindler & Klatt, Berlin on Sat, 12 Sept 2026.
+Waikiki is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Spindler & Klatt, Berlin on Sat, 12 Sept 2026.
 
 Waikiki is a techno and tech house artist tracked on soundcheck, with 33 sets logged across Berlin. Often billed alongside DJ Jordan, Das Amt and Match Hoffman. Next up: Spindler & Klatt, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Waikiki is a techno and tech house artist tracked on soundcheck, with 33 sets lo
 
 DJ Jordan, Das Amt, Match Hoffman
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waikiki/)*

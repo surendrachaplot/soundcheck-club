@@ -1,6 +1,6 @@
 # RO Seoul
 
-RO Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "LIVE: HWIHWA" on Sun, 23 Aug 2026.
+RO Seoul is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "LIVE: HWIHWA" on Sun, 23 Aug 2026.
 
 RO Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ RO Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming night. Brows
 | --- | --- | --- |
 | Sun, 23 Aug 2026 | LIVE: HWIHWA |  |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ro-seoul/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ro-seoul/)*

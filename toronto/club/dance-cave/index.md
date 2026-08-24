@@ -1,6 +1,6 @@
 # Dance Cave
 
-Dance Cave is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rave Cave" on Fri, 11 Sept 2026.
+Dance Cave is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Rave Cave" on Fri, 11 Sept 2026.
 
 Dance Cave is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Oreku. Browse upcoming dates, start times and who's playing. 529 Bloor St W, Toronto, ON M5S 1Y5, Canada.
 
@@ -15,4 +15,4 @@ Dance Cave is a music venue in Toronto listed on soundcheck. 2 upcoming nights, 
 
 529 Bloor St W, Toronto, ON M5S 1Y5, Canada, Toronto
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/dance-cave/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/dance-cave/)*

@@ -1,6 +1,6 @@
 # Franxx
 
-Franxx is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Franxx is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Franxx is a club and hardcore artist tracked on soundcheck, with 68 sets logged across London, Newyorkcity, Tokyo and Washingtondc. Often billed alongside znorthy, Gabberbitch69 and GET FACE. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Franxx is a club and hardcore artist tracked on soundcheck, with 68 sets logged 
 
 znorthy, Gabberbitch69, GET FACE
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franxx/)*

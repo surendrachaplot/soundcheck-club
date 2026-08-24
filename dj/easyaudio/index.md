@@ -1,6 +1,6 @@
 # Easy Audio
 
-Easy Audio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at B-SIDE, Warsaw on Fri, 28 Aug 2026.
+Easy Audio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at B-SIDE, Warsaw on Fri, 28 Aug 2026.
 
 Easy Audio is a house and techno artist based in Poland, tracked on soundcheck, with 66 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, Valdemar ST and bart ender. Next up: B-SIDE, Warsaw on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Easy Audio is a house and techno artist based in Poland, tracked on soundcheck, 
 
 Schmeltzer, Valdemar ST, bart ender
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easyaudio/)*

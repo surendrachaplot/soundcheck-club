@@ -1,6 +1,6 @@
 # Nick Spurway
 
-Nick Spurway is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Abercrombie Hotel, Sydney on Sat, 29 Aug 2026.
+Nick Spurway is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Abercrombie Hotel, Sydney on Sat, 29 Aug 2026.
 
 Nick Spurway is a house and electronica artist tracked on soundcheck, with 7 sets logged across Melbourne and Sydney. Often billed alongside Sophie Forrest, 2 Factor Authentication and Alex Diwa. Next up: Abercrombie Hotel, Sydney on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Nick Spurway is a house and electronica artist tracked on soundcheck, with 7 set
 
 Sophie Forrest, 2 Factor Authentication, Alex Diwa
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickspurway/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickspurway/)*

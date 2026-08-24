@@ -1,21 +1,26 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Foggy Sunday" on Sun, 23 Aug 2026.
+Spkrbox is a music venue in Detroit with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "T2B TUESDAYS: New Spkrbox Residency with TOP2BTTM" on Tue, 25 Aug 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including 888lambchop, Bale Defoe, DJ Hyperactive and Dj Ryte Nou and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 11 upcoming nights, with line-ups including 888lambchop, Anubis, Bale Defoe and Dj Ryte Nou and 2 more. Browse upcoming dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | Foggy Sunday | DJ Hyperactive, Dru Ruiz |
 | Tue, 25 Aug 2026 | T2B TUESDAYS: New Spkrbox Residency with TOP2BTTM | M00N PI, UNS4NE, we1sman |
+| Wed, 26 Aug 2026 | Planet Funk |  |
+| Wed, 26 Aug 2026 | Nightcap Detroit | Isaac Prieto |
+| Wed, 26 Aug 2026 | Amber | FALCO (2), PETER GUY |
 | Thu, 27 Aug 2026 | Rager Haus Party | 888lambchop, Bale Defoe, Sheefy McFly |
+| Thu, 27 Aug 2026 | Upstairs at Erics | Anubis |
+| Fri, 28 Aug 2026 | House Coffee | Jorissen |
 | Sat, 29 Aug 2026 | Planet Funk |  |
-| Sat, 12 Sept 2026 | BerettaMusic & Friends - sillygirlcarmen, Ryan Sadorus, CHRISB313, Dj Ryte Nou, MARCUS HARRIS | Dj Ryte Nou, Marcus NF Harris, Ryan Sadorus, sillygirlcarmen |
+| Sat, 29 Aug 2026 | Saturday Grind |  |
+| Sun, 30 Aug 2026 | SPKR BRNCH |  |
 
 ## Address
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

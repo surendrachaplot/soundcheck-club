@@ -1,6 +1,6 @@
 # MoMA Ready
 
-MoMA Ready is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ormside Projects, London on Fri, 25 Sept 2026.
+MoMA Ready is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ormside Projects, London on Fri, 25 Sept 2026.
 
 MoMA Ready is a techno and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Boston, Chicago, London and Losangeles and 10 more. Often billed alongside AceMo, Kush Jones and DJ SWISHA. Next up: Ormside Projects, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ MoMA Ready is a techno and house artist based in United States of America, track
 
 AceMo, Kush Jones, DJ SWISHA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momaready/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momaready/)*

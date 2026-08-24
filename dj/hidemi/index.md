@@ -1,6 +1,6 @@
 # hidemi
 
-hidemi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Z Maruyama, Tokyo on Sat, 12 Sept 2026.
+hidemi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Z Maruyama, Tokyo on Sat, 12 Sept 2026.
 
 hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 143 sets logged across Osaka and Tokyo. Often billed alongside Takami, cosmolady and Yamariki. Next up: Z Maruyama, Tokyo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ hidemi is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Takami, cosmolady, Yamariki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hidemi/)*

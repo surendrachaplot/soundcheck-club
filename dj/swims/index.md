@@ -1,6 +1,6 @@
 # SWIMS
 
-SWIMS is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Hule, Mexico City on Wed, 19 Aug 2026.
+SWIMS is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hule, Mexico City on Wed, 19 Aug 2026.
 
 SWIMS is a downtempo and electronica artist tracked on soundcheck, with 11 sets logged across Mexicocity and Newyorkcity. Often billed alongside Badknees, Maseriche and Saturna. Next up: Hule, Mexicocity on Wed 19 Aug.
 
@@ -25,4 +25,4 @@ SWIMS is a downtempo and electronica artist tracked on soundcheck, with 11 sets 
 
 Badknees, Maseriche, Saturna
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swims/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swims/)*

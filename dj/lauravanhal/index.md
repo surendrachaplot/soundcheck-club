@@ -1,6 +1,6 @@
 # Laura van Hal
 
-Laura van Hal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Laura van Hal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Laura van Hal is a techno and house artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Lea Occhi, Offtrack and Lobster (NL). Next up: Levenslang Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Laura van Hal is a techno and house artist based in Netherlands, tracked on soun
 
 Lea Occhi, Offtrack, Lobster (NL)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravanhal/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravanhal/)*

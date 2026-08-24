@@ -1,6 +1,6 @@
 # Adamatron
 
-Adamatron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
+Adamatron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
 
 Adamatron is a techno and house artist based in Czech Republic, tracked on soundcheck, with 41 sets logged across Prague. Often billed alongside Pink Concrete, aláya and Fake Agent. Next up: Fuchs2, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Adamatron is a techno and house artist based in Czech Republic, tracked on sound
 
 Pink Concrete, aláya, Fake Agent
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamatron/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamatron/)*

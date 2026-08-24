@@ -1,6 +1,6 @@
 # Volen Sentir
 
-Volen Sentir is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 28 Aug 2026.
+Volen Sentir is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Do Not Sit On The Furniture, Miami on Fri, 28 Aug 2026.
 
 Volen Sentir is a deep house and progressive house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Budapest, London and Losangeles and 8 more. Often billed alongside DAVI, Guy Mantzur and Omer Tayar. Next up: Do Not Sit On The Furniture, Miami on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Volen Sentir is a deep house and progressive house artist tracked on soundcheck,
 
 DAVI, Guy Mantzur, Omer Tayar
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*

@@ -1,6 +1,6 @@
 # Javier Labarca
 
-Javier Labarca is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
+Javier Labarca is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
 
 Javier Labarca is a minimal and house artist tracked on soundcheck, with 5 sets logged across Barcelona and Buenosaires. Often billed alongside Dominique Tijoux, Daniel Sanchez and Munøz. Next up: Macarena Club, Barcelona on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Javier Labarca is a minimal and house artist tracked on soundcheck, with 5 sets 
 
 Dominique Tijoux, Daniel Sanchez, Munøz
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javierlabarca/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javierlabarca/)*

@@ -1,6 +1,6 @@
 # Kuuma
 
-Kuuma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
+Kuuma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
 
 Kuuma is a techno and experimental artist tracked on soundcheck, with 31 sets logged across Detroit and Toronto. Often billed alongside RETCON, Seanni B and OMO (US). Next up: Paris Bar, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Kuuma is a techno and experimental artist tracked on soundcheck, with 31 sets lo
 
 RETCON, Seanni B, OMO (US)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuuma/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuuma/)*

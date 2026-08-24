@@ -1,14 +1,13 @@
 # Watermark
 
-Watermark is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ]" on Sun, 23 Aug 2026.
+Watermark is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "#1 Labour Day - Noche De Saturno - Perreo On The Pier" on Fri, 28 Aug 2026.
 
-Watermark is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
+Watermark is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | AfroWaves NYC: Afrobeats & Amapiano Sunset Party on the Pier [ Open - Air ] |  |
 | Fri, 28 Aug 2026 | #1 Labour Day - Noche De Saturno - Perreo On The Pier |  |
 | Fri, 28 Aug 2026 | Rauw Alejandro Tribute Party - Noche de Saturno Latin Party |  |
 | Sat, 29 Aug 2026 | Bad Bunny Tribute Latin & Reggaeton Beach Party |  |
@@ -18,9 +17,10 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nigh
 | Thu, 3 Sept 2026 | Labor Day Weekend Beach Festival - Reggaeton & Latin Party |  |
 | Fri, 4 Sept 2026 | #1 Labor Day Weekend Perreo - Perreo On The Pier |  |
 | Fri, 4 Sept 2026 | Labor Day Weekend Beach Festival - Reggaeton & Latin Party |  |
+| Sat, 5 Sept 2026 | #1 Labor Day Weekend Perreo - Perreo On The Pier |  |
 
 ## Address
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

@@ -1,6 +1,6 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "CUPRA FM presents COLLECT 200 (Live) - MCR Debut - FREE Tickets" on Fri, 28 Aug 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "CUPRA FM presents COLLECT 200 (Live) - MCR Debut - FREE Tickets" on Fri, 28 Aug 2026.
 
 Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Stanton Warriors and SUI 13. Browse upcoming dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
@@ -16,4 +16,4 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

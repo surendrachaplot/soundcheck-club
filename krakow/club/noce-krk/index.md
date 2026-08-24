@@ -1,6 +1,6 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ABEX & JOTUT (live)" on Fri, 28 Aug 2026.
+Noce KRK is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ABEX & JOTUT (live)" on Fri, 28 Aug 2026.
 
 Noce KRK is a music venue in Krakow listed on soundcheck. 4 upcoming nights, with line-ups including Abrew, Adriana Lopez, Dimitri Cooman and exoførm and 2 more. Browse upcoming dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
@@ -17,4 +17,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 4 upcoming nights, wit
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

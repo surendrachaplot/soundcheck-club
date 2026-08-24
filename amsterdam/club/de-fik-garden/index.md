@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "OBERHAUM x De Fik Garden" on Thu, 27 Aug 2026.
+De Fik Garden is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "OBERHAUM x De Fik Garden" on Thu, 27 Aug 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Chami, Claudio PRC, Comrade Winston and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -21,4 +21,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 8 upcoming nig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

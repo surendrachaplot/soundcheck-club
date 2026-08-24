@@ -1,6 +1,6 @@
 # GIDEÖN
 
-GIDEÖN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+GIDEÖN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Athens, Bali, Berlin and Bristol and 11 more. Often billed alongside Michelle Manetti, Hannah Holland and THEMPRESS. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundch
 
 Michelle Manetti, Hannah Holland, THEMPRESS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gideon-uk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gideon-uk/)*

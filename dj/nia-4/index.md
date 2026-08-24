@@ -1,6 +1,6 @@
 # NIA (4)
 
-NIA (4) is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Lieberscholli, Munich on Sat, 5 Sept 2026.
+NIA (4) is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Lieberscholli, Munich on Sat, 5 Sept 2026.
 
 NIA (4) is a trance and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Leipzig and Munich. Often billed alongside Amøn, Benleh and CARGO (DE). Next up: Lieberscholli, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NIA (4) is a trance and house artist based in Germany, tracked on soundcheck, wi
 
 Amøn, Benleh, CARGO (DE)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-4/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-4/)*

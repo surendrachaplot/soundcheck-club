@@ -1,6 +1,6 @@
 # Fred Ventura
 
-Fred Ventura is a Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
+Fred Ventura is a Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
 
 Fred Ventura is a disco artist tracked on soundcheck, with 7 sets logged across Berlin, Milan and Thehague. Often billed alongside Alden Tyrell, Alessandro Adriani and Bonzai Bonner. Next up: TBA - Inter-city , Thehague on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Fred Ventura is a disco artist tracked on soundcheck, with 7 sets logged across 
 
 Alden Tyrell, Alessandro Adriani, Bonzai Bonner
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredventura/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredventura/)*

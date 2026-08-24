@@ -1,6 +1,6 @@
 # Kirby
 
-Kirby is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Kirby is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 Kirby is a progressive house and house artist tracked on soundcheck, with 4 sets logged across Brighton, Bristol and Melbourne. Often billed alongside AC13, Afters and Aristo G. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Kirby is a progressive house and house artist tracked on soundcheck, with 4 sets
 
 AC13, Afters, Aristo G
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirby/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirby/)*

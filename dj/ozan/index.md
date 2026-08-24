@@ -1,6 +1,6 @@
 # Ozan
 
-Ozan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Ozan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
 Ozan is a techno and electro artist tracked on soundcheck, with 9 sets logged across Istanbul, Munich, Stockholm and Tallinn and 1 more. Often billed alongside undrtow, Melchiorr and XMRXLLXH. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ozan is a techno and electro artist tracked on soundcheck, with 9 sets logged ac
 
 undrtow, Melchiorr, XMRXLLXH
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozan/)*

@@ -1,6 +1,6 @@
 # Bergson Kunstkraftwerk
 
-Bergson Kunstkraftwerk is a music venue in Munich with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Bergson x Grey Scale presents Rue Oberkampf, Tobias Bernstrup & Philipp Strobel" on Fri, 23 Oct 2026.
+Bergson Kunstkraftwerk is a music venue in Munich with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Bergson x Grey Scale presents Rue Oberkampf, Tobias Bernstrup & Philipp Strobel" on Fri, 23 Oct 2026.
 
 Bergson Kunstkraftwerk is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Philipp Strobel. Browse upcoming dates, start times and who's playing. Am Bergson Kunstkraftwerk 2, 81245 München.
 
@@ -14,4 +14,4 @@ Bergson Kunstkraftwerk is a music venue in Munich listed on soundcheck. 1 upcomi
 
 Am Bergson Kunstkraftwerk 2, 81245 München, Munich
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bergson-kunstkraftwerk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bergson-kunstkraftwerk/)*

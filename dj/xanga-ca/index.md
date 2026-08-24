@@ -1,6 +1,6 @@
 # XANGA
 
-XANGA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Buddies in Bad Times, Toronto on Sat, 5 Sept 2026.
+XANGA is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Buddies in Bad Times, Toronto on Sat, 5 Sept 2026.
 
 XANGA is a house and electro artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside DR 4SKYN, emmy.wav and Delicious DJ. Next up: Buddies in Bad Times, Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ XANGA is a house and electro artist based in Canada, tracked on soundcheck, with
 
 DR 4SKYN, emmy.wav, Delicious DJ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*

@@ -1,6 +1,6 @@
 # Mitch
 
-Mitch is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at De Fik Garden, Amsterdam on Thu, 27 Aug 2026.
+Mitch is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at De Fik Garden, Amsterdam on Thu, 27 Aug 2026.
 
 Mitch is a house and minimal artist tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Berlin and Ghent and 6 more. Often billed alongside Anish Kumar, Binyamhn and Dr Banana. Next up: De Fik Garden, Amsterdam on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Mitch is a house and minimal artist tracked on soundcheck, with 15 sets logged a
 
 Anish Kumar, Binyamhn, Dr Banana
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitch/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitch/)*

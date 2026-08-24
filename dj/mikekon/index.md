@@ -1,6 +1,6 @@
 # Mikekon
 
-Mikekon is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Oxford Art Factory, Sydney on Sat, 10 Oct 2026.
+Mikekon is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Oxford Art Factory, Sydney on Sat, 10 Oct 2026.
 
 Mikekon is a deep house and house artist tracked on soundcheck, with 37 sets logged across Melbourne and Sydney. Often billed alongside DJ Ingrid, ritmiq and James Locksmith. Next up: Oxford Art Factory, Sydney on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mikekon is a deep house and house artist tracked on soundcheck, with 37 sets log
 
 DJ Ingrid, ritmiq, James Locksmith
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekon/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekon/)*

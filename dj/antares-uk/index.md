@@ -1,6 +1,6 @@
 # Antares (UK)
 
-Antares (UK) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
+Antares (UK) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
 
 Antares (UK) is a techno and progressive house artist tracked on soundcheck, with 28 sets logged across Athens, Bali, Bangkok and Ibiza and 3 more. Often billed alongside Auric, Balzar and Redfreya. Next up: TBA - BOATPARTY, Istanbul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Antares (UK) is a techno and progressive house artist tracked on soundcheck, wit
 
 Auric, Balzar, Redfreya
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antares-uk/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antares-uk/)*

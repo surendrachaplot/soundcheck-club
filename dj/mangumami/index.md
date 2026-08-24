@@ -1,6 +1,6 @@
 # MANGUMAMI
 
-MANGUMAMI is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 3 Sept 2026.
+MANGUMAMI is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 3 Sept 2026.
 
 MANGUMAMI is a club and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside EL SUCIO, CMD+JAZMINE and BOJAQ. Next up: Dead Letter No. 9, Newyorkcity on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ MANGUMAMI is a club and techno artist based in United States of America, tracked
 
 EL SUCIO, CMD+JAZMINE, BOJAQ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangumami/)*

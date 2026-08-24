@@ -1,6 +1,6 @@
 # Kampire
 
-Kampire is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+Kampire is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
 Kampire is a bass and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside DJ Travella, De Schuurman and Authentically Plastic. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kampire is a bass and house artist tracked on soundcheck, with 45 sets logged ac
 
 DJ Travella, De Schuurman, Authentically Plastic
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*

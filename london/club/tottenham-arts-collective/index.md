@@ -1,6 +1,6 @@
 # Tottenham Arts Collective
 
-Tottenham Arts Collective is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "dnbtherapy: Tottenham Arts Collective " on Fri, 30 Oct 2026.
+Tottenham Arts Collective is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "dnbtherapy: Tottenham Arts Collective " on Fri, 30 Oct 2026.
 
 Tottenham Arts Collective is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Congo Natty, MC Gusto and Ray Keith. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tottenham Arts Collective is a music venue in London listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | dnbtherapy: Tottenham Arts Collective  | Congo Natty, MC Gusto, Ray Keith |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tottenham-arts-collective/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tottenham-arts-collective/)*

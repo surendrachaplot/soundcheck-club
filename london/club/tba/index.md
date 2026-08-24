@@ -1,6 +1,6 @@
 # TBA
 
-TBA is a music venue in London with 285 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "-" on Thu, 27 Aug 2026.
+TBA is a music venue in London with 285 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "-" on Thu, 27 Aug 2026.
 
 TBA is a music venue in London listed on soundcheck. 285 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 2flowers and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 285 upcoming nights, with l
 | Fri, 28 Aug 2026 | UNSEEN presents: Casual Treatment | Casual Treatment, simonsays |
 | Fri, 28 Aug 2026 | Jamie Fielding - Edinburgh Fringe Pop-Up Rave |  |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

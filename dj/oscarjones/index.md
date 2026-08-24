@@ -1,6 +1,6 @@
 # Oscar Jones
 
-Oscar Jones is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+Oscar Jones is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 Oscar Jones is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds, London and Zurich. Often billed alongside Mortalyf, Sam Pratt and Gianluca Felline. Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Oscar Jones is a minimal and house artist based in United Kingdom, tracked on so
 
 Mortalyf, Sam Pratt, Gianluca Felline
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarjones/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarjones/)*

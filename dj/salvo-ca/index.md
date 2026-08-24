@@ -1,6 +1,6 @@
 # Salvo (CA)
 
-Salvo (CA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
+Salvo (CA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Vino Disco, Montreal on Sat, 29 Aug 2026.
 
 Salvo (CA) is a house and disco artist based in Canada, tracked on soundcheck, with 12 sets logged across Berlin and Montreal. Often billed alongside Edward Reilly, Shtarek and Alessandroid. Next up: Vino Disco, Montreal on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Salvo (CA) is a house and disco artist based in Canada, tracked on soundcheck, w
 
 Edward Reilly, Shtarek, Alessandroid
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salvo-ca/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salvo-ca/)*

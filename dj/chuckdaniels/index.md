@@ -1,6 +1,6 @@
 # Chuck Daniels
 
-Chuck Daniels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mad Radio Miami, Miami on Fri, 28 Aug 2026.
+Chuck Daniels is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mad Radio Miami, Miami on Fri, 28 Aug 2026.
 
 Chuck Daniels is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside Rick Wade, Brent Shay and Norm Talley. Next up: Mad Radio Miami, Miami on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Chuck Daniels is a house and techno artist based in United States of America, tr
 
 Rick Wade, Brent Shay, Norm Talley
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckdaniels/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckdaniels/)*

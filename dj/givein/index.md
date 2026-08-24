@@ -1,8 +1,8 @@
 # Give In
 
-Give In is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+Give In is a Downtempo and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
-Give In is an ambient and downtempo artist based in United States of America, tracked on soundcheck, with 1 set logged across Sanfrancisco. Often billed alongside agraybé, William Wardlaw and Bakh Inamov. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
+Give In is a downtempo and ambient artist based in United States of America, tracked on soundcheck, with 1 set logged across Sanfrancisco. Often billed alongside Bakh Inamov, Beyond the Black Hole and DJ CZ. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Give In is an ambient and downtempo artist based in United States of America, tr
 
 ## Shares bills with
 
-agraybé, William Wardlaw, Bakh Inamov
+Bakh Inamov, Beyond the Black Hole, DJ CZ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/givein/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/givein/)*

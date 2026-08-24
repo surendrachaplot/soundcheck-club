@@ -1,6 +1,6 @@
 # Milyano
 
-Milyano is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Secret Location: Adress on Ticket , Stuttgart on Sat, 5 Sept 2026.
+Milyano is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location: Adress on Ticket , Stuttgart on Sat, 5 Sept 2026.
 
 Milyano is an acid and house artist based in Germany, tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside JULEZ JK, Anneke Laurent and Coppola (DE). Next up: TBA - Secret Location: Adress on Ticket , Stuttgart on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ Milyano is an acid and house artist based in Germany, tracked on soundcheck, wit
 
 JULEZ JK, Anneke Laurent, Coppola (DE)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milyano/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milyano/)*

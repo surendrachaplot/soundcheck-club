@@ -1,6 +1,6 @@
 # Alley Kay
 
-Alley Kay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 19 Sept 2026.
+Alley Kay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 19 Sept 2026.
 
 Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, with 66 sets logged across Detroit, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: 131 Mccormack St, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Darkova, Addy, Greg Gow
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*

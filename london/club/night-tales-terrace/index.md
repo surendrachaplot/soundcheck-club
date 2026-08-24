@@ -1,6 +1,6 @@
 # Night Tales Terrace
 
-Night Tales Terrace is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Early Doors: All Day on the Terrace" on Sat, 29 Aug 2026.
+Night Tales Terrace is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Early Doors: All Day on the Terrace" on Sat, 29 Aug 2026.
 
 Night Tales Terrace is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 14 Bohemia Place, Hackney, London, E8 1DU.
 
@@ -15,4 +15,4 @@ Night Tales Terrace is a music venue in London listed on soundcheck. 2 upcoming 
 
 14 Bohemia Place, Hackney, London, E8 1DU, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-terrace/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-terrace/)*

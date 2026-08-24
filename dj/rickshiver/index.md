@@ -1,6 +1,6 @@
 # Rick Shiver
 
-Rick Shiver is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Beursschouwburg, Brussels on Fri, 6 Nov 2026.
+Rick Shiver is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Beursschouwburg, Brussels on Fri, 6 Nov 2026.
 
 Rick Shiver is an electronica and house artist based in Belgium, tracked on soundcheck, with 17 sets logged across Antwerp, Brussels, Ghent and London and 1 more. Often billed alongside Carrageenan, Kafim and Aroh. Next up: Beursschouwburg, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rick Shiver is an electronica and house artist based in Belgium, tracked on soun
 
 Carrageenan, Kafim, Aroh
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshiver/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickshiver/)*

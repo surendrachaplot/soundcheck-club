@@ -1,6 +1,6 @@
 # TBA - telegram @klangsubstanz
 
-TBA - telegram @klangsubstanz is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Bunker Rave Berlin" on Sat, 10 Oct 2026.
+TBA - telegram @klangsubstanz is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Bunker Rave Berlin" on Sat, 10 Oct 2026.
 
 TBA - telegram @klangsubstanz is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - telegram @klangsubstanz is a music venue in Berlin listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Bunker Rave Berlin |  |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-telegram-klangsubstanz/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-telegram-klangsubstanz/)*

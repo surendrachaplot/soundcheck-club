@@ -1,6 +1,6 @@
 # Payam Parvizi
 
-Payam Parvizi is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Chicago on Fri, 18 Sept 2026.
+Payam Parvizi is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Chicago on Fri, 18 Sept 2026.
 
 Payam Parvizi is an acid and techno artist based in Iran, tracked on soundcheck, with 29 sets logged across Berlin, Budapest, Chicago and Istanbul and 2 more. Often billed alongside amiraLii, Bardia Mehrzadeh and Borna Farshid. Next up: TBA, Chicago on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Payam Parvizi is an acid and techno artist based in Iran, tracked on soundcheck,
 
 amiraLii, Bardia Mehrzadeh, Borna Farshid
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/payamparvizi/)*

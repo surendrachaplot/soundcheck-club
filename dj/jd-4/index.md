@@ -1,6 +1,6 @@
 # JD (4)
 
-JD (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 4 Sept 2026.
+JD (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 4 Sept 2026.
 
 JD (4) is a house and techno artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Rev Lon, sbas and Afrodisiac. Next up: Angel Music Bar, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JD (4) is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Rev Lon, sbas, Afrodisiac
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jd-4/)*

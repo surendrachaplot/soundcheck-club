@@ -1,6 +1,6 @@
 # Campeche 367
 
-Campeche 367 is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Vazik presents: Moving Forward [All Night Long]" on Sat, 29 Aug 2026.
+Campeche 367 is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Vazik presents: Moving Forward [All Night Long]" on Sat, 29 Aug 2026.
 
 Campeche 367 is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Vazik. Browse upcoming dates, start times and who's playing. Campeche 367.
 
@@ -14,4 +14,4 @@ Campeche 367 is a music venue in Mexicocity listed on soundcheck. 1 upcoming nig
 
 Campeche 367, Mexico City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/campeche-367/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/campeche-367/)*

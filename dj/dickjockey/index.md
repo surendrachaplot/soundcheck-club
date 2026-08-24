@@ -1,6 +1,6 @@
 # Dick Jockey
 
-Dick Jockey is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paloma, Berlin on Thu, 3 Sept 2026.
+Dick Jockey is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Paloma, Berlin on Thu, 3 Sept 2026.
 
 Dick Jockey is an electro and techno artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Tom Kraft, Carl Hang and DJ Business (2). Next up: Paloma, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Dick Jockey is an electro and techno artist tracked on soundcheck, with 25 sets 
 
 Tom Kraft, Carl Hang, DJ Business (2)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dickjockey/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dickjockey/)*

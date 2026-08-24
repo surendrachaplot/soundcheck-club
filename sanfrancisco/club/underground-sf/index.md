@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FIXED GLOSS" on Thu, 27 Aug 2026.
+Underground SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "FIXED GLOSS" on Thu, 27 Aug 2026.
 
 Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including 9-System, DJ JUANNY, Alexandernaut and ALICE STRIBLING and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -22,4 +22,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

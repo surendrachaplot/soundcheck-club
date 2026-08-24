@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Daniel Dreier (BAR25), Guido Schneider (Cocoon), Red Robin, Florian Schirmacher, DAVIDE" on Fri, 4 Sept 2026.
+Club Frau Holle is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Daniel Dreier (BAR25), Guido Schneider (Cocoon), Red Robin, Florian Schirmacher, DAVIDE" on Fri, 4 Sept 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Benjamin Grimm, CHICHO, Daniel Dreier and DAVIDE (2) and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -16,4 +16,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 3 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

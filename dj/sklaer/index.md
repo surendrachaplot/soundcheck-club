@@ -1,6 +1,6 @@
 # Sklaer
 
-Sklaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Babour Sauvage, Paris on Sun, 6 Sept 2026.
+Sklaer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Babour Sauvage, Paris on Sun, 6 Sept 2026.
 
 Sklaer is a techno and electro artist tracked on soundcheck, with 38 sets logged across Berlin, Lyon, Nantes and Paris. Often billed alongside Clarence, Ian Maur and Clarence Rise. Next up: Babour Sauvage, Paris on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Sklaer is a techno and electro artist tracked on soundcheck, with 38 sets logged
 
 Clarence, Ian Maur, Clarence Rise
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sklaer/)*

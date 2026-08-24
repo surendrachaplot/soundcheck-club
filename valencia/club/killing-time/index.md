@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Valencia with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Roots 'n' Future: Elena Megi + Zárraga + vernetta" on Thu, 27 Aug 2026.
+Killing Time is a music venue in Valencia with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Roots 'n' Future: Elena Megi + Zárraga + vernetta" on Thu, 27 Aug 2026.
 
 Killing Time is a music venue in Valencia listed on soundcheck. 4 upcoming nights, with line-ups including Broken boy, Svarn, Toxin and Tyre Pressure. Browse upcoming dates, start times and who's playing. Doctor Sumsi, 21 (Ruzafa), Valencia.
 
@@ -17,4 +17,4 @@ Killing Time is a music venue in Valencia listed on soundcheck. 4 upcoming night
 
 Doctor Sumsi, 21 (Ruzafa), Valencia, Valencia
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*

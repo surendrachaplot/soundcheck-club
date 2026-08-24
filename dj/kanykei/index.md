@@ -1,6 +1,6 @@
 # Kanykei
 
-Kanykei is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Knockdown Center, New York City on Fri, 16 Oct 2026.
+Kanykei is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Knockdown Center, New York City on Fri, 16 Oct 2026.
 
 Kanykei is a house and deep house artist tracked on soundcheck, with 60 sets logged across Berlin, Miami, Newyorkcity and Rome and 1 more. Often billed alongside Niconé, Dirty Doering and Acid Alien. Next up: Knockdown Center, Newyorkcity on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kanykei is a house and deep house artist tracked on soundcheck, with 60 sets log
 
 Niconé, Dirty Doering, Acid Alien
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanykei/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kanykei/)*

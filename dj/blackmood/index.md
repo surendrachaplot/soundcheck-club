@@ -1,6 +1,6 @@
 # Black Mood
 
-Black Mood is a Hip-Hop and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Heavy Sick Zero, Tokyo on Fri, 28 Aug 2026.
+Black Mood is a Hip-Hop and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Heavy Sick Zero, Tokyo on Fri, 28 Aug 2026.
 
 Black Mood is a hip-hop and breakbeat artist tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Miya, DJ Quietstorm and Jomo. Next up: Heavy Sick Zero, Tokyo on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Black Mood is a hip-hop and breakbeat artist tracked on soundcheck, with 8 sets 
 
 Miya, DJ Quietstorm, Jomo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmood/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmood/)*

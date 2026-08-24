@@ -1,6 +1,6 @@
 # KATSU (2)
 
-KATSU (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at SEL OCTAGON TOKYO, Tokyo on Wed, 26 Aug 2026.
+KATSU (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at SEL OCTAGON TOKYO, Tokyo on Wed, 26 Aug 2026.
 
 KATSU (2) is a techno and industrial artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside DALJAE, KAITO (5) and CHIKA. Next up: SEL OCTAGON TOKYO, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ KATSU (2) is a techno and industrial artist based in Japan, tracked on soundchec
 
 DALJAE, KAITO (5), CHIKA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katsu-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katsu-2/)*

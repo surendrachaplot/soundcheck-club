@@ -1,6 +1,6 @@
 # Gorge
 
-Gorge is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
+Gorge is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
 
 Gorge is a house and minimal artist tracked on soundcheck, with 9 sets logged across Barcelona, Copenhagen, Frankfurt and Hamburg and 3 more. Often billed alongside Alain Hellion, heSAWyou and Antoine Baiser. Next up: TBA - FORO PEDREGAL, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Gorge is a house and minimal artist tracked on soundcheck, with 9 sets logged ac
 
 Alain Hellion, heSAWyou, Antoine Baiser
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*

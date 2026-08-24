@@ -1,6 +1,6 @@
 # Club Suave
 
-Club Suave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
+Club Suave is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
 
 Club Suave is a techno and house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DAAS (1), No Silver Bullet and 10961. Next up: Bohnengold, Berlin on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Club Suave is a techno and house artist based in Germany, tracked on soundcheck,
 
 DAAS (1), No Silver Bullet, 10961
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsuave/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsuave/)*

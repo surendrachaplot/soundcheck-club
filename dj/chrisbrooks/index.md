@@ -1,6 +1,6 @@
 # Chris Brooks
 
-Chris Brooks is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
+Chris Brooks is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
 
 Chris Brooks is a tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Rotterdam. Often billed alongside Brandon Tourle, Diego Gee and Anderdox. Next up: Bermondsey Social Club, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Chris Brooks is a tech house artist based in United Kingdom, tracked on soundche
 
 Brandon Tourle, Diego Gee, Anderdox
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbrooks/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbrooks/)*

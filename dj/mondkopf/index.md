@@ -1,6 +1,6 @@
 # Mondkopf
 
-Mondkopf is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Paris on Sat, 5 Sept 2026.
+Mondkopf is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Paris on Sat, 5 Sept 2026.
 
 Mondkopf is an experimental and ambient artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Avizohar and Bart Bell. Next up: TBA, Paris on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Mondkopf is an experimental and ambient artist tracked on soundcheck, with 2 set
 
 Avizohar, Bart Bell
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mondkopf/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mondkopf/)*

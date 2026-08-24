@@ -1,6 +1,6 @@
 # Dameer
 
-Dameer is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
+Dameer is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
 
 Dameer is a house and bass artist tracked on soundcheck, with 11 sets logged across Bristol, Montreal and Toronto. Often billed alongside Raf Reza, malfnktion and mayalabae. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Dameer is a house and bass artist tracked on soundcheck, with 11 sets logged acr
 
 Raf Reza, malfnktion, mayalabae
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dameer/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dameer/)*

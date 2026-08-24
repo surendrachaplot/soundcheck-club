@@ -1,6 +1,6 @@
 # femnms
 
-femnms is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+femnms is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 femnms is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside INVERNO, Kat Never and Acidfinky. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ femnms is a house and techno artist based in United Kingdom, tracked on soundche
 
 INVERNO, Kat Never, Acidfinky
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/femnms/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/femnms/)*

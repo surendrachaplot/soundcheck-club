@@ -1,6 +1,6 @@
 # Arninho
 
-Arninho is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+Arninho is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
 
 Arninho is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Cologne and Hamburg. Often billed alongside HiHat, DJ SPORTSCHUH and Flavius (DE). Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Arninho is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 HiHat, DJ SPORTSCHUH, Flavius (DE)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arninho/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arninho/)*

@@ -1,6 +1,6 @@
 # Anikha
 
-Anikha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
+Anikha is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 Anikha is a techno and tech house artist tracked on soundcheck, with 33 sets logged across Barcelona. Often billed alongside Jazz K, NIIXII and in:control. Next up: Almar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Anikha is a techno and tech house artist tracked on soundcheck, with 33 sets log
 
 Jazz K, NIIXII, in:control
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikha/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikha/)*

@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Golden Record NYC x TAMED present Mihai Pol" on Fri, 28 Aug 2026.
+Green Room NYC is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Golden Record NYC x TAMED present Mihai Pol" on Fri, 28 Aug 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Andrés Dyer, ANTOJITO, Armii1n and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 4 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

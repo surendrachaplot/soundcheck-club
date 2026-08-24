@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "ALPHA SPECTRUM: PRØJECT MORPHEUS ALL NIGHT LONG" on Fri, 4 Sept 2026.
+Nether Club is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ALPHA SPECTRUM: PRØJECT MORPHEUS ALL NIGHT LONG" on Fri, 4 Sept 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including CARMEN (RO), ALISTARM, AMEDEUS and Amnesico and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -15,10 +15,10 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming night
 | Fri, 18 Sept 2026 | M.I.L.K feat. 2H34RTB34TS present HARD R3S3T | AMEDEUS, Amnesico, DA NA, GODINI, KATHERYNE, LVUR, Sandraz, Stefan Hernandez, Trancelate |
 | Sat, 26 Sept 2026 | BLXXDNOISE | Neotroxian, Project Morpheus, Sitra Akhra, TRIXIÉ |
 | Fri, 16 Oct 2026 | M.I.L.K | AMEDEUS, Amnesico, KATHERYNE, LVUR, Stefan Hernandez |
-| Fri, 20 Nov 2026 | M.I.L.K | AMEDEUS, Amnesico, KATHERYNE, Stefan Hernandez |
+| Fri, 20 Nov 2026 | M.I.L.K. feat. DORNATECHNO | AMEDEUS, Amnesico, KATHERYNE, Sandraz, Stefan Hernandez |
 
 ## Address
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

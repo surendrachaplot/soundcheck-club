@@ -1,6 +1,6 @@
 # MVCHE
 
-MVCHE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at IDK Social BAR, Toronto on Sat, 29 Aug 2026.
+MVCHE is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at IDK Social BAR, Toronto on Sat, 29 Aug 2026.
 
 MVCHE is a techno and hardcore artist based in Canada, tracked on soundcheck, with 14 sets logged across Madrid and Toronto. Often billed alongside R4TS, KILL 9 1 and Maul (2). Next up: IDK Social BAR, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MVCHE is a techno and hardcore artist based in Canada, tracked on soundcheck, wi
 
 R4TS, KILL 9 1, Maul (2)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mvche/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mvche/)*

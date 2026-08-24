@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HIDEOUT SOCIAL CLUB #20 || VIVØ x TBA" on Wed, 26 Aug 2026.
+Smolna is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "HIDEOUT SOCIAL CLUB #20 || VIVØ x TBA" on Wed, 26 Aug 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including Cwtv, Francesca, Francesca (PL) and long w and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -19,4 +19,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with 
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

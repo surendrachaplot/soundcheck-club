@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Het Vreemd (Album Release)" on Sat, 29 Aug 2026.
+Time is the new space is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Het Vreemd (Album Release)" on Sat, 29 Aug 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including Cold Hippie, kimmah, MIA (MY) and North Not South and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -20,4 +20,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

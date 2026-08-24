@@ -1,6 +1,6 @@
 # TBA - Cherry on Top, Ganghoferstr 10
 
-TBA - Cherry on Top, Ganghoferstr 10 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "SEXY NANA Pool Party" on Sun, 6 Sept 2026.
+TBA - Cherry on Top, Ganghoferstr 10 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "SEXY NANA Pool Party" on Sun, 6 Sept 2026.
 
 TBA - Cherry on Top, Ganghoferstr 10 is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including maríajosé, Sherryaeri and Trigger T. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Cherry on Top, Ganghoferstr 10 is a music venue in Berlin listed on soundc
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | SEXY NANA Pool Party | Sherryaeri, Trigger T, maríajosé |
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-cherry-on-top-ganghoferstr-10/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-cherry-on-top-ganghoferstr-10/)*

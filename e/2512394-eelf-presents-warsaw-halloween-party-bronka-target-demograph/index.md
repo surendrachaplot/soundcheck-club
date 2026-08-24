@@ -1,6 +1,6 @@
 # EELF Presents - Warsaw (Halloween Party): Bronka, Target Demographic, Shaolin Cowboy, Pijus at OCZKI
 
-EELF Presents - Warsaw (Halloween Party): Bronka, Target Demographic, Shaolin Cowboy, Pijus at OCZKI on Sat 31 Oct, Warsaw. 4 acts on the bill: Bronka, Pijus, Shaolin Cowboy and Target Demographic. Techno and House. Preview the line-up and save it on soundcheck.
+EELF Presents - Warsaw (Halloween Party): Bronka, Target Demographic, Shaolin Cowboy, Pijus at OCZKI on Sat 31 Oct, Warsaw. 5 acts on the bill: Bronka, Kitty Sarcasm, Pijus and Shaolin Cowboy and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ EELF Presents - Warsaw (Halloween Party): Bronka, Target Demographic, Shaolin Co
 ## Line-up
 
 - Bronka
+- Kitty Sarcasm
 - Pijus
 - Shaolin Cowboy
 - Target Demographic

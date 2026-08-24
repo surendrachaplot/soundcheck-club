@@ -1,6 +1,6 @@
 # John Noseda
 
-John Noseda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
+John Noseda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
 
 John Noseda is a house and disco artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Bibi Seck, Thang and Kenny Montana. Next up: Noorderlicht Café, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ John Noseda is a house and disco artist tracked on soundcheck, with 48 sets logg
 
 Bibi Seck, Thang, Kenny Montana
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnoseda/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnoseda/)*

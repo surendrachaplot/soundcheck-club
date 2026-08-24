@@ -1,6 +1,6 @@
 # Jimmy Siao
 
-Jimmy Siao is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 15 Sept 2026.
+Jimmy Siao is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 15 Sept 2026.
 
 Jimmy Siao is a techno and electronica artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona, Bucharest and Rome. Often billed alongside Devesa, C.ru.z and Acid Partners. Next up: THE MAGICK BAR, Rome on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Jimmy Siao is a techno and electronica artist based in Spain, tracked on soundch
 
 Devesa, C.ru.z, Acid Partners
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmysiao/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmysiao/)*

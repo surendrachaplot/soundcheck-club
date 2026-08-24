@@ -1,6 +1,6 @@
 # Klix (DE)
 
-Klix (DE) is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Paloma, Berlin on Fri, 28 Aug 2026.
+Klix (DE) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Paloma, Berlin on Fri, 28 Aug 2026.
 
 Klix (DE) is a house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Klix (3), Tom Ries and Almost Famous. Next up: Paloma, Berlin on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Klix (DE) is a house artist based in Germany, tracked on soundcheck, with 3 sets
 
 Klix (3), Tom Ries, Almost Famous
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klix-de/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klix-de/)*

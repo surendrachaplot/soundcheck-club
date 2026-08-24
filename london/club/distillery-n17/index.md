@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "dnbtherapy: SUMMER SESSIONS: Carnival WarmUp  " on Fri, 28 Aug 2026.
+Distillery N17 is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "dnbtherapy: SUMMER SESSIONS: Carnival WarmUp  " on Fri, 28 Aug 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 69DB, Acerbic, Acid Steve and Adam Pits and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -23,4 +23,4 @@ Distillery N17 is a music venue in London listed on soundcheck. 16 upcoming nigh
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

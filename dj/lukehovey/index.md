@@ -1,6 +1,6 @@
 # Luke Hovey
 
-Luke Hovey is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
+Luke Hovey is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Else, Berlin on Sun, 23 Aug 2026.
 
 Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Hobart and Melbourne and 2 more. Often billed alongside Black Dave, franck and Emma Moon. Next up: Else, Berlin on Sun 23 Aug.
 
@@ -12,6 +12,7 @@ Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets log
 
 ## Recently played
 
+- Else, Berlin — Sun, 23 Aug 2026
 - Thuishaven, Amsterdam — Sun, 26 Jul 2026
 - Revolver Upstairs, Melbourne — Sun, 19 Jul 2026
 - The Grand Poobah, Hobart — Sat, 4 Jul 2026
@@ -19,10 +20,9 @@ Luke Hovey is a techno and trance artist tracked on soundcheck, with 35 sets log
 - Glamorama, Melbourne — Mon, 3 Nov 2025
 - Mary's Underground, Sydney — Sat, 1 Nov 2025
 - Revolver Upstairs, Melbourne — Sun, 21 Sept 2025
-- Oxford Art Factory, Sydney — Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Black Dave, franck, Emma Moon
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehovey/)*

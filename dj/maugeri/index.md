@@ -1,6 +1,6 @@
 # Maugeri
 
-Maugeri is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Theata, London on Sat, 26 Sept 2026.
+Maugeri is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Theata, London on Sat, 26 Sept 2026.
 
 Maugeri is a techno artist based in Italy, tracked on soundcheck, with 3 sets logged across Berlin, London and Milan. Often billed alongside Erica (IT), A.I.F.O.S. and Aithō. Next up: Theata, London on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Maugeri is a techno artist based in Italy, tracked on soundcheck, with 3 sets lo
 
 Erica (IT), A.I.F.O.S., Aithō
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maugeri/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maugeri/)*

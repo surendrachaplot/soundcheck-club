@@ -1,6 +1,6 @@
 # Lowris
 
-Lowris is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Club der Visionaere, Berlin on Wed, 2 Sept 2026.
+Lowris is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Wed, 2 Sept 2026.
 
 Lowris is a house and minimal artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Birmingham and Brussels and 9 more. Often billed alongside Olivier Romero, Adema and Cabanne. Next up: Club der Visionaere, Berlin on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Lowris is a house and minimal artist tracked on soundcheck, with 45 sets logged 
 
 Olivier Romero, Adema, Cabanne
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowris/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowris/)*

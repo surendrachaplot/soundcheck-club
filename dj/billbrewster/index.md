@@ -1,6 +1,6 @@
 # Bill Brewster
 
-Bill Brewster is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Cobalt Studios, Newcastle on Fri, 28 Aug 2026.
+Bill Brewster is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Cobalt Studios, Newcastle on Fri, 28 Aug 2026.
 
 Bill Brewster is a disco and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Bristol and Cardiff and 11 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: Cobalt Studios, Newcastle on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Bill Brewster is a disco and house artist tracked on soundcheck, with 55 sets lo
 
 Sarahtonin, Frank Broughton, Ray Mang
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*

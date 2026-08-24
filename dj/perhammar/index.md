@@ -1,6 +1,6 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Roof Terrace BK, New York City on Fri, 28 Aug 2026.
+Per Hammar is a Minimal and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Roof Terrace BK, New York City on Fri, 28 Aug 2026.
 
 Per Hammar is a minimal and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Auckland, Austin and Bangkok and 32 more. Often billed alongside Olga Korol, Abbas and Bo Irion. Next up: Roof Terrace BK, Newyorkcity on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 79 sets log
 
 Olga Korol, Abbas, Bo Irion
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

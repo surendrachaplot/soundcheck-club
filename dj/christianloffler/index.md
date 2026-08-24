@@ -1,6 +1,6 @@
 # Christian Löffler
 
-Christian Löffler is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Christian Löffler is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Christian Löffler is a house and electronica artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -18,6 +18,7 @@ Christian Löffler is a house and electronica artist tracked on soundcheck, with
 
 ## Recently played
 
+- The Cause, London — Sun, 23 Aug 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 4 Jul 2026
 - Werft Wollishofen, Zurich — Fri, 3 Jul 2026
 - TBA - Galopprennbahn Freudenau, Vienna, Vienna — Sat, 20 Jun 2026
@@ -25,10 +26,9 @@ Christian Löffler is a house and electronica artist tracked on soundcheck, with
 - Club Vaag, Antwerp — Sat, 16 May 2026
 - Commodore Ballroom, Vancouver — Fri, 20 Mar 2026
 - Société des arts technologiques, Montreal — Sat, 14 Mar 2026
-- Elsewhere, New York City — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Parra for Cuva, ELIF, Holly North
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*

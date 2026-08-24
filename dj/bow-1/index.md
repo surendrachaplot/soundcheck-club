@@ -1,6 +1,6 @@
 # BOW (1)
 
-BOW (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Red Bar, Tokyo on Sat, 29 Aug 2026.
+BOW (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Red Bar, Tokyo on Sat, 29 Aug 2026.
 
 BOW (1) is a techno and house artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside Sakuma, teppei and Celter. Next up: Red Bar, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ BOW (1) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Sakuma, teppei, Celter
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bow-1/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bow-1/)*

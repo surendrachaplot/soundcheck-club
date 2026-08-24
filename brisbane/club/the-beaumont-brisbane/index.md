@@ -1,6 +1,6 @@
 # The Beaumont Brisbane
 
-The Beaumont Brisbane is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "The Beaumont - Panorama 001 featuring Will Sparks" on Sat, 29 Aug 2026.
+The Beaumont Brisbane is a music venue in Brisbane with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "The Beaumont - Panorama 001 featuring Will Sparks" on Sat, 29 Aug 2026.
 
 The Beaumont Brisbane is a music venue in Brisbane listed on soundcheck. 2 upcoming nights, with line-ups including bradeazy. Browse upcoming dates, start times and who's playing. 608 Ann Street, Fortitude Valley, QLD 4006, AUS.
 
@@ -15,4 +15,4 @@ The Beaumont Brisbane is a music venue in Brisbane listed on soundcheck. 2 upcom
 
 608 Ann Street, Fortitude Valley, QLD 4006, AUS, Brisbane
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-beaumont-brisbane/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-beaumont-brisbane/)*

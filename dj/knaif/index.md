@@ -1,6 +1,6 @@
 # Knaif
 
-Knaif is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Volnost, Seoul on Fri, 28 Aug 2026.
+Knaif is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Volnost, Seoul on Fri, 28 Aug 2026.
 
 Knaif is a techno and industrial artist tracked on soundcheck, with 66 sets logged across Seoul and Tokyo. Often billed alongside Djilogue, chukimaandal and Siot. Next up: Volnost, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Knaif is a techno and industrial artist tracked on soundcheck, with 66 sets logg
 
 Djilogue, chukimaandal, Siot
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knaif/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knaif/)*

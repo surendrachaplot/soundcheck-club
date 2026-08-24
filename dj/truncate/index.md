@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 28 Aug 2026.
+Truncate is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 Truncate is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: Halcyon, Sanfrancisco on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Truncate is a techno and house artist tracked on soundcheck, with 144 sets logge
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

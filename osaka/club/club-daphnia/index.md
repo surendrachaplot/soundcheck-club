@@ -1,6 +1,6 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Living Long" on Fri, 28 Aug 2026.
+Club Daphnia is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Living Long" on Fri, 28 Aug 2026.
 
 Club Daphnia is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including MiTSUYAS, ONO (3), Oviduct and Paul Leonard and 2 more. Browse upcoming dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
@@ -18,4 +18,4 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 5 upcoming nights, 
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

@@ -1,6 +1,6 @@
 # MATĒRIA (LV)
 
-MATĒRIA (LV) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at HUNGR, Tallinn on Fri, 28 Aug 2026.
+MATĒRIA (LV) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at HUNGR, Tallinn on Fri, 28 Aug 2026.
 
 MATĒRIA (LV) is a techno and house artist tracked on soundcheck, with 4 sets logged across Riga and Tallinn. Often billed alongside Aeden (1), miss kookie and ARRISHA. Next up: HUNGR, Tallinn on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ MATĒRIA (LV) is a techno and house artist tracked on soundcheck, with 4 sets lo
 
 Aeden (1), miss kookie, ARRISHA
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/materia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/materia/)*

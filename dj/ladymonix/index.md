@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Marble Bar, Detroit on Sat, 29 Aug 2026.
+LADYMONIX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Marble Bar, Detroit on Sat, 29 Aug 2026.
 
 LADYMONIX is a house and techno artist tracked on soundcheck, with 149 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: Marble Bar, Detroit on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 149 sets logg
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

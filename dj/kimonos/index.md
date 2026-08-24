@@ -1,6 +1,6 @@
 # Kimonos
 
-Kimonos is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Members, Los Angeles on Sat, 29 Aug 2026.
+Kimonos is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Members, Los Angeles on Sat, 29 Aug 2026.
 
 Kimonos is a house and afro house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Members, Losangeles on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kimonos is a house and afro house artist tracked on soundcheck, with 51 sets log
 
 Guy Gerber, BLOND:ISH, Vintage Culture
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*

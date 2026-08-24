@@ -1,14 +1,14 @@
 # KIMII
 
-KIMII is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 520 Alexander Street, Vancouver on Sat, 29 Aug 2026.
+KIMII is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - VANCOUVER, Vancouver on Sat, 29 Aug 2026.
 
-KIMII is a techno artist tracked on soundcheck, with 3 sets logged across Vancouver. Often billed alongside NIMAHA, Bÿständer and DNNS. Next up: 520 Alexander Street, Vancouver on Sat 29 Aug.
+KIMII is a techno artist tracked on soundcheck, with 3 sets logged across Vancouver. Often billed alongside NIMAHA, Bÿständer and DNNS. Next up: TBA - VANCOUVER, Vancouver on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | 520 Alexander Street | Vancouver |
+| Sat, 29 Aug 2026 | TBA - VANCOUVER | Vancouver |
 
 ## Recently played
 
@@ -19,4 +19,4 @@ KIMII is a techno artist tracked on soundcheck, with 3 sets logged across Vancou
 
 NIMAHA, Bÿständer, DNNS
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimii/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimii/)*

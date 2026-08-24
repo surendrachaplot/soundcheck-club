@@ -1,6 +1,6 @@
 # Fibre
 
-Fibre is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Fibre is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Fibre is a house and drum & bass artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity, Toronto and Washingtondc. Often billed alongside Byron The Aquarius, DJ Heather and Dreaming Diary. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Fibre is a house and drum & bass artist based in United States of America, track
 
 Byron The Aquarius, DJ Heather, Dreaming Diary
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fibre/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fibre/)*

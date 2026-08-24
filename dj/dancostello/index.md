@@ -1,6 +1,6 @@
 # Dan Costello
 
-Dan Costello is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
+Dan Costello is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Dan Costello is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Ibiza, Manchester and Miami. Often billed alongside Mike Morrisey, Luke Welsh and MPhilly. Next up: Tantra Bar Ibiza, Ibiza on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Dan Costello is a tech house and minimal artist based in United Kingdom, tracked
 
 Mike Morrisey, Luke Welsh, MPhilly
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancostello/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancostello/)*

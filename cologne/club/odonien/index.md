@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 26 Aug 2026.
+Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 26 Aug 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, with line-ups including Aio, Alarico, An On Bast and Avocado and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

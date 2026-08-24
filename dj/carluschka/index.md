@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Escala25, Lisbon on Sat, 5 Sept 2026.
+Carluschka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Escala25, Lisbon on Sat, 5 Sept 2026.
 
 Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 119 sets logged across Berlin, Hamburg, Leipzig and Lisbon and 3 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: Escala25, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

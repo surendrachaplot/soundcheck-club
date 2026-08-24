@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "suede.i.d  " on Thu, 27 Aug 2026.
+Saloon is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "suede.i.d  " on Thu, 27 Aug 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including AKARI, Andrew (TREKKIE TRAX), Do Shock Booze and ecec and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -23,4 +23,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with 
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

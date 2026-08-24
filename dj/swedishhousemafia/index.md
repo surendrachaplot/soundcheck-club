@@ -1,6 +1,6 @@
 # Swedish House Mafia
 
-Swedish House Mafia is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sun, 30 Aug 2026.
+Swedish House Mafia is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Swedish House Mafia is a house and progressive house artist tracked on soundcheck, with 28 sets logged across Buenosaires, Ibiza, London and Madrid and 3 more. Often billed alongside AMÉMÉ, Arielle Free and Boys Noize. Next up: Ushuaïa Ibiza, Ibiza on Sun 30 Aug.
 
@@ -15,6 +15,7 @@ Swedish House Mafia is a house and progressive house artist tracked on soundchec
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sun, 23 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 16 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 9 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 2 Aug 2026
@@ -22,10 +23,9 @@ Swedish House Mafia is a house and progressive house artist tracked on soundchec
 - Ushuaïa Ibiza, Ibiza — Sun, 19 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 12 Jul 2026
 - Ushuaïa Ibiza, Ibiza — Sun, 5 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 AMÉMÉ, Arielle Free, Boys Noize
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swedishhousemafia/)*

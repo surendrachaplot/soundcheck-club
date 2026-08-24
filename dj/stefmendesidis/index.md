@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
+Stef Mendesidis is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
 Stef Mendesidis is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside DAX J, Nastia and SHDW. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Stef Mendesidis is a techno and house artist tracked on soundcheck, with 140 set
 
 DAX J, Nastia, SHDW
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

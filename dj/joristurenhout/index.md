@@ -1,6 +1,6 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at KitKatClub, Berlin on Wed, 26 Aug 2026.
+Joris Turenhout is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at KitKatClub, Berlin on Wed, 26 Aug 2026.
 
 Joris Turenhout is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: KitKatClub, Berlin on Wed 26 Aug.
 
@@ -29,4 +29,4 @@ Joris Turenhout is a techno and tech house artist based in Netherlands, tracked 
 
 Albin Brezlan, Azzurro, David Maters
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*

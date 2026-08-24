@@ -1,6 +1,6 @@
 # Reeno Reluv
 
-Reeno Reluv is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Porto Pollo, Vienna on Fri, 28 Aug 2026.
+Reeno Reluv is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Porto Pollo, Vienna on Fri, 28 Aug 2026.
 
 Reeno Reluv is a house and acid artist tracked on soundcheck, with 23 sets logged across Berlin and Vienna. Often billed alongside JP Bechamel, Altroy Jerome and Rumi de Baires. Next up: Porto Pollo, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Reeno Reluv is a house and acid artist tracked on soundcheck, with 23 sets logge
 
 JP Bechamel, Altroy Jerome, Rumi de Baires
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*

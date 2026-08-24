@@ -1,6 +1,6 @@
 # 2KINETIK
 
-2KINETIK is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Boomtown Brewery, Los Angeles on Sat, 12 Sept 2026.
+2KINETIK is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Boomtown Brewery, Los Angeles on Sat, 12 Sept 2026.
 
 2KINETIK is a drum & bass and electronica artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside Humongous Frog and Pendulum. Next up: Boomtown Brewery, Losangeles on Sat 12 Sept.
 
@@ -19,4 +19,4 @@
 
 Humongous Frog, Pendulum
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2kinetik/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2kinetik/)*

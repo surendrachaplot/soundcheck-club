@@ -1,6 +1,6 @@
 # SARITA LINDA
 
-SARITA LINDA is a Club artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
+SARITA LINDA is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
 
 SARITA LINDA is a club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside AMANTE, BAE BAE and Mansaf Mama. Next up: TBA - Kramer Junction, CA, Losangeles on Thu 15 Oct.
 
@@ -18,4 +18,4 @@ SARITA LINDA is a club artist based in United States of America, tracked on soun
 
 AMANTE, BAE BAE, Mansaf Mama
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saritalinda/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saritalinda/)*

@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "SMUT x Hyperaktivist x Nene H x IVRA " on Sat, 29 Aug 2026.
+SMUT Athens is a music venue in Athens with 10 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "SMUT x Hyperaktivist x Nene H x IVRA " on Sat, 29 Aug 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming nights, with line-ups including BIDOBEN, Connor Wall, DJ Nobu and Ellen Allien and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -23,4 +23,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 10 upcoming nights,
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

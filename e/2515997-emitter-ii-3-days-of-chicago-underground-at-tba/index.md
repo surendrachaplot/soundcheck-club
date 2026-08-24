@@ -1,6 +1,6 @@
 # Emitter II: 3 DAYS OF CHICAGO UNDERGROUND at TBA
 
-Emitter II: 3 DAYS OF CHICAGO UNDERGROUND at TBA on Fri 4 Sept, Chicago. 10 acts on the bill: Chachi Guerrero, Composuresquad, Darryn Jones and Doula and 6 more. House and Club. Preview the line-up and save it on soundcheck.
+Emitter II: 3 DAYS OF CHICAGO UNDERGROUND at TBA on Fri 4 Sept, Chicago. 11 acts on the bill: Chachi Guerrero, Composuresquad, Darryn Jones and Doula and 7 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Emitter II: 3 DAYS OF CHICAGO UNDERGROUND at TBA on Fri 4 Sept, Chicago. 10 acts
 - guesst (1)
 - Justin Aulis Long
 - Material (1)
+- Mothafunk
 - Swan Drama
 - Yesterdayneverhappened
 

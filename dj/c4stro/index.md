@@ -1,6 +1,6 @@
 # C4STRO
 
-C4STRO is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 29 Aug 2026.
+C4STRO is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 29 Aug 2026.
 
 C4STRO is a house and funk / soul artist based in Portugal, tracked on soundcheck, with 15 sets logged across Lisbon. Often billed alongside Martim Tonic, 4IN and Lou de Melo. Next up: Quinta do Miratejo, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ C4STRO is a house and funk / soul artist based in Portugal, tracked on soundchec
 
 Martim Tonic, 4IN, Lou de Melo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*

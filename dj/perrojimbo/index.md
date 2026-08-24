@@ -1,6 +1,6 @@
 # Perro Jimbo
 
-Perro Jimbo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 29 Aug 2026.
+Perro Jimbo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 29 Aug 2026.
 
 Perro Jimbo is a house and techno artist tracked on soundcheck, with 86 sets logged across Barcelona, Berlin, Dublin and Lyon and 4 more. Often billed alongside VIKk, Family Matters and Fatal. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Perro Jimbo is a house and techno artist tracked on soundcheck, with 86 sets log
 
 VIKk, Family Matters, Fatal
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perrojimbo/)*

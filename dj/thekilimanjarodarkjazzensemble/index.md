@@ -1,6 +1,6 @@
 # The Kilimanjaro Darkjazz Ensemble
 
-The Kilimanjaro Darkjazz Ensemble is a Experimental and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at The Jazz Cafe, London on Fri, 23 Oct 2026.
+The Kilimanjaro Darkjazz Ensemble is a Experimental and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Jazz Cafe, London on Fri, 23 Oct 2026.
 
 The Kilimanjaro Darkjazz Ensemble is an experimental and jazz artist based in Netherlands, tracked on soundcheck, with 2 sets logged across London and Turin. Often billed alongside A Guy Called Gerald, Alessandro Cortini and Francesco Skip. Next up: The Jazz Cafe, London on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ The Kilimanjaro Darkjazz Ensemble is an experimental and jazz artist based in Ne
 
 A Guy Called Gerald, Alessandro Cortini, Francesco Skip
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thekilimanjarodarkjazzensemble/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thekilimanjarodarkjazzensemble/)*

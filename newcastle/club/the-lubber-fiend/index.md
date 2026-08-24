@@ -1,6 +1,6 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Holocene 2: Convextion with Madeera and Jeans and Lifestyle" on Fri, 28 Aug 2026.
+The Lubber Fiend is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Holocene 2: Convextion with Madeera and Jeans and Lifestyle" on Fri, 28 Aug 2026.
 
 The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming nights, with line-ups including Al Bradley, Alyssa, Convextion and Cowper and 2 more. Browse upcoming dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
@@ -19,4 +19,4 @@ The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming 
 
 81 Blandford St., Newcastle upon Tyne NE1 3PZ, Newcastle
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-lubber-fiend/)*

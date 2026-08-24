@@ -1,6 +1,6 @@
 # Mauro Caracho
 
-Mauro Caracho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
+Mauro Caracho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
 
 Mauro Caracho is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Leipzig and Mexicocity. Often billed alongside Atalanta, BONBONS and Nadine Talakovics. Next up: Kater, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mauro Caracho is a house and techno artist tracked on soundcheck, with 14 sets l
 
 Atalanta, BONBONS, Nadine Talakovics
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurocaracho-de/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maurocaracho-de/)*

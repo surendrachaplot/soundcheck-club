@@ -1,6 +1,6 @@
 # xtcemi
 
-xtcemi is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - Kozy Kar Bar, San Francisco/Oakland on Sat, 29 Aug 2026.
+xtcemi is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Kozy Kar Bar, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 xtcemi is a club and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Sanfrancisco. Often billed alongside @djlobottomy, DJ Saratonin and Just Another Bitch. Next up: TBA - Kozy Kar Bar, Sanfrancisco on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ xtcemi is a club and techno artist based in United States of America, tracked on
 
 @djlobottomy, DJ Saratonin, Just Another Bitch
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtcemi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xtcemi/)*

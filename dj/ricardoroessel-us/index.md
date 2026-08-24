@@ -1,6 +1,6 @@
 # Ricardo Roessel
 
-Ricardo Roessel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Ricardo Roessel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Ricardo Roessel is a house and techno artist tracked on soundcheck, with 70 sets logged across Berlin, Chicago, Copenhagen and Denver and 10 more. Often billed alongside Crisco, Ika (GE) and Usherenko. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Ricardo Roessel is a house and techno artist tracked on soundcheck, with 70 sets
 
 Crisco, Ika (GE), Usherenko
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoroessel-us/)*

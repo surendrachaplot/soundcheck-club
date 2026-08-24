@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Caya DJ Clash Live" on Fri, 28 Aug 2026.
+Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Caya DJ Clash Live" on Fri, 28 Aug 2026.
 
 Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 1KY (1), Buddy. (2), Corvair and Donut and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -22,4 +22,4 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

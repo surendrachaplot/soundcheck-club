@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Toldi Klubnight" on Fri, 28 Aug 2026.
+Toldi Klub is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Toldi Klubnight" on Fri, 28 Aug 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Daddy D and Sobek. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -19,4 +19,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 6 upcoming nights,
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

@@ -1,6 +1,6 @@
 # Chop Suey
 
-Chop Suey is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Flammablepresents: Tyrel Williams! [SF] with CORY SIMPSON [Depth] & B-Ly" on Sun, 30 Aug 2026.
+Chop Suey is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Flammablepresents: Tyrel Williams! [SF] with CORY SIMPSON [Depth] & B-Ly" on Sun, 30 Aug 2026.
 
 Chop Suey is a music venue in Seattle listed on soundcheck. 3 upcoming nights, with line-ups including Brian Lyons and Tyrel Williams. Browse upcoming dates, start times and who's playing. 1325 E. Madison; Seattle, WA 98122; United States.
 
@@ -16,4 +16,4 @@ Chop Suey is a music venue in Seattle listed on soundcheck. 3 upcoming nights, w
 
 1325 E. Madison; Seattle, WA 98122; United States, Seattle
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/chop-suey/)*

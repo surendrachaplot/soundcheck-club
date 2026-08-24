@@ -1,6 +1,6 @@
 # Dj handbag
 
-Dj handbag is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Marmorbar, Berlin on Sat, 12 Sept 2026.
+Dj handbag is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Marmorbar, Berlin on Sat, 12 Sept 2026.
 
 Dj handbag is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Marmorbar, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dj handbag is a techno and house artist tracked on soundcheck, with 76 sets logg
 
 Daniel Berj, ADAM MUNNINGS, DJ Hyaluron
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*

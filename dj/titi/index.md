@@ -1,6 +1,6 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
+TiTi is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
 
 TiTi is a techno and industrial artist based in China, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 7 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Maassilo, Rotterdam on Sat 29 Aug.
 
@@ -17,6 +17,7 @@ TiTi is a techno and industrial artist based in China, tracked on soundcheck, wi
 
 ## Recently played
 
+- H7 Warehouse, Amsterdam — Sun, 23 Aug 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Grand Central Hall, Liverpool — Fri, 5 Jun 2026
 - Club Vaag, Antwerp — Fri, 29 May 2026
@@ -24,10 +25,9 @@ TiTi is a techno and industrial artist based in China, tracked on soundcheck, wi
 - Warehouse Elementenstraat, Amsterdam — Sun, 5 Apr 2026
 - The Classic Grand, Glasgow — Fri, 6 Mar 2026
 - Sala Groove, Madrid — Sat, 31 Jan 2026
-- Razzmatazz, Barcelona — Sun, 11 Jan 2026
 
 ## Shares bills with
 
 BLNK, LIEKS, BØĘRY
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*

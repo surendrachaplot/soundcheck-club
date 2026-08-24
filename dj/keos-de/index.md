@@ -1,6 +1,6 @@
 # keos
 
-keos is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
+keos is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
 
 keos is an electronic artist tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Marta Aurelia, Antoine Baiser and La Carpio. Next up: Golden Pudel Club, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ keos is an electronic artist tracked on soundcheck, with 16 sets logged across B
 
 Marta Aurelia, Antoine Baiser, La Carpio
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keos-de/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keos-de/)*

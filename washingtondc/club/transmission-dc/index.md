@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 20 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Femme Fatale Birthday Bash" on Fri, 28 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 20 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Femme Fatale Birthday Bash" on Fri, 28 Aug 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 20 upcoming nights, with line-ups including 1tbsp, Artemis.105, Bastet (US) and Binh and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 20 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

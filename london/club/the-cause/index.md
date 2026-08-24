@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Dankie Sounds - DANK HOLIDAY OPEN AIR #OONTZOONTZ" on Sat, 29 Aug 2026.
+The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Dankie Sounds - DANK HOLIDAY OPEN AIR #OONTZOONTZ" on Sat, 29 Aug 2026.
 
 The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including KT, Aba Shanti-I, Alex Kassian and Angela Rose and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

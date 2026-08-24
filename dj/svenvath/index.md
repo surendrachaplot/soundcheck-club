@@ -1,6 +1,6 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA, Sao Paulo on Sat, 29 Aug 2026.
+Sven Vath is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Sao Paulo on Sat, 29 Aug 2026.
 
 Sven Vath is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: TBA, Saopaulo on Sat 29 Aug.
 
@@ -34,4 +34,4 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 211 sets logg
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

@@ -1,6 +1,6 @@
 # MENACE.
 
-MENACE. is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at 131 Mccormack St, Toronto on Sun, 6 Sept 2026.
+MENACE. is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 131 Mccormack St, Toronto on Sun, 6 Sept 2026.
 
 MENACE. is a techno and hardcore artist based in Canada, tracked on soundcheck, with 17 sets logged across Toronto and Vancouver. Often billed alongside VARON, R4TS and A_C_E.. Next up: 131 Mccormack St, Toronto on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ MENACE. is a techno and hardcore artist based in Canada, tracked on soundcheck, 
 
 VARON, R4TS, A_C_E.
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menace./)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menace./)*

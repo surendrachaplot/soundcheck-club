@@ -1,6 +1,6 @@
 # Victor Dinaire
 
-Victor Dinaire is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Highland Lakes Marina, Austin on Sun, 13 Sept 2026.
+Victor Dinaire is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Highland Lakes Marina, Austin on Sun, 13 Sept 2026.
 
 Victor Dinaire is a house and progressive house artist based in United States of America, tracked on soundcheck, with 1 set logged across Austin. Often billed alongside Will Konitzer. Next up: Highland Lakes Marina, Austin on Sun 13 Sept.
 
@@ -14,4 +14,4 @@ Victor Dinaire is a house and progressive house artist based in United States of
 
 Will Konitzer
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victordinaire/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victordinaire/)*

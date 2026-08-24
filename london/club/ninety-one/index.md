@@ -1,6 +1,6 @@
 # Ninety One
 
-Ninety One is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Ninety One Presents: Resident DJs" on Sat, 29 Aug 2026.
+Ninety One is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ninety One Presents: Resident DJs" on Sat, 29 Aug 2026.
 
 Ninety One is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Amber Rose, Bear Winder, candice a.m and Freshta and 2 more. Browse upcoming dates, start times and who's playing. 91 Brick Ln, London E1 6QL, UK.
 
@@ -23,4 +23,4 @@ Ninety One is a music venue in London listed on soundcheck. 11 upcoming nights, 
 
 91 Brick Ln, London E1 6QL, UK, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ninety-one/)*

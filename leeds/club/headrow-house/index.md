@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 21 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Lift Your Feet Takeover" on Fri, 28 Aug 2026.
+Headrow House is a music venue in Leeds with 21 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Lift Your Feet Takeover" on Fri, 28 Aug 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 21 upcoming nights, with line-ups including Cam Harrop, Kinso, Luke Reynolds and Ms Ray. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 21 upcoming nights
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

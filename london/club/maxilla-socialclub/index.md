@@ -1,6 +1,6 @@
 # Maxilla Socialclub
 
-Maxilla Socialclub is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Bloody Halloween House Music" on Sat, 31 Oct 2026.
+Maxilla Socialclub is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Bloody Halloween House Music" on Sat, 31 Oct 2026.
 
 Maxilla Socialclub is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 2 Maxilla Walk, London W10 6NQ, UK.
 
@@ -14,4 +14,4 @@ Maxilla Socialclub is a music venue in London listed on soundcheck. 1 upcoming n
 
 2 Maxilla Walk, London W10 6NQ, UK, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/maxilla-socialclub/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/maxilla-socialclub/)*

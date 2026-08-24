@@ -1,6 +1,6 @@
 # Midele
 
-Midele is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at MODULE, Copenhagen on Fri, 28 Aug 2026.
+Midele is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at MODULE, Copenhagen on Fri, 28 Aug 2026.
 
 Midele is a techno and house artist based in Italy, tracked on soundcheck, with 35 sets logged across Copenhagen. Often billed alongside Andrea Martini, CøkiT and AZADÎ. Next up: MODULE, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Midele is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Andrea Martini, CøkiT, AZADÎ
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midele/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midele/)*

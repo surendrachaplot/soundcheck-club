@@ -1,6 +1,6 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 50 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "PRIMAL DUB, DJ SHIGEKI, DJ Blackoly & odashnn" on Mon, 24 Aug 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 50 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "PRIMAL DUB, DJ SHIGEKI, DJ Blackoly & odashnn" on Mon, 24 Aug 2026.
 
 DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 50 upcoming nights, with line-ups including 7e, CALPISS, CHIDA and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 50 upcomi
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

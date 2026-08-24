@@ -1,6 +1,6 @@
 # LABOUR
 
-LABOUR is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at KW Institute for Contemporary Art, Berlin on Sat, 12 Sept 2026.
+LABOUR is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at KW Institute for Contemporary Art, Berlin on Sat, 12 Sept 2026.
 
 LABOUR is an electro and experimental artist tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside Lamin Fofana, 2K88 and Al Wootton. Next up: KW Institute for Contemporary Art, Berlin on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ LABOUR is an electro and experimental artist tracked on soundcheck, with 7 sets 
 
 Lamin Fofana, 2K88, Al Wootton
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labour/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labour/)*

@@ -1,6 +1,6 @@
 # Handson Family
 
-Handson Family is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Handson Family is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Handson Family is a funk / soul and house artist tracked on soundcheck, with 45 sets logged across London and Milan. Often billed alongside Vanessa Freeman, Bustin' Loose and LEV (UK). Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Handson Family is a funk / soul and house artist tracked on soundcheck, with 45 
 
 Vanessa Freeman, Bustin' Loose, LEV (UK)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/handsonfamily/)*

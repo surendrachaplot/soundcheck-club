@@ -1,6 +1,6 @@
 # Yukibeb
 
-Yukibeb is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Enter Shibuya, Tokyo on Sat, 29 Aug 2026.
+Yukibeb is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Enter Shibuya, Tokyo on Sat, 29 Aug 2026.
 
 Yukibeb is a house artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside nasthug, SAMO (JP) and kengotaki. Next up: Enter Shibuya, Tokyo on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Yukibeb is a house artist based in Japan, tracked on soundcheck, with 1 set logg
 
 nasthug, SAMO (JP), kengotaki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukibeb-au/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yukibeb-au/)*

@@ -1,6 +1,6 @@
 # hotbabe93
 
-hotbabe93 is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Section 8, Melbourne on Thu, 27 Aug 2026.
+hotbabe93 is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Section 8, Melbourne on Thu, 27 Aug 2026.
 
 hotbabe93 is a garage and techno artist based in Australia, tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside Azzawi, KJONES and Killjoy. Next up: Section 8, Melbourne on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ hotbabe93 is a garage and techno artist based in Australia, tracked on soundchec
 
 Azzawi, KJONES, Killjoy
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotbabe93/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hotbabe93/)*

@@ -1,8 +1,8 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "FREE BEACH PARTY by Kazanova Club w/ Javier Ferreira, Jo Kazan" on Fri, 28 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "FREE BEACH PARTY by Kazanova Club w/ Javier Ferreira, Jo Kazan" on Fri, 28 Aug 2026.
 
-Almar Beach Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alphanova, Anikha, Bill Hates and Franz (AR) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
+Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alphanova, Anikha, Bill Hates and Cosmo X and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 6 upcoming 
 | Fri, 4 Sept 2026 | Cadence | Franz (AR), GUS PICCO, Oversant, SANIRR, Santi Gonzalez, Weedo |
 | Sat, 5 Sept 2026 | FREE BEACH PARTY OPEN AIR - SOCIAL LAB SUMMER EDITION |  |
 | Sat, 12 Sept 2026 | BEACH PARTY: ¿Why So Serious? Summer Closing Party 2026 (Deep House, Melodic House) | HAY:LI, Pj Winterman |
+| Sat, 19 Sept 2026 | BAD KIDS 'at the beach' | Cosmo X, Elwei, FilippoDiGiorno, Lumiere, Stefano Andriezzi |
 
 ## Address
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

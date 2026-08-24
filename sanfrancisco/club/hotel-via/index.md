@@ -1,6 +1,6 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Sainte Vie - Day Party Rooftop" on Sun, 20 Sept 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Sainte Vie - Day Party Rooftop" on Sun, 20 Sept 2026.
 
 Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Atish, Nikita, Sainte Vie and Vida. Browse upcoming dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
@@ -15,4 +15,4 @@ Hotel Via is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nigh
 
 138 King St. San Francisco, CA 94107, San Francisco/Oakland
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hotel-via/)*

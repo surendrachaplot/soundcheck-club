@@ -1,6 +1,6 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jazz and Jungle artist with 16 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Cervantes' Other Side, Denver on Fri, 28 Aug 2026.
+Takuya Nakamura is a Jazz and Jungle artist with 16 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Cervantes' Other Side, Denver on Fri, 28 Aug 2026.
 
 Takuya Nakamura is a jazz and jungle artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Cervantes' Other Side, Denver on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Takuya Nakamura is a jazz and jungle artist tracked on soundcheck, with 107 sets
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

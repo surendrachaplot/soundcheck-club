@@ -1,6 +1,6 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Radio Radio, Amsterdam on Fri, 28 Aug 2026.
+Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Radio Radio, Amsterdam on Fri, 28 Aug 2026.
 
 Flo Massé is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: Radio Radio, Amsterdam on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Flo Massé is a house and techno artist tracked on soundcheck, with 113 sets log
 
 Jolly (FR), DJ Gamba, P.O (1)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*

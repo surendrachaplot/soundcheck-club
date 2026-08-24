@@ -1,6 +1,6 @@
 # Luke ur friend
 
-Luke ur friend is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Fiftyfive, Melbourne on Sat, 29 Aug 2026.
+Luke ur friend is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fiftyfive, Melbourne on Sat, 29 Aug 2026.
 
 Luke ur friend is an acid and disco artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside sbas, Bby Cass and JD (4). Next up: Fiftyfive, Melbourne on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Luke ur friend is an acid and disco artist based in Australia, tracked on soundc
 
 sbas, Bby Cass, JD (4)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeurfriend/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeurfriend/)*

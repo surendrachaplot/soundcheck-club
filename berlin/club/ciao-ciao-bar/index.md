@@ -1,6 +1,6 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Studio Markant" on Fri, 28 Aug 2026.
+ciao ciao Bar is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Studio Markant" on Fri, 28 Aug 2026.
 
 ciao ciao Bar is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Andre Kronert, Benny Grauer, Champagner.Jannick and Charlie Vaux and 2 more. Browse upcoming dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
@@ -16,4 +16,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 3 upcoming nights
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

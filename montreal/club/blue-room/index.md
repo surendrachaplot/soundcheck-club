@@ -1,6 +1,6 @@
 # Blue Room
 
-Blue Room is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Nicola Torreiro / Shelton Cooper / Samira" on Sat, 22 Aug 2026.
+Blue Room is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Nicola Torreiro / Shelton Cooper / Samira" on Sat, 22 Aug 2026.
 
 Blue Room is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including BERLIN, Manny M, Midnight (1) and Moti (CR) and 2 more. Browse upcoming dates, start times and who's playing. 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor.
 
@@ -18,4 +18,4 @@ Blue Room is a music venue in Montreal listed on soundcheck. 5 upcoming nights, 
 
 3956 Boul. Saint-Laurent, Montréal, QC H2W 1Y3 3rd Floor, Montreal
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/blue-room/)*

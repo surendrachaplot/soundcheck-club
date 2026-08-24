@@ -1,6 +1,6 @@
 # CAITY WATSON
 
-CAITY WATSON is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at My Aeon, Melbourne on Fri, 4 Sept 2026.
+CAITY WATSON is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at My Aeon, Melbourne on Fri, 4 Sept 2026.
 
 CAITY WATSON is a techno and house artist tracked on soundcheck, with 113 sets logged across Melbourne, Singapore and Sydney. Often billed alongside Shell Shock, BDE and ALIEN-A. Next up: My Aeon, Melbourne on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ CAITY WATSON is a techno and house artist tracked on soundcheck, with 113 sets l
 
 Shell Shock, BDE, ALIEN-A
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caitywatson/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caitywatson/)*

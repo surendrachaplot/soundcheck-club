@@ -1,6 +1,6 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
+JÄMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
 
 JÄMO is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside Kumi, Caleb Jay and 3LOAR. Next up: Boomerang Beach, Thehague on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ JÄMO is a house and techno artist tracked on soundcheck, with 32 sets logged ac
 
 Kumi, Caleb Jay, 3LOAR
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*

@@ -1,6 +1,6 @@
 # ArtSaves
 
-ArtSaves is a Experimental and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+ArtSaves is a Experimental and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 ArtSaves is an experimental and dub techno artist based in Iran, tracked on soundcheck, with 3 sets logged across Montreal and Toronto. Often billed alongside Matthew Herbert, Vivian Li and 16:9 ratio. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -19,4 +19,4 @@ ArtSaves is an experimental and dub techno artist based in Iran, tracked on soun
 
 Matthew Herbert, Vivian Li, 16:9 ratio
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artsaves/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artsaves/)*

@@ -1,6 +1,6 @@
 # AKIRA TAKABAYASHI
 
-AKIRA TAKABAYASHI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at ZEROTOKYO, Tokyo on Sun, 30 Aug 2026.
+AKIRA TAKABAYASHI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ZEROTOKYO, Tokyo on Sun, 30 Aug 2026.
 
 AKIRA TAKABAYASHI is a techno and house artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside MYUMA, Shogo Ito and Albino Sound. Next up: ZEROTOKYO, Tokyo on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ AKIRA TAKABAYASHI is a techno and house artist tracked on soundcheck, with 5 set
 
 MYUMA, Shogo Ito, Albino Sound
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiratakabayashi/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiratakabayashi/)*

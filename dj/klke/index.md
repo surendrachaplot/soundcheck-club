@@ -1,6 +1,6 @@
 # KLKÉ
 
-KLKÉ is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
+KLKÉ is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
 
 KLKÉ is a latin bass and guaracha artist based in Venezuela, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside DJ Putilla, Homotopies and João Lágrima De Ouro. Next up: Mood Ring, Newyorkcity on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ KLKÉ is a latin bass and guaracha artist based in Venezuela, tracked on soundch
 
 DJ Putilla, Homotopies, João Lágrima De Ouro
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klke/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klke/)*

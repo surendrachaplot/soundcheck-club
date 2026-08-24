@@ -1,6 +1,6 @@
 # Donau115
 
-Donau115 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 23 Aug 2026; the next is "Devin Gray Quartet" on Sat, 10 Oct 2026.
+Donau115 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Devin Gray Quartet" on Sat, 10 Oct 2026.
 
 Donau115 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Donaustraße 115, 12043 Berlin.
 
@@ -14,4 +14,4 @@ Donau115 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Brow
 
 Donaustraße 115, 12043 Berlin, Berlin
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/donau115/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/donau115/)*

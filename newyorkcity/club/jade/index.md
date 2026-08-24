@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Rat Girl Summer" on Fri, 28 Aug 2026.
+Jade is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Rat Girl Summer" on Fri, 28 Aug 2026.
 
 Jade is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including boy_c0ded, Caratastrophe, chicas over rice and CMD+JAZMINE and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -19,4 +19,4 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

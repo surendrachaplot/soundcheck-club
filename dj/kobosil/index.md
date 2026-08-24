@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 23 Aug 2026.
+Kobosil is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 23 Aug 2026.
 
 Kobosil is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Hï Ibiza, Ibiza on Sun 23 Aug.
 
@@ -23,6 +23,7 @@ Kobosil is a techno and house artist tracked on soundcheck, with 224 sets logged
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sun, 23 Aug 2026
 - Klein Phönix, Istanbul — Fri, 21 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ Kobosil is a techno and house artist tracked on soundcheck, with 224 sets logged
 - Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
 - Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
 - Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
-- 8 Marvila, Lisbon — Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

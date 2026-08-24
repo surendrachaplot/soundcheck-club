@@ -1,6 +1,6 @@
 # BSLS
 
-BSLS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+BSLS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
 BSLS is a techno and industrial artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside 6EJOU, 753 and Raxeller. Next up: OST, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ BSLS is a techno and industrial artist tracked on soundcheck, with 39 sets logge
 
 6EJOU, 753, Raxeller
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bsls/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bsls/)*

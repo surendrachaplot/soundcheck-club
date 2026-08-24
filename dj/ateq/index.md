@@ -1,6 +1,6 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
+ATEQ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
 
 ATEQ is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Berlin and Cologne and 12 more. Often billed alongside ORION (IT), skyra and Hamatsuki. Next up: Tokonoma Club, Frankfurt on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ ATEQ is a techno and house artist tracked on soundcheck, with 49 sets logged acr
 
 ORION (IT), skyra, Hamatsuki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

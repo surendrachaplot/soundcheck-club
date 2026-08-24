@@ -1,6 +1,6 @@
 # r00bies4ever
 
-r00bies4ever is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+r00bies4ever is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 r00bies4ever is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago. Often billed alongside ATT1C, Chaos In The CBD and Janesita. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ r00bies4ever is a techno and house artist based in United States of America, tra
 
 ATT1C, Chaos In The CBD, Janesita
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r00bies4ever/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r00bies4ever/)*

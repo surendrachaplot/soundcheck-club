@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at FOLD, London on Sun, 23 Aug 2026.
+Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Outdoor Location, Vancouver on Fri, 28 Aug 2026.
 
-Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: FOLD, London on Sun 23 Aug.
+Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: TBA - Outdoor Location, Vancouver on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | FOLD | London |
 | Fri, 28 Aug 2026 | TBA - Outdoor Location | Vancouver |
 | Sat, 29 Aug 2026 | TBA - Warehouse | Toronto |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
@@ -20,6 +19,7 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets lo
 
 ## Recently played
 
+- FOLD, London — Sun, 23 Aug 2026
 - Vittoria Wharf Studio, London — Fri, 21 Aug 2026
 - FOLD, London — Fri, 14 Aug 2026
 - Else, Berlin — Fri, 7 Aug 2026
@@ -27,10 +27,9 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets lo
 - Loone, Berlin — Fri, 26 Jun 2026
 - TILLATEC, Amsterdam — Sat, 20 Jun 2026
 - The Old Blue Last, London — Sat, 23 May 2026
-- Wigwam, Dublin — Sat, 9 May 2026
 
 ## Shares bills with
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
+Chippy Nonstop is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
 
 Chippy Nonstop is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 41 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN (1). Next up: La Machine Du Moulin Rouge, Paris on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Chippy Nonstop is a techno and house artist tracked on soundcheck, with 163 sets
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

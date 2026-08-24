@@ -1,6 +1,6 @@
 # Visky
 
-Visky is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at fi, Cologne on Sat, 29 Aug 2026.
+Visky is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at fi, Cologne on Sat, 29 Aug 2026.
 
 Visky is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Cologne. Often billed alongside oskø, Denis Stockhausen and Michael Mayer. Next up: fi, Cologne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Visky is a house and techno artist based in Germany, tracked on soundcheck, with
 
 oskø, Denis Stockhausen, Michael Mayer
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visky/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visky/)*

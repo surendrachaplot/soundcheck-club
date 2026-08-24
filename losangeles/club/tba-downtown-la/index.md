@@ -1,6 +1,6 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Negative Form Ascencion Cycle: Crucifixion Implant" on Fri, 28 Aug 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Negative Form Ascencion Cycle: Crucifixion Implant" on Fri, 28 Aug 2026.
 
 TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Loukeman. Browse upcoming dates, start times and who's playing. To Be Announced - DTLA.
 
@@ -15,4 +15,4 @@ TBA - Downtown LA is a music venue in Losangeles listed on soundcheck. 2 upcomin
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

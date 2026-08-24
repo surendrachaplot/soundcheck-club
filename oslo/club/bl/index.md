@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 5 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "Egyptian Lover (US)" on Fri, 28 Aug 2026.
+Blå is a music venue in Oslo with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Egyptian Lover (US)" on Fri, 28 Aug 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 5 upcoming nights, with line-ups including Egyptian Lover, Glayden, Los Thuthanaka and Sir Richard Bishop. Browse upcoming dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -18,4 +18,4 @@ Blå is a music venue in Oslo listed on soundcheck. 5 upcoming nights, with line
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

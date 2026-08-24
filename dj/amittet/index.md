@@ -1,6 +1,6 @@
 # AMITTET
 
-AMITTET is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
+AMITTET is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
 
 AMITTET is a jungle and drum & bass artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside MNSTR, Lixin and Maxi Mo. Next up: Culture Box, Copenhagen on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ AMITTET is a jungle and drum & bass artist based in Denmark, tracked on soundche
 
 MNSTR, Lixin, Maxi Mo
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amittet/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amittet/)*

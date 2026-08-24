@@ -1,6 +1,6 @@
 # Axel Blanc
 
-Axel Blanc is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at La Gare / Le Gore, Paris on Sun, 30 Aug 2026.
+Axel Blanc is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Gare / Le Gore, Paris on Sun, 30 Aug 2026.
 
 Axel Blanc is a house and techno artist based in France, tracked on soundcheck, with 31 sets logged across Berlin, Copenhagen, Dublin and Hamburg and 2 more. Often billed alongside P errine, CallBackSami and A.Pringle. Next up: La Gare / Le Gore, Paris on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Axel Blanc is a house and techno artist based in France, tracked on soundcheck, 
 
 P errine, CallBackSami, A.Pringle
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelblanc/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axelblanc/)*

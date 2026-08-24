@@ -1,6 +1,6 @@
 # LORA.
 
-LORA. is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Tempo, Madrid on Sat, 17 Oct 2026.
+LORA. is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tempo, Madrid on Sat, 17 Oct 2026.
 
 LORA. is a house and funk / soul artist based in Spain, tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Barletti and Oliki. Next up: Tempo, Madrid on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ LORA. is a house and funk / soul artist based in Spain, tracked on soundcheck, w
 
 Barletti, Oliki
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lora./)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lora./)*

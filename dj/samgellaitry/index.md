@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Kingdom Nightclub, Austin on Fri, 28 Aug 2026.
+Sam Gellaitry is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kingdom Nightclub, Austin on Fri, 28 Aug 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Brighton and Glasgow and 18 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: Kingdom Nightclub, Austin on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

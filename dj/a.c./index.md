@@ -1,6 +1,6 @@
 # A.C.
 
-A.C. is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 29 Aug 2026.
+A.C. is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at STK 47 WAREHOUSE, Krakow on Sat, 29 Aug 2026.
 
 A.C. is a techno and acid artist tracked on soundcheck, with 53 sets logged across Krakow and Warsaw. Often billed alongside Hikikomori, 2LAV and AregV. Next up: STK 47 WAREHOUSE, Krakow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ A.C. is a techno and acid artist tracked on soundcheck, with 53 sets logged acro
 
 Hikikomori, 2LAV, AregV
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.c./)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.c./)*

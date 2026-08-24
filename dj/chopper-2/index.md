@@ -1,6 +1,6 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Chopper (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Chopper (UK) is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Birmingham and Ibiza and 7 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Chopper (UK) is a house and tech house artist tracked on soundcheck, with 55 set
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

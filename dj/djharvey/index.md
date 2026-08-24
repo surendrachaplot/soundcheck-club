@@ -1,6 +1,6 @@
 # DJ Harvey
 
-DJ Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 23 Aug 2026, next at Knockdown Center, New York City on Fri, 18 Sept 2026.
+DJ Harvey is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Knockdown Center, New York City on Fri, 18 Sept 2026.
 
 DJ Harvey is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Bali and Chicago and 13 more. Often billed alongside Heidi Lawden, Natasha Diggs and Seth Troxler. Next up: Knockdown Center, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Harvey is a house and techno artist tracked on soundcheck, with 58 sets logge
 
 Heidi Lawden, Natasha Diggs, Seth Troxler
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djharvey/)*

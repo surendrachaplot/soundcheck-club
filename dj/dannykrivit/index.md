@@ -1,6 +1,6 @@
 # Danny Krivit
 
-Danny Krivit is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 23 Aug 2026, next at Locust Grove, New York City on Sat, 5 Sept 2026.
+Danny Krivit is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Locust Grove, New York City on Sat, 5 Sept 2026.
 
 Danny Krivit is a house and disco artist based in United States of America, tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 17 more. Often billed alongside Joe Claussell, Francois K and Rich Medina. Next up: Locust Grove, Newyorkcity on Sat 5 Sept.
 
@@ -12,6 +12,7 @@ Danny Krivit is a house and disco artist based in United States of America, trac
 
 ## Recently played
 
+- Circle Line Cruises, New York City — Sun, 23 Aug 2026
 - Circle Line Cruises, New York City — Sat, 25 Jul 2026
 - Xanadu, New York City — Sun, 19 Jul 2026
 - Circle Line Cruises, New York City — Sun, 28 Jun 2026
@@ -19,10 +20,9 @@ Danny Krivit is a house and disco artist based in United States of America, trac
 - Kiranah Garden Toyosu, Tokyo — Sun, 7 Jun 2026
 - Club Metro, Kyoto — Mon, 4 May 2026
 - Musica Club NYC, New York City — Sun, 12 Apr 2026
-- Good Room, New York City — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Joe Claussell, Francois K, Rich Medina
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannykrivit/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannykrivit/)*

@@ -1,6 +1,6 @@
 # The Social
 
-The Social is a music venue in London with 16 upcoming nights listed on soundcheck as of Sun, 23 Aug 2026; the next is "HARDBACK: Anti Climax" on Thu, 27 Aug 2026.
+The Social is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "HARDBACK: Anti Climax" on Thu, 27 Aug 2026.
 
 The Social is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
@@ -23,4 +23,4 @@ The Social is a music venue in London listed on soundcheck. 16 upcoming nights, 
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Sun, 23 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
