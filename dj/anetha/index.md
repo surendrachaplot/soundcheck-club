@@ -9,7 +9,7 @@ Anetha is a techno and house artist tracked on soundcheck, with 201 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 12 Sept 2026 | Fabrik | Madrid |
 | Sun, 4 Oct 2026 | Hï Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Palladium | Geneva |

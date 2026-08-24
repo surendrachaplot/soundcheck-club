@@ -12,7 +12,7 @@ Freddy K is a techno and house artist tracked on soundcheck, with 274 sets logge
 | Sat, 5 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
-| Sat, 26 Sept 2026 | 8 Marvila | Lisbon |
+| Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |

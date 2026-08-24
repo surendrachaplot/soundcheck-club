@@ -1,14 +1,15 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Macadam, Nantes on Sat, 5 Sept 2026.
+Viikatory is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Macadam, Nantes on Sat, 5 Sept 2026.
 
-Viikatory is a techno and electro artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Macadam, Nantes on Sat 5 Sept.
+Viikatory is a techno and electro artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Macadam, Nantes on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Macadam | Nantes |
+| Sat, 12 Sept 2026 | Badaboum | Paris |
 
 ## Recently played
 

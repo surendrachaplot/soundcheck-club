@@ -1,14 +1,14 @@
 # NOHR
 
-NOHR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+NOHR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-NOHR is a house and techno artist based in Denmark, tracked on soundcheck, with 6 sets logged across Amsterdam, Brussels, Cologne and Copenhagen and 2 more. Often billed alongside NTO, &ME and 999999999. Next up: TBA, Brussels on Fri 11 Sept.
+NOHR is a house and techno artist based in Denmark, tracked on soundcheck, with 6 sets logged across Amsterdam, Brussels, Cologne and Copenhagen and 2 more. Often billed alongside NTO, &ME and 999999999. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 9 Oct 2026 | Ministry Of Sound | London |
 
 ## Recently played

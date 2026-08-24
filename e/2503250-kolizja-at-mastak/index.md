@@ -1,6 +1,6 @@
 # KOLIZJA at Mastak
 
-KOLIZJA at Mastak on Sat 29 Aug, Warsaw. 2 acts on the bill: Nightfall and Slowmode. Techno and Electronica. Preview the line-up and save it on soundcheck.
+KOLIZJA at Mastak on Sat 29 Aug, Warsaw. 3 acts on the bill: Internal Observer, Nightfall and Slowmode. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KOLIZJA at Mastak on Sat 29 Aug, Warsaw. 2 acts on the bill: Nightfall and Slowm
 
 ## Line-up
 
+- Internal Observer
 - Nightfall
 - Slowmode
 

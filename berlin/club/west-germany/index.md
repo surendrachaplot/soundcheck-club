@@ -1,13 +1,14 @@
 # West Germany
 
-West Germany is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Deities" on Thu, 17 Sept 2026.
+West Germany is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "a niche in the gap" on Wed, 16 Sept 2026.
 
-West Germany is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Skalitzer Strasse 133; Kreuzberg; 10999 Berlin; Germany.
+West Germany is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Skalitzer Strasse 133; Kreuzberg; 10999 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | a niche in the gap |  |
 | Thu, 17 Sept 2026 | Deities |  |
 
 ## Address

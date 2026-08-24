@@ -10,7 +10,7 @@ Carlita is a house and techno artist tracked on soundcheck, with 193 sets logged
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
 | Fri, 25 Sept 2026 | The Church Nightclub | Denver |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |

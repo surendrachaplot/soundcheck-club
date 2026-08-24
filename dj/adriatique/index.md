@@ -17,7 +17,7 @@ Adriatique is a techno and house artist tracked on soundcheck, with 154 sets log
 | Thu, 24 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Vale do Anhangabaú | Sao Paulo |
 | Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |
-| Sat, 3 Oct 2026 | TBA - Gare Maritime | Brussels |
+| Sat, 3 Oct 2026 | Tour & Taxis | Brussels |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |
 
 ## Recently played

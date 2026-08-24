@@ -10,7 +10,7 @@ DVS1 is a techno and house artist tracked on soundcheck, with 308 sets logged ac
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Hive Club | Zurich |
 | Sat, 29 Aug 2026 | Lehmann Club | Stuttgart |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Fvtvr | Paris |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |

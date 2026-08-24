@@ -9,7 +9,7 @@ Young Marco is a house and techno artist tracked on soundcheck, with 211 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Hï Ibiza | Ibiza |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 25 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Village Underground | London |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |

@@ -13,7 +13,7 @@ ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 | Sat, 12 Sept 2026 | OST | Berlin |
 | Fri, 18 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 9 Oct 2026 | OST | Berlin |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 
 ## Recently played
 

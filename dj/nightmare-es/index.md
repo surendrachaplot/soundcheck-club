@@ -1,8 +1,8 @@
 # Nightmare
 
-Nightmare is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+Nightmare is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
-Nightmare is a dubstep and grime artist based in Italy, tracked on soundcheck, with 1 set logged across London. Often billed alongside Drime, Nav (1) and RAFE. Next up: Planet Wax, London on Sat 12 Sept.
+Nightmare is a grime and dubstep artist based in Italy, tracked on soundcheck, with 1 set logged across London. Often billed alongside Drime, Nav (1) and RAFE. Next up: Planet Wax, London on Sat 12 Sept.
 
 ## Upcoming shows
 

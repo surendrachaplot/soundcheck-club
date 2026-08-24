@@ -13,7 +13,7 @@ future.666 is a techno and trance artist tracked on soundcheck, with 222 sets lo
 | Fri, 4 Sept 2026 | TBA - Secret Location | Boston |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Domicile | Miami |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Schrotty | Cologne |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |
 | Fri, 2 Oct 2026 | Flux | Istanbul |

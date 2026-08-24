@@ -11,7 +11,7 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 | Fri, 28 Aug 2026 | Forward Festival Afterparty curated by EASYdoesit and Bipolar Berlin | IAMNOBODI, cliff |
 | Fri, 28 Aug 2026 | Forward Festival Afterparty curated by EASYdoesit & Bipolar Berlin | IAMNOBODI, cliff |
 | Fri, 4 Sept 2026 | Toy Tonics Art Jam | A.tari, Armanda, Cody Currie, Kapote, Lars Eidinger, Robin Flux |
-| Sat, 5 Sept 2026 | Berlin New Media Week official party: Nerve  | N (33), Portrait XO, Sonderbar |
+| Sat, 5 Sept 2026 | Berlin New Media Week official party: Nerve  | N (33), Nundale, Portrait XO, Sonderbar |
 
 ## Address
 

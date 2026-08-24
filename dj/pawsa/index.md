@@ -11,7 +11,7 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logg
 | Sat, 29 Aug 2026 | Königsplatz München | Munich |
 | Sat, 5 Sept 2026 | Fulton Fish Market - Hunts Point | New York City |
 | Sun, 6 Sept 2026 | TBA | Toronto |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin | Berlin |
 | Sat, 12 Sept 2026 | Universidad Autónoma de Madrid (UAM) | Madrid |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |

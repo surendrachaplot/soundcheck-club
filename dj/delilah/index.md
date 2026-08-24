@@ -11,7 +11,7 @@ Delilah is a house and tech house artist tracked on soundcheck, with 37 sets log
 | Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Tue, 1 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Milandia Greifensee | Zurich |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Hidden | Manchester |

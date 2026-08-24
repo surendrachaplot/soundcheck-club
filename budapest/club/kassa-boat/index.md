@@ -1,8 +1,8 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "The Hive Budapest 10th Anniversary with DLR - Monty - Subtension - Abstract" on Fri, 28 Aug 2026.
+Kassa Boat is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "The Hive Budapest 10th Anniversary with DLR - Monty - Subtension - Abstract" on Fri, 28 Aug 2026.
 
-Kassa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including baeker, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
+Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including baeker, DJ Budai, DLR and Dolça van Leeuwen and 2 more. Browse upcoming dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 5 upcoming nights,
 | Fri, 28 Aug 2026 | The Hive Budapest 10th Anniversary with DLR - Monty - Subtension - Abstract | DLR |
 | Fri, 11 Sept 2026 | FLUX W/ Efan (UK) | Efan, Helena Lua, baeker |
 | Fri, 18 Sept 2026 | Kalap vol.3 - Egon's Embrace, Vox Fabri vs Vox Funky , Acideal ANL |  |
+| Sat, 26 Sept 2026 | Panorama Session | Fede Frostl |
 | Sat, 10 Oct 2026 | Liquid Night invites Victor Ruiz | Dolça van Leeuwen, Dreadsun, Dual DeStress, NoNameLeft, Victor Ruiz |
 | Thu, 22 Oct 2026 | DJ Budai '30 Years Of Techno' Special guest: Sonic Rain | DJ Budai, Sonic Rain |
 

@@ -10,7 +10,7 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 38 upcoming nights
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | uroz | uroz |
 | Tue, 25 Aug 2026 | Rubén Seoane | Rubén Seoane |
-| Wed, 26 Aug 2026 | Steve Bicknell + Serkin (Live Set) | Serkin, Steve Bicknell |
+| Wed, 26 Aug 2026 | Steve Bicknell + Serkin | Serkin, Steve Bicknell |
 | Thu, 27 Aug 2026 | MOOG HISTORY: Dj Zero + uroz | uroz |
 | Fri, 28 Aug 2026 | Carol Nyx |  |
 | Sat, 29 Aug 2026 | Javi gOn | Javi gOn |

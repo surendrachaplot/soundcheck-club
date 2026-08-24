@@ -10,7 +10,7 @@ M7 Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, 
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | HARD BOUNCE [Marc FX & Adviro] | Adviro |
 | Fri, 28 Aug 2026 | Sociedad Groove [H-R-Z BDAY & SEASON OPENING] | H-R-Z, HERS, PILIGN, RŌ (FLX4), SYM |
-| Fri, 28 Aug 2026 | HARD BOUNCE [JMarga, KSTX & Mêss] | JMarga (2), KSTX |
+| Fri, 28 Aug 2026 | HARD BOUNCE [JMarga, GADDAM & Mêss] | GADDAM, JMarga (2), KSTX |
 | Sat, 29 Aug 2026 | M7 presenta: Santi Aranya [All Night Long] Main Room Two Girls One Mom, GNEIXX, Marc Fx, Adviro | Adviro, GNEIXX, Rowsi, Santi Aranya, two girls one mom |
 | Sun, 30 Aug 2026 | HARD BOUNCE [Guirao & Adviro] | Adviro |
 | Thu, 3 Sept 2026 | HARD BOUNCE [Mêss & Marc Fx] |  |

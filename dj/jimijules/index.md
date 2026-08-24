@@ -11,7 +11,7 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 190 sets log
 | Thu, 27 Aug 2026 | Scorpios | Mykonos |
 | Sun, 6 Sept 2026 | Woodstock'69 | Amsterdam |
 | Thu, 10 Sept 2026 | Scorpios | Mykonos |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Lula Club | Madrid |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |

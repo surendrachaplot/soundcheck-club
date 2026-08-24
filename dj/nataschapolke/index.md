@@ -9,7 +9,7 @@ Natascha Polké is a house and electro artist tracked on soundcheck, with 52 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Scorpios | Mykonos |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | Scorpios | Mykonos |
 | Sat, 26 Sept 2026 | Mdlr | Singapore |
 

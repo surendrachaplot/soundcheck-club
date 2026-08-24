@@ -1,8 +1,8 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kassa Boat, Budapest on Fri, 28 Aug 2026.
+DLR is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kassa Boat, Budapest on Fri, 28 Aug 2026.
 
-DLR is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: Kassa Boat, Budapest on Fri 28 Aug.
+DLR is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: Kassa Boat, Budapest on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DLR is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Kassa Boat | Budapest |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 24 Oct 2026 | Phonox | London |
 
 ## Recently played
 

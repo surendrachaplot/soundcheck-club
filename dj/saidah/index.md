@@ -9,7 +9,7 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 114 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |

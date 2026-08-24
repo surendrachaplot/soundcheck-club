@@ -1,8 +1,8 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Rex Club, Paris on Sat, 5 Sept 2026.
+Kevin Saunderson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Rex Club, Paris on Sat, 5 Sept 2026.
 
-Kevin Saunderson is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 32 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Rex Club, Paris on Sat 5 Sept.
+Kevin Saunderson is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Rex Club, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kevin Saunderson is a techno and house artist tracked on soundcheck, with 116 se
 | Fri, 25 Sept 2026 | Ministerium Club | Lisbon |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Fri, 2 Oct 2026 | Jaeger | Oslo |
 | Sat, 10 Oct 2026 | Discoteca Paradiso | Naples |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |

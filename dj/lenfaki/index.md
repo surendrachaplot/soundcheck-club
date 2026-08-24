@@ -9,7 +9,7 @@ Len Faki is a techno and house artist tracked on soundcheck, with 133 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Liquid Room | Edinburgh |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 19 Sept 2026 | Phonox | London |
 | Sat, 26 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 17 Oct 2026 | VIERNULVIER | Ghent |

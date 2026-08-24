@@ -1,8 +1,8 @@
 # Ays (NL)
 
-Ays (NL) is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Cult=us, Rotterdam on Fri, 11 Sept 2026.
+Ays (NL) is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Cult=us, Rotterdam on Fri, 11 Sept 2026.
 
-Ays (NL) is a disco and house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Brussels and London and 7 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: Cult=us, Rotterdam on Fri 11 Sept.
+Ays (NL) is a disco and house artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Brussels and London and 7 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: Cult=us, Rotterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ays (NL) is a disco and house artist based in Netherlands, tracked on soundcheck
 | Fri, 11 Sept 2026 | Cult=us | Rotterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 25 Sept 2026 | BIRD | Rotterdam |
+| Fri, 2 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Clinique Lacuna
 
-Clinique Lacuna is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
+Clinique Lacuna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
 
-Clinique Lacuna is a house artist tracked on soundcheck, with 10 sets logged across Paris. Often billed alongside Yuko Kakizawa, Alyhas and Anastasia Zems. Next up: Badaboum, Paris on Sat 12 Sept.
+Clinique Lacuna is a house and techno artist tracked on soundcheck, with 10 sets logged across Paris. Often billed alongside Yuko Kakizawa, Michel D. and Alyhas. Next up: Badaboum, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Clinique Lacuna is a house artist tracked on soundcheck, with 10 sets logged acr
 
 ## Shares bills with
 
-Yuko Kakizawa, Alyhas, Anastasia Zems
+Yuko Kakizawa, Michel D., Alyhas
 
 *Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cliniquelacuna/)*

@@ -9,7 +9,7 @@ SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | OST | Berlin |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played

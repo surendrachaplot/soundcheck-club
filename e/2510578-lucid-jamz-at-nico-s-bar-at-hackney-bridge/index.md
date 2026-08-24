@@ -1,6 +1,6 @@
 # LUCID*JAMZ at Nico's Bar at Hackney Bridge
 
-LUCID*JAMZ at Nico's Bar at Hackney Bridge on Fri 28 Aug, London. 2 acts on the bill: leverson and Omari King. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+LUCID*JAMZ at Nico's Bar at Hackney Bridge on Fri 28 Aug, London. 3 acts on the bill: Chadee, leverson and Omari King. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LUCID*JAMZ at Nico's Bar at Hackney Bridge on Fri 28 Aug, London. 2 acts on the 
 
 ## Line-up
 
+- Chadee
 - leverson
 - Omari King
 

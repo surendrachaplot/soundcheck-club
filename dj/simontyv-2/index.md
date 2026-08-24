@@ -1,8 +1,8 @@
 # Simon Tyv
 
-Simon Tyv is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Jaeger, Oslo on Wed, 2 Sept 2026.
+Simon Tyv is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Jaeger, Oslo on Wed, 2 Sept 2026.
 
-Simon Tyv is a house and experimental artist tracked on soundcheck, with 12 sets logged across Copenhagen and Oslo. Often billed alongside DJ JM, Olefonken and Posner. Next up: Jaeger, Oslo on Wed 2 Sept.
+Simon Tyv is a house and experimental artist tracked on soundcheck, with 13 sets logged across Copenhagen and Oslo. Often billed alongside DJ JM, Olefonken and Posner. Next up: Jaeger, Oslo on Wed 2 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Simon Tyv is a house and experimental artist tracked on soundcheck, with 12 sets
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Jaeger | Oslo |
 | Sat, 12 Sept 2026 | The Villa | Oslo |
+| Fri, 18 Sept 2026 | The Villa | Oslo |
 
 ## Recently played
 

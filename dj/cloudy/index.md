@@ -16,7 +16,7 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 216 sets logged
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 6 Sept 2026 | TBA | Toronto |
 | Mon, 7 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 12 Sept 2026 | Matrez - Warehouse | Belgrade |
 | Fri, 2 Oct 2026 | Schrotty | Cologne |
 | Fri, 9 Oct 2026 | Arzenal | Budapest |

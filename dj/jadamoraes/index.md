@@ -1,14 +1,15 @@
 # JADA MORAES
 
-JADA MORAES is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+JADA MORAES is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
-JADA MORAES is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
+JADA MORAES is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Beach Neukölln | Berlin |
+| Sat, 5 Sept 2026 | Sigurd CPH | Copenhagen |
 
 ## Recently played
 

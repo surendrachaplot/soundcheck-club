@@ -1,8 +1,8 @@
 # Eastway Baths
 
-Eastway Baths is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "GIANT STEPS" on Sun, 13 Sept 2026.
+Eastway Baths is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "GIANT STEPS" on Sun, 13 Sept 2026.
 
-Eastway Baths is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Antal, Beringei, Eternal Love and Giles Smith and 2 more. Browse upcoming dates, start times and who's playing. 80 Eastway, E9 5JH.
+Eastway Baths is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Antal, Beringei, Charlie Dark and Eternal Love and 2 more. Browse upcoming dates, start times and who's playing. 80 Eastway, E9 5JH.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Eastway Baths is a music venue in London listed on soundcheck. 8 upcoming nights
 | Sun, 25 Oct 2026 | GIANT STEPS | Palo Santo Discos, Poly-Ritmo |
 | Sun, 8 Nov 2026 | GIANT STEPS |  |
 | Sat, 14 Nov 2026 | GIANT STEPS (LATE) |  |
+| Sun, 22 Nov 2026 | GIANT STEPS | Charlie Dark |
 
 ## Address
 

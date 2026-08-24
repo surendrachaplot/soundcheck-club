@@ -9,7 +9,7 @@
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Amsterdamse Bos | Amsterdam |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Valby Parken | Copenhagen |
 | Sat, 12 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Sat, 19 Sept 2026 | Depot Mayfield | Manchester |

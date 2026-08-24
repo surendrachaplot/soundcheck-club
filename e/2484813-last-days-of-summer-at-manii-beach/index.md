@@ -1,6 +1,6 @@
 # Last Days Of Summer at Manii Beach
 
-Last Days Of Summer at Manii Beach on Sat 29 Aug, Amsterdam. 2 acts on the bill: Cris-H and Paul Sparkes. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Last Days Of Summer at Manii Beach on Sat 29 Aug, Amsterdam. 3 acts on the bill: Anthony Pappa, Cris-H and Paul Sparkes. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Last Days Of Summer at Manii Beach on Sat 29 Aug, Amsterdam. 2 acts on the bill:
 
 ## Line-up
 
+- Anthony Pappa
 - Cris-H
 - Paul Sparkes
 

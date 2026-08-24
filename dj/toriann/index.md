@@ -10,7 +10,7 @@ TORI ANN is a house and disco artist tracked on soundcheck, with 27 sets logged 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Sat, 5 Sept 2026 | TRAUM | Antwerp |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 17 Oct 2026 | Botanique | Brussels |
 
 ## Recently played

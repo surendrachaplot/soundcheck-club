@@ -9,7 +9,7 @@ Deer Jade is a house and techno artist tracked on soundcheck, with 109 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Concourse Project | Austin |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 19 Sept 2026 | YoYo - Palais de Tokyo | Paris |
 | Fri, 2 Oct 2026 | Cova Santa | Ibiza |

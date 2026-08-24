@@ -11,7 +11,7 @@ Sam Alfred is a house and techno artist tracked on soundcheck, with 134 sets log
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | Electric Studios | Sheffield |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sun, 20 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |

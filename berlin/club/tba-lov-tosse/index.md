@@ -8,6 +8,6 @@ TBA - Lovétosse is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | daycare | Aalia Iraki, CH3LO, DJ CHICHI, Eliseo Adri, JD Typo, Lyo., Maryisonacid, eric.a, nadia (npc), xupid |
+| Sat, 5 Sept 2026 | daycare | Aalia Iraki, CH3LO, DJ CHICHI, Eliseo Adri, JD Typo, Lyo., Maryisonacid, Skyhigh Butterfly, eric.a, nadia (npc), xupid |
 
 *Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-lov-tosse/)*

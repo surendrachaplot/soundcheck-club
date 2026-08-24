@@ -9,7 +9,7 @@ Mella Dee is a house and techno artist tracked on soundcheck, with 159 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Ministerium Club | Lisbon |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Under The Arches | Leeds |
 | Sat, 10 Oct 2026 | [UNVRS] | Ibiza |

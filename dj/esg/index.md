@@ -2,7 +2,7 @@
 
 ESG is a Post-Punk and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
-ESG is a post-punk and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Chicago, Glasgow and London and 2 more. Often billed alongside 3Phaz, AMPFEMININE and Aba Shanti-I. Next up: The Cause, London on Sat 19 Sept.
+ESG is a post-punk and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Chicago, Glasgow and London and 2 more. Often billed alongside Zakia, 3Phaz and AMPFEMININE. Next up: The Cause, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ ESG is a post-punk and house artist based in United States of America, tracked o
 
 ## Shares bills with
 
-3Phaz, AMPFEMININE, Aba Shanti-I
+Zakia, 3Phaz, AMPFEMININE
 
 *Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esg/)*

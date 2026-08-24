@@ -1,14 +1,15 @@
 # YULIE
 
-YULIE is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Marula Cafe, Barcelona on Mon, 31 Aug 2026.
+YULIE is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Marula Cafe, Barcelona on Mon, 31 Aug 2026.
 
-YULIE is a house and funk / soul artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside CAPITANA, Jana La Fontaine and Andrea Zarco. Next up: Marula Cafe, Barcelona on Mon 31 Aug.
+YULIE is an electronica and house artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside CAPITANA, INEXXSTABLE and Jana La Fontaine. Next up: Marula Cafe, Barcelona on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Marula Cafe | Barcelona |
+| Sat, 19 Sept 2026 | TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT  | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ YULIE is a house and funk / soul artist based in Spain, tracked on soundcheck, w
 
 ## Shares bills with
 
-CAPITANA, Jana La Fontaine, Andrea Zarco
+CAPITANA, INEXXSTABLE, Jana La Fontaine
 
 *Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*

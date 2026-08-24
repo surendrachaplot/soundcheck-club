@@ -1,13 +1,14 @@
 # Salitre
 
-Salitre is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dr. Dou Social Club, Barcelona on Sun, 30 Aug 2026.
+Salitre is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dr. Resin Social Club, Barcelona on Fri, 28 Aug 2026.
 
-Salitre is an electronic artist based in Venezuela, tracked on soundcheck, with 34 sets logged across Barcelona and Mexicocity. Often billed alongside Vegan Cannibal. Next up: Dr. Dou Social Club, Barcelona on Sun 30 Aug.
+Salitre is a house and deep house artist based in Venezuela, tracked on soundcheck, with 35 sets logged across Barcelona and Mexicocity. Often billed alongside Vegan Cannibal. Next up: Dr. Resin Social Club, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Dr. Resin Social Club | Barcelona |
 | Sun, 30 Aug 2026 | Dr. Dou Social Club | Barcelona |
 
 ## Recently played

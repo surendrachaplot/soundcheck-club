@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Circle Presents | Azire, Eni (3), Frenchhh, MXT (UK) |
-| Sun, 30 Aug 2026 | TU CASA -  DAY & NIGHT - FREENZY | Andres Forero, CANO (3), Tato (2) |
+| Sun, 30 Aug 2026 | TU CASA -  DAY & NIGHT - FREENZY | Andres Forero, CANO (3), Matnez (2), Pedro Villa, Tato (2), Zarek (COL) |
 
 ## Address
 

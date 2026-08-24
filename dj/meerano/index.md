@@ -9,7 +9,7 @@ meera (NO) is a house and afro house artist tracked on soundcheck, with 62 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | Amok Club | Mallorca |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played

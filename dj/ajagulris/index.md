@@ -1,8 +1,8 @@
 # Aja Gulris
 
-Aja Gulris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Aja Gulris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Aja Gulris is a techno and house artist tracked on soundcheck, with 81 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Baime, CERJ and NILU. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+Aja Gulris is a techno and house artist tracked on soundcheck, with 82 sets logged across Berlin, Copenhagen and Hamburg. Often billed alongside Baime, CERJ and NILU. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aja Gulris is a techno and house artist tracked on soundcheck, with 81 sets logg
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 26 Sept 2026 | Culture Box | Copenhagen |
+| Sat, 3 Oct 2026 | Tap1 | Copenhagen |
 
 ## Recently played
 

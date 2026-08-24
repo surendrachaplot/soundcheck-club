@@ -12,7 +12,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming n
 | Fri, 28 Aug 2026 | NAIT - The Nocturnal Journey |  |
 | Tue, 1 Sept 2026 | Open Decks & Tischtennis |  |
 | Fri, 4 Sept 2026 | I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks | Atzlina, DJ Jetset, DJ Räucherlaks, DJ Tallboy, KLING&KLANG, Lezza, MILANCHOLIE, Zukunftsfritze, bbymeister, e.leptic, jeanska, senaitstar |
-| Sat, 5 Sept 2026 | Delulu x Sause | DJ Spaßgetränk, EZA (DE), Konsument, Lezza, Patchy, Paul Bauhaus |
+| Sat, 5 Sept 2026 | PARTY 4 BROKE // Delululand x Sause | DJ Spaßgetränk, EZA (DE), Konsument, Lezza, Patchy, Paul Bauhaus |
 | Tue, 8 Sept 2026 | Open Decks & Tischtennis |  |
 | Fri, 11 Sept 2026 | Oszillation x Villa Wumms |  |
 | Sat, 12 Sept 2026 | KNEIPENKLÄNGE /// BOX OFFICE 15€ | DJ Buona Sara, DJ Sweedee, HØLLE (2), Lisatrix, M1RABELLE, Plattenlieferant, S.3000, tamarawrx3 |

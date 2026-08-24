@@ -1,14 +1,14 @@
 # Riana Holley
 
-Riana Holley is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+Riana Holley is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Riana Holley is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside Hurts, 2HOT2PLAY and 3LEEZA. Next up: TBA, Brussels on Fri 11 Sept.
+Riana Holley is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 13 more. Often billed alongside Hurts, 2HOT2PLAY and 3LEEZA. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 
 ## Recently played

@@ -10,7 +10,7 @@ Wigwam is a music venue in Dublin listed on soundcheck. 16 upcoming nights, with
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Wigwam x Influence invites: KIRSTY (All Night Long) | KIRSTY |
 | Sat, 29 Aug 2026 | INSTINCT ROOFTOP PARTY 305 - TBA |  |
-| Sat, 29 Aug 2026 | Nosso Mambo | Papi da Silva |
+| Sat, 29 Aug 2026 | Nosso Mambo - Day Party | Papi da Silva |
 | Fri, 4 Sept 2026 | Resonate Launch x Hybrid: Frederic. & EMMIE (ANL) | EMMIE, Frederic. |
 | Sat, 5 Sept 2026 | MAZE X - Toobris B2B BENZA | BENZA, Toobris |
 | Fri, 11 Sept 2026 | Wigwam presents: Demuja | Demuja |

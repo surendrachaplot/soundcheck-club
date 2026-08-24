@@ -9,7 +9,7 @@ Amalie is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | TBA - Brussels | Brussels |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

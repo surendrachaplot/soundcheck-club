@@ -9,7 +9,7 @@ Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |

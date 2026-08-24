@@ -10,7 +10,7 @@ Maudux is a techno and trance artist tracked on soundcheck, with 28 sets logged 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | Warehouse | Nantes |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Thu, 22 Oct 2026 | GASHOUDER | Amsterdam |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |

@@ -10,7 +10,7 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets l
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Tue, 1 Sept 2026 | Scorpios | Mykonos |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played

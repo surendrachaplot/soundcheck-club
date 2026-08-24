@@ -11,7 +11,7 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 274 sets 
 | Sat, 29 Aug 2026 | Macadam | Nantes |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 4 Sept 2026 | Studio Club Malaga | Malaga |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Fri, 11 Sept 2026 | Badaboum | Paris |
 | Sat, 19 Sept 2026 | WaV | Liverpool |

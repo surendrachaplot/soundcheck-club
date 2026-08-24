@@ -1,13 +1,14 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
+Christian AB is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Place Poelaertplein, Brussels on Sat, 29 Aug 2026.
 
-Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Amnesia Ibiza, Ibiza on Thu 3 Sept.
+Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Place Poelaertplein, Brussels on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Place Poelaertplein | Brussels |
 | Thu, 3 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Hidden | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |

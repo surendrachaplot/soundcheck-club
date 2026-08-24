@@ -1,8 +1,8 @@
-# Vanmoon
+# Van Moon
 
-Vanmoon is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
+Van Moon is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
 
-Vanmoon is a house and afro house artist based in India, tracked on soundcheck, with 2 sets logged across Amsterdam and Istanbul. Often billed alongside Andrew Rayel, Antares (UK) and Black Box. Next up: TBA - BOATPARTY, Istanbul on Sun 30 Aug.
+Van Moon is a house and afro house artist based in India, tracked on soundcheck, with 2 sets logged across Amsterdam and Istanbul. Often billed alongside Andrew Rayel, Antares (UK) and Black Box. Next up: TBA - BOATPARTY, Istanbul on Sun 30 Aug.
 
 ## Upcoming shows
 

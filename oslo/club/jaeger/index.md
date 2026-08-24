@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Frædag: Gerd Janson" on Fri, 28 Aug 2026.
+Jaeger is a music venue in Oslo with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Frædag: Gerd Janson" on Fri, 28 Aug 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Cestlek, Cody Currie, Mozzy and Elli Acula and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 11 upcoming nights, with line-ups including Cestlek, Cody Currie, Mozzy and Elli Acula and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with l
 | Sat, 12 Sept 2026 | Nightflight x Epiphany: Tim Andresen | Epifanov, IHLE, Tim Andresen |
 | Fri, 18 Sept 2026 | Frædag: Elli Acula + Olanskii (Tekno set) + g-HA + Øyvind Morken | Elli Acula, G-HA, Olanskii, Øyvind Morken |
 | Fri, 25 Sept 2026 | Frædag: Tony Humphries + G-HA & Olanskii + Øyvind Morken | G-HA, Olanskii, Tony Humphries, Øyvind Morken |
-| Fri, 9 Oct 2026 | Frædag: Octave One (live) + G-HA & Olanskii | G-HA, Octave One, Olanskii |
+| Fri, 2 Oct 2026 | Frædag x MUD X SSO: Kevin Sanderson + Waajeed + R-ZO  | G-HA, Kevin Saunderson, Olanskii, Soldal, Waajeed |
 
 ## Address
 

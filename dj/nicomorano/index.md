@@ -9,7 +9,7 @@ Nico Morano is a techno and house artist based in Belgium, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Ritter Butzke | Berlin |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 12 Sept 2026 | Madam | Amsterdam |
 
 ## Recently played

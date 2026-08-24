@@ -17,7 +17,7 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 20 upcoming nights, w
 | Sun, 6 Sept 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 10 Sept 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Fri, 11 Sept 2026 | FREE ENTRY: Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |
-| Sat, 12 Sept 2026 | (10€) BPM presents: STERNI INVITES | sterni (DE) |
+| Sat, 12 Sept 2026 | (10€) BPM presents: STERNI INVITES | DJ ORDNUNGSAMT, sterni (DE) |
 
 ## Address
 

@@ -11,7 +11,7 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Fri, 9 Oct 2026 | OST | Berlin |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ Charleen Herzig is a techno and trance artist tracked on soundcheck, with 39 set
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 19 Sept 2026 | Roof 175 | Frankfurt |
 | Fri, 9 Oct 2026 | OST | Berlin |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Fri, 23 Oct 2026 | OST | Berlin |
 | Sat, 31 Oct 2026 | Wagenhallen | Stuttgart |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |

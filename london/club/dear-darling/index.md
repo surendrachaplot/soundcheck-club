@@ -10,7 +10,7 @@ Dear Darling is a music venue in London listed on soundcheck. 3 upcoming nights,
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Groovenix: Daniel Kazuo & Friends | Juandez, P2UYA |
 | Sat, 5 Sept 2026 | Ahead Of The Curve x Dear Darling | Ind Ra, SANDHAUS |
-| Sat, 3 Oct 2026 | Dear Darling Mayfair x LA LUNA | Abrahamsson, Arian Saravi |
+| Sat, 3 Oct 2026 | LA LUNA x Dear Darling Mayfair | Abrahamsson, Arian Saravi |
 
 ## Address
 

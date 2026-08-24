@@ -16,7 +16,7 @@ Outernet Live is a music venue in London listed on soundcheck. 15 upcoming night
 | Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet | DRIIA, Duskee, Gardna, LSB (UK), Larnie Moles, LowQui, S.P.Y, Sabrina, Stamina MC, Sustance, Workforce |
 | Thu, 1 Oct 2026 | DJ Seinfeld presents 'If This Is It' LIVE | DJ Seinfeld |
 | Sat, 10 Oct 2026 | Labyrinth presents: JAZZWRLD & Thukuthela Live Show |  |
-| Sat, 17 Oct 2026 | Chris Avantgarde, Outernet Live/ London | Chris Avantgarde |
+| Sat, 17 Oct 2026 | Chris Avantgarde - Outernet Live, London | Chris Avantgarde |
 | Sat, 24 Oct 2026 | AFRODESI London | MR SAJ |
 
 ## Address

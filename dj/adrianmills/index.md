@@ -15,7 +15,7 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets 
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 2 Oct 2026 | Schrotty | Cologne |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |

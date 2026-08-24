@@ -10,7 +10,7 @@ Niotech is a techno and trance artist tracked on soundcheck, with 76 sets logged
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | OST | Berlin |
 | Fri, 9 Oct 2026 | OST | Berlin |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Fri, 16 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 24 Oct 2026 | Hangar 34 | Liverpool |

@@ -1,14 +1,15 @@
 # Funk D'Void
 
-Funk D'Void is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 19 Sept 2026.
+Funk D'Void is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 19 Sept 2026.
 
-Funk D'Void is a house and techno artist tracked on soundcheck, with 66 sets logged across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Paul Loraine, Ralph Session and Alex Clavijo. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 19 Sept.
+Funk D'Void is a house and techno artist tracked on soundcheck, with 67 sets logged across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Paul Loraine, Ralph Session and Alex Clavijo. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
+| Mon, 28 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played
 

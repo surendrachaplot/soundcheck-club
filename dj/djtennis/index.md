@@ -10,7 +10,7 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 297 sets logg
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 30 Aug 2026 | Kiesgrube | Düsseldorf |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | Art Club | Houston |
 | Sat, 19 Sept 2026 | Gin Ling Way, Chinatown | Los Angeles |
 | Fri, 9 Oct 2026 | FOLD | London |

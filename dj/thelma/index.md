@@ -9,7 +9,7 @@ THELMA is a techno and house artist tracked on soundcheck, with 94 sets logged a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Badaboum | Paris |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 19 Sept 2026 | Club Vaag | Antwerp |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |

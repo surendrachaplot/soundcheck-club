@@ -10,7 +10,7 @@ MARRØN is a techno and house artist tracked on soundcheck, with 255 sets logged
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Fuchs2 | Prague |
 | Sat, 5 Sept 2026 | The Bassement | Madrid |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Thu, 17 Sept 2026 | Descent | Boston |
 | Fri, 18 Sept 2026 | TBA - Brooklyn | New York City |
 | Sat, 19 Sept 2026 | Flash | Washington DC |

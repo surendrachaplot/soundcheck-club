@@ -10,7 +10,7 @@ Son of Son is a techno and house artist tracked on soundcheck, with 41 sets logg
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Radius | Chicago |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Thu, 24 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 

@@ -10,7 +10,7 @@ Mathame is a techno and house artist tracked on soundcheck, with 158 sets logged
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Mediapark Köln | Cologne |
 | Sat, 5 Sept 2026 | Stereo | Montreal |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 9 Oct 2026 | Phantom, Paris | Paris |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

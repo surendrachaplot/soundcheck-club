@@ -1,8 +1,8 @@
 # Zero T
 
-Zero T is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+Zero T is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
-Zero T is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: Concorde 2, Brighton on Sat 29 Aug.
+Zero T is a drum & bass and jungle artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Auckland and Brighton and 24 more. Often billed alongside Lenzman, MC Fox and Fabio. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Zero T is a drum & bass and jungle artist tracked on soundcheck, with 70 sets lo
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Concorde 2 | Brighton |
 | Sat, 17 Oct 2026 | Wigwam | Dublin |
+| Sat, 24 Oct 2026 | Phonox | London |
 
 ## Recently played
 

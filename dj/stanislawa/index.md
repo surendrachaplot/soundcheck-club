@@ -9,7 +9,7 @@ Stanislawa is a techno and trance artist tracked on soundcheck, with 86 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | dubble | Amsterdam |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

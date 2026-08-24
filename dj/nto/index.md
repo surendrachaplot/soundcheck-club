@@ -9,7 +9,7 @@ NTO is a techno and house artist tracked on soundcheck, with 121 sets logged acr
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Nordstern | Basel |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Fri, 9 Oct 2026 | Docks | Hamburg |
 | Sat, 10 Oct 2026 | Ritter Butzke | Berlin |

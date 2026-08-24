@@ -9,7 +9,7 @@ Oko Stellar is a house and disco artist based in Belgium, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TRAUM | Antwerp |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

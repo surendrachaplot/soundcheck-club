@@ -11,7 +11,7 @@ Quest is a techno and house artist based in United Kingdom, tracked on soundchec
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Sept 2026 | Stereo | Montreal |
 | Sun, 6 Sept 2026 | Jolene Downtown Miami | Miami |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |

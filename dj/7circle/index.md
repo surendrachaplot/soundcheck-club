@@ -1,14 +1,15 @@
 # 7CIRCLE
 
-7CIRCLE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
+7CIRCLE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tresor / Globus, Berlin on Mon, 31 Aug 2026.
 
-7CIRCLE is a techno and industrial artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Don Woezik, Inverse Element and BLACK ANTHEM RESTORE. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
+7CIRCLE is a techno and industrial artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Don Woezik, Inverse Element and BLACK ANTHEM RESTORE. Next up: Tresor / Globus, Berlin on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Tresor / Globus | Berlin |
+| Fri, 11 Sept 2026 | STK 47 WAREHOUSE | Krakow |
 
 ## Recently played
 

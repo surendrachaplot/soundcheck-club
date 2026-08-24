@@ -8,7 +8,7 @@ TBA - Private Location is a music venue in Berlin listed on soundcheck. 4 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | A7A x FIST | Bungalovv, DJ Clone, LIL RISK, Lawrence Lee, Rama (2), Why Be, Word of Command, Yazzus |
+| Sat, 5 Sept 2026 | A7A x FIST | Bungalovv, DJ Clone, LIL RISK, Lawrence Lee, Lexapro, Rama (2), Why Be, Word of Command, Yazzus |
 | Sun, 13 Sept 2026 | SOLUNE ft Gorje Hewek | Gorje Hewek, Megalina, SAAND |
 | Sun, 13 Sept 2026 | TBA | Gorje Hewek, Megalina, SAAND |
 | Sun, 4 Oct 2026 | SOLUNE ft Lee Burridge | Jimbo James, Lee Burridge |

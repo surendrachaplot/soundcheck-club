@@ -9,7 +9,7 @@ Alycia Bezgo is a techno and trance artist based in Belgium, tracked on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Place Noord | Brussels |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |

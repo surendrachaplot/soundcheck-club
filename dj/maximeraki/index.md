@@ -9,7 +9,7 @@ Maxi Meraki is a house and afro house artist tracked on soundcheck, with 90 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

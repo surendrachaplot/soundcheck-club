@@ -1,6 +1,6 @@
 # GOAT BALL x Hyper Trance at Lokschuppen Berlin
 
-GOAT BALL x Hyper Trance at Lokschuppen Berlin on Sat 26 Sept, Berlin. 11 acts on the bill: cravings320, DJ 069, DJ Bax and EDNA and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+GOAT BALL x Hyper Trance at Lokschuppen Berlin on Sat 26 Sept, Berlin. 13 acts on the bill: cravings320, DJ 069, DJ Bax and EDNA and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,9 @@ GOAT BALL x Hyper Trance at Lokschuppen Berlin on Sat 26 Sept, Berlin. 11 acts o
 - DJ 069
 - DJ Bax
 - EDNA
+- Katy Rough
 - Krash Cora
+- MIMI404
 - ROÜGE
 - SOHOE
 - Stinny Stone

@@ -2,7 +2,7 @@
 
 Roger Lavelle is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
-Roger Lavelle is a techno and trance artist based in Switzerland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Vero_, Patrick Scuro and Endica. Next up: Void Club, Berlin on Fri 25 Sept.
+Roger Lavelle is a techno and trance artist based in Switzerland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Alex Xandra, Andriiic and DJ Jordan. Next up: Void Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Roger Lavelle is a techno and trance artist based in Switzerland, tracked on sou
 
 ## Shares bills with
 
-Vero_, Patrick Scuro, Endica
+Alex Xandra, Andriiic, DJ Jordan
 
 *Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rogerlavelle/)*

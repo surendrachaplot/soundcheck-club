@@ -1,8 +1,8 @@
 # Bernardo Vaz
 
-Bernardo Vaz is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Tue, 25 Aug 2026.
+Bernardo Vaz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Collect - Cais do Sodre, Lisbon on Tue, 25 Aug 2026.
 
-Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundcheck, with 101 sets logged across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Collect - Cais do Sodre, Lisbon on Tue 25 Aug.
+Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundcheck, with 102 sets logged across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Collect - Cais do Sodre, Lisbon on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundche
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Collect - Cais do Sodre | Lisbon |
 | Wed, 26 Aug 2026 | Rūmu | Lisbon |
+| Fri, 28 Aug 2026 | Cavo Rooftop | Lisbon |
 | Sat, 5 Sept 2026 | Collect LX Factory | Lisbon |
 | Sat, 5 Sept 2026 | Collect LX Factory | Lisbon |
 

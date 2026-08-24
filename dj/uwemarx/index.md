@@ -1,14 +1,14 @@
 # Uwe Marx
 
-Uwe Marx is a EBM and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat, 19 Sept 2026.
+Uwe Marx is a EBM and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Slaughterhouse am Kulturfabrik Moabit, Berlin on Fri, 18 Sept 2026.
 
-Uwe Marx is an ebm and minimal artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Marko König, Agent-Provocateur and Provocateur. Next up: Slaughterhouse am Kulturfabrik Moabit, Berlin on Sat 19 Sept.
+Uwe Marx is an ebm and minimal artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Marko König, Agent-Provocateur and Provocateur. Next up: Slaughterhouse am Kulturfabrik Moabit, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | Slaughterhouse am Kulturfabrik Moabit | Berlin |
+| Fri, 18 Sept 2026 | Slaughterhouse am Kulturfabrik Moabit | Berlin |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Monolink is a techno and house artist tracked on soundcheck, with 81 sets logged
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 4 Sept 2026 | Hans-Jochen-Vogel-Platz | Munich |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
 
 ## Recently played

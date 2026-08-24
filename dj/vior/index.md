@@ -1,8 +1,8 @@
 # Vior
 
-Vior is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Bodega Social Club, Nottingham on Sun, 30 Aug 2026.
+Vior is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Bodega Social Club, Nottingham on Sun, 30 Aug 2026.
 
-Vior is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Nottingham. Often billed alongside Desmond and Golden Lights. Next up: The Bodega Social Club, Nottingham on Sun 30 Aug.
+Vior is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Nottingham. Often billed alongside Desmond and Golden Lights. Next up: The Bodega Social Club, Nottingham on Sun 30 Aug.
 
 ## Upcoming shows
 

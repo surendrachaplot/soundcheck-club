@@ -1,13 +1,14 @@
 # Retter (DE)
 
-Retter (DE) is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
+Retter (DE) is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Giri, Berlin on Sat, 29 Aug 2026.
 
-Retter (DE) is a club and bass artist tracked on soundcheck, with 22 sets logged across Berlin and Madrid. Often billed alongside Nikita T, Viiaan and Charlie Caves. Next up: OHM, Berlin on Thu 3 Sept.
+Retter (DE) is a club and bass artist tracked on soundcheck, with 23 sets logged across Berlin and Madrid. Often billed alongside Nikita T, Viiaan and Charlie Caves. Next up: Giri, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Giri | Berlin |
 | Thu, 3 Sept 2026 | OHM | Berlin |
 
 ## Recently played

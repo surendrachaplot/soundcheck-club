@@ -9,7 +9,7 @@ Helena Lauwaert is a techno and trance artist tracked on soundcheck, with 131 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Hangaren | Copenhagen |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | De Flesjesfabriek | Ghent |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |

@@ -10,7 +10,7 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 150 sets lo
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Forte Antenne | Rome |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |

@@ -9,7 +9,7 @@ AJNA is an afro house and house artist tracked on soundcheck, with 36 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Sooki Lounge | Melbourne |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Lula Club | Madrid |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |

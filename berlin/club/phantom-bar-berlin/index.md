@@ -11,7 +11,7 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming n
 | Sat, 29 Aug 2026 | Suena Berlin x Phantom Bar | DJ LOUI FROM JUPITER4, Maque, XD Erica, auto_timer |
 | Sat, 12 Sept 2026 | Low Ends |  |
 | Sat, 19 Sept 2026 | 2CWARREA |  |
-| Sat, 26 Sept 2026 | Keyi Magazine showcase with Louisahhh live, Gem Willow , Fabrizio Mammarela b2b Facets | Berlin Bunny, Eyesdice, Fabrizio Mammarella, Facets, Gem Wallow, Henry Brooks, Louisahhh |
+| Sat, 26 Sept 2026 | Keyi Magazine showcase with Louisahhh live, Gem Wallow , Fabrizio Mammarela b2b Facets  | Berlin Bunny, Eyesdice, Fabrizio Mammarella, Facets, Gem Wallow, Henry Brooks, Louisahhh |
 
 ## Address
 

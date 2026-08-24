@@ -12,7 +12,7 @@ BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, wit
 | Fri, 11 Sept 2026 | Wigwam | Dublin |
 | Fri, 2 Oct 2026 | TivoliVredenburg | Utrecht |
 | Fri, 9 Oct 2026 | MÄX | Zurich |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 
 ## Recently played

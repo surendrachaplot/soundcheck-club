@@ -1,14 +1,14 @@
 # Kriika
 
-Kriika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+Kriika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Kriika is a house and techno artist tracked on soundcheck, with 2 sets logged across Antwerp and Brussels. Often billed alongside &ME, 999999999 and AJNA. Next up: TBA, Brussels on Fri 11 Sept.
+Kriika is a house and techno artist tracked on soundcheck, with 2 sets logged across Antwerp and Brussels. Often billed alongside &ME, 999999999 and AJNA. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

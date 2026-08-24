@@ -11,7 +11,7 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets log
 | Fri, 28 Aug 2026 | Kilomètre25 | Paris |
 | Sun, 30 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Palais | London |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Laska V21 | Riga |
 | Fri, 18 Sept 2026 | Jaeger | Oslo |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |

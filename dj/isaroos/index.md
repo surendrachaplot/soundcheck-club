@@ -9,7 +9,7 @@ Isa Roos is an afro house and house artist based in Netherlands, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Whitehouse | The Hague |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 25 Sept 2026 | Madam | Amsterdam |
 
 ## Recently played

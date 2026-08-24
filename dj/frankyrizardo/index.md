@@ -12,7 +12,7 @@ Franky Rizardo is a house and tech house artist tracked on soundcheck, with 238 
 | Sat, 29 Aug 2026 | Pacha New York | New York City |
 | Sat, 5 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | Colorado Charlie | The Hague |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | KOKO | London |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | Royale | Boston |

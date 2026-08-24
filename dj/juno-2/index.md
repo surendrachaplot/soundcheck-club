@@ -10,7 +10,7 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 33 sets logge
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Paragon | New York City |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 
 ## Recently played

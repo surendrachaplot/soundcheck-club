@@ -16,7 +16,7 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Sat, 5 Sept 2026 | Klubnacht | Deetron, Gabrielle Kwarteng, Gwenan, Hurdslenk, Josh Caffé, Majdolen, Mareena, Massimiliano Pagliara, Moopie, Reka Zalan, Sanna Mun, Sedef Adasï, Steffi, Stojche, VIL (PT), Zenker Brothers |
 | Fri, 11 Sept 2026 | Laundrette | CC:DISCO!, David Elimelech, Partok, Paul Wolsch, Roi Perez, Sally C, Samira |
 | Sat, 12 Sept 2026 | Klubnacht | Drumcell, Erik Luebs, GIO THELLO, Jennifer Loveless, Jump Source, Kangding Ray, Kikelomo, LOLSNAKE, Mari Sakurai, Perfo, Subb-an, Tama Sumo, Virginia, Wata Igarashi |
-| Thu, 17 Sept 2026 | MäZEN | Acronym, Nadia Struiwigh, Pre Silent, THIRTEEN DOZE |
+| Thu, 17 Sept 2026 | MÄZEN | Acronym, Nadia Struiwigh, Pre Silent, THIRTEEN DOZE |
 | Fri, 18 Sept 2026 | Italorama Bar | Curses, DASH (SLO), Franz Scala, Giulia Gutterer, Intergalactic Gary, Lennart, Lennart (NL), N.O.I.A. |
 
 ## Address

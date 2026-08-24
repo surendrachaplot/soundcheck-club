@@ -12,7 +12,7 @@
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Forte Antenne | Rome |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |

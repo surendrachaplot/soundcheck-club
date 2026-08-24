@@ -1,14 +1,14 @@
 # Gilles
 
-Gilles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Brussels on Fri, 11 Sept 2026.
+Gilles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Gilles is a techno and house artist tracked on soundcheck, with 9 sets logged across Brussels and Munich. Often billed alongside Kappen, Marco Bis and Reqh. Next up: TBA, Brussels on Fri 11 Sept.
+Gilles is a techno and house artist tracked on soundcheck, with 9 sets logged across Brussels and Munich. Often billed alongside Kappen, Marco Bis and Reqh. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA | Brussels |
+| Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
 

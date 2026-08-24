@@ -1,14 +1,15 @@
 # Mowgli (NL)
 
-Mowgli (NL) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at PIP Den Haag, The Hague on Sat, 29 Aug 2026.
+Mowgli (NL) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at PIP Den Haag, The Hague on Sat, 29 Aug 2026.
 
-Mowgli (NL) is a house and disco artist tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Berlin and Madrid and 5 more. Often billed alongside Eileen (NL), Katie (NL) and Yopo (NL). Next up: PIP Den Haag, Thehague on Sat 29 Aug.
+Mowgli (NL) is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Madrid and 5 more. Often billed alongside Eileen (NL), Katie (NL) and Yopo (NL). Next up: PIP Den Haag, Thehague on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | PIP Den Haag | The Hague |
+| Fri, 2 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # A7A x FIST at TBA - Private Location
 
-A7A x FIST at TBA - Private Location on Sat 5 Sept, Berlin. 8 acts on the bill: Bungalovv, DJ Clone, Lawrence Lee and LIL RISK and 4 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+A7A x FIST at TBA - Private Location on Sat 5 Sept, Berlin. 9 acts on the bill: Bungalovv, DJ Clone, Lawrence Lee and Lexapro and 5 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ A7A x FIST at TBA - Private Location on Sat 5 Sept, Berlin. 8 acts on the bill: 
 - Bungalovv
 - DJ Clone
 - Lawrence Lee
+- Lexapro
 - LIL RISK
 - Rama (2)
 - Why Be

@@ -18,7 +18,7 @@ Demorave 26 at Helgoländer Allee on Sat 29 Aug, Hamburg. 43 acts on the bill: A
 - brvder jakob
 - Chayalatte
 - co:co
-- Costa (FR)
+- Costa
 - DJ Blockflöte 2000
 - DJ Pinky Promise
 - Eva Nyx

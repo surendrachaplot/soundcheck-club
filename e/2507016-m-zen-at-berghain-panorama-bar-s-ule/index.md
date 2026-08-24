@@ -1,6 +1,6 @@
-# MäZEN at Berghain | Panorama Bar | Säule
+# MÄZEN at Berghain | Panorama Bar | Säule
 
-MäZEN at Berghain | Panorama Bar | Säule on Thu 17 Sept, Berlin. 4 acts on the bill: Acronym, Nadia Struiwigh, Pre Silent and THIRTEEN DOZE. Preview the line-up and save it on soundcheck.
+MÄZEN at Berghain | Panorama Bar | Säule on Thu 17 Sept, Berlin. 4 acts on the bill: Acronym, Nadia Struiwigh, Pre Silent and THIRTEEN DOZE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

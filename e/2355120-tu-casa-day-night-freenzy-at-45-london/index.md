@@ -1,6 +1,6 @@
 # TU CASA -  DAY & NIGHT - FREENZY at 45 London
 
-TU CASA -  DAY & NIGHT - FREENZY at 45 London on Sun 30 Aug, London. 3 acts on the bill: Andres Forero, CANO (3) and Tato (2). Tech House. Preview the line-up and save it on soundcheck.
+TU CASA -  DAY & NIGHT - FREENZY at 45 London on Sun 30 Aug, London. 6 acts on the bill: Andres Forero, CANO (3), Matnez (2) and Pedro Villa and 2 more. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,9 @@ TU CASA -  DAY & NIGHT - FREENZY at 45 London on Sun 30 Aug, London. 3 acts on t
 
 - Andres Forero
 - CANO (3)
+- Matnez (2)
+- Pedro Villa
 - Tato (2)
+- Zarek (COL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2355120-tu-casa-day-night-freenzy-at-45-london/)*

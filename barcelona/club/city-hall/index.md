@@ -2,7 +2,7 @@
 
 City Hall is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "City Hall pres. MONDAY PERREO || DOWNLOAD YOUR FREE PASS" on Mon, 24 Aug 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Basement Scene, Cristian Varela, CUTIE and Gabriella Ponce and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Basement Scene, Benja Millan, BRU ON and Cristian Varela and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 

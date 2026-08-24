@@ -12,7 +12,7 @@ two girls one mom is a trance and techno artist tracked on soundcheck, with 87 s
 | Sat, 29 Aug 2026 | M7 Club | Barcelona |
 | Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 24 Sept 2026 | Mia Mao | Paris |
-| Fri, 9 Oct 2026 | CLUB OST & RENATE BERLIN | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Fri, 20 Nov 2026 | OST | Berlin |
