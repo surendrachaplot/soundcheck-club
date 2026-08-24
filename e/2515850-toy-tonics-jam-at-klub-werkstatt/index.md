@@ -1,6 +1,6 @@
 # TOY TONICS JAM at Klub Werkstatt
 
-TOY TONICS JAM at Klub Werkstatt on Fri 11 Sept, Copenhagen. 7 acts on the bill: Cheeks, DJ Spice, Jonas Tuk and Kapote and 3 more. House and Electronica. Preview the line-up and save it on soundcheck.
+TOY TONICS JAM at Klub Werkstatt on Fri 11 Sept, Copenhagen. 8 acts on the bill: Cheeks, david bay, DJ Spice and Jonas Tuk and 4 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TOY TONICS JAM at Klub Werkstatt on Fri 11 Sept, Copenhagen. 7 acts on the bill:
 ## Line-up
 
 - Cheeks
+- david bay
 - DJ Spice
 - Jonas Tuk
 - Kapote

@@ -13,7 +13,7 @@ Night Tales is a music venue in London listed on soundcheck. 30 upcoming nights,
 | Sat, 29 Aug 2026 | Paraiso Disco: House, Disco, Classics |  |
 | Sun, 30 Aug 2026 | Night Tales: Ranger Trucco + more TBA [Debut London Headline] | Ranger Trucco |
 | Fri, 4 Sept 2026 | DISCO TEHRAN IN LONDON | Ani Phoebe, Liminal People, MIRZA |
-| Sat, 5 Sept 2026 | Origins: Alexia Glensy, Cap, Doudou MD [Slapfunk & VBX] | Alexia Glensy, Cap, Doudou MD |
+| Sat, 5 Sept 2026 | Solar Free Party: Tech House, Minimal, Edits w Doudou MD [Slapfunk] | Alexia Glensy, Cap, Doudou MD |
 | Fri, 11 Sept 2026 | Cécille Records: Easttown, Nick Curley, Rooléh | Easttown, Nick Curly, Rooléh |
 | Sat, 12 Sept 2026 | Paraiso Disco with Never Dull [House, Disco, Classics] | Never Dull |
 | Fri, 18 Sept 2026 | Night Tales: Tristan da Cunha & Truly Madly [All Night Long] | Tristan da Cunha, Truly Madly |

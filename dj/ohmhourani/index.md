@@ -1,8 +1,8 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lion's Den, Miami on Fri, 28 Aug 2026.
+Ohm Hourani is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lion's Den, Miami on Fri, 28 Aug 2026.
 
-Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck, with 103 sets logged across Belgrade, Berlin, Boston and Detroit and 13 more. Often billed alongside Tomas Station, Vincent Lemieux and O.BEE. Next up: Lion's Den, Miami on Fri 28 Aug.
+Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck, with 104 sets logged across Belgrade, Berlin, Boston and Detroit and 13 more. Often billed alongside Tomas Station, Vincent Lemieux and O.BEE. Next up: Lion's Den, Miami on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ohm Hourani is a house and minimal artist based in Canada, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Lion's Den | Miami |
 | Sun, 30 Aug 2026 | ESC | Montreal |
+| Fri, 4 Sept 2026 | Supermarket | Zurich |
 
 ## Recently played
 

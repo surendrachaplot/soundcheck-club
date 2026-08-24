@@ -15,7 +15,7 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights
 | Fri, 4 Sept 2026 | Âme (Live), Nandu, Radeckt | Nandu, Radeckt, Âme |
 | Sat, 5 Sept 2026 | Endurance | Bella Sarris, DJ Nah Care, Ezy, Lucy Headburn, Matriark, Nesa Azadikhah, Peachlyfe, Scano |
 | Fri, 11 Sept 2026 | Mija, Gusted, DRABER666 | DRABER666, Gusted, Mija |
-| Sat, 12 Sept 2026 | parashoot, Dirty Plates, samgood, Starostkaaa | Dirty Plates, parashoot, samgood |
+| Sat, 12 Sept 2026 | parashoot, Dirty Plates, samgood, Starostka | Dirty Plates, parashoot, samgood |
 | Sun, 13 Sept 2026 | Sunday Psy: maurinstarr, Milo Makua, RunaRift, Afgang | Afgang, Milo Makua, maurinstarr |
 | Fri, 18 Sept 2026 | SHDW, Elliott Taguchi, Ida Aya | Elliott Taguchi, Ida Aya, SHDW |
 

@@ -11,7 +11,7 @@ Monarch is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with
 | Thu, 27 Aug 2026 | Leaked Session 02 - Underground Rap |  |
 | Fri, 28 Aug 2026 | GAGGLE - Summer Edition | Alegrando, HOVR, Kerry Gold |
 | Fri, 4 Sept 2026 | Children Of The Sun X Hypnotic Mindscapes | Adelina, Chicaiza, Cosmic JD, Tro |
-| Sat, 5 Sept 2026 | Klangangriff x Monarch | A_Phan, Natasha Moreno, Numero 6, Yakkushi |
+| Sat, 5 Sept 2026 | Klangangriff x Monarch | A_Phan, Natasha Moreno, Nona, Yakkushi |
 | Thu, 10 Sept 2026 | Cannelle | Cannelle |
 | Sat, 3 Oct 2026 | Side Defects | Alexia (2), MFX (1), Rudolf C, tamū, theories |
 

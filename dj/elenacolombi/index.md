@@ -1,14 +1,15 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
+Elena Colombi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
-Elena Colombi is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Sonnenraum, Berlin on Sat 29 Aug.
+Elena Colombi is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
+| Sat, 5 Sept 2026 | radial | London |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
 | Sat, 26 Sept 2026 | Zentralwäscherei | Zurich |
 | Sat, 17 Oct 2026 | FOLD | London |
