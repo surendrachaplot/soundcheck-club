@@ -1,6 +1,6 @@
 # Twinspinsz ⋆˚𖥔 Reformist & Friends at M.O.T
 
-Twinspinsz ⋆˚𖥔 Reformist & Friends at M.O.T on Thu 1 Oct, London. 1 act on the bill: Reformist. Trance and Techno. Preview the line-up and save it on soundcheck.
+Twinspinsz ⋆˚𖥔 Reformist & Friends at M.O.T on Thu 1 Oct, London. 3 acts on the bill: N1L, Reformist and TENFOLD. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Twinspinsz ⋆˚𖥔 Reformist & Friends at M.O.T on Thu 1 Oct, London. 1 act on
 
 ## Line-up
 
+- N1L
 - Reformist
+- TENFOLD
 
 *Source: [soundcheck](https://soundcheck.club/e/2501155-twinspinsz-reformist-friends-at-m-o-t/)*

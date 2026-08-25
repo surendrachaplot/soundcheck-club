@@ -1,14 +1,15 @@
 # Geminis
 
-Geminis is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
+Geminis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
 
-Geminis is a techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Bangkok, Berlin, Budapest and Istanbul and 3 more. Often billed alongside Darin Epsilon, Beck to Pony and Rafa Silva. Next up: Birgit, Berlin on Fri 28 Aug.
+Geminis is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Bangkok, Berlin, Budapest and Istanbul and 3 more. Often billed alongside Darin Epsilon, Beck to Pony and Daniel Schumann. Next up: Birgit, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Birgit | Berlin |
+| Sat, 29 Aug 2026 | Birgit | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Geminis is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Darin Epsilon, Beck to Pony, Rafa Silva
+Darin Epsilon, Beck to Pony, Daniel Schumann
 
 *Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geminis/)*

@@ -1,8 +1,8 @@
-# MERS
+# Numero 6
 
-MERS is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+Numero 6 is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
-MERS is a house and techno artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: TBA, Toronto on Sat 29 Aug.
+Numero 6 is a house and techno artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: TBA, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 

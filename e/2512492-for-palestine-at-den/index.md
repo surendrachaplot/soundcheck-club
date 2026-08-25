@@ -1,6 +1,6 @@
 # ＬＩＬＩＴＨ✦ FOR PALESTINE at ÆDEN
 
-ＬＩＬＩＴＨ✦ FOR PALESTINE at ÆDEN on Wed 26 Aug, Berlin. 4 acts on the bill: Karim Alkhayat, KEROSENE (ZA), Khyodo and pink-panther. Preview the line-up and save it on soundcheck.
+ＬＩＬＩＴＨ✦ FOR PALESTINE at ÆDEN on Wed 26 Aug, Berlin. 4 acts on the bill: Karim Alkhayat, KEROSENE (ZA), Khyodo and pink-panther. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

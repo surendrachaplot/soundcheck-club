@@ -17,7 +17,7 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 | Fri, 11 Sept 2026 | OXI SELECTED |  |
 | Sat, 12 Sept 2026 | SIN VERGÜENZA [OPEN AIR + INDOOR] | DJ Cringey, DJ SEXSTASY, Eliangel, FORTUNATA, Impulsive Behaviour, Maque, Ojos de miel, PvssyDivx, SHOKI287, STEYA, The Muffin Man, Vivienna, maríajosé |
 | Sun, 13 Sept 2026 | OXI SUNDAYS (OPEN AIR + INDOOR) | Ana Molina, Bacon Chang, Monokultur, Soela |
-| Fri, 25 Sept 2026 | OXI LIVE: MODULAR / SYNTHS - Amsterdam and Berlin | Bokaric, DEN!SE, Dr. Spree, Gabrielle (DE), James Cherry, Jasmin Giovanazzi, Martxas, Sholinger, Solvados, namejerry |
+| Fri, 25 Sept 2026 | OXI LIVE: MODULAR / SYNTHS - with Dr. Spree - Berlin and Amsterdam | Bokaric, DEN!SE, Dr. Spree, Gabrielle (DE), James Cherry, Jasmin Giovanazzi, Martxas, Sholinger, Solvados, namejerry |
 
 ## Address
 

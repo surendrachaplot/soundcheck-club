@@ -10,7 +10,7 @@ Bubba Oasis, Islington is a music venue in London listed on soundcheck. 11 upcom
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Golden Hour |  |
 | Sat, 29 Aug 2026 | House Party |  |
-| Sun, 30 Aug 2026 | Global Sounds  | Teray |
+| Sun, 30 Aug 2026 | [CANCELLED] Global Sounds | Teray |
 | Fri, 4 Sept 2026 | House Party |  |
 | Fri, 4 Sept 2026 | Golden Hour |  |
 | Sat, 5 Sept 2026 | Picante's One Last Sunset |  |

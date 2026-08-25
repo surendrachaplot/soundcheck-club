@@ -1,14 +1,15 @@
 # Lucas Benjamin
 
-Lucas Benjamin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Paradiso, Amsterdam on Thu, 27 Aug 2026.
+Lucas Benjamin is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Paradiso, Amsterdam on Thu, 27 Aug 2026.
 
-Lucas Benjamin is a house and disco artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Osaka and Tbilisi and 1 more. Often billed alongside Pelanoir, Mo Wrights and Rob Manga. Next up: Paradiso, Amsterdam on Thu 27 Aug.
+Lucas Benjamin is a house and disco artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Osaka and Tbilisi and 1 more. Often billed alongside Pelanoir, Mo Wrights and Rob Manga. Next up: Paradiso, Amsterdam on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Paradiso | Amsterdam |
+| Sun, 27 Sept 2026 | Doka | Amsterdam |
 
 ## Recently played
 

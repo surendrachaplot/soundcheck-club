@@ -1,8 +1,8 @@
 # AMBRA
 
-AMBRA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
+AMBRA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
 
-AMBRA is a techno and hardcore artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin, Madrid and Milan. Often billed alongside IKIIR, Lady Goccia and ARMANDO. Next up: Maaya, Berlin on Sat 29 Aug.
+AMBRA is a techno and house artist based in Italy, tracked on soundcheck, with 10 sets logged across Berlin, Madrid and Milan. Often billed alongside IKIIR, Lady Goccia and ARMANDO. Next up: Maaya, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 

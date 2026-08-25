@@ -1,14 +1,15 @@
 # Gwenan
 
-Gwenan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Gwenan is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
 
-Gwenan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Eli Verveine, Joe Delon and Vera. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
+Gwenan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Eli Verveine, Joe Delon and Vera. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 26 Sept 2026 | Gaffe | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Poolhaus
 
-Poolhaus is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Sultan Room, New York City on Fri, 11 Sept 2026.
+Poolhaus is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Sultan Room, New York City on Fri, 11 Sept 2026.
 
-Poolhaus is a house and electro artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Beni Hana, Miata Boys and LABNON. Next up: The Sultan Room, Newyorkcity on Fri 11 Sept.
+Poolhaus is a house and electro artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam and Newyorkcity. Often billed alongside Beni Hana, Miata Boys and LABNON. Next up: The Sultan Room, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Sultan Room | New York City |
+| Wed, 21 Oct 2026 | Bar Shaffy | Amsterdam |
 
 ## Recently played
 

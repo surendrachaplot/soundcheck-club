@@ -1,13 +1,14 @@
 # Yossi Gomez
 
-Yossi Gomez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 25 Sept 2026.
+Yossi Gomez is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Noxe Barcelona, Barcelona on Thu, 10 Sept 2026.
 
-Yossi Gomez is a house and deep house artist tracked on soundcheck, with 23 sets logged across Barcelona. Often billed alongside Vikki, Clagosa and Sarah Andersson. Next up: Born 2B Music Bar, Barcelona on Fri 25 Sept.
+Yossi Gomez is a house and deep house artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Vikki, Clagosa and Sarah Andersson. Next up: Noxe Barcelona, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Noxe Barcelona | Barcelona |
 | Fri, 25 Sept 2026 | Born 2B Music Bar | Barcelona |
 
 ## Recently played

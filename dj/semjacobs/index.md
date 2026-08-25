@@ -1,8 +1,8 @@
 # Sem Jacobs
 
-Sem Jacobs is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 28 Aug 2026.
+Sem Jacobs is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 28 Aug 2026.
 
-Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 28 Aug.
+Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sem Jacobs is a house and tech house artist based in Netherlands, tracked on sou
 | Fri, 28 Aug 2026 | Westlight Rooftop at The William Vale | New York City |
 | Fri, 28 Aug 2026 | Westlight Rooftop at The William Vale | New York City |
 | Wed, 2 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 5 Sept 2026 | Yellow House | Amsterdam |
 | Sun, 13 Sept 2026 | Cova Santa | Ibiza |
 
 ## Recently played

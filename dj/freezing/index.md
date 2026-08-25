@@ -1,8 +1,8 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Free Zing is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Free Zing is a techno and electro artist tracked on soundcheck, with 57 sets logged across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: The Cause, London on Sat 12 Sept.
+Free Zing is a techno and electro artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Free Zing is a techno and electro artist tracked on soundcheck, with 57 sets log
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 25 Sept 2026 | Cadavra | Madrid |
+| Sat, 26 Sept 2026 | Gaffe | London |
 
 ## Recently played
 

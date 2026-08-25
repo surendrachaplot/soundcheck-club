@@ -1,13 +1,14 @@
 # DJ Glitterelli
 
-DJ Glitterelli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
+DJ Glitterelli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
 
-DJ Glitterelli is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Grenouillette, Lealaetitia and PyjamaMama. Next up: Œlgarten, Berlin on Sat 5 Sept.
+DJ Glitterelli is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Grenouillette, Lealaetitia and PyjamaMama. Next up: Bulbul Berlin, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Bulbul Berlin | Berlin |
 | Sat, 5 Sept 2026 | Œlgarten | Berlin |
 
 ## Recently played

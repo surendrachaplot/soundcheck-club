@@ -1,6 +1,6 @@
 # Night District at Crack Bellmer
 
-Night District at Crack Bellmer on Thu 27 Aug, Berlin. 6 acts on the bill: Dub Isotope, Forward Sisters, Genoe and janosch and 2 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Night District at Crack Bellmer on Thu 27 Aug, Berlin. 7 acts on the bill: Amy Kisnorbo, Dub Isotope, Forward Sisters and Genoe and 3 more. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Night District at Crack Bellmer on Thu 27 Aug, Berlin. 6 acts on the bill: Dub I
 
 ## Line-up
 
+- Amy Kisnorbo
 - Dub Isotope
 - Forward Sisters
 - Genoe

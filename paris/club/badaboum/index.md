@@ -1,8 +1,8 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Club — LA CH!CK: 2006 • 2016 • 2026 - Holy Trinity" on Thu, 27 Aug 2026.
+Badaboum is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Club — LA CH!CK: 2006 • 2016 • 2026 - Holy Trinity" on Thu, 27 Aug 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including anyoneID, BADSISTA, Blasha & Allatt and Breaka and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 

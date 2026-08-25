@@ -1,6 +1,6 @@
 # MALAA'S ALTER EGO at E1
 
-MALAA'S ALTER EGO at E1 on Sat 26 Sept, London. Techno. Preview the line-up and save it on soundcheck.
+MALAA'S ALTER EGO at E1 on Sat 26 Sept, London. EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

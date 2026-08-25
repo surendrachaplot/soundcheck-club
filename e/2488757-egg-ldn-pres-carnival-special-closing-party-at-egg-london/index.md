@@ -1,6 +1,6 @@
 # Egg LDN Pres: Carnival Special Closing Party at Egg London
 
-Egg LDN Pres: Carnival Special Closing Party at Egg London on Sun 30 Aug, London. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Egg LDN Pres: Carnival Special Closing Party at Egg London on Sun 30 Aug, London. House and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

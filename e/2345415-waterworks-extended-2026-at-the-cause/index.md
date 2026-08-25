@@ -1,6 +1,6 @@
 # Waterworks Extended 2026 at The Cause
 
-Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 86 acts on the bill: Aba Shanti-I, Alex Kassian, Anz and babyschön and 82 more. Preview the line-up and save it on soundcheck.
+Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 87 acts on the bill: Aba Shanti-I, Alex Kassian, Anz and babyschön and 83 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -96,5 +96,6 @@ Waterworks Extended 2026 at The Cause on Sat 12 Sept, London. 86 acts on the bil
 - Tia Cousins
 - Tim Reaper
 - Ysanne
+- Zaltsman
 
 *Source: [soundcheck](https://soundcheck.club/e/2345415-waterworks-extended-2026-at-the-cause/)*

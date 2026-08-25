@@ -1,8 +1,8 @@
 # basic chanel
 
-basic chanel is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+basic chanel is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-basic chanel is a techno and dub techno artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and London and 1 more. Often billed alongside Allecto, Cam Joon and Ehua. Next up: Southwark Park, London on Sat 29 Aug.
+basic chanel is a techno and dub techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and London and 1 more. Often billed alongside Allecto, Cam Joon and Ehua. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ basic chanel is a techno and dub techno artist tracked on soundcheck, with 38 se
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Sat, 29 Aug 2026 | TBA - Southwark Park | London |
+| Sat, 5 Sept 2026 | Sauna Social Club | London |
 | Fri, 11 Sept 2026 | Ormside Projects | London |
 
 ## Recently played

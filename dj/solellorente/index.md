@@ -1,14 +1,15 @@
 # SOLE LLORENTE
 
-SOLE LLORENTE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at E1, London on Fri, 23 Oct 2026.
+SOLE LLORENTE is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at E1, London on Fri, 23 Oct 2026.
 
-SOLE LLORENTE is a techno and tech house artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, London and Miami. Often billed alongside Lino Fuso, Spartaque and Flug. Next up: E1, London on Fri 23 Oct.
+SOLE LLORENTE is a techno and tech house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and London and 1 more. Often billed alongside Lino Fuso, Spartaque and Flug. Next up: E1, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | E1 | London |
+| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 

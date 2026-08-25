@@ -1,8 +1,8 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP" on Thu, 27 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP" on Thu, 27 Aug 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Almost Famous, Better Call Paul, boyyyish and Buzz Boutique and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Almost Famous, Better Call Paul, boyyyish and Buzz Boutique and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
@@ -11,6 +11,8 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming nights
 | Thu, 27 Aug 2026 | FRESH FACES (FREE ENTRY): Chez Bailey, Unna Foulanah, Buzz Boutique, ROBERT KAMP | Buzz Boutique, ROBERT KAMP, Unna Foulanah |
 | Fri, 28 Aug 2026 | Durchreise: Etiennette, mp.ulle, Jasper Kråch, Siegfried Plemo | Etiennette, Jasper Kråch, Siegfried Plemo, mp.ulle |
 | Sat, 29 Aug 2026 | BULBUL ALL NIGHT: Nikklaas, BEKA, DJ Sanni, Casa Marrone | DJ Sanni, Nikklaas |
+| Thu, 3 Sept 2026 | SÜMA - COMMON GROUND 001: Fenster, Jambel, Stark | Fenster, Jambel, Stark |
+| Fri, 4 Sept 2026 | Discoforbreakfast: Mitsuko, MRTI, DJ Glitterelli, Grenouillette | DJ Glitterelli, Grenouillette, MRTI, Mitsuko |
 | Sat, 26 Sept 2026 | 7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise & More | Almost Famous, Better Call Paul, Marc Brauner, Nikklaas |
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - Fresh Faces |  |
 | Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - House of Others | Triqi, boyyyish, materia hache |

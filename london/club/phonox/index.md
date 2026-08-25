@@ -15,7 +15,7 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with
 | Fri, 4 Sept 2026 | 30 Years of Playaz: DJ Hype, DJ Hazard, Heist, Taxman + more | DJ Hazard, DJ Hype, Funsta, Heist, Serious, Taxman, Tyke |
 | Sat, 5 Sept 2026 | Phonox: Fumiya Tanaka (4 Hour Set) | Fumiya Tanaka, Teetee |
 | Sat, 5 Sept 2026 | Phonox: Wilfy D, malix, Goldie Quaker, Scotti Dee B2B Decimal | Wilfy D, malix |
-| Thu, 10 Sept 2026 | INSOMNIA LONDON LAUNCH @ Phonox | DJ Love UK, DJelley, TINO (2) |
+| Thu, 10 Sept 2026 | INSOMNIA LONDON LAUNCH @ Phonox | DJ Love UK, DJelley, LUX (uk), TINO (2) |
 | Fri, 11 Sept 2026 | MssingNo, Zomby, amil raja + more | MssingNo, Zomby, amil raja, leahgte |
 | Sat, 12 Sept 2026 | MRD, EARGASM GOD, Lobsta B | EARGASM GOD, Lobsta B, MRD (NO) |
 

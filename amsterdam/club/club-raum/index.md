@@ -1,8 +1,8 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "KI/KI's Dirty Thirty" on Sat, 29 Aug 2026.
+CLUB RAUM is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "KI/KI's Dirty Thirty" on Sat, 29 Aug 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Aldonna, Alienata, Alex Kassian and Audrey Danza and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Afra, Aldonna, Alienata and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
@@ -15,7 +15,9 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights,
 | Sat, 19 Sept 2026 | CARISTA, ROD, Prance | CARISTA, Prance, ROD |
 | Fri, 25 Sept 2026 | PARAMIDA (All Night Long) | PARAMIDA |
 | Sat, 26 Sept 2026 | Marco Shuttle, Sunil Sharpe, Maria Cue | Marco Shuttle, Maria Cue, Sunil Sharpe |
-| Fri, 23 Oct 2026 | ADE - SPIELRAUM: 55 HOURS | Alex Kassian, BASHKKA, Clarisa Kimskii, D.Dan, DJ Red, DVS1, Dasha Rush, DjRUM, Fafi Abdel Nour, Faustin, Hervé, JakoJako, Luke Slater, Makam, Mary Lake, Miss Kittin, Octo Octa, Pariah, Quelza, Richard Akingbehin, RÆZA, Rødhåd, STERAC, Sandrien, Sedef Adasï, TWIENA, The Hacker, The Lady Machine, Tommy Four Seven, Wata Igarashi, ketia, livwutang, mad miran, mul/ANNA, tINI |
+| Sat, 3 Oct 2026 | Mama Snake, Roza Terenzi, Rey Colino | Mama Snake, Rey Colino, Roza Terenzi |
+| Fri, 9 Oct 2026 | Leon Vynehall, Yu Su, Marie K | Leon Vynehall, Marie K (1), Yu Su |
+| Sat, 10 Oct 2026 | Surgeon, Talismann, Polly F | Polly F, Surgeon, Talismann |
 
 ## Address
 

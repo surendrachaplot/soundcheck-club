@@ -9,7 +9,7 @@ Birgit is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Birgits WEEKENDER | Albin Brezlan, DJ Guess, Daniel Schumann, Dirty Doering, Geminis, Marty Mcfly, Pascale Voltaire, Rad.Lez |
-| Sat, 29 Aug 2026 | Pascale Voltaire & Friends - Open Air & Clubnight | AELVA K, Daniel Schumann, Dirty Doering, Florian François, Pascale Voltaire, Yves Meyer |
+| Sat, 29 Aug 2026 | Pascale Voltaire & Friends - Open Air & Clubnight w/ Dirty Doering & Pascale Voltaire | AELVA K, Daniel Schumann, Dirty Doering, Florian François, Geminis, Jonas Fritz, Pascale Voltaire, Yves Meyer |
 | Fri, 4 Sept 2026 | Birgits WEEKENDER |  |
 | Fri, 11 Sept 2026 | Birgits WEEKENDER |  |
 | Fri, 18 Sept 2026 | Birgits WEEKENDER |  |

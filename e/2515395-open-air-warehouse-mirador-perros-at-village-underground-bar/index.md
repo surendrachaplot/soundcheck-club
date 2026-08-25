@@ -1,6 +1,6 @@
 # [Open air- Warehouse] MIRADOR & PERROS at Village Underground Barcelona
 
-[Open air- Warehouse] MIRADOR & PERROS at Village Underground Barcelona on Sat 12 Sept, Barcelona. 6 acts on the bill: Alex Picone, Anah, Nurias and Perro Jimbo and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+[Open air- Warehouse] MIRADOR & PERROS at Village Underground Barcelona on Sat 12 Sept, Barcelona. 7 acts on the bill: Alex Picone, Anah, Heather (ES) and Nurias and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Alex Picone
 - Anah
+- Heather (ES)
 - Nurias
 - Perro Jimbo
 - VARAN

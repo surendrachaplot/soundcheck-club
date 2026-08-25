@@ -12,7 +12,7 @@ Silent Green is a music venue in Berlin listed on soundcheck. 19 upcoming nights
 | Mon, 31 Aug 2026 | The I in the mirror / Reflection |  |
 | Wed, 2 Sept 2026 | Film concert: Midori Hirano x The Juniper Tree | Midori Hirano |
 | Thu, 3 Sept 2026 | hub pres. Doorman + Franco Franco | Franco Franco |
-| Fri, 11 Sept 2026 | 15 YEARS zweikommasieben: Anna Homler + Steven Warwick + zweikommasieben DJs | Heatsick |
+| Fri, 11 Sept 2026 | 15 YEARS zweikommasieben: Anna Homler + Steven Warwick & Jon Davies + zweikommasieben DJs | Heatsick |
 | Tue, 15 Sept 2026 | Curbside Lambsear |  |
 | Sat, 19 Sept 2026 | Burnt Friedman pres. Secret Rhythms | Burnt Friedman |
 | Tue, 22 Sept 2026 | Carla dal Forno + Nein Rodere | Carla dal Forno |

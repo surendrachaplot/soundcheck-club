@@ -1,8 +1,8 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 27 Aug 2026.
+BASHKKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 27 Aug 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 298 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 27 Aug.
+BASHKKA is a techno and house artist tracked on soundcheck, with 299 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 298 sets logged
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 17 Oct 2026 | Palais | London |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |

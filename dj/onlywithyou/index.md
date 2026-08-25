@@ -2,7 +2,7 @@
 
 OnlyWithYou is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
-OnlyWithYou is a techno and trance artist based in Australia, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, London and Madrid and 5 more. Often billed alongside Garfie, MIMI404 and AKEYLAH. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
+OnlyWithYou is a techno and trance artist based in Australia, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, London and Madrid and 5 more. Often billed alongside MIMI404, Garfie and AKEYLAH. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ OnlyWithYou is a techno and trance artist based in Australia, tracked on soundch
 
 ## Shares bills with
 
-Garfie, MIMI404, AKEYLAH
+MIMI404, Garfie, AKEYLAH
 
 *Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*

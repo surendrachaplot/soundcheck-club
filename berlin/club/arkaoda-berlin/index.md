@@ -10,7 +10,7 @@ arkaoda Berlin is a music venue in Berlin listed on soundcheck. 5 upcoming night
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Wormhole 005 and Last Thursday ever at Arkaoda | Emanuele Barilli, Josefina Tapia (2), Sean Gonzalez, Velasco |
 | Fri, 28 Aug 2026 | arkaoda Final Chapter pt.4 | Adis Is OK, Ani Phoebe, Franz Scala, Luca Carluccio, Vio PRG |
-| Sat, 29 Aug 2026 | arkaoda Final Chapter pt.5 | Mehmet Aslan |
+| Sat, 29 Aug 2026 | arkaoda Final Chapter pt.5 | Habitat Shaking, Mehmet Aslan, Passionfruit |
 | Sun, 30 Aug 2026 | arkaoda Final Chapter pt.6 | Alessandro Adriani, Carl Suspect, Felix Kubin, Jacob Stoy, Laura Not, ML (1), Ozan Maral, Phuong Dan, Tot Onyx |
 | Fri, 23 Oct 2026 | lovetempo (Mattie Safer of The Rapture), Moriah Plaza | Moriah Plaza, lovetempo |
 

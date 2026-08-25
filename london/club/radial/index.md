@@ -10,7 +10,7 @@ radial is a music venue in London listed on soundcheck. 15 upcoming nights, with
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Minor Science ✼ Nose Dive | Genzun, Minor Science, Nose Dive |
 | Sun, 30 Aug 2026 | POUFFE #1 | Daskaran, Ivy F, LO-LOW, teleopath |
-| Sat, 5 Sept 2026 | radial presents: official launch – Saturday | Baba T, Elena Colombi, LO-LOW, Serenda |
+| Sat, 5 Sept 2026 | radial presents: official launch – saturday | Baba T, Elena Colombi, LO-LOW, Serenda, Shivum Sharma |
 | Sun, 6 Sept 2026 | radial presents: official launch – sunday | CICELY, Dean Bryce, Karlie Marx, Klose One, L-Vis 1990, MJK, mixtress, sooyeon |
 | Fri, 11 Sept 2026 | grounded w. Delay Grounds *LIVE* x residents - Markfield Road Festival | Alex Sourbis, Delay Grounds, Djuar, Paul McManamon, carmen (7) |
 | Sat, 12 Sept 2026 | I Portal | Cathal, Dual Monitor, ELEANOR, Koboro, Small Crab (2), Syz, Yas Reven |

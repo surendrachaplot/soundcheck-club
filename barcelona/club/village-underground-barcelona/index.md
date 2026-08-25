@@ -11,7 +11,7 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 | Sat, 29 Aug 2026 | MUSA 4º ANIVERSARIO - OPEN AIR 12H | Doppelganger, Drazzit, Nina Pixina, SANTANA, Schacke, Tangela, Verushka |
 | Fri, 4 Sept 2026 | Azadi Soundsystem pres. Kahn & Neek | A.Fruit, DJ Der, Kahn, Miramizu, Neek |
 | Sat, 5 Sept 2026 | The Ghost + Heels&Souls + PolK (Groove Grill) | Cortazar, Heels & Souls, Orson Sinaka, Pol K, The Ghost |
-| Sat, 12 Sept 2026 | [Open air- Warehouse] MIRADOR & PERROS | Alex Picone, Anah, Nurias, Perro Jimbo, VARAN, VIKk |
+| Sat, 12 Sept 2026 | [Open air- Warehouse] MIRADOR & PERROS | Alex Picone, Anah, Heather (ES), Nurias, Perro Jimbo, VARAN, VIKk |
 | Sat, 19 Sept 2026 | ESCANDALO Day & Night (12hrs) | Albal, HEDDA, VOID/DIVO, Wigs |
 | Sat, 26 Sept 2026 | Haus of Welcome Invites: | Floyd Lavine, Richard Creams |
 | Sat, 3 Oct 2026 | The Sound Society x 22Recordings | C.ru.z, DJ Tree, Dizzy |

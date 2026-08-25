@@ -12,7 +12,7 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 15 upcoming
 | Wed, 26 Aug 2026 | Elevate Takeover | Chris Wood, Derrick Drakeford, Doreen, Meat, Valeria (DE) |
 | Thu, 27 Aug 2026 | Rings of Neptune | Cleymoore, DJ NOB, Tom Peters, rubi* |
 | Fri, 28 Aug 2026 | Love Letters From Oslo | DFUNKLUB, Federico Molinari, Lakeman, Nekes |
-| Sat, 29 Aug 2026 | CDV End Of Summer Weekender:: | Alex Kraemer, Cabanne, Cesar Merveille, Cez (1), Frania, Franky Greiner, Giuliano Lomonte, Ion Ludwig, Janina, Katsuya Sano, Lenny Mailleau, Maki Polne, Rhadoo, Topper |
+| Sat, 29 Aug 2026 | CDV End Of Summer Weekender:: | Alex Kraemer, Cabanne, Cesar Merveille, Cez (1), Frania, Franky Greiner, Gianni, Giuliano Lomonte, Ion Ludwig, Janina, Katsuya Sano, Lenny Mailleau, Maki Polne, Rhadoo, Topper |
 | Mon, 31 Aug 2026 | Mondays:: | Andres Bucci, Pablo Cornejo, Skinny Duchamp |
 | Tue, 1 Sept 2026 | EASYMIX | Clé, Daniel Steinberg, Eva Be, Kristin Velvet, Tobi Neumann |
 | Wed, 2 Sept 2026 | Meltdown | David Delgado, Lowris, Papa K |

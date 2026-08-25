@@ -2,14 +2,14 @@
 
 Crack Bellmer is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL **DANCEFLOOR EDITION**" on Wed, 26 Aug 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including babxi, BILLY, BUTZ and Caldii and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Amy Kisnorbo, babxi, BILLY and BUTZ and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL **DANCEFLOOR EDITION** |  |
-| Thu, 27 Aug 2026 | Night District | Dub Isotope, Forward Sisters, Genoe, Larhythmix, Migz, janosch |
+| Thu, 27 Aug 2026 | Night District | Amy Kisnorbo, Dub Isotope, Forward Sisters, Genoe, Larhythmix, Migz, janosch |
 | Fri, 28 Aug 2026 | Disco Drops | C.love, Nigel Nagel |
 | Sat, 29 Aug 2026 | STAY TOXIC x RAZJOB [FREE ENTRY*] |  |
 | Sun, 30 Aug 2026 | Dyke Goth Night |  |

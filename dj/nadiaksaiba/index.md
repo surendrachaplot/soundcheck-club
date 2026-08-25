@@ -2,7 +2,7 @@
 
 Nadia Ksaiba is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Two More Years, London on Sat, 29 Aug 2026.
 
-Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets logged across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Sofie K. Next up: Two More Years, London on Sat 29 Aug.
+Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets logged across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Macca.. Next up: Two More Years, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets log
 
 ## Shares bills with
 
-Dan Beaumont, Bill Brewster, Sofie K
+Dan Beaumont, Bill Brewster, Macca.
 
 *Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*

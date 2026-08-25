@@ -1,6 +1,6 @@
 # The Cause: Summer Festival at The Cause
 
-The Cause: Summer Festival on Sat 19 Sept, London. 15 acts on the bill: Aletha, D.N.S, Dan Beaumont and ESG and 11 more. Preview the line-up and save it on soundcheck.
+The Cause: Summer Festival on Sat 19 Sept, London. 16 acts on the bill: Aletha, D.N.S, Dan Beaumont and ESG and 12 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ The Cause: Summer Festival on Sat 19 Sept, London. 15 acts on the bill: Aletha, 
 - Joe Claussell
 - Lily London
 - Macca (2)
+- Macca.
 - Nadia Ksaiba
 - Reece Spooner
 - Rosy Ross

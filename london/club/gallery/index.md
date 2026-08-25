@@ -15,7 +15,7 @@ Gallery is a music venue in London listed on soundcheck. 16 upcoming nights, wit
 | Fri, 4 Sept 2026 | Organic presents: Gabe | Gabe Live |
 | Sat, 5 Sept 2026 | Gallery Season 4 Launch party with Dennis Ferrer | Dennis Ferrer |
 | Thu, 10 Sept 2026 | Paradox Nexus - Thursdays |  |
-| Wed, 16 Sept 2026 | ALL EARS X FAHLBERG LDN |  |
+| Wed, 16 Sept 2026 | FAHLBERG X Gallery CLUB LONDON |  |
 | Thu, 17 Sept 2026 | Paradox Nexus - Thursdays |  |
 | Thu, 24 Sept 2026 | Paradox Nexus - Thursdays |  |
 

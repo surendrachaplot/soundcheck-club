@@ -1,8 +1,8 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kaufleuten, Zurich on Fri, 28 Aug 2026.
+Deborah De Luca is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kaufleuten, Zurich on Fri, 28 Aug 2026.
 
-Deborah De Luca is a techno and house artist tracked on soundcheck, with 146 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Kaufleuten, Zurich on Fri 28 Aug.
+Deborah De Luca is a techno and house artist tracked on soundcheck, with 147 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Kaufleuten, Zurich on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 146 set
 | Fri, 18 Sept 2026 | fabric | London |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Epic Prague | Prague |
+| Fri, 9 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 
