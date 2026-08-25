@@ -1030,7 +1030,14 @@
        LATER, so an equal-specificity override loses the tie. Verified with
        getComputedStyle, which still read rgba(0,0,0,0) after the first attempt. */
     .ev-invite button.fp-ab, .inv-bar button.fp-ab{ background:var(--surface-2); border:1px solid var(--border); }
-    .ev-invite .ob-cta{ margin-top:0; flex:none; }
+    /* SAME SIZE AS THE PLAY BUTTON. .ob-cta is the onboarding CTA — 48px tall,
+       26px of side padding, 0.14em tracking — which is right on a full-width
+       onboarding screen and enormous next to a 42px row button. It sits under
+       Play here, so it takes Play's metrics exactly: height, padding, type and
+       tracking copied from .fp-pb, gradient kept. Scoped to .ev-invite so the
+       onboarding CTA is untouched. */
+    .ev-invite .ob-cta{ margin-top:0; flex:none; min-height:0; height:42px;
+      padding:0 16px; font:700 var(--fs-2xs)/var(--lh-2xs) var(--body); letter-spacing:.05em; }
     /* Receiver: "u/x is going" strip under the meta, and the sticky answer bar.
        The bar is fixed so the answer is reachable without scrolling the bill —
        board B puts it over the page, not in the flow. */
@@ -4101,7 +4108,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787588656397">
+<meta name="sc-build" content="1787660652686">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4159,7 +4166,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">10 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">99 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">129 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">89 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">22 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">10 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">39 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">99 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">131 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">92 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">22 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.

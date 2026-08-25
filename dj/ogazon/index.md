@@ -1,14 +1,13 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Ogazón is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
 
-Ogazón is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: DC-10, Ibiza on Mon 24 Aug.
+Ogazón is a techno and house artist tracked on soundcheck, with 268 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Hive Club, Zurich on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Fri, 28 Aug 2026 | Hive Club | Zurich |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
@@ -20,6 +19,7 @@ Ogazón is a techno and house artist tracked on soundcheck, with 268 sets logged
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |
 | Sat, 7 Nov 2026 | Q35 WAREHOUSE | Turin |
+| Fri, 13 Nov 2026 | Plano B | Porto |
 
 ## Recently played
 

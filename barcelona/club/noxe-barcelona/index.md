@@ -9,7 +9,7 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Moods at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
-| Wed, 26 Aug 2026 | Housy at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
+| Wed, 26 Aug 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
 | Thu, 27 Aug 2026 | HOPE at Noxe (26th floor W Barcelona) | Gianmarco Limenta, Nesi |
 | Mon, 31 Aug 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Mon, 7 Sept 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |

@@ -1,14 +1,13 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Ryan Elliott is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Gewölbe, Cologne on Fri, 4 Sept 2026.
 
-Ryan Elliott is a house and techno artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: DC-10, Ibiza on Mon 24 Aug.
+Ryan Elliott is a house and techno artist tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Gewölbe, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | DC-10 | Ibiza |
 | Fri, 4 Sept 2026 | Gewölbe | Cologne |
 | Sat, 5 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |

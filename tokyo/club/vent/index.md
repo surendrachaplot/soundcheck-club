@@ -10,7 +10,7 @@ VENT is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Laolu | DJ OGAWA, Laolu, Maya, SATICA, Tuyetmizuno |
 | Sat, 29 Aug 2026 | LSDXOXO | LSDXOXO |
-| Sat, 29 Aug 2026 | Matrixxman | Bundo, Crazy Neo, Matrixxman |
+| Sat, 29 Aug 2026 | Matrixxman | Bundo, Crazy Neo, Hackmarkt, Matrixxman, SUETSUGU |
 | Fri, 4 Sept 2026 | Psyk / DAYBREAK | Iori, Psyk, Ryunosuke Urabe, SOGI, eN (3) |
 | Sat, 5 Sept 2026 | Curses | Curses, HARUTO, J@SCO, Mustache X, Onsawa&tkc |
 | Fri, 11 Sept 2026 | Solar | Astma, Mazlika, Shhhhh, Solar, ZUNDOKO DISCO |

@@ -1,14 +1,13 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 14 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Hydra" on Mon, 24 Aug 2026.
+Sigma is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Indeep" on Tue, 25 Aug 2026.
 
-Sigma is a music venue in Ibiza listed on soundcheck. 14 upcoming nights, with line-ups including Francesco Menduni, Javi Niño, Luca P and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
+Sigma is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with line-ups including Francesco Menduni, Javi Niño, Luca P and Luigi Rossi and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Hydra |  |
 | Tue, 25 Aug 2026 | Indeep | Luca P, Mik Santoro |
 | Wed, 26 Aug 2026 | ROOM 11 |  |
 | Thu, 27 Aug 2026 | Lines & Dots | Luigi Rossi |
@@ -18,6 +17,7 @@ Sigma is a music venue in Ibiza listed on soundcheck. 14 upcoming nights, with l
 | Tue, 8 Sept 2026 | Indeep |  |
 | Tue, 8 Sept 2026 | 8 Years CONCEPT101 (Boat Party San Antonio + Afterparty @Sigma) | Francesco Menduni, Luigi Rossi |
 | Sat, 12 Sept 2026 | IBIZA VINYL SESSIONS, Chapter 23 | Javi Niño, Nikolucky |
+| Tue, 15 Sept 2026 | Indeep |  |
 
 ## Address
 

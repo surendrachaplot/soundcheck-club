@@ -1,14 +1,13 @@
 # Aki Dolanikov
 
-Aki Dolanikov is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Oath, Tokyo on Mon, 24 Aug 2026.
+Aki Dolanikov is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Forestlimit, Tokyo on Fri, 25 Sept 2026.
 
-Aki Dolanikov is a house and techno artist tracked on soundcheck, with 70 sets logged across Tokyo. Often billed alongside arow, okadada and K8 (TYO GQOM). Next up: Oath, Tokyo on Mon 24 Aug.
+Aki Dolanikov is a house and techno artist tracked on soundcheck, with 70 sets logged across Tokyo. Often billed alongside arow, okadada and K8 (TYO GQOM). Next up: Forestlimit, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Oath | Tokyo |
 | Fri, 25 Sept 2026 | Forestlimit | Tokyo |
 
 ## Recently played

@@ -1,15 +1,13 @@
 # Alle Farben
 
-Alle Farben is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Eden, Ibiza on Mon, 24 Aug 2026.
+Alle Farben is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-Alle Farben is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Basel and Berlin and 8 more. Often billed alongside Noel Holler, LOVRA and DJ Jordan. Next up: Eden, Ibiza on Mon 24 Aug.
+Alle Farben is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Bangkok, Basel and Berlin and 8 more. Often billed alongside Noel Holler, LOVRA and DJ Jordan. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Eden | Ibiza |
-| Mon, 24 Aug 2026 | Eden | Ibiza |
 | Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 47 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sonny Fodera" on Mon, 24 Aug 2026.
+Pacha Ibiza is a music venue in Ibiza with 46 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Gordo - TARAKA" on Tue, 25 Aug 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 46 upcoming nights, with line-ups including 2ManyDJs, FLETCH, Mahony and Adriatique and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Sonny Fodera | Danny Howard, Eats Everything, Sonny Fodera |
 | Tue, 25 Aug 2026 | Gordo - TARAKA | Gordo |
 | Wed, 26 Aug 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 | Thu, 27 Aug 2026 | Purple Disco Machine - PURE PACHA | Kungs, Purple Disco Machine, david bay |
@@ -18,6 +17,7 @@ Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 47 upcoming nights, 
 | Sun, 30 Aug 2026 | Solomun+1 | Barry Can't Swim, Solomun |
 | Mon, 31 Aug 2026 | Sonny Fodera | Danny Howard, Flight Facilities, Sonny Fodera |
 | Tue, 1 Sept 2026 | Gordo - TARAKA | Gordo |
+| Wed, 2 Sept 2026 | Mau P - BADDEST BEHAVIOUR | Mau P |
 
 ## Address
 

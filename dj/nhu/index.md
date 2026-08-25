@@ -1,14 +1,13 @@
 # Nhū
 
-Nhū is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tresor / Globus, Berlin on Mon, 24 Aug 2026.
+Nhū is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hafenkran, Basel on Sat, 29 Aug 2026.
 
-Nhū is a techno and trance artist based in Switzerland, tracked on soundcheck, with 31 sets logged across Amsterdam, Basel, Berlin and Geneva and 8 more. Often billed alongside Galopp, FALCO (2) and BRAINDAAMAGE. Next up: Tresor / Globus, Berlin on Mon 24 Aug.
+Nhū is a techno and trance artist based in Switzerland, tracked on soundcheck, with 31 sets logged across Amsterdam, Basel, Berlin and Geneva and 8 more. Often billed alongside Galopp, FALCO (2) and BRAINDAAMAGE. Next up: Hafenkran, Basel on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 29 Aug 2026 | Hafenkran | Basel |
 | Sat, 5 Sept 2026 | Lake Zurich | Zurich |
 | Fri, 16 Oct 2026 | E1 | London |
