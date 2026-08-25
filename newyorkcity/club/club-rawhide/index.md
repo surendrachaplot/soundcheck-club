@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "CODED Thursdays with Will Jack & Rob Aquino" on Thu, 27 Aug 2026.
+Club Rawhide is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "CODED Thursdays with Will Jack & Rob Aquino" on Thu, 27 Aug 2026.
 
 Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including camgirll8, Dj Warning, Gag Ørder and Princess Peggie and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
@@ -16,4 +16,4 @@ Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 3 upcoming ni
 
 250 W 26TH ST, New York City
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

@@ -1,6 +1,6 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Agents Of Time is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Agents Of Time is a techno and house artist tracked on soundcheck, with 122 sets
 
 Stephan Bodzin, Henri Bergmann, Artbat
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agentsoftime/)*

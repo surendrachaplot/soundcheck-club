@@ -1,6 +1,6 @@
 # Mario Picosso
 
-Mario Picosso is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Stockholm on Sat, 29 Aug 2026.
+Mario Picosso is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Stockholm on Sat, 29 Aug 2026.
 
 Mario Picosso is a techno and house artist based in Spain, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Madrid and 2 more. Often billed alongside Maria Cue, Anika Kunst and Cintia Martís. Next up: TBA, Stockholm on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mario Picosso is a techno and house artist based in Spain, tracked on soundcheck
 
 Maria Cue, Anika Kunst, Cintia Martís
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopicosso/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopicosso/)*

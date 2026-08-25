@@ -1,10 +1,10 @@
 # Patsy's Punk Bitch Happy Hour with: vxxv at Bossa Nova Civic Club
 
-Patsy's Punk Bitch Happy Hour with: vxxv at Bossa Nova Civic Club on Thu 27 Aug, Newyorkcity. 1 act on the bill: Patsy. Preview the line-up and save it on soundcheck.
+Patsy's Punk Bitch Happy Hour with: vxxv at Bossa Nova Civic Club on Wed 26 Aug, Newyorkcity. 1 act on the bill: Patsy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 27 Aug 2026 |
+| Date | Wed, 26 Aug 2026 |
 | Venue | Bossa Nova Civic Club |
 | City | New York City |
 

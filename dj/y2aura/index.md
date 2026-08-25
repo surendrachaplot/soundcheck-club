@@ -1,14 +1,15 @@
 # y2aura
 
-y2aura is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Amma Cafe, New York City on Fri, 4 Sept 2026.
+y2aura is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Amma Cafe, New York City on Fri, 4 Sept 2026.
 
-y2aura is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 29 sets logged across Newyorkcity. Often billed alongside WADDLE, NIJEII and duco. Next up: Amma Cafe, Newyorkcity on Fri 4 Sept.
+y2aura is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside WADDLE, NIJEII and duco. Next up: Amma Cafe, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Amma Cafe | New York City |
+| Sat, 12 Sept 2026 | TBA - Secret Location | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ y2aura is a techno and breakbeat artist based in United States of America, track
 
 WADDLE, NIJEII, duco
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y2aura/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/y2aura/)*

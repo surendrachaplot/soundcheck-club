@@ -1,6 +1,6 @@
 # crystal crimez (2)
 
-crystal crimez (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 28 Aug 2026.
+crystal crimez (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 28 Aug 2026.
 
 crystal crimez (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Aniza (DE), JANO (4) and CALiACRA. Next up: Fridas Pier, Stuttgart on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ crystal crimez (2) is a trance and techno artist based in Germany, tracked on so
 
 Aniza (DE), JANO (4), CALiACRA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*

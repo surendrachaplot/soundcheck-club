@@ -1,6 +1,6 @@
 # ARKID
 
-ARKID is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
+ARKID is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 26 Sept 2026.
 
 ARKID is a minimal and electro artist tracked on soundcheck, with 6 sets logged across Paris and Toronto. Often billed alongside CAVO, Chafic and Charleeps. Next up: Cabaret Sauvage, Paris on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ ARKID is a minimal and electro artist tracked on soundcheck, with 6 sets logged 
 
 CAVO, Chafic, Charleeps
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkid/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkid/)*

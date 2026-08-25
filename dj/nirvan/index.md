@@ -1,6 +1,6 @@
 # Nirvan
 
-Nirvan is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Loft Studios, London on Fri, 30 Oct 2026.
+Nirvan is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Loft Studios, London on Fri, 30 Oct 2026.
 
 Nirvan is a house and minimal artist based in Belgium, tracked on soundcheck, with 26 sets logged across Brussels and London. Often billed alongside AOB, DJOM and Elioss. Next up: Loft Studios, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nirvan is a house and minimal artist based in Belgium, tracked on soundcheck, wi
 
 AOB, DJOM, Elioss
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*

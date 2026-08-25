@@ -1,6 +1,6 @@
 # Åre:gone
 
-Åre:gone is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Backstage at Berts, Detroit on Sat, 29 Aug 2026.
+Åre:gone is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Backstage at Berts, Detroit on Sat, 29 Aug 2026.
 
 Åre:gone is a techno and minimal techno artist tracked on soundcheck, with 23 sets logged across Boston, Denver, Detroit and Losangeles and 4 more. Often billed alongside DJ Prim, Redax and Elias Garcia. Next up: Backstage at Berts, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@
 
 DJ Prim, Redax, Elias Garcia
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aregone/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aregone/)*

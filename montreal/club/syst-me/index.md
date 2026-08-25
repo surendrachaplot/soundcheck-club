@@ -1,14 +1,14 @@
 # Système
 
-Système is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Système Soundsystem" on Thu, 27 Aug 2026.
+Système is a music venue in Montreal with 22 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Système Soundsystem" on Thu, 27 Aug 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including Akanbi, Aram, B'UGO and DJ Dial-on and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 22 upcoming nights, with line-ups including Akanbi, Anabasine, Aram and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Système Soundsystem |  |
+| Thu, 27 Aug 2026 | Système Soundsystem | Faux Sommets, Guthrie |
 | Fri, 28 Aug 2026 | Groovy Castle | Jean Pascal Groove, Queenie Jr, Vayia |
 | Sat, 29 Aug 2026 | Hold Me Recordings | Invisible City, Milch (1), Ryan Spencer, Silktits, wetdogg |
 | Sun, 30 Aug 2026 | Bridges to Dub | Icky Magdala |
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 11 upcoming nights, 
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

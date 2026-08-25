@@ -1,6 +1,6 @@
 # Manifesto Disappunto
 
-Manifesto Disappunto is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 27 Aug 2026.
+Manifesto Disappunto is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 27 Aug 2026.
 
 Manifesto Disappunto is an electronica and experimental artist based in Italy, tracked on soundcheck, with 34 sets logged across Milan, Naples, Rome and Turin. Often billed alongside Pearl River Sound, Luca Viola and Achieh. Next up: THE MAGICK BAR, Rome on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Manifesto Disappunto is an electronica and experimental artist based in Italy, t
 
 Pearl River Sound, Luca Viola, Achieh
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manifestodisappunto/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manifestodisappunto/)*

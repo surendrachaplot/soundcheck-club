@@ -1,6 +1,6 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Adriana All Night Long" on Sat, 5 Sept 2026.
+The Night Cat is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Adriana All Night Long" on Sat, 5 Sept 2026.
 
 The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Adriana (1), Alan Fitzpatrick, Chris Luno and Gravagerz and 2 more. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
@@ -23,4 +23,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming ni
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

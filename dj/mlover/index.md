@@ -1,6 +1,6 @@
 # M'Lover
 
-M'Lover is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
+M'Lover is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
 
 M'Lover is a house and disco artist tracked on soundcheck, with 19 sets logged across Bristol, Liverpool and London. Often billed alongside STEWPOT, Daisybelle and Danny Vito. Next up: Tola, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ M'Lover is a house and disco artist tracked on soundcheck, with 19 sets logged a
 
 STEWPOT, Daisybelle, Danny Vito
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mlover/)*

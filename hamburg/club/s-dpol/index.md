@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Technotischtennis" on Thu, 27 Aug 2026.
+Südpol is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Technotischtennis" on Thu, 27 Aug 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including A.B.U., AGY3NA, Anna Ullrich and Antoine Baiser and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, wit
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

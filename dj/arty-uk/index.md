@@ -1,6 +1,6 @@
 # Arty (UK)
 
-Arty (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+Arty (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
 Arty (UK) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds, Manchester and Miami. Often billed alongside Jartley, Loki-Hi and Max Le Louche. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Arty (UK) is a house and garage artist based in United Kingdom, tracked on sound
 
 Jartley, Loki-Hi, Max Le Louche
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arty-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arty-uk/)*

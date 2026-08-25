@@ -1,6 +1,6 @@
 # Layan
 
-Layan is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 29 Aug 2026.
+Layan is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 29 Aug 2026.
 
 Layan is a club artist based in United States of America, tracked on soundcheck, with 1 set logged across Detroit. Often billed alongside Aboudi Issa, Nadim Maghzal and Tammy Lakkis. Next up: Northern Lights Lounge, Detroit on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Layan is a club artist based in United States of America, tracked on soundcheck,
 
 Aboudi Issa, Nadim Maghzal, Tammy Lakkis
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/layan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/layan/)*

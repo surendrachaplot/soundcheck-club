@@ -1,6 +1,6 @@
 # Disk Space
 
-Disk Space is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 9 Oct 2026.
+Disk Space is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Het Sieraad, Amsterdam on Fri, 9 Oct 2026.
 
 Disk Space is a techno artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside DJUS and Nina de Koning. Next up: Het Sieraad, Amsterdam on Fri 9 Oct.
 
@@ -14,4 +14,4 @@ Disk Space is a techno artist based in Netherlands, tracked on soundcheck, with 
 
 DJUS, Nina de Koning
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskspace/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskspace/)*

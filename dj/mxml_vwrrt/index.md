@@ -1,6 +1,6 @@
 # MXML_VWRRT
 
-MXML_VWRRT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 10 Sept 2026.
+MXML_VWRRT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 10 Sept 2026.
 
 MXML_VWRRT is a trance and techno artist tracked on soundcheck, with 11 sets logged across Munich. Often billed alongside FFZG, Stutzi and Namenlos. Next up: Bahnwärter Thiel, Munich on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ MXML_VWRRT is a trance and techno artist tracked on soundcheck, with 11 sets log
 
 FFZG, Stutzi, Namenlos
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxml_vwrrt/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxml_vwrrt/)*

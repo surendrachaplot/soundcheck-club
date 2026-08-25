@@ -1,6 +1,6 @@
 # Marly Marl
 
-Marly Marl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club360, London on Fri, 30 Oct 2026.
+Marly Marl is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club360, London on Fri, 30 Oct 2026.
 
 Marly Marl is a drum & bass and jungle artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Kenny Ken, Nicky Blackmarket and Bryan Gee. Next up: Club360, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Marly Marl is a drum & bass and jungle artist tracked on soundcheck, with 14 set
 
 Kenny Ken, Nicky Blackmarket, Bryan Gee
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlymarl/)*

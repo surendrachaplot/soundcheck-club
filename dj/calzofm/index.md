@@ -1,6 +1,6 @@
 # Calzo FM
 
-Calzo FM is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 1990, Glasgow on Fri, 28 Aug 2026.
+Calzo FM is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 1990, Glasgow on Fri, 28 Aug 2026.
 
 Calzo FM is an italo disco and disco artist tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside Jo-Hann, Babyccino and Corran. Next up: 1990, Glasgow on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Calzo FM is an italo disco and disco artist tracked on soundcheck, with 5 sets l
 
 Jo-Hann, Babyccino, Corran
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calzofm/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calzofm/)*

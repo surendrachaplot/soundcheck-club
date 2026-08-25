@@ -1,6 +1,6 @@
 # Elektroküche
 
-Elektroküche is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Technoblock with RYX • RIKSO • NIKITA and many more! Next Saturday, August 29th" on Sat, 29 Aug 2026.
+Elektroküche is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Technoblock with RYX • RIKSO • NIKITA and many more! Next Saturday, August 29th" on Sat, 29 Aug 2026.
 
 Elektroküche is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including RYX (1). Browse upcoming dates, start times and who's playing. Siegburgerstr. 110; 50679 Cologne; Germany.
 
@@ -14,4 +14,4 @@ Elektroküche is a music venue in Cologne listed on soundcheck. 1 upcoming night
 
 Siegburgerstr. 110; 50679 Cologne; Germany, Cologne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/elektrok-che/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/elektrok-che/)*

@@ -1,6 +1,6 @@
 # Earthdog presents: Evan Baggs, Transmissions, Iggy P, djfix b2b Emkay, Mariposa, + more at Signal
 
-Earthdog presents: Evan Baggs, Transmissions, Iggy P, djfix b2b Emkay, Mariposa, + more at Signal on Fri 25 Sept, Newyorkcity. 7 acts on the bill: adobeprincess, djfix, Emkay and Evan Baggs and 3 more. Preview the line-up and save it on soundcheck.
+Earthdog presents: Evan Baggs, Transmissions, Iggy P, djfix b2b Emkay, Mariposa, + more at Signal on Fri 25 Sept, Newyorkcity. 9 acts on the bill: adobeprincess, djfix, Emkay and Emsho and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,9 +13,11 @@ Earthdog presents: Evan Baggs, Transmissions, Iggy P, djfix b2b Emkay, Mariposa,
 - adobeprincess
 - djfix
 - Emkay
+- Emsho
 - Evan Baggs
 - Iggy P
 - Jek (US)
 - Mariposa
+- Matas
 
 *Source: [soundcheck](https://soundcheck.club/e/2510481-earthdog-presents-evan-baggs-transmissions-iggy-p-djfix-b2b/)*

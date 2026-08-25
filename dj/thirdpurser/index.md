@@ -1,6 +1,6 @@
 # Third Purser
 
-Third Purser is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at DNA. CLUB, Berlin on Sat, 29 Aug 2026.
+Third Purser is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DNA. CLUB, Berlin on Sat, 29 Aug 2026.
 
 Third Purser is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Anna Hjalmarsson, Caren Callas and Daniela Dair. Next up: DNA. CLUB, Berlin on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Third Purser is a techno and house artist based in Germany, tracked on soundchec
 
 Anna Hjalmarsson, Caren Callas, Daniela Dair
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdpurser/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdpurser/)*

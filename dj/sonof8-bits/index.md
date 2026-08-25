@@ -1,6 +1,6 @@
 # Son of 8-Bits
 
-Son of 8-Bits is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Boot 122, Utrecht on Sat, 5 Sept 2026.
+Son of 8-Bits is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Boot 122, Utrecht on Sat, 5 Sept 2026.
 
 Son of 8-Bits is an electro and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside teemup, Mavanov and VOLPEVOLPE. Next up: TBA - Boot 122, Utrecht on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Son of 8-Bits is an electro and techno artist tracked on soundcheck, with 9 sets
 
 teemup, Mavanov, VOLPEVOLPE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonof8-bits/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonof8-bits/)*

@@ -1,6 +1,6 @@
 # patrick conahan
 
-patrick conahan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
+patrick conahan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
 
 patrick conahan is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Chicago. Often billed alongside Jaggy, Josh Aaron and frail808. Next up: TBA - Secret Location, Chicago on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ patrick conahan is a house and techno artist based in United States of America, 
 
 Jaggy, Josh Aaron, frail808
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickconahan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickconahan/)*

@@ -1,6 +1,6 @@
 # Vilor
 
-Vilor is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Specka, Madrid on Sat, 12 Sept 2026.
+Vilor is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Specka, Madrid on Sat, 12 Sept 2026.
 
 Vilor is an electronica and techno artist tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside ARSA and Montse. Next up: Specka, Madrid on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Vilor is an electronica and techno artist tracked on soundcheck, with 3 sets log
 
 ARSA, Montse
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilor/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vilor/)*

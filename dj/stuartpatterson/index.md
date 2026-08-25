@@ -1,6 +1,6 @@
 # Stuart Patterson
 
-Stuart Patterson is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
+Stuart Patterson is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The North London Tavern, London on Sun, 30 Aug 2026.
 
 Stuart Patterson is a house and disco artist tracked on soundcheck, with 68 sets logged across Brighton, Cardiff, Ibiza and Krakow and 4 more. Often billed alongside Terry Farley, JARVIS and Tito Pulpo. Next up: The North London Tavern, London on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Stuart Patterson is a house and disco artist tracked on soundcheck, with 68 sets
 
 Terry Farley, JARVIS, Tito Pulpo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stuartpatterson/)*

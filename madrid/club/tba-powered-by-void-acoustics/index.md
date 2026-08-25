@@ -1,6 +1,6 @@
 # TBA - Powered by: Void Acoustics
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Plus One Season V Opening X Jeroen Search + Finalversion3" on Sat, 12 Sept 2026.
+TBA - Powered by: Void Acoustics is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Plus One Season V Opening X Jeroen Search + Finalversion3" on Sat, 12 Sept 2026.
 
 TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including Ali-Az, Finalversion3, Jeroen Search and Kevin Matto and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck
 | Sat, 12 Sept 2026 | Plus One Season V Opening X Jeroen Search + Finalversion3 | Ali-Az, Finalversion3, Jeroen Search, Kevin Matto, Systematic Method |
 | Fri, 13 Nov 2026 | Jaleo Real ✷Season 5 Opening✷ |  |
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*

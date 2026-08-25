@@ -1,6 +1,6 @@
 # Will Samson
 
-Will Samson is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Glad Cafe, Glasgow on Sun, 25 Oct 2026.
+Will Samson is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Glad Cafe, Glasgow on Sun, 25 Oct 2026.
 
 Will Samson is an ambient and electronica artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Glasgow. Next up: The Glad Cafe, Glasgow on Sun 25 Oct.
 
@@ -10,4 +10,4 @@ Will Samson is an ambient and electronica artist based in United Kingdom, tracke
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | The Glad Cafe | Glasgow |
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willsamson/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willsamson/)*

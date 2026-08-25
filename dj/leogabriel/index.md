@@ -1,6 +1,6 @@
 # Leo Gabriel
 
-Leo Gabriel is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at WOMB, Tokyo on Wed, 26 Aug 2026.
+Leo Gabriel is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at WOMB, Tokyo on Wed, 26 Aug 2026.
 
 Leo Gabriel is a house and jazz artist based in Japan, tracked on soundcheck, with 200 sets logged across Osaka and Tokyo. Often billed alongside RIHO ASAEDA, Hayato Iwaki and JINI. Next up: WOMB, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Leo Gabriel is a house and jazz artist based in Japan, tracked on soundcheck, wi
 
 RIHO ASAEDA, Hayato Iwaki, JINI
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leogabriel/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leogabriel/)*

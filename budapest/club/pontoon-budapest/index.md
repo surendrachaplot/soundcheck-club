@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "True Energy" on Thu, 27 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "True Energy" on Thu, 27 Aug 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including ANESI, Daniel Santiago, Gingershot and Mirmur and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -17,4 +17,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

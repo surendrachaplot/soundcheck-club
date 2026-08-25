@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Calimas Sommerhütte Free Open Air" on Thu, 27 Aug 2026.
+Ritter Butzke is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Calimas Sommerhütte Free Open Air" on Thu, 27 Aug 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aimé You, Alan Fitzpatrick, Anne-Sophie Selig and Antic Soul and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -10,7 +10,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming night
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Calimas Sommerhütte Free Open Air |  |
 | Fri, 28 Aug 2026 | Indiskret Berlin | Concentio, Confred, DOS, DOS (DE), Le TIZI, Marius Holm, Rabauke, VE/RA |
-| Sat, 29 Aug 2026 | Save the Rave - After Party - free entry until 9pm | Anne-Sophie Selig, Antic Soul, Asem Shama, Blame the Booker, Diskosport, Dompe, EUROPLUS, Eloïß, Emerson, Ivana, Jens Schwan, Jesper Aubin, Kenzura, Lola Brennt, MIMI404, Martha O., Martin Brodin, Morelia, Nat SuPrise, Phonique, Raj Shindi, Raj el Rey, Tiefundton, Trancy Chatman, Userkiller, gem.ini |
+| Sat, 29 Aug 2026 | Save the Rave - After Party - free entry until 9pm | Anne-Sophie Selig, Antic Soul, Asem Shama, Blame the Booker, Diskosport, Dompe, EUROPLUS, Eloïß, Emerson, Ivana, Jens Schwan, Jesper Aubin, Kenzura, Lola Brennt, MIMI404, Makinarium, Martha O., Martin Brodin, Morelia, Nat SuPrise, Phonique, Raj Shindi, Raj el Rey, Tiefundton, Trancy Chatman, Userkiller, gem.ini |
 | Sat, 29 Aug 2026 | BERLIN IST RAW at Garten der Nacht | Anne-Sophie Selig, Dompe, Jens Schwan, Jesper Aubin, Phonique, Raj Shindi |
 | Sat, 29 Aug 2026 | SAVE RAW RAVE Afterparty | Anne-Sophie Selig, Antic Soul, Asem Shama, Blame the Booker, Diskosport, Dompe, EUROPLUS, Emerson, Ivana, Jens Schwan, Jesper Aubin, Kenzura, Lola Brennt, MIMI404, Martha O., Morelia, Nat SuPrise, Phonique, Raj Shindi, Userkiller, gem.ini |
 | Fri, 4 Sept 2026 | Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM | Bøgen, Eva Kim, Misha Svirid, Nico Morano, Stefan Muchte, Syntonos, TONI, Vlad Yaki |
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 23 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

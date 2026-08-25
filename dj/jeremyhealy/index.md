@@ -1,6 +1,6 @@
 # Jeremy Healy
 
-Jeremy Healy is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Cross, London on Sat, 26 Sept 2026.
+Jeremy Healy is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Cross, London on Sat, 26 Sept 2026.
 
 Jeremy Healy is a house and trance artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, Glasgow, Ibiza and Leeds and 3 more. Often billed alongside John Kelly, Judge Jules and Julie Mcknight. Next up: The Cross, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jeremy Healy is a house and trance artist based in United Kingdom, tracked on so
 
 John Kelly, Judge Jules, Julie Mcknight
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyhealy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyhealy/)*

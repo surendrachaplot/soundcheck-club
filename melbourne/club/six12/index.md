@@ -1,6 +1,6 @@
 # +Six12
 
-+Six12 is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "+SIX12" on Sat, 29 Aug 2026.
++Six12 is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "+SIX12" on Sat, 29 Aug 2026.
 
 +Six12 is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Pharis. Browse upcoming dates, start times and who's playing. 37 Swanston Street.
 
@@ -14,4 +14,4 @@
 
 37 Swanston Street, Melbourne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/six12/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/six12/)*

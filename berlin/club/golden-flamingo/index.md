@@ -1,6 +1,6 @@
 # Golden Flamingo
 
-Golden Flamingo is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "ENDSTATION 2.0 (ZDL goes RAW - Demo Aftershow)  + R.C.S. Launch-Party" on Sat, 29 Aug 2026.
+Golden Flamingo is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "ENDSTATION 2.0 (ZDL goes RAW - Demo Aftershow)  + R.C.S. Launch-Party" on Sat, 29 Aug 2026.
 
 Golden Flamingo is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Albin Brezlan, Chicano, Joris Turenhout and Mark Dale (AT) and 2 more. Browse upcoming dates, start times and who's playing. James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Golden Flamingo is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 
 James-Simon-Park, Stadtbahnbogen 157/ 158, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-flamingo/)*

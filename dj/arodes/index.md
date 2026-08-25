@@ -1,6 +1,6 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+ARODES is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 ARODES is a house and afro house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Andrea Oliva, Shimza and Carlita. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ ARODES is a house and afro house artist tracked on soundcheck, with 120 sets log
 
 Andrea Oliva, Shimza, Carlita
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

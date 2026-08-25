@@ -1,6 +1,6 @@
 # YOUNA
 
-YOUNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tap1, Copenhagen on Sat, 26 Sept 2026.
+YOUNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tap1, Copenhagen on Sat, 26 Sept 2026.
 
 YOUNA is a techno and house artist based in South Korea, tracked on soundcheck, with 9 sets logged across Copenhagen, London, Miami and Newyorkcity and 3 more. Often billed alongside Armin van Buuren, Omnya and AUTOFLOWER. Next up: Tap1, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ YOUNA is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 Armin van Buuren, Omnya, AUTOFLOWER
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youna-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youna-uk/)*

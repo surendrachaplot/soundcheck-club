@@ -1,6 +1,6 @@
 # Daragma
 
-Daragma is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Junction Underground, Toronto on Fri, 11 Sept 2026.
+Daragma is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Junction Underground, Toronto on Fri, 11 Sept 2026.
 
 Daragma is a techno and minimal techno artist tracked on soundcheck, with 22 sets logged across Saopaulo and Toronto. Often billed alongside Barbosa, CAETANO and Chafic. Next up: Junction Underground, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Daragma is a techno and minimal techno artist tracked on soundcheck, with 22 set
 
 Barbosa, CAETANO, Chafic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daragma/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daragma/)*

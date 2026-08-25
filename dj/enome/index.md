@@ -1,6 +1,6 @@
 # ENOME
 
-ENOME is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
+ENOME is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
 
 ENOME is a garage and drum & bass artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside icanseesounds, Aynaet and IHOPEIEXIST. Next up: Cassiopeia, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ENOME is a garage and drum & bass artist tracked on soundcheck, with 12 sets log
 
 icanseesounds, Aynaet, IHOPEIEXIST
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enome/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enome/)*

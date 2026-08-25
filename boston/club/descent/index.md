@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ANIVERSARIO SABROSO" on Sat, 29 Aug 2026.
+Descent is a music venue in Boston with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "ANIVERSARIO SABROSO" on Sat, 29 Aug 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 9 upcoming nights, with line-ups including Alejandro Franco, Dubfire, DVS1 and Locky and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -22,4 +22,4 @@ Descent is a music venue in Boston listed on soundcheck. 9 upcoming nights, with
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

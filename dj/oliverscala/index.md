@@ -1,6 +1,6 @@
 # Oliver Scala
 
-Oliver Scala is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
+Oliver Scala is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
 
 Oliver Scala is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, London, Manchester and Tokyo and 1 more. Often billed alongside TEDESCO, Gloria Rose and Sob Story. Next up: The Steel Yard, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Oliver Scala is a techno and house artist tracked on soundcheck, with 21 sets lo
 
 TEDESCO, Gloria Rose, Sob Story
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverscala/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverscala/)*

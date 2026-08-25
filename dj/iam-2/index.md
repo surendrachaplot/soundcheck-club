@@ -1,6 +1,6 @@
 # IAM (2)
 
-IAM (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
+IAM (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
 
 IAM (2) is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 13 sets logged across Hamburg. Often billed alongside Eightball, Fibe and Sindicate. Next up: Fundbureau, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ IAM (2) is a drum & bass and jungle artist based in Germany, tracked on soundche
 
 Eightball, Fibe, Sindicate
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iam-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iam-2/)*

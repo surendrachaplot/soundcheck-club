@@ -1,6 +1,6 @@
 # Used
 
-Used is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Used is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Used is a drum & bass and bass artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Brisbane and Bristol and 9 more. Often billed alongside Mozey, Delta Heavy and Alignment. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Used is a drum & bass and bass artist tracked on soundcheck, with 14 sets logged
 
 Mozey, Delta Heavy, Alignment
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/used/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/used/)*

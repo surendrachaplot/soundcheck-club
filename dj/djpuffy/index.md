@@ -1,6 +1,6 @@
 # DJ Puffy
 
-DJ Puffy is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hootananny Brixton, London on Fri, 4 Sept 2026.
+DJ Puffy is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hootananny Brixton, London on Fri, 4 Sept 2026.
 
 DJ Puffy is a dancehall and afrobeat artist tracked on soundcheck, with 5 sets logged across London, Miami and Philadelphia. Often billed alongside DJ Moma, San Farafina and Shannen SP. Next up: Hootananny Brixton, London on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ DJ Puffy is a dancehall and afrobeat artist tracked on soundcheck, with 5 sets l
 
 DJ Moma, San Farafina, Shannen SP
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpuffy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpuffy/)*

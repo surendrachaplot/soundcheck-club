@@ -1,6 +1,6 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Shermanology - Lucien Foort | Soft Landing" on Sun, 6 Sept 2026.
+WestWeelde is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Shermanology - Lucien Foort | Soft Landing" on Sun, 6 Sept 2026.
 
 WestWeelde is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Alex Sharp, BELLA (NL), Binh and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. Klönneplein 4.
 
@@ -22,4 +22,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights
 
 Klönneplein 4, Amsterdam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

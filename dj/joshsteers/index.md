@@ -1,14 +1,15 @@
 # Josh Steers
 
-Josh Steers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at public records, New York City on Sat, 5 Sept 2026.
+Josh Steers is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at public records, New York City on Sat, 5 Sept 2026.
 
-Josh Steers is a house and techno artist based in United States of America, tracked on soundcheck, with 99 sets logged across Detroit, Losangeles, Mexicocity and Newyorkcity and 1 more. Often billed alongside Sterling Juan Diaz, Michael Magnan and Nita Aviance. Next up: public records, Newyorkcity on Sat 5 Sept.
+Josh Steers is a house and techno artist based in United States of America, tracked on soundcheck, with 100 sets logged across Detroit, Losangeles, Mexicocity and Newyorkcity and 1 more. Often billed alongside Sterling Juan Diaz, Michael Magnan and Nita Aviance. Next up: public records, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | public records | New York City |
+| Sun, 6 Sept 2026 | telos.haus | New York City |
 | Fri, 11 Sept 2026 | The Chocolate Factory | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Josh Steers is a house and techno artist based in United States of America, trac
 
 Sterling Juan Diaz, Michael Magnan, Nita Aviance
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*

@@ -1,6 +1,6 @@
 # JP eXbert
 
-JP eXbert is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Weberknecht, Vienna on Fri, 28 Aug 2026.
+JP eXbert is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Weberknecht, Vienna on Fri, 28 Aug 2026.
 
 JP eXbert is an electronic artist tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Richard Steinschlag, Purrdition and Alena Noctis. Next up: Weberknecht, Vienna on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ JP eXbert is an electronic artist tracked on soundcheck, with 7 sets logged acro
 
 Richard Steinschlag, Purrdition, Alena Noctis
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jpexbert/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jpexbert/)*

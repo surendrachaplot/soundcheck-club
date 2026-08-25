@@ -1,6 +1,6 @@
 # Freddie Seo
 
-Freddie Seo is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Maya Marylebone, London on Fri, 11 Sept 2026.
+Freddie Seo is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Maya Marylebone, London on Fri, 11 Sept 2026.
 
 Freddie Seo is a tech house and deep house artist tracked on soundcheck, with 2 sets logged across London and Manchester. Often billed alongside Alex Osifo and Huerta. Next up: Maya Marylebone, London on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Freddie Seo is a tech house and deep house artist tracked on soundcheck, with 2 
 
 Alex Osifo, Huerta
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddieseo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddieseo/)*

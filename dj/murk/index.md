@@ -1,6 +1,6 @@
 # Murk
 
-Murk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club NYX, Amsterdam on Fri, 11 Sept 2026.
+Murk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club NYX, Amsterdam on Fri, 11 Sept 2026.
 
 Murk is a techno and house artist tracked on soundcheck, with 4 sets logged across Amsterdam, Madrid and Miami. Often billed alongside Cajmere, Capron and Carl Craig. Next up: Club NYX, Amsterdam on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Murk is a techno and house artist tracked on soundcheck, with 4 sets logged acro
 
 Cajmere, Capron, Carl Craig
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murk/)*

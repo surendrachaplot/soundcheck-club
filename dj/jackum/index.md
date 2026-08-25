@@ -1,6 +1,6 @@
 # Jackum
 
-Jackum is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mint Warehouse, Leeds on Sat, 19 Sept 2026.
+Jackum is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mint Warehouse, Leeds on Sat, 19 Sept 2026.
 
 Jackum is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Bristol, Leeds and London and 5 more. Often billed alongside Efan, MPH (1) and Bushbaby. Next up: Mint Warehouse, Leeds on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Jackum is a garage and bass artist based in United Kingdom, tracked on soundchec
 
 Efan, MPH (1), Bushbaby
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackum/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackum/)*

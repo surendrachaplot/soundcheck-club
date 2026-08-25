@@ -1,14 +1,13 @@
 # eveava
 
-eveava is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+eveava is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Floyd, Miami on Thu, 15 Oct 2026.
 
-eveava is a house and techno artist tracked on soundcheck, with 50 sets logged across Berlin, Frankfurt, Lisbon and Miami and 1 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Kater, Berlin on Fri 21 Aug.
+eveava is a house and techno artist tracked on soundcheck, with 50 sets logged across Berlin, Frankfurt, Lisbon and Miami and 1 more. Often billed alongside True Vine, Peter Schumann and Whitesquare. Next up: Floyd, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kater | Berlin |
 | Thu, 15 Oct 2026 | Floyd | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
@@ -27,4 +26,4 @@ eveava is a house and techno artist tracked on soundcheck, with 50 sets logged a
 
 True Vine, Peter Schumann, Whitesquare
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eveava/)*

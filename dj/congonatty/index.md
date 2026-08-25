@@ -1,6 +1,6 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at XOYO, London on Sat, 29 Aug 2026.
+Congo Natty is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at XOYO, London on Sat, 29 Aug 2026.
 
 Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 40 sets logged across Berlin, Birmingham, Brighton and Bristol and 8 more. Often billed alongside DJ Snuff, Killa P and Sexy Lady Massive. Next up: XOYO, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Congo Natty is a jungle and drum & bass artist tracked on soundcheck, with 40 se
 
 DJ Snuff, Killa P, Sexy Lady Massive
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

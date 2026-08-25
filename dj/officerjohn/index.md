@@ -1,6 +1,6 @@
 # Officer John
 
-Officer John is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Officer John is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 Officer John is an electro and house artist based in Ireland, tracked on soundcheck, with 7 sets logged across Amsterdam, Bristol, Dublin and London. Often billed alongside Field Notes DJs, Athens of the North and Blake Baxter. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Officer John is an electro and house artist based in Ireland, tracked on soundch
 
 Field Notes DJs, Athens of the North, Blake Baxter
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/officerjohn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/officerjohn/)*

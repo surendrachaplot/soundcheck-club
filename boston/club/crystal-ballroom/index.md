@@ -1,6 +1,6 @@
 # Crystal Ballroom
 
-Crystal Ballroom is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Love & Light: Together We Are Stronger" on Sat, 29 Aug 2026.
+Crystal Ballroom is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Love & Light: Together We Are Stronger" on Sat, 29 Aug 2026.
 
 Crystal Ballroom is a music venue in Boston listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 55 Davis Square, Somerville, MA 02144.
 
@@ -14,4 +14,4 @@ Crystal Ballroom is a music venue in Boston listed on soundcheck. 1 upcoming nig
 
 55 Davis Square, Somerville, MA 02144, Boston
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/crystal-ballroom/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/crystal-ballroom/)*

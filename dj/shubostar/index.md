@@ -1,6 +1,6 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Shubostar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Shubostar is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Mano Le Tough, Peter Invasion and Roman Flügel. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shubostar is a house and techno artist tracked on soundcheck, with 105 sets logg
 
 Mano Le Tough, Peter Invasion, Roman Flügel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

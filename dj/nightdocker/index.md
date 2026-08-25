@@ -1,6 +1,6 @@
 # Night Docker
 
-Night Docker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Basing House, London on Sat, 29 Aug 2026.
+Night Docker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Basing House, London on Sat, 29 Aug 2026.
 
 Night Docker is a house and tech house artist based in Poland, tracked on soundcheck, with 1 set logged across London. Often billed alongside ALTO  (UK), Bastiaan and Kalani. Next up: Basing House, London on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Night Docker is a house and tech house artist based in Poland, tracked on soundc
 
 ALTO  (UK), Bastiaan, Kalani
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightdocker/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nightdocker/)*

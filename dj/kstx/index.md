@@ -1,14 +1,15 @@
 # KSTX
 
-KSTX is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
+KSTX is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
 
-KSTX is a techno and industrial artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside ERØXX, SuttleK and AAD (1). Next up: M7 Club, Barcelona on Fri 28 Aug.
+KSTX is a techno and industrial artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside BreakStyle, ERØXX and SuttleK. Next up: M7 Club, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | M7 Club | Barcelona |
+| Fri, 4 Sept 2026 | M7 Club | Barcelona |
 | Sat, 5 Sept 2026 | M7 Club | Barcelona |
 
 ## Recently played
@@ -24,6 +25,6 @@ KSTX is a techno and industrial artist based in Spain, tracked on soundcheck, wi
 
 ## Shares bills with
 
-ERØXX, SuttleK, AAD (1)
+BreakStyle, ERØXX, SuttleK
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kstx/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kstx/)*

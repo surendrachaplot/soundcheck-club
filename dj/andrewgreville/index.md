@@ -1,6 +1,6 @@
 # Andrew Greville
 
-Andrew Greville is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Standard Time, Toronto on Sat, 5 Sept 2026.
+Andrew Greville is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Standard Time, Toronto on Sat, 5 Sept 2026.
 
 Andrew Greville is an electronic artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Matt Thibideau, Mike Shannon and Adam Marshall. Next up: Standard Time, Toronto on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Andrew Greville is an electronic artist tracked on soundcheck, with 4 sets logge
 
 Matt Thibideau, Mike Shannon, Adam Marshall
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewgreville/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewgreville/)*

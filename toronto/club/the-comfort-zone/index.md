@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "404: DNNS" on Fri, 28 Aug 2026.
+The Comfort Zone is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "404: DNNS" on Fri, 28 Aug 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including DNNS, KILL 9 1, Manzone & Strong and R4TS and 2 more. Browse upcoming dates, start times and who's playing. 1369 Queen St. West.
 
@@ -17,4 +17,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 4 upcoming ni
 
 1369 Queen St. West, Toronto
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

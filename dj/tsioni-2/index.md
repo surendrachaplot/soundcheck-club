@@ -1,6 +1,6 @@
 # TSIONI (2)
 
-TSIONI (2) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bassiani, Tbilisi on Sat, 12 Sept 2026.
+TSIONI (2) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bassiani, Tbilisi on Sat, 12 Sept 2026.
 
 TSIONI (2) is a tech house and techno artist based in Georgia, tracked on soundcheck, with 3 sets logged across Tbilisi. Often billed alongside Boyá, Charch and Elene. Next up: Bassiani, Tbilisi on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ TSIONI (2) is a tech house and techno artist based in Georgia, tracked on soundc
 
 Boyá, Charch, Elene
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsioni-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsioni-2/)*

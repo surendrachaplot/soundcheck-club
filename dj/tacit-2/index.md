@@ -1,6 +1,6 @@
 # TACIT (2)
 
-TACIT (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
+TACIT (2) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
 
 TACIT (2) is a house and garage artist based in United States of America, tracked on soundcheck, with 2 sets logged across Portland. Often billed alongside Sol Elicio, Ana Sia and Hej Fund. Next up: Process PDX, Portland on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ TACIT (2) is a house and garage artist based in United States of America, tracke
 
 Sol Elicio, Ana Sia, Hej Fund
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tacit-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tacit-2/)*

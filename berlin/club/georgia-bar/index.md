@@ -1,6 +1,6 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Someone Sunny at Georgia" on Sun, 30 Aug 2026.
+Georgia Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Someone Sunny at Georgia" on Sun, 30 Aug 2026.
 
 Georgia Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Someone Sunny. Browse upcoming dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

@@ -1,6 +1,6 @@
 # Spencer Parker
 
-Spencer Parker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Spencer Parker is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Spencer Parker is a house and techno artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 10 more. Often billed alongside Bunsen, ENNIO and Haeder. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Spencer Parker is a house and techno artist based in United Kingdom, tracked on 
 
 Bunsen, ENNIO, Haeder
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerparker/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerparker/)*

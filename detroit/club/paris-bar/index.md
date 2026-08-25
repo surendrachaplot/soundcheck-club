@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "SLASHSOUND xSOUND INVADERS PRESENTS: GACHA (ALBUM RELEASE)" on Thu, 27 Aug 2026.
+Paris Bar is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "SLASHSOUND xSOUND INVADERS PRESENTS: GACHA (ALBUM RELEASE)" on Thu, 27 Aug 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including 1-800-CALL-ASH, Adam Stanfel, Auntie Chanel and Bileebob and 2 more. Browse upcoming dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -17,4 +17,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 4 upcoming nights, w
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

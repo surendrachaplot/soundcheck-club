@@ -1,6 +1,6 @@
 # CANO (3)
 
-CANO (3) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 45 London, London on Sun, 30 Aug 2026.
+CANO (3) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 45 London, London on Sun, 30 Aug 2026.
 
 CANO (3) is a tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Tato (2), Andres Forero and Pedro Villa. Next up: 45 London, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ CANO (3) is a tech house artist based in United Kingdom, tracked on soundcheck, 
 
 Tato (2), Andres Forero, Pedro Villa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cano-3/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cano-3/)*

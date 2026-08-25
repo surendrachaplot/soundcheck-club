@@ -1,6 +1,6 @@
 # Mike Shannon
 
-Mike Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Standard Time, Toronto on Sat, 5 Sept 2026.
+Mike Shannon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Standard Time, Toronto on Sat, 5 Sept 2026.
 
 Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Berlin and Buenosaires and 14 more. Often billed alongside Stipé, DeWalta and Deadbeat. Next up: Standard Time, Toronto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Mike Shannon is a house and techno artist based in Canada, tracked on soundcheck
 
 Stipé, DeWalta, Deadbeat
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*

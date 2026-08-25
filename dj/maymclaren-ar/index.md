@@ -1,6 +1,6 @@
 # May Mc Laren
 
-May Mc Laren is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Cigale, Buenos Aires on Tue, 25 Aug 2026.
+May Mc Laren is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at La Cigale, Buenos Aires on Tue, 25 Aug 2026.
 
 May Mc Laren is a techno and house artist based in Argentina, tracked on soundcheck, with 52 sets logged across Buenosaires and Mexicocity. Often billed alongside Berger Muzik, Dr. Oso and Camila Isabel. Next up: La Cigale, Buenosaires on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ May Mc Laren is a techno and house artist based in Argentina, tracked on soundch
 
 Berger Muzik, Dr. Oso, Camila Isabel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maymclaren-ar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maymclaren-ar/)*

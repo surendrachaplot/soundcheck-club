@@ -1,14 +1,15 @@
 # Alien D
 
-Alien D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Eavesdrop, New York City on Fri, 28 Aug 2026.
+Alien D is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Eavesdrop, New York City on Fri, 28 Aug 2026.
 
-Alien D is a techno and house artist based in United States of America, tracked on soundcheck, with 65 sets logged across Denver, Losangeles, Miami and Montreal and 3 more. Often billed alongside No Sir, Andrew Devlin and Yibing. Next up: Eavesdrop, Newyorkcity on Fri 28 Aug.
+Alien D is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Denver, Losangeles, Miami and Montreal and 3 more. Often billed alongside No Sir, Andrew Devlin and Yibing. Next up: Eavesdrop, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Eavesdrop | New York City |
+| Sun, 30 Aug 2026 | Silence Please | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alien D is a techno and house artist based in United States of America, tracked 
 
 No Sir, Andrew Devlin, Yibing
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliend/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliend/)*

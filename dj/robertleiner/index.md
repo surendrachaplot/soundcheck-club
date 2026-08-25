@@ -1,6 +1,6 @@
 # Robert Leiner
 
-Robert Leiner is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
+Robert Leiner is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
 
 Robert Leiner is a techno and trance artist tracked on soundcheck, with 8 sets logged across Barcelona, Copenhagen, London and Oslo and 1 more. Often billed alongside Ancient Methods, Andi and Anna Logic. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Robert Leiner is a techno and trance artist tracked on soundcheck, with 8 sets l
 
 Ancient Methods, Andi, Anna Logic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertleiner/)*

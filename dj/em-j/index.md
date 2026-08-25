@@ -1,6 +1,6 @@
 # Em-J
 
-Em-J is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Horn, Bangkok on Fri, 4 Sept 2026.
+Em-J is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Horn, Bangkok on Fri, 4 Sept 2026.
 
 Em-J is a techno and garage artist tracked on soundcheck, with 42 sets logged across Bangkok. Often billed alongside GUNI, Accidental District and Wot?. Next up: Horn, Bangkok on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Em-J is a techno and garage artist tracked on soundcheck, with 42 sets logged ac
 
 GUNI, Accidental District, Wot?
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/em-j/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/em-j/)*

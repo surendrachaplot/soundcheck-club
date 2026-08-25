@@ -1,6 +1,6 @@
 # Hanuman Jr.
 
-Hanuman Jr. is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Macadam, Nantes on Fri, 25 Sept 2026.
+Hanuman Jr. is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Macadam, Nantes on Fri, 25 Sept 2026.
 
 Hanuman Jr. is a dubstep and drum & bass artist tracked on soundcheck, with 2 sets logged across Nantes and Paris. Often billed alongside A.Fruit, Visages and Von D. Next up: Macadam, Nantes on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Hanuman Jr. is a dubstep and drum & bass artist tracked on soundcheck, with 2 se
 
 A.Fruit, Visages, Von D
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanumanjr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanumanjr/)*

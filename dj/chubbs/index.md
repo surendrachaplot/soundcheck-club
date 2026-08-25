@@ -1,6 +1,6 @@
 # CHUBBS
 
-CHUBBS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
+CHUBBS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
 
 CHUBBS is a house and minimal artist based in Germany, tracked on soundcheck, with 24 sets logged across Cologne, London and Munich. Often billed alongside DJ HOT, iamluie and Philipp Lüers. Next up: LIVE EVIL, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ CHUBBS is a house and minimal artist based in Germany, tracked on soundcheck, wi
 
 DJ HOT, iamluie, Philipp Lüers
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chubbs/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chubbs/)*

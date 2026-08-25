@@ -1,6 +1,6 @@
 # Francisco Nada
 
-Francisco Nada is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location (Neukölln), Berlin on Sat, 12 Sept 2026.
+Francisco Nada is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location (Neukölln), Berlin on Sat, 12 Sept 2026.
 
 Francisco Nada is a techno and house artist based in Colombia, tracked on soundcheck, with 10 sets logged across Berlin and Prague. Often billed alongside Noise Casino, DJ Zurückbleiben Bitte and AGILY. Next up: TBA - Secret Location (Neukölln), Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Francisco Nada is a techno and house artist based in Colombia, tracked on soundc
 
 Noise Casino, DJ Zurückbleiben Bitte, AGILY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francisconada/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francisconada/)*

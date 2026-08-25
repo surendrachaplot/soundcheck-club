@@ -1,6 +1,6 @@
 # Stacy Kidd
 
-Stacy Kidd is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Stacy Kidd is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Stacy Kidd is a house and deep house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Chicago and Detroit and 7 more. Often billed alongside Bear Who?, Bustin' Loose and Crystal Touch. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Stacy Kidd is a house and deep house artist tracked on soundcheck, with 31 sets 
 
 Bear Who?, Bustin' Loose, Crystal Touch
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stacykidd-us/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stacykidd-us/)*

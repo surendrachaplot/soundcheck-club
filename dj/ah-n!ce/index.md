@@ -1,8 +1,8 @@
 # AH-N!CE
 
-AH-N!CE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 26 Aug 2026.
+AH-N!CE is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lokschuppen Berlin, Berlin on Wed, 26 Aug 2026.
 
-AH-N!CE is a techno and electro artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Hamburg. Often billed alongside Frank Rayo, Eva Nyx and TZO (1). Next up: Lokschuppen Berlin, Berlin on Wed 26 Aug.
+AH-N!CE is a techno and electro artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Hamburg. Often billed alongside Frank Rayo, Eva Nyx and TZO (1). Next up: Lokschuppen Berlin, Berlin on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AH-N!CE is a techno and electro artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 28 Aug 2026 | Beat Boutique | Hamburg |
+| Sat, 12 Sept 2026 | La Cova | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ AH-N!CE is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 Frank Rayo, Eva Nyx, TZO (1)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*

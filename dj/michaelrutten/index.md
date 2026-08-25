@@ -1,6 +1,6 @@
 # Michael Rütten
 
-Michael Rütten is a Breakbeat and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at JAKI, Cologne on Tue, 25 Aug 2026.
+Michael Rütten is a Breakbeat and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at JAKI, Cologne on Tue, 25 Aug 2026.
 
 Michael Rütten is a breakbeat and jazz artist based in Germany, tracked on soundcheck, with 1 set logged across Cologne. Often billed alongside Michael Reinboth. Next up: JAKI, Cologne on Tue 25 Aug.
 
@@ -14,4 +14,4 @@ Michael Rütten is a breakbeat and jazz artist based in Germany, tracked on soun
 
 Michael Reinboth
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelrutten/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelrutten/)*

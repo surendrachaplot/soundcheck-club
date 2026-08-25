@@ -1,6 +1,6 @@
 # ELLA WAX
 
-ELLA WAX is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
+ELLA WAX is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
 
 ELLA WAX is a techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside GVMEDNA, TAKT130 and BLGV. Next up: ://about blank, Berlin on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ ELLA WAX is a techno artist based in Germany, tracked on soundcheck, with 5 sets
 
 GVMEDNA, TAKT130, BLGV
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellawax/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellawax/)*

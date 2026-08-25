@@ -1,13 +1,14 @@
 # Elina
 
-Elina is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Elina is a Breakcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
 
-Elina is a breakcore and hardcore artist tracked on soundcheck, with 12 sets logged across Barcelona, Ibiza, Malta and Sydney and 1 more. Often billed alongside Midsizedsedance, Dr Banana and Enzo Siragusa. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Elina is a breakcore and bass artist tracked on soundcheck, with 13 sets logged across Barcelona, Ibiza, Malta and Sydney and 1 more. Often billed alongside Midsizedsedance, Dr Banana and Enzo Siragusa. Next up: TBA, Sydney on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | TBA | Sydney |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ Elina is a breakcore and hardcore artist tracked on soundcheck, with 12 sets log
 
 Midsizedsedance, Dr Banana, Enzo Siragusa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*

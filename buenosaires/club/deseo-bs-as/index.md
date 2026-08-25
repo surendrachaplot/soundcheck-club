@@ -1,6 +1,6 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "SOFI TUKKER" on Fri, 28 Aug 2026.
+Deseo BS AS is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "SOFI TUKKER" on Fri, 28 Aug 2026.
 
 Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Nebula (AR), Pabels and SOFI TUKKER. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
@@ -15,4 +15,4 @@ Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 2 upcoming nig
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

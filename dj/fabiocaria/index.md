@@ -1,6 +1,6 @@
 # Fabio Caria
 
-Fabio Caria is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+Fabio Caria is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
 
 Fabio Caria is a minimal techno and progressive house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Hubble, Suburbial and Andrea Ferlin. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Fabio Caria is a minimal techno and progressive house artist tracked on soundche
 
 Hubble, Suburbial, Andrea Ferlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiocaria/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiocaria/)*

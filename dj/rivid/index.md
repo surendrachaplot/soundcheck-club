@@ -1,6 +1,6 @@
 # RiVid
 
-RiVid is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Roxy, Prague on Fri, 11 Sept 2026.
+RiVid is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Roxy, Prague on Fri, 11 Sept 2026.
 
 RiVid is a techno and acid artist tracked on soundcheck, with 63 sets logged across Berlin, Budapest, Lisbon and Malta and 2 more. Often billed alongside 2NDRA, SJ Yellow and Stefunno. Next up: Roxy, Prague on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ RiVid is a techno and acid artist tracked on soundcheck, with 63 sets logged acr
 
 2NDRA, SJ Yellow, Stefunno
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivid/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivid/)*

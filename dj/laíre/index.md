@@ -1,6 +1,6 @@
 # LAÍRE
 
-LAÍRE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+LAÍRE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 LAÍRE is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside Dru Ruiz, Pressure Rhythm and DJ Candor. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LAÍRE is a techno and house artist based in United States of America, tracked o
 
 Dru Ruiz, Pressure Rhythm, DJ Candor
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laíre/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laíre/)*

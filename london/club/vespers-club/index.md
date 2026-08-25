@@ -1,6 +1,6 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "VEN3NO" on Sat, 29 Aug 2026.
+Vespers Club is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "VEN3NO" on Sat, 29 Aug 2026.
 
 Vespers Club is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including AAKAARA, Alexi Shell, Berwick (Live) and Chidera O and 2 more. Browse upcoming dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
@@ -18,4 +18,4 @@ Vespers Club is a music venue in London listed on soundcheck. 5 upcoming nights,
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

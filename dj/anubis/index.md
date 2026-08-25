@@ -1,6 +1,6 @@
 # Anubis
 
-Anubis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Spkrbox, Detroit on Thu, 27 Aug 2026.
+Anubis is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Spkrbox, Detroit on Thu, 27 Aug 2026.
 
 Anubis is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Antwerp, Austin, Detroit and Frankfurt and 1 more. Often billed alongside Sober (1), Proxy and AG (NYC). Next up: Spkrbox, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Anubis is a house and techno artist based in United States of America, tracked o
 
 Sober (1), Proxy, AG (NYC)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anubis/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anubis/)*

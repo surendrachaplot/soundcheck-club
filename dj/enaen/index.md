@@ -1,6 +1,6 @@
 # ENAEN
 
-ENAEN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+ENAEN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
 
 ENAEN is a techno and electro artist based in United States of America, tracked on soundcheck, with 19 sets logged across Edinburgh, Glasgow and London. Often billed alongside ona:v, Iona.Violet and 65west. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ ENAEN is a techno and electro artist based in United States of America, tracked 
 
 ona:v, Iona.Violet, 65west
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enaen/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enaen/)*

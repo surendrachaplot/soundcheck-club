@@ -1,6 +1,6 @@
 # Kiriku
 
-Kiriku is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Cova Santa, Ibiza on Fri, 4 Sept 2026.
+Kiriku is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cova Santa, Ibiza on Fri, 4 Sept 2026.
 
 Kiriku is an electronica and techno artist tracked on soundcheck, with 15 sets logged across Ibiza, London, Milan and Rome. Often billed alongside Bora Uzer, Cristian Croce and AFM. Next up: Cova Santa, Ibiza on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kiriku is an electronica and techno artist tracked on soundcheck, with 15 sets l
 
 Bora Uzer, Cristian Croce, AFM
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiriku/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiriku/)*

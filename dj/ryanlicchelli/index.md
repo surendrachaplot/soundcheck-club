@@ -1,6 +1,6 @@
 # Ryan Licchelli
 
-Ryan Licchelli is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
+Ryan Licchelli is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
 
 Ryan Licchelli is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Arrosa, Odilon's Grip and Ricardo Castro. Next up: Club Cheek, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Ryan Licchelli is a techno and electro artist based in United Kingdom, tracked o
 
 Arrosa, Odilon's Grip, Ricardo Castro
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlicchelli/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlicchelli/)*

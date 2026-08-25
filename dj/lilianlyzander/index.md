@@ -1,6 +1,6 @@
 # Lilian Lyzander
 
-Lilian Lyzander is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+Lilian Lyzander is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 Lilian Lyzander is a techno and ambient artist tracked on soundcheck, with 2 sets logged across Bristol and London. Often billed alongside Alo3, Cosmic Caz and Ivicore. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -18,4 +18,4 @@ Lilian Lyzander is a techno and ambient artist tracked on soundcheck, with 2 set
 
 Alo3, Cosmic Caz, Ivicore
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilianlyzander/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilianlyzander/)*

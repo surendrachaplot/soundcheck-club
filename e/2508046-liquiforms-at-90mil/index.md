@@ -1,6 +1,6 @@
 # Liquiforms at 90mil
 
-Liquiforms at 90mil on Sat 12 Sept, Berlin. 6 acts on the bill: Alif Hilal, Flora Yin-Wong, ophélie and Pablo Diserens and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Liquiforms at 90mil on Sat 12 Sept, Berlin. 7 acts on the bill: Alif Hilal, Flora Yin-Wong, Jana Irmert and ophélie and 3 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Liquiforms at 90mil on Sat 12 Sept, Berlin. 6 acts on the bill: Alif Hilal, Flor
 
 - Alif Hilal
 - Flora Yin-Wong
+- Jana Irmert
 - ophélie
 - Pablo Diserens
 - Slowfoam

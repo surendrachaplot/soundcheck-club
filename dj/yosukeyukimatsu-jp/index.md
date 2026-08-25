@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 ¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist tracked on soundcheck, with 169 sets logged across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -30,4 +30,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

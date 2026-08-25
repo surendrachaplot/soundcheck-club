@@ -1,6 +1,6 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Bitter Babe is a Techno and Latin Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Nick León, Verraco and Kia (AU). Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Bitter Babe is a techno and latin bass artist tracked on soundcheck, with 166 se
 
 Nick León, Verraco, Kia (AU)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

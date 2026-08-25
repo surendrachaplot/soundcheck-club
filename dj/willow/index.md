@@ -1,6 +1,6 @@
 # Willow
 
-Willow is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
+Willow is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
 
 Willow is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: TBA, Liverpool on Sat 5 Sept.
 
@@ -11,7 +11,7 @@ Willow is a house and techno artist tracked on soundcheck, with 126 sets logged 
 | Sat, 5 Sept 2026 | TBA | Liverpool |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | Moon Club | Bristol |
-| Sat, 10 Oct 2026 | Lx Factory | Lisbon |
+| Sat, 10 Oct 2026 | Collect LX Factory | Lisbon |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Willow is a house and techno artist tracked on soundcheck, with 126 sets logged 
 
 Lukas Wigflex, Dr Banana, Bobby.
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*

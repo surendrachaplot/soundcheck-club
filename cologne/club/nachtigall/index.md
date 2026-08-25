@@ -1,6 +1,6 @@
 # Nachtigall
 
-Nachtigall is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "CLUBNACHT w/Sabura" on Sat, 19 Sept 2026.
+Nachtigall is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "CLUBNACHT w/Sabura" on Sat, 19 Sept 2026.
 
 Nachtigall is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including Cosmic Dance and Sabura. Browse upcoming dates, start times and who's playing. Körnerstr. 65, 50823 Köln, Germany.
 
@@ -14,4 +14,4 @@ Nachtigall is a music venue in Cologne listed on soundcheck. 1 upcoming night, w
 
 Körnerstr. 65, 50823 Köln, Germany, Cologne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/nachtigall/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/nachtigall/)*

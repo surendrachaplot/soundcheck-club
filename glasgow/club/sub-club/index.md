@@ -1,6 +1,6 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 30 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Animal Farm: Laure Croft + Quail & CASE" on Fri, 28 Aug 2026.
+Sub Club is a music venue in Glasgow with 30 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Animal Farm: Laure Croft + Quail & CASE" on Fri, 28 Aug 2026.
 
 Sub Club is a music venue in Glasgow listed on soundcheck. 30 upcoming nights, with line-ups including acrosstheboard, Breathe, Carmen Baía and Céleste and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 30 upcoming nights, w
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

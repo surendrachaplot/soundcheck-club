@@ -1,6 +1,6 @@
 # severine
 
-severine is a Acid and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
+severine is a Acid and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
 
 severine is an acid and bass artist tracked on soundcheck, with 21 sets logged across Austin, Bristol, London and Losangeles and 2 more. Often billed alongside Yours Truly (2), Amy Kisnorbo and Bianca Oblivion. Next up: Cakeshop, Seoul on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ severine is an acid and bass artist tracked on soundcheck, with 21 sets logged a
 
 Yours Truly (2), Amy Kisnorbo, Bianca Oblivion
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/severine-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/severine-uk/)*

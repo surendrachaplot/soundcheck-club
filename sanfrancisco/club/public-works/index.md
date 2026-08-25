@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "CASA TULUM - A Tulum Inspired House Music Party" on Fri, 28 Aug 2026.
+Public Works is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "CASA TULUM - A Tulum Inspired House Music Party" on Fri, 28 Aug 2026.
 
 Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including AGROPOL, ALMAS, Âme and BROKE LEG and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

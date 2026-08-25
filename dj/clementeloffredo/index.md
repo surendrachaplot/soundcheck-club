@@ -1,6 +1,6 @@
 # Clemente Loffredo
 
-Clemente Loffredo is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
+Clemente Loffredo is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
 
 Clemente Loffredo is a techno and electronica artist based in Italy, tracked on soundcheck, with 19 sets logged across London and Naples. Often billed alongside Rebecca Delle Piane, Rian Wood and AnGy KoRe. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Clemente Loffredo is a techno and electronica artist based in Italy, tracked on 
 
 Rebecca Delle Piane, Rian Wood, AnGy KoRe
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clementeloffredo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clementeloffredo/)*

@@ -1,6 +1,6 @@
 # Siwilai Radical Club
 
-Siwilai Radical Club is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Krit Morton - All Night Long" on Fri, 28 Aug 2026.
+Siwilai Radical Club is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Krit Morton - All Night Long" on Fri, 28 Aug 2026.
 
 Siwilai Radical Club is a music venue in Bangkok listed on soundcheck. 1 upcoming night, with line-ups including DJ Krit Morton. Browse upcoming dates, start times and who's playing. 148 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110.
 
@@ -14,4 +14,4 @@ Siwilai Radical Club is a music venue in Bangkok listed on soundcheck. 1 upcomin
 
 148 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110, Bangkok
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/siwilai-radical-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/siwilai-radical-club/)*

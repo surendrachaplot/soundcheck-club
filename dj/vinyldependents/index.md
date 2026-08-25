@@ -1,6 +1,6 @@
 # vinyldependents
 
-vinyldependents is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
+vinyldependents is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
 
 vinyldependents is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside Desperate House Guy, 50PHIE and ANKA (2). Next up: Distillery, Leipzig on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ vinyldependents is a techno and house artist based in Germany, tracked on soundc
 
 Desperate House Guy, 50PHIE, ANKA (2)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldependents/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinyldependents/)*

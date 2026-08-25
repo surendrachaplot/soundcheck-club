@@ -1,8 +1,8 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at KOKO, London on Sat, 5 Sept 2026.
+Roy Rosenfeld is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at KOKO, London on Sat, 5 Sept 2026.
 
-Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: KOKO, London on Sat 5 Sept.
+Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Auckland and Austin and 27 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: KOKO, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | KOKO | London |
 | Fri, 2 Oct 2026 | Knockdown Center | New York City |
+| Fri, 9 Oct 2026 | Club Vaag | Antwerp |
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
 | Sun, 25 Oct 2026 | Ijver | Amsterdam |
 
@@ -28,4 +29,4 @@ Roy Rosenfeld is a house and progressive house artist tracked on soundcheck, wit
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

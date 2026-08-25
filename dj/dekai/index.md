@@ -1,6 +1,6 @@
 # deKai
 
-deKai is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 28 Aug 2026.
+deKai is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Der Weiße Hase, Berlin on Fri, 28 Aug 2026.
 
 deKai is a techno and tech house artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin. Often billed alongside eliXenia, Tom Marten and Kevin Wimmer. Next up: Der Weiße Hase, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ deKai is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 eliXenia, Tom Marten, Kevin Wimmer
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dekai/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dekai/)*

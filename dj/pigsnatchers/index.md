@@ -1,6 +1,6 @@
 # pig snatchers
 
-pig snatchers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at XOYO, London on Sat, 24 Oct 2026.
+pig snatchers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at XOYO, London on Sat, 24 Oct 2026.
 
 pig snatchers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Tenacious and Terry Farley. Next up: XOYO, London on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ pig snatchers is a house and tech house artist based in United Kingdom, tracked 
 
 Tenacious, Terry Farley
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pigsnatchers/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pigsnatchers/)*

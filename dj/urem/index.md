@@ -1,6 +1,6 @@
 # Urem
 
-Urem is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at gART.n, Berlin on Sun, 13 Sept 2026.
+Urem is a Downtempo and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at gART.n, Berlin on Sun, 13 Sept 2026.
 
 Urem is a downtempo and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Frida Darko, Sahra Bass and FLAVE. Next up: gART.n, Berlin on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Urem is a downtempo and techno artist based in Germany, tracked on soundcheck, w
 
 Frida Darko, Sahra Bass, FLAVE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urem/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urem/)*

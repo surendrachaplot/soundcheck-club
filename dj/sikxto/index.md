@@ -1,6 +1,6 @@
 # SIKXTO
 
-SIKXTO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
+SIKXTO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
 
 SIKXTO is a techno and trance artist tracked on soundcheck, with 56 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside DTEXX, Filialleiter and Trancestrudel. Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ SIKXTO is a techno and trance artist tracked on soundcheck, with 56 sets logged 
 
 DTEXX, Filialleiter, Trancestrudel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikxto/)*

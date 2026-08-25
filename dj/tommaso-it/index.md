@@ -1,6 +1,6 @@
 # Tommaso (IT)
 
-Tommaso (IT) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Podlasie Club, Chicago on Sat, 5 Sept 2026.
+Tommaso (IT) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Podlasie Club, Chicago on Sat, 5 Sept 2026.
 
 Tommaso (IT) is a house and disco artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Chicago, Detroit and London and 5 more. Often billed alongside CTRLZORA, Gene Hunt and TonyDeepDisco. Next up: Podlasie Club, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tommaso (IT) is a house and disco artist based in Italy, tracked on soundcheck, 
 
 CTRLZORA, Gene Hunt, TonyDeepDisco
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommaso-it/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommaso-it/)*

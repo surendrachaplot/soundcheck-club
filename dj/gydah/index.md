@@ -1,6 +1,6 @@
 # Gydah
 
-Gydah is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at SASS Music Club, Vienna on Sat, 29 Aug 2026.
+Gydah is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at SASS Music Club, Vienna on Sat, 29 Aug 2026.
 
 Gydah is a techno and hardcore artist based in Austria, tracked on soundcheck, with 24 sets logged across Berlin and Vienna. Often billed alongside Mischa Beton, Caniche and Gerald VDH. Next up: SASS Music Club, Vienna on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Gydah is a techno and hardcore artist based in Austria, tracked on soundcheck, w
 
 Mischa Beton, Caniche, Gerald VDH
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gydah/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gydah/)*

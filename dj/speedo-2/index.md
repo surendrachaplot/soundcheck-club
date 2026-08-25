@@ -1,6 +1,6 @@
 # SPEEDO (2)
 
-SPEEDO (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Garagen, Cologne on Sat, 29 Aug 2026.
+SPEEDO (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Garagen, Cologne on Sat, 29 Aug 2026.
 
 SPEEDO (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Cologne. Often billed alongside HENNESY, Pamela Rave and Cobb Douglas. Next up: Garagen, Cologne on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ SPEEDO (2) is a techno and trance artist based in Germany, tracked on soundcheck
 
 HENNESY, Pamela Rave, Cobb Douglas
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speedo-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/speedo-2/)*

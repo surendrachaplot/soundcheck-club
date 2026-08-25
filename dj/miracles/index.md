@@ -1,6 +1,6 @@
 # Miracles
 
-Miracles is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Los Angeles on Fri, 4 Sept 2026.
+Miracles is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Los Angeles on Fri, 4 Sept 2026.
 
 Miracles is a techno and club artist based in United States of America, tracked on soundcheck, with 36 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Shane Thomas, NAYGOD and J.dB. Next up: TBA, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Miracles is a techno and club artist based in United States of America, tracked 
 
 Shane Thomas, NAYGOD, J.dB
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miracles/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miracles/)*

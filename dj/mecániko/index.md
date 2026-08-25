@@ -1,6 +1,6 @@
 # Mecániko
 
-Mecániko is a Bass and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Epiphany Center for the Arts, Chicago on Sat, 19 Sept 2026.
+Mecániko is a Bass and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Epiphany Center for the Arts, Chicago on Sat, 19 Sept 2026.
 
 Mecániko is a bass and uk funky artist tracked on soundcheck, with 7 sets logged across Chicago. Often billed alongside J. Córdova, Liquid City Motors and karennoid. Next up: Epiphany Center for the Arts, Chicago on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Mecániko is a bass and uk funky artist tracked on soundcheck, with 7 sets logge
 
 J. Córdova, Liquid City Motors, karennoid
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mecániko/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mecániko/)*

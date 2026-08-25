@@ -1,6 +1,6 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Anthony Rother is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
 Anthony Rother is a techno and electro artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: FOLD, London on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Anthony Rother is a techno and electro artist tracked on soundcheck, with 84 set
 
 Helena Hauff, Alienata, Asymptote
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

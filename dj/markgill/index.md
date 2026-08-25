@@ -1,14 +1,13 @@
 # Mark Gill
 
-Mark Gill is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Mark Gill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Mark Gill is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside Tania Just, Murrin and Big Leg. Next up: Kater, Berlin on Fri 21 Aug.
+Mark Gill is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Berlin and Copenhagen and 7 more. Often billed alongside Tania Just, Murrin and Big Leg. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Fri, 25 Sept 2026 | TBA - Secret Venue | Berlin |
 
@@ -27,4 +26,4 @@ Mark Gill is a house and techno artist tracked on soundcheck, with 70 sets logge
 
 Tania Just, Murrin, Big Leg
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markgill/)*

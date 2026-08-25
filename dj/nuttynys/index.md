@@ -1,6 +1,6 @@
 # Nutty Nys
 
-Nutty Nys is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
+Nutty Nys is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
 
 Nutty Nys is a house and jazz artist tracked on soundcheck, with 2 sets logged across Amsterdam and London. Often billed alongside DESIREE (RSA), Fred P and KC The Funkaholic. Next up: Paradiso, Amsterdam on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Nutty Nys is a house and jazz artist tracked on soundcheck, with 2 sets logged a
 
 DESIREE (RSA), Fred P, KC The Funkaholic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuttynys/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuttynys/)*

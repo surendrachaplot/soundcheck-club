@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Sweetspot" on Thu, 27 Aug 2026.
+Golden Gate is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sweetspot" on Thu, 27 Aug 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including BelaBang, Hagel, Joe BRT and Meggy and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -16,4 +16,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

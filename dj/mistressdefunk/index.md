@@ -1,6 +1,6 @@
 # Mistress de Funk
 
-Mistress de Funk is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Off The Square, Manchester on Sat, 10 Oct 2026.
+Mistress de Funk is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Off The Square, Manchester on Sat, 10 Oct 2026.
 
 Mistress de Funk is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Manchester. Often billed alongside Chael-UK, MAD Beats and Shumbo Jebang. Next up: Off The Square, Manchester on Sat 10 Oct.
 
@@ -14,4 +14,4 @@ Mistress de Funk is a tech house and house artist based in United Kingdom, track
 
 Chael-UK, MAD Beats, Shumbo Jebang
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mistressdefunk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mistressdefunk/)*

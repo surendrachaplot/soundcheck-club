@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "DJ MASTERS course STUDENT's SETS night" on Fri, 28 Aug 2026.
+Acud Macht NEU is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "DJ MASTERS course STUDENT's SETS night" on Fri, 28 Aug 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Dance, Femdelic, LEYA and TRU:L. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

@@ -1,6 +1,6 @@
 # Nola
 
-Nola is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Studio56, Paris on Thu, 27 Aug 2026.
+Nola is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Studio56, Paris on Thu, 27 Aug 2026.
 
 Nola is a house artist tracked on soundcheck, with 3 sets logged across Chicago and Paris. Often billed alongside Dennis Quin, Kellie Allen and Mon.To. Next up: Studio56, Paris on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Nola is a house artist tracked on soundcheck, with 3 sets logged across Chicago 
 
 Dennis Quin, Kellie Allen, Mon.To
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nola/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nola/)*

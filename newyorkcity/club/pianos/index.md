@@ -1,6 +1,6 @@
 # Pianos
 
-Pianos is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "NOWHERE with Uche, Traxman b2b J-Cush, TCJ b2b Mikasa, JEANNE-PIERRE" on Wed, 26 Aug 2026.
+Pianos is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "NOWHERE with Uche, Traxman b2b J-Cush, TCJ b2b Mikasa, JEANNE-PIERRE" on Wed, 26 Aug 2026.
 
 Pianos is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Adriatic, J-Cush, JEAN-PIERRE and Lil Zé and 2 more. Browse upcoming dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
 
@@ -16,4 +16,4 @@ Pianos is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, 
 
 158 Ludlow Street; New York, NY 10002; United States, New York City
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*

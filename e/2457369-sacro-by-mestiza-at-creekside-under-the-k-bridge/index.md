@@ -1,6 +1,6 @@
 # SACRO BY MESTIZA at Creekside - Under The K Bridge
 
-SACRO BY MESTIZA at Creekside - Under The K Bridge on Fri 18 Sept, Newyorkcity. 1 act on the bill: MËSTIZA. House and Afro House. Preview the line-up and save it on soundcheck.
+SACRO BY MESTIZA at Creekside - Under The K Bridge on Fri 18 Sept, Newyorkcity. 2 acts on the bill: Apache and MËSTIZA. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SACRO BY MESTIZA at Creekside - Under The K Bridge on Fri 18 Sept, Newyorkcity. 
 
 ## Line-up
 
+- Apache
 - MËSTIZA
 
 *Source: [soundcheck](https://soundcheck.club/e/2457369-sacro-by-mestiza-at-creekside-under-the-k-bridge/)*

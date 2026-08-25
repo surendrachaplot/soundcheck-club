@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "KI/KI's Dirty Thirty" on Sat, 29 Aug 2026.
+CLUB RAUM is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "KI/KI's Dirty Thirty" on Sat, 29 Aug 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Aldonna, Alienata, Alex Kassian and Audrey Danza and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -21,4 +21,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights,
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

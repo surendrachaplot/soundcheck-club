@@ -1,6 +1,6 @@
 # Ginster
 
-Ginster is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ramona, Manchester on Sat, 29 Aug 2026.
+Ginster is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ramona, Manchester on Sat, 29 Aug 2026.
 
 Ginster is a garage and grime artist tracked on soundcheck, with 16 sets logged across Manchester. Often billed alongside imad:re, DJ Moo (UK) and SHADEV. Next up: Ramona, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ginster is a garage and grime artist tracked on soundcheck, with 16 sets logged 
 
 imad:re, DJ Moo (UK), SHADEV
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginster/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginster/)*

@@ -1,6 +1,6 @@
 # Elijah
 
-Elijah is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+Elijah is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 Elijah is a club and house artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 14 more. Often billed alongside Moxie, Ahadadream and Bendik Giske. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Elijah is a club and house artist tracked on soundcheck, with 33 sets logged acr
 
 Moxie, Ahadadream, Bendik Giske
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elijah/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elijah/)*

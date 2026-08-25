@@ -1,6 +1,6 @@
 # Lil C
 
-Lil C is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
+Lil C is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
 
 Lil C is a dancehall and club artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Auckland, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Lagoon Femshayma, Handsome Rob and Fiyahdred. Next up: Ormside Projects, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Lil C is a dancehall and club artist based in United Kingdom, tracked on soundch
 
 Lagoon Femshayma, Handsome Rob, Fiyahdred
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*

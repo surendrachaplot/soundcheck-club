@@ -1,6 +1,6 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+SALOME is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 SALOME is a techno and electro artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ SALOME is a techno and electro artist tracked on soundcheck, with 204 sets logge
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

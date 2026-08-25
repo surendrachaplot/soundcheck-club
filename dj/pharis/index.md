@@ -1,6 +1,6 @@
 # Pharis
 
-Pharis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at +Six12, Melbourne on Sat, 29 Aug 2026.
+Pharis is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at +Six12, Melbourne on Sat, 29 Aug 2026.
 
 Pharis is a techno and industrial artist based in South Korea, tracked on soundcheck, with 16 sets logged across Melbourne. Often billed alongside Mai Kah, Halv Drøm and anormalturtle300. Next up: +Six12, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pharis is a techno and industrial artist based in South Korea, tracked on soundc
 
 Mai Kah, Halv Drøm, anormalturtle300
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pharis/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pharis/)*

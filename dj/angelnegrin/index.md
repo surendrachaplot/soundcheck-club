@@ -1,6 +1,6 @@
 # Angel Negrin
 
-Angel Negrin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Safari Lounge, Edinburgh on Fri, 28 Aug 2026.
+Angel Negrin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Safari Lounge, Edinburgh on Fri, 28 Aug 2026.
 
 Angel Negrin is a techno and house artist based in Venezuela, tracked on soundcheck, with 17 sets logged across Aberdeen, Edinburgh and Glasgow. Often billed alongside LOVELL, Co-Accused and Kairogen. Next up: The Safari Lounge, Edinburgh on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Angel Negrin is a techno and house artist based in Venezuela, tracked on soundch
 
 LOVELL, Co-Accused, Kairogen
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*

@@ -1,6 +1,6 @@
 # Alex Sosa
 
-Alex Sosa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Casa Amante Club, Madrid on Wed, 26 Aug 2026.
+Alex Sosa is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Casa Amante Club, Madrid on Wed, 26 Aug 2026.
 
 Alex Sosa is a house and electronica artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona and Madrid. Often billed alongside ATMEN, Alejandro Fernandez and Alvaro Cabana. Next up: Casa Amante Club, Madrid on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Alex Sosa is a house and electronica artist based in Spain, tracked on soundchec
 
 ATMEN, Alejandro Fernandez, Alvaro Cabana
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsosa/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsosa/)*

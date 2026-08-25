@@ -1,6 +1,6 @@
 # Hidden Spheres
 
-Hidden Spheres is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at public records, New York City on Sat, 12 Sept 2026.
+Hidden Spheres is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at public records, New York City on Sat, 12 Sept 2026.
 
 Hidden Spheres is a house and deep house artist tracked on soundcheck, with 54 sets logged across Austin, Bangkok, Berlin and Brisbane and 18 more. Often billed alongside Bradley Zero, Benji B and Dan Shake. Next up: public records, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Hidden Spheres is a house and deep house artist tracked on soundcheck, with 54 s
 
 Bradley Zero, Benji B, Dan Shake
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenspheres/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenspheres/)*

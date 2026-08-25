@@ -1,6 +1,6 @@
 # Jaycut
 
-Jaycut is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Odonien, Cologne on Wed, 26 Aug 2026.
+Jaycut is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Odonien, Cologne on Wed, 26 Aug 2026.
 
 Jaycut is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 41 sets logged across Cologne. Often billed alongside Gourski, Enaly and Jon Void. Next up: Odonien, Cologne on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Jaycut is a techno and drum & bass artist based in Germany, tracked on soundchec
 
 Gourski, Enaly, Jon Void
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycut-de/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycut-de/)*

@@ -1,6 +1,6 @@
 # Felisha Ledesma
 
-Felisha Ledesma is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
+Felisha Ledesma is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
 
 Felisha Ledesma is an experimental and ambient artist tracked on soundcheck, with 5 sets logged across Berlin, Copenhagen, Lisbon and Manchester and 1 more. Often billed alongside Amelia Holt, Angelo Harmsworth and Ben Vince. Next up: Silent Green, Berlin on Thu 1 Oct.
 
@@ -21,4 +21,4 @@ Felisha Ledesma is an experimental and ambient artist tracked on soundcheck, wit
 
 Amelia Holt, Angelo Harmsworth, Ben Vince
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felishaledesma/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felishaledesma/)*

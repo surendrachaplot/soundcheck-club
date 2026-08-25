@@ -1,6 +1,6 @@
 # GLOW (KR)
 
-GLOW (KR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Miscellania, Melbourne on Sat, 19 Sept 2026.
+GLOW (KR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Miscellania, Melbourne on Sat, 19 Sept 2026.
 
 GLOW (KR) is a house and techno artist based in South Korea, tracked on soundcheck, with 21 sets logged across Bangkok, Melbourne and Seoul. Often billed alongside Antwork, Gong and Haemin Kim. Next up: Miscellania, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ GLOW (KR) is a house and techno artist based in South Korea, tracked on soundche
 
 Antwork, Gong, Haemin Kim
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glow-kr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glow-kr/)*

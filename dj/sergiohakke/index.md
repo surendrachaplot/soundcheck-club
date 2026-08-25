@@ -1,6 +1,6 @@
 # SERGIO (HAKKE)
 
-SERGIO (HAKKE) is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LAUT, Barcelona on Fri, 4 Sept 2026.
+SERGIO (HAKKE) is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at LAUT, Barcelona on Fri, 4 Sept 2026.
 
 SERGIO (HAKKE) is a club artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Francesco (BCN), Massi (2) and Albi & Kego. Next up: LAUT, Barcelona on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ SERGIO (HAKKE) is a club artist tracked on soundcheck, with 4 sets logged across
 
 Francesco (BCN), Massi (2), Albi & Kego
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiohakke/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiohakke/)*

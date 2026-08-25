@@ -1,6 +1,6 @@
 # Sobek
 
-Sobek is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 29 Aug 2026.
+Sobek is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 29 Aug 2026.
 
 Sobek is a house and electronica artist based in Hungary, tracked on soundcheck, with 73 sets logged across Berlin, Budapest, Istanbul and Lyon and 1 more. Often billed alongside Captain Knuckles, Daniel Moritz and Mulya. Next up: Aether Club Budapest, Budapest on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sobek is a house and electronica artist based in Hungary, tracked on soundcheck,
 
 Captain Knuckles, Daniel Moritz, Mulya
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsobek/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsobek/)*

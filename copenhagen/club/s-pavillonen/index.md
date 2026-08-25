@@ -1,6 +1,6 @@
 # Søpavillonen
 
-Søpavillonen is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Cinderella" on Fri, 18 Sept 2026.
+Søpavillonen is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Cinderella" on Fri, 18 Sept 2026.
 
 Søpavillonen is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Fedty and RICHE. Browse upcoming dates, start times and who's playing. Gyldenløvesgade 24, 1370 Copenhagen K.
 
@@ -15,4 +15,4 @@ Søpavillonen is a music venue in Copenhagen listed on soundcheck. 2 upcoming ni
 
 Gyldenløvesgade 24, 1370 Copenhagen K, Copenhagen
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/s-pavillonen/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/s-pavillonen/)*

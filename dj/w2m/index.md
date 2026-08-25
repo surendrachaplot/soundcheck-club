@@ -1,6 +1,6 @@
 # W2M
 
-W2M is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
+W2M is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Born 2B Music Bar, Barcelona on Fri, 28 Aug 2026.
 
 W2M is a techno and progressive house artist tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Carvach, IMVIC and Chrissential. Next up: Born 2B Music Bar, Barcelona on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ W2M is a techno and progressive house artist tracked on soundcheck, with 2 sets 
 
 Carvach, IMVIC, Chrissential
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/w2m/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/w2m/)*

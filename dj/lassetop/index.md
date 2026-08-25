@@ -1,6 +1,6 @@
 # Lasse Top
 
-Lasse Top is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Thu, 27 Aug 2026.
+Lasse Top is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Thu, 27 Aug 2026.
 
 Lasse Top is a house and tech house artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Lasse, Michel de Hey and M-High. Next up: SISSI'S Amsterdam, Amsterdam on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ Lasse Top is a house and tech house artist based in Netherlands, tracked on soun
 
 Lasse, Michel de Hey, M-High
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*

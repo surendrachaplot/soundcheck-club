@@ -1,8 +1,8 @@
 # Egg London
 
-Egg London is a music venue in London with 42 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 26 Aug 2026.
+Egg London is a music venue in London with 43 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 26 Aug 2026.
 
-Egg London is a music venue in London listed on soundcheck. 42 upcoming nights, with line-ups including ANMLxPRTY, Cassius Holland, Clefheart and Decimal and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 43 upcoming nights, with line-ups including ANMLxPRTY, Cassius Holland, Clefheart and Decimal and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Egg London is a music venue in London listed on soundcheck. 42 upcoming nights, 
 | Fri, 4 Sept 2026 | Illusion_Underground presents Oscar L [Drumcode / Truesoul] | ANMLxPRTY, DREIAN, Oscar L, Shane Fernandes |
 | Fri, 4 Sept 2026 | Artist Spotlight: Pres: JayZ30 After Party |  |
 | Fri, 4 Sept 2026 | Egg LDN Pres: SUBVRS - Tech House, Deep Tech & Deep House |  |
-| Sat, 5 Sept 2026 | Los De Casa end of summer rooftop day party | Josh Torlot, KEMADA |
+| Fri, 4 Sept 2026 | JAY Z CONCERT AFTER PARTY - LONDON 2026 |  |
 
 ## Address
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

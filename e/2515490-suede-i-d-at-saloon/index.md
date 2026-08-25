@@ -1,6 +1,6 @@
-# suede.i.d at Saloon
+# suede.i.d. at Saloon
 
-suede.i.d at Saloon on Thu 27 Aug, Tokyo. 4 acts on the bill: Andrew (TREKKIE TRAX), Foodman, PANICWORKS and VOX (1). Bass and Hard Drum. Preview the line-up and save it on soundcheck.
+suede.i.d. at Saloon on Thu 27 Aug, Tokyo. 4 acts on the bill: Andrew (TREKKIE TRAX), Foodman, PANICWORKS and VOX (1). Bass and Hard Drum. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

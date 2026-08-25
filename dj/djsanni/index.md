@@ -1,6 +1,6 @@
 # DJ Sanni
 
-DJ Sanni is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 29 Aug 2026.
+DJ Sanni is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 29 Aug 2026.
 
 DJ Sanni is a house and techno artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Max(imus), Ena (DE) and Multifun. Next up: Bulbul Berlin, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ Sanni is a house and techno artist tracked on soundcheck, with 16 sets logged
 
 Max(imus), Ena (DE), Multifun
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsanni/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsanni/)*

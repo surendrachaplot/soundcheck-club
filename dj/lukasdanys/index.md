@@ -1,6 +1,6 @@
 # Lukas Danys
 
-Lukas Danys is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Wed, 26 Aug 2026.
+Lukas Danys is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Wed, 26 Aug 2026.
 
 Lukas Danys is a techno and progressive house artist tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside Debbie Sings, Mikkel Ulriksen and Alfredo92. Next up: Pylonen - Frizonen Langebro, Copenhagen on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Lukas Danys is a techno and progressive house artist tracked on soundcheck, with
 
 Debbie Sings, Mikkel Ulriksen, Alfredo92
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasdanys/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasdanys/)*

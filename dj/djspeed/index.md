@@ -1,6 +1,6 @@
 # DJ Speed
 
-DJ Speed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
+DJ Speed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
 DJ Speed is a techno and house artist based in Ireland, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Dublin and Marseille and 1 more. Often billed alongside DJ Frequency, Beryll and Josh Reid. Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Speed is a techno and house artist based in Ireland, tracked on soundcheck, w
 
 DJ Frequency, Beryll, Josh Reid
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspeed/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djspeed/)*

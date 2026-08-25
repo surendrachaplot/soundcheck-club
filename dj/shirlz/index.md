@@ -1,14 +1,15 @@
 # shirlz
 
-shirlz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mood Ring, New York City on Wed, 2 Sept 2026.
+shirlz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mood Ring, New York City on Wed, 2 Sept 2026.
 
-shirlz is a techno and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside MISS VEE, AJACENT and DJ Sauci Soni. Next up: Mood Ring, Newyorkcity on Wed 2 Sept.
+shirlz is a techno and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside MISS VEE, AJACENT and Petite Nhi. Next up: Mood Ring, Newyorkcity on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Mood Ring | New York City |
+| Mon, 7 Sept 2026 | The Rose | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ shirlz is a techno and house artist based in United States of America, tracked o
 
 ## Shares bills with
 
-MISS VEE, AJACENT, DJ Sauci Soni
+MISS VEE, AJACENT, Petite Nhi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*

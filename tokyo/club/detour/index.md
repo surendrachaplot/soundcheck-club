@@ -1,6 +1,6 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Alternator" on Tue, 25 Aug 2026.
+DeTour is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Alternator" on Tue, 25 Aug 2026.
 
 DeTour is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including ASIN, BEPPU, DJ Die and Jay Turio and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
@@ -20,4 +20,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with l
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

@@ -1,6 +1,6 @@
 # Manaus
 
-Manaus is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ardência nas Águas - Boat Party" on Fri, 28 Aug 2026.
+Manaus is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Ardência nas Águas - Boat Party" on Fri, 28 Aug 2026.
 
 Manaus is a music venue in Athens listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dim. Gounari 47, Glifada 165 61, Greece.
 
@@ -14,4 +14,4 @@ Manaus is a music venue in Athens listed on soundcheck. 1 upcoming night. Browse
 
 Dim. Gounari 47, Glifada 165 61, Greece, Athens
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/manaus/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/manaus/)*

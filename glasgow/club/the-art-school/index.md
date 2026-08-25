@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "[CANCELLED] Carte Blanche // Sunday Service" on Sun, 30 Aug 2026.
+The Art School is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "[CANCELLED] Carte Blanche // Sunday Service" on Sun, 30 Aug 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Bash Man, Bristol Luke, Charlie P and Divergence and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 13 upcoming nig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

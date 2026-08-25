@@ -1,6 +1,6 @@
 # ANTOJITO
 
-ANTOJITO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Green Room NYC, New York City on Fri, 4 Sept 2026.
+ANTOJITO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Green Room NYC, New York City on Fri, 4 Sept 2026.
 
 ANTOJITO is a techno and house artist tracked on soundcheck, with 43 sets logged across Boston and Newyorkcity. Often billed alongside Sterling Juan Diaz, Halcion and Josh Steers. Next up: Green Room NYC, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ANTOJITO is a techno and house artist tracked on soundcheck, with 43 sets logged
 
 Sterling Juan Diaz, Halcion, Josh Steers
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antojito/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antojito/)*

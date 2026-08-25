@@ -1,6 +1,6 @@
 # Filmtheater Sendlinger Tor
 
-Filmtheater Sendlinger Tor is a music venue in Munich with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "25.09.2026 Echonomist presented by Pimpernel" on Fri, 25 Sept 2026.
+Filmtheater Sendlinger Tor is a music venue in Munich with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "25.09.2026 Echonomist presented by Pimpernel" on Fri, 25 Sept 2026.
 
 Filmtheater Sendlinger Tor is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Echonomist, Sonson and Thomas Herb. Browse upcoming dates, start times and who's playing. Sendlinger-Tor-Platz 11 80336 München.
 
@@ -14,4 +14,4 @@ Filmtheater Sendlinger Tor is a music venue in Munich listed on soundcheck. 1 up
 
 Sendlinger-Tor-Platz 11 80336 München, Munich
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/filmtheater-sendlinger-tor/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/filmtheater-sendlinger-tor/)*

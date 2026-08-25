@@ -1,6 +1,6 @@
 # Jacklyn
 
-Jacklyn is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Are You Affiliated, Newcastle on Sun, 30 Aug 2026.
+Jacklyn is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Are You Affiliated, Newcastle on Sun, 30 Aug 2026.
 
 Jacklyn is a techno and trance artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Boo, 1000raks and AYLIN IDAH. Next up: Are You Affiliated, Newcastle on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Jacklyn is a techno and trance artist tracked on soundcheck, with 47 sets logged
 
 Boo, 1000raks, AYLIN IDAH
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*

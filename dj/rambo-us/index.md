@@ -1,6 +1,6 @@
 # Rambo
 
-Rambo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Neon Grotto, Austin on Thu, 27 Aug 2026.
+Rambo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Neon Grotto, Austin on Thu, 27 Aug 2026.
 
 Rambo is a house and deep house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin, Barcelona, Edinburgh and Losangeles. Often billed alongside Knos, Daniel Allen and Kadabra. Next up: Neon Grotto, Austin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Rambo is a house and deep house artist based in United States of America, tracke
 
 Knos, Daniel Allen, Kadabra
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rambo-us/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rambo-us/)*

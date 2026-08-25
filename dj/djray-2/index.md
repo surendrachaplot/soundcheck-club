@@ -1,6 +1,6 @@
 # DJ Ray (2)
 
-DJ Ray (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+DJ Ray (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
 DJ Ray (2) is a house and disco artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Copenhagen, London and Miami and 2 more. Often billed alongside Bort, Souls Departed and True Vine. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ Ray (2) is a house and disco artist based in United States of America, tracke
 
 Bort, Souls Departed, True Vine
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djray-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djray-2/)*

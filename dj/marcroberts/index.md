@@ -1,6 +1,6 @@
 # Marc Roberts
 
-Marc Roberts is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tanjong Beach Club, Singapore on Sat, 29 Aug 2026.
+Marc Roberts is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tanjong Beach Club, Singapore on Sat, 29 Aug 2026.
 
 Marc Roberts is a house and tech house artist tracked on soundcheck, with 12 sets logged across Bangkok, Berlin, Hongkong and Ibiza and 5 more. Often billed alongside Arpy Brown, DJ Wow and David Phillips. Next up: Tanjong Beach Club, Singapore on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Marc Roberts is a house and tech house artist tracked on soundcheck, with 12 set
 
 Arpy Brown, DJ Wow, David Phillips
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcroberts/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcroberts/)*

@@ -1,6 +1,6 @@
 # Cobert
 
-Cobert is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Left Bank, Tbilisi on Fri, 28 Aug 2026.
+Cobert is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Left Bank, Tbilisi on Fri, 28 Aug 2026.
 
 Cobert is an experimental and techno artist based in Georgia, tracked on soundcheck, with 37 sets logged across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Ottonian and Bero. Next up: Left Bank, Tbilisi on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Cobert is an experimental and techno artist based in Georgia, tracked on soundch
 
 Gio Shengelia, Ottonian, Bero
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobert/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobert/)*

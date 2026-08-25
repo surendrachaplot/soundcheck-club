@@ -1,6 +1,6 @@
 # Pam Pam
 
-Pam Pam is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "UWE Bristol Official Freshers - DRIP" on Thu, 17 Sept 2026.
+Pam Pam is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "UWE Bristol Official Freshers - DRIP" on Thu, 17 Sept 2026.
 
 Pam Pam is a music venue in Bristol listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Queens Road, Bristol BS8 1QU, UK.
 
@@ -15,4 +15,4 @@ Pam Pam is a music venue in Bristol listed on soundcheck. 2 upcoming nights. Bro
 
 Queens Road, Bristol BS8 1QU, UK, Bristol
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/pam-pam/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/pam-pam/)*

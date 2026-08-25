@@ -1,6 +1,6 @@
 # Kazu
 
-Kazu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at ZUBAR, Tokyo on Thu, 3 Sept 2026.
+Kazu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at ZUBAR, Tokyo on Thu, 3 Sept 2026.
 
 Kazu is a techno and house artist based in Japan, tracked on soundcheck, with 23 sets logged across Hongkong and Tokyo. Often billed alongside RYUGO, YuWa and shimosoma. Next up: ZUBAR, Tokyo on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Kazu is a techno and house artist based in Japan, tracked on soundcheck, with 23
 
 RYUGO, YuWa, shimosoma
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*

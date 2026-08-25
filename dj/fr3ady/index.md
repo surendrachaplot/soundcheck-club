@@ -1,6 +1,6 @@
 # FR3ADY
 
-FR3ADY is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at W Hotel Amsterdam, Amsterdam on Sun, 30 Aug 2026.
+FR3ADY is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at W Hotel Amsterdam, Amsterdam on Sun, 30 Aug 2026.
 
 FR3ADY is a house and deep house artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Camikazy Uzi, Kirilski and Pura Pachanga. Next up: W Hotel Amsterdam, Amsterdam on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ FR3ADY is a house and deep house artist based in Netherlands, tracked on soundch
 
 Camikazy Uzi, Kirilski, Pura Pachanga
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fr3ady/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fr3ady/)*

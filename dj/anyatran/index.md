@@ -1,6 +1,6 @@
 # Anya Tran
 
-Anya Tran is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - secret location in bed-stuy, New York City on Fri, 11 Sept 2026.
+Anya Tran is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - secret location in bed-stuy, New York City on Fri, 11 Sept 2026.
 
 Anya Tran is an experimental and ambient artist tracked on soundcheck, with 2 sets logged across Newyorkcity and Paris. Often billed alongside December, HIEN and Perila. Next up: TBA - secret location in bed-stuy, Newyorkcity on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Anya Tran is an experimental and ambient artist tracked on soundcheck, with 2 se
 
 December, HIEN, Perila
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyatran/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anyatran/)*

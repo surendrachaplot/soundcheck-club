@@ -1,6 +1,6 @@
 # Illy Noize
 
-Illy Noize is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
+Illy Noize is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
 
 Illy Noize is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Leipzig and Nurnberg. Often billed alongside Emina Helena, Alex Benz and Annie O. Next up: Die Rakete, Nurnberg on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Illy Noize is a techno and house artist based in Germany, tracked on soundcheck,
 
 Emina Helena, Alex Benz, Annie O
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illynoize/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illynoize/)*

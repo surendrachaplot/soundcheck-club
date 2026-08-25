@@ -1,6 +1,6 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 28 Aug 2026.
+ChaseWest is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 ChaseWest is a house and tech house artist tracked on soundcheck, with 47 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: 1015 Folsom, Sanfrancisco on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ ChaseWest is a house and tech house artist tracked on soundcheck, with 47 sets l
 
 Beltran, KinAhau, Max Dean
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chasewest/)*

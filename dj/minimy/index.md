@@ -1,6 +1,6 @@
 # Minimy
 
-Minimy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kraftwerket, Copenhagen on Sat, 12 Sept 2026.
+Minimy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kraftwerket, Copenhagen on Sat, 12 Sept 2026.
 
 Minimy is a techno and trance artist tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside UBER KNAST, ALYOSHA and ASTA MARI. Next up: Kraftwerket, Copenhagen on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Minimy is a techno and trance artist tracked on soundcheck, with 7 sets logged a
 
 UBER KNAST, ALYOSHA, ASTA MARI
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minimy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minimy/)*

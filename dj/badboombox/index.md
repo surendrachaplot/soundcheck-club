@@ -1,6 +1,6 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Bad Boombox is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Bad Boombox is a techno and trance artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -34,4 +34,4 @@ Bad Boombox is a techno and trance artist tracked on soundcheck, with 202 sets l
 
 Mischluft, Janis Zielinski, Ollie Lishman
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*

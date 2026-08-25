@@ -1,6 +1,6 @@
 # Soela
 
-Soela is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
+Soela is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at OXI, Berlin on Sat, 29 Aug 2026.
 
 Soela is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Black Loops, Carlo and Marie Lung. Next up: OXI, Berlin on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Soela is a house and techno artist tracked on soundcheck, with 58 sets logged ac
 
 Black Loops, Carlo, Marie Lung
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soela-ru/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soela-ru/)*

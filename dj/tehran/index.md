@@ -1,6 +1,6 @@
 # Tehran
 
-Tehran is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Forbrændingen, Copenhagen on Sat, 19 Sept 2026.
+Tehran is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Forbrændingen, Copenhagen on Sat, 19 Sept 2026.
 
 Tehran is a techno artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside DJ Cunt, Francesca Burattelli and Rune Kielsgaard. Next up: Forbrændingen, Copenhagen on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Tehran is a techno artist based in Denmark, tracked on soundcheck, with 8 sets l
 
 DJ Cunt, Francesca Burattelli, Rune Kielsgaard
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tehran/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tehran/)*

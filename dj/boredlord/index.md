@@ -1,14 +1,15 @@
 # Bored Lord
 
-Bored Lord is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Airliner, Los Angeles on Fri, 4 Sept 2026.
+Bored Lord is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Airliner, Los Angeles on Fri, 4 Sept 2026.
 
-Bored Lord is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 35 more. Often billed alongside RITCHRD, bastiengoat and Tom Marsi. Next up: The Airliner, Losangeles on Fri 4 Sept.
+Bored Lord is a house and techno artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 35 more. Often billed alongside RITCHRD, bastiengoat and Tom Marsi. Next up: The Airliner, Losangeles on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Airliner | Los Angeles |
+| Sat, 12 Sept 2026 | White Horse Inn | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Bored Lord is a house and techno artist tracked on soundcheck, with 140 sets log
 
 RITCHRD, bastiengoat, Tom Marsi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*

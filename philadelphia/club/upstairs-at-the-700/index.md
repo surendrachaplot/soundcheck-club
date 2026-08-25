@@ -1,6 +1,6 @@
 # Upstairs at the 700
 
-Upstairs at the 700 is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "EAST COAST POWER DYNAMICS ALL VINYL SET WITH NOIR SOLRINGEN" on Thu, 27 Aug 2026.
+Upstairs at the 700 is a music venue in Philadelphia with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "EAST COAST POWER DYNAMICS ALL VINYL SET WITH NOIR SOLRINGEN" on Thu, 27 Aug 2026.
 
 Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 4 upcoming nights, with line-ups including Brad Scott, DJ Baby Berlin, Justin Carver and Mike Textbeak. Browse upcoming dates, start times and who's playing. 700 N 2nd St, Philadelphia, PA 19123, United States.
 
@@ -17,4 +17,4 @@ Upstairs at the 700 is a music venue in Philadelphia listed on soundcheck. 4 upc
 
 700 N 2nd St, Philadelphia, PA 19123, United States, Philadelphia
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/upstairs-at-the-700/)*

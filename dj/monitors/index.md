@@ -1,6 +1,6 @@
 # Monitors
 
-Monitors is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at StereoBar, Montreal on Sun, 6 Sept 2026.
+Monitors is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at StereoBar, Montreal on Sun, 6 Sept 2026.
 
 Monitors is a techno artist based in Canada, tracked on soundcheck, with 16 sets logged across Montreal. Often billed alongside Guillaume Michaud and Opposite Direktion. Next up: StereoBar, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Monitors is a techno artist based in Canada, tracked on soundcheck, with 16 sets
 
 Guillaume Michaud, Opposite Direktion
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monitors/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monitors/)*

@@ -1,14 +1,15 @@
 # Zaatar
 
-Zaatar is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Le Sucre, Lyon on Sun, 30 Aug 2026.
+Zaatar is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Le Sucre, Lyon on Sun, 30 Aug 2026.
 
-Zaatar is an ebm and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: Le Sucre, Lyon on Sun 30 Aug.
+Zaatar is an ebm and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: Le Sucre, Lyon on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Le Sucre | Lyon |
+| Fri, 11 Sept 2026 | KHIDI | Tbilisi |
 | Sat, 26 Sept 2026 | Badaboum | Paris |
 
 ## Recently played
@@ -26,4 +27,4 @@ Zaatar is an ebm and techno artist tracked on soundcheck, with 67 sets logged ac
 
 Jen Cardini, Arabian Panther, Pablo Bozzi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*

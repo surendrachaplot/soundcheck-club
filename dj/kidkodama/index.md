@@ -1,6 +1,6 @@
 # Kid Kodama
 
-Kid Kodama is a Breakbeat and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Porto Pollo, Vienna on Fri, 28 Aug 2026.
+Kid Kodama is a Breakbeat and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Porto Pollo, Vienna on Fri, 28 Aug 2026.
 
 Kid Kodama is a breakbeat and deep house artist tracked on soundcheck, with 9 sets logged across Krakow and Vienna. Often billed alongside GEN-Z, Dzc. and Peletronic. Next up: Porto Pollo, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kid Kodama is a breakbeat and deep house artist tracked on soundcheck, with 9 se
 
 GEN-Z, Dzc., Peletronic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkodama/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkodama/)*

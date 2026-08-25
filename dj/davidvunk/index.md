@@ -1,6 +1,6 @@
 # David Vunk
 
-David Vunk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at De Vleeshal, Amsterdam on Fri, 28 Aug 2026.
+David Vunk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at De Vleeshal, Amsterdam on Fri, 28 Aug 2026.
 
 David Vunk is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Afra, Marsman and Anetha. Next up: De Vleeshal, Amsterdam on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ David Vunk is a house and techno artist tracked on soundcheck, with 156 sets log
 
 Afra, Marsman, Anetha
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*

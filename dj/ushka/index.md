@@ -1,6 +1,6 @@
 # Ushka
 
-Ushka is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
+Ushka is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
 
 Ushka is a club and bass artist based in United States of America, tracked on soundcheck, with 37 sets logged across Losangeles, Montreal, Newyorkcity and Washingtondc. Often billed alongside Riobamba, Zara Dekho and Dynoman. Next up: Webster Hall, Newyorkcity on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ushka is a club and bass artist based in United States of America, tracked on so
 
 Riobamba, Zara Dekho, Dynoman
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ushka/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ushka/)*

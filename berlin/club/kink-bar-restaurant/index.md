@@ -1,6 +1,6 @@
 # Kink Bar & Restaurant
 
-Kink Bar & Restaurant is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Would You Date Without Talking" on Tue, 25 Aug 2026.
+Kink Bar & Restaurant is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Would You Date Without Talking" on Tue, 25 Aug 2026.
 
 Kink Bar & Restaurant is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including ORIOL //. Browse upcoming dates, start times and who's playing. Schönhauser Allee 176,10119 Berlin.
 
@@ -15,4 +15,4 @@ Kink Bar & Restaurant is a music venue in Berlin listed on soundcheck. 2 upcomin
 
 Schönhauser Allee 176,10119 Berlin, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kink-bar-restaurant/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kink-bar-restaurant/)*

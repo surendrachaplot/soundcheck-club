@@ -1,6 +1,6 @@
 # Flying Mojito Bros
 
-Flying Mojito Bros is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
+Flying Mojito Bros is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Loft Studios, London on Sat, 19 Sept 2026.
 
 Flying Mojito Bros is a disco and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Chicago, Ibiza, London and Losangeles and 5 more. Often billed alongside Isaac Ferry, Dombrance and Breakbot. Next up: Loft Studios, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Flying Mojito Bros is a disco and house artist based in United Kingdom, tracked 
 
 Isaac Ferry, Dombrance, Breakbot
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flyingmojitobros/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flyingmojitobros/)*

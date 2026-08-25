@@ -1,6 +1,6 @@
 # Lui (6)
 
-Lui (6) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 31 Aug 2026.
+Lui (6) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Enter Shibuya, Tokyo on Mon, 31 Aug 2026.
 
 Lui (6) is a house and techno artist based in Japan, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside Samo, AMANE and HIZAT. Next up: Enter Shibuya, Tokyo on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Lui (6) is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Samo, AMANE, HIZAT
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lui-6/)*

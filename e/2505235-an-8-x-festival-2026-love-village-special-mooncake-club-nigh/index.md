@@ -1,10 +1,10 @@
 # AN(8)X festival 2026: Love Village, Special Mooncake Club Night at Lark
 
-AN(8)X festival 2026: Love Village, Special Mooncake Club Night at Lark on Fri 14 Aug, Berlin. Electro and Club. Preview the line-up and save it on soundcheck.
+AN(8)X festival 2026: Love Village, Special Mooncake Club Night at Lark on Fri 25 Sept, Berlin. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 14 Aug 2026 |
+| Date | Fri, 25 Sept 2026 |
 | Venue | Lark |
 | City | Berlin |
 

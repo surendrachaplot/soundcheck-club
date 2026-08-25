@@ -1,6 +1,6 @@
 # POSI FLO
 
-POSI FLO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Golden Gate, Berlin on Fri, 28 Aug 2026.
+POSI FLO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Golden Gate, Berlin on Fri, 28 Aug 2026.
 
 POSI FLO is a house and techno artist based in South Africa, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin and Mallorca. Often billed alongside 10.000 BC, AGILY and Abscal. Next up: Golden Gate, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ POSI FLO is a house and techno artist based in South Africa, tracked on soundche
 
 10.000 BC, AGILY, Abscal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/posiflo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/posiflo/)*

@@ -1,8 +1,8 @@
 # e.leptic
 
-e.leptic is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at KitKatClub, Berlin on Thu, 27 Aug 2026.
+e.leptic is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at KitKatClub, Berlin on Thu, 27 Aug 2026.
 
-e.leptic is a techno and trance artist tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Munich. Often billed alongside EZA (DE), MIMI404 and E.T.. Next up: KitKatClub, Berlin on Thu 27 Aug.
+e.leptic is a techno and trance artist tracked on soundcheck, with 40 sets logged across Berlin, Hamburg and Munich. Often billed alongside EZA (DE), MIMI404 and E.T.. Next up: KitKatClub, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ e.leptic is a techno and trance artist tracked on soundcheck, with 39 sets logge
 | Thu, 27 Aug 2026 | KitKatClub | Berlin |
 | Fri, 4 Sept 2026 | Humboldthain Club | Berlin |
 | Fri, 11 Sept 2026 | Fundbureau | Hamburg |
+| Sat, 12 Sept 2026 | Void Club | Berlin |
 | Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |
 
@@ -29,4 +30,4 @@ e.leptic is a techno and trance artist tracked on soundcheck, with 39 sets logge
 
 EZA (DE), MIMI404, E.T.
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.leptic/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.leptic/)*

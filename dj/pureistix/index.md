@@ -1,6 +1,6 @@
 # Pureistix
 
-Pureistix is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Time is the new space, Rotterdam on Sat, 12 Sept 2026.
+Pureistix is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Time is the new space, Rotterdam on Sat, 12 Sept 2026.
 
 Pureistix is an electronic artist tracked on soundcheck, with 2 sets logged across Rotterdam. Often billed alongside Beleo, Boss Riga and Oceanic. Next up: Time is the new space, Rotterdam on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Pureistix is an electronic artist tracked on soundcheck, with 2 sets logged acro
 
 Beleo, Boss Riga, Oceanic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pureistix/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pureistix/)*

@@ -1,6 +1,6 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Emanuel Satie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Emanuel Satie is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Emanuel Satie is a house and techno artist tracked on soundcheck, with 93 sets l
 
 MAGA, Sean Doron, Sven Vath
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*

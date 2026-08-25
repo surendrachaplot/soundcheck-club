@@ -1,6 +1,6 @@
 # Caelestis
 
-Caelestis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
+Caelestis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Amsterdam on Sat, 29 Aug 2026.
 
 Caelestis is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam. Often billed alongside Vale.T, rebrånded and Federico Patafi. Next up: TBA, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Caelestis is a techno and tech house artist based in Netherlands, tracked on sou
 
 Vale.T, rebrånded, Federico Patafi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caelestis/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caelestis/)*

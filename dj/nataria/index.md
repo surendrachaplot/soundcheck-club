@@ -1,6 +1,6 @@
 # nataria
 
-nataria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Forestlimit, Tokyo on Fri, 4 Sept 2026.
+nataria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Forestlimit, Tokyo on Fri, 4 Sept 2026.
 
 nataria is a techno and house artist based in Russia, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside AME (JP), LogicBeat and Natasha (VE). Next up: Forestlimit, Tokyo on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ nataria is a techno and house artist based in Russia, tracked on soundcheck, wit
 
 AME (JP), LogicBeat, Natasha (VE)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataria/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataria/)*

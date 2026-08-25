@@ -1,6 +1,6 @@
 # Octave One [Sydney] at Oxford Art Factory
 
-Octave One [Sydney] at Oxford Art Factory on Fri 28 Aug, Sydney. 1 act on the bill: Octave One. Preview the line-up and save it on soundcheck.
+Octave One [Sydney] at Oxford Art Factory on Fri 28 Aug, Sydney. 1 act on the bill: Octave One. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

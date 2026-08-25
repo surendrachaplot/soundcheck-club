@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Interdimensional Transmissions x Clone Records" on Fri, 28 Aug 2026.
+export is a music venue in Rotterdam with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Interdimensional Transmissions x Clone Records" on Fri, 28 Aug 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 5 upcoming nights, with line-ups including Ben Diggins, BMG, Bukkha and Ectomorph and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -18,4 +18,4 @@ export is a music venue in Rotterdam listed on soundcheck. 5 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

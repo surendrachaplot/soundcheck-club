@@ -1,14 +1,15 @@
 # Jean Pascal Groove
 
-Jean Pascal Groove is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Système, Montreal on Fri, 28 Aug 2026.
+Jean Pascal Groove is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Système, Montreal on Fri, 28 Aug 2026.
 
-Jean Pascal Groove is a house and disco artist tracked on soundcheck, with 53 sets logged across Montreal and Toronto. Often billed alongside Groovy Castle, Lia Plutonic and Sherifsound. Next up: Système, Montreal on Fri 28 Aug.
+Jean Pascal Groove is a house and disco artist tracked on soundcheck, with 54 sets logged across Montreal and Toronto. Often billed alongside Groovy Castle, Lia Plutonic and Sherifsound. Next up: Système, Montreal on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Système | Montreal |
+| Fri, 25 Sept 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jean Pascal Groove is a house and disco artist tracked on soundcheck, with 53 se
 
 Groovy Castle, Lia Plutonic, Sherifsound
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpascalgroove/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpascalgroove/)*

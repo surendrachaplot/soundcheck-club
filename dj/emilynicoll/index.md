@@ -1,6 +1,6 @@
 # Emily Nicoll
 
-Emily Nicoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mooi Space, Toronto on Fri, 11 Sept 2026.
+Emily Nicoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mooi Space, Toronto on Fri, 11 Sept 2026.
 
 Emily Nicoll is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin and Toronto. Often billed alongside 747, Measure Divide and Circumscums. Next up: Mooi Space, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Emily Nicoll is a techno and house artist tracked on soundcheck, with 13 sets lo
 
 747, Measure Divide, Circumscums
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilynicoll/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilynicoll/)*

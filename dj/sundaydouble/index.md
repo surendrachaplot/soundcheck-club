@@ -1,6 +1,6 @@
 # Sunday Double
 
-Sunday Double is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Anchor Rock Club, Philadelphia on Thu, 27 Aug 2026.
+Sunday Double is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Anchor Rock Club, Philadelphia on Thu, 27 Aug 2026.
 
 Sunday Double is a house and dancehall artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside sersol, .breeze and Big Queso. Next up: Anchor Rock Club, Philadelphia on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ Sunday Double is a house and dancehall artist based in United States of America,
 
 sersol, .breeze, Big Queso
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaydouble/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sundaydouble/)*

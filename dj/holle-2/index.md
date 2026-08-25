@@ -1,6 +1,6 @@
 # HØLLE (2)
 
-HØLLE (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+HØLLE (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 HØLLE (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 75 sets logged across Athens, Berlin, Frankfurt and Krakow and 2 more. Often billed alongside DJ TIPSTER, DiskoJochen and DJ BRECHSTANGE. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ HØLLE (2) is a techno and trance artist based in Germany, tracked on soundcheck
 
 DJ TIPSTER, DiskoJochen, DJ BRECHSTANGE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holle-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holle-2/)*

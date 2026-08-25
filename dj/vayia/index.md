@@ -1,8 +1,8 @@
 # Vayia
 
-Vayia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Système, Montreal on Fri, 28 Aug 2026.
+Vayia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Système, Montreal on Fri, 28 Aug 2026.
 
-Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 27 sets logged across Montreal. Often billed alongside Andrea de Tour, Queenie Jr and DJ Cinéma Quartier Latin. Next up: Système, Montreal on Fri 28 Aug.
+Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside Andrea de Tour, Queenie Jr and DJ Cinéma Quartier Latin. Next up: Système, Montreal on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Système | Montreal |
 | Sat, 12 Sept 2026 | Société des arts technologiques | Montreal |
+| Thu, 17 Sept 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Vayia is a house and techno artist based in Canada, tracked on soundcheck, with 
 
 Andrea de Tour, Queenie Jr, DJ Cinéma Quartier Latin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vayia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vayia/)*

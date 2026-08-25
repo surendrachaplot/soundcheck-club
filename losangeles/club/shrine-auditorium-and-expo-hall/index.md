@@ -1,6 +1,6 @@
 # Shrine Auditorium and Expo Hall
 
-Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "CRANKDAT - 5th night added" on Wed, 26 Aug 2026.
+Shrine Auditorium and Expo Hall is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "CRANKDAT - 5th night added" on Wed, 26 Aug 2026.
 
 Shrine Auditorium and Expo Hall is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including &friends, Channel Tres, Madeon and Max Styler and 1 more. Browse upcoming dates, start times and who's playing. 665 W. Jefferson Blvd, Los Angeles, CA 90007.
 
@@ -20,4 +20,4 @@ Shrine Auditorium and Expo Hall is a music venue in Losangeles listed on soundch
 
 665 W. Jefferson Blvd, Los Angeles, CA 90007, Los Angeles
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/shrine-auditorium-and-expo-hall/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/shrine-auditorium-and-expo-hall/)*

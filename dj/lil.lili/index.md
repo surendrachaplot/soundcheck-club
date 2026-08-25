@@ -1,6 +1,6 @@
 # lil.lili
 
-lil.lili is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+lil.lili is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
 
 lil.lili is a downtempo and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Hamburg, Munich and Nurnberg. Often billed alongside A.B.U., Antoine Baiser and EXZ. Next up: Südpol, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ lil.lili is a downtempo and techno artist based in Germany, tracked on soundchec
 
 A.B.U., Antoine Baiser, EXZ
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lil.lili/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lil.lili/)*

@@ -1,6 +1,6 @@
 # kzeus
 
-kzeus is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+kzeus is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 kzeus is a house and disco artist tracked on soundcheck, with 7 sets logged across Miami. Often billed alongside Grove Shaman, Nii Tei and RO3. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ kzeus is a house and disco artist tracked on soundcheck, with 7 sets logged acro
 
 Grove Shaman, Nii Tei, RO3
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kzeus/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kzeus/)*

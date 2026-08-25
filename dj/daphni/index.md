@@ -1,6 +1,6 @@
 # Daphni
 
-Daphni is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Daphni is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Daphni is a house and electronica artist based in Canada, tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Barcelona and Brighton and 25 more. Often billed alongside Floating Points, Ben UFO and Four Tet. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Daphni is a house and electronica artist based in Canada, tracked on soundcheck,
 
 Floating Points, Ben UFO, Four Tet
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

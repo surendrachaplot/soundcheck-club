@@ -1,6 +1,6 @@
 # Beaven
 
-Beaven is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
+Beaven is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
 
 Beaven is a breakbeat and electro artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside PANACEA, Myff Busta and Kutchi. Next up: The Glove That Fits, London on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Beaven is a breakbeat and electro artist tracked on soundcheck, with 3 sets logg
 
 PANACEA, Myff Busta, Kutchi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaven/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaven/)*

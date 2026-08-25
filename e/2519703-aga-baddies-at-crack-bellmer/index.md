@@ -1,6 +1,6 @@
 # AGA baddies at Crack Bellmer
 
-AGA baddies at Crack Bellmer on Sat 12 Sept, Berlin. 3 acts on the bill: babxi, Daya Pruna and Do you know Juno. House and Deep House. Preview the line-up and save it on soundcheck.
+AGA baddies at Crack Bellmer on Sat 12 Sept, Berlin. 4 acts on the bill: babxi, DAAS (1), Daya Pruna and Do you know Juno. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ AGA baddies at Crack Bellmer on Sat 12 Sept, Berlin. 3 acts on the bill: babxi, 
 ## Line-up
 
 - babxi
+- DAAS (1)
 - Daya Pruna
 - Do you know Juno
 

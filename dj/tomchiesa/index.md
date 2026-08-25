@@ -1,6 +1,6 @@
 # TOM CHIESA
 
-TOM CHIESA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 5 Sept 2026.
+TOM CHIESA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 5 Sept 2026.
 
 TOM CHIESA is a techno and electronica artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Rubén Secaduras, PATTY&SELMA and ADHDaddy. Next up: Kømplex Lisbon, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ TOM CHIESA is a techno and electronica artist tracked on soundcheck, with 44 set
 
 Rubén Secaduras, PATTY&SELMA, ADHDaddy
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomchiesa/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomchiesa/)*

@@ -1,6 +1,6 @@
 # Dusty Dan
 
-Dusty Dan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Carpet Shop, London on Sun, 30 Aug 2026.
+Dusty Dan is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Carpet Shop, London on Sun, 30 Aug 2026.
 
 Dusty Dan is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Bristol, Budapest, Dublin and Edinburgh and 10 more. Often billed alongside smokey.t, ZEMA and Aloka. Next up: The Carpet Shop, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Dusty Dan is a techno and bass artist based in United Kingdom, tracked on soundc
 
 smokey.t, ZEMA, Aloka
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustydan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustydan/)*

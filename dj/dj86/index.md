@@ -1,6 +1,6 @@
 # DJ 86
 
-DJ 86 is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+DJ 86 is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
 
 DJ 86 is a club and techno artist tracked on soundcheck, with 101 sets logged across Berlin, Hongkong, Seoul and Shenzhen. Often billed alongside Beibeilon, zzm (2) and Foambb. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DJ 86 is a club and techno artist tracked on soundcheck, with 101 sets logged ac
 
 Beibeilon, zzm (2), Foambb
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj86/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj86/)*

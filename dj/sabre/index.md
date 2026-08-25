@@ -1,6 +1,6 @@
 # Sabre
 
-Sabre is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Smolna, Warsaw on Sat, 5 Sept 2026.
+Sabre is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Smolna, Warsaw on Sat, 5 Sept 2026.
 
 Sabre is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London, Losangeles, Manchester and Warsaw. Often billed alongside Eksman, Skepsis and Sub Zero. Next up: Smolna, Warsaw on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Sabre is a drum & bass and techno artist based in United Kingdom, tracked on sou
 
 Eksman, Skepsis, Sub Zero
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre/)*

@@ -1,6 +1,6 @@
 # Carlita
 
-Carlita is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Carlita is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
 Carlita is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: DC-10, Ibiza on Mon 24 Aug.
 
@@ -18,6 +18,7 @@ Carlita is a house and techno artist tracked on soundcheck, with 193 sets logged
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 24 Aug 2026
 - Sunset Park Rooftop, New York City — Fri, 7 Aug 2026
 - DC-10, Ibiza — Mon, 27 Jul 2026
 - Scorpios, Mykonos — Sun, 26 Jul 2026
@@ -25,10 +26,9 @@ Carlita is a house and techno artist tracked on soundcheck, with 193 sets logged
 - TBA - Parque do Avioso, Porto — Sat, 27 Jun 2026
 - Kaufleuten, Zurich — Sat, 27 Jun 2026
 - Horse Park Zürich, Zurich — Fri, 26 Jun 2026
-- Island Athens Riviera, Athens — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

@@ -1,14 +1,15 @@
 # GNMR
 
-GNMR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Nocturna, Ibiza on Fri, 28 Aug 2026.
+GNMR is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Nocturna, Ibiza on Fri, 28 Aug 2026.
 
-GNMR is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Nocturna, Ibiza on Fri 28 Aug.
+GNMR is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bali, Barcelona and Berlin and 21 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Nocturna, Ibiza on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Nocturna | Ibiza |
+| Thu, 3 Sept 2026 | Hotel Butterfly | Rome |
 | Sun, 6 Sept 2026 | Gaffe | London |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 
@@ -27,4 +28,4 @@ GNMR is a techno and house artist tracked on soundcheck, with 137 sets logged ac
 
 Marcolino, IRIDE, Giammarco Orsini
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gnmr/)*

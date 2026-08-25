@@ -1,6 +1,6 @@
 # Jevon Jackson
 
-Jevon Jackson is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
+Jevon Jackson is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Humboldt Park, Chicago on Sat, 29 Aug 2026.
 
 Jevon Jackson is a house and deep house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago. Often billed alongside Gene Hunt, Duke Shin and Adorio. Next up: TBA - Humboldt Park, Chicago on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Jevon Jackson is a house and deep house artist based in United States of America
 
 Gene Hunt, Duke Shin, Adorio
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jevonjackson/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jevonjackson/)*

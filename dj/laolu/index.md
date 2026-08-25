@@ -1,6 +1,6 @@
 # Laolu
 
-Laolu is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
+Laolu is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at VENT, Tokyo on Fri, 28 Aug 2026.
 
 Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside La Forêt, Ankhoï and Rimbu (CH). Next up: VENT, Tokyo on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Laolu is an afro house and house artist tracked on soundcheck, with 92 sets logg
 
 La Forêt, Ankhoï, Rimbu (CH)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laolu/)*

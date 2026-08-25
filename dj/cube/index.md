@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 10 Oct 2026.
+Cube is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 10 Oct 2026.
 
 Cube is a techno and drum & bass artist tracked on soundcheck, with 5 sets logged across Antwerp, Detroit, Frankfurt and Manchester and 1 more. Often billed alongside Felixculpah, Hypho and INSTANT. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Cube is a techno and drum & bass artist tracked on soundcheck, with 5 sets logge
 
 Felixculpah, Hypho, INSTANT
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cube/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cube/)*

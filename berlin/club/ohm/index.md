@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Neighbourhood with Stenny, Tasha & Victor" on Thu, 27 Aug 2026.
+OHM is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Neighbourhood with Stenny, Tasha & Victor" on Thu, 27 Aug 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Alexy, Anja Schneider, Anna Butter and Antal and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with li
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

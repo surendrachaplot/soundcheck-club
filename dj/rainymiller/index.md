@@ -1,6 +1,6 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
+Rainy Miller is a Experimental and Electronica artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
 
 Rainy Miller is an experimental and electronica artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: TBA - Raketenstation Hombroich, Cologne on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Rainy Miller is an experimental and electronica artist tracked on soundcheck, wi
 
 2K88, Bianca Scout, aya
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*

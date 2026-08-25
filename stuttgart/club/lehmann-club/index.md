@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "BOUNCE N SCHRANZ with DICE, GEØRGE RADSPORT, Gustav Ørgano, KOTORRI b2b EDNA" on Fri, 28 Aug 2026.
+Lehmann Club is a music venue in Stuttgart with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "BOUNCE N SCHRANZ with DICE, GEØRGE RADSPORT, Gustav Ørgano, KOTORRI b2b EDNA" on Fri, 28 Aug 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 3 upcoming nights, with line-ups including Ben Hille, Blawan, DICE and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -16,4 +16,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 3 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

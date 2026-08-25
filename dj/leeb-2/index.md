@@ -1,6 +1,6 @@
 # Leeb (2)
 
-Leeb (2) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
+Leeb (2) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at LIVE EVIL, Munich on Sat, 29 Aug 2026.
 
 Leeb (2) is a minimal and house artist tracked on soundcheck, with 5 sets logged across Munich. Often billed alongside DJ HOT, iamluie and julës jay. Next up: LIVE EVIL, Munich on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Leeb (2) is a minimal and house artist tracked on soundcheck, with 5 sets logged
 
 DJ HOT, iamluie, julës jay
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leeb-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leeb-2/)*

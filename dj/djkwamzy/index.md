@@ -1,6 +1,6 @@
 # DJ Kwamzy
 
-DJ Kwamzy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Strongroom Bar, London on Fri, 28 Aug 2026.
+DJ Kwamzy is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Strongroom Bar, London on Fri, 28 Aug 2026.
 
 DJ Kwamzy is an afro house and afro tech artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London and Toronto. Often billed alongside Kwamzy, Golden Lady and AADJA. Next up: Strongroom Bar, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Kwamzy is an afro house and afro tech artist based in United Kingdom, tracked
 
 Kwamzy, Golden Lady, AADJA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkwamzy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkwamzy/)*

@@ -1,6 +1,6 @@
 # Mike Scot
 
-Mike Scot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Madam, Amsterdam on Sat, 29 Aug 2026.
+Mike Scot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Madam, Amsterdam on Sat, 29 Aug 2026.
 
 Mike Scot is a house and tech house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, London and Thehague. Often billed alongside Project89, Jochem Hamerling and Proudly People. Next up: Madam, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mike Scot is a house and tech house artist based in Netherlands, tracked on soun
 
 Project89, Jochem Hamerling, Proudly People
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikescot/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikescot/)*

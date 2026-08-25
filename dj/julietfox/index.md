@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
+Juliet Fox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 16 Sept 2026.
 
 Juliet Fox is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Amnesia Ibiza, Ibiza on Wed 16 Sept.
 
@@ -28,4 +28,4 @@ Juliet Fox is a techno and house artist tracked on soundcheck, with 110 sets log
 
 Adam Beyer, Joyhauser, Layton Giordani
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

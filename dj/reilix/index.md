@@ -1,6 +1,6 @@
 # REILIX
 
-REILIX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Thomas Read Pub, Hamburg on Sat, 12 Sept 2026.
+REILIX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Thomas Read Pub, Hamburg on Sat, 12 Sept 2026.
 
 REILIX is a techno and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg. Often billed alongside TWOFACEDKIMMY, Unromantic and Pamadii. Next up: Thomas Read Pub, Hamburg on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ REILIX is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 TWOFACEDKIMMY, Unromantic, Pamadii
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reilix/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reilix/)*

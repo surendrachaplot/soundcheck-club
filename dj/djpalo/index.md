@@ -1,6 +1,6 @@
 # DJ Palo
 
-DJ Palo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at EL SÓTANO, Madrid on Sat, 12 Sept 2026.
+DJ Palo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at EL SÓTANO, Madrid on Sat, 12 Sept 2026.
 
 DJ Palo is a house and electronica artist tracked on soundcheck, with 12 sets logged across Krakow and Madrid. Often billed alongside Ali Overdrive, Allisson Nunes and Ana Sant. Next up: EL SÓTANO, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Palo is a house and electronica artist tracked on soundcheck, with 12 sets lo
 
 Ali Overdrive, Allisson Nunes, Ana Sant
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpalo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpalo/)*

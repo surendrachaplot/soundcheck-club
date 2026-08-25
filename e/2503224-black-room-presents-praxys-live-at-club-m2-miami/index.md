@@ -1,6 +1,6 @@
 # BLACK ROOM presents Praxys Live at Club M2 Miami
 
-BLACK ROOM presents Praxys Live at Club M2 Miami on Sat 29 Aug, Miami. 3 acts on the bill: Cimino, Mr. Proper and Praxys. Techno. Preview the line-up and save it on soundcheck.
+BLACK ROOM presents Praxys Live at Club M2 Miami on Sat 29 Aug, Miami. 4 acts on the bill: Cimino, JOV/\N, Mr. Proper and Praxys. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ BLACK ROOM presents Praxys Live at Club M2 Miami on Sat 29 Aug, Miami. 3 acts on
 ## Line-up
 
 - Cimino
+- JOV/\N
 - Mr. Proper
 - Praxys
 

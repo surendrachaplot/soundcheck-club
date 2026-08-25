@@ -1,6 +1,6 @@
 # Dimatteo
 
-Dimatteo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Refuge, New York City on Sat, 26 Sept 2026.
+Dimatteo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Refuge, New York City on Sat, 26 Sept 2026.
 
 Dimatteo is a house and minimal artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Kofman, Michelangelo and Dj incognito mode. Next up: Refuge, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dimatteo is a house and minimal artist based in United States of America, tracke
 
 Kofman, Michelangelo, Dj incognito mode
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimatteo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimatteo/)*

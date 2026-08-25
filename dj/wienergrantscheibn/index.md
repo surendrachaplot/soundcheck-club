@@ -1,6 +1,6 @@
 # Wiener Grantscheibn
 
-Wiener Grantscheibn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Donauinsel, Vienna on Sat, 5 Sept 2026.
+Wiener Grantscheibn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Donauinsel, Vienna on Sat, 5 Sept 2026.
 
 Wiener Grantscheibn is a tech house and house artist tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Max Kernmayer, Bernd Amman and MEETFRANKA. Next up: Donauinsel, Vienna on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wiener Grantscheibn is a tech house and house artist tracked on soundcheck, with
 
 Max Kernmayer, Bernd Amman, MEETFRANKA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wienergrantscheibn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wienergrantscheibn/)*

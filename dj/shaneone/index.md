@@ -1,6 +1,6 @@
 # Shane One
 
-Shane One is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
+Shane One is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Sultan Room, New York City on Sun, 27 Sept 2026.
 
 Shane One is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Berlin, Newyorkcity and Sanfrancisco. Often billed alongside Lil'T, Anthony Mansfield and Galen. Next up: The Sultan Room, Newyorkcity on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Shane One is a house and disco artist based in United States of America, tracked
 
 Lil'T, Anthony Mansfield, Galen
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneone/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneone/)*

@@ -1,6 +1,6 @@
 # Khoshekh
 
-Khoshekh is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Observatory Sky Bar, London on Fri, 4 Sept 2026.
+Khoshekh is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Observatory Sky Bar, London on Fri, 4 Sept 2026.
 
 Khoshekh is a progressive house and deep house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Simon Shehata, AALEX and Alythia Kwan. Next up: The Observatory Sky Bar, London on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Khoshekh is a progressive house and deep house artist tracked on soundcheck, wit
 
 Simon Shehata, AALEX, Alythia Kwan
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khoshekh/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khoshekh/)*

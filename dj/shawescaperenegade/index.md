@@ -1,14 +1,15 @@
 # Shawescape Renegade
 
-Shawescape Renegade is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TV Lounge, Detroit on Thu, 27 Aug 2026.
+Shawescape Renegade is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TV Lounge, Detroit on Thu, 27 Aug 2026.
 
-Shawescape Renegade is a techno and electro artist based in United States of America, tracked on soundcheck, with 63 sets logged across Berlin, Denver, Detroit and Hongkong and 2 more. Often billed alongside DJ Roach, Erika and LATEX GIRL. Next up: TV Lounge, Detroit on Thu 27 Aug.
+Shawescape Renegade is a techno and electro artist based in United States of America, tracked on soundcheck, with 64 sets logged across Berlin, Denver, Detroit and Hongkong and 2 more. Often billed alongside DJ Roach, Erika and LATEX GIRL. Next up: TV Lounge, Detroit on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | TV Lounge | Detroit |
+| Wed, 2 Sept 2026 | Spkrbox | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shawescape Renegade is a techno and electro artist based in United States of Ame
 
 DJ Roach, Erika, LATEX GIRL
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawescaperenegade/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawescaperenegade/)*

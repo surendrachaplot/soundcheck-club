@@ -1,6 +1,6 @@
 # Dj Quien
 
-Dj Quien is a Hip-Hop and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Panke, Berlin on Thu, 27 Aug 2026.
+Dj Quien is a Hip-Hop and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Panke, Berlin on Thu, 27 Aug 2026.
 
 Dj Quien is a hip-hop and drum & bass artist tracked on soundcheck, with 65 sets logged across Berlin and Hamburg. Often billed alongside Tommy Lexxus, VILIFY and CP4C. Next up: Panke, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Dj Quien is a hip-hop and drum & bass artist tracked on soundcheck, with 65 sets
 
 Tommy Lexxus, VILIFY, CP4C
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*

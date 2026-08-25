@@ -1,6 +1,6 @@
 # DJ GHEPARD
 
-DJ GHEPARD is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, London on Sat, 7 Nov 2026.
+DJ GHEPARD is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, London on Sat, 7 Nov 2026.
 
 DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside t0ni, gmaail and 7777 の天使. Next up: TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 69 sets
 
 t0ni, gmaail, 7777 の天使
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*

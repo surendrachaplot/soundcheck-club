@@ -1,6 +1,6 @@
 # dj sex (MX)
 
-dj sex (MX) is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at CHICO, Mexico City on Sat, 26 Sept 2026.
+dj sex (MX) is a Club and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at CHICO, Mexico City on Sat, 26 Sept 2026.
 
 dj sex (MX) is a club and reggaeton artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside CÁRPATOS, Mensik and 1OO1O. Next up: CHICO, Mexicocity on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ dj sex (MX) is a club and reggaeton artist based in Mexico, tracked on soundchec
 
 CÁRPATOS, Mensik, 1OO1O
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsex-mx/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsex-mx/)*

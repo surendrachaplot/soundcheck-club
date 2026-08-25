@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Rani's Room presents Open Decks" on Wed, 26 Aug 2026.
+Mood Ring is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Rani's Room presents Open Decks" on Wed, 26 Aug 2026.
 
 Mood Ring is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Ah Dek, Alejandra Sabillón, ASTER (DJ) and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nigh
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

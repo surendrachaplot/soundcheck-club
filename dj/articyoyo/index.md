@@ -1,6 +1,6 @@
 # Artic Yoyo
 
-Artic Yoyo is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - MEDER, Budapest on Wed, 26 Aug 2026.
+Artic Yoyo is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - MEDER, Budapest on Wed, 26 Aug 2026.
 
 Artic Yoyo is a minimal and tech house artist tracked on soundcheck, with 22 sets logged across Budapest. Often billed alongside Zsikla, Drabar and Ratkay. Next up: TBA - MEDER, Budapest on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Artic Yoyo is a minimal and tech house artist tracked on soundcheck, with 22 set
 
 Zsikla, Drabar, Ratkay
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/articyoyo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/articyoyo/)*

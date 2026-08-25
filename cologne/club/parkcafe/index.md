@@ -1,6 +1,6 @@
 # Parkcafe
 
-Parkcafe is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Electric Cafe Open Air with Steve Bug, Marcus Worgull und Nikity" on Sun, 6 Sept 2026.
+Parkcafe is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Electric Cafe Open Air with Steve Bug, Marcus Worgull und Nikity" on Sun, 6 Sept 2026.
 
 Parkcafe is a music venue in Cologne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Jugendpark.
 
@@ -14,4 +14,4 @@ Parkcafe is a music venue in Cologne listed on soundcheck. 1 upcoming night. Bro
 
 Jugendpark, Cologne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/parkcafe/)*

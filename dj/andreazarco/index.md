@@ -1,13 +1,14 @@
 # Andrea Zarco
 
-Andrea Zarco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dosrombos, Barcelona on Sat, 5 Sept 2026.
+Andrea Zarco is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
 
-Andrea Zarco is a house and techno artist based in Mexico, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, London and Madrid and 2 more. Often billed alongside SABALZA, Zarco and Martin Noise. Next up: Dosrombos, Barcelona on Sat 5 Sept.
+Andrea Zarco is a house and techno artist based in Mexico, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, London and Madrid and 2 more. Often billed alongside SABALZA, Zarco and Diego Montiel. Next up: Sunseabar Beach Club, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 5 Sept 2026 | Dosrombos | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ Andrea Zarco is a house and techno artist based in Mexico, tracked on soundcheck
 
 ## Shares bills with
 
-SABALZA, Zarco, Martin Noise
+SABALZA, Zarco, Diego Montiel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazarco/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazarco/)*

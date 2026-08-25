@@ -1,6 +1,6 @@
 # Chiara
 
-Chiara is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Rhythm, Toronto on Sat, 12 Sept 2026.
+Chiara is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Rhythm, Toronto on Sat, 12 Sept 2026.
 
 Chiara is a house and tech house artist tracked on soundcheck, with 47 sets logged across Berlin, Munich, Newyorkcity and Saopaulo and 2 more. Often billed alongside Lolo (CA), Devv and Maves. Next up: Rhythm, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Chiara is a house and tech house artist tracked on soundcheck, with 47 sets logg
 
 Lolo (CA), Devv, Maves
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiara/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chiara/)*

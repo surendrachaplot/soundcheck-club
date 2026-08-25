@@ -1,8 +1,8 @@
 # Seo (US)
 
-Seo (US) is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Boston on Thu, 24 Sept 2026.
+Seo (US) is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Boston on Thu, 24 Sept 2026.
 
-Seo (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston and Newyorkcity. Often billed alongside Niqi, oansen and Cow Tools. Next up: TBA, Boston on Thu 24 Sept.
+Seo (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston and Newyorkcity. Often billed alongside Niqi, oansen and Annie Lew. Next up: TBA, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Seo (US) is a techno and ghetto tech artist based in United States of America, t
 
 ## Shares bills with
 
-Niqi, oansen, Cow Tools
+Niqi, oansen, Annie Lew
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seo-us/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seo-us/)*

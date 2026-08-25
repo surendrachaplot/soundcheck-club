@@ -1,6 +1,6 @@
 # Lavie Au Soleil
 
-Lavie Au Soleil is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
+Lavie Au Soleil is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
 
 Lavie Au Soleil is a progressive house and deep house artist tracked on soundcheck, with 25 sets logged across Bristol, Leeds and London. Often billed alongside SH4NN, Marco (UK) and Will C. Next up: UNLOCKED, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lavie Au Soleil is a progressive house and deep house artist tracked on soundche
 
 SH4NN, Marco (UK), Will C
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavieausoleil/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavieausoleil/)*

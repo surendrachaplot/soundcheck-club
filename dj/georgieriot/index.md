@@ -1,6 +1,6 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
+Georgie Riot is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 Georgie Riot is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: fabric, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Georgie Riot is a drum & bass and jungle artist tracked on soundcheck, with 18 s
 
 Anaïs, Benny L, Benny Page
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*

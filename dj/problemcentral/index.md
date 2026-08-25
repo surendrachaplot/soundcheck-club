@@ -1,6 +1,6 @@
 # Problem Central
 
-Problem Central is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Problem Central is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Problem Central is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Bristol and London. Often billed alongside BassLayerz, Bou (UK) and DJ Hazard. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Problem Central is a drum & bass and jungle artist based in United Kingdom, trac
 
 BassLayerz, Bou (UK), DJ Hazard
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/problemcentral/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/problemcentral/)*

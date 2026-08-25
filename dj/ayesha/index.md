@@ -1,6 +1,6 @@
 # Ayesha
 
-Ayesha is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Ayesha is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: The Loom, Sanfrancisco on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ayesha is a techno and bass artist tracked on soundcheck, with 81 sets logged ac
 
 Ma Sha, Batu, Doctor Jeep
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*

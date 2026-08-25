@@ -1,6 +1,6 @@
 # DJ Sveta
 
-DJ Sveta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at In The Hanging Garden, Hobart on Sat, 29 Aug 2026.
+DJ Sveta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at In The Hanging Garden, Hobart on Sat, 29 Aug 2026.
 
 DJ Sveta is a house and techno artist based in Australia, tracked on soundcheck, with 24 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Magda Bytnerowicz, Rakish and Estée Louder. Next up: In The Hanging Garden, Hobart on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Sveta is a house and techno artist based in Australia, tracked on soundcheck,
 
 Magda Bytnerowicz, Rakish, Estée Louder
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsveta/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsveta/)*

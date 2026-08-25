@@ -1,6 +1,6 @@
 # Clap Kent
 
-Clap Kent is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dr. Dou Social Club, Barcelona on Fri, 28 Aug 2026.
+Clap Kent is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dr. Dou Social Club, Barcelona on Fri, 28 Aug 2026.
 
 Clap Kent is a house and electro artist tracked on soundcheck, with 56 sets logged across Barcelona, Madrid and Paris. Often billed alongside Da Silva, Breezy S and Paula Tape. Next up: Dr. Dou Social Club, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Clap Kent is a house and electro artist tracked on soundcheck, with 56 sets logg
 
 Da Silva, Breezy S, Paula Tape
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clapkent/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clapkent/)*

@@ -1,14 +1,15 @@
 # Partok
 
-Partok is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
+Partok is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
 
-Partok is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Bali and 29 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
+Partok is a house and techno artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Bali and 30 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 19 Sept 2026 | Odonien | Cologne |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
 
 ## Recently played
@@ -26,4 +27,4 @@ Partok is a house and techno artist tracked on soundcheck, with 107 sets logged 
 
 Roi Perez, David Elimelech, BASHKKA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*

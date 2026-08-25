@@ -1,6 +1,6 @@
 # Teray
 
-Teray is a Afro House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
+Teray is a Afro House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
 
 Teray is an afro house and club artist based in Canada, tracked on soundcheck, with 6 sets logged across London and Toronto. Often billed alongside Momocita, THIRDEYE and ADEOLA. Next up: Tola, London on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Teray is an afro house and club artist based in Canada, tracked on soundcheck, w
 
 Momocita, THIRDEYE, ADEOLA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teray/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teray/)*

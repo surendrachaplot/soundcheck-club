@@ -1,6 +1,6 @@
 # Brillante
 
-Brillante is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dopo?Space, Milan on Sat, 5 Sept 2026.
+Brillante is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dopo?Space, Milan on Sat, 5 Sept 2026.
 
 Brillante is an acid and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Milan and Rome. Often billed alongside Dove Quiete, Sister Effect and Volantis. Next up: Dopo?Space, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Brillante is an acid and techno artist tracked on soundcheck, with 36 sets logge
 
 Dove Quiete, Sister Effect, Volantis
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brillante/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brillante/)*

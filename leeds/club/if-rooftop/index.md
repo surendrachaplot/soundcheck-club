@@ -1,6 +1,6 @@
 # IF Rooftop
 
-IF Rooftop is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "🎧 Deep House vs Electro House | B2B Rooftop Session" on Sat, 29 Aug 2026.
+IF Rooftop is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "🎧 Deep House vs Electro House | B2B Rooftop Session" on Sat, 29 Aug 2026.
 
 IF Rooftop is a music venue in Leeds listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. The Rooftop at East Parade, 10-12 Park Cross Street, East Parade, Leeds LS1 2BH, UK.
 
@@ -15,4 +15,4 @@ IF Rooftop is a music venue in Leeds listed on soundcheck. 2 upcoming nights. Br
 
 The Rooftop at East Parade, 10-12 Park Cross Street, East Parade, Leeds LS1 2BH, UK, Leeds
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/if-rooftop/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/if-rooftop/)*

@@ -1,6 +1,6 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Silvie Loto is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Silvie Loto is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside PAWSA, Dennis Cruz and Chris Stassy. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Silvie Loto is a house and tech house artist tracked on soundcheck, with 85 sets
 
 PAWSA, Dennis Cruz, Chris Stassy
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

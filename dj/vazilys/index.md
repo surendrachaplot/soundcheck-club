@@ -1,6 +1,6 @@
 # Vazilys
 
-Vazilys is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+Vazilys is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
 Vazilys is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Bokaric, DEN!SE and Jan Ritter. Next up: ://about blank, Berlin on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ Vazilys is a techno artist based in Germany, tracked on soundcheck, with 1 set l
 
 Bokaric, DEN!SE, Jan Ritter
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vazilys/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vazilys/)*

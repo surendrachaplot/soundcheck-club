@@ -1,6 +1,6 @@
 # Sholinger
 
-Sholinger is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
+Sholinger is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
 
 Sholinger is a techno and electro artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Copenhagen and Prague. Often billed alongside Borenstein, Gabrielle (DE) and KVNDRA. Next up: ://about blank, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Sholinger is a techno and electro artist tracked on soundcheck, with 15 sets log
 
 Borenstein, Gabrielle (DE), KVNDRA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sholinger/)*

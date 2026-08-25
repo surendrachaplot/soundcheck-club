@@ -1,6 +1,6 @@
 # Helsloot
 
-Helsloot is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Helsloot is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Helsloot is a techno and progressive house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Tinlicker, Hollt and Mees Salomé. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Helsloot is a techno and progressive house artist tracked on soundcheck, with 46
 
 Tinlicker, Hollt, Mees Salomé
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*

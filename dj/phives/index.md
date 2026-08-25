@@ -1,6 +1,6 @@
 # Phives
 
-Phives is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Phives is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Phives is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago. Often billed alongside Alex Kislov, ARVI MALA and Derrick Carter. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Phives is a house and techno artist based in United States of America, tracked o
 
 Alex Kislov, ARVI MALA, Derrick Carter
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phives/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phives/)*

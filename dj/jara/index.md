@@ -1,6 +1,6 @@
 # Jara
 
-Jara is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Jara is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Jara is a progressive house and house artist based in Spain, tracked on soundcheck, with 39 sets logged across Hamburg and Madrid. Often billed alongside Unai García, Gleezy and Vico Deep. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Jara is a progressive house and house artist based in Spain, tracked on soundche
 
 Unai García, Gleezy, Vico Deep
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jara/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jara/)*

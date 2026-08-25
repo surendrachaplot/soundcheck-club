@@ -1,6 +1,6 @@
-# HARD TECHNO'CRACKS' with FENGX2, LIZA　and more at Blvck Water
+# HARD TECHNO'CRACKS' with FENGX2, LIZA and more at Blvck Water
 
-HARD TECHNO'CRACKS' with FENGX2, LIZA　and more at Blvck Water on Fri 28 Aug, Osaka. 2 acts on the bill: FENGX2 and LIZA (6). Techno. Preview the line-up and save it on soundcheck.
+HARD TECHNO'CRACKS' with FENGX2, LIZA and more at Blvck Water on Fri 28 Aug, Osaka. 2 acts on the bill: FENGX2 and LIZA (6). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

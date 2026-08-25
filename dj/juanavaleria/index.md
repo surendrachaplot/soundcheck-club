@@ -1,6 +1,6 @@
 # Juana Valeria
 
-Juana Valeria is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Giri, Berlin on Sat, 29 Aug 2026.
+Juana Valeria is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Giri, Berlin on Sat, 29 Aug 2026.
 
 Juana Valeria is a breakbeat and bass artist based in Colombia, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Noise Casino, Trexeter and SEPBTT. Next up: Giri, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Juana Valeria is a breakbeat and bass artist based in Colombia, tracked on sound
 
 Noise Casino, Trexeter, SEPBTT
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*

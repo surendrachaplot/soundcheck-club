@@ -1,6 +1,6 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Laidlaw is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 192 sets lo
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

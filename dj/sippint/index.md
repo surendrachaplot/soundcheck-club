@@ -1,6 +1,6 @@
 # Sippin' T
 
-Sippin' T is a Techno and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Sippin' T is a Techno and Broken Beat artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Sippin' T is a techno and broken beat artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Sippin' T is a techno and broken beat artist based in United Kingdom, tracked on
 
 TEDESCO, THEMPRESS, GIDEÖN
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*

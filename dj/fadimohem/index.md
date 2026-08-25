@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Fadi Mohem is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Fadi Mohem is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Ben Klock, Ogazón and JakoJako. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -33,4 +33,4 @@ Fadi Mohem is a techno and house artist tracked on soundcheck, with 223 sets log
 
 Ben Klock, Ogazón, JakoJako
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

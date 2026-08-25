@@ -1,6 +1,6 @@
 # BLAIZE
 
-BLAIZE is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 26 Aug 2026.
+BLAIZE is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 26 Aug 2026.
 
 BLAIZE is a techno and club artist tracked on soundcheck, with 57 sets logged across Amsterdam, Budapest, London and Newyorkcity and 4 more. Often billed alongside ARCHANGEL (US), Amarji King and SEXINCHURCH. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 26 Aug.
 
@@ -30,4 +30,4 @@ BLAIZE is a techno and club artist tracked on soundcheck, with 57 sets logged ac
 
 ARCHANGEL (US), Amarji King, SEXINCHURCH
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*

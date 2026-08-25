@@ -1,6 +1,6 @@
 # no-a
 
-no-a is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hall, Tallinn on Sat, 5 Sept 2026.
+no-a is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hall, Tallinn on Sat, 5 Sept 2026.
 
 no-a is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin and Tallinn. Often billed alongside Tanel Mütt, Micaela Saraceno and Arto. Next up: Hall, Tallinn on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ no-a is a techno and house artist tracked on soundcheck, with 21 sets logged acr
 
 Tanel Mütt, Micaela Saraceno, Arto
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no-a/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no-a/)*

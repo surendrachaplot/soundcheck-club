@@ -1,6 +1,6 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+LSB is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 LSB is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 23 more. Often billed alongside DRS, MC Fox and Workforce. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 DRS, MC Fox, Workforce
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

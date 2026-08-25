@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Whitenoise" on Thu, 27 Aug 2026.
+Lux Fragil is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Whitenoise" on Thu, 27 Aug 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Inês Duarte, Lil' Louis, Maria Amor and Michael Mayer and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -18,4 +18,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, w
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

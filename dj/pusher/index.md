@@ -1,6 +1,6 @@
 # Pusher
 
-Pusher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fidelity Studio, Dublin on Fri, 18 Sept 2026.
+Pusher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fidelity Studio, Dublin on Fri, 18 Sept 2026.
 
 Pusher is a house and techno artist tracked on soundcheck, with 5 sets logged across Dublin. Often billed alongside Cinthie, Blancnoir and Donie. Next up: Fidelity Studio, Dublin on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Pusher is a house and techno artist tracked on soundcheck, with 5 sets logged ac
 
 Cinthie, Blancnoir, Donie
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pusher/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pusher/)*

@@ -1,6 +1,6 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Phantasy Dance" on Mon, 24 Aug 2026.
+Club der Visionaere is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Phantasy Dance" on Mon, 24 Aug 2026.
 
 Club der Visionaere is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Mariiin, Samuele Pagliai, Alex Kraemer and Anderson (US) and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 16 upcoming
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

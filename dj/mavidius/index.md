@@ -1,6 +1,6 @@
 # Mavidius
 
-Mavidius is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Untergeschoss der Pandora, Berlin on Fri, 28 Aug 2026.
+Mavidius is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Untergeschoss der Pandora, Berlin on Fri, 28 Aug 2026.
 
 Mavidius is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside LEANNE and Modulatos. Next up: Untergeschoss der Pandora, Berlin on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Mavidius is a techno and house artist based in Germany, tracked on soundcheck, w
 
 LEANNE, Modulatos
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mavidius/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mavidius/)*

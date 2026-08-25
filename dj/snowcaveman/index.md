@@ -1,6 +1,6 @@
 # SNOWCAVEMAN
 
-SNOWCAVEMAN is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
+SNOWCAVEMAN is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
 
 SNOWCAVEMAN is a house and italo disco artist based in Mexico, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Lisbon and Mexicocity and 2 more. Often billed alongside Soos, AURELIA (MX) and Celice Monnette. Next up: TBA, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ SNOWCAVEMAN is a house and italo disco artist based in Mexico, tracked on soundc
 
 Soos, AURELIA (MX), Celice Monnette
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snowcaveman/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snowcaveman/)*

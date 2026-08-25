@@ -1,6 +1,6 @@
 # Donae'o
 
-Donae'o is a UK Funky and R&B artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
+Donae'o is a UK Funky and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
 
 Donae'o is an uk funky and r&b artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and Rampage Sound. Next up: Freight Brixton, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Donae'o is an uk funky and r&b artist based in United Kingdom, tracked on soundc
 
 Crazy Cousinz, Jojo Deevoy, Rampage Sound
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*

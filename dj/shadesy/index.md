@@ -1,6 +1,6 @@
 # Shadesy
 
-Shadesy is a Footwork and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
+Shadesy is a Footwork and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
 
 Shadesy is a footwork and hardcore artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside Rory K, P-Hocto and ISORA. Next up: Planet Wax, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Shadesy is a footwork and hardcore artist tracked on soundcheck, with 23 sets lo
 
 Rory K, P-Hocto, ISORA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadesy/)*

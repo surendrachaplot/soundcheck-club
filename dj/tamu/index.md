@@ -1,13 +1,14 @@
 # tamū
 
-tamū is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Monarch, Berlin on Sat, 3 Oct 2026.
+tamū is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
 
-tamū is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Hamburg and Prague. Often billed alongside ALNITHRA.incidents, Alexia (2) and Aska-Linn. Next up: Monarch, Berlin on Sat 3 Oct.
+tamū is a techno and idm artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg and Prague. Often billed alongside MFX (1), theories and ALNITHRA.incidents. Next up: Coco Boule, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Coco Boule | Berlin |
 | Sat, 3 Oct 2026 | Monarch | Berlin |
 
 ## Recently played
@@ -20,6 +21,6 @@ tamū is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-ALNITHRA.incidents, Alexia (2), Aska-Linn
+MFX (1), theories, ALNITHRA.incidents
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamu/)*

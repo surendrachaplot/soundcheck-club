@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Matthew Herbert, Barker, Debit, Marc-Antoine Barbier - MUTEK 27" on Wed, 26 Aug 2026.
+Société des arts technologiques is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Matthew Herbert, Barker, Debit, Marc-Antoine Barbier - MUTEK 27" on Wed, 26 Aug 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including A Guy Called Gerald, Alan Harman, Barker and Batu and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -23,4 +23,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

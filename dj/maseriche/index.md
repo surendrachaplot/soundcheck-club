@@ -1,6 +1,6 @@
 # Maseriche
 
-Maseriche is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Mexico City on Fri, 4 Sept 2026.
+Maseriche is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Mexico City on Fri, 4 Sept 2026.
 
 Maseriche is a techno and house artist based in Mexico, tracked on soundcheck, with 75 sets logged across Mexicocity. Often billed alongside Seagit Arc, Gerhard and Bluecommand. Next up: TBA, Mexicocity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Maseriche is a techno and house artist based in Mexico, tracked on soundcheck, w
 
 Seagit Arc, Gerhard, Bluecommand
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maseriche/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maseriche/)*

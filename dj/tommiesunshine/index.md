@@ -1,14 +1,15 @@
 # Tommie Sunshine
 
-Tommie Sunshine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 5 Sept 2026.
+Tommie Sunshine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 5 Sept 2026.
 
-Tommie Sunshine is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Detroit, Losangeles and Miami and 1 more. Often billed alongside Alexander Technique, Gettoblaster and Tom Peters. Next up: Dead Letter No. 9, Newyorkcity on Sat 5 Sept.
+Tommie Sunshine is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Chicago, Detroit, Losangeles and Miami and 1 more. Often billed alongside Alexander Technique, Gettoblaster and Tom Peters. Next up: Dead Letter No. 9, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Dead Letter No. 9 | New York City |
+| Sun, 6 Sept 2026 | Superior Ingredients | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tommie Sunshine is a house and techno artist based in United States of America, 
 
 Alexander Technique, Gettoblaster, Tom Peters
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommiesunshine/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommiesunshine/)*

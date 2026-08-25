@@ -1,6 +1,6 @@
 # Vlad Caia
 
-Vlad Caia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 12 Sept 2026.
+Vlad Caia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 12 Sept 2026.
 
 Vlad Caia is a house and techno artist based in Romania, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Cristi Cons, SIT Amphia and DeWalta. Next up: Platforma Wolff, Bucharest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vlad Caia is a house and techno artist based in Romania, tracked on soundcheck, 
 
 Cristi Cons, SIT Amphia, DeWalta
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*

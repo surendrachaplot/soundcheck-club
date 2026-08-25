@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "PARADOX - TECHNO STOCKHOLM" on Fri, 28 Aug 2026.
+Slakthuset is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "PARADOX - TECHNO STOCKHOLM" on Fri, 28 Aug 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming nights, with line-ups including Andemon, Harami, Huijari and Marcus Christiansen and 2 more. Browse upcoming dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -17,4 +17,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming nights
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

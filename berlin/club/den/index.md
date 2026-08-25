@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ＬＩＬＩＴＨ✦" on Wed, 26 Aug 2026.
+ÆDEN is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "ＬＩＬＩＴＨ✦ FOR PALESTINE" on Wed, 26 Aug 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Aaron Blau, Acierate, Alfa Cornae and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | ＬＩＬＩＴＨ✦ |  |
+| Wed, 26 Aug 2026 | ＬＩＬＩＴＨ✦ FOR PALESTINE | KEROSENE (ZA), Karim Alkhayat, Khyodo, pink-panther |
 | Thu, 27 Aug 2026 | CANCELLED -  OBXENE |  |
 | Fri, 28 Aug 2026 | Pikante / BENZA, ELOISA, Alfa Cornae & many more  | Alfa Cornae, Amo (IT), BENZA, Bruno Brero, ELOISA, Hanne B, INA RUSH, Jaguar (3), PyjamaMama, RECLUSE (2), SIVINSKI, k4mi |
 | Sat, 29 Aug 2026 | Nacktfleisch - Berlin Queer Summer Open Air August 2026 | Andrew Moore, Cristian Marras, DJ PERIODT |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

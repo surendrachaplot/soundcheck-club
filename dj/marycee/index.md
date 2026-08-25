@@ -1,6 +1,6 @@
 # Marycee
 
-Marycee is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Stereo, Montreal on Sun, 6 Sept 2026.
+Marycee is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Stereo, Montreal on Sun, 6 Sept 2026.
 
 Marycee is an electronic artist tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside Chris Luno, Die Klar and Giorgia Angiuli. Next up: Stereo, Montreal on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ Marycee is an electronic artist tracked on soundcheck, with 4 sets logged across
 
 Chris Luno, Die Klar, Giorgia Angiuli
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marycee/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marycee/)*

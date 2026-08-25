@@ -1,6 +1,6 @@
 # ISABELL (1)
 
-ISABELL (1) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tempo___k, Cologne on Sat, 29 Aug 2026.
+ISABELL (1) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tempo___k, Cologne on Sat, 29 Aug 2026.
 
 ISABELL (1) is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Cologne. Often billed alongside Sebastian Habben, Elisen and Leolo Lozone. Next up: Tempo___k, Cologne on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ ISABELL (1) is a techno and house artist based in Germany, tracked on soundcheck
 
 Sebastian Habben, Elisen, Leolo Lozone
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabell-1/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isabell-1/)*

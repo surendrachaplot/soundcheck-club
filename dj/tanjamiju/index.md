@@ -1,6 +1,6 @@
 # TANJA MIJU
 
-TANJA MIJU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+TANJA MIJU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 TANJA MIJU is a techno and trance artist tracked on soundcheck, with 67 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 15 more. Often billed alongside Johannes Schuster, Neon Graveyard and Trancestrudel. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ TANJA MIJU is a techno and trance artist tracked on soundcheck, with 67 sets log
 
 Johannes Schuster, Neon Graveyard, Trancestrudel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjamiju/)*

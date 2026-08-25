@@ -1,14 +1,13 @@
 # Caleesi
 
-Caleesi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+Caleesi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Else, Berlin on Sat, 29 Aug 2026.
 
-Caleesi is a house and deep house artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Basel, Berlin and Cologne and 24 more. Often billed alongside Sarah Kreis, Mira and Gina Sabatini. Next up: Kater, Berlin on Fri 21 Aug.
+Caleesi is a house and deep house artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Basel, Berlin and Cologne and 24 more. Often billed alongside Sarah Kreis, Mira and Gina Sabatini. Next up: Else, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kater | Berlin |
 | Sat, 29 Aug 2026 | Else | Berlin |
 | Sun, 6 Sept 2026 | gART.n | Berlin |
 | Fri, 23 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -28,4 +27,4 @@ Caleesi is a house and deep house artist based in Germany, tracked on soundcheck
 
 Sarah Kreis, Mira, Gina Sabatini
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caleesi/)*

@@ -1,6 +1,6 @@
 # Magazine London
 
-Magazine London is a music venue in London with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "The Hydra presents Autechre" on Sat, 24 Oct 2026.
+Magazine London is a music venue in London with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "The Hydra presents Autechre" on Sat, 24 Oct 2026.
 
 Magazine London is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Autechre, KI/KI, Honey Dijon and Space Afrika. Browse upcoming dates, start times and who's playing. 11 Ordnance Crescent, London SE10 0JH.
 
@@ -17,4 +17,4 @@ Magazine London is a music venue in London listed on soundcheck. 4 upcoming nigh
 
 11 Ordnance Crescent, London SE10 0JH, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-london/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-london/)*

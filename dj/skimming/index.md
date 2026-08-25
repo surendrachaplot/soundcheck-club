@@ -1,6 +1,6 @@
 # Skimming
 
-Skimming is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ministry Of Sound, London on Fri, 9 Oct 2026.
+Skimming is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ministry Of Sound, London on Fri, 9 Oct 2026.
 
 Skimming is a house and techno artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Asch Pintura, ANII and Andhim. Next up: Ministry Of Sound, London on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Skimming is a house and techno artist tracked on soundcheck, with 3 sets logged 
 
 Asch Pintura, ANII, Andhim
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skimming/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skimming/)*

@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Fine Selection #219 w/Electric Boutique & Lost in Details" on Thu, 27 Aug 2026.
+A38 is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Fine Selection #219 w/Electric Boutique & Lost in Details" on Thu, 27 Aug 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Dual DeStress, Electric Boutique, EMILS and Lost in Details and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -21,4 +21,4 @@ A38 is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with l
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

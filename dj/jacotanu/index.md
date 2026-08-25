@@ -1,6 +1,6 @@
 # Jacotanu
 
-Jacotanu is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
+Jacotanu is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Daikanyama ORD., Tokyo on Fri, 28 Aug 2026.
 
 Jacotanu is a bass and garage artist based in Japan, tracked on soundcheck, with 26 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Genick, Oblongar and Nizikawa. Next up: Daikanyama ORD., Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jacotanu is a bass and garage artist based in Japan, tracked on soundcheck, with
 
 Genick, Oblongar, Nizikawa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacotanu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacotanu/)*

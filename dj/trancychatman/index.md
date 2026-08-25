@@ -1,6 +1,6 @@
 # Trancy Chatman
 
-Trancy Chatman is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Trancy Chatman is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Trancy Chatman is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Geneva and Leipzig and 1 more. Often billed alongside DJ Henk, SACID and Trancemaster Krause. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Trancy Chatman is a trance and techno artist based in Germany, tracked on soundc
 
 DJ Henk, SACID, Trancemaster Krause
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trancychatman/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trancychatman/)*

@@ -1,6 +1,6 @@
 # Nineteen Toronto
 
-Nineteen Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "noraphilli" on Thu, 8 Oct 2026.
+Nineteen Toronto is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "noraphilli" on Thu, 8 Oct 2026.
 
 Nineteen Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Note. Browse upcoming dates, start times and who's playing. 19 Toronto St, Toronto Ontario, M5C 2B8.
 
@@ -14,4 +14,4 @@ Nineteen Toronto is a music venue in Toronto listed on soundcheck. 1 upcoming ni
 
 19 Toronto St, Toronto Ontario, M5C 2B8, Toronto
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/nineteen-toronto/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/nineteen-toronto/)*

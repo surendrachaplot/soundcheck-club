@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Konfusia is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
-Konfusia is a techno and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
+Konfusia is a techno and electro artist tracked on soundcheck, with 106 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Konfusia is a techno and house artist tracked on soundcheck, with 105 sets logge
 | Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Fri, 18 Sept 2026 | Artheater | Cologne |
 | Fri, 25 Sept 2026 | Die Rakete | Nürnberg |
+| Sat, 10 Oct 2026 | Ritter Butzke | Berlin |
 | Fri, 16 Oct 2026 | Hangaren | Copenhagen |
 | Sat, 21 Nov 2026 | Basing House | London |
 
@@ -29,4 +30,4 @@ Konfusia is a techno and house artist tracked on soundcheck, with 105 sets logge
 
 Maurice Mino, Sabura, Sin:port
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

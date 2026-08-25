@@ -1,6 +1,6 @@
 # Ddcmp
 
-Ddcmp is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 26 Aug 2026.
+Ddcmp is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 26 Aug 2026.
 
 Ddcmp is a techno and tech house artist tracked on soundcheck, with 44 sets logged across Bali, London, Madrid and Milan and 1 more. Often billed alongside Guglielmo Morandini, Spyrow and ANDREA SALVAGGIO. Next up: THE MAGICK BAR, Rome on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Ddcmp is a techno and tech house artist tracked on soundcheck, with 44 sets logg
 
 Guglielmo Morandini, Spyrow, ANDREA SALVAGGIO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddcmp/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddcmp/)*

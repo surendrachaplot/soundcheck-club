@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Kirollus is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Kirollus is a house and disco artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Kirollus is a house and disco artist tracked on soundcheck, with 139 sets logged
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

@@ -1,6 +1,6 @@
 # Leo Benassi
 
-Leo Benassi is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 26 Aug 2026.
+Leo Benassi is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 26 Aug 2026.
 
 Leo Benassi is a house and club artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Madrid and Milan and 4 more. Often billed alongside Dante (H501), AGNES (IT) and Lorenzo Dada. Next up: THE MAGICK BAR, Rome on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Leo Benassi is a house and club artist tracked on soundcheck, with 80 sets logge
 
 Dante (H501), AGNES (IT), Lorenzo Dada
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leobenassi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leobenassi/)*

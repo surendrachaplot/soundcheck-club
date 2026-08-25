@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
+VTSS is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Boucher Road Fields, Belfast on Sat, 29 Aug 2026.
 
 VTSS is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Boucher Road Fields, Belfast on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ VTSS is a techno and house artist tracked on soundcheck, with 177 sets logged ac
 
 Boys Noize, I Hate Models, Patrick Mason
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

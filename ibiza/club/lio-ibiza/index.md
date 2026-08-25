@@ -1,6 +1,6 @@
 # Lio Ibiza
 
-Lio Ibiza is a music venue in Ibiza with 33 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ARKADYAN VOYAGE" on Tue, 25 Aug 2026.
+Lio Ibiza is a music venue in Ibiza with 33 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "ARKADYAN VOYAGE" on Tue, 25 Aug 2026.
 
 Lio Ibiza is a music venue in Ibiza listed on soundcheck. 33 upcoming nights. Browse upcoming dates, start times and who's playing. Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España.
 
@@ -23,4 +23,4 @@ Lio Ibiza is a music venue in Ibiza listed on soundcheck. 33 upcoming nights. Br
 
 Puerto Deportivo Marina Ibiza, Passeig Joan Carles I, 1, 07800 Ibiza, Illes Balears, España, Ibiza
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/lio-ibiza/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/lio-ibiza/)*

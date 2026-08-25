@@ -1,6 +1,6 @@
 # ASL Princess
 
-ASL Princess is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The High Dive, Detroit on Sat, 24 Oct 2026.
+ASL Princess is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The High Dive, Detroit on Sat, 24 Oct 2026.
 
 ASL Princess is a techno and club artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside ARCHANGEL (US), Flores Negras and Miss Twink USA. Next up: The High Dive, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ASL Princess is a techno and club artist based in United States of America, trac
 
 ARCHANGEL (US), Flores Negras, Miss Twink USA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aslprincess/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aslprincess/)*

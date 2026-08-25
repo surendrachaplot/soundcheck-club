@@ -1,6 +1,6 @@
 # sooom
 
-sooom is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Han River Ferry, Seoul on Sat, 29 Aug 2026.
+sooom is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Han River Ferry, Seoul on Sat, 29 Aug 2026.
 
 sooom is an ambient and experimental artist tracked on soundcheck, with 16 sets logged across Seoul. Often billed alongside Maarten Vos, Joon Kwak and Mohani. Next up: TBA - Han River Ferry, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ sooom is an ambient and experimental artist tracked on soundcheck, with 16 sets 
 
 Maarten Vos, Joon Kwak, Mohani
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sooom/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sooom/)*

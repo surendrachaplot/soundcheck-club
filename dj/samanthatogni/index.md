@@ -1,6 +1,6 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
+Samantha Togni is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
 
 Samantha Togni is a techno and house artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Mar/us, Lewis G. Burton and Nanzhen Yang. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 27 Aug.
 
@@ -29,4 +29,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, tracked on 
 
 Mar/us, Lewis G. Burton, Nanzhen Yang
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

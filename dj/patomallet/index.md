@@ -1,6 +1,6 @@
 # Pato Mallet
 
-Pato Mallet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 4 Sept 2026.
+Pato Mallet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Fri, 4 Sept 2026.
 
 Pato Mallet is a house and deep house artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 2 more. Often billed alongside Loïc, Signo and Pabels. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Pato Mallet is a house and deep house artist tracked on soundcheck, with 46 sets
 
 Loïc, Signo, Pabels
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patomallet/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patomallet/)*

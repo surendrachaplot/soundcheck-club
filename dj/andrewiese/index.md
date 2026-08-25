@@ -1,6 +1,6 @@
 # andré wiese
 
-andré wiese is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
+andré wiese is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - „Lichtung“, Cologne on Sat, 29 Aug 2026.
 
 andré wiese is a techno and italo disco artist tracked on soundcheck, with 7 sets logged across Berlin and Cologne. Often billed alongside Dj Bowlz, Kashinski and PATEK!. Next up: TBA - „Lichtung“, Cologne on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ andré wiese is a techno and italo disco artist tracked on soundcheck, with 7 se
 
 Dj Bowlz, Kashinski, PATEK!
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewiese/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewiese/)*

@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "ANEURHYTHM" on Mon, 24 Aug 2026.
+Enter Shibuya is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "AHOOO" on Tue, 25 Aug 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and arow and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and arow and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | ANEURHYTHM | Da Yama, Nori, SINZIN |
 | Tue, 25 Aug 2026 | AHOOO | kengotaki |
 | Wed, 26 Aug 2026 | VIRGO | SOGI, arow, fýsia |
 | Thu, 27 Aug 2026 | Decryption | UG (1) |
@@ -18,9 +17,10 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming nights
 | Wed, 2 Sept 2026 | karuomo vol.15 | Ririko |
 | Thu, 3 Sept 2026 | KEPLER | discopants, judgeman, kuniii |
 | Tue, 15 Sept 2026 | SOULSIDE vol.2 |  |
+| Sun, 20 Sept 2026 | DiVANG TUNE 16TH ANNIVERSARY -yuitty BIRTHDAY BASH& DJ MIYU 20TH ANNIV.- | CITY1, DJ MIYU, oshi (2), yuitty |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

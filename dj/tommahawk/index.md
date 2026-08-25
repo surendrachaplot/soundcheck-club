@@ -1,6 +1,6 @@
 # Tommahawk
 
-Tommahawk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
+Tommahawk is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
 
 Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Fridas Pier, Stuttgart on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tommahawk is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Sabura, MikAH, A.N.I.
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommahawk/)*

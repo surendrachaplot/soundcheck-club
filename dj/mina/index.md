@@ -1,8 +1,8 @@
 # Mina
 
-Mina is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
+Mina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lieberscholli, Munich on Fri, 28 Aug 2026.
 
-Mina is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Barcelona and Brighton and 27 more. Often billed alongside Bryte, SANA and Tash LC. Next up: Lieberscholli, Munich on Fri 28 Aug.
+Mina is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bangkok, Barcelona and Brighton and 27 more. Often billed alongside Bryte, SANA and Tash LC. Next up: Lieberscholli, Munich on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mina is a techno and house artist tracked on soundcheck, with 86 sets logged acr
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Lieberscholli | Munich |
 | Sat, 5 Sept 2026 | The Flinders | Sydney |
+| Sat, 19 Sept 2026 | Last Arch | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mina is a techno and house artist tracked on soundcheck, with 86 sets logged acr
 
 Bryte, SANA, Tash LC
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*

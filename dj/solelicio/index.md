@@ -1,6 +1,6 @@
 # Sol Elicio
 
-Sol Elicio is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
+Sol Elicio is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
 
 Sol Elicio is a house and bass artist based in United States of America, tracked on soundcheck, with 10 sets logged across Portland. Often billed alongside Slurgeon, Ana Sia and Brett's House Party. Next up: Process PDX, Portland on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Sol Elicio is a house and bass artist based in United States of America, tracked
 
 Slurgeon, Ana Sia, Brett's House Party
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solelicio/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solelicio/)*

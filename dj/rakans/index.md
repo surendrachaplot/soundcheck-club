@@ -1,6 +1,6 @@
 # Rakans
 
-Rakans is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Drinkhall Venue, Berlin on Fri, 28 Aug 2026.
+Rakans is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Drinkhall Venue, Berlin on Fri, 28 Aug 2026.
 
 Rakans is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: Drinkhall Venue, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Rakans is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 VINVAR, Deepneue, The Lady Machine
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*

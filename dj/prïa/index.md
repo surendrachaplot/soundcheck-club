@@ -1,13 +1,14 @@
 # Prïa
 
-Prïa is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at StereoBar, Montreal on Sat, 19 Sept 2026.
+Prïa is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Système, Montreal on Thu, 17 Sept 2026.
 
-Prïa is a techno and electronica artist based in France, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Zac Martel, Lost Heroes and Argia. Next up: StereoBar, Montreal on Sat 19 Sept.
+Prïa is a techno and electronica artist based in France, tracked on soundcheck, with 12 sets logged across Montreal. Often billed alongside Zac Martel, Lost Heroes and Vayia. Next up: Système, Montreal on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Système | Montreal |
 | Sat, 19 Sept 2026 | StereoBar | Montreal |
 
 ## Recently played
@@ -23,6 +24,6 @@ Prïa is a techno and electronica artist based in France, tracked on soundcheck,
 
 ## Shares bills with
 
-Zac Martel, Lost Heroes, Argia
+Zac Martel, Lost Heroes, Vayia
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prïa/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prïa/)*

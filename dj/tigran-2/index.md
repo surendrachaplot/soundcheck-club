@@ -1,6 +1,6 @@
 # Tigran (2)
 
-Tigran (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Tigran (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Tigran (2) is a house and minimal artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Munich. Often billed alongside Anahita Sadighi, DJ Dustin and Lb Honne. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Tigran (2) is a house and minimal artist based in Germany, tracked on soundcheck
 
 Anahita Sadighi, DJ Dustin, Lb Honne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigran-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigran-2/)*

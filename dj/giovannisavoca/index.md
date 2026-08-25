@@ -1,6 +1,6 @@
 # Giovanni Savoca
 
-Giovanni Savoca is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
+Giovanni Savoca is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
 
 Giovanni Savoca is a tech house and minimal artist tracked on soundcheck, with 10 sets logged across London and Rome. Often billed alongside FrezZ, Simon Carr and George Morteanu. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Giovanni Savoca is a tech house and minimal artist tracked on soundcheck, with 1
 
 FrezZ, Simon Carr, George Morteanu
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannisavoca/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giovannisavoca/)*

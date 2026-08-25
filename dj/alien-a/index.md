@@ -1,6 +1,6 @@
 # ALIEN-A
 
-ALIEN-A is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
+ALIEN-A is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
 
 ALIEN-A is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Melbourne. Often billed alongside CAITY WATSON, AMY. and BDE. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ ALIEN-A is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 CAITY WATSON, AMY., BDE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alien-a/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alien-a/)*

@@ -1,6 +1,6 @@
 # Studio Zürich
 
-Studio Zürich is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Acid Pauli - Juli Lee | KAYYAK" on Fri, 4 Sept 2026.
+Studio Zürich is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Acid Pauli - Juli Lee | KAYYAK" on Fri, 4 Sept 2026.
 
 Studio Zürich is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including Acid Pauli, Alex Dallas, Âme and Carla Durisch and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
 
@@ -18,4 +18,4 @@ Studio Zürich is a music venue in Zurich listed on soundcheck. 5 upcoming night
 
 Geroldstrasse 15, 8005 Zürich, Zurich
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/studio-z-rich/)*

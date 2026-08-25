@@ -1,6 +1,6 @@
 # DJ Caline
 
-DJ Caline is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Warehouse, Nantes on Fri, 9 Oct 2026.
+DJ Caline is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Warehouse, Nantes on Fri, 9 Oct 2026.
 
 DJ Caline is a trance and techno artist based in France, tracked on soundcheck, with 40 sets logged across Berlin, Brussels, Geneva and Lyon and 6 more. Often billed alongside Die Klar, Dj Schnake and Athina. Next up: Warehouse, Nantes on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Caline is a trance and techno artist based in France, tracked on soundcheck, 
 
 Die Klar, Dj Schnake, Athina
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaline/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaline/)*

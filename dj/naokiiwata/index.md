@@ -1,6 +1,6 @@
 # Naoki Iwata
 
-Naoki Iwata is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at White Space Lab, Tokyo on Fri, 18 Sept 2026.
+Naoki Iwata is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at White Space Lab, Tokyo on Fri, 18 Sept 2026.
 
 Naoki Iwata is a house and deep house artist based in Japan, tracked on soundcheck, with 76 sets logged across Tokyo. Often billed alongside Tatsuo Kitagawa, Yoshiki Aoyama and BANANA-CHAN. Next up: White Space Lab, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Naoki Iwata is a house and deep house artist based in Japan, tracked on soundche
 
 Tatsuo Kitagawa, Yoshiki Aoyama, BANANA-CHAN
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiiwata/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiiwata/)*

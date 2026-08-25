@@ -1,6 +1,6 @@
-# Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Hobbes + more TBA at The Bongo Club
+# Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Hobbes + more TBA [FREE TIX] at The Bongo Club
 
-Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Hobbes + more TBA at The Bongo Club on Sat 12 Sept, Edinburgh. 2 acts on the bill: David Jackson and Hobbes. House and Disco. Preview the line-up and save it on soundcheck.
+Hobbes Music x Noetic Rhythm (Launch Party): David Jackson, Hobbes + more TBA [FREE TIX] at The Bongo Club on Sat 12 Sept, Edinburgh. 2 acts on the bill: David Jackson and Hobbes. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

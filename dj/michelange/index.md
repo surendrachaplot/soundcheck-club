@@ -1,6 +1,6 @@
 # Michel Ange
 
-Michel Ange is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kilomètre25, Paris on Thu, 27 Aug 2026.
+Michel Ange is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kilomètre25, Paris on Thu, 27 Aug 2026.
 
 Michel Ange is a trance and techno artist based in France, tracked on soundcheck, with 18 sets logged across Brussels and Paris. Often billed alongside Pilú, Bella Claxton and Canelle Doublekick. Next up: Kilomètre25, Paris on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Michel Ange is a trance and techno artist based in France, tracked on soundcheck
 
 Pilú, Bella Claxton, Canelle Doublekick
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelange/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelange/)*

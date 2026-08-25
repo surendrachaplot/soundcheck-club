@@ -1,6 +1,6 @@
 # 83 Rivington Street
 
-83 Rivington Street is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Sacred Rhythm" on Sat, 10 Oct 2026.
+83 Rivington Street is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sacred Rhythm" on Sat, 10 Oct 2026.
 
 83 Rivington Street is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 83 Rivington Street,  EC2A 3AY.
 
@@ -15,4 +15,4 @@
 
 83 Rivington Street,  EC2A 3AY, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/83-rivington-street/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/83-rivington-street/)*

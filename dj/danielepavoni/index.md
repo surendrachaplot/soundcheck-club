@@ -1,6 +1,6 @@
 # Daniele Pavoni
 
-Daniele Pavoni is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 26 Aug 2026.
+Daniele Pavoni is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Wed, 26 Aug 2026.
 
 Daniele Pavoni is a club and techno artist based in Italy, tracked on soundcheck, with 29 sets logged across Milan and Rome. Often billed alongside GNMR, IRIDE and Francesco Maria. Next up: THE MAGICK BAR, Rome on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Daniele Pavoni is a club and techno artist based in Italy, tracked on soundcheck
 
 GNMR, IRIDE, Francesco Maria
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepavoni/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielepavoni/)*

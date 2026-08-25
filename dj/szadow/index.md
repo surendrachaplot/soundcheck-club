@@ -1,6 +1,6 @@
 # szadow
 
-szadow is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mastak, Warsaw on Fri, 11 Sept 2026.
+szadow is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mastak, Warsaw on Fri, 11 Sept 2026.
 
 szadow is a techno artist tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside KOSAA, N ska and Nightfall. Next up: Mastak, Warsaw on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ szadow is a techno artist tracked on soundcheck, with 2 sets logged across Warsa
 
 KOSAA, N ska, Nightfall
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/szadow/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/szadow/)*

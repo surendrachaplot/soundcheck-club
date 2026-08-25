@@ -1,6 +1,6 @@
 # Shannon From Admin
 
-Shannon From Admin is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Peer Hat, Manchester on Sat, 19 Sept 2026.
+Shannon From Admin is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Peer Hat, Manchester on Sat, 19 Sept 2026.
 
 Shannon From Admin is a techno and footwork artist tracked on soundcheck, with 18 sets logged across London, Manchester and Sheffield. Often billed alongside Gracie T, colecta and MYNA. Next up: The Peer Hat, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shannon From Admin is a techno and footwork artist tracked on soundcheck, with 1
 
 Gracie T, colecta, MYNA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannonfromadmin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shannonfromadmin/)*

@@ -1,6 +1,6 @@
 # Dean Fielding
 
-Dean Fielding is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Brilliant Corners, London on Wed, 16 Sept 2026.
+Dean Fielding is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Brilliant Corners, London on Wed, 16 Sept 2026.
 
 Dean Fielding is a deep house and disco artist tracked on soundcheck, with 14 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Harry Rook, Joe Hell and Joe Morris. Next up: Brilliant Corners, London on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Dean Fielding is a deep house and disco artist tracked on soundcheck, with 14 se
 
 Harry Rook, Joe Hell, Joe Morris
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanfielding/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanfielding/)*

@@ -1,14 +1,15 @@
 # DJ Greenman
 
-DJ Greenman is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Stereo, Glasgow on Fri, 11 Sept 2026.
+DJ Greenman is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Stereo, Glasgow on Fri, 11 Sept 2026.
 
-DJ Greenman is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol, Edinburgh and Glasgow. Often billed alongside Skillis, Hometown Sound and Kairogen. Next up: Stereo, Glasgow on Fri 11 Sept.
+DJ Greenman is a bass and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Bristol, Edinburgh and Glasgow. Often billed alongside Skillis, Hometown Sound and Kairogen. Next up: Stereo, Glasgow on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Stereo | Glasgow |
+| Sat, 12 Sept 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Greenman is a bass and garage artist based in United Kingdom, tracked on soun
 
 Skillis, Hometown Sound, Kairogen
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgreenman/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgreenman/)*

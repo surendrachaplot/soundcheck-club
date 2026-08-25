@@ -1,6 +1,6 @@
 # Théâtre de L'Orangerie - TO!
 
-Théâtre de L'Orangerie - TO! is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "YALLA MIKU + ARTMAILLÉ" on Fri, 4 Sept 2026.
+Théâtre de L'Orangerie - TO! is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "YALLA MIKU + ARTMAILLÉ" on Fri, 4 Sept 2026.
 
 Théâtre de L'Orangerie - TO! is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Artmaillé. Browse upcoming dates, start times and who's playing. Quai Gustave-Ador 66B, 1207 Genève.
 
@@ -14,4 +14,4 @@ Théâtre de L'Orangerie - TO! is a music venue in Geneva listed on soundcheck. 
 
 Quai Gustave-Ador 66B, 1207 Genève, Geneva
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/th-tre-de-l-orangerie-to/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/th-tre-de-l-orangerie-to/)*

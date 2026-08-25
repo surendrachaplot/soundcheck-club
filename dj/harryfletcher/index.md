@@ -1,6 +1,6 @@
 # Harry Fletcher
 
-Harry Fletcher is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
+Harry Fletcher is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
 
 Harry Fletcher is a house and deep house artist tracked on soundcheck, with 20 sets logged across Newyorkcity and Osaka. Often billed alongside Jared Maharaj, Ali Coleman and Asha Jasz. Next up: Dead Letter No. 9, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Harry Fletcher is a house and deep house artist tracked on soundcheck, with 20 s
 
 Jared Maharaj, Ali Coleman, Asha Jasz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryfletcher/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryfletcher/)*

@@ -1,6 +1,6 @@
 # Serkin
 
-Serkin is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Moog Club, Barcelona on Wed, 26 Aug 2026.
+Serkin is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Moog Club, Barcelona on Wed, 26 Aug 2026.
 
 Serkin is a techno and electronica artist based in Spain, tracked on soundcheck, with 54 sets logged across Barcelona and Madrid. Often billed alongside Dzeko, Error Etica and Kerrie. Next up: Moog Club, Barcelona on Wed 26 Aug.
 
@@ -27,4 +27,4 @@ Serkin is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 Dzeko, Error Etica, Kerrie
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serkin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serkin/)*

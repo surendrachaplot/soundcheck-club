@@ -1,6 +1,6 @@
 # Hit Beat
 
-Hit Beat is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Emma Pea, Berlin on Sat, 29 Aug 2026.
+Hit Beat is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Emma Pea, Berlin on Sat, 29 Aug 2026.
 
 Hit Beat is a house and hip-hop artist tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and KappaPlenti. Next up: Emma Pea, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hit Beat is a house and hip-hop artist tracked on soundcheck, with 24 sets logge
 
 Phat Beat, JaFrei Loufoque, KappaPlenti
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitbeat/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitbeat/)*

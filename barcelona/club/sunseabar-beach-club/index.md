@@ -1,6 +1,6 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "FREE BEACH PARTY Bonanza x Liquid Palms pres. Paolo Mosca" on Thu, 27 Aug 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "FREE BEACH PARTY Bonanza x Liquid Palms pres. Paolo Mosca" on Thu, 27 Aug 2026.
 
 Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including acidheaven, Adrian Grösser, AFFKT and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
@@ -9,8 +9,8 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 14 upco
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | FREE BEACH PARTY Bonanza x Liquid Palms pres. Paolo Mosca | Adrian Grösser, Breezy S, Derovio, NOBODYISALICE, Paolo Mosca |
-| Fri, 28 Aug 2026 | FREE OPEN AIR BEACH PARTY: Lost Invites Innuendo at Platja Del Fòrum  | EFÍMERO |
-| Sat, 29 Aug 2026 | Less is More x Medio Crew presents Prichindel | Daescu, Gera (3), Kid Moss, Prichindel |
+| Fri, 28 Aug 2026 | FREE OPEN AIR BEACH PARTY: Lost Invites Innuendo at Platja Del Fòrum  | ATMEN, Andrea Zarco, Cesar Martino, Diego Montiel, EFÍMERO, Michel Her, Victor Hugo |
+| Sat, 29 Aug 2026 | FREE OPEN AIR BEACH PARTY: Less is More x Medio Crew presents Prichindel | Daescu, Gera (3), Kid Moss, Prichindel |
 | Sun, 30 Aug 2026 | Outer Place Showcase On the Beach | Dean Denali, Jorge Escribano, Lumiere, Ma.to |
 | Fri, 4 Sept 2026 | FREE OPEN AIR BEACH PARTY - Time To Panic | Iro Aka, LM, Pol K, Walrus, ildec |
 | Sat, 5 Sept 2026 | Magnetic People Day Time at SunSeaBar - FREE OPEN AIR BEACH PARTY | BizZa, CAAL, De La Swing, Dellavega, LondonGround, Pau Guilera, Ssero |
@@ -23,4 +23,4 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 14 upco
 
 Calle La Pau, Platja del Forum, Barcelona, Spain, Barcelona
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sunseabar-beach-club/)*

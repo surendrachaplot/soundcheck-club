@@ -1,8 +1,8 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
+Boss Priester is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
 
-Boss Priester is a house and tech house artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Toffler, Rotterdam on Fri 28 Aug.
+Boss Priester is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: Toffler, Rotterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 101 s
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

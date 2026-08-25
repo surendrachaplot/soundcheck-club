@@ -1,6 +1,6 @@
 # Mat.Joe
 
-Mat.Joe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Loo Loo, Mexico City on Thu, 27 Aug 2026.
+Mat.Joe is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Loo Loo, Mexico City on Thu, 27 Aug 2026.
 
 Mat.Joe is a house and tech house artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Chicago and Denver and 14 more. Often billed alongside Abraham (GER), Anthony Attalla and BIANCA BLANCO. Next up: Loo Loo, Mexicocity on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Mat.Joe is a house and tech house artist based in Germany, tracked on soundcheck
 
 Abraham (GER), Anthony Attalla, BIANCA BLANCO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mat.joe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mat.joe/)*

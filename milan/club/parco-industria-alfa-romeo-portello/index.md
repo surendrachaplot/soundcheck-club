@@ -1,6 +1,6 @@
 # Parco Industria Alfa Romeo - Portello
 
-Parco Industria Alfa Romeo - Portello is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Open Rhythm with Vitess - Free Open Air" on Sat, 5 Sept 2026.
+Parco Industria Alfa Romeo - Portello is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Open Rhythm with Vitess - Free Open Air" on Sat, 5 Sept 2026.
 
 Parco Industria Alfa Romeo - Portello is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Lujni, RTGL and Vitess. Browse upcoming dates, start times and who's playing. Viale Renato Serra, 31, 20149 Milano MI.
 
@@ -15,4 +15,4 @@ Parco Industria Alfa Romeo - Portello is a music venue in Milan listed on soundc
 
 Viale Renato Serra, 31, 20149 Milano MI, Milan
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-industria-alfa-romeo-portello/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-industria-alfa-romeo-portello/)*

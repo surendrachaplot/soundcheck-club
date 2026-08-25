@@ -1,6 +1,6 @@
 # Aaiste
 
-Aaiste is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Oxford Underground, Sydney on Sat, 5 Sept 2026.
+Aaiste is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Oxford Underground, Sydney on Sat, 5 Sept 2026.
 
 Aaiste is a progressive house and house artist tracked on soundcheck, with 19 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: Oxford Underground, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Aaiste is a progressive house and house artist tracked on soundcheck, with 19 se
 
 Asanga, Ben Nott, Covsky
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*

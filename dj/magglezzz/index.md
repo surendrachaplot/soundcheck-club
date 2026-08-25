@@ -1,6 +1,6 @@
 # magglezzz
 
-magglezzz is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Concourse Dance Bar, Philadelphia on Sat, 29 Aug 2026.
+magglezzz is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Concourse Dance Bar, Philadelphia on Sat, 29 Aug 2026.
 
 magglezzz is a club and hip-hop artist tracked on soundcheck, with 31 sets logged across Philadelphia. Often billed alongside Club Advisory, JEWELSSEA and Krispy. Next up: Concourse Dance Bar, Philadelphia on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ magglezzz is a club and hip-hop artist tracked on soundcheck, with 31 sets logge
 
 Club Advisory, JEWELSSEA, Krispy
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magglezzz/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magglezzz/)*

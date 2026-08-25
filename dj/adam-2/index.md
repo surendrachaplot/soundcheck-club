@@ -1,6 +1,6 @@
 # Adam 2
 
-Adam 2 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gorg-O-Mish, Vancouver on Sun, 30 Aug 2026.
+Adam 2 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gorg-O-Mish, Vancouver on Sun, 30 Aug 2026.
 
 Adam 2 is a techno and house artist tracked on soundcheck, with 16 sets logged across Sanfrancisco and Vancouver. Often billed alongside Ciel, DJ Hockey and 2flowers. Next up: Gorg-O-Mish, Vancouver on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Adam 2 is a techno and house artist tracked on soundcheck, with 16 sets logged a
 
 Ciel, DJ Hockey, 2flowers
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adam-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adam-2/)*

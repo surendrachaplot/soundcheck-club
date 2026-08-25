@@ -1,6 +1,6 @@
 # LYLE (2)
 
-LYLE (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+LYLE (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 LYLE (2) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Edinburgh and Glasgow. Often billed alongside Babyccino, Kairogen and Big Miz. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ LYLE (2) is a house and techno artist based in United Kingdom, tracked on soundc
 
 Babyccino, Kairogen, Big Miz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyle-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyle-2/)*

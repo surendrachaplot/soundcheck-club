@@ -1,6 +1,6 @@
 # KAKERU
 
-KAKERU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mitsuki, Tokyo on Tue, 25 Aug 2026.
+KAKERU is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mitsuki, Tokyo on Tue, 25 Aug 2026.
 
 KAKERU is a house and techno artist tracked on soundcheck, with 69 sets logged across Osaka and Tokyo. Often billed alongside TORAO, MIZUKI OGISU and Takashi Himeoka. Next up: Mitsuki, Tokyo on Tue 25 Aug.
 
@@ -27,4 +27,4 @@ KAKERU is a house and techno artist tracked on soundcheck, with 69 sets logged a
 
 TORAO, MIZUKI OGISU, Takashi Himeoka
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kakeru/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kakeru/)*

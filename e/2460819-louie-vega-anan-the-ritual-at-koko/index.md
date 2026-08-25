@@ -1,6 +1,6 @@
 # Louie Vega & Anané: The Ritual at KOKO
 
-Louie Vega & Anané: The Ritual at KOKO on Fri 4 Sept, London. 4 acts on the bill: Anane, KingCrowney, Louie Vega and Max Sinàl. Preview the line-up and save it on soundcheck.
+Louie Vega & Anané: The Ritual at KOKO on Fri 4 Sept, London. 7 acts on the bill: Anane, Daisybelle, GENNARO and KingCrowney and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,11 @@ Louie Vega & Anané: The Ritual at KOKO on Fri 4 Sept, London. 4 acts on the bil
 ## Line-up
 
 - Anane
+- Daisybelle
+- GENNARO
 - KingCrowney
 - Louie Vega
 - Max Sinàl
+- Phill de Janeiro
 
 *Source: [soundcheck](https://soundcheck.club/e/2460819-louie-vega-anan-the-ritual-at-koko/)*

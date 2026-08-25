@@ -1,6 +1,6 @@
 # Nikolucky
 
-Nikolucky is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sigma, Ibiza on Sat, 12 Sept 2026.
+Nikolucky is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sigma, Ibiza on Sat, 12 Sept 2026.
 
 Nikolucky is an electronica and house artist tracked on soundcheck, with 4 sets logged across Berlin and Ibiza. Often billed alongside Peacharoo, Bart Ricardo and Javi Niño. Next up: Sigma, Ibiza on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Nikolucky is an electronica and house artist tracked on soundcheck, with 4 sets 
 
 Peacharoo, Bart Ricardo, Javi Niño
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolucky/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolucky/)*

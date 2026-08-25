@@ -1,6 +1,6 @@
 # DJ Budai
 
-DJ Budai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kassa Boat, Budapest on Thu, 22 Oct 2026.
+DJ Budai is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kassa Boat, Budapest on Thu, 22 Oct 2026.
 
 DJ Budai is a techno and house artist based in Hungary, tracked on soundcheck, with 20 sets logged across Budapest. Often billed alongside AESZTETIK, Falcao and Tolo. Next up: Kassa Boat, Budapest on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DJ Budai is a techno and house artist based in Hungary, tracked on soundcheck, w
 
 AESZTETIK, Falcao, Tolo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbudai/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbudai/)*

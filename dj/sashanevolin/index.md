@@ -1,6 +1,6 @@
 # Sasha Nevolin
 
-Sasha Nevolin is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tendance, Prague on Fri, 4 Sept 2026.
+Sasha Nevolin is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tendance, Prague on Fri, 4 Sept 2026.
 
 Sasha Nevolin is a house and club artist tracked on soundcheck, with 46 sets logged across Berlin and Prague. Often billed alongside Chep, Alex Neivel and dMIT.RY. Next up: Tendance, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sasha Nevolin is a house and club artist tracked on soundcheck, with 46 sets log
 
 Chep, Alex Neivel, dMIT.RY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashanevolin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashanevolin/)*

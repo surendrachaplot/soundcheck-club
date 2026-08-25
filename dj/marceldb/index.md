@@ -1,6 +1,6 @@
 # MARCEL db
 
-MARCEL db is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 29 Aug 2026.
+MARCEL db is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 29 Aug 2026.
 
 MARCEL db is a techno and trance artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin and Munich. Often billed alongside DJ Jordan, Daniel Boon and Jaycap. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ MARCEL db is a techno and trance artist based in Germany, tracked on soundcheck,
 
 DJ Jordan, Daniel Boon, Jaycap
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldb/)*

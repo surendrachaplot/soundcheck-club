@@ -1,6 +1,6 @@
 # Suicide
 
-Suicide is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Suicide is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Suicide is an electronica and club artist tracked on soundcheck, with 2 sets logged across Barcelona and Mexicocity. Often billed alongside Anthony Rother, BRND and Fennesz. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Suicide is an electronica and club artist tracked on soundcheck, with 2 sets log
 
 Anthony Rother, BRND, Fennesz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suicide/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suicide/)*

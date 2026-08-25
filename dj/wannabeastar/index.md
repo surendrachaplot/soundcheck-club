@@ -1,6 +1,6 @@
 # WANNABEASTAR
 
-WANNABEASTAR is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
+WANNABEASTAR is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
 
 WANNABEASTAR is a house artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside LENny (IT), Le Le and Lewis G. Burton. Next up: Skatecafe, Amsterdam on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ WANNABEASTAR is a house artist tracked on soundcheck, with 2 sets logged across 
 
 LENny (IT), Le Le, Lewis G. Burton
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wannabeastar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wannabeastar/)*

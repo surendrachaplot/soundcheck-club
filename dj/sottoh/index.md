@@ -1,6 +1,6 @@
 # SOTTOH
 
-SOTTOH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
+SOTTOH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
 
 SOTTOH is a house and techno artist tracked on soundcheck, with 18 sets logged across Paris and Prague. Often billed alongside Lea Occhi, COCKO and Corbeille Dallas. Next up: Fuchs2, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ SOTTOH is a house and techno artist tracked on soundcheck, with 18 sets logged a
 
 Lea Occhi, COCKO, Corbeille Dallas
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*

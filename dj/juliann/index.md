@@ -1,6 +1,6 @@
 # Juliann
 
-Juliann is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at La Clairière, Paris on Sat, 12 Sept 2026.
+Juliann is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at La Clairière, Paris on Sat, 12 Sept 2026.
 
 Juliann is a house and tech house artist based in France, tracked on soundcheck, with 9 sets logged across Marseille and Paris. Often billed alongside Assayag, Mooglie and Andera. Next up: La Clairière, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Juliann is a house and tech house artist based in France, tracked on soundcheck,
 
 Assayag, Mooglie, Andera
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliann/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliann/)*

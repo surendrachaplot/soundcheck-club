@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Flo Masse • Kyra Khaldi • Same Faces" on Fri, 28 Aug 2026.
+Radio Radio is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Flo Masse • Kyra Khaldi • Same Faces" on Fri, 28 Aug 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -17,4 +17,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 4 upcoming night
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

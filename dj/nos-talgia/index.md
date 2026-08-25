@@ -1,6 +1,6 @@
 # NOS-talgia
 
-NOS-talgia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Barbossa, Montreal on Thu, 27 Aug 2026.
+NOS-talgia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Barbossa, Montreal on Thu, 27 Aug 2026.
 
 NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, with 16 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Allterverse, Areeb Abbasi and Burnii. Next up: Barbossa, Montreal on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ NOS-talgia is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Allterverse, Areeb Abbasi, Burnii
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nos-talgia/)*

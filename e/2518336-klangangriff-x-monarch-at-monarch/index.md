@@ -1,6 +1,6 @@
 # Klangangriff x Monarch at Monarch
 
-Klangangriff x Monarch on Sat 5 Sept, Berlin. 4 acts on the bill: A_Phan, Natasha Moreno, Nona and Yakkushi. Techno. Preview the line-up and save it on soundcheck.
+Klangangriff x Monarch on Sat 5 Sept, Berlin. 4 acts on the bill: A_Phan, MERS, Natasha Moreno and Yakkushi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Klangangriff x Monarch on Sat 5 Sept, Berlin. 4 acts on the bill: A_Phan, Natash
 ## Line-up
 
 - A_Phan
+- MERS
 - Natasha Moreno
-- Nona
 - Yakkushi
 
 *Source: [soundcheck](https://soundcheck.club/e/2518336-klangangriff-x-monarch-at-monarch/)*

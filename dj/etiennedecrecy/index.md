@@ -1,15 +1,17 @@
 # Etienne De Crecy
 
-Etienne De Crecy is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Workmans Club, Dublin on Fri, 4 Sept 2026.
+Etienne De Crecy is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Workmans Club, Dublin on Fri, 4 Sept 2026.
 
-Etienne De Crecy is a house and electro artist based in France, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Birmingham and Brussels and 20 more. Often billed alongside Alan Braxe, Cassius and Emma B. Next up: The Workmans Club, Dublin on Fri 4 Sept.
+Etienne De Crecy is a house and electro artist based in France, tracked on soundcheck, with 69 sets logged across Barcelona, Belfast, Berlin and Birmingham and 21 more. Often billed alongside Alan Braxe, Cassius and Emma B. Next up: The Workmans Club, Dublin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Workmans Club | Dublin |
+| Sat, 5 Sept 2026 | The Ulster Sports Club | Belfast |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
+| Sat, 21 Nov 2026 | Kompass Klub | Ghent |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Etienne De Crecy is a house and electro artist based in France, tracked on sound
 
 Alan Braxe, Cassius, Emma B
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennedecrecy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennedecrecy/)*

@@ -1,6 +1,6 @@
 # Underworld
 
-Underworld is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Knockdown Center, New York City on Thu, 3 Sept 2026.
+Underworld is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Knockdown Center, New York City on Thu, 3 Sept 2026.
 
 Underworld is a techno and house artist tracked on soundcheck, with 34 sets logged across Austin, Barcelona, Belfast and Berlin and 16 more. Often billed alongside KI/KI, X CLUB. and Ross From Friends. Next up: Knockdown Center, Newyorkcity on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ Underworld is a techno and house artist tracked on soundcheck, with 34 sets logg
 
 KI/KI, X CLUB., Ross From Friends
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*

@@ -1,6 +1,6 @@
 # Harvey Sutherland
 
-Harvey Sutherland is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
+Harvey Sutherland is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
 
 Harvey Sutherland is a house and funk / soul artist based in Australia, tracked on soundcheck, with 43 sets logged across Auckland, Berlin, Brisbane and Chicago and 10 more. Often billed alongside Chaos In The CBD, Kuzco and AROHA. Next up: Howler, Melbourne on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Harvey Sutherland is a house and funk / soul artist based in Australia, tracked 
 
 Chaos In The CBD, Kuzco, AROHA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harveysutherland/)*

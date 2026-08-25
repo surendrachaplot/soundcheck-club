@@ -1,6 +1,6 @@
 # KUBOTA
 
-KUBOTA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 27 Sept 2026.
+KUBOTA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 27 Sept 2026.
 
 KUBOTA is a house and techno artist tracked on soundcheck, with 95 sets logged across Tokyo. Often billed alongside SIGNAL (JP), HARUTO and Shimpei Watanabe. Next up: Aoyama Hachi, Tokyo on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ KUBOTA is a house and techno artist tracked on soundcheck, with 95 sets logged a
 
 SIGNAL (JP), HARUTO, Shimpei Watanabe
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kubota/)*

@@ -1,6 +1,6 @@
 # Yashal 2.0
 
-Yashal 2.0 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
+Yashal 2.0 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
 
 Yashal 2.0 is a techno and acid artist tracked on soundcheck, with 14 sets logged across Barcelona and Madrid. Often billed alongside OMEN K, Puxo and Vulker. Next up: Garage 442, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Yashal 2.0 is a techno and acid artist tracked on soundcheck, with 14 sets logge
 
 OMEN K, Puxo, Vulker
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yashal2.0/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yashal2.0/)*

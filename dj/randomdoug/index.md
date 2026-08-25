@@ -1,6 +1,6 @@
 # Randomdoug
 
-Randomdoug is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Wiggle Room, Toronto on Sun, 6 Sept 2026.
+Randomdoug is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Wiggle Room, Toronto on Sun, 6 Sept 2026.
 
 Randomdoug is a tech house and house artist tracked on soundcheck, with 50 sets logged across Toronto. Often billed alongside Tyler Hill, Manzone & Strong and TAKiN. Next up: Wiggle Room, Toronto on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Randomdoug is a tech house and house artist tracked on soundcheck, with 50 sets 
 
 Tyler Hill, Manzone & Strong, TAKiN
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomdoug/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randomdoug/)*

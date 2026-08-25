@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 25 Aug 2026.
+OXI is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN" on Tue, 25 Aug 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Alexander Kowalski, Alex Levin, Alison Swing and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -10,7 +10,7 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | ✦encore.une.fois✦ / INDOOR RAVE + OPEN AIR CHILL GARDEN | Alexander Kowalski, Hontas, OCD, Viktoria Spielmann |
 | Fri, 28 Aug 2026 | DECOY w/ RUIZ OSC1, HUJUS, No Valentia, Bours?, Fran LF, Caniche & saya | Bours?, Caniche, Fran LF, HUJUS, No Valentia, RUIZ OSC1, saya (DE) |
-| Sat, 29 Aug 2026 | OXI WEEKENDER 'OPEN AIR + INDOOR' W/ Alison Swing , Soela, Baroć , | Alison Swing, Andrea Zadro, Baroć, DJ Haribo, Marco Ohboy, Qualia Trax, Soela |
+| Sat, 29 Aug 2026 | OXI WEEKENDER 'OPEN AIR + INDOOR'  | Alison Swing, Andrea Zadro, Baroć, DJ Haribo, Marco Ohboy, Qualia Trax, Soela |
 | Sun, 30 Aug 2026 | DAY: Fadercult @ OXI Garden with Montezuma [LIVE]   | Ben Derris, Linus Villa, Maschérie, Montezuma (DE), Sony2k, Talia Dorr |
 | Sat, 5 Sept 2026 | Small Great House 'September Edition' (Open Air + Indoor) 19 Hours | Cosmic Cherry, Darwin Stapel, David Silver, Eva Crystaltips, Jan Ketel, Johannes Albert, Lavan, Luca Olivotto, Maik Gyver, Nephews, Quadrakey, SELESSA T., Siggatunez, Soulidan |
 | Thu, 10 Sept 2026 | Broken Noise | Alex Levin, Comf, Forgotten Sounds, Howler (UK), Jotam., Nadine Talakovics |
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

@@ -1,6 +1,6 @@
 # lau.ra
 
-lau.ra is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+lau.ra is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DRUMSHEDS, London on Sat, 31 Oct 2026.
 
 lau.ra is a house and deep house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Bristol and Denver and 5 more. Often billed alongside Lex Hearth, Sasha GiGi and Surya Sen. Next up: DRUMSHEDS, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ lau.ra is a house and deep house artist tracked on soundcheck, with 43 sets logg
 
 Lex Hearth, Sasha GiGi, Surya Sen
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lau.ra/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lau.ra/)*

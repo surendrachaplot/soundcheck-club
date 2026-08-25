@@ -1,6 +1,6 @@
 # harold. (ES)
 
-harold. (ES) is a Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - LFO, Madrid on Sat, 29 Aug 2026.
+harold. (ES) is a Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - LFO, Madrid on Sat, 29 Aug 2026.
 
 harold. (ES) is an electro artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin and Madrid. Often billed alongside AERAE, Andrae Durden and Arthur Baron. Next up: TBA - LFO, Madrid on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ harold. (ES) is an electro artist based in Spain, tracked on soundcheck, with 5 
 
 AERAE, Andrae Durden, Arthur Baron
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harold.es/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harold.es/)*

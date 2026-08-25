@@ -1,6 +1,6 @@
 # Tom Eclect
 
-Tom Eclect is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Second Story Studios, Melbourne on Sat, 5 Sept 2026.
+Tom Eclect is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Second Story Studios, Melbourne on Sat, 5 Sept 2026.
 
 Tom Eclect is a deep house and house artist tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Afrodisiac, Akane (1) and Bashi Bazouk. Next up: Second Story Studios, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tom Eclect is a deep house and house artist tracked on soundcheck, with 9 sets l
 
 Afrodisiac, Akane (1), Bashi Bazouk
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomeclect/)*

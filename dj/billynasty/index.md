@@ -1,6 +1,6 @@
 # Billy Nasty
 
-Billy Nasty is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
+Billy Nasty is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
 
 Billy Nasty is a techno and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 4 more. Often billed alongside Charles Green, Lino Fuso and ADRIANNA. Next up: La Belle Angele, Edinburgh on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Billy Nasty is a techno and house artist tracked on soundcheck, with 24 sets log
 
 Charles Green, Lino Fuso, ADRIANNA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billynasty/)*

@@ -1,8 +1,8 @@
 # Multiverse
 
-Multiverse is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Studio 338, London on Sat, 7 Nov 2026.
+Multiverse is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Studio 338, London on Sat, 7 Nov 2026.
 
-Multiverse is a psytrance and trance artist based in Germany, tracked on soundcheck, with 1 set logged across London. Often billed alongside DELTA LABS, Kling and Miss Lightbeam. Next up: Studio 338, London on Sat 7 Nov.
+Multiverse is a trance and psytrance artist based in Germany, tracked on soundcheck, with 1 set logged across London. Often billed alongside DELTA LABS, Kling and Miss Lightbeam. Next up: Studio 338, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Multiverse is a psytrance and trance artist based in Germany, tracked on soundch
 
 DELTA LABS, Kling, Miss Lightbeam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multiverse/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multiverse/)*

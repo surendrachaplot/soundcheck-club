@@ -1,8 +1,8 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
+Ship Sket is a Experimental and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
 
-Ship Sket is an experimental and club artist tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Proc Fiskal, Blood of Aza and KAVARI. Next up: Atno, Budapest on Fri 28 Aug.
+Ship Sket is an experimental and bass artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Proc Fiskal, Blood of Aza and KAVARI. Next up: Atno, Budapest on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ship Sket is an experimental and club artist tracked on soundcheck, with 74 sets
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Atno | Budapest |
 | Fri, 11 Sept 2026 | Cakeshop | Seoul |
+| Sat, 12 Sept 2026 | TBA - Secret location in Nishiazabu | Tokyo |
 | Fri, 18 Sept 2026 | Tuff Club | Singapore |
 
 ## Recently played
@@ -27,4 +28,4 @@ Ship Sket is an experimental and club artist tracked on soundcheck, with 74 sets
 
 Proc Fiskal, Blood of Aza, KAVARI
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*

@@ -1,6 +1,6 @@
 # Nøteleks
 
-Nøteleks is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Husitská 22, Prague on Fri, 11 Sept 2026.
+Nøteleks is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Husitská 22, Prague on Fri, 11 Sept 2026.
 
 Nøteleks is a techno and industrial artist based in Czech Republic, tracked on soundcheck, with 26 sets logged across Prague. Often billed alongside NEUWERTH, 2NDRA and DAVIDOFFWHITE. Next up: Husitská 22, Prague on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Nøteleks is a techno and industrial artist based in Czech Republic, tracked on 
 
 NEUWERTH, 2NDRA, DAVIDOFFWHITE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noteleks/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noteleks/)*

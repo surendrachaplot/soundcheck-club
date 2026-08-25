@@ -1,6 +1,6 @@
 # Sedna
 
-Sedna is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at La Gare / Le Gore, Paris on Fri, 28 Aug 2026.
+Sedna is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at La Gare / Le Gore, Paris on Fri, 28 Aug 2026.
 
 Sedna is a techno artist tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside A.mo, Benabou and Human Experiments. Next up: La Gare / Le Gore, Paris on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Sedna is a techno artist tracked on soundcheck, with 5 sets logged across Paris.
 
 A.mo, Benabou, Human Experiments
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedna/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedna/)*

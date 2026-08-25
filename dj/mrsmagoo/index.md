@@ -1,6 +1,6 @@
 # Mrs Magoo
 
-Mrs Magoo is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Mrs Magoo is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Mrs Magoo is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Birmingham and Brisbane and 6 more. Often billed alongside DJ Brockie, Deefa and Kenny Ken. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mrs Magoo is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 DJ Brockie, Deefa, Kenny Ken
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsmagoo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrsmagoo/)*

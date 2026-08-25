@@ -1,8 +1,8 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "QUEST extended set hosted by EAR\WAX opening night + afterhours" on Sat, 26 Sept 2026.
+Q35 WAREHOUSE is a music venue in Turin with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "QUEST extended set hosted by EAR\WAX opening night + afterhours" on Sat, 26 Sept 2026.
 
-Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 5 upcoming nights, with line-ups including John Talabot, Marie Montexier, Ogazón and Quest (IT) and 1 more. Browse upcoming dates, start times and who's playing. Lungo Dora Firenze 131/A.
+Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 6 upcoming nights, with line-ups including Daniel Avery, John Talabot, Marie Montexier and Ogazón and 2 more. Browse upcoming dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 5 upcoming nights,
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | QUEST extended set hosted by EAR\WAX opening night + afterhours | Quest (IT) |
 | Sat, 10 Oct 2026 | Marie Montexier hosted by EAR\WAX | Marie Montexier |
+| Sat, 24 Oct 2026 | Daniel Avery hosted by EAR\WAX | Daniel Avery |
 | Sat, 31 Oct 2026 | sim0ne hosted by EAR\WAX halloween night + afterhours | sim0ne |
 | Sat, 7 Nov 2026 | Ogazón hosted by EAR\WAX | Ogazón |
 | Sat, 21 Nov 2026 | John Talabot hosted by EAR\WAX | John Talabot |
@@ -18,4 +19,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 5 upcoming nights,
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

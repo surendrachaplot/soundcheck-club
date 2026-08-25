@@ -1,6 +1,6 @@
 # Green (IT)
 
-Green (IT) is a Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 25 Aug 2026.
+Green (IT) is a Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 25 Aug 2026.
 
 Green (IT) is a dancehall artist tracked on soundcheck, with 6 sets logged across Berlin, Rome and Tokyo. Often billed alongside Adi (CO), Betty and Collarbone. Next up: THE MAGICK BAR, Rome on Tue 25 Aug.
 
@@ -22,4 +22,4 @@ Green (IT) is a dancehall artist tracked on soundcheck, with 6 sets logged acros
 
 Adi (CO), Betty, Collarbone
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/green-it/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/green-it/)*

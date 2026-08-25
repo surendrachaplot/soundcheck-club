@@ -1,6 +1,6 @@
 # NeZoomie
 
-NeZoomie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
+NeZoomie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
 
 NeZoomie is a house and disco artist based in Italy, tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Frank Motetti, Anjawah and Unsined. Next up: Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ NeZoomie is a house and disco artist based in Italy, tracked on soundcheck, with
 
 Frank Motetti, Anjawah, Unsined
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nezoomie/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nezoomie/)*

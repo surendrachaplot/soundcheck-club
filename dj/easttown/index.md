@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TivoliVredenburg, Utrecht on Sat, 29 Aug 2026.
+Easttown is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TivoliVredenburg, Utrecht on Sat, 29 Aug 2026.
 
 Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: TivoliVredenburg, Utrecht on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Easttown is a house and tech house artist tracked on soundcheck, with 98 sets lo
 
 Rooléh, Joëlla Jackson, Franky Rizardo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

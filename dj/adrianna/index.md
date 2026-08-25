@@ -1,6 +1,6 @@
 # ADRIANNA
 
-ADRIANNA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at OIL Club, Shenzhen on Fri, 18 Sept 2026.
+ADRIANNA is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at OIL Club, Shenzhen on Fri, 18 Sept 2026.
 
 ADRIANNA is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Copenhagen and Edinburgh and 8 more. Often billed alongside Lino Fuso, Christian Smith and Billy Nasty. Next up: OIL Club, Shenzhen on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ ADRIANNA is a techno and tech house artist tracked on soundcheck, with 25 sets l
 
 Lino Fuso, Christian Smith, Billy Nasty
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianna/)*

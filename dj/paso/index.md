@@ -1,6 +1,6 @@
 # PASO
 
-PASO is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+PASO is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 PASO is a house and trance artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, Edinburgh, Glasgow and Tbilisi. Often billed alongside Nadia Summer, BORLEY and ARWEN. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ PASO is a house and trance artist based in United Kingdom, tracked on soundcheck
 
 Nadia Summer, BORLEY, ARWEN
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paso/)*

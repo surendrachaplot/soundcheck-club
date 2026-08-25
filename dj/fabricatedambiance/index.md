@@ -1,6 +1,6 @@
 # Fabricated Ambiance
 
-Fabricated Ambiance is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location, New York City on Sat, 19 Sept 2026.
+Fabricated Ambiance is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, New York City on Sat, 19 Sept 2026.
 
 Fabricated Ambiance is a house and afro house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside ANDG LUNA, ANDI WALL and BOJAQ. Next up: TBA - Secret Location, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Fabricated Ambiance is a house and afro house artist based in United States of A
 
 ANDG LUNA, ANDI WALL, BOJAQ
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabricatedambiance/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabricatedambiance/)*

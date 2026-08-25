@@ -1,0 +1,11 @@
+# OFF SCHEDULE: SEOUL at Blank Site
+
+OFF SCHEDULE: SEOUL at Blank Site on Fri 4 Sept, Seoul. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 4 Sept 2026 |
+| Venue | Blank Site |
+| City | Seoul |
+
+*Source: [soundcheck](https://soundcheck.club/e/2519275-off-schedule-seoul-at-blank-site/)*

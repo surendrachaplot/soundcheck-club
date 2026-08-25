@@ -1,6 +1,6 @@
 # Conrad Lee
 
-Conrad Lee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 29 Aug 2026.
+Conrad Lee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Two Tribes CAMPFIRE, London on Sat, 29 Aug 2026.
 
 Conrad Lee is a house and deep house artist tracked on soundcheck, with 52 sets logged across Lisbon and London. Often billed alongside idaH, Hudson’s Choice and Ella Knight. Next up: Two Tribes CAMPFIRE, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Conrad Lee is a house and deep house artist tracked on soundcheck, with 52 sets 
 
 idaH, Hudson’s Choice, Ella Knight
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conradlee/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conradlee/)*

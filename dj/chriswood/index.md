@@ -1,6 +1,6 @@
 # Chris Wood
 
-Chris Wood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
+Chris Wood is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
 
 Chris Wood is a house and techno artist tracked on soundcheck, with 47 sets logged across Berlin, Frankfurt and Munich. Often billed alongside Boutiq.808, Chris Beulich and Meat. Next up: Club der Visionaere, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Chris Wood is a house and techno artist tracked on soundcheck, with 47 sets logg
 
 Boutiq.808, Chris Beulich, Meat
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswood/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswood/)*

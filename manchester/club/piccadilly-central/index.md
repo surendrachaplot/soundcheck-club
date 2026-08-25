@@ -1,6 +1,6 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Escalivada 2nd edition // 28/08 evening party" on Fri, 28 Aug 2026.
+Piccadilly Central is a music venue in Manchester with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Escalivada 2nd edition // 28/08 evening party" on Fri, 28 Aug 2026.
 
 Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcoming nights, with line-ups including cuci cuci coo, DJ NORTHERN, Harry Simms and Pangölin and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
@@ -17,4 +17,4 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcomi
 
 38 London Road, Manchester, M1 2PF, Manchester
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/piccadilly-central/)*

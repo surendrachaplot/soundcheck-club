@@ -1,6 +1,6 @@
 # Jotam.
 
-Jotam. is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
+Jotam. is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
 
 Jotam. is a techno and ambient artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Howler (UK), Nadine Talakovics and Alex Levin. Next up: OXI, Berlin on Thu 10 Sept.
 
@@ -20,4 +20,4 @@ Jotam. is a techno and ambient artist based in Germany, tracked on soundcheck, w
 
 Howler (UK), Nadine Talakovics, Alex Levin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jotam./)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jotam./)*

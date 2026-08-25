@@ -1,6 +1,6 @@
 # Avior
 
-Avior is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+Avior is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
 Avior is a techno artist based in Switzerland, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Angelphroot, B0YG1RL and DNNS. Next up: TBA, Toronto on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ Avior is a techno artist based in Switzerland, tracked on soundcheck, with 1 set
 
 Angelphroot, B0YG1RL, DNNS
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avior/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avior/)*

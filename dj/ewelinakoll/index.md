@@ -1,6 +1,6 @@
 # Ewelina Koll
 
-Ewelina Koll is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Music Club Pulse 22, Prague on Sat, 12 Sept 2026.
+Ewelina Koll is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Music Club Pulse 22, Prague on Sat, 12 Sept 2026.
 
 Ewelina Koll is a trance and techno artist based in Poland, tracked on soundcheck, with 5 sets logged across Berlin and Prague. Often billed alongside GHOST DE, Marc van Linden and DJ Jordan. Next up: Music Club Pulse 22, Prague on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Ewelina Koll is a trance and techno artist based in Poland, tracked on soundchec
 
 GHOST DE, Marc van Linden, DJ Jordan
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewelinakoll/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewelinakoll/)*

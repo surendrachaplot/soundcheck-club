@@ -1,13 +1,14 @@
 # Charlie Brown
 
-Charlie Brown is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Charlie Brown is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
-Charlie Brown is a club and tech house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Ben Jammin, Billy Daniel Bunter and Clarkson. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Charlie Brown is a club and house artist tracked on soundcheck, with 4 sets logged across Amsterdam and London. Often billed alongside Ben Jammin, Billy Daniel Bunter and Clarkson. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
 
 ## Recently played
@@ -19,4 +20,4 @@ Charlie Brown is a club and tech house artist tracked on soundcheck, with 3 sets
 
 Ben Jammin, Billy Daniel Bunter, Clarkson
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebrown/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebrown/)*

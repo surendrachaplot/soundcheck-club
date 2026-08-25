@@ -1,6 +1,6 @@
 # LAMPETEE
 
-LAMPETEE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
+LAMPETEE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
 LAMPETEE is a techno and house artist based in Greece, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside ALADAG, Baime and Emanate. Next up: Escape, Amsterdam on Wed 21 Oct.
 
@@ -14,4 +14,4 @@ LAMPETEE is a techno and house artist based in Greece, tracked on soundcheck, wi
 
 ALADAG, Baime, Emanate
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lampetee/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lampetee/)*

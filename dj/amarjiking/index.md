@@ -1,6 +1,6 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
+Amarji King is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
 
 Amarji King is a club and techno artist tracked on soundcheck, with 48 sets logged across Austin, Chicago, Detroit and Houston and 7 more. Often billed alongside HYPERFEMME, BLAIZE and ARCHANGEL (US). Next up: Market Hotel, Newyorkcity on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 48 sets logg
 
 HYPERFEMME, BLAIZE, ARCHANGEL (US)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

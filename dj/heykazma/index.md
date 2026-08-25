@@ -1,6 +1,6 @@
 # heykazma
 
-heykazma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Spread, Tokyo on Fri, 28 Aug 2026.
+heykazma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Spread, Tokyo on Fri, 28 Aug 2026.
 
 heykazma is a techno and experimental artist based in Japan, tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside Yuki Kawamura, --- mr --- and SiSeN. Next up: Spread, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ heykazma is a techno and experimental artist based in Japan, tracked on soundche
 
 Yuki Kawamura, --- mr ---, SiSeN
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heykazma/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heykazma/)*

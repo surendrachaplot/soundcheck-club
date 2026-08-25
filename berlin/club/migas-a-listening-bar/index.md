@@ -1,6 +1,6 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Fiercita plays at migas" on Fri, 28 Aug 2026.
+migas, a listening bar is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Fiercita plays at migas" on Fri, 28 Aug 2026.
 
 migas, a listening bar is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
@@ -15,4 +15,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 2 upcomi
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

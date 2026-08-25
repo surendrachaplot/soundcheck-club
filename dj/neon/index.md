@@ -1,6 +1,6 @@
 # Neon
 
-Neon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
+Neon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
 
 Neon is a techno and house artist tracked on soundcheck, with 14 sets logged across Antwerp, Berlin, Brussels and Copenhagen and 3 more. Often billed alongside Maxim Lany, EMILIJA and Kenny Montana. Next up: Bodies in Space, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Neon is a techno and house artist tracked on soundcheck, with 14 sets logged acr
 
 Maxim Lany, EMILIJA, Kenny Montana
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neon/)*

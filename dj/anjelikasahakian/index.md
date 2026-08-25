@@ -1,6 +1,6 @@
 # ANJELIKA SAHAKIAN
 
-ANJELIKA SAHAKIAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Strong the Club, Madrid on Fri, 4 Sept 2026.
+ANJELIKA SAHAKIAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Strong the Club, Madrid on Fri, 4 Sept 2026.
 
 ANJELIKA SAHAKIAN is a techno and house artist based in Poland, tracked on soundcheck, with 10 sets logged across Barcelona and Madrid. Often billed alongside KSAL, Miguel Rivas and ALEX VIGO. Next up: Strong the Club, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ANJELIKA SAHAKIAN is a techno and house artist based in Poland, tracked on sound
 
 KSAL, Miguel Rivas, ALEX VIGO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjelikasahakian/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjelikasahakian/)*

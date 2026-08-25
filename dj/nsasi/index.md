@@ -1,6 +1,6 @@
 # Nsasi
 
-Nsasi is a Techno and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+Nsasi is a Techno and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
 Nsasi is a techno and amapiano artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Brussels and Leipzig and 7 more. Often billed alongside Authentically Plastic, Turkana and Hibotep. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nsasi is a techno and amapiano artist tracked on soundcheck, with 31 sets logged
 
 Authentically Plastic, Turkana, Hibotep
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsasi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsasi/)*

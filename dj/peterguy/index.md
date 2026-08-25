@@ -1,6 +1,6 @@
 # PETER GUY
 
-PETER GUY is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Spkrbox, Detroit on Wed, 26 Aug 2026.
+PETER GUY is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Spkrbox, Detroit on Wed, 26 Aug 2026.
 
 PETER GUY is a minimal and house artist tracked on soundcheck, with 29 sets logged across Detroit and Miami. Often billed alongside CoveLove, Bernat and Julian Abel. Next up: Spkrbox, Detroit on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ PETER GUY is a minimal and house artist tracked on soundcheck, with 29 sets logg
 
 CoveLove, Bernat, Julian Abel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterguy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterguy/)*

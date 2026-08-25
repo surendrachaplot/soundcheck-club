@@ -1,6 +1,6 @@
 # Sasha Tense
 
-Sasha Tense is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Vertical Berlin, Berlin on Sat, 29 Aug 2026.
+Sasha Tense is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Vertical Berlin, Berlin on Sat, 29 Aug 2026.
 
 Sasha Tense is a house and electronica artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Pommes, the misprints and Cem Orlow. Next up: Vertical Berlin, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Sasha Tense is a house and electronica artist based in Germany, tracked on sound
 
 Pommes, the misprints, Cem Orlow
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashatense/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashatense/)*

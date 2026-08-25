@@ -1,6 +1,6 @@
 # Jungle Julia
 
-Jungle Julia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Jungle Julia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Jungle Julia is a house and techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside Buja, Acid Pauli and Afgang. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ Jungle Julia is a house and techno artist based in Italy, tracked on soundcheck,
 
 Buja, Acid Pauli, Afgang
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junglejulia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/junglejulia/)*

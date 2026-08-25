@@ -1,6 +1,6 @@
 # Maddalena
 
-Maddalena is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Noto Philadelphia, Philadelphia on Thu, 24 Sept 2026.
+Maddalena is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Noto Philadelphia, Philadelphia on Thu, 24 Sept 2026.
 
 Maddalena is a progressive house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Philadelphia and Washingtondc. Often billed alongside Mayank, Staysis and Kobza. Next up: Noto Philadelphia, Philadelphia on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Maddalena is a progressive house and techno artist based in United States of Ame
 
 Mayank, Staysis, Kobza
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddalena/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddalena/)*

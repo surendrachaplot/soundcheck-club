@@ -1,6 +1,6 @@
 # Madrone Art Bar
 
-Madrone Art Bar is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Local 500 presents: Overtime" on Sun, 6 Sept 2026.
+Madrone Art Bar is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Local 500 presents: Overtime" on Sun, 6 Sept 2026.
 
 Madrone Art Bar is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including AGROPOL, DJ Panderer and Pap.. Browse upcoming dates, start times and who's playing. 500 Divisadero St, San Francisco, CA, 94117, United States.
 
@@ -14,4 +14,4 @@ Madrone Art Bar is a music venue in Sanfrancisco listed on soundcheck. 1 upcomin
 
 500 Divisadero St, San Francisco, CA, 94117, United States, San Francisco/Oakland
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madrone-art-bar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madrone-art-bar/)*

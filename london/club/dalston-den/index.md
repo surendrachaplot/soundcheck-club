@@ -1,8 +1,8 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle / Drum & Bass" on Fri, 28 Aug 2026.
+Dalston Den is a music venue in London with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Breakaway: Carnival Pre-Party and Summer Residency Closing - Jungle / Drum & Bass" on Fri, 28 Aug 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 22Cheeky, AAKAARA, Agility and Blake (2) and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including 22Cheeky, AAKAARA, Agility and Blake (2) and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Dalston Den is a music venue in London listed on soundcheck. 9 upcoming nights, 
 | Thu, 10 Sept 2026 | COME DANCE WITH US | 22Cheeky |
 | Sat, 12 Sept 2026 | Exquisite Corpse 05 | AAKAARA, Das ist Vas, Engineer (Live), Redd Ophis, SIOBHAN., ona:v |
 | Thu, 24 Sept 2026 | Sam Polks presents: Dancing Through The Night |  |
+| Fri, 25 Sept 2026 | Lessocial: Talking Stage |  |
 
 ## Address
 
 91-93 Kingsland High Street, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

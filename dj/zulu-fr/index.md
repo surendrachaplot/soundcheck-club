@@ -1,6 +1,6 @@
 # Zulu (FR)
 
-Zulu (FR) is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Zentralwäscherei, Zurich on Fri, 18 Sept 2026.
+Zulu (FR) is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Zentralwäscherei, Zurich on Fri, 18 Sept 2026.
 
 Zulu (FR) is an experimental and electro artist tracked on soundcheck, with 11 sets logged across Brussels, Nantes, Paris and Zurich. Often billed alongside Lisa More, Babyfather and Baraka. Next up: Zentralwäscherei, Zurich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Zulu (FR) is an experimental and electro artist tracked on soundcheck, with 11 s
 
 Lisa More, Babyfather, Baraka
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zulu-fr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zulu-fr/)*

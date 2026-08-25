@@ -1,6 +1,6 @@
 # Toni Aparisi
 
-Toni Aparisi is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Say No More Madrid, Madrid on Sat, 29 Aug 2026.
+Toni Aparisi is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Say No More Madrid, Madrid on Sat, 29 Aug 2026.
 
 Toni Aparisi is a house and electronica artist based in Spain, tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside lebollet, Arnau Obiols and DIGUES. Next up: Say No More Madrid, Madrid on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Toni Aparisi is a house and electronica artist based in Spain, tracked on soundc
 
 lebollet, Arnau Obiols, DIGUES
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toniaparisi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toniaparisi/)*

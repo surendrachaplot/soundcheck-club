@@ -1,6 +1,6 @@
 # Bouncy Bitch
 
-Bouncy Bitch is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Odonien, Cologne on Wed, 26 Aug 2026.
+Bouncy Bitch is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Odonien, Cologne on Wed, 26 Aug 2026.
 
 Bouncy Bitch is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Cologne. Often billed alongside Pamela Rave, SUITSIDE and Ferrand. Next up: Odonien, Cologne on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Bouncy Bitch is a techno and trance artist based in Germany, tracked on soundche
 
 Pamela Rave, SUITSIDE, Ferrand
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncybitch/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncybitch/)*

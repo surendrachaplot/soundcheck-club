@@ -1,6 +1,6 @@
 # Antique (HU)
 
-Antique (HU) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 29 Aug 2026.
+Antique (HU) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 29 Aug 2026.
 
 Antique (HU) is a house and tech house artist based in Hungary, tracked on soundcheck, with 39 sets logged across Budapest. Often billed alongside T:MANIAK, Spanti and TAMAS SZABO. Next up: Aether Club Budapest, Budapest on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Antique (HU) is a house and tech house artist based in Hungary, tracked on sound
 
 T:MANIAK, Spanti, TAMAS SZABO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antiquehu/)*

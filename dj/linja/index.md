@@ -1,6 +1,6 @@
 # Linja
 
-Linja is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
+Linja is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
 
 Linja is a drum & bass and techno artist based in Russia, tracked on soundcheck, with 10 sets logged across Barcelona, Madrid and Vienna. Often billed alongside Oriana, OMAR (UY) and Annechoic. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Linja is a drum & bass and techno artist based in Russia, tracked on soundcheck,
 
 Oriana, OMAR (UY), Annechoic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linja/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linja/)*

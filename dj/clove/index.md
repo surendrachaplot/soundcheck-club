@@ -1,6 +1,6 @@
 # C.love
 
-C.love is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Crack Bellmer, Berlin on Fri, 28 Aug 2026.
+C.love is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Crack Bellmer, Berlin on Fri, 28 Aug 2026.
 
 C.love is a disco and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin, Losangeles and Vienna. Often billed alongside Lotte Ahoi, Nigel Nagel and Bears In Space. Next up: Crack Bellmer, Berlin on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ C.love is a disco and house artist based in United States of America, tracked on
 
 Lotte Ahoi, Nigel Nagel, Bears In Space
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clove/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clove/)*

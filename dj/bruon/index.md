@@ -1,6 +1,6 @@
 # BRU ON
 
-BRU ON is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
+BRU ON is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
 
 BRU ON is a house and techno artist tracked on soundcheck, with 31 sets logged across Barcelona. Often billed alongside Babo, KBTO and NEONKOLA. Next up: Garage 442, Barcelona on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ BRU ON is a house and techno artist tracked on soundcheck, with 31 sets logged a
 
 Babo, KBTO, NEONKOLA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*

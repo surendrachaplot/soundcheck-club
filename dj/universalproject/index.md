@@ -1,6 +1,6 @@
 # Universal Project
 
-Universal Project is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Last Arch, London on Sat, 21 Nov 2026.
+Universal Project is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Last Arch, London on Sat, 21 Nov 2026.
 
 Universal Project is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Brighton, Budapest and London. Often billed alongside DJ Ink, Loxy and Xtrah. Next up: Last Arch, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Universal Project is a drum & bass and jungle artist based in United Kingdom, tr
 
 DJ Ink, Loxy, Xtrah
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/universalproject/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/universalproject/)*

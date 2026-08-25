@@ -1,6 +1,6 @@
 # CAGED
 
-CAGED is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 29 Aug 2026.
+CAGED is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 29 Aug 2026.
 
 CAGED is a house and garage artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Lewis Cancut, DAARONS and Richard Kelly. Next up: Revolver Upstairs, Melbourne on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ CAGED is a house and garage artist based in Australia, tracked on soundcheck, wi
 
 Lewis Cancut, DAARONS, Richard Kelly
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caged/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caged/)*

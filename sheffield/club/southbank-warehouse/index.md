@@ -1,17 +1,18 @@
 # Southbank Warehouse
 
-Southbank Warehouse is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "dissolve 002" on Fri, 11 Sept 2026.
+Southbank Warehouse is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "dissolve 002" on Fri, 11 Sept 2026.
 
-Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 90 Effingham Road, Sheffield, S4 7YS.
+Southbank Warehouse is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 90 Effingham Road, Sheffield, S4 7YS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | dissolve 002 |  |
+| Sat, 19 Sept 2026 | Battle of the Bass Bins |  |
 
 ## Address
 
 90 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/southbank-warehouse/)*

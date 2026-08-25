@@ -1,6 +1,6 @@
 # Nomadico
 
-Nomadico is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
+Nomadico is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
 
 Nomadico is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Barcelona, Detroit, Losangeles and Madrid and 2 more. Often billed alongside Kosmik, Dave Aju and Santiago Salazar. Next up: The Airliner, Losangeles on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Nomadico is a house and techno artist based in United States of America, tracked
 
 Kosmik, Dave Aju, Santiago Salazar
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomadico/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomadico/)*

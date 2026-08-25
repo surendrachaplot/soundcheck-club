@@ -1,6 +1,6 @@
 # noa boiler
 
-noa boiler is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
+noa boiler is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
 
 noa boiler is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Joshi Reinard, Misha Jaru and Alex Friday. Next up: DSTRKT Club Berlin, Berlin on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ noa boiler is a techno and trance artist tracked on soundcheck, with 6 sets logg
 
 Joshi Reinard, Misha Jaru, Alex Friday
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noaboiler/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noaboiler/)*

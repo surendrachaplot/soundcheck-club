@@ -1,6 +1,6 @@
 # Zettka
 
-Zettka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Weekend, Berlin on Fri, 25 Sept 2026.
+Zettka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Weekend, Berlin on Fri, 25 Sept 2026.
 
 Zettka is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin, Istanbul, Mexicocity and Munich. Often billed alongside Coss, David Benjamin and Hanebüchener. Next up: Weekend, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Zettka is a techno and house artist tracked on soundcheck, with 26 sets logged a
 
 Coss, David Benjamin, Hanebüchener
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zettka/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zettka/)*

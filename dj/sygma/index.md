@@ -1,6 +1,6 @@
 # Sygma
 
-Sygma is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bar22, Amsterdam on Sun, 25 Oct 2026.
+Sygma is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar22, Amsterdam on Sun, 25 Oct 2026.
 
 Sygma is a techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam and London. Often billed alongside Luciano Mancini Luke, Tribe Dj and Francesca.Fagiani. Next up: Bar22, Amsterdam on Sun 25 Oct.
 
@@ -18,4 +18,4 @@ Sygma is a techno artist based in Italy, tracked on soundcheck, with 2 sets logg
 
 Luciano Mancini Luke, Tribe Dj, Francesca.Fagiani
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sygma/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sygma/)*

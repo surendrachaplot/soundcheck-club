@@ -1,14 +1,15 @@
 # Gwyn
 
-Gwyn is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Sydney on Sat, 29 Aug 2026.
+Gwyn is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Sydney on Sat, 29 Aug 2026.
 
-Gwyn is a techno and psytrance artist based in Australia, tracked on soundcheck, with 15 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Sian Ramirez, Shepz and VORPAL. Next up: TBA, Sydney on Sat 29 Aug.
+Gwyn is a techno and psytrance artist based in Australia, tracked on soundcheck, with 16 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Sian Ramirez, Shepz and VORPAL. Next up: TBA, Sydney on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA | Sydney |
+| Fri, 4 Sept 2026 | TBA | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gwyn is a techno and psytrance artist based in Australia, tracked on soundcheck,
 
 Sian Ramirez, Shepz, VORPAL
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwyn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwyn/)*

@@ -1,6 +1,6 @@
 # Man/Ipulate
 
-Man/Ipulate is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Man/Ipulate is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Man/Ipulate is a house and tech house artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Massaï, LAMALICE and Aline Brooklyn. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Man/Ipulate is a house and tech house artist based in France, tracked on soundch
 
 Massaï, LAMALICE, Aline Brooklyn
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manipulate/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manipulate/)*

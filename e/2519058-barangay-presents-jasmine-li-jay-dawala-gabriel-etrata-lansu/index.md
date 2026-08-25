@@ -1,6 +1,6 @@
 # Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, Chelsea at Dead Letter No. 9
 
-Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, Chelsea at Dead Letter No. 9 on Thu 17 Sept, Newyorkcity. 4 acts on the bill: Gabriel Etrata, Jasmine Li, LANSUH and Niyah West. House and Disco. Preview the line-up and save it on soundcheck.
+Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, Chelsea at Dead Letter No. 9 on Thu 17 Sept, Newyorkcity. 5 acts on the bill: Gabriel Etrata, Jasmine Li, Jasmine Li (NY) and LANSUH and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, C
 
 - Gabriel Etrata
 - Jasmine Li
+- Jasmine Li (NY)
 - LANSUH
 - Niyah West
 

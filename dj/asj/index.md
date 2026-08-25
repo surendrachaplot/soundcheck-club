@@ -1,6 +1,6 @@
 # ASJ
 
-ASJ is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Strange Brew, Bristol on Sat, 29 Aug 2026.
+ASJ is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Strange Brew, Bristol on Sat, 29 Aug 2026.
 
 ASJ is an experimental and club artist tracked on soundcheck, with 12 sets logged across Berlin, Bristol, Glasgow and Hongkong and 6 more. Often billed alongside Moa Pillar, Mun Sing and 96 Back. Next up: Strange Brew, Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ASJ is an experimental and club artist tracked on soundcheck, with 12 sets logge
 
 Moa Pillar, Mun Sing, 96 Back
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asj/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asj/)*

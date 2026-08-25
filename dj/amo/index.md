@@ -1,6 +1,6 @@
 # AMO
 
-AMO is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+AMO is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 AMO is a house and minimal artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Ibiza, Leipzig and London and 6 more. Often billed alongside Chad Andrew, Adam Collins and Philipp Johann Thimm. Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ AMO is a house and minimal artist based in United States of America, tracked on 
 
 Chad Andrew, Adam Collins, Philipp Johann Thimm
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amo/)*

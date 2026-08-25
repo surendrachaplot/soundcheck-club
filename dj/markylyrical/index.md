@@ -1,6 +1,6 @@
 # Marky Lyrical
 
-Marky Lyrical is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
+Marky Lyrical is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
 
 Marky Lyrical is a dub and bass artist based in Canada, tracked on soundcheck, with 5 sets logged across Lyon, Montreal and Porto. Often billed alongside Aba Shanti-I, Ayanna Heaven and Brica Brac Soundsystem. Next up: Praia Fluvial da Rapoula do Côa, Porto on Mon 24 Aug.
 
@@ -12,6 +12,7 @@ Marky Lyrical is a dub and bass artist based in Canada, tracked on soundcheck, w
 
 ## Recently played
 
+- Praia Fluvial da Rapoula do Côa, Porto — Mon, 24 Aug 2026
 - Le Transbordeur, Lyon — Thu, 7 May 2026
 - Le Ministère, Montreal — Sat, 31 Jan 2026
 - La Sotterenea, Montreal — Fri, 16 Jan 2026
@@ -21,4 +22,4 @@ Marky Lyrical is a dub and bass artist based in Canada, tracked on soundcheck, w
 
 Aba Shanti-I, Ayanna Heaven, Brica Brac Soundsystem
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markylyrical/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markylyrical/)*

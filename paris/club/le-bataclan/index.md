@@ -1,6 +1,6 @@
 # Le Bataclan
 
-Le Bataclan is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Autechre" on Wed, 14 Oct 2026.
+Le Bataclan is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Autechre" on Wed, 14 Oct 2026.
 
 Le Bataclan is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Autechre and Digitalism. Browse upcoming dates, start times and who's playing. 50 boulevard Voltaire; 75011; Paris; France.
 
@@ -15,4 +15,4 @@ Le Bataclan is a music venue in Paris listed on soundcheck. 2 upcoming nights, w
 
 50 boulevard Voltaire; 75011; Paris; France, Paris
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-bataclan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-bataclan/)*

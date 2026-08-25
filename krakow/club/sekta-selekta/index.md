@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Sekta Selekta: Maksym Tkach, Casio the Calculator, user228322" on Fri, 28 Aug 2026.
+Sekta Selekta is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sekta Selekta: Maksym Tkach, Casio the Calculator, user228322" on Fri, 28 Aug 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 2 upcoming nights, with line-ups including 4\4, Casio the Calculator, kEczuP and Kola (PL) and 2 more. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -15,4 +15,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 2 upcoming nights
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

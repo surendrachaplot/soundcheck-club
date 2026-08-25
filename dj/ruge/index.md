@@ -1,6 +1,6 @@
 # RUGE
 
-RUGE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Vancouver on Sat, 29 Aug 2026.
+RUGE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Vancouver on Sat, 29 Aug 2026.
 
 RUGE is a house and minimal artist based in Mexico, tracked on soundcheck, with 1 set logged across Vancouver. Often billed alongside Lalo Campo and Mihai Pol. Next up: TBA, Vancouver on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ RUGE is a house and minimal artist based in Mexico, tracked on soundcheck, with 
 
 Lalo Campo, Mihai Pol
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruge/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruge/)*

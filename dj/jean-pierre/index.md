@@ -1,6 +1,6 @@
 # JEAN-PIERRE
 
-JEAN-PIERRE is a Club and Footwork artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
+JEAN-PIERRE is a Club and Footwork artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
 
 JEAN-PIERRE is a club and footwork artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside D3NIM, Petal and BEYBLADE SHAWTY. Next up: Pianos, Newyorkcity on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ JEAN-PIERRE is a club and footwork artist based in United States of America, tra
 
 D3NIM, Petal, BEYBLADE SHAWTY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-pierre/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-pierre/)*

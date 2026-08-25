@@ -1,6 +1,6 @@
 # Clifford
 
-Clifford is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Glamorama, Melbourne on Fri, 28 Aug 2026.
+Clifford is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Glamorama, Melbourne on Fri, 28 Aug 2026.
 
 Clifford is a house and garage artist tracked on soundcheck, with 16 sets logged across Dusseldorf, London, Manchester and Melbourne and 1 more. Often billed alongside Arundel, Deens and Duzi. Next up: Glamorama, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Clifford is a house and garage artist tracked on soundcheck, with 16 sets logged
 
 Arundel, Deens, Duzi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clifford/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clifford/)*

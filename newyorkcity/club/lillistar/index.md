@@ -1,6 +1,6 @@
 # Lillistar
 
-Lillistar is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Sirocco Sessions: Golden Hour NYC" on Fri, 28 Aug 2026.
+Lillistar is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sirocco Sessions: Golden Hour NYC" on Fri, 28 Aug 2026.
 
 Lillistar is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Violin Girl. Browse upcoming dates, start times and who's playing. 353 Bedford Ave, Brooklyn, NY 11211, United States.
 
@@ -14,4 +14,4 @@ Lillistar is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night
 
 353 Bedford Ave, Brooklyn, NY 11211, United States, New York City
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lillistar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/lillistar/)*

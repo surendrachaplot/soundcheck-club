@@ -1,6 +1,6 @@
 # Maria W Horn
 
-Maria W Horn is a Experimental and Drone artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Maria W Horn is a Experimental and Drone artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Maria W Horn is an experimental and drone artist tracked on soundcheck, with 13 sets logged across Basel, Berlin, Birmingham and Leipzig and 5 more. Often billed alongside Venus Ex Machina, aya and Abdullah Miniawy. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Maria W Horn is an experimental and drone artist tracked on soundcheck, with 13 
 
 Venus Ex Machina, aya, Abdullah Miniawy
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawhorn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawhorn/)*

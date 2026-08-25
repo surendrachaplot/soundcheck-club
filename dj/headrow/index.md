@@ -1,6 +1,6 @@
 # Headrow
 
-Headrow is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bread & Butter Arch, London on Sat, 3 Oct 2026.
+Headrow is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bread & Butter Arch, London on Sat, 3 Oct 2026.
 
 Headrow is a garage and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Leeds and London. Often billed alongside Gem Precious, HIFEELINGS and Jess Bays. Next up: Bread & Butter Arch, London on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Headrow is a garage and house artist based in United Kingdom, tracked on soundch
 
 Gem Precious, HIFEELINGS, Jess Bays
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/headrow/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/headrow/)*

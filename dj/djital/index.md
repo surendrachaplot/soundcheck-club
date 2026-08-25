@@ -1,6 +1,6 @@
 # DJ Ital
 
-DJ Ital is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Lvls, London on Sun, 30 Aug 2026.
+DJ Ital is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lvls, London on Sun, 30 Aug 2026.
 
 DJ Ital is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside DJ Brockie, Funsta and The Ragga Twins. Next up: Lvls, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ Ital is a drum & bass and jungle artist tracked on soundcheck, with 10 sets l
 
 DJ Brockie, Funsta, The Ragga Twins
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djital/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djital/)*

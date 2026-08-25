@@ -1,6 +1,6 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Luke Alessi is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Luke Alessi is a house and techno artist based in Australia, tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 36 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -32,4 +32,4 @@ Luke Alessi is a house and techno artist based in Australia, tracked on soundche
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

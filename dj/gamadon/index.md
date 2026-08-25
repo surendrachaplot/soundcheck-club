@@ -1,6 +1,6 @@
 # GAMADON
 
-GAMADON is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
+GAMADON is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
 
 GAMADON is an electro and techno artist tracked on soundcheck, with 6 sets logged across Berlin, Dublin, Galway and London and 1 more. Often billed alongside AOIFE, Beryll and Commissar  Lag. Next up: Pawn Shop, Dublin on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ GAMADON is an electro and techno artist tracked on soundcheck, with 6 sets logge
 
 AOIFE, Beryll, Commissar  Lag
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gamadon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gamadon/)*

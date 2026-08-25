@@ -1,14 +1,15 @@
 # Dirk Schot
 
-Dirk Schot is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Madam, Amsterdam on Fri, 11 Sept 2026.
+Dirk Schot is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Madam, Amsterdam on Fri, 11 Sept 2026.
 
-Dirk Schot is a house and disco artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam. Often billed alongside Jay Latune, Mark Knight and Martien V.. Next up: Madam, Amsterdam on Fri 11 Sept.
+Dirk Schot is a house and disco artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam. Often billed alongside Black Legend, Charlie Brown and Claudius. Next up: Madam, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Madam | Amsterdam |
+| Wed, 21 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dirk Schot is a house and disco artist based in Netherlands, tracked on soundche
 
 ## Shares bills with
 
-Jay Latune, Mark Knight, Martien V.
+Black Legend, Charlie Brown, Claudius
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*

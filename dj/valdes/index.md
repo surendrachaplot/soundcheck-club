@@ -1,8 +1,8 @@
 # Valdés
 
-Valdés is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bar15, Stockholm on Fri, 28 Aug 2026.
+Valdés is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar15, Stockholm on Fri, 28 Aug 2026.
 
-Valdés is a techno and industrial artist based in Cyprus, tracked on soundcheck, with 1 set logged across Stockholm. Often billed alongside ARANEA and WNDRLST. Next up: Bar15, Stockholm on Fri 28 Aug.
+Valdés is an industrial and techno artist based in Cyprus, tracked on soundcheck, with 1 set logged across Stockholm. Often billed alongside ARANEA and WNDRLST. Next up: Bar15, Stockholm on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Valdés is a techno and industrial artist based in Cyprus, tracked on soundcheck
 
 ARANEA, WNDRLST
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valdes/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valdes/)*

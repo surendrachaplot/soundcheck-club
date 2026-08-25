@@ -1,6 +1,6 @@
 # ESCA (3)
 
-ESCA (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Das Werk, Vienna on Fri, 9 Oct 2026.
+ESCA (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Das Werk, Vienna on Fri, 9 Oct 2026.
 
 ESCA (3) is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Copenhagen and Munich and 1 more. Often billed alongside Antonym, Bélavie and Crystal O. Next up: Das Werk, Vienna on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ESCA (3) is a techno and trance artist tracked on soundcheck, with 10 sets logge
 
 Antonym, Bélavie, Crystal O
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esca-3/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esca-3/)*

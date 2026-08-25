@@ -1,6 +1,6 @@
 # Mimi J
 
-Mimi J is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Chinese Laundry, Sydney on Sat, 29 Aug 2026.
+Mimi J is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Chinese Laundry, Sydney on Sat, 29 Aug 2026.
 
 Mimi J is a house and techno artist tracked on soundcheck, with 62 sets logged across Sydney. Often billed alongside Bouki, DAUG and Jacqui Cunningham. Next up: Chinese Laundry, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mimi J is a house and techno artist tracked on soundcheck, with 62 sets logged a
 
 Bouki, DAUG, Jacqui Cunningham
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*

@@ -1,6 +1,6 @@
 # Localito 3.0
 
-Localito 3.0 is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "SABOTAJE – Bamb x Barbers" on Fri, 28 Aug 2026.
+Localito 3.0 is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "SABOTAJE – Bamb x Barbers" on Fri, 28 Aug 2026.
 
 Localito 3.0 is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Barbers and Model Shape. Browse upcoming dates, start times and who's playing. Passeig de la Marina, 174, 08860 Castelldefels, Barcelona.
 
@@ -14,4 +14,4 @@ Localito 3.0 is a music venue in Barcelona listed on soundcheck. 1 upcoming nigh
 
 Passeig de la Marina, 174, 08860 Castelldefels, Barcelona, Barcelona
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/localito-3-0/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/localito-3-0/)*

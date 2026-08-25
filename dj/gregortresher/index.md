@@ -1,6 +1,6 @@
 # Gregor Tresher
 
-Gregor Tresher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+Gregor Tresher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 Gregor Tresher is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 21 more. Often billed alongside Lilly Palmer, Karotte and Emanuel Satie. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Gregor Tresher is a techno and house artist tracked on soundcheck, with 72 sets 
 
 Lilly Palmer, Karotte, Emanuel Satie
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregortresher/)*

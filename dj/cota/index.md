@@ -1,6 +1,6 @@
 # COTA
 
-COTA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Noon + Cafe, Osaka on Fri, 11 Sept 2026.
+COTA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Noon + Cafe, Osaka on Fri, 11 Sept 2026.
 
 COTA is a house and techno artist tracked on soundcheck, with 29 sets logged across Newyorkcity and Osaka. Often billed alongside AOKI takamasa, DJ Compufunk and Daisuke Kakimoto. Next up: Noon + Cafe, Osaka on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ COTA is a house and techno artist tracked on soundcheck, with 29 sets logged acr
 
 AOKI takamasa, DJ Compufunk, Daisuke Kakimoto
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cota/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cota/)*

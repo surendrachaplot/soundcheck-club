@@ -1,6 +1,6 @@
 # Florian François
 
-Florian François is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
+Florian François is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Birgit, Berlin on Sat, 29 Aug 2026.
 
 Florian François is a techno and progressive house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Malta. Often billed alongside Pascale Voltaire, A-THØX and Víctor Güell. Next up: Birgit, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Florian François is a techno and progressive house artist based in Germany, tra
 
 Pascale Voltaire, A-THØX, Víctor Güell
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florianfrançois/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/florianfrançois/)*

@@ -1,6 +1,6 @@
 # FLETCH
 
-FLETCH is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
+FLETCH is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 FLETCH is a house and tech house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Birmingham and Boston and 20 more. Often billed alongside Mason Collective, Max Dean and REME. Next up: Pacha Ibiza, Ibiza on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ FLETCH is a house and tech house artist tracked on soundcheck, with 60 sets logg
 
 Mason Collective, Max Dean, REME
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*

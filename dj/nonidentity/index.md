@@ -1,6 +1,6 @@
 # NON IDENTITY
 
-NON IDENTITY is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Atdge Seoul, Seoul on Wed, 26 Aug 2026.
+NON IDENTITY is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Atdge Seoul, Seoul on Wed, 26 Aug 2026.
 
 NON IDENTITY is a techno and minimal artist based in South Korea, tracked on soundcheck, with 64 sets logged across Seoul. Often billed alongside Haemi Park, KEEMBOGYEOM and Hogun. Next up: Atdge Seoul, Seoul on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ NON IDENTITY is a techno and minimal artist based in South Korea, tracked on sou
 
 Haemi Park, KEEMBOGYEOM, Hogun
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonidentity/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonidentity/)*

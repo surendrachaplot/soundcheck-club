@@ -1,6 +1,6 @@
 # Wet Deck at W Hotel
 
-Wet Deck at W Hotel is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "WET Deck Republik: CLUB PARADISO" on Sat, 29 Aug 2026.
+Wet Deck at W Hotel is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "WET Deck Republik: CLUB PARADISO" on Sat, 29 Aug 2026.
 
 Wet Deck at W Hotel is a music venue in Kualalumpur listed on soundcheck. 2 upcoming nights, with line-ups including Alam, Axel Groove, Meliha and Toni Varga and 1 more. Browse upcoming dates, start times and who's playing. 121, Jalan Ampang, 50450, Kuala Lumpur.
 
@@ -15,4 +15,4 @@ Wet Deck at W Hotel is a music venue in Kualalumpur listed on soundcheck. 2 upco
 
 121, Jalan Ampang, 50450, Kuala Lumpur, Kuala Lumpur
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/wet-deck-at-w-hotel/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/wet-deck-at-w-hotel/)*

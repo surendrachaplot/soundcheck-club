@@ -1,6 +1,6 @@
 # Charlie Conway
 
-Charlie Conway is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Random Sample, Nashville on Sat, 29 Aug 2026.
+Charlie Conway is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Random Sample, Nashville on Sat, 29 Aug 2026.
 
 Charlie Conway is a techno and club artist tracked on soundcheck, with 7 sets logged across Detroit and Nashville. Often billed alongside Blaine Mason, 1morning and DJ Assault. Next up: Random Sample, Nashville on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Charlie Conway is a techno and club artist tracked on soundcheck, with 7 sets lo
 
 Blaine Mason, 1morning, DJ Assault
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieconway/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieconway/)*

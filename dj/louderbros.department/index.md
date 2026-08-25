@@ -1,6 +1,6 @@
 # LOUDER BROS. DEPARTMENT
 
-LOUDER BROS. DEPARTMENT is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+LOUDER BROS. DEPARTMENT is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
 LOUDER BROS. DEPARTMENT is a tech house and minimal techno artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Camilo Do Santos, TWOEF and Benson (IT). Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ LOUDER BROS. DEPARTMENT is a tech house and minimal techno artist tracked on sou
 
 Camilo Do Santos, TWOEF, Benson (IT)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louderbros.department/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louderbros.department/)*

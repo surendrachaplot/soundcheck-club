@@ -1,6 +1,6 @@
 # Inco
 
-Inco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at 2ten, Athens on Sat, 12 Sept 2026.
+Inco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 2ten, Athens on Sat, 12 Sept 2026.
 
 Inco is a techno and house artist tracked on soundcheck, with 13 sets logged across Athens and Barcelona. Often billed alongside Martin Noise, AMH (1) and Acid Paz. Next up: 2ten, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Inco is a techno and house artist tracked on soundcheck, with 13 sets logged acr
 
 Martin Noise, AMH (1), Acid Paz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inco/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inco/)*

@@ -1,6 +1,6 @@
 # Kike Roldan
 
-Kike Roldan is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 27 Aug 2026.
+Kike Roldan is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 27 Aug 2026.
 
 Kike Roldan is a house and deep house artist tracked on soundcheck, with 118 sets logged across Miami. Often billed alongside Atomyard, Patrick M and Soto Music. Next up: Do Not Sit On The Furniture, Miami on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Kike Roldan is a house and deep house artist tracked on soundcheck, with 118 set
 
 Atomyard, Patrick M, Soto Music
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikeroldan/)*

@@ -1,6 +1,6 @@
 # Shackleton
 
-Shackleton is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Shackleton is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 Shackleton is an experimental and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Shackleton is an experimental and techno artist tracked on soundcheck, with 63 s
 
 upsammy, ojoo, Al Wootton
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*

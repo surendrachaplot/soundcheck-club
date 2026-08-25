@@ -1,8 +1,8 @@
 # Arrakis (GER)
 
-Arrakis (GER) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
+Arrakis (GER) is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
-Arrakis (GER) is a house and progressive house artist based in Germany, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Adnan Jakubovic, DJ Ruby and Jerpa. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
+Arrakis (GER) is a progressive house and house artist based in Germany, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Adnan Jakubovic, DJ Ruby and Jerpa. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ Arrakis (GER) is a house and progressive house artist based in Germany, tracked 
 
 Adnan Jakubovic, DJ Ruby, Jerpa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrakisger/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arrakisger/)*

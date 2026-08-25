@@ -1,6 +1,6 @@
 # Badehaus Berlin
 
-Badehaus Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "7 Synths Party" on Fri, 28 Aug 2026.
+Badehaus Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "7 Synths Party" on Fri, 28 Aug 2026.
 
 Badehaus Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Carl Hang, Electric Visionary, lionza and Ojos de miel and 1 more. Browse upcoming dates, start times and who's playing. Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Badehaus Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nigh
 
 Revalerstrasse 99; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/badehaus-berlin/)*

@@ -1,6 +1,6 @@
 # Katya
 
-Katya is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gaffe, London on Sun, 6 Sept 2026.
+Katya is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gaffe, London on Sun, 6 Sept 2026.
 
 Katya is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Berlin, Bristol, London and Portland and 1 more. Often billed alongside Alien Communications, Bobby. and Olita (UK). Next up: Gaffe, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Katya is a techno and electro artist based in United Kingdom, tracked on soundch
 
 Alien Communications, Bobby., Olita (UK)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*

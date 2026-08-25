@@ -1,8 +1,8 @@
 # Two Shell
 
-Two Shell is a Experimental and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Refuge, New York City on Thu, 17 Sept 2026.
+Two Shell is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Refuge, New York City on Thu, 17 Sept 2026.
 
-Two Shell is an experimental and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Refuge, Newyorkcity on Thu 17 Sept.
+Two Shell is a techno and experimental artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Ogazón, Avalon Emerson and Call Super. Next up: Refuge, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Two Shell is an experimental and techno artist tracked on soundcheck, with 81 se
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
+| Fri, 6 Nov 2026 | New Century Locker | Manchester |
 | Sat, 7 Nov 2026 | Outernet Live | London |
 | Fri, 13 Nov 2026 | Belgrave Music Hall | Leeds |
 
@@ -32,4 +33,4 @@ Two Shell is an experimental and techno artist tracked on soundcheck, with 81 se
 
 Ogazón, Avalon Emerson, Call Super
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twoshell/)*

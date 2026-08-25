@@ -1,6 +1,6 @@
 # Takekiyo Ishimoto
 
-Takekiyo Ishimoto is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Umeda BANGBOO, Osaka on Sat, 5 Sept 2026.
+Takekiyo Ishimoto is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Umeda BANGBOO, Osaka on Sat, 5 Sept 2026.
 
 Takekiyo Ishimoto is a techno and progressive house artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka. Often billed alongside TAMO, Nao Nomura and KONDO Mitsuo. Next up: Umeda BANGBOO, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Takekiyo Ishimoto is a techno and progressive house artist based in Japan, track
 
 TAMO, Nao Nomura, KONDO Mitsuo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takekiyoishimoto-jp/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takekiyoishimoto-jp/)*

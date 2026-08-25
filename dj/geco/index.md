@@ -1,6 +1,6 @@
 # GECO
 
-GECO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sol Rooftop Bali, Bali on Fri, 28 Aug 2026.
+GECO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sol Rooftop Bali, Bali on Fri, 28 Aug 2026.
 
 GECO is a house and tech house artist tracked on soundcheck, with 23 sets logged across Bali, Melbourne and Sydney. Often billed alongside Kerry Wallace, Kaiser Waldon and Adam Dado. Next up: Sol Rooftop Bali, Bali on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ GECO is a house and tech house artist tracked on soundcheck, with 23 sets logged
 
 Kerry Wallace, Kaiser Waldon, Adam Dado
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geco/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geco/)*

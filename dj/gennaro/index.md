@@ -1,14 +1,15 @@
 # GENNARO
 
-GENNARO is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 1 Sept 2026.
+GENNARO is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 1 Sept 2026.
 
-GENNARO is a tech house and house artist based in Italy, tracked on soundcheck, with 16 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 4 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: Amnesia Ibiza, Ibiza on Tue 1 Sept.
+GENNARO is a tech house and house artist based in Italy, tracked on soundcheck, with 17 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 5 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: Amnesia Ibiza, Ibiza on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 1 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 4 Sept 2026 | KOKO | London |
 | Sat, 10 Oct 2026 | IDRA | Manchester |
 
 ## Recently played
@@ -26,4 +27,4 @@ GENNARO is a tech house and house artist based in Italy, tracked on soundcheck, 
 
 ANOTR, Cristian Volpe, Ludo Erre
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

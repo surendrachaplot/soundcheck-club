@@ -1,6 +1,6 @@
 # Cuedra
 
-Cuedra is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Flash, Washington DC on Fri, 11 Sept 2026.
+Cuedra is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Flash, Washington DC on Fri, 11 Sept 2026.
 
 Cuedra is a minimal techno and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Apollo Dust, Henry P (US) and AJAMU. Next up: Flash, Washingtondc on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Cuedra is a minimal techno and techno artist based in United States of America, 
 
 Apollo Dust, Henry P (US), AJAMU
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuedra/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuedra/)*

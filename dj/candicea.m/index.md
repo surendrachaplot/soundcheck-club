@@ -1,6 +1,6 @@
 # candice a.m
 
-candice a.m is a Jazz and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ninety One, London on Sat, 21 Nov 2026.
+candice a.m is a Jazz and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ninety One, London on Sat, 21 Nov 2026.
 
 candice a.m is a jazz and dub artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside DJ-CK, Bryan By Day and Ed Goes Steady. Next up: Ninety One, London on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ candice a.m is a jazz and dub artist based in United Kingdom, tracked on soundch
 
 DJ-CK, Bryan By Day, Ed Goes Steady
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candicea.m/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/candicea.m/)*

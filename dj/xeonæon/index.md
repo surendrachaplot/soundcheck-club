@@ -1,6 +1,6 @@
 # xeon æon
 
-xeon æon is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
+xeon æon is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Motorista Studio, Toronto on Fri, 16 Oct 2026.
 
 xeon æon is a hardcore and trance artist tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside GUSSYEE, 666.pastel and Rareasfck. Next up: Motorista Studio, Toronto on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ xeon æon is a hardcore and trance artist tracked on soundcheck, with 17 sets lo
 
 GUSSYEE, 666.pastel, Rareasfck
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xeonæon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xeonæon/)*

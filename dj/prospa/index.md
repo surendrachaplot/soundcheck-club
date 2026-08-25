@@ -1,14 +1,13 @@
 # Prospa
 
-Prospa is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Santanna Mykonos, Mykonos on Mon, 24 Aug 2026.
+Prospa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
-Prospa is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Santanna Mykonos, Mykonos on Mon 24 Aug.
+Prospa is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 45 more. Often billed alongside Seth Troxler, Josh Baker and Sossa. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Santanna Mykonos | Mykonos |
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 13 Sept 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
@@ -20,9 +19,11 @@ Prospa is a house and techno artist tracked on soundcheck, with 177 sets logged 
 | Wed, 14 Oct 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Sun, 18 Oct 2026 | Beach House San Diego | San Diego |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | A.i Warehouse | Washington DC |
 
 ## Recently played
 
+- Santanna Mykonos, Mykonos — Mon, 24 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 12 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 7 Aug 2026
 - Old Royal Naval College, London — Sun, 2 Aug 2026
@@ -30,10 +31,9 @@ Prospa is a house and techno artist tracked on soundcheck, with 177 sets logged 
 - DC-10, Ibiza — Mon, 6 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 2 Jul 2026
 - DC-10, Ibiza — Mon, 29 Jun 2026
-- Amok Club, Mallorca — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Seth Troxler, Josh Baker, Sossa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

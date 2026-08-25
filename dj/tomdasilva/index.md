@@ -1,6 +1,6 @@
 # Tom Da Silva
 
-Tom Da Silva is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Tom Da Silva is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Tom Da Silva is a house and tech house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Ibiza, Liverpool and London. Often billed alongside Phill de Janeiro, James Lavelle (2) and Jude Lenihan. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Tom Da Silva is a house and tech house artist tracked on soundcheck, with 17 set
 
 Phill de Janeiro, James Lavelle (2), Jude Lenihan
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdasilva/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdasilva/)*

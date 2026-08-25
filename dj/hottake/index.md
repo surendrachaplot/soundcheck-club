@@ -1,6 +1,6 @@
 # Hot Take
 
-Hot Take is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
+Hot Take is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
 
 Hot Take is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Jack Galactic, Darwin and Etari. Next up: TBA - Secret Location, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hot Take is a house and techno artist based in United States of America, tracked
 
 Jack Galactic, Darwin, Etari
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*

@@ -1,6 +1,6 @@
 # KVKN
 
-KVKN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
+KVKN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
 
 KVKN is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Copenhagen, Leipzig and London and 3 more. Often billed alongside BOYCA, Khloe and Cristian Marras. Next up: Virage, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KVKN is a techno and trance artist tracked on soundcheck, with 21 sets logged ac
 
 BOYCA, Khloe, Cristian Marras
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvkn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvkn/)*

@@ -1,6 +1,6 @@
 # Felix Kubin
 
-Felix Kubin is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Felix Kubin is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
 Felix Kubin is a club artist tracked on soundcheck, with 6 sets logged across Berlin and Brussels. Often billed alongside Alessandro Adriani, Capablanca and Carl Suspect. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ Felix Kubin is a club artist tracked on soundcheck, with 6 sets logged across Be
 
 Alessandro Adriani, Capablanca, Carl Suspect
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkubin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkubin/)*

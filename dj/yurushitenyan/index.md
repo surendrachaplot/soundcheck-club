@@ -1,6 +1,6 @@
 # Yurushite Nyan
 
-Yurushite Nyan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Traffic, Tokyo on Sat, 5 Sept 2026.
+Yurushite Nyan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Traffic, Tokyo on Sat, 5 Sept 2026.
 
 Yurushite Nyan is a techno and club artist based in Japan, tracked on soundcheck, with 51 sets logged across Tokyo. Often billed alongside MUNÉO, illequal and NordOst. Next up: Traffic, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Yurushite Nyan is a techno and club artist based in Japan, tracked on soundcheck
 
 MUNÉO, illequal, NordOst
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yurushitenyan/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yurushitenyan/)*

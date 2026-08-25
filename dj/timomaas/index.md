@@ -1,6 +1,6 @@
 # Timo Maas
 
-Timo Maas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at KitKatClub, Berlin on Mon, 7 Sept 2026.
+Timo Maas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at KitKatClub, Berlin on Mon, 7 Sept 2026.
 
 Timo Maas is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside Francesco Mami, Costax and Frankie Flowerz. Next up: KitKatClub, Berlin on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Timo Maas is a house and techno artist tracked on soundcheck, with 53 sets logge
 
 Francesco Mami, Costax, Frankie Flowerz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timomaas/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timomaas/)*

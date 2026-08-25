@@ -1,14 +1,13 @@
 # Tina Disco
 
-Tina Disco is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at OneSixOne, Melbourne on Sun, 23 Aug 2026.
+Tina Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Angel Music Bar, Melbourne on Sat, 29 Aug 2026.
 
-Tina Disco is a house and disco artist tracked on soundcheck, with 76 sets logged across Melbourne, Seoul, Sydney and Tokyo. Often billed alongside Zalina, Hannah D and Baby G. Next up: OneSixOne, Melbourne on Sun 23 Aug.
+Tina Disco is a house and disco artist tracked on soundcheck, with 76 sets logged across Melbourne, Seoul, Sydney and Tokyo. Often billed alongside Zalina, Hannah D and Baby G. Next up: Angel Music Bar, Melbourne on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 23 Aug 2026 | OneSixOne | Melbourne |
 | Sat, 29 Aug 2026 | Angel Music Bar | Melbourne |
 | Fri, 4 Sept 2026 | Collingwood Basement | Melbourne |
 
@@ -27,4 +26,4 @@ Tina Disco is a house and disco artist tracked on soundcheck, with 76 sets logge
 
 Zalina, Hannah D, Baby G
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinadisco/)*

@@ -1,6 +1,6 @@
 # Mikkel Ulriksen
 
-Mikkel Ulriksen is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Wed, 26 Aug 2026.
+Mikkel Ulriksen is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Wed, 26 Aug 2026.
 
 Mikkel Ulriksen is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Berlin and Copenhagen. Often billed alongside Alfredo92, Kristian Andersen and Lukas Danys. Next up: Pylonen - Frizonen Langebro, Copenhagen on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Mikkel Ulriksen is a techno and progressive house artist tracked on soundcheck, 
 
 Alfredo92, Kristian Andersen, Lukas Danys
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikkelulriksen/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikkelulriksen/)*

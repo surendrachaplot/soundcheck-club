@@ -1,6 +1,6 @@
 # The Chainsmokers
 
-The Chainsmokers is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Concourse Project, Austin on Thu, 1 Oct 2026.
+The Chainsmokers is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Concourse Project, Austin on Thu, 1 Oct 2026.
 
 The Chainsmokers is a house and bass artist based in United States of America, tracked on soundcheck, with 19 sets logged across Austin, Bali, Brisbane and Ibiza and 9 more. Often billed alongside Alesso, Gryffin and Tiesto. Next up: The Concourse Project, Austin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ The Chainsmokers is a house and bass artist based in United States of America, t
 
 Alesso, Gryffin, Tiesto
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*

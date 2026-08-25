@@ -1,6 +1,6 @@
 # Chris Stassy
 
-Chris Stassy is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Chris Stassy is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
 Chris Stassy is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: DC-10, Ibiza on Mon 24 Aug.
 
@@ -23,6 +23,7 @@ Chris Stassy is a house and techno artist tracked on soundcheck, with 279 sets l
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 24 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - SWG3, Glasgow — Sat, 8 Aug 2026
@@ -30,10 +31,9 @@ Chris Stassy is a house and techno artist tracked on soundcheck, with 279 sets l
 - [UNVRS], Ibiza — Wed, 5 Aug 2026
 - Woodstock'69, Amsterdam — Sun, 2 Aug 2026
 - Hardturm Areal, Zurich — Sat, 1 Aug 2026
-- Burgess Park, London — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Jamie Jones, Joseph Capriati, Marco Carola
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

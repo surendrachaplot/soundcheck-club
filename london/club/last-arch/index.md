@@ -1,8 +1,8 @@
 # Last Arch
 
-Last Arch is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Oscillation Carnival After Party" on Sun, 30 Aug 2026.
+Last Arch is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Oscillation Carnival After Party" on Sun, 30 Aug 2026.
 
-Last Arch is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Ayanna Heaven, BASTI(UK), BBY GOOSE and Body Clinic and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
+Last Arch is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Ayanna Heaven, BASTI(UK), BBY GOOSE and Body Clinic and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
 ## What's on
 
@@ -14,13 +14,13 @@ Last Arch is a music venue in London listed on soundcheck. 11 upcoming nights, w
 | Thu, 10 Sept 2026 | BASTI // All Night Long | BASTI(UK) |
 | Fri, 11 Sept 2026 | MindOut Music presents: Goya Gumbani (DJ Set), LILA, Cloud 9, Parvex, SP-303, TMK | LILA (1), Parvex |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
+| Sat, 19 Sept 2026 | Club Soft with Joseph Wood, Mina, Peroli, GDSMRCY, BLCK Stream | Godsfave, Joseph Wood, Mina, Peroli |
 | Sat, 26 Sept 2026 | Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) | Nic David |
 | Fri, 2 Oct 2026 | REEK0 (All Night Long) |  |
 | Sat, 3 Oct 2026 | GROUNDED. // LABEL LAUNCH // LIQUID DNB | ETHICS, Episode Three, Swampman, karishma |
-| Fri, 6 Nov 2026 | SOLAS Studios presents: SOLAS & Friends (Chapter 2) |  |
 
 ## Address
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

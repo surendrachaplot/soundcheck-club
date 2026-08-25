@@ -1,6 +1,6 @@
 # ComaRobot
 
-ComaRobot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Volnost, Seoul on Sat, 29 Aug 2026.
+ComaRobot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Volnost, Seoul on Sat, 29 Aug 2026.
 
 ComaRobot is a techno and industrial artist tracked on soundcheck, with 90 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside Siot, SIJIN and Purusha. Next up: Volnost, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ComaRobot is a techno and industrial artist tracked on soundcheck, with 90 sets 
 
 Siot, SIJIN, Purusha
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comarobot/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comarobot/)*

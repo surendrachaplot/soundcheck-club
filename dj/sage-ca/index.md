@@ -1,13 +1,14 @@
 # Sage (CA)
 
-Sage (CA) is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
+Sage (CA) is a Industrial and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Cat Club, San Francisco/Oakland on Sat, 29 Aug 2026.
 
-Sage (CA) is an industrial and techno artist tracked on soundcheck, with 17 sets logged across London, Osaka, Oslo and Philadelphia and 2 more. Often billed alongside Baikamo, Davis (BR) and P.O.U. Next up: Socore Factory, Osaka on Sun 13 Sept.
+Sage (CA) is an industrial and techno artist tracked on soundcheck, with 18 sets logged across London, Osaka, Oslo and Philadelphia and 2 more. Often billed alongside Baikamo, Davis (BR) and P.O.U. Next up: Cat Club, Sanfrancisco on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Cat Club | San Francisco/Oakland |
 | Sun, 13 Sept 2026 | Socore Factory | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sage (CA) is an industrial and techno artist tracked on soundcheck, with 17 sets
 
 Baikamo, Davis (BR), P.O.U
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sage-ca/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sage-ca/)*

@@ -1,6 +1,6 @@
 # anxxxious_t
 
-anxxxious_t is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
+anxxxious_t is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
 
 anxxxious_t is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Prague and Vienna. Often billed alongside Yves (2), DJ WKStA and Jorkes. Next up: FLUCC, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ anxxxious_t is a techno and house artist tracked on soundcheck, with 28 sets log
 
 Yves (2), DJ WKStA, Jorkes
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxxxious_t/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxxxious_t/)*

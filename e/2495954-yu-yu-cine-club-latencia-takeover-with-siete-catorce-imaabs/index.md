@@ -1,6 +1,6 @@
-# Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, ZutZut at YuYu Cine Club
+# Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, Zutzut at YuYu Cine Club
 
-Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, ZutZut at YuYu Cine Club on Fri 28 Aug, Mexicocity. 3 acts on the bill: Imaabs, Microhm and Siete Catorce. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, Zutzut at YuYu Cine Club on Fri 28 Aug, Mexicocity. 3 acts on the bill: Imaabs, Microhm and Siete Catorce. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

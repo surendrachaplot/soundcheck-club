@@ -1,6 +1,6 @@
 # Eva Kim
 
-Eva Kim is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
+Eva Kim is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
 
 Eva Kim is a techno artist based in United Arab Emirates, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Bøgen, Misha Svirid and Nico Morano. Next up: Ritter Butzke, Berlin on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ Eva Kim is a techno artist based in United Arab Emirates, tracked on soundcheck,
 
 Bøgen, Misha Svirid, Nico Morano
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evakim/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evakim/)*

@@ -1,6 +1,6 @@
 # SACID
 
-SACID is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+SACID is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 SACID is a trance and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Cologne, Hamburg and Leipzig and 4 more. Often billed alongside Alina Viktoria, Aexhy and H369. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ SACID is a trance and techno artist tracked on soundcheck, with 116 sets logged 
 
 Alina Viktoria, Aexhy, H369
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sacid/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sacid/)*

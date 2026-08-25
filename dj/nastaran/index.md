@@ -1,6 +1,6 @@
 # Nastaran
 
-Nastaran is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
+Nastaran is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
 
 Nastaran is a techno and trance artist tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 3 more. Often billed alongside Confusion, CAIVA and Lyric. Next up: ://about blank, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nastaran is a techno and trance artist tracked on soundcheck, with 16 sets logge
 
 Confusion, CAIVA, Lyric
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastaran/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastaran/)*

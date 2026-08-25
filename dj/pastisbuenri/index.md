@@ -1,6 +1,6 @@
 # Pastis & Buenri
 
-Pastis & Buenri is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Pastis & Buenri is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Pastis & Buenri are a techno and hardcore duo tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside Carnada, Ozzwald and Adrian Mills. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Pastis & Buenri are a techno and hardcore duo tracked on soundcheck, with 24 set
 
 Carnada, Ozzwald, Adrian Mills
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pastisbuenri/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pastisbuenri/)*

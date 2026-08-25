@@ -1,6 +1,6 @@
 # Lilithh
 
-Lilithh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
+Lilithh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
 
 Lilithh is a techno and trance artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Alex Friday, Alviker and Andreas Florin. Next up: DSTRKT Club Berlin, Berlin on Fri 2 Oct.
 
@@ -14,4 +14,4 @@ Lilithh is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Alex Friday, Alviker, Andreas Florin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilithh/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilithh/)*

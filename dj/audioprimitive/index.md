@@ -1,6 +1,6 @@
 # audio primitive
 
-audio primitive is a Dub Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Brussels, Brussels on Sun, 30 Aug 2026.
+audio primitive is a Dub Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Brussels, Brussels on Sun, 30 Aug 2026.
 
 audio primitive is a dub techno and ambient artist based in France, tracked on soundcheck, with 7 sets logged across Brussels and Paris. Often billed alongside Soyoon, UNOS and ttyfal. Next up: TBA - Brussels, Brussels on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ audio primitive is a dub techno and ambient artist based in France, tracked on s
 
 Soyoon, UNOS, ttyfal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audioprimitive/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audioprimitive/)*

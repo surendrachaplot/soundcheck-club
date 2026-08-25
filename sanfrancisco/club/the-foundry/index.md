@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "KYBBA" on Sat, 19 Sept 2026.
+The Foundry is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "KYBBA" on Sat, 19 Sept 2026.
 
 The Foundry is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Jojo Lorenzo and Tinzo. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -16,4 +16,4 @@ The Foundry is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming ni
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

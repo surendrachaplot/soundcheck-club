@@ -1,6 +1,6 @@
 # Henrik Villard
 
-Henrik Villard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Villa, Oslo on Sat, 29 Aug 2026.
+Henrik Villard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Villa, Oslo on Sat, 29 Aug 2026.
 
 Henrik Villard is a house and techno artist tracked on soundcheck, with 12 sets logged across Oslo. Often billed alongside Anders Hajem, G-HA and Olanskii. Next up: The Villa, Oslo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Henrik Villard is a house and techno artist tracked on soundcheck, with 12 sets 
 
 Anders Hajem, G-HA, Olanskii
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikvillard/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikvillard/)*

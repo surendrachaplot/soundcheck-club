@@ -1,6 +1,6 @@
 # Apu Nanu
 
-Apu Nanu is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Studiodb, Berlin on Fri, 28 Aug 2026.
+Apu Nanu is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Studiodb, Berlin on Fri, 28 Aug 2026.
 
 Apu Nanu is an experimental and electronica artist based in Greece, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside Socrates Antypas, Kenji Araki and Oliver Torr. Next up: Studiodb, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Apu Nanu is an experimental and electronica artist based in Greece, tracked on s
 
 Socrates Antypas, Kenji Araki, Oliver Torr
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apunanu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apunanu/)*

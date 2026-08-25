@@ -1,6 +1,6 @@
 # Mike Schreder
 
-Mike Schreder is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at VERS, New York City on Sat, 29 Aug 2026.
+Mike Schreder is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at VERS, New York City on Sat, 29 Aug 2026.
 
 Mike Schreder is a house and pop artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Kyle Hamilton, ARMANA KHAN and Andy Crush. Next up: VERS, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mike Schreder is a house and pop artist based in United States of America, track
 
 Kyle Hamilton, ARMANA KHAN, Andy Crush
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeschreder/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeschreder/)*

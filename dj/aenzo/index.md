@@ -1,6 +1,6 @@
 # ÆNZØ
 
-ÆNZØ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
+ÆNZØ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 29 Aug 2026.
 
 ÆNZØ is a techno and hardcore artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Munich. Often billed alongside K1KO, CLOSURE (DE) and FLUCC. Next up: Bahnwärter Thiel, Munich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@
 
 K1KO, CLOSURE (DE), FLUCC
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aenzo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aenzo/)*

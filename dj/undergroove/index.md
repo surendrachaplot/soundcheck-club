@@ -1,6 +1,6 @@
 # Undergroove
 
-Undergroove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Qi Bar KL, Kuala Lumpur on Fri, 28 Aug 2026.
+Undergroove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Qi Bar KL, Kuala Lumpur on Fri, 28 Aug 2026.
 
 Undergroove is a house and techno artist tracked on soundcheck, with 15 sets logged across Kualalumpur. Often billed alongside Alam, BugzB and Victor G (MY). Next up: Qi Bar KL, Kualalumpur on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Undergroove is a house and techno artist tracked on soundcheck, with 15 sets log
 
 Alam, BugzB, Victor G (MY)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroove/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroove/)*

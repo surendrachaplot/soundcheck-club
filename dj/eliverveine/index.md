@@ -1,6 +1,6 @@
 # Eli Verveine
 
-Eli Verveine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Trädgården, Stockholm on Sat, 29 Aug 2026.
+Eli Verveine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Trädgården, Stockholm on Sat, 29 Aug 2026.
 
 Eli Verveine is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 18 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Trädgården, Stockholm on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Eli Verveine is a house and techno artist tracked on soundcheck, with 88 sets lo
 
 Gwenan, Vera, Mind Against
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliverveine/)*

@@ -1,6 +1,6 @@
 # Save the Rave - After Party - free entry until 9pm at Ritter Butzke
 
-Save the Rave - After Party - free entry until 9pm at Ritter Butzke on Sat 29 Aug, Berlin. 26 acts on the bill: Anne-Sophie Selig, Antic Soul, Asem Shama and Blame the Booker and 22 more. Techno and House. Preview the line-up and save it on soundcheck.
+Save the Rave - After Party - free entry until 9pm at Ritter Butzke on Sat 29 Aug, Berlin. 27 acts on the bill: Anne-Sophie Selig, Antic Soul, Asem Shama and Blame the Booker and 23 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,6 +25,7 @@ Save the Rave - After Party - free entry until 9pm at Ritter Butzke on Sat 29 Au
 - Jesper Aubin
 - Kenzura
 - Lola Brennt
+- Makinarium
 - Martha O.
 - Martin Brodin
 - MIMI404

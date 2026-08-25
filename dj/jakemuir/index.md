@@ -1,6 +1,6 @@
 # Jake Muir
 
-Jake Muir is a Ambient and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 27 Aug 2026.
+Jake Muir is a Ambient and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 27 Aug 2026.
 
 Jake Muir is an ambient and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Berlin, Brussels and Chicago and 13 more. Often billed alongside Kiernan Laveaux, agraybé and aka-Sol. Next up: The Sound Lounge at Percy, Philadelphia on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Jake Muir is an ambient and techno artist based in United States of America, tra
 
 Kiernan Laveaux, agraybé, aka-Sol
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemuir/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemuir/)*

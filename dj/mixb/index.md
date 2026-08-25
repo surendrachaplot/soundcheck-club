@@ -1,6 +1,6 @@
 # MixB
 
-MixB is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
+MixB is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Void Club, Berlin on Fri, 28 Aug 2026.
 
 MixB is a drum & bass and techno artist tracked on soundcheck, with 9 sets logged across Berlin and Munich. Often billed alongside Saint Popsy, Upzet and Anton Quasi. Next up: Void Club, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MixB is a drum & bass and techno artist tracked on soundcheck, with 9 sets logge
 
 Saint Popsy, Upzet, Anton Quasi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixb/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mixb/)*

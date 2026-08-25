@@ -1,8 +1,8 @@
 # Hervé
 
-Hervé is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Hervé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Hervé is a techno and experimental artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Noord Loop, Oberman and Octo Octa. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Hervé is a techno and house artist based in Netherlands, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Noord Loop, Octo Octa and Eris Drew. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Hervé is a techno and experimental artist based in Netherlands, tracked on soun
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
+| Sat, 7 Nov 2026 | WAS. | Utrecht |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Hervé is a techno and experimental artist based in Netherlands, tracked on soun
 
 ## Shares bills with
 
-Noord Loop, Oberman, Octo Octa
+Noord Loop, Octo Octa, Eris Drew
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*

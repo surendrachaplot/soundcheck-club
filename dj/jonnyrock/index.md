@@ -1,6 +1,6 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Jonny Rock is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
 Jonny Rock is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: DC-10, Ibiza on Mon 24 Aug.
 
@@ -16,6 +16,7 @@ Jonny Rock is a house and techno artist tracked on soundcheck, with 114 sets log
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 24 Aug 2026
 - Quinta do Miratejo, Lisbon — Sat, 15 Aug 2026
 - The Cause, London — Sat, 25 Jul 2026
 - Sophie Festival, Malaga — Sat, 27 Jun 2026
@@ -23,10 +24,9 @@ Jonny Rock is a house and techno artist tracked on soundcheck, with 114 sets log
 - Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
 - Umoya, Naples — Fri, 5 Jun 2026
 - Dragon I, Hong Kong — Sat, 25 Apr 2026
-- Circus Osaka, Osaka — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 O.BEE, Tomas Station, Seth Troxler
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*

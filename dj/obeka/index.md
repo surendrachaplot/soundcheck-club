@@ -1,14 +1,15 @@
 # Obeka
 
-Obeka is a Reggaeton and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
+Obeka is a Reggaeton and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
 
-Obeka is a reggaeton and baile funk artist tracked on soundcheck, with 113 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 9 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
+Obeka is a reggaeton and baile funk artist tracked on soundcheck, with 114 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 9 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Secret Location, Berlin | Berlin |
+| Sat, 31 Oct 2026 | The Yard | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Obeka is a reggaeton and baile funk artist tracked on soundcheck, with 113 sets 
 
 Atiké, DR MYSTERY, Kop-Z
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obeka/)*

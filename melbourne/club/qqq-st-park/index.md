@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "PULSE.Melbourne" on Fri, 28 Aug 2026.
+QQQ ST. Park is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "PULSE.Melbourne" on Fri, 28 Aug 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Charlotte Rooney, Charms, Darcy Justice and Kate Miller and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -20,4 +20,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 7 upcoming nigh
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

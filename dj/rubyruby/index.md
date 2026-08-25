@@ -1,6 +1,6 @@
 # Ruby Ruby
 
-Ruby Ruby is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
+Ruby Ruby is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
 
 Ruby Ruby is a house and garage artist tracked on soundcheck, with 29 sets logged across Leeds, London and Manchester. Often billed alongside Oscar (MITHA), Jive Talk and Dylan Whicher. Next up: The Loft, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ruby Ruby is a house and garage artist tracked on soundcheck, with 29 sets logge
 
 Oscar (MITHA), Jive Talk, Dylan Whicher
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyruby/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubyruby/)*

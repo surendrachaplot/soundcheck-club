@@ -1,6 +1,6 @@
 # Hole44
 
-Hole44 is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ásgeir" on Sat, 12 Sept 2026.
+Hole44 is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Ásgeir" on Sat, 12 Sept 2026.
 
 Hole44 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Mietze Conte. Browse upcoming dates, start times and who's playing. Hermannstr. 146, 12051 Berlin.
 
@@ -17,4 +17,4 @@ Hole44 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with 
 
 Hermannstr. 146, 12051 Berlin, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*

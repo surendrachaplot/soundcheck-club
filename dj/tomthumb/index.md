@@ -1,6 +1,6 @@
 # tom thumb
 
-tom thumb is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+tom thumb is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
 tom thumb is a techno and minimal artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Bunney, DJ Fart in the Club and DJ Rino. Next up: Gaffe, London on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ tom thumb is a techno and minimal artist based in United Kingdom, tracked on sou
 
 Bunney, DJ Fart in the Club, DJ Rino
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomthumb/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomthumb/)*

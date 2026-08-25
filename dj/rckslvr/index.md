@@ -1,6 +1,6 @@
 # RCKSLVR
 
-RCKSLVR is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 26 Aug 2026.
+RCKSLVR is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 26 Aug 2026.
 
 RCKSLVR is a tech house and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Leipzig and Losangeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: Jungle Hollywood, Losangeles on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ RCKSLVR is a tech house and house artist based in United States of America, trac
 
 Tempo, GRLFRND, DENYC
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rckslvr/)*

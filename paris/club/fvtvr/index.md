@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Fvtvr INVITES: Chris Liebing, Sept, TSIEG" on Fri, 28 Aug 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Fvtvr INVITES: Chris Liebing, Sept, TSIEG" on Fri, 28 Aug 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including abs8lute, Ahmet Sisman, Akaj and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -22,4 +22,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

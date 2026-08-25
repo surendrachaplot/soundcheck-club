@@ -1,6 +1,6 @@
 # nili8
 
-nili8 is a Drum & Bass and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+nili8 is a Drum & Bass and IDM artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 nili8 is a drum & bass and idm artist tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside pruefunke, Alphabae and Anne-Lu. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ nili8 is a drum & bass and idm artist tracked on soundcheck, with 4 sets logged 
 
 pruefunke, Alphabae, Anne-Lu
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nili8/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nili8/)*

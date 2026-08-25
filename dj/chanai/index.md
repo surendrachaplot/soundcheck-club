@@ -1,6 +1,6 @@
 # chanai
 
-chanai is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dogenzaka Church, Tokyo on Sat, 29 Aug 2026.
+chanai is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Dogenzaka Church, Tokyo on Sat, 29 Aug 2026.
 
 chanai is a techno and tech house artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside Pokaska, Ogasawara and uuu7. Next up: Dogenzaka Church, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ chanai is a techno and tech house artist based in Japan, tracked on soundcheck, 
 
 Pokaska, Ogasawara, uuu7
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chanai/)*

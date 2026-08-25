@@ -1,6 +1,6 @@
 # Macaulay Sulkin
 
-Macaulay Sulkin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Outhouse, Edinburgh on Fri, 18 Sept 2026.
+Macaulay Sulkin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Outhouse, Edinburgh on Fri, 18 Sept 2026.
 
 Macaulay Sulkin is a disco and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Edinburgh and London. Often billed alongside Damos Room, Dulley and Jedda. Next up: The Outhouse, Edinburgh on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ Macaulay Sulkin is a disco and house artist based in United Kingdom, tracked on 
 
 Damos Room, Dulley, Jedda
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macaulaysulkin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macaulaysulkin/)*

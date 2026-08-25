@@ -1,6 +1,6 @@
 # Ambu Bambu
 
-Ambu Bambu is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
+Ambu Bambu is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at murmur, Amsterdam on Sun, 30 Aug 2026.
 
 Ambu Bambu is a bass and ambient artist based in Netherlands, tracked on soundcheck, with 29 sets logged across Amsterdam, London, Milan and Rotterdam and 2 more. Often billed alongside Tjade, Conduct Disorder and kimmah. Next up: murmur, Amsterdam on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Ambu Bambu is a bass and ambient artist based in Netherlands, tracked on soundch
 
 Tjade, Conduct Disorder, kimmah
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ambubambu/)*

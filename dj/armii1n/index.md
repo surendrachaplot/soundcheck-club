@@ -1,6 +1,6 @@
 # Armii1n
 
-Armii1n is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Signal, New York City on Thu, 27 Aug 2026.
+Armii1n is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Signal, New York City on Thu, 27 Aug 2026.
 
 Armii1n is a house and deep house artist tracked on soundcheck, with 122 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Signal, Newyorkcity on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Armii1n is a house and deep house artist tracked on soundcheck, with 122 sets lo
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

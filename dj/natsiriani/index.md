@@ -1,6 +1,6 @@
 # Nat Siriani
 
-Nat Siriani is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Nat Siriani is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Nat Siriani is a house and tech house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Miami, Newyorkcity and Sandiego. Often billed alongside Cami di Marzo, La BB and Souls Departed. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Nat Siriani is a house and tech house artist based in United States of America, 
 
 Cami di Marzo, La BB, Souls Departed
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsiriani/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natsiriani/)*

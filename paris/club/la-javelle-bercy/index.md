@@ -1,6 +1,6 @@
 # La Javelle (Bercy)
 
-La Javelle (Bercy) is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "La Mona Open Air à La Javelle / Special rentrée (prix libre)" on Sat, 29 Aug 2026.
+La Javelle (Bercy) is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "La Mona Open Air à La Javelle / Special rentrée (prix libre)" on Sat, 29 Aug 2026.
 
 La Javelle (Bercy) is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Mona Bone and Nick V. Browse upcoming dates, start times and who's playing. De l'autre côte du Boulevard, 20 Bd Poniatowski, 75012 Paris.
 
@@ -14,4 +14,4 @@ La Javelle (Bercy) is a music venue in Paris listed on soundcheck. 1 upcoming ni
 
 De l'autre côte du Boulevard, 20 Bd Poniatowski, 75012 Paris, Paris
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-javelle-bercy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-javelle-bercy/)*

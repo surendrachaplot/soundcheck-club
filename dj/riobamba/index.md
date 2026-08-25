@@ -1,6 +1,6 @@
 # Riobamba
 
-Riobamba is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Line Hotel, Austin on Sun, 30 Aug 2026.
+Riobamba is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Line Hotel, Austin on Sun, 30 Aug 2026.
 
 Riobamba is a reggaeton and techno artist tracked on soundcheck, with 43 sets logged across Austin, Boston, Newyorkcity and Portland and 1 more. Often billed alongside Ushka, Oscar Nñ and SKYWALKER (US). Next up: The Line Hotel, Austin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Riobamba is a reggaeton and techno artist tracked on soundcheck, with 43 sets lo
 
 Ushka, Oscar Nñ, SKYWALKER (US)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riobamba/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riobamba/)*

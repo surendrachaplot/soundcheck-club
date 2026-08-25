@@ -1,6 +1,6 @@
 # LISAKEEKS
 
-LISAKEEKS is a Hip-Hop and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Ton of Brix, London on Sat, 29 Aug 2026.
+LISAKEEKS is a Hip-Hop and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Ton of Brix, London on Sat, 29 Aug 2026.
 
 LISAKEEKS is a hip-hop and club artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Glasgow and London. Often billed alongside BABY JACKZ, DotTV and TEBI TV. Next up: The Ton of Brix, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ LISAKEEKS is a hip-hop and club artist based in United Kingdom, tracked on sound
 
 BABY JACKZ, DotTV, TEBI TV
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*

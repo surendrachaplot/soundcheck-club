@@ -1,6 +1,6 @@
 # Natalia
 
-Natalia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ZUBAR, Tokyo on Sat, 12 Sept 2026.
+Natalia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ZUBAR, Tokyo on Sat, 12 Sept 2026.
 
 Natalia is a techno and house artist tracked on soundcheck, with 16 sets logged across Manchester, Sydney, Thehague and Tokyo. Often billed alongside SIGNAL (JP), Sofozor and Krankent. Next up: ZUBAR, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Natalia is a techno and house artist tracked on soundcheck, with 16 sets logged 
 
 SIGNAL (JP), Sofozor, Krankent
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalia/)*

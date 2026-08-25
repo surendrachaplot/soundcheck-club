@@ -1,6 +1,6 @@
 # Jaye Ward
 
-Jaye Ward is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Jaye Ward is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Jaye Ward is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 7 more. Often billed alongside Michelle Manetti, RAW SILK and Ysanne. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jaye Ward is a house and techno artist tracked on soundcheck, with 80 sets logge
 
 Michelle Manetti, RAW SILK, Ysanne
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayeward/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayeward/)*

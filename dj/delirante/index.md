@@ -1,6 +1,6 @@
 # Delirante
 
-Delirante is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
+Delirante is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
 
 Delirante is a trance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Leipzig. Often billed alongside LuckyLeo, Alfa Cornae and Bi Män. Next up: Distillery, Leipzig on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Delirante is a trance and techno artist based in Germany, tracked on soundcheck,
 
 LuckyLeo, Alfa Cornae, Bi Män
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirante/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delirante/)*

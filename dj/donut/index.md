@@ -1,6 +1,6 @@
 # Donut
 
-Donut is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
+Donut is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
 
 Donut is a broken beat and house artist tracked on soundcheck, with 42 sets logged across Bristol and London. Often billed alongside Rohan Rakhit, Cam Joon and LORA S. Next up: Tola, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Donut is a broken beat and house artist tracked on soundcheck, with 42 sets logg
 
 Rohan Rakhit, Cam Joon, LORA S
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*

@@ -1,6 +1,6 @@
 # Nao Nomura
 
-Nao Nomura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Joule, Osaka on Sat, 12 Sept 2026.
+Nao Nomura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Joule, Osaka on Sat, 12 Sept 2026.
 
 Nao Nomura is a techno and house artist based in Japan, tracked on soundcheck, with 83 sets logged across Osaka and Tokyo. Often billed alongside DMITRI ABSINTHE, KONDO Mitsuo and Senda. Next up: Joule, Osaka on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nao Nomura is a techno and house artist based in Japan, tracked on soundcheck, w
 
 DMITRI ABSINTHE, KONDO Mitsuo, Senda
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naonomura/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naonomura/)*

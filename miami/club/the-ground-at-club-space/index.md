@@ -1,6 +1,6 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Lisa's Kickback" on Fri, 28 Aug 2026.
+The Ground at Club Space is a music venue in Miami with 14 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Lisa's Kickback" on Fri, 28 Aug 2026.
 
 The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upcoming nights, with line-ups including 1tbsp, Actress, Bok Bok and DJ Fuckoff and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
@@ -13,7 +13,7 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upco
 | Sat, 29 Aug 2026 | Casa Whispers presents: Caves of Kukulkán |  |
 | Fri, 4 Sept 2026 | Dennett |  |
 | Sat, 5 Sept 2026 | Andrew Music Club After Party |  |
-| Sun, 6 Sept 2026 | Andrew Music Club After Party |  |
+| Sun, 6 Sept 2026 | Andrew Music Club After Party: Partiboi69 | Generous B, Partiboi69, Roll-e, Viva Vidal |
 | Fri, 11 Sept 2026 | House Hats: RSquared + VITO (UK) | RSquared, VITO (UK) |
 | Sat, 19 Sept 2026 | Nitzer Ebb | Nitzer Ebb, Sepehr, Souls Departed |
 | Fri, 25 Sept 2026 | Autonomy: SHERELLE, Bok Bok, & Introspekt | Bok Bok, Introspekt, Marie Qrie, SHERELLE, Xilla |
@@ -23,4 +23,4 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 14 upco
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

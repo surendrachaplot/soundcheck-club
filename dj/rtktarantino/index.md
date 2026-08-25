@@ -1,6 +1,6 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+RTK Tarantino is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 RTK Tarantino is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ RTK Tarantino is a house and tech house artist tracked on soundcheck, with 28 se
 
 Captain Wallop, Rossi, Jamback
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

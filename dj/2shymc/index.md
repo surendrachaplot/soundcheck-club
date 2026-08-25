@@ -1,6 +1,6 @@
 # 2Shy MC
 
-2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Bricks, London on Thu, 3 Sept 2026.
+2Shy MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bricks, London on Thu, 3 Sept 2026.
 
 2Shy MC is a drum & bass and jungle artist tracked on soundcheck, with 25 sets logged across Antwerp, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Jumping Jack Frost, IC3 and Kanine. Next up: Bricks, London on Thu 3 Sept.
 
@@ -26,4 +26,4 @@
 
 Jumping Jack Frost, IC3, Kanine
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2shymc/)*

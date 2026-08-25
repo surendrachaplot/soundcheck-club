@@ -1,6 +1,6 @@
 # Linda Lo
 
-Linda Lo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Airliner, Los Angeles on Fri, 4 Sept 2026.
+Linda Lo is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Airliner, Los Angeles on Fri, 4 Sept 2026.
 
 Linda Lo is a bass and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside pollensource, 40split and Asphodèle. Next up: The Airliner, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Linda Lo is a bass and club artist based in United States of America, tracked on
 
 pollensource, 40split, Asphodèle
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindalo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindalo/)*

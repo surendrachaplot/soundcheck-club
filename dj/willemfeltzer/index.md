@@ -1,6 +1,6 @@
 # Willem Feltzer
 
-Willem Feltzer is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Willem Feltzer is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Willem Feltzer is a house and bass artist tracked on soundcheck, with 30 sets logged across Amsterdam, Brussels and Thehague. Often billed alongside Oceanic, EYCEE and Jasmín. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Willem Feltzer is a house and bass artist tracked on soundcheck, with 30 sets lo
 
 Oceanic, EYCEE, Jasmín
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willemfeltzer/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willemfeltzer/)*

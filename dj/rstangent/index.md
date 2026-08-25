@@ -1,6 +1,6 @@
 # RS Tangent
 
-RS Tangent is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
+RS Tangent is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
 
 RS Tangent is a techno and dub artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Bristol, Glasgow and London and 3 more. Often billed alongside Jay Galligan, Mackenzie (UK) and Thomas Ridley. Next up: EXIT Glasgow, Glasgow on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ RS Tangent is a techno and dub artist based in United Kingdom, tracked on soundc
 
 Jay Galligan, Mackenzie (UK), Thomas Ridley
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rstangent/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rstangent/)*

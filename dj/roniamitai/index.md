@@ -1,6 +1,6 @@
 # Roni Amitai
 
-Roni Amitai is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
+Roni Amitai is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
 
 Roni Amitai is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin, Detroit, London and Losangeles and 2 more. Often billed alongside Casimir von Oettingen, Hilu and Coco. Next up: Dead Letter No. 9, Newyorkcity on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Roni Amitai is a house and techno artist tracked on soundcheck, with 21 sets log
 
 Casimir von Oettingen, Hilu, Coco
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roniamitai/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roniamitai/)*

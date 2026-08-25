@@ -1,6 +1,6 @@
 # Reaper
 
-Reaper is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Reaper is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Reaper is a bass and drum & bass artist based in Romania, tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Austin and Boston and 11 more. Often billed alongside TroyBoi, future.666 and AKKI (DE). Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Reaper is a bass and drum & bass artist based in Romania, tracked on soundcheck,
 
 TroyBoi, future.666, AKKI (DE)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reaper/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reaper/)*

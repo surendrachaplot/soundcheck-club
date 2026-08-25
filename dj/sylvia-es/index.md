@@ -1,6 +1,6 @@
 # Sylvia (ES)
 
-Sylvia (ES) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
+Sylvia (ES) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Razzmatazz, Barcelona on Sat, 26 Sept 2026.
 
 Sylvia (ES) is a techno and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside no.masc, Joey Stella and Acidnena. Next up: Razzmatazz, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sylvia (ES) is a techno and electro artist tracked on soundcheck, with 72 sets l
 
 no.masc, Joey Stella, Acidnena
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*

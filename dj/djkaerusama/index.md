@@ -1,8 +1,8 @@
 # DJ Kaeru Sama
 
-DJ Kaeru Sama is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
+DJ Kaeru Sama is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Distillery N17, London on Fri, 18 Sept 2026.
 
-DJ Kaeru Sama is an acid and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside !NN, Acerbic and Acid Steve. Next up: Distillery N17, London on Fri 18 Sept.
+DJ Kaeru Sama is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside !NN, Acerbic and Acid Steve. Next up: Distillery N17, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ DJ Kaeru Sama is an acid and techno artist based in United Kingdom, tracked on s
 
 !NN, Acerbic, Acid Steve
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaerusama/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaerusama/)*

@@ -1,6 +1,6 @@
 # georg-i
 
-georg-i is a Bass and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Strange Brew, Bristol on Fri, 4 Sept 2026.
+georg-i is a Bass and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Strange Brew, Bristol on Fri, 4 Sept 2026.
 
 georg-i is a bass and dub techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, Bristol, London and Rotterdam and 1 more. Often billed alongside Older Brother, 2G (1) and ADEAD. Next up: Strange Brew, Bristol on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ georg-i is a bass and dub techno artist based in United Kingdom, tracked on soun
 
 Older Brother, 2G (1), ADEAD
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georg-i/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georg-i/)*

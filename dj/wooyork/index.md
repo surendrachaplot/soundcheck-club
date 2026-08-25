@@ -1,14 +1,16 @@
 # Woo York
 
-Woo York is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 9 Oct 2026.
+Woo York is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Great Northern, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Woo York is a techno and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Olympe, Kasia (OFC) and Kevin de Vries. Next up: The Great Northern, Sanfrancisco on Fri 9 Oct.
+Woo York is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Olympe, Kasia (OFC) and Kevin de Vries. Next up: The Great Northern, Sanfrancisco on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Great Northern | San Francisco/Oakland |
+| Fri, 9 Oct 2026 | The Great Northern | San Francisco/Oakland |
+| Sat, 10 Oct 2026 | Community Berlin | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Woo York is a techno and house artist tracked on soundcheck, with 46 sets logged
 
 Olympe, Kasia (OFC), Kevin de Vries
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooyork/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wooyork/)*

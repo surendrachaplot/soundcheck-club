@@ -1,6 +1,6 @@
 # Normski
 
-Normski is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Lady Hampshire, Sydney on Sat, 29 Aug 2026.
+Normski is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Lady Hampshire, Sydney on Sat, 29 Aug 2026.
 
 Normski is a disco and funk / soul artist tracked on soundcheck, with 9 sets logged across London and Sydney. Often billed alongside Big Nick D, Lily London and Ruggz. Next up: The Lady Hampshire, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Normski is a disco and funk / soul artist tracked on soundcheck, with 9 sets log
 
 Big Nick D, Lily London, Ruggz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/normski/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/normski/)*

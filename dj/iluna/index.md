@@ -1,14 +1,15 @@
 # iluna
 
-iluna is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+iluna is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
 
-iluna is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Edinburgh, Glasgow and Mexicocity. Often billed alongside ona:v, Boom Merchant and Kairogen. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
+iluna is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, Glasgow and Mexicocity. Often billed alongside ona:v, Boom Merchant and Kairogen. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | People's Leisure Club | Edinburgh |
+| Wed, 16 Sept 2026 | The Bongo Club | Edinburgh |
 | Sat, 3 Oct 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
@@ -26,4 +27,4 @@ iluna is a techno and electro artist based in United Kingdom, tracked on soundch
 
 ona:v, Boom Merchant, Kairogen
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*

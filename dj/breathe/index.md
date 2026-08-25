@@ -1,6 +1,6 @@
 # Breathe
 
-Breathe is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sub Club, Glasgow on Fri, 23 Oct 2026.
+Breathe is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sub Club, Glasgow on Fri, 23 Oct 2026.
 
 Breathe is a house and bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Edinburgh and Glasgow. Often billed alongside Jamie Gunn, Robbie and Carmen Baía. Next up: Sub Club, Glasgow on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Breathe is a house and bass artist based in United Kingdom, tracked on soundchec
 
 Jamie Gunn, Robbie, Carmen Baía
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breathe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breathe/)*

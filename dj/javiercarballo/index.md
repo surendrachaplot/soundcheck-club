@@ -1,6 +1,6 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Freedonia, Barcelona on Fri, 28 Aug 2026.
+Javier Carballo is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Freedonia, Barcelona on Fri, 28 Aug 2026.
 
 Javier Carballo is a house and electro artist tracked on soundcheck, with 92 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Freedonia, Barcelona on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Javier Carballo is a house and electro artist tracked on soundcheck, with 92 set
 
 ildec, Hitch, Alex (ES)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

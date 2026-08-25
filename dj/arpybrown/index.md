@@ -1,6 +1,6 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tanjong Beach Club, Singapore on Sat, 29 Aug 2026.
+Arpy Brown is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tanjong Beach Club, Singapore on Sat, 29 Aug 2026.
 
 Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 18 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: Tanjong Beach Club, Singapore on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Kapote, Gee Lane, Cody Currie
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*

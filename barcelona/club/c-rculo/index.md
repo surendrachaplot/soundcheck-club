@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Inner Circle feat. Beghelli" on Thu, 27 Aug 2026.
+Círculo is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Inner Circle feat. Beghelli" on Thu, 27 Aug 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Beghelli. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -16,4 +16,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, 
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

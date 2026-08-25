@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sekta Selekta, Krakow on Fri, 28 Aug 2026.
+user228322 is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sekta Selekta, Krakow on Fri, 28 Aug 2026.
 
 user228322 is an electro and tech house artist tracked on soundcheck, with 53 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: Sekta Selekta, Krakow on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ user228322 is an electro and tech house artist tracked on soundcheck, with 53 se
 
 Boreichuk, Badalian, Slowmode
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

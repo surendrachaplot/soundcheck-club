@@ -1,6 +1,6 @@
 # Dean Denali
 
-Dean Denali is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
+Dean Denali is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 30 Aug 2026.
 
 Dean Denali is an electro and techno artist tracked on soundcheck, with 11 sets logged across Barcelona and Berlin. Often billed alongside cxtene, Ma.to and YTU (DE). Next up: Sunseabar Beach Club, Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Dean Denali is an electro and techno artist tracked on soundcheck, with 11 sets 
 
 cxtene, Ma.to, YTU (DE)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deandenali/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deandenali/)*

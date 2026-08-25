@@ -1,6 +1,6 @@
 # Crobar - Buenos Aires
 
-Crobar - Buenos Aires is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Crobar Phuture Pres.: Dj Kool, Djs Pareja, Gabito & laurie" on Fri, 28 Aug 2026.
+Crobar - Buenos Aires is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Crobar Phuture Pres.: Dj Kool, Djs Pareja, Gabito & laurie" on Fri, 28 Aug 2026.
 
 Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 3 upcoming nights, with line-ups including Bart Skils, Danny Avila, DJ Koolt and Udolph. Browse upcoming dates, start times and who's playing. Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina.
 
@@ -16,4 +16,4 @@ Crobar - Buenos Aires is a music venue in Buenosaires listed on soundcheck. 3 up
 
 Marcelo Freyre S/N, Paseo de la Infanta; Palermo; Buenos Aires; Argentina, Buenos Aires
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/crobar-buenos-aires/)*

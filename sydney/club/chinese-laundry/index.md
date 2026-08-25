@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Chinese Laundry - Pinz & FRIENDS + swisherman & FRIENDS" on Fri, 28 Aug 2026.
+Chinese Laundry is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Chinese Laundry - Pinz & FRIENDS + swisherman & FRIENDS" on Fri, 28 Aug 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Bouki, bradeazy, Mimi J and Pinz and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 3 upcoming nigh
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

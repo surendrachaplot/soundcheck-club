@@ -1,6 +1,6 @@
 # NAIR
 
-NAIR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Weekend, Berlin on Fri, 28 Aug 2026.
+NAIR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Weekend, Berlin on Fri, 28 Aug 2026.
 
 NAIR is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Leipzig and Saopaulo. Often billed alongside Gezender, Reizko and Paula Pretel. Next up: Weekend, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ NAIR is a house and techno artist tracked on soundcheck, with 30 sets logged acr
 
 Gezender, Reizko, Paula Pretel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nair/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nair/)*

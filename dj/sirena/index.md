@@ -1,6 +1,6 @@
 # Sirena
 
-Sirena is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 28 Aug 2026.
+Sirena is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 28 Aug 2026.
 
 Sirena is a techno and minimal artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Mexicocity, Munich and Vancouver. Often billed alongside Jared Love, Paul Franc and ALÜEN. Next up: Gorg-O-Mish, Vancouver on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sirena is a techno and minimal artist based in Netherlands, tracked on soundchec
 
 Jared Love, Paul Franc, ALÜEN
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirena/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirena/)*

@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Bran, Kolko, Dagger, Calila" on Fri, 28 Aug 2026.
+Switch Bar is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Bran, Kolko, Dagger, Calila" on Fri, 28 Aug 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Alessa (ES), Bran (4), Dagger and Kolko and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -18,4 +18,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 5 upcoming nights
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

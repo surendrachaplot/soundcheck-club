@@ -1,6 +1,6 @@
 # ad*n
 
-ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mezzanine - Tooting, London on Fri, 28 Aug 2026.
+ad*n is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mezzanine - Tooting, London on Fri, 28 Aug 2026.
 
 ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Impulse Tracker, Mylania and Petz. Next up: Mezzanine - Tooting, London on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ ad*n is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Impulse Tracker, Mylania, Petz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adn/)*

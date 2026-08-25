@@ -1,6 +1,6 @@
 # DJ Amir
 
-DJ Amir is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+DJ Amir is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 DJ Amir is a house and jazz artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Jazzanova, DJ Kon and Daniel Best. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ Amir is a house and jazz artist tracked on soundcheck, with 32 sets logged ac
 
 Jazzanova, DJ Kon, Daniel Best
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djamir/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djamir/)*

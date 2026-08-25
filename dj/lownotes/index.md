@@ -1,6 +1,6 @@
 # LowNotes
 
-LowNotes is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
+LowNotes is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
 
 LowNotes is a club artist based in United States of America, tracked on soundcheck, with 1 set logged across Washingtondc. Often billed alongside ILUSM, JACKIECHANSDOG and Ryan Almoete Bo. Next up: TRANSMISSION DC, Washingtondc on Sat 29 Aug.
 
@@ -14,4 +14,4 @@ LowNotes is a club artist based in United States of America, tracked on soundche
 
 ILUSM, JACKIECHANSDOG, Ryan Almoete Bo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lownotes/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lownotes/)*

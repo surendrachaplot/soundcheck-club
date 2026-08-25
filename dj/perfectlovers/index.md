@@ -1,6 +1,6 @@
 # Perfect Lovers
 
-Perfect Lovers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
+Perfect Lovers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at BASEMENT, New York City on Sat, 26 Sept 2026.
 
 Perfect Lovers is a house and disco artist tracked on soundcheck, with 71 sets logged across Berlin, Bristol, Leipzig and London and 6 more. Often billed alongside Victor Rodriguez, Bears In Space and Stacy Christine. Next up: BASEMENT, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Perfect Lovers is a house and disco artist tracked on soundcheck, with 71 sets l
 
 Victor Rodriguez, Bears In Space, Stacy Christine
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectlovers/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectlovers/)*

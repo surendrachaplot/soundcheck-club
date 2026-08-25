@@ -1,6 +1,6 @@
 # Sarah Wanita
 
-Sarah Wanita is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at OHM Town, Nantes on Sat, 29 Aug 2026.
+Sarah Wanita is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at OHM Town, Nantes on Sat, 29 Aug 2026.
 
 Sarah Wanita is a trance and techno artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels and Nantes. Often billed alongside Discostouf, Quibron and kedakeda. Next up: OHM Town, Nantes on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sarah Wanita is a trance and techno artist based in Belgium, tracked on soundche
 
 Discostouf, Quibron, kedakeda
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwanita/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwanita/)*

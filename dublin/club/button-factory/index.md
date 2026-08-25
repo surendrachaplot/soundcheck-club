@@ -1,6 +1,6 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Rochelle Jordan (Live)" on Tue, 25 Aug 2026.
+Button Factory is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Rochelle Jordan (Live)" on Tue, 25 Aug 2026.
 
 Button Factory is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including Arrested Development, Cassius, DJ Seinfeld and Max Cooper and 1 more. Browse upcoming dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
@@ -19,4 +19,4 @@ Button Factory is a music venue in Dublin listed on soundcheck. 6 upcoming night
 
 2 Curved Street; Dublin 2; Ireland, Dublin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*

@@ -1,14 +1,15 @@
 # MFX (1)
 
-MFX (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+MFX (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
-MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside theories, metaverde and Menzel. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
+MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside theories, metaverde and Menzel. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
+| Fri, 11 Sept 2026 | Coco Boule | Berlin |
 | Sat, 3 Oct 2026 | Monarch | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ MFX (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 theories, metaverde, Menzel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mfx-1/)*

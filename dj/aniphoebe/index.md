@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 28 Aug 2026.
+Ani Phoebe is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 28 Aug 2026.
 
 Ani Phoebe is a house and balearic artist tracked on soundcheck, with 67 sets logged across Bangkok, Berlin, Hongkong and Lisbon and 14 more. Often billed alongside Seelie, Vio PRG and Heels & Souls. Next up: arkaoda Berlin, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Ani Phoebe is a house and balearic artist tracked on soundcheck, with 67 sets lo
 
 Seelie, Vio PRG, Heels & Souls
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

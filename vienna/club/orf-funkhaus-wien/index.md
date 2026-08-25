@@ -1,6 +1,6 @@
 # ORF-Funkhaus Wien
 
-ORF-Funkhaus Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Tropical Thunder pres. Sonido Proibido" on Sat, 5 Sept 2026.
+ORF-Funkhaus Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Tropical Thunder pres. Sonido Proibido" on Sat, 5 Sept 2026.
 
 ORF-Funkhaus Wien is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Argentinierstrasße 30A, 1040 Wien.
 
@@ -14,4 +14,4 @@ ORF-Funkhaus Wien is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Argentinierstrasße 30A, 1040 Wien, Vienna
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/orf-funkhaus-wien/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/orf-funkhaus-wien/)*

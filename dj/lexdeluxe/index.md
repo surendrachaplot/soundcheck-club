@@ -1,6 +1,6 @@
 # Lex
 
-Lex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
+Lex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 28 Aug 2026.
 
 Lex is a house and techno artist based in Australia, tracked on soundcheck, with 32 sets logged across Amsterdam, Brisbane, Melbourne and Mexicocity and 2 more. Often billed alongside suki, DJ Monke and Séarlait. Next up: Revolver Upstairs, Melbourne on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lex is a house and techno artist based in Australia, tracked on soundcheck, with
 
 suki, DJ Monke, Séarlait
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdeluxe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdeluxe/)*

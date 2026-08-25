@@ -1,6 +1,6 @@
 # George Bowie
 
-George Bowie is a Trance and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club Tropicana & Venga, Glasgow on Sat, 29 Aug 2026.
+George Bowie is a Trance and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Club Tropicana & Venga, Glasgow on Sat, 29 Aug 2026.
 
 George Bowie is a trance and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Dundee and Glasgow. Often billed alongside Joe Deacon, Michael Paterson and Andy Whitby. Next up: Club Tropicana & Venga, Glasgow on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ George Bowie is a trance and disco artist based in United Kingdom, tracked on so
 
 Joe Deacon, Michael Paterson, Andy Whitby
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*

@@ -1,6 +1,6 @@
 # Corvair
 
-Corvair is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
+Corvair is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
 
 Corvair is a tech house and deep house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside ATST, Donut and Eshie. Next up: Tola, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Corvair is a tech house and deep house artist tracked on soundcheck, with 15 set
 
 ATST, Donut, Eshie
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corvair/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corvair/)*

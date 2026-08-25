@@ -1,6 +1,6 @@
 # Terence Tabeau
 
-Terence Tabeau is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Lion's Den, Miami on Sat, 29 Aug 2026.
+Terence Tabeau is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lion's Den, Miami on Sat, 29 Aug 2026.
 
 Terence Tabeau is a house and disco artist tracked on soundcheck, with 55 sets logged across Austin, Miami, Osaka and Tokyo. Often billed alongside Will Renuart, Artime and Danny Daze. Next up: Lion's Den, Miami on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Terence Tabeau is a house and disco artist tracked on soundcheck, with 55 sets l
 
 Will Renuart, Artime, Danny Daze
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*

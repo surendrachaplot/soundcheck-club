@@ -1,6 +1,6 @@
 # DAF
 
-DAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
+DAF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
 
 DAF is a house and tech house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Berlin and Glasgow and 5 more. Often billed alongside Benny Rodrigues, Job de Jong and Karim Soliman. Next up: Maassilo, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DAF is a house and tech house artist tracked on soundcheck, with 35 sets logged 
 
 Benny Rodrigues, Job de Jong, Karim Soliman
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daf/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daf/)*

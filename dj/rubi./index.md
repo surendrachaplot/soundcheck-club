@@ -1,13 +1,14 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
+RuBi. is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Puma Käfig Berlin, Berlin on Fri, 28 Aug 2026.
 
-RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Schalltrichter, ALAN JOE and Alex Friday. Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
+RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Schalltrichter, ALAN JOE and Alex Friday. Next up: Puma Käfig Berlin, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Puma Käfig Berlin | Berlin |
 | Sat, 5 Sept 2026 | Großer Bunkerberg Volkspark Fhain | Berlin |
 | Fri, 11 Sept 2026 | AMT | Berlin |
 | Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
@@ -27,4 +28,4 @@ RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 Schalltrichter, ALAN JOE, Alex Friday
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

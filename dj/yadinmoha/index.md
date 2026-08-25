@@ -1,13 +1,14 @@
 # Yadin Moha
 
-Yadin Moha is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at 宀 Club, Hong Kong on Fri, 16 Oct 2026.
+Yadin Moha is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 宀 Club, Hong Kong on Sat, 3 Oct 2026.
 
-Yadin Moha is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Hamburg and Hongkong and 4 more. Often billed alongside Nanogram, Guido Balboa and Dan-neo. Next up: 宀 Club, Hongkong on Fri 16 Oct.
+Yadin Moha is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Bangkok, Hamburg and Hongkong and 4 more. Often billed alongside Nanogram, Guido Balboa and Dan-neo. Next up: 宀 Club, Hongkong on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | 宀 Club | Hong Kong |
 | Fri, 16 Oct 2026 | 宀 Club | Hong Kong |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
@@ -26,4 +27,4 @@ Yadin Moha is a techno and house artist tracked on soundcheck, with 40 sets logg
 
 Nanogram, Guido Balboa, Dan-neo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*

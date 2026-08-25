@@ -1,8 +1,8 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ultra Violet, DOMOSXCRAZY, Clubsásta, The Flair - Dead Letter No.9" on Fri, 28 Aug 2026.
+Dead Letter No. 9 is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Ultra Violet, DOMOSXCRAZY, Clubsásta, The Flair - Dead Letter No.9" on Fri, 28 Aug 2026.
 
-Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Amber Valentine, Asha Jasz, Birdee and Bustin' Loose and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
+Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Amber Valentine, Asha Jasz, Birdee and Bustin' Loose and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 12 upcom
 | Sat, 5 Sept 2026 | Fernelly, Extra Meesh, joeyjoey, DJ Flirt, Yibing, Club Made - Dead Letter No.9 | DJ Flirt, Extra Meesh, Fernelly, Laila Amira, Tim Lucent, Yibing, joeyjoey |
 | Thu, 10 Sept 2026 | Groove Therapy: CAMILLA, Sam Clark, Karl - Dead Letter No.9 | CAMILLA, Sam Clark |
 | Fri, 11 Sept 2026 | The Disco Express: Roland & Brother Rich, Bustin' Loose, Birdee - Dead Letter No.9 | Birdee, Bustin' Loose, Roland & Brother Rich |
-| Sun, 13 Sept 2026 | Sole Therapy - KAYO, Matt Atkinson, DJ Marc, Kimchi + Performance by Kimblee - Dead Letter No.9 |  |
+| Fri, 11 Sept 2026 | Annie Taylor Sloan + Friends (LIVE) - Dead Letter No.9 |  |
 
 ## Address
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

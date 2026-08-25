@@ -1,14 +1,15 @@
 # CUERPOS
 
-CUERPOS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+CUERPOS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 10 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Ficilio and Kara-Lis Coverdale. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 11 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Ficilio and Jordan Gardner. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
+| Fri, 11 Sept 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Dj Hermano, Ficilio, Kara-Lis Coverdale
+Dj Hermano, Ficilio, Jordan Gardner
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*

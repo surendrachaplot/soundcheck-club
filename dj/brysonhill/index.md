@@ -1,6 +1,6 @@
 # Bryson Hill
 
-Bryson Hill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Bryson Hill is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Bryson Hill is a house and techno artist tracked on soundcheck, with 9 sets logged across Melbourne, Seoul and Sydney. Often billed alongside James Pepper, ANDOW and BILL.E. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Bryson Hill is a house and techno artist tracked on soundcheck, with 9 sets logg
 
 James Pepper, ANDOW, BILL.E
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*

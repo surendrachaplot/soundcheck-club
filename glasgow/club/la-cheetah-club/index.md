@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 20 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Repetitions: Vinyl Only" on Thu, 27 Aug 2026.
+La Cheetah Club is a music venue in Glasgow with 21 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Repetitions: Vinyl Only" on Thu, 27 Aug 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 20 upcoming nights, with line-ups including Antal, Arlo Duke, Babyccino and Danse Atmos and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 21 upcoming nights, with line-ups including Antal, Arlo Duke, Babyccino and Danse Atmos and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 20 upcoming ni
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

@@ -1,6 +1,6 @@
 # Mux Mool
 
-Mux Mool is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Black Box, Denver on Fri, 25 Sept 2026.
+Mux Mool is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Black Box, Denver on Fri, 25 Sept 2026.
 
 Mux Mool is a bass and experimental artist based in United States of America, tracked on soundcheck, with 3 sets logged across Denver. Often billed alongside Sinistarr, Daedelus and Eliot Lipp. Next up: The Black Box, Denver on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Mux Mool is a bass and experimental artist based in United States of America, tr
 
 Sinistarr, Daedelus, Eliot Lipp
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muxmool/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muxmool/)*

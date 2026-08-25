@@ -1,14 +1,15 @@
 # Roll-e
 
-Roll-e is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
+Roll-e is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
 
-Roll-e is a bass and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Miami. Often billed alongside SATURNSARii, CHAOS! and Ale Acosta. Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
+Roll-e is a bass and house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Miami. Often billed alongside SATURNSARii, CHAOS! and Viva Vidal. Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Jolene Downtown Miami | Miami |
+| Sun, 6 Sept 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Roll-e is a bass and house artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-SATURNSARii, CHAOS!, Ale Acosta
+SATURNSARii, CHAOS!, Viva Vidal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roll-e/)*

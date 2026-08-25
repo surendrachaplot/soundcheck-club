@@ -1,6 +1,6 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Majestic Theater, Detroit on Fri, 11 Sept 2026.
+oskar med k is a House and Deep House artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Majestic Theater, Detroit on Fri, 11 Sept 2026.
 
 oskar med k is a house and deep house artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Budapest and Chicago and 15 more. Often billed alongside Ben UFO, Boys Noize and Dean Turnley. Next up: Majestic Theater, Detroit on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ oskar med k is a house and deep house artist tracked on soundcheck, with 21 sets
 
 Ben UFO, Boys Noize, Dean Turnley
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oskarmedk/)*

@@ -1,13 +1,14 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Gi Gi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mitsuki, Tokyo on Mon, 31 Aug 2026.
 
-Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
+Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: Mitsuki, Tokyo on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 31 Aug 2026 | Mitsuki | Tokyo |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gi Gi is a techno and house artist based in United States of America, tracked on
 
 PLO Man, Charles Moon, Conna Haraway
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*

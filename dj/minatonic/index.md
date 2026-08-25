@@ -1,6 +1,6 @@
 # Mina Tonic
 
-Mina Tonic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Mina Tonic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Mina Tonic is a house and techno artist based in Australia, tracked on soundcheck, with 28 sets logged across Melbourne and Sydney. Often billed alongside Ari Kiko, Casual P and Postponez. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mina Tonic is a house and techno artist based in Australia, tracked on soundchec
 
 Ari Kiko, Casual P, Postponez
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minatonic/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minatonic/)*

@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "5:14 Sessions: Manuel Falardeau" on Tue, 25 Aug 2026.
+Le Red Room is a music venue in Montreal with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "5:14 Sessions: Manuel Falardeau" on Tue, 25 Aug 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 7 upcoming nights, with line-ups including DJ Pacifier, fangsie, Guillaume Michaud and Manuel Falardeau and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -20,4 +20,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 7 upcoming nights
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

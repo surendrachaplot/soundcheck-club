@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "RUNWAY x nympha alt pride - Egg On Toast, Kuriboh, Lapalace, caonix, Girlfriend, Atiké, atalaya" on Fri, 28 Aug 2026.
+Soup is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "RUNWAY x nympha alt pride - Egg On Toast, Kuriboh, Lapalace, caonix, Girlfriend, Atiké, atalaya" on Fri, 28 Aug 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including atalaya, Atiké, Bugs Groove and caonix and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

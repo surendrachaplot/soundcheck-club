@@ -1,6 +1,6 @@
 # Zest
 
-Zest is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
+Zest is a Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Socore Factory, Osaka on Sun, 13 Sept 2026.
 
 Zest is a hip-hop artist tracked on soundcheck, with 3 sets logged across Osaka. Often billed alongside ANCHIN, GON (LT) and RICKY. Next up: Socore Factory, Osaka on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ Zest is a hip-hop artist tracked on soundcheck, with 3 sets logged across Osaka.
 
 ANCHIN, GON (LT), RICKY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zest/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zest/)*

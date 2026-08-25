@@ -1,6 +1,6 @@
 # Eddie Ness
 
-Eddie Ness is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
+Eddie Ness is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 29 Aug 2026.
 
 Eddie Ness is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Barbaros, Cryptofauna and Epikur. Next up: Golden Pudel Club, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Eddie Ness is a techno and house artist tracked on soundcheck, with 9 sets logge
 
 Barbaros, Cryptofauna, Epikur
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieness-de/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddieness-de/)*

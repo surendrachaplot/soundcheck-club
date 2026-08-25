@@ -1,6 +1,6 @@
 # aryy
 
-aryy is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at WWW, Tokyo on Wed, 26 Aug 2026.
+aryy is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at WWW, Tokyo on Wed, 26 Aug 2026.
 
 aryy is a pop and club artist tracked on soundcheck, with 13 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside yuzuha, Vís (1) and Yoyou. Next up: WWW, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ aryy is a pop and club artist tracked on soundcheck, with 13 sets logged across 
 
 yuzuha, Vís (1), Yoyou
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aryy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aryy/)*

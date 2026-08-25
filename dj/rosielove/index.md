@@ -1,6 +1,6 @@
 # Rosie Love
 
-Rosie Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
+Rosie Love is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Monty Bar, Los Angeles on Sat, 29 Aug 2026.
 
 Rosie Love is a techno and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Truncate, Alarico and Boris. Next up: The Monty Bar, Losangeles on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Rosie Love is a techno and house artist based in United States of America, track
 
 Truncate, Alarico, Boris
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosielove/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosielove/)*

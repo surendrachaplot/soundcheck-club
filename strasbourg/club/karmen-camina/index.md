@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 8 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Freeday Camina - KARMEN'S SUMMER STARS [Makar, Ursula, 1client]" on Fri, 28 Aug 2026.
+Karmen Camina is a music venue in Strasbourg with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Freeday Camina - KARMEN'S SUMMER STARS [Makar, Ursula, 1client]" on Fri, 28 Aug 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming nights, with line-ups including 1client, AMORAL, Callèn and DBBD and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -21,4 +21,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 8 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

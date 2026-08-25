@@ -1,6 +1,6 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Hans-Jochen-Vogel-Platz, Munich on Fri, 4 Sept 2026.
+Paul Kalkbrenner is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hans-Jochen-Vogel-Platz, Munich on Fri, 4 Sept 2026.
 
 Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Chelina Manuhutu, Jeff Mills and Adiel. Next up: Hans-Jochen-Vogel-Platz, Munich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Paul Kalkbrenner is a techno and electro artist tracked on soundcheck, with 59 s
 
 Chelina Manuhutu, Jeff Mills, Adiel
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

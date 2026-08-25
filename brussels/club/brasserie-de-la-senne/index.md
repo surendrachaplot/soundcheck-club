@@ -1,6 +1,6 @@
 # Brasserie de la Senne
 
-Brasserie de la Senne is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "La Terrasse Electro BXL" on Sat, 29 Aug 2026.
+Brasserie de la Senne is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "La Terrasse Electro BXL" on Sat, 29 Aug 2026.
 
 Brasserie de la Senne is a music venue in Brussels listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Anna Bochdreef 19/21, 1000 Bruxelles.
 
@@ -14,4 +14,4 @@ Brasserie de la Senne is a music venue in Brussels listed on soundcheck. 1 upcom
 
 Anna Bochdreef 19/21, 1000 Bruxelles, Brussels
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-senne/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/brasserie-de-la-senne/)*

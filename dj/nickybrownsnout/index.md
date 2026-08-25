@@ -1,6 +1,6 @@
 # nicky brown snout
 
-nicky brown snout is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Palace Vinyl, London on Fri, 28 Aug 2026.
+nicky brown snout is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Palace Vinyl, London on Fri, 28 Aug 2026.
 
 nicky brown snout is a house and bass artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside Binary Operator, Basement Maxx and Nicky B. Next up: Palace Vinyl, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ nicky brown snout is a house and bass artist tracked on soundcheck, with 17 sets
 
 Binary Operator, Basement Maxx, Nicky B
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickybrownsnout/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickybrownsnout/)*

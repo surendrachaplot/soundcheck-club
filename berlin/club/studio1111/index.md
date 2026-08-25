@@ -1,6 +1,6 @@
 # Studio1111
 
-Studio1111 is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Forward Festival Afterparty curated by EASYdoesit and Bipolar Berlin" on Fri, 28 Aug 2026.
+Studio1111 is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Forward Festival Afterparty curated by EASYdoesit and Bipolar Berlin" on Fri, 28 Aug 2026.
 
 Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including A.tari, Armanda, cliff and Cody Currie and 2 more. Browse upcoming dates, start times and who's playing. Potsdamer Str. 96, 10785 Berlin.
 
@@ -17,4 +17,4 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 
 Potsdamer Str. 96, 10785 Berlin, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*

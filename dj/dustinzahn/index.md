@@ -1,6 +1,6 @@
 # Dustin Zahn
 
-Dustin Zahn is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Dustin Zahn is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Dustin Zahn is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Brussels and Chicago and 15 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dustin Zahn is a techno and dub techno artist based in United States of America,
 
 Centrific, Chami, Henry Chow
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*

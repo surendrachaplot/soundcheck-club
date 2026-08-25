@@ -1,13 +1,18 @@
 # Symbiotica
 
-Symbiotica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Now&Wow, Rotterdam on Fri, 16 Oct 2026.
+Symbiotica is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
-Symbiotica is a techno and house artist based in Lithuania, tracked on soundcheck, with 1 set logged across Rotterdam. Next up: Now&Wow, Rotterdam on Fri 16 Oct.
+Symbiotica is a techno and trance artist based in Lithuania, tracked on soundcheck, with 2 sets logged across Rotterdam and Sydney. Often billed alongside miss behave. Next up: TBA, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA | Sydney |
 | Fri, 16 Oct 2026 | Now&Wow | Rotterdam |
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiotica/)*
+## Shares bills with
+
+miss behave
+
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiotica/)*

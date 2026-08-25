@@ -1,6 +1,6 @@
 # Mila Journée
 
-Mila Journée is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 12 Sept 2026.
+Mila Journée is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 12 Sept 2026.
 
 Mila Journée is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Vintage Culture, DJ DUE and ANNA. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mila Journée is a techno and house artist tracked on soundcheck, with 27 sets l
 
 Vintage Culture, DJ DUE, ANNA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milajournee/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milajournee/)*

@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 27 Aug 2026.
+Luuk van Dijk is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Amnesia Ibiza, Ibiza on Thu 27 Aug.
 
@@ -36,4 +36,4 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 231 s
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

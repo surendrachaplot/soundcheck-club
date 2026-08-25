@@ -1,6 +1,6 @@
-# sistema v1: SEO, CYZ, MOB at The Chemist
+# Sistema v1: SEO, CYZ, MOB at The Chemist
 
-sistema v1: SEO, CYZ, MOB at The Chemist on Sat 29 Aug, Boston. Techno and House. Preview the line-up and save it on soundcheck.
+Sistema v1: SEO, CYZ, MOB at The Chemist on Sat 29 Aug, Boston. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

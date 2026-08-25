@@ -1,6 +1,6 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Di Chiara Brothers is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Di Chiara Brothers is a tech house and house artist based in Italy, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Buenosaires and Glasgow and 9 more. Often billed alongside Chiara B, East End Dubs and Cristina Lazic. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Di Chiara Brothers is a tech house and house artist based in Italy, tracked on s
 
 Chiara B, East End Dubs, Cristina Lazic
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*

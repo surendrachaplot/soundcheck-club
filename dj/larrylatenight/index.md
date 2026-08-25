@@ -1,6 +1,6 @@
 # Larry Latenight
 
-Larry Latenight is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
+Larry Latenight is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DC-10, Ibiza on Mon, 24 Aug 2026.
 
 Larry Latenight is an electronic artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Ibiza. Often billed alongside ANOTR, Bushbaby and Carlita. Next up: DC-10, Ibiza on Mon 24 Aug.
 
@@ -10,8 +10,12 @@ Larry Latenight is an electronic artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Mon, 24 Aug 2026 | DC-10 | Ibiza |
 
+## Recently played
+
+- DC-10, Ibiza — Mon, 24 Aug 2026
+
 ## Shares bills with
 
 ANOTR, Bushbaby, Carlita
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larrylatenight/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/larrylatenight/)*

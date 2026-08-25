@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "AZÚCAR INVITES THE HERD" on Fri, 28 Aug 2026.
+Skatecafe is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "AZÚCAR INVITES THE HERD" on Fri, 28 Aug 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including A For Alpha, amara, awhlkuhn and BENITO (DE) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

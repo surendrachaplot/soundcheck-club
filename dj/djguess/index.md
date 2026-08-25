@@ -1,8 +1,8 @@
 # DJ Guess
 
-DJ Guess is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
+DJ Guess is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
 
-DJ Guess is a techno and house artist based in Colombia, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Albin Brezlan, Marty Mcfly and Rad.Lez. Next up: Birgit, Berlin on Fri 28 Aug.
+DJ Guess is a techno and house artist based in Colombia, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Albin Brezlan, Daniel Schumann and Dirty Doering. Next up: Birgit, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ DJ Guess is a techno and house artist based in Colombia, tracked on soundcheck, 
 
 ## Shares bills with
 
-Albin Brezlan, Marty Mcfly, Rad.Lez
+Albin Brezlan, Daniel Schumann, Dirty Doering
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguess/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djguess/)*

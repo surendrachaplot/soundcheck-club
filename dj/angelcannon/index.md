@@ -1,6 +1,6 @@
 # ANGEL CANNON
 
-ANGEL CANNON is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Vancouver on Sat, 5 Sept 2026.
+ANGEL CANNON is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Vancouver on Sat, 5 Sept 2026.
 
 ANGEL CANNON is a techno and hardcore artist based in Canada, tracked on soundcheck, with 18 sets logged across Losangeles, Paris, Toronto and Vancouver and 1 more. Often billed alongside EtOH, Bÿständer and BINKY. Next up: TBA, Vancouver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ANGEL CANNON is a techno and hardcore artist based in Canada, tracked on soundch
 
 EtOH, Bÿständer, BINKY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcannon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcannon/)*

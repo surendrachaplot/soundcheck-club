@@ -1,6 +1,6 @@
 # Ben Daddy
 
-Ben Daddy is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Outlaws Yacht Club, Leeds on Sat, 19 Sept 2026.
+Ben Daddy is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Outlaws Yacht Club, Leeds on Sat, 19 Sept 2026.
 
 Ben Daddy is an italo disco and techno artist tracked on soundcheck, with 5 sets logged across Leeds and Liverpool. Often billed alongside Shauna, Bellaire and Malissa. Next up: Outlaws Yacht Club, Leeds on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Ben Daddy is an italo disco and techno artist tracked on soundcheck, with 5 sets
 
 Shauna, Bellaire, Malissa
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendaddy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bendaddy/)*

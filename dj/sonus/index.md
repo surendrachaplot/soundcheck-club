@@ -1,6 +1,6 @@
 # Sonus
 
-Sonus is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at LA-YAM Rooftop, London on Sat, 12 Sept 2026.
+Sonus is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at LA-YAM Rooftop, London on Sat, 12 Sept 2026.
 
 Sonus is a house and electro artist tracked on soundcheck, with 24 sets logged across Amsterdam, Ibiza, London and Paris. Often billed alongside Sonus Machina, AXLNDR and Parea (FR). Next up: LA-YAM Rooftop, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sonus is a house and electro artist tracked on soundcheck, with 24 sets logged a
 
 Sonus Machina, AXLNDR, Parea (FR)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonus/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonus/)*

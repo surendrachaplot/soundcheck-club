@@ -1,6 +1,6 @@
 # Aeden (1)
 
-Aeden (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at HUNGR, Tallinn on Fri, 28 Aug 2026.
+Aeden (1) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at HUNGR, Tallinn on Fri, 28 Aug 2026.
 
 Aeden (1) is a techno and acid artist based in Latvia, tracked on soundcheck, with 15 sets logged across Riga and Tallinn. Often billed alongside Aniri Chan, Garjane and Ksenia Kamikaza. Next up: HUNGR, Tallinn on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Aeden (1) is a techno and acid artist based in Latvia, tracked on soundcheck, wi
 
 Aniri Chan, Garjane, Ksenia Kamikaza
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aeden-1/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aeden-1/)*

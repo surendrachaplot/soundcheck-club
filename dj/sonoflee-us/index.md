@@ -1,6 +1,6 @@
 # Son Of Lee
 
-Son Of Lee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Outer Heaven, New York City on Wed, 26 Aug 2026.
+Son Of Lee is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Outer Heaven, New York City on Wed, 26 Aug 2026.
 
 Son Of Lee is a house and disco artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin, Detroit, Hamburg and Newyorkcity. Often billed alongside Snow (DE), Soundstream and JKriv. Next up: Outer Heaven, Newyorkcity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Son Of Lee is a house and disco artist based in United States of America, tracke
 
 Snow (DE), Soundstream, JKriv
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoflee-us/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoflee-us/)*

@@ -1,6 +1,6 @@
 # SOUND ASSEMBLY // JAEL & Khiari Bakar at Bastet
 
-SOUND ASSEMBLY // JAEL & Khiari Bakar at Bastet on Fri 28 Aug, Philadelphia. 2 acts on the bill: JAEL and Khiari Bakar. Techno and Jungle. Preview the line-up and save it on soundcheck.
+SOUND ASSEMBLY // JAEL & Khiari Bakar at Bastet on Fri 28 Aug, Philadelphia. 3 acts on the bill: Cowa, JAEL and Khiari Bakar. Techno and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SOUND ASSEMBLY // JAEL & Khiari Bakar at Bastet on Fri 28 Aug, Philadelphia. 2 a
 
 ## Line-up
 
+- Cowa
 - JAEL
 - Khiari Bakar
 

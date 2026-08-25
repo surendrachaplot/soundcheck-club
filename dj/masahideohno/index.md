@@ -1,6 +1,6 @@
 # Masahide Ohno
 
-Masahide Ohno is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Oath, Tokyo on Sat, 29 Aug 2026.
+Masahide Ohno is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Oath, Tokyo on Sat, 29 Aug 2026.
 
 Masahide Ohno is a house and techno artist tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside Taichi Nagayama, KAKERU and MIZUKI OGISU. Next up: Oath, Tokyo on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Masahide Ohno is a house and techno artist tracked on soundcheck, with 23 sets l
 
 Taichi Nagayama, KAKERU, MIZUKI OGISU
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masahideohno/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masahideohno/)*

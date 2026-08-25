@@ -1,6 +1,6 @@
 # UNS4NE
 
-UNS4NE is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Spkrbox, Detroit on Tue, 25 Aug 2026.
+UNS4NE is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Spkrbox, Detroit on Tue, 25 Aug 2026.
 
 UNS4NE is a techno and club artist tracked on soundcheck, with 31 sets logged across Detroit. Often billed alongside Wax Assassin, we1sman and LATEX GIRL. Next up: Spkrbox, Detroit on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ UNS4NE is a techno and club artist tracked on soundcheck, with 31 sets logged ac
 
 Wax Assassin, we1sman, LATEX GIRL
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uns4ne/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uns4ne/)*

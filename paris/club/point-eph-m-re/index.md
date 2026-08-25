@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Take Over Mauvaise Ambiance" on Fri, 28 Aug 2026.
+Point Ephémère is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Take Over Mauvaise Ambiance" on Fri, 28 Aug 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including GLITTER55, Guedra Guedra, Louise Chen and piaconcept and 1 more. Browse upcoming dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -19,4 +19,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 6 upcoming nigh
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

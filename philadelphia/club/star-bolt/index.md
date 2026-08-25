@@ -1,6 +1,6 @@
 # Star|Bolt
 
-Star|Bolt is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "House Rules" on Fri, 28 Aug 2026.
+Star|Bolt is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "House Rules" on Fri, 28 Aug 2026.
 
 Star|Bolt is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including KINGSPY. Browse upcoming dates, start times and who's playing. 1936 N Front St, Philadelphia, PA 19122.
 
@@ -14,4 +14,4 @@ Star|Bolt is a music venue in Philadelphia listed on soundcheck. 1 upcoming nigh
 
 1936 N Front St, Philadelphia, PA 19122, Philadelphia
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/star-bolt/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/star-bolt/)*

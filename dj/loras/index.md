@@ -1,6 +1,6 @@
 # LORA S
 
-LORA S is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+LORA S is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
 LORA S is a house and club artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across London. Often billed alongside Mr. Redley, Donut and Kojay. Next up: The Glove That Fits, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ LORA S is a house and club artist based in United Kingdom, tracked on soundcheck
 
 Mr. Redley, Donut, Kojay
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loras/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loras/)*

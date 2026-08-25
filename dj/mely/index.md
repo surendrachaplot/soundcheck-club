@@ -1,6 +1,6 @@
 # Mely
 
-Mely is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
+Mely is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
 
 Mely is a house and techno artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and Paris. Often billed alongside Hugo LX, Antoine Calvino and Baka G. Next up: Virage, Paris on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Mely is a house and techno artist tracked on soundcheck, with 23 sets logged acr
 
 Hugo LX, Antoine Calvino, Baka G
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*

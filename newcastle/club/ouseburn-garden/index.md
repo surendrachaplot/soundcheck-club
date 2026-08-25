@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "LNDC X Ponder: Bank Holiday Free Party" on Sun, 30 Aug 2026.
+Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "LNDC X Ponder: Bank Holiday Free Party" on Sun, 30 Aug 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming nights, with line-ups including Adam Lance, Alec Falconer, Bobby O'Donnell and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -20,4 +20,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming n
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

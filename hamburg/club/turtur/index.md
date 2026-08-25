@@ -1,17 +1,19 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Solidary Disco" on Sat, 26 Sept 2026.
+Turtur is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "No Ping, No Pong" on Thu, 27 Aug 2026.
 
-Turtur is a music venue in Hamburg listed on soundcheck. 1 upcoming night, with line-ups including Bizzarro Universe, EllA, Mono and Kusten and Schlawinsky. Browse upcoming dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
+Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Bizzarro Universe, Dellosen, EllA and Mono and Kusten and 1 more. Browse upcoming dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | No Ping, No Pong | Dellosen |
+| Sun, 30 Aug 2026 | Flausch am Sonntag & Whitenoise Live Improv |  |
 | Sat, 26 Sept 2026 | Solidary Disco | Bizzarro Universe, EllA, Mono and Kusten, Schlawinsky |
 
 ## Address
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

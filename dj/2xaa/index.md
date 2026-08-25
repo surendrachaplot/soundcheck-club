@@ -1,6 +1,6 @@
 # 2xAA
 
-2xAA is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
+2xAA is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
 
 2xAA is an experimental and electronica artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside hellocatfood, MYNA and Todepond. Next up: The Carpet Shop, London on Wed 16 Sept.
 
@@ -20,4 +20,4 @@
 
 hellocatfood, MYNA, Todepond
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2xaa/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2xaa/)*

@@ -1,6 +1,6 @@
 # OPH
 
-OPH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+OPH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
 OPH is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 10 more. Often billed alongside Chami, Mary Yuzovskaya and Adlas. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ OPH is a techno and house artist tracked on soundcheck, with 40 sets logged acro
 
 Chami, Mary Yuzovskaya, Adlas
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophsound/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophsound/)*

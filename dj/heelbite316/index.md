@@ -1,13 +1,14 @@
 # heelbite316
 
-heelbite316 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Los Angeles on Fri, 13 Nov 2026.
+heelbite316 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Que Sera, Los Angeles on Thu, 17 Sept 2026.
 
-heelbite316 is a techno and house artist tracked on soundcheck, with 8 sets logged across Chicago, Losangeles, Sandiego and Sanfrancisco. Often billed alongside DR. GABBA, AEREA and Adam Pecho. Next up: TBA, Losangeles on Fri 13 Nov.
+heelbite316 is a techno and house artist tracked on soundcheck, with 9 sets logged across Chicago, Losangeles, Sandiego and Sanfrancisco. Often billed alongside DR. GABBA, AEREA and Adam Pecho. Next up: Que Sera, Losangeles on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Que Sera | Los Angeles |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 
 ## Recently played
@@ -24,4 +25,4 @@ heelbite316 is a techno and house artist tracked on soundcheck, with 8 sets logg
 
 DR. GABBA, AEREA, Adam Pecho
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heelbite316/)*

@@ -1,6 +1,6 @@
 # fAt-lÏP
 
-fAt-lÏP is a Dub and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
+fAt-lÏP is a Dub and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
 
 fAt-lÏP is a dub and electronica artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London. Often billed alongside DIGITALSAINT, Elheist and GUREY. Next up: Club Cheek, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ fAt-lÏP is a dub and electronica artist based in United Kingdom, tracked on sou
 
 DIGITALSAINT, Elheist, GUREY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-lip/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-lip/)*

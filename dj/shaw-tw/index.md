@@ -1,6 +1,6 @@
 # SHAW (TW)
 
-SHAW (TW) is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Gallery, London on Fri, 30 Oct 2026.
+SHAW (TW) is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gallery, London on Fri, 30 Oct 2026.
 
 SHAW (TW) is a minimal techno and techno artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside FRANK (UK), ANMLxPRTY and By Dusk. Next up: Gallery, London on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ SHAW (TW) is a minimal techno and techno artist tracked on soundcheck, with 2 se
 
 FRANK (UK), ANMLxPRTY, By Dusk
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaw-tw/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaw-tw/)*

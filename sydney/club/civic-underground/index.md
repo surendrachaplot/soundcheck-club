@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "TECH PANDA X KENZANI SYDNEY TAKEOVER: 29 AUG" on Sat, 29 Aug 2026.
+Civic Underground is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "TECH PANDA X KENZANI SYDNEY TAKEOVER: 29 AUG" on Sat, 29 Aug 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Harry Hayes and Timmy Regisford. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 3 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

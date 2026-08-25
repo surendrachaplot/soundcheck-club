@@ -1,6 +1,6 @@
 # papa burgundy
 
-papa burgundy is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 4 Sept 2026.
+papa burgundy is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 4 Sept 2026.
 
 papa burgundy is a drum & bass artist tracked on soundcheck, with 7 sets logged across Manchester and Washingtondc. Often billed alongside Holba, Twin Complex and 2CUTE2CUE. Next up: TRANSMISSION DC, Washingtondc on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ papa burgundy is a drum & bass artist tracked on soundcheck, with 7 sets logged 
 
 Holba, Twin Complex, 2CUTE2CUE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papaburgundy/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papaburgundy/)*

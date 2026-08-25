@@ -1,13 +1,14 @@
 # CHEEKI
 
-CHEEKI is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at New Guernica, Melbourne on Fri, 18 Sept 2026.
+CHEEKI is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Glamorama, Melbourne on Fri, 28 Aug 2026.
 
-CHEEKI is a garage and uk funky artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Bekks, FRIEND OF MINE (2) and James Pepper. Next up: New Guernica, Melbourne on Fri 18 Sept.
+CHEEKI is a garage and house artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne. Often billed alongside Bekks, Champagnemuma and Clifford. Next up: Glamorama, Melbourne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Glamorama | Melbourne |
 | Fri, 18 Sept 2026 | New Guernica | Melbourne |
 
 ## Recently played
@@ -17,6 +18,6 @@ CHEEKI is a garage and uk funky artist based in Australia, tracked on soundcheck
 
 ## Shares bills with
 
-Bekks, FRIEND OF MINE (2), James Pepper
+Bekks, Champagnemuma, Clifford
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeki/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeki/)*

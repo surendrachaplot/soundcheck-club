@@ -1,6 +1,6 @@
 # STVN (2)
 
-STVN (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
+STVN (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at John Doe, Amsterdam on Tue, 25 Aug 2026.
 
 STVN (2) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside STVN, SUKA and BIØNIC BAMBI. Next up: John Doe, Amsterdam on Tue 25 Aug.
 
@@ -19,4 +19,4 @@ STVN (2) is a techno and industrial artist based in Netherlands, tracked on soun
 
 STVN, SUKA, BIØNIC BAMBI
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stvn-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stvn-2/)*

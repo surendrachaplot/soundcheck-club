@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at KALT, Strasbourg on Sat, 29 Aug 2026.
+Andy Martin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at KALT, Strasbourg on Sat, 29 Aug 2026.
 
 Andy Martin is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: KALT, Strasbourg on Sat 29 Aug.
 
@@ -32,4 +32,4 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 68 sets log
 
 Niño Arbol, Blasha & Allatt, DJ MARIA.
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

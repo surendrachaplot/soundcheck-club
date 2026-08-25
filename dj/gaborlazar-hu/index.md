@@ -1,6 +1,6 @@
 # Gábor Lázár
 
-Gábor Lázár is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
+Gábor Lázár is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
 
 Gábor Lázár is an idm and techno artist tracked on soundcheck, with 7 sets logged across Austin, Barcelona, Berlin and Chicago and 3 more. Often billed alongside AMANTRA, Aiken and Altinbas. Next up: Laak, Thehague on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Gábor Lázár is an idm and techno artist tracked on soundcheck, with 7 sets lo
 
 AMANTRA, Aiken, Altinbas
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaborlazar-hu/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaborlazar-hu/)*

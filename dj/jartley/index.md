@@ -1,6 +1,6 @@
 # Jartley
 
-Jartley is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
+Jartley is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mint Warehouse, Leeds on Sat, 3 Oct 2026.
 
 Jartley is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Arty, Loki-Hi and Cian Joy. Next up: Mint Warehouse, Leeds on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Jartley is a house and tech house artist based in United Kingdom, tracked on sou
 
 Arty, Loki-Hi, Cian Joy
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jartley/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jartley/)*

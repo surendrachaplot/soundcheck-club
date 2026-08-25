@@ -1,6 +1,6 @@
 # Bohdi
 
-Bohdi is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Honey's, New York City on Sat, 29 Aug 2026.
+Bohdi is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Honey's, New York City on Sat, 29 Aug 2026.
 
 Bohdi is a house and pop artist tracked on soundcheck, with 8 sets logged across Edinburgh, Glasgow and Newyorkcity. Often billed alongside Callie Reiff, Alex Farell and Fusion. Next up: Honey's, Newyorkcity on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Bohdi is a house and pop artist tracked on soundcheck, with 8 sets logged across
 
 Callie Reiff, Alex Farell, Fusion
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bohdi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bohdi/)*

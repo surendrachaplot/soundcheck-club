@@ -1,6 +1,6 @@
 # Temujin
 
-Temujin is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Ninety One, London on Sat, 17 Oct 2026.
+Temujin is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ninety One, London on Sat, 17 Oct 2026.
 
 Temujin is a bass and house artist tracked on soundcheck, with 9 sets logged across Berlin, London and Prague. Often billed alongside D-LISH, Freshta and Jhumka. Next up: Ninety One, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Temujin is a bass and house artist tracked on soundcheck, with 9 sets logged acr
 
 D-LISH, Freshta, Jhumka
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temujin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temujin/)*

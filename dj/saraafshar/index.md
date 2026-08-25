@@ -1,6 +1,6 @@
 # SARA AFSHAR
 
-SARA AFSHAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 3 Sept 2026.
+SARA AFSHAR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Thu, 3 Sept 2026.
 
 SARA AFSHAR is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside Emanate, Rooz and Dubfire. Next up: F8 1192 Folsom, Sanfrancisco on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ SARA AFSHAR is a techno and house artist based in United States of America, trac
 
 Emanate, Rooz, Dubfire
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saraafshar/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saraafshar/)*

@@ -1,6 +1,6 @@
 # Richard Creams
 
-Richard Creams is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 26 Sept 2026.
+Richard Creams is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Richard Creams is a house and minimal techno artist tracked on soundcheck, with 4 sets logged across Barcelona and Mallorca. Often billed alongside Floyd Lavine and Toro Toro Toro. Next up: Village Underground Barcelona, Barcelona on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Richard Creams is a house and minimal techno artist tracked on soundcheck, with 
 
 Floyd Lavine, Toro Toro Toro
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardcreams/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardcreams/)*

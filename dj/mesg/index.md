@@ -1,6 +1,6 @@
 # Mesg
 
-Mesg is a New Wave and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Salon Badin, Montreal on Thu, 27 Aug 2026.
+Mesg is a New Wave and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Salon Badin, Montreal on Thu, 27 Aug 2026.
 
 Mesg is a new wave and house artist tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Olitchi, Destiny (CA) and Doc'trin. Next up: Salon Badin, Montreal on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Mesg is a new wave and house artist tracked on soundcheck, with 3 sets logged ac
 
 Olitchi, Destiny (CA), Doc'trin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesg/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesg/)*

@@ -1,6 +1,6 @@
 # Phasos
 
-Phasos is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Desterro, Lisbon on Sat, 19 Sept 2026.
+Phasos is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Desterro, Lisbon on Sat, 19 Sept 2026.
 
 Phasos is a techno and trance artist tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside Morsk, ANÍBAL and Astrea. Next up: Desterro, Lisbon on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Phasos is a techno and trance artist tracked on soundcheck, with 3 sets logged a
 
 Morsk, ANÍBAL, Astrea
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phasos/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phasos/)*

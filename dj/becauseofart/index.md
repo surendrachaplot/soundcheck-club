@@ -1,6 +1,6 @@
 # Because of Art
 
-Because of Art is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Joshua Brooks, Manchester on Sat, 29 Aug 2026.
+Because of Art is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Joshua Brooks, Manchester on Sat, 29 Aug 2026.
 
 Because of Art is a progressive house and deep house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Glasgow and Leeds and 8 more. Often billed alongside Jody Wisternoff, Nicky Elisabeth and Dosem. Next up: Joshua Brooks, Manchester on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Because of Art is a progressive house and deep house artist tracked on soundchec
 
 Jody Wisternoff, Nicky Elisabeth, Dosem
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*

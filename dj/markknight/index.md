@@ -1,6 +1,6 @@
 # Mark Knight
 
-Mark Knight is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 29 Aug 2026.
+Mark Knight is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 29 Aug 2026.
 
 Mark Knight is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Chicago and 22 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: Sunnyside Pavilion, Toronto on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Mark Knight is a house and tech house artist based in United Kingdom, tracked on
 
 Martin Ikin, Gene Farris, CASSIMM
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*

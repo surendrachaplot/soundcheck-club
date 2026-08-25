@@ -1,6 +1,6 @@
 # Cafe La Palma
 
-Cafe La Palma is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Gusano Club Aniversario W/ Santiago Ritacco" on Sat, 26 Sept 2026.
+Cafe La Palma is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Gusano Club Aniversario W/ Santiago Ritacco" on Sat, 26 Sept 2026.
 
 Cafe La Palma is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Lucien (3), Posada and Santiago Ritacco. Browse upcoming dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
 
@@ -14,4 +14,4 @@ Cafe La Palma is a music venue in Madrid listed on soundcheck. 1 upcoming night,
 
 Calle de la Palma, 62; 28015 Madrid; Spain, Madrid
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*

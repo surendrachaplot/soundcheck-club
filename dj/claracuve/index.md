@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 29 Aug 2026.
+Clara Cuvé is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 29 Aug 2026.
 
 Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Kobosil, MCR-T and 999999999. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 29 Aug.
 
@@ -34,4 +34,4 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 227 sets lo
 
 Kobosil, MCR-T, 999999999
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

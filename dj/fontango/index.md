@@ -1,6 +1,6 @@
 # Fontango
 
-Fontango is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Sat, 29 Aug 2026.
+Fontango is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Antiguo Liceo de Málaga, Malaga on Sat, 29 Aug 2026.
 
 Fontango is a house and tech house artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Mat Spiaggi, Riviani and Carlo. Next up: Antiguo Liceo de Málaga, Malaga on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Fontango is a house and tech house artist tracked on soundcheck, with 18 sets lo
 
 Mat Spiaggi, Riviani, Carlo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fontango/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fontango/)*

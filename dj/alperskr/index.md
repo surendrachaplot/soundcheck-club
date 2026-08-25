@@ -1,6 +1,6 @@
 # ALPER SKR
 
-ALPER SKR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
+ALPER SKR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
 
 ALPER SKR is a techno and trance artist based in Turkey, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside SAMUX, WINSLAO and Connect. Next up: Wigwam, Dublin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ ALPER SKR is a techno and trance artist based in Turkey, tracked on soundcheck, 
 
 SAMUX, WINSLAO, Connect
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alperskr/)*

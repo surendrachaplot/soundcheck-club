@@ -1,6 +1,6 @@
 # made2fade at elipamanoke
 
-made2fade at elipamanoke on Sat 5 Sept, Leipzig. Techno. Preview the line-up and save it on soundcheck.
+made2fade at elipamanoke on Sat 5 Sept, Leipzig. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

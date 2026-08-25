@@ -1,6 +1,6 @@
 # Terminal Zero
 
-Terminal Zero is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "REGGAETON NIGHT" on Sat, 29 Aug 2026.
+Terminal Zero is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "REGGAETON NIGHT" on Sat, 29 Aug 2026.
 
 Terminal Zero is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Terminal Zero is a music venue in Barcelona listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | REGGAETON NIGHT |  |
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/terminal-zero/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/terminal-zero/)*

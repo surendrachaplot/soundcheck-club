@@ -1,6 +1,6 @@
 # Jake Mehew
 
-Jake Mehew is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
+Jake Mehew is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
 
 Jake Mehew is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Glasgow, Leeds and London. Often billed alongside nilehn, NikNak and TRSSX. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jake Mehew is a techno and experimental artist based in United Kingdom, tracked 
 
 nilehn, NikNak, TRSSX
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemehew/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemehew/)*

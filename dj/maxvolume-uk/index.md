@@ -1,6 +1,6 @@
 # Max Volume (UK)
 
-Max Volume (UK) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Multi Story, London on Thu, 3 Sept 2026.
+Max Volume (UK) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Multi Story, London on Thu, 3 Sept 2026.
 
 Max Volume (UK) is a tech house and house artist tracked on soundcheck, with 3 sets logged across Amsterdam and London. Often billed alongside Onncor, AS I AM and Aruna. Next up: Multi Story, London on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ Max Volume (UK) is a tech house and house artist tracked on soundcheck, with 3 s
 
 Onncor, AS I AM, Aruna
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume-uk/)*

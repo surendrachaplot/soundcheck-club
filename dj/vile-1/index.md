@@ -1,6 +1,6 @@
 # VILE
 
-VILE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Green Room NYC, New York City on Sat, 29 Aug 2026.
+VILE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Green Room NYC, New York City on Sat, 29 Aug 2026.
 
 VILE is a techno and industrial artist based in United States of America, tracked on soundcheck, with 41 sets logged across Athens and Newyorkcity. Often billed alongside Concrete Husband, KXAH and ALL EXITS. Next up: Green Room NYC, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ VILE is a techno and industrial artist based in United States of America, tracke
 
 Concrete Husband, KXAH, ALL EXITS
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vile-1/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vile-1/)*

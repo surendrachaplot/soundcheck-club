@@ -1,6 +1,6 @@
 # DJ Equipment
 
-DJ Equipment is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fabrik Du Plaisir, Zurich on Sat, 12 Sept 2026.
+DJ Equipment is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fabrik Du Plaisir, Zurich on Sat, 12 Sept 2026.
 
 DJ Equipment is a techno and trance artist based in Switzerland, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Hamburg and Zurich. Often billed alongside Luka (CH), Bonnie OK and Jenny Cara. Next up: Fabrik Du Plaisir, Zurich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Equipment is a techno and trance artist based in Switzerland, tracked on soun
 
 Luka (CH), Bonnie OK, Jenny Cara
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djequipment/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djequipment/)*

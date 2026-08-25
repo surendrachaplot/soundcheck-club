@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Benwal is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Benwal is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist tracked on soundcheck, with 173 sets logged 
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

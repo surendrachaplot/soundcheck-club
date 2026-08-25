@@ -1,6 +1,6 @@
 # Innerworld
 
-Innerworld is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bar Temp., Bangkok on Thu, 27 Aug 2026.
+Innerworld is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar Temp., Bangkok on Thu, 27 Aug 2026.
 
 Innerworld is a techno and house artist based in India, tracked on soundcheck, with 9 sets logged across Bangkok, Hongkong, Osaka and Tokyo. Often billed alongside OCCA, Faxtory and ADRIANNA.C. Next up: Bar Temp., Bangkok on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Innerworld is a techno and house artist based in India, tracked on soundcheck, w
 
 OCCA, Faxtory, ADRIANNA.C
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerworld/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerworld/)*

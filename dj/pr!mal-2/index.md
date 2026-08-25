@@ -1,6 +1,6 @@
 # PR!MAL (2)
 
-PR!MAL (2) is a Garage and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+PR!MAL (2) is a Garage and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
 
 PR!MAL (2) is a garage and footwork artist tracked on soundcheck, with 2 sets logged across Leeds. Often billed alongside Greenhouse, KABOCANA and Mylania. Next up: Beaver Works, Leeds on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ PR!MAL (2) is a garage and footwork artist tracked on soundcheck, with 2 sets lo
 
 Greenhouse, KABOCANA, Mylania
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pr!mal-2/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pr!mal-2/)*

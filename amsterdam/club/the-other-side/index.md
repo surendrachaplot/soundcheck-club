@@ -1,6 +1,6 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "MITA - Volume 1" on Fri, 11 Sept 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "MITA - Volume 1" on Fri, 11 Sept 2026.
 
 THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Alex (ES), Annett Gapstream, Aron Friedman and Borella and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
@@ -23,4 +23,4 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming n
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

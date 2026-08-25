@@ -1,6 +1,6 @@
 # WOOD LOVE EXPERIENCE at TBA -  Somewhere in East Berlin
 
-WOOD LOVE EXPERIENCE at TBA -  Somewhere in East Berlin on Fri 28 Aug, Berlin. 7 acts on the bill: BioN, Fabio Caria, GENE and Hamsa and 3 more. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+WOOD LOVE EXPERIENCE at TBA -  Somewhere in East Berlin on Fri 28 Aug, Berlin. 9 acts on the bill: BioN, Fabio Caria, Flight Mode (DE) and GENE and 5 more. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,10 @@ WOOD LOVE EXPERIENCE at TBA -  Somewhere in East Berlin on Fri 28 Aug, Berlin. 7
 
 - BioN
 - Fabio Caria
+- Flight Mode (DE)
 - GENE
 - Hamsa
+- Johnson (2)
 - Linda shiro
 - Sloan
 - Suburbial

@@ -1,6 +1,6 @@
 # Former Smatch Supermarket
 
-Former Smatch Supermarket is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "NACHTWINKEL 2026 - FINAL SHIFT" on Fri, 28 Aug 2026.
+Former Smatch Supermarket is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "NACHTWINKEL 2026 - FINAL SHIFT" on Fri, 28 Aug 2026.
 
 Former Smatch Supermarket is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including BISOUX, Co Bra, Forbidden Fruit and Foubert and 2 more. Browse upcoming dates, start times and who's playing. Borzestraat , 2800 Mechelen.
 
@@ -14,4 +14,4 @@ Former Smatch Supermarket is a music venue in Antwerp listed on soundcheck. 1 up
 
 Borzestraat , 2800 Mechelen, Antwerp
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/former-smatch-supermarket/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/former-smatch-supermarket/)*

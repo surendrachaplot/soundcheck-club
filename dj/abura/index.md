@@ -1,6 +1,6 @@
 # Abura
 
-Abura is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ZUBAR, Tokyo on Sun, 20 Sept 2026.
+Abura is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ZUBAR, Tokyo on Sun, 20 Sept 2026.
 
 Abura is a techno and trance artist tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Matsunami, Celter and DJ Bin. Next up: ZUBAR, Tokyo on Sun 20 Sept.
 
@@ -24,4 +24,4 @@ Abura is a techno and trance artist tracked on soundcheck, with 8 sets logged ac
 
 Matsunami, Celter, DJ Bin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abura/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abura/)*

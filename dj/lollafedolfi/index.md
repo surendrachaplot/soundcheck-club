@@ -1,6 +1,6 @@
 # Lolla Fedolfi
 
-Lolla Fedolfi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fabrique, Milan on Fri, 25 Sept 2026.
+Lolla Fedolfi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fabrique, Milan on Fri, 25 Sept 2026.
 
 Lolla Fedolfi is a house and techno artist based in Italy, tracked on soundcheck, with 30 sets logged across Milan, Naples and Zurich. Often billed alongside Dante (H501), AGNES (IT) and Alessio Cristiano. Next up: Fabrique, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Lolla Fedolfi is a house and techno artist based in Italy, tracked on soundcheck
 
 Dante (H501), AGNES (IT), Alessio Cristiano
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lollafedolfi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lollafedolfi/)*

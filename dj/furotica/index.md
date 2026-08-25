@@ -1,14 +1,15 @@
 # Furotica
 
-Furotica is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bohnengold, Berlin on Fri, 28 Aug 2026.
+Furotica is a Italo Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bohnengold, Berlin on Fri, 28 Aug 2026.
 
-Furotica is an italo disco and techno artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Strasbourg and Stuttgart. Often billed alongside Franz Scala, Ric Piccolo and Feel .MA. Next up: Bohnengold, Berlin on Fri 28 Aug.
+Furotica is an italo disco and techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Strasbourg and Stuttgart. Often billed alongside Ric Piccolo, Franz Scala and Feel .MA. Next up: Bohnengold, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Bohnengold | Berlin |
+| Fri, 4 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Furotica is an italo disco and techno artist tracked on soundcheck, with 14 sets
 
 ## Shares bills with
 
-Franz Scala, Ric Piccolo, Feel .MA
+Ric Piccolo, Franz Scala, Feel .MA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/furotica/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/furotica/)*

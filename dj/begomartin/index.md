@@ -1,6 +1,6 @@
 # Bego Martin
 
-Bego Martin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 25 Aug 2026.
+Bego Martin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 25 Aug 2026.
 
 Bego Martin is a disco and house artist tracked on soundcheck, with 9 sets logged across Ibiza, Madrid and Tbilisi. Often billed alongside Alexis mayer, Brisa Then and Chelu Garcia. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Bego Martin is a disco and house artist tracked on soundcheck, with 9 sets logge
 
 Alexis mayer, Brisa Then, Chelu Garcia
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/begomartin/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/begomartin/)*

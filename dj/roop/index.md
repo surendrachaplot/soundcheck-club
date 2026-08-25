@@ -1,6 +1,6 @@
 # roop
 
-roop is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Greyhound, London on Wed, 23 Sept 2026.
+roop is a Experimental and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Greyhound, London on Wed, 23 Sept 2026.
 
 roop is an experimental and hip-hop artist tracked on soundcheck, with 15 sets logged across Edinburgh, London and Manchester. Often billed alongside Ship Sket, Kekeneko and NeoLeo. Next up: The Greyhound, London on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ roop is an experimental and hip-hop artist tracked on soundcheck, with 15 sets l
 
 Ship Sket, Kekeneko, NeoLeo
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roop/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roop/)*

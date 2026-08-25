@@ -1,6 +1,6 @@
 # Hagel
 
-Hagel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Golden Gate, Berlin on Fri, 28 Aug 2026.
+Hagel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Golden Gate, Berlin on Fri, 28 Aug 2026.
 
 Hagel is a house and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin and Vienna. Often billed alongside Johnny D, Christopher Lawrenz and RAFAELO. Next up: Golden Gate, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Hagel is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Johnny D, Christopher Lawrenz, RAFAELO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hagel/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hagel/)*

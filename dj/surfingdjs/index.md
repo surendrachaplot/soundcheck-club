@@ -1,6 +1,6 @@
 # SurfingDJs
 
-SurfingDJs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+SurfingDJs is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
 
 SurfingDJs is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Ibiza and Newyorkcity. Often billed alongside ROBOTRAN, FTZGRLD and DJ Sauci Soni. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ SurfingDJs is a house and techno artist based in United States of America, track
 
 ROBOTRAN, FTZGRLD, DJ Sauci Soni
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*

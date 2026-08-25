@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Open Decks & Tischtennis" on Tue, 25 Aug 2026.
+Humboldthain Club is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Open Decks & Tischtennis" on Tue, 25 Aug 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including YOVA, Atzlina, bbymeister and Dexy's Midnight and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

@@ -1,6 +1,6 @@
 # Ryuji Suganuma
 
-Ryuji Suganuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club Daphnia, Osaka on Sat, 26 Sept 2026.
+Ryuji Suganuma is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Daphnia, Osaka on Sat, 26 Sept 2026.
 
 Ryuji Suganuma is a techno and house artist tracked on soundcheck, with 2 sets logged across Osaka and Tokyo. Often billed alongside MIZUKI OGISU, MiTSUYAS and ONO (3). Next up: Club Daphnia, Osaka on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Ryuji Suganuma is a techno and house artist tracked on soundcheck, with 2 sets l
 
 MIZUKI OGISU, MiTSUYAS, ONO (3)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryujisuganuma/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryujisuganuma/)*

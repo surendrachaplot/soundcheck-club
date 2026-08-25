@@ -1,6 +1,6 @@
 # The Mother Markos
 
-The Mother Markos is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
+The Mother Markos is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
 
 The Mother Markos is a garage and drum & bass artist tracked on soundcheck, with 4 sets logged across Bristol. Often billed alongside Duality, Emma Rose and ROWANA. Next up: The Crown, Bristol on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ The Mother Markos is a garage and drum & bass artist tracked on soundcheck, with
 
 Duality, Emma Rose, ROWANA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themothermarkos/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themothermarkos/)*

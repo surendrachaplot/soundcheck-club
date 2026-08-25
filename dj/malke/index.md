@@ -1,6 +1,6 @@
 # Malke
 
-Malke is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at NØMAD, Toronto on Fri, 28 Aug 2026.
+Malke is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at NØMAD, Toronto on Fri, 28 Aug 2026.
 
 Malke is a techno and hardcore artist based in Brazil, tracked on soundcheck, with 15 sets logged across Barcelona, Buenosaires, Cologne and Losangeles and 6 more. Often billed alongside Lenny Dee, Rebekah and CESAR ALMENA. Next up: NØMAD, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Malke is a techno and hardcore artist based in Brazil, tracked on soundcheck, wi
 
 Lenny Dee, Rebekah, CESAR ALMENA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malke/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malke/)*

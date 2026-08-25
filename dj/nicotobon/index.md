@@ -1,6 +1,6 @@
 # Nico Tobón
 
-Nico Tobón is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Process PDX, Portland on Sat, 5 Sept 2026.
+Nico Tobón is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Process PDX, Portland on Sat, 5 Sept 2026.
 
 Nico Tobón is a house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Denver, Mexicocity, Newyorkcity and Portland. Often billed alongside wngdu, Brunson and Diego Andres. Next up: Process PDX, Portland on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nico Tobón is a house and techno artist based in United States of America, trac
 
 wngdu, Brunson, Diego Andres
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*

@@ -1,6 +1,6 @@
 # Daisuke Kakimoto
 
-Daisuke Kakimoto is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Alffo Records, Osaka on Sat, 5 Sept 2026.
+Daisuke Kakimoto is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Alffo Records, Osaka on Sat, 5 Sept 2026.
 
 Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundcheck, with 27 sets logged across Osaka. Often billed alongside Norio, Mori Ra and 5ive. Next up: Alffo Records, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Daisuke Kakimoto is a house and disco artist based in Japan, tracked on soundche
 
 Norio, Mori Ra, 5ive
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekakimoto/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daisukekakimoto/)*

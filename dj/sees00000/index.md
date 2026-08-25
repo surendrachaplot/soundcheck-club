@@ -1,6 +1,6 @@
 # SEES00000
 
-SEES00000 is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
+SEES00000 is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Los Angeles on Sat, 26 Sept 2026.
 
 SEES00000 is a techno and pop artist tracked on soundcheck, with 8 sets logged across Detroit and Losangeles. Often billed alongside Black Noi$e, Somewhere Special and BAE BAE. Next up: TBA, Losangeles on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ SEES00000 is a techno and pop artist tracked on soundcheck, with 8 sets logged a
 
 Black Noi$e, Somewhere Special, BAE BAE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sees00000/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sees00000/)*

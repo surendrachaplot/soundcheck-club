@@ -1,6 +1,6 @@
 # ALISTARM
 
-ALISTARM is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Nether Club, Bucharest on Sat, 12 Sept 2026.
+ALISTARM is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Nether Club, Bucharest on Sat, 12 Sept 2026.
 
 ALISTARM is a techno and acid artist tracked on soundcheck, with 22 sets logged across Bucharest. Often billed alongside CARMEN (RO), Gruell and Michael Ius. Next up: Nether Club, Bucharest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ALISTARM is a techno and acid artist tracked on soundcheck, with 22 sets logged 
 
 CARMEN (RO), Gruell, Michael Ius
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alistarm/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alistarm/)*

@@ -1,6 +1,6 @@
 # JaFrei Loufoque
 
-JaFrei Loufoque is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Emma Pea, Berlin on Sat, 29 Aug 2026.
+JaFrei Loufoque is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Emma Pea, Berlin on Sat, 29 Aug 2026.
 
 JaFrei Loufoque is a house and deep house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Phat Beat, Max Nytram and Hit Beat. Next up: Emma Pea, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ JaFrei Loufoque is a house and deep house artist based in Germany, tracked on so
 
 Phat Beat, Max Nytram, Hit Beat
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jafreiloufoque/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jafreiloufoque/)*

@@ -1,6 +1,6 @@
 # Madame Moustache
 
-Madame Moustache is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Leroy Se Meurt / Ottoman Grüw / Froe Char / LISALUV & DASZ" on Thu, 3 Sept 2026.
+Madame Moustache is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Leroy Se Meurt / Ottoman Grüw / Froe Char / LISALUV & DASZ" on Thu, 3 Sept 2026.
 
 Madame Moustache is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Froe Char, Leroy Se Meurt and Ottoman Grüw. Browse upcoming dates, start times and who's playing. Quai au Bois à Brûler 5-7, 1000 Bruxelles.
 
@@ -14,4 +14,4 @@ Madame Moustache is a music venue in Brussels listed on soundcheck. 1 upcoming n
 
 Quai au Bois à Brûler 5-7, 1000 Bruxelles, Brussels
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/madame-moustache/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/madame-moustache/)*

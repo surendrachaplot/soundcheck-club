@@ -1,6 +1,6 @@
 # Meat
 
-Meat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
+Meat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
 
 Meat is a house and techno artist tracked on soundcheck, with 65 sets logged across Berlin, Chicago, Cologne and Frankfurt and 2 more. Often billed alongside Cinthie, Robert Drewek and Eva Crystaltips. Next up: Club der Visionaere, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Meat is a house and techno artist tracked on soundcheck, with 65 sets logged acr
 
 Cinthie, Robert Drewek, Eva Crystaltips
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeat/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmeat/)*

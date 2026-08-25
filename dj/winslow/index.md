@@ -1,13 +1,14 @@
 # Winslow
 
-Winslow is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Holocene, Portland on Sun, 11 Oct 2026.
+Winslow is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bruk, Manchester on Sat, 19 Sept 2026.
 
-Winslow is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston, Bristol, Edinburgh and Glasgow and 5 more. Often billed alongside imo-Lu, Bristol Luke and A Little Sound. Next up: Holocene, Portland on Sun 11 Oct.
+Winslow is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 18 sets logged across Boston, Bristol, Edinburgh and Glasgow and 6 more. Often billed alongside imo-Lu, Bristol Luke and A Little Sound. Next up: Bruk, Manchester on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Bruk | Manchester |
 | Sun, 11 Oct 2026 | Holocene | Portland |
 | Fri, 20 Nov 2026 | The Art School | Glasgow |
 
@@ -26,4 +27,4 @@ Winslow is a drum & bass and jungle artist based in United States of America, tr
 
 imo-Lu, Bristol Luke, A Little Sound
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*

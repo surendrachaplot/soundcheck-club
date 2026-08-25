@@ -1,8 +1,8 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 34 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "FREE with RSVP: Tony Romera + ESSEL" on Thu, 27 Aug 2026.
+The Concourse Project is a music venue in Austin with 35 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "FREE with RSVP: Tony Romera + ESSEL" on Thu, 27 Aug 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 35 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 34 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

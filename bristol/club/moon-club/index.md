@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Townside Studios" on Sat, 29 Aug 2026.
+Moon Club is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Townside Studios" on Sat, 29 Aug 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including Appleblim, Ben Pest, Hamish & Toby and IZZIT and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -19,4 +19,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 6 upcoming nights, w
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

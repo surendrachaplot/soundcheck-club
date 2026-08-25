@@ -1,6 +1,6 @@
 # olesia
 
-olesia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
+olesia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
 
 olesia is a techno and trance artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Melati, THEMPRESS and Donnie Sunshine. Next up: Ankali & Planeta Za, Prague on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ olesia is a techno and trance artist tracked on soundcheck, with 53 sets logged 
 
 Melati, THEMPRESS, Donnie Sunshine
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*

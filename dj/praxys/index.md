@@ -1,8 +1,8 @@
 # Praxys
 
-Praxys is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club M2 Miami, Miami on Sat, 29 Aug 2026.
+Praxys is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club M2 Miami, Miami on Sat, 29 Aug 2026.
 
-Praxys is a techno artist based in Colombia, tracked on soundcheck, with 1 set logged across Miami. Often billed alongside Cimino and Mr. Proper. Next up: Club M2 Miami, Miami on Sat 29 Aug.
+Praxys is a techno artist based in Colombia, tracked on soundcheck, with 1 set logged across Miami. Often billed alongside Cimino, JOV/\N and Mr. Proper. Next up: Club M2 Miami, Miami on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Praxys is a techno artist based in Colombia, tracked on soundcheck, with 1 set l
 
 ## Shares bills with
 
-Cimino, Mr. Proper
+Cimino, JOV/\N, Mr. Proper
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praxys/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praxys/)*

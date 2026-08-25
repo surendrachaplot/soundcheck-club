@@ -1,6 +1,6 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
+Dennis Ferrer is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
 
 Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Bristol and 27 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: TBA - FORO PEDREGAL, Mexicocity on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 132 s
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

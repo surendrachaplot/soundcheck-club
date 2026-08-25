@@ -1,14 +1,13 @@
 # LuLu Malina
 
-LuLu Malina is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Kater, Berlin on Fri, 21 Aug 2026.
+LuLu Malina is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat, 5 Sept 2026.
 
-LuLu Malina is a techno and progressive house artist based in Poland, tracked on soundcheck, with 48 sets logged across Athens, Berlin, Krakow and Stockholm and 1 more. Often billed alongside Angelo Mike, NuCasa and Sincz. Next up: Kater, Berlin on Fri 21 Aug.
+LuLu Malina is a techno and progressive house artist based in Poland, tracked on soundcheck, with 48 sets logged across Athens, Berlin, Krakow and Stockholm and 1 more. Often billed alongside Angelo Mike, NuCasa and Sincz. Next up: Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | Kater | Berlin |
 | Sat, 5 Sept 2026 | Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1. | Krakow |
 
 ## Recently played
@@ -26,4 +25,4 @@ LuLu Malina is a techno and progressive house artist based in Poland, tracked on
 
 Angelo Mike, NuCasa, Sincz
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulumalina/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulumalina/)*

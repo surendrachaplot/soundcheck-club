@@ -1,6 +1,6 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Illegaal FEESTJE" on Sat, 12 Sept 2026.
+Illegaal is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Illegaal FEESTJE" on Sat, 12 Sept 2026.
 
 Illegaal is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with line-ups including Bo Meng, HypoGeo, Kleinefrigo and Mambele and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
@@ -19,4 +19,4 @@ Illegaal is a music venue in Brussels listed on soundcheck. 6 upcoming nights, w
 
 Rue Bollinckx 300, 1190 Forest, Brussels
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/illegaal/)*

@@ -1,6 +1,6 @@
 # YAAND
 
-YAAND is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
+YAAND is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
 
 YAAND is an experimental and techno artist tracked on soundcheck, with 5 sets logged across Berlin and Leipzig. Often billed alongside urbau, ABADIR and Alphonsine Koh. Next up: TBA - check telegram, Berlin on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ YAAND is an experimental and techno artist tracked on soundcheck, with 5 sets lo
 
 urbau, ABADIR, Alphonsine Koh
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaand/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaand/)*

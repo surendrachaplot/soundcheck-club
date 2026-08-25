@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 55 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Ata Kak" on Thu, 27 Aug 2026.
+The Jazz Cafe is a music venue in London with 55 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Ata Kak" on Thu, 27 Aug 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 55 upcoming nights, with line-ups including A Guy Called Gerald, AMANDA SZE, AMARI and Amy Os and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 55 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

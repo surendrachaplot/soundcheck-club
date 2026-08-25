@@ -1,6 +1,6 @@
 # Marco Baglione
 
-Marco Baglione is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
+Marco Baglione is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
 
 Marco Baglione is a house and disco artist based in Italy, tracked on soundcheck, with 4 sets logged across Bali and Ibiza. Often billed alongside Jamie Jones, Richy Ahmed and ALISHA. Next up: [UNVRS], Ibiza on Wed 26 Aug.
 
@@ -20,4 +20,4 @@ Marco Baglione is a house and disco artist based in Italy, tracked on soundcheck
 
 Jamie Jones, Richy Ahmed, ALISHA
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobaglione/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobaglione/)*

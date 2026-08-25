@@ -1,6 +1,6 @@
 # V.Falabella
 
-V.Falabella is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Flex, Vienna on Fri, 28 Aug 2026.
+V.Falabella is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Flex, Vienna on Fri, 28 Aug 2026.
 
 V.Falabella is a psytrance and trance artist based in Brazil, tracked on soundcheck, with 5 sets logged across Osaka, Saopaulo, Tokyo and Vienna. Often billed alongside MASOI and PiERO. Next up: Flex, Vienna on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ V.Falabella is a psytrance and trance artist based in Brazil, tracked on soundch
 
 MASOI, PiERO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/v.falabella/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/v.falabella/)*

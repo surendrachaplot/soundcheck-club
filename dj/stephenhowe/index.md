@@ -1,6 +1,6 @@
 # Stephen Howe
 
-Stephen Howe is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Stephen Howe is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Stephen Howe is a breakbeat and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside DJ Slug, Gwenan and Joe Delon. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Stephen Howe is a breakbeat and house artist based in Germany, tracked on soundc
 
 DJ Slug, Gwenan, Joe Delon
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenhowe/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenhowe/)*

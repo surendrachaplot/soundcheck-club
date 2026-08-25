@@ -1,6 +1,6 @@
 # Howler (UK)
 
-Howler (UK) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
+Howler (UK) is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
 
 Howler (UK) is a techno and ambient artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Appleblim, Forgotten Sounds and Jotam.. Next up: OXI, Berlin on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Howler (UK) is a techno and ambient artist tracked on soundcheck, with 5 sets lo
 
 Appleblim, Forgotten Sounds, Jotam.
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/howler-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/howler-uk/)*

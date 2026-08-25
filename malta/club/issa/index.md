@@ -1,6 +1,6 @@
 # ISSA
 
-ISSA is a music venue in Malta with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "H𝑢m𝑎n𝑠+=m𝑎cℎi𝑛e𝑠" on Thu, 27 Aug 2026.
+ISSA is a music venue in Malta with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "H𝑢m𝑎n𝑠+=m𝑎cℎi𝑛e𝑠" on Thu, 27 Aug 2026.
 
 ISSA is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 55, Triq Fra Diegu, Hamrun.
 
@@ -14,4 +14,4 @@ ISSA is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse up
 
 55, Triq Fra Diegu, Hamrun, Malta
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/issa/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/issa/)*

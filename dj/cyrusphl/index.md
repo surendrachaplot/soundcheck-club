@@ -1,6 +1,6 @@
 # Cyrus (PHL)
 
-Cyrus (PHL) is a Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia on Sat, 5 Sept 2026.
+Cyrus (PHL) is a Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia on Sat, 5 Sept 2026.
 
 Cyrus (PHL) is an experimental artist based in United States of America, tracked on soundcheck, with 7 sets logged across Philadelphia. Often billed alongside Cubby, Liquid Asset and Shi Shi. Next up: TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Cyrus (PHL) is an experimental artist based in United States of America, tracked
 
 Cubby, Liquid Asset, Shi Shi
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusphl/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrusphl/)*

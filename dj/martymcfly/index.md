@@ -1,8 +1,8 @@
 # Marty Mcfly
 
-Marty Mcfly is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
+Marty Mcfly is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Birgit, Berlin on Fri, 28 Aug 2026.
 
-Marty Mcfly is a house and bass artist based in Australia, tracked on soundcheck, with 2 sets logged across Berlin and Toronto. Often billed alongside Albin Brezlan, DJ Guess and Farbsie Funk. Next up: Birgit, Berlin on Fri 28 Aug.
+Marty Mcfly is a house and bass artist based in Australia, tracked on soundcheck, with 2 sets logged across Berlin and Toronto. Often billed alongside Albin Brezlan, DJ Guess and Daniel Schumann. Next up: Birgit, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ Marty Mcfly is a house and bass artist based in Australia, tracked on soundcheck
 
 ## Shares bills with
 
-Albin Brezlan, DJ Guess, Farbsie Funk
+Albin Brezlan, DJ Guess, Daniel Schumann
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martymcfly/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martymcfly/)*

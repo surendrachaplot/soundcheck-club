@@ -1,6 +1,6 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Robbie Doherty is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -34,4 +34,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 156 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

@@ -1,6 +1,6 @@
 # AMÉMÉ
 
-AMÉMÉ is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
+AMÉMÉ is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 AMÉMÉ is an afro house and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Hï Ibiza, Ibiza on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ AMÉMÉ is an afro house and house artist tracked on soundcheck, with 140 sets l
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

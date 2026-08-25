@@ -1,6 +1,6 @@
 # Min the Universe
 
-Min the Universe is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Min the Universe is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Min the Universe is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Cologne and Ibiza and 5 more. Often billed alongside Black Box, Darin Epsilon and Unseen.. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Min the Universe is a techno and progressive house artist based in United States
 
 Black Box, Darin Epsilon, Unseen.
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mintheuniverse/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mintheuniverse/)*

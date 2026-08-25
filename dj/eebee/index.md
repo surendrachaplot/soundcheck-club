@@ -1,6 +1,6 @@
 # EEBEE
 
-EEBEE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
+EEBEE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lord Napier, London on Sat, 29 Aug 2026.
 
 EEBEE is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Brighton, Leeds and London. Often billed alongside Sheccy, TDV (UK) and BobbyG. Next up: Lord Napier, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ EEBEE is a techno and tech house artist based in United Kingdom, tracked on soun
 
 Sheccy, TDV (UK), BobbyG
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eebee/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eebee/)*

@@ -1,6 +1,6 @@
 # Giuliano Lomonte
 
-Giuliano Lomonte is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Giuliano Lomonte is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Giuliano Lomonte is a house and minimal artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Brussels and Bucharest and 16 more. Often billed alongside Nekes, Alex Kraemer and Alexander Skancke. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Giuliano Lomonte is a house and minimal artist tracked on soundcheck, with 51 se
 
 Nekes, Alex Kraemer, Alexander Skancke
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianolomonte/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giulianolomonte/)*

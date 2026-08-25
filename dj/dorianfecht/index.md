@@ -1,6 +1,6 @@
 # Dorian Fecht
 
-Dorian Fecht is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Fitzroy, Berlin on Sun, 13 Sept 2026.
+Dorian Fecht is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fitzroy, Berlin on Sun, 13 Sept 2026.
 
 Dorian Fecht is a deep house and downtempo artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Newyorkcity. Often billed alongside MARHOLZ, Aliska and kluntje. Next up: Fitzroy, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Dorian Fecht is a deep house and downtempo artist based in Germany, tracked on s
 
 MARHOLZ, Aliska, kluntje
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianfecht/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianfecht/)*

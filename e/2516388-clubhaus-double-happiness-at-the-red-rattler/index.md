@@ -1,6 +1,6 @@
 # CLUBHAUS: DOUBLE HAPPINESS at The Red Rattler
 
-CLUBHAUS: DOUBLE HAPPINESS at The Red Rattler on Sat 19 Sept, Sydney. 2 acts on the bill: Cristal No.5 and Haus of Ralph. Bass. Preview the line-up and save it on soundcheck.
+CLUBHAUS: DOUBLE HAPPINESS at The Red Rattler on Sat 19 Sept, Sydney. 3 acts on the bill: Baschoe, Cristal No.5 and Haus of Ralph. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CLUBHAUS: DOUBLE HAPPINESS at The Red Rattler on Sat 19 Sept, Sydney. 2 acts on 
 
 ## Line-up
 
+- Baschoe
 - Cristal No.5
 - Haus of Ralph
 

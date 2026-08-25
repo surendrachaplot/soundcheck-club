@@ -1,6 +1,6 @@
 # MAZE X - Toobris B2B BENZA at Wigwam
 
-MAZE X - Toobris B2B BENZA at Wigwam on Sat 5 Sept, Dublin. 2 acts on the bill: BENZA and Toobris. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+MAZE X - Toobris B2B BENZA at Wigwam on Sat 5 Sept, Dublin. 2 acts on the bill: BENZA and Toobris. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

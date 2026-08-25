@@ -1,6 +1,6 @@
 # JOAQUIN LLEDO
 
-JOAQUIN LLEDO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Club der Visionaere, Berlin on Wed, 9 Sept 2026.
+JOAQUIN LLEDO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Wed, 9 Sept 2026.
 
 JOAQUIN LLEDO is a techno and house artist based in Chile, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Mike Shannon, Thomas Melchior and Volkan Akin. Next up: Club der Visionaere, Berlin on Wed 9 Sept.
 
@@ -14,4 +14,4 @@ JOAQUIN LLEDO is a techno and house artist based in Chile, tracked on soundcheck
 
 Mike Shannon, Thomas Melchior, Volkan Akin
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquinlledo/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joaquinlledo/)*

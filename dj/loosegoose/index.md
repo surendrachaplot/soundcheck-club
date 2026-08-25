@@ -1,6 +1,6 @@
 # Loose Goose
 
-Loose Goose is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
+Loose Goose is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
 
 Loose Goose is an electronic artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Callie Reiff, Haruka (US) and Kaili. Next up: Mood Ring, Newyorkcity on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Loose Goose is an electronic artist tracked on soundcheck, with 5 sets logged ac
 
 Callie Reiff, Haruka (US), Kaili
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loosegoose/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loosegoose/)*

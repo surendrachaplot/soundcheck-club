@@ -1,13 +1,14 @@
 # PIP.
 
-PIP. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Cobalt Studios, Newcastle on Sun, 30 Aug 2026.
+PIP. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ernest, Newcastle on Wed, 26 Aug 2026.
 
-PIP. is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Glasgow, London and Manchester and 2 more. Often billed alongside Weston, Westy and BATESY. Next up: Cobalt Studios, Newcastle on Sun 30 Aug.
+PIP. is a house and techno artist tracked on soundcheck, with 40 sets logged across Amsterdam, Glasgow, London and Manchester and 2 more. Often billed alongside Weston, Westy and BATESY. Next up: Ernest, Newcastle on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Ernest | Newcastle |
 | Sun, 30 Aug 2026 | Cobalt Studios | Newcastle |
 | Fri, 11 Sept 2026 | The Berkeley Suite | Glasgow |
 
@@ -26,4 +27,4 @@ PIP. is a house and techno artist tracked on soundcheck, with 39 sets logged acr
 
 Weston, Westy, BATESY
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

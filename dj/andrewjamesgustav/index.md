@@ -1,6 +1,6 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Andrew James Gustav is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
 Andrew James Gustav is a techno and house artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: FOLD, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, tracke
 
 Bruno Schmidt, Alien Communications, Jos
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

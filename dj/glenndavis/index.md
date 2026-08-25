@@ -1,6 +1,6 @@
 # Glenn Davis
 
-Glenn Davis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Big Romance, Dublin on Sat, 29 Aug 2026.
+Glenn Davis is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Big Romance, Dublin on Sat, 29 Aug 2026.
 
 Glenn Davis is a house and disco artist tracked on soundcheck, with 16 sets logged across Berlin, Cork and Dublin. Often billed alongside Ricky Chong, Carl Bauer and Mode_1. Next up: The Big Romance, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Glenn Davis is a house and disco artist tracked on soundcheck, with 16 sets logg
 
 Ricky Chong, Carl Bauer, Mode_1
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glenndavis/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glenndavis/)*

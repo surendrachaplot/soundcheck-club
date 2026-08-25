@@ -1,6 +1,6 @@
 # Praia Irmão
 
-Praia Irmão is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Comigo #2 @Irmão" on Fri, 4 Sept 2026.
+Praia Irmão is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Comigo #2 @Irmão" on Fri, 4 Sept 2026.
 
 Praia Irmão is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Estr. da Praia do Castelo, 2825-308 Costa da Caparica, Portugal.
 
@@ -14,4 +14,4 @@ Praia Irmão is a music venue in Lisbon listed on soundcheck. 1 upcoming night. 
 
 Estr. da Praia do Castelo, 2825-308 Costa da Caparica, Portugal, Lisbon
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/praia-irm-o/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/praia-irm-o/)*

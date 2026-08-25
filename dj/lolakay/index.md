@@ -1,6 +1,6 @@
 # Lola Kay
 
-Lola Kay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Lola Kay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Lola Kay is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Copenhagen and London and 5 more. Often billed alongside ValaV, AMARANTE and REXER. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lola Kay is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ValaV, AMARANTE, REXER
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakay/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolakay/)*

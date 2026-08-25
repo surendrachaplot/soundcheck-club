@@ -1,6 +1,6 @@
 # Zafiro
 
-Zafiro is a Reggaeton and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Section 8, Melbourne on Wed, 26 Aug 2026.
+Zafiro is a Reggaeton and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Section 8, Melbourne on Wed, 26 Aug 2026.
 
 Zafiro is a reggaeton and breakbeat artist based in Colombia, tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Chris NG, Kodi Lotto and LUNA (AU). Next up: Section 8, Melbourne on Wed 26 Aug.
 
@@ -22,4 +22,4 @@ Zafiro is a reggaeton and breakbeat artist based in Colombia, tracked on soundch
 
 Chris NG, Kodi Lotto, LUNA (AU)
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*

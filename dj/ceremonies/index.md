@@ -1,6 +1,6 @@
 # Ceremonies
 
-Ceremonies is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at The Jama, Toronto on Thu, 27 Aug 2026.
+Ceremonies is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Jama, Toronto on Thu, 27 Aug 2026.
 
 Ceremonies is a techno and house artist tracked on soundcheck, with 11 sets logged across Toronto. Often billed alongside efemmera, Acote and Billy Dalessandro. Next up: The Jama, Toronto on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Ceremonies is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 efemmera, Acote, Billy Dalessandro
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceremonies/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceremonies/)*

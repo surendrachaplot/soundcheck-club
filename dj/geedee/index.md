@@ -1,6 +1,6 @@
 # Gee Dee
 
-Gee Dee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at TBA, Philadelphia on Sat, 5 Sept 2026.
+Gee Dee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Philadelphia on Sat, 5 Sept 2026.
 
 Gee Dee is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Boston and Brisbane and 10 more. Often billed alongside Earth Beat, Extra Andrew and JDH. Next up: TBA, Philadelphia on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gee Dee is a house and techno artist based in United States of America, tracked 
 
 Earth Beat, Extra Andrew, JDH
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geedee/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geedee/)*

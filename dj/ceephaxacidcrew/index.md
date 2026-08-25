@@ -1,6 +1,6 @@
 # Ceephax Acid Crew
 
-Ceephax Acid Crew is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bassiani, Tbilisi on Fri, 11 Sept 2026.
+Ceephax Acid Crew is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bassiani, Tbilisi on Fri, 11 Sept 2026.
 
 Ceephax Acid Crew is an acid and house artist tracked on soundcheck, with 27 sets logged across Antwerp, Berlin, Bristol and London and 7 more. Often billed alongside Binary Digit, DMX Krew and EN.VEE. Next up: Bassiani, Tbilisi on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ceephax Acid Crew is an acid and house artist tracked on soundcheck, with 27 set
 
 Binary Digit, DMX Krew, EN.VEE
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceephaxacidcrew/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceephaxacidcrew/)*

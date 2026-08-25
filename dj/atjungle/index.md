@@ -1,6 +1,6 @@
 # ATJUNGLE
 
-ATJUNGLE is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Black Sheep Toronto, Toronto on Fri, 18 Sept 2026.
+ATJUNGLE is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Black Sheep Toronto, Toronto on Fri, 18 Sept 2026.
 
 ATJUNGLE is a deep house and house artist tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside monorama, ARJ (IR) and Persis. Next up: Black Sheep Toronto, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ATJUNGLE is a deep house and house artist tracked on soundcheck, with 12 sets lo
 
 monorama, ARJ (IR), Persis
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atjungle/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atjungle/)*

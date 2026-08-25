@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Nowadays, New York City on Fri, 28 Aug 2026.
+Vladimir Ivkovic is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Nowadays, New York City on Fri, 28 Aug 2026.
 
-Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Auckland and Bali and 58 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Nowadays, Newyorkcity on Fri 28 Aug.
+Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Athens, Auckland and Bali and 58 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Nowadays, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 200 se
 | Sat, 5 Sept 2026 | Klub 20/44 | Belgrade |
 | Sun, 13 Sept 2026 | Macadam | Nantes |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 18 Sept 2026 | Standard Time | Toronto |
 | Fri, 25 Sept 2026 | Doka | Amsterdam |
 | Sat, 26 Sept 2026 | PIP Den Haag | The Hague |
 | Fri, 2 Oct 2026 | Gaffe | London |
@@ -35,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 200 se
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

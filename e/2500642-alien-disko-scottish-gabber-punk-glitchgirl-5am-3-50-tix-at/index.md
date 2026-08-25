@@ -1,6 +1,6 @@
 # Alien Disko: Scottish Gabber Punk + Glitchgirl // 5AM // £3.50 TIX at The Mash House
 
-Alien Disko: Scottish Gabber Punk + Glitchgirl // 5AM // £3.50 TIX at The Mash House on Fri 28 Aug, Edinburgh. 4 acts on the bill: Brynk, FOLIE (UK), Nabee and Rodent. Drum & Bass and Hardcore. Preview the line-up and save it on soundcheck.
+Alien Disko: Scottish Gabber Punk + Glitchgirl // 5AM // £3.50 TIX at The Mash House on Fri 28 Aug, Edinburgh. 5 acts on the bill: Brynk, FOLIE (UK), Janverse and Nabee and 1 more. Drum & Bass and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Alien Disko: Scottish Gabber Punk + Glitchgirl // 5AM // £3.50 TIX at The Mash 
 
 - Brynk
 - FOLIE (UK)
+- Janverse
 - Nabee
 - Rodent
 

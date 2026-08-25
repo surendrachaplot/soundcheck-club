@@ -1,8 +1,8 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 5 upcoming nights listed on soundcheck as of Mon, 24 Aug 2026; the next is "Do! You! World! Back 'Yard' Party" on Sat, 12 Sept 2026.
+The Yard is a music venue in Manchester with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Do! You! World! Back 'Yard' Party" on Sat, 12 Sept 2026.
 
-The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming nights, with line-ups including Alex Q (3), Black Loops, Charlie Bones and Chris Massey and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
+The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming nights, with line-ups including 13Ø4, Alex Q (3), Black Loops and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
 ## What's on
 
@@ -12,10 +12,11 @@ The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming nights,
 | Sat, 19 Sept 2026 | Mukes Carnival |  |
 | Sat, 26 Sept 2026 | Tempo & Resonate pres. Brian Tappert & Grant Nelson | Grant Nelson |
 | Sat, 10 Oct 2026 | Resonate Mcr pres. 30 Years of Freerange | Black Loops, Jimpster |
+| Sat, 31 Oct 2026 | OBSCURUM ( Halloween X Thadingyut ) | 13Ø4, Freshta, Jumbled, Obeka, Third Kulture, krioso |
 | Sat, 7 Nov 2026 | Five years of Pambuku - Onur Özer, Vass, P.O (live)  | Alex Q (3), Cruveiller, Onur Özer, P.O (1), Vass |
 
 ## Address
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

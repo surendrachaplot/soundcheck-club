@@ -1,6 +1,6 @@
 # Drone (UK)
 
-Drone (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Viadukt Bar, Budapest on Tue, 25 Aug 2026.
+Drone (UK) is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Viadukt Bar, Budapest on Tue, 25 Aug 2026.
 
 Drone (UK) is a drum & bass and bass artist tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Budapest and Denver and 7 more. Often billed alongside Monty, SP:MC and Cesco. Next up: Viadukt Bar, Budapest on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Drone (UK) is a drum & bass and bass artist tracked on soundcheck, with 26 sets 
 
 Monty, SP:MC, Cesco
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drone-uk/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drone-uk/)*

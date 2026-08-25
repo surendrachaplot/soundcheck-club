@@ -1,6 +1,6 @@
 # Harry Luda
 
-Harry Luda is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
+Harry Luda is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
 
 Harry Luda is a garage and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London and Paris. Often billed alongside DEVZ, DJ Perception and Jeremy Sylvester. Next up: Planet Wax, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Harry Luda is a garage and house artist based in United Kingdom, tracked on soun
 
 DEVZ, DJ Perception, Jeremy Sylvester
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryluda/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harryluda/)*

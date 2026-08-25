@@ -1,6 +1,6 @@
 # Kelvedon Hall
 
-Kelvedon Hall is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Appetite On The Farm 2026 - Bank Holiday" on Sat, 29 Aug 2026.
+Kelvedon Hall is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Appetite On The Farm 2026 - Bank Holiday" on Sat, 29 Aug 2026.
 
 Kelvedon Hall is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including FLETCH, ADMNTi, Alexandria and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Kelvedon Hall, Brentwood, CM14 5TN.
 
@@ -14,4 +14,4 @@ Kelvedon Hall is a music venue in London listed on soundcheck. 1 upcoming night,
 
 Kelvedon Hall, Brentwood, CM14 5TN, London
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kelvedon-hall/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kelvedon-hall/)*

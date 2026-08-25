@@ -1,6 +1,6 @@
 # Nettta
 
-Nettta is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at John Doe, Amsterdam on Sat, 29 Aug 2026.
+Nettta is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at John Doe, Amsterdam on Sat, 29 Aug 2026.
 
 Nettta is a techno and trance artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Hamburg and Paris. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: John Doe, Amsterdam on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Nettta is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 EZA (DE), Blossmbae, Cobb Douglas
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nettta/)*

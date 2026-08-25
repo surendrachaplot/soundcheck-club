@@ -1,17 +1,20 @@
 # Hydrozagadka
 
-Hydrozagadka is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Mon, 24 Aug 2026; the next is "Dead Bob (ex NoMeansNo)" on Fri, 16 Oct 2026.
+Hydrozagadka is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Senyawa, Everything is Psychedelic, Ryosuke Kiyasu, GORZ - Avant Art Festival" on Fri, 18 Sept 2026.
 
-Hydrozagadka is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
+Hydrozagadka is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including dj neurospicy, feeo, Key Asc and Lol K. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Senyawa, Everything is Psychedelic, Ryosuke Kiyasu, GORZ - Avant Art Festival |  |
+| Sat, 19 Sept 2026 | feeo, Lol K, Key Asc, dj neurospicy - Avant Art | Key Asc, Lol K, dj neurospicy, feeo |
+| Sun, 11 Oct 2026 | Krallice - Avant Art Festival |  |
 | Fri, 16 Oct 2026 | Dead Bob (ex NoMeansNo) |  |
 
 ## Address
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*

@@ -1,6 +1,6 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 24 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 3 Sept 2026.
+Benny Benassi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 3 Sept 2026.
 
 Benny Benassi is a house and electro artist tracked on soundcheck, with 43 sets logged across Boston, Chicago, Copenhagen and Ibiza and 14 more. Often billed alongside Terry, Black Tiger Sex Machine and David Guetta. Next up: Ushuaïa Ibiza, Ibiza on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ Benny Benassi is a house and electro artist tracked on soundcheck, with 43 sets 
 
 Terry, Black Tiger Sex Machine, David Guetta
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*

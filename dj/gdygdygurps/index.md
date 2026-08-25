@@ -1,6 +1,6 @@
 # GDY GDY Gurps
 
-GDY GDY Gurps is a Amapiano and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 24 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
+GDY GDY Gurps is a Amapiano and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
 GDY GDY Gurps is an amapiano and baile funk artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Dj Clark Gabble, EWASOUNDZ and Faded Society. Next up: Bread and Butter, London on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ GDY GDY Gurps is an amapiano and baile funk artist tracked on soundcheck, with 3
 
 Dj Clark Gabble, EWASOUNDZ, Faded Society
 
-*Updated Mon, 24 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gdygdygurps/)*
+*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gdygdygurps/)*
