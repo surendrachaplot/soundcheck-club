@@ -1,13 +1,14 @@
 # encore une autre
 
-encore une autre is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bal Chavaux, Paris on Fri, 4 Sept 2026.
+encore une autre is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pamela Club, Paris on Thu, 27 Aug 2026.
 
-encore une autre is a hip-hop and techno artist tracked on soundcheck, with 30 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside MARIAD, Le Kaiju and Rebequita. Next up: Bal Chavaux, Paris on Fri 4 Sept.
+encore une autre is a hip-hop and techno artist tracked on soundcheck, with 31 sets logged across Lyon, Marseille, Paris and Strasbourg. Often billed alongside MARIAD, Le Kaiju and Rebequita. Next up: Pamela Club, Paris on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | Pamela Club | Paris |
 | Fri, 4 Sept 2026 | Bal Chavaux | Paris |
 
 ## Recently played

@@ -1,8 +1,8 @@
-# TBA - SECRET LOCATION
+# TBA - Secret Location 
 
-TBA - SECRET LOCATION is a music venue in London with 48 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Twink Bash: Flooded" on Fri, 28 Aug 2026.
+TBA - Secret Location  is a music venue in London with 48 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Twink Bash: Flooded" on Fri, 28 Aug 2026.
 
-TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 48 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location  is a music venue in London listed on soundcheck. 48 upcoming nights, with line-ups including 0dysseus, 550am, 7038634357 and Amelia Holt and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

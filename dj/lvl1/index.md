@@ -1,13 +1,14 @@
 # LVL1
 
-LVL1 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at LFO.exp, Madrid on Fri, 11 Sept 2026.
+LVL1 is a Electronica and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at berlinClub, Madrid on Thu, 27 Aug 2026.
 
-LVL1 is a trance and techno artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Madrid and Newyorkcity and 1 more. Often billed alongside DJ Final Boss, FUKCNORMAL and Olvido. Next up: LFO.exp, Madrid on Fri 11 Sept.
+LVL1 is an electronica and trance artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Newyorkcity and 1 more. Often billed alongside DJ Final Boss, FUKCNORMAL and Olvido. Next up: berlinClub, Madrid on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | berlinClub | Madrid |
 | Fri, 11 Sept 2026 | LFO.exp | Madrid |
 
 ## Recently played

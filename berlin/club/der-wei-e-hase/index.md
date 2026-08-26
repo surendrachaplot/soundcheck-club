@@ -1,14 +1,13 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*]" on Tue, 25 Aug 2026.
+Der Weiße Hase is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "STRAFF / Techno Thursday / 5€ until 1 AM" on Thu, 27 Aug 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Swaytone, Tom Marten |
 | Thu, 27 Aug 2026 | STRAFF / Techno Thursday / 5€ until 1 AM | Marvel Gold, TechNovaBader |
 | Fri, 28 Aug 2026 | Techno Ihr Hasen | Ari Denaro, Bisk, Ronny Luft, Seele, deKai |
 | Sat, 29 Aug 2026 | Liebe & Bass / Demo Aftershow | Bonq, Kaminka Merel, Maschine, NIKO INCRAVALLE |
@@ -18,6 +17,7 @@ Der Weiße Hase is a music venue in Berlin listed on soundcheck. 16 upcoming nig
 | Sat, 12 Sept 2026 | Die Lust am Feiern |  |
 | Tue, 15 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | August Kind, Erebos, MARRE |
 | Tue, 22 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | TechNovaBader |
+| Tue, 29 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Felix Reichelt, Klangpusch, ZÖ (1) |
 
 ## Address
 

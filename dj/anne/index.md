@@ -1,14 +1,13 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 25 Aug 2026.
+ANNĒ is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at KMSKA, Antwerp on Sat, 5 Sept 2026.
 
-ANNĒ is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: Amnesia Ibiza, Ibiza on Tue 25 Aug.
+ANNĒ is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: KMSKA, Antwerp on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | KMSKA | Antwerp |
 | Fri, 11 Sept 2026 | essaim | Paris |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |

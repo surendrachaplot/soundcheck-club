@@ -1,14 +1,13 @@
 # Recondite
 
-Recondite is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at [UNVRS], Ibiza on Tue, 25 Aug 2026.
+Recondite is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
-Recondite is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: [UNVRS], Ibiza on Tue 25 Aug.
+Recondite is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Tale Of Us, Anyma and Dyzen. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 5 Sept 2026 | Fridas Pier | Stuttgart |
 | Sat, 26 Sept 2026 | Ciudad Del Rock | Madrid |
 

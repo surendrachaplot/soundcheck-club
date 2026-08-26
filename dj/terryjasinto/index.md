@@ -1,13 +1,14 @@
 # Terry Jasinto
 
-Terry Jasinto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Ohana, San Diego on Sun, 6 Sept 2026.
+Terry Jasinto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Office Bar, San Diego on Wed, 26 Aug 2026.
 
-Terry Jasinto is a house and techno artist based in United States of America, tracked on soundcheck, with 114 sets logged across Sandiego and Seattle. Often billed alongside Mr Wright, Megalina and Oscar P. Next up: The Ohana, Sandiego on Sun 6 Sept.
+Terry Jasinto is a house and techno artist based in United States of America, tracked on soundcheck, with 115 sets logged across Sandiego and Seattle. Often billed alongside Mr Wright, Megalina and Oscar P. Next up: Office Bar, Sandiego on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Office Bar | San Diego |
 | Sun, 6 Sept 2026 | The Ohana | San Diego |
 
 ## Recently played

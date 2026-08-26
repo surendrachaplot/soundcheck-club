@@ -1,14 +1,13 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at OXI, Berlin on Tue, 25 Aug 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Raedli, Zurich on Fri, 18 Sept 2026.
 
-Viktoria Spielmann is a techno and electronica artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Leipzig and Prague and 1 more. Often billed alongside Mikrotakt, AEREA and DJ Cringey. Next up: OXI, Berlin on Tue 25 Aug.
+Viktoria Spielmann is a techno and electronica artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Leipzig and Prague and 1 more. Often billed alongside Mikrotakt, AEREA and DJ Cringey. Next up: Raedli, Zurich on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | OXI | Berlin |
 | Fri, 18 Sept 2026 | Raedli | Zurich |
 
 ## Recently played

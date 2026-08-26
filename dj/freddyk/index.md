@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Amnesia Ibiza, Ibiza on Tue, 25 Aug 2026.
+Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
 
-Freddy K is a techno and house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: Amnesia Ibiza, Ibiza on Tue 25 Aug.
+Freddy K is a techno and house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: Fvtvr, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
@@ -20,6 +19,7 @@ Freddy K is a techno and house artist tracked on soundcheck, with 274 sets logge
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 

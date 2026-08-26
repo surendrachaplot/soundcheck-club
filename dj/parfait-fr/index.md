@@ -1,14 +1,13 @@
 # Parfait
 
-Parfait is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
+Parfait is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-Parfait is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, SNTS and 999999999. Next up: Eden, Ibiza on Tue 25 Aug.
+Parfait is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, SNTS and 999999999. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Eden | Ibiza |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 
 ## Recently played

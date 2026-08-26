@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 41 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Joseph Capriati presents Metamorfosi" on Tue, 25 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 40 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Resistance Ibiza" on Wed, 26 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 41 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 40 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Joseph Capriati presents Metamorfosi | ANNĒ, Alarico, Antonio Pepe, Archie Hamilton, Enzo Siragusa, Fleur Shore, Freddy K, Joseph Capriati, Marco Tropeano |
 | Wed, 26 Aug 2026 | Resistance Ibiza | Adam Beyer, Boris Brejcha, Chris Avantgarde, Henri Bergmann |
 | Thu, 27 Aug 2026 | You&Me | Eliza Rose, Jentzen, Josh Baker, Luuk van Dijk, Olive F |
 | Fri, 28 Aug 2026 | Glitterbox | Dam Swindle, Fat Tony, Fattony, Groove Armada, Horse Meat Disco, Jazzy Jeff, Melvo Baptiste, Shaun Ross |
@@ -18,6 +17,7 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 41 upcoming nights
 | Wed, 2 Sept 2026 | Resistance Ibiza | Adam Beyer, Eric Prydz, Innellea |
 | Thu, 3 Sept 2026 | You&Me | Alexandria, Christian AB, Christian AB, Enzo Siragusa, Josh Baker, Laidlaw |
 | Fri, 4 Sept 2026 | Glitterbox | Aline Rocha, Aroop Roy, David Morales, Fat Tony, Fattony, Horse Meat Disco, Jayda G, Melvo Baptiste, Seamus Haji |
+| Sun, 6 Sept 2026 | Pyramid | Alarico, Chlär, Joseph Capriati, Luca Donzelli, Mar-T, Marco Faraone, Sidney Charles, Yanamaste |
 
 ## Address
 
