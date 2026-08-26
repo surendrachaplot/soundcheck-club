@@ -1,6 +1,6 @@
 # CDV End Of Summer Weekender:: at Club der Visionaere
 
-CDV End Of Summer Weekender:: at Club der Visionaere on Sat 29 Aug, Berlin. 17 acts on the bill: Alex Kraemer, Cabanne, Cesar Merveille and Cez (1) and 13 more. Preview the line-up and save it on soundcheck.
+CDV End Of Summer Weekender:: at Club der Visionaere on Sat 29 Aug, Berlin. 18 acts on the bill: Akatana, Alex Kraemer, Cabanne and Cesar Merveille and 14 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CDV End Of Summer Weekender:: at Club der Visionaere on Sat 29 Aug, Berlin. 17 a
 
 ## Line-up
 
+- Akatana
 - Alex Kraemer
 - Cabanne
 - Cesar Merveille

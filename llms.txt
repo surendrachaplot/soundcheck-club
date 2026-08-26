@@ -36,16 +36,16 @@ Updated: 2026-08-26
 - [Brussels scene guide](https://soundcheck.club/brussels/scene/)
 - [Detroit scene guide](https://soundcheck.club/detroit/scene/)
 - [Leeds scene guide](https://soundcheck.club/leeds/scene/)
+- [Hamburg scene guide](https://soundcheck.club/hamburg/scene/)
 - [Mexico City scene guide](https://soundcheck.club/mexicocity/scene/)
 - [Lisbon scene guide](https://soundcheck.club/lisbon/scene/)
-- [Hamburg scene guide](https://soundcheck.club/hamburg/scene/)
 - [Cologne scene guide](https://soundcheck.club/cologne/scene/)
 - [Edinburgh scene guide](https://soundcheck.club/edinburgh/scene/)
 - [Osaka scene guide](https://soundcheck.club/osaka/scene/)
 - [Budapest scene guide](https://soundcheck.club/budapest/scene/)
 - [Seattle scene guide](https://soundcheck.club/seattle/scene/)
 - [Milan scene guide](https://soundcheck.club/milan/scene/)
-- [Warsaw scene guide](https://soundcheck.club/warsaw/scene/)
+- [Vienna scene guide](https://soundcheck.club/vienna/scene/)
 
 ## Artists
 
@@ -96,6 +96,7 @@ Updated: 2026-08-26
 - [Locky](https://soundcheck.club/dj/locky/) — [markdown](https://soundcheck.club/dj/locky/index.md)
 - [Ueberrest](https://soundcheck.club/dj/ueberrest/) — [markdown](https://soundcheck.club/dj/ueberrest/index.md)
 - [Mietze Conte](https://soundcheck.club/dj/mietzeconte/) — [markdown](https://soundcheck.club/dj/mietzeconte/index.md)
+- [Winson Ngoh](https://soundcheck.club/dj/winsonngoh/) — [markdown](https://soundcheck.club/dj/winsonngoh/index.md)
 - [Eli Escobar](https://soundcheck.club/dj/eliescobar/) — [markdown](https://soundcheck.club/dj/eliescobar/index.md)
 - [m50](https://soundcheck.club/dj/m50/) — [markdown](https://soundcheck.club/dj/m50/index.md)
 - [East End Dubs](https://soundcheck.club/dj/eastenddubs/) — [markdown](https://soundcheck.club/dj/eastenddubs/index.md)
@@ -108,7 +109,6 @@ Updated: 2026-08-26
 - [David Morales](https://soundcheck.club/dj/davidmorales/) — [markdown](https://soundcheck.club/dj/davidmorales/index.md)
 - [Eris Drew](https://soundcheck.club/dj/erisdrew/) — [markdown](https://soundcheck.club/dj/erisdrew/index.md)
 - [Benwal](https://soundcheck.club/dj/benwal/) — [markdown](https://soundcheck.club/dj/benwal/index.md)
-- [Serafina](https://soundcheck.club/dj/serafina/) — [markdown](https://soundcheck.club/dj/serafina/index.md)
 
 ## Venues
 
@@ -117,16 +117,16 @@ Updated: 2026-08-26
 - [Lokschuppen Berlin (Berlin)](https://soundcheck.club/berlin/club/lokschuppen-berlin/) — [markdown](https://soundcheck.club/berlin/club/lokschuppen-berlin/index.md)
 - [DJ Bar Bridge (Tokyo)](https://soundcheck.club/tokyo/club/dj-bar-bridge/) — [markdown](https://soundcheck.club/tokyo/club/dj-bar-bridge/index.md)
 - [The Jazz Cafe (London)](https://soundcheck.club/london/club/the-jazz-cafe/) — [markdown](https://soundcheck.club/london/club/the-jazz-cafe/index.md)
-- [TBA - Secret Location  (London)](https://soundcheck.club/london/club/tba-secret-location/) — [markdown](https://soundcheck.club/london/club/tba-secret-location/index.md)
+- [TBA - SECRET LOCATION (London)](https://soundcheck.club/london/club/tba-secret-location/) — [markdown](https://soundcheck.club/london/club/tba-secret-location/index.md)
 - [DJ Bar Bridge Shinjuku (Tokyo)](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/) — [markdown](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/index.md)
 - [O Beach (Ibiza)](https://soundcheck.club/ibiza/club/o-beach/) — [markdown](https://soundcheck.club/ibiza/club/o-beach/index.md)
 - [John Doe (Amsterdam)](https://soundcheck.club/amsterdam/club/john-doe/) — [markdown](https://soundcheck.club/amsterdam/club/john-doe/index.md)
 - [The Lighthouse Bar & Club (London)](https://soundcheck.club/london/club/the-lighthouse-bar-club/) — [markdown](https://soundcheck.club/london/club/the-lighthouse-bar-club/index.md)
 - [Pacha Ibiza (Ibiza)](https://soundcheck.club/ibiza/club/pacha-ibiza/) — [markdown](https://soundcheck.club/ibiza/club/pacha-ibiza/index.md)
+- [Gretchen (Berlin)](https://soundcheck.club/berlin/club/gretchen/) — [markdown](https://soundcheck.club/berlin/club/gretchen/index.md)
 - [Egg London (London)](https://soundcheck.club/london/club/egg-london/) — [markdown](https://soundcheck.club/london/club/egg-london/index.md)
 - [Akasha Las Dalias Club - Ibiza (Ibiza)](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/) — [markdown](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/index.md)
 - [[UNVRS] (Ibiza)](https://soundcheck.club/ibiza/club/unvrs/) — [markdown](https://soundcheck.club/ibiza/club/unvrs/index.md)
-- [Gretchen (Berlin)](https://soundcheck.club/berlin/club/gretchen/) — [markdown](https://soundcheck.club/berlin/club/gretchen/index.md)
 - [Hï Ibiza (Ibiza)](https://soundcheck.club/ibiza/club/h-ibiza/) — [markdown](https://soundcheck.club/ibiza/club/h-ibiza/index.md)
 - [Elsewhere (New York City)](https://soundcheck.club/newyorkcity/club/elsewhere/) — [markdown](https://soundcheck.club/newyorkcity/club/elsewhere/index.md)
 - [E1 (London)](https://soundcheck.club/london/club/e1/) — [markdown](https://soundcheck.club/london/club/e1/index.md)

@@ -10,7 +10,7 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming night
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | EXIT 3→RD BIRTHDAY - Friday [Night 1] | Brandon Lee Vear, Mellowdramatics, Salam Kitty, TRSSX |
 | Sat, 5 Sept 2026 | EXIT 3→RD BIRTHDAY - Saturday [Night 2] | HUNTRESS, Hiro Kone, RS Tangent, Ribeka, Saeko Killy |
-| Sat, 12 Sept 2026 | in the spirit of exit | Bake, DJ Plead, Libra Esterlina |
+| Sat, 12 Sept 2026 | In The ࿓ Spirit ࿓ of EXIT | Bake, DJ Plead, Libra Esterlina |
 | Fri, 18 Sept 2026 | Tekhole presents: SIN  | Buckfast Barbie, C Frame, Maveen, Moina Moin, North Star, Salam Kitty, Tekhole, saparilla |
 | Sat, 19 Sept 2026 | EXIT CLUB |  |
 | Fri, 25 Sept 2026 | A.D.S.R w/ Somniac One, Kalopsia, DJ Smoker, 3SBAT | 3SBAT, DJ Smoker, Kalopsia, Somniac One |

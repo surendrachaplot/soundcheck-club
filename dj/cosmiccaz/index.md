@@ -1,8 +1,8 @@
 # Cosmic Caz
 
-Cosmic Caz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Electrowerkz, London on Fri, 28 Aug 2026.
+Cosmic Caz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Electrowerkz, London on Fri, 28 Aug 2026.
 
-Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Brighton, Dublin, Kyoto and London and 3 more. Often billed alongside Melati, MileZ and TEDESCO. Next up: Electrowerkz, London on Fri 28 Aug.
+Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Brighton, Dublin, Kyoto and London and 3 more. Often billed alongside Melati, MileZ and TEDESCO. Next up: Electrowerkz, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on sou
 | Fri, 28 Aug 2026 | Electrowerkz | London |
 | Fri, 4 Sept 2026 | Sauna Social Club | London |
 | Sun, 6 Sept 2026 | Hackney Bridge | London |
+| Sun, 6 Sept 2026 | Autumn Three | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Maria Amor
 
-Maria Amor is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
+Maria Amor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
 
-Maria Amor is a house and baile funk artist tracked on soundcheck, with 24 sets logged across Lisbon, London and Porto. Often billed alongside Shcuro, Violet (PT) and 420@ôa. Next up: Lux Fragil, Lisbon on Fri 4 Sept.
+Maria Amor is a techno and house artist tracked on soundcheck, with 25 sets logged across Lisbon, London and Porto. Often billed alongside Shcuro, Violet (PT) and Salbany. Next up: Lux Fragil, Lisbon on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Lux Fragil | Lisbon |
+| Fri, 11 Sept 2026 | Gare Porto | Porto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Maria Amor is a house and baile funk artist tracked on soundcheck, with 24 sets 
 
 ## Shares bills with
 
-Shcuro, Violet (PT), 420@ôa
+Shcuro, Violet (PT), Salbany
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariaamor/)*
