@@ -1,14 +1,15 @@
 # DJ Petite
 
-DJ Petite is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fitzroy, Berlin on Fri, 11 Sept 2026.
+DJ Petite is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fitzroy, Berlin on Fri, 11 Sept 2026.
 
-DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Elninodiablo. Next up: Fitzroy, Berlin on Fri 11 Sept.
+DJ Petite is a house and techno artist based in Ireland, tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Elninodiablo. Next up: Fitzroy, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Fitzroy | Berlin |
+| Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 

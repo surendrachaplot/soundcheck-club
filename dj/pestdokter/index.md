@@ -1,8 +1,8 @@
 # Pestdokter
 
-Pestdokter is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
+Pestdokter is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kømplex Lisbon, Lisbon on Thu, 27 Aug 2026.
 
-Pestdokter is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Barcelona, Lisbon, Madrid and Malta and 2 more. Often billed alongside Frik, Cristopher Arcuri and Ornella. Next up: Kømplex Lisbon, Lisbon on Thu 27 Aug.
+Pestdokter is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Barcelona, Lisbon, Madrid and Malta and 2 more. Often billed alongside Frik, Cristopher Arcuri and Ornella. Next up: Kømplex Lisbon, Lisbon on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pestdokter is a techno and industrial artist tracked on soundcheck, with 31 sets
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Kømplex Lisbon | Lisbon |
 | Sat, 29 Aug 2026 | Alcatraz Milano | Milan |
+| Sat, 19 Sept 2026 | Hard Club | Porto |
 
 ## Recently played
 

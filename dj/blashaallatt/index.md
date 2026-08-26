@@ -1,8 +1,8 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
+Blasha & Allatt is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 275 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Macadam, Nantes on Sat 29 Aug.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 276 sets logged across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Macadam, Nantes on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 275 sets 
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 2 Oct 2026 | Top Floor | Newcastle |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
-| Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 

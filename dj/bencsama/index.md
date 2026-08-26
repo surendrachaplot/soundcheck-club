@@ -1,14 +1,15 @@
 # Bencsama
 
-Bencsama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Turbina, Budapest on Fri, 11 Sept 2026.
+Bencsama is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Turbina, Budapest on Fri, 11 Sept 2026.
 
-Bencsama is a techno and house artist based in Italy, tracked on soundcheck, with 20 sets logged across Budapest. Often billed alongside CRB, Cry Later and HAYAM. Next up: Turbina, Budapest on Fri 11 Sept.
+Bencsama is a techno and house artist based in Italy, tracked on soundcheck, with 21 sets logged across Budapest. Often billed alongside CRB, Atashi and Cry Later. Next up: Turbina, Budapest on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Turbina | Budapest |
+| Sat, 10 Oct 2026 | Toldi Klub | Budapest |
 | Sat, 10 Oct 2026 | Toldi Klub | Budapest |
 
 ## Recently played
@@ -24,6 +25,6 @@ Bencsama is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 ## Shares bills with
 
-CRB, Cry Later, HAYAM
+CRB, Atashi, Cry Later
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bencsama/)*

@@ -4134,7 +4134,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787763820305">
+<meta name="sc-build" content="1787768273633">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4193,7 +4193,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">10 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">136 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">97 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">23 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">11 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">136 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">97 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">23 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9627,7 +9627,7 @@
             if((d.areas||[]).length){
               var am=document.getElementById('cs-areas');
               if(am) am.innerHTML=secH('By area in '+nm, 1)+'<div class="gd-chips">'+d.areas.map(function(a){
-                return '<a class="gd-chip nav" href="'+esc(SC_BASE+city+'/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
+                return '<a class="gd-chip nav" href="'+esc(SC_BASE+city+'/in/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
               }).join('')+'</div>';
             }
             croute.innerHTML=h;
@@ -9678,12 +9678,36 @@
 
     // A guide: genre, area or this-weekend. All three share the shape
     // {title, subtitle, blurb, sections:[{label,events}], venues?, play}.
-    async function openGuide(city, slug){
+    // /<city>/in/ — every area in one place. The static build publishes this as
+    // the parent of the area pages, so the app has to render it too.
+    async function openAreas(city){
       city=(city||currentCity||'london').toLowerCase();
-      var url=SC_BASE+city+'/'+slug+'/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
+      var url=SC_BASE+city+'/in/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
       openPanel(pageSkeleton());
       try{
-        var r=await authedFetch('/api/guide?type=auto&city='+encodeURIComponent(city)+'&slug='+encodeURIComponent(slug));
+        var r=await authedFetch('/api/guides?city='+encodeURIComponent(city));
+        var d=await r.json(), areas=(d&&d.areas)||[];
+        if(!areas.length){ openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">No areas listed for '+esc(cityLabel(city))+' yet.</div>'); return; }
+        openPanel('<div class="gd-head"><h2 class="page-title">'+esc(cityLabel(city))+' by area</h2>'+
+          '<div class="sub">'+areas.length+' neighbourhoods with something on</div></div>'+
+          '<div class="gd-chips">'+areas.map(function(a){
+            return '<a class="gd-chip nav" href="'+esc(SC_BASE+city+'/in/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
+          }).join('')+'</div>');
+      }catch(_){ openPanel('<h2 class="page-title">Couldn\u2019t load</h2><div class="sub">Try again in a moment.</div>'); }
+    }
+    async function openGuide(city, slug, area){
+      city=(city||currentCity||'london').toLowerCase();
+      // area = the third URL shape: /<city>/in/<area>/ carries no genre, and
+      // /<city>/<genre>/in/<area>/ carries both. type=auto still resolves the
+      // first two; only the combination has to say what it is.
+      var url = area ? (slug ? SC_BASE+city+'/'+slug+'/in/'+area+'/' : SC_BASE+city+'/in/'+area+'/')
+                     : SC_BASE+city+'/'+slug+'/';
+      if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var q = (area && slug) ? '/api/guide?type=genrearea&city='+encodeURIComponent(city)+'&slug='+encodeURIComponent(slug)+'&area='+encodeURIComponent(area)
+                               : '/api/guide?type=auto&city='+encodeURIComponent(city)+'&slug='+encodeURIComponent(area||slug);
+        var r=await authedFetch(q);
         if(!r.ok){
           // A URL that is no longer a guide (a genre whose last event passed) is
           // not an error page — send them to the city they asked for.
@@ -9776,7 +9800,7 @@
           return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/'+g.slug+'/')+'">'+esc(g.name)+'<span class="gd-ct">'+g.count+'</span></a>';
         }).join('')+'</div>';
         if((d.areas||[]).length) h+=secH('By area in '+cn,1)+'<div class="gd-chips">'+d.areas.map(function(a){
-          return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
+          return '<a class="gd-chip nav" href="'+esc(SC_BASE+d.city+'/in/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
         }).join('')+'</div>';
         if((d.lists||[]).length) h+=secH('Lists from the scene',1)+'<div class="gd-rows">'+d.lists.map(function(l){
           return '<a class="gd-row nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(l.by.handle)+'/list/'+encodeURIComponent(l.slug)+'/')+'">'+
@@ -11551,7 +11575,8 @@
       else if(hash.indexOf('n/')===0) openNight(hash.slice(2));
       else if(hash.indexOf('pl/')===0) openPlaylist(hash.slice(3));
       else if(hash==='lists') openLists();
-      else if(hash.indexOf('guide/')===0){ var gp=hash.slice(6).split('/'); openGuide(gp[0], gp[1]); }
+      else if(hash.indexOf('areas/')===0) openAreas(hash.slice(6));
+      else if(hash.indexOf('guide/')===0){ var gp=hash.slice(6).split('/'); openGuide(gp[0], gp[1], gp[2]); }
       else if(hash.indexOf('similar/')===0) openSimilar(hash.slice(8));
       else if(hash.indexOf('list/')===0){ var lp=hash.slice(5).split('/'); openList(lp[0], lp[1]); }
     }
@@ -12073,6 +12098,14 @@
       // this pattern is the widest in the app: everything above owns a specific
       // shape and must claim it first. Dates (/<city>/2026-08-03/) stay with the
       // home feed's own date handling, so they are excluded here.
+      // /<city>/<genre>/in/<area>/ and /<city>/in/<area>/ — both tested BEFORE
+      // the wide two-segment rule below, which would otherwise eat "<city>/in".
+      var ga=rest.match(/^([a-z0-9-]+)\/([a-z0-9-]+)\/in\/([a-z0-9-]+)$/);
+      if(ga && !CITY_SEG_RE.test(ga[1])) return 'guide/'+ga[1]+'/'+ga[2]+'/'+ga[3];
+      var ai=rest.match(/^([a-z0-9-]+)\/in$/);
+      if(ai && !CITY_SEG_RE.test(ai[1])) return 'areas/'+ai[1];
+      var am=rest.match(/^([a-z0-9-]+)\/in\/([a-z0-9-]+)$/);
+      if(am && !CITY_SEG_RE.test(am[1])) return 'guide/'+am[1]+'//'+am[2];
       var gm=rest.match(/^([a-z0-9-]+)\/([a-z0-9-]+)$/);
       if(gm && !/^\d{4}-\d{2}-\d{2}$/.test(gm[2]) && !CITY_SEG_RE.test(gm[1]) && gm[2]!=='tonight')
         return 'guide/'+gm[1]+'/'+gm[2];

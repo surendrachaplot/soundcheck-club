@@ -1,14 +1,15 @@
 # select motion
 
-select motion is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at De Maaskantine, Rotterdam on Sat, 29 Aug 2026.
+select motion is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at De Maaskantine, Rotterdam on Sat, 29 Aug 2026.
 
-select motion is a house and funk / soul artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona and Rotterdam. Often billed alongside Ben Diggins, LI-YU and LIMA (NL). Next up: De Maaskantine, Rotterdam on Sat 29 Aug.
+select motion is a house and funk / soul artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona and Rotterdam. Often billed alongside Ben Diggins, Infinite Pleasure and LI-YU. Next up: De Maaskantine, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | De Maaskantine | Rotterdam |
+| Sat, 29 Aug 2026 | export | Rotterdam |
 | Sat, 29 Aug 2026 | export | Rotterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ select motion is a house and funk / soul artist based in Netherlands, tracked on
 
 ## Shares bills with
 
-Ben Diggins, LI-YU, LIMA (NL)
+Ben Diggins, Infinite Pleasure, LI-YU
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selectmotion/)*

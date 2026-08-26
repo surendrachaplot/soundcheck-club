@@ -1,13 +1,14 @@
 # Misla
 
-Misla is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at EL SÓTANO, Madrid on Fri, 18 Sept 2026.
+Misla is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
-Misla is a house and tech house artist based in Chile, tracked on soundcheck, with 32 sets logged across Barcelona and Madrid. Often billed alongside Rony Finkel, Chichöl and Diggz. Next up: EL SÓTANO, Madrid on Fri 18 Sept.
+Misla is a house and tech house artist based in Chile, tracked on soundcheck, with 33 sets logged across Barcelona and Madrid. Often billed alongside Rony Finkel, Guille Pinet and Chichöl. Next up: Almar Beach Club, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Almar Beach Club | Barcelona |
 | Fri, 18 Sept 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ Misla is a house and tech house artist based in Chile, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Rony Finkel, Chichöl, Diggz
+Rony Finkel, Guille Pinet, Chichöl
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misla/)*

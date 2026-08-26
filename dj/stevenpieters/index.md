@@ -1,13 +1,14 @@
 # Steven Pieters
 
-Steven Pieters is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+Steven Pieters is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
 
-Steven Pieters is a house and funk / soul artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Ibiza and Rotterdam. Often billed alongside Ben Diggins, Infinite Pleasure and Khalil Ryahi. Next up: export, Rotterdam on Sat 29 Aug.
+Steven Pieters is a house and funk / soul artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Ibiza and Rotterdam. Often billed alongside Ben Diggins, Infinite Pleasure and Khalil Ryahi. Next up: export, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | export | Rotterdam |
 | Sat, 29 Aug 2026 | export | Rotterdam |
 
 ## Recently played

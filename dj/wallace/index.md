@@ -1,14 +1,15 @@
 # Wallace
 
-Wallace is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jaeger, Oslo on Fri, 4 Sept 2026.
+Wallace is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jaeger, Oslo on Fri, 4 Sept 2026.
 
-Wallace is a house and disco artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 27 more. Often billed alongside Bradley Zero, Gallegos and Altinbas. Next up: Jaeger, Oslo on Fri 4 Sept.
+Wallace is a house and disco artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 28 more. Often billed alongside Bradley Zero, Gallegos and Altinbas. Next up: Jaeger, Oslo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Jaeger | Oslo |
+| Sat, 12 Sept 2026 | WaterBear Venue | Brighton |
 | Fri, 9 Oct 2026 | Phonox | London |
 
 ## Recently played

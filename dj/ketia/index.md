@@ -1,8 +1,8 @@
 # ketia
 
-ketia is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at BASEMENT, New York City on Fri, 4 Sept 2026.
+ketia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at BASEMENT, New York City on Fri, 4 Sept 2026.
 
-ketia is a techno and house artist based in Portugal, tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Angel D'lite, Mary Lake and ADAM MUNNINGS. Next up: BASEMENT, Newyorkcity on Fri 4 Sept.
+ketia is a techno and house artist based in Portugal, tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Angel D'lite, ADAM MUNNINGS and DJ Petite. Next up: BASEMENT, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ketia is a techno and house artist based in Portugal, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | BASEMENT | New York City |
 | Sat, 12 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -25,6 +26,6 @@ ketia is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Angel D'lite, Mary Lake, ADAM MUNNINGS
+Angel D'lite, ADAM MUNNINGS, DJ Petite
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketia/)*

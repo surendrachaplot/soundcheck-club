@@ -1,8 +1,8 @@
 # Oath
 
-Oath is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "OATH WEDNESDAY" on Wed, 26 Aug 2026.
+Oath is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "OATH WEDNESDAY" on Wed, 26 Aug 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Amps, GooPer, KAKERU and Masahide Ohno and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including akii, Amps, A Taut Line and GooPer and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
@@ -14,6 +14,8 @@ Oath is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with lin
 | Sat, 29 Aug 2026 | OATH SATURDAY | Masahide Ohno |
 | Sun, 30 Aug 2026 | OATH AFTER HOURS -SUNDAY MORNING- | KAKERU, Masahide Ohno |
 | Fri, 11 Sept 2026 | Play Of Color Invites - cartax, Soeji - | Amps, GooPer |
+| Tue, 15 Sept 2026 | LSD - Lone Star Deluxe - | A Taut Line, Nori |
+| Sun, 20 Sept 2026 | mind in development | akii |
 
 ## Address
 

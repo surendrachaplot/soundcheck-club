@@ -1,8 +1,8 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Audrey Danza is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
-Audrey Danza is a techno and trance artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Circle Park, Brussels on Sat 29 Aug.
+Audrey Danza is a techno and trance artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Circle Park, Brussels on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Audrey Danza is a techno and trance artist tracked on soundcheck, with 175 sets 
 | Sat, 29 Aug 2026 | Circle Park | Brussels |
 | Sat, 5 Sept 2026 | Motel Campo | Geneva |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
+| Sat, 3 Oct 2026 | TBA - WAREHOUSE ST DENIS | Paris |
 
 ## Recently played
 

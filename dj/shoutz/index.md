@@ -1,14 +1,15 @@
 # shoutz
 
-shoutz is a Industrial and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at República Da Música, Lisbon on Sat, 12 Sept 2026.
+shoutz is a Hardcore and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at República Da Música, Lisbon on Sat, 12 Sept 2026.
 
-shoutz is an industrial and hardcore artist tracked on soundcheck, with 7 sets logged across Lisbon. Often billed alongside MakeCatBleed, Pharah and Anastasiya Ty. Next up: República Da Música, Lisbon on Sat 12 Sept.
+shoutz is a hardcore and industrial artist tracked on soundcheck, with 8 sets logged across Lisbon. Often billed alongside MakeCatBleed, Pharah and Anastasiya Ty. Next up: República Da Música, Lisbon on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | República Da Música | Lisbon |
+| Thu, 17 Sept 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
 

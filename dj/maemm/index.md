@@ -1,13 +1,14 @@
 # Maemm
 
-Maemm is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+Maemm is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
 
-Maemm is a techno and trance artist tracked on soundcheck, with 86 sets logged across Berlin, Edinburgh, Lisbon and Lyon and 5 more. Often billed alongside Aérienne, GiGi FM and Lastvuska. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+Maemm is a techno and trance artist tracked on soundcheck, with 87 sets logged across Berlin, Edinburgh, Lisbon and Lyon and 5 more. Often billed alongside Aérienne, GiGi FM and Lastvuska. Next up: La Cité Fertile, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | La Cité Fertile | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 
 ## Recently played

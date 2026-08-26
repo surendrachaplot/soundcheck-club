@@ -1,8 +1,8 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+BIIANCO is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Basel and Berlin and 31 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Basel and Berlin and 31 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
+| Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | E1 | London |
 

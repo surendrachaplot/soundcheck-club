@@ -1,8 +1,8 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+VEL (MA) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
 
-VEL (MA) is a techno and trance artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
+VEL (MA) is a techno and trance artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VEL (MA) is a techno and trance artist tracked on soundcheck, with 140 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 12 Sept 2026 | Place Jean Rey | Brussels |
+| Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 

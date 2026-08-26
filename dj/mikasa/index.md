@@ -1,14 +1,15 @@
 # Mikasa
 
-Mikasa is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
+Mikasa is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pianos, New York City on Wed, 26 Aug 2026.
 
-Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside KYLE MIKASA, RICKY and TCJ (2). Next up: Pianos, Newyorkcity on Wed 26 Aug.
+Mikasa is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside KYLE MIKASA, RICKY and TCJ (2). Next up: Pianos, Newyorkcity on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Pianos | New York City |
+| Fri, 4 Sept 2026 | Batica | Tokyo |
 
 ## Recently played
 

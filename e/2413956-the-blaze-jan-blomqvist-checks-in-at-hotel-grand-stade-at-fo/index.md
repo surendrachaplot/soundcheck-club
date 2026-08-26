@@ -1,6 +1,6 @@
 # The Blaze & Jan Blomqvist checks in at Hotel Grand Stade at Forbindelsehallen
 
-The Blaze & Jan Blomqvist checks in at Hotel Grand Stade at Forbindelsehallen on Sat 12 Sept, Stockholm. 2 acts on the bill: Jan Blomqvist and The Blaze. Preview the line-up and save it on soundcheck.
+The Blaze & Jan Blomqvist checks in at Hotel Grand Stade at Forbindelsehallen on Sat 12 Sept, Stockholm. 2 acts on the bill: Jan Blomqvist and The Blaze. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

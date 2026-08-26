@@ -1,8 +1,8 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+BAUGRUPPE90 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 156 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 45 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: Union Park, Chicago on Fri 4 Sept.
+BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 45 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ BAUGRUPPE90 is a techno and house artist tracked on soundcheck, with 156 sets lo
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
+| Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 31 Oct 2026 | OST | Berlin |
 | Sat, 7 Nov 2026 | Spin | San Diego |
 

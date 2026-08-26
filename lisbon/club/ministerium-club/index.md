@@ -1,8 +1,8 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Riktus with Jacidorex (BE), Madson Carpenter B2B S3NI, DLØW, VEPÜIR" on Thu, 27 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 14 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Riktus with Jacidorex (BE), Madson Carpenter B2B S3NI, DLØW, VEPÜIR" on Thu, 27 Aug 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming nights, with line-ups including Angel Karel, ANÍBAL, BIIA and BLNK and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 14 upcoming nights, with line-ups including Angel Karel, ANÍBAL, BIIA and BLNK and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 13 upcoming ni
 | Fri, 4 Sept 2026 | Art Bei Ton: from Berlin to Lisbon ~ 17 | Hypnotic Black Magic, Luis FMR, Maria Callapez, ena b. |
 | Sat, 5 Sept 2026 | Cirque x Fuse Records: Mella Dee | DJ Nox, MURI, Mella Dee, Minimart |
 | Thu, 10 Sept 2026 | Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal | ANÍBAL, Dibison, GADDAM, João Lágrima De Ouro, João Melgueira |
-| Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | Shogun, VLB (1) |
+| Thu, 17 Sept 2026 | Riktus - Double Trouble | MakeCatBleed, shoutz |
 
 ## Address
 

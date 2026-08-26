@@ -1,6 +1,6 @@
 # Lunchmeat Festival Prague 2026 - Main Event at National Gallery Prague
 
-Lunchmeat Festival Prague 2026 - Main Event at National Gallery Prague on Thu 24 Sept, Prague. 16 acts on the bill: Autechre, Bapari, Bitter Babe and Buena Tarde and 12 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Lunchmeat Festival Prague 2026 - Main Event at National Gallery Prague on Thu 24 Sept, Prague. 18 acts on the bill: Autechre, Bapari, Bitter Babe and Buena Tarde and 14 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,8 +16,10 @@ Lunchmeat Festival Prague 2026 - Main Event at National Gallery Prague on Thu 24
 - Buena Tarde
 - Debit
 - DJ GÄP
+- Fatima Al Qadiri
 - Kevin Peter He
 - KMRU
+- Kosu Nes
 - Lechuga Zafiro
 - Nexus
 - nunguja

@@ -1,6 +1,6 @@
 # Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats at Carmo Rooftop
 
-Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats at Carmo Rooftop on Fri 11 Sept, Lisbon. 4 acts on the bill: Kee_ko, MURI, PAZ WAZ HERE and XipNoize. House and Minimal. Preview the line-up and save it on soundcheck.
+Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats at Carmo Rooftop on Fri 11 Sept, Lisbon. 5 acts on the bill: boscar, Kee_ko, MURI and PAZ WAZ HERE and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats at Carmo Rooftop o
 
 ## Line-up
 
+- boscar
 - Kee_ko
 - MURI
 - PAZ WAZ HERE

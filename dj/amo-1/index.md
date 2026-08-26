@@ -1,8 +1,8 @@
 # A.mo
 
-A.mo is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Gare / Le Gore, Paris on Fri, 28 Aug 2026.
+A.mo is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Gare / Le Gore, Paris on Fri, 28 Aug 2026.
 
-A.mo is a techno and electro artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Pepperpot, DJ Jee and Kmyle. Next up: La Gare / Le Gore, Paris on Fri 28 Aug.
+A.mo is a techno and electro artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Brussels and Edinburgh and 2 more. Often billed alongside Pepperpot, DJ Jee and Kmyle. Next up: La Gare / Le Gore, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ A.mo is a techno and electro artist tracked on soundcheck, with 65 sets logged a
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | La Gare / Le Gore | Paris |
 | Sat, 29 Aug 2026 | La Gare / Le Gore | Paris |
+| Sat, 12 Sept 2026 | La Cité Fertile | Paris |
 
 ## Recently played
 

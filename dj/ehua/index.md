@@ -1,8 +1,8 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
+Ehua is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
 
-Ehua is a techno and bass artist tracked on soundcheck, with 119 sets logged across Amsterdam, Auckland, Barcelona and Basel and 31 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
+Ehua is a techno and bass artist tracked on soundcheck, with 120 sets logged across Amsterdam, Auckland, Barcelona and Basel and 31 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ehua is a techno and bass artist tracked on soundcheck, with 119 sets logged acr
 | Sat, 12 Sept 2026 | Place Poelaertplein | Brussels |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
+| Sat, 3 Oct 2026 | The Island | Bristol |
 
 ## Recently played
 

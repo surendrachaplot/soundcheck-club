@@ -1,13 +1,14 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Golden Lion, Manchester on Sat, 19 Sept 2026.
+Logan Fisher is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at WaterBear Venue, Brighton on Sat, 12 Sept 2026.
 
-Logan Fisher is a house and acid artist tracked on soundcheck, with 25 sets logged across Athens, Birmingham, Bucharest and Edinburgh and 5 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: The Golden Lion, Manchester on Sat 19 Sept.
+Logan Fisher is a house and acid artist tracked on soundcheck, with 26 sets logged across Athens, Birmingham, Brighton and Bucharest and 6 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: WaterBear Venue, Brighton on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | WaterBear Venue | Brighton |
 | Sat, 19 Sept 2026 | The Golden Lion | Manchester |
 | Sat, 10 Oct 2026 | Omeara | London |
 | Sat, 31 Oct 2026 | Are You Affiliated | Newcastle |

@@ -1,6 +1,6 @@
 # KALUKI IBIZA at 528 Ibiza
 
-KALUKI IBIZA at 528 Ibiza on Sun 20 Sept, Ibiza. 3 acts on the bill: Pirate Copy, Ranger Trucco and Tommy Phillips. House and Tech House. Preview the line-up and save it on soundcheck.
+KALUKI IBIZA at 528 Ibiza on Sun 20 Sept, Ibiza. 5 acts on the bill: Jamie Fielding, Kitty Hall, Pirate Copy and Ranger Trucco and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KALUKI IBIZA at 528 Ibiza on Sun 20 Sept, Ibiza. 3 acts on the bill: Pirate Copy
 
 ## Line-up
 
+- Jamie Fielding
+- Kitty Hall
 - Pirate Copy
 - Ranger Trucco
 - Tommy Phillips

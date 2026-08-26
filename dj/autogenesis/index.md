@@ -1,13 +1,14 @@
 # Autogenesis
 
-Autogenesis is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Autogenesis is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
 
-Autogenesis is a techno and psytrance artist based in Australia, tracked on soundcheck, with 21 sets logged across Berlin, Budapest, Ghent and Manchester and 4 more. Often billed alongside Jungist, Andy Garvey and Arsonist. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
+Autogenesis is a techno and psytrance artist based in Australia, tracked on soundcheck, with 22 sets logged across Athens, Berlin, Budapest and Ghent and 5 more. Often billed alongside Jungist, Andy Garvey and Arsonist. Next up: Patision65, Athens on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Patision65 | Athens |
 | Fri, 11 Sept 2026 | TBA -    Kodamanomori Camp Ground, Nagano | Tokyo |
 
 ## Recently played

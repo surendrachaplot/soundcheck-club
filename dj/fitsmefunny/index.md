@@ -1,14 +1,15 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
+FITS ME FUNNY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
 
-FITS ME FUNNY is a house and techno artist tracked on soundcheck, with 52 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: Cafe 1001, London on Sun 30 Aug.
+FITS ME FUNNY is a house and techno artist tracked on soundcheck, with 53 sets logged across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: Cafe 1001, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Cafe 1001 | London |
+| Sun, 20 Sept 2026 | fabric | London |
 | Fri, 16 Oct 2026 | The DBA | Manchester |
 
 ## Recently played

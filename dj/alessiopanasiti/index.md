@@ -1,14 +1,15 @@
 # Alessio Panasiti
 
-Alessio Panasiti is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 28 Aug 2026.
+Alessio Panasiti is a Tech House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 28 Aug 2026.
 
-Alessio Panasiti is an electro and house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Angelo Cortines, LM and ALOT. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 28 Aug.
+Alessio Panasiti is a tech house and electro artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Angelo Cortines, LM and ALOT. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
+| Sun, 13 Sept 2026 | Almar Beach Club | Barcelona |
 
 ## Recently played
 
