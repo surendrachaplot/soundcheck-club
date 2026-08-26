@@ -12,7 +12,7 @@ Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nigh
 | Thu, 3 Sept 2026 | Club Haram x Soak presents Ma Sha, Venus In Foil and Maral | Ma Sha, Maral Mane, Venus in Foil |
 | Fri, 4 Sept 2026 | Andre Zimmer, DJ Split, Corinne presented by Big Trouble x Standard Time  | Andre Zimmer, Corinne, DJ Split |
 | Sat, 5 Sept 2026 | Cynosure Night with Matt and Mark Thibideau (live), Andrew Grenville and Mike Shannon | Andrew Greville, Matt Thibideau, Mike Shannon |
-| Fri, 18 Sept 2026 | Yu Su b2b Vladimir Ivkovic - OPEN to CLOSE | Vladimir Ivkovic, Yu Su |
+| Fri, 18 Sept 2026 | Vladimir Ivkovic b2b Yu Su - OPEN to CLOSE | Vladimir Ivkovic, Yu Su |
 | Fri, 25 Sept 2026 | Two Shell and Special Guests presented by Standard Time x Not Dead Yet | Two Shell |
 | Sat, 26 Sept 2026 | SHANGO featuring John Morales and Kiki LeFreak  | John Morales, Kiki LeFreak |
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |

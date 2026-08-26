@@ -1,6 +1,6 @@
 # Cause & Effect at Soup
 
-Cause & Effect at Soup on Thu 24 Sept, Manchester. 1 act on the bill: Oneman. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Cause & Effect at Soup on Thu 24 Sept, Manchester. 2 acts on the bill: ASIAN BRAT and Oneman. Garage and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Cause & Effect at Soup on Thu 24 Sept, Manchester. 1 act on the bill: Oneman. Ga
 
 ## Line-up
 
+- ASIAN BRAT
 - Oneman
 
 *Source: [soundcheck](https://soundcheck.club/e/2516864-cause-effect-at-soup/)*

@@ -1,14 +1,17 @@
 # Acid Safari
 
-Acid Safari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 4 Sept 2026.
+Acid Safari is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Her, Melbourne on Fri, 28 Aug 2026.
 
-Acid Safari is a techno and house artist based in Australia, tracked on soundcheck, with 82 sets logged across Melbourne. Often billed alongside Mike Callander, Chiara Kickdrum and DJ Kiti. Next up: Revolver Upstairs, Melbourne on Fri 4 Sept.
+Acid Safari is a techno and house artist based in Australia, tracked on soundcheck, with 85 sets logged across Melbourne. Often billed alongside Mike Callander, Chiara Kickdrum and DJ Kiti. Next up: Her, Melbourne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Her | Melbourne |
+| Tue, 1 Sept 2026 | Music Room | Melbourne |
 | Fri, 4 Sept 2026 | Revolver Upstairs | Melbourne |
+| Thu, 17 Sept 2026 | Music Room | Melbourne |
 
 ## Recently played
 

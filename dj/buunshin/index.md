@@ -9,7 +9,7 @@ Buunshin is a drum & bass and jungle artist tracked on soundcheck, with 44 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Knust | Hamburg |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 | Sun, 22 Nov 2026 | Substation | Seattle |
 
 ## Recently played

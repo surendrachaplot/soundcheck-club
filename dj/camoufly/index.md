@@ -1,14 +1,15 @@
 # camoufly
 
-camoufly is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+camoufly is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Union Park, Chicago on Fri 4 Sept.
+camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Fri, 4 Sept 2026 | Outset | Chicago |
 | Sat, 19 Sept 2026 | Night We Met | Nashville |
 | Sat, 3 Oct 2026 | Village Studios | Vancouver |
 | Sat, 10 Oct 2026 | The Racket Space | Dublin |

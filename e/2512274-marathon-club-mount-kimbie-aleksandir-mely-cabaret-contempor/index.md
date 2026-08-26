@@ -1,6 +1,6 @@
-# MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporation at Virage
+# MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain at Virage
 
-MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporation at Virage on Sat 5 Sept, Paris. 3 acts on the bill: Aleksandir, Mely and Mount Kimbie. Tech House. Preview the line-up and save it on soundcheck.
+MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain at Virage on Sat 5 Sept, Paris. 3 acts on the bill: Aleksandir, Mely and Mount Kimbie. Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

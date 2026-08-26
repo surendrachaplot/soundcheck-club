@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Where Are My Keys - Detroit Labor Day | Andrés, BMG, DJ Candor, DJ Etta (US), DJ Godfather, DJ Roach, Danny Daze, Eastside Jon, Jyoty, Lauren Flax, Los Hermanos, Mike Grant, Sheefy McFly, Stacey Hotwaxx Hale, Steingold, Whodat, Will Renuart, britty. |
+| Mon, 7 Sept 2026 | Where Are My Keys - Detroit Labor Day | Andrés, BMG, DJ Candor, DJ Etta (US), DJ Godfather, DJ Roach, Danny Daze, ERNO (US), Eastside Jon, Jyoty, Lauren Flax, Los Hermanos, MIKE RANSOM, Mike Grant, Rebecca Goldberg, Sheefy McFly, Stacey Hotwaxx Hale, Steingold, Whodat, Will Renuart, britty. |
 
 ## Address
 

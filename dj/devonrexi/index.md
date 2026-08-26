@@ -1,14 +1,15 @@
 # Devon Rexi
 
-Devon Rexi is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Devon Rexi is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
-Devon Rexi is an electronica and experimental artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside John T. Gast, DJ Marcelle and Rashad Becker. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
+Devon Rexi is an electronica and experimental artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 14 more. Often billed alongside John T. Gast, DJ Marcelle and Rashad Becker. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
+| Tue, 6 Oct 2026 | OCZKI | Warsaw |
 
 ## Recently played
 

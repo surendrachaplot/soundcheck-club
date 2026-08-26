@@ -1,8 +1,8 @@
 # elliephunk
 
-elliephunk is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+elliephunk is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
-elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, with 85 sets logged across Berlin, Frankfurt and Newyorkcity. Often billed alongside Organza, B.A.O. and Camilla Rae. Next up: Kater, Berlin on Fri 28 Aug.
+elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, with 86 sets logged across Berlin, Frankfurt and Newyorkcity. Often billed alongside Organza, B.A.O. and Camilla Rae. Next up: Kater, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ elliephunk is a house and techno artist based in Taiwan, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
+| Sat, 19 Sept 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Missy Da Kunt
 
-Missy Da Kunt is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 4 Sept 2026.
+Missy Da Kunt is a House and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 4 Sept 2026.
 
-Missy Da Kunt is a house and ballroom artist tracked on soundcheck, with 18 sets logged across Brussels, Paris, Porto and Sydney. Often billed alongside Broodoo Ramses, Slim Soledad and BAE BAE. Next up: La Station - Gare des Mines, Paris on Fri 4 Sept.
+Missy Da Kunt is a house and ballroom artist tracked on soundcheck, with 19 sets logged across Brussels, Paris, Porto and Sydney. Often billed alongside Broodoo Ramses, Slim Soledad and BAE BAE. Next up: La Station - Gare des Mines, Paris on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | La Station - Gare des Mines | Paris |
+| Fri, 11 Sept 2026 | Pamela Club | Paris |
 
 ## Recently played
 

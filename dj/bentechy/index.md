@@ -1,14 +1,16 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Ben Techy is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Berlin and Budapest and 19 more. Often billed alongside Raxeller, SANTØS and Divasi. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
+Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raxeller, SANTØS and Divasi. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
+| Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
+| Sat, 12 Sept 2026 | Essigfabrik | Cologne |
 | Sat, 26 Sept 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | MÄX | Zurich |
 | Sat, 21 Nov 2026 | Panama | Amsterdam |

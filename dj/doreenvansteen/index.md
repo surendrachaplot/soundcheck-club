@@ -1,13 +1,14 @@
 # Doreen Van Steen
 
-Doreen Van Steen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
+Doreen Van Steen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
 
-Doreen Van Steen is a house and techno artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp and Ghent. Often billed alongside AMARE, Mona Lee and Cierk du Nuit. Next up: Charlatan, Ghent on Sat 26 Sept.
+Doreen Van Steen is a house and techno artist based in Belgium, tracked on soundcheck, with 12 sets logged across Antwerp and Ghent. Often billed alongside AMARE, Mona Lee and Cierk du Nuit. Next up: Charlatan, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Charlatan | Ghent |
 | Sat, 26 Sept 2026 | Charlatan | Ghent |
 
 ## Recently played

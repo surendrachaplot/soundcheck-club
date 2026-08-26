@@ -1,13 +1,14 @@
 # Pépe
 
-Pépe is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
+Pépe is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 19 Sept 2026.
 
-Pépe is a techno and deep house artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Baldman, AINES and EYRA. Next up: Rastro Live Studio, Madrid on Fri 25 Sept.
+Pépe is a techno and deep house artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Baldman, Just Claudia and AINES. Next up: Ankali & Planeta Za, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Ankali & Planeta Za | Prague |
 | Fri, 25 Sept 2026 | Rastro Live Studio | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ Pépe is a techno and deep house artist based in Spain, tracked on soundcheck, w
 
 ## Shares bills with
 
-Baldman, AINES, EYRA
+Baldman, Just Claudia, AINES
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pepe-uk/)*

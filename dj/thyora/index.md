@@ -1,14 +1,15 @@
 # THYORA
 
-THYORA is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Nordstern, Basel on Fri, 28 Aug 2026.
+THYORA is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nordstern, Basel on Fri, 28 Aug 2026.
 
-THYORA is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Basel. Often billed alongside Michel Sacher, Read the News and NTO. Next up: Nordstern, Basel on Fri 28 Aug.
+THYORA is a techno and electronica artist tracked on soundcheck, with 21 sets logged across Basel. Often billed alongside Michel Sacher, Read the News and NTO. Next up: Nordstern, Basel on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Nordstern | Basel |
+| Sat, 26 Sept 2026 | Nordstern | Basel |
 
 ## Recently played
 

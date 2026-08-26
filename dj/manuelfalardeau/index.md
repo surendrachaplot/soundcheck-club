@@ -1,14 +1,15 @@
 # Manuel Falardeau
 
-Manuel Falardeau is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at StereoBar, Montreal on Fri, 4 Sept 2026.
+Manuel Falardeau is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at StereoBar, Montreal on Fri, 4 Sept 2026.
 
-Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 42 sets logged across Montreal. Often billed alongside Latour, DUZA and Lex Ferenda. Next up: StereoBar, Montreal on Fri 4 Sept.
+Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 43 sets logged across Montreal. Often billed alongside Latour, DUZA and Lex Ferenda. Next up: StereoBar, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | StereoBar | Montreal |
+| Sat, 26 Sept 2026 | Bar Datcha | Montreal |
 
 ## Recently played
 

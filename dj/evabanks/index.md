@@ -1,13 +1,14 @@
 # Eva Banks
 
-Eva Banks is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
+Eva Banks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Experimental Cocktail Club Chinatown, London on Sun, 30 Aug 2026.
 
-Eva Banks is a tech house and deep house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Duat, BERNT and ELRA. Next up: Onyx (E1), London on Sat 12 Sept.
+Eva Banks is a tech house and house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Duat, BERNT and ELRA. Next up: Experimental Cocktail Club Chinatown, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Experimental Cocktail Club Chinatown | London |
 | Sat, 12 Sept 2026 | Onyx (E1) | London |
 
 ## Recently played

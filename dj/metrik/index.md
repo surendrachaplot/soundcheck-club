@@ -11,7 +11,7 @@ Metrik is a drum & bass and bass artist tracked on soundcheck, with 52 sets logg
 | Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
 | Fri, 23 Oct 2026 | Quarters | Brighton |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

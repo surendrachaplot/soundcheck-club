@@ -1,14 +1,15 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+DITA (ID) is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
-DITA (ID) is a house and disco artist tracked on soundcheck, with 104 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Brent Burns, Cormac and Marcellus Pittman. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
+DITA (ID) is a house and disco artist tracked on soundcheck, with 105 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Archie Dennis, Avalon Emerson and Brent Burns. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747 | Melbourne |
+| Sat, 26 Sept 2026 | Potato Head Beach Club | Bali |
 | Sun, 18 Oct 2026 | National Art School | Sydney |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 
@@ -25,6 +26,6 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 104 sets logge
 
 ## Shares bills with
 
-Brent Burns, Cormac, Marcellus Pittman
+Archie Dennis, Avalon Emerson, Brent Burns
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

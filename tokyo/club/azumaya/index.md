@@ -1,8 +1,8 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Azumaya -Wednesday-" on Wed, 26 Aug 2026.
+Azumaya is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Azumaya -Wednesday-" on Wed, 26 Aug 2026.
 
-Azumaya is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including ALEXANDER M, JOMMY, Rio (JP) and roomquake and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
+Azumaya is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including ALEXANDER M, DJ Wada, JOMMY and Rio (JP) and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with 
 | Thu, 3 Sept 2026 | Azumaya -Thursday- | Takumi's Afterparty |
 | Mon, 7 Sept 2026 | Azumaya -Monday- |  |
 | Thu, 10 Sept 2026 | Azumaya -Thursday- | Rio (JP), suimin |
+| Thu, 17 Sept 2026 | Azumaya -Thursday- | DJ Wada |
 
 ## Address
 

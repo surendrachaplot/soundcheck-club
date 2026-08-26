@@ -3636,6 +3636,32 @@
        way to refresh at all. Mobile only, and only from a resting scroll top.
        Follows the finger rather than appearing at a threshold: a control that
        tracks your thumb tells you how far you still have to go. */
+    /* ── Promo strip ──────────────────────────────────────────────────────────
+       One line, above everything, full-bleed. It costs the page 40px and no
+       more: a promo that pushes the first event below the fold is an advert,
+       not an invitation. Sunset gradient with ink on it — the bar IS the
+       button, which is why there is no pill inside it to make a second one.
+       Signed out it asks for a profile; signed in it asks for the app
+       waitlist. Never both, and never once dismissed. */
+    .promo{ display:flex; align-items:center; gap:10px; height:40px; padding:0 14px 0 18px;
+            background:var(--accent-grad); color:var(--accent-ink); overflow:hidden; }
+    .promo[hidden]{ display:none; }
+    .promo-in{ flex:1; min-width:0; display:flex; align-items:center; justify-content:center; gap:8px;
+               background:none; border:0; padding:0; margin:0; cursor:pointer; color:inherit;
+               font:600 var(--fs-sm)/1 var(--body); }
+    .promo-t{ white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    /* The action is the only bold thing on the bar, so the eye lands on it
+       without a second gradient shape competing with the Tonight tile. */
+    .promo-a{ font-weight:800; text-decoration:underline; text-underline-offset:2px; white-space:nowrap; flex:none; }
+    .promo-x{ flex:none; width:32px; height:32px; margin-right:-6px; border:0; background:none; cursor:pointer;
+              color:var(--accent-ink); opacity:.62; font:400 17px/1 var(--body);
+              display:flex; align-items:center; justify-content:center; }
+    .promo-x:hover{ opacity:1; }
+    @media (max-width:640px){
+      .promo{ height:36px; padding:0 10px 0 16px; gap:8px; }
+      .promo-in{ justify-content:flex-start; font-size:var(--fs-xs); }
+      .promo-a{ font-size:var(--fs-xs); }
+    }
     .ptr{ position:fixed; left:0; right:0; top:0; z-index:60; display:flex; justify-content:center;
           pointer-events:none; transform:translateY(calc(var(--ptrY, 0px) - 44px));
           opacity:var(--ptrO, 0); transition:opacity var(--dur-1) linear; }
@@ -4108,12 +4134,13 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787756793903">
+<meta name="sc-build" content="1787763820305">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
 <body>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
+  <div class="promo" id="promo" hidden></div>
   <main class="wrap">
     <nav>
       <a class="logo" href="." aria-label="Soundcheck — home">
@@ -4166,7 +4193,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">10 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">100 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">133 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">96 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">23 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-26/">Wed 26 Aug <span class="c">10 events</span></a></li><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">136 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">97 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">23 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4820,6 +4847,11 @@
         dockSrc.textContent = btn.dataset.artist||'';
         dockSrc.classList.toggle('linky', !!navSlug);
         dockSrc.onclick = navSlug ? function(){ openArtist(navSlug); } : null;
+      } else if(btn && btn.dataset && btn.dataset.kind==='sc'){
+        // SoundCloud/NTS: the sub-line is "mix title · SoundCloud". There is no
+        // venue behind it, so it must not look tappable.
+        dockSrc.textContent = btn.dataset.sub||src||'';
+        dockSrc.classList.remove('linky'); dockSrc.onclick=null;
       } else {
         dockSrc.classList.toggle('linky', !!navVenue);
         dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
@@ -4886,6 +4918,8 @@
       dock.classList.remove('show','expanded'); document.body.classList.remove('has-dock','dock-collapsed');
       active=null;
     }
+    var SC_SKIP=360;        // 6:00 — the same start a YouTube set gets
+    var SC_SKIP_MIN=600;    // …but only on something at least 10 minutes long
     function playSc(btn){
       clearPlayers(); currentType='sc';
       var f=document.createElement('iframe'); f.allow='autoplay'; f.className='sc';
@@ -4896,14 +4930,34 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="'+attrEsc((btn.dataset.name||'Now playing')+' artwork')+'" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.sub||btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
       curTracklist=[]; curVideoId=null; dock.classList.remove('has-tl');   // SoundCloud has no YT tracklist
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
       loadScApi(function(){
         if(currentType!=='sc' || !f.isConnected) return; // user moved on
         scWidget=SC.Widget(f);
-        scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); });
+        // START SIX MINUTES IN, same as a YouTube set. The first minutes of a
+        // recorded mix are the warm-up — the DJ playing to an empty room. Six
+        // minutes is where it becomes worth hearing, and it is the wink to
+        // "6 Minutes" that the YouTube path already makes.
+        //
+        // Only when there is a set to skip into: on anything under ten minutes
+        // this would drop you near the end, so a short upload starts at 0.
+        // Fired once, and only when the listener has not already moved: seeking
+        // somebody who has scrubbed themselves is stealing the controls.
+        var jumped=false;
+        function jumpIn(){
+          if(jumped || scrubbing) return;
+          scWidget.getDuration(function(ms){
+            var secs=(ms||0)/1000;
+            if(jumped) return;
+            jumped=true;                      // one attempt either way, never a loop
+            dur=secs; paintScrub();
+            if(secs > SC_SKIP_MIN){ scWidget.seekTo(SC_SKIP*1000); pos=SC_SKIP; paintScrub(); }
+          });
+        }
+        scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); jumpIn(); });
         scWidget.bind(SC.Widget.Events.PAUSE,function(){ updatePP(false); });
         scWidget.bind(SC.Widget.Events.READY,function(){ scWidget.getDuration(function(ms){ dur=(ms||0)/1000; paintScrub(); }); });
         scWidget.bind(SC.Widget.Events.PLAY_PROGRESS,function(e){ if(scrubbing) return; pos=(e.currentPosition||0)/1000; paintScrub(); });
@@ -5055,7 +5109,12 @@
     // pass reaches them, so "the play button doesn't work" was the normal case.
     // Play any SoundCloud-hosted url in the dock. NTS episodes are SoundCloud
     // audio too, so one helper covers both and the Sets tab uses it as well.
-    function playScUrl(url, title, art, source){
+    // artist = { name, slug } — WHO is playing. The dock's headline is the DJ on
+    // every other path (a YouTube set puts the artist there, not the video
+    // title), and SoundCloud was the one place that put a mix title there
+    // instead, so the same set played from two places named two different
+    // things. The mix title moves to the sub-line where the venue would be.
+    function playScUrl(url, title, art, source, artist){
       if(!url) return false;
       // No report button on SoundCloud or NTS: the demote reorders an artist's
       // YouTube sets, and there is no YouTube video here to move. Offering a
@@ -5063,9 +5122,17 @@
       // matches turn out to be wrong often, give sc_sets the same treatment and
       // arm it here — the button does not need to change.
       setDockReport('', '', source||'soundcloud');
+      var who=(artist&&artist.name)||'', slug=(artist&&artist.slug)||'';
       var el=document.createElement('button'); el.className='play sc';
-      el.dataset.sc=url; el.dataset.name=title||'Set';
-      el.dataset.poster=art||''; el.dataset.venue=source||'SoundCloud';
+      el.dataset.sc=url;
+      el.dataset.name=who||title||'Set';                 // DJ first; the mix title only if we don't know them
+      el.dataset.slug=slug;                              // makes the name tappable → their page
+      el.dataset.kind='sc';
+      // Sub-line: the mix, then where it came from. NOT the venue field — the old
+      // code put 'SoundCloud' there, and openDockUI treats dataset.venue as a
+      // venue, so the sub-line was a link to a venue page called "SoundCloud".
+      el.dataset.sub=[who?title:'', source||'SoundCloud'].filter(Boolean).join(' · ');
+      el.dataset.poster=art||'';
       playSc(el); return true;
     }
     // WHEN YOUTUBE FAILS AN ARTIST, PLAY THEM ANYWAY.
@@ -5082,12 +5149,12 @@
       try{
         var r=await fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(entry.slug));
         var sc=((await r.json())||{}).sets||[];
-        if(sc.length && sc[0].url) return playScUrl(sc[0].url, sc[0].title, sc[0].artwork, 'SoundCloud');
+        if(sc.length && sc[0].url) return playScUrl(sc[0].url, sc[0].title, sc[0].artwork, 'SoundCloud', entry);
       }catch(_){}
       try{
         var r2=await fetch(API_BASE+'/api/nts/sets?slug='+encodeURIComponent(entry.slug)+'&name='+encodeURIComponent(entry.name||entry.slug));
         var nt=((await r2.json())||{}).sets||[];
-        if(nt.length && nt[0].audio) return playScUrl(nt[0].audio, nt[0].title, nt[0].image, 'NTS Radio');
+        if(nt.length && nt[0].audio) return playScUrl(nt[0].audio, nt[0].title, nt[0].image, 'NTS Radio', entry);
       }catch(_){}
       return false;
     }
@@ -6047,7 +6114,57 @@
         el.innerHTML='<button class="signin-btn" id="signin-btn" type="button">Sign in</button>';
         document.getElementById('signin-btn').addEventListener('click',openAuth);
       }
+      paintPromo();
     }
+
+    // ── Promo strip ───────────────────────────────────────────────────────────
+    // Painted from renderAccount(), which is the one place that already runs
+    // both on first render and on every sign-in/sign-out — so the bar can never
+    // be showing "build a profile" to somebody who just made one.
+    var PROMO={
+      signup:{ t:'Build your music taste.', a:'Sign up',
+               wide:'Log the nights you go to and build your music taste.', wideA:'Create your profile' },
+      app:{ t:'The app is coming.', a:'Join the waitlist',
+            wide:'soundcheck for iPhone and Android is coming.', wideA:'Join the waitlist' }
+    };
+    function promoDismissed(k){ try{ return localStorage.getItem('sc_promo_'+k)==='1'; }catch(_){ return false; } }
+    function paintPromo(){
+      var bar=document.getElementById('promo'); if(!bar) return;
+      // Auth state unknown on a cold load — say nothing rather than flash the
+      // wrong message at somebody who turns out to be signed in.
+      if(!_meLoaded){ bar.hidden=true; return; }
+      var k=currentUser?'app':'signup';
+      if(promoDismissed(k)){ bar.hidden=true; return; }
+      var c=PROMO[k], wide=window.innerWidth>=760;
+      bar.innerHTML='<button class="promo-in" type="button"><span class="promo-t">'+esc(wide?c.wide:c.t)+'</span>'+
+                    '<span class="promo-a">'+esc(wide?c.wideA:c.a)+'</span></button>'+
+                    '<button class="promo-x" type="button" aria-label="Dismiss">&times;</button>';
+      bar.querySelector('.promo-in').addEventListener('click',function(){ promoAct(k); });
+      bar.querySelector('.promo-x').addEventListener('click',function(){
+        try{ localStorage.setItem('sc_promo_'+k,'1'); }catch(_){}
+        bar.hidden=true;
+      });
+      bar.hidden=false;
+    }
+    function promoAct(k){
+      if(k==='signup'){ openAuth(); return; }
+      // Signed in, so the account already carries the email a waitlist would
+      // ask for. One tap records the intent against that account — no form, and
+      // no new table: feedback already stores kind + user, and is queryable.
+      submitFeedback('app_waitlist','wants the iOS/Android app','promo-strip')
+        .then(function(r){ if(!r.ok) throw 0;
+          try{ localStorage.setItem('sc_promo_app','1'); }catch(_){}
+          document.getElementById('promo').hidden=true;
+          showToast('You’re on the list — we’ll email you.');
+        })
+        .catch(function(){ showToast('Couldn’t save — try again'); });
+    }
+    // The copy has a wide and a narrow form; a resize across the breakpoint has
+    // to repaint or the long line sits truncated on a phone-width window.
+    var _promoW=window.innerWidth>=760;
+    window.addEventListener('resize',function(){
+      var w=window.innerWidth>=760; if(w===_promoW) return; _promoW=w; paintPromo();
+    });
     document.addEventListener('click',function(){ var m=document.getElementById('acct-menu'); if(m) m.classList.remove('show'); });
 
     async function loadMe(){
@@ -9287,7 +9404,7 @@
               if(it.kind==='yt'){ playYtList(ytQ, ytQ.findIndex(function(x){ return x.videoId===it.videoId; })); return; }
               // SoundCloud and NTS both play through the SC widget — an NTS
               // episode's audio_source IS a soundcloud url.
-              playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':'SoundCloud');
+              playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':'SoundCloud', { name:artist, slug:slug });
             }); });
 
             // Shelves are keyed by videoId, so they stay on the YouTube rows.

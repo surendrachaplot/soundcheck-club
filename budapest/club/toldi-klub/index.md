@@ -1,8 +1,8 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Toldi Klubnight" on Fri, 28 Aug 2026.
+Toldi Klub is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Toldi Klubnight" on Fri, 28 Aug 2026.
 
-Toldi Klub is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including CRB, Daddy D and Sobek. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
+Toldi Klub is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Atashi, BELLITTA, Bencsama and CRB and 2 more. Browse upcoming dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 8 upcoming nights,
 | Fri, 18 Sept 2026 | MAJO // TOLDI | Sobek |
 | Sat, 19 Sept 2026 | POPSHE - millennials are back |  |
 | Fri, 2 Oct 2026 | PlayStation Drum&Bass night |  |
+| Sat, 10 Oct 2026 | ROOTZ X TOLDI X Paula Sanz | Atashi, BELLITTA, Bencsama, Dorota, Paula Sanz |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Egø Deåth // Hard Techno & Industrial // The Cause at The Cause
 
-Egø Deåth // Hard Techno & Industrial // The Cause on Fri 11 Sept, London. 4 acts on the bill: cassandrah, Diana Bravo, Labåzuy and Shugah. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Egø Deåth // Hard Techno & Industrial // The Cause on Fri 11 Sept, London. 4 acts on the bill: cassandrah, Diana Bravo, Labåzuy and SHUGAH. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Egø Deåth // Hard Techno & Industrial // The Cause on Fri 11 Sept, London. 4 a
 - cassandrah
 - Diana Bravo
 - Labåzuy
-- Shugah
+- SHUGAH
 
 *Source: [soundcheck](https://soundcheck.club/e/2470544-eg-de-th-hard-techno-industrial-the-cause-at-the-cause/)*

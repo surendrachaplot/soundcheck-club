@@ -1,14 +1,15 @@
 # Georgia Girl
 
-Georgia Girl is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Home The Venue, Sydney on Sun, 4 Oct 2026.
+Georgia Girl is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Home The Venue, Sydney on Sun, 4 Oct 2026.
 
-Georgia Girl is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 7 more. Often billed alongside Dungeon Meat, Samuel Deep and Keefy G. Next up: Home The Venue, Sydney on Sun 4 Oct.
+Georgia Girl is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 7 more. Often billed alongside Dungeon Meat, Samuel Deep and Keefy G. Next up: Home The Venue, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Home The Venue | Sydney |
+| Sat, 31 Oct 2026 | Gaffe | London |
 
 ## Recently played
 

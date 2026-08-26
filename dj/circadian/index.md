@@ -12,7 +12,7 @@ Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on
 | Thu, 10 Sept 2026 | The Bongo Club | Edinburgh |
 | Sat, 12 Sept 2026 | Thuishaven | Amsterdam |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 14 Nov 2026 | The Nest | Nottingham |
 
 ## Recently played

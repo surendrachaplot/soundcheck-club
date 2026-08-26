@@ -1,14 +1,15 @@
 # Tam Tam
 
-Tam Tam is a Disco and Italo Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sameheads, Berlin on Sat, 29 Aug 2026.
+Tam Tam is a Italo Disco and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sameheads, Berlin on Sat, 29 Aug 2026.
 
-Tam Tam is a disco and italo disco artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Jonah Considine, Richii and DJ Subaru. Next up: Sameheads, Berlin on Sat 29 Aug.
+Tam Tam is an italo disco and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Jonah Considine, Richii and DJ Subaru. Next up: Sameheads, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sameheads | Berlin |
+| Sun, 6 Sept 2026 | TBA | London |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 

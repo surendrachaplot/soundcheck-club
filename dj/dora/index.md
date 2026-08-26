@@ -1,14 +1,15 @@
 # DORA
 
-DORA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
+DORA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Toffler, Rotterdam on Fri, 28 Aug 2026.
 
-DORA is a house and techno artist based in Romania, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Barcelona and Budapest and 6 more. Often billed alongside 96zen, CRIME and A. Square. Next up: Toffler, Rotterdam on Fri 28 Aug.
+DORA is a house and techno artist based in Romania, tracked on soundcheck, with 21 sets logged across Amsterdam, Athens, Barcelona and Budapest and 6 more. Often billed alongside 96zen, CRIME and A. Square. Next up: Toffler, Rotterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Toffler | Rotterdam |
+| Fri, 16 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 

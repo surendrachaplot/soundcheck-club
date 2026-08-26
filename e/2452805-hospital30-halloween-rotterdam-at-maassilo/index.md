@@ -1,10 +1,10 @@
 # Hospital30 Halloween Rotterdam at Maassilo
 
-Hospital30 Halloween Rotterdam at Maassilo on Sat 31 Oct, Rotterdam. 13 acts on the bill: A.M.C., Audio, Buunshin and Circadian and 9 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Hospital30 Halloween Rotterdam at Maassilo on Fri 30 Oct, Rotterdam. 13 acts on the bill: A.M.C., Audio, Buunshin and Circadian and 9 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Fri, 30 Oct 2026 |
 | Venue | Maassilo |
 | City | Rotterdam |
 

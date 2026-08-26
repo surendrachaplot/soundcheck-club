@@ -2,7 +2,7 @@
 
 Amber (NL) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
-Amber (NL) is a house and tech house artist tracked on soundcheck, with 3 sets logged across Amsterdam, Bristol and Munich. Often billed alongside YEPIK, Artur Bredo and Carrier. Next up: Park Café München, Munich on Thu 24 Sept.
+Amber (NL) is a house and tech house artist tracked on soundcheck, with 3 sets logged across Amsterdam, Bristol and Munich. Often billed alongside YEPIK, Alice DiMar and Artur Bredo. Next up: Park Café München, Munich on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Amber (NL) is a house and tech house artist tracked on soundcheck, with 3 sets l
 
 ## Shares bills with
 
-YEPIK, Artur Bredo, Carrier
+YEPIK, Alice DiMar, Artur Bredo
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amber-nl/)*

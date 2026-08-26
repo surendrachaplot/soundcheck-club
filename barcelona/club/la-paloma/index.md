@@ -10,7 +10,7 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights,
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | La Paloma presents: TSHA + Mutual Trust | TSHA |
 | Sat, 5 Sept 2026 | POLENTA |  |
-| Fri, 11 Sept 2026 | La Paloma presents: Dj-Kicks with TEED + Fred P + Nicole.Aiff | Fred P, TEED, nicole.AIFF |
+| Fri, 11 Sept 2026 | La Paloma presents: DJ-Kicks with TEED + Fred P + Nicole.Aiff | Fred P, TEED, nicole.AIFF |
 | Sat, 12 Sept 2026 | Poly-Rythmo Club and La Paloma present: Melvo Baptiste + Mafalda + Sonido Tupinamba  | Mafalda, Melvo Baptiste, Sonido Tupinamba |
 | Fri, 18 Sept 2026 | POLENTA Solo Pop |  |
 | Fri, 25 Sept 2026 | La Paloma presents Moltes Mercès: Me Siento Extraña x Planet Venus | Acidnena, Ale Hope, Nahoomie, ONA (SP), Verushka, acidheaven |

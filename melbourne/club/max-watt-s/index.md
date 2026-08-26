@@ -1,6 +1,6 @@
 # Max Watt's
 
-Max Watt's is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "GRAND FINAL EVE feat. bradeazy (US)" on Thu, 24 Sept 2026.
+Max Watt's is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "GRAND FINAL LONG WEEKEND feat. bradeazy (US)" on Thu, 24 Sept 2026.
 
 Max Watt's is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including bradeazy, HAUSWiFE, HYBE and Mateo Blanco and 2 more. Browse upcoming dates, start times and who's playing. 125 Swanston St, Melbourne, VIC.
 
@@ -8,7 +8,7 @@ Max Watt's is a music venue in Melbourne listed on soundcheck. 1 upcoming night,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | GRAND FINAL EVE feat. bradeazy (US) | HAUSWiFE, HYBE, Mateo Blanco, Matteo Freyrie, Max Glyde, bradeazy |
+| Thu, 24 Sept 2026 | GRAND FINAL LONG WEEKEND feat. bradeazy (US) | HAUSWiFE, HYBE, Mateo Blanco, Matteo Freyrie, Max Glyde, bradeazy |
 
 ## Address
 

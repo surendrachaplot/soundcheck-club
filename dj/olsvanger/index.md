@@ -1,14 +1,15 @@
 # Olsvangèr
 
-Olsvangèr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lux Fragil, Lisbon on Sat, 29 Aug 2026.
+Olsvangèr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lux Fragil, Lisbon on Sat, 29 Aug 2026.
 
-Olsvangèr is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Lux Fragil, Lisbon on Sat 29 Aug.
+Olsvangèr is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Lux Fragil, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Lux Fragil | Lisbon |
+| Sat, 12 Sept 2026 | Romantso | Athens |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+gyrofield is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-gyrofield is a drum & bass and bass artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside DjRUM, Mala and Mia Koden. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+gyrofield is a drum & bass and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside DjRUM, Mala and KAVARI. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 69 sets l
 | Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 26 Sept 2026 | Knockdown Center | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
+| Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 69 sets l
 
 ## Shares bills with
 
-DjRUM, Mala, Mia Koden
+DjRUM, Mala, KAVARI
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

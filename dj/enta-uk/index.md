@@ -9,7 +9,7 @@ Enta is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Bricks | London |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

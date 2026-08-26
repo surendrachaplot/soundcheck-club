@@ -1,8 +1,8 @@
 # Music Room
 
-Music Room is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Music Room feat. Mike Gurrieri & Dan Aikido" on Wed, 26 Aug 2026.
+Music Room is a music venue in Melbourne with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Music Room feat. Mike Gurrieri & Dan Aikido" on Wed, 26 Aug 2026.
 
-Music Room is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including CA LOU, Jan Kost, Joey Coco and Mike Gurrieri and 1 more. Browse upcoming dates, start times and who's playing. Level 1/270 Lonsdale St, Melbourne VIC 3000.
+Music Room is a music venue in Melbourne listed on soundcheck. 7 upcoming nights, with line-ups including Acid Safari, CA LOU, Jan Kost and Joey Coco and 2 more. Browse upcoming dates, start times and who's playing. Level 1/270 Lonsdale St, Melbourne VIC 3000.
 
 ## What's on
 
@@ -13,6 +13,8 @@ Music Room is a music venue in Melbourne listed on soundcheck. 5 upcoming nights
 | Fri, 28 Aug 2026 | Music Room pres. Refuge Recordings feat. Jan Kost, Ca Lou & Joey Coco | CA LOU, Jan Kost, Joey Coco |
 | Sat, 29 Aug 2026 | Music Room pres. 45 Kings feat. Shanita Vice, DJ Tobygee, Mr Lob & Deejay Katch |  |
 | Sun, 30 Aug 2026 | Music Room pres. Henry Who & Hugo B | Mike Who |
+| Tue, 1 Sept 2026 | Acid Safari with Friends | Acid Safari |
+| Thu, 17 Sept 2026 | House of Acid | Acid Safari, Matt Radovich |
 
 ## Address
 

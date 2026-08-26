@@ -1,8 +1,8 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
+L.F.T. is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
 
-L.F.T. is a techno and electro artist tracked on soundcheck, with 109 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Festnacht, DJ MELL G and Alessandro Adriani. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 27 Aug.
+L.F.T. is a techno and electro artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Festnacht, DJ MELL G and Alessandro Adriani. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ L.F.T. is a techno and electro artist tracked on soundcheck, with 109 sets logge
 | Thu, 27 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 5 Sept 2026 | Barraca | Valencia |
 | Sat, 19 Sept 2026 | Mia Mao | Paris |
+| Sat, 3 Oct 2026 | TBA | Milan |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 

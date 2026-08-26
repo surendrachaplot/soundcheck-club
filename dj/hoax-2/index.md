@@ -11,7 +11,7 @@ Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on
 | Sat, 3 Oct 2026 | Watsons EQ | Sydney |
 | Fri, 16 Oct 2026 | Studio the Venue | Auckland |
 | Fri, 23 Oct 2026 | Quarters | Brighton |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Egg London
 
-Egg London is a music venue in London with 43 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 26 Aug 2026.
+Egg London is a music venue in London with 44 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 26 Aug 2026.
 
-Egg London is a music venue in London listed on soundcheck. 43 upcoming nights, with line-ups including ANMLxPRTY, Cassius Holland, Clefheart and Decimal and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 44 upcoming nights, with line-ups including ANMLxPRTY, Cassius Holland, Clefheart and Decimal and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 

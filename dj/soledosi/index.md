@@ -1,14 +1,15 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+SOLE DOSI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
-SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Berlin and Ibiza and 8 more. Often billed alongside Paula Sanz, Carmen Lisa (2) and Massi Rocket. Next up: Renate, Berlin on Sat 5 Sept.
+SOLE DOSI is a techno and house artist based in Italy, tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Berlin and Ibiza and 9 more. Often billed alongside Paula Sanz, Carmen Lisa (2) and Massi Rocket. Next up: Renate, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Renate | Berlin |
+| Fri, 18 Sept 2026 | KHIDI | Tbilisi |
 | Fri, 23 Oct 2026 | The Bulldog Palace | Amsterdam |
 
 ## Recently played

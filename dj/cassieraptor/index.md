@@ -1,8 +1,8 @@
 # Cassie Raptor
 
-Cassie Raptor is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
+Cassie Raptor is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
 
-Cassie Raptor is a techno and industrial artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Groove, Buenosaires on Sat 12 Sept.
+Cassie Raptor is a techno and industrial artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Groove, Buenosaires on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cassie Raptor is a techno and industrial artist tracked on soundcheck, with 127 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Groove | Buenos Aires |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
+| Fri, 20 Nov 2026 | Airport Würzburg | Nürnberg |
 
 ## Recently played
 

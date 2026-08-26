@@ -1,8 +1,8 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 18 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Vanderlye presents: Dystopia Calling EP Launch Night with support from Ryan Harley" on Fri, 28 Aug 2026.
+The Glad Cafe is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Vanderlye presents: Dystopia Calling EP Launch Night with support from Ryan Harley" on Fri, 28 Aug 2026.
 
-The Glad Cafe is a music venue in Glasgow listed on soundcheck. 18 upcoming nights, with line-ups including Carla dal Forno, Loscil, more eaze and Raivo Sloan and 1 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
+The Glad Cafe is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including Carla dal Forno, Loscil, Mark Van Hoen and more eaze and 2 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 18 upcoming nigh
 | Thu, 17 Sept 2026 | Justyna Jablonska - Unforeseen: Improvising Life and Music |  |
 | Wed, 23 Sept 2026 | The Glad Cafe presents: La Tène + Suzan Peeters |  |
 | Sat, 26 Sept 2026 | Pop Mutations presents: Locust |  |
-| Sun, 27 Sept 2026 | Sonica: Raivo Sloan // Moira Salt, Tommy Perman & Andrew Wasylyk // Jett Ilagan | Raivo Sloan |
+| Sat, 26 Sept 2026 | Locust | Mark Van Hoen |
 
 ## Address
 

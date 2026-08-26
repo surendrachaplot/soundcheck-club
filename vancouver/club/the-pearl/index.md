@@ -9,7 +9,7 @@ The Pearl is a music venue in Vancouver listed on soundcheck. 4 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Mark Farina | Luke McKeehan, Mark Farina, Schemmatic |
-| Sat, 12 Sept 2026 | KAVARI x umru | KAVARI, Outback, TR4CK ID?, umru |
+| Sat, 12 Sept 2026 | KAVARI + umru + Outback + TR4CK ID | KAVARI, Outback, TR4CK ID?, umru |
 | Sat, 3 Oct 2026 | DJ Assault | DJ Assault |
 | Mon, 5 Oct 2026 | Los Thuthanaka | Los Thuthanaka |
 

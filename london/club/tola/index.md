@@ -14,7 +14,7 @@ Tola is a music venue in London listed on soundcheck. 10 upcoming nights, with l
 | Fri, 11 Sept 2026 | Parallel Sounds - Day Into Night Terrace Party in Peckham | Nick Parallel |
 | Fri, 18 Sept 2026 | Kohsa presents | Buddy. (2), Sunny D |
 | Sat, 19 Sept 2026 | Frogwork: Day and Night Special | Corvair, Donut, Jiminy Watts, M'Lover, Touré |
-| Fri, 25 Sept 2026 | Straight On 'til Morning | 1KY (1), Harmony, Josh Wickers, ZAZA C |
+| Fri, 25 Sept 2026 | Straight On 'til Morning | 1KY (1), Harmony, Harry Mason, Josh Wickers, ZAZA C |
 | Fri, 16 Oct 2026 | JAZZ TO JUNGLE |  |
 | Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos |  |
 | Sat, 31 Oct 2026 | one:2 eight presents: LE CIRQUE CLANDESTIN | Not From Concentrate |

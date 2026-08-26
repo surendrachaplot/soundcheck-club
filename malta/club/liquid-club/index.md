@@ -1,8 +1,8 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 20 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE " on Fri, 28 Aug 2026.
+Liquid Club is a music venue in Malta with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE " on Fri, 28 Aug 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, with line-ups including A.Paul, Ashibane, BOA (1) and Chopper and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 21 upcoming nights, with line-ups including A.Paul, Ashibane, BOA (1) and Chopper and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Liquid Club is a music venue in Malta listed on soundcheck. 20 upcoming nights, 
 | Mon, 7 Sept 2026 | VERSUS PRESENTS - TRÏÏSS ALL NIGHT LONG | TRÏÏSS |
 | Mon, 7 Sept 2026 | BRAVE presents Nicolas Julian | Nicolas Julian |
 | Thu, 10 Sept 2026 | DOSE: Techno Thursdays / Season III |  |
-| Thu, 17 Sept 2026 | DOSE: Techno Thursdays / Season III |  |
+| Fri, 11 Sept 2026 | BUNKER RAVE | Florian François, Sofried, Uzay Aktan, Víctor Güell |
 
 ## Address
 

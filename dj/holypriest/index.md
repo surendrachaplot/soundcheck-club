@@ -1,13 +1,14 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at M-BIA, Berlin on Fri, 9 Oct 2026.
+Holy Priest is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
-Holy Priest is a techno and hardcore artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: M-BIA, Berlin on Fri 9 Oct.
+Holy Priest is a techno and hardcore artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 45 more. Often billed alongside elMefti, Fantasm and JAZZY (2). Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Fri, 9 Oct 2026 | M-BIA | Berlin |
 | Sat, 10 Oct 2026 | The Concourse Project | Austin |
 | Sun, 11 Oct 2026 | The Concourse Project | Austin |

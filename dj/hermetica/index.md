@@ -1,8 +1,8 @@
 # HERMETICA
 
-HERMETICA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
+HERMETICA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
 
-HERMETICA is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside Judy (ES), Laia and Tino Machauer. Next up: RSO.BERLIN, Berlin on Fri 4 Sept.
+HERMETICA is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside Judy (ES), Laia and Tino Machauer. Next up: RSO.BERLIN, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ HERMETICA is a techno and house artist tracked on soundcheck, with 41 sets logge
 | Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
+| Fri, 25 Sept 2026 | Lasociaciøn | Madrid |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Sat, 26 Sept 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |

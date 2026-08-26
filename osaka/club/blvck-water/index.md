@@ -13,7 +13,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming nights, w
 | Fri, 28 Aug 2026 | HARD TECHNO'CRACKS' with FENGX2, Kaoll, LIZA,, inudog system, ZAGUN, ANKH of LIFE | FENGX2, Kaoll, LIZA (6), ZAGUN, inudog system, 死者蘇生CH |
 | Sat, 29 Aug 2026 | AWAKING THE UNKNOWN SP |  |
 | Wed, 2 Sept 2026 | RHYTHM SHIFT Vol.16 - presso (Vienna) 2 Hour Set | WOLT, presso |
-| Fri, 4 Sept 2026 | HARD TECHNO 'CRACKS' with Kosuke, FENGX2 | FENGX2, Kosuke |
+| Fri, 4 Sept 2026 | HARD TECHNO 'CRACKS' with Kosuk(VINYL SET), FENGX2 | FENGX2, Kosuke |
 | Sun, 27 Sept 2026 | FRONT LINE in OSAKA |  |
 
 ## Address

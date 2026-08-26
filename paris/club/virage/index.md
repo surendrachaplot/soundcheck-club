@@ -17,7 +17,7 @@ Virage is a music venue in Paris listed on soundcheck. 14 upcoming nights, with 
 | Wed, 2 Sept 2026 | Bozo Records: Michelle (live), P.O, Marco del Bosque | Marco del Bosque, Michelle, P.O (1) |
 | Thu, 3 Sept 2026 | SUPERB NIGHT: M¥SS KETA (live), Cannelle (live), MATHILDE FERNANDEZ | Cannelle |
 | Fri, 4 Sept 2026 | Union Trance Mission: Metaraph, Dana Montana & more | 4000 Hz, DJ Reiz, Dana Montana, Metaraph, Vickies |
-| Sat, 5 Sept 2026 | MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporation | Aleksandir, Mely, Mount Kimbie |
+| Sat, 5 Sept 2026 | MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain | Aleksandir, Mely, Mount Kimbie |
 
 ## Address
 

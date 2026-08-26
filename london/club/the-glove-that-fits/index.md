@@ -1,8 +1,8 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 24 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "pwrSystm - 1st anniversary" on Thu, 27 Aug 2026.
+The Glove That Fits is a music venue in London with 25 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "pwrSystm - 1st anniversary" on Thu, 27 Aug 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 7005, A.Wild, AJ Manning and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including 7005, A.Wild, AJ Manning and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 

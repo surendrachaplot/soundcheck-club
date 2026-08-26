@@ -1,13 +1,14 @@
 # SIOBHAN.
 
-SIOBHAN. is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
+SIOBHAN. is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
 
-SIOBHAN. is a techno and industrial artist tracked on soundcheck, with 9 sets logged across London and Losangeles. Often billed alongside AAKAARA, Venetia May and Aero (1). Next up: Dalston Den, London on Sat 12 Sept.
+SIOBHAN. is a techno and experimental artist tracked on soundcheck, with 10 sets logged across London and Losangeles. Often billed alongside AAKAARA, Lockhart and New Flesh (2). Next up: Vittoria Wharf Studio, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Vittoria Wharf Studio | London |
 | Sat, 12 Sept 2026 | Dalston Den | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ SIOBHAN. is a techno and industrial artist tracked on soundcheck, with 9 sets lo
 
 ## Shares bills with
 
-AAKAARA, Venetia May, Aero (1)
+AAKAARA, Lockhart, New Flesh (2)
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*

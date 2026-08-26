@@ -1,8 +1,8 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PRISIM - ALL GOOD MUSIC / GLOBAL HITS / HARD TECHNO / TROPICAL GROOVES -" on Thu, 27 Aug 2026.
+ZEROTOKYO is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PRISIM - ALL GOOD MUSIC / GLOBAL HITS / HARD TECHNO / TROPICAL GROOVES -" on Thu, 27 Aug 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and AKIRA TAKABAYASHI and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and AKIRA TAKABAYASHI and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 

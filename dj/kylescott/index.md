@@ -2,7 +2,7 @@
 
 Kyle Scott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Cheetah Club, Glasgow on Fri, 23 Oct 2026.
 
-Kyle Scott is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Edinburgh and Glasgow. Often billed alongside David Scott, JacobR and zohra. Next up: La Cheetah Club, Glasgow on Fri 23 Oct.
+Kyle Scott is a house and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Edinburgh and Glasgow. Often billed alongside Daisy Moon, David Scott and JacobR. Next up: La Cheetah Club, Glasgow on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Kyle Scott is a house and techno artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-David Scott, JacobR, zohra
+Daisy Moon, David Scott, JacobR
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylescott/)*

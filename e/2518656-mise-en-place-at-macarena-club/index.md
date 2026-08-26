@@ -1,6 +1,6 @@
 # Mise en Place at Macarena Club
 
-Mise en Place at Macarena Club on Wed 9 Sept, Barcelona. 1 act on the bill: Brizas. Preview the line-up and save it on soundcheck.
+Mise en Place at Macarena Club on Wed 9 Sept, Barcelona. 2 acts on the bill: Brizas and Rodrigo Valdovinos. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Mise en Place at Macarena Club on Wed 9 Sept, Barcelona. 1 act on the bill: Briz
 ## Line-up
 
 - Brizas
+- Rodrigo Valdovinos
 
 *Source: [soundcheck](https://soundcheck.club/e/2518656-mise-en-place-at-macarena-club/)*

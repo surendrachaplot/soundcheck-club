@@ -1,8 +1,8 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Thursday Social: Open Decks + Night Market" on Thu, 27 Aug 2026.
+Spybar is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Thursday Social: Open Decks + Night Market" on Thu, 27 Aug 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 16 upcoming nights, with line-ups including Brunello, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including Brunello, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 

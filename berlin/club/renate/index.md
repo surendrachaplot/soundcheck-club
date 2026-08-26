@@ -13,10 +13,10 @@ Renate is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with
 | Sat, 29 Aug 2026 | Renate Klubnacht + Open Air (Free Entry) with Dabbs Traxx, Franz Scala & DUBBDÄCK | Amy Dabbs, Charlie Vaux, Franz Scala, Gabriel Muñoz, HEDDA, Hanaby, Kabinett, La cani, Linnea Mae, Sanaz, Souci, anna andersrum, lil ja |
 | Sat, 29 Aug 2026 | DUBBDÄCK takeover Renate  | HEDDA, Hanaby, Sanaz, lil ja |
 | Thu, 3 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) x RBL | Pearla, Tina (DE), lady jestive |
-| Fri, 4 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with SEVEN | Sabine Hoffmann, TATA (DE), Zarling, mojo |
+| Fri, 4 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with SEVEN | Sabine Hoffmann, TATA (DE), Zarling, jewelry, mojo |
 | Sat, 5 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is | Aalia Iraki, BAY-BUSH-KA, Baba T, KVLR, Lea Czychy, Moehecan, Mython, NoName, ODERA, SOLE DOSI, Schicktanz, Shanda, Ukãi Ndame |
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Fhionn, Slowfoam |
-| Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Fhionn, Slowfoam |
+| Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Der Opium Queen, Fhionn, Slowfoam |
 | Fri, 11 Sept 2026 | 19 Years Renate - 7 Floors - 66 Hour Party with Angel D'lite, Stenny, Mary Lake, Daniel Avery | AGILY, Adam Cooke, Alison Swing, Amy Dabbs, Ana Selina, Angel D'lite, Bell Towers, Big Leg, Black Mirror Park, Carly Zeng, Cheriii, Crille & Tamalt, DJ CHICHI, DJ Life, DJ Pete, Dana Ruh, Daniel Avery, David Fogarty, Dornika, Eternal Soup, Faited, Frinda di Lanco, Gwen Wayne, Handmade, Hendrik Stein, Immy, JM Moser, John Loveless, Lara Fein, Luca Elsi, Lush Lab, MASCHA, Madalba, Mara Menace, Mark Gill, Mary Lake, Nadia Wise, Nikita T, Obelix, Organza, Overthink 71, Psyked, Punani, Rafush, Robin Flux, Sansibar, Stenny, Sumi (3), Tam Tam, Tangela, Triqi, Tzena, UrbnMowgli, VEB Elektrokunst, Vio PRG, degen, elliephunk, sin serif, ābnamā |
 
 ## Address

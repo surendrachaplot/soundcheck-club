@@ -1,14 +1,14 @@
 # Temple Gate
 
-Temple Gate is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Palacio Alsina, Microcentro, Buenos Aires on Fri, 11 Sept 2026.
+Temple Gate is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 11 Sept 2026.
 
-Temple Gate is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 17 sets logged across Buenosaires and Miami. Often billed alongside Greta Meier, Jay de Lys and Bob Tosh. Next up: TBA - Palacio Alsina, Microcentro, Buenosaires on Fri 11 Sept.
+Temple Gate is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 17 sets logged across Buenosaires and Miami. Often billed alongside Greta Meier, Jay de Lys and Bob Tosh. Next up: TBA - Crobar Club, Palermo, Buenosaires on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TBA - Palacio Alsina, Microcentro | Buenos Aires |
+| Fri, 11 Sept 2026 | TBA - Crobar Club, Palermo | Buenos Aires |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Fvtvr INVITES: Chris Liebing, Sept, TSIEG" on Fri, 28 Aug 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including abs8lute, Ahmet Sisman, Akaj and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including abs8lute, Adrien Calvet, Ahmet Sisman and Akaj and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with l
 | Fri, 18 Sept 2026 | The Third Room: 32H | .VRIL, Ahmet Sisman, Call Super, Christian AB, Fadi Mohem, Felix Fleer, Fred P, Isabel Soto, Nastia Reigel, ORBE, Oscar Mulero, Psyk, Rami Chami, Tauceti (FR), abs8lute |
 | Fri, 25 Sept 2026 | imagine FAMILY: Lamache ALL NIGHT LONG | Lamache |
 | Sat, 26 Sept 2026 | LUST - CHAPTER XVIII | Litoshka, Pulso (2), Temudo |
-| Fri, 9 Oct 2026 | CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES] | Akaj, Alyhas, B.Love, Baccus, Cam Stockman, Coleeeette, Deborah Aime La Bagarre, Emma B, Gibs (ID), HearThug, Herr Krank, IAMBP, JUAAN, Jeff The Fool, Jhobei, Kara Okay, Luuk van Dijk, MARYO, Man/Ipulate, Munir Nadir, Occibel, P.O (1), Roza Terenzi, Sampol, Voodoos and Taboos, loryn (FR) |
+| Fri, 9 Oct 2026 | CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES] | Adrien Calvet, Akaj, Alyhas, B.Love, Baccus, Cam Stockman, Coleeeette, Deborah Aime La Bagarre, Emi Ömar, Emma B, Gibs (ID), HearThug, Herr Krank, IAMBP, JUAAN, Jeff The Fool, Jhobei, Kara Okay, Luuk van Dijk, MARYO, Man/Ipulate, Munir Nadir, Occibel, P.O (1), Roza Terenzi, Sampol, The Hacker, Voodoos and Taboos, loryn (FR) |
 
 ## Address
 

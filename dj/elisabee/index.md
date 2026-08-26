@@ -1,8 +1,8 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
+Elisa Bee is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
 
-Elisa Bee is a techno and tech house artist based in Italy, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 11 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: M.O.T, London on Fri 28 Aug.
+Elisa Bee is a techno and tech house artist based in Italy, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 12 more. Often billed alongside Industrial Romantico, Acidalia and Alimac. Next up: M.O.T, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Elisa Bee is a techno and tech house artist based in Italy, tracked on soundchec
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | M.O.T | London |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 31 Oct 2026 | TBA | Hamburg |
 
 ## Recently played
 

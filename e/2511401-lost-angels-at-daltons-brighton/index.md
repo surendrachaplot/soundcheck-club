@@ -1,6 +1,6 @@
 # Lost Angels at Daltons Brighton
 
-Lost Angels at Daltons Brighton on Sat 12 Sept, Brighton. 3 acts on the bill: LUNAx3, Surati and Willow J. Electro and Gabber. Preview the line-up and save it on soundcheck.
+Lost Angels at Daltons Brighton on Sat 12 Sept, Brighton. 4 acts on the bill: LUNAx3, Scar XL, Surati and Willow J. Electro and Gabber. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Lost Angels at Daltons Brighton on Sat 12 Sept, Brighton. 3 acts on the bill: LU
 ## Line-up
 
 - LUNAx3
+- Scar XL
 - Surati
 - Willow J
 

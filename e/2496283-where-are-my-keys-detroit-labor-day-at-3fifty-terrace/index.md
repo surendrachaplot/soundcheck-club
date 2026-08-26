@@ -1,6 +1,6 @@
 # Where Are My Keys - Detroit Labor Day at 3fifty Terrace
 
-Where Are My Keys - Detroit Labor Day at 3fifty Terrace on Mon 7 Sept, Detroit. 18 acts on the bill: Andrés, BMG, britty. and Danny Daze and 14 more. Preview the line-up and save it on soundcheck.
+Where Are My Keys - Detroit Labor Day at 3fifty Terrace on Mon 7 Sept, Detroit. 21 acts on the bill: Andrés, BMG, britty. and Danny Daze and 17 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,10 +19,13 @@ Where Are My Keys - Detroit Labor Day at 3fifty Terrace on Mon 7 Sept, Detroit. 
 - DJ Godfather
 - DJ Roach
 - Eastside Jon
+- ERNO (US)
 - Jyoty
 - Lauren Flax
 - Los Hermanos
 - Mike Grant
+- MIKE RANSOM
+- Rebecca Goldberg
 - Sheefy McFly
 - Stacey Hotwaxx Hale
 - Steingold

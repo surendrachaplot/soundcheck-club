@@ -12,7 +12,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 6 upcoming nights, w
 | Sun, 13 Sept 2026 | Round the Corner x Afterground x Zapped | And.re, Papa K, Per Hammar, Renzo (3) |
 | Sat, 19 Sept 2026 | SZENETREFFEN Shameless + PBC Afterparty |  |
 | Fri, 25 Sept 2026 | Musek Vol. VII | Francesco Farfa, Hamsa, Janina, Miki |
-| Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt |
+| Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam |  |
 
 ## Address

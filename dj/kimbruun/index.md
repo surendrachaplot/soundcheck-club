@@ -1,13 +1,14 @@
 # Kim Bruun
 
-Kim Bruun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sameheads, Berlin on Thu, 3 Sept 2026.
+Kim Bruun is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sameheads, Berlin on Thu, 3 Sept 2026.
 
-Kim Bruun is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside The Burrell Connection, Alec Falconer and Alex Vincent. Next up: Sameheads, Berlin on Thu 3 Sept.
+Kim Bruun is a house and acid artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside The Burrell Connection, Furz and kairavi. Next up: Sameheads, Berlin on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Sameheads | Berlin |
 | Thu, 3 Sept 2026 | Sameheads | Berlin |
 
 ## Recently played
@@ -19,6 +20,6 @@ Kim Bruun is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-The Burrell Connection, Alec Falconer, Alex Vincent
+The Burrell Connection, Furz, kairavi
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimbruun/)*

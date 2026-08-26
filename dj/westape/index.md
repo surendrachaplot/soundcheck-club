@@ -1,13 +1,15 @@
 # West Ape
 
-West Ape is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
+West Ape is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 4 Sept 2026.
 
-West Ape is a house and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside JUN INAGAWA, Eichi Abe and Aliceyuki. Next up: おおばキャンプ村, Tokyo on Sat 5 Sept.
+West Ape is a techno and house artist based in Japan, tracked on soundcheck, with 12 sets logged across Tokyo. Often billed alongside JUN INAGAWA, Eichi Abe and Aliceyuki. Next up: Enter Shibuya, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Enter Shibuya | Tokyo |
+| Fri, 4 Sept 2026 | Enter Shibuya | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |
 

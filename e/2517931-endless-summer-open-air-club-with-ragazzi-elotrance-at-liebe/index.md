@@ -1,6 +1,6 @@
 # Endless Summer (Open Air + Club) with ragazzi & elotrance at Lieberscholli
 
-Endless Summer (Open Air + Club) with ragazzi & elotrance at Lieberscholli on Sat 5 Sept, Munich. 5 acts on the bill: ANASTASÍA, CARGO (DE), DiscoDaisy and NIA (4) and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Endless Summer (Open Air + Club) with ragazzi & elotrance at Lieberscholli on Sat 5 Sept, Munich. 5 acts on the bill: ANASTASÍA, CARGO (DE), DiscoDaisy and NIA (4) and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

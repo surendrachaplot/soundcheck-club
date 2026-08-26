@@ -1,14 +1,15 @@
 # Murdock
 
-Murdock is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Murdock is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Murdock is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Austin and Bristol and 8 more. Often billed alongside Andromedik, Enaly and Sigma. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Murdock is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Austin and Bristol and 8 more. Often billed alongside Andromedik, Enaly and Sigma. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 16 Oct 2026 | Ministry Of Sound | London |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played

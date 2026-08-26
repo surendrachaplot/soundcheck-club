@@ -2,7 +2,7 @@
 
 Paloma is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "HVY ROTATION with DJoy and Tiago Walter" on Fri, 28 Aug 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Aimé You, Alison Swing, ANDI A. and Ann Mysochka and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including AAguilAA, Aimé You, Alison Swing and ANDI A. and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Paloma is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with
 | Sat, 29 Aug 2026 | Aquatic Travellers Vol. 12 x Mechatronica | Black Mirror Park, Milan Hermess, bb:fm, mu”he |
 | Thu, 3 Sept 2026 | GROOVE BURO \w Dick Jockey | Dick Jockey, Fineberg, Karolina Bnv |
 | Fri, 4 Sept 2026 | Under Bass | Impérieux, Rhyw |
-| Fri, 4 Sept 2026 | INTO ORBIT | LIA, jiyun kim |
+| Fri, 4 Sept 2026 | INTO ORBIT | LIA, Mike D., jiyun kim |
 | Sat, 5 Sept 2026 | Paloma Invites | Moplen |
 | Sat, 5 Sept 2026 | Xenoplex Assemble | Suzana Benesova, Xenia Reaper |
 | Sun, 6 Sept 2026 | Vinyl Flea Market |  |

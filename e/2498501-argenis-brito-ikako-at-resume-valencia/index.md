@@ -1,6 +1,6 @@
-# Argenis Brito IKAKO at Resume Valencia
+# Argenis Brito - IKAKO at Resume Valencia
 
-Argenis Brito IKAKO at Resume Valencia on Sat 29 Aug, Valencia. 2 acts on the bill: Argenis Brito and IKAKO. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Argenis Brito - IKAKO at Resume Valencia on Sat 29 Aug, Valencia. 2 acts on the bill: Argenis Brito and IKAKO. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

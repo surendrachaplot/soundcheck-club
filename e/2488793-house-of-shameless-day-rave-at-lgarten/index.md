@@ -1,6 +1,6 @@
 # House of Shameless - Day Rave at Œlgarten
 
-House of Shameless - Day Rave at Œlgarten on Sat 5 Sept, Berlin. 7 acts on the bill: Bady (FR), DJ Glitterelli, maxim_jl and PyjamaMama and 3 more. House. Preview the line-up and save it on soundcheck.
+House of Shameless - Day Rave at Œlgarten on Sat 5 Sept, Berlin. 8 acts on the bill: Bady (FR), DJ Glitterelli, maxim_jl and PyjamaMama and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ House of Shameless - Day Rave at Œlgarten on Sat 5 Sept, Berlin. 7 acts on the 
 - maxim_jl
 - PyjamaMama
 - Selin (DE)
+- SSXXCH
 - Westside Bass
 - Yous
 

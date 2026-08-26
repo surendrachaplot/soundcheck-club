@@ -9,7 +9,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 29 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Midnight Bass // Easts Meets West w/ imo-Lu (Hospital Records) + more | Amber Leith, Corran, SHAWK, SOLECTA, imo-Lu, ms-g |
-| Thu, 27 Aug 2026 | haptic + friends (festival special) | Bartek, freddy haptic |
+| Thu, 27 Aug 2026 | haptic + friends (festival special) | Bartek, Gren, Louspresso, freddy haptic |
 | Fri, 28 Aug 2026 | Heyday: Masha Mar & Prosumer | Masha Mar, Prosumer |
 | Sat, 29 Aug 2026 | Soul Jam: All Night Passion | All Night Passion, Percy Main, Tuesday Gonzalez |
 | Sun, 30 Aug 2026 | Postal Festival Closing Party | Casement, Drumheller, Georj, Myrtle, amhailt.xox |

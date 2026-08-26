@@ -2,7 +2,7 @@
 
 Hangaren is a music venue in Copenhagen with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Karrusel | 27–29 Aug 2026" on Thu, 27 Aug 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights, with line-ups including Acid Pauli, Afgang, Aja Gulris and Âme and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights, with line-ups including Acid Pauli, AELVA K, Afgang and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 

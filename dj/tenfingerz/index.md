@@ -1,14 +1,15 @@
 # Ten Fingerz
 
-Ten Fingerz is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sacré, Paris on Fri, 18 Sept 2026.
+Ten Fingerz is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sacré, Paris on Fri, 18 Sept 2026.
 
-Ten Fingerz is a house and electro artist based in France, tracked on soundcheck, with 37 sets logged across Berlin, Lyon, Marseille and Paris. Often billed alongside Basile de Suresnes, Ben Hamama and Camille Doe. Next up: Sacré, Paris on Fri 18 Sept.
+Ten Fingerz is a house and electro artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Lyon, Marseille and Paris. Often billed alongside Basile de Suresnes, Ben Hamama and Camille Doe. Next up: Sacré, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Sacré | Paris |
+| Sat, 19 Sept 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 

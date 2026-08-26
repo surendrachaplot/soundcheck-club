@@ -1,8 +1,8 @@
 # Penelope (2)
 
-Penelope (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 29 Aug 2026.
+Penelope (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 29 Aug 2026.
 
-Penelope (2) is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Collect LX Factory, Lisbon on Sat 29 Aug.
+Penelope (2) is a house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Mari.te, Walrus and DJ Rino. Next up: Collect LX Factory, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Penelope (2) is a house and techno artist tracked on soundcheck, with 127 sets l
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Collect LX Factory | Lisbon |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
+| Fri, 2 Oct 2026 | Fuse | Brussels |
 
 ## Recently played
 

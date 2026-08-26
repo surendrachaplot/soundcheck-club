@@ -1,6 +1,6 @@
 # Toy Tonics Jam at Bar15
 
-Toy Tonics Jam at Bar15 on Sat 10 Oct, Stockholm. 3 acts on the bill: Davide Dev, Kapote and Silja Ellis. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam at Bar15 on Sat 10 Oct, Stockholm. 4 acts on the bill: Bogeyman, Davide Dev, Kapote and Silja Ellis. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Toy Tonics Jam at Bar15 on Sat 10 Oct, Stockholm. 3 acts on the bill: Davide Dev
 
 ## Line-up
 
+- Bogeyman
 - Davide Dev
 - Kapote
 - Silja Ellis

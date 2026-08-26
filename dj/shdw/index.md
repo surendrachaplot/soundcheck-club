@@ -1,8 +1,8 @@
 # SHDW
 
-SHDW is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+SHDW is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-SHDW is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+SHDW is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SHDW is a techno and house artist tracked on soundcheck, with 196 sets logged ac
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | Garage Klub | Antwerp |
+| Fri, 11 Sept 2026 | ART Madrid Club | Madrid |
 | Sat, 12 Sept 2026 | SMUT Athens | Athens |
 | Fri, 18 Sept 2026 | Hangaren | Copenhagen |
 | Fri, 25 Sept 2026 | BASEMENT | New York City |

@@ -1,13 +1,15 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Het Vreemd (Album Release)" on Sat, 29 Aug 2026.
+Time is the new space is a music venue in Rotterdam with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "HIDDEN BEHIND X TIME VOL. 21" on Thu, 27 Aug 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including Cold Hippie, kimmah, MIA (MY) and North Not South and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming nights, with line-ups including 2:29, Cold Hippie, kimmah and MIA (MY) and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | HIDDEN BEHIND X TIME VOL. 21 |  |
+| Fri, 28 Aug 2026 | Space Arp Pete & 2:29 (ALL NIGHT LONG) | 2:29, Space Arp Pete |
 | Sat, 29 Aug 2026 | Het Vreemd (Album Release) | Ofra, Palmbomen II |
 | Sun, 30 Aug 2026 | ONE LAST TIME (BY HURU-HARA) | Cold Hippie, MIA (MY), North Not South, TASHASAN, kimmah |
 | Thu, 3 Sept 2026 | LEWCY ALBUM RELEASE – SLINGE |  |

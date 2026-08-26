@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Carmen Electro at Tresor / Globus
 
-Tresor New Faces hosted by Carmen Electro at Tresor / Globus on Wed 2 Sept, Berlin. 4 acts on the bill: Carmen Electro, DJ Mondfinsternis, Miss Italia and Nathan Alexander. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by Carmen Electro at Tresor / Globus on Wed 2 Sept, Berlin. 5 acts on the bill: Carmen Electro, Chaz (IN), DJ Mondfinsternis and Miss Italia and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Tresor New Faces hosted by Carmen Electro at Tresor / Globus on Wed 2 Sept, Berl
 ## Line-up
 
 - Carmen Electro
+- Chaz (IN)
 - DJ Mondfinsternis
 - Miss Italia
 - Nathan Alexander

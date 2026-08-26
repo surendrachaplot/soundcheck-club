@@ -1,8 +1,8 @@
 # Horn
 
-Horn is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Thursday presents: SUBURB SOUND TOOB TUEK" on Thu, 27 Aug 2026.
+Horn is a music venue in Bangkok with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Thursday presents: SUBURB SOUND TOOB TUEK" on Thu, 27 Aug 2026.
 
-Horn is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with line-ups including Anita B Queen, Em-J, JWP. and Mae Happyair and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
+Horn is a music venue in Bangkok listed on soundcheck. 8 upcoming nights, with line-ups including Anita B Queen, Cardi L, Em-J and JWP. and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Horn is a music venue in Bangkok listed on soundcheck. 7 upcoming nights, with l
 | Fri, 18 Sept 2026 | IsBurning x Horn (Bangkok, Thailand) |  |
 | Sat, 17 Oct 2026 | Snug Night | OMOLOKO, Ouissam, Partok |
 | Sat, 24 Oct 2026 | GEGEN X HORNBKK |  |
+| Fri, 30 Oct 2026 | SACRED RAVE Halloween Party by ShanghaiCityRadio | Cardi L, UN!X |
 
 ## Address
 

@@ -10,7 +10,7 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming night
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | ALPHA SPECTRUM: PRØJECT MORPHEUS ALL NIGHT LONG | Project Morpheus |
 | Sat, 5 Sept 2026 | Zenyth III | BUTCHER BABY, FAUST (1) |
-| Fri, 11 Sept 2026 | THE DEVIL IS BACK |  |
+| Fri, 11 Sept 2026 | THE DEVIL IS BACK2BACK |  |
 | Sat, 12 Sept 2026 | some.techno@ Nether Club : blackout | ALISTARM, CARMEN (RO), Controlled Voltage, Thomas Rob |
 | Fri, 18 Sept 2026 | M.I.L.K feat. 2H34RTB34TS present HARD R3S3T | AMEDEUS, Amnesico, DA NA, GODINI, KATHERYNE, LVUR, Sandraz, Stefan Hernandez, Trancelate |
 | Sat, 26 Sept 2026 | BLXXDNOISE | Neotroxian, Project Morpheus, Sitra Akhra, TRIXIÉ |

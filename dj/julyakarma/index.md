@@ -1,13 +1,14 @@
 # Julya Karma
 
-Julya Karma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Julya Karma is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Mexico City on Sun, 13 Sept 2026.
 
-Julya Karma is a techno and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Julya Karma is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: TBA, Mexicocity on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | TBA | Mexico City |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |

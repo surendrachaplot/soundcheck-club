@@ -1,14 +1,15 @@
 # Kingsizebed
 
-Kingsizebed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
+Kingsizebed is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
 
-Kingsizebed is a house and techno artist based in Italy, tracked on soundcheck, with 53 sets logged across Athens, Berlin, Brussels and Geneva and 2 more. Often billed alongside Aaron Blau, R.ocks and 131bpm. Next up: Renate, Berlin on Fri 28 Aug.
+Kingsizebed is a house and techno artist based in Italy, tracked on soundcheck, with 54 sets logged across Athens, Berlin, Brussels and Geneva and 2 more. Often billed alongside Aaron Blau, R.ocks and 131bpm. Next up: Renate, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Renate | Berlin |
+| Sat, 5 Sept 2026 | Fucine Vulcano | Milan |
 
 ## Recently played
 

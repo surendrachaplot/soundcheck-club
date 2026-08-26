@@ -8,7 +8,7 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 16 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Du Tanzt Mich Mal X Marla Records | Fanfarrosa, Fazee, Frankov |
+| Fri, 4 Sept 2026 | Du Tanzt Mich Mal X Marla Records | BIUSH, Fanfarrosa, Fazee, Frankov |
 | Sat, 5 Sept 2026 | Beste Uwe Invites: Smalltalk | Joe BRT |
 | Sat, 5 Sept 2026 | Beate Invites///Smalltalk | Joe BRT |
 | Sat, 5 Sept 2026 | Kollektiefe Nacht///SmallTalk | Daniel Czerner, Etiennette, Joe BRT |

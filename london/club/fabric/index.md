@@ -1,8 +1,8 @@
 # fabric
 
-fabric is a music venue in London with 27 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FABRICLIVE: Piano People Afterparty - TXC, ZEE NXUMALO, MöRDA, DEB FA, JADA JADE" on Fri, 28 Aug 2026.
+fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FABRICLIVE: Piano People Afterparty - TXC, ZEE NXUMALO, MöRDA, DEB FA, JADA JADE" on Fri, 28 Aug 2026.
 
-fabric is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including A For Alpha, Alfie, Alfie Aukett and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including A For Alpha, Alfie, Alfie Aukett and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 

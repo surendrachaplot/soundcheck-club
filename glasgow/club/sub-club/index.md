@@ -15,7 +15,7 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 31 upcoming nights, w
 | Sat, 5 Sept 2026 | Subculture Residents Party with Harri, Domenic, Telford & Stevie  | DJ Harri, Domenic Cappello, Stevie Cox, Telford |
 | Thu, 10 Sept 2026 | acrosstheboard presents: Faster Horses | Et Al (1), Faster Horses, acrosstheboard |
 | Fri, 11 Sept 2026 | RTM: FJAAK & Slam & Nightwave | FJAAK, Nightwave, Slam |
-| Sat, 12 Sept 2026 | Subculture w/ Domenic Cappelo + McCart | Domenic Cappello, McCart |
+| Sat, 12 Sept 2026 | Subculture w/ Domenic Cappello + McCart | Domenic Cappello, McCart |
 | Mon, 14 Sept 2026 | BREATHE: MiNNA | Carmen Baía, Jamie Gunn, MiNNA |
 | Thu, 17 Sept 2026 | RARE Club // DJ Seinfeld | DJ Seinfeld, HAPOL |
 

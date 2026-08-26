@@ -1,14 +1,15 @@
 # Emi Ömar
 
-Emi Ömar is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Trabendo, Paris on Fri, 11 Sept 2026.
+Emi Ömar is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Le Trabendo, Paris on Fri, 11 Sept 2026.
 
-Emi Ömar is a house and club artist based in France, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Leeds and 5 more. Often billed alongside IAMBP, Adrien Calvet and Jeff The Fool. Next up: Le Trabendo, Paris on Fri 11 Sept.
+Emi Ömar is a house and club artist based in France, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Brussels and Leeds and 5 more. Often billed alongside IAMBP, Adrien Calvet and Jeff The Fool. Next up: Le Trabendo, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Le Trabendo | Paris |
+| Fri, 9 Oct 2026 | Fvtvr | Paris |
 
 ## Recently played
 

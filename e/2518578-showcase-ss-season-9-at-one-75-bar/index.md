@@ -1,6 +1,6 @@
-# SHOWCASE • SS • Season 9 at One•75 BAR
+# SHOWCASE  •  SS  •  Season 9 at One•75 BAR
 
-SHOWCASE • SS • Season 9 at One•75 BAR on Sat 29 Aug, London. 3 acts on the bill: Diana Loredana, KOKOH and VENERE. House and Electronica. Preview the line-up and save it on soundcheck.
+SHOWCASE  •  SS  •  Season 9 at One•75 BAR on Sat 29 Aug, London. 3 acts on the bill: Diana Loredana, KOKOH and VENERE. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

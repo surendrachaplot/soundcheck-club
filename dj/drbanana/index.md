@@ -1,8 +1,8 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Dr Banana is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Dr Banana is a house and garage artist tracked on soundcheck, with 246 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dr Banana is a house and garage artist tracked on soundcheck, with 245 sets logg
 | Sun, 30 Aug 2026 | PROGRESS | Manchester |
 | Sun, 30 Aug 2026 | The Loft | Manchester |
 | Sun, 30 Aug 2026 | The Loft | Manchester |
+| Fri, 11 Sept 2026 | PRST | Vienna |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |

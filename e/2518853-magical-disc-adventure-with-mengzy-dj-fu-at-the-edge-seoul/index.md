@@ -1,6 +1,6 @@
 # Magical Disc Adventure with Mengzy & DJ FU at The Edge Seoul
 
-Magical Disc Adventure with Mengzy & DJ FU at The Edge Seoul on Sat 12 Sept, Seoul. 4 acts on the bill: DJ FU (2), Mengzy, Sawteeth and Shins. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Magical Disc Adventure with Mengzy & DJ FU at The Edge Seoul on Sat 12 Sept, Seoul. 5 acts on the bill: DJ FU (2), Haney Lee, Mengzy and Sawteeth and 1 more. Garage and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Magical Disc Adventure with Mengzy & DJ FU at The Edge Seoul on Sat 12 Sept, Seo
 ## Line-up
 
 - DJ FU (2)
+- Haney Lee
 - Mengzy
 - Sawteeth
 - Shins

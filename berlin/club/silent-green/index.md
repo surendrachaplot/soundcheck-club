@@ -1,8 +1,8 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Silent Green pres. Mutant Radio Sessions" on Fri, 28 Aug 2026.
+Silent Green is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Silent Green pres. Mutant Radio Sessions" on Fri, 28 Aug 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Ana Roxanne, Angelo Harmsworth, bela and Burnt Friedman and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Ana Roxanne, Angelo Harmsworth, bela and Burnt Friedman and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 

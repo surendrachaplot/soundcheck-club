@@ -1,14 +1,15 @@
 # Skryption
 
-Skryption is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Skryption is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
 
-Skryption is a techno and industrial artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 24 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
+Skryption is a techno and industrial artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 24 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
+| Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 
 ## Recently played
 

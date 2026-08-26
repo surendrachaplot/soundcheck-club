@@ -1,6 +1,6 @@
 # Art Bei Ton: Atelier at TBA - NeuKölln Berlin
 
-Art Bei Ton: Atelier at TBA - NeuKölln Berlin on Sat 5 Sept, Berlin. 4 acts on the bill: Andrea Cossu, ELM(IN), Hypnotic Black Magic and KALI (FR). Techno. Preview the line-up and save it on soundcheck.
+Art Bei Ton: Atelier at TBA - NeuKölln Berlin on Sat 5 Sept, Berlin. 4 acts on the bill: Andrea Cossu, ELM(IN), Hypnotic Black Magic and KALI (FR). Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

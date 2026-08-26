@@ -1,8 +1,8 @@
 # SIMMS
 
-SIMMS is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+SIMMS is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
 
-SIMMS is a jungle and drum & bass artist tracked on soundcheck, with 66 sets logged across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside CITIZEN, BOLOJOEY and Blue Ringed Baby. Next up: Lakota, Bristol on Fri 18 Sept.
+SIMMS is a jungle and drum & bass artist tracked on soundcheck, with 67 sets logged across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside CITIZEN, BOLOJOEY and Blue Ringed Baby. Next up: Lakota, Bristol on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SIMMS is a jungle and drum & bass artist tracked on soundcheck, with 66 sets log
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Lakota | Bristol |
 | Fri, 25 Sept 2026 | Amber's | Manchester |
+| Sat, 26 Sept 2026 | Stereo | Glasgow |
 
 ## Recently played
 

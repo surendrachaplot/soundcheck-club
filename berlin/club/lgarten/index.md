@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | offfbeat meets...xberg: sunday chillout | Do you know Juno, FridaY (DE) |
-| Sat, 5 Sept 2026 | House of Shameless - Day Rave | Bady (FR), DJ Glitterelli, PyjamaMama, Selin (DE), Westside Bass, Yous, maxim_jl |
+| Sat, 5 Sept 2026 | House of Shameless - Day Rave | Bady (FR), DJ Glitterelli, PyjamaMama, SSXXCH, Selin (DE), Westside Bass, Yous, maxim_jl |
 
 ## Address
 

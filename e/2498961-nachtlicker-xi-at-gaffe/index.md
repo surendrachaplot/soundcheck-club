@@ -1,6 +1,6 @@
 # Nachtlicker XI at Gaffe
 
-Nachtlicker XI at Gaffe on Fri 25 Sept, London. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Nachtlicker XI at Gaffe on Fri 25 Sept, London. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

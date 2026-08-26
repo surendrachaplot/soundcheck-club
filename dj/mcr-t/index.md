@@ -1,8 +1,8 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-MCR-T is a techno and house artist tracked on soundcheck, with 258 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+MCR-T is a techno and house artist tracked on soundcheck, with 259 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ MCR-T is a techno and house artist tracked on soundcheck, with 258 sets logged a
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
+| Fri, 18 Sept 2026 | Trädgården | Stockholm |
 | Sat, 19 Sept 2026 | Westhafen | Leipzig |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | Schrotty | Cologne |

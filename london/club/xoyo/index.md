@@ -1,8 +1,8 @@
 # XOYO
 
-XOYO is a music venue in London with 23 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PARADOX" on Wed, 26 Aug 2026.
+XOYO is a music venue in London with 24 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PARADOX" on Wed, 26 Aug 2026.
 
-XOYO is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including AR (UK), Badger (UK), Beezo and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including AR (UK), Badger (UK), Beezo and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 

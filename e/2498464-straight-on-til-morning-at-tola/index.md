@@ -1,6 +1,6 @@
 # Straight On 'til Morning at Tola
 
-Straight On 'til Morning at Tola on Fri 25 Sept, London. 4 acts on the bill: 1KY (1), Harmony, Josh Wickers and ZAZA C. House and Garage. Preview the line-up and save it on soundcheck.
+Straight On 'til Morning at Tola on Fri 25 Sept, London. 5 acts on the bill: 1KY (1), Harmony, Harry Mason and Josh Wickers and 1 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Straight On 'til Morning at Tola on Fri 25 Sept, London. 4 acts on the bill: 1KY
 
 - 1KY (1)
 - Harmony
+- Harry Mason
 - Josh Wickers
 - ZAZA C
 

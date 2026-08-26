@@ -1,6 +1,6 @@
 # haptic + friends (festival special) at Sneaky Pete's
 
-haptic + friends (festival special) at Sneaky Pete's on Thu 27 Aug, Edinburgh. 2 acts on the bill: Bartek and freddy haptic. House and Bass. Preview the line-up and save it on soundcheck.
+haptic + friends (festival special) at Sneaky Pete's on Thu 27 Aug, Edinburgh. 4 acts on the bill: Bartek, freddy haptic, Gren and Louspresso. House and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ haptic + friends (festival special) at Sneaky Pete's on Thu 27 Aug, Edinburgh. 2
 
 - Bartek
 - freddy haptic
+- Gren
+- Louspresso
 
 *Source: [soundcheck](https://soundcheck.club/e/2493543-haptic-friends-festival-special-at-sneaky-pete-s/)*

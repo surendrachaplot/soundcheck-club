@@ -1,14 +1,15 @@
 # cosmolady
 
-cosmolady is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at R Lounge, Tokyo on Thu, 27 Aug 2026.
+cosmolady is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at R Lounge, Tokyo on Thu, 27 Aug 2026.
 
-cosmolady is a house and techno artist based in Japan, tracked on soundcheck, with 97 sets logged across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: R Lounge, Tokyo on Thu 27 Aug.
+cosmolady is a house and techno artist based in Japan, tracked on soundcheck, with 98 sets logged across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: R Lounge, Tokyo on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | R Lounge | Tokyo |
+| Sat, 5 Sept 2026 | DeTour | Tokyo |
 | Sat, 12 Sept 2026 | Z Maruyama | Tokyo |
 | Fri, 18 Sept 2026 | White Space Lab | Tokyo |
 | Fri, 9 Oct 2026 | Débris | Tokyo |

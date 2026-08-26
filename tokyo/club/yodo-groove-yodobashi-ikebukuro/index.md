@@ -9,8 +9,8 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TOKYO ROOFTOP DAY PARTY – SO-SO × DJ RINOKA｜SKY MUSIC JOURNEY | hara (2) |
-| Sun, 30 Aug 2026 | YODO GROOVE PRESENTS SKY MUSIC JOURNEY × EN / WEEK | Antoniexx, GOLDEN ROA, JURI HOSHINO |
-| Sun, 6 Sept 2026 | Black Asteroid(US) & Risa Taniguchi — TOKYO ROOFTOP TECHNO - SKY MUSIC JOURNEY | Black Asteroid, MAREAM, Ririko, Risa Taniguchi, YURI VALEN |
+| Sun, 30 Aug 2026 | TOKYO ROOFTOP TECHNO SESSION – DAY TO SUNSET | Antoniexx, GOLDEN ROA, JURI HOSHINO |
+| Sun, 6 Sept 2026 | Black Asteroid(US) & Risa Taniguchi — TOKYO ROOFTOP TECHNO SESSION | Black Asteroid, MAREAM, Ririko, Risa Taniguchi, YURI VALEN |
 | Sat, 12 Sept 2026 | PALMERA — TOKYO ROOFTOP TECH HOUSE / OPEN AIR & SUNSET | Keigo, Nosh, TATSUYA |
 | Sun, 13 Sept 2026 | DANCEDEVICE meets velfarre PLANET LOVE | Ko Kimura, Q'hey, YOSHIMASA |
 

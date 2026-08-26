@@ -1,6 +1,6 @@
 # OMA at OMA
 
-OMA on Thu 27 Aug, Hongkong. 2 acts on the bill: Jeremy Cheung and Zoonpark. Techno and House. Preview the line-up and save it on soundcheck.
+OMA on Thu 27 Aug, Hongkong. 3 acts on the bill: Dan-neo, Jeremy Cheung and Zoonpark. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OMA on Thu 27 Aug, Hongkong. 2 acts on the bill: Jeremy Cheung and Zoonpark. Tec
 
 ## Line-up
 
+- Dan-neo
 - Jeremy Cheung
 - Zoonpark
 

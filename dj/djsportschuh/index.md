@@ -1,8 +1,8 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
+DJ SPORTSCHUH is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 29 Aug 2026.
 
-DJ SPORTSCHUH is a techno and trance artist tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
+DJ SPORTSCHUH is a techno and trance artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Lokschuppen Berlin, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ SPORTSCHUH is a techno and trance artist tracked on soundcheck, with 112 sets
 | Sat, 29 Aug 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | BASIS | Utrecht |
+| Fri, 18 Sept 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 

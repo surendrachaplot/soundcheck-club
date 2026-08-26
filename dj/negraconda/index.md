@@ -1,13 +1,14 @@
 # NEGRACONDA
 
-NEGRACONDA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
+NEGRACONDA is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at export, Rotterdam on Fri, 4 Sept 2026.
 
-NEGRACONDA is a techno and club artist based in Mexico, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Dj Fucci. Next up: La Station - Gare des Mines, Paris on Sat 5 Sept.
+NEGRACONDA is a techno and club artist based in Mexico, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Dj Fucci. Next up: export, Rotterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | export | Rotterdam |
 | Sat, 5 Sept 2026 | La Station - Gare des Mines | Paris |
 | Sat, 3 Oct 2026 | Lark | Berlin |
 

@@ -1,13 +1,14 @@
 # Re.You
 
-Re.You is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
+Re.You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Void Mykonos, Mykonos on Wed, 26 Aug 2026.
 
-Re.You is a house and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Athens and Bali and 17 more. Often billed alongside Belben, MAKII and Anja Schneider. Next up: Kastel, Istanbul on Fri 28 Aug.
+Re.You is a house and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Athens and Bali and 18 more. Often billed alongside Belben, MAKII and ARODES. Next up: Void Mykonos, Mykonos on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Void Mykonos | Mykonos |
 | Fri, 28 Aug 2026 | Kastel | Istanbul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Re.You is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Belben, MAKII, Anja Schneider
+Belben, MAKII, ARODES
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*

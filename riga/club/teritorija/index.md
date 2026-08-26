@@ -10,7 +10,7 @@ Teritorija is a music venue in Riga listed on soundcheck. 9 upcoming nights, wit
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Golden Habit | Golden Habit |
 | Fri, 28 Aug 2026 | UNDERGROUND GARDEN x TRT: FINAL SUMMER HEAT | DV8 (LV), Golden Habit, LETRIX, hitomori, maniken05 |
-| Sat, 29 Aug 2026 | Aniri Chan // ARRISHA | ARRISHA, Aniri Chan, Levan |
+| Sat, 29 Aug 2026 | Notwelcome // ARRISHA | ARRISHA, Aniri Chan, Levan, Notwelcome |
 | Fri, 4 Sept 2026 | COSMO RAVE: HYPNOSES | Golden Habit, Ikss, UZAY |
 | Sat, 19 Sept 2026 | BASS SLAUGHTER x TRT: ANGEL'S SECRET |  |
 | Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD |  |

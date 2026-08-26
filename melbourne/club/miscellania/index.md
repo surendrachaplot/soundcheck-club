@@ -1,6 +1,6 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Gallery pres. Mabel, Thrill, Black Dave" on Fri, 28 Aug 2026.
+Miscellania is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Gallery pres. Mabel, Thrill (fka suki) and Black Dave" on Fri, 28 Aug 2026.
 
 Miscellania is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including Aaliyah Salem, ANAHITA, bbsanii and Black Dave and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
@@ -8,7 +8,7 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 11 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Gallery pres. Mabel, Thrill, Black Dave | Black Dave, Mabel, suki |
+| Fri, 28 Aug 2026 | Gallery pres. Mabel, Thrill (fka suki) and Black Dave | Black Dave, Mabel, suki |
 | Fri, 28 Aug 2026 | A chat with Mabel, Thrill and Weaver Agency | Mabel, suki |
 | Sat, 29 Aug 2026 | Congee Club x Thread 2 | Dashé, Mon Franco, RAH (1) |
 | Thu, 3 Sept 2026 | LUNA Blessings x Buba Mara: FLINTA+ Soirée & Meet Cute |  |

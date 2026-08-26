@@ -1,14 +1,15 @@
 # Emilio Arias
 
-Emilio Arias is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at CONTACT, Amsterdam on Sun, 30 Aug 2026.
+Emilio Arias is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at CONTACT, Amsterdam on Sun, 30 Aug 2026.
 
-Emilio Arias is an electro and experimental artist based in Ecuador, tracked on soundcheck, with 20 sets logged across Amsterdam, Basel, Miami and Milan and 1 more. Often billed alongside Marijn S, Dj Serko and Masha Wordpress. Next up: CONTACT, Amsterdam on Sun 30 Aug.
+Emilio Arias is an electro and experimental artist based in Ecuador, tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Miami and Milan and 1 more. Often billed alongside Marijn S, Dj Serko and Masha Wordpress. Next up: CONTACT, Amsterdam on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | CONTACT | Amsterdam |
+| Sat, 5 Sept 2026 | dubble | Amsterdam |
 
 ## Recently played
 

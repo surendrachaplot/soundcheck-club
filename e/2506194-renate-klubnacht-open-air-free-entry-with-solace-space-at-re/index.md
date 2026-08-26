@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with Solace Space at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with Solace Space on Thu 10 Sept, Berlin. 5 acts on the bill: Asa Tate, Cashper, Cathal and Fhionn and 1 more. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with Solace Space on Thu 10 Sept, Berlin. 6 acts on the bill: Asa Tate, Cashper, Cathal and Der Opium Queen and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Renate Klubnacht + Open Air (Free Entry) with Solace Space on Thu 10 Sept, Berli
 - Asa Tate
 - Cashper
 - Cathal
+- Der Opium Queen
 - Fhionn
 - Slowfoam
 

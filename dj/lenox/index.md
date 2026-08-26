@@ -1,14 +1,15 @@
 # lenox
 
-lenox is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Sun, 6 Sept 2026.
+lenox is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Sun, 6 Sept 2026.
 
-lenox is a house and tech house artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg, Newyorkcity and Toronto. Often billed alongside Andrew Lenox, Aydan XR and Bailey Brown. Next up: TBA, Toronto on Sun 6 Sept.
+lenox is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg, Newyorkcity and Toronto. Often billed alongside AKIIM, Andrew Lenox and Aydan XR. Next up: TBA, Toronto on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | TBA | Toronto |
+| Sat, 31 Oct 2026 | TBA | Hamburg |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ lenox is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 ## Shares bills with
 
-Andrew Lenox, Aydan XR, Bailey Brown
+AKIIM, Andrew Lenox, Aydan XR
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenox/)*

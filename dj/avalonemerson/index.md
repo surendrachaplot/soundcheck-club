@@ -1,14 +1,15 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Avalon Emerson is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Avalon Emerson is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Sedef Adasï, BASHKKA and Roi Perez. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Avalon Emerson is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Sedef Adasï, BASHKKA and Roi Perez. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 26 Sept 2026 | Potato Head Beach Club | Bali |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |

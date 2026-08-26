@@ -1,8 +1,8 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Jam Jar, Bristol on Sun, 30 Aug 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Jam Jar, Bristol on Sun, 30 Aug 2026.
 
-DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and Dillinja. Next up: The Jam Jar, Bristol on Sun 30 Aug.
+DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 25 more. Often billed alongside Mantra, SP:MC and Dillinja. Next up: The Jam Jar, Bristol on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Flight is a drum & bass and jungle artist tracked on soundcheck, with 108 set
 | Sun, 30 Aug 2026 | The Jam Jar | Bristol |
 | Sat, 5 Sept 2026 | The Cause | London |
 | Sun, 20 Sept 2026 | The Carpet Shop | London |
+| Sat, 26 Sept 2026 | Stereo | Glasgow |
 | Sat, 17 Oct 2026 | Gorilla | Manchester |
 
 ## Recently played

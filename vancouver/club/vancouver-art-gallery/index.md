@@ -2,13 +2,13 @@
 
 Vancouver Art Gallery is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Public Disco Block Party: Downtown" on Sat, 29 Aug 2026.
 
-Vancouver Art Gallery is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Dairy Free, mikubat and Xiumei. Browse upcoming dates, start times and who's playing. 750 Hornby Street; Vancouver, BC V5Z 2H7; Canada.
+Vancouver Art Gallery is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including AWood, Dairy Free, mikubat and Pacific Coliseum and 1 more. Browse upcoming dates, start times and who's playing. 750 Hornby Street; Vancouver, BC V5Z 2H7; Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Public Disco Block Party: Downtown | Dairy Free |
+| Sat, 29 Aug 2026 | Public Disco Block Party: Downtown | AWood, Dairy Free, Pacific Coliseum |
 | Sun, 6 Sept 2026 | Taiwanfest: Xiumei, mikubat, 5000bpm | Xiumei, mikubat |
 
 ## Address

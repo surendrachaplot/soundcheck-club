@@ -1,13 +1,14 @@
 # Orkun Bozdemir
 
-Orkun Bozdemir is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
+Orkun Bozdemir is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Klein Phönix, Istanbul on Sat, 5 Sept 2026.
 
-Orkun Bozdemir is a house and afro house artist based in Turkey, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Athens and Istanbul and 1 more. Often billed alongside Black Batu, Marc Gonen and Atakan Uysal. Next up: TBA, Athens on Sun 20 Sept.
+Orkun Bozdemir is a house and afro house artist based in Turkey, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Istanbul and 1 more. Often billed alongside Black Batu, Marc Gonen and Atakan Uysal. Next up: Klein Phönix, Istanbul on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Klein Phönix | Istanbul |
 | Sun, 20 Sept 2026 | TBA | Athens |
 
 ## Recently played

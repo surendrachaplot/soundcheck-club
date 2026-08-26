@@ -1,13 +1,14 @@
 # GFOTY
 
-GFOTY is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Colour Factory, London on Sat, 31 Oct 2026.
+GFOTY is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
 
-GFOTY is a pop and club artist tracked on soundcheck, with 23 sets logged across Budapest, Edinburgh, Leeds and London and 6 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Colour Factory, London on Sat 31 Oct.
+GFOTY is a pop and club artist tracked on soundcheck, with 24 sets logged across Budapest, Edinburgh, Leeds and London and 7 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: VooDoo Club, Warsaw on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | VooDoo Club | Warsaw |
 | Sat, 31 Oct 2026 | Colour Factory | London |
 
 ## Recently played

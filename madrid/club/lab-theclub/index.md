@@ -10,7 +10,7 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming nights,
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | VIPPER Opening Party with Gentlemens Club,Skantia, SMG b2b Waeys, Spectral | SMG (UK), Skantia, Waeys |
 | Sat, 5 Sept 2026 | Cristian Varela (All Night Long) | Cristian Varela |
-| Sat, 5 Sept 2026 | LaTarde by Jesús Helices |  |
+| Sat, 5 Sept 2026 | LaTarde by Jesús Elices |  |
 | Fri, 11 Sept 2026 | Paul Van Dyk en Madrid | Paul Van Dyk |
 | Sat, 12 Sept 2026 | Tardeo Madriz – Volvimos Pa' Madriz |  |
 | Sat, 12 Sept 2026 | THE OMEN |  |

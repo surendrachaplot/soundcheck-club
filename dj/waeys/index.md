@@ -11,7 +11,7 @@ Waeys is a drum & bass and jungle artist tracked on soundcheck, with 33 sets log
 | Sat, 29 Aug 2026 | LAB theCLUB | Madrid |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 23 Oct 2026 | fabric | London |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

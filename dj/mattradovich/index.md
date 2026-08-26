@@ -1,14 +1,15 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at My Aeon, Melbourne on Sat, 5 Sept 2026.
+Matt Radovich is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at My Aeon, Melbourne on Sat, 5 Sept 2026.
 
-Matt Radovich is a techno and house artist tracked on soundcheck, with 77 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Chiara Kickdrum. Next up: My Aeon, Melbourne on Sat 5 Sept.
+Matt Radovich is a techno and house artist tracked on soundcheck, with 78 sets logged across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: My Aeon, Melbourne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | My Aeon | Melbourne |
+| Thu, 17 Sept 2026 | Music Room | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Matt Radovich is a techno and house artist tracked on soundcheck, with 77 sets l
 
 ## Shares bills with
 
-Craig McWhinney, Mike Callander, Chiara Kickdrum
+Craig McWhinney, Mike Callander, Acid Safari
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

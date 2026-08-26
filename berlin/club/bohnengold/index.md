@@ -9,7 +9,7 @@ Bohnengold is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | HOLOGRAMS W/ FEEL.MA, BARBIE GARBAGE & Ric Piccolo --- FREE ENTRY | Feel .MA, Furotica, Ric Piccolo |
-| Fri, 11 Sept 2026 | 9th Floor pres. Metamorphosis: DAAS, Club Suave, Marie Moon, No Silver Bullet | Club Suave, DAAS (1), MARIE.MOON, No Silver Bullet |
+| Fri, 11 Sept 2026 | 9th Floor pres. Metamorphosis: DAAS x No Silver Bullet, Club Suave x Marie Moon, Rolo | Club Suave, DAAS (1), MARIE.MOON, No Silver Bullet, Olivér (Arg) |
 | Fri, 9 Oct 2026 | Jarle Bråthen Memorial Night | Brian Ring, DJ himself, Danny Russell, Enzo Elia, Franz Scala, Italo Brutalo, Karina, Sado Opera |
 
 ## Address

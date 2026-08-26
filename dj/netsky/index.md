@@ -9,8 +9,8 @@ Netsky is a drum & bass and bass artist tracked on soundcheck, with 46 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

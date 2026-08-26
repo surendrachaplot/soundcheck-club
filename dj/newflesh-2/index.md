@@ -1,13 +1,14 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at radial, London on Sat, 19 Sept 2026.
+New Flesh (2) is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
 
-New Flesh (2) is an experimental and industrial artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Toni S, AAKAARA and Becky Stroke. Next up: radial, London on Sat 19 Sept.
+New Flesh (2) is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London. Often billed alongside Toni S, AAKAARA and Becky Stroke. Next up: Vittoria Wharf Studio, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Vittoria Wharf Studio | London |
 | Sat, 19 Sept 2026 | radial | London |
 
 ## Recently played

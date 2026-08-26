@@ -1,14 +1,15 @@
 # Chess
 
-Chess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Chess is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
-Chess is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Rotterdam. Often billed alongside Emilia G, Shamaya and Joey Fontaine. Next up: TBA, London on Sat 29 Aug.
+Chess is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Rotterdam. Often billed alongside Emilia G, Shamaya and Joey Fontaine. Next up: TBA, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA | London |
+| Sat, 24 Oct 2026 | Toffler | Rotterdam |
 
 ## Recently played
 

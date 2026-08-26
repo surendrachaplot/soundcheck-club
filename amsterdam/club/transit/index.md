@@ -9,7 +9,7 @@ Transit is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | BassCulture Amsterdam | Vette Mette |
-| Thu, 22 Oct 2026 | 30 Years Of Freerange at ADE | Black Loops, Fouk, Hudson’s Choice, Jimpster, Philippa |
+| Thu, 22 Oct 2026 | 30 Years Of Freerange at ADE | Black Loops, Fouk, Hudson’s Choice, Jimpster, Megatronic, Philippa |
 
 ## Address
 

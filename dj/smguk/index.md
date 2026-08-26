@@ -13,7 +13,7 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets 
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 19 Sept 2026 | Grelle Forelle | Vienna |
 | Fri, 23 Oct 2026 | fabric | London |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

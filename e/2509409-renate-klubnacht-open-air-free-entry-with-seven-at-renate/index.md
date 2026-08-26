@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with SEVEN at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with SEVEN on Fri 4 Sept, Berlin. 4 acts on the bill: mojo, Sabine Hoffmann, TATA (DE) and Zarling. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with SEVEN on Fri 4 Sept, Berlin. 5 acts on the bill: jewelry, mojo, Sabine Hoffmann and TATA (DE) and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Renate Klubnacht + Open Air (Free Entry) with SEVEN on Fri 4 Sept, Berlin. 4 act
 
 ## Line-up
 
+- jewelry
 - mojo
 - Sabine Hoffmann
 - TATA (DE)

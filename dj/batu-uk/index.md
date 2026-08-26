@@ -1,8 +1,8 @@
 # Batu
 
-Batu is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Batu is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Batu is a techno and bass artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Batu is a techno and bass artist tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Batu is a techno and bass artist tracked on soundcheck, with 153 sets logged acr
 | Fri, 18 Sept 2026 | Société des arts technologiques | Montreal |
 | Sat, 19 Sept 2026 | Nowadays | New York City |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
+| Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
 

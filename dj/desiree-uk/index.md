@@ -1,13 +1,14 @@
 # Desiree'
 
-Desiree' is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
+Desiree' is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
 
-Desiree' is a techno and electro artist tracked on soundcheck, with 49 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: The Glove That Fits, London on Sun 20 Sept.
+Desiree' is a techno and electro artist tracked on soundcheck, with 50 sets logged across Berlin, Bristol, London and Madrid and 3 more. Often billed alongside Gianmarco Gazzillo, Manlio and Ordep (UK). Next up: Colour Factory, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Colour Factory | London |
 | Sun, 20 Sept 2026 | The Glove That Fits | London |
 | Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
 | Fri, 9 Oct 2026 | NUMBER 90 LONDON | London |

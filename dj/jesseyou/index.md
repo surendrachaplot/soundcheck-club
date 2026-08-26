@@ -1,14 +1,15 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 宀 Club, Hong Kong on Fri, 28 Aug 2026.
+Jesse You is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 宀 Club, Hong Kong on Fri, 28 Aug 2026.
 
-Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 219 sets logged across Bali, Bangkok, Barcelona and Frankfurt and 10 more. Often billed alongside JNS, Jucid and Acidwork. Next up: 宀 Club, Hongkong on Fri 28 Aug.
+Jesse You is a house and techno artist based in South Korea, tracked on soundcheck, with 220 sets logged across Bali, Bangkok, Barcelona and Frankfurt and 10 more. Often billed alongside JNS, Jucid and Acidwork. Next up: 宀 Club, Hongkong on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | 宀 Club | Hong Kong |
+| Sat, 29 Aug 2026 | Hertz | Seoul |
 | Sun, 30 Aug 2026 | Paper | Seoul |
 
 ## Recently played

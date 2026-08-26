@@ -1,6 +1,6 @@
-# La Paloma presents: Dj-Kicks with TEED + Fred P + Nicole.Aiff at La Paloma
+# La Paloma presents: DJ-Kicks with TEED + Fred P + Nicole.Aiff at La Paloma
 
-La Paloma presents: Dj-Kicks with TEED + Fred P + Nicole.Aiff on Fri 11 Sept, Barcelona. 3 acts on the bill: Fred P, nicole.AIFF and TEED. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents: DJ-Kicks with TEED + Fred P + Nicole.Aiff on Fri 11 Sept, Barcelona. 3 acts on the bill: Fred P, nicole.AIFF and TEED. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DUAL presents Human Hideout Sound live concert performance from KPOP Star's at Dual
 
-DUAL presents Human Hideout Sound live concert performance from KPOP Star's at Dual on Thu 27 Aug, Bangkok. Experimental. Preview the line-up and save it on soundcheck.
+DUAL presents Human Hideout Sound live concert performance from KPOP Star's at Dual on Thu 27 Aug, Bangkok. Experimental and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

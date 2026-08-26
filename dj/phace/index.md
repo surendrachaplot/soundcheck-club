@@ -9,7 +9,7 @@ Phace is a drum & bass and bass artist tracked on soundcheck, with 32 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Black Box | Denver |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
+| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 

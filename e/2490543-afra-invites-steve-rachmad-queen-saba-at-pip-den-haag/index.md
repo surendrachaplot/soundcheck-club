@@ -1,6 +1,6 @@
 # Afra invites Steve Rachmad & Queen Saba at PIP Den Haag
 
-Afra invites Steve Rachmad & Queen Saba at PIP Den Haag on Sat 19 Sept, Thehague. 3 acts on the bill: Afra, Queen Saba and Steve Rachmad. Acid and Electro. Preview the line-up and save it on soundcheck.
+Afra invites Steve Rachmad & Queen Saba at PIP Den Haag on Sat 19 Sept, Thehague. 3 acts on the bill: Afra, Queen Saba and Steve Rachmad. Electro and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

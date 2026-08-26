@@ -1,14 +1,15 @@
 # Skillis
 
-Skillis is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
+Skillis is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
 
-Skillis is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 135 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Feena, Creep Woland and LWS. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
+Skillis is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Aberdeen, Bristol, Dundee and Edinburgh and 2 more. Often billed alongside Feena, Creep Woland and LWS. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Pitt Market | Edinburgh |
+| Sat, 29 Aug 2026 | The Mash House | Edinburgh |
 | Mon, 31 Aug 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played

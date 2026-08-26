@@ -1,13 +1,14 @@
 # Mike D.
 
-Mike D. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Mike D. is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Paloma, Berlin on Fri, 4 Sept 2026.
 
-Mike D. is a house and minimal artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Paul Hupfer, Anahita Sadighi and Bruno Schmidt. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Mike D. is a house and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Paul Hupfer, Anahita Sadighi and Bruno Schmidt. Next up: Paloma, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Paloma | Berlin |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played

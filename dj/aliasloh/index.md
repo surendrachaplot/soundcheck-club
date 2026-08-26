@@ -1,13 +1,14 @@
 # ALIASLOH
 
-ALIASLOH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Weetamix, Geneva on Sat, 12 Sept 2026.
+ALIASLOH is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Rooftop 105, Geneva on Sat, 29 Aug 2026.
 
-ALIASLOH is a techno and club artist tracked on soundcheck, with 14 sets logged across Berlin and Geneva. Often billed alongside Mysthy, Herone and Reita D Russo. Next up: Weetamix, Geneva on Sat 12 Sept.
+ALIASLOH is a techno and club artist tracked on soundcheck, with 15 sets logged across Berlin and Geneva. Often billed alongside Mysthy, Herone and Reita D Russo. Next up: TBA - Rooftop 105, Geneva on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | TBA - Rooftop 105 | Geneva |
 | Sat, 12 Sept 2026 | Weetamix | Geneva |
 
 ## Recently played

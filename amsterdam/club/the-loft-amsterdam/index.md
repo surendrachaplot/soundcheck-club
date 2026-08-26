@@ -11,7 +11,7 @@ The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcomin
 | Wed, 21 Oct 2026 | Overbruggen x Hot Since 82' - Loft Sunset - ADE  | Hot Since 82 |
 | Thu, 22 Oct 2026 | PIV - The Loft |  |
 | Thu, 22 Oct 2026 | 20 Years Of The WHP - The Loft |  |
-| Fri, 23 Oct 2026 | CLUB.RECORD - The Loft | Chloé Caillet, D Stone, Naomi (Berlin), Ryan Elliott |
+| Fri, 23 Oct 2026 | CLUB.RECORD - The Loft [SOLD OUT] | Chloé Caillet, D Stone, Naomi (Berlin), Ryan Elliott |
 | Sat, 24 Oct 2026 | THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó |  |
 | Sat, 24 Oct 2026 | THE LOFT presents: Franky Rizardo |  |
 | Mon, 26 Oct 2026 | ADE Closing Party - The Loft |  |

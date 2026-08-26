@@ -1,13 +1,14 @@
 # Sainte Vie
 
-Sainte Vie is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Future Nightlife, Toronto on Fri, 28 Aug 2026.
+Sainte Vie is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Void Mykonos, Mykonos on Wed, 26 Aug 2026.
 
-Sainte Vie is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Basel and Berlin and 24 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Future Nightlife, Toronto on Fri 28 Aug.
+Sainte Vie is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Basel and Berlin and 25 more. Often billed alongside Eli (US), Mateo (US) and MANTi. Next up: Void Mykonos, Mykonos on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Void Mykonos | Mykonos |
 | Fri, 28 Aug 2026 | Future Nightlife | Toronto |
 | Sat, 19 Sept 2026 | Spin | San Diego |
 | Sun, 20 Sept 2026 | Hotel Via | San Francisco/Oakland |

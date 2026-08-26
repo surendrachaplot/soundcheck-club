@@ -1,14 +1,15 @@
 # Colmee
 
-Colmee is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at StereoBar, Montreal on Sun, 20 Sept 2026.
+Colmee is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at StereoBar, Montreal on Sun, 20 Sept 2026.
 
-Colmee is an electronic artist based in Canada, tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside FREEEMAN, DUZA and Freeman. Next up: StereoBar, Montreal on Sun 20 Sept.
+Colmee is an electronic artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside FREEEMAN, DUZA and Freeman. Next up: StereoBar, Montreal on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | StereoBar | Montreal |
+| Sat, 26 Sept 2026 | Bar Datcha | Montreal |
 
 ## Recently played
 

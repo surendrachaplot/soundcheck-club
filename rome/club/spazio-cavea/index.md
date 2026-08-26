@@ -9,7 +9,7 @@ Spazio Cavea is a music venue in Rome listed on soundcheck. 2 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | 11.09 Lee Ann Roberts & more  | Frankyeffe, GIULIA (IT), Jalex, Lee Ann Roberts |
-| Sat, 12 Sept 2026 |     09 Trikk (INNERVISIONS) — ROME DEBUT | Trikk |
+| Sat, 12 Sept 2026 |     1209 Trikk (INNERVISIONS) — ROME DEBUT | Trikk |
 
 ## Address
 
