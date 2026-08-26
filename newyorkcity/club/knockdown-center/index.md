@@ -1,6 +1,6 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 25 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Chaos In The CBD, Joe Claussell, Floorplan + more [Dust Til Dawn]" on Sat, 29 Aug 2026.
+Knockdown Center is a music venue in New York City with 25 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Chaos In The CBD, Joe Claussell, Floorplan + more [Day & Night]" on Sat, 29 Aug 2026.
 
 Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 25 upcoming nights, with line-ups including 19:26, 999999999, adobeprincess and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
@@ -8,7 +8,7 @@ Knockdown Center is a music venue in Newyorkcity listed on soundcheck. 25 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Chaos In The CBD, Joe Claussell, Floorplan + more [Dust Til Dawn] | Chaos In The CBD, DJ Ray (2), Extra Andrew, Floorplan, Joe Claussell, Shy One, Suze Ijó |
+| Sat, 29 Aug 2026 | Chaos In The CBD, Joe Claussell, Floorplan + more [Day & Night] | Chaos In The CBD, DJ Ray (2), Extra Andrew, Floorplan, Joe Claussell, Shy One, Suze Ijó |
 | Sun, 30 Aug 2026 | Mochakk, DJ SWISHA, nocapz., Leonce | DJ SWISHA, Leonce, Mochakk, nocapz. |
 | Thu, 3 Sept 2026 | Underworld presents Crazy, Crazy | Underworld |
 | Fri, 4 Sept 2026 | Underworld presents Crazy, Crazy | Underworld |

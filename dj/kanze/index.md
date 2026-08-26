@@ -1,13 +1,14 @@
 # KANZE
 
-KANZE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
+KANZE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Signal, New York City on Thu, 3 Sept 2026.
 
-KANZE is a house and techno artist tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside DBL_BBL, Jack Tonelli and Celebrity Bitcrush. Next up: Hart Bar, Newyorkcity on Sat 5 Sept.
+KANZE is a house and techno artist tracked on soundcheck, with 38 sets logged across Newyorkcity. Often billed alongside DBL_BBL, Jack Tonelli and Celebrity Bitcrush. Next up: Signal, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Signal | New York City |
 | Sat, 5 Sept 2026 | Hart Bar | New York City |
 | Sat, 5 Sept 2026 | Hart Bar | New York City |
 

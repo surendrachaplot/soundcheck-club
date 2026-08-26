@@ -1,8 +1,8 @@
 # Fonda Theatre
 
-Fonda Theatre is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Hayla" on Fri, 4 Sept 2026.
+Fonda Theatre is a music venue in Los Angeles with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Hayla" on Fri, 4 Sept 2026.
 
-Fonda Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including oskar med k, Smerz and Soulwax. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
+Fonda Theatre is a music venue in Losangeles listed on soundcheck. 7 upcoming nights, with line-ups including DJ MANDY, oskar med k, Smerz and Soulwax. Browse upcoming dates, start times and who's playing. 6126 Hollywood Blvd, Hollywood, CA 90028.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Fonda Theatre is a music venue in Losangeles listed on soundcheck. 6 upcoming ni
 | Thu, 17 Sept 2026 | KCRW presents Soulwax |  |
 | Fri, 25 Sept 2026 | Jigitz |  |
 | Wed, 7 Oct 2026 | oskar med k | oskar med k |
+| Fri, 30 Oct 2026 | DJ MANDY presents The Raveyard | DJ MANDY |
 
 ## Address
 

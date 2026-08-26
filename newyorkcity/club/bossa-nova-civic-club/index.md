@@ -9,7 +9,6 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 31 u
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | HYPURR with BLAIZE, Lo Fox, Twaankalu, TWONSKi | BLAIZE, TWONSKi, Twaankalu |
-| Wed, 26 Aug 2026 | Patsy's Punk Bitch Happy Hour with: vxxv | Patsy |
 | Thu, 27 Aug 2026 | DAYTONA 500 BIRTHDAY BASH: Asha, Dj Warning, August V.M | Ariel Zetina, Asha (4), August V. M., DJ DEADNAME, Dj Warning, Eva Loveless |
 | Fri, 28 Aug 2026 | Soundbath with Dj Nico + BEARCAT + shekdash | BEARCAT, Dj Nico, shekdash |
 | Fri, 28 Aug 2026 | an evening with babu | babu (2) |
@@ -18,6 +17,7 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 31 u
 | Sun, 30 Aug 2026 | Candela presents: Greg Beato, DAY/DEM, Perna, phiphi | DAY/DEM, Greg Beato, Perna, phiphi |
 | Mon, 31 Aug 2026 | Freak Recognize Freak: BEYBLADE SHAWTY, CMD+JAZMINE, Girlypop Princess, Xana 101 | BEYBLADE SHAWTY, CMD+JAZMINE, Girlypop Princess, Xana 101 |
 | Tue, 1 Sept 2026 | House of FLINTA* | Aleska, BOB1, LTE (1), Preacher's Daughter, SEDENTARY, amita, stress tess |
+| Wed, 2 Sept 2026 | Life Of | Baroque Hoe, Brutal Twink, Zeigler |
 
 ## Address
 

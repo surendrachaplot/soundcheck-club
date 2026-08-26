@@ -1,8 +1,8 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 24 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Jack Pompe + Special Guests TBA" on Wed, 26 Aug 2026.
+Jupiter Disco is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Jack Pompe + Special Guests TBA" on Wed, 26 Aug 2026.
 
-Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 24 upcoming nights, with line-ups including Boat Neck, Brutal Twink, Caire and chicas over rice and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights, with line-ups including ALI IRL, Boat Neck, Brutal Twink and Caire and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 

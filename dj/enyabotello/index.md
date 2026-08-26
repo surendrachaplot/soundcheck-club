@@ -1,14 +1,15 @@
 # Enya Botello
 
-Enya Botello is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - SECRET LOCATION, Seattle on Fri, 28 Aug 2026.
+Enya Botello is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - SECRET LOCATION, Seattle on Fri, 28 Aug 2026.
 
-Enya Botello is a techno and house artist tracked on soundcheck, with 193 sets logged across Mexicocity, Seattle and Tokyo. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: TBA - SECRET LOCATION, Seattle on Fri 28 Aug.
+Enya Botello is a techno and house artist tracked on soundcheck, with 194 sets logged across Mexicocity, Seattle, Tokyo and Vancouver. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: TBA - SECRET LOCATION, Seattle on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA - SECRET LOCATION | Seattle |
+| Sat, 29 Aug 2026 | TBA - East Van | Vancouver |
 | Fri, 11 Sept 2026 | Brutal Mx | Mexico City |
 | Tue, 15 Sept 2026 | TBA | Mexico City |
 

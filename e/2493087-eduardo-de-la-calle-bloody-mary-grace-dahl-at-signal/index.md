@@ -1,6 +1,6 @@
-# Eduardo de la Calle, Bloody Mary, Grace Dahl, at Signal
+# Eduardo de la Calle, Bloody Mary, Grace Dahl at Signal
 
-Eduardo de la Calle, Bloody Mary, Grace Dahl, at Signal on Sat 5 Sept, Newyorkcity. 4 acts on the bill: Bloody Mary, Cirqet, Eduardo de la Calle and Grace Dahl. Preview the line-up and save it on soundcheck.
+Eduardo de la Calle, Bloody Mary, Grace Dahl at Signal on Sat 5 Sept, Newyorkcity. 4 acts on the bill: Bloody Mary, Cirqet, Eduardo de la Calle and Grace Dahl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

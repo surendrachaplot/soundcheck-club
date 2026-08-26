@@ -1,6 +1,6 @@
 # M.I.L.K. feat. DORNATECHNO at Nether Club
 
-M.I.L.K. feat. DORNATECHNO at Nether Club on Fri 20 Nov, Bucharest. 5 acts on the bill: AMEDEUS, Amnesico, KATHERYNE and Sandraz and 1 more. Techno. Preview the line-up and save it on soundcheck.
+M.I.L.K. feat. DORNATECHNO at Nether Club on Fri 20 Nov, Bucharest. 6 acts on the bill: AMEDEUS, Amnesico, KATHERYNE and MU/SA and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ M.I.L.K. feat. DORNATECHNO at Nether Club on Fri 20 Nov, Bucharest. 5 acts on th
 - AMEDEUS
 - Amnesico
 - KATHERYNE
+- MU/SA
 - Sandraz
 - Stefan Hernandez
 

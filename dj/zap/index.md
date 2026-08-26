@@ -1,13 +1,14 @@
 # Z@p
 
-Z@p is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
+Z@p is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - East Williamsburg, New York City on Fri, 4 Sept 2026.
 
-Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with 116 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Le 211, Paris on Sat 19 Sept.
+Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: TBA - East Williamsburg, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | TBA - East Williamsburg | New York City |
 | Sat, 19 Sept 2026 | Le 211 | Paris |
 | Sat, 26 Sept 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |

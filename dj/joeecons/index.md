@@ -1,13 +1,14 @@
 # Joee Cons
 
-Joee Cons is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Wiggle Room, Toronto on Sun, 27 Sept 2026.
+Joee Cons is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
-Joee Cons is a tech house and house artist tracked on soundcheck, with 17 sets logged across Toronto. Often billed alongside Manzone & Strong, Miz Megs and Ticky Ty. Next up: Wiggle Room, Toronto on Sun 27 Sept.
+Joee Cons is a tech house and house artist tracked on soundcheck, with 18 sets logged across Toronto. Often billed alongside Manzone & Strong, Miz Megs and Addy. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 | Sun, 27 Sept 2026 | Wiggle Room | Toronto |
 
 ## Recently played
@@ -23,6 +24,6 @@ Joee Cons is a tech house and house artist tracked on soundcheck, with 17 sets l
 
 ## Shares bills with
 
-Manzone & Strong, Miz Megs, Ticky Ty
+Manzone & Strong, Miz Megs, Addy
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeecons/)*

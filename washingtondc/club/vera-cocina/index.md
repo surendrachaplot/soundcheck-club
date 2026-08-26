@@ -1,8 +1,8 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Achromatic presents: Nanoos" on Fri, 28 Aug 2026.
+Vera Cocina & بار is a music venue in Washington DC with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Achromatic presents: Nanoos" on Fri, 28 Aug 2026.
 
-Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 9 upcoming nights, with line-ups including Amal, JAEL, Nanoos and Samantha Loveridge and 1 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
+Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 10 upcoming nights, with line-ups including Amal, Andhim, JAEL and Nanoos and 2 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 9 up
 | Sat, 3 Oct 2026 | Nü Androids presents: Tripolism | Tripolism |
 | Sat, 17 Oct 2026 | Nü Androids presents: Samantha Loveridge | Samantha Loveridge |
 | Thu, 22 Oct 2026 | Nü Androids presents: Franc Moody (Dj Set) |  |
+| Sat, 24 Oct 2026 | Nü Androids presents: Andhim | Andhim |
 
 ## Address
 

@@ -11,7 +11,7 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nigh
 | Fri, 28 Aug 2026 | HANDS ON YOUR HIPS: 1 YEAR ANNIVERSARY | Falcons, RM47, SJAYY, VICTORIA MOURA, baby.com |
 | Fri, 4 Sept 2026 | Toxic Haus x Perfect Party | BL4ZE, Baby Uniq, T3KNO |
 | Sat, 12 Sept 2026 | CLOSER presents THERMAL with Vladimir Dubyshkin | JAQ.XS, Lake Hills, Vladimir Dubyshkin |
-| Sat, 12 Sept 2026 | Capsule x Groove Inc | CHOíCE, Chemtrail Johnny, Hazy, Mario Liberti, Mikeb |
+| Sat, 12 Sept 2026 | Capsule x Groove Inc | CHOíCE, Chemtrail Johnny, Hazy, Jason-Douglas, Mario Liberti, Mikeb |
 | Sat, 19 Sept 2026 | IN BETWEEN: Secret Guests TBA |  |
 | Fri, 25 Sept 2026 | Wellness Check presents: Daphni (All Night) | Daphni |
 | Sat, 26 Sept 2026 | Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana | Buttechno, Jen Cardini, Konduku, Rachana |

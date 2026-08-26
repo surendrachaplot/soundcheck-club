@@ -1,13 +1,14 @@
 # CLTX
 
-CLTX is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mia Mao, Paris on Sat, 5 Sept 2026.
+CLTX is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 29 Aug 2026.
 
-CLTX is a techno and trance artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: Mia Mao, Paris on Sat 5 Sept.
+CLTX is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DYEN, Alignment and Charlie Sparks. Next up: TBA - Brooklyn, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | TBA - Brooklyn | New York City |
 | Sat, 5 Sept 2026 | Mia Mao | Paris |
 | Fri, 11 Sept 2026 | Gate Milano | Milan |
 | Fri, 16 Oct 2026 | E1 | London |

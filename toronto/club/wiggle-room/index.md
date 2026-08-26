@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sunshine Love - 4AM LAST CALL" on Fri, 28 Aug 2026.
+Wiggle Room is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sunshine Love - 4AM LAST CALL" on Fri, 28 Aug 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming nights,
 | Fri, 11 Sept 2026 | Spacedisco Records: Hatiras + Seamus Haji (UK) | Hatiras, Seamus Haji |
 | Sat, 12 Sept 2026 | Home of Bouncy Beats: GMONEY - Junior Lopez | Juan Gmoney Jaramillo, Junior Lopez |
 | Sat, 26 Sept 2026 | Wiggle Room Records Release Party: CARLOS MENACA [Spain] | Addy, Carlos Manaça, Juan Gmoney Jaramillo, TAKiN |
+| Sat, 26 Sept 2026 | Wiggle Room's 31-Hour Anniversary Festival | Addy, BOZA, Barroness, Carlos Manaça, David Herrero, Hatiras, Joee Cons, Juan Gmoney Jaramillo, MC Flipside, Manzone & Strong, Miz Megs, Nour (CAN), Randomdoug, TAKiN, Tyler Hill |
 | Sun, 27 Sept 2026 | Sunday SerVice: Joee Cons Birthday Tribute | BOZA, Joee Cons, MC Flipside, Manzone & Strong, Miz Megs |
 
 ## Address

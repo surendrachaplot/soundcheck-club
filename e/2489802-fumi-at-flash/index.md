@@ -1,6 +1,6 @@
 # fumi at Flash
 
-fumi at Flash on Fri 4 Sept, Washingtondc. 2 acts on the bill: fumi (DE) and JADE CAO. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+fumi at Flash on Fri 4 Sept, Washingtondc. 4 acts on the bill: Benjy Bradshaw, fumi (DE), JADE CAO and Micfreak. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ fumi at Flash on Fri 4 Sept, Washingtondc. 2 acts on the bill: fumi (DE) and JAD
 
 ## Line-up
 
+- Benjy Bradshaw
 - fumi (DE)
 - JADE CAO
+- Micfreak
 
 *Source: [soundcheck](https://soundcheck.club/e/2489802-fumi-at-flash/)*

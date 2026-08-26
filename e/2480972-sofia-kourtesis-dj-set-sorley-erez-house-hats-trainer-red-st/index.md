@@ -1,6 +1,6 @@
 # Sofia Kourtesis (DJ Set), Sorley, EREZ, House Hats: Trainer RED, Steffy, Baum b2b Teecee at Elsewhere
 
-Sofia Kourtesis (DJ Set), Sorley, EREZ, House Hats: Trainer RED, Steffy, Baum b2b Teecee at Elsewhere on Fri 4 Sept, Newyorkcity. 5 acts on the bill: Baum, E R E Z, Sofia Kourtesis and Steffy and 1 more. Preview the line-up and save it on soundcheck.
+Sofia Kourtesis (DJ Set), Sorley, EREZ, House Hats: Trainer RED, Steffy, Baum b2b Teecee at Elsewhere on Fri 4 Sept, Newyorkcity. 6 acts on the bill: Baum, E R E Z, EREZ (US) and Sofia Kourtesis and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Sofia Kourtesis (DJ Set), Sorley, EREZ, House Hats: Trainer RED, Steffy, Baum b2
 
 - Baum
 - E R E Z
+- EREZ (US)
 - Sofia Kourtesis
 - Steffy
 - Teecee

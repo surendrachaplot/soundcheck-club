@@ -1,14 +1,15 @@
 # Beezo
 
-Beezo is a Afro House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gallery, London on Sun, 30 Aug 2026.
+Beezo is a Afro House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gallery, London on Sun, 30 Aug 2026.
 
-Beezo is an afro house and tech house artist tracked on soundcheck, with 128 sets logged across Ibiza, London and Manchester. Often billed alongside JAYDAA, Shenin Amara and Supa D. Next up: Gallery, London on Sun 30 Aug.
+Beezo is an afro house and tech house artist tracked on soundcheck, with 129 sets logged across Ibiza, London and Manchester. Often billed alongside JAYDAA, Shenin Amara and Supa D. Next up: Gallery, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Gallery | London |
+| Fri, 4 Sept 2026 | Basing House | London |
 | Sat, 12 Sept 2026 | XOYO | London |
 | Sat, 19 Sept 2026 | E1 | London |
 | Sat, 24 Oct 2026 | The Steel Yard | London |

@@ -10,7 +10,7 @@ Brent Shay is a techno and house artist tracked on soundcheck, with 88 sets logg
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Spkrbox | Detroit |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
-| Sat, 12 Sept 2026 | La Fabrica | Washington DC |
+| Sat, 12 Sept 2026 | TBA | Washington DC |
 
 ## Recently played
 

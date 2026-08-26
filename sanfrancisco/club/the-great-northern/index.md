@@ -9,7 +9,7 @@ The Great Northern is a music venue in Sanfrancisco listed on soundcheck. 14 upc
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | KISS THE DJ | 1ycia |
-| Sat, 5 Sept 2026 | Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 & Friends | DJ M3, David Harness, Doc Martin, Miguel Migs |
+| Sat, 5 Sept 2026 | Doc Martin - Miguel Migs - David Harness - Loft: DJ M3 + &ndmore | &ndmore, DJ M3, David Harness, Doc Martin, Miguel Migs |
 | Sat, 12 Sept 2026 | Mioli Music presents: Kausmic - Post Playa Party | Dirac (US), Emanate, HIDRA, IZIK |
 | Sat, 12 Sept 2026 | MIOLI MUSIC pres. Kausmic: Post Playa Party | Dirac (US), Emanate, HIDRA, IZIK |
 | Fri, 25 Sept 2026 | Ranger Trucco - The Great Northern | Loods, Ranger Trucco |

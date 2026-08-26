@@ -1,13 +1,14 @@
 # Natasha Kitty Katt
 
-Natasha Kitty Katt is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hidden Heights Creative Studio, Newcastle on Sat, 12 Sept 2026.
+Natasha Kitty Katt is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Street, Edinburgh on Sat, 29 Aug 2026.
 
-Natasha Kitty Katt is a disco and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Dundee, Edinburgh, Glasgow and Leeds and 8 more. Often billed alongside Dicky Trisco, Craig Smith and Young Pulse. Next up: Hidden Heights Creative Studio, Newcastle on Sat 12 Sept.
+Natasha Kitty Katt is a disco and house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Dundee, Edinburgh, Glasgow and Leeds and 8 more. Often billed alongside Dicky Trisco, Craig Smith and Young Pulse. Next up: The Street, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | The Street | Edinburgh |
 | Sat, 12 Sept 2026 | Hidden Heights Creative Studio | Newcastle |
 
 ## Recently played

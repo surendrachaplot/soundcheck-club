@@ -8,7 +8,7 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Refuge Friday: Elevation with Lost Desert and Lovecraft | Lost Desert, Lovecraft |
+| Fri, 28 Aug 2026 | Refuge Friday: Elevation with Lost Desert and Lovecraft | Lost Desert, Lovecraft, Salimbeni |
 | Sat, 29 Aug 2026 | Refuge Saturday: Arapu, Alci, Justin Cudmore, DJ Split | Alci, Arapu, DJ Split, Danielle Nicole, Justin Cudmore |
 | Sun, 30 Aug 2026 | Refuge Open Air: Hot Honey Sundays with Felix Da Housecat and Zach Witness | Anna Collecta, Felix Da Housecat, Zach Witness |
 | Sat, 5 Sept 2026 | David Morales | David Morales |

@@ -11,7 +11,7 @@
 | Sun, 6 Sept 2026 | Elsewhere presents: DJ LEX & Friends at 99 Scott Outdoors w/ Baby Vaye, Vega, Kendollaz + more | BABYVAYE, LEI, MAMICANA |
 | Fri, 18 Sept 2026 | Nitefreak presents HiNDE | Nitefreak |
 | Fri, 2 Oct 2026 | AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE | A.K.R, PETERBLUE, Vladimir Dubyshkin |
-| Fri, 9 Oct 2026 | ARODES  w. JUNO (DE) | ARODES, JUNO (DE) |
+| Fri, 9 Oct 2026 | ARODES  w. JUNO  | ARODES, JUNO (DE) |
 | Fri, 13 Nov 2026 | Elsewhere presents: Luke Alexander at 99 Scott - Dedro, Shankz, Matty Chiuch | Luke Alexander, Shankz |
 | Sat, 21 Nov 2026 | Joshwa All Night Long Birthday Set | Joshwa |
 

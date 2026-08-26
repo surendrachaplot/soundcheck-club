@@ -9,7 +9,7 @@ HEU (CA) is a techno and industrial artist based in Canada, tracked on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - 1201 FRANKLIN ST | Vancouver |
-| Sat, 5 Sept 2026 | TBA | Vancouver |
+| Sat, 5 Sept 2026 | 1201 Franklin St | Vancouver |
 
 ## Recently played
 

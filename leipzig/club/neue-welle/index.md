@@ -9,7 +9,7 @@ Neue Welle is a music venue in Leipzig listed on soundcheck. 2 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | SUBOTNIK PT 13 // TRANCE BOUNCE // Limoncello kichererbsenstampf | Limoncello, VLUNA, kichererbsenstampf |
-| Sat, 7 Nov 2026 | Reconnect with Schwesta P | Schwesta P, adamoandiamo, gin (DE) |
+| Sat, 7 Nov 2026 | Reconnect with Schwesta P | LUNA.le, Schwesta P, adamoandiamo, gin (DE) |
 
 ## Address
 

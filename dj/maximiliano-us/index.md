@@ -11,7 +11,7 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 17
 | Wed, 26 Aug 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Sat, 29 Aug 2026 | Jimmy Valentine's Lonely Hearts Club | Washington DC |
 | Thu, 10 Sept 2026 | Satellite Gallery | New York City |
-| Sat, 12 Sept 2026 | La Fabrica | Washington DC |
+| Sat, 12 Sept 2026 | TBA | Washington DC |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Helter Skelper
 
-Helter Skelper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at West Port Oracle, Edinburgh on Tue, 1 Sept 2026.
+Helter Skelper is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Voodoo Rooms, Edinburgh on Sun, 30 Aug 2026.
 
-Helter Skelper is a house and disco artist tracked on soundcheck, with 19 sets logged across Edinburgh. Often billed alongside Amber Leith, Chameleon (1) and Frankie Elyse. Next up: West Port Oracle, Edinburgh on Tue 1 Sept.
+Helter Skelper is a house and disco artist tracked on soundcheck, with 20 sets logged across Edinburgh. Often billed alongside Amber Leith, Chameleon (1) and Frankie Elyse. Next up: The Voodoo Rooms, Edinburgh on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | The Voodoo Rooms | Edinburgh |
 | Tue, 1 Sept 2026 | West Port Oracle | Edinburgh |
 
 ## Recently played

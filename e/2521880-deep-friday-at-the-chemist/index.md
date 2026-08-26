@@ -1,10 +1,10 @@
 # Deep Friday at The Chemist
 
-Deep Friday at The Chemist on Sat 29 Aug, Boston. 1 act on the bill: Selector X. House and Deep House. Preview the line-up and save it on soundcheck.
+Deep Friday at The Chemist on Fri 28 Aug, Boston. 1 act on the bill: Selector X. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 29 Aug 2026 |
+| Date | Fri, 28 Aug 2026 |
 | Venue | The Chemist |
 | City | Boston |
 

@@ -1,13 +1,14 @@
 # White Rabbit
 
-White Rabbit is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Feelmore Sunday" on Sun, 30 Aug 2026.
+White Rabbit is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Inner Circle feat. Zuri Alexa + Max Heegard" on Thu, 27 Aug 2026.
 
-White Rabbit is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Mr. V. Browse upcoming dates, start times and who's playing. 3138 Fillmore St, San Francisco, CA 94123, United States.
+White Rabbit is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Mackswell and Mr. V. Browse upcoming dates, start times and who's playing. 3138 Fillmore St, San Francisco, CA 94123, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | Inner Circle feat. Zuri Alexa + Max Heegard | Mackswell |
 | Sun, 30 Aug 2026 | Feelmore Sunday | Mr. V |
 
 ## Address

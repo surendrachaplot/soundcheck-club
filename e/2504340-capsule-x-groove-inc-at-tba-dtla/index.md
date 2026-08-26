@@ -1,6 +1,6 @@
 # Capsule x Groove Inc at TBA - DTLA
 
-Capsule x Groove Inc at TBA - DTLA on Sat 12 Sept, Losangeles. 5 acts on the bill: Chemtrail Johnny, CHOíCE, Hazy and Mario Liberti and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Capsule x Groove Inc at TBA - DTLA on Sat 12 Sept, Losangeles. 6 acts on the bill: Chemtrail Johnny, CHOíCE, Hazy and Jason-Douglas and 2 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Capsule x Groove Inc at TBA - DTLA on Sat 12 Sept, Losangeles. 5 acts on the bil
 - Chemtrail Johnny
 - CHOíCE
 - Hazy
+- Jason-Douglas
 - Mario Liberti
 - Mikeb
 

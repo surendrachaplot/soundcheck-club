@@ -16,7 +16,7 @@ Rhythm is a music venue in Toronto listed on soundcheck. 14 upcoming nights, wit
 | Wed, 2 Sept 2026 | Rhythm Workshop Series: Club Check |  |
 | Thu, 3 Sept 2026 | Long Play: Dean Blunt | 999ADJ |
 | Fri, 4 Sept 2026 | Mihai Pol b2b Prichindel [ALL NIGHT LONG] | Mihai Pol, Prichindel |
-| Tue, 8 Sept 2026 | Long Play: Kraftwerk |  |
+| Tue, 8 Sept 2026 | Long Play: Sufjan Stevens |  |
 | Sat, 12 Sept 2026 | Ghost Sessions Vol. II | Amália Leandro, Chiara, House of Lords |
 
 ## Address

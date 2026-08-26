@@ -12,7 +12,7 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 25 upcoming nig
 | Wed, 26 Aug 2026 | Tresor New Faces hosted by Primal Instinct | BETIX, Lucyd, Revolucien |
 | Fri, 28 Aug 2026 | Tresor meets Fireground | DJ T-1000, DTM Funk, Denise Rabe, Fireground, Half A Man, Regal86, Subradeon |
 | Sat, 29 Aug 2026 | Tresor Klubnacht | Anabel Arroyo, DJ Stingray 313, Deepneue, Lilith., Nicole, Nicole., Tommy Four Seven, Z.I.P.P.O |
-| Mon, 31 Aug 2026 | ◥◣ZENITH x SINGULARITY◥◣ | 7CIRCLE, Frazi.er, KLEA, Nizzari, Parallx, Shanda |
+| Mon, 31 Aug 2026 | ◥◣ZENITH x SINGULARITY◥◣ (TRESOR + AURORA BAR / 2 floors) | 7CIRCLE, Frazi.er, KLEA, Nizzari, Parallx, Shanda |
 | Wed, 2 Sept 2026 | Tresor New Faces hosted by Carmen Electro | Carmen Electro, Chaz (IN), DJ Mondfinsternis, Miss Italia, Nathan Alexander |
 | Fri, 4 Sept 2026 | Tresor: The Continuous present | Dychromatic, Hemka, Hitam, RP Boo, Sepehr, Shaleen, YASMEENAH (2) |
 | Sat, 5 Sept 2026 | Tresor invites O/V/R | Beatrice (DE), CRYME, James Ruskin, O/V/R, Regis, Samuel Kerridge, Stella Zekri, WINDFUHR |

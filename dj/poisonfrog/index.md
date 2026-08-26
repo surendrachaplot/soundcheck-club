@@ -1,14 +1,15 @@
 # Poisonfrog
 
-Poisonfrog is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, New York City on Sat, 29 Aug 2026.
+Poisonfrog is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, New York City on Sat, 29 Aug 2026.
 
-Poisonfrog is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity, Philadelphia and Portland. Often billed alongside jaql, Don-Ri and Raw Unkut. Next up: TBA, Newyorkcity on Sat 29 Aug.
+Poisonfrog is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 25 sets logged across Denver, Newyorkcity, Philadelphia and Portland. Often billed alongside jaql, Don-Ri and Raw Unkut. Next up: TBA, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA | New York City |
+| Sat, 10 Oct 2026 | The Black Box | Denver |
 
 ## Recently played
 

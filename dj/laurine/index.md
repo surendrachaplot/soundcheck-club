@@ -1,8 +1,8 @@
 # Laurine
 
-Laurine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
+Laurine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 12 Sept 2026.
 
-Laurine is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
+Laurine is a house and techno artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 26 more. Often billed alongside Cecilio, S.Moreira and Jorge Escribano. Next up: TBA - Secret Location (Madrid), Madrid on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Laurine is a house and techno artist tracked on soundcheck, with 116 sets logged
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Secret Location (Madrid) | Madrid |
 | Fri, 25 Sept 2026 | Village Underground | London |
+| Sat, 26 Sept 2026 | Macadam | Nantes |
 
 ## Recently played
 

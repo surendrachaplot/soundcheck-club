@@ -9,7 +9,7 @@ Selector X is a house and deep house artist based in United States of America, t
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | The Chemist | Boston |
-| Sat, 29 Aug 2026 | The Chemist | Boston |
+| Fri, 28 Aug 2026 | The Chemist | Boston |
 
 ## Recently played
 

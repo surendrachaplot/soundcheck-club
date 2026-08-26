@@ -1,6 +1,6 @@
 # The Carry Nation at Flash
 
-The Carry Nation at Flash on Fri 23 Oct, Washingtondc. 1 act on the bill: The Carry Nation. House and Deep House. Preview the line-up and save it on soundcheck.
+The Carry Nation at Flash on Fri 23 Oct, Washingtondc. 2 acts on the bill: Fish House Funk and The Carry Nation. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Carry Nation at Flash on Fri 23 Oct, Washingtondc. 1 act on the bill: The Ca
 
 ## Line-up
 
+- Fish House Funk
 - The Carry Nation
 
 *Source: [soundcheck](https://soundcheck.club/e/2515830-the-carry-nation-at-flash/)*

@@ -13,7 +13,7 @@ Somewhen is a techno and trance artist tracked on soundcheck, with 207 sets logg
 | Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Sat, 5 Sept 2026 | Industry City | New York City |
-| Sat, 5 Sept 2026 | TBA | Vancouver |
+| Sat, 5 Sept 2026 | 1201 Franklin St | Vancouver |
 | Sun, 13 Sept 2026 | Escala25 | Lisbon |
 | Sat, 19 Sept 2026 | Westhafen | Leipzig |
 | Mon, 28 Sept 2026 | Amnesia Ibiza | Ibiza |

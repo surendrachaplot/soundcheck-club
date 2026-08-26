@@ -1,14 +1,15 @@
 # Axel Groove
 
-Axel Groove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sun, 30 Aug 2026.
+Axel Groove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Wet Deck at W Hotel, Kuala Lumpur on Sun, 30 Aug 2026.
 
-Axel Groove is a house and techno artist tracked on soundcheck, with 52 sets logged across Kualalumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: Wet Deck at W Hotel, Kualalumpur on Sun 30 Aug.
+Axel Groove is a house and techno artist tracked on soundcheck, with 53 sets logged across Kualalumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: Wet Deck at W Hotel, Kualalumpur on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Wet Deck at W Hotel | Kuala Lumpur |
+| Sat, 19 Sept 2026 | Mantra Bar | Kuala Lumpur |
 
 ## Recently played
 

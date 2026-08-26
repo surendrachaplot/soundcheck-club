@@ -1,6 +1,6 @@
 # Spencer Brown at Flash
 
-Spencer Brown at Flash on Sat 12 Sept, Washingtondc. 1 act on the bill: Spencer Brown. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Spencer Brown at Flash on Sat 12 Sept, Washingtondc. 4 acts on the bill: Burl Faircloth, Frankie P., LOUDR and Spencer Brown. Progressive House and Trance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Spencer Brown at Flash on Sat 12 Sept, Washingtondc. 1 act on the bill: Spencer 
 
 ## Line-up
 
+- Burl Faircloth
+- Frankie P.
+- LOUDR
 - Spencer Brown
 
 *Source: [soundcheck](https://soundcheck.club/e/2506188-spencer-brown-at-flash/)*

@@ -1,8 +1,8 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
+TiTi is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
 
-TiTi is a techno and industrial artist based in China, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 8 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Maassilo, Rotterdam on Sat 29 Aug.
+TiTi is a techno and hardcore artist based in China, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Barcelona and Cologne and 8 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Maassilo, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 

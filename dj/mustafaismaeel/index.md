@@ -1,15 +1,16 @@
 # Mustafa Ismaeel
 
-Mustafa Ismaeel is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
+Mustafa Ismaeel is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
 
-Mustafa Ismaeel is a house and deep house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bali, Chicago and Ibiza and 6 more. Often billed alongside Damian Lazarus, Thomas Hernan and AMÉMÉ. Next up: NWHR, Montreal on Fri 4 Sept.
+Mustafa Ismaeel is a house and deep house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Bali, Chicago and Ibiza and 6 more. Often billed alongside Damian Lazarus, Husa & Zeyada and Thomas Hernan. Next up: NWHR, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | NWHR | Montreal |
-| Fri, 11 Sept 2026 | TBA | Toronto |
+| Fri, 4 Sept 2026 | NWHR | Montreal |
+| Fri, 11 Sept 2026 | Valerie Toronto | Toronto |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mustafa Ismaeel is a house and deep house artist tracked on soundcheck, with 35 
 
 ## Shares bills with
 
-Damian Lazarus, Thomas Hernan, AMÉMÉ
+Damian Lazarus, Husa & Zeyada, Thomas Hernan
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mustafaismaeel/)*

@@ -1,8 +1,8 @@
 # La Vega
 
-La Vega is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
+La Vega is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
 
-La Vega is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Marteen and Alma Linda. Next up: Honey's, Newyorkcity on Fri 4 Sept.
+La Vega is a house and deep house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Marteen and Alma Linda. Next up: Honey's, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ La Vega is a house and deep house artist based in United States of America, trac
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Honey's | New York City |
 | Wed, 9 Sept 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 11 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
 

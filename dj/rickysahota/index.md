@@ -1,14 +1,15 @@
 # Ricky Sahota
 
-Ricky Sahota is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Onyx (E1), London on Sun, 30 Aug 2026.
+Ricky Sahota is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Onyx (E1), London on Sun, 30 Aug 2026.
 
-Ricky Sahota is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Onyx (E1), London on Sun 30 Aug.
+Ricky Sahota is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Onyx (E1), London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Onyx (E1) | London |
+| Fri, 4 Sept 2026 | Basing House | London |
 
 ## Recently played
 

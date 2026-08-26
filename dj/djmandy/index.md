@@ -1,8 +1,8 @@
 # DJ MANDY
 
-DJ MANDY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bauhaus, Houston on Fri, 11 Sept 2026.
+DJ MANDY is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bauhaus, Houston on Fri, 11 Sept 2026.
 
-DJ MANDY is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Boston, Detroit, Houston and London and 8 more. Often billed alongside AMMARA, ANNA PURA and Acid Alien. Next up: Bauhaus, Houston on Fri 11 Sept.
+DJ MANDY is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston, Detroit, Houston and London and 8 more. Often billed alongside AMMARA, ANNA PURA and Acid Alien. Next up: Bauhaus, Houston on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ MANDY is a house and techno artist based in United States of America, tracked
 | Fri, 18 Sept 2026 | Elektricity | Detroit |
 | Sat, 19 Sept 2026 | BERHTA | Washington DC |
 | Fri, 2 Oct 2026 | Night We Met | Nashville |
+| Fri, 30 Oct 2026 | Fonda Theatre | Los Angeles |
 
 ## Recently played
 

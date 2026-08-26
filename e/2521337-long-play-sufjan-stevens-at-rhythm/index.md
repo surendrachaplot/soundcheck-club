@@ -1,10 +1,10 @@
 # Long Play: Sufjan Stevens at Rhythm
 
-Long Play: Sufjan Stevens at Rhythm on Tue 22 Sept, Toronto. Preview the line-up and save it on soundcheck.
+Long Play: Sufjan Stevens at Rhythm on Tue 8 Sept, Toronto. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 22 Sept 2026 |
+| Date | Tue, 8 Sept 2026 |
 | Venue | Rhythm |
 | City | Toronto |
 

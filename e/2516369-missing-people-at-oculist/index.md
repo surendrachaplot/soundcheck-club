@@ -1,6 +1,6 @@
 # Missing People at Oculist
 
-Missing People at Oculist on Sat 12 Sept, Brighton. House. Preview the line-up and save it on soundcheck.
+Missing People at Oculist on Sat 12 Sept, Brighton. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

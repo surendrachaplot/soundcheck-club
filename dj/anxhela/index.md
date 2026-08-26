@@ -1,14 +1,15 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
+ANXHELA is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
 
-ANXHELA is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: UNO MALTA, Malta on Fri 28 Aug.
+ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: UNO MALTA, Malta on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | UNO MALTA | Malta |
+| Sat, 29 Aug 2026 | TBA - Brooklyn | New York City |
 | Sat, 5 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 19 Sept 2026 | Oxford Art Factory | Sydney |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |

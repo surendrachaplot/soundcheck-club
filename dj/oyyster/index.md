@@ -1,14 +1,14 @@
 # OYYSTER
 
-OYYSTER is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rodeo, New York City on Fri, 4 Sept 2026.
+OYYSTER is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rodeo, New York City on Sat, 5 Sept 2026.
 
-OYYSTER is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Houston, Mexicocity and Newyorkcity. Often billed alongside Roman Sensation, Aleroj and Iris Estefanía. Next up: Rodeo, Newyorkcity on Fri 4 Sept.
+OYYSTER is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across Houston, Mexicocity and Newyorkcity. Often billed alongside Roman Sensation, Aleroj and Iris Estefanía. Next up: Rodeo, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Rodeo | New York City |
+| Sat, 5 Sept 2026 | Rodeo | New York City |
 
 ## Recently played
 

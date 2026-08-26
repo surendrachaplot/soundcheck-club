@@ -1,15 +1,16 @@
 # Husa & Zeyada
 
-Husa & Zeyada is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
+Husa & Zeyada is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
 
-Husa & Zeyada are a progressive house and deep house duo tracked on soundcheck, with 6 sets logged across Ibiza, London, Mexicocity and Montreal and 1 more. Often billed alongside Mustafa Ismaeel, Dexter Crowe and Kimonos. Next up: NWHR, Montreal on Fri 4 Sept.
+Husa & Zeyada are a progressive house and deep house duo tracked on soundcheck, with 7 sets logged across Ibiza, London, Mexicocity and Montreal and 1 more. Often billed alongside Mustafa Ismaeel, Dexter Crowe and Kimonos. Next up: NWHR, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | NWHR | Montreal |
-| Fri, 11 Sept 2026 | TBA | Toronto |
+| Fri, 4 Sept 2026 | NWHR | Montreal |
+| Fri, 11 Sept 2026 | Valerie Toronto | Toronto |
 
 ## Recently played
 

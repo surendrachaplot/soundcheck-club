@@ -1,6 +1,6 @@
 # Sustain-Release Year Twelve at Camp Kennybrook
 
-Sustain-Release Year Twelve at Camp Kennybrook on Thu 10 Sept, Newyorkcity. 55 acts on the bill: Amelia Holt, Andy Martin, Aurora Halal and BASHKKA and 51 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Sustain-Release Year Twelve at Camp Kennybrook on Thu 10 Sept, Newyorkcity. 57 acts on the bill: Amelia Holt, Andy Martin, Aurora Halal and BASHKKA and 53 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Sustain-Release Year Twelve at Camp Kennybrook on Thu 10 Sept, Newyorkcity. 55 a
 - D. Tiffany
 - deep creep
 - Denzel
+- Disk Cartel
 - DJ DEADNAME
 - DJ G.
 - DJ Healthy
@@ -63,6 +64,7 @@ Sustain-Release Year Twelve at Camp Kennybrook on Thu 10 Sept, Newyorkcity. 55 a
 - Sandwell District
 - Shaun J. Wright
 - SPF 50
+- THC
 - Verraco
 - Yushh
 

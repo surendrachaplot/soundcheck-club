@@ -591,6 +591,8 @@
 
     /* grid */
     .grid { display:grid; grid-template-columns:repeat(4, 1fr); gap:18px 16px; padding:8px 0 calc(56px + env(safe-area-inset-bottom)); align-items:start; }
+    /* One column at every width. The rows carry their own hairline, so no gap. */
+    .grid-list { grid-template-columns:1fr !important; gap:0 !important; padding-bottom:0; }
     .gcard { display:flex; flex-direction:column; min-width:0; }
     .poster { position:relative; width:100%; aspect-ratio:3/4; border-radius:var(--radius); overflow:hidden; background:var(--surface); margin-bottom:13px; }
     .poster .gen { position:absolute; inset:0; display:flex; align-items:flex-end; padding:12px; background:linear-gradient(var(--ang,150deg), var(--g1,var(--accent)), var(--g2,#1b1b20)); }
@@ -3681,6 +3683,30 @@
     .sg-row .sg-n{ color:var(--faint); font-size:var(--fs-xs); font-variant-numeric:tabular-nums; }
     .sg-row.on{ background:var(--sel-weak); border:1px solid var(--sel); font-weight:700; }
     .sg-more{ display:block; padding:6px 10px 2px; font:700 var(--fs-xs)/1.2 var(--body); color:var(--accent); text-decoration:none; }
+    /* The board has no accent bar under this title — .page-title::after draws a
+       flat 72x6 --accent rule on every other page, and the guide's own eyebrow
+       does that job here. */
+    .sg-h1::after{ display:none !important; }
+    .sg-head{ display:flex; align-items:flex-end; gap:20px; }
+    .sg-headtx{ flex:1; min-width:0; }
+    .sg-eyebrow{ font:700 var(--fs-2xs)/1 var(--body); letter-spacing:.12em; text-transform:uppercase;
+                 color:var(--faint); margin-bottom:8px; }
+    .sg-head .page-title{ margin:0 0 10px; font-size:clamp(2rem,4.4vw,2.9rem); }
+    .sg-play{ flex:none; }
+    /* Filter state. The board keeps ONE headline and says what is filtered here,
+       rather than swapping the title — so the page you land on from a sound and
+       the page you filtered to are the same page. */
+    .sg-showing{ display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+                 font:500 var(--fs-sm)/1 var(--body); color:var(--faint); margin-bottom:4px; }
+    .sg-chip{ display:inline-flex; align-items:center; gap:7px; height:26px; padding:0 10px;
+              border-radius:var(--radius-pill); background:var(--sel-weak); border:1px solid var(--sel);
+              color:var(--fg); font-weight:600; text-decoration:none; }
+    .sg-chip b{ font-weight:700; }
+    .sg-chip .x{ color:var(--muted); font-size:14px; line-height:1; }
+    @media (max-width:640px){
+      .sg-head{ flex-direction:column; align-items:stretch; gap:12px; }
+      .sg-play{ align-self:flex-start; }
+    }
     .sg-week{ display:flex; align-items:center; gap:12px; margin:22px 0 12px; }
     .sg-week h3{ margin:0; font:800 var(--fs-lg)/1.2 var(--head); color:var(--fg); white-space:nowrap; }
     .sg-week .sg-rule{ flex:1; height:1px; background:var(--border); }
@@ -4176,7 +4202,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787775352302">
+<meta name="sc-build" content="1787784312050">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -8757,8 +8783,13 @@
       });
       // List rows on mobile, cards on web — decided here (not via a late wrapper) so a
       // direct page load can't render cards before init() runs. Rule: list view EVERYWHERE on phones.
-      var render=mqMobile()?listRow:cardHTML;
-      el.innerHTML='<div class="grid">'+evs.map(render).join('')+'</div>';
+      // opts.list forces list rows at every width. The scene guide's board draws
+      // rows on desktop, not poster cards, and a fourth kind of event row just to
+      // get that would lose the play button and the poster wiring this one has.
+      var render=((opts&&opts.list)||mqMobile())?listRow:cardHTML;
+      // .grid is four columns; list rows need one at every width, or the forced
+      // list view lays eight rows out as a card grid and each row is 200px wide.
+      el.innerHTML='<div class="grid'+((opts&&opts.list)?' grid-list':'')+'">'+evs.map(render).join('')+'</div>';
       wireCard(el);
       var rmap={}; evs.forEach(function(ev){ if(ev.id!=null) rmap[String(ev.id)]=ev; });
       wireEvcCards(el, rmap);
@@ -9631,22 +9662,30 @@
         return '<div class="rf-card rf-card-simple"><div class="rf-genre">'+esc(rt.genre)+'</div><div class="rf-venues">'+vch+'</div></div>';
       }).join('');
     }
-    // Group upcoming nights into "This weekend / Next week / Later" — a month is
-    // a shape, and a flat list of 18 posters is not one.
     // The next Fri/Sat/Sun, today included when today IS one of them — on a
     // Saturday "this weekend" must not mean next Friday. weekendDates() lives on
     // the server (lists.js) and is not shipped to the client, so relying on it
-    // here left the weekend bucket permanently empty and every Saturday night
-    // filed under "Next 7 days".
+    // here left the weekend bucket permanently empty.
     function sceneWeekend(){
       var out=[], now=new Date();
       for(var i=0;i<7;i++){
         var d=new Date(now.getTime()+i*86400000), iso=d.toISOString().slice(0,10);
         var dow=new Date(iso+'T00:00:00Z').getUTCDay();
         if(dow===5||dow===6||dow===0) out.push(iso);
-        else if(out.length) break;   // the weekend ended; don't reach into the next one
+        else if(out.length) break;
       }
       return out;
+    }
+    // "29–31 Aug" — the board puts the DATE RANGE at the right of a week header,
+    // not a count. The count is already the length of the list underneath it.
+    function sceneRange(evs){
+      var ds=(evs||[]).map(function(e){ return String(e.event_date||'').slice(0,10); }).filter(Boolean).sort();
+      if(!ds.length) return '';
+      var a=new Date(ds[0]+'T00:00:00Z'), b=new Date(ds[ds.length-1]+'T00:00:00Z');
+      var M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      if(ds[0]===ds[ds.length-1]) return a.getUTCDate()+' '+M[a.getUTCMonth()];
+      if(a.getUTCMonth()===b.getUTCMonth()) return a.getUTCDate()+'–'+b.getUTCDate()+' '+M[b.getUTCMonth()];
+      return a.getUTCDate()+' '+M[a.getUTCMonth()]+'–'+b.getUTCDate()+' '+M[b.getUTCMonth()];
     }
     function sceneWeeks(evs){
       var wk = new Set(sceneWeekend());
@@ -9659,82 +9698,129 @@
         else if(d && d<=in7) b.push(e);
         else c.push(e);
       });
-      return [{label:'This weekend', evs:a}, {label:'Next 7 days', evs:b}, {label:'Coming up', evs:c}]
+      return [{label:'This weekend', evs:a}, {label:'Next week', evs:b}, {label:'Later this month', evs:c}]
              .filter(function(g){ return g.evs.length; });
     }
-    // One rail column. `href` builds the destination for a row — every row is a
-    // page, so a sound survives a reload and can be shared.
-    function sceneRailCard(title, rows, href, label, count, allHref, allLabel){
+    // One rail column. Every row is a page, so a sound survives a reload and can
+    // be sent to somebody; `on` marks the one currently filtering the view.
+    function sceneRailCard(title, rows, href, label, count, onSlug, allHref, allLabel){
       if(!rows || !rows.length) return '';
-      var shown = rows.slice(0, 9);
+      var shown = rows.slice(0, 8);
+      if(onSlug && !shown.some(function(r){ return r.slug===onSlug; })){
+        var hit = rows.filter(function(r){ return r.slug===onSlug; })[0];
+        if(hit) shown = [hit].concat(shown.slice(0,7));
+      }
       return '<div class="sg-card"><h4>'+esc(title)+'</h4>'+
         shown.map(function(r){
-          return '<a class="sg-row nav" href="'+esc(href(r))+'">'+esc(label(r))+
+          return '<a class="sg-row nav'+(r.slug===onSlug?' on':'')+'" href="'+esc(href(r))+'">'+esc(label(r))+
                  '<span class="sg-n">'+count(r)+'</span></a>';
         }).join('')+
         (rows.length>shown.length ? '<a class="sg-more nav" href="'+esc(allHref)+'">'+esc(allLabel.replace('{n}', rows.length))+'</a>' : '')+
       '</div>';
     }
-    async function openCityScene(city){
+    // ONE renderer for the guide, whether or not a sound or an area is chosen.
+    // Picking a sound used to leave for a page that looked nothing like this one;
+    // the board answers that with a "Showing …" line under the same headline, so
+    // /london/scene/, /london/house/ and /london/in/dalston/ are one design.
+    //   filter: null | { kind:'sound'|'area', slug, name }
+    async function openCityScene(city, filter){
       city=(city||currentCity||'london').toLowerCase();
-      var url=SC_BASE+city+'/scene/'; if(location.pathname!==url) history.pushState({sc:1},'',url);
+      var url = !filter ? SC_BASE+city+'/scene/'
+              : filter.kind==='area' ? SC_BASE+city+'/in/'+filter.slug+'/'
+              : SC_BASE+city+'/'+filter.slug+'/';
+      if(location.pathname!==url) history.pushState({sc:1},'',url);
       openPanel(pageSkeleton());
       try{
-        var r=await authedFetch('/api/city/scene?city='+encodeURIComponent(city)); var s=await r.json();
+        var sr=await authedFetch('/api/city/scene?city='+encodeURIComponent(city));
+        var s=await sr.json();
         var nm=s.cityName||city;
-        // stats counts stats.windowDays (365), NOT a month — printing these under
-        // a "next 30 days" headline would be a made-up number on the one page
-        // whose whole job is telling you how big the scene is.
-        var st=s.stats||{};
+        var n30=s.next30||{};
         var num=function(n){ return Number(n).toLocaleString('en-GB'); };
-        var sub=[st.nights?num(st.nights)+' nights':'', st.venues?num(st.venues)+' venues':'', st.artists?num(st.artists)+' artists':'']
+        // next30 counts the next 30 days. stats.nights counts 365 days BACKWARD —
+        // mostly nights that already happened — so it cannot sit under this headline.
+        var sub=[n30.nights?num(n30.nights)+' nights':'', n30.venues?num(n30.venues)+' venues':'', n30.artists?num(n30.artists)+' artists':'']
                 .filter(Boolean).join(' · ');
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button>'+
-          '<div class="gd-head"><h2 class="page-title">'+esc(nm)+', on the calendar</h2>'+
-          '<div class="sub">'+(sub?esc(sub)+' — pick':'Pick')+' a sound or a part of town, and hit play on anything.</div></div>'+
+          '<div class="sg-head"><div class="sg-headtx">'+
+            '<div class="sg-eyebrow">Scene guide</div>'+
+            '<h2 class="page-title sg-h1">'+esc(nm)+', next 30 days</h2>'+
+            '<div class="sub">'+(sub?esc(sub)+'. ':'')+'Filter by sound or area — hit play on anything.</div>'+
+          '</div>'+
+          '<button class="fp-ab go sg-play" id="cs-play" type="button">'+PLAY_SVG+'<span>Play the month</span></button>'+
+          '</div>'+
           '<div class="sg-wrap"><div class="sg-rail" id="cs-rail"></div>'+
-          '<div class="sg-main"><div id="cs-weeks"></div><div id="cs-playing"></div>'+
-          '<div id="cs-venues"></div>'+
+          '<div class="sg-main"><div id="cs-showing"></div><div id="cs-weeks"></div>'+
+          '<div id="cs-playing"></div><div id="cs-venues"></div>'+
           '<div class="sec-h" style="margin-top:26px">On the map</div>'+
           '<div id="cs-map" class="cs-map-hero"></div>'+
           '<div class="cs-map-cap">The busiest venues in '+esc(nm)+' — clubs with 5+ upcoming nights. Tap a pin.</div>'+
           '</div></div>';
         openPanel(h);
-        setSeo(nm+" scene guide — who's playing, the venues & sounds | soundcheck", 'The artists playing '+nm+' this month, the venues they’re in, upcoming nights and the sounds that define the city.', null, location.origin+SC_BASE+city+'/scene/');
         var csAll=document.getElementById('cs-all'); if(csAll) csAll.addEventListener('click',function(){ openScenes(); });
 
-        // The month, as weeks. Reuses mountEventCards — the same component every
-        // other event grid in the app uses, so these rows get the play button,
-        // the poster and the mobile list view for free.
+        // Events: the whole city, or just the chosen sound / area.
+        var evs=s.upcomingEvents||[], playQ=(s.playing||[]), count=null;
+        if(filter){
+          var q = filter.kind==='area'
+            ? '/api/guide?type=area&city='+encodeURIComponent(city)+'&slug='+encodeURIComponent(filter.slug)
+            : '/api/guide?type=genre&city='+encodeURIComponent(city)+'&slug='+encodeURIComponent(filter.slug);
+          try{
+            var gr=await authedFetch(q); var g=await gr.json();
+            if(gr.ok && g && g.sections){
+              evs=g.sections.reduce(function(a,x){ return a.concat(x.events||[]); },[]);
+              count=g.count; filter.name=g.genre||g.area||filter.name;
+              playQ=(g.play||[]).map(function(sl){ return { slug:sl, name:sl }; });
+            }
+          }catch(_){ }
+        }
+
+        // AFTER the guide answers: filter.name is the slug until then, and the tab
+        // said "techno in London" instead of "Techno".
+        setSeo(filter ? (filter.name+' in '+nm+' — line-ups & tickets | soundcheck')
+                      : (nm+" scene guide — who's playing, the venues & sounds | soundcheck"),
+               'The artists playing '+nm+' this month, the venues they’re in, upcoming nights and the sounds that define the city.',
+               null, location.origin+url);
+
         (function(){
-          var box=document.getElementById('cs-weeks'); if(!box) return;
-          var groups=sceneWeeks(s.upcomingEvents||[]);
-          if(!groups.length){ box.innerHTML=''; return; }
-          box.innerHTML=groups.map(function(g,i){
-            return '<div class="sg-week"><h3>'+esc(g.label)+'</h3><div class="sg-rule"></div>'+
-                   '<div class="sg-when">'+g.evs.length+'</div></div><div id="cs-wk-'+i+'"></div>';
-          }).join('');
-          groups.forEach(function(g,i){ mountEventCards(document.getElementById('cs-wk-'+i), g.evs, {}); });
+          var box=document.getElementById('cs-showing'); if(!box||!filter) return;
+          box.innerHTML='<div class="sg-showing">Showing '+
+            '<a class="sg-chip nav" href="'+esc(SC_BASE+city+'/scene/')+'"><b>'+esc(filter.name)+'</b><span class="x">&times;</span></a>'+
+            '<span>'+(count!=null?num(count)+' nights':'')+' across '+esc(nm)+'</span></div>';
         })();
 
-        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]), { title:'Playing this month', city:city, mt:1, wide:true });
+        (function(){
+          var box=document.getElementById('cs-weeks'); if(!box) return;
+          var groups=sceneWeeks(evs);
+          if(!groups.length){ box.innerHTML='<div class="empty">Nothing listed yet.</div>'; return; }
+          box.innerHTML=groups.map(function(g,i){
+            return '<div class="sg-week"><h3>'+esc(g.label)+'</h3><div class="sg-rule"></div>'+
+                   '<div class="sg-when">'+esc(sceneRange(g.evs))+'</div></div><div id="cs-wk-'+i+'"></div>';
+          }).join('');
+          groups.forEach(function(g,i){ mountEventCards(document.getElementById('cs-wk-'+i), g.evs, { list:true }); });
+        })();
+
+        var cp=document.getElementById('cs-play');
+        if(cp) cp.addEventListener('click',function(){
+          if(!playQ.length){ showToast('Nothing to play yet.'); return; }
+          playYtList(playQ, 0);
+        });
+
+        mountArtistRail(document.getElementById('cs-playing'), (s.playing||[]),
+          { title:(filter?'Playing '+filter.name+' this month':'Playing this month'), city:city, mt:1, wide:true });
         mountVenueRail(document.getElementById('cs-venues'), (s.bestVenues||[]), { title:'Venues', city:city, mt:1 });
 
-        // The rail: sound and area, on screen the whole way down. Both lists come
-        // from /api/guides, the same source the hub uses, so a row here and a row
-        // there always agree.
         authedFetch('/api/guides?city='+encodeURIComponent(city)).then(function(r){ return r.json(); }).then(function(d){
           var rail=document.getElementById('cs-rail'); if(!rail) return;
           rail.innerHTML =
             sceneRailCard('Sound', d.genres||[],
               function(g){ return SC_BASE+city+'/'+g.slug+'/'; },
-              function(g){ return g.name; },
-              function(g){ return g.count; },
+              function(g){ return g.name; }, function(g){ return g.count; },
+              (filter&&filter.kind==='sound')?filter.slug:null,
               SC_BASE+city+'/', 'All {n} sounds →') +
             sceneRailCard('Area', d.areas||[],
               function(a){ return SC_BASE+city+'/in/'+a.slug+'/'; },
-              function(a){ return a.name; },
-              function(a){ return a.venues; },
+              function(a){ return a.name; }, function(a){ return a.venues; },
+              (filter&&filter.kind==='area')?filter.slug:null,
               SC_BASE+city+'/in/', 'All {n} areas →');
         }).catch(function(){ /* the rail is optional furniture on this page */ });
 
@@ -11678,7 +11764,15 @@
       else if(hash.indexOf('pl/')===0) openPlaylist(hash.slice(3));
       else if(hash==='lists') openLists();
       else if(hash.indexOf('areas/')===0) openAreas(hash.slice(6));
-      else if(hash.indexOf('guide/')===0){ var gp=hash.slice(6).split('/'); openGuide(gp[0], gp[1], gp[2]); }
+      else if(hash.indexOf('guide/')===0){
+        var gp=hash.slice(6).split('/');
+        // /<city>/in/<area>/ → the guide, filtered to that area.
+        if(!gp[1] && gp[2]) openCityScene(gp[0], { kind:'area', slug:gp[2], name:gp[2] });
+        // /<city>/<sound>/ → the guide, filtered to that sound. 'this-weekend'
+        // is a time, not a sound, so it keeps the standalone view.
+        else if(gp[1] && !gp[2] && gp[1]!=='this-weekend') openCityScene(gp[0], { kind:'sound', slug:gp[1], name:gp[1] });
+        else openGuide(gp[0], gp[1], gp[2]);
+      }
       else if(hash.indexOf('similar/')===0) openSimilar(hash.slice(8));
       else if(hash.indexOf('list/')===0){ var lp=hash.slice(5).split('/'); openList(lp[0], lp[1]); }
     }

@@ -11,7 +11,7 @@ madeera is a techno and house artist based in United States of America, tracked 
 | Thu, 27 Aug 2026 | Pawn Shop | Dublin |
 | Fri, 28 Aug 2026 | The Lubber Fiend | Newcastle |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
-| Sat, 12 Sept 2026 | La Fabrica | Washington DC |
+| Sat, 12 Sept 2026 | TBA | Washington DC |
 
 ## Recently played
 

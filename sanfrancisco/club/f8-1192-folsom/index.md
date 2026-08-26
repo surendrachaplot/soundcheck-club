@@ -1,8 +1,8 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "JustJovani'S TECHNO BIRTHDAY " on Wed, 26 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "JustJovani'S TECHNO BIRTHDAY " on Wed, 26 Aug 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including Akumen, Amino, ANCARCO and ANDYLAND and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including Akumen, Amino, ANCARCO and ANDYLAND and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

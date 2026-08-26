@@ -1,13 +1,14 @@
 # Lather Rinse Repeat
 
-Lather Rinse Repeat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
+Lather Rinse Repeat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
 
-Lather Rinse Repeat is a house and techno artist tracked on soundcheck, with 28 sets logged across Montreal and Toronto. Often billed alongside h1bou, Field Note and Pretty Privilege. Next up: Soleil, Toronto on Sat 19 Sept.
+Lather Rinse Repeat is a house and techno artist tracked on soundcheck, with 29 sets logged across Montreal and Toronto. Often billed alongside h1bou, Field Note and Pretty Privilege. Next up: TBA, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | TBA | Toronto |
 | Sat, 19 Sept 2026 | Soleil | Toronto |
 
 ## Recently played

@@ -1,10 +1,10 @@
 # The Rodeo CDMX: Trade and Boots (Rodeo BK Takeover) at Rodeo
 
-The Rodeo CDMX: Trade and Boots (Rodeo BK Takeover) on Fri 4 Sept, Newyorkcity. 2 acts on the bill: OYYSTER and Rush Davis. Hip-Hop and Ghetto Tech. Preview the line-up and save it on soundcheck.
+The Rodeo CDMX: Trade and Boots (Rodeo BK Takeover) on Sat 5 Sept, Newyorkcity. 2 acts on the bill: OYYSTER and Rush Davis. Hip-Hop and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 4 Sept 2026 |
+| Date | Sat, 5 Sept 2026 |
 | Venue | Rodeo |
 | City | New York City |
 

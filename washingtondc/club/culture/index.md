@@ -1,8 +1,8 @@
 # Culture
 
-Culture is a music venue in Washington DC with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Nü Androids & Achromatic present: Ivy Lab" on Thu, 10 Sept 2026.
+Culture is a music venue in Washington DC with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Nü Androids & Achromatic present: Ivy Lab" on Thu, 10 Sept 2026.
 
-Culture is a music venue in Washingtondc listed on soundcheck. 9 upcoming nights, with line-ups including Gravagerz, Morgan Seatree, Nitefreak and Nooriyah and 1 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
+Culture is a music venue in Washingtondc listed on soundcheck. 11 upcoming nights, with line-ups including Gravagerz, Morgan Seatree, Nitefreak and Nooriyah and 1 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
 ## What's on
 
@@ -17,6 +17,7 @@ Culture is a music venue in Washingtondc listed on soundcheck. 9 upcoming nights
 | Fri, 9 Oct 2026 | Nü Androids presents: Morgan Seatree | Morgan Seatree |
 | Sat, 10 Oct 2026 | Nü Androids presents: Arlo |  |
 | Sun, 18 Oct 2026 | Diffuse x Ranger Trucco present: Range | Ranger Trucco |
+| Sat, 24 Oct 2026 | Nü Androids presents: Acraze |  |
 
 ## Address
 

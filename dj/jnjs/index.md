@@ -1,14 +1,15 @@
 # JNJS
 
-JNJS is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 303 Audiophile Bar, Barcelona on Thu, 3 Sept 2026.
+JNJS is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 303 Audiophile Bar, Barcelona on Thu, 3 Sept 2026.
 
-JNJS is a house and minimal artist tracked on soundcheck, with 72 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: 303 Audiophile Bar, Barcelona on Thu 3 Sept.
+JNJS is a house and minimal artist tracked on soundcheck, with 73 sets logged across Bangkok, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Tania Vulcano, Carlos Vila and Sossa. Next up: 303 Audiophile Bar, Barcelona on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | 303 Audiophile Bar | Barcelona |
+| Fri, 4 Sept 2026 | TBA | Los Angeles |
 
 ## Recently played
 

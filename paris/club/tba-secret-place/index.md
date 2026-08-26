@@ -1,8 +1,8 @@
-# TBA - Secret Place
+# TBA - SECRET PLACE
 
-TBA - Secret Place is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DarkRaveDeals PRESENTS: BLACK TRANSMISSION" on Sat, 29 Aug 2026.
+TBA - SECRET PLACE is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DarkRaveDeals PRESENTS: BLACK TRANSMISSION" on Sat, 29 Aug 2026.
 
-TBA - Secret Place is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Das Firmament, Exkursion, Innuendo and Sanctus Libido and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Das Firmament, Exkursion, Innuendo and Sanctus Libido and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # Eksish
 
-Eksish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Last Arch, London on Fri, 4 Sept 2026.
+Eksish is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - secret location , Bristol on Sat, 29 Aug 2026.
 
-Eksish is a house and techno artist tracked on soundcheck, with 37 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside rasel h, Chez de Milo and Jake Moree. Next up: Last Arch, London on Fri 4 Sept.
+Eksish is a house and techno artist tracked on soundcheck, with 38 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside rasel h, Jake Moree and Chez de Milo. Next up: TBA - secret location , Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | TBA - secret location  | Bristol |
 | Fri, 4 Sept 2026 | Last Arch | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Eksish is a house and techno artist tracked on soundcheck, with 37 sets logged a
 
 ## Shares bills with
 
-rasel h, Chez de Milo, Jake Moree
+rasel h, Jake Moree, Chez de Milo
 
 *Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eksish/)*

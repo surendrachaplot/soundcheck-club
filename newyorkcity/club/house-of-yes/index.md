@@ -1,8 +1,8 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Slayyyland: CAM GIRL, Vice, P_A_T" on Fri, 28 Aug 2026.
+House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Slayyyland: CAM GIRL, Vice, P_A_T" on Fri, 28 Aug 2026.
 
-House of Yes is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Aluna, CAM GIRL, Cosmo and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Aluna, CAM GIRL, Cosmo and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 

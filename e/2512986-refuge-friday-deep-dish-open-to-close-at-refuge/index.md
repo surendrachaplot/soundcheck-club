@@ -1,6 +1,6 @@
 # Refuge Friday: Deep Dish (Open to Close) at Refuge
 
-Refuge Friday: Deep Dish (Open to Close) on Fri 25 Sept, Newyorkcity. 2 acts on the bill: Lost Desert and Lovecraft. Preview the line-up and save it on soundcheck.
+Refuge Friday: Deep Dish (Open to Close) on Fri 25 Sept, Newyorkcity. 3 acts on the bill: Deep Dish, Lost Desert and Lovecraft. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Refuge Friday: Deep Dish (Open to Close) on Fri 25 Sept, Newyorkcity. 2 acts on 
 
 ## Line-up
 
+- Deep Dish
 - Lost Desert
 - Lovecraft
 

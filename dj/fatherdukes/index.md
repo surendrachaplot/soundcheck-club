@@ -1,13 +1,14 @@
 # Father Dukes
 
-Father Dukes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
+Father Dukes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Spkrbox, Detroit on Fri, 28 Aug 2026.
 
-Father Dukes is a house and techno artist tracked on soundcheck, with 119 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Ryan Spencer, Scott Zacharias and Ladylike. Next up: Marble Bar, Detroit on Fri 18 Sept.
+Father Dukes is a house and techno artist tracked on soundcheck, with 120 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Ryan Spencer, Scott Zacharias and Ladylike. Next up: Spkrbox, Detroit on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Spkrbox | Detroit |
 | Fri, 18 Sept 2026 | Marble Bar | Detroit |
 
 ## Recently played

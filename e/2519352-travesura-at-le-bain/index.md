@@ -1,6 +1,6 @@
 # TRAVESURA at Le Bain
 
-TRAVESURA at Le Bain on Sat 29 Aug, Newyorkcity. 3 acts on the bill: Guarionex Jr, JOSELO and MISA. Preview the line-up and save it on soundcheck.
+TRAVESURA at Le Bain on Sat 29 Aug, Newyorkcity. 4 acts on the bill: Guarionex Jr, JOSELO, MISA and Misa (NL). Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ TRAVESURA at Le Bain on Sat 29 Aug, Newyorkcity. 3 acts on the bill: Guarionex J
 - Guarionex Jr
 - JOSELO
 - MISA
+- Misa (NL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2519352-travesura-at-le-bain/)*

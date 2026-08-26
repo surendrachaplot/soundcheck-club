@@ -1,6 +1,6 @@
 # Kings Turntable: Goochi [27.09.2026] at Kings Arms E2
 
-Kings Turntable: Goochi [27.09.2026] at Kings Arms E2 on Sun 27 Sept, London. Balearic and Jazz. Preview the line-up and save it on soundcheck.
+Kings Turntable: Goochi [27.09.2026] at Kings Arms E2 on Sun 27 Sept, London. Jazz and Balearic. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

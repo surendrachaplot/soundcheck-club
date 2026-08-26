@@ -1,6 +1,6 @@
 # BEYOND THE STARDUST at The Flea Theater
 
-BEYOND THE STARDUST at The Flea Theater on Wed 16 Sept, Newyorkcity. 1 act on the bill: The Illustrious Blacks. House and Disco. Preview the line-up and save it on soundcheck.
+BEYOND THE STARDUST at The Flea Theater on Wed 16 Sept, Newyorkcity. 2 acts on the bill: Daniro and The Illustrious Blacks. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BEYOND THE STARDUST at The Flea Theater on Wed 16 Sept, Newyorkcity. 1 act on th
 
 ## Line-up
 
+- Daniro
 - The Illustrious Blacks
 
 *Source: [soundcheck](https://soundcheck.club/e/2502176-beyond-the-stardust-at-the-flea-theater/)*

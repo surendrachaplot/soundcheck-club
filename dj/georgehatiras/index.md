@@ -1,8 +1,8 @@
 # Hatiras
 
-Hatiras is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 29 Aug 2026.
+Hatiras is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sunnyside Pavilion, Toronto on Sat, 29 Aug 2026.
 
-Hatiras is a house and tech house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Chicago, Miami and Montreal and 2 more. Often billed alongside Vincent Caira, Miz Megs and TAKiN. Next up: Sunnyside Pavilion, Toronto on Sat 29 Aug.
+Hatiras is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Chicago, Miami and Montreal and 2 more. Often billed alongside Vincent Caira, Miz Megs and TAKiN. Next up: Sunnyside Pavilion, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hatiras is a house and tech house artist tracked on soundcheck, with 69 sets log
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sunnyside Pavilion | Toronto |
 | Fri, 11 Sept 2026 | Wiggle Room | Toronto |
+| Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 

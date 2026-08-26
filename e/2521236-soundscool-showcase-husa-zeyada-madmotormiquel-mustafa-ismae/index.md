@@ -1,11 +1,11 @@
-# Soundscool Showcase: Husa & Zeyada, Madmotormiquel, Mustafa Ismaeel & More at TBA
+# Soundscool Showcase: Husa & Zeyada, Madmotormiquel, Mustafa Ismaeel & More at Valerie Toronto
 
-Soundscool Showcase: Husa & Zeyada, Madmotormiquel, Mustafa Ismaeel & More at TBA on Fri 11 Sept, Toronto. 4 acts on the bill: Husa & Zeyada, Madmotormiquel, Mustafa Ismaeel and Thomas Hernan. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Soundscool Showcase: Husa & Zeyada, Madmotormiquel, Mustafa Ismaeel & More at Valerie Toronto on Fri 11 Sept, Toronto. 4 acts on the bill: Husa & Zeyada, Madmotormiquel, Mustafa Ismaeel and Thomas Hernan. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 11 Sept 2026 |
-| Venue | TBA |
+| Venue | Valerie Toronto |
 | City | Toronto |
 
 ## Line-up

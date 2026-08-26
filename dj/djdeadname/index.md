@@ -1,8 +1,8 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
+DJ DEADNAME is a Bass and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
 
-DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 98 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 27 Aug.
+DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 99 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ DEADNAME is a bass and techno artist tracked on soundcheck, with 98 sets logg
 | Sun, 30 Aug 2026 | Market Hotel | New York City |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
+| Fri, 25 Sept 2026 | TBA | New York City |
 
 ## Recently played
 
