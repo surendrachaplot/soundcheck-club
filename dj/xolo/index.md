@@ -1,6 +1,6 @@
 # Xolo
 
-Xolo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Xolo is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Xolo is a techno and acid artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside M66 (1), The Baptist and Amino. Next up: F8 1192 Folsom, Sanfrancisco on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Xolo is a techno and acid artist based in United States of America, tracked on s
 
 M66 (1), The Baptist, Amino
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xolo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xolo/)*

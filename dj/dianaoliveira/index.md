@@ -1,6 +1,6 @@
 # Diana Oliveira
 
-Diana Oliveira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tapada da Ajuda, Lisbon on Sun, 30 Aug 2026.
+Diana Oliveira is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tapada da Ajuda, Lisbon on Sun, 30 Aug 2026.
 
 Diana Oliveira is a techno and house artist based in Portugal, tracked on soundcheck, with 46 sets logged across Lisbon and Porto. Often billed alongside Rui Vargas, David Moreira (2) and Tiago Carvalho. Next up: Tapada da Ajuda, Lisbon on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Diana Oliveira is a techno and house artist based in Portugal, tracked on soundc
 
 Rui Vargas, David Moreira (2), Tiago Carvalho
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaoliveira/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianaoliveira/)*

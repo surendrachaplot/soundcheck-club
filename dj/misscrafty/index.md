@@ -1,6 +1,6 @@
 # Miss Crafty
 
-Miss Crafty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 26 Aug 2026.
+Miss Crafty is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 26 Aug 2026.
 
 Miss Crafty is a techno and house artist tracked on soundcheck, with 48 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside SNAQ, Romii and JustJovani. Next up: F8 1192 Folsom, Sanfrancisco on Wed 26 Aug.
 
@@ -27,4 +27,4 @@ Miss Crafty is a techno and house artist tracked on soundcheck, with 48 sets log
 
 SNAQ, Romii, JustJovani
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscrafty/)*

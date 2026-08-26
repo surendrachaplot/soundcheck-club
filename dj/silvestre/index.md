@@ -1,6 +1,6 @@
 # Silvestre
 
-Silvestre is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Lisbon on Fri, 30 Oct 2026.
+Silvestre is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Lisbon on Fri, 30 Oct 2026.
 
 Silvestre is a techno and breakbeat artist tracked on soundcheck, with 12 sets logged across Berlin, Glasgow, Lisbon and London. Often billed alongside Chima Isaaro, Alienata and Ben UFO. Next up: TBA, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Silvestre is a techno and breakbeat artist tracked on soundcheck, with 12 sets l
 
 Chima Isaaro, Alienata, Ben UFO
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvestre/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silvestre/)*

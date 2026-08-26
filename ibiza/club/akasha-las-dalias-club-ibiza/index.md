@@ -1,15 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 45 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Borealis" on Tue, 25 Aug 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 44 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Namaste" on Wed, 26 Aug 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 45 upcoming nights, with line-ups including Alfonso Ares, Aracil, Athie Umgido and Audera and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 44 upcoming nights, with line-ups including Alfonso Ares, Aracil, Athie Umgido and Audera and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Borealis |  |
-| Tue, 25 Aug 2026 | Ethereal | Bego Martin, Chelu Garcia, Claudio Ricci |
 | Wed, 26 Aug 2026 | Namaste | Bakean, IBÁN MENDOZA |
 | Fri, 28 Aug 2026 | C.R.A.F.T Ibiza | Iovino, Matias Vila, Patrice Bäumel |
 | Sat, 29 Aug 2026 | SUPERNOVA | Ernesto Altes, Greta Levska, Landikhan, Norman Weber, Tiga |
@@ -18,9 +16,11 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 4
 | Tue, 1 Sept 2026 | Borealis |  |
 | Wed, 2 Sept 2026 | Namaste |  |
 | Thu, 3 Sept 2026 | Sven Väth - T.R.A.N.C.E | Maurizio Schmitz, Sven Vath |
+| Fri, 4 Sept 2026 | La Tipi | Grayson, Words of Niō, ÜNAM |
+| Sat, 5 Sept 2026 | SUPERNOVA | Henry Saiz, Luciano Lozz, Rayco Santos, Valentin Huedo |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

@@ -1,6 +1,6 @@
 # Mike McSuede
 
-Mike McSuede is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 28 Aug 2026.
+Mike McSuede is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gorg-O-Mish, Vancouver on Fri, 28 Aug 2026.
 
 Mike McSuede is a house and techno artist tracked on soundcheck, with 18 sets logged across Vancouver. Often billed alongside Lalo Campo, ESB and Ev O'Reilly. Next up: Gorg-O-Mish, Vancouver on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mike McSuede is a house and techno artist tracked on soundcheck, with 18 sets lo
 
 Lalo Campo, ESB, Ev O'Reilly
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemcsuede/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemcsuede/)*

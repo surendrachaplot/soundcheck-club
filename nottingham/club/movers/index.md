@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sip N Paint: hosted by Da Vinci Club" on Thu, 27 Aug 2026.
+Movers is a music venue in Nottingham with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sip N Paint: hosted by Da Vinci Club" on Thu, 27 Aug 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, with line-ups including Alex Traska, Flat White Chris, Jack DiY and Jamz Supernova and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 10 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

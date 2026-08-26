@@ -1,6 +1,6 @@
 # Dibison
 
-Dibison is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ministerium Club, Lisbon on Thu, 10 Sept 2026.
+Dibison is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ministerium Club, Lisbon on Thu, 10 Sept 2026.
 
 Dibison is a techno and trance artist based in Spain, tracked on soundcheck, with 8 sets logged across Lisbon and Madrid. Often billed alongside ESE UVE, ANÍBAL and Alputo. Next up: Ministerium Club, Lisbon on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Dibison is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 ESE UVE, ANÍBAL, Alputo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dibison/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dibison/)*

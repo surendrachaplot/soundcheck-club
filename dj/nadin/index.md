@@ -1,6 +1,6 @@
 # Nadin
 
-Nadin is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Lucia, Vienna on Fri, 18 Sept 2026.
+Nadin is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club Lucia, Vienna on Fri, 18 Sept 2026.
 
 Nadin is a dubstep and bass artist tracked on soundcheck, with 12 sets logged across Vienna. Often billed alongside Nobody-Basstrace, SGT Pokes and J:Kenzo. Next up: Club Lucia, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nadin is a dubstep and bass artist tracked on soundcheck, with 12 sets logged ac
 
 Nobody-Basstrace, SGT Pokes, J:Kenzo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadin/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadin/)*

@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Obscura presents: Multi Genre Night" on Fri, 28 Aug 2026.
+Room 2 Glasgow is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Obscura presents: Multi Genre Night" on Fri, 28 Aug 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Girls of the Internet, KIRSTY, LESSSS and MXWLL and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

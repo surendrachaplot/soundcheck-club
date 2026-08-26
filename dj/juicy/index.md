@@ -1,14 +1,15 @@
 # juicy
 
-juicy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Elektricity, Detroit on Fri, 18 Sept 2026.
+juicy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Elektricity, Detroit on Fri, 18 Sept 2026.
 
-juicy is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Berlin, Brussels, Detroit and Lisbon and 3 more. Often billed alongside Disc Jockey George, JMT (2) and JUICY (DE). Next up: Elektricity, Detroit on Fri 18 Sept.
+juicy is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Detroit and Lisbon and 4 more. Often billed alongside Disc Jockey George, JMT (2) and JUICY (DE). Next up: Elektricity, Detroit on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Elektricity | Detroit |
+| Sat, 31 Oct 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ juicy is a house and techno artist based in United States of America, tracked on
 
 Disc Jockey George, JMT (2), JUICY (DE)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*

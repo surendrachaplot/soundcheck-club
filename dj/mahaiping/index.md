@@ -1,6 +1,6 @@
 # Ma Haiping
 
-Ma Haiping is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
+Ma Haiping is a Techno and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
 
 Ma Haiping is a techno and post-punk artist based in China, tracked on soundcheck, with 14 sets logged across Bangkok, Belgrade, Denver and Hongkong and 7 more. Often billed alongside NAXIN, Antenes and Closet Yi. Next up: UNDERCITY, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ma Haiping is a techno and post-punk artist based in China, tracked on soundchec
 
 NAXIN, Antenes, Closet Yi
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahaiping/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mahaiping/)*

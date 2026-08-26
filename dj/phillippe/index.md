@@ -1,6 +1,6 @@
 # Phillippe
 
-Phillippe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Phillippe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Phillippe is a house and techno artist tracked on soundcheck, with 72 sets logged across Mexicocity, Montreal, Toronto and Vancouver. Often billed alongside Karim Olen Ash, Jeremy Glenn and Jaw Jones. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Phillippe is a house and techno artist tracked on soundcheck, with 72 sets logge
 
 Karim Olen Ash, Jeremy Glenn, Jaw Jones
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phillippe/)*

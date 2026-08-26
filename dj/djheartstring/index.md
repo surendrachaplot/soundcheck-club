@@ -1,8 +1,8 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+DJ Heartstring is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
-DJ Heartstring is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 64 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
+DJ Heartstring is a techno and house artist tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 64 more. Often billed alongside MALUGI, KETTAMA and KI/KI. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Heartstring is a techno and house artist tracked on soundcheck, with 215 sets
 | Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | TBA | Miami |
+| Sat, 5 Sept 2026 | The Ground at Club Space | Miami |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sat, 19 Sept 2026 | Else | Berlin |
 | Sat, 10 Oct 2026 | Palladium | Geneva |
@@ -34,4 +35,4 @@ DJ Heartstring is a techno and house artist tracked on soundcheck, with 215 sets
 
 MALUGI, KETTAMA, KI/KI
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Mathias Kaden is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Mathias Kaden is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 18 more. Often billed alongside Chris Liebing, VNTM and Annina. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mathias Kaden is a techno and house artist tracked on soundcheck, with 67 sets l
 
 Chris Liebing, VNTM, Annina
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

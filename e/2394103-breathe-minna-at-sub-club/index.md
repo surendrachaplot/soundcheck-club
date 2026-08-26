@@ -1,6 +1,6 @@
 # BREATHE: MiNNA at Sub Club
 
-BREATHE: MiNNA at Sub Club on Mon 14 Sept, Glasgow. 1 act on the bill: MiNNA. House and Disco. Preview the line-up and save it on soundcheck.
+BREATHE: MiNNA at Sub Club on Mon 14 Sept, Glasgow. 3 acts on the bill: Carmen Baía, Jamie Gunn and MiNNA. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ BREATHE: MiNNA at Sub Club on Mon 14 Sept, Glasgow. 1 act on the bill: MiNNA. Ho
 
 ## Line-up
 
+- Carmen Baía
+- Jamie Gunn
 - MiNNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2394103-breathe-minna-at-sub-club/)*

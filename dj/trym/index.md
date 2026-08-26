@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Echostage, Washington DC on Fri, 28 Aug 2026.
+Trym is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Echostage, Washington DC on Fri, 28 Aug 2026.
 
 Trym is a techno and trance artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: Echostage, Washingtondc on Fri 28 Aug.
 
@@ -34,4 +34,4 @@ Trym is a techno and trance artist tracked on soundcheck, with 175 sets logged a
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

@@ -1,6 +1,6 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Everyday People DC" on Sun, 30 Aug 2026.
+BERHTA is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Everyday People DC" on Sun, 30 Aug 2026.
 
 BERHTA is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including Cassian, John Digweed, DJ MANDY and DJ Moma and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

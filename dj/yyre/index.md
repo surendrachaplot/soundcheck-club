@@ -1,6 +1,6 @@
 # Yyre
 
-Yyre is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
+Yyre is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
 
 Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside FKA Hardcore, Princess Elf Bar and FOULMOUTH. Next up: renae, Manchester on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundch
 
 FKA Hardcore, Princess Elf Bar, FOULMOUTH
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*

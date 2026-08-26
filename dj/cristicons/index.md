@@ -1,14 +1,15 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 29 Aug 2026.
+Cristi Cons is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 131 Mccormack St, Toronto on Sat, 29 Aug 2026.
 
-Cristi Cons is a house and minimal artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 31 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: 131 Mccormack St, Toronto on Sat 29 Aug.
+Cristi Cons is a house and minimal artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 31 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: 131 Mccormack St, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | 131 Mccormack St | Toronto |
+| Fri, 11 Sept 2026 | BRET | Amsterdam |
 | Sat, 12 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 26 Sept 2026 | Stage and Radio | Manchester |
 
@@ -27,4 +28,4 @@ Cristi Cons is a house and minimal artist tracked on soundcheck, with 109 sets l
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

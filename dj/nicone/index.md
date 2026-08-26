@@ -1,6 +1,6 @@
 # Niconé
 
-Niconé is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Beate Uwe, Berlin on Sat, 12 Sept 2026.
+Niconé is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Beate Uwe, Berlin on Sat, 12 Sept 2026.
 
 Niconé is a techno and deep house artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside Dirty Doering, Solvane and Prismode. Next up: Beate Uwe, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Niconé is a techno and deep house artist based in Germany, tracked on soundchec
 
 Dirty Doering, Solvane, Prismode
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicone/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicone/)*

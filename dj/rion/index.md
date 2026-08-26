@@ -1,6 +1,6 @@
 # RION
 
-RION is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
+RION is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
 
 RION is a bass and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside MOOTOE, Tinker and ATAMI. Next up: Camelot, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ RION is a bass and house artist based in Japan, tracked on soundcheck, with 21 s
 
 MOOTOE, Tinker, ATAMI
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rion/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rion/)*

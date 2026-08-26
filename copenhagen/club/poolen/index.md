@@ -1,6 +1,6 @@
 # Poolen
 
-Poolen is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "JASHO CLUB VOL.05: THE COMEBACK" on Sat, 12 Sept 2026.
+Poolen is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "JASHO CLUB VOL.05: THE COMEBACK" on Sat, 12 Sept 2026.
 
 Poolen is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Benny Benassi, DJ Heartstring, George Riley and Haseeb Iqbal and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 189, 1432 Copenhagen, Denmark.
 
@@ -21,4 +21,4 @@ Poolen is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, w
 
 Refshalevej 189, 1432 Copenhagen, Denmark, Copenhagen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/poolen/)*

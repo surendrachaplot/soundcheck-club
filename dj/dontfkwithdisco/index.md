@@ -1,6 +1,6 @@
 # Don't F**k with Disco
 
-Don't F**k with Disco is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Baltic Triangle, Liverpool on Sat, 5 Sept 2026.
+Don't F**k with Disco is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Baltic Triangle, Liverpool on Sat, 5 Sept 2026.
 
 Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20 sets logged across Birmingham, Bristol, Ibiza and Liverpool and 2 more. Often billed alongside Cj Cooper, Daisybelle and M'Lover. Next up: Baltic Triangle, Liverpool on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20
 
 Cj Cooper, Daisybelle, M'Lover
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*

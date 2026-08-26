@@ -1,6 +1,6 @@
 # NAYAN
 
-NAYAN is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 610 Hegenberger, San Francisco/Oakland on Fri, 9 Oct 2026.
+NAYAN is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 610 Hegenberger, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 NAYAN is a bass and dub artist tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside PJ Sleeps, SOBA and 40split. Next up: 610 Hegenberger, Sanfrancisco on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ NAYAN is a bass and dub artist tracked on soundcheck, with 9 sets logged across 
 
 PJ Sleeps, SOBA, 40split
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nayan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nayan/)*

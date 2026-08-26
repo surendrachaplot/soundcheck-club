@@ -1,6 +1,6 @@
 # RYX (1)
 
-RYX (1) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Elektroküche, Cologne on Sat, 29 Aug 2026.
+RYX (1) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Elektroküche, Cologne on Sat, 29 Aug 2026.
 
 RYX (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Bucharest, Cologne and Ibiza and 3 more. Often billed alongside CÖLN, Badlokk and BBUBU. Next up: Elektroküche, Cologne on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ RYX (1) is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 CÖLN, Badlokk, BBUBU
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*

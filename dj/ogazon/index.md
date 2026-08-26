@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
+Ogazón is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hive Club, Zurich on Fri, 28 Aug 2026.
 
 Ogazón is a techno and house artist tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Hive Club, Zurich on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist tracked on soundcheck, with 269 sets logged
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

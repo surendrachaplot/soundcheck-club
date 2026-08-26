@@ -1,6 +1,6 @@
 # Kinky Beach Festival at SAGE
 
-Kinky Beach Festival at SAGE on Sun 30 Aug, Berlin. 11 acts on the bill: Alyne, Bonq, CLAESSENS and Diana May and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Kinky Beach Festival at SAGE on Sun 30 Aug, Berlin. 12 acts on the bill: Alyne, Bonq, CLAESSENS and Diana May and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Kinky Beach Festival at SAGE on Sun 30 Aug, Berlin. 11 acts on the bill: Alyne, 
 - CLAESSENS
 - Diana May
 - Epicx
+- Flower Boy
 - Jakob Lesch
 - Miss Unleashed
 - Monty

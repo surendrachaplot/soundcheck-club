@@ -1,6 +1,6 @@
 # Ato Rodriguez
 
-Ato Rodriguez is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Rastro Live Studio, Madrid on Sat, 3 Oct 2026.
+Ato Rodriguez is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rastro Live Studio, Madrid on Sat, 3 Oct 2026.
 
 Ato Rodriguez is an electro and techno artist based in Spain, tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Alvaro Cabana, Andrés Cremisini and Lautaro. Next up: Rastro Live Studio, Madrid on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Ato Rodriguez is an electro and techno artist based in Spain, tracked on soundch
 
 Alvaro Cabana, Andrés Cremisini, Lautaro
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atorodriguez/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atorodriguez/)*

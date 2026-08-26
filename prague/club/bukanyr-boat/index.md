@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Bukanyr Boat: 28th Anniversary w. Biesmans (Running Back / Berlin)" on Fri, 28 Aug 2026.
+Bukanyr Boat is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Bukanyr Boat: 28th Anniversary w. Biesmans (Running Back / Berlin)" on Fri, 28 Aug 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including abecko, Axis Alpha, Biodan and Blackloud and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming nights
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

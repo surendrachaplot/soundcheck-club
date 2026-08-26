@@ -1,6 +1,6 @@
 # Cosmo (NY)
 
-Cosmo (NY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Gabriela, New York City on Wed, 26 Aug 2026.
+Cosmo (NY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gabriela, New York City on Wed, 26 Aug 2026.
 
 Cosmo (NY) is a house and techno artist tracked on soundcheck, with 138 sets logged across Boston, Detroit, Montreal and Newyorkcity. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: Gabriela, Newyorkcity on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Cosmo (NY) is a house and techno artist tracked on soundcheck, with 138 sets log
 
 Eli Escobar, Donis, Mike Servito
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*

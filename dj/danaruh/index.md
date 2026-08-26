@@ -1,8 +1,8 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Dana Ruh is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Dana Ruh is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Barcelona, Berlin and Boston and 34 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Dana Ruh is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Barcelona, Berlin and Boston and 35 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Dana Ruh is a house and techno artist tracked on soundcheck, with 145 sets logge
 | Fri, 4 Sept 2026 | MTW | Frankfurt |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Sat, 12 Sept 2026 | Green Room NYC | New York City |
+| Fri, 18 Sept 2026 | Platforma Wolff | Bucharest |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 19 Sept 2026 | Kater | Berlin |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
@@ -20,6 +21,7 @@ Dana Ruh is a house and techno artist tracked on soundcheck, with 145 sets logge
 
 ## Recently played
 
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Macadam, Nantes — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
@@ -27,10 +29,9 @@ Dana Ruh is a house and techno artist tracked on soundcheck, with 145 sets logge
 - Club der Visionaere, Berlin — Fri, 26 Jun 2026
 - Sparta Schwimmclub, Frankfurt — Sun, 21 Jun 2026
 - Bar Dancing Multipla, Amsterdam — Sat, 13 Jun 2026
-- Renate, Berlin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

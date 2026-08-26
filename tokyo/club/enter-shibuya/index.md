@@ -1,26 +1,26 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "AHOOO" on Tue, 25 Aug 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "VIRGO" on Wed, 26 Aug 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and arow and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including 7e, AKIRAM EN, Albino Sound and arow and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | AHOOO | kengotaki |
 | Wed, 26 Aug 2026 | VIRGO | SOGI, arow, fýsia |
 | Thu, 27 Aug 2026 | Decryption | UG (1) |
 | Fri, 28 Aug 2026 | TAKAHATA ELECTRONICA SYNDICATE × SLAM | 7e, AKIRAM EN, Albino Sound, KUNPEI, MAYUDEPTH, S.H.V |
 | Sat, 29 Aug 2026 | うたげ - UTAGE - | DJ HI-C, SAMO (JP), Yukibeb, kengotaki, michika, nasthug, r1ku |
 | Mon, 31 Aug 2026 | YAGIHOUSE Vol.4 | Licaxxx, Lui (6), OKAMOTO REIJI |
+| Tue, 1 Sept 2026 | Sound Bombing | KZA, Ren Yokoi |
 | Wed, 2 Sept 2026 | karuomo vol.15 | Ririko |
 | Thu, 3 Sept 2026 | KEPLER | discopants, judgeman, kuniii |
-| Tue, 15 Sept 2026 | SOULSIDE vol.2 |  |
-| Sun, 20 Sept 2026 | DiVANG TUNE 16TH ANNIVERSARY -yuitty BIRTHDAY BASH& DJ MIYU 20TH ANNIV.- | CITY1, DJ MIYU, oshi (2), yuitty |
+| Fri, 4 Sept 2026 | DAYSvs響天 |  |
+| Tue, 8 Sept 2026 | morph. vol.6 | Rickshinmi, imus, uuu7 |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

@@ -1,6 +1,6 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Freaky AfroPiano Fridays!!!" on Fri, 28 Aug 2026.
+142b Lounge is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Freaky AfroPiano Fridays!!!" on Fri, 28 Aug 2026.
 
 142b Lounge is a music venue in Glasgow listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
@@ -19,4 +19,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

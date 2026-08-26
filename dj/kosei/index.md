@@ -1,6 +1,6 @@
 # KOSEI
 
-KOSEI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at BAR Inc, Osaka on Tue, 22 Sept 2026.
+KOSEI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at BAR Inc, Osaka on Tue, 22 Sept 2026.
 
 KOSEI is a techno and industrial artist tracked on soundcheck, with 54 sets logged across Berlin, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside Golpe Mortal, the2$ and Daichi Wada. Next up: BAR Inc, Osaka on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ KOSEI is a techno and industrial artist tracked on soundcheck, with 54 sets logg
 
 Golpe Mortal, the2$, Daichi Wada
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosei/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosei/)*

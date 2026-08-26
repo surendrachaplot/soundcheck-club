@@ -1,6 +1,6 @@
 # vince
 
-vince is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+vince is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
 vince is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Frankfurt and Geneva and 8 more. Often billed alongside Muallem, BASHKKA and Felix Rupprecht. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ vince is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Muallem, BASHKKA, Felix Rupprecht
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vince-3/)*

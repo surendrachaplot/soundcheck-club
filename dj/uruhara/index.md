@@ -1,6 +1,6 @@
 # uruhara
 
-uruhara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 27 Aug 2026.
+uruhara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Thu, 27 Aug 2026.
 
 uruhara is a techno and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Mars89, YuWa and BERLINER KINDL. Next up: UTOPIA / DYSTOPIA, Tokyo on Thu 27 Aug.
 
@@ -23,4 +23,4 @@ uruhara is a techno and house artist based in Japan, tracked on soundcheck, with
 
 Mars89, YuWa, BERLINER KINDL
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uruhara/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uruhara/)*

@@ -1,6 +1,6 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 27 Aug 2026.
+Claptone is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 27 Aug 2026.
 
 Claptone is a house and tech house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Cavo Paradiso, Mykonos on Thu 27 Aug.
 
@@ -36,4 +36,4 @@ Claptone is a house and tech house artist tracked on soundcheck, with 229 sets l
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

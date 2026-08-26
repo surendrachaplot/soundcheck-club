@@ -1,6 +1,6 @@
 # Equinox (UK)
 
-Equinox (UK) is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
+Equinox (UK) is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Carpet Shop, London on Thu, 27 Aug 2026.
 
 Equinox (UK) is a jungle and hardcore artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Louise Plus One, Hughesee and Tim Reaper. Next up: The Carpet Shop, London on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Equinox (UK) is a jungle and hardcore artist tracked on soundcheck, with 70 sets
 
 Louise Plus One, Hughesee, Tim Reaper
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/equinox-uk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/equinox-uk/)*

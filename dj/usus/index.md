@@ -1,6 +1,6 @@
 # Usus
 
-Usus is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
+Usus is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
 
 Usus is a bass and garage artist based in Germany, tracked on soundcheck, with 23 sets logged across Hamburg. Often billed alongside Sarah Q, Freddy Kuno and Selsela. Next up: Haus73, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Usus is a bass and garage artist based in Germany, tracked on soundcheck, with 2
 
 Sarah Q, Freddy Kuno, Selsela
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/usus/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/usus/)*

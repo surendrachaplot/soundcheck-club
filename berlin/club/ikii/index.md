@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "VvoovV: Deep Listening Sessions" on Wed, 26 Aug 2026.
+Ikii is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "VvoovV: Deep Listening Sessions" on Wed, 26 Aug 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including 0dysseus, Benjamin Freeney and DJ Treibsand. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

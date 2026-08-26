@@ -1,6 +1,6 @@
 # Judy (ES)
 
-Judy (ES) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Judy (ES) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
 Judy (ES) is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 7 more. Often billed alongside Tuber, R-010 and Alexandre Laeddis. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Judy (ES) is a techno and house artist tracked on soundcheck, with 54 sets logge
 
 Tuber, R-010, Alexandre Laeddis
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judy-es/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judy-es/)*

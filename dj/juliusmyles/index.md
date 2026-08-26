@@ -1,6 +1,6 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Joey Smalls, Melbourne on Sat, 29 Aug 2026.
+Julius Myles is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Joey Smalls, Melbourne on Sat, 29 Aug 2026.
 
 Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and NALIITA. Next up: Joey Smalls, Melbourne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Julius Myles is a deep house and disco artist based in United Kingdom, tracked o
 
 Miles Ahead, Emotive Experience, NALIITA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

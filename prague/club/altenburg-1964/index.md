@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "SUN > ATG < SET: AVHD, Ayiaa, Iriky" on Thu, 27 Aug 2026.
+Altenburg 1964 is a music venue in Prague with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SUN > ATG < SET: AVHD, Ayiaa, Iriky" on Thu, 27 Aug 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 6 upcoming nights, with line-ups including 3ever, aláya, Atlaskin and AVHD and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -19,4 +19,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 6 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

@@ -1,6 +1,6 @@
 # Ziúr
 
-Ziúr is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Fri, 28 Aug 2026.
+Ziúr is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at THE MAGICK BAR, Rome on Fri, 28 Aug 2026.
 
 Ziúr is an experimental and club artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside DjRUM, aya and 33EMYBW. Next up: THE MAGICK BAR, Rome on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Ziúr is an experimental and club artist tracked on soundcheck, with 34 sets log
 
 DjRUM, aya, 33EMYBW
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziur/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziur/)*

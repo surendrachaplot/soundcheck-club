@@ -1,10 +1,10 @@
 # Fernelly, Extra Meesh, joeyjoey, DJ Flirt, Yibing, Club Made - Dead Letter No.9 at Dead Letter No. 9
 
-Fernelly, Extra Meesh, joeyjoey, DJ Flirt, Yibing, Club Made - Dead Letter No.9 at Dead Letter No. 9 on Sat 5 Sept, Newyorkcity. 7 acts on the bill: DJ Flirt, Extra Meesh, Fernelly and joeyjoey and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
+Fernelly, Extra Meesh, joeyjoey, DJ Flirt, Yibing, Club Made - Dead Letter No.9 at Dead Letter No. 9 on Fri 25 Sept, Newyorkcity. 7 acts on the bill: DJ Flirt, Extra Meesh, Fernelly and joeyjoey and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Sept 2026 |
+| Date | Fri, 25 Sept 2026 |
 | Venue | Dead Letter No. 9 |
 | City | New York City |
 

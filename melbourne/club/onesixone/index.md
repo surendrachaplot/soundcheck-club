@@ -1,6 +1,6 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Marilyn Matrix - onesixone Thursday's" on Thu, 27 Aug 2026.
+OneSixOne is a music venue in Melbourne with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Marilyn Matrix - onesixone Thursday's" on Thu, 27 Aug 2026.
 
 OneSixOne is a music venue in Melbourne listed on soundcheck. 4 upcoming nights, with line-ups including Adam Trace, Agent 86, Cara Murphy and CHARBINKS and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
@@ -17,4 +17,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 4 upcoming nights,
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

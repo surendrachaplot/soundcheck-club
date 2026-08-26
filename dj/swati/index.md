@@ -1,6 +1,6 @@
 # Swati
 
-Swati is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Rei Room, Mexico City on Fri, 28 Aug 2026.
+Swati is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rei Room, Mexico City on Fri, 28 Aug 2026.
 
 Swati is a techno and downtempo artist tracked on soundcheck, with 25 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside DNZA, rodman and KOI (MX). Next up: Rei Room, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Swati is a techno and downtempo artist tracked on soundcheck, with 25 sets logge
 
 DNZA, rodman, KOI (MX)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swati/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swati/)*

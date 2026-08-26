@@ -1,6 +1,6 @@
 # Mute.
 
-Mute. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Fri, 4 Sept 2026.
+Mute. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Fri, 4 Sept 2026.
 
 Mute. is a techno and electro artist tracked on soundcheck, with 17 sets logged across Berlin, Madrid, Prague and Strasbourg. Often billed alongside 1client, FTFL and Luska. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mute. is a techno and electro artist tracked on soundcheck, with 17 sets logged 
 
 1client, FTFL, Luska
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mute./)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mute./)*

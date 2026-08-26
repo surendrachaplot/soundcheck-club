@@ -1,13 +1,14 @@
 # SoFTT
 
-SoFTT is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
+SoFTT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Little Island, New York City on Fri, 28 Aug 2026.
 
-SoFTT is a techno and club artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Ariel Zetina, Kirk (US) and Nick León. Next up: The Boombox, Miami on Sat 12 Sept.
+SoFTT is a techno and club artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Ariel Zetina, Kirk (US) and Nick León. Next up: Little Island, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Little Island | New York City |
 | Sat, 12 Sept 2026 | The Boombox | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ SoFTT is a techno and club artist based in United States of America, tracked on 
 
 Ariel Zetina, Kirk (US), Nick León
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softt/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/softt/)*

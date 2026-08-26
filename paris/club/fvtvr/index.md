@@ -1,8 +1,8 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Fvtvr INVITES: Chris Liebing, Sept, TSIEG" on Fri, 28 Aug 2026.
+Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Fvtvr INVITES: Chris Liebing, Sept, TSIEG" on Fri, 28 Aug 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including abs8lute, Ahmet Sisman, Akaj and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including abs8lute, Ahmet Sisman, Akaj and Alyhas and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Fvtvr INVITES: Chris Liebing, Sept, TSIEG | Chris Liebing, Sept |
 | Sat, 29 Aug 2026 | HOUSE OF REKIDS: Radio Slave, Tal Fussman, Arthur Pringle | Marli, Radio Slave, Tal Fussman |
+| Fri, 4 Sept 2026 | Fvtvr INVITES: Jimi Jules, RAG | Jimi Jules, RAG |
 | Sat, 5 Sept 2026 | Fvtvr INVITES KEY VINYL: Freddy K EXTENDED SET, Beste Hira | Beste Hira, Freddy K |
 | Fri, 11 Sept 2026 | Fvtvr X KALT: DVS1, Philippa Pacho, CHILL | Chill (FR), DVS1, Philippa Pacho |
 | Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Sonja Moonear, Woddd, Zeina |
@@ -22,4 +23,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

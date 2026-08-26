@@ -1,6 +1,6 @@
 # Rello
 
-Rello is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Superior Ingredients, New York City on Fri, 28 Aug 2026.
+Rello is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Superior Ingredients, New York City on Fri, 28 Aug 2026.
 
 Rello is a tech house and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Austin, Ibiza, Miami and Newyorkcity and 1 more. Often billed alongside Ms. Mada, Natalia Roth and Sosa. Next up: Superior Ingredients, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Rello is a tech house and house artist based in United States of America, tracke
 
 Ms. Mada, Natalia Roth, Sosa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rello/)*

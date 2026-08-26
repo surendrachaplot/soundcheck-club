@@ -1,6 +1,6 @@
 # Invites Leafar Legov at teller
 
-Invites Leafar Legov at teller on Sat 29 Aug, Seoul. 1 act on the bill: Leafar Legov. Minimal. Preview the line-up and save it on soundcheck.
+Invites Leafar Legov at teller on Sat 29 Aug, Seoul. 3 acts on the bill: Jongho, Kibum and Leafar Legov. Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Invites Leafar Legov at teller on Sat 29 Aug, Seoul. 1 act on the bill: Leafar L
 
 ## Line-up
 
+- Jongho
+- Kibum
 - Leafar Legov
 
 *Source: [soundcheck](https://soundcheck.club/e/2501651-invites-leafar-legov-at-teller/)*

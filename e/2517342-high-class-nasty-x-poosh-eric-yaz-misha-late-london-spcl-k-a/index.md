@@ -1,11 +1,11 @@
-# High Class Nasty x Poosh: Eric Yaz, Misha, Late London, SPCL.K at La Fabrica
+# High Class Nasty x Poosh: Eric Yaz, Misha, Late London, SPCL.K at 618 DC
 
-High Class Nasty x Poosh: Eric Yaz, Misha, Late London, SPCL.K at La Fabrica on Sun 6 Sept, Washingtondc. 3 acts on the bill: Eric Yaz, Late London and SPCL.K. Techno and House. Preview the line-up and save it on soundcheck.
+High Class Nasty x Poosh: Eric Yaz, Misha, Late London, SPCL.K at 618 DC on Sun 6 Sept, Washingtondc. 3 acts on the bill: Eric Yaz, Late London and SPCL.K. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sun, 6 Sept 2026 |
-| Venue | La Fabrica |
+| Venue | 618 DC |
 | City | Washington DC |
 
 ## Line-up

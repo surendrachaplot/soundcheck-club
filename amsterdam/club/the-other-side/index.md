@@ -1,8 +1,8 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "MITA - Volume 1" on Fri, 11 Sept 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "MITA - Volume 1" on Fri, 11 Sept 2026.
 
-THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Alex (ES), Annett Gapstream, Aron Friedman and Borella and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
+THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Alex (ES), Annett Gapstream, Aron Friedman and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
 ## What's on
 
@@ -15,12 +15,12 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 11 upcoming n
 | Sat, 3 Oct 2026 | Closer presents Miss Melera Mitch de Klein Thysma |  |
 | Wed, 21 Oct 2026 | Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn | Hardt Antoine, MĪMĪ x FY, Pattn, Trikk |
 | Wed, 21 Oct 2026 | FULL CYCLE: Immersive Live Concerts ADE Serie |  |
+| Thu, 22 Oct 2026 | SLPFNK X THE OTHERSIDE | Beste Hira, DJ Spence, Idilay, Kyra Khaldi, Loradeniz, PLO Man, Samuel Deep, TAFKAMP, Tommy Chikara |
 | Thu, 22 Oct 2026 | FULL CYCLE - Immersive Live Concerts ADE Serie |  |
 | Fri, 23 Oct 2026 | Kater on THE OTHER SIDE | Aron Friedman, Borella, Britta Arnold, Caleesi, Chris Schwarzwälder, Franca, Mira, Sarah Kreis |
-| Sat, 24 Oct 2026 | Stil vor Talent ADE Showcase | Annett Gapstream, Frida Darko, HOVR, Malive, Oliver Koletzki |
 
 ## Address
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

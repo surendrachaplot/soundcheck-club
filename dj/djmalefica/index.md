@@ -1,13 +1,14 @@
 # Dj Malefica
 
-Dj Malefica is a Post-Punk and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Colours Hoxton, London on Sat, 31 Oct 2026.
+Dj Malefica is a Techno and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Colours Hoxton, London on Fri, 25 Sept 2026.
 
-Dj Malefica is a post-punk and electro artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Elander Ziggy, Ricardo Castro and Boy George. Next up: Colours Hoxton, London on Sat 31 Oct.
+Dj Malefica is a techno and post-punk artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Elander Ziggy, Ricardo Castro and Arrosa. Next up: Colours Hoxton, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Colours Hoxton | London |
 | Sat, 31 Oct 2026 | Colours Hoxton | London |
 
 ## Recently played
@@ -17,6 +18,6 @@ Dj Malefica is a post-punk and electro artist tracked on soundcheck, with 3 sets
 
 ## Shares bills with
 
-Elander Ziggy, Ricardo Castro, Boy George
+Elander Ziggy, Ricardo Castro, Arrosa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmalefica/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmalefica/)*

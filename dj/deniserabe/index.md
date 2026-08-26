@@ -1,6 +1,6 @@
 # Denise Rabe
 
-Denise Rabe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
+Denise Rabe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
 
 Denise Rabe is a techno and house artist based in Germany, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 16 more. Often billed alongside Justine Perry, 30drop and Alejandro Franco. Next up: Tresor / Globus, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Denise Rabe is a techno and house artist based in Germany, tracked on soundcheck
 
 Justine Perry, 30drop, Alejandro Franco
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deniserabe/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deniserabe/)*

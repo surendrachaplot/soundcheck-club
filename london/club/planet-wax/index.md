@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 20 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "OPEN DECKS" on Wed, 26 Aug 2026.
+Planet Wax is a music venue in London with 31 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "OPEN DECKS" on Wed, 26 Aug 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Andy Foundations, Ani Klang, ARKNGL and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 31 upcoming nights, with line-ups including Andy Foundations, andz, Ani Klang and ARKNGL and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 20 upcoming nights, 
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

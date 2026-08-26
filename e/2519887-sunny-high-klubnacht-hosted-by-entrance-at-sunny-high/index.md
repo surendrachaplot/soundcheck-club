@@ -1,6 +1,6 @@
 # Sunny High Klubnacht — hosted by Entrance at Sunny High
 
-Sunny High Klubnacht — hosted by Entrance on Sat 12 Sept, Stuttgart. 3 acts on the bill: Cynthia Matisse, Hjalte and Stereo Visions. Techno and House. Preview the line-up and save it on soundcheck.
+Sunny High Klubnacht — hosted by Entrance on Sat 12 Sept, Stuttgart. 4 acts on the bill: Cynthia Matisse, ELSA (DE), Hjalte and Stereo Visions. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Sunny High Klubnacht — hosted by Entrance on Sat 12 Sept, Stuttgart. 3 acts on
 ## Line-up
 
 - Cynthia Matisse
+- ELSA (DE)
 - Hjalte
 - Stereo Visions
 

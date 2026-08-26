@@ -1,6 +1,6 @@
 # GADDAM
 
-GADDAM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
+GADDAM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
 
 GADDAM is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 63 sets logged across Barcelona, Lisbon and Porto. Often billed alongside DIMENSION 9, ophell and GTH (FR). Next up: M7 Club, Barcelona on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ GADDAM is a techno and hardcore artist based in Portugal, tracked on soundcheck,
 
 DIMENSION 9, ophell, GTH (FR)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaddam/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaddam/)*

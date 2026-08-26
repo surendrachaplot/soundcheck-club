@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "UK Garage Night with Qnoe, Karl B, DJ Ens" on Fri, 28 Aug 2026.
+Goldener Reiter is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "UK Garage Night with Qnoe, Karl B, DJ Ens" on Fri, 28 Aug 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including Ellice, Karl B., Qnoe and Rollo3000. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -15,4 +15,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 2 upcoming nigh
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

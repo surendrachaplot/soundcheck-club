@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sunshine Love - 4AM LAST CALL" on Fri, 28 Aug 2026.
+Wiggle Room is a music venue in Toronto with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sunshine Love - 4AM LAST CALL" on Fri, 28 Aug 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including Addy, Barroness, Cozmic Cat and Dan Medland and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 8 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -14,9 +14,11 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 6 upcoming nights,
 | Sat, 5 Sept 2026 | WR Records Release Party: TAKiN ft Santouri (live) | Cozmic Cat, Dan Medland, TAKiN |
 | Sun, 6 Sept 2026 | Sunday SerVice: Long Weekend FAM JAM - 4AM LAST CALL | Addy, Barroness, Manzone & Strong, Randomdoug, Tyler Hill |
 | Fri, 11 Sept 2026 | Spacedisco Records: Hatiras + Seamus Haji (UK) | Hatiras, Seamus Haji |
+| Sat, 26 Sept 2026 | Wiggle Room Records Release Party: CARLOS MENACA [Spain] | Addy, Carlos Manaça, Juan Gmoney Jaramillo, TAKiN |
+| Sun, 27 Sept 2026 | Sunday SerVice: Joee Cons Birthday Tribute | BOZA, Joee Cons, MC Flipside, Manzone & Strong, Miz Megs |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

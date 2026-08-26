@@ -1,6 +1,6 @@
 # abecko
 
-abecko is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bukanyr Boat, Prague on Fri, 25 Sept 2026.
+abecko is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bukanyr Boat, Prague on Fri, 25 Sept 2026.
 
 abecko is a house and minimal artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Prague. Often billed alongside 3TB (1), Kirill Astra and Markel. Next up: Bukanyr Boat, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ abecko is a house and minimal artist based in Czech Republic, tracked on soundch
 
 3TB (1), Kirill Astra, Markel
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abecko/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abecko/)*

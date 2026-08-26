@@ -1,6 +1,6 @@
 # Hasta La Vista, Baby
 
-Hasta La Vista, Baby is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Bizarre Trax x Focal Point - ADE 2026" on Thu, 22 Oct 2026.
+Hasta La Vista, Baby is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Bizarre Trax x Focal Point - ADE 2026" on Thu, 22 Oct 2026.
 
 Hasta La Vista, Baby is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including B.Love, E.LINA, Jhobei and Oliver.r and 1 more. Browse upcoming dates, start times and who's playing. Eduard van Beinumstraat 40, 1077 CZ, Amsterdam.
 
@@ -14,4 +14,4 @@ Hasta La Vista, Baby is a music venue in Amsterdam listed on soundcheck. 1 upcom
 
 Eduard van Beinumstraat 40, 1077 CZ, Amsterdam, Amsterdam
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hasta-la-vista-baby/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/hasta-la-vista-baby/)*

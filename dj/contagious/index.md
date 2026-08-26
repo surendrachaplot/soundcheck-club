@@ -1,6 +1,6 @@
 # CONTAGIOUS
 
-CONTAGIOUS is a Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Panke, Berlin on Wed, 9 Sept 2026.
+CONTAGIOUS is a Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Panke, Berlin on Wed, 9 Sept 2026.
 
 CONTAGIOUS is an experimental artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Mieko Suzuki and Rabih Beaini. Next up: Panke, Berlin on Wed 9 Sept.
 
@@ -21,4 +21,4 @@ CONTAGIOUS is an experimental artist based in Germany, tracked on soundcheck, wi
 
 Mieko Suzuki, Rabih Beaini
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/contagious/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/contagious/)*

@@ -1,6 +1,6 @@
 # The Garage
 
-The Garage is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Teletech MADRID" on Sat, 21 Nov 2026.
+The Garage is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Teletech MADRID" on Sat, 21 Nov 2026.
 
 The Garage is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Alba Franch, Azyr, ines isla and Nikolina and 2 more. Browse upcoming dates, start times and who's playing. Calle Isla de Java 2, 28034 Madrid.
 
@@ -14,4 +14,4 @@ The Garage is a music venue in Madrid listed on soundcheck. 1 upcoming night, wi
 
 Calle Isla de Java 2, 28034 Madrid, Madrid
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-garage/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-garage/)*

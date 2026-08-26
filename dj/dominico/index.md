@@ -1,6 +1,6 @@
 # Dominico
 
-Dominico is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Dominico is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Dominico is a techno and tech house artist tracked on soundcheck, with 2 sets logged across Brussels and Ghent. Often billed alongside &ME, 999999999 and AJNA. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Dominico is a techno and tech house artist tracked on soundcheck, with 2 sets lo
 
 &ME, 999999999, AJNA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominico/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominico/)*

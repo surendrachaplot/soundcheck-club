@@ -1,6 +1,6 @@
 # Rumi Jill
 
-Rumi Jill is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
+Rumi Jill is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
 
 Rumi Jill is a house and trance artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Bonita, Chucho and Easttown. Next up: SISSI'S Amsterdam, Amsterdam on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Rumi Jill is a house and trance artist tracked on soundcheck, with 4 sets logged
 
 Bonita, Chucho, Easttown
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rumijill/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rumijill/)*

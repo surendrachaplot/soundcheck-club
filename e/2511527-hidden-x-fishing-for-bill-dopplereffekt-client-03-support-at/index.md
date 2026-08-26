@@ -1,6 +1,6 @@
-# Hidden x Fishing for Bill: Dopplereffekt, Client 03 + Support at Hidden
+# Hidden x Fishing for Bill: Dopplereffekt, Client_03 + Support at Hidden
 
-Hidden x Fishing for Bill: Dopplereffekt, Client 03 + Support on Fri 13 Nov, Manchester. 2 acts on the bill: Client_03 and Dopplereffekt. Techno and Electro. Preview the line-up and save it on soundcheck.
+Hidden x Fishing for Bill: Dopplereffekt, Client_03 + Support on Fri 13 Nov, Manchester. 2 acts on the bill: Client_03 and Dopplereffekt. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

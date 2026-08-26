@@ -1,6 +1,6 @@
 # SOMA
 
-SOMA is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "William Black" on Fri, 4 Sept 2026.
+SOMA is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "William Black" on Fri, 4 Sept 2026.
 
 SOMA is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, with line-ups including Restricted. Browse upcoming dates, start times and who's playing. 3350 Sports Arena, San Diego, CA 9211.
 
@@ -17,4 +17,4 @@ SOMA is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, with 
 
 3350 Sports Arena, San Diego, CA 9211, San Diego
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/soma/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/soma/)*

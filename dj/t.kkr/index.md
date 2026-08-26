@@ -1,6 +1,6 @@
 # T.K (KR)
 
-T.K (KR) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bolero, Seoul on Sat, 29 Aug 2026.
+T.K (KR) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bolero, Seoul on Sat, 29 Aug 2026.
 
 T.K (KR) is a club and house artist based in South Korea, tracked on soundcheck, with 33 sets logged across Seoul. Often billed alongside DJ Co.kr, Hyejin and KIKOH. Next up: Bolero, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ T.K (KR) is a club and house artist based in South Korea, tracked on soundcheck,
 
 DJ Co.kr, Hyejin, KIKOH
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*

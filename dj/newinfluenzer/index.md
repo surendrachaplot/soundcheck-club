@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lilli Escher, Hamburg on Wed, 26 Aug 2026.
+Newinfluenzer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lilli Escher, Hamburg on Wed, 26 Aug 2026.
 
 Newinfluenzer is a techno and electro artist tracked on soundcheck, with 83 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside yamyam, DJ SOURCE and 11Schnull. Next up: Lilli Escher, Hamburg on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 83 sets
 
 yamyam, DJ SOURCE, 11Schnull
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

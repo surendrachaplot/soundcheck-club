@@ -1,6 +1,6 @@
 # Kongusto
 
-Kongusto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
+Kongusto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
 
 Kongusto is a house and tech house artist based in Germany, tracked on soundcheck, with 15 sets logged across Munich. Often billed alongside Melchiorr, Chet Rubbs and Neverglass. Next up: Legal, Munich on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Kongusto is a house and tech house artist based in Germany, tracked on soundchec
 
 Melchiorr, Chet Rubbs, Neverglass
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kongusto/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kongusto/)*

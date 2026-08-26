@@ -1,20 +1,20 @@
 # Mr Scruff
 
-Mr Scruff is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 25 Aug 2026.
+Mr Scruff is a House and Funk / Soul artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gretchen, Berlin on Fri, 9 Oct 2026.
 
-Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: 528 Ibiza, Ibiza on Tue 25 Aug.
+Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: Gretchen, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Gretchen | Berlin |
 | Sat, 24 Oct 2026 | Phonox | London |
 | Sun, 1 Nov 2026 | Hare & Hounds | Birmingham |
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Tue, 25 Aug 2026
 - Finsbury Park, London — Sat, 1 Aug 2026
 - Glendalough Estate, Dublin — Fri, 12 Jun 2026
 - Queens Park Recreation Ground, Glasgow — Sat, 2 May 2026
@@ -22,10 +22,9 @@ Mr Scruff is a house and funk / soul artist tracked on soundcheck, with 104 sets
 - Beaver Works, Leeds — Sun, 19 Apr 2026
 - 24 Kitchen Street, Liverpool — Fri, 17 Apr 2026
 - PROGRESS, Manchester — Sun, 5 Apr 2026
-- The Bath House, London — Sun, 15 Mar 2026
 
 ## Shares bills with
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

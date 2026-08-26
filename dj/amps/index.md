@@ -1,6 +1,6 @@
 # Amps
 
-Amps is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Oath, Tokyo on Fri, 11 Sept 2026.
+Amps is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Oath, Tokyo on Fri, 11 Sept 2026.
 
 Amps is a house and tech house artist based in Japan, tracked on soundcheck, with 38 sets logged across Buenosaires, London and Tokyo. Often billed alongside Yuta Yamada, GooPer and ISPA. Next up: Oath, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Amps is a house and tech house artist based in Japan, tracked on soundcheck, wit
 
 Yuta Yamada, GooPer, ISPA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amps/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amps/)*

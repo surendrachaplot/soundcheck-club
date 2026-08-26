@@ -1,6 +1,6 @@
 # Roko (2)
 
-Roko (2) is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Paloma, Berlin on Fri, 11 Sept 2026.
+Roko (2) is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paloma, Berlin on Fri, 11 Sept 2026.
 
 Roko (2) is a breakbeat and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Leipzig. Often billed alongside grandmalheur, 11:68PM and Candy Jones. Next up: Paloma, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Roko (2) is a breakbeat and house artist based in Germany, tracked on soundcheck
 
 grandmalheur, 11:68PM, Candy Jones
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roko-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roko-2/)*

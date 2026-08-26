@@ -1,8 +1,8 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "The Third Room: Andy Martin, Costanza, Marcal, Felix Fleer, Justine Perry " on Sat, 29 Aug 2026.
+KALT is a music venue in Strasbourg with 14 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "The Third Room: Andy Martin, Costanza, Marcal, Felix Fleer, Justine Perry " on Sat, 29 Aug 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, with line-ups including 6EJOU, Justine Perry, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 14 upcoming nights, with line-ups including 6EJOU, Justine Perry, Alarico and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 
@@ -17,10 +17,10 @@ KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, wi
 | Sat, 3 Oct 2026 | X-Club. | Deetron, X CLUB. |
 | Sat, 10 Oct 2026 | FLIRT: Alarico, Iman Janes & KALTBLUME | Alarico, Iman Janes, KALTBLUME |
 | Sat, 17 Oct 2026 | Juan Atkins  | Juan Atkins |
-| Sat, 31 Oct 2026 | Backspin Records: Regal, Steve RedHead, Isaiah & Carmen Electro | Carmen Electro, Dima Roas, Isaiah (NL), Regal, Steve RedHead |
+| Sat, 24 Oct 2026 | Yasmin Gardezi | Yasmin Gardezi |
 
 ## Address
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

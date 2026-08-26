@@ -1,6 +1,6 @@
 # Allen Cedano
 
-Allen Cedano is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Oxford Art Factory, Sydney on Sat, 19 Sept 2026.
+Allen Cedano is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Oxford Art Factory, Sydney on Sat, 19 Sept 2026.
 
 Allen Cedano is a techno and acid artist tracked on soundcheck, with 12 sets logged across Brisbane and Sydney. Often billed alongside mara (AU), JUNN GULDUR and KAYA (AU). Next up: Oxford Art Factory, Sydney on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Allen Cedano is a techno and acid artist tracked on soundcheck, with 12 sets log
 
 mara (AU), JUNN GULDUR, KAYA (AU)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allencedano/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allencedano/)*

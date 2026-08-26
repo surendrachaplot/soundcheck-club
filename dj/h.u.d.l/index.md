@@ -1,6 +1,6 @@
 # H.U.D.L
 
-H.U.D.L is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Better Tomorrow, Los Angeles on Thu, 27 Aug 2026.
+H.U.D.L is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Better Tomorrow, Los Angeles on Thu, 27 Aug 2026.
 
 H.U.D.L is a house and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Birmingham, Brighton, London and Losangeles and 3 more. Often billed alongside Hazy, ZØRAYA and Krane. Next up: Better Tomorrow, Losangeles on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ H.U.D.L is a house and electronica artist based in United States of America, tra
 
 Hazy, ZØRAYA, Krane
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h.u.d.l/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h.u.d.l/)*

@@ -1,6 +1,6 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
+Tommy Pickles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
 
 Tommy Pickles is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Alex Picone, Desyn and Tom Morgan. Next up: TBA - Arts District LA, Losangeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tommy Pickles is a house and techno artist tracked on soundcheck, with 96 sets l
 
 Alex Picone, Desyn, Tom Morgan
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*

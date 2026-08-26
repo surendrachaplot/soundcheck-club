@@ -1,6 +1,6 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Night Tales, London on Sun, 30 Aug 2026.
+Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Night Tales, London on Sun, 30 Aug 2026.
 
 Ranger Trucco is a house and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: Night Tales, London on Sun 30 Aug.
 
@@ -32,4 +32,4 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 88 se
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

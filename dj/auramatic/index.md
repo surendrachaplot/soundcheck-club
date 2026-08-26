@@ -1,6 +1,6 @@
 # Auramatic
 
-Auramatic is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 16 Sept 2026.
+Auramatic is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 16 Sept 2026.
 
 Auramatic is a garage and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 18 more. Often billed alongside n4tee, DAISY and Mattik (UK). Next up: Sneaky Pete's, Edinburgh on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Auramatic is a garage and house artist tracked on soundcheck, with 56 sets logge
 
 n4tee, DAISY, Mattik (UK)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auramatic/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auramatic/)*

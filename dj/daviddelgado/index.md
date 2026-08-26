@@ -1,6 +1,6 @@
 # David Delgado
 
-David Delgado is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Wed, 2 Sept 2026.
+David Delgado is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Wed, 2 Sept 2026.
 
 David Delgado is a techno and tech house artist based in Colombia, tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Frankfurt and Milan and 1 more. Often billed alongside Maik Yells, BeleeJean and Tripmastaz. Next up: Club der Visionaere, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ David Delgado is a techno and tech house artist based in Colombia, tracked on so
 
 Maik Yells, BeleeJean, Tripmastaz
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddelgado/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daviddelgado/)*

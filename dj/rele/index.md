@@ -1,6 +1,6 @@
 # Rele
 
-Rele is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Thu, 3 Sept 2026.
+Rele is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Thu, 3 Sept 2026.
 
 Rele is a house and minimal artist based in Italy, tracked on soundcheck, with 60 sets logged across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Rele is a house and minimal artist based in Italy, tracked on soundcheck, with 6
 
 Alexxx, PAZ WAZ HERE, lorenzo del po
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rele/)*

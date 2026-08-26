@@ -1,6 +1,6 @@
 # Aguirre
 
-Aguirre is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Oven Club, Valencia on Thu, 27 Aug 2026.
+Aguirre is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Oven Club, Valencia on Thu, 27 Aug 2026.
 
 Aguirre is a house and tech house artist based in Colombia, tracked on soundcheck, with 4 sets logged across Valencia. Often billed alongside Blanch, Camiel Daamen and Robson. Next up: Oven Club, Valencia on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ Aguirre is a house and tech house artist based in Colombia, tracked on soundchec
 
 Blanch, Camiel Daamen, Robson
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguirre/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguirre/)*

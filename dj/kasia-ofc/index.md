@@ -1,8 +1,8 @@
 # Kasia (OFC)
 
-Kasia (OFC) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Kasia (OFC) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Kasia (OFC) is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: Union Park, Chicago on Fri 4 Sept.
+Kasia (OFC) is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kasia (OFC) is a techno and house artist tracked on soundcheck, with 76 sets log
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Bsmnt | Boston |
 | Wed, 9 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kasia (OFC) is a techno and house artist tracked on soundcheck, with 76 sets log
 
 Adam Beyer, Kevin de Vries, Chris Avantgarde
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*

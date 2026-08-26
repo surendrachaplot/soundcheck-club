@@ -1,8 +1,8 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
+Amelia Holt is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location, Chicago on Fri, 28 Aug 2026.
 
-Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: TBA - Secret Location, Chicago on Fri 28 Aug.
+Amelia Holt is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: TBA - Secret Location, Chicago on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets lo
 | Fri, 28 Aug 2026 | TBA - Secret Location | Chicago |
 | Sat, 29 Aug 2026 | Roof Terrace BK | New York City |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
+| Fri, 11 Sept 2026 | TBA | Toronto |
 | Thu, 17 Sept 2026 | Signal | New York City |
 | Sat, 17 Oct 2026 | H0L0 | New York City |
 
@@ -29,4 +30,4 @@ Amelia Holt is a house and techno artist tracked on soundcheck, with 191 sets lo
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

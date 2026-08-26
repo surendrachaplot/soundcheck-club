@@ -1,6 +1,6 @@
 # SPF 50
 
-SPF 50 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+SPF 50 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 SPF 50 is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Montreal, Newyorkcity and Philadelphia. Often billed alongside Fernelly, Albert_ and aka-Sol. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ SPF 50 is a techno and house artist tracked on soundcheck, with 57 sets logged a
 
 Fernelly, Albert_, aka-Sol
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spf50/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spf50/)*

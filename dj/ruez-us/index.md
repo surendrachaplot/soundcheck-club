@@ -1,6 +1,6 @@
 # Ruez
 
-Ruez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Good Room, New York City on Fri, 11 Sept 2026.
+Ruez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Good Room, New York City on Fri, 11 Sept 2026.
 
 Ruez is a house and disco artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Rissa Garcia, Ardio Zemog and Justin Strauss. Next up: Good Room, Newyorkcity on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Ruez is a house and disco artist tracked on soundcheck, with 7 sets logged acros
 
 Rissa Garcia, Ardio Zemog, Justin Strauss
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruez-us/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruez-us/)*

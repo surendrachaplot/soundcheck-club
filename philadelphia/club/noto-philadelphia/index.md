@@ -1,8 +1,8 @@
 # Noto Philadelphia
 
-Noto Philadelphia is a music venue in Philadelphia with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "PTO: Pan-Pot" on Thu, 17 Sept 2026.
+Noto Philadelphia is a music venue in Philadelphia with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PTO: Pan-Pot" on Thu, 17 Sept 2026.
 
-Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 9 upcoming nights, with line-ups including ANDi MANDi, Joyhauser, Kobza and Kyle Watson and 2 more. Browse upcoming dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
+Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 10 upcoming nights, with line-ups including ANDi MANDi, Anfisa Letyago, Joyhauser and Kobza and 2 more. Browse upcoming dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 9 upcom
 | Thu, 24 Sept 2026 | PTO: Kyle Watson | Kyle Watson, Maddalena |
 | Fri, 25 Sept 2026 | Philadelphia NOTO 09/25 Ian Asher |  |
 | Thu, 1 Oct 2026 | PTO: Marco Strous | Marco Strous, Oscar N (US) |
+| Thu, 15 Oct 2026 | PTO: Anfisa Letyago | Anfisa Letyago, Miss Powers |
 | Thu, 22 Oct 2026 | PTO: Schrotthagen | Kobza, Schrotthagen |
 | Thu, 5 Nov 2026 | PTO: Joyhauser | ANDi MANDi, Joyhauser |
 | Thu, 12 Nov 2026 | PTO: Mha iri | Mha iri, Miss Powers |
@@ -22,4 +23,4 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 9 upcom
 
 1209 Vine Street Philadelphia, Pennsylvania, Philadelphia
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*

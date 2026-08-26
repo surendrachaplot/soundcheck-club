@@ -1,6 +1,6 @@
 # Ossifer
 
-Ossifer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
+Ossifer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 6 Sept 2026.
 
 Ossifer is a techno and experimental artist based in Canada, tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Deneb, No Police and #BSKD. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Ossifer is a techno and experimental artist based in Canada, tracked on soundche
 
 Deneb, No Police, #BSKD
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossifer/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ossifer/)*

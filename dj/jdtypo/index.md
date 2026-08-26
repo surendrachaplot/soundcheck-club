@@ -1,6 +1,6 @@
 # JD Typo
 
-JD Typo is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
+JD Typo is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
 
 JD Typo is an electronic artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Lyo., eric.a and xupid. Next up: TBA - Lovétosse, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ JD Typo is an electronic artist tracked on soundcheck, with 17 sets logged acros
 
 Lyo., eric.a, xupid
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdtypo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdtypo/)*

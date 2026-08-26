@@ -1,6 +1,6 @@
 # Virgo
 
-Virgo is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "CYNQ" on Thu, 27 Aug 2026.
+Virgo is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "CYNQ" on Thu, 27 Aug 2026.
 
 Virgo is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 324 Grand St, New York, New York, 10002.
 
@@ -16,4 +16,4 @@ Virgo is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights. B
 
 324 Grand St, New York, New York, 10002, New York City
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/virgo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/virgo/)*

@@ -1,6 +1,6 @@
 # Andres Forero
 
-Andres Forero is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 45 London, London on Sun, 30 Aug 2026.
+Andres Forero is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 45 London, London on Sun, 30 Aug 2026.
 
 Andres Forero is a tech house and afro house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across London. Often billed alongside Tato (2), Celoz and Pedro Villa. Next up: 45 London, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Andres Forero is a tech house and afro house artist based in United Kingdom, tra
 
 Tato (2), Celoz, Pedro Villa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andresforero/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andresforero/)*

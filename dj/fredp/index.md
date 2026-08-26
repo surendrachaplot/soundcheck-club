@@ -1,6 +1,6 @@
 # Fred P
 
-Fred P is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
+Fred P is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Paradiso, Amsterdam on Sat, 29 Aug 2026.
 
 Fred P is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside DJ Nobu, DJ Dustin and Lakuti. Next up: Paradiso, Amsterdam on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Fred P is a house and techno artist tracked on soundcheck, with 89 sets logged a
 
 DJ Nobu, DJ Dustin, Lakuti
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredp/)*

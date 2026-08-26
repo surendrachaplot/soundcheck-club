@@ -1,6 +1,6 @@
 # Martim Tonic
 
-Martim Tonic is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 28 Aug 2026.
+Martim Tonic is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 28 Aug 2026.
 
 Martim Tonic is a house artist tracked on soundcheck, with 25 sets logged across Amsterdam and Lisbon. Often billed alongside Lou de Melo, MURI and Rukham. Next up: Cavo Rooftop, Lisbon on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Martim Tonic is a house artist tracked on soundcheck, with 25 sets logged across
 
 Lou de Melo, MURI, Rukham
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martimtonic/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martimtonic/)*

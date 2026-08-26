@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 18 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Sinopoli All Night Long" on Fri, 28 Aug 2026.
+Floyd is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sinopoli All Night Long" on Fri, 28 Aug 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 18 upcoming nights, with line-ups including Alci, Bakke, Bort and Calussa and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 19 upcoming nights, with line-ups including Alci, Bakke, Bort and Calussa and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Floyd is a music venue in Miami listed on soundcheck. 18 upcoming nights, with l
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

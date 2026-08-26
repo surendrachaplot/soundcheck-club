@@ -1,6 +1,6 @@
 # DX Afterparty: Archie Hamilton + ADR at block.
 
-DX Afterparty: Archie Hamilton + ADR at block. on Sat 12 Sept, Dublin. 2 acts on the bill: ADR (US) and Archie Hamilton. Electronica. Preview the line-up and save it on soundcheck.
+DX Afterparty: Archie Hamilton + ADR at block. on Sat 12 Sept, Dublin. 3 acts on the bill: ADR (UK), ADR (US) and Archie Hamilton. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DX Afterparty: Archie Hamilton + ADR at block. on Sat 12 Sept, Dublin. 2 acts on
 
 ## Line-up
 
+- ADR (UK)
 - ADR (US)
 - Archie Hamilton
 

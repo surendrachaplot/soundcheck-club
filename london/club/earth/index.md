@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "JLZ, Vhoor, Mu540, RaMeMes (Weird Baile) - EartH Hackney" on Sat, 5 Sept 2026.
+EartH is a music venue in London with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "JLZ, Vhoor, Mu540, RaMeMes (Weird Baile) - EartH Hackney" on Sat, 5 Sept 2026.
 
 EartH is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Croatian Amor, Decibella, Digitalism and DJ Ron and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -22,4 +22,4 @@ EartH is a music venue in London listed on soundcheck. 9 upcoming nights, with l
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

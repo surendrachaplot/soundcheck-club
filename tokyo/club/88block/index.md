@@ -1,6 +1,6 @@
 # 88block
 
-88block is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "LINK-UP vol.1" on Sat, 29 Aug 2026.
+88block is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "LINK-UP vol.1" on Sat, 29 Aug 2026.
 
 88block is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Diceman, Hirosson, Iori and Sakuma and 1 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
@@ -17,4 +17,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

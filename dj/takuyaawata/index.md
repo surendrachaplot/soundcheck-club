@@ -1,6 +1,6 @@
 # Takuya Awata
 
-Takuya Awata is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Monkeybar, Tokyo on Fri, 11 Sept 2026.
+Takuya Awata is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Monkeybar, Tokyo on Fri, 11 Sept 2026.
 
 Takuya Awata is a techno and house artist tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside Hackmarkt, NYAO and Tomoya. Next up: Monkeybar, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Takuya Awata is a techno and house artist tracked on soundcheck, with 13 sets lo
 
 Hackmarkt, NYAO, Tomoya
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyaawata/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyaawata/)*

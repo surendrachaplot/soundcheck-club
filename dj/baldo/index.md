@@ -1,6 +1,6 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
+Baldo is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
 
 Baldo is a house and acid artist tracked on soundcheck, with 79 sets logged across Bali, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Cadavra, Madrid on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Baldo is a house and acid artist tracked on soundcheck, with 79 sets logged acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

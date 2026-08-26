@@ -1,6 +1,6 @@
 # Nicola Cruz
 
-Nicola Cruz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Nicola Cruz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets logged across Bali, Bangkok, Barcelona and Belgrade and 36 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nicola Cruz is a house and techno artist tracked on soundcheck, with 95 sets log
 
 Shvili, Cosmic JD, Juncheol
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*

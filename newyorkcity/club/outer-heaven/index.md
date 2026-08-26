@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Outer Heaven presents: Son Of Lee" on Wed, 26 Aug 2026.
+Outer Heaven is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Outer Heaven presents: Son Of Lee" on Wed, 26 Aug 2026.
 
 Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Aurora Halal, deep creep, Jack Mulqueen and Son Of Lee. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -17,4 +17,4 @@ Outer Heaven is a music venue in Newyorkcity listed on soundcheck. 4 upcoming ni
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

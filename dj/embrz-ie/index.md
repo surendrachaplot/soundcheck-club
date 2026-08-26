@@ -1,6 +1,6 @@
 # EMBRZ (IE)
 
-EMBRZ (IE) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Beach House San Diego, San Diego on Sat, 5 Sept 2026.
+EMBRZ (IE) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Beach House San Diego, San Diego on Sat, 5 Sept 2026.
 
 EMBRZ (IE) is a deep house and progressive house artist tracked on soundcheck, with 38 sets logged across Austin, Belfast, Chicago and Denver and 14 more. Often billed alongside Le Youth, Sultan + Shepard and Massane. Next up: Beach House San Diego, Sandiego on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ EMBRZ (IE) is a deep house and progressive house artist tracked on soundcheck, w
 
 Le Youth, Sultan + Shepard, Massane
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/embrz-ie/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/embrz-ie/)*

@@ -1,6 +1,6 @@
 # Raveman
 
-Raveman is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Koenji Cave, Tokyo on Fri, 18 Sept 2026.
+Raveman is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Koenji Cave, Tokyo on Fri, 18 Sept 2026.
 
 Raveman is a techno and psytrance artist based in Sweden, tracked on soundcheck, with 14 sets logged across Stockholm and Tokyo. Often billed alongside Andreas Barth, MERILIN and Marten Attling. Next up: Koenji Cave, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Raveman is a techno and psytrance artist based in Sweden, tracked on soundcheck,
 
 Andreas Barth, MERILIN, Marten Attling
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raveman/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raveman/)*

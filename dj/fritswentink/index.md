@@ -1,6 +1,6 @@
 # Frits Wentink
 
-Frits Wentink is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+Frits Wentink is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
 
 Frits Wentink is a house and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Serge, Wolf Music and Yopo (NL). Next up: export, Rotterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Frits Wentink is a house and tech house artist tracked on soundcheck, with 13 se
 
 Serge, Wolf Music, Yopo (NL)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritswentink/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fritswentink/)*

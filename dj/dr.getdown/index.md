@@ -1,6 +1,6 @@
 # Dr. Getdown
 
-Dr. Getdown is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Unter Deck, Munich on Thu, 3 Sept 2026.
+Dr. Getdown is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Unter Deck, Munich on Thu, 3 Sept 2026.
 
 Dr. Getdown is a funk / soul and disco artist tracked on soundcheck, with 12 sets logged across Berlin and Munich. Often billed alongside Femdelic, Ludwig Mausberg and Soulski. Next up: Unter Deck, Munich on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Dr. Getdown is a funk / soul and disco artist tracked on soundcheck, with 12 set
 
 Femdelic, Ludwig Mausberg, Soulski
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.getdown/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.getdown/)*

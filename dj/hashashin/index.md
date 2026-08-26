@@ -1,6 +1,6 @@
 # Hashashin
 
-Hashashin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
+Hashashin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kabelfabriek, The Hague on Sat, 29 Aug 2026.
 
 Hashashin is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Ghent and Paris and 5 more. Often billed alongside François X, BIANKA and Beste Hira. Next up: Kabelfabriek, Thehague on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Hashashin is a techno and house artist tracked on soundcheck, with 48 sets logge
 
 François X, BIANKA, Beste Hira
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*

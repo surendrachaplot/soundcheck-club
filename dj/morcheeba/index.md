@@ -1,6 +1,6 @@
 # Morcheeba
 
-Morcheeba is a Breakbeat and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Glasshouse International Centre for Music, Newcastle on Mon, 9 Nov 2026.
+Morcheeba is a Breakbeat and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Glasshouse International Centre for Music, Newcastle on Mon, 9 Nov 2026.
 
 Morcheeba is a breakbeat and downtempo artist tracked on soundcheck, with 4 sets logged across Manchester, Newcastle, Sanfrancisco and Sydney. Often billed alongside DJ Krush, 4 Hero and Aim. Next up: The Glasshouse International Centre for Music, Newcastle on Mon 9 Nov.
 
@@ -20,4 +20,4 @@ Morcheeba is a breakbeat and downtempo artist tracked on soundcheck, with 4 sets
 
 DJ Krush, 4 Hero, Aim
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morcheeba/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morcheeba/)*

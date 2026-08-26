@@ -1,6 +1,6 @@
 # ÆDEN x MARMORBAR: Fields & Spaces
 
-ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "BLOCC PARTY: TBA" on Sat, 29 Aug 2026.
+ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "BLOCC PARTY: TBA" on Sat, 29 Aug 2026.
 
 ÆDEN x MARMORBAR: Fields & Spaces is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Schleusenufer 3.
 
@@ -15,4 +15,4 @@
 
 Schleusenufer 3, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den-x-marmorbar-fields-spaces/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den-x-marmorbar-fields-spaces/)*

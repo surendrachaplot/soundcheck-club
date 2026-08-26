@@ -1,6 +1,6 @@
 # Doram
 
-Doram is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
+Doram is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at KitKatClub, Berlin on Fri, 28 Aug 2026.
 
 Doram is a techno and trance artist tracked on soundcheck, with 20 sets logged across Amsterdam and Berlin. Often billed alongside KEN (DE), DJ PayPaul and David Talzin. Next up: KitKatClub, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Doram is a techno and trance artist tracked on soundcheck, with 20 sets logged a
 
 KEN (DE), DJ PayPaul, David Talzin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doram/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doram/)*

@@ -1,8 +1,8 @@
 # Nene H
 
-Nene H is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Nene H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
-Nene H is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
+Nene H is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nene H is a techno and house artist tracked on soundcheck, with 203 sets logged 
 | Sat, 29 Aug 2026 | SMUT Athens | Athens |
 | Fri, 11 Sept 2026 | Den Anden Side | Copenhagen |
 | Sat, 12 Sept 2026 | KREUZWERK | Berlin |
+| Fri, 2 Oct 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Nene H is a techno and house artist tracked on soundcheck, with 203 sets logged 
 
 Hyperaktivist, Mama Snake, Mary Lake
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

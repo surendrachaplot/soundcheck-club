@@ -1,6 +1,6 @@
 # Pierre Kraft
 
-Pierre Kraft is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tranzit, Hamburg on Sat, 12 Sept 2026.
+Pierre Kraft is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tranzit, Hamburg on Sat, 12 Sept 2026.
 
 Pierre Kraft is a techno artist tracked on soundcheck, with 17 sets logged across Hamburg. Often billed alongside Zuckersüß, VIRGIN!A and AH-N!CE. Next up: Tranzit, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Pierre Kraft is a techno artist tracked on soundcheck, with 17 sets logged acros
 
 Zuckersüß, VIRGIN!A, AH-N!CE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekraft/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekraft/)*

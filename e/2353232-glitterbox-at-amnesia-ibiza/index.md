@@ -1,6 +1,6 @@
 # Glitterbox at Amnesia Ibiza
 
-Glitterbox at Amnesia Ibiza on Fri 28 Aug, Ibiza. 7 acts on the bill: Dam Swindle, Fattony, Groove Armada and Horse Meat Disco and 3 more. House. Preview the line-up and save it on soundcheck.
+Glitterbox at Amnesia Ibiza on Fri 28 Aug, Ibiza. 8 acts on the bill: Dam Swindle, Fat Tony, Fattony and Groove Armada and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Glitterbox at Amnesia Ibiza on Fri 28 Aug, Ibiza. 7 acts on the bill: Dam Swindl
 ## Line-up
 
 - Dam Swindle
+- Fat Tony
 - Fattony
 - Groove Armada
 - Horse Meat Disco

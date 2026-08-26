@@ -1,6 +1,6 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Budapest Park, Budapest on Fri, 28 Aug 2026.
+Teenage Mutants is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Budapest Park, Budapest on Fri, 28 Aug 2026.
 
 Teenage Mutants is a techno and tech house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Budapest Park, Budapest on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Teenage Mutants is a techno and tech house artist tracked on soundcheck, with 13
 
 Techmo, Eric Wishes, Intaktogene
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*

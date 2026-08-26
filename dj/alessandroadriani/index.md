@@ -1,6 +1,6 @@
 # Alessandro Adriani
 
-Alessandro Adriani is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Alessandro Adriani is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
 Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Alessandro Adriani is a techno and ebm artist tracked on soundcheck, with 93 set
 
 Tasha Safari, Franz Scala, The Hacker
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*

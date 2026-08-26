@@ -1,14 +1,15 @@
 # Argy
 
-Argy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Pacha New York, New York City on Fri, 28 Aug 2026.
+Argy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pacha New York, New York City on Fri, 28 Aug 2026.
 
-Argy is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Pacha New York, Newyorkcity on Fri 28 Aug.
+Argy is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Pacha New York, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Pacha New York | New York City |
+| Sun, 13 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Mon, 21 Sept 2026 | [UNVRS] | Ibiza |
 
 ## Recently played
@@ -26,4 +27,4 @@ Argy is a techno and house artist tracked on soundcheck, with 114 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

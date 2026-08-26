@@ -1,6 +1,6 @@
 # Radio Campus Paris
 
-Radio Campus Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "DJ Vice Experience presents...Electrorama #48" on Thu, 3 Sept 2026.
+Radio Campus Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "DJ Vice Experience presents...Electrorama #48" on Thu, 3 Sept 2026.
 
 Radio Campus Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Vice Experience. Browse upcoming dates, start times and who's playing. 50 rue Tournelles 75003 Paris.
 
@@ -14,4 +14,4 @@ Radio Campus Paris is a music venue in Paris listed on soundcheck. 1 upcoming ni
 
 50 rue Tournelles 75003 Paris, Paris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/radio-campus-paris/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/radio-campus-paris/)*

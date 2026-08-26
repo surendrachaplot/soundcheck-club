@@ -1,6 +1,6 @@
 # vurtnight Rrose at vurt.
 
-vurtnight Rrose at vurt. on Sat 5 Sept, Seoul. 1 act on the bill: Rrose. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Rrose at vurt. on Sat 5 Sept, Seoul. 3 acts on the bill: GOBI, Rrose and SJK (1). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ vurtnight Rrose at vurt. on Sat 5 Sept, Seoul. 1 act on the bill: Rrose. Techno.
 
 ## Line-up
 
+- GOBI
 - Rrose
+- SJK (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2515468-vurtnight-rrose-at-vurt/)*

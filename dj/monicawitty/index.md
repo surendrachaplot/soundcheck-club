@@ -1,13 +1,15 @@
 # Monica Witty
 
-Monica Witty is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at BASE Milano, Milan on Sat, 19 Sept 2026.
+Monica Witty is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
 
-Monica Witty is an experimental and electronica artist tracked on soundcheck, with 7 sets logged across Athens, Berlin, Milan and Rome and 1 more. Often billed alongside Al Paino, Kara (3) and Nicodemo. Next up: BASE Milano, Milan on Sat 19 Sept.
+Monica Witty is an experimental and electronica artist tracked on soundcheck, with 9 sets logged across Athens, Berlin, Milan and Rome and 1 more. Often billed alongside Al Paino, Jonquera and Kara (3). Next up: CIQ - Centro Internazionale di Quartiere, Milan on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | CIQ - Centro Internazionale di Quartiere | Milan |
+| Sun, 30 Aug 2026 | CIQ - Centro Internazionale di Quartiere | Milan |
 | Sat, 19 Sept 2026 | BASE Milano | Milan |
 
 ## Recently played
@@ -21,6 +23,6 @@ Monica Witty is an experimental and electronica artist tracked on soundcheck, wi
 
 ## Shares bills with
 
-Al Paino, Kara (3), Nicodemo
+Al Paino, Jonquera, Kara (3)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monicawitty/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monicawitty/)*

@@ -1,6 +1,6 @@
 # Alonzo
 
-Alonzo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 10 Sept 2026.
+Alonzo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 10 Sept 2026.
 
 Alonzo is an electro and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Madrid and Miami and 1 more. Often billed alongside F. Vinuesa, Alice in Flames and Amourette. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ Alonzo is an electro and techno artist based in United States of America, tracke
 
 F. Vinuesa, Alice in Flames, Amourette
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alonzo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alonzo/)*

@@ -1,6 +1,6 @@
 # NEONKOLA
 
-NEONKOLA is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
+NEONKOLA is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
 
 NEONKOLA is a techno and progressive house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside BRU ON, KARI (Ø) and Santa Cruz. Next up: Garage 442, Barcelona on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ NEONKOLA is a techno and progressive house artist tracked on soundcheck, with 3 
 
 BRU ON, KARI (Ø), Santa Cruz
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neonkola/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neonkola/)*

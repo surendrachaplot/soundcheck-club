@@ -1,6 +1,6 @@
 # Doggy & Friends: Angel Burgos at Doggy Klœb
 
-Doggy & Friends: Angel Burgos at Doggy Klœb on Thu 3 Sept, Malaga. Techno. Preview the line-up and save it on soundcheck.
+Doggy & Friends: Angel Burgos at Doggy Klœb on Thu 3 Sept, Malaga. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

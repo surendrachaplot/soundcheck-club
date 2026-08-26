@@ -1,6 +1,6 @@
 # Naomi Duan
 
-Naomi Duan is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Warehouse Location , Boston on Fri, 11 Sept 2026.
+Naomi Duan is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Warehouse Location , Boston on Fri, 11 Sept 2026.
 
 Naomi Duan is a techno and electronica artist based in United States of America, tracked on soundcheck, with 8 sets logged across Boston, Detroit, Miami and Newyorkcity. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: TBA - Warehouse Location , Boston on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Naomi Duan is a techno and electronica artist based in United States of America,
 
 1morning, Alex Stein, Daybreak
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiduan/)*

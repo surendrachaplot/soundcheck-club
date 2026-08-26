@@ -1,6 +1,6 @@
 # San Pedro
 
-San Pedro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Masada, Milan on Sat, 5 Sept 2026.
+San Pedro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Masada, Milan on Sat, 5 Sept 2026.
 
 San Pedro is a house and techno artist based in Italy, tracked on soundcheck, with 39 sets logged across Berlin, Miami and Milan. Often billed alongside Uabos, Giamma Soren and Vannelli Bros. Next up: Masada, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ San Pedro is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 Uabos, Giamma Soren, Vannelli Bros
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanpedro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanpedro/)*

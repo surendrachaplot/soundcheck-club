@@ -1,6 +1,6 @@
 # Vallde
 
-Vallde is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Vallde is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
 Vallde is a minimal and electro artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside arnald, Vilalta and Nancy (3). Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Vallde is a minimal and electro artist based in Spain, tracked on soundcheck, wi
 
 arnald, Vilalta, Nancy (3)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vallde/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vallde/)*

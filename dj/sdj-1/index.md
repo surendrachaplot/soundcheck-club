@@ -1,6 +1,6 @@
 # SDJ (1)
 
-SDJ (1) is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ramona, Manchester on Fri, 28 Aug 2026.
+SDJ (1) is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ramona, Manchester on Fri, 28 Aug 2026.
 
 SDJ (1) is a house and trance artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Manchester. Often billed alongside FXCKBOUT, FAGASH and Gatling. Next up: Ramona, Manchester on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ SDJ (1) is a house and trance artist based in United Kingdom, tracked on soundch
 
 FXCKBOUT, FAGASH, Gatling
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sdj-1/)*

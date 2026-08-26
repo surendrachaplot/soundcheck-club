@@ -1,6 +1,6 @@
 # Fortune (UK)
 
-Fortune (UK) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sound-Bar, Chicago on Fri, 11 Sept 2026.
+Fortune (UK) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sound-Bar, Chicago on Fri, 11 Sept 2026.
 
 Fortune (UK) is a house and deep house artist tracked on soundcheck, with 15 sets logged across Chicago, London, Seattle and Tokyo. Often billed alongside Adorio, Andrew Emil and Karl Almaria. Next up: Sound-Bar, Chicago on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fortune (UK) is a house and deep house artist tracked on soundcheck, with 15 set
 
 Adorio, Andrew Emil, Karl Almaria
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortune-uk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fortune-uk/)*

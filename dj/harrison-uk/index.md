@@ -1,6 +1,6 @@
 # Harrison (UK)
 
-Harrison (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
+Harrison (UK) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sidney & Matilda, Sheffield on Fri, 18 Sept 2026.
 
 Harrison (UK) is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, London and Sheffield. Often billed alongside Harrison (2), Cimmerian and Move Elusive. Next up: Sidney & Matilda, Sheffield on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Harrison (UK) is a techno and house artist tracked on soundcheck, with 10 sets l
 
 Harrison (2), Cimmerian, Move Elusive
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-uk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrison-uk/)*

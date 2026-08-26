@@ -1,6 +1,6 @@
 # NuAmo
 
-NuAmo is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Crack Bellmer, Berlin on Thu, 3 Sept 2026.
+NuAmo is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Crack Bellmer, Berlin on Thu, 3 Sept 2026.
 
 NuAmo is a disco and funk / soul artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Pilar Jordan, Tornadotoni and Aggy. Next up: Crack Bellmer, Berlin on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ NuAmo is a disco and funk / soul artist tracked on soundcheck, with 7 sets logge
 
 Pilar Jordan, Tornadotoni, Aggy
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuamo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuamo/)*

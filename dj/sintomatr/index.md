@@ -1,6 +1,6 @@
 # Sintoma TR
 
-Sintoma TR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at LAB 251, Mexico City on Sat, 29 Aug 2026.
+Sintoma TR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at LAB 251, Mexico City on Sat, 29 Aug 2026.
 
 Sintoma TR is a techno and trance artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Alejandro Franco, GEO LINN and Dig-it. Next up: LAB 251, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sintoma TR is a techno and trance artist based in Mexico, tracked on soundcheck,
 
 Alejandro Franco, GEO LINN, Dig-it
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sintomatr/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sintomatr/)*

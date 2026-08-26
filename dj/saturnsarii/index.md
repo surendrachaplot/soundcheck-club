@@ -1,13 +1,14 @@
 # SATURNSARii
 
-SATURNSARii is a Techno and Reggaeton artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 3 Sept 2026.
+SATURNSARii is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Supernatural Haus, Miami on Sat, 29 Aug 2026.
 
-SATURNSARii is a techno and reggaeton artist tracked on soundcheck, with 111 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside v1fro, Marie Qrie and Berrakka. Next up: Jolene Downtown Miami, Miami on Thu 3 Sept.
+SATURNSARii is a techno and reggaeton artist tracked on soundcheck, with 112 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside v1fro, Marie Qrie and Berrakka. Next up: Supernatural Haus, Miami on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Supernatural Haus | Miami |
 | Thu, 3 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Thu, 10 Sept 2026 | Jolene Downtown Miami | Miami |
@@ -28,4 +29,4 @@ SATURNSARii is a techno and reggaeton artist tracked on soundcheck, with 111 set
 
 v1fro, Marie Qrie, Berrakka
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnsarii/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saturnsarii/)*

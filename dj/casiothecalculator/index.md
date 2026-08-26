@@ -1,6 +1,6 @@
 # Casio the Calculator
 
-Casio the Calculator is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sekta Selekta, Krakow on Fri, 28 Aug 2026.
+Casio the Calculator is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sekta Selekta, Krakow on Fri, 28 Aug 2026.
 
 Casio the Calculator is an electro and tech house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Krakow and Utrecht. Often billed alongside Abu Samer, Mia Cecille and Balanza Saito. Next up: Sekta Selekta, Krakow on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Casio the Calculator is an electro and tech house artist based in Netherlands, t
 
 Abu Samer, Mia Cecille, Balanza Saito
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casiothecalculator/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casiothecalculator/)*

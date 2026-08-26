@@ -1,6 +1,6 @@
 # Yeison M
 
-Yeison M is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
+Yeison M is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at City Hall, Barcelona on Wed, 26 Aug 2026.
 
 Yeison M is a techno and electronica artist based in Mexico, tracked on soundcheck, with 8 sets logged across Amsterdam and Barcelona. Often billed alongside KYOTO, ATMEN and Basement Scene. Next up: City Hall, Barcelona on Wed 26 Aug.
 
@@ -24,4 +24,4 @@ Yeison M is a techno and electronica artist based in Mexico, tracked on soundche
 
 KYOTO, ATMEN, Basement Scene
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yeisonm/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yeisonm/)*

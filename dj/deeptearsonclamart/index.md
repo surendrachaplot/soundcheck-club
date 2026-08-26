@@ -1,6 +1,6 @@
 # Deep Tears On Clamart
 
-Deep Tears On Clamart is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
+Deep Tears On Clamart is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
 
 Deep Tears On Clamart is a deep house and minimal artist based in France, tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Abn - P2z, P2z and Cosmo (KR). Next up: La Cité Fertile, Paris on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Deep Tears On Clamart is a deep house and minimal artist based in France, tracke
 
 Abn - P2z, P2z, Cosmo (KR)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptearsonclamart/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptearsonclamart/)*

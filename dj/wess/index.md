@@ -1,6 +1,6 @@
 # Wess
 
-Wess is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+Wess is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
 Wess is a tech house and house artist tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Claptone, Devv and Paul Quzz. Next up: TBA, Toronto on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Wess is a tech house and house artist tracked on soundcheck, with 7 sets logged 
 
 Claptone, Devv, Paul Quzz
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wess/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wess/)*

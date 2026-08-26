@@ -1,6 +1,6 @@
 # Chontane
 
-Chontane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 29 Aug 2026.
+Chontane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Smoke & Mirrors, Chicago on Sat, 29 Aug 2026.
 
 Chontane is a techno and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside SHDW, Lars Huismann and Regent. Next up: Smoke & Mirrors, Chicago on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Chontane is a techno and house artist tracked on soundcheck, with 79 sets logged
 
 SHDW, Lars Huismann, Regent
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chontane/)*

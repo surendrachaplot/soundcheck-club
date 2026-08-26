@@ -1,6 +1,6 @@
 # Carlos Vila
 
-Carlos Vila is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
+Carlos Vila is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Eden, Ibiza on Tue, 25 Aug 2026.
 
 Carlos Vila is a house and minimal artist tracked on soundcheck, with 49 sets logged across Barcelona, Ibiza, Lisbon and London. Often billed alongside Pol K, Nuzzo and Tania Vulcano. Next up: Eden, Ibiza on Tue 25 Aug.
 
@@ -12,6 +12,7 @@ Carlos Vila is a house and minimal artist tracked on soundcheck, with 49 sets lo
 
 ## Recently played
 
+- Eden, Ibiza — Tue, 25 Aug 2026
 - TBA -  Boat party, Ibiza — Tue, 23 Jun 2026
 - Esbirra Ibiza, Ibiza — Fri, 19 Jun 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Tue, 16 Jun 2026
@@ -19,10 +20,9 @@ Carlos Vila is a house and minimal artist tracked on soundcheck, with 49 sets lo
 - Tipic., Ibiza — Sat, 30 May 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 23 May 2026
 - Tipic., Ibiza — Sat, 16 May 2026
-- TBA - San Antonio, Sa Punta des Molí, Ibiza — Sat, 2 May 2026
 
 ## Shares bills with
 
 Pol K, Nuzzo, Tania Vulcano
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvila/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvila/)*

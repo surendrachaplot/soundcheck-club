@@ -1,6 +1,6 @@
 # VØLNA
 
-VØLNA is a Industrial and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DETROIT CLUB, Barcelona on Sat, 26 Sept 2026.
+VØLNA is a Industrial and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at DETROIT CLUB, Barcelona on Sat, 26 Sept 2026.
 
 VØLNA is an industrial and trance artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside INEXXSTABLE, Coroco and INANNA DARK. Next up: DETROIT CLUB, Barcelona on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ VØLNA is an industrial and trance artist based in Spain, tracked on soundcheck,
 
 INEXXSTABLE, Coroco, INANNA DARK
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volna/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volna/)*

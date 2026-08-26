@@ -1,6 +1,6 @@
 # Boris
 
-Boris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at BASEMENT, New York City on Sat, 12 Sept 2026.
+Boris is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at BASEMENT, New York City on Sat, 12 Sept 2026.
 
 Boris is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Auckland and Austin and 50 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: BASEMENT, Newyorkcity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Boris is a techno and house artist tracked on soundcheck, with 214 sets logged a
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

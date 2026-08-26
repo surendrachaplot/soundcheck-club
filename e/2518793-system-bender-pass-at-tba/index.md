@@ -18,8 +18,8 @@ system BENDER PASS at TBA on Sat 29 Aug, Toronto. 14 acts on the bill: Angelphro
 - Le Fou
 - Mand0
 - Maul
+- MERS
 - Mrii
-- Numero 6
 - R4TS
 - RICO RICA
 - Trym

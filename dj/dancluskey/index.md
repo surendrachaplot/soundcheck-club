@@ -1,6 +1,6 @@
 # Dan Cluskey
 
-Dan Cluskey is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Basing House, London on Sat, 19 Sept 2026.
+Dan Cluskey is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Basing House, London on Sat, 19 Sept 2026.
 
 Dan Cluskey is a house and disco artist tracked on soundcheck, with 51 sets logged across Amsterdam, Auckland, Ibiza and London and 1 more. Often billed alongside Davide Del Vecchio, Old as Funk and Tatiana. Next up: Basing House, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Dan Cluskey is a house and disco artist tracked on soundcheck, with 51 sets logg
 
 Davide Del Vecchio, Old as Funk, Tatiana
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancluskey/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancluskey/)*

@@ -1,6 +1,6 @@
 # Zero Club
 
-Zero Club is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "No Words - LISBON" on Sat, 29 Aug 2026.
+Zero Club is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "No Words - LISBON" on Sat, 29 Aug 2026.
 
 Zero Club is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including Carlos Manaça, Mota (PT), Rafa Barrios and Sandro Martins. Browse upcoming dates, start times and who's playing. Avenida 24 de Julho, 68.
 
@@ -14,4 +14,4 @@ Zero Club is a music venue in Lisbon listed on soundcheck. 1 upcoming night, wit
 
 Avenida 24 de Julho, 68, Lisbon
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/zero-club/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/zero-club/)*

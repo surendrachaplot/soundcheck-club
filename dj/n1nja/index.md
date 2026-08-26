@@ -1,6 +1,6 @@
 # N1NJA
 
-N1NJA is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Secret Location, London on Sat, 10 Oct 2026.
+N1NJA is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Secret Location, London on Sat, 10 Oct 2026.
 
 N1NJA is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Ibiza and London. Often billed alongside B.o.T, Kakura and Nhii. Next up: Secret Location, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ N1NJA is a deep house and progressive house artist based in United Kingdom, trac
 
 B.o.T, Kakura, Nhii
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*

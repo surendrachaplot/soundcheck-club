@@ -1,6 +1,6 @@
 # Robin Nicolas
 
-Robin Nicolas is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at W Hotel Amsterdam, Amsterdam on Sun, 30 Aug 2026.
+Robin Nicolas is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at W Hotel Amsterdam, Amsterdam on Sun, 30 Aug 2026.
 
 Robin Nicolas is a tech house and house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Ibiza and London and 1 more. Often billed alongside Capron, Dan Costello and Mike Morrisey. Next up: W Hotel Amsterdam, Amsterdam on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Robin Nicolas is a tech house and house artist based in Netherlands, tracked on 
 
 Capron, Dan Costello, Mike Morrisey
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinnicolas/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinnicolas/)*

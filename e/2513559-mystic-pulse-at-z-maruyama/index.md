@@ -1,6 +1,6 @@
 # MYSTIC PULSE at Z Maruyama
 
-MYSTIC PULSE at Z Maruyama on Fri 11 Sept, Tokyo. 2 acts on the bill: dj yumi-cco and YOSHIROTTEN. House. Preview the line-up and save it on soundcheck.
+MYSTIC PULSE at Z Maruyama on Fri 11 Sept, Tokyo. 3 acts on the bill: dj yumi-cco, Manaha and YOSHIROTTEN. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ MYSTIC PULSE at Z Maruyama on Fri 11 Sept, Tokyo. 2 acts on the bill: dj yumi-cc
 ## Line-up
 
 - dj yumi-cco
+- Manaha
 - YOSHIROTTEN
 
 *Source: [soundcheck](https://soundcheck.club/e/2513559-mystic-pulse-at-z-maruyama/)*

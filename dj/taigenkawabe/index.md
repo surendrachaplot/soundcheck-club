@@ -1,6 +1,6 @@
 # Taigen Kawabe
 
-Taigen Kawabe is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Spanners, London on Sat, 5 Sept 2026.
+Taigen Kawabe is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Spanners, London on Sat, 5 Sept 2026.
 
 Taigen Kawabe is an experimental and techno artist tracked on soundcheck, with 41 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside Foodman, HSC (1) and Ozwick. Next up: Spanners, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Taigen Kawabe is an experimental and techno artist tracked on soundcheck, with 4
 
 Foodman, HSC (1), Ozwick
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*

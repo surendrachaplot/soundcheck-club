@@ -1,6 +1,6 @@
 # Flo Dill
 
-Flo Dill is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Flo Dill is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 Flo Dill is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brussels and Cork and 8 more. Often billed alongside Blood Orange, Ciel and DJ Voices. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Flo Dill is a house and balearic artist based in United Kingdom, tracked on soun
 
 Blood Orange, Ciel, DJ Voices
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flodill/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flodill/)*

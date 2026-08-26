@@ -1,6 +1,6 @@
 # RoundHouse Kick
 
-RoundHouse Kick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
+RoundHouse Kick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
 
 RoundHouse Kick is a house and techno artist tracked on soundcheck, with 10 sets logged across Lisbon and Porto. Often billed alongside Dexter Lux, Inês Duarte and Maria Amor. Next up: Lux Fragil, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ RoundHouse Kick is a house and techno artist tracked on soundcheck, with 10 sets
 
 Dexter Lux, Inês Duarte, Maria Amor
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roundhousekick/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roundhousekick/)*

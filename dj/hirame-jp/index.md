@@ -1,6 +1,6 @@
 # HIRAME
 
-HIRAME is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
+HIRAME is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Fri, 28 Aug 2026.
 
 HIRAME is a house and afro house artist tracked on soundcheck, with 11 sets logged across Newyorkcity, Osaka, Paris and Tokyo and 2 more. Often billed alongside Benjy Bradshaw, DJ Duchess and DJ Kemit. Next up: TBA, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ HIRAME is a house and afro house artist tracked on soundcheck, with 11 sets logg
 
 Benjy Bradshaw, DJ Duchess, DJ Kemit
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirame-jp/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirame-jp/)*

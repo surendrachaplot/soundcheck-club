@@ -1,6 +1,6 @@
 # colell
 
-colell is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 29 Aug 2026.
+colell is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 29 Aug 2026.
 
 colell is a trance and techno artist tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Leeds and Lisbon and 5 more. Often billed alongside HØLEIGH, Medlock and April (UK). Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ colell is a trance and techno artist tracked on soundcheck, with 42 sets logged 
 
 HØLEIGH, Medlock, April (UK)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

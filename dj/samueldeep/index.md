@@ -1,8 +1,8 @@
 # Samuel Deep
 
-Samuel Deep is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
+Samuel Deep is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
-Samuel Deep is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Lofi, Amsterdam on Sat 29 Aug.
+Samuel Deep is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Samuel Deep is a house and techno artist tracked on soundcheck, with 183 sets lo
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | The Loft | Manchester |
 | Wed, 21 Oct 2026 | BRET | Amsterdam |
+| Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 
 ## Recently played
@@ -32,4 +34,4 @@ Samuel Deep is a house and techno artist tracked on soundcheck, with 183 sets lo
 
 Doudou MD, DJ Senc, Laidlaw
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*

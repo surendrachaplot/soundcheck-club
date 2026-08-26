@@ -1,6 +1,6 @@
 # BADBOX
 
-BADBOX is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Theata, London on Sat, 29 Aug 2026.
+BADBOX is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Theata, London on Sat, 29 Aug 2026.
 
 BADBOX is an afro house and afro tech artist tracked on soundcheck, with 24 sets logged across Amsterdam, Ibiza, London and Oslo. Often billed alongside Mr Silk, Chloe Fontaine and Kintar. Next up: Theata, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ BADBOX is an afro house and afro tech artist tracked on soundcheck, with 24 sets
 
 Mr Silk, Chloe Fontaine, Kintar
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*

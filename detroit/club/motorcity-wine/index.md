@@ -1,6 +1,6 @@
 # MotorCity Wine
 
-MotorCity Wine is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "MotorCityWine presents: Excursions Take Over" on Sun, 30 Aug 2026.
+MotorCity Wine is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "MotorCityWine presents: Excursions Take Over" on Sun, 30 Aug 2026.
 
 MotorCity Wine is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Cordell Johnson, James Vincent and Thomas Xu. Browse upcoming dates, start times and who's playing. 1949 Michigan Ave. Detroit, MI 48216.
 
@@ -15,4 +15,4 @@ MotorCity Wine is a music venue in Detroit listed on soundcheck. 2 upcoming nigh
 
 1949 Michigan Ave. Detroit, MI 48216, Detroit
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*

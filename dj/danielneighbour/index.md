@@ -1,6 +1,6 @@
 # Daniel Neighbour
 
-Daniel Neighbour is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Chapeau Rouge, Prague on Fri, 11 Sept 2026.
+Daniel Neighbour is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Chapeau Rouge, Prague on Fri, 11 Sept 2026.
 
 Daniel Neighbour is a deep house and minimal artist based in Czech Republic, tracked on soundcheck, with 69 sets logged across Berlin, Istanbul and Prague. Often billed alongside Oliver Raumklang, Anton Kubikov and DJ with Soul. Next up: Chapeau Rouge, Prague on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Daniel Neighbour is a deep house and minimal artist based in Czech Republic, tra
 
 Oliver Raumklang, Anton Kubikov, DJ with Soul
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneighbour/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneighbour/)*

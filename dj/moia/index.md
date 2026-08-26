@@ -1,6 +1,6 @@
 # MOIA
 
-MOIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Smolna, Warsaw on Sat, 19 Sept 2026.
+MOIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Smolna, Warsaw on Sat, 19 Sept 2026.
 
 MOIA is a techno and industrial artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Vendex, 7CIRCLE and Acierate. Next up: Smolna, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MOIA is a techno and industrial artist based in Germany, tracked on soundcheck, 
 
 Vendex, 7CIRCLE, Acierate
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moia/)*

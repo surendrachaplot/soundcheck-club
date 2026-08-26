@@ -1,14 +1,15 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 29 Aug 2026.
+Scythe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 29 Aug 2026.
 
-Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with 42 sets logged across Berlin, Budapest, London and Malta and 1 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: Club Phoenix - Gianpula Village, Malta on Sat 29 Aug.
+Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with 43 sets logged across Berlin, Budapest, London and Malta and 1 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: Club Phoenix - Gianpula Village, Malta on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Club Phoenix - Gianpula Village | Malta |
+| Sat, 7 Nov 2026 | Club Cheek | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with
 
 INVERTED (MT), NATURA2K, SUNTA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*

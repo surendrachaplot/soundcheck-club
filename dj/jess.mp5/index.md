@@ -1,6 +1,6 @@
 # JESS.mp5
 
-JESS.mp5 is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
+JESS.mp5 is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jasna 1, Warsaw on Sat, 29 Aug 2026.
 
 JESS.mp5 is a minimal and house artist based in Belarus, tracked on soundcheck, with 23 sets logged across Krakow and Warsaw. Often billed alongside zeroday, Slowmode and Okravan. Next up: Jasna 1, Warsaw on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JESS.mp5 is a minimal and house artist based in Belarus, tracked on soundcheck, 
 
 zeroday, Slowmode, Okravan
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess.mp5/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jess.mp5/)*

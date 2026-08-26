@@ -1,13 +1,14 @@
 # Regent
 
-Regent is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at BASEMENT, New York City on Fri, 25 Sept 2026.
+Regent is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
 
-Regent is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Bali, Berlin and Dublin and 12 more. Often billed alongside SHDW, Chontane and Hemka. Next up: BASEMENT, Newyorkcity on Fri 25 Sept.
+Regent is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Bali, Berlin and Dublin and 12 more. Often billed alongside SHDW, Chontane and Hemka. Next up: Circolo Amelia, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Circolo Amelia | Milan |
 | Fri, 25 Sept 2026 | BASEMENT | New York City |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 
@@ -26,4 +27,4 @@ Regent is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 SHDW, Chontane, Hemka
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

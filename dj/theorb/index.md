@@ -1,6 +1,6 @@
 # The Orb
 
-The Orb is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Boiler Shop, Newcastle on Thu, 12 Nov 2026.
+The Orb is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Boiler Shop, Newcastle on Thu, 12 Nov 2026.
 
 The Orb is an electronica and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Athens, Brighton and Brussels and 6 more. Often billed alongside Young Marco, Abdullah Miniawy and Anz. Next up: Boiler Shop, Newcastle on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ The Orb is an electronica and techno artist tracked on soundcheck, with 22 sets 
 
 Young Marco, Abdullah Miniawy, Anz
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theorb/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theorb/)*

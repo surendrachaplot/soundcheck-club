@@ -1,6 +1,6 @@
 # FYI Robyn
 
-FYI Robyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gaffe, London on Sat, 19 Sept 2026.
+FYI Robyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Gaffe, London on Sat, 19 Sept 2026.
 
 FYI Robyn is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Birmingham, London and Paris. Often billed alongside Kincaid, Alicia (UK) and Jay Carder. Next up: Gaffe, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ FYI Robyn is a house and techno artist tracked on soundcheck, with 31 sets logge
 
 Kincaid, Alicia (UK), Jay Carder
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fyirobyn/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fyirobyn/)*

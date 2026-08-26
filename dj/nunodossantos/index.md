@@ -1,6 +1,6 @@
 # Nuno dos Santos
 
-Nuno dos Santos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at De Fik Garden, Amsterdam on Thu, 27 Aug 2026.
+Nuno dos Santos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at De Fik Garden, Amsterdam on Thu, 27 Aug 2026.
 
 Nuno dos Santos is a house and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Utrecht and Valencia. Often billed alongside Luna Ludmila, Bastienne and Benny Rodrigues. Next up: De Fik Garden, Amsterdam on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Nuno dos Santos is a house and techno artist tracked on soundcheck, with 43 sets
 
 Luna Ludmila, Bastienne, Benny Rodrigues
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodossantos/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodossantos/)*

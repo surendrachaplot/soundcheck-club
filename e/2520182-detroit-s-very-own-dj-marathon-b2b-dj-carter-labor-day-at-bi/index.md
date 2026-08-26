@@ -1,10 +1,10 @@
 # DETROIT'S VERY OWN: DJ MARATHON B2B DJ CARTER (LABOR DAY) at Big Pink
 
-DETROIT'S VERY OWN: DJ MARATHON B2B DJ CARTER (LABOR DAY) at Big Pink on Sun 6 Sept, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+DETROIT'S VERY OWN: DJ MARATHON B2B DJ CARTER (LABOR DAY) at Big Pink on Mon 7 Sept, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 6 Sept 2026 |
+| Date | Mon, 7 Sept 2026 |
 | Venue | Big Pink |
 | City | Detroit |
 

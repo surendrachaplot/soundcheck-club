@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Le Disco bowl - Sunday Service" on Sun, 23 Aug 2026.
+Nido Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Le Disco bowl - Sunday Service" on Sun, 23 Aug 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including Edward, Markus Sommer and Sweely. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -16,4 +16,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming ni
 
 20 boulevard fifi turin, Marseille
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

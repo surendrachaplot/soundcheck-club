@@ -1,13 +1,14 @@
 # Dylan C
 
-Dylan C is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Button Factory, Auckland on Sat, 26 Sept 2026.
+Dylan C is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Neck of the Woods, Auckland on Fri, 4 Sept 2026.
 
-Dylan C is a drum & bass and bass artist tracked on soundcheck, with 20 sets logged across Auckland. Often billed alongside Mia Kober, DirdyGerdi and Matt Drake. Next up: The Button Factory, Auckland on Sat 26 Sept.
+Dylan C is a drum & bass and bass artist tracked on soundcheck, with 21 sets logged across Auckland. Often billed alongside Mia Kober, DirdyGerdi and Paige Julia. Next up: Neck of the Woods, Auckland on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Neck of the Woods | Auckland |
 | Sat, 26 Sept 2026 | The Button Factory | Auckland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Dylan C is a drum & bass and bass artist tracked on soundcheck, with 20 sets log
 
 ## Shares bills with
 
-Mia Kober, DirdyGerdi, Matt Drake
+Mia Kober, DirdyGerdi, Paige Julia
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc/)*

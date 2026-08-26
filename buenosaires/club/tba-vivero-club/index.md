@@ -1,6 +1,6 @@
 # TBA - Vivero Club 
 
-TBA - Vivero Club  is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "ATOM" on Sat, 31 Oct 2026.
+TBA - Vivero Club  is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "ATOM" on Sat, 31 Oct 2026.
 
 TBA - Vivero Club  is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Vivero Club  is a music venue in Buenosaires listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | ATOM |  |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-vivero-club/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-vivero-club/)*

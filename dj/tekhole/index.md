@@ -1,6 +1,6 @@
 # Tekhole
 
-Tekhole is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
+Tekhole is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
 
 Tekhole is a house and bass artist tracked on soundcheck, with 44 sets logged across Berlin, Edinburgh, Glasgow and London and 3 more. Often billed alongside veryt, Buckfast Barbie and Maveen. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tekhole is a house and bass artist tracked on soundcheck, with 44 sets logged ac
 
 veryt, Buckfast Barbie, Maveen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekhole/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tekhole/)*

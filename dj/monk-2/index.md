@@ -1,6 +1,6 @@
 # Monk (2)
 
-Monk (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mtkvarze, Tbilisi on Sat, 29 Aug 2026.
+Monk (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mtkvarze, Tbilisi on Sat, 29 Aug 2026.
 
 Monk (2) is a house and techno artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Boston, Geneva, Miami and Newyorkcity and 1 more. Often billed alongside Choukroun, Armii1n and Zayd. Next up: Mtkvarze, Tbilisi on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Monk (2) is a house and techno artist based in Switzerland, tracked on soundchec
 
 Choukroun, Armii1n, Zayd
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*

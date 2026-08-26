@@ -1,6 +1,6 @@
 # aram (CH)
 
-aram (CH) is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
+aram (CH) is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kaserne Basel, Basel on Thu, 17 Sept 2026.
 
 aram (CH) is a techno and dub artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Basel. Often billed alongside Rogian, BLUME and Cepheì. Next up: Kaserne Basel, Basel on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ aram (CH) is a techno and dub artist based in Switzerland, tracked on soundcheck
 
 Rogian, BLUME, Cepheì
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aram-ch/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aram-ch/)*

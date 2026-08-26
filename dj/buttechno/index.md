@@ -1,6 +1,6 @@
 # Buttechno
 
-Buttechno is a Experimental and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Signal, New York City on Fri, 18 Sept 2026.
+Buttechno is a Experimental and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Signal, New York City on Fri, 18 Sept 2026.
 
 Buttechno is an experimental and techno artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: Signal, Newyorkcity on Fri 18 Sept.
 
@@ -30,4 +30,4 @@ Buttechno is an experimental and techno artist based in Germany, tracked on soun
 
 Mama Snake, upsammy, DjRUM
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buttechno/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buttechno/)*

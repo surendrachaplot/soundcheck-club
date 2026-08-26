@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at BarKa, Warsaw on Thu, 27 Aug 2026.
+bolo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at BarKa, Warsaw on Thu, 27 Aug 2026.
 
 bolo is a techno and house artist tracked on soundcheck, with 45 sets logged across Austin, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Abrew, Kobayashkn and CRACKD. Next up: BarKa, Warsaw on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ bolo is a techno and house artist tracked on soundcheck, with 45 sets logged acr
 
 Abrew, Kobayashkn, CRACKD
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

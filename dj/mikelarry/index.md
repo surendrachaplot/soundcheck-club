@@ -1,8 +1,8 @@
 # Mike Larry
 
-Mike Larry is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 27 Aug 2026.
+Mike Larry is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 27 Aug 2026.
 
-Mike Larry is a techno and house artist based in Canada, tracked on soundcheck, with 62 sets logged across Barcelona, Boston, Montreal and Paris and 1 more. Often billed alongside Bianca Badita, Isabel Soto and Christø. Next up: Jardins Gamelin, Montreal on Thu 27 Aug.
+Mike Larry is a techno and house artist based in Canada, tracked on soundcheck, with 63 sets logged across Barcelona, Boston, Montreal and Paris and 1 more. Often billed alongside Bianca Badita, Isabel Soto and Christø. Next up: Jardins Gamelin, Montreal on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mike Larry is a techno and house artist based in Canada, tracked on soundcheck, 
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Jardins Gamelin | Montreal |
 | Sat, 29 Aug 2026 | NWHR | Montreal |
+| Fri, 4 Sept 2026 | Stereo | Montreal |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played
@@ -27,4 +28,4 @@ Mike Larry is a techno and house artist based in Canada, tracked on soundcheck, 
 
 Bianca Badita, Isabel Soto, Christø
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelarry/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikelarry/)*

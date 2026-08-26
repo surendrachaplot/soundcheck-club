@@ -1,6 +1,6 @@
 # Zeqoo
 
-Zeqoo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Asagaya Drift, Tokyo on Thu, 27 Aug 2026.
+Zeqoo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Asagaya Drift, Tokyo on Thu, 27 Aug 2026.
 
 Zeqoo is a techno and club artist tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside tom2, --- mr --- and anolis. Next up: Asagaya Drift, Tokyo on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Zeqoo is a techno and club artist tracked on soundcheck, with 22 sets logged acr
 
 tom2, --- mr ---, anolis
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeqoo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeqoo/)*

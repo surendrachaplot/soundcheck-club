@@ -1,6 +1,6 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Schrotty, Cologne on Sat, 29 Aug 2026.
+ANDATA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Schrotty, Cologne on Sat, 29 Aug 2026.
 
 ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, with 92 sets logged across Berlin, Budapest, Cologne and Frankfurt and 10 more. Often billed alongside HOTBOI2300, Invaria and Niotech. Next up: Schrotty, Cologne on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 HOTBOI2300, Invaria, Niotech
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

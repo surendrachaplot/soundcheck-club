@@ -1,8 +1,8 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Gabriela, New York City on Sat, 29 Aug 2026.
+Jubilee is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gabriela, New York City on Sat, 29 Aug 2026.
 
-Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 147 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Gabriela, Newyorkcity on Sat 29 Aug.
+Jubilee is a house and techno artist based in United States of America, tracked on soundcheck, with 148 sets logged across Berlin, Bristol, Chicago and Copenhagen and 17 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: Gabriela, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jubilee is a house and techno artist based in United States of America, tracked 
 | Sat, 29 Aug 2026 | Gabriela | New York City |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Fri, 25 Sept 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
+| Fri, 2 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -28,4 +29,4 @@ Jubilee is a house and techno artist based in United States of America, tracked 
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

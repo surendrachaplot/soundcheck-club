@@ -1,6 +1,6 @@
 # Modul Kollektiv
 
-Modul Kollektiv is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
+Modul Kollektiv is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
 
 Modul Kollektiv is a techno and house artist based in Austria, tracked on soundcheck, with 11 sets logged across Frankfurt and Munich. Often billed alongside Dan Mlinar, VALOUR and Dario Milkovic. Next up: Lieberscholli, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Modul Kollektiv is a techno and house artist based in Austria, tracked on soundc
 
 Dan Mlinar, VALOUR, Dario Milkovic
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modulkollektiv/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modulkollektiv/)*

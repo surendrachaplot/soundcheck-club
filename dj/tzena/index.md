@@ -1,6 +1,6 @@
 # Tzena
 
-Tzena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Tzena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Tzena is a house and techno artist based in Slovenia, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside Mayell, Markus Sommer and Tim Kern. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Tzena is a house and techno artist based in Slovenia, tracked on soundcheck, wit
 
 Mayell, Markus Sommer, Tim Kern
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzena/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tzena/)*

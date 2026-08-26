@@ -1,6 +1,6 @@
 # 5am
 
-5am is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+5am is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
 
 5am is a bass and garage artist tracked on soundcheck, with 14 sets logged across Berlin, Denver, London and Losangeles and 6 more. Often billed alongside Cardiac, BLANC MAMBA and Craft. Next up: E1, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@
 
 Cardiac, BLANC MAMBA, Craft
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/5am/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/5am/)*

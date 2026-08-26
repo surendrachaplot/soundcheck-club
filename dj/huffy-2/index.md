@@ -1,6 +1,6 @@
 # Huffy (2)
 
-Huffy (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Phonobar, San Francisco/Oakland on Thu, 27 Aug 2026.
+Huffy (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Phonobar, San Francisco/Oakland on Thu, 27 Aug 2026.
 
 Huffy (2) is a house and disco artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sanfrancisco. Often billed alongside vRok, FELINE (JP) and FeLine. Next up: Phonobar, Sanfrancisco on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Huffy (2) is a house and disco artist based in United States of America, tracked
 
 vRok, FELINE (JP), FeLine
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huffy-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huffy-2/)*

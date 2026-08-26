@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "(FREE) Wednesnight with TBA" on Wed, 26 Aug 2026.
+Garage 442 is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "(FREE) Wednesnight with TBA" on Wed, 26 Aug 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including BRU ON, Chrissential, MKT (DE) and NEONKOLA and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -19,4 +19,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 6 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

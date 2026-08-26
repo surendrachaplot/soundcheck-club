@@ -1,6 +1,6 @@
 # Friday, August 28, 2026 at teller
 
-Friday, August 28, 2026 at teller on Fri 28 Aug, Seoul. 4 acts on the bill: Kibum, Kugel, Young Sun and Zorba. Techno. Preview the line-up and save it on soundcheck.
+Friday, August 28, 2026 at teller on Fri 28 Aug, Seoul. 5 acts on the bill: Kibum, Kugel, Sunday Lee and Young Sun and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Friday, August 28, 2026 at teller on Fri 28 Aug, Seoul. 4 acts on the bill: Kibu
 
 - Kibum
 - Kugel
+- Sunday Lee
 - Young Sun
 - Zorba
 

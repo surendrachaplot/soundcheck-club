@@ -1,6 +1,6 @@
 # Tahl
 
-Tahl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 29 Aug 2026.
+Tahl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 29 Aug 2026.
 
 Tahl is a techno and house artist based in Australia, tracked on soundcheck, with 16 sets logged across Berlin, Leipzig and Melbourne. Often billed alongside cuznmatt, Jasmine Speers and Simon Slieker. Next up: Revolver Upstairs, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Tahl is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 cuznmatt, Jasmine Speers, Simon Slieker
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tahl/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tahl/)*

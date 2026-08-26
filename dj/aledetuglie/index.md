@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Ale De Tuglie is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Ale De Tuglie is a tech house and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Bucharest and 19 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Ale De Tuglie is a tech house and house artist tracked on soundcheck, with 77 se
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

@@ -1,6 +1,6 @@
 # lomi
 
-lomi is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
+lomi is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
 
 lomi is an experimental and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Brussels, Cologne and Nurnberg and 1 more. Often billed alongside Dornen, Måtyrer and Mariami. Next up: TBA - Raketenstation Hombroich, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ lomi is an experimental and techno artist based in Germany, tracked on soundchec
 
 Dornen, Måtyrer, Mariami
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lomi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lomi/)*

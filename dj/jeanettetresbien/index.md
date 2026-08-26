@@ -1,6 +1,6 @@
 # Jeanette Trèsbien
 
-Jeanette Trèsbien is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+Jeanette Trèsbien is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
 
 Jeanette Trèsbien is an electronic artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Alma Linda, Antoine Baiser and Elbstrõm. Next up: Südpol, Hamburg on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Jeanette Trèsbien is an electronic artist tracked on soundcheck, with 6 sets lo
 
 Alma Linda, Antoine Baiser, Elbstrõm
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanettetresbien/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanettetresbien/)*

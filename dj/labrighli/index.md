@@ -1,6 +1,6 @@
 # Labrighli
 
-Labrighli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Haus Der Kulturen Der Welt, Berlin on Thu, 27 Aug 2026.
+Labrighli is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Haus Der Kulturen Der Welt, Berlin on Thu, 27 Aug 2026.
 
 Labrighli is a techno and trance artist based in Estonia, tracked on soundcheck, with 31 sets logged across Berlin, Prague and Tallinn. Often billed alongside Lene Ma Rue, Katja Adrikova and QSLAP. Next up: Haus Der Kulturen Der Welt, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Labrighli is a techno and trance artist based in Estonia, tracked on soundcheck,
 
 Lene Ma Rue, Katja Adrikova, QSLAP
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labrighli/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labrighli/)*

@@ -1,6 +1,6 @@
 # TAYHANA
 
-TAYHANA is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
+TAYHANA is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 TAYHANA is a techno and latin bass artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Marie Davidson, Manuka Honey and Slim Soledad. Next up: Club Six, Sanfrancisco on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ TAYHANA is a techno and latin bass artist tracked on soundcheck, with 67 sets lo
 
 Marie Davidson, Manuka Honey, Slim Soledad
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*

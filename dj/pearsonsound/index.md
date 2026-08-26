@@ -1,6 +1,6 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
+Pearson Sound is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fuse, Brussels on Sat, 29 Aug 2026.
 
 Pearson Sound is a techno and bass artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: Fuse, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pearson Sound is a techno and bass artist tracked on soundcheck, with 91 sets lo
 
 Ben UFO, Pangaea, Peach
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*

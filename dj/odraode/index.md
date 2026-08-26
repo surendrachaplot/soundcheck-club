@@ -1,6 +1,6 @@
 # Odra Ode
 
-Odra Ode is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Morphine Raum, Berlin on Sat, 19 Sept 2026.
+Odra Ode is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Morphine Raum, Berlin on Sat, 19 Sept 2026.
 
 Odra Ode is an electronica and experimental artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Fire At Work, Kat Polar and Menion. Next up: Morphine Raum, Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Odra Ode is an electronica and experimental artist tracked on soundcheck, with 7
 
 Fire At Work, Kat Polar, Menion
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odraode/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odraode/)*

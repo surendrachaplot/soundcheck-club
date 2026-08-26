@@ -1,14 +1,15 @@
 # Fourth Precinct
 
-Fourth Precinct is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 5 Sept 2026.
+Fourth Precinct is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Berkeley Suite, Glasgow on Sat, 5 Sept 2026.
 
-Fourth Precinct is a garage and house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Edinburgh, Glasgow, London and Tokyo. Often billed alongside Lowree, Skillis and Feena. Next up: The Berkeley Suite, Glasgow on Sat 5 Sept.
+Fourth Precinct is a garage and house artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Edinburgh, Glasgow, London and Tokyo. Often billed alongside Lowree, Skillis and Feena. Next up: The Berkeley Suite, Glasgow on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Berkeley Suite | Glasgow |
+| Fri, 18 Sept 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Fourth Precinct is a garage and house artist based in United Kingdom, tracked on
 
 Lowree, Skillis, Feena
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthprecinct/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthprecinct/)*

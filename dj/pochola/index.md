@@ -1,6 +1,6 @@
 # Pochola
 
-Pochola is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
+Pochola is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club Six, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 Pochola is a club and bass artist based in Mexico, tracked on soundcheck, with 12 sets logged across Berlin, London and Sanfrancisco. Often billed alongside Mobilegirl, Nico Adomako and Suutoo. Next up: Club Six, Sanfrancisco on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Pochola is a club and bass artist based in Mexico, tracked on soundcheck, with 1
 
 Mobilegirl, Nico Adomako, Suutoo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pochola/)*

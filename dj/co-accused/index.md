@@ -1,6 +1,6 @@
 # Co-Accused
 
-Co-Accused is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sub Club, Glasgow on Fri, 4 Sept 2026.
+Co-Accused is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sub Club, Glasgow on Fri, 4 Sept 2026.
 
 Co-Accused is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Dundee and Glasgow and 1 more. Often billed alongside Gary Beck, Fear-E and Lee Cee. Next up: Sub Club, Glasgow on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Co-Accused is a techno and acid artist based in United Kingdom, tracked on sound
 
 Gary Beck, Fear-E, Lee Cee
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/co-accused/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/co-accused/)*

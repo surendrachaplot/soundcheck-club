@@ -1,6 +1,6 @@
 # La Schmock
 
-La Schmock is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
+La Schmock is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
 
 La Schmock is a house and techno artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Brussels and Paris. Often billed alongside DJ City, ADAM MUNNINGS and Elninodiablo. Next up: Crack Bellmer, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ La Schmock is a house and techno artist based in Germany, tracked on soundcheck,
 
 DJ City, ADAM MUNNINGS, Elninodiablo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laschmock/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laschmock/)*

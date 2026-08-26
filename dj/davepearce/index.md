@@ -1,6 +1,6 @@
 # Dave Pearce
 
-Dave Pearce is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
+Dave Pearce is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
 
 Dave Pearce is a trance and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Aberdeen, Brighton, Ibiza and Leeds and 5 more. Often billed alongside Lange, Seb Fontaine and Billy Gillies. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Dave Pearce is a trance and house artist based in United Kingdom, tracked on sou
 
 Lange, Seb Fontaine, Billy Gillies
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davepearce/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davepearce/)*

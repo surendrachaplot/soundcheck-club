@@ -1,6 +1,6 @@
 # PEAKSOU
 
-PEAKSOU is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
+PEAKSOU is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
 
 PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Marseille and Nantes and 1 more. Often billed alongside 25EMEHEURE, AISHA and Bones 33. Next up: Kilomètre25, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ PEAKSOU is a techno and trance artist based in France, tracked on soundcheck, wi
 
 25EMEHEURE, AISHA, Bones 33
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peaksou/)*

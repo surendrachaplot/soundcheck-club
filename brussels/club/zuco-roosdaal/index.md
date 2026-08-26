@@ -1,6 +1,6 @@
 # Zuco Roosdaal
 
-Zuco Roosdaal is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "DJ Stijn B-day Night" on Sat, 5 Sept 2026.
+Zuco Roosdaal is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "DJ Stijn B-day Night" on Sat, 5 Sept 2026.
 
 Zuco Roosdaal is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Groovegsus, Lorenzo (FBNM), Mikeb and Sammir and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Zuco Roosdaal is a music venue in Brussels listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | DJ Stijn B-day Night | Groovegsus, Lorenzo (FBNM), Mikeb, Sammir, Thierry |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/zuco-roosdaal/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/zuco-roosdaal/)*

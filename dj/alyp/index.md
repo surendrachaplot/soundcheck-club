@@ -1,6 +1,6 @@
 # Aly P
 
-Aly P is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kazimier Garden, Liverpool on Sun, 30 Aug 2026.
+Aly P is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kazimier Garden, Liverpool on Sun, 30 Aug 2026.
 
 Aly P is a house and techno artist tracked on soundcheck, with 31 sets logged across Edinburgh, Liverpool and Manchester. Often billed alongside Kathryn, Elleinad and 4D (UK). Next up: Kazimier Garden, Liverpool on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Aly P is a house and techno artist tracked on soundcheck, with 31 sets logged ac
 
 Kathryn, Elleinad, 4D (UK)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*

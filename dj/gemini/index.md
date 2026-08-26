@@ -1,6 +1,6 @@
 # Gemini
 
-Gemini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Egg London, London on Fri, 28 Aug 2026.
+Gemini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Egg London, London on Fri, 28 Aug 2026.
 
 Gemini is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Bristol, Chicago and Cologne and 4 more. Often billed alongside Supa D, Pioneer and Antonio Pascal. Next up: Egg London, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Gemini is a techno and house artist tracked on soundcheck, with 36 sets logged a
 
 Supa D, Pioneer, Antonio Pascal
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gemini/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gemini/)*

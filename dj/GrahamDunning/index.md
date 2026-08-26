@@ -1,6 +1,6 @@
 # Graham Dunning
 
-Graham Dunning is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Schinkel Pavillon, Berlin on Thu, 3 Sept 2026.
+Graham Dunning is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Schinkel Pavillon, Berlin on Thu, 3 Sept 2026.
 
 Graham Dunning is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Belgrade, Berlin, Bristol and London and 1 more. Often billed alongside Ben Vince, Bortnique and DJ Food. Next up: Schinkel Pavillon, Berlin on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Graham Dunning is an experimental and electronica artist based in United Kingdom
 
 Ben Vince, Bortnique, DJ Food
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/GrahamDunning/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/GrahamDunning/)*

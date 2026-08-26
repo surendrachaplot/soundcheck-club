@@ -1,6 +1,6 @@
 # Luigi Madonna - Mayfie at Stereo
 
-Luigi Madonna - Mayfie at Stereo on Fri 28 Aug, Montreal. 1 act on the bill: Luigi Madonna. Preview the line-up and save it on soundcheck.
+Luigi Madonna - Mayfie at Stereo on Fri 28 Aug, Montreal. 2 acts on the bill: Luigi Madonna and Mayfie. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Luigi Madonna - Mayfie at Stereo on Fri 28 Aug, Montreal. 1 act on the bill: Lui
 ## Line-up
 
 - Luigi Madonna
+- Mayfie
 
 *Source: [soundcheck](https://soundcheck.club/e/2486554-luigi-madonna-mayfie-at-stereo/)*

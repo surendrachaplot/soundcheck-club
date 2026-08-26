@@ -1,6 +1,6 @@
 # Tamer Hamza
 
-Tamer Hamza is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The END Istanbul, Istanbul on Wed, 26 Aug 2026.
+Tamer Hamza is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The END Istanbul, Istanbul on Wed, 26 Aug 2026.
 
 Tamer Hamza is a house and progressive house artist based in Turkey, tracked on soundcheck, with 20 sets logged across Istanbul. Often billed alongside USAGI, Brojski and OLGUN. Next up: The END Istanbul, Istanbul on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Tamer Hamza is a house and progressive house artist based in Turkey, tracked on 
 
 USAGI, Brojski, OLGUN
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamerhamza/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamerhamza/)*

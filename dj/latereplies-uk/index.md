@@ -1,6 +1,6 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Gallery, London on Thu, 27 Aug 2026.
+Late Replies is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gallery, London on Thu, 27 Aug 2026.
 
 Late Replies is a tech house and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Bali and Barcelona and 16 more. Often billed alongside Detlef, Archie Hamilton and Darius Syrossian. Next up: Gallery, London on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Late Replies is a tech house and house artist tracked on soundcheck, with 71 set
 
 Detlef, Archie Hamilton, Darius Syrossian
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

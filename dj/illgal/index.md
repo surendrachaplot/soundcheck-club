@@ -1,6 +1,6 @@
 # illgal
 
-illgal is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at BarKa, Warsaw on Wed, 26 Aug 2026.
+illgal is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at BarKa, Warsaw on Wed, 26 Aug 2026.
 
 illgal is a bass and breakbeat artist tracked on soundcheck, with 33 sets logged across Berlin, Tbilisi and Warsaw. Often billed alongside iffi, Hermeneia and Lamimixa. Next up: BarKa, Warsaw on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ illgal is a bass and breakbeat artist tracked on soundcheck, with 33 sets logged
 
 iffi, Hermeneia, Lamimixa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*

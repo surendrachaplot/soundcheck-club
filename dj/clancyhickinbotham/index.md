@@ -1,6 +1,6 @@
 # Clancy Hickinbotham
 
-Clancy Hickinbotham is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 29 Aug 2026.
+Clancy Hickinbotham is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 Clancy Hickinbotham is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Phil Spank, natebytheway and Goodtunes. Next up: Public Works, Sanfrancisco on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Clancy Hickinbotham is a house and techno artist based in United States of Ameri
 
 Phil Spank, natebytheway, Goodtunes
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clancyhickinbotham/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clancyhickinbotham/)*

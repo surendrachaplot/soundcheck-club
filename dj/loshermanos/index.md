@@ -1,6 +1,6 @@
 # Los Hermanos
 
-Los Hermanos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Los Hermanos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 Los Hermanos is a techno and house artist tracked on soundcheck, with 12 sets logged across Detroit, Osaka, Oslo and Turin. Often billed alongside DJ 3000, DJ Godfather and Gary Martin. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Los Hermanos is a techno and house artist tracked on soundcheck, with 12 sets lo
 
 DJ 3000, DJ Godfather, Gary Martin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loshermanos/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loshermanos/)*

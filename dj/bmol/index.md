@@ -1,6 +1,6 @@
 # BMOL
 
-BMOL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
+BMOL is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
 
 BMOL is a techno and hardcore artist tracked on soundcheck, with 16 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside gwlucas, Princess Elf Bar and RUBES. Next up: The DBA, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ BMOL is a techno and hardcore artist tracked on soundcheck, with 16 sets logged 
 
 gwlucas, Princess Elf Bar, RUBES
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmol/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmol/)*

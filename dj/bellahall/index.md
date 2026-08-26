@@ -1,14 +1,15 @@
 # Bella Hall
 
-Bella Hall is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
+Bella Hall is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
 
-Bella Hall is a techno and electro artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Nala Brown, Deborah X and LazerGazer. Next up: Laak, Thehague on Fri 2 Oct.
+Bella Hall is a techno and electro artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Deborah X, Nala Brown and LazerGazer. Next up: Laak, Thehague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Laak | The Hague |
+| Sat, 10 Oct 2026 | EKKO | Utrecht |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Bella Hall is a techno and electro artist based in Netherlands, tracked on sound
 
 ## Shares bills with
 
-Nala Brown, Deborah X, LazerGazer
+Deborah X, Nala Brown, LazerGazer
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahall/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahall/)*

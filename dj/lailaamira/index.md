@@ -1,6 +1,6 @@
 # Laila Amira
 
-Laila Amira is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at LoHi, New York City on Sat, 5 Sept 2026.
+Laila Amira is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at LoHi, New York City on Sat, 5 Sept 2026.
 
 Laila Amira is a house and disco artist based in United States of America, tracked on soundcheck, with 55 sets logged across Montreal, Newyorkcity and Paris. Often billed alongside Tim Lucent, Lady Harley and Pleasure Jams. Next up: LoHi, Newyorkcity on Sat 5 Sept.
 
@@ -9,7 +9,7 @@ Laila Amira is a house and disco artist based in United States of America, track
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | LoHi | New York City |
-| Sat, 5 Sept 2026 | Dead Letter No. 9 | New York City |
+| Fri, 25 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Laila Amira is a house and disco artist based in United States of America, track
 
 Tim Lucent, Lady Harley, Pleasure Jams
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lailaamira/)*

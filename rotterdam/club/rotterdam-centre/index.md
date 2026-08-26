@@ -1,6 +1,6 @@
 # Rotterdam Centre
 
-Rotterdam Centre is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Festival Downtown" on Fri, 11 Sept 2026.
+Rotterdam Centre is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Festival Downtown" on Fri, 11 Sept 2026.
 
 Rotterdam Centre is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Another Taste, Bianca Oblivion, CHAMOS and De Schuurman and 2 more. Browse upcoming dates, start times and who's playing. Centre.
 
@@ -14,4 +14,4 @@ Rotterdam Centre is a music venue in Rotterdam listed on soundcheck. 1 upcoming 
 
 Centre, Rotterdam
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/rotterdam-centre/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/rotterdam-centre/)*

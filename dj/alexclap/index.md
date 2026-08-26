@@ -1,6 +1,6 @@
 # Alex Clap
 
-Alex Clap is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fabrik, Madrid on Sat, 10 Oct 2026.
+Alex Clap is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fabrik, Madrid on Sat, 10 Oct 2026.
 
 Alex Clap is a tech house and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Madrid. Often billed alongside Raul Ortiz, CESAR ALMENA and Nuke. Next up: Fabrik, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alex Clap is a tech house and house artist based in Spain, tracked on soundcheck
 
 Raul Ortiz, CESAR ALMENA, Nuke
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexclap/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexclap/)*

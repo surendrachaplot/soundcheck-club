@@ -1,6 +1,6 @@
 # From A To B
 
-From A To B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+From A To B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
 From A To B is a techno and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Copenhagen and London. Often billed alongside DJOM, Oli Leal and Regan Funk. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ From A To B is a techno and house artist based in United Kingdom, tracked on sou
 
 DJOM, Oli Leal, Regan Funk
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromatob/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fromatob/)*

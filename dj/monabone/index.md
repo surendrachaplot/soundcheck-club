@@ -1,6 +1,6 @@
 # Mona Bone
 
-Mona Bone is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at La Javelle (Bercy), Paris on Sat, 29 Aug 2026.
+Mona Bone is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Javelle (Bercy), Paris on Sat, 29 Aug 2026.
 
 Mona Bone is a house and disco artist based in France, tracked on soundcheck, with 35 sets logged across Amsterdam, Geneva, Liverpool and Nantes and 1 more. Often billed alongside Larry G, Chinau and Knuckle G. Next up: La Javelle (Bercy), Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mona Bone is a house and disco artist based in France, tracked on soundcheck, wi
 
 Larry G, Chinau, Knuckle G
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monabone/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monabone/)*

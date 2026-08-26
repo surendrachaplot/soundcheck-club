@@ -1,6 +1,6 @@
 # Naramnesia
 
-Naramnesia is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
+Naramnesia is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Atno, Budapest on Fri, 28 Aug 2026.
 
 Naramnesia is a hardcore and experimental artist tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Budapest and Denver and 4 more. Often billed alongside glas___skin, Synapsefirer and overshine. Next up: Atno, Budapest on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Naramnesia is a hardcore and experimental artist tracked on soundcheck, with 30 
 
 glas___skin, Synapsefirer, overshine
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naramnesia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naramnesia/)*

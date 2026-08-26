@@ -1,14 +1,15 @@
 # Surusinghe
 
-Surusinghe is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Surusinghe is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Surusinghe is a techno and bass artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Blawan, Moktar and Interplanetary Criminal. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
+Surusinghe is a techno and bass artist tracked on soundcheck, with 142 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 37 more. Often billed alongside Blawan, Moktar and Special Request. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Tuinen van West | Amsterdam |
+| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
@@ -24,6 +25,6 @@ Surusinghe is a techno and bass artist tracked on soundcheck, with 141 sets logg
 
 ## Shares bills with
 
-Blawan, Moktar, Interplanetary Criminal
+Blawan, Moktar, Special Request
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*

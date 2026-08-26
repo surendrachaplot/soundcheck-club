@@ -1,8 +1,8 @@
 # Chlär
 
-Chlär is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 28 Aug 2026.
+Chlär is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 28 Aug 2026.
 
-Chlär is a techno and house artist tracked on soundcheck, with 248 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Studio Club Malaga, Malaga on Fri 28 Aug.
+Chlär is a techno and house artist tracked on soundcheck, with 249 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Studio Club Malaga, Malaga on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Chlär is a techno and house artist tracked on soundcheck, with 248 sets logged 
 | Fri, 2 Oct 2026 | fi | Cologne |
 | Sat, 17 Oct 2026 | La Comédie De Genève | Geneva |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 7 Nov 2026 | Concept Haus | Manchester |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
@@ -35,4 +36,4 @@ Chlär is a techno and house artist tracked on soundcheck, with 248 sets logged 
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*

@@ -1,6 +1,6 @@
 # HU
 
-HU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at E1, London on Fri, 9 Oct 2026.
+HU is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at E1, London on Fri, 9 Oct 2026.
 
 HU is a techno and trance artist based in Slovakia, tracked on soundcheck, with 6 sets logged across Budapest, Leipzig, London and Malta and 2 more. Often billed alongside Afem Syko, CARV and Diffrent. Next up: E1, London on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ HU is a techno and trance artist based in Slovakia, tracked on soundcheck, with 
 
 Afem Syko, CARV, Diffrent
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hu/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hu/)*

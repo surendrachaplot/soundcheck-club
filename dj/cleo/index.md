@@ -1,6 +1,6 @@
 # CLEO
 
-CLEO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Wanderlust, Paris on Thu, 3 Sept 2026.
+CLEO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Wanderlust, Paris on Thu, 3 Sept 2026.
 
 CLEO is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 3 more. Often billed alongside STAANA, Cleo (AU) and Cleo SNK. Next up: Wanderlust, Paris on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ CLEO is a techno and house artist tracked on soundcheck, with 41 sets logged acr
 
 STAANA, Cleo (AU), Cleo SNK
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*

@@ -1,6 +1,6 @@
 # J.J. Mahoney's Bar
 
-J.J. Mahoney's Bar is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "GUSEUL" on Fri, 28 Aug 2026.
+J.J. Mahoney's Bar is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FIRST POUR X GUSEUL" on Fri, 28 Aug 2026.
 
 J.J. Mahoney's Bar is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including DOBERMAN, Genick, h4rdy and Holy and 2 more. Browse upcoming dates, start times and who's playing. 747-7 Hannam-dong, Yongsan-gu, Seoul, South Korea.
 
@@ -8,11 +8,11 @@ J.J. Mahoney's Bar is a music venue in Seoul listed on soundcheck. 2 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | GUSEUL | Holy, Nuyad, Pingpong (KR) |
+| Fri, 28 Aug 2026 | FIRST POUR X GUSEUL | Holy, Nuyad, Pingpong (KR) |
 | Fri, 11 Sept 2026 | SOLEIL presents CIRCUS TAKEOVER | DOBERMAN, Genick, MAR VISTA, Multivsn, YENN (2), h4rdy, kyo (3) |
 
 ## Address
 
 747-7 Hannam-dong, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/j-j-mahoney-s-bar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/j-j-mahoney-s-bar/)*

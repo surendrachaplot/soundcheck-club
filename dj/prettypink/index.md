@@ -1,6 +1,6 @@
 # Pretty Pink
 
-Pretty Pink is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Wolkezwei, Leipzig on Sun, 13 Sept 2026.
+Pretty Pink is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Wolkezwei, Leipzig on Sun, 13 Sept 2026.
 
 Pretty Pink is a techno and progressive house artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Chicago and Cologne and 28 more. Often billed alongside Cosmic Gate, Thomas Lizzara and Armin van Buuren. Next up: Wolkezwei, Leipzig on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Pretty Pink is a techno and progressive house artist tracked on soundcheck, with
 
 Cosmic Gate, Thomas Lizzara, Armin van Buuren
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*

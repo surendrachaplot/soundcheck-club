@@ -1,6 +1,6 @@
 # Vitess
 
-Vitess is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 5 Sept 2026.
+Vitess is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 5 Sept 2026.
 
 Vitess is a house and tech house artist based in France, tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Grand V, Occibel and THEOS (1). Next up: Parco Industria Alfa Romeo - Portello, Milan on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Vitess is a house and tech house artist based in France, tracked on soundcheck, 
 
 Grand V, Occibel, THEOS (1)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*

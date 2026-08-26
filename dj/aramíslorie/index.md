@@ -1,6 +1,6 @@
 # Aramís Lorié
 
-Aramís Lorié is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lion's Den, Miami on Sun, 6 Sept 2026.
+Aramís Lorié is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lion's Den, Miami on Sun, 6 Sept 2026.
 
 Aramís Lorié is a house and idm artist tracked on soundcheck, with 6 sets logged across Miami. Often billed alongside Bakke, Danyelino and Mutant Pete. Next up: Lion's Den, Miami on Sun 6 Sept.
 
@@ -22,4 +22,4 @@ Aramís Lorié is a house and idm artist tracked on soundcheck, with 6 sets logg
 
 Bakke, Danyelino, Mutant Pete
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aramíslorie/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aramíslorie/)*

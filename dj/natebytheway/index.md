@@ -1,6 +1,6 @@
 # natebytheway
 
-natebytheway is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 29 Aug 2026.
+natebytheway is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 natebytheway is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Phil Spank, Clancy Hickinbotham and Jimmy B. Next up: Public Works, Sanfrancisco on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ natebytheway is a house and techno artist based in United States of America, tra
 
 Phil Spank, Clancy Hickinbotham, Jimmy B
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natebytheway/)*

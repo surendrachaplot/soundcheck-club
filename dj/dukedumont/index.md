@@ -1,6 +1,6 @@
 # Duke Dumont
 
-Duke Dumont is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Depot Mayfield, Manchester on Sat, 24 Oct 2026.
+Duke Dumont is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Depot Mayfield, Manchester on Sat, 24 Oct 2026.
 
 Duke Dumont is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Austin, Belfast, Boston and Chicago and 17 more. Often billed alongside Eli & Fur, Wax Motif and ANNA. Next up: Depot Mayfield, Manchester on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Duke Dumont is a house and tech house artist based in United Kingdom, tracked on
 
 Eli & Fur, Wax Motif, ANNA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*

@@ -1,6 +1,6 @@
 # Amazon
 
-Amazon is a Dub Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 27 Aug 2026.
+Amazon is a Dub Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 27 Aug 2026.
 
 Amazon is a dub techno and reggaeton artist tracked on soundcheck, with 10 sets logged across Brussels, Milan and Rome. Often billed alongside GS.ELLE, acideyes and ojoo. Next up: THE MAGICK BAR, Rome on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Amazon is a dub techno and reggaeton artist tracked on soundcheck, with 10 sets 
 
 GS.ELLE, acideyes, ojoo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amazon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amazon/)*

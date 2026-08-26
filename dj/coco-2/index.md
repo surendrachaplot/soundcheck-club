@@ -1,6 +1,6 @@
 # Coco (2)
 
-Coco (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Southwark Park, London on Sat, 29 Aug 2026.
+Coco (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Southwark Park, London on Sat, 29 Aug 2026.
 
 Coco (2) is a techno and electronica artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg, London, Melbourne and Munich. Often billed alongside Alicea, Ayres and Blood Orange. Next up: TBA - Southwark Park, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Coco (2) is a techno and electronica artist based in Germany, tracked on soundch
 
 Alicea, Ayres, Blood Orange
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coco-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coco-2/)*

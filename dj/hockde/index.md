@@ -1,6 +1,6 @@
 # HOCK (DE)
 
-HOCK (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Thu, 3 Sept 2026.
+HOCK (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ://about blank, Berlin on Thu, 3 Sept 2026.
 
 HOCK (DE) is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin and Leipzig. Often billed alongside Krash Cora, Bela Bertram and Bonzo (2). Next up: ://about blank, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ HOCK (DE) is a techno and trance artist tracked on soundcheck, with 11 sets logg
 
 Krash Cora, Bela Bertram, Bonzo (2)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hockde/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hockde/)*

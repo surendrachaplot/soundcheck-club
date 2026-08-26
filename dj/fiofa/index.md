@@ -1,6 +1,6 @@
 # Fio Fa
 
-Fio Fa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
+Fio Fa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Venue, Berlin on Fri, 25 Sept 2026.
 
 Fio Fa is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 12 more. Often billed alongside Cáit, Amaliah and Chapel Walk. Next up: TBA - Secret Venue, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fio Fa is a house and techno artist tracked on soundcheck, with 34 sets logged a
 
 Cáit, Amaliah, Chapel Walk
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiofa/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiofa/)*

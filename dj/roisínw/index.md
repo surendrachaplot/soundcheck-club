@@ -1,6 +1,6 @@
 # Róisín W
 
-Róisín W is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 28 Aug 2026.
+Róisín W is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 28 Aug 2026.
 
 Róisín W is a progressive house and house artist based in Ireland, tracked on soundcheck, with 23 sets logged across Manchester. Often billed alongside WeeDot, Pangölin and The Brokers. Next up: Eastern Bloc Records, Manchester on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Róisín W is a progressive house and house artist based in Ireland, tracked on 
 
 WeeDot, Pangölin, The Brokers
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roisínw/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roisínw/)*

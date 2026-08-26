@@ -1,6 +1,6 @@
 # Slam
 
-Slam is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+Slam is a Techno and Dub Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 Slam is a techno and dub techno artist tracked on soundcheck, with 134 sets logged across Aberdeen, Barcelona, Belfast and Berlin and 29 more. Often billed alongside KAAI, Kairogen and Nightwave. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Slam is a techno and dub techno artist tracked on soundcheck, with 134 sets logg
 
 KAAI, Kairogen, Nightwave
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slam/)*

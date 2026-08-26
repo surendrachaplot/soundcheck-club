@@ -1,6 +1,6 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "2 Years Hidden Frequencies" on Fri, 28 Aug 2026.
+Supermarket is a music venue in Zurich with 12 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "2 Years Hidden Frequencies" on Fri, 28 Aug 2026.
 
 Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights, with line-ups including FLETCH, Alci, Aline (CH) and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
@@ -23,4 +23,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming nights,
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

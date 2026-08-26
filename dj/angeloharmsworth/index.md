@@ -1,6 +1,6 @@
 # Angelo Harmsworth
 
-Angelo Harmsworth is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
+Angelo Harmsworth is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
 
 Angelo Harmsworth is an experimental and electronica artist tracked on soundcheck, with 14 sets logged across Berlin and Prague. Often billed alongside Nic Krog, Francesco Corvi and Nick Klein. Next up: Silent Green, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Angelo Harmsworth is an experimental and electronica artist tracked on soundchec
 
 Nic Krog, Francesco Corvi, Nick Klein
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloharmsworth/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloharmsworth/)*

@@ -1,6 +1,6 @@
 # Surati
 
-Surati is a Hardcore and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
+Surati is a Hardcore and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
 
 Surati is a hardcore and pop artist tracked on soundcheck, with 11 sets logged across Brighton, Bristol, Leeds and London and 1 more. Often billed alongside Peggy Viennetta, 3DMA and DJ Fingerblast. Next up: Daltons Brighton, Brighton on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Surati is a hardcore and pop artist tracked on soundcheck, with 11 sets logged a
 
 Peggy Viennetta, 3DMA, DJ Fingerblast
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surati/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surati/)*

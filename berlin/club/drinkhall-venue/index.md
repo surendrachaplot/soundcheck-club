@@ -1,6 +1,6 @@
 # Drinkhall Venue
 
-Drinkhall Venue is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Vida y Muerte" on Thu, 27 Aug 2026.
+Drinkhall Venue is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Vida y Muerte" on Thu, 27 Aug 2026.
 
 Drinkhall Venue is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including AGY3NA, Merlin Cum, Rakans and YONG YING. Browse upcoming dates, start times and who's playing. Oranienstraße 36 10999 Berlin.
 
@@ -17,4 +17,4 @@ Drinkhall Venue is a music venue in Berlin listed on soundcheck. 4 upcoming nigh
 
 Oranienstraße 36 10999 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/drinkhall-venue/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/drinkhall-venue/)*

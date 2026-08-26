@@ -1,6 +1,6 @@
 # Blank Vision
 
-Blank Vision is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
+Blank Vision is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
 
 Blank Vision is a techno and trance artist tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside Emel White, Silvi Knallt and Jakomo. Next up: elipamanoke, Leipzig on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Blank Vision is a techno and trance artist tracked on soundcheck, with 34 sets l
 
 Emel White, Silvi Knallt, Jakomo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blankvision/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blankvision/)*

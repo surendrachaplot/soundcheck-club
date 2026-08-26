@@ -1,6 +1,6 @@
 # MNTY
 
-MNTY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Fünk, Mexico City on Fri, 28 Aug 2026.
+MNTY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fünk, Mexico City on Fri, 28 Aug 2026.
 
 MNTY is a house and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Mexicocity and Newyorkcity and 3 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: Fünk, Mexicocity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ MNTY is a house and techno artist tracked on soundcheck, with 90 sets logged acr
 
 Bluecommand, Valeriana, AAAA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*

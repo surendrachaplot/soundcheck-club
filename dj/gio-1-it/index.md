@@ -1,6 +1,6 @@
 # GIØ (1)
 
-GIØ (1) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+GIØ (1) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 GIØ (1) is a techno and trance artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside KUKO, Adrian Mills and Johannes Schuster. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ GIØ (1) is a techno and trance artist tracked on soundcheck, with 36 sets logge
 
 KUKO, Adrian Mills, Johannes Schuster
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gio-1-it/)*

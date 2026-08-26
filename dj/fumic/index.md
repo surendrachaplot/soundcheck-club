@@ -1,6 +1,6 @@
 # FUMiC
 
-FUMiC is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar Fader, Osaka on Sun, 27 Sept 2026.
+FUMiC is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Fader, Osaka on Sun, 27 Sept 2026.
 
 FUMiC is a house and disco artist based in Japan, tracked on soundcheck, with 16 sets logged across Osaka. Often billed alongside coolsurf, h1rune and CRAZYHYUGA. Next up: Bar Fader, Osaka on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ FUMiC is a house and disco artist based in Japan, tracked on soundcheck, with 16
 
 coolsurf, h1rune, CRAZYHYUGA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumic/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fumic/)*

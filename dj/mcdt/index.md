@@ -1,6 +1,6 @@
 # MC DT
 
-MC DT is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat, 29 Aug 2026.
+MC DT is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat, 29 Aug 2026.
 
 MC DT is a garage and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Birmingham, Leeds, London and Manchester. Often billed alongside MC CKP, MC Creed and Matt Jam Lamont. Next up: Summer Outdoor Garage Festival - Wheelers Farm Chelmsford, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MC DT is a garage and house artist based in United Kingdom, tracked on soundchec
 
 MC CKP, MC Creed, Matt Jam Lamont
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdt/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcdt/)*

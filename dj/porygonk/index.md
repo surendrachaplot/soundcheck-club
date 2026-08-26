@@ -1,6 +1,6 @@
 # porygon k
 
-porygon k is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jade, New York City on Sat, 29 Aug 2026.
+porygon k is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jade, New York City on Sat, 29 Aug 2026.
 
 porygon k is a house and idm artist based in United States of America, tracked on soundcheck, with 46 sets logged across Newyorkcity. Often billed alongside Cassi-DJ, GEODE and ALLAN RITUAL. Next up: Jade, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ porygon k is a house and idm artist based in United States of America, tracked o
 
 Cassi-DJ, GEODE, ALLAN RITUAL
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porygonk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/porygonk/)*

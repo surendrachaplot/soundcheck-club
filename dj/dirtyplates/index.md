@@ -1,6 +1,6 @@
 # Dirty Plates
 
-Dirty Plates is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hangaren, Copenhagen on Sat, 12 Sept 2026.
+Dirty Plates is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hangaren, Copenhagen on Sat, 12 Sept 2026.
 
 Dirty Plates is a drum & bass and jungle artist based in Denmark, tracked on soundcheck, with 64 sets logged across Berlin, Copenhagen and Leipzig. Often billed alongside Upzet, Anton Quasi and CAYOOTEE. Next up: Hangaren, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Dirty Plates is a drum & bass and jungle artist based in Denmark, tracked on sou
 
 Upzet, Anton Quasi, CAYOOTEE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyplates/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyplates/)*

@@ -1,6 +1,6 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 20 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "DIAMONDS ARE FOREVER presents ダイアモンドをどり" on Fri, 28 Aug 2026.
+Club Metro is a music venue in Kyoto with 20 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DIAMONDS ARE FOREVER presents ダイアモンドをどり" on Fri, 28 Aug 2026.
 
 Club Metro is a music venue in Kyoto listed on soundcheck. 20 upcoming nights, with line-ups including Andy Vaz, DMITRI ABSINTHE, Isshin and Kotaro Shimizu and 2 more. Browse upcoming dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 20 upcoming nights, w
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

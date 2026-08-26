@@ -1,6 +1,6 @@
 # Lammi
 
-Lammi is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Sydney on Fri, 11 Sept 2026.
+Lammi is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Sydney on Fri, 11 Sept 2026.
 
 Lammi is a club and electronica artist tracked on soundcheck, with 3 sets logged across Sydney. Often billed alongside Izata, Keavsz and Maggie Tra. Next up: TBA, Sydney on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Lammi is a club and electronica artist tracked on soundcheck, with 3 sets logged
 
 Izata, Keavsz, Maggie Tra
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lammi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lammi/)*

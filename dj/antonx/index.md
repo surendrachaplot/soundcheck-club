@@ -1,6 +1,6 @@
 # Anton X
 
-Anton X is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Anton X is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Anton X is a drum & bass and jungle artist based in France, tracked on soundcheck, with 9 sets logged across Barcelona, Bristol, London and Lyon. Often billed alongside Phantom, Bryan Gee and Carasel. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Anton X is a drum & bass and jungle artist based in France, tracked on soundchec
 
 Phantom, Bryan Gee, Carasel
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonx/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antonx/)*

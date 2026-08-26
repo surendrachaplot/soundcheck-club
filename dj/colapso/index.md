@@ -1,6 +1,6 @@
 # Colapso
 
-Colapso is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Paname sur Seine, Paris on Sun, 30 Aug 2026.
+Colapso is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paname sur Seine, Paris on Sun, 30 Aug 2026.
 
 Colapso is a house and italo disco artist based in France, tracked on soundcheck, with 24 sets logged across Barcelona, Lyon, Mexicocity and Newyorkcity and 1 more. Often billed alongside Apéro Notturno, Zaratustra and Bérou. Next up: Paname sur Seine, Paris on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Colapso is a house and italo disco artist based in France, tracked on soundcheck
 
 Apéro Notturno, Zaratustra, Bérou
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colapso/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colapso/)*

@@ -1,6 +1,6 @@
 # blksoap
 
-blksoap is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Grand Star Jazz Club, Los Angeles on Sat, 29 Aug 2026.
+blksoap is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Grand Star Jazz Club, Los Angeles on Sat, 29 Aug 2026.
 
 blksoap is a house and afro house artist tracked on soundcheck, with 25 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Jayvi Velasco, Juliet Mendoza and Mark de Clive-Lowe. Next up: Grand Star Jazz Club, Losangeles on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ blksoap is a house and afro house artist tracked on soundcheck, with 25 sets log
 
 Jayvi Velasco, Juliet Mendoza, Mark de Clive-Lowe
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blksoap/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blksoap/)*

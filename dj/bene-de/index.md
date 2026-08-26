@@ -1,6 +1,6 @@
 # b̶e̶n̶e̶
 
-b̶e̶n̶e̶ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 11 Sept 2026.
+b̶e̶n̶e̶ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 11 Sept 2026.
 
 b̶e̶n̶e̶ is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Luke Shirwin, Fading Franz and Regolator. Next up: TBA - Secret Location, Berlin on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ b̶e̶n̶e̶ is a house and techno artist tracked on soundcheck, with 6 sets log
 
 Luke Shirwin, Fading Franz, Regolator
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bene-de/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bene-de/)*

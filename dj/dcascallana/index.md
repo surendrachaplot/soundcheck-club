@@ -1,6 +1,6 @@
 # Dcascallana
 
-Dcascallana is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at SASS Music Club, Vienna on Sat, 29 Aug 2026.
+Dcascallana is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at SASS Music Club, Vienna on Sat, 29 Aug 2026.
 
 Dcascallana is a techno and trance artist based in Austria, tracked on soundcheck, with 30 sets logged across Vienna. Often billed alongside CPR0, DANBERG and KalelLoco. Next up: SASS Music Club, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dcascallana is a techno and trance artist based in Austria, tracked on soundchec
 
 CPR0, DANBERG, KalelLoco
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dcascallana/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dcascallana/)*

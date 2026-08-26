@@ -1,6 +1,6 @@
 # cry$cross
 
-cry$cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 4 Sept 2026.
+cry$cross is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 4 Sept 2026.
 
 cry$cross is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Losangeles, Newyorkcity and Philadelphia. Often billed alongside Swaya, BOJAQ and Daniro. Next up: Dead Letter No. 9, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ cry$cross is a house and techno artist based in United States of America, tracke
 
 Swaya, BOJAQ, Daniro
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crycross/)*

@@ -1,6 +1,6 @@
 # Eternal Soup
 
-Eternal Soup is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Eternal Soup is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Eternal Soup is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Leon Licht, A/NTI and Vio PRG. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Eternal Soup is a techno and house artist tracked on soundcheck, with 9 sets log
 
 Leon Licht, A/NTI, Vio PRG
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternalsoup/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternalsoup/)*

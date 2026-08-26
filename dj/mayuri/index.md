@@ -1,6 +1,6 @@
 # Mayuri
 
-Mayuri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 29 Aug 2026.
+Mayuri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Festsaal Kreuzberg, Berlin on Sat, 29 Aug 2026.
 
 Mayuri is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin and Tokyo. Often billed alongside Q'hey, Takami and Drunken Kong. Next up: Festsaal Kreuzberg, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mayuri is a techno and house artist tracked on soundcheck, with 18 sets logged a
 
 Q'hey, Takami, Drunken Kong
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuri/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuri/)*

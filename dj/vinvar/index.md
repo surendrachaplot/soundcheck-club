@@ -1,8 +1,8 @@
 # VINVAR
 
-VINVAR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
+VINVAR is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at KREUZWERK, Berlin on Sun, 30 Aug 2026.
 
-VINVAR is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Rakans, LOLSNAKE and CRYME. Next up: KREUZWERK, Berlin on Sun 30 Aug.
+VINVAR is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Rakans, LOLSNAKE and CRYME. Next up: KREUZWERK, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ VINVAR is a techno and house artist tracked on soundcheck, with 106 sets logged 
 | Sun, 30 Aug 2026 | KREUZWERK | Berlin |
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 19 Sept 2026 | C12 | Brussels |
+| Fri, 2 Oct 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ VINVAR is a techno and house artist tracked on soundcheck, with 106 sets logged 
 
 Rakans, LOLSNAKE, CRYME
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinvar/)*

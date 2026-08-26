@@ -1,6 +1,6 @@
 # sillygirlcarmen
 
-sillygirlcarmen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Spkrbox, Detroit on Sat, 12 Sept 2026.
+sillygirlcarmen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Spkrbox, Detroit on Sat, 12 Sept 2026.
 
 sillygirlcarmen is a house and deep house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Detroit, Miami, Nashville and Newyorkcity and 2 more. Often billed alongside Bruce Bailey, Delano Smith and Eddie Fowlkes. Next up: Spkrbox, Detroit on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ sillygirlcarmen is a house and deep house artist based in United States of Ameri
 
 Bruce Bailey, Delano Smith, Eddie Fowlkes
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sillygirlcarmen/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sillygirlcarmen/)*

@@ -1,6 +1,6 @@
 # KABBAGE
 
-KABBAGE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
+KABBAGE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Ministry, London on Sun, 4 Oct 2026.
 
 KABBAGE is a house and tech house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Colin Dale, George Plant and HEAVEN-LEE. Next up: The Ministry, London on Sun 4 Oct.
 
@@ -18,4 +18,4 @@ KABBAGE is a house and tech house artist tracked on soundcheck, with 2 sets logg
 
 Colin Dale, George Plant, HEAVEN-LEE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabbage/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabbage/)*

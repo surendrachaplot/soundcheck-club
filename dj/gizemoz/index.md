@@ -1,6 +1,6 @@
 # Gizem Öz
 
-Gizem Öz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Gizem Öz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Gizem Öz is a techno and house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Istanbul. Often billed alongside Konstantin, Map.ache and DJ Dustin. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gizem Öz is a techno and house artist based in Netherlands, tracked on soundche
 
 Konstantin, Map.ache, DJ Dustin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizemoz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizemoz/)*

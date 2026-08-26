@@ -1,6 +1,6 @@
 # Orange Moon
 
-Orange Moon is a Jazz and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Orange Moon is a Jazz and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Orange Moon is a jazz and techno artist based in Canada, tracked on soundcheck, with 8 sets logged across Melbourne, Montreal and Toronto. Often billed alongside A Guy Called Gerald, Honeydrip and Jordan Gardner. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -13,6 +13,7 @@ Orange Moon is a jazz and techno artist based in Canada, tracked on soundcheck, 
 
 ## Recently played
 
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Mooi Space, Toronto — Sat, 30 May 2026
 - Second Story Studios, Melbourne — Sat, 11 Apr 2026
 - Aster Cocktail & Wine Bar, Melbourne — Thu, 26 Mar 2026
@@ -24,4 +25,4 @@ Orange Moon is a jazz and techno artist based in Canada, tracked on soundcheck, 
 
 A Guy Called Gerald, Honeydrip, Jordan Gardner
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orangemoon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orangemoon/)*

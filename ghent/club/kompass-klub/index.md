@@ -1,6 +1,6 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Yanamaste at Kompass (ALL NIGHT LONG)" on Fri, 9 Oct 2026.
+Kompass Klub is a music venue in Ghent with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Yanamaste at Kompass (ALL NIGHT LONG)" on Fri, 9 Oct 2026.
 
 Kompass Klub is a music venue in Ghent listed on soundcheck. 2 upcoming nights, with line-ups including Azo, Clara D, Crookers and Digitalism and 2 more. Browse upcoming dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
@@ -15,4 +15,4 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 2 upcoming nights, 
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

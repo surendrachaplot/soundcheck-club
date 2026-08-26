@@ -1,6 +1,6 @@
 # Jacob Stoy
 
-Jacob Stoy is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Jacob Stoy is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
 Jacob Stoy is a club artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Carl Suspect, Alessandro Adriani and Conrad Kaden. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Jacob Stoy is a club artist tracked on soundcheck, with 3 sets logged across Ber
 
 Carl Suspect, Alessandro Adriani, Conrad Kaden
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobstoy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacobstoy/)*

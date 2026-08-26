@@ -1,6 +1,6 @@
 # KOSAA
 
-KOSAA is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 18 Sept 2026.
+KOSAA is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 18 Sept 2026.
 
 KOSAA is a techno artist tracked on soundcheck, with 7 sets logged across Manchester and Warsaw. Often billed alongside Adrian Skiba, DJ Loose and FJAAK. Next up: Eastern Bloc Records, Manchester on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ KOSAA is a techno artist tracked on soundcheck, with 7 sets logged across Manche
 
 Adrian Skiba, DJ Loose, FJAAK
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosaa/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosaa/)*

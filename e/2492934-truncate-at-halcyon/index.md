@@ -1,6 +1,6 @@
 # Truncate at Halcyon
 
-Truncate at Halcyon on Fri 28 Aug, Sanfrancisco. 2 acts on the bill: Max Gardner and Truncate. Preview the line-up and save it on soundcheck.
+Truncate at Halcyon on Fri 28 Aug, Sanfrancisco. 3 acts on the bill: Adra, Max Gardner and Truncate. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Truncate at Halcyon on Fri 28 Aug, Sanfrancisco. 2 acts on the bill: Max Gardner
 
 ## Line-up
 
+- Adra
 - Max Gardner
 - Truncate
 

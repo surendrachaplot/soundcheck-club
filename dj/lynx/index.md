@@ -1,6 +1,6 @@
 # Lynx
 
-Lynx is a Jungle and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Social, London on Sat, 29 Aug 2026.
+Lynx is a Jungle and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Social, London on Sat, 29 Aug 2026.
 
 Lynx is a jungle and r&b artist tracked on soundcheck, with 6 sets logged across Bristol, Hamburg, London and Tokyo. Often billed alongside Mantmast, Need For Mirrors and DJ Lee. Next up: The Social, London on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Lynx is a jungle and r&b artist tracked on soundcheck, with 6 sets logged across
 
 Mantmast, Need For Mirrors, DJ Lee
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lynx/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lynx/)*

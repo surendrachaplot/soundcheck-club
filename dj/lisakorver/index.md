@@ -1,8 +1,8 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Lisa Korver is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
-Lisa Korver is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Ibiza and London and 5 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
+Lisa Korver is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Ibiza and London and 5 more. Often billed alongside LAMMER, OLIVIA LENSEN and Kyle Starkey. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Lisa Korver is a techno and house artist tracked on soundcheck, with 66 sets log
 | Sun, 30 Aug 2026 | Colorado Charlie | The Hague |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 9 Oct 2026 | Garage Klub | Antwerp |
 | Sat, 17 Oct 2026 | TivoliVredenburg | Utrecht |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
@@ -32,6 +33,6 @@ Lisa Korver is a techno and house artist tracked on soundcheck, with 66 sets log
 
 ## Shares bills with
 
-LAMMER, OLIVIA LENSEN, Freddi
+LAMMER, OLIVIA LENSEN, Kyle Starkey
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

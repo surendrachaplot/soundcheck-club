@@ -1,6 +1,6 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Ben Sims is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
 Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Ben Sims is a techno and house artist tracked on soundcheck, with 183 sets logge
 
 Oscar Mulero, Rødhåd, Blasha & Allatt
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

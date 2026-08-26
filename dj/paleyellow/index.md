@@ -1,17 +1,18 @@
 # PALE YELLOW
 
-PALE YELLOW is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - SECRET SF LOCATION, San Francisco/Oakland on Fri, 25 Sept 2026.
+PALE YELLOW is a Dembow and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Beauty Bar, San Francisco/Oakland on Sat, 19 Sept 2026.
 
-PALE YELLOW is a techno and electronica artist based in United States of America, tracked on soundcheck, with 1 set logged across Sanfrancisco. Often billed alongside @djlobottomy, DMN TWNK and MALICIEL. Next up: TBA - SECRET SF LOCATION, Sanfrancisco on Fri 25 Sept.
+PALE YELLOW is a dembow and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside @djlobottomy, Martyr Princess and DMN TWNK. Next up: Beauty Bar, Sanfrancisco on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Beauty Bar | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | TBA - SECRET SF LOCATION | San Francisco/Oakland |
 
 ## Shares bills with
 
-@djlobottomy, DMN TWNK, MALICIEL
+@djlobottomy, Martyr Princess, DMN TWNK
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paleyellow/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paleyellow/)*

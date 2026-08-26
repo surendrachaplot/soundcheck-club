@@ -1,6 +1,6 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Oven Club, Valencia on Fri, 28 Aug 2026.
+Cheriii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Oven Club, Valencia on Fri, 28 Aug 2026.
 
 Cheriii is a house and techno artist tracked on soundcheck, with 76 sets logged across Antwerp, Athens, Barcelona and Berlin and 14 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: Oven Club, Valencia on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Cheriii is a house and techno artist tracked on soundcheck, with 76 sets logged 
 
 Kubin, Julie Desire, Dirty Daddy Don
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

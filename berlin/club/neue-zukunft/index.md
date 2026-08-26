@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "IOTOFTSAF" on Thu, 27 Aug 2026.
+Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "IOTOFTSAF" on Thu, 27 Aug 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -21,4 +21,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights.
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

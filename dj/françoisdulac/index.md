@@ -1,6 +1,6 @@
 # François Dulac
 
-François Dulac is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+François Dulac is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 François Dulac is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside hi.fí, Ahni and Baltza. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ François Dulac is a techno and deep house artist based in United Kingdom, track
 
 hi.fí, Ahni, Baltza
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisdulac/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/françoisdulac/)*

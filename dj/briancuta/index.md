@@ -1,6 +1,6 @@
 # Brian Cuta
 
-Brian Cuta is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at StereoBar, Montreal on Sun, 13 Sept 2026.
+Brian Cuta is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at StereoBar, Montreal on Sun, 13 Sept 2026.
 
 Brian Cuta is a techno and drum & bass artist tracked on soundcheck, with 20 sets logged across Montreal, Saopaulo and Toronto. Often billed alongside Mike Haddad, Crescenzo and ROUDY. Next up: StereoBar, Montreal on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Brian Cuta is a techno and drum & bass artist tracked on soundcheck, with 20 set
 
 Mike Haddad, Crescenzo, ROUDY
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briancuta/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briancuta/)*

@@ -1,8 +1,8 @@
 # Forge
 
-Forge is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "ALPHA SPECTRUM x EnKore: ALPHAKORE" on Fri, 28 Aug 2026.
+Forge is a music venue in Bucharest with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "ALPHA SPECTRUM x EnKore: ALPHAKORE" on Fri, 28 Aug 2026.
 
-Forge is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including Aiur, Dalek, Lobster (NL) and Meiremax and 2 more. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
+Forge is a music venue in Bucharest listed on soundcheck. 8 upcoming nights, with line-ups including Aiur, Dalek, Lobster (NL) and Meiremax and 2 more. Browse upcoming dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Forge is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, wit
 | Fri, 9 Oct 2026 | ALPHA SPECTRUM: LEVEL 05 - THE ABYSS | Neotroxian, Project Morpheus |
 | Fri, 9 Oct 2026 | EELF PRESENTS: Bucharest - Shaolin Cowboy(UK), Target Demographic(LA), Paluma Sound(NY)  | Paluma Sound, Shaolin Cowboy, Target Demographic |
 | Fri, 9 Oct 2026 | EELF Presents: Bucharest - Shaolin Cowboy(UK), Target Demographic(LA), Paluma Sound(NY) | Paluma Sound, Shaolin Cowboy, Target Demographic |
+| Fri, 9 Oct 2026 | EELF Presents: Bucharest - Shaolin Cowboy(UK), Target Demographic(LA), DJ Colentina | Shaolin Cowboy, Target Demographic |
 | Sat, 24 Oct 2026 | SCHISSMA: HALLOWEEN EDITION (BUCHAREST) |  |
 | Fri, 20 Nov 2026 | Sqweez! x VESELKA |  |
 
@@ -20,4 +21,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, wit
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

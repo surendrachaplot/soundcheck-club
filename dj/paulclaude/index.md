@@ -1,6 +1,6 @@
 # Paul Claude
 
-Paul Claude is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Paul Claude is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Paul Claude is an electronic artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Amotik, Answer Code Request and Anuli. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Paul Claude is an electronic artist based in Germany, tracked on soundcheck, wit
 
 Amotik, Answer Code Request, Anuli
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulclaude/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulclaude/)*

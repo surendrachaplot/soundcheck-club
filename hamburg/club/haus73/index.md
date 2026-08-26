@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Demo Rave Afterparty - Haus73+Yoto" on Sat, 29 Aug 2026.
+Haus73 is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Demo Rave Afterparty - Haus73+Yoto" on Sat, 29 Aug 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including ACID B4RBIE, aitch, Ivaldo Gino and Lang Jan (2) and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -21,4 +21,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

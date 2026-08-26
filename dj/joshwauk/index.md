@@ -1,8 +1,8 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at SWG3, Glasgow on Fri, 28 Aug 2026.
+Joshwa is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at SWG3, Glasgow on Fri, 28 Aug 2026.
 
-Joshwa is a tech house and house artist tracked on soundcheck, with 79 sets logged across Boston, Chicago, Copenhagen and Denver and 25 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: SWG3, Glasgow on Fri 28 Aug.
+Joshwa is a tech house and house artist tracked on soundcheck, with 80 sets logged across Boston, Chicago, Copenhagen and Denver and 25 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: SWG3, Glasgow on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 79 sets logg
 | Fri, 28 Aug 2026 | SWG3 | Glasgow |
 | Sun, 6 Sept 2026 | Club Vinyl | Denver |
 | Fri, 25 Sept 2026 | Pygmalion | Dublin |
+| Sat, 17 Oct 2026 | XOYO | London |
 | Sat, 21 Nov 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
@@ -28,4 +29,4 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 79 sets logg
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

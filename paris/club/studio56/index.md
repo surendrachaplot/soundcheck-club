@@ -1,6 +1,6 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Signal W/ Rynasty , Rinzler , Kreatur" on Tue, 25 Aug 2026.
+Studio56 is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Signal W/ Rynasty , Rinzler , Kreatur" on Tue, 25 Aug 2026.
 
 Studio56 is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Killoverjoy and Nola. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
@@ -19,4 +19,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 6 upcoming nights, with
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

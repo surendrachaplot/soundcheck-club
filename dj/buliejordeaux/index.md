@@ -1,6 +1,6 @@
 # Bulie Jordeaux
 
-Bulie Jordeaux is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
+Bulie Jordeaux is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
 
 Bulie Jordeaux is an experimental and electronica artist based in Belgium, tracked on soundcheck, with 16 sets logged across Brussels and Paris. Often billed alongside Jacky Jeane, Abajour and Amau. Next up: La Rotonde Stalingrad, Paris on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Bulie Jordeaux is an experimental and electronica artist based in Belgium, track
 
 Jacky Jeane, Abajour, Amau
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buliejordeaux/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buliejordeaux/)*

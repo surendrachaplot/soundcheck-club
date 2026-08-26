@@ -1,6 +1,6 @@
 # Cashu
 
-Cashu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Cashu is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Cashu is a techno and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside BADSISTA, RHR and Alírio. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Cashu is a techno and house artist tracked on soundcheck, with 146 sets logged a
 
 BADSISTA, RHR, Alírio
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

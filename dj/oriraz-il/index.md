@@ -1,6 +1,6 @@
 # Ori Raz
 
-Ori Raz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
+Ori Raz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ://about blank, Berlin on Thu, 27 Aug 2026.
 
 Ori Raz is a house and techno artist tracked on soundcheck, with 27 sets logged across Bali, Berlin, Brussels and Leipzig. Often billed alongside Sevensol, Marie Lung and Black Mirror Park. Next up: ://about blank, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Ori Raz is a house and techno artist tracked on soundcheck, with 27 sets logged 
 
 Sevensol, Marie Lung, Black Mirror Park
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriraz-il/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriraz-il/)*

@@ -1,6 +1,6 @@
 # MNZR
 
-MNZR is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
+MNZR is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
 
 MNZR is a house artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside Daniel Sanchez, Ulatowski and Galu Bla. Next up: Macarena Club, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ MNZR is a house artist based in Spain, tracked on soundcheck, with 12 sets logge
 
 Daniel Sanchez, Ulatowski, Galu Bla
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mnzr/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mnzr/)*

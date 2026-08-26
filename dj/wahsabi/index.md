@@ -1,6 +1,6 @@
 # Wahsabi
 
-Wahsabi is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
+Wahsabi is a Club and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
 
 Wahsabi is a club and electronica artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside B3CKI, KALI. and Chinyere. Next up: Lark, Berlin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Wahsabi is a club and electronica artist based in Germany, tracked on soundcheck
 
 B3CKI, KALI., Chinyere
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wahsabi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wahsabi/)*

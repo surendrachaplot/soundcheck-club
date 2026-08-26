@@ -1,6 +1,6 @@
 # T-O-D
 
-T-O-D is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Stereo, Glasgow on Fri, 11 Sept 2026.
+T-O-D is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Stereo, Glasgow on Fri, 11 Sept 2026.
 
 T-O-D is a bass and drum & bass artist tracked on soundcheck, with 27 sets logged across Edinburgh and Glasgow. Often billed alongside Hometown Sound, izit? and James Hometown. Next up: Stereo, Glasgow on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ T-O-D is a bass and drum & bass artist tracked on soundcheck, with 27 sets logge
 
 Hometown Sound, izit?, James Hometown
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t-o-d/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t-o-d/)*

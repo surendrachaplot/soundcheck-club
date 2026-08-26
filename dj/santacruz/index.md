@@ -1,6 +1,6 @@
 # Santa Cruz
 
-Santa Cruz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
+Santa Cruz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Garage 442, Barcelona on Thu, 27 Aug 2026.
 
 Santa Cruz is a techno and house artist based in Uruguay, tracked on soundcheck, with 10 sets logged across Barcelona, Ibiza, Madrid and Mexicocity and 1 more. Often billed alongside Bryan Peroni, Marcelo Demarco and Anabel Arroyo. Next up: Garage 442, Barcelona on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Santa Cruz is a techno and house artist based in Uruguay, tracked on soundcheck,
 
 Bryan Peroni, Marcelo Demarco, Anabel Arroyo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santacruz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santacruz/)*

@@ -1,6 +1,6 @@
 # CIRCOLO BOTULINO
 
-CIRCOLO BOTULINO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Confusion in sex *EXTRADATE* pres. 'Scopri Milano'" on Fri, 28 Aug 2026.
+CIRCOLO BOTULINO is a music venue in Milan with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Confusion in sex *EXTRADATE* pres. 'Scopri Milano'" on Fri, 28 Aug 2026.
 
 CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Via Plezzo, 16, 20132 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ CIRCOLO BOTULINO is a music venue in Milan listed on soundcheck. 1 upcoming nigh
 
 Via Plezzo, 16, 20132 Milano MI, Italy, Milan
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-botulino/)*

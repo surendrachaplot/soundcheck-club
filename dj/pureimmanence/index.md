@@ -1,6 +1,6 @@
 # Pure Immanence
 
-Pure Immanence is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Paragon, New York City on Sat, 29 Aug 2026.
+Pure Immanence is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paragon, New York City on Sat, 29 Aug 2026.
 
 Pure Immanence is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Leipzig, Miami and Newyorkcity. Often billed alongside Shyboi, MORENXXX and Ne/Re/A. Next up: Paragon, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pure Immanence is a techno and house artist based in United States of America, t
 
 Shyboi, MORENXXX, Ne/Re/A
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pureimmanence/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pureimmanence/)*

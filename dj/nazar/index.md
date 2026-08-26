@@ -1,6 +1,6 @@
 # Nazar
 
-Nazar is a Experimental and Kuduro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Nazar is a Experimental and Kuduro artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Nazar is an experimental and kuduro artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Ikonika, The Bug and gyrofield. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -14,6 +14,7 @@ Nazar is an experimental and kuduro artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Ormside Projects, London — Sat, 30 May 2026
@@ -21,10 +22,9 @@ Nazar is an experimental and kuduro artist based in United Kingdom, tracked on s
 - Silent Green, Berlin — Sat, 2 May 2026
 - TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
 - Corsica Studios, London — Thu, 26 Mar 2026
-- Garage Noord, Amsterdam — Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Ikonika, The Bug, gyrofield
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nazar/)*

@@ -1,6 +1,6 @@
 # Mar io
 
-Mar io is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Yan Gastro, Istanbul on Sat, 29 Aug 2026.
+Mar io is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Yan Gastro, Istanbul on Sat, 29 Aug 2026.
 
 Mar io is a club and bass artist tracked on soundcheck, with 4 sets logged across Berlin, Istanbul, Krakow and Washingtondc. Often billed alongside Chris Maico Schmidt and Illegible. Next up: Yan Gastro, Istanbul on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Mar io is a club and bass artist tracked on soundcheck, with 4 sets logged acros
 
 Chris Maico Schmidt, Illegible
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mario/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mario/)*

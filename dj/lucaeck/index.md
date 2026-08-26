@@ -1,6 +1,6 @@
 # Luca Eck
 
-Luca Eck is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Luca Eck is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Luca Eck is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Chicago and Cologne and 18 more. Often billed alongside Miss Bashful, DJ Hyaluron and GIA. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Luca Eck is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Miss Bashful, DJ Hyaluron, GIA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*

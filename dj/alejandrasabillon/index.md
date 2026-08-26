@@ -1,6 +1,6 @@
 # Alejandra Sabillón
 
-Alejandra Sabillón is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mood Ring, New York City on Sat, 26 Sept 2026.
+Alejandra Sabillón is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mood Ring, New York City on Sat, 26 Sept 2026.
 
 Alejandra Sabillón is a house and electronica artist tracked on soundcheck, with 12 sets logged across Mexicocity and Newyorkcity. Often billed alongside Cosmo (NY), Quantic and Abby Echiverri. Next up: Mood Ring, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alejandra Sabillón is a house and electronica artist tracked on soundcheck, wit
 
 Cosmo (NY), Quantic, Abby Echiverri
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrasabillon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrasabillon/)*

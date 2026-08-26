@@ -1,6 +1,6 @@
 # Diego (3)
 
-Diego (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at SASS Music Club, Vienna on Sat, 29 Aug 2026.
+Diego (3) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at SASS Music Club, Vienna on Sat, 29 Aug 2026.
 
 Diego (3) is a house and tech house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Brussels, Detroit and Hamburg and 4 more. Often billed alongside Khun, Mees Mattern and Annika. Next up: SASS Music Club, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Diego (3) is a house and tech house artist tracked on soundcheck, with 10 sets l
 
 Khun, Mees Mattern, Annika
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-3/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diego-3/)*

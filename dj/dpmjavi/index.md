@@ -1,6 +1,6 @@
 # DPM Javi
 
-DPM Javi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
+DPM Javi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
 
 DPM Javi is a trance and techno artist tracked on soundcheck, with 4 sets logged across Berlin and Newyorkcity. Often billed alongside Oscillation B, Dreimal T and JOHNNY O. Next up: TBA - Secret Location, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ DPM Javi is a trance and techno artist tracked on soundcheck, with 4 sets logged
 
 Oscillation B, Dreimal T, JOHNNY O
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dpmjavi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dpmjavi/)*

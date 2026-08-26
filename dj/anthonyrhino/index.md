@@ -1,6 +1,6 @@
 # Anthony Rhino
 
-Anthony Rhino is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
+Anthony Rhino is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
 Anthony Rhino is a progressive house and electronica artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Utrecht. Often billed alongside Dowden, Alex O'Rion and Callecat. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Anthony Rhino is a progressive house and electronica artist based in Netherlands
 
 Dowden, Alex O'Rion, Callecat
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrhino/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrhino/)*

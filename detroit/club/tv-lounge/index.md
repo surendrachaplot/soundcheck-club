@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "DJ I.V. presents" on Thu, 27 Aug 2026.
+TV Lounge is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DJ I.V. presents" on Thu, 27 Aug 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including angela baskets, Bruce Bailey, Carl Craig and dej.y and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -20,4 +20,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming nights, w
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

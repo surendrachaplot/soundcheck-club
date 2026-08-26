@@ -1,13 +1,14 @@
 # umru
 
-umru is a Club and Pop artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
+umru is a Club and Pop artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nowadays, New York City on Thu, 27 Aug 2026.
 
-umru is a club and pop artist based in United States of America, tracked on soundcheck, with 147 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: The Pearl, Vancouver on Sat 12 Sept.
+umru is a club and pop artist based in United States of America, tracked on soundcheck, with 148 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 40 more. Often billed alongside Petal Supply, Warpstr and GRRL. Next up: Nowadays, Newyorkcity on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | Nowadays | New York City |
 | Sat, 12 Sept 2026 | The Pearl | Vancouver |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Sat, 26 Sept 2026 | Club360 | London |
@@ -28,4 +29,4 @@ umru is a club and pop artist based in United States of America, tracked on soun
 
 Petal Supply, Warpstr, GRRL
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/umru/)*

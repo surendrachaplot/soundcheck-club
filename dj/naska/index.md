@@ -1,6 +1,6 @@
 # Naska
 
-Naska is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
+Naska is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
 
 Naska is a progressive house and house artist tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, London and Naples. Often billed alongside Perro Jimbo, VIKk and Chris Gorrie. Next up: TBA - Secret Location - Vesuvius Area , Naples on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Naska is a progressive house and house artist tracked on soundcheck, with 6 sets
 
 Perro Jimbo, VIKk, Chris Gorrie
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naska/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naska/)*

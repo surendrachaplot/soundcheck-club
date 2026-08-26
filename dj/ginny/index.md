@@ -1,6 +1,6 @@
 # Ginny
 
-Ginny is a Reggaeton and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar Oriente, Mexico City on Wed, 26 Aug 2026.
+Ginny is a Reggaeton and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Oriente, Mexico City on Wed, 26 Aug 2026.
 
 Ginny is a reggaeton and breakbeat artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol, Cardiff, Leeds and Lisbon and 2 more. Often billed alongside Br'er, M.O.O.N. and Meðlæti. Next up: Bar Oriente, Mexicocity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Ginny is a reggaeton and breakbeat artist based in United Kingdom, tracked on so
 
 Br'er, M.O.O.N., Meðlæti
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginny/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginny/)*

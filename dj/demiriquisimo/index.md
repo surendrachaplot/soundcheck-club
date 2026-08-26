@@ -1,14 +1,13 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Cova Santa, Ibiza on Tue, 25 Aug 2026.
+Demi Riquisimo is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mondo, Madrid on Thu, 27 Aug 2026.
 
-Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Cova Santa, Ibiza on Tue 25 Aug.
+Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Mondo, Madrid on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Cova Santa | Ibiza |
 | Thu, 27 Aug 2026 | Mondo | Madrid |
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Fri, 4 Sept 2026 | La Terrrazza | Barcelona |
@@ -20,9 +19,11 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 | Fri, 23 Oct 2026 | Het Dorp | Amsterdam |
+| Thu, 29 Oct 2026 | Amber's | Manchester |
 
 ## Recently played
 
+- Cova Santa, Ibiza — Tue, 25 Aug 2026
 - Kater, Berlin — Fri, 21 Aug 2026
 - Chinois Ibiza, Ibiza — Tue, 18 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
@@ -30,10 +31,9 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets
 - Lux Fragil, Lisbon — Sat, 4 Jul 2026
 - Refuge, New York City — Fri, 3 Jul 2026
 - Thuishaven, Amsterdam — Sun, 28 Jun 2026
-- Radio Radio, Amsterdam — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

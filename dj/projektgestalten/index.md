@@ -1,6 +1,6 @@
 # Projekt Gestalten
 
-Projekt Gestalten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Projekt Gestalten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Projekt Gestalten is a techno and house artist based in Brazil, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Berlin and Dusseldorf and 12 more. Often billed alongside Rakans, Deepneue and Inverse Element. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Projekt Gestalten is a techno and house artist based in Brazil, tracked on sound
 
 Rakans, Deepneue, Inverse Element
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/projektgestalten/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/projektgestalten/)*

@@ -1,6 +1,6 @@
 # Cannelle
 
-Cannelle is a Industrial and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
+Cannelle is a Industrial and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nitsa Club, Barcelona on Sat, 29 Aug 2026.
 
 Cannelle is an industrial and disco artist based in France, tracked on soundcheck, with 33 sets logged across Antwerp, Barcelona, Berlin and London and 4 more. Often billed alongside LeBRON, Ali RQ and Richard Fribert. Next up: Nitsa Club, Barcelona on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Cannelle is an industrial and disco artist based in France, tracked on soundchec
 
 LeBRON, Ali RQ, Richard Fribert
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*

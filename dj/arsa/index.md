@@ -1,6 +1,6 @@
 # ARSA
 
-ARSA is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Specka, Madrid on Sat, 12 Sept 2026.
+ARSA is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Specka, Madrid on Sat, 12 Sept 2026.
 
 ARSA is an electronica and techno artist tracked on soundcheck, with 9 sets logged across Madrid and Mexicocity. Often billed alongside Katire, Vilor and La Vega. Next up: Specka, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ARSA is an electronica and techno artist tracked on soundcheck, with 9 sets logg
 
 Katire, Vilor, La Vega
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsa/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arsa/)*

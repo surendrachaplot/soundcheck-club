@@ -1,0 +1,17 @@
+# Green Works
+
+Green Works is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Salt & Peppers FENTEK SW #4: C3B. GINJA & More (FACE2FACE EDITION)" on Sat, 5 Sept 2026.
+
+Green Works is a music venue in Bristol listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 16 B, Clothier Rd, Brislington, Bristol BS4 5PS.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Sat, 5 Sept 2026 | Salt & Peppers FENTEK SW #4: C3B. GINJA & More (FACE2FACE EDITION) |  |
+
+## Address
+
+16 B, Clothier Rd, Brislington, Bristol BS4 5PS, Bristol
+
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/green-works/)*

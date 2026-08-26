@@ -1,6 +1,6 @@
 # Frankifettucini
 
-Frankifettucini is a Dub and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Solace, Melbourne on Thu, 27 Aug 2026.
+Frankifettucini is a Dub and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Solace, Melbourne on Thu, 27 Aug 2026.
 
 Frankifettucini is a dub and tech house artist tracked on soundcheck, with 7 sets logged across Berlin, London and Melbourne. Often billed alongside Ham (5), Basscamp and Caucasian Opportunities. Next up: Solace, Melbourne on Thu 27 Aug.
 
@@ -23,4 +23,4 @@ Frankifettucini is a dub and tech house artist tracked on soundcheck, with 7 set
 
 Ham (5), Basscamp, Caucasian Opportunities
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankifettucini/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankifettucini/)*

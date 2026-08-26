@@ -1,6 +1,6 @@
 # Metrodome
 
-Metrodome is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Underbank, Manchester on Fri, 28 Aug 2026.
+Metrodome is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Underbank, Manchester on Fri, 28 Aug 2026.
 
 Metrodome is a jungle and drum & bass artist tracked on soundcheck, with 61 sets logged across Berlin, Hamburg, London and Manchester. Often billed alongside Rich Reason, Chunky and DAIZ. Next up: The Underbank, Manchester on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Metrodome is a jungle and drum & bass artist tracked on soundcheck, with 61 sets
 
 Rich Reason, Chunky, DAIZ
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*

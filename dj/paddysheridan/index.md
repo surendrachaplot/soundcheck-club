@@ -1,6 +1,6 @@
 # Paddy Sheridan
 
-Paddy Sheridan is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Electric Garden, Dublin on Sat, 29 Aug 2026.
+Paddy Sheridan is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Electric Garden, Dublin on Sat, 29 Aug 2026.
 
 Paddy Sheridan is a club and house artist based in Ireland, tracked on soundcheck, with 2 sets logged across Dublin. Often billed alongside DJ PIERR, Dean Sherry and Dr.Flamer. Next up: Electric Garden, Dublin on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ Paddy Sheridan is a club and house artist based in Ireland, tracked on soundchec
 
 DJ PIERR, Dean Sherry, Dr.Flamer
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paddysheridan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paddysheridan/)*

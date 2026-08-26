@@ -1,6 +1,6 @@
 # Hadean
 
-Hadean is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
+Hadean is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Volks, Brighton on Fri, 11 Sept 2026.
 
 Hadean is a bass and garage artist tracked on soundcheck, with 8 sets logged across Brighton. Often billed alongside Gash, Phatworld and Bushbaby. Next up: Volks, Brighton on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Hadean is a bass and garage artist tracked on soundcheck, with 8 sets logged acr
 
 Gash, Phatworld, Bushbaby
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hadean/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hadean/)*

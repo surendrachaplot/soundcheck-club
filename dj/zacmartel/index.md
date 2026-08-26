@@ -1,6 +1,6 @@
 # Zac Martel
 
-Zac Martel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at StereoBar, Montreal on Sat, 19 Sept 2026.
+Zac Martel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at StereoBar, Montreal on Sat, 19 Sept 2026.
 
 Zac Martel is a house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside Prïa, Lost Heroes and Amine K. Next up: StereoBar, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Zac Martel is a house and techno artist based in Canada, tracked on soundcheck, 
 
 Prïa, Lost Heroes, Amine K
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zacmartel/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zacmartel/)*

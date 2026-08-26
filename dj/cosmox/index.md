@@ -1,6 +1,6 @@
 # Cosmox
 
-Cosmox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Korsakov, Antwerp on Sat, 29 Aug 2026.
+Cosmox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Korsakov, Antwerp on Sat, 29 Aug 2026.
 
 Cosmox is a techno and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Rotterdam and 1 more. Often billed alongside HyperLili, Vox supreme and Remma. Next up: Korsakov, Antwerp on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Cosmox is a techno and house artist tracked on soundcheck, with 22 sets logged a
 
 HyperLili, Vox supreme, Remma
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox/)*

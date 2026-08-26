@@ -1,6 +1,6 @@
 # Con Secuencias
 
-Con Secuencias is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Con Secuencias is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Con Secuencias is a latin bass and techno artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Alan Harman, CIBER1A and El Ángel Exterminador. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -13,6 +13,7 @@ Con Secuencias is a latin bass and techno artist based in Mexico, tracked on sou
 
 ## Recently played
 
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Un Tiers Lieu à Montréal - TLM, Montreal — Sat, 24 Jan 2026
 - Van Horne Skatepark, Montreal — Sat, 19 Jul 2025
 - Relink:Data, Mexico City — Thu, 30 Jan 2025
@@ -24,4 +25,4 @@ Con Secuencias is a latin bass and techno artist based in Mexico, tracked on sou
 
 Alan Harman, CIBER1A, El Ángel Exterminador
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/consecuencias/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/consecuencias/)*

@@ -1,6 +1,6 @@
 # Patrick Pulsinger
 
-Patrick Pulsinger is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Patrick Pulsinger is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Patrick Pulsinger is a techno and electro artist tracked on soundcheck, with 10 sets logged across Berlin, Munich, Tokyo and Vienna. Often billed alongside Sam Irl, Christopher Just and Auspex. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Patrick Pulsinger is a techno and electro artist tracked on soundcheck, with 10 
 
 Sam Irl, Christopher Just, Auspex
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickpulsinger/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickpulsinger/)*

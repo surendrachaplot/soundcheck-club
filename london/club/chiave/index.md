@@ -1,6 +1,6 @@
 # Chiave
 
-Chiave is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "SOAP011: Martel, Paddy Cotter, Son of Paul, and Thom Parris" on Fri, 28 Aug 2026.
+Chiave is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "SOAP011: Martel, Paddy Cotter, Son of Paul, and Thom Parris" on Fri, 28 Aug 2026.
 
 Chiave is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Martel (UK), Paddy Cotter, Son of Paul and Thom Parris. Browse upcoming dates, start times and who's playing. 36 Redchurch St, London E2 7DP.
 
@@ -14,4 +14,4 @@ Chiave is a music venue in London listed on soundcheck. 1 upcoming night, with l
 
 36 Redchurch St, London E2 7DP, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/chiave/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/chiave/)*

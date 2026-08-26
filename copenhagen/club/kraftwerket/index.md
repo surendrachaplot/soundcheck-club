@@ -1,6 +1,6 @@
 # Kraftwerket
 
-Kraftwerket is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "BEDSIDE: Caught in the Net" on Sat, 12 Sept 2026.
+Kraftwerket is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "BEDSIDE: Caught in the Net" on Sat, 12 Sept 2026.
 
 Kraftwerket is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Dj Algorythm, Helle (DK), Minimy and Viv IP. Browse upcoming dates, start times and who's playing. Valgårdsvej 2, 2500 Valby, København, Denmark.
 
@@ -14,4 +14,4 @@ Kraftwerket is a music venue in Copenhagen listed on soundcheck. 1 upcoming nigh
 
 Valgårdsvej 2, 2500 Valby, København, Denmark, Copenhagen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kraftwerket/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kraftwerket/)*

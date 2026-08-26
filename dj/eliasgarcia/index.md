@@ -1,6 +1,6 @@
 # Elias Garcia
 
-Elias Garcia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Elias Garcia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Elias Garcia is a techno and minimal techno artist tracked on soundcheck, with 40 sets logged across Boston, Buenosaires, Chicago and Denver and 6 more. Often billed alongside Ultrathem, Sister System and Winter Wrong. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Elias Garcia is a techno and minimal techno artist tracked on soundcheck, with 4
 
 Ultrathem, Sister System, Winter Wrong
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgarcia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasgarcia/)*

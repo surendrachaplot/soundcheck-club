@@ -1,6 +1,6 @@
 # DJ Relax
 
-DJ Relax is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 28 Aug 2026.
+DJ Relax is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Angel Music Bar, Melbourne on Fri, 28 Aug 2026.
 
 DJ Relax is a club and breakbeat artist tracked on soundcheck, with 5 sets logged across Melbourne and Montreal. Often billed alongside ARIA VEIL, Please Don't Call Mom and Colêtre. Next up: Angel Music Bar, Melbourne on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ DJ Relax is a club and breakbeat artist tracked on soundcheck, with 5 sets logge
 
 ARIA VEIL, Please Don't Call Mom, Colêtre
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrelax/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrelax/)*

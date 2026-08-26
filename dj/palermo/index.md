@@ -1,6 +1,6 @@
 # Palermo
 
-Palermo is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club Lucille, Buenos Aires on Sat, 29 Aug 2026.
+Palermo is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club Lucille, Buenos Aires on Sat, 29 Aug 2026.
 
 Palermo is a techno and electronica artist tracked on soundcheck, with 3 sets logged across Buenosaires and London. Often billed alongside Airali, Holloway and Mosca. Next up: Club Lucille, Buenosaires on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Palermo is a techno and electronica artist tracked on soundcheck, with 3 sets lo
 
 Airali, Holloway, Mosca
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palermo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palermo/)*

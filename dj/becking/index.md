@@ -1,6 +1,6 @@
 # Becking
 
-Becking is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
+Becking is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Becking is a house and techno artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Becking is a house and techno artist based in Netherlands, tracked on soundcheck
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

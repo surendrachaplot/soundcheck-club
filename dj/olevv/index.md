@@ -1,6 +1,6 @@
 # Olevv
 
-Olevv is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mitsuki, Tokyo on Wed, 26 Aug 2026.
+Olevv is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mitsuki, Tokyo on Wed, 26 Aug 2026.
 
 Olevv is a techno and experimental artist based in Japan, tracked on soundcheck, with 30 sets logged across Osaka and Tokyo. Often billed alongside adak7, OCCA and Toner(JP). Next up: Mitsuki, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Olevv is a techno and experimental artist based in Japan, tracked on soundcheck,
 
 adak7, OCCA, Toner(JP)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olevv/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olevv/)*

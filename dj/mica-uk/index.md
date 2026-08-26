@@ -1,6 +1,6 @@
 # Mica (UK)
 
-Mica (UK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Distrikt, Leeds on Sat, 5 Sept 2026.
+Mica (UK) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Distrikt, Leeds on Sat, 5 Sept 2026.
 
 Mica (UK) is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Leeds and London and 2 more. Often billed alongside Alinep, Eddy Romero and Bod Min. Next up: Distrikt, Leeds on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mica (UK) is a house and minimal artist based in United Kingdom, tracked on soun
 
 Alinep, Eddy Romero, Bod Min
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mica-uk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mica-uk/)*

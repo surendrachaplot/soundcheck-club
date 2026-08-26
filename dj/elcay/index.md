@@ -1,6 +1,6 @@
 # ELCAY
 
-ELCAY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
+ELCAY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
 
 ELCAY is a house and techno artist based in Sweden, tracked on soundcheck, with 9 sets logged across Copenhagen and Stockholm. Often billed alongside Klara Nov, Marble and Prof. Stranger. Next up: Slaktkyrkan, Stockholm on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ELCAY is a house and techno artist based in Sweden, tracked on soundcheck, with 
 
 Klara Nov, Marble, Prof. Stranger
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elcay/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elcay/)*

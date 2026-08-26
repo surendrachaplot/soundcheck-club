@@ -1,6 +1,6 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+EARGASM GOD is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
 
 EARGASM GOD is a techno and trance artist tracked on soundcheck, with 159 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: ://about blank, Berlin on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ EARGASM GOD is a techno and trance artist tracked on soundcheck, with 159 sets l
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

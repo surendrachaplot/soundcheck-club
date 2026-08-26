@@ -1,6 +1,6 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "HELLO WEEKEND: HOUSE & UK GARAGE" on Thu, 27 Aug 2026.
+The Club (Málaga) is a music venue in Malaga with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "HELLO WEEKEND: HOUSE & UK GARAGE" on Thu, 27 Aug 2026.
 
 The Club (Málaga) is a music venue in Malaga listed on soundcheck. 3 upcoming nights, with line-ups including Daniel Kelsan. Browse upcoming dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
@@ -16,4 +16,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 3 upcoming n
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

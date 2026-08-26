@@ -1,6 +1,6 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 28 Aug 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sub Club Melbourne, Melbourne on Fri, 28 Aug 2026.
 
 Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Sub Club Melbourne, Melbourne on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 10
 
 Napes, Mandidextrous, 4am Kru
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*

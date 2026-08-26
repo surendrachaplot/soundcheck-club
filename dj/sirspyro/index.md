@@ -1,8 +1,8 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at KOKO, London on Sat, 29 Aug 2026.
+Sir Spyro is a Grime and Dubstep artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at KOKO, London on Sat, 29 Aug 2026.
 
-Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Footsie, Kahn and Joker. Next up: KOKO, London on Sat 29 Aug.
+Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 13 more. Often billed alongside Footsie, Kahn and D Double E. Next up: KOKO, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 70 sets logg
 | Thu, 24 Sept 2026 | Hidden | Manchester |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
+| Thu, 15 Oct 2026 | 1-800-Lucky | Miami |
+| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -26,6 +28,6 @@ Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 70 sets logg
 
 ## Shares bills with
 
-Footsie, Kahn, Joker
+Footsie, Kahn, D Double E
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*

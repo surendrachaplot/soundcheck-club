@@ -1,6 +1,6 @@
 # ANNAWAFFEL
 
-ANNAWAFFEL is a Afro House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Klunkerkranich, Berlin on Fri, 28 Aug 2026.
+ANNAWAFFEL is a Afro House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Klunkerkranich, Berlin on Fri, 28 Aug 2026.
 
 ANNAWAFFEL is an afro house and downtempo artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Die Ruhe, Judith van Waterkant and Karla Mit K. Next up: Klunkerkranich, Berlin on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ ANNAWAFFEL is an afro house and downtempo artist based in Germany, tracked on so
 
 Die Ruhe, Judith van Waterkant, Karla Mit K
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annawaffel/)*

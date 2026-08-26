@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Marc Houle Japan Tour 2026" on Fri, 28 Aug 2026.
+Circus Tokyo is a music venue in Tokyo with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Marc Houle Japan Tour 2026" on Fri, 28 Aug 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights, with line-ups including Azumai, Coretex, Dominant Space and Dustvoxx and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 11 upcoming nights,
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

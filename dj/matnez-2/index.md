@@ -1,6 +1,6 @@
 # Matnez (2)
 
-Matnez (2) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 45 London, London on Sun, 30 Aug 2026.
+Matnez (2) is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 45 London, London on Sun, 30 Aug 2026.
 
 Matnez (2) is a tech house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Andres Forero, Tato (2) and Pedro Villa. Next up: 45 London, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Matnez (2) is a tech house artist tracked on soundcheck, with 10 sets logged acr
 
 Andres Forero, Tato (2), Pedro Villa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matnez-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matnez-2/)*

@@ -1,6 +1,6 @@
 # Pikes Ibiza
 
-Pikes Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "SHOCK" on Wed, 26 Aug 2026.
+Pikes Ibiza is a music venue in Ibiza with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SHOCK" on Wed, 26 Aug 2026.
 
 Pikes Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights, with line-ups including Cassy, David Morales, Moulin and Ryan O Gorman. Browse upcoming dates, start times and who's playing. Camí Sa Vorera, S/N, 07820 Sant Antoni de Portmany, Illes Balears, España.
 
@@ -19,4 +19,4 @@ Pikes Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming nights, w
 
 Camí Sa Vorera, S/N, 07820 Sant Antoni de Portmany, Illes Balears, España, Ibiza
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pikes-ibiza/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/pikes-ibiza/)*

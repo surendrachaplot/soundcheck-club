@@ -1,6 +1,6 @@
 # KW Institute for Contemporary Art
 
-KW Institute for Contemporary Art is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Grounded Outer Space People" on Fri, 28 Aug 2026.
+KW Institute for Contemporary Art is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Grounded Outer Space People" on Fri, 28 Aug 2026.
 
 KW Institute for Contemporary Art is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including LABOUR. Browse upcoming dates, start times and who's playing. Auguststraße 69 10117 Berlin.
 
@@ -15,4 +15,4 @@ KW Institute for Contemporary Art is a music venue in Berlin listed on soundchec
 
 Auguststraße 69 10117 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kw-institute-for-contemporary-art/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kw-institute-for-contemporary-art/)*

@@ -1,14 +1,15 @@
 # Laura Not
 
-Laura Not is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Laura Not is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
-Laura Not is an electronica and ambient artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and London. Often billed alongside Alessandro Adriani, Alexander Arpeggio and Andy Mac. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
+Laura Not is an ambient and experimental artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Hamburg, Leeds and London. Often billed alongside Alessandro Adriani, Alexander Arpeggio and Andy Mac. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | arkaoda Berlin | Berlin |
+| Thu, 1 Oct 2026 | Outlaws Yacht Club | Leeds |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Laura Not is an electronica and ambient artist based in United Kingdom, tracked 
 
 Alessandro Adriani, Alexander Arpeggio, Andy Mac
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauranot/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauranot/)*

@@ -1,13 +1,14 @@
 # tonton
 
-tonton is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Jupiter Disco, New York City on Wed, 2 Sept 2026.
+tonton is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Danger Danger, New York City on Fri, 28 Aug 2026.
 
-tonton is a garage and house artist tracked on soundcheck, with 25 sets logged across Berlin, Ibiza and Newyorkcity. Often billed alongside Alfonso Ares, Amine K and Ares (IT). Next up: Jupiter Disco, Newyorkcity on Wed 2 Sept.
+tonton is a garage and house artist tracked on soundcheck, with 26 sets logged across Berlin, Ibiza and Newyorkcity. Often billed alongside Alfonso Ares, Amine K and Ares (IT). Next up: Danger Danger, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Danger Danger | New York City |
 | Wed, 2 Sept 2026 | Jupiter Disco | New York City |
 | Sun, 20 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
@@ -26,4 +27,4 @@ tonton is a garage and house artist tracked on soundcheck, with 25 sets logged a
 
 Alfonso Ares, Amine K, Ares (IT)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonton/)*

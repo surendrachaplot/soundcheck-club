@@ -1,6 +1,6 @@
 # Lucia Lu
 
-Lucia Lu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
+Lucia Lu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
 
 Lucia Lu is a techno and house artist based in Germany, tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Charlie Sparks, 999999999 and DJ Hyperdrive. Next up: La Machine Du Moulin Rouge, Paris on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Lucia Lu is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Charlie Sparks, 999999999, DJ Hyperdrive
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*

@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Roof Terrace BK, New York City on Fri, 28 Aug 2026.
+CHKLTE is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Roof Terrace BK, New York City on Fri, 28 Aug 2026.
 
 CHKLTE is a house and minimal artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Roof Terrace BK, Newyorkcity on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 115 sets logged
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

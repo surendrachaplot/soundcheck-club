@@ -1,6 +1,6 @@
 # Brighton Electric
 
-Brighton Electric is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Koipinoxia Vibration" on Sat, 24 Oct 2026.
+Brighton Electric is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Koipinoxia Vibration" on Sat, 24 Oct 2026.
 
 Brighton Electric is a music venue in Brighton listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Coombe Terrace, 43-45, Tramway House, Brighton BN2 4AD, United Kingdom.
 
@@ -14,4 +14,4 @@ Brighton Electric is a music venue in Brighton listed on soundcheck. 1 upcoming 
 
 Coombe Terrace, 43-45, Tramway House, Brighton BN2 4AD, United Kingdom, Brighton
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/brighton-electric/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/brighton-electric/)*

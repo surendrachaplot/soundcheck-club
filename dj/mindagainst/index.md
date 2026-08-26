@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Fri, 28 Aug 2026.
+Mind Against is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Fri, 28 Aug 2026.
 
 Mind Against is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Budai Vár - Oroszlános Udvar, Budapest on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Mind Against is a techno and house artist tracked on soundcheck, with 153 sets l
 
 Adriatique, sideral, Dyzen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

@@ -1,6 +1,6 @@
 # Boyá
 
-Boyá is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at THF Radio / Torhaus, Berlin on Thu, 27 Aug 2026.
+Boyá is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at THF Radio / Torhaus, Berlin on Thu, 27 Aug 2026.
 
 Boyá is a house and techno artist tracked on soundcheck, with 77 sets logged across Berlin, Leipzig, Munich and Oslo and 2 more. Often billed alongside skyra, Keto and Dr. Long. Next up: THF Radio / Torhaus, Berlin on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Boyá is a house and techno artist tracked on soundcheck, with 77 sets logged ac
 
 skyra, Keto, Dr. Long
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boya/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boya/)*

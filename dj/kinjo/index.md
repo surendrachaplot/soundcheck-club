@@ -1,6 +1,6 @@
 # Kinjo
 
-Kinjo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - VANCOUVER, Vancouver on Sun, 13 Sept 2026.
+Kinjo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - VANCOUVER, Vancouver on Sun, 13 Sept 2026.
 
 Kinjo is a house and minimal artist tracked on soundcheck, with 13 sets logged across Seattle and Vancouver. Often billed alongside Interwave Surfer, Ana-Lucid and Julie Herrera. Next up: TBA - VANCOUVER, Vancouver on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Kinjo is a house and minimal artist tracked on soundcheck, with 13 sets logged a
 
 Interwave Surfer, Ana-Lucid, Julie Herrera
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinjo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinjo/)*

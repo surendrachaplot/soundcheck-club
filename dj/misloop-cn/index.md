@@ -1,6 +1,6 @@
 # Misloop
 
-Misloop is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
+Misloop is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kantine am Berghain, Berlin on Sat, 10 Oct 2026.
 
 Misloop is a techno and jazz artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside BB Deng, Cat Vermillion and DarK LiZZ. Next up: Kantine am Berghain, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Misloop is a techno and jazz artist tracked on soundcheck, with 2 sets logged ac
 
 BB Deng, Cat Vermillion, DarK LiZZ
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misloop-cn/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misloop-cn/)*

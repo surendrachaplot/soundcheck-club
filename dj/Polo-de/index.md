@@ -1,6 +1,6 @@
 # Polo (DE)
 
-Polo (DE) is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Labüsch-Bar, Winterthur, Zurich on Fri, 9 Oct 2026.
+Polo (DE) is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Labüsch-Bar, Winterthur, Zurich on Fri, 9 Oct 2026.
 
 Polo (DE) is a house and ambient artist tracked on soundcheck, with 3 sets logged across Leipzig and Zurich. Often billed alongside 96kbps, XDB and pokka. Next up: Labüsch-Bar, Winterthur, Zurich on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Polo (DE) is a house and ambient artist tracked on soundcheck, with 3 sets logge
 
 96kbps, XDB, pokka
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Polo-de/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Polo-de/)*

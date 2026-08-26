@@ -1,6 +1,6 @@
-# Ballroom at Palais: OPEN DECKS at Ballroom at Palais
+# Ballroom at Palais: Open Decks at Ballroom at Palais
 
-Ballroom at Palais: OPEN DECKS on Thu 27 Aug, London. Preview the line-up and save it on soundcheck.
+Ballroom at Palais: Open Decks on Thu 27 Aug, London. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

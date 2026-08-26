@@ -1,8 +1,8 @@
 # Maria Hanlon
 
-Maria Hanlon is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 28 Aug 2026.
+Maria Hanlon is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 28 Aug 2026.
 
-Maria Hanlon is a house and disco artist tracked on soundcheck, with 44 sets logged across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: Two Tribes CAMPFIRE, London on Fri 28 Aug.
+Maria Hanlon is a house and disco artist tracked on soundcheck, with 45 sets logged across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: Two Tribes CAMPFIRE, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maria Hanlon is a house and disco artist tracked on soundcheck, with 44 sets log
 | Fri, 28 Aug 2026 | Two Tribes CAMPFIRE | London |
 | Sat, 5 Sept 2026 | HWK | London |
 | Sat, 5 Sept 2026 | Hackney Bridge | London |
+| Sat, 19 Sept 2026 | Grow | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Maria Hanlon is a house and disco artist tracked on soundcheck, with 44 sets log
 
 Tiffany Quinn, Jojo Jones, Mas Que Nada Brothers
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*

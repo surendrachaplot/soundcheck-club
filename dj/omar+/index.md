@@ -1,14 +1,15 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Omar+ is a house and tech house artist tracked on soundcheck, with 70 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 27 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Omar+ is a house and tech house artist tracked on soundcheck, with 71 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 28 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
+| Sat, 5 Sept 2026 | Spybar | Chicago |
 | Fri, 25 Sept 2026 | Colorado Charlie | The Hague |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
@@ -31,4 +32,4 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 70 sets logge
 
 Obskur, Joss Dean, Max Dean
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

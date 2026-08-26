@@ -1,6 +1,6 @@
 # cafénico
 
-cafénico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
+cafénico is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
 
 cafénico is a techno and house artist tracked on soundcheck, with 20 sets logged across Bangkok, Newyorkcity and Seattle. Often billed alongside DJ Colette, Gorio Tala and Spencer Brown. Next up: TBA - Pier 62, Seattle on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ cafénico is a techno and house artist tracked on soundcheck, with 20 sets logge
 
 DJ Colette, Gorio Tala, Spencer Brown
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cafenico/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cafenico/)*

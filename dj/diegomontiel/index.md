@@ -1,6 +1,6 @@
 # Diego Montiel
 
-Diego Montiel is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
+Diego Montiel is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
 
 Diego Montiel is a techno and electro artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 4 more. Often billed alongside Frankie Flowerz, Jessica Bellomo and Heinech. Next up: Sunseabar Beach Club, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Diego Montiel is a techno and electro artist tracked on soundcheck, with 83 sets
 
 Frankie Flowerz, Jessica Bellomo, Heinech
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomontiel/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegomontiel/)*

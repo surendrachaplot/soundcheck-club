@@ -1,14 +1,15 @@
 # Käthe & Haes
 
-Käthe & Haes is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 5 Sept 2026.
+Käthe & Haes is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 5 Sept 2026.
 
-Käthe & Haes are a house and deep house duo tracked on soundcheck, with 47 sets logged across Berlin and Munich. Often billed alongside Almost Famous, Julie Fleischer and Kapote. Next up: Bahnwärter Thiel, Munich on Sat 5 Sept.
+Käthe & Haes are a house and deep house duo tracked on soundcheck, with 48 sets logged across Berlin and Munich. Often billed alongside Almost Famous, Julie Fleischer and Kapote. Next up: Bahnwärter Thiel, Munich on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Bahnwärter Thiel | Munich |
+| Fri, 11 Sept 2026 | Unter Deck | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Käthe & Haes are a house and deep house duo tracked on soundcheck, with 47 sets
 
 Almost Famous, Julie Fleischer, Kapote
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathehaes/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kathehaes/)*

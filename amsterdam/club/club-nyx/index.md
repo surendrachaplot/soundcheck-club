@@ -1,6 +1,6 @@
 # Club NYX
 
-Club NYX is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Vrijdag is NYX" on Fri, 28 Aug 2026.
+Club NYX is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Vrijdag is NYX" on Fri, 28 Aug 2026.
 
 Club NYX is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Aiscream, Babs op de beat, Bass Btch and Charlie and 2 more. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 42, 1017BM Amsterdam.
 
@@ -22,4 +22,4 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, 
 
 Reguliersdwarsstraat 42, 1017BM Amsterdam, Amsterdam
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-nyx/)*

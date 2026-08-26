@@ -1,6 +1,6 @@
 # Costa (FR)
 
-Costa (FR) is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Costa (FR) is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Costa (FR) is a techno and breakbeat artist based in France, tracked on soundcheck, with 23 sets logged across Austin, Berlin, Dundee and Hamburg and 2 more. Often billed alongside Sariim, VIĆERO and Chaosy. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Costa (FR) is a techno and breakbeat artist based in France, tracked on soundche
 
 Sariim, VIĆERO, Chaosy
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costa/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/costa/)*

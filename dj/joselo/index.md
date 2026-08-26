@@ -1,6 +1,6 @@
 # JOSELO
 
-JOSELO is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Le Bain, New York City on Sat, 29 Aug 2026.
+JOSELO is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Bain, New York City on Sat, 29 Aug 2026.
 
 JOSELO is a techno and reggaeton artist based in United States of America, tracked on soundcheck, with 58 sets logged across Mexicocity, Newyorkcity and Toronto. Often billed alongside friedplatano, ALEXIS DE LA ROSA and Byrell The Great. Next up: Le Bain, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JOSELO is a techno and reggaeton artist based in United States of America, track
 
 friedplatano, ALEXIS DE LA ROSA, Byrell The Great
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joselo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joselo/)*

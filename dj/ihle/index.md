@@ -1,6 +1,6 @@
 # IHLE
 
-IHLE is a Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jaeger, Oslo on Sat, 12 Sept 2026.
+IHLE is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jaeger, Oslo on Sat, 12 Sept 2026.
 
 IHLE is a tech house artist based in Norway, tracked on soundcheck, with 16 sets logged across Oslo. Often billed alongside Epifanov, Mulo and Djuma Soundsystem. Next up: Jaeger, Oslo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ IHLE is a tech house artist based in Norway, tracked on soundcheck, with 16 sets
 
 Epifanov, Mulo, Djuma Soundsystem
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ihle/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ihle/)*

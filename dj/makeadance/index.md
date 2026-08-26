@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Palais, London on Fri, 28 Aug 2026.
+Make A Dance is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Palais, London on Fri, 28 Aug 2026.
 
-Make A Dance is a house and disco artist tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Bali and Bangkok and 27 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Palais, London on Fri 28 Aug.
+Make A Dance is a house and disco artist tracked on soundcheck, with 114 sets logged across Amsterdam, Auckland, Bali and Bangkok and 27 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Palais, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Make A Dance is a house and disco artist tracked on soundcheck, with 113 sets lo
 | Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
+| Fri, 30 Oct 2026 | The Golden Lion | Manchester |
 | Sat, 14 Nov 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 
 ## Recently played
@@ -30,4 +31,4 @@ Make A Dance is a house and disco artist tracked on soundcheck, with 113 sets lo
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

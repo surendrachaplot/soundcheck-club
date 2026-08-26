@@ -1,13 +1,14 @@
 # RDS
 
-RDS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at FOLD, London on Sat, 3 Oct 2026.
+RDS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
 
-RDS is a house and techno artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, London and Marseille and 1 more. Often billed alongside Eversines, Marie K (1) and Pieter Jansen. Next up: FOLD, London on Sat 3 Oct.
+RDS is a house and techno artist based in Netherlands, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Eversines, Marie K (1) and Pieter Jansen. Next up: UMI, Brussels on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | UMI | Brussels |
 | Sat, 3 Oct 2026 | FOLD | London |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 
@@ -26,4 +27,4 @@ RDS is a house and techno artist based in Netherlands, tracked on soundcheck, wi
 
 Eversines, Marie K (1), Pieter Jansen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rds/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rds/)*

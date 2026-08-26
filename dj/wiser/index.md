@@ -1,6 +1,6 @@
 # WISER
 
-WISER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Sooki Lounge, Melbourne on Fri, 28 Aug 2026.
+WISER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sooki Lounge, Melbourne on Fri, 28 Aug 2026.
 
 WISER is a techno and trance artist tracked on soundcheck, with 57 sets logged across Berlin, Hobart, Lisbon and London and 4 more. Often billed alongside BDE, Ophelie Mercury and Boogs. Next up: Sooki Lounge, Melbourne on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ WISER is a techno and trance artist tracked on soundcheck, with 57 sets logged a
 
 BDE, Ophelie Mercury, Boogs
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiser/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wiser/)*

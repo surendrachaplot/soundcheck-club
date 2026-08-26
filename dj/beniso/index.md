@@ -1,6 +1,6 @@
 # Beniso
 
-Beniso is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 29 Aug 2026.
+Beniso is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Nobu Hotel, Barcelona on Sat, 29 Aug 2026.
 
 Beniso is a house and disco artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Ghent and Ibiza and 5 more. Often billed alongside Mona Lee, SURUU and Tête de la Course. Next up: Nobu Hotel, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Beniso is a house and disco artist tracked on soundcheck, with 56 sets logged ac
 
 Mona Lee, SURUU, Tête de la Course
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beniso/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beniso/)*

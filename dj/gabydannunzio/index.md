@@ -1,6 +1,6 @@
 # Gaby D'Annunzio
 
-Gaby D'Annunzio is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cafe 1001, London on Sat, 29 Aug 2026.
+Gaby D'Annunzio is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cafe 1001, London on Sat, 29 Aug 2026.
 
 Gaby D'Annunzio is an electro and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Newyorkcity. Often billed alongside Alexandre Petit, Anna Wall and Ben Vedren. Next up: Cafe 1001, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Gaby D'Annunzio is an electro and house artist based in United Kingdom, tracked 
 
 Alexandre Petit, Anna Wall, Ben Vedren
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabydannunzio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabydannunzio/)*

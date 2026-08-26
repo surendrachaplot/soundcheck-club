@@ -1,6 +1,6 @@
 # murderkinq
 
-murderkinq is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
+murderkinq is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
 
 murderkinq is an experimental and club artist tracked on soundcheck, with 11 sets logged across Berlin, Hamburg and Nurnberg. Often billed alongside EuroEyez, Freestyler (2) and auto_timer. Next up: TBA - check telegram, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ murderkinq is an experimental and club artist tracked on soundcheck, with 11 set
 
 EuroEyez, Freestyler (2), auto_timer
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murderkinq/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murderkinq/)*

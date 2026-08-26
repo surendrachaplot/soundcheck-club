@@ -1,6 +1,6 @@
 # Lola Brennt
 
-Lola Brennt is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+Lola Brennt is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
 Lola Brennt is a house and drum & bass artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Ivana, anna G and Ivana_dnb. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Lola Brennt is a house and drum & bass artist tracked on soundcheck, with 11 set
 
 Ivana, anna G, Ivana_dnb
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolabrennt/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolabrennt/)*

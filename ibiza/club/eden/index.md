@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 28 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Galactica Ibiza with Angerfist, Charlie Sparks, Parfait" on Tue, 25 Aug 2026.
+Eden is a music venue in Ibiza with 28 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Galactica Ibiza with Angerfist, Charlie Sparks, Parfait" on Tue, 25 Aug 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 28 upcoming nights, with line-ups including Alberto Costa, Andres Campo, Angelo Ferreri and Angerfist and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 28 upcoming nights, with li
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

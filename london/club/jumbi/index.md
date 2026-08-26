@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Jumbi Friday Dance: Family Affair & Friends" on Fri, 28 Aug 2026.
+Jumbi is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Jumbi Friday Dance: Family Affair & Friends" on Fri, 28 Aug 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including 0RACL3, Alex Phountzi, Deepa and Esk (UK) and 2 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -20,4 +20,4 @@ Jumbi is a music venue in London listed on soundcheck. 7 upcoming nights, with l
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

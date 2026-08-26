@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "RAM - Rave am Mittwoch" on Wed, 26 Aug 2026.
+Das Werk is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "RAM - Rave am Mittwoch" on Wed, 26 Aug 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including adrialin, Albin Brezlan, Arman Shadow and carlo kalu and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -21,4 +21,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

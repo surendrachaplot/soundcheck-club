@@ -1,6 +1,6 @@
 # TBA - Brussels
 
-TBA - Brussels is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "nest_bxl l 2 stages l Indoor + Outdoor" on Sun, 30 Aug 2026.
+TBA - Brussels is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "nest_bxl l 2 stages l Indoor + Outdoor" on Sun, 30 Aug 2026.
 
 TBA - Brussels is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including 999999999, Adrian Mills, Agents Of Time and AJNA and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Brussels is a music venue in Brussels listed on soundcheck. 5 upcoming nig
 | Sat, 14 Nov 2026 | Groove Lab // TAKE OVER |  |
 | Sat, 21 Nov 2026 | Listen Festival 2026 |  |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-brussels/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/tba-brussels/)*

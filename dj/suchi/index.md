@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 3 Oct 2026.
+SUCHI is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 3 Oct 2026.
 
 SUCHI is a house and electronica artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: SISSI'S Amsterdam, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ SUCHI is a house and electronica artist tracked on soundcheck, with 62 sets logg
 
 Amaliah, Anz, Heléna Star
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

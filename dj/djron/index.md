@@ -1,6 +1,6 @@
 # DJ Ron
 
-DJ Ron is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at EartH, London on Fri, 25 Sept 2026.
+DJ Ron is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at EartH, London on Fri, 25 Sept 2026.
 
 DJ Ron is a drum & bass and jungle artist tracked on soundcheck, with 30 sets logged across Cologne, Ibiza, London and Tokyo. Often billed alongside DJ Brockie, Jumping Jack Frost and Grooverider. Next up: EartH, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Ron is a drum & bass and jungle artist tracked on soundcheck, with 30 sets lo
 
 DJ Brockie, Jumping Jack Frost, Grooverider
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djron/)*

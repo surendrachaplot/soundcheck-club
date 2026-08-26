@@ -1,6 +1,6 @@
 # Steven Cee
 
-Steven Cee is a Tech House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lab11, Birmingham on Sat, 5 Sept 2026.
+Steven Cee is a Tech House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lab11, Birmingham on Sat, 5 Sept 2026.
 
 Steven Cee is a tech house and deep house artist tracked on soundcheck, with 63 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside JAYDAA, DJ Majesty and Jerome Six. Next up: Lab11, Birmingham on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Steven Cee is a tech house and deep house artist tracked on soundcheck, with 63 
 
 JAYDAA, DJ Majesty, Jerome Six
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevencee/)*

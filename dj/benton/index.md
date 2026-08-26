@@ -1,6 +1,6 @@
 # Benton (UK)
 
-Benton (UK) is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Benton (UK) is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
 Benton (UK) is a jungle and bass artist tracked on soundcheck, with 39 sets logged across Bristol, London, Newcastle and Vienna. Often billed alongside Chinese Daughter, CICELY and Klose One. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Benton (UK) is a jungle and bass artist tracked on soundcheck, with 39 sets logg
 
 Chinese Daughter, CICELY, Klose One
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benton/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benton/)*

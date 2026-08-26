@@ -1,6 +1,6 @@
 # Amy Kisnorbo
 
-Amy Kisnorbo is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
+Amy Kisnorbo is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Crack Bellmer, Berlin on Thu, 27 Aug 2026.
 
 Amy Kisnorbo is a bass and dubstep artist tracked on soundcheck, with 38 sets logged across Berlin, Brighton, Bristol and Cardiff and 6 more. Often billed alongside Sam Binga, Commodo and Sir Hiss. Next up: Crack Bellmer, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Amy Kisnorbo is a bass and dubstep artist tracked on soundcheck, with 38 sets lo
 
 Sam Binga, Commodo, Sir Hiss
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amykisnorbo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amykisnorbo/)*

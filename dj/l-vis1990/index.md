@@ -1,6 +1,6 @@
 # L-Vis 1990
 
-L-Vis 1990 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
+L-Vis 1990 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Next Door Records, London on Wed, 26 Aug 2026.
 
 L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside MJK, Meg Ward and Serenda. Next up: Next Door Records, London on Wed 26 Aug.
 
@@ -27,4 +27,4 @@ L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soun
 
 MJK, Meg Ward, Serenda
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*

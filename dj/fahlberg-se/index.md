@@ -1,13 +1,14 @@
 # Fahlberg
 
-Fahlberg is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at SILO, New York City on Fri, 13 Nov 2026.
+Fahlberg is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hangar Meco, Lisbon on Sat, 29 Aug 2026.
 
-Fahlberg is an afro house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Austin, Berlin and Brussels and 14 more. Often billed alongside Elderbrook, ABEL (UK) and ALADAG. Next up: SILO, Newyorkcity on Fri 13 Nov.
+Fahlberg is a house and afro house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Austin, Berlin and Brussels and 15 more. Often billed alongside Chris Luno, Elderbrook and ABEL (UK). Next up: Hangar Meco, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Hangar Meco | Lisbon |
 | Fri, 13 Nov 2026 | SILO | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Fahlberg is an afro house and house artist tracked on soundcheck, with 28 sets l
 
 ## Shares bills with
 
-Elderbrook, ABEL (UK), ALADAG
+Chris Luno, Elderbrook, ABEL (UK)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fahlberg-se/)*

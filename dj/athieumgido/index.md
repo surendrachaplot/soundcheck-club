@@ -1,6 +1,6 @@
 # Athie Umgido
 
-Athie Umgido is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 30 Aug 2026.
+Athie Umgido is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Athie Umgido is a house and afro tech artist based in South Africa, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Hamburg and Ibiza. Often billed alongside Yamz, Cecilia Tosh and DJ Holographic. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Athie Umgido is a house and afro tech artist based in South Africa, tracked on s
 
 Yamz, Cecilia Tosh, DJ Holographic
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athieumgido/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athieumgido/)*

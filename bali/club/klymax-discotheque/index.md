@@ -1,6 +1,6 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Toy Tonics Jam, Gero" on Fri, 28 Aug 2026.
+Klymax Discotheque is a music venue in Bali with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Toy Tonics Jam, Gero" on Fri, 28 Aug 2026.
 
 Klymax Discotheque is a music venue in Bali listed on soundcheck. 2 upcoming nights, with line-ups including Danny. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 2 upcoming nig
 | Fri, 28 Aug 2026 | Toy Tonics Jam, Gero |  |
 | Sat, 29 Aug 2026 | Danny, Mislav | Danny |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

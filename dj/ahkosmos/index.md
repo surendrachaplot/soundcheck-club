@@ -1,6 +1,6 @@
 # Ah! Kosmos
 
-Ah! Kosmos is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Ah! Kosmos is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Ah! Kosmos is an experimental and techno artist based in Turkey, tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside Fennesz, Hainbach and Lillevan. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -11,8 +11,12 @@ Ah! Kosmos is an experimental and techno artist based in Turkey, tracked on soun
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Sat, 29 Aug 2026 | Maison Symphonique de Montréal | Montreal |
 
+## Recently played
+
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
+
 ## Shares bills with
 
 Fennesz, Hainbach, Lillevan
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahkosmos/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ahkosmos/)*

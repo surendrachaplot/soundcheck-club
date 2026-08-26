@@ -1,6 +1,6 @@
 # Cafe Bar Livre
 
-Cafe Bar Livre is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Vertigo #19: Audio Visual" on Fri, 28 Aug 2026.
+Cafe Bar Livre is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Vertigo #19: Audio Visual" on Fri, 28 Aug 2026.
 
 Cafe Bar Livre is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including Hackmarkt, junkie babe and Taito Otani. Browse upcoming dates, start times and who's playing. 2F, 2-42-5,Matsubara, Setagaya-ku, Tokyo, 156-0043.
 
@@ -14,4 +14,4 @@ Cafe Bar Livre is a music venue in Tokyo listed on soundcheck. 1 upcoming night,
 
 2F, 2-42-5,Matsubara, Setagaya-ku, Tokyo, 156-0043, Tokyo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-bar-livre/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-bar-livre/)*

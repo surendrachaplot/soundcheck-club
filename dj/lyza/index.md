@@ -1,6 +1,6 @@
 # LYZA
 
-LYZA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bassiani, Tbilisi on Sat, 19 Sept 2026.
+LYZA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bassiani, Tbilisi on Sat, 19 Sept 2026.
 
 LYZA is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Madrid and Paris and 2 more. Often billed alongside AMORAL, Lyric and ogtrues. Next up: Bassiani, Tbilisi on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ LYZA is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 AMORAL, Lyric, ogtrues
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyza/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyza/)*

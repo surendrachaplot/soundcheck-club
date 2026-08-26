@@ -1,14 +1,13 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "BRANCHIE LAB at MAGICK BAR - W/ Daura, Green, Na Diavl" on Tue, 25 Aug 2026.
+THE MAGICK BAR is a music venue in Rome with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "TURN" on Wed, 26 Aug 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 10 upcoming nights, with line-ups including Amazon, Cosimo Damiano, Daniele Pavoni and Daura and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 9 upcoming nights, with line-ups including Amazon, Cosimo Damiano, Daniele Pavoni and Ddcmp and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | BRANCHIE LAB at MAGICK BAR - W/ Daura, Green, Na Diavl | Daura, Green (IT), Na Diavl |
 | Wed, 26 Aug 2026 | TURN | Daniele Pavoni, Ddcmp, Leo Benassi |
 | Wed, 26 Aug 2026 | turn with Leo Benassi, Lucifero, Daniele Pavoni | Daniele Pavoni, Leo Benassi |
 | Thu, 27 Aug 2026 | THE MAGICK BAR presents: Manifesto Disappunto, Amazon | Amazon, Manifesto Disappunto |
@@ -23,4 +22,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 10 upcoming nights
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

@@ -1,6 +1,6 @@
 # DBL_BBL
 
-DBL_BBL is a Experimental and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
+DBL_BBL is a Experimental and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hart Bar, New York City on Sat, 5 Sept 2026.
 
 DBL_BBL is an experimental and house artist tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside KANZE, Jack Tonelli and 5ToK3. Next up: Hart Bar, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DBL_BBL is an experimental and house artist tracked on soundcheck, with 16 sets 
 
 KANZE, Jack Tonelli, 5ToK3
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbl_bbl/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dbl_bbl/)*

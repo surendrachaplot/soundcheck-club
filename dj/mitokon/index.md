@@ -1,6 +1,6 @@
 # mitokon
 
-mitokon is a Amapiano and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 28 Aug 2026.
+mitokon is a Amapiano and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 28 Aug 2026.
 
 mitokon is an amapiano and house artist based in Japan, tracked on soundcheck, with 88 sets logged across Kyoto and Tokyo. Often billed alongside HW BINGO, K8 (TYO GQOM) and MICO. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ mitokon is an amapiano and house artist based in Japan, tracked on soundcheck, w
 
 HW BINGO, K8 (TYO GQOM), MICO
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitokon/)*

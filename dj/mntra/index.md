@@ -1,6 +1,6 @@
 # MNTRA
 
-MNTRA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 28 Aug 2026.
+MNTRA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Napa Music Hall, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 MNTRA is a house and tech house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Detroit, Losangeles and Miami and 5 more. Often billed alongside TCHiLT, Justin Martin and britty.. Next up: Napa Music Hall, Sanfrancisco on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ MNTRA is a house and tech house artist based in United States of America, tracke
 
 TCHiLT, Justin Martin, britty.
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mntra/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mntra/)*

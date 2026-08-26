@@ -1,6 +1,6 @@
 # Mori Ra
 
-Mori Ra is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 5 Sept 2026.
+Mori Ra is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Teranoma Tidepool, Osaka on Sat, 5 Sept 2026.
 
 Mori Ra is a house and disco artist tracked on soundcheck, with 31 sets logged across Brisbane, Hongkong, Losangeles and Melbourne and 5 more. Often billed alongside Roy Comanchero, Curumayoi and Black Pomade. Next up: Teranoma Tidepool, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mori Ra is a house and disco artist tracked on soundcheck, with 31 sets logged a
 
 Roy Comanchero, Curumayoi, Black Pomade
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morira/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morira/)*

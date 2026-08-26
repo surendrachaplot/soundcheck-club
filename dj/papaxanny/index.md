@@ -1,14 +1,15 @@
 # Papa Xanny
 
-Papa Xanny is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+Papa Xanny is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
-Papa Xanny is a techno and club artist tracked on soundcheck, with 54 sets logged across Sanfrancisco. Often billed alongside nonsuit, Beverly Chills and likeholywine. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
+Papa Xanny is a techno and club artist tracked on soundcheck, with 55 sets logged across Sanfrancisco. Often billed alongside nonsuit, Beverly Chills and likeholywine. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
+| Fri, 30 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Papa Xanny is a techno and club artist tracked on soundcheck, with 54 sets logge
 
 nonsuit, Beverly Chills, likeholywine
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papaxanny/)*

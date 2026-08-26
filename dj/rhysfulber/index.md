@@ -1,14 +1,15 @@
 # Rhys Fulber
 
-Rhys Fulber is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Urban Spree, Berlin on Sat, 29 Aug 2026.
+Rhys Fulber is a Industrial and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Urban Spree, Berlin on Sat, 29 Aug 2026.
 
-Rhys Fulber is an industrial and techno artist tracked on soundcheck, with 8 sets logged across Athens, Berlin, Detroit and Losangeles and 2 more. Often billed alongside Blush Response, Philipp Strobel and Ancient Methods. Next up: Urban Spree, Berlin on Sat 29 Aug.
+Rhys Fulber is an industrial and techno artist tracked on soundcheck, with 9 sets logged across Athens, Berlin, Detroit and Losangeles and 3 more. Often billed alongside Blush Response, Philipp Strobel and Ancient Methods. Next up: Urban Spree, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Urban Spree | Berlin |
+| Fri, 25 Sept 2026 | The Jama | Toronto |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Rhys Fulber is an industrial and techno artist tracked on soundcheck, with 8 set
 
 Blush Response, Philipp Strobel, Ancient Methods
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysfulber/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysfulber/)*

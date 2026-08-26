@@ -1,6 +1,6 @@
 # Victor Norman
 
-Victor Norman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
+Victor Norman is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
 
 Victor Norman is a progressive house and house artist tracked on soundcheck, with 12 sets logged across Berlin, Lisbon and Stockholm. Often billed alongside Ahiram, Britta Arnold and Hraach. Next up: Gazebo, Stockholm on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Victor Norman is a progressive house and house artist tracked on soundcheck, wit
 
 Ahiram, Britta Arnold, Hraach
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victornorman/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victornorman/)*

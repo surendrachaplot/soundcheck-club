@@ -1,6 +1,6 @@
 # Modlar
 
-Modlar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
+Modlar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
 
 Modlar is a techno and electro artist tracked on soundcheck, with 27 sets logged across London. Often billed alongside DELARA, CITYTRONIX and nohexcode. Next up: The Glove That Fits, London on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Modlar is a techno and electro artist tracked on soundcheck, with 27 sets logged
 
 DELARA, CITYTRONIX, nohexcode
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modlar/)*

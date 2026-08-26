@@ -1,13 +1,14 @@
 # ANiIIIIiiiKii
 
-ANiIIIIiiiKii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Forestlimit, Tokyo on Sun, 4 Oct 2026.
+ANiIIIIiiiKii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
 
-ANiIIIIiiiKii is a house and techno artist based in Japan, tracked on soundcheck, with 55 sets logged across Osaka and Tokyo. Often billed alongside FELINE (JP), EUREKA and Yuto Sasaki. Next up: Forestlimit, Tokyo on Sun 4 Oct.
+ANiIIIIiiiKii is a house and techno artist based in Japan, tracked on soundcheck, with 56 sets logged across Osaka and Tokyo. Often billed alongside FELINE (JP), EUREKA and Yuto Sasaki. Next up: VENT, Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | VENT | Tokyo |
 | Sun, 4 Oct 2026 | Forestlimit | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ ANiIIIIiiiKii is a house and techno artist based in Japan, tracked on soundcheck
 
 FELINE (JP), EUREKA, Yuto Sasaki
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniiiiiiiikii/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aniiiiiiiikii/)*

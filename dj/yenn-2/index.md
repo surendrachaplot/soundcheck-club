@@ -1,6 +1,6 @@
 # YENN (2)
 
-YENN (2) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
+YENN (2) is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
 
 YENN (2) is a club and house artist based in South Korea, tracked on soundcheck, with 4 sets logged across Seoul. Often billed alongside DJ Co.kr, h4rdy and DJ POOL. Next up: J.J. Mahoney's Bar, Seoul on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ YENN (2) is a club and house artist based in South Korea, tracked on soundcheck,
 
 DJ Co.kr, h4rdy, DJ POOL
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*

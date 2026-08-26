@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Son's of Ian & Friends Starlane" on Thu, 27 Aug 2026.
+Starlane Pizza Bar is a music venue in London with 24 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Son's of Ian & Friends Starlane" on Thu, 27 Aug 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -17,10 +17,10 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 24 upcoming 
 | Mon, 31 Aug 2026 | EXTENDED BANK HOLIDAY FEST | Dale, Greg Nox, LeVin, PR Department, Robbo, Thierry |
 | Sat, 5 Sept 2026 | Distant Audio x Blushh Audio | Ize (1), Jordan Masters, LACEY, Reeshy |
 | Sat, 5 Sept 2026 | OTTO VOL 3 | Dan Anderson, Horsemen, IZZY (UK), Lesenburg, Nick Kelly, Tommy- (UK), krif |
-| Sun, 6 Sept 2026 | Crescent London: Sunday Explorations X |  |
+| Sun, 6 Sept 2026 | Crescent London: Sunday Explorations X | Labyrinthine, Sam Wilson, Slumber, Valentin Ginies, localhost |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

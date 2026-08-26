@@ -1,6 +1,6 @@
 # TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT 
 
-TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT  is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "MUBHU x NIU POBLENOU BLOCK PARTY" on Sat, 19 Sept 2026.
+TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT  is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "MUBHU x NIU POBLENOU BLOCK PARTY" on Sat, 19 Sept 2026.
 
 TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT  is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including INEXXSTABLE and YULIE. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT  is a music venue in Bar
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MUBHU x NIU POBLENOU BLOCK PARTY | INEXXSTABLE, YULIE |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-festes-de-poblenou-escenari-pallars-roc-boronat/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-festes-de-poblenou-escenari-pallars-roc-boronat/)*

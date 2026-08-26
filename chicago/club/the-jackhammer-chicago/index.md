@@ -1,6 +1,6 @@
 # The Jackhammer Chicago
 
-The Jackhammer Chicago is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Xtasy: Candy Flip - Love Sex Dance (LSD)" on Sun, 6 Sept 2026.
+The Jackhammer Chicago is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Xtasy: Candy Flip - Love Sex Dance (LSD)" on Sun, 6 Sept 2026.
 
 The Jackhammer Chicago is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Farius, Jenny Fox, Jon McCray and KIMKILLA and 2 more. Browse upcoming dates, start times and who's playing. 6406 N Clark St, Chicago, IL 60626.
 
@@ -15,4 +15,4 @@ The Jackhammer Chicago is a music venue in Chicago listed on soundcheck. 2 upcom
 
 6406 N Clark St, Chicago, IL 60626, Chicago
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-jackhammer-chicago/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-jackhammer-chicago/)*

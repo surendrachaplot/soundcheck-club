@@ -1,14 +1,15 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Rei Room, Mexico City on Fri, 28 Aug 2026.
+Deejay Energy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Rei Room, Mexico City on Fri, 28 Aug 2026.
 
-Deejay Energy is a techno and house artist based in Mexico, tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Berlin and Boston and 2 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: Rei Room, Mexicocity on Fri 28 Aug.
+Deejay Energy is a techno and house artist based in Mexico, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Berlin and Boston and 2 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: Rei Room, Mexicocity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Rei Room | Mexico City |
+| Thu, 24 Sept 2026 | Fünk | Mexico City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Deejay Energy is a techno and house artist based in Mexico, tracked on soundchec
 
 Enya Botello, Bluecommand, Phanta
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

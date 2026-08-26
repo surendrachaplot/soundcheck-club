@@ -1,6 +1,6 @@
 # AGY3NA
 
-AGY3NA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Drinkhall Venue, Berlin on Fri, 28 Aug 2026.
+AGY3NA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Drinkhall Venue, Berlin on Fri, 28 Aug 2026.
 
 AGY3NA is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Ogazón, BASHKKA and Gabrielle Kwarteng. Next up: Drinkhall Venue, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ AGY3NA is a house and techno artist tracked on soundcheck, with 82 sets logged a
 
 Ogazón, BASHKKA, Gabrielle Kwarteng
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agy3na/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agy3na/)*

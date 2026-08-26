@@ -1,6 +1,6 @@
 # Lee Walker
 
-Lee Walker is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at MAD Radio NYC, New York City on Wed, 26 Aug 2026.
+Lee Walker is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at MAD Radio NYC, New York City on Wed, 26 Aug 2026.
 
 Lee Walker is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside RIVKA R3 NYC. Next up: MAD Radio NYC, Newyorkcity on Wed 26 Aug.
 
@@ -18,4 +18,4 @@ Lee Walker is an electronic artist based in United Kingdom, tracked on soundchec
 
 RIVKA R3 NYC
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leewalker/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leewalker/)*

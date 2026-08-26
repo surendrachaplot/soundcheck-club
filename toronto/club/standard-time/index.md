@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Leon Vynehall Open to Close" on Fri, 28 Aug 2026.
+Standard Time is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Leon Vynehall Open to Close" on Fri, 28 Aug 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Andrew Greville, Andre Zimmer, Corinne and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including Andrew Greville, Andre Zimmer, Corinne and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Standard Time is a music venue in Toronto listed on soundcheck. 11 upcoming nigh
 | Sat, 5 Sept 2026 | Cynosure Night with Matt and Mark Thibideau (live), Andrew Grenville and Mike Shannon | Andrew Greville, Matt Thibideau, Mike Shannon |
 | Fri, 18 Sept 2026 | Yu Su b2b Vladimir Ivkovic - OPEN to CLOSE | Vladimir Ivkovic, Yu Su |
 | Fri, 25 Sept 2026 | Two Shell and Special Guests presented by Standard Time x Not Dead Yet | Two Shell |
+| Sat, 26 Sept 2026 | SHANGO featuring John Morales and Kiki LeFreak  | John Morales, Kiki LeFreak |
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
 | Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
 | Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
-| Fri, 13 Nov 2026 | yaego música electronica en vivo Tour | yaego |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

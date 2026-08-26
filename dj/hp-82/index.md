@@ -1,6 +1,6 @@
 # HP-82
 
-HP-82 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
+HP-82 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
 
 HP-82 is a techno and house artist tracked on soundcheck, with 33 sets logged across Riga. Often billed alongside Ikss, Ksenia Kamikaza and Sundown. Next up: Korpuss, Riga on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ HP-82 is a techno and house artist tracked on soundcheck, with 33 sets logged ac
 
 Ikss, Ksenia Kamikaza, Sundown
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hp-82/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hp-82/)*

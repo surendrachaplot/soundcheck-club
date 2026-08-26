@@ -1,6 +1,6 @@
 # goddard.
 
-goddard. is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Thekla, Bristol on Fri, 30 Oct 2026.
+goddard. is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Thekla, Bristol on Fri, 30 Oct 2026.
 
 goddard. is a drum & bass and bass artist tracked on soundcheck, with 24 sets logged across Auckland, Austin, Birmingham and Bristol and 10 more. Often billed alongside DREAD MC, Hybrid Minds and Monrroe. Next up: Thekla, Bristol on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ goddard. is a drum & bass and bass artist tracked on soundcheck, with 24 sets lo
 
 DREAD MC, Hybrid Minds, Monrroe
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*

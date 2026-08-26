@@ -1,6 +1,6 @@
 # Entropia (2)
 
-Entropia (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar do Netão, Sao Paulo on Wed, 26 Aug 2026.
+Entropia (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar do Netão, Sao Paulo on Wed, 26 Aug 2026.
 
 Entropia (2) is a house and techno artist based in Brazil, tracked on soundcheck, with 9 sets logged across Berlin, London and Saopaulo. Often billed alongside Cherolainne, Carneosso and Kontronatura. Next up: Bar do Netão, Saopaulo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Entropia (2) is a house and techno artist based in Brazil, tracked on soundcheck
 
 Cherolainne, Carneosso, Kontronatura
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entropia-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entropia-2/)*

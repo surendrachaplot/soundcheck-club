@@ -1,6 +1,6 @@
 # Fiene
 
-Fiene is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
+Fiene is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
 
 Fiene is a techno and trance artist tracked on soundcheck, with 41 sets logged across Amsterdam, Paris, Rotterdam and Thehague and 1 more. Often billed alongside Rozie, AUTOFLOWER and LAMMER. Next up: Boomerang Beach, Thehague on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Fiene is a techno and trance artist tracked on soundcheck, with 41 sets logged a
 
 Rozie, AUTOFLOWER, LAMMER
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiene/)*

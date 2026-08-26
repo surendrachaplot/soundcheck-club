@@ -1,6 +1,6 @@
 # EL NICK DGO
 
-EL NICK DGO is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Astro Cdmx, Mexico City on Fri, 2 Oct 2026.
+EL NICK DGO is a Latin Bass and Guaracha artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Astro Cdmx, Mexico City on Fri, 2 Oct 2026.
 
 EL NICK DGO is a latin bass and guaracha artist tracked on soundcheck, with 31 sets logged across Austin, Berlin, Brussels and Chicago and 8 more. Often billed alongside DINABN, OJOSFINOS and Susobrino. Next up: Astro Cdmx, Mexicocity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ EL NICK DGO is a latin bass and guaracha artist tracked on soundcheck, with 31 s
 
 DINABN, OJOSFINOS, Susobrino
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elnickdgo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elnickdgo/)*

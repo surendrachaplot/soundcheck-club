@@ -1,6 +1,6 @@
 # Ana-Lucid
 
-Ana-Lucid is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Seattle on Sat, 12 Sept 2026.
+Ana-Lucid is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Seattle on Sat, 12 Sept 2026.
 
 Ana-Lucid is a house and minimal artist tracked on soundcheck, with 22 sets logged across Seattle. Often billed alongside Yamanaka, Interwave Surfer and Tony H. Next up: TBA, Seattle on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ana-Lucid is a house and minimal artist tracked on soundcheck, with 22 sets logg
 
 Yamanaka, Interwave Surfer, Tony H
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ana-lucid/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ana-lucid/)*

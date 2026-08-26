@@ -1,6 +1,6 @@
 # Cayo
 
-Cayo is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Kasey Taylor × PROGRESSIVE PARIS" on Sat, 12 Sept 2026.
+Cayo is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Kasey Taylor × PROGRESSIVE PARIS" on Sat, 12 Sept 2026.
 
 Cayo is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Kasey Taylor. Browse upcoming dates, start times and who's playing. 9 rue du Chevaleret 75013 Paris.
 
@@ -14,4 +14,4 @@ Cayo is a music venue in Paris listed on soundcheck. 1 upcoming night, with line
 
 9 rue du Chevaleret 75013 Paris, Paris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cayo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cayo/)*

@@ -1,6 +1,6 @@
 # Afters
 
-Afters is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Afters is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 Afters is a garage and drum & bass artist tracked on soundcheck, with 2 sets logged across Brighton and Losangeles. Often billed alongside AC13, Charlie and Dj-Tee. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Afters is a garage and drum & bass artist tracked on soundcheck, with 2 sets log
 
 AC13, Charlie, Dj-Tee
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afters/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afters/)*

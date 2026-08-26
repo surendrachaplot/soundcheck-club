@@ -1,6 +1,6 @@
 # Alphabae
 
-Alphabae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Alphabae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Alphabae is a techno and trance artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Schott (2), WAYRA and Ani con Gas. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Alphabae is a techno and trance artist tracked on soundcheck, with 6 sets logged
 
 Schott (2), WAYRA, Ani con Gas
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alphabae/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alphabae/)*

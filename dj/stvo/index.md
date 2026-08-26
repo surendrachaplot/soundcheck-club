@@ -1,6 +1,6 @@
 # STVO
 
-STVO is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Audio Club, Geneva on Sat, 29 Aug 2026.
+STVO is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Audio Club, Geneva on Sat, 29 Aug 2026.
 
 STVO is a techno and deep house artist based in Switzerland, tracked on soundcheck, with 25 sets logged across Geneva. Often billed alongside David Armada, La Forêt and DJ Deep. Next up: Audio Club, Geneva on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ STVO is a techno and deep house artist based in Switzerland, tracked on soundche
 
 David Armada, La Forêt, DJ Deep
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stvo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stvo/)*

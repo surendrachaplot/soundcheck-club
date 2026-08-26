@@ -1,6 +1,6 @@
 # Mermaid Chunky
 
-Mermaid Chunky is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Mermaid Chunky is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Mermaid Chunky is a post-punk and electronica artist tracked on soundcheck, with 11 sets logged across Belgrade, Birmingham, Bristol and Liverpool and 2 more. Often billed alongside Moin, COBRAH and Lust For Youth. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mermaid Chunky is a post-punk and electronica artist tracked on soundcheck, with
 
 Moin, COBRAH, Lust For Youth
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mermaidchunky/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mermaidchunky/)*

@@ -1,6 +1,6 @@
 # Darren Tate
 
-Darren Tate is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
+Darren Tate is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
 
 Darren Tate is a progressive house and trance artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Above & Beyond, C-systems and Grum. Next up: Gaswrx Birmingham, London on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ Darren Tate is a progressive house and trance artist tracked on soundcheck, with
 
 Above & Beyond, C-systems, Grum
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darrentate/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darrentate/)*

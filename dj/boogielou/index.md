@@ -1,14 +1,15 @@
 # boogielou
 
-boogielou is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at HWK, London on Sat, 5 Sept 2026.
+boogielou is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at HWK, London on Sat, 5 Sept 2026.
 
-boogielou is a house and disco artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Jamie Ardor, T!SCO and BRUIN (UK). Next up: HWK, London on Sat 5 Sept.
+boogielou is a house and disco artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Jamie Ardor, T!SCO and Al Gray. Next up: HWK, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | HWK | London |
+| Sat, 31 Oct 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ boogielou is a house and disco artist tracked on soundcheck, with 8 sets logged 
 
 ## Shares bills with
 
-Jamie Ardor, T!SCO, BRUIN (UK)
+Jamie Ardor, T!SCO, Al Gray
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boogielou/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boogielou/)*

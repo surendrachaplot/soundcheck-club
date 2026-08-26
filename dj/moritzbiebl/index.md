@@ -1,6 +1,6 @@
 # Moritz Biebl
 
-Moritz Biebl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at YSY, Berlin on Sat, 29 Aug 2026.
+Moritz Biebl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at YSY, Berlin on Sat, 29 Aug 2026.
 
 Moritz Biebl is a house and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Acid Mo, BUTZ and Kaater. Next up: YSY, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Moritz Biebl is a house and techno artist based in Germany, tracked on soundchec
 
 Acid Mo, BUTZ, Kaater
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzbiebl/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzbiebl/)*

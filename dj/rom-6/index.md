@@ -1,6 +1,6 @@
 # rom (6)
 
-rom (6) is a Club and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
+rom (6) is a Club and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
 
 rom (6) is a club and garage artist tracked on soundcheck, with 31 sets logged across Bristol, Hongkong, London and Seoul. Often billed alongside BAAWLA, AEIDA and Coziest. Next up: Pistil, Seoul on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ rom (6) is a club and garage artist tracked on soundcheck, with 31 sets logged a
 
 BAAWLA, AEIDA, Coziest
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rom-6/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rom-6/)*

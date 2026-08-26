@@ -1,6 +1,6 @@
 # Guchon
 
-Guchon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
+Guchon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at おおばキャンプ村, Tokyo on Sat, 5 Sept 2026.
 
 Guchon is a house and techno artist based in Japan, tracked on soundcheck, with 59 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Seimei, Carpainter and okadada. Next up: おおばキャンプ村, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Guchon is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Seimei, Carpainter, okadada
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guchon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guchon/)*

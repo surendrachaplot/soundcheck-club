@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Intro to Ableton Lab: Drum Programming and Arrangement" on Wed, 26 Aug 2026.
+Nowadays is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Intro to Ableton Lab: Drum Programming and Arrangement" on Wed, 26 Aug 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 36 upcoming nights, with line-ups including 5ive, MORENXXX, Ali Coleman and Analog Soul and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -9,7 +9,7 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 36 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 26 Aug 2026 | Intro to Ableton Lab: Drum Programming and Arrangement | JP Solis, The New York Record Club for The Advancement of The Arts |
-| Thu, 27 Aug 2026 | Body Hack |  |
+| Thu, 27 Aug 2026 | Body Hack: umru, ARCHANGEL, Clit.hub, Saintclair, Ivy Fischer, Quetamine, swello   | ARCHANGEL (US), Clit.hub, Quetamine, Saint Clair, Saintclair, umru |
 | Fri, 28 Aug 2026 | Vladimir Ivkovic All Night | Vladimir Ivkovic |
 | Sat, 29 Aug 2026 | Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) | LOKA (US), Leeon, Loka, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake |
 | Sun, 30 Aug 2026 | Mister Sunday: Eamon Harkin All Day | Eamon Harkin |
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 36 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

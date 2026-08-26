@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Karmakoma, Belgrade on Fri, 28 Aug 2026.
+D.Dan is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Karmakoma, Belgrade on Fri, 28 Aug 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Karmakoma, Belgrade on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

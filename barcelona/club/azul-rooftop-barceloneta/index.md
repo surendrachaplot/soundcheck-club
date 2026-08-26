@@ -1,6 +1,6 @@
 # Azul Rooftop Barceloneta
 
-Azul Rooftop Barceloneta is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "The Sandbox - FREE ROOFTOP PARTY // Special Guest, Madison Park, Devicious" on Thu, 27 Aug 2026.
+Azul Rooftop Barceloneta is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "The Sandbox - FREE ROOFTOP PARTY // Special Guest, Madison Park, Devicious" on Thu, 27 Aug 2026.
 
 Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Althoff, Cherman (2), ERRANT and EVES DJ and 2 more. Browse upcoming dates, start times and who's playing. Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona.
 
@@ -17,4 +17,4 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 4 u
 
 Pg. de Joan de Borbó, 101, planta 8, Ciutat Vella, 08038 Barcelona, Barcelona
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/azul-rooftop-barceloneta/)*

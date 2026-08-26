@@ -1,6 +1,6 @@
 # Papa K
 
-Papa K is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Wed, 2 Sept 2026.
+Papa K is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Wed, 2 Sept 2026.
 
 Papa K is a house and minimal artist tracked on soundcheck, with 37 sets logged across Berlin. Often billed alongside Annina, Cyko and Scoopsi. Next up: Club der Visionaere, Berlin on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ Papa K is a house and minimal artist tracked on soundcheck, with 37 sets logged 
 
 Annina, Cyko, Scoopsi
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papak/)*

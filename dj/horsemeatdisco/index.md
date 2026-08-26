@@ -1,8 +1,8 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
+Horse Meat Disco is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
 
-Horse Meat Disco is a house and disco artist tracked on soundcheck, with 381 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Amnesia Ibiza, Ibiza on Fri 28 Aug.
+Horse Meat Disco is a house and disco artist tracked on soundcheck, with 382 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Amnesia Ibiza, Ibiza on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 381 set
 | Sat, 19 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 26 Sept 2026 | smartbar | Chicago |
+| Fri, 2 Oct 2026 | Fidelity Studio | Dublin |
 | Fri, 9 Oct 2026 | Necto | Detroit |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | Stereo | Montreal |
@@ -35,4 +36,4 @@ Horse Meat Disco is a house and disco artist tracked on soundcheck, with 381 set
 
 Luke Howard, James Hillard, Severino
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

@@ -1,6 +1,6 @@
 # V.I.V.E.K.
 
-V.I.V.E.K. is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
+V.I.V.E.K. is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
 
 V.I.V.E.K. is a dub and drum & bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Bucharest, Dublin and Glasgow and 7 more. Often billed alongside Pinch, SP:MC and Bakey. Next up: export, Rotterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ V.I.V.E.K. is a dub and drum & bass artist based in United Kingdom, tracked on s
 
 Pinch, SP:MC, Bakey
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivek/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivek/)*

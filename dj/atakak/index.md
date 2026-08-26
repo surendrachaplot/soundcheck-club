@@ -1,6 +1,6 @@
 # Ata Kak
 
-Ata Kak is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Jazz Cafe, London on Thu, 27 Aug 2026.
+Ata Kak is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Jazz Cafe, London on Thu, 27 Aug 2026.
 
 Ata Kak is a house and funk / soul artist tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Copenhagen and Glasgow and 5 more. Often billed alongside 1tbsp, 33EMYBW and ARN4L2. Next up: The Jazz Cafe, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Ata Kak is a house and funk / soul artist tracked on soundcheck, with 10 sets lo
 
 1tbsp, 33EMYBW, ARN4L2
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atakak/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atakak/)*

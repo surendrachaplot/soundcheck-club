@@ -1,13 +1,14 @@
 # Leo Mas
 
-Leo Mas is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
+Leo Mas is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gianca - Murazzi, Turin on Sat, 29 Aug 2026.
 
-Leo Mas is a house and balearic artist tracked on soundcheck, with 26 sets logged across Athens, Belgrade, Bristol and Ibiza and 6 more. Often billed alongside Cio (Spezialmaterial), Cristian Croce and Innuendo. Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
+Leo Mas is a house and balearic artist tracked on soundcheck, with 27 sets logged across Athens, Belgrade, Bristol and Ibiza and 6 more. Often billed alongside Cio (Spezialmaterial), Cristian Croce and Innuendo. Next up: Gianca - Murazzi, Turin on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Gianca - Murazzi | Turin |
 | Sat, 5 Sept 2026 | TBA - Will got massaged 1 Day before event  | Zurich |
 | Sat, 5 Sept 2026 | TBA | Zurich |
 
@@ -26,4 +27,4 @@ Leo Mas is a house and balearic artist tracked on soundcheck, with 26 sets logge
 
 Cio (Spezialmaterial), Cristian Croce, Innuendo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leo-mas/)*

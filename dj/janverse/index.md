@@ -1,6 +1,6 @@
 # Janverse
 
-Janverse is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Mash House, Edinburgh on Fri, 28 Aug 2026.
+Janverse is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Mash House, Edinburgh on Fri, 28 Aug 2026.
 
 Janverse is a drum & bass and jungle artist tracked on soundcheck, with 15 sets logged across Edinburgh and Glasgow. Often billed alongside Brynk, Rodent and FOLIE (UK). Next up: The Mash House, Edinburgh on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Janverse is a drum & bass and jungle artist tracked on soundcheck, with 15 sets 
 
 Brynk, Rodent, FOLIE (UK)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janverse/)*

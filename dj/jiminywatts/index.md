@@ -1,6 +1,6 @@
 # Jiminy Watts
 
-Jiminy Watts is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
+Jiminy Watts is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tola, London on Sat, 19 Sept 2026.
 
 Jiminy Watts is a house and electro artist tracked on soundcheck, with 44 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Jacob Trip, Rolo (2) and Elleinad. Next up: Tola, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jiminy Watts is a house and electro artist tracked on soundcheck, with 44 sets l
 
 Jacob Trip, Rolo (2), Elleinad
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiminywatts/)*

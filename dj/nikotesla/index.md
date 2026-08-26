@@ -1,6 +1,6 @@
 # Niko Tesla
 
-Niko Tesla is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Garagen, Cologne on Wed, 26 Aug 2026.
+Niko Tesla is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Garagen, Cologne on Wed, 26 Aug 2026.
 
 Niko Tesla is a techno and psytrance artist tracked on soundcheck, with 18 sets logged across Cologne. Often billed alongside BISMONTAG, HWRD and Irwin Leschet. Next up: Garagen, Cologne on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Niko Tesla is a techno and psytrance artist tracked on soundcheck, with 18 sets 
 
 BISMONTAG, HWRD, Irwin Leschet
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikotesla/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikotesla/)*

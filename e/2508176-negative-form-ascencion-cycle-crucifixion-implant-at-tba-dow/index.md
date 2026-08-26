@@ -1,6 +1,6 @@
 # Negative Form Ascencion Cycle: Crucifixion Implant at TBA - Downtown LA
 
-Negative Form Ascencion Cycle: Crucifixion Implant at TBA - Downtown LA on Fri 28 Aug, Losangeles. Preview the line-up and save it on soundcheck.
+Negative Form Ascencion Cycle: Crucifixion Implant at TBA - Downtown LA on Fri 28 Aug, Losangeles. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

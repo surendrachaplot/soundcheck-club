@@ -1,6 +1,6 @@
 # Danny
 
-Danny is a Electronica and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Klymax Discotheque, Bali on Sat, 29 Aug 2026.
+Danny is a Electronica and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Klymax Discotheque, Bali on Sat, 29 Aug 2026.
 
 Danny is an electronica and afro house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Bali, London and Manchester and 1 more. Often billed alongside Archie Dennis, K A I and ones (UK). Next up: Klymax Discotheque, Bali on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Danny is an electronica and afro house artist tracked on soundcheck, with 13 set
 
 Archie Dennis, K A I, ones (UK)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danny/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danny/)*

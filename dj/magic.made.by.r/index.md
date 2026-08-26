@@ -1,6 +1,6 @@
 # magic.made.by.r
 
-magic.made.by.r is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Smolna, Warsaw on Sat, 29 Aug 2026.
+magic.made.by.r is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Smolna, Warsaw on Sat, 29 Aug 2026.
 
 magic.made.by.r is a house and techno artist based in Ukraine, tracked on soundcheck, with 21 sets logged across Berlin, Hamburg and Warsaw. Often billed alongside Manu Strasse, Adron_ and Antoine Baiser. Next up: Smolna, Warsaw on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ magic.made.by.r is a house and techno artist based in Ukraine, tracked on soundc
 
 Manu Strasse, Adron_, Antoine Baiser
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magic.made.by.r/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magic.made.by.r/)*

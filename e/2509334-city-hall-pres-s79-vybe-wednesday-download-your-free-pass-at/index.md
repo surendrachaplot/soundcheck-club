@@ -1,6 +1,6 @@
 # City Hall pres. S79 VYBE || WEDNESDAY || DOWNLOAD YOUR FREE PASS at City Hall
 
-City Hall pres. S79 VYBE || WEDNESDAY || DOWNLOAD YOUR FREE PASS on Wed 26 Aug, Barcelona. 5 acts on the bill: Basement Scene, Gabriella Ponce, KYOTO and Vikki and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+City Hall pres. S79 VYBE || WEDNESDAY || DOWNLOAD YOUR FREE PASS on Wed 26 Aug, Barcelona. 7 acts on the bill: Basement Scene, Franz (AR), Gabriella Ponce and KYOTO and 3 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ City Hall pres. S79 VYBE || WEDNESDAY || DOWNLOAD YOUR FREE PASS on Wed 26 Aug, 
 ## Line-up
 
 - Basement Scene
+- Franz (AR)
 - Gabriella Ponce
 - KYOTO
+- Mylet.Mihail
 - Vikki
 - Yeison M
 

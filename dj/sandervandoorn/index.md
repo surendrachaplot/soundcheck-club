@@ -1,6 +1,6 @@
 # Sander van Doorn
 
-Sander van Doorn is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Sander van Doorn is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Sander van Doorn is a trance and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Birmingham, Buenosaires and Cologne and 17 more. Often billed alongside Marco V, Erick E and Alexander Koning. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sander van Doorn is a trance and house artist tracked on soundcheck, with 26 set
 
 Marco V, Erick E, Alexander Koning
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandervandoorn/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandervandoorn/)*

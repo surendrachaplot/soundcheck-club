@@ -1,6 +1,6 @@
 # Lucas Hulan
 
-Lucas Hulan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Lucas Hulan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Lucas Hulan is a techno and house artist tracked on soundcheck, with 97 sets logged across Berlin and Prague. Often billed alongside Schneider Lounge, Stessie Tfgn and Dona. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lucas Hulan is a techno and house artist tracked on soundcheck, with 97 sets log
 
 Schneider Lounge, Stessie Tfgn, Dona
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucashulan/)*

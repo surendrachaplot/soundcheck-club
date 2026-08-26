@@ -1,6 +1,6 @@
 # Mattia Dambrosio
 
-Mattia Dambrosio is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Masada, Milan on Sun, 13 Sept 2026.
+Mattia Dambrosio is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Masada, Milan on Sun, 13 Sept 2026.
 
 Mattia Dambrosio is a techno and dub techno artist based in Italy, tracked on soundcheck, with 25 sets logged across Milan. Often billed alongside Outburst Knobs, Münch and Viels. Next up: Masada, Milan on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Mattia Dambrosio is a techno and dub techno artist based in Italy, tracked on so
 
 Outburst Knobs, Münch, Viels
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiadambrosio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiadambrosio/)*

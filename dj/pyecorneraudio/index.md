@@ -1,6 +1,6 @@
 # Pye Corner Audio
 
-Pye Corner Audio is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The White Hotel, Manchester on Thu, 19 Nov 2026.
+Pye Corner Audio is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The White Hotel, Manchester on Thu, 19 Nov 2026.
 
 Pye Corner Audio is a downtempo and experimental artist tracked on soundcheck, with 13 sets logged across Barcelona, Belfast, Berlin and Dublin and 6 more. Often billed alongside AERAE, ANAHITA and Al Wootton. Next up: The White Hotel, Manchester on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Pye Corner Audio is a downtempo and experimental artist tracked on soundcheck, w
 
 AERAE, ANAHITA, Al Wootton
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyecorneraudio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pyecorneraudio/)*

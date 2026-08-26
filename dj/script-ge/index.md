@@ -1,6 +1,6 @@
 # Script (GE)
 
-Script (GE) is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
+Script (GE) is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
 
 Script (GE) is a techno and tech house artist based in Georgia, tracked on soundcheck, with 38 sets logged across Amsterdam, Austin, Buenosaires and Ibiza and 6 more. Often billed alongside Uväll, Dual Pistols and gwän. Next up: Mtkvarze, Tbilisi on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Script (GE) is a techno and tech house artist based in Georgia, tracked on sound
 
 Uväll, Dual Pistols, gwän
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/script-ge/)*

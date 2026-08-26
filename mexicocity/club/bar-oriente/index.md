@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Fromhouse: DJ Yxmi, DJ Foshh, Dembow Lord" on Wed, 26 Aug 2026.
+Bar Oriente is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Fromhouse: DJ Yxmi, DJ Foshh, Dembow Lord" on Wed, 26 Aug 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including AEREA, Andre VII, Ginny and Ignacio Rosa and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -23,4 +23,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

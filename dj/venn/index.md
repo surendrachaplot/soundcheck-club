@@ -1,6 +1,6 @@
 # VENN
 
-VENN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
+VENN is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
 
 VENN is a techno and tech house artist tracked on soundcheck, with 13 sets logged across Toronto. Often billed alongside B-Format, Barbosa and D.O.J. Next up: TBA, Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ VENN is a techno and tech house artist tracked on soundcheck, with 13 sets logge
 
 B-Format, Barbosa, D.O.J
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venn/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venn/)*

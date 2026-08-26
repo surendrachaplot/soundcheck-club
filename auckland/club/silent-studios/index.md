@@ -1,6 +1,6 @@
 # Silent Studios
 
-Silent Studios is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Dark Faces Presents: Kaufmann [DE]" on Sat, 3 Oct 2026.
+Silent Studios is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Dark Faces Presents: Kaufmann [DE]" on Sat, 3 Oct 2026.
 
 Silent Studios is a music venue in Auckland listed on soundcheck. 1 upcoming night, with line-ups including Momo. Browse upcoming dates, start times and who's playing. 6 Patrick St, Onehunga, Auckland 1061.
 
@@ -14,4 +14,4 @@ Silent Studios is a music venue in Auckland listed on soundcheck. 1 upcoming nig
 
 6 Patrick St, Onehunga, Auckland 1061, Auckland
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*

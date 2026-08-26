@@ -1,6 +1,6 @@
 # Brian Gravel
 
-Brian Gravel is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Chemist, Boston on Sat, 26 Sept 2026.
+Brian Gravel is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Chemist, Boston on Sat, 26 Sept 2026.
 
 Brian Gravel is a progressive house and house artist tracked on soundcheck, with 9 sets logged across Boston and Cardiff. Often billed alongside Aubrey Fry, Mia Aurora and Anthony Pappa. Next up: The Chemist, Boston on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Brian Gravel is a progressive house and house artist tracked on soundcheck, with
 
 Aubrey Fry, Mia Aurora, Anthony Pappa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briangravel/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/briangravel/)*

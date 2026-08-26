@@ -1,13 +1,14 @@
 # Manson
 
-Manson is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at OIL Club, Shenzhen on Fri, 4 Sept 2026.
+Manson is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at OIL Club, Shenzhen on Fri, 28 Aug 2026.
 
-Manson is a club and bass artist tracked on soundcheck, with 26 sets logged across Shenzhen. Often billed alongside Beibeilon, DJ 86 and zzm (2). Next up: OIL Club, Shenzhen on Fri 4 Sept.
+Manson is a club and bass artist tracked on soundcheck, with 27 sets logged across Shenzhen. Often billed alongside Beibeilon, DJ 86 and Replica.mp3. Next up: OIL Club, Shenzhen on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | OIL Club | Shenzhen |
 | Fri, 4 Sept 2026 | OIL Club | Shenzhen |
 | Sat, 3 Oct 2026 | OIL Club | Shenzhen |
 
@@ -24,6 +25,6 @@ Manson is a club and bass artist tracked on soundcheck, with 26 sets logged acro
 
 ## Shares bills with
 
-Beibeilon, DJ 86, zzm (2)
+Beibeilon, DJ 86, Replica.mp3
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manson-cn/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manson-cn/)*

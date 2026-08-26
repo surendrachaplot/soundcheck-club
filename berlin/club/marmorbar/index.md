@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Cracked(3): From Egg to (Wo)man" on Fri, 28 Aug 2026.
+Marmorbar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Cracked(3): From Egg to (Wo)man" on Fri, 28 Aug 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Diva DJ, Dj handbag, ENNIO and HNX (030) and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -19,4 +19,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming nights, wi
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

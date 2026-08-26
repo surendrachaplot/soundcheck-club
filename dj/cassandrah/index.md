@@ -1,8 +1,8 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Cause, London on Fri, 11 Sept 2026.
+cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Cause, London on Fri, 11 Sept 2026.
 
-cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Rian Wood, La Penderie Noire and Pura Solenne. Next up: The Cause, London on Fri 11 Sept.
+cassandrah is a techno and industrial artist tracked on soundcheck, with 34 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Rian Wood, La Penderie Noire and PARAPHER. Next up: The Cause, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | Drugstore Beograd | Belgrade |
+| Sat, 24 Oct 2026 | OFF Kultur | Budapest |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 33 sets
 
 ## Shares bills with
 
-Rian Wood, La Penderie Noire, Pura Solenne
+Rian Wood, La Penderie Noire, PARAPHER
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

@@ -1,6 +1,6 @@
 # LEO SELECTS
 
-LEO SELECTS is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dalston Den, London on Fri, 28 Aug 2026.
+LEO SELECTS is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dalston Den, London on Fri, 28 Aug 2026.
 
 LEO SELECTS is a jungle and drum & bass artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Agility, Bryn Brax and Whatsname. Next up: Dalston Den, London on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ LEO SELECTS is a jungle and drum & bass artist tracked on soundcheck, with 3 set
 
 Agility, Bryn Brax, Whatsname
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoselects/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leoselects/)*

@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
+Wata Igarashi is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
 
-Wata Igarashi is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Razzmatazz, Barcelona on Sat 29 Aug.
+Wata Igarashi is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Basel and 51 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Razzmatazz, Barcelona on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 203 sets 
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Thu, 8 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Sat, 10 Oct 2026 | smartbar | Chicago |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
-| Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Wata Igarashi is a techno and house artist tracked on soundcheck, with 203 sets 
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

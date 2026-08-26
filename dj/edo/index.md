@@ -1,6 +1,6 @@
 # Edo
 
-Edo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Flash, Washington DC on Sun, 6 Sept 2026.
+Edo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Flash, Washington DC on Sun, 6 Sept 2026.
 
 Edo is a house and deep house artist tracked on soundcheck, with 35 sets logged across Brighton, Detroit, Ghent and Mexicocity and 2 more. Often billed alongside Jus Nowhere, KayLaSoul and G.E.N.E.. Next up: Flash, Washingtondc on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Edo is a house and deep house artist tracked on soundcheck, with 35 sets logged 
 
 Jus Nowhere, KayLaSoul, G.E.N.E.
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edo/)*

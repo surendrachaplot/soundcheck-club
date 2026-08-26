@@ -1,6 +1,6 @@
 # Tristan Ingram
 
-Tristan Ingram is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at XOYO, London on Sat, 5 Sept 2026.
+Tristan Ingram is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at XOYO, London on Sat, 5 Sept 2026.
 
 Tristan Ingram is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Ibiza and London. Often billed alongside Alex P, Bongo Ben and Brandon Block. Next up: XOYO, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tristan Ingram is a house and tech house artist based in United Kingdom, tracked
 
 Alex P, Bongo Ben, Brandon Block
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristaningram/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristaningram/)*

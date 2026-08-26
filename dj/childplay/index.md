@@ -1,6 +1,6 @@
 # Childplay
 
-Childplay is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Childplay is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
 Childplay is a minimal and house artist based in Turkey, tracked on soundcheck, with 27 sets logged across Istanbul and Newyorkcity. Often billed alongside Ali Cem Esmeray, Baban and GARAN GARAN. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Childplay is a minimal and house artist based in Turkey, tracked on soundcheck, 
 
 Ali Cem Esmeray, Baban, GARAN GARAN
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childplay/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childplay/)*

@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "PIKES PRESENTS AT 528 WITH Nightmares on Wax" on Tue, 25 Aug 2026.
+528 Ibiza is a music venue in Ibiza with 23 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "ANDY MANUMISSION PRESENTS SATURDAYS CLOSING" on Sat, 29 Aug 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including Kepler, Paula Tape, ALEXANDER M and Alex M.O.R.P.H. and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, with line-ups including Kepler, Paula Tape, ALEXANDER M and Alex M.O.R.P.H. and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | PIKES PRESENTS AT 528 WITH Nightmares on Wax | Colleen 'Cosmo' Murphy, JKriv, Mr Scruff, Nightmares on Wax, Samsön |
 | Sat, 29 Aug 2026 | ANDY MANUMISSION PRESENTS SATURDAYS CLOSING | Allister Whitehead, Clara Da Costa, Jason Bye, K-Klass, Sarah Main |
 | Sun, 30 Aug 2026 | Brunch Electronik Ibiza X The Gardens of Babylon 30.08 / WhoMadeWho, Mind Against | JANE RYSE, Mind Against, WhoMadeWho |
 | Tue, 1 Sept 2026 | PIKES PRESENTS AT 528 WITH Eris Drew B2B Octo Octa | Bushwacka!, Eris Drew, Faited, GIDEÖN, Octo Octa, Sally C |
@@ -18,9 +17,10 @@
 | Tue, 8 Sept 2026 | PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO | Bushwacka!, Groove Armada, Prosumer, TEED |
 | Sat, 12 Sept 2026 | PIKES PRESENTS AT 528 WITH Kruder & Dorfmeister | George FitzGerald, Kruder & Dorfmeister |
 | Sun, 13 Sept 2026 | NEXUP with Max Dean | Max Dean |
+| Tue, 15 Sept 2026 | PIKES PRESENTS AT 528 X DETROIT LOVE | Carl Craig, Mirko Loko, Ryan O Gorman |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

@@ -1,6 +1,6 @@
 # Flip Devonian
 
-Flip Devonian is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Sao Paulo on Sat, 26 Sept 2026.
+Flip Devonian is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Sao Paulo on Sat, 26 Sept 2026.
 
 Flip Devonian is a techno and acid artist based in Brazil, tracked on soundcheck, with 17 sets logged across Buenosaires and Saopaulo. Often billed alongside Kharsek, Anders (BR) and Fracta. Next up: TBA, Saopaulo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Flip Devonian is a techno and acid artist based in Brazil, tracked on soundcheck
 
 Kharsek, Anders (BR), Fracta
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flipdevonian/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flipdevonian/)*

@@ -1,6 +1,6 @@
 # MAR VISTA
 
-MAR VISTA is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bolero, Seoul on Fri, 28 Aug 2026.
+MAR VISTA is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bolero, Seoul on Fri, 28 Aug 2026.
 
 MAR VISTA is a garage and house artist tracked on soundcheck, with 28 sets logged across Adelaide, Bali, Berlin and Bristol and 4 more. Often billed alongside Coziest, PanVesy and h4rdy. Next up: Bolero, Seoul on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ MAR VISTA is a garage and house artist tracked on soundcheck, with 28 sets logge
 
 Coziest, PanVesy, h4rdy
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvista/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvista/)*

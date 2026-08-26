@@ -1,6 +1,6 @@
 # Pilooski
 
-Pilooski is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Pilooski is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Pilooski is an electronica and techno artist based in France, tracked on soundcheck, with 3 sets logged across Manchester, Paris and Philadelphia. Often billed alongside 1morning, Alex Zhang Hungtai and Alexis Le-Tan. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Pilooski is an electronica and techno artist based in France, tracked on soundch
 
 1morning, Alex Zhang Hungtai, Alexis Le-Tan
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilooski/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilooski/)*

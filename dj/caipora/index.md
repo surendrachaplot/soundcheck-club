@@ -1,6 +1,6 @@
 # caipora
 
-caipora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+caipora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 caipora is a house and techno artist based in Brazil, tracked on soundcheck, with 19 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside MAMA LOVE, Monti1one and Fluffi. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ caipora is a house and techno artist based in Brazil, tracked on soundcheck, wit
 
 MAMA LOVE, Monti1one, Fluffi
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caipora/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caipora/)*

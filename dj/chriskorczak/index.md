@@ -1,6 +1,6 @@
 # Chris Korczak
 
-Chris Korczak is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Piękny Pies, Krakow on Fri, 28 Aug 2026.
+Chris Korczak is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Piękny Pies, Krakow on Fri, 28 Aug 2026.
 
 Chris Korczak is an electronic artist tracked on soundcheck, with 3 sets logged across Krakow and Warsaw. Often billed alongside Essex, Filip Sonik and Hidden Empire. Next up: Piękny Pies, Krakow on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Chris Korczak is an electronic artist tracked on soundcheck, with 3 sets logged 
 
 Essex, Filip Sonik, Hidden Empire
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriskorczak/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriskorczak/)*

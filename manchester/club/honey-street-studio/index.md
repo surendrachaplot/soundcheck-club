@@ -1,8 +1,8 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "MSM AUDIO // BANK HOLIDAY SUMMER SPECIAL" on Sat, 29 Aug 2026.
+Honey Street Studio is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "MSM AUDIO // BANK HOLIDAY SUMMER SPECIAL" on Sat, 29 Aug 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Alex Milo, Allius, Amelia Leigh and Awedinary and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Alex Milo, Allius, Amelia Leigh and Awedinary and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

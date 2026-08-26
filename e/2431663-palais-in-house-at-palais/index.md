@@ -1,6 +1,6 @@
 # Palais: In House at Palais
 
-Palais: In House on Sat 29 Aug, London. Preview the line-up and save it on soundcheck.
+Palais: In House on Sat 29 Aug, London. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

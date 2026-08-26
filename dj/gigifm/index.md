@@ -1,6 +1,6 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at RASA, Singapore on Sat, 26 Sept 2026.
+GiGi FM is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RASA, Singapore on Sat, 26 Sept 2026.
 
 GiGi FM is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: RASA, Singapore on Sat 26 Sept.
 
@@ -32,4 +32,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 163 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

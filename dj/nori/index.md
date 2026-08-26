@@ -1,6 +1,6 @@
 # Nori
 
-Nori is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Suns Shimokitazawa, Tokyo on Sun, 30 Aug 2026.
+Nori is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Suns Shimokitazawa, Tokyo on Sun, 30 Aug 2026.
 
 Nori is a house and techno artist based in Japan, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Paris and Tokyo and 1 more. Often billed alongside Da Yama, Enishi and REO MATSUMOTO. Next up: Suns Shimokitazawa, Tokyo on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Nori is a house and techno artist based in Japan, tracked on soundcheck, with 26
 
 Da Yama, Enishi, REO MATSUMOTO
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nori/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nori/)*

@@ -1,6 +1,6 @@
 # Adobo (PL)
 
-Adobo (PL) is a Reggaeton and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Letnisko Żoliborz, Warsaw on Fri, 28 Aug 2026.
+Adobo (PL) is a Reggaeton and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Letnisko Żoliborz, Warsaw on Fri, 28 Aug 2026.
 
 Adobo (PL) is a reggaeton and baile funk artist based in Dominican Republic, tracked on soundcheck, with 36 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, Cosaco and Fourth World Music. Next up: Letnisko Żoliborz, Warsaw on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Adobo (PL) is a reggaeton and baile funk artist based in Dominican Republic, tra
 
 KarateKnur, Cosaco, Fourth World Music
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adobopl/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adobopl/)*

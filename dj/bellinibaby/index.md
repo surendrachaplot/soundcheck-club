@@ -1,6 +1,6 @@
 # Bellini Baby
 
-Bellini Baby is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
+Bellini Baby is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rhythm, Toronto on Fri, 28 Aug 2026.
 
 Bellini Baby is a garage and house artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal and Toronto. Often billed alongside Dargan, Art Behaviour and CZYN. Next up: Rhythm, Toronto on Fri 28 Aug.
 
@@ -18,4 +18,4 @@ Bellini Baby is a garage and house artist based in Canada, tracked on soundcheck
 
 Dargan, Art Behaviour, CZYN
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellinibaby/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellinibaby/)*

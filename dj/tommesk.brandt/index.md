@@ -1,6 +1,6 @@
 # Tommes K. Brandt
 
-Tommes K. Brandt is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at THF Tower, Berlin on Sat, 29 Aug 2026.
+Tommes K. Brandt is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at THF Tower, Berlin on Sat, 29 Aug 2026.
 
 Tommes K. Brandt is a house and club artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside 7ommes, Nikklaas and Better Call Paul. Next up: THF Tower, Berlin on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Tommes K. Brandt is a house and club artist based in Germany, tracked on soundch
 
 7ommes, Nikklaas, Better Call Paul
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommesk.brandt/)*

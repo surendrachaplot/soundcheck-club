@@ -1,6 +1,6 @@
 # Babo
 
-Babo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DETROIT CLUB, Barcelona on Sat, 29 Aug 2026.
+Babo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at DETROIT CLUB, Barcelona on Sat, 29 Aug 2026.
 
 Babo is a house and tech house artist based in Spain, tracked on soundcheck, with 39 sets logged across Barcelona. Often billed alongside BRU ON, Mario Chicoli and KBTO. Next up: DETROIT CLUB, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Babo is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 BRU ON, Mario Chicoli, KBTO
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babo/)*

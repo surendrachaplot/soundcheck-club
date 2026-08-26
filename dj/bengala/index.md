@@ -1,6 +1,6 @@
 # BENGALA
 
-BENGALA is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Giri, Berlin on Fri, 28 Aug 2026.
+BENGALA is a Baile Funk and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Giri, Berlin on Fri, 28 Aug 2026.
 
 BENGALA is a baile funk and afro house artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Madrid and Paris. Often billed alongside Flaco Bengala, HERMETICA and R-010. Next up: Giri, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ BENGALA is a baile funk and afro house artist tracked on soundcheck, with 33 set
 
 Flaco Bengala, HERMETICA, R-010
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bengala/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bengala/)*

@@ -1,19 +1,17 @@
 # La Fabrica
 
-La Fabrica is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "A10N TECHNO X USUAL SUSPECTS: Joey Beltram" on Sat, 5 Sept 2026.
+La Fabrica is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Lollipop DC - Techno Edition - Brent Shay - A'phreaq - Maximiliano - madeera" on Sat, 12 Sept 2026.
 
-La Fabrica is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights, with line-ups including A'phreaq, Brent Shay, Destro187 and Dru Ruiz and 2 more. Browse upcoming dates, start times and who's playing. 1124 Congress St NE, Washington DC 20002.
+La Fabrica is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including A'phreaq, Brent Shay, Dru Ruiz and madeera and 1 more. Browse upcoming dates, start times and who's playing. 1124 Congress St NE, Washington DC 20002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | A10N TECHNO X USUAL SUSPECTS: Joey Beltram | Destro187, Giovani, Joey Beltram, Jus Nowhere, Xav (US) |
-| Sun, 6 Sept 2026 | High Class Nasty x Poosh: Eric Yaz, Misha, Late London, SPCL.K | Eric Yaz, Late London, SPCL.K |
-| Sat, 12 Sept 2026 | Lollipop DC - Techno Edition - Dru Ruiz - Brent Shay - A'phreaq - Maximiliano | A'phreaq, Brent Shay, Dru Ruiz, MAXIMILIANO (US) |
+| Sat, 12 Sept 2026 | Lollipop DC - Techno Edition - Brent Shay - A'phreaq - Maximiliano - madeera | A'phreaq, Brent Shay, Dru Ruiz, MAXIMILIANO (US), madeera |
 
 ## Address
 
 1124 Congress St NE, Washington DC 20002, Washington DC
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/la-fabrica/)*

@@ -1,6 +1,6 @@
 # Vivian Li
 
-Vivian Li is a Downtempo and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Vivian Li is a Downtempo and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Vivian Li is a downtempo and dub techno artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal. Often billed alongside ArtSaves, Matthew Herbert and 16:9 ratio. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -13,6 +13,7 @@ Vivian Li is a downtempo and dub techno artist based in Canada, tracked on sound
 
 ## Recently played
 
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - White Wall Studio, Montreal — Fri, 19 Jun 2026
 - Ada X, Montreal — Thu, 21 Sept 2023
 
@@ -20,4 +21,4 @@ Vivian Li is a downtempo and dub techno artist based in Canada, tracked on sound
 
 ArtSaves, Matthew Herbert, 16:9 ratio
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianli/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianli/)*

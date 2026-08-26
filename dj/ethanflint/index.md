@@ -1,6 +1,6 @@
 # Ethan Flint
 
-Ethan Flint is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Ethan Flint is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Ethan Flint is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Ibiza, Leeds and London. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ethan Flint is a house and minimal artist based in United Kingdom, tracked on so
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanflint/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanflint/)*

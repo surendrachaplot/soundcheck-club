@@ -1,6 +1,6 @@
 # BIANCA BLANCO
 
-BIANCA BLANCO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at MTW, Frankfurt on Sat, 5 Sept 2026.
+BIANCA BLANCO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at MTW, Frankfurt on Sat, 5 Sept 2026.
 
 BIANCA BLANCO is a house and tech house artist based in Spain, tracked on soundcheck, with 11 sets logged across Amsterdam, Frankfurt and Munich. Often billed alongside Benja Asima, Calypsis and Dario Milkovic. Next up: MTW, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ BIANCA BLANCO is a house and tech house artist based in Spain, tracked on soundc
 
 Benja Asima, Calypsis, Dario Milkovic
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancablanco/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biancablanco/)*

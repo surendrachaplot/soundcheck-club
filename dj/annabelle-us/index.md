@@ -1,6 +1,6 @@
 # Annabelle (US)
 
-Annabelle (US) is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Ton of Brix, London on Sat, 29 Aug 2026.
+Annabelle (US) is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Ton of Brix, London on Sat, 29 Aug 2026.
 
 Annabelle (US) is a club and hip-hop artist tracked on soundcheck, with 11 sets logged across London and Newyorkcity. Often billed alongside Zillion, Dennis Free and EDEN BEKELE. Next up: The Ton of Brix, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Annabelle (US) is a club and hip-hop artist tracked on soundcheck, with 11 sets 
 
 Zillion, Dennis Free, EDEN BEKELE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelle-us/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelle-us/)*

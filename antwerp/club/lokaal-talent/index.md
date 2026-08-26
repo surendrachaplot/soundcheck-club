@@ -1,6 +1,6 @@
 # Lokaal Talent
 
-Lokaal Talent is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "de rokersruimte" on Sat, 19 Sept 2026.
+Lokaal Talent is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "de rokersruimte" on Sat, 19 Sept 2026.
 
 Lokaal Talent is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including Echo/Dawn and Shoplifter. Browse upcoming dates, start times and who's playing. Hardenvoort 55, 2060 Antwerpen.
 
@@ -14,4 +14,4 @@ Lokaal Talent is a music venue in Antwerp listed on soundcheck. 1 upcoming night
 
 Hardenvoort 55, 2060 Antwerpen, Antwerp
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/lokaal-talent/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/lokaal-talent/)*

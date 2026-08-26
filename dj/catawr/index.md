@@ -1,6 +1,6 @@
 # CATAWR
 
-CATAWR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Süss War Gestern, Berlin on Sat, 29 Aug 2026.
+CATAWR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Süss War Gestern, Berlin on Sat, 29 Aug 2026.
 
 CATAWR is a house and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Ibiza. Often billed alongside Bøgen, Miguel Silva and Not Stereo. Next up: Süss War Gestern, Berlin on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ CATAWR is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Bøgen, Miguel Silva, Not Stereo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*

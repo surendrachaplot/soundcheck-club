@@ -1,6 +1,6 @@
 # Geneva_
 
-Geneva_ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
+Geneva_ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
 
 Geneva_ is a house and techno artist based in France, tracked on soundcheck, with 11 sets logged across Berlin, Edinburgh, Munich and Nantes and 1 more. Often billed alongside MVHY, Adrien Calvet and Aidan. Next up: Crack Bellmer, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Geneva_ is a house and techno artist based in France, tracked on soundcheck, wit
 
 MVHY, Adrien Calvet, Aidan
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*

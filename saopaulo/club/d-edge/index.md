@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "MOVING D-EDGE SP pres.: ANA JABLONSKI. AKULA HAMPTON. Guilherme VAC" on Thu, 27 Aug 2026.
+D-EDGE is a music venue in Sao Paulo with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "MOVING D-EDGE SP pres.: ANA JABLONSKI. AKULA HAMPTON. Guilherme VAC" on Thu, 27 Aug 2026.
 
 D-EDGE is a music venue in Saopaulo listed on soundcheck. 4 upcoming nights, with line-ups including Anderson Noise, DJ Murphy, Fel C (BR) and Guilherme VAC and 2 more. Browse upcoming dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -17,4 +17,4 @@ D-EDGE is a music venue in Saopaulo listed on soundcheck. 4 upcoming nights, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

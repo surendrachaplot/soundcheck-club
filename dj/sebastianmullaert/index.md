@@ -1,6 +1,6 @@
 # Sebastian Mullaert
 
-Sebastian Mullaert is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+Sebastian Mullaert is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 Sebastian Mullaert is a techno and electronica artist tracked on soundcheck, with 22 sets logged across Amsterdam, Basel, Berlin and Brighton and 9 more. Often billed alongside Mathew Jonson, Barker and JakoJako. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sebastian Mullaert is a techno and electronica artist tracked on soundcheck, wit
 
 Mathew Jonson, Barker, JakoJako
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*

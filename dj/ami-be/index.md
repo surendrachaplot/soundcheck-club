@@ -1,6 +1,6 @@
 # AM.I
 
-AM.I is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
+AM.I is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
 
 AM.I is a techno and house artist based in Belgium, tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Alex Stein, Darin Epsilon and LOVRA. Next up: Charlatan, Ghent on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ AM.I is a techno and house artist based in Belgium, tracked on soundcheck, with 
 
 Alex Stein, Darin Epsilon, LOVRA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ami-be/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ami-be/)*

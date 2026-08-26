@@ -1,6 +1,6 @@
 # Blen (3)
 
-Blen (3) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Revír Karlín, Prague on Thu, 27 Aug 2026.
+Blen (3) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Revír Karlín, Prague on Thu, 27 Aug 2026.
 
 Blen (3) is a house and garage artist based in Czech Republic, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Opi (CZ), Rajky and Reese_0410. Next up: Revír Karlín, Prague on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Blen (3) is a house and garage artist based in Czech Republic, tracked on soundc
 
 Opi (CZ), Rajky, Reese_0410
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blen-3/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blen-3/)*

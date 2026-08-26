@@ -1,6 +1,6 @@
 # Rentaro
 
-Rentaro is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Spanners, London on Sat, 5 Sept 2026.
+Rentaro is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Spanners, London on Sat, 5 Sept 2026.
 
 Rentaro is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 22 sets logged across Kyoto, London, Osaka and Seoul and 1 more. Often billed alongside Sho Komatsu, Keisuke Wada and Ozwick. Next up: Spanners, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rentaro is a techno and hip-hop artist based in Japan, tracked on soundcheck, wi
 
 Sho Komatsu, Keisuke Wada, Ozwick
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rentaro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rentaro/)*

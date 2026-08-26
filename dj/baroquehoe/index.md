@@ -1,6 +1,6 @@
 # Baroque Hoe
 
-Baroque Hoe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
+Baroque Hoe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bossa Nova Civic Club, New York City on Wed, 2 Sept 2026.
 
 Baroque Hoe is a techno and acid artist tracked on soundcheck, with 26 sets logged across Berlin and Newyorkcity. Often billed alongside 320 (1), Brutal Twink and Actual Angel. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Baroque Hoe is a techno and acid artist tracked on soundcheck, with 26 sets logg
 
 320 (1), Brutal Twink, Actual Angel
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*

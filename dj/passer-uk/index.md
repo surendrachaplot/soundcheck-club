@@ -1,6 +1,6 @@
 # passer (UK)
 
-passer (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+passer (UK) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 passer (UK) is an electronic artist tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside DJ FUNGHOUL, JV (5) and Slundarq. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ passer (UK) is an electronic artist tracked on soundcheck, with 12 sets logged a
 
 DJ FUNGHOUL, JV (5), Slundarq
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/passer-uk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/passer-uk/)*

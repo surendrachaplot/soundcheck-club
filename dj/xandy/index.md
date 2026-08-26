@@ -1,6 +1,6 @@
 # XANDY
 
-XANDY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 19 Sept 2026.
+XANDY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kaņepes Kultūras Centrs, Riga on Sat, 19 Sept 2026.
 
 XANDY is a techno and house artist tracked on soundcheck, with 20 sets logged across Birmingham, London, Manchester and Riga and 1 more. Often billed alongside INLIMEN, Aeden (1) and Eudoxie. Next up: Kaņepes Kultūras Centrs, Riga on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ XANDY is a techno and house artist tracked on soundcheck, with 20 sets logged ac
 
 INLIMEN, Aeden (1), Eudoxie
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xandy/)*

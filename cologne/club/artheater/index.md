@@ -1,8 +1,8 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Aura Extra with slin & Tarkno all night long on vinyl" on Fri, 28 Aug 2026.
+Artheater is a music venue in Cologne with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Aura Extra with slin & Tarkno all night long on vinyl" on Fri, 28 Aug 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Aaro (3), Cara Elizabeth, Cinthie and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming nights, with line-ups including Aaro (3), Cara Elizabeth, Cinthie and Cynthia Spiering and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming nights, w
 | Fri, 18 Sept 2026 | BergWacht with Konfusia uvm | Konfusia, Liho |
 | Sat, 19 Sept 2026 | Kluengel Klubnacht | Cara Elizabeth, HUELLE, Prossowski, RCGT, Sneaky Pete |
 | Sat, 19 Sept 2026 | 303 presents Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL u. v. m. | Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL |
+| Fri, 25 Sept 2026 | jedermensch. im Artheater | Esch, HiHat, L3OO, Shabi1, Tschatsching, die jane., lollo, nordcorreia.mp3 |
 
 ## Address
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

@@ -1,6 +1,6 @@
 # The Island
 
-The Island is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "HVL, Machine Woman, Nate Forest & Jay Galligan" on Sat, 12 Sept 2026.
+The Island is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "HVL, Machine Woman, Nate Forest & Jay Galligan" on Sat, 12 Sept 2026.
 
 The Island is a music venue in Bristol listed on soundcheck. 1 upcoming night, with line-ups including HVL, Jay Galligan and Machine Woman. Browse upcoming dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
@@ -14,4 +14,4 @@ The Island is a music venue in Bristol listed on soundcheck. 1 upcoming night, w
 
 Bridewell St, Bristol, BS1 2QD, United Kingdom, Bristol
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*

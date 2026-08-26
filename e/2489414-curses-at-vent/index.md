@@ -1,6 +1,6 @@
 # Curses at VENT
 
-Curses at VENT on Sat 5 Sept, Tokyo. 5 acts on the bill: Curses, HARUTO, J@SCO and Mustache X and 1 more. House. Preview the line-up and save it on soundcheck.
+Curses at VENT on Sat 5 Sept, Tokyo. 6 acts on the bill: Curses, HARUTO, J@SCO and Manaha and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Curses at VENT on Sat 5 Sept, Tokyo. 5 acts on the bill: Curses, HARUTO, J@SCO a
 - Curses
 - HARUTO
 - J@SCO
+- Manaha
 - Mustache X
 - Onsawa&tkc
 

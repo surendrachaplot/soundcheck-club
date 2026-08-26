@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Lost Horizon, Bristol on Fri, 4 Sept 2026.
+Meg Ward is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lost Horizon, Bristol on Fri, 4 Sept 2026.
 
 Meg Ward is a house and techno artist tracked on soundcheck, with 53 sets logged across Bristol, Edinburgh, Ibiza and Leeds and 4 more. Often billed alongside Harry Gay, Junior Simba and Bklava. Next up: Lost Horizon, Bristol on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Meg Ward is a house and techno artist tracked on soundcheck, with 53 sets logged
 
 Harry Gay, Junior Simba, Bklava
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

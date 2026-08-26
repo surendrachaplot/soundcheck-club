@@ -1,6 +1,6 @@
 # Nekro
 
-Nekro is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sundara Club, Ibiza on Sat, 5 Sept 2026.
+Nekro is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sundara Club, Ibiza on Sat, 5 Sept 2026.
 
 Nekro is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Ibiza and Malta. Often billed alongside Philip Ackowsky, Abdy and Soofnic. Next up: Sundara Club, Ibiza on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Nekro is a progressive house and techno artist based in United Kingdom, tracked 
 
 Philip Ackowsky, Abdy, Soofnic
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nekro/)*

@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Bronx Techno Zoo - we are all beautiful animals, OSO, Nous Klear, T.B.A" on Sat, 29 Aug 2026.
+Eventhuset is a music venue in Stockholm with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Bronx TechnoZoo >> Ms. K - Bella is FREE >> OSO >> NOUIS KLEAR >> HOLTTER >> RAVEMAN" on Sat, 29 Aug 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 6 upcoming nights, with line-ups including DJ Godfather, DJ KILLING, GT7 and DJ Hell and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -8,7 +8,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 6 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Bronx Techno Zoo - we are all beautiful animals, OSO, Nous Klear, T.B.A | Nous Klear, OSO (3) |
+| Sat, 29 Aug 2026 | Bronx TechnoZoo >> Ms. K - Bella is FREE >> OSO >> NOUIS KLEAR >> HOLTTER >> RAVEMAN | Ms. K, Nous Klear, OSO (3) |
 | Sat, 5 Sept 2026 | BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear | GT7, MERILIN, Nina Michelle, Nous Klear, Paralich |
 | Sat, 26 Sept 2026 | DJ HELL ☆ MAKODE LINDE ☆ DJ KILLING ☆ Skankstasy ☆ CLUB BANG BANG ☆ KINKY DISCO | DJ Hell, DJ KILLING, Skankstasy |
 | Sat, 10 Oct 2026 | DJ Godfather >> Psykoterapi at BRONX Stockholm - 10 OCT 2026 | DJ Godfather, Psykoterapi |
@@ -19,4 +19,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 6 upcoming nights
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

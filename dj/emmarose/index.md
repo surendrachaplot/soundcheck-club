@@ -1,6 +1,6 @@
 # Emma Rose
 
-Emma Rose is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
+Emma Rose is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
 
 Emma Rose is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, London and Manchester. Often billed alongside ROWANA, Dani Whylie and Duality. Next up: The Crown, Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Emma Rose is a garage and drum & bass artist based in United Kingdom, tracked on
 
 ROWANA, Dani Whylie, Duality
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarose/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarose/)*

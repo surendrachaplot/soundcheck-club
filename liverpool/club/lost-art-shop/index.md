@@ -1,6 +1,6 @@
 # Lost Art Shop
 
-Lost Art Shop is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "For The Underground: For the record x Svara Radio x Lost Art" on Sat, 29 Aug 2026.
+Lost Art Shop is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "For The Underground: For the record x Svara Radio x Lost Art" on Sat, 29 Aug 2026.
 
 Lost Art Shop is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including AC Groove, Jetski and Powdersoul. Browse upcoming dates, start times and who's playing. 15 Brick St, Liverpool L1 0BL.
 
@@ -15,4 +15,4 @@ Lost Art Shop is a music venue in Liverpool listed on soundcheck. 2 upcoming nig
 
 15 Brick St, Liverpool L1 0BL, Liverpool
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/lost-art-shop/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/lost-art-shop/)*

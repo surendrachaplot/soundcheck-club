@@ -1,6 +1,6 @@
 # YUNJIN
 
-YUNJIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+YUNJIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 YUNJIN is a techno and house artist based in Canada, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig and Toronto. Often billed alongside JD Typo, Lyo. and eric.a. Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ YUNJIN is a techno and house artist based in Canada, tracked on soundcheck, with
 
 JD Typo, Lyo., eric.a
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yunjin/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yunjin/)*

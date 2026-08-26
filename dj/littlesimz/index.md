@@ -1,6 +1,6 @@
 # Little Simz
 
-Little Simz is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Little Simz is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 Little Simz is a house and hip-hop artist tracked on soundcheck, with 12 sets logged across Barcelona, Bristol, Brussels and Liverpool and 6 more. Often billed alongside Eliza Rose, Bolis Pupul and Honey Dijon. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Little Simz is a house and hip-hop artist tracked on soundcheck, with 12 sets lo
 
 Eliza Rose, Bolis Pupul, Honey Dijon
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlesimz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlesimz/)*

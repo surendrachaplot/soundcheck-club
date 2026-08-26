@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+SAIDAH is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 SAIDAH is a house and garage artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 17 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -34,4 +34,4 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 114 sets logged 
 
 Diffrent, Sam Alfred, Silva Bumpa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

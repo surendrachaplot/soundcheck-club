@@ -1,6 +1,6 @@
 # Donavan Glover
 
-Donavan Glover is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TV Lounge, Detroit on Sat, 29 Aug 2026.
+Donavan Glover is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TV Lounge, Detroit on Sat, 29 Aug 2026.
 
 Donavan Glover is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 61 sets logged across Detroit. Often billed alongside BLAAQGOLD, Fullbodydurag and sillygirlcarmen. Next up: TV Lounge, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Donavan Glover is a house and hip-hop artist based in United States of America, 
 
 BLAAQGOLD, Fullbodydurag, sillygirlcarmen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donavanglover/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donavanglover/)*

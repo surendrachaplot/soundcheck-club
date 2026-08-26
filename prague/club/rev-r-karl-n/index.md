@@ -1,6 +1,6 @@
 # Revír Karlín
 
-Revír Karlín is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "• Blen •" on Thu, 27 Aug 2026.
+Revír Karlín is a music venue in Prague with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "• Blen •" on Thu, 27 Aug 2026.
 
 Revír Karlín is a music venue in Prague listed on soundcheck. 3 upcoming nights, with line-ups including Blen (3) and DDK (1). Browse upcoming dates, start times and who's playing. Karolinská 7, Praha 8, Karlín.
 
@@ -16,4 +16,4 @@ Revír Karlín is a music venue in Prague listed on soundcheck. 3 upcoming night
 
 Karolinská 7, Praha 8, Karlín, Prague
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/rev-r-karl-n/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/rev-r-karl-n/)*

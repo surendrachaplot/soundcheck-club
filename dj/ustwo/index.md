@@ -1,8 +1,8 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Us Two is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Us Two is a tech house and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Max Dean, Ilario Alicante and Ryan Resso. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Us Two is a tech house and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Max Dean, Ilario Alicante and Ryan Resso. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Us Two is a tech house and house artist tracked on soundcheck, with 59 sets logg
 | Sat, 5 Sept 2026 | [UNVRS] | Ibiza |
 | Thu, 17 Sept 2026 | The Loft | Manchester |
 | Fri, 25 Sept 2026 | Document | Bristol |
+| Fri, 2 Oct 2026 | 528 Ibiza | Ibiza |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Us Two is a tech house and house artist tracked on soundcheck, with 59 sets logg
 
 Max Dean, Ilario Alicante, Ryan Resso
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ustwo/)*

@@ -1,6 +1,6 @@
 # K-Style
 
-K-Style is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Sala ART, Madrid on Fri, 4 Sept 2026.
+K-Style is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sala ART, Madrid on Fri, 4 Sept 2026.
 
 K-Style is a techno and trance artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Madrid and Paris. Often billed alongside Carlos Pérez, Gaston Zani and Basswell. Next up: Sala ART, Madrid on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ K-Style is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 Carlos Pérez, Gaston Zani, Basswell
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-style/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-style/)*

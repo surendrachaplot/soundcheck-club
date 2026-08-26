@@ -1,6 +1,6 @@
 # Eli Brown (Outdoors) at The Concourse Project
 
-Eli Brown (Outdoors) at The Concourse Project on Sat 26 Sept, Austin. 3 acts on the bill: Eli Brown, Kasia and Marie Vaunt. Preview the line-up and save it on soundcheck.
+Eli Brown (Outdoors) at The Concourse Project on Sat 26 Sept, Austin. 4 acts on the bill: Eli Brown, Kasia, Kasia (OFC) and Marie Vaunt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Eli Brown (Outdoors) at The Concourse Project on Sat 26 Sept, Austin. 3 acts on 
 
 - Eli Brown
 - Kasia
+- Kasia (OFC)
 - Marie Vaunt
 
 *Source: [soundcheck](https://soundcheck.club/e/2478652-eli-brown-outdoors-at-the-concourse-project/)*

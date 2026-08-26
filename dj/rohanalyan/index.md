@@ -1,6 +1,6 @@
 # Rohan Alyan
 
-Rohan Alyan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Edge Miami, Miami on Sat, 29 Aug 2026.
+Rohan Alyan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Edge Miami, Miami on Sat, 29 Aug 2026.
 
 Rohan Alyan is a house and deep house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Mazin, San Dee and DJ Three. Next up: Edge Miami, Miami on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rohan Alyan is a house and deep house artist based in United States of America, 
 
 Mazin, San Dee, DJ Three
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanalyan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rohanalyan/)*

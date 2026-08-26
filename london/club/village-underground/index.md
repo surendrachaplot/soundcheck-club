@@ -1,8 +1,8 @@
 # Village Underground
 
-Village Underground is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Channel One Sound System - Carnival Warm Up" on Fri, 28 Aug 2026.
+Village Underground is a music venue in London with 18 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Channel One Sound System - Carnival Warm Up" on Fri, 28 Aug 2026.
 
-Village Underground is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and Bushbaby and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
+Village Underground is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1-800 GIRLS, Adam Chapman, Amy Wiles and Bushbaby and 2 more. Browse upcoming dates, start times and who's playing. 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Village Underground is a music venue in London listed on soundcheck. 17 upcoming
 
 54 Holywell Lane; Shoreditch; London EC2A 3PQ; United Kingdom, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/village-underground/)*

@@ -1,6 +1,6 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
+Mariiin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
 
 Mariiin is a techno and electro artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Binh. Next up: Club der Visionaere, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Mariiin is a techno and electro artist tracked on soundcheck, with 90 sets logge
 
 Bobby., Jos, Binh
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

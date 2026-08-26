@@ -1,14 +1,15 @@
 # Grzly Adams
 
-Grzly Adams is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
+Grzly Adams is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
 
-Grzly Adams is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Tommy Lexxus, VILIFY and Dj Quien. Next up: Panke, Berlin on Fri 16 Oct.
+Grzly Adams is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Tommy Lexxus, VILIFY and Dj Quien. Next up: Panke, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Panke | Berlin |
+| Fri, 23 Oct 2026 | Gretchen | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Grzly Adams is a drum & bass and dubstep artist based in Germany, tracked on sou
 
 Tommy Lexxus, VILIFY, Dj Quien
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grzlyadams/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grzlyadams/)*

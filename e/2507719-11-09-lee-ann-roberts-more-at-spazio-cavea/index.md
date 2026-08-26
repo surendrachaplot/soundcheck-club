@@ -1,6 +1,6 @@
-# 11.09 Lee Ann Roberts + more at Spazio Cavea
+# 11.09 Lee Ann Roberts & more at Spazio Cavea
 
-11.09 Lee Ann Roberts + more at Spazio Cavea on Fri 11 Sept, Rome. 4 acts on the bill: Frankyeffe, GIULIA (IT), Jalex and Lee Ann Roberts. Techno and Acid. Preview the line-up and save it on soundcheck.
+11.09 Lee Ann Roberts & more at Spazio Cavea on Fri 11 Sept, Rome. 4 acts on the bill: Frankyeffe, GIULIA (IT), Jalex and Lee Ann Roberts. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

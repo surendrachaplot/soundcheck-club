@@ -1,6 +1,6 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Navy Pier, Chicago on Sat, 29 Aug 2026.
+Glenn Underground is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Navy Pier, Chicago on Sat, 29 Aug 2026.
 
 Glenn Underground is a house and deep house artist based in United States of America, tracked on soundcheck, with 80 sets logged across Amsterdam, Bristol, Chicago and Detroit and 5 more. Often billed alongside Aaron Dae, Adorio and Disgonuts. Next up: Navy Pier, Chicago on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 
 Aaron Dae, Adorio, Disgonuts
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*

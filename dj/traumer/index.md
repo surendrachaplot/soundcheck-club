@@ -1,8 +1,8 @@
 # Traumer
 
-Traumer is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Traumer is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Traumer is a house and techno artist tracked on soundcheck, with 304 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Traumer is a house and techno artist tracked on soundcheck, with 305 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Traumer is a house and techno artist tracked on soundcheck, with 304 sets logged
 | Fri, 4 Sept 2026 | H0L0 | New York City |
 | Sat, 5 Sept 2026 | Descent | Boston |
 | Sun, 6 Sept 2026 | Jolene Downtown Miami | Miami |
+| Mon, 7 Sept 2026 | Radius | Chicago |
 | Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | FOLD | London |
-| Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Traumer is a house and techno artist tracked on soundcheck, with 304 sets logged
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

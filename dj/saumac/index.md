@@ -1,6 +1,6 @@
 # Saumac
 
-Saumac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Glove That Fits, London on Sat, 5 Sept 2026.
+Saumac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Glove That Fits, London on Sat, 5 Sept 2026.
 
 Saumac is a house and techno artist tracked on soundcheck, with 16 sets logged across Geneva and London. Often billed alongside Yuuki, FASTON and Hottwins. Next up: The Glove That Fits, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Saumac is a house and techno artist tracked on soundcheck, with 16 sets logged a
 
 Yuuki, FASTON, Hottwins
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saumac/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saumac/)*

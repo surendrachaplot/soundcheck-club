@@ -1,6 +1,6 @@
 # DJ Earth Angel
 
-DJ Earth Angel is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at CHICO, Mexico City on Fri, 28 Aug 2026.
+DJ Earth Angel is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at CHICO, Mexico City on Fri, 28 Aug 2026.
 
 DJ Earth Angel is a reggaeton and electronica artist based in United States of America, tracked on soundcheck, with 15 sets logged across Mexicocity and Sanfrancisco. Often billed alongside DJ JUANNY, Profesito and Juni. Next up: CHICO, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Earth Angel is a reggaeton and electronica artist based in United States of A
 
 DJ JUANNY, Profesito, Juni
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djearthangel/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djearthangel/)*

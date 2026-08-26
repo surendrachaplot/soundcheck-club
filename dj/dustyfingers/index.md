@@ -1,6 +1,6 @@
 # Dusty Fingers
 
-Dusty Fingers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at River's King, Paris on Tue, 8 Sept 2026.
+Dusty Fingers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at River's King, Paris on Tue, 8 Sept 2026.
 
 Dusty Fingers is a house and disco artist tracked on soundcheck, with 23 sets logged across Milan and Paris. Often billed alongside Groove Boys Project, Lyss and Nahomi. Next up: River's King, Paris on Tue 8 Sept.
 
@@ -26,4 +26,4 @@ Dusty Fingers is a house and disco artist tracked on soundcheck, with 23 sets lo
 
 Groove Boys Project, Lyss, Nahomi
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingers/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingers/)*

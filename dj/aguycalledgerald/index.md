@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+A Guy Called Gerald is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 34 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -16,6 +16,7 @@ A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 109
 
 ## Recently played
 
+- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Rote Fabrik, Zurich — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Palais, London — Fri, 31 Jul 2026
@@ -23,10 +24,9 @@ A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 109
 - Refuge, New York City — Sun, 19 Jul 2026
 - Nowadays, New York City — Thu, 2 Jul 2026
 - TBA - 1151 Taylor St. - Detroit Mi., Detroit — Fri, 26 Jun 2026
-- The Old Blue Last, London — Thu, 25 Jun 2026
 
 ## Shares bills with
 
 Will B, gyrofield, Ben UFO
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

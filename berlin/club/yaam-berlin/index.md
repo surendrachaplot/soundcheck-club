@@ -1,6 +1,6 @@
 # YAAM Berlin
 
-YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "PSYCHO CALYPSO" on Sat, 29 Aug 2026.
+YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PSYCHO CALYPSO" on Sat, 29 Aug 2026.
 
 YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including awhlkuhn. Browse upcoming dates, start times and who's playing. An der Schillingbrücke 3, 10243 Berlin, Germany.
 
@@ -16,4 +16,4 @@ YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 An der Schillingbrücke 3, 10243 Berlin, Germany, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*

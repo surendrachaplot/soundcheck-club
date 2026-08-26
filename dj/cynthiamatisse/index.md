@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
+Cynthia Matisse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at FOUND, Berlin on Sat, 29 Aug 2026.
 
 Cynthia Matisse is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Submod, Lydmate and Toben. Next up: FOUND, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Cynthia Matisse is a techno and house artist tracked on soundcheck, with 13 sets
 
 Submod, Lydmate, Toben
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

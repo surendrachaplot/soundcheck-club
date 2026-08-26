@@ -1,6 +1,6 @@
 # Night Slugs & Einhundert at Ormside Projects
 
-Night Slugs & Einhundert at Ormside Projects on Fri 28 Aug, London. 7 acts on the bill: Bok Bok, D3NIM, Fiyahdred and Lil C and 3 more. Club. Preview the line-up and save it on soundcheck.
+Night Slugs & Einhundert at Ormside Projects on Fri 28 Aug, London. 8 acts on the bill: Bok Bok, D3NIM, Fiyahdred and Kontronatura and 4 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Night Slugs & Einhundert at Ormside Projects on Fri 28 Aug, London. 7 acts on th
 - Bok Bok
 - D3NIM
 - Fiyahdred
+- Kontronatura
 - Lil C
 - Nico Adomako
 - ohjeelo

@@ -1,6 +1,6 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "ElektroPub: DJ Blacknova!" on Wed, 26 Aug 2026.
+Timebar is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "ElektroPub: DJ Blacknova!" on Wed, 26 Aug 2026.
 
 Timebar is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, with line-ups including Around Us, Coralie Llie, Marble and MC PPholl and 2 more. Browse upcoming dates, start times and who's playing. Hornsgatan 174.
 
@@ -16,4 +16,4 @@ Timebar is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, w
 
 Hornsgatan 174, Stockholm
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*

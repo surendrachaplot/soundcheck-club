@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Westhafen Season Closing" on Sat, 5 Sept 2026.
+Westhafen is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Westhafen Season Closing" on Sat, 5 Sept 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, with line-ups including adamoandiamo, Alisa Stovik, Amøn and Anni Herzer and 2 more. Browse upcoming dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -16,4 +16,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, w
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

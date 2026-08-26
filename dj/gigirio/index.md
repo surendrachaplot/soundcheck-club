@@ -1,6 +1,6 @@
 # Gigi Rio
 
-Gigi Rio is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Jupiter Disco, New York City on Sun, 20 Sept 2026.
+Gigi Rio is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jupiter Disco, New York City on Sun, 20 Sept 2026.
 
 Gigi Rio is a garage and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Newyorkcity. Often billed alongside J.N.R., 4AM NYC and Janus Rose. Next up: Jupiter Disco, Newyorkcity on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Gigi Rio is a garage and house artist based in United States of America, tracked
 
 J.N.R., 4AM NYC, Janus Rose
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigirio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gigirio/)*

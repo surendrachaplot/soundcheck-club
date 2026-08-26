@@ -1,13 +1,14 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Eastway Baths, London on Sun, 13 Sept 2026.
+Eternal Love is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Parco Sempione, Milan on Sun, 30 Aug 2026.
 
-Eternal Love is a house and disco artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Dirty Channels, Larry Masmero and Coco Maria. Next up: Eastway Baths, London on Sun 13 Sept.
+Eternal Love is a house and disco artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Dirty Channels, Larry Masmero and Coco Maria. Next up: Parco Sempione, Milan on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Parco Sempione | Milan |
 | Sun, 13 Sept 2026 | Eastway Baths | London |
 | Fri, 18 Sept 2026 | Good Room | New York City |
 
@@ -26,4 +27,4 @@ Eternal Love is a house and disco artist tracked on soundcheck, with 119 sets lo
 
 Dirty Channels, Larry Masmero, Coco Maria
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*

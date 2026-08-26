@@ -1,6 +1,6 @@
 # Joana
 
-Joana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sensorium, Berlin on Wed, 9 Sept 2026.
+Joana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sensorium, Berlin on Wed, 9 Sept 2026.
 
 Joana is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Kollektiv Turmstrasse, PiliJo and A.Wolf. Next up: Sensorium, Berlin on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Joana is a techno and house artist tracked on soundcheck, with 9 sets logged acr
 
 Kollektiv Turmstrasse, PiliJo, A.Wolf
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*

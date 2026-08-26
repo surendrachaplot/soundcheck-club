@@ -1,6 +1,6 @@
 # Club Six
 
-Club Six is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "program audio: TAYHANA + NVST " on Fri, 28 Aug 2026.
+Club Six is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "program audio: TAYHANA + NVST " on Fri, 28 Aug 2026.
 
 Club Six is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Ali Stack, bastiengoat, Black Rave Culture and Buck Wilson and 2 more. Browse upcoming dates, start times and who's playing. 60 6th St, San Francisco, CA 94103, United States.
 
@@ -17,4 +17,4 @@ Club Six is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming night
 
 60 6th St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-six/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-six/)*

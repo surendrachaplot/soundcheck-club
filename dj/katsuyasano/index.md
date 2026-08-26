@@ -1,6 +1,6 @@
 # Katsuya Sano
 
-Katsuya Sano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Katsuya Sano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Katsuya Sano is a house and techno artist based in Japan, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Mexicocity and Prague and 1 more. Often billed alongside Yoshitaca, Alex Kraemer and Maki Polne. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Katsuya Sano is a house and techno artist based in Japan, tracked on soundcheck,
 
 Yoshitaca, Alex Kraemer, Maki Polne
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuyasano/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katsuyasano/)*

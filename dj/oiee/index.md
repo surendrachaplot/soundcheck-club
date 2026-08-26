@@ -1,6 +1,6 @@
 # OIEE
 
-OIEE is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 28 Aug 2026.
+OIEE is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Pontoon Budapest, Budapest on Fri, 28 Aug 2026.
 
 OIEE is a house and pop artist based in Hungary, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Brighton and Budapest and 2 more. Often billed alongside Saya Noé, MIN t and Meo Culpa. Next up: Pontoon Budapest, Budapest on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ OIEE is a house and pop artist based in Hungary, tracked on soundcheck, with 26 
 
 Saya Noé, MIN t, Meo Culpa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oiee/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oiee/)*

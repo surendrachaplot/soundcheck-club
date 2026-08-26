@@ -1,6 +1,6 @@
 # Galaxaura
 
-Galaxaura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Galaxaura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Galaxaura is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin, Buenosaires, Hamburg and Leipzig. Often billed alongside CIKO, Hanna Baertig and Moodrich. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Galaxaura is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 CIKO, Hanna Baertig, Moodrich
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galaxaura/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galaxaura/)*

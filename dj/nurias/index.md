@@ -1,6 +1,6 @@
 # Nurias
 
-Nurias is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 12 Sept 2026.
+Nurias is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 12 Sept 2026.
 
 Nurias is an electronica and house artist based in Spain, tracked on soundcheck, with 41 sets logged across Barcelona and Madrid. Often billed alongside Avo (ES), Cesc (ES) and Luska. Next up: Village Underground Barcelona, Barcelona on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nurias is an electronica and house artist based in Spain, tracked on soundcheck,
 
 Avo (ES), Cesc (ES), Luska
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nurias/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nurias/)*

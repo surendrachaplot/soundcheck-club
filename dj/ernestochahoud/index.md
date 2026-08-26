@@ -1,6 +1,6 @@
 # Ernesto Chahoud
 
-Ernesto Chahoud is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Jago, London on Fri, 4 Sept 2026.
+Ernesto Chahoud is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Jago, London on Fri, 4 Sept 2026.
 
 Ernesto Chahoud is a funk / soul and afrobeat artist tracked on soundcheck, with 32 sets logged across Berlin, Hamburg, London and Paris. Often billed alongside Natalie Shooter, Beirut Groove Collective and Hamish & Toby. Next up: The Jago, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ernesto Chahoud is a funk / soul and afrobeat artist tracked on soundcheck, with
 
 Natalie Shooter, Beirut Groove Collective, Hamish & Toby
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ernestochahoud/)*

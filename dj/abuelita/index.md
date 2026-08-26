@@ -1,13 +1,14 @@
 # Abuelita
 
-Abuelita is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Piękny Pies, Krakow on Sat, 26 Sept 2026.
+Abuelita is a Grime and Gqom artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at BarKa, Warsaw on Sun, 6 Sept 2026.
 
-Abuelita is a grime and drum & bass artist based in Poland, tracked on soundcheck, with 26 sets logged across Krakow and Warsaw. Often billed alongside Adobo (PL), KarateKnur and eylau. Next up: Piękny Pies, Krakow on Sat 26 Sept.
+Abuelita is a grime and gqom artist based in Poland, tracked on soundcheck, with 27 sets logged across Krakow and Warsaw. Often billed alongside Adobo (PL), KarateKnur and eylau. Next up: BarKa, Warsaw on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | BarKa | Warsaw |
 | Sat, 26 Sept 2026 | Piękny Pies | Krakow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Abuelita is a grime and drum & bass artist based in Poland, tracked on soundchec
 
 Adobo (PL), KarateKnur, eylau
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abuelita/)*

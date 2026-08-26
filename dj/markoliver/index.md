@@ -1,8 +1,8 @@
 # Mark Oliver
 
-Mark Oliver is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Acqua Supper Club, Toronto on Sun, 6 Sept 2026.
+Mark Oliver is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Acqua Supper Club, Toronto on Sun, 6 Sept 2026.
 
-Mark Oliver is a house and techno artist tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Jonathan Rosa, Kiki LeFreak and Milch (1). Next up: Acqua Supper Club, Toronto on Sun 6 Sept.
+Mark Oliver is a house and techno artist tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside Kiki LeFreak, Milch (1) and Jonathan Rosa. Next up: Acqua Supper Club, Toronto on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mark Oliver is a house and techno artist tracked on soundcheck, with 21 sets log
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Acqua Supper Club | Toronto |
 | Mon, 7 Sept 2026 | Cherry Beach | Toronto |
+| Mon, 7 Sept 2026 | TBA - The Junction Neighbourhood  | Toronto |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mark Oliver is a house and techno artist tracked on soundcheck, with 21 sets log
 
 ## Shares bills with
 
-Jonathan Rosa, Kiki LeFreak, Milch (1)
+Kiki LeFreak, Milch (1), Jonathan Rosa
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markoliver/)*

@@ -1,14 +1,15 @@
 # Loa Szala
 
-Loa Szala is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
+Loa Szala is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at FOLD, London on Fri, 28 Aug 2026.
 
-Loa Szala is a house and techno artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jos, Andy Luff and Alien Communications. Next up: FOLD, London on Fri 28 Aug.
+Loa Szala is a house and techno artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jos, Andy Luff and Alien Communications. Next up: FOLD, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | FOLD | London |
+| Sat, 19 Sept 2026 | Le 211 | Paris |
 | Sat, 31 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Loa Szala is a house and techno artist based in United Kingdom, tracked on sound
 
 Jos, Andy Luff, Alien Communications
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*

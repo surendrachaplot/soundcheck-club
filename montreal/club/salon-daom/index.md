@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Salon D'Illusion - ÄRDER" on Thu, 27 Aug 2026.
+Salon Daomé is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Salon D'Illusion - ÄRDER" on Thu, 27 Aug 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including Don Barbarino, DUZA, Ekitwanda and UZI (Soulmeka). Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -19,4 +19,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 6 upcoming night
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

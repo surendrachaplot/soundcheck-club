@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "REVERB: MINIMAL GROOVE + DEEP TECH" on Thu, 27 Aug 2026.
+EQ San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "REVERB: MINIMAL GROOVE + DEEP TECH" on Thu, 27 Aug 2026.
 
 EQ San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nights, with line-ups including Byrd US, Chippy Nonstop, Christian Löffler and Codak and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -23,4 +23,4 @@ EQ San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nigh
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

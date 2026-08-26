@@ -1,14 +1,15 @@
 # Hodge
 
-Hodge is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Hodge is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Hodge is a techno and bass artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 26 more. Often billed alongside Peverelist, Darwin and Erika. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
+Hodge is a techno and bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 26 more. Often billed alongside Peverelist, Darwin and Erika. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
+| Sun, 20 Sept 2026 | TBA | Los Angeles |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 
@@ -27,4 +28,4 @@ Hodge is a techno and bass artist tracked on soundcheck, with 105 sets logged ac
 
 Peverelist, Darwin, Erika
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*

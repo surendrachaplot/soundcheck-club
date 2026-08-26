@@ -1,6 +1,6 @@
 # LEECH
 
-LEECH is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+LEECH is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 LEECH is a techno and electronica artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity and Philadelphia. Often billed alongside Lena Willikens, Moopie and 1morning. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ LEECH is a techno and electronica artist based in United States of America, trac
 
 Lena Willikens, Moopie, 1morning
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LEECH/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LEECH/)*

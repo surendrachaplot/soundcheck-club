@@ -1,6 +1,6 @@
 # Alchemia
 
-Alchemia is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Garaż w Alchemii" on Fri, 28 Aug 2026.
+Alchemia is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Garaż w Alchemii" on Fri, 28 Aug 2026.
 
 Alchemia is a music venue in Krakow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Estery 5, 31-000 Kraków.
 
@@ -15,4 +15,4 @@ Alchemia is a music venue in Krakow listed on soundcheck. 2 upcoming nights. Bro
 
 Estery 5, 31-000 Kraków, Krakow
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/alchemia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/alchemia/)*

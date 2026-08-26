@@ -1,14 +1,15 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+Crazy Cousinz is a Garage and UK Funky artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
 
-Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 38 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Ministry Of Sound, London on Fri 28 Aug.
+Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 39 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Ministry Of Sound, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Ministry Of Sound | London |
+| Sun, 30 Aug 2026 | Two Tribes CAMPFIRE | London |
 | Fri, 4 Sept 2026 | Brixton Jamm | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 38 set
 
 Donae'o, Pioneer, Jerome Six
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*

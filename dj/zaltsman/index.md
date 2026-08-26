@@ -1,6 +1,6 @@
 # Zaltsman
 
-Zaltsman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Zaltsman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Zaltsman is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Berlin, Brighton, Bristol and Copenhagen and 6 more. Often billed alongside Meg Paine, Tech Support and 1-800 GIRLS. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Zaltsman is a house and techno artist based in United Kingdom, tracked on soundc
 
 Meg Paine, Tech Support, 1-800 GIRLS
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaltsman/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaltsman/)*

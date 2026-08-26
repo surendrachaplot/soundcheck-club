@@ -1,6 +1,6 @@
 # nohexcode
 
-nohexcode is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
+nohexcode is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
 
 nohexcode is a techno and acid artist tracked on soundcheck, with 29 sets logged across Berlin, Brighton and London. Often billed alongside CITYTRONIX, Noah Tauber and Modlar. Next up: The Steel Yard, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ nohexcode is a techno and acid artist tracked on soundcheck, with 29 sets logged
 
 CITYTRONIX, Noah Tauber, Modlar
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*

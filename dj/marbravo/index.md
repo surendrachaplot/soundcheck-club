@@ -1,6 +1,6 @@
 # Mar Bravo
 
-Mar Bravo is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Casa Amante Club, Madrid on Fri, 28 Aug 2026.
+Mar Bravo is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Casa Amante Club, Madrid on Fri, 28 Aug 2026.
 
 Mar Bravo is a house artist tracked on soundcheck, with 16 sets logged across Madrid. Often billed alongside Sazky, Raisa and Djen. Next up: Casa Amante Club, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Mar Bravo is a house artist tracked on soundcheck, with 16 sets logged across Ma
 
 Sazky, Raisa, Djen
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marbravo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marbravo/)*

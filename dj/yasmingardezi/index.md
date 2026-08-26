@@ -1,8 +1,8 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kilomètre25, Paris on Sat, 29 Aug 2026.
+Yasmin Gardezi is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kilomètre25, Paris on Sat, 29 Aug 2026.
 
-Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 97 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside blk., franck and Charlie Sparks. Next up: Kilomètre25, Paris on Sat 29 Aug.
+Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 98 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 30 more. Often billed alongside blk., franck and Charlie Sparks. Next up: Kilomètre25, Paris on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 97 sets
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sat, 12 Sept 2026 | Yamamori Tengu | Dublin |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
+| Sat, 24 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 97 sets
 
 blk., franck, Charlie Sparks
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*

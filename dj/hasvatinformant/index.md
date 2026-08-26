@@ -1,6 +1,6 @@
 # Hasvat Informant
 
-Hasvat Informant is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at New Guernica, Melbourne on Fri, 4 Sept 2026.
+Hasvat Informant is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at New Guernica, Melbourne on Fri, 4 Sept 2026.
 
 Hasvat Informant is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brisbane and Copenhagen and 6 more. Often billed alongside Mama Snake, Cloudy Ku and Simrana. Next up: New Guernica, Melbourne on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Hasvat Informant is a techno and house artist tracked on soundcheck, with 64 set
 
 Mama Snake, Cloudy Ku, Simrana
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hasvatinformant/)*

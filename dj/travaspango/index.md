@@ -1,6 +1,6 @@
 # travaspango
 
-travaspango is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Haus Der Kulturen Der Welt, Berlin on Thu, 27 Aug 2026.
+travaspango is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Haus Der Kulturen Der Welt, Berlin on Thu, 27 Aug 2026.
 
 travaspango is an electronic artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Lisbon and Tallinn. Often billed alongside DJ KILLING, LINDHOUSE and Carly Zeng. Next up: Haus Der Kulturen Der Welt, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ travaspango is an electronic artist based in Germany, tracked on soundcheck, wit
 
 DJ KILLING, LINDHOUSE, Carly Zeng
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/travaspango/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/travaspango/)*

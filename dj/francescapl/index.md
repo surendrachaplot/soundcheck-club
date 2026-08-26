@@ -1,6 +1,6 @@
 # Francesca (PL)
 
-Francesca (PL) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Smolna, Warsaw on Fri, 28 Aug 2026.
+Francesca (PL) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Smolna, Warsaw on Fri, 28 Aug 2026.
 
 Francesca (PL) is a techno and tech house artist based in Poland, tracked on soundcheck, with 24 sets logged across Krakow and Warsaw. Often billed alongside SYS.END, Butwho and GiGi (PL). Next up: Smolna, Warsaw on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Francesca (PL) is a techno and tech house artist based in Poland, tracked on sou
 
 SYS.END, Butwho, GiGi (PL)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*

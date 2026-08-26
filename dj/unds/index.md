@@ -1,6 +1,6 @@
 # unDs
 
-unDs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at elipamanoke, Leipzig on Sat, 29 Aug 2026.
+unDs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at elipamanoke, Leipzig on Sat, 29 Aug 2026.
 
 unDs is a tech house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Leipzig. Often billed alongside Leon Licht, Fast (DE) and Kaufmann. Next up: elipamanoke, Leipzig on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ unDs is a tech house and techno artist based in Germany, tracked on soundcheck, 
 
 Leon Licht, Fast (DE), Kaufmann
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unds/)*

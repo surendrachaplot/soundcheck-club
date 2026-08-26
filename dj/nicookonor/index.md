@@ -1,6 +1,6 @@
 # Nico O'Konor
 
-Nico O'Konor is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - Nature location, Stockholm on Sat, 29 Aug 2026.
+Nico O'Konor is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Nature location, Stockholm on Sat, 29 Aug 2026.
 
 Nico O'Konor is a tech house and techno artist tracked on soundcheck, with 10 sets logged across Lisbon and Stockholm. Often billed alongside Flord King, Daniel Lien and Parallax Deep. Next up: TBA - Nature location, Stockholm on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Nico O'Konor is a tech house and techno artist tracked on soundcheck, with 10 se
 
 Flord King, Daniel Lien, Parallax Deep
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicookonor/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicookonor/)*

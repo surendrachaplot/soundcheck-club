@@ -1,6 +1,6 @@
 # hhunter
 
-hhunter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Concourse Project, Austin on Fri, 28 Aug 2026.
+hhunter is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Concourse Project, Austin on Fri, 28 Aug 2026.
 
 hhunter is a techno and house artist tracked on soundcheck, with 74 sets logged across Austin, Chicago, Detroit and Losangeles and 7 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: The Concourse Project, Austin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ hhunter is a techno and house artist tracked on soundcheck, with 74 sets logged 
 
 Elarm, Kula, Flores Negras
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

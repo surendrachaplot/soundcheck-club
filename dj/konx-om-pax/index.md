@@ -1,6 +1,6 @@
 # Konx-om-Pax
 
-Konx-om-Pax is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Konx-om-Pax is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Konx-om-Pax is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol, Geneva, Glasgow and Istanbul and 3 more. Often billed alongside Isa Gordon, Nightwave and Peeve. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Konx-om-Pax is an experimental and electronica artist based in United Kingdom, t
 
 Isa Gordon, Nightwave, Peeve
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konx-om-pax/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konx-om-pax/)*

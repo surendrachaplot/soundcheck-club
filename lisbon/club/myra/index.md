@@ -1,6 +1,6 @@
 # Myra
 
-Myra is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "ELEVIN Beach Party + Live Set Recording At Costa De Caparica" on Sun, 6 Sept 2026.
+Myra is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "ELEVIN Beach Party + Live Set Recording At Costa De Caparica" on Sun, 6 Sept 2026.
 
 Myra is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including ELEVIN. Browse upcoming dates, start times and who's playing. R. da Praia, 2825-391 Costa da Caparica, Portugal.
 
@@ -14,4 +14,4 @@ Myra is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with lin
 
 R. da Praia, 2825-391 Costa da Caparica, Portugal, Lisbon
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra/)*

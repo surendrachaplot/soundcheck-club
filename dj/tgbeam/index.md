@@ -1,6 +1,6 @@
 # TGBEAM
 
-TGBEAM is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Amma Cafe, New York City on Fri, 4 Sept 2026.
+TGBEAM is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Amma Cafe, New York City on Fri, 4 Sept 2026.
 
 TGBEAM is a pop and electro artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity and Tokyo. Often billed alongside Sophia Riv, Yoyou and cute boys. Next up: Amma Cafe, Newyorkcity on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ TGBEAM is a pop and electro artist based in United States of America, tracked on
 
 Sophia Riv, Yoyou, cute boys
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tgbeam/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tgbeam/)*

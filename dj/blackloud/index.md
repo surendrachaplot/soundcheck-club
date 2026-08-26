@@ -1,6 +1,6 @@
 # Blackloud
 
-Blackloud is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bukanyr Boat, Prague on Fri, 28 Aug 2026.
+Blackloud is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bukanyr Boat, Prague on Fri, 28 Aug 2026.
 
 Blackloud is a house and techno artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Budapest and Prague. Often billed alongside Hugorieri, Ondrej K and Topal. Next up: Bukanyr Boat, Prague on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Blackloud is a house and techno artist tracked on soundcheck, with 40 sets logge
 
 Hugorieri, Ondrej K, Topal
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloud/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloud/)*

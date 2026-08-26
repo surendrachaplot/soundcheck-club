@@ -1,13 +1,14 @@
 # HEU (CA)
 
-HEU (CA) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Vancouver on Sat, 5 Sept 2026.
+HEU (CA) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
 
-HEU (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 32 sets logged across Vancouver. Often billed alongside Behrad Tehrani, Marist and C-Star. Next up: TBA, Vancouver on Sat 5 Sept.
+HEU (CA) is a techno and industrial artist based in Canada, tracked on soundcheck, with 33 sets logged across Vancouver. Often billed alongside Behrad Tehrani, DK PAU and Marist. Next up: TBA - 1201 FRANKLIN ST, Vancouver on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | TBA - 1201 FRANKLIN ST | Vancouver |
 | Sat, 5 Sept 2026 | TBA | Vancouver |
 
 ## Recently played
@@ -23,6 +24,6 @@ HEU (CA) is a techno and industrial artist based in Canada, tracked on soundchec
 
 ## Shares bills with
 
-Behrad Tehrani, Marist, C-Star
+Behrad Tehrani, DK PAU, Marist
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heu-ca/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heu-ca/)*

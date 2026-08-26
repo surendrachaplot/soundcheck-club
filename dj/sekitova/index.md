@@ -1,6 +1,6 @@
 # Sekitova
 
-Sekitova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 18 Sept 2026.
+Sekitova is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 18 Sept 2026.
 
 Sekitova is a house and techno artist based in Japan, tracked on soundcheck, with 145 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), okadada and AMANE. Next up: ZEROTOKYO, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sekitova is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 FELINE (JP), okadada, AMANE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sekitova/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sekitova/)*

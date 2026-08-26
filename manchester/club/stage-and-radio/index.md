@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Elevation presents: Toddz" on Fri, 28 Aug 2026.
+Stage and Radio is a music venue in Manchester with 24 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Elevation presents: Toddz" on Fri, 28 Aug 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including adamine, AJ Jonesy, b_d (UK) and Balgi and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 24 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 21 upcoming
 | Fri, 4 Sept 2026 | Clockwork |  |
 | Sat, 5 Sept 2026 | Cinco Shades: RUSSKE & Special Guests | Jentzen |
 | Sat, 5 Sept 2026 | MACBLACK presents |  |
-| Fri, 11 Sept 2026 | KXV-HARDWIRED |  |
+| Sat, 5 Sept 2026 | BKR EVENTS x LBC EVENTS |  |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

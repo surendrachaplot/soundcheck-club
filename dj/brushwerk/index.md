@@ -1,6 +1,6 @@
 # Brushwerk
 
-Brushwerk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Phoenix Landing, Boston on Wed, 26 Aug 2026.
+Brushwerk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Phoenix Landing, Boston on Wed, 26 Aug 2026.
 
 Brushwerk is a house and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside Alex Slater, Màrelle and Your Friend Brett. Next up: Phoenix Landing, Boston on Wed 26 Aug.
 
@@ -18,4 +18,4 @@ Brushwerk is a house and techno artist based in United States of America, tracke
 
 Alex Slater, Màrelle, Your Friend Brett
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brushwerk/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brushwerk/)*

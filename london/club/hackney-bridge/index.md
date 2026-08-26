@@ -1,6 +1,6 @@
 # Hackney Bridge
 
-Hackney Bridge is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Habibi Funk & Friends — Open Air Weekender in Hackney Wick (Bank Holiday Weekend)" on Sat, 29 Aug 2026.
+Hackney Bridge is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Habibi Funk & Friends — Open Air Weekender in Hackney Wick (Bank Holiday Weekend)" on Sat, 29 Aug 2026.
 
 Hackney Bridge is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Alo3, blissy e, Chedda Bred and CHEZA LUCINA and 2 more. Browse upcoming dates, start times and who's playing. Units 1-28, Echo Building, E Bay Ln, London E15 2SJ.
 
@@ -18,4 +18,4 @@ Hackney Bridge is a music venue in London listed on soundcheck. 5 upcoming night
 
 Units 1-28, Echo Building, E Bay Ln, London E15 2SJ, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hackney-bridge/)*

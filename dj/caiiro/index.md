@@ -1,6 +1,6 @@
 # Caiiro
 
-Caiiro is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 28 Aug 2026.
+Caiiro is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 28 Aug 2026.
 
 Caiiro is an afro house and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Bali and Bangkok and 21 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: Bolivar Beach Bar, Athens on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Caiiro is an afro house and house artist tracked on soundcheck, with 71 sets log
 
 Enoo Napa, Da Capo, Van Zand
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*

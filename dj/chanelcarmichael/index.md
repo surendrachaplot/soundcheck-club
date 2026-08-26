@@ -1,6 +1,6 @@
 # Chanel Carmichael
 
-Chanel Carmichael is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Ramona, Manchester on Sat, 29 Aug 2026.
+Chanel Carmichael is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ramona, Manchester on Sat, 29 Aug 2026.
 
 Chanel Carmichael is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Ibiza, Liverpool, London and Malta and 1 more. Often billed alongside Saffron Stone, AJ Christou and Adam Locke. Next up: Ramona, Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Chanel Carmichael is a house and tech house artist based in United Kingdom, trac
 
 Saffron Stone, AJ Christou, Adam Locke
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chanelcarmichael/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chanelcarmichael/)*

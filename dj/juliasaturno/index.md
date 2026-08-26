@@ -1,6 +1,6 @@
 # Julia Saturno
 
-Julia Saturno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Julia Saturno is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Julia Saturno is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside CHAOS!, Lotusoph and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Julia Saturno is a techno and house artist based in United States of America, tr
 
 CHAOS!, Lotusoph, SATURNSARii
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasaturno/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasaturno/)*

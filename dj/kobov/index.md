@@ -1,6 +1,6 @@
 # KOBOV
 
-KOBOV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Roxy, Prague on Sat, 29 Aug 2026.
+KOBOV is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Roxy, Prague on Sat, 29 Aug 2026.
 
 KOBOV is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 21 sets logged across Prague. Often billed alongside Paul Krist, NONSENSE (CZ) and Hugorieri. Next up: Roxy, Prague on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ KOBOV is a techno and trance artist based in Czech Republic, tracked on soundche
 
 Paul Krist, NONSENSE (CZ), Hugorieri
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobov/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobov/)*

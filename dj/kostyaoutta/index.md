@@ -1,13 +1,14 @@
 # Kostya Outta
 
-Kostya Outta is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - SECRET + AFTER PARTY @ TIGULLIO, Malta on Sat, 5 Sept 2026.
+Kostya Outta is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Paper, Seoul on Fri, 28 Aug 2026.
 
-Kostya Outta is a progressive house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Madrid, Malaga and Malta and 8 more. Often billed alongside Alísha, Angelo Mike and Bryan Wolf Ear. Next up: TBA - SECRET + AFTER PARTY @ TIGULLIO, Malta on Sat 5 Sept.
+Kostya Outta is a progressive house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Madrid, Malaga and Malta and 9 more. Often billed alongside Alísha, Angelo Mike and Bryan Wolf Ear. Next up: Paper, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Paper | Seoul |
 | Sat, 5 Sept 2026 | TBA - SECRET + AFTER PARTY @ TIGULLIO | Malta |
 | Fri, 23 Oct 2026 | The Flying Dutchman Café | Amsterdam |
 
@@ -26,4 +27,4 @@ Kostya Outta is a progressive house and techno artist tracked on soundcheck, wit
 
 Alísha, Angelo Mike, Bryan Wolf Ear
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*

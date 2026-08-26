@@ -1,6 +1,6 @@
 # Chris Stassy
 
-Chris Stassy is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Chris Stassy is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 Chris Stassy is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Chris Stassy is a house and techno artist tracked on soundcheck, with 279 sets l
 
 Jamie Jones, Joseph Capriati, Marco Carola
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

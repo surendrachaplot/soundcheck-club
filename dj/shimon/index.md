@@ -1,6 +1,6 @@
 # Shimon
 
-Shimon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Shimon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Shimon is a house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Geneva and Hamburg and 6 more. Often billed alongside Farry, Edouard! and Benny L. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Shimon is a house and techno artist tracked on soundcheck, with 39 sets logged a
 
 Farry, Edouard!, Benny L
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon/)*

@@ -1,6 +1,6 @@
 # Catu Diosis
 
-Catu Diosis is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at La Gravière, Geneva on Fri, 28 Aug 2026.
+Catu Diosis is a Bass and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Gravière, Geneva on Fri, 28 Aug 2026.
 
 Catu Diosis is a bass and afro tech artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Berlin and Bristol and 9 more. Often billed alongside Rafush, De Schuurman and Assyouti. Next up: La Gravière, Geneva on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Catu Diosis is a bass and afro tech artist tracked on soundcheck, with 35 sets l
 
 Rafush, De Schuurman, Assyouti
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*

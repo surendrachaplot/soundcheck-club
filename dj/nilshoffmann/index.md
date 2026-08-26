@@ -1,13 +1,14 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Westlight Rooftop at The William Vale, New York City on Fri, 18 Sept 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Echostage, Washington DC on Sat, 29 Aug 2026.
 
-Nils Hoffmann is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 84 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Westlight Rooftop at The William Vale, Newyorkcity on Fri 18 Sept.
+Nils Hoffmann is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Echostage, Washingtondc on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | Echostage | Washington DC |
 | Fri, 18 Sept 2026 | Westlight Rooftop at The William Vale | New York City |
 | Sat, 19 Sept 2026 | ZeyZey | Miami |
 
@@ -26,4 +27,4 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, tra
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

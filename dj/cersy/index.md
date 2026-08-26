@@ -1,6 +1,6 @@
 # Cersy
 
-Cersy is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Bar Shrimp, Manchester on Sun, 30 Aug 2026.
+Cersy is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Shrimp, Manchester on Sun, 30 Aug 2026.
 
 Cersy is a techno and bass artist tracked on soundcheck, with 78 sets logged across Bristol, Glasgow, Leeds and Liverpool and 2 more. Often billed alongside Allius, GFA and Kop-Z. Next up: Bar Shrimp, Manchester on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Cersy is a techno and bass artist tracked on soundcheck, with 78 sets logged acr
 
 Allius, GFA, Kop-Z
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cersy/)*

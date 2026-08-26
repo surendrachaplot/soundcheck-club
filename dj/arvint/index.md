@@ -1,6 +1,6 @@
 # Arvin T
 
-Arvin T is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Signal, New York City on Fri, 28 Aug 2026.
+Arvin T is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Signal, New York City on Fri, 28 Aug 2026.
 
 Arvin T is a techno and house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Berlin, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Andi, Eli Escobar and G I N A. Next up: Signal, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Arvin T is a techno and house artist based in United States of America, tracked 
 
 Andi, Eli Escobar, G I N A
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arvint/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arvint/)*

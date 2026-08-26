@@ -1,6 +1,6 @@
 # the misprints
 
-the misprints is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Vertical Berlin, Berlin on Sat, 29 Aug 2026.
+the misprints is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vertical Berlin, Berlin on Sat, 29 Aug 2026.
 
 the misprints is a house and disco artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Pommes, Sasha Tense and Schlecksi. Next up: Vertical Berlin, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ the misprints is a house and disco artist tracked on soundcheck, with 4 sets log
 
 Pommes, Sasha Tense, Schlecksi
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themisprints/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/themisprints/)*

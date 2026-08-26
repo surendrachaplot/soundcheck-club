@@ -1,6 +1,6 @@
 # Ipse
 
-Ipse is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "AROMA Summer Closing" on Sat, 26 Sept 2026.
+Ipse is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "AROMA Summer Closing" on Sat, 26 Sept 2026.
 
 Ipse is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Vor Dem Schlesischen Tor 2a, Berlin, 10997, Germany.
 
@@ -14,4 +14,4 @@ Ipse is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse u
 
 Vor Dem Schlesischen Tor 2a, Berlin, 10997, Germany, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ipse/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ipse/)*

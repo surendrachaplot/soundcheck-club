@@ -1,6 +1,6 @@
 # Mark Radford
 
-Mark Radford is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Sector 57, Birmingham on Sat, 29 Aug 2026.
+Mark Radford is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sector 57, Birmingham on Sat, 29 Aug 2026.
 
 Mark Radford is a deep house and house artist tracked on soundcheck, with 117 sets logged across Birmingham and London. Often billed alongside Lance Morgan, Shenin Amara and B3. Next up: Sector 57, Birmingham on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mark Radford is a deep house and house artist tracked on soundcheck, with 117 se
 
 Lance Morgan, Shenin Amara, B3
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*

@@ -1,6 +1,6 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "303 pres JNJS / Bttologic" on Thu, 3 Sept 2026.
+303 Audiophile Bar is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "303 pres JNJS / Bttologic" on Thu, 3 Sept 2026.
 
 303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including 100 faces, _Gabo, Alex Garcia and Angel Mellado and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

@@ -1,6 +1,6 @@
 # Kelly Cappuccio
 
-Kelly Cappuccio is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dunes, Portland on Wed, 26 Aug 2026.
+Kelly Cappuccio is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dunes, Portland on Wed, 26 Aug 2026.
 
 Kelly Cappuccio is a tech house and house artist tracked on soundcheck, with 5 sets logged across Naples and Portland. Often billed alongside Alex Bohemien, Broosk and Flour. Next up: Dunes, Portland on Wed 26 Aug.
 
@@ -21,4 +21,4 @@ Kelly Cappuccio is a tech house and house artist tracked on soundcheck, with 5 s
 
 Alex Bohemien, Broosk, Flour
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellycappuccio/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellycappuccio/)*

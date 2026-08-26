@@ -1,6 +1,6 @@
 # Clayton Fox
 
-Clayton Fox is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+Clayton Fox is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
 Clayton Fox is a house and hip-hop artist tracked on soundcheck, with 4 sets logged across Melbourne and Tokyo. Often billed alongside J-Slyde, Manoy and Mitchell Gee. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Clayton Fox is a house and hip-hop artist tracked on soundcheck, with 4 sets log
 
 J-Slyde, Manoy, Mitchell Gee
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claytonfox/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claytonfox/)*

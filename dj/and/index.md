@@ -1,6 +1,6 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at E1, London on Fri, 11 Sept 2026.
+AnD is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at E1, London on Fri, 11 Sept 2026.
 
 AnD is a techno and industrial artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 43 more. Often billed alongside CLTX, LESSSS and Cynthia Spiering. Next up: E1, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ AnD is a techno and industrial artist tracked on soundcheck, with 139 sets logge
 
 CLTX, LESSSS, Cynthia Spiering
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*

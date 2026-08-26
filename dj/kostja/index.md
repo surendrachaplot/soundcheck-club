@@ -1,6 +1,6 @@
 # KOSTJA
 
-KOSTJA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 30 Aug 2026.
+KOSTJA is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lokschuppen Berlin, Berlin on Sun, 30 Aug 2026.
 
 KOSTJA is a trance and techno artist tracked on soundcheck, with 6 sets logged across Berlin and Munich. Often billed alongside Limoncello, BENITO (DE) and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ KOSTJA is a trance and techno artist tracked on soundcheck, with 6 sets logged a
 
 Limoncello, BENITO (DE), 4NOUK
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostja/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostja/)*

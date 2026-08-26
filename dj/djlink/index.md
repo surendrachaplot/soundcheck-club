@@ -1,6 +1,6 @@
 # DJ Link
 
-DJ Link is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
+DJ Link is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
 
 DJ Link is a techno artist based in Portugal, tracked on soundcheck, with 3 sets logged across Lisbon and Porto. Often billed alongside A.Paul, CACIID and Claudio Gomez. Next up: NADA Lisbon, Lisbon on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ DJ Link is a techno artist based in Portugal, tracked on soundcheck, with 3 sets
 
 A.Paul, CACIID, Claudio Gomez
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlink/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlink/)*

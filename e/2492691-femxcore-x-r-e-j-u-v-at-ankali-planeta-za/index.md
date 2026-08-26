@@ -1,6 +1,6 @@
 # FEMXCORE x R E J U V at Ankali & Planeta Za
 
-FEMXCORE x R E J U V at Ankali & Planeta Za on Sat 29 Aug, Prague. 6 acts on the bill: Big Lil, DARDANELLA, MAXImum and Mother Menace and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+FEMXCORE x R E J U V at Ankali & Planeta Za on Sat 29 Aug, Prague. 6 acts on the bill: Big Lil, DARDANELLA, MAXImum and Mother Menace and 2 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

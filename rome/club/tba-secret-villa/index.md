@@ -1,6 +1,6 @@
 # TBA - Secret Villa 
 
-TBA - Secret Villa  is a music venue in Rome with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "FREECANDÓ presents: Vera / Nathalie Seres / sakali / Silvente" on Sat, 19 Sept 2026.
+TBA - Secret Villa  is a music venue in Rome with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "FREECANDÓ presents: Vera / Nathalie Seres / sakali / Silvente" on Sat, 19 Sept 2026.
 
 TBA - Secret Villa  is a music venue in Rome listed on soundcheck. 1 upcoming night, with line-ups including Nathalie Seres, sakali, Silvente and Vera. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret Villa  is a music venue in Rome listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | FREECANDÓ presents: Vera / Nathalie Seres / sakali / Silvente | Nathalie Seres, Silvente, Vera, sakali |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-secret-villa/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-secret-villa/)*

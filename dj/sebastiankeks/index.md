@@ -1,6 +1,6 @@
 # Sebastian Keks
 
-Sebastian Keks is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+Sebastian Keks is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
 Sebastian Keks is a techno and minimal artist based in Germany, tracked on soundcheck, with 20 sets logged across Belgrade, Berlin, Bucharest and London and 2 more. Often billed alongside DJ Jordan, GHOST DE and ROPE. Next up: ://about blank, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sebastian Keks is a techno and minimal artist based in Germany, tracked on sound
 
 DJ Jordan, GHOST DE, ROPE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankeks/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankeks/)*

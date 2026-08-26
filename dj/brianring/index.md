@@ -1,6 +1,6 @@
 # Brian Ring
 
-Brian Ring is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Brian Ring is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 Brian Ring is a disco and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Cork, Dublin and Stuttgart. Often billed alongside Jakob Mäder, Schlecksi and onlylou. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Brian Ring is a disco and house artist based in Germany, tracked on soundcheck, 
 
 Jakob Mäder, Schlecksi, onlylou
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brianring/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brianring/)*

@@ -1,6 +1,6 @@
 # Ms Hedi
 
-Ms Hedi is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Ecstatic Dance Music (pres. by 1mandisco)" on Fri, 25 Sept 2026.
+Ms Hedi is a music venue in Hamburg with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Ecstatic Dance Music (pres. by 1mandisco)" on Fri, 25 Sept 2026.
 
 Ms Hedi is a music venue in Hamburg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Landing Bridge 10; 20359 Hamburg; Germany.
 
@@ -14,4 +14,4 @@ Ms Hedi is a music venue in Hamburg listed on soundcheck. 1 upcoming night. Brow
 
 Landing Bridge 10; 20359 Hamburg; Germany, Hamburg
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-hedi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-hedi/)*

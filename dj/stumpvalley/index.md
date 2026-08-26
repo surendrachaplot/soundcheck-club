@@ -1,14 +1,15 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Palais Mascotte, Zurich on Sat, 29 Aug 2026.
+Stump Valley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Palais Mascotte, Zurich on Sat, 29 Aug 2026.
 
-Stump Valley is a house and disco artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Palais Mascotte, Zurich on Sat 29 Aug.
+Stump Valley is a house and disco artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Palais Mascotte, Zurich on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Palais Mascotte | Zurich |
+| Fri, 4 Sept 2026 | LIVE EVIL | Munich |
 | Fri, 11 Sept 2026 | Klub Werkstatt | Copenhagen |
 
 ## Recently played
@@ -26,4 +27,4 @@ Stump Valley is a house and disco artist tracked on soundcheck, with 70 sets log
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

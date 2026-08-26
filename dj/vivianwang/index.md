@@ -1,6 +1,6 @@
 # Vivian Wang
 
-Vivian Wang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
+Vivian Wang is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
 
 Vivian Wang is a house and techno artist based in United States of America, tracked on soundcheck, with 100 sets logged across Amsterdam, Buenosaires, Chicago and Detroit and 6 more. Often billed alongside Asha Jasz, Devoye and J. Richards. Next up: Dead Letter No. 9, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vivian Wang is a house and techno artist based in United States of America, trac
 
 Asha Jasz, Devoye, J. Richards
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianwang/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianwang/)*

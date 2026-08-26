@@ -1,6 +1,6 @@
 # EVIL THWEK
 
-EVIL THWEK is a Electro and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Greyhound, London on Sat, 19 Sept 2026.
+EVIL THWEK is a Electro and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Greyhound, London on Sat, 19 Sept 2026.
 
 EVIL THWEK is an electro and breakcore artist based in Turkey, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Takenbymarshall, TorbM and it_dont_Matt.er. Next up: The Greyhound, London on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ EVIL THWEK is an electro and breakcore artist based in Turkey, tracked on soundc
 
 Takenbymarshall, TorbM, it_dont_Matt.er
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilthwek/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evilthwek/)*

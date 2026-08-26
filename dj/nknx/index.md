@@ -1,6 +1,6 @@
 # NKNX
 
-NKNX is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Le Bain, New York City on Thu, 27 Aug 2026.
+NKNX is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Bain, New York City on Thu, 27 Aug 2026.
 
 NKNX is a house and deep house artist tracked on soundcheck, with 12 sets logged across Barcelona and Newyorkcity. Often billed alongside Mike Nasty, D3NIM and Eli Escobar. Next up: Le Bain, Newyorkcity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ NKNX is a house and deep house artist tracked on soundcheck, with 12 sets logged
 
 Mike Nasty, D3NIM, Eli Escobar
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nknx/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nknx/)*

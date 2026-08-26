@@ -1,6 +1,6 @@
 # Duskee
 
-Duskee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Duskee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Duskee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Auckland and Bali and 17 more. Often billed alongside Monrroe, Emily Makis and GLXY. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Duskee is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Monrroe, Emily Makis, GLXY
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duskee/)*

@@ -1,6 +1,6 @@
 # Kluch
 
-Kluch is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+Kluch is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
 Kluch is a house and minimal artist tracked on soundcheck, with 12 sets logged across Amsterdam and Istanbul. Often billed alongside Seko, Zip and Aron Friedman. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kluch is a house and minimal artist tracked on soundcheck, with 12 sets logged a
 
 Seko, Zip, Aron Friedman
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kluch/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kluch/)*

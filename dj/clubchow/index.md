@@ -1,13 +1,14 @@
 # Club Chow
 
-Club Chow is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Epiphany Center for the Arts, Chicago on Sat, 19 Sept 2026.
+Club Chow is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Chicago Eagle, Chicago on Sat, 12 Sept 2026.
 
-Club Chow is a house and techno artist tracked on soundcheck, with 66 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Harry Cross, Madeline (Chi) and Mister Hoochiemama. Next up: Epiphany Center for the Arts, Chicago on Sat 19 Sept.
+Club Chow is a house and techno artist tracked on soundcheck, with 67 sets logged across Boston, Chicago, Losangeles and Montreal and 4 more. Often billed alongside Harry Cross, Madeline (Chi) and Mister Hoochiemama. Next up: Chicago Eagle, Chicago on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Chicago Eagle | Chicago |
 | Sat, 19 Sept 2026 | Epiphany Center for the Arts | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ Club Chow is a house and techno artist tracked on soundcheck, with 66 sets logge
 
 Harry Cross, Madeline (Chi), Mister Hoochiemama
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubchow/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubchow/)*

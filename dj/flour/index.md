@@ -1,6 +1,6 @@
 # Flour
 
-Flour is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
+Flour is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
 
 Flour is a techno and hardcore artist based in Italy, tracked on soundcheck, with 17 sets logged across Amsterdam, Antwerp, Berlin and London and 3 more. Often billed alongside Rispoli Benito, Ellen Trenn and Lucas Campagna. Next up: Garage Klub, Antwerp on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Flour is a techno and hardcore artist based in Italy, tracked on soundcheck, wit
 
 Rispoli Benito, Ellen Trenn, Lucas Campagna
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flour/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flour/)*

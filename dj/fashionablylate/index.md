@@ -1,13 +1,14 @@
 # Fashionably Late
 
-Fashionably Late is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
+Fashionably Late is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
 
-Fashionably Late is a house and techno artist based in Australia, tracked on soundcheck, with 28 sets logged across Sydney. Often billed alongside Deverence, Hotel 84 and PIX. Next up: TBA, Sydney on Sat 19 Sept.
+Fashionably Late is a house and techno artist based in Australia, tracked on soundcheck, with 29 sets logged across Sydney. Often billed alongside Deverence, Hotel 84 and PIX. Next up: Chinese Laundry, Sydney on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | Chinese Laundry | Sydney |
 | Sat, 19 Sept 2026 | TBA | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fashionably Late is a house and techno artist based in Australia, tracked on sou
 
 Deverence, Hotel 84, PIX
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*

@@ -1,8 +1,8 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 29 Aug 2026.
+CHIDA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 29 Aug 2026.
 
-CHIDA is a house and techno artist tracked on soundcheck, with 180 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 8 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 29 Aug.
+CHIDA is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 8 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CHIDA is a house and techno artist tracked on soundcheck, with 180 sets logged a
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Sat, 12 Sept 2026 | WOMB | Tokyo |
+| Fri, 25 Sept 2026 | Numm | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CHIDA is a house and techno artist tracked on soundcheck, with 180 sets logged a
 
 YAMARCHY, FFAN, FU (JP)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*

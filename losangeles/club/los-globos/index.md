@@ -1,6 +1,6 @@
 # Los Globos
 
-Los Globos is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "A Club Called Rhonda with DJ Minx, DJ Holographic, Anastazja, Colored Craig" on Fri, 25 Sept 2026.
+Los Globos is a music venue in Los Angeles with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "A Club Called Rhonda with DJ Minx, DJ Holographic, Anastazja, Colored Craig" on Fri, 25 Sept 2026.
 
 Los Globos is a music venue in Losangeles listed on soundcheck. 3 upcoming nights, with line-ups including Anastazja, bahar khadem, Colored Craig and Danny Daze and 2 more. Browse upcoming dates, start times and who's playing. 3040 W Sunset Blvd Los Angeles, CA 90026.
 
@@ -16,4 +16,4 @@ Los Globos is a music venue in Losangeles listed on soundcheck. 3 upcoming night
 
 3040 W Sunset Blvd Los Angeles, CA 90026, Los Angeles
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-globos/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/los-globos/)*

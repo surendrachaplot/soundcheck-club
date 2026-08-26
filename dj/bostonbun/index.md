@@ -1,6 +1,6 @@
 # Boston Bun
 
-Boston Bun is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
+Boston Bun is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
 
 Boston Bun is a house and disco artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Copenhagen and London and 5 more. Often billed alongside Breakbot, Nathalie Duchêne and Agathe Mougin. Next up: Cabaret Sauvage, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Boston Bun is a house and disco artist tracked on soundcheck, with 35 sets logge
 
 Breakbot, Nathalie Duchêne, Agathe Mougin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bostonbun/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bostonbun/)*

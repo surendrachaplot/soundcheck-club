@@ -1,6 +1,6 @@
 # Poynting
 
-Poynting is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Phoenix Bar, Dublin on Sat, 19 Sept 2026.
+Poynting is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Phoenix Bar, Dublin on Sat, 19 Sept 2026.
 
 Poynting is an industrial and ebm artist based in Ireland, tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside Bull Horris, Ancient Methods and Cathy Flynn. Next up: The Phoenix Bar, Dublin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Poynting is an industrial and ebm artist based in Ireland, tracked on soundcheck
 
 Bull Horris, Ancient Methods, Cathy Flynn
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poynting/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poynting/)*

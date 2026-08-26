@@ -1,6 +1,6 @@
 # Flavio (CH)
 
-Flavio (CH) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Cross Roppongi, Tokyo on Fri, 28 Aug 2026.
+Flavio (CH) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cross Roppongi, Tokyo on Fri, 28 Aug 2026.
 
 Flavio (CH) is a minimal and house artist based in Switzerland, tracked on soundcheck, with 35 sets logged across Bucharest, Istanbul, Sanfrancisco and Tokyo and 1 more. Often billed alongside Aline (CH), Aron (CH) and Alci. Next up: Cross Roppongi, Tokyo on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Flavio (CH) is a minimal and house artist based in Switzerland, tracked on sound
 
 Aline (CH), Aron (CH), Alci
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flavio-ch/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flavio-ch/)*

@@ -1,6 +1,6 @@
 # Der Kegel
 
-Der Kegel is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "Scrap Yard" on Sat, 29 Aug 2026.
+Der Kegel is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Scrap Yard" on Sat, 29 Aug 2026.
 
 Der Kegel is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin.
 
@@ -14,4 +14,4 @@ Der Kegel is a music venue in Berlin listed on soundcheck. 1 upcoming night. Bro
 
 Revaler Str. 99, 10245 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-kegel/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-kegel/)*

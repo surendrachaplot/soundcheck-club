@@ -1,6 +1,6 @@
 # Tempo___k
 
-Tempo___k is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "I'M IN LOVE DAYPARTY" on Sat, 29 Aug 2026.
+Tempo___k is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "I'M IN LOVE DAYPARTY" on Sat, 29 Aug 2026.
 
 Tempo___k is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including ISABELL (1) and Sebastian Habben. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tempo___k is a music venue in Cologne listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | I'M IN LOVE DAYPARTY | ISABELL (1), Sebastian Habben |
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tempo-k/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tempo-k/)*

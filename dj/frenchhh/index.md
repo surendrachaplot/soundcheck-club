@@ -1,6 +1,6 @@
 # Frenchhh
 
-Frenchhh is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 45 London, London on Fri, 28 Aug 2026.
+Frenchhh is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 45 London, London on Fri, 28 Aug 2026.
 
 Frenchhh is a house and deep house artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Elliot Schooling, Liam Palmer and Tom Da Silva. Next up: 45 London, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Frenchhh is a house and deep house artist tracked on soundcheck, with 12 sets lo
 
 Elliot Schooling, Liam Palmer, Tom Da Silva
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchhh/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frenchhh/)*

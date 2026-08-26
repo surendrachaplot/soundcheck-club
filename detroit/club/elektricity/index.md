@@ -1,6 +1,6 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 19 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "NATE BAND" on Fri, 28 Aug 2026.
+Elektricity is a music venue in Detroit with 19 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "NATE BAND" on Fri, 28 Aug 2026.
 
 Elektricity is a music venue in Detroit listed on soundcheck. 19 upcoming nights, with line-ups including ARCS, Dantiez, DJ MANDY and Dombresky and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 19 upcoming nights
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

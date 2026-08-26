@@ -1,6 +1,6 @@
 # Kosmik
 
-Kosmik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
+Kosmik is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Airliner, Los Angeles on Thu, 27 Aug 2026.
 
 Kosmik is a house and techno artist tracked on soundcheck, with 19 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Nomadico, B.Rod and Dave Aju. Next up: The Airliner, Losangeles on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Kosmik is a house and techno artist tracked on soundcheck, with 19 sets logged a
 
 Nomadico, B.Rod, Dave Aju
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmik-us/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kosmik-us/)*

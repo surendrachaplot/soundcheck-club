@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Club Roxy Two Year Anniversary" on Fri, 28 Aug 2026.
+The Lido is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Club Roxy Two Year Anniversary" on Fri, 28 Aug 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Parmis, Roxy Motorola and widdows95. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -15,4 +15,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, 
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

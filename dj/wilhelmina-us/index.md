@@ -1,14 +1,15 @@
 # WILHELMINA
 
-WILHELMINA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mood Ring, New York City on Fri, 4 Sept 2026.
+WILHELMINA is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mood Ring, New York City on Fri, 4 Sept 2026.
 
-WILHELMINA is a club and techno artist based in Philippines, tracked on soundcheck, with 36 sets logged across Chicago, Houston, Melbourne and Newyorkcity and 4 more. Often billed alongside Castillonaire, rogue.wav and EMZ!. Next up: Mood Ring, Newyorkcity on Fri 4 Sept.
+WILHELMINA is a club and techno artist based in Philippines, tracked on soundcheck, with 37 sets logged across Chicago, Houston, Melbourne and Newyorkcity and 4 more. Often billed alongside Castillonaire, rogue.wav and EMZ!. Next up: Mood Ring, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Mood Ring | New York City |
+| Sun, 13 Sept 2026 | Schuylkill Banks Lawn | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ WILHELMINA is a club and techno artist based in Philippines, tracked on soundche
 
 Castillonaire, rogue.wav, EMZ!
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilhelmina-us/)*

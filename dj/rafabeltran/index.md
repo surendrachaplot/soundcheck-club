@@ -1,6 +1,6 @@
 # Rafa Beltran
 
-Rafa Beltran is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
+Rafa Beltran is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
 
 Rafa Beltran is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Magnolia Coronado, Bruno Salfi and Dj Fucci. Next up: Brutal Mx, Mexicocity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Rafa Beltran is a techno and hardcore artist based in Mexico, tracked on soundch
 
 Magnolia Coronado, Bruno Salfi, Dj Fucci
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabeltran/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafabeltran/)*

@@ -1,6 +1,6 @@
 # Michel Sacher
 
-Michel Sacher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Nordstern, Basel on Fri, 28 Aug 2026.
+Michel Sacher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Nordstern, Basel on Fri, 28 Aug 2026.
 
 Michel Sacher is a techno and house artist tracked on soundcheck, with 38 sets logged across Basel, Ibiza and Zurich. Often billed alongside Kaleiko, Sebastian Konrad and Comzy. Next up: Nordstern, Basel on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Michel Sacher is a techno and house artist tracked on soundcheck, with 38 sets l
 
 Kaleiko, Sebastian Konrad, Comzy
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelsacher/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelsacher/)*

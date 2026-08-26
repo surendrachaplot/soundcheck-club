@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader" on Thu, 3 Sept 2026.
+Fuchs2 is a music venue in Prague with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader" on Thu, 3 Sept 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with line-ups including Adamatron, aláya, Alfred Czital and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -17,10 +17,10 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming nights, with
 | Sat, 26 Sept 2026 | X-RAY: Roll Deep | Dj Alyaz, Double J, JohnyM, Manga Saint Hilare, Noir, Riko Dan, Sir Free, fahell |
 | Sat, 3 Oct 2026 | GEGEN PRAGUE |  |
 | Sat, 10 Oct 2026 | mʊdʌki INVITES Samurai Breaks | Dj Alyaz, Samurai Breaks, mʊdʌki |
-| Tue, 27 Oct 2026 | EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD | AVHD, GEE LEE, Paluma Sound, Shaolin Cowboy |
+| Tue, 27 Oct 2026 | EELF Presents - Prague (svátek Dne nezávislosti): Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD | AVHD, GEE LEE, Paluma Sound, Shaolin Cowboy |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

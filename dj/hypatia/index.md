@@ -1,6 +1,6 @@
 # Hypatia
 
-Hypatia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Milandia Greifensee, Zurich on Sat, 5 Sept 2026.
+Hypatia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Milandia Greifensee, Zurich on Sat, 5 Sept 2026.
 
 Hypatia is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Leipzig and Zurich. Often billed alongside Sarah for Sure, Clarisse and Inverse Element. Next up: Milandia Greifensee, Zurich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hypatia is a techno and industrial artist tracked on soundcheck, with 11 sets lo
 
 Sarah for Sure, Clarisse, Inverse Element
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypatia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypatia/)*

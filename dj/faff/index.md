@@ -1,13 +1,14 @@
 # FAFF
 
-FAFF is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+FAFF is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Roses of Elagabalus, London on Thu, 27 Aug 2026.
 
-FAFF is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: Southwark Park, London on Sun 30 Aug.
+FAFF is a house and techno artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: The Roses of Elagabalus, London on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | The Roses of Elagabalus | London |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ FAFF is a house and techno artist tracked on soundcheck, with 106 sets logged ac
 
 Angel D'lite, Michelle Manetti, Marie Malarie
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*

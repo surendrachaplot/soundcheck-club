@@ -1,6 +1,6 @@
 # CIOZ
 
-CIOZ is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Klunkerkranich, Berlin on Thu, 27 Aug 2026.
+CIOZ is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Klunkerkranich, Berlin on Thu, 27 Aug 2026.
 
 CIOZ is a house and techno artist based in Italy, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: Klunkerkranich, Berlin on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ CIOZ is a house and techno artist based in Italy, tracked on soundcheck, with 55
 
 Oliver Koletzki, Kotoe, Madmotormiquel
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*

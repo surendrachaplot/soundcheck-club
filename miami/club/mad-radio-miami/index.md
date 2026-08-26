@@ -1,6 +1,6 @@
 # Mad Radio Miami
 
-Mad Radio Miami is a music venue in Miami with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "FRECUENCIA: NACHO KAHN / MILAGROS ESPADA / GIANLUCA GIACOMAZZI / marta aramini" on Wed, 26 Aug 2026.
+Mad Radio Miami is a music venue in Miami with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FRECUENCIA: NACHO KAHN / MILAGROS ESPADA / GIANLUCA GIACOMAZZI / marta aramini" on Wed, 26 Aug 2026.
 
 Mad Radio Miami is a music venue in Miami listed on soundcheck. 4 upcoming nights, with line-ups including Chuck Daniels, Israel Sunshine and marta aramini. Browse upcoming dates, start times and who's playing. 7700 Biscayne Blvd, Miami, FL 33138.
 
@@ -17,4 +17,4 @@ Mad Radio Miami is a music venue in Miami listed on soundcheck. 4 upcoming night
 
 7700 Biscayne Blvd, Miami, FL 33138, Miami
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-radio-miami/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/mad-radio-miami/)*

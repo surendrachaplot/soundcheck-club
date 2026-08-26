@@ -1,6 +1,6 @@
 # yerik (US)
 
-yerik (US) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at 3oz Dive Club, San Diego on Sun, 6 Sept 2026.
+yerik (US) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 3oz Dive Club, San Diego on Sun, 6 Sept 2026.
 
 yerik (US) is a tech house and house artist tracked on soundcheck, with 3 sets logged across Losangeles and Sandiego. Often billed alongside Damien Shane. Next up: 3oz Dive Club, Sandiego on Sun 6 Sept.
 
@@ -19,4 +19,4 @@ yerik (US) is a tech house and house artist tracked on soundcheck, with 3 sets l
 
 Damien Shane
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yerikus/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yerikus/)*

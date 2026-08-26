@@ -1,6 +1,6 @@
 # DJ Caramelstick
 
-DJ Caramelstick is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Loco Klub, Bristol on Sat, 17 Oct 2026.
+DJ Caramelstick is a Dubstep and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Loco Klub, Bristol on Sat, 17 Oct 2026.
 
 DJ Caramelstick is a dubstep and garage artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol. Often billed alongside Lily Huu, Azumei and IZZIT. Next up: The Loco Klub, Bristol on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ Caramelstick is a dubstep and garage artist based in United Kingdom, tracked 
 
 Lily Huu, Azumei, IZZIT
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaramelstick/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcaramelstick/)*

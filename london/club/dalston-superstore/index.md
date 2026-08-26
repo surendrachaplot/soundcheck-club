@@ -1,6 +1,6 @@
 # Dalston Superstore
 
-Dalston Superstore is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 25 Aug 2026; the next is "LUCKY DIP - QUEER HOUSE AND GARAGE" on Thu, 27 Aug 2026.
+Dalston Superstore is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "LUCKY DIP - QUEER HOUSE AND GARAGE" on Thu, 27 Aug 2026.
 
 Dalston Superstore is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Merve, Nick Clev and Sam Beach. Browse upcoming dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
 
@@ -14,4 +14,4 @@ Dalston Superstore is a music venue in London listed on soundcheck. 1 upcoming n
 
 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom, London
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*

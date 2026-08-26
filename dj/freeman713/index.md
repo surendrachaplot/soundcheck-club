@@ -1,6 +1,6 @@
 # Freeman 713
 
-Freeman 713 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
+Freeman 713 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Freeman 713 is a techno and acid artist based in United States of America, tracked on soundcheck, with 56 sets logged across Austin, Berlin, Chicago and Houston and 10 more. Often billed alongside Brick (US), FAUNA (2) and Lavender Persuasion. Next up: Underground SF, Sanfrancisco on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Freeman 713 is a techno and acid artist based in United States of America, track
 
 Brick (US), FAUNA (2), Lavender Persuasion
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freeman713/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freeman713/)*

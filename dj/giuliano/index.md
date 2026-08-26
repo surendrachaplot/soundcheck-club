@@ -1,6 +1,6 @@
 # Giuliano
 
-Giuliano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at City Hall, Barcelona on Sat, 5 Sept 2026.
+Giuliano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at City Hall, Barcelona on Sat, 5 Sept 2026.
 
 Giuliano is a house and techno artist based in Argentina, tracked on soundcheck, with 6 sets logged across Barcelona and Buenosaires. Often billed alongside Fat-P, Giuliano Lomonte and SUSØ. Next up: City Hall, Barcelona on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Giuliano is a house and techno artist based in Argentina, tracked on soundcheck,
 
 Fat-P, Giuliano Lomonte, SUSØ
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliano/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliano/)*

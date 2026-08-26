@@ -1,14 +1,15 @@
 # Glamour Cadaver
 
-Glamour Cadaver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at smartbar, Chicago on Sat, 29 Aug 2026.
+Glamour Cadaver is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at smartbar, Chicago on Sat, 29 Aug 2026.
 
-Glamour Cadaver is a techno and house artist tracked on soundcheck, with 56 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside JAXX., Ariel Zetina and Miss Twink USA. Next up: smartbar, Chicago on Sat 29 Aug.
+Glamour Cadaver is a techno and house artist tracked on soundcheck, with 57 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Ariel Zetina, JAXX. and Miss Twink USA. Next up: smartbar, Chicago on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | smartbar | Chicago |
+| Sat, 12 Sept 2026 | Chicago Eagle | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Glamour Cadaver is a techno and house artist tracked on soundcheck, with 56 sets
 
 ## Shares bills with
 
-JAXX., Ariel Zetina, Miss Twink USA
+Ariel Zetina, JAXX., Miss Twink USA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glamourcadaver/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glamourcadaver/)*

@@ -1,6 +1,6 @@
 # Matteo Racheli
 
-Matteo Racheli is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 5 Sept 2026.
+Matteo Racheli is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 5 Sept 2026.
 
 Matteo Racheli is an electro and electronica artist based in Italy, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Luval, Sherazade and Agostino Casillo. Next up: Waterhouse Studios, Amsterdam on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Matteo Racheli is an electro and electronica artist based in Italy, tracked on s
 
 Luval, Sherazade, Agostino Casillo
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoracheli/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteoracheli/)*

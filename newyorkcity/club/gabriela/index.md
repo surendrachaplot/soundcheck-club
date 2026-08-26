@@ -1,6 +1,6 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "BETTER AT NIGHT: Cosmo + Mark Ronson" on Wed, 26 Aug 2026.
+Gabriela is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "BETTER AT NIGHT: Cosmo + Mark Ronson" on Wed, 26 Aug 2026.
 
 Gabriela is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Cosmo, Cosmo (NY), Eli Escobar and Jubilee and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
@@ -17,4 +17,4 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

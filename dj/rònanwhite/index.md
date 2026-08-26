@@ -1,6 +1,6 @@
 # Rònan White
 
-Rònan White is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
+Rònan White is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
 
 Rònan White is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside Dan Jakson, ROXAN (UK) and YVI. Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
 
@@ -22,4 +22,4 @@ Rònan White is a house and techno artist based in United Kingdom, tracked on so
 
 Dan Jakson, ROXAN (UK), YVI
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rònanwhite/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rònanwhite/)*

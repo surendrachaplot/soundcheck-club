@@ -1,6 +1,6 @@
 # Enkō
 
-Enkō is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Enkō is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Enkō is a techno and house artist based in Portugal, tracked on soundcheck, with 55 sets logged across Lisbon, Lyon, Paris and Porto. Often billed alongside CRAVO, Tauer and John-E. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Enkō is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 CRAVO, Tauer, John-E
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enko/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enko/)*

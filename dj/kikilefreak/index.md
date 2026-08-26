@@ -1,8 +1,8 @@
 # Kiki LeFreak
 
-Kiki LeFreak is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at 1point4hertz, Toronto on Sat, 29 Aug 2026.
+Kiki LeFreak is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at 1point4hertz, Toronto on Sat, 29 Aug 2026.
 
-Kiki LeFreak is a house and disco artist tracked on soundcheck, with 117 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: 1point4hertz, Toronto on Sat 29 Aug.
+Kiki LeFreak is a house and disco artist tracked on soundcheck, with 119 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: 1point4hertz, Toronto on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,8 +10,10 @@ Kiki LeFreak is a house and disco artist tracked on soundcheck, with 117 sets lo
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | 1point4hertz | Toronto |
 | Mon, 7 Sept 2026 | Cherry Beach | Toronto |
+| Mon, 7 Sept 2026 | TBA - The Junction Neighbourhood  | Toronto |
 | Fri, 18 Sept 2026 | Lee's Palace | Toronto |
 | Sat, 19 Sept 2026 | Bambi's | Toronto |
+| Sat, 26 Sept 2026 | Standard Time | Toronto |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Kiki LeFreak is a house and disco artist tracked on soundcheck, with 117 sets lo
 
 Vjollca, Iced Misto, Jodie D
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*

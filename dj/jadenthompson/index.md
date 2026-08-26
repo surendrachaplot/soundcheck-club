@@ -1,6 +1,6 @@
 # Jaden Thompson
 
-Jaden Thompson is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Jaden Thompson is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Jaden Thompson is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Skream, The Martinez Brothers and Luuk van Dijk. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Jaden Thompson is a house and tech house artist tracked on soundcheck, with 109 
 
 Skream, The Martinez Brothers, Luuk van Dijk
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadenthompson/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jadenthompson/)*

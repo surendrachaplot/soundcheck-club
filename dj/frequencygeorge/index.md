@@ -1,6 +1,6 @@
 # Frequency George
 
-Frequency George is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
+Frequency George is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
 
 Frequency George is a techno and deep house artist based in Greece, tracked on soundcheck, with 18 sets logged across Amsterdam. Often billed alongside Katya Gabeli, Edann and Vasko Parisis. Next up: Shelter Amsterdam, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Frequency George is a techno and deep house artist based in Greece, tracked on s
 
 Katya Gabeli, Edann, Vasko Parisis
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frequencygeorge/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frequencygeorge/)*

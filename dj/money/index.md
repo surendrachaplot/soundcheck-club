@@ -1,6 +1,6 @@
 # Money
 
-Money is a Drum & Bass and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Money is a Drum & Bass and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 Money is a drum & bass and funk / soul artist tracked on soundcheck, with 3 sets logged across Austin and Brighton. Often billed alongside AC13, Afters and Charlie. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ Money is a drum & bass and funk / soul artist tracked on soundcheck, with 3 sets
 
 AC13, Afters, Charlie
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/money/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/money/)*

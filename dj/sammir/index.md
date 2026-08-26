@@ -1,6 +1,6 @@
 # Sammir
 
-Sammir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Zuco Roosdaal, Brussels on Sat, 5 Sept 2026.
+Sammir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Zuco Roosdaal, Brussels on Sat, 5 Sept 2026.
 
 Sammir is a house and techno artist based in Argentina, tracked on soundcheck, with 40 sets logged across Austin, Boston, Brussels and Detroit and 3 more. Often billed alongside Petar Marniku, Antiics and Bernat. Next up: Zuco Roosdaal, Brussels on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sammir is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Petar Marniku, Antiics, Bernat
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammir/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammir/)*

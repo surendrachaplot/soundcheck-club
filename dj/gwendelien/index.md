@@ -1,6 +1,6 @@
 # GWEN DE LIEN
 
-GWEN DE LIEN is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
+GWEN DE LIEN is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - BOATPARTY, Istanbul on Sun, 30 Aug 2026.
 
 GWEN DE LIEN is a house and downtempo artist based in Turkey, tracked on soundcheck, with 5 sets logged across Istanbul and Stuttgart. Often billed alongside Acid Pauli, Antares (UK) and Marius Lehnert. Next up: TBA - BOATPARTY, Istanbul on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ GWEN DE LIEN is a house and downtempo artist based in Turkey, tracked on soundch
 
 Acid Pauli, Antares (UK), Marius Lehnert
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*

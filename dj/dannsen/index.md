@@ -1,6 +1,6 @@
 # DANNSEN
 
-DANNSEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
+DANNSEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
 
 DANNSEN is a house and tech house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Frankfurt, Lisbon and Mexicocity and 1 more. Often billed alongside Michael Ritter, Felix E and ADAMN. Next up: Kater, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DANNSEN is a house and tech house artist based in Germany, tracked on soundcheck
 
 Michael Ritter, Felix E, ADAMN
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannsen/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannsen/)*

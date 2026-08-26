@@ -1,6 +1,6 @@
 # CA LOU
 
-CA LOU is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Music Room, Melbourne on Fri, 28 Aug 2026.
+CA LOU is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Music Room, Melbourne on Fri, 28 Aug 2026.
 
 CA LOU is a house and deep house artist based in Australia, tracked on soundcheck, with 41 sets logged across Amsterdam, Brisbane, Melbourne and Sydney. Often billed alongside Oscar de Lima, Joey Coco and Said Dami. Next up: Music Room, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ CA LOU is a house and deep house artist based in Australia, tracked on soundchec
 
 Oscar de Lima, Joey Coco, Said Dami
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calou-au/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calou-au/)*

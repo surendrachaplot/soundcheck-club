@@ -1,6 +1,6 @@
 # Riki Boro
 
-Riki Boro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Riki Boro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundcheck, with 43 sets logged across Prague. Often billed alongside Thomas Tesla, Diva and KAWA. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Riki Boro is a techno and house artist based in Kazakhstan, tracked on soundchec
 
 Thomas Tesla, Diva, KAWA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikiboro/)*

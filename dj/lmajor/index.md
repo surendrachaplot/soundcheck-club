@@ -1,14 +1,16 @@
 # LMajor
 
-LMajor is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
+LMajor is a Jungle and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
 
-LMajor is a jungle and breakbeat artist tracked on soundcheck, with 71 sets logged across Berlin, Brighton, Bristol and Copenhagen and 10 more. Often billed alongside Mani Festo, Denham Audio and Borai. Next up: The Fox and Firkin, London on Fri 11 Sept.
+LMajor is a jungle and breakbeat artist tracked on soundcheck, with 73 sets logged across Berlin, Brighton, Bristol and Copenhagen and 10 more. Often billed alongside Mani Festo, Denham Audio and Borai. Next up: The Fox and Firkin, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Fox and Firkin | London |
+| Fri, 18 Sept 2026 | Planet Wax | London |
+| Sat, 3 Oct 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ LMajor is a jungle and breakbeat artist tracked on soundcheck, with 71 sets logg
 
 Mani Festo, Denham Audio, Borai
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lmajor/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lmajor/)*

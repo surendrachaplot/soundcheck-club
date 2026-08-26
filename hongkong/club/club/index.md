@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "House of Ho with Jesse You (Hertz, Seoul) b2b Mr. Ho (Klasse Wrecks, Hong Kong)" on Fri, 28 Aug 2026.
+宀 Club is a music venue in Hong Kong with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "House of Ho with Jesse You (Hertz, Seoul) b2b Mr. Ho (Klasse Wrecks, Hong Kong)" on Fri, 28 Aug 2026.
 
-宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Daura and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hongkong listed on soundcheck. 21 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

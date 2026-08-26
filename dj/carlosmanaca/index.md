@@ -1,14 +1,15 @@
 # Carlos Manaça
 
-Carlos Manaça is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Zero Club, Lisbon on Sat, 29 Aug 2026.
+Carlos Manaça is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Zero Club, Lisbon on Sat, 29 Aug 2026.
 
-Carlos Manaça is a techno and tech house artist based in Portugal, tracked on soundcheck, with 23 sets logged across Lisbon and Porto. Often billed alongside Dub Tiger, Dexx and Sandro Martins. Next up: Zero Club, Lisbon on Sat 29 Aug.
+Carlos Manaça is a tech house and techno artist based in Portugal, tracked on soundcheck, with 24 sets logged across Lisbon, Porto and Toronto. Often billed alongside Dub Tiger, Dexx and Sandro Martins. Next up: Zero Club, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Zero Club | Lisbon |
+| Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Carlos Manaça is a techno and tech house artist based in Portugal, tracked on s
 
 Dub Tiger, Dexx, Sandro Martins
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmanaca/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmanaca/)*

@@ -1,14 +1,15 @@
 # Esmé
 
-Esmé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
+Esmé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The DBA, Manchester on Sat, 29 Aug 2026.
 
-Esmé is a techno and house artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Glasgow, Leeds, Liverpool and London and 2 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: The DBA, Manchester on Sat 29 Aug.
+Esmé is a techno and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Glasgow, Leeds, Liverpool and London and 2 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: The DBA, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The DBA | Manchester |
+| Wed, 23 Sept 2026 | The White Hotel | Manchester |
 | Fri, 25 Sept 2026 | renae | Manchester |
 | Sun, 27 Sept 2026 | The DBA | Manchester |
 
@@ -27,4 +28,4 @@ Esmé is a techno and house artist based in United Kingdom, tracked on soundchec
 
 April (UK), Jase Jeffery, Luke Daniels
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esme/)*

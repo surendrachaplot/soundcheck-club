@@ -1,6 +1,6 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "ISOxo & Brutalismus 3000" on Sat, 5 Sept 2026.
+Factory Town is a music venue in Miami with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "ISOxo & Brutalismus 3000" on Sat, 5 Sept 2026.
 
 Factory Town is a music venue in Miami listed on soundcheck. 13 upcoming nights, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
@@ -23,4 +23,4 @@ Factory Town is a music venue in Miami listed on soundcheck. 13 upcoming nights,
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

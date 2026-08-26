@@ -1,6 +1,6 @@
 # OLOGI
 
-OLOGI is a Breakbeat and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bolero, Seoul on Thu, 27 Aug 2026.
+OLOGI is a Breakbeat and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bolero, Seoul on Thu, 27 Aug 2026.
 
 OLOGI is a breakbeat and afrobeats artist tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside DJ POOL, MOHOHOMO and SKiiDA. Next up: Bolero, Seoul on Thu 27 Aug.
 
@@ -18,4 +18,4 @@ OLOGI is a breakbeat and afrobeats artist tracked on soundcheck, with 2 sets log
 
 DJ POOL, MOHOHOMO, SKiiDA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ologi/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ologi/)*

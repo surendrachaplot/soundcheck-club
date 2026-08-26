@@ -1,6 +1,6 @@
 # Third Kulture
 
-Third Kulture is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
+Third Kulture is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
 
 Third Kulture is a techno and bass artist tracked on soundcheck, with 17 sets logged across Bristol, London and Manchester. Often billed alongside Levi Love, Chunky and Killamanjaro. Next up: The Yard, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Third Kulture is a techno and bass artist tracked on soundcheck, with 17 sets lo
 
 Levi Love, Chunky, Killamanjaro
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdkulture/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdkulture/)*

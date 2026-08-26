@@ -1,8 +1,8 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "SOURCE" on Thu, 27 Aug 2026.
+Supperclub is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SOURCE" on Thu, 27 Aug 2026.
 
-Supperclub is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
+Supperclub is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Maqossa. Browse upcoming dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Supperclub is a music venue in Amsterdam listed on soundcheck. 17 upcoming night
 
 Singel 460, 1017 AW Amsterdam, Amsterdam
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*

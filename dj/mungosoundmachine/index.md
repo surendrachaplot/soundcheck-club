@@ -1,6 +1,6 @@
 # Mungo Sound Machine
 
-Mungo Sound Machine is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
+Mungo Sound Machine is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Mungo Sound Machine is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Denver, Losangeles, Newyorkcity and Sandiego and 1 more. Often billed alongside Dor Wand, Erik Vehmeyer and Gene On Earth. Next up: Monarch, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mungo Sound Machine is a house and deep house artist based in United States of A
 
 Dor Wand, Erik Vehmeyer, Gene On Earth
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mungosoundmachine/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mungosoundmachine/)*

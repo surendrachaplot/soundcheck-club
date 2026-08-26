@@ -1,6 +1,6 @@
 # Jim Dz
 
-Jim Dz is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Minimal Bar, Berlin on Wed, 26 Aug 2026.
+Jim Dz is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Minimal Bar, Berlin on Wed, 26 Aug 2026.
 
 Jim Dz is an electronic artist tracked on soundcheck, with 13 sets logged across Barcelona and Berlin. Often billed alongside Cetratelli, Fenoma and Mad Brother. Next up: Minimal Bar, Berlin on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Jim Dz is an electronic artist tracked on soundcheck, with 13 sets logged across
 
 Cetratelli, Fenoma, Mad Brother
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimdz/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimdz/)*

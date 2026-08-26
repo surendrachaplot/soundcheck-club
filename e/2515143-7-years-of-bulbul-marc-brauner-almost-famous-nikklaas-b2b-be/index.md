@@ -1,6 +1,6 @@
-# 7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise & More at Bulbul Berlin
+# 7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise, Morisia at Bulbul Berlin
 
-7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise & More at Bulbul Berlin on Sat 26 Sept, Berlin. 4 acts on the bill: Almost Famous, Better Call Paul, Marc Brauner and Nikklaas. House and Club. Preview the line-up and save it on soundcheck.
+7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise, Morisia at Bulbul Berlin on Sat 26 Sept, Berlin. 5 acts on the bill: Almost Famous, Better Call Paul, Marc Brauner and Morisia and 1 more. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - Almost Famous
 - Better Call Paul
 - Marc Brauner
+- Morisia
 - Nikklaas
 
 *Source: [soundcheck](https://soundcheck.club/e/2515143-7-years-of-bulbul-marc-brauner-almost-famous-nikklaas-b2b-be/)*

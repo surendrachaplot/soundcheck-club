@@ -1,14 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 41 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Techno Tuesday Amsterdam, 25 August has been moved to Wednesday 26 August" on Tue, 25 Aug 2026.
+Melkweg is a music venue in Amsterdam with 40 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Techno Tuesday Amsterdam 'Wednesday Special', Dexon's birthday" on Wed, 26 Aug 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, ALT8 and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 40 upcoming nights, with line-ups including 2HOT2PLAY, Yulia Niko, ALT8 and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Techno Tuesday Amsterdam, 25 August has been moved to Wednesday 26 August |  |
 | Wed, 26 Aug 2026 | Techno Tuesday Amsterdam 'Wednesday Special', Dexon's birthday | Dexon |
 | Mon, 31 Aug 2026 | Cheeky Monday: Tantron |  |
 | Tue, 1 Sept 2026 | Techno Tuesday Amsterdam, Dexon, Rossa, A.R.T | A.R.T., Dexon, Rossa |
@@ -18,9 +17,10 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 41 upcoming nights, 
 | Sun, 13 Sept 2026 | TR/ST – Live |  |
 | Tue, 15 Sept 2026 | Techno Tuesday Amsterdam, CHAFA & Dexon extended sets | CHAFA, Dexon |
 | Fri, 18 Sept 2026 | SIDEQUEST |  |
+| Sat, 19 Sept 2026 | Curated by Break |  |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

@@ -1,8 +1,8 @@
 # DALJAE
 
-DALJAE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at SEL OCTAGON TOKYO, Tokyo on Wed, 26 Aug 2026.
+DALJAE is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at SEL OCTAGON TOKYO, Tokyo on Wed, 26 Aug 2026.
 
-DALJAE is a techno and industrial artist tracked on soundcheck, with 96 sets logged across Amsterdam, Milan, Osaka and Seoul and 2 more. Often billed alongside Kaito, CHIKA and YOXIKI. Next up: SEL OCTAGON TOKYO, Tokyo on Wed 26 Aug.
+DALJAE is a techno and industrial artist tracked on soundcheck, with 97 sets logged across Amsterdam, Milan, Osaka and Seoul and 2 more. Often billed alongside Kaito, CHIKA and YOXIKI. Next up: SEL OCTAGON TOKYO, Tokyo on Wed 26 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DALJAE is a techno and industrial artist tracked on soundcheck, with 96 sets log
 | Thu, 27 Aug 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Fri, 11 Sept 2026 | ZEROTOKYO | Tokyo |
 | Fri, 18 Sept 2026 | Z Maruyama | Tokyo |
+| Sat, 26 Sept 2026 | Tide Tokyo | Tokyo |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DALJAE is a techno and industrial artist tracked on soundcheck, with 96 sets log
 
 Kaito, CHIKA, YOXIKI
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*

@@ -1,6 +1,6 @@
 # Lola Fat
 
-Lola Fat is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat, 29 Aug 2026.
+Lola Fat is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat, 29 Aug 2026.
 
 Lola Fat is an electro and techno artist tracked on soundcheck, with 16 sets logged across Berlin and Paris. Often billed alongside Contrxaction, Nymed and ARA303. Next up: TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lola Fat is an electro and techno artist tracked on soundcheck, with 16 sets log
 
 Contrxaction, Nymed, ARA303
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolafat/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolafat/)*

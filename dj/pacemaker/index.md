@@ -1,6 +1,6 @@
 # Pacemaker
 
-Pacemaker is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
+Pacemaker is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
 
 Pacemaker is a jungle and techno artist tracked on soundcheck, with 34 sets logged across Cologne, Dusseldorf, Liverpool and London and 1 more. Often billed alongside e-kitty, Hardcore Babes and djcd. Next up: The DBA, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Pacemaker is a jungle and techno artist tracked on soundcheck, with 34 sets logg
 
 e-kitty, Hardcore Babes, djcd
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pacemaker/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pacemaker/)*

@@ -1,6 +1,6 @@
 # Rina Katen
 
-Rina Katen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Süss War Gestern, Berlin on Sat, 5 Sept 2026.
+Rina Katen is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Süss War Gestern, Berlin on Sat, 5 Sept 2026.
 
 Rina Katen is a house and disco artist tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside justcallmesergio, Loves_kills and Slow PSTL. Next up: Süss War Gestern, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Rina Katen is a house and disco artist tracked on soundcheck, with 50 sets logge
 
 justcallmesergio, Loves_kills, Slow PSTL
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*

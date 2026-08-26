@@ -1,6 +1,6 @@
 # Mand0
 
-Mand0 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+Mand0 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
 Mand0 is a techno and house artist tracked on soundcheck, with 13 sets logged across Chicago and Toronto. Often billed alongside KILL 9 1, Pretence and Alley Kay. Next up: TBA, Toronto on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Mand0 is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 KILL 9 1, Pretence, Alley Kay
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mand0/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mand0/)*

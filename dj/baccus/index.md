@@ -1,6 +1,6 @@
 # Baccus
 
-Baccus is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Baccus is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Baccus is a house and electro artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 11 more. Often billed alongside Emma B, Herr Krank and DJ Steaw. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Baccus is a house and electro artist based in France, tracked on soundcheck, wit
 
 Emma B, Herr Krank, DJ Steaw
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baccus/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baccus/)*

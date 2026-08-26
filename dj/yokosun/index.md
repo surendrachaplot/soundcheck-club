@@ -1,6 +1,6 @@
 # YOKOSUN
 
-YOKOSUN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bar Temp., Bangkok on Fri, 28 Aug 2026.
+YOKOSUN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Temp., Bangkok on Fri, 28 Aug 2026.
 
 YOKOSUN is a house and techno artist tracked on soundcheck, with 13 sets logged across Bali, Bangkok, Kualalumpur and Osaka and 2 more. Often billed alongside Shhhhh, Hugo LX and NK Chan (2). Next up: Bar Temp., Bangkok on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ YOKOSUN is a house and techno artist tracked on soundcheck, with 13 sets logged 
 
 Shhhhh, Hugo LX, NK Chan (2)
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yokosun/)*

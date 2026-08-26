@@ -1,8 +1,8 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Golden Lion, Manchester on Sat, 19 Sept 2026.
+Logan Fisher is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Golden Lion, Manchester on Sat, 19 Sept 2026.
 
-Logan Fisher is a house and acid artist tracked on soundcheck, with 24 sets logged across Athens, Birmingham, Bucharest and Edinburgh and 4 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: The Golden Lion, Manchester on Sat 19 Sept.
+Logan Fisher is a house and acid artist tracked on soundcheck, with 25 sets logged across Athens, Birmingham, Bucharest and Edinburgh and 5 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: The Golden Lion, Manchester on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Logan Fisher is a house and acid artist tracked on soundcheck, with 24 sets logg
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Golden Lion | Manchester |
 | Sat, 10 Oct 2026 | Omeara | London |
+| Sat, 31 Oct 2026 | Are You Affiliated | Newcastle |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Logan Fisher is a house and acid artist tracked on soundcheck, with 24 sets logg
 
 Rosie Ama, Fall Forward, Leo Zero
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*

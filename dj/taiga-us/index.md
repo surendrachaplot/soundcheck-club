@@ -1,6 +1,6 @@
 # Taiga
 
-Taiga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Satellite Gallery, New York City on Mon, 7 Sept 2026.
+Taiga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Satellite Gallery, New York City on Mon, 7 Sept 2026.
 
 Taiga is a house and techno artist tracked on soundcheck, with 37 sets logged across Auckland, Manchester, Newyorkcity and Paris and 3 more. Often billed alongside Hugo (US), Lucho (1) and Peter Kaufmann. Next up: Satellite Gallery, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Taiga is a house and techno artist tracked on soundcheck, with 37 sets logged ac
 
 Hugo (US), Lucho (1), Peter Kaufmann
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiga-us/)*

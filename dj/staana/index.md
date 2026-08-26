@@ -1,6 +1,6 @@
 # STAANA
 
-STAANA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Wanderlust, Paris on Thu, 3 Sept 2026.
+STAANA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Wanderlust, Paris on Thu, 3 Sept 2026.
 
 STAANA is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 2 more. Often billed alongside CLEO, Caniche and Ketarina. Next up: Wanderlust, Paris on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ STAANA is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 CLEO, Caniche, Ketarina
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staana/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staana/)*

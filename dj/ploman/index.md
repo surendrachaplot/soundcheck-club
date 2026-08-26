@@ -1,8 +1,8 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+PLO Man is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
-PLO Man is a techno and house artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: TBA, Vancouver on Fri 28 Aug.
+PLO Man is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: TBA, Vancouver on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ PLO Man is a techno and house artist tracked on soundcheck, with 152 sets logged
 | Fri, 28 Aug 2026 | TBA | Vancouver |
 | Sat, 29 Aug 2026 | Process PDX | Portland |
 | Sat, 12 Sept 2026 | Green Room NYC | New York City |
+| Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
+| Sat, 31 Oct 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ PLO Man is a techno and house artist tracked on soundcheck, with 152 sets logged
 
 DJ Spence, Hashman Deejay, Vlada
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ploman/)*

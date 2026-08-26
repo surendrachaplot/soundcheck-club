@@ -1,6 +1,6 @@
 # L4RV4
 
-L4RV4 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+L4RV4 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 L4RV4 is a techno and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Xana 101, Soo Intoit and Cyb3r Bull. Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ L4RV4 is a techno and club artist based in United States of America, tracked on 
 
 Xana 101, Soo Intoit, Cyb3r Bull
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l4rv4/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l4rv4/)*

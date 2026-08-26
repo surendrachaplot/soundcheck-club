@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "TAPERED" on Fri, 28 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "TAPERED" on Fri, 28 Aug 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -17,10 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, 
 | Fri, 18 Sept 2026 | KHIDI NIGHT w/ Ancient Methods, Boston 168 live, Liza Rivs and Vulkanski | Ancient Methods, Boston 168, Liza Rivs, Vulkanski |
 | Sat, 19 Sept 2026 | 11 Years Selected | CAIVA, Carmen Electro, EMILIJA, Ellen Trenn, FANK, FLACCO, Frederic., Iman Janes, Luxi Villar, Part Time Killer, Trancemaster Krause, Vermeer, fumi (DE), ÜBERKIKZ |
 | Fri, 25 Sept 2026 | SESH | 2HOT2PLAY, Bruno Brero, GEN97, NYRA (DE), Paraçek, SATYS FYRE, Shake Daddy, XIMA, davyboi |
-| Sat, 26 Sept 2026 | XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor | AgainstMe, Anabel Arroyo, Beibeilon, DJ 86, EMAN (FR), François X, Hontas, Jensen Interceptor, Jin Synth, Matrixxman, Árni |
+| Sat, 26 Sept 2026 | XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor | AgainstMe, Alírio, Anabel Arroyo, Beibeilon, DJ 86, EMAN (FR), François X, Hontas, Jensen Interceptor, Jin Synth, Matrixxman, Árni |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

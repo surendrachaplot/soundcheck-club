@@ -1,14 +1,13 @@
 # Ernest
 
-Ernest is a music venue in Newcastle with 6 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Decks Down Front with Graeme" on Tue, 25 Aug 2026.
+Ernest is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Decks Down Front with Pip" on Wed, 26 Aug 2026.
 
-Ernest is a music venue in Newcastle listed on soundcheck. 6 upcoming nights, with line-ups including Alousea, Auld Rab, Basic Function and PIP.. Browse upcoming dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
+Ernest is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Alousea, Auld Rab, Basic Function and PIP.. Browse upcoming dates, start times and who's playing. 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Decks Down Front with Graeme |  |
 | Wed, 26 Aug 2026 | Decks Down Front with Pip | PIP. |
 | Thu, 27 Aug 2026 | Decks Down Front with Jimmy |  |
 | Fri, 28 Aug 2026 | DBT. | Alousea |
@@ -19,4 +18,4 @@ Ernest is a music venue in Newcastle listed on soundcheck. 6 upcoming nights, wi
 
 1 Boyd Street, Ouseburn, Newcastle, NE2 1AP, Newcastle
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ernest/)*

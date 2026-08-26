@@ -1,14 +1,13 @@
 # Panke
 
-Panke is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "In the Neighbourhood" on Tue, 25 Aug 2026.
+Panke is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Disko International with Radio Vampiro & Dj Quien" on Thu, 27 Aug 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Alex Wilcox, BBBBBBB, Calcou and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alex Wilcox, BBBBBBB, Catnapp and Chris Imler and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | In the Neighbourhood | Calcou, La Boum Fatale, Margaux Gazur, SHIMMER |
 | Thu, 27 Aug 2026 | Disko International with Radio Vampiro & Dj Quien | Dj Quien |
 | Sat, 29 Aug 2026 | (c)rave PRESENTS Tujiko Noriko, Proc Fiskal, Wounder + MORE | Proc Fiskal, TRYCE, Tujiko Noriko, Wounder, truthspeaker |
 | Wed, 2 Sept 2026 | >>Who got da Props?!?<< - Open Mic with DJ BOOM BAP |  |
@@ -18,9 +17,10 @@ Panke is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with 
 | Sat, 10 Oct 2026 | Outside the BigMac, vol.5: October Edition | Chris Imler |
 | Fri, 16 Oct 2026 | Bassism 5.0 feat. N-Type & Slowie | Dj Alyaz, Dj Quien, Grzly Adams, N-Type, Scre_wy, Tommy Lexxus, VILIFY |
 | Fri, 30 Oct 2026 | FUKSTEP |  |
+| Fri, 6 Nov 2026 | ACT!ON: BBBBBBB, Catnapp, Alex Wilcox  | Alex Wilcox, BBBBBBB, Catnapp |
 
 ## Address
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

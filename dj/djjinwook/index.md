@@ -1,6 +1,6 @@
 # DJ Jinwook
 
-DJ Jinwook is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Stoked&stoned, Seoul on Sun, 30 Aug 2026.
+DJ Jinwook is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Stoked&stoned, Seoul on Sun, 30 Aug 2026.
 
 DJ Jinwook is a house and disco artist tracked on soundcheck, with 92 sets logged across Munich, Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Radio Revolution and RTRP. Next up: Stoked&stoned, Seoul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ Jinwook is a house and disco artist tracked on soundcheck, with 92 sets logge
 
 Cityboy from Seoul, Radio Revolution, RTRP
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*

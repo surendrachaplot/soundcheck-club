@@ -1,6 +1,6 @@
 # Captain Mustache
 
-Captain Mustache is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at flo Soakin, Osaka on Sat, 29 Aug 2026.
+Captain Mustache is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at flo Soakin, Osaka on Sat, 29 Aug 2026.
 
 Captain Mustache is a house and techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside DJ Jee, Anja Schneider and Argia. Next up: flo Soakin, Osaka on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Captain Mustache is a house and techno artist tracked on soundcheck, with 15 set
 
 DJ Jee, Anja Schneider, Argia
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainmustache/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainmustache/)*

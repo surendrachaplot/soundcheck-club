@@ -1,6 +1,6 @@
 # Purgatory
 
-Purgatory is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Classic Grand, Glasgow on Fri, 11 Sept 2026.
+Purgatory is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Classic Grand, Glasgow on Fri, 11 Sept 2026.
 
 Purgatory is a techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Glasgow. Often billed alongside Stalker and UMBRA. Next up: The Classic Grand, Glasgow on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Purgatory is a techno artist based in United Kingdom, tracked on soundcheck, wit
 
 Stalker, UMBRA
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purgatory/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purgatory/)*

@@ -1,6 +1,6 @@
 # Formula LDN
 
-Formula LDN is a Drum & Bass and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
+Formula LDN is a Drum & Bass and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
 
 Formula LDN is a drum & bass and minimal artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brighton, Bristol, Cologne and London and 2 more. Often billed alongside Jamie Fielding, AC13 and Adam Locke. Next up: Circus Tokyo, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Formula LDN is a drum & bass and minimal artist based in United Kingdom, tracked
 
 Jamie Fielding, AC13, Adam Locke
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formula-ldn/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/formula-ldn/)*

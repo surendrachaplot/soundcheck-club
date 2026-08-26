@@ -1,6 +1,6 @@
 # warmluke
 
-warmluke is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
+warmluke is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
 
 warmluke is a house and broken beat artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside DJoe, Beringei and AUDIO DUNE. Next up: Eastway Baths, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ warmluke is a house and broken beat artist tracked on soundcheck, with 23 sets l
 
 DJoe, Beringei, AUDIO DUNE
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warmluke/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warmluke/)*

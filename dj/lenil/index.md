@@ -1,6 +1,6 @@
 # LeNil
 
-LeNil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at M.O.T, London on Fri, 4 Sept 2026.
+LeNil is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at M.O.T, London on Fri, 4 Sept 2026.
 
 LeNil is a house and techno artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Rath Ki Rani, Sophia Nicole and Merlo Ponti. Next up: M.O.T, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ LeNil is a house and techno artist tracked on soundcheck, with 10 sets logged ac
 
 Rath Ki Rani, Sophia Nicole, Merlo Ponti
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenil/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenil/)*

@@ -1,6 +1,6 @@
 # LuckyLeo
 
-LuckyLeo is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
+LuckyLeo is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
 
 LuckyLeo is a house and trance artist tracked on soundcheck, with 2 sets logged across Leipzig. Often billed alongside Delirante, Bi Män and DJ Skonti. Next up: Distillery, Leipzig on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ LuckyLeo is a house and trance artist tracked on soundcheck, with 2 sets logged 
 
 Delirante, Bi Män, DJ Skonti
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luckyleo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luckyleo/)*

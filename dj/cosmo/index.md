@@ -1,6 +1,6 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Gabriela, New York City on Wed, 26 Aug 2026.
+Cosmo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gabriela, New York City on Wed, 26 Aug 2026.
 
 Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 47 sets logged across Barcelona, Bucharest, Chicago and Ghent and 11 more. Often billed alongside Cosmo (NY), Jordz and Kim.Qna. Next up: Gabriela, Newyorkcity on Wed 26 Aug.
 
@@ -26,4 +26,4 @@ Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 4
 
 Cosmo (NY), Jordz, Kim.Qna
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

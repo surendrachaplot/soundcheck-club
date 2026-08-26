@@ -1,6 +1,6 @@
 # Jared
 
-Jared is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at radial, London on Sun, 13 Sept 2026.
+Jared is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at radial, London on Sun, 13 Sept 2026.
 
 Jared is a techno and house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Ivicore, JONE OF ARX and Ms.G. Next up: radial, London on Sun 13 Sept.
 
@@ -22,4 +22,4 @@ Jared is a techno and house artist tracked on soundcheck, with 6 sets logged acr
 
 Ivicore, JONE OF ARX, Ms.G
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jared/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jared/)*

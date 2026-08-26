@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Fvtvr, Paris on Sat, 29 Aug 2026.
+Radio Slave is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fvtvr, Paris on Sat, 29 Aug 2026.
 
 Radio Slave is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: Fvtvr, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Radio Slave is a house and techno artist tracked on soundcheck, with 112 sets lo
 
 Tal Fussman, Anja Schneider, DJ Minx
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

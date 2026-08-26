@@ -1,6 +1,6 @@
 # ultra caro
 
-ultra caro is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
+ultra caro is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
 
 ultra caro is a club and experimental artist based in France, tracked on soundcheck, with 17 sets logged across Brussels, Copenhagen, Krakow and Leeds and 5 more. Often billed alongside ODG (1), monia.mp3 and Alexi Shell. Next up: Vespers Club, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ultra caro is a club and experimental artist based in France, tracked on soundch
 
 ODG (1), monia.mp3, Alexi Shell
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultracaro/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultracaro/)*

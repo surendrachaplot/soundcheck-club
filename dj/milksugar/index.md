@@ -1,6 +1,6 @@
 # Milk & Sugar
 
-Milk & Sugar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Electrowerkz, London on Sat, 5 Sept 2026.
+Milk & Sugar is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Electrowerkz, London on Sat, 5 Sept 2026.
 
 Milk & Sugar are a tech house and house duo tracked on soundcheck, with 8 sets logged across Ibiza, London and Miami. Often billed alongside Nelson Reis, Amine Edge and Clyde P. Next up: Electrowerkz, London on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Milk & Sugar are a tech house and house duo tracked on soundcheck, with 8 sets l
 
 Nelson Reis, Amine Edge, Clyde P
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milksugar/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milksugar/)*

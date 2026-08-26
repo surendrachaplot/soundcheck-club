@@ -1,6 +1,6 @@
 # Appleblim
 
-Appleblim is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at OHM, Berlin on Fri, 28 Aug 2026.
+Appleblim is a Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at OHM, Berlin on Fri, 28 Aug 2026.
 
 Appleblim is a bass and dub artist tracked on soundcheck, with 53 sets logged across Berlin, Bristol, Galway and London and 3 more. Often billed alongside Low End Activist, Wrecked Lightship and Demdike Stare. Next up: OHM, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Appleblim is a bass and dub artist tracked on soundcheck, with 53 sets logged ac
 
 Low End Activist, Wrecked Lightship, Demdike Stare
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/appleblim/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/appleblim/)*

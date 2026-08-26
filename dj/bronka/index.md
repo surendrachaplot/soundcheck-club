@@ -1,13 +1,14 @@
 # Bronka
 
-Bronka is a Baile Funk and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at The Lower Third, London on Fri, 16 Oct 2026.
+Bronka is a Baile Funk and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at New Century Locker, Manchester on Fri, 9 Oct 2026.
 
-Bronka is a baile funk and latin bass artist based in Brazil, tracked on soundcheck, with 8 sets logged across Barcelona, Lisbon, London and Paris and 2 more. Often billed alongside Caio Prince, Carmilla Sioux and Chloe Lula. Next up: The Lower Third, London on Fri 16 Oct.
+Bronka is a baile funk and club artist based in Brazil, tracked on soundcheck, with 9 sets logged across Barcelona, Lisbon, London and Manchester and 3 more. Often billed alongside Caio Prince, Carmilla Sioux and Chloe Lula. Next up: New Century Locker, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | New Century Locker | Manchester |
 | Fri, 16 Oct 2026 | The Lower Third | London |
 | Sat, 17 Oct 2026 | The Lower Third | London |
 | Sat, 31 Oct 2026 | OCZKI | Warsaw |
@@ -24,4 +25,4 @@ Bronka is a baile funk and latin bass artist based in Brazil, tracked on soundch
 
 Caio Prince, Carmilla Sioux, Chloe Lula
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*

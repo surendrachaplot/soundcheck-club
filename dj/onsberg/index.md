@@ -1,6 +1,6 @@
 # OnsBerg
 
-OnsBerg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at MODULE, Copenhagen on Fri, 28 Aug 2026.
+OnsBerg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at MODULE, Copenhagen on Fri, 28 Aug 2026.
 
 OnsBerg is a techno and house artist tracked on soundcheck, with 29 sets logged across Copenhagen. Often billed alongside Tim Andresen, Baime and Aja Gulris. Next up: MODULE, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ OnsBerg is a techno and house artist tracked on soundcheck, with 29 sets logged 
 
 Tim Andresen, Baime, Aja Gulris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsberg/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onsberg/)*

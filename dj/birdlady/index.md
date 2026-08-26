@@ -1,14 +1,15 @@
 # Bird Lady
 
-Bird Lady is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 4 Sept 2026.
+Bird Lady is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Air Conditioned Lounge, San Diego on Fri, 4 Sept 2026.
 
-Bird Lady is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles and Sandiego. Often billed alongside Ben Annand, DJ Colette and DJ Dazy. Next up: The Air Conditioned Lounge, Sandiego on Fri 4 Sept.
+Bird Lady is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Losangeles and Sandiego. Often billed alongside Ben Annand, Bret Wallace and DJ Colette. Next up: The Air Conditioned Lounge, Sandiego on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | The Air Conditioned Lounge | San Diego |
+| Sat, 26 Sept 2026 | TBA - Ventura  | Los Angeles |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Bird Lady is a house and techno artist based in United States of America, tracke
 
 ## Shares bills with
 
-Ben Annand, DJ Colette, DJ Dazy
+Ben Annand, Bret Wallace, DJ Colette
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/birdlady/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/birdlady/)*

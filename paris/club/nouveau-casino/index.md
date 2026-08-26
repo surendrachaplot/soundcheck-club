@@ -1,6 +1,6 @@
 # Nouveau Casino
 
-Nouveau Casino is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Less Drama More Techno [The Summer Was Magic]" on Sat, 29 Aug 2026.
+Nouveau Casino is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Less Drama More Techno [The Summer Was Magic]" on Sat, 29 Aug 2026.
 
 Nouveau Casino is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Aleqs Notal, Aubry, Ben Hille and Ben Manson and 2 more. Browse upcoming dates, start times and who's playing. 109 Rue Oberkampf, 75011 Paris, France.
 
@@ -20,4 +20,4 @@ Nouveau Casino is a music venue in Paris listed on soundcheck. 7 upcoming nights
 
 109 Rue Oberkampf, 75011 Paris, France, Paris
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/nouveau-casino/)*

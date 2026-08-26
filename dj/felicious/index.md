@@ -1,6 +1,6 @@
 # Felicious
 
-Felicious is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Felicious is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Felicious is an electronic artist tracked on soundcheck, with 9 sets logged across Hamburg. Often billed alongside DJ Pinky Promise, Carluschka and Anne-Lu. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Felicious is an electronic artist tracked on soundcheck, with 9 sets logged acro
 
 DJ Pinky Promise, Carluschka, Anne-Lu
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felicious/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felicious/)*

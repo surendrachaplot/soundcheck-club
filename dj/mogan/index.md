@@ -1,6 +1,6 @@
 # Mogan
 
-Mogan is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Plantation, Paris on Fri, 4 Sept 2026.
+Mogan is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Plantation, Paris on Fri, 4 Sept 2026.
 
 Mogan is a house and breakbeat artist tracked on soundcheck, with 13 sets logged across Lyon, Manchester and Paris. Often billed alongside mazair, Denyl Brook and Crowd Control. Next up: Plantation, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mogan is a house and breakbeat artist tracked on soundcheck, with 13 sets logged
 
 mazair, Denyl Brook, Crowd Control
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mogan/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mogan/)*

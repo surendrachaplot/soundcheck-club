@@ -1,6 +1,6 @@
 # RedtomCat
 
-RedtomCat is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Emma Pea, Berlin on Sat, 29 Aug 2026.
+RedtomCat is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Emma Pea, Berlin on Sat, 29 Aug 2026.
 
 RedtomCat is a tech house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and Bisk. Next up: Emma Pea, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ RedtomCat is a tech house and techno artist based in Germany, tracked on soundch
 
 Phat Beat, JaFrei Loufoque, Bisk
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redtomcat/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redtomcat/)*

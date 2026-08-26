@@ -1,6 +1,6 @@
 # DJ Kirby
 
-DJ Kirby is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+DJ Kirby is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 DJ Kirby is a house and electro artist based in China, tracked on soundcheck, with 33 sets logged across Hongkong and Krakow. Often billed alongside MLCH, Stitty and Saint Bernard. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Kirby is a house and electro artist based in China, tracked on soundcheck, wi
 
 MLCH, Stitty, Saint Bernard
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirby/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkirby/)*

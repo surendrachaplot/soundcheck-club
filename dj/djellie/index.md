@@ -1,6 +1,6 @@
 # Dj Ellie
 
-Dj Ellie is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Amma Cafe, New York City on Sat, 29 Aug 2026.
+Dj Ellie is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Amma Cafe, New York City on Sat, 29 Aug 2026.
 
 Dj Ellie is an electro and deep house artist tracked on soundcheck, with 17 sets logged across Detroit, London and Newyorkcity. Often billed alongside diedforthis, Moist Briefs and Esthaus. Next up: Amma Cafe, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dj Ellie is an electro and deep house artist tracked on soundcheck, with 17 sets
 
 diedforthis, Moist Briefs, Esthaus
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djellie/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djellie/)*

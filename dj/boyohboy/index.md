@@ -1,6 +1,6 @@
 # Boy Oh Boy
 
-Boy Oh Boy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Klunkerkranich, Berlin on Thu, 27 Aug 2026.
+Boy Oh Boy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Klunkerkranich, Berlin on Thu, 27 Aug 2026.
 
 Boy Oh Boy is a techno and house artist tracked on soundcheck, with 10 sets logged across Auckland, Berlin, Cologne and Hamburg and 1 more. Often billed alongside CIOZ, Corpino and Out Of Sorts. Next up: Klunkerkranich, Berlin on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Boy Oh Boy is a techno and house artist tracked on soundcheck, with 10 sets logg
 
 CIOZ, Corpino, Out Of Sorts
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyohboy/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boyohboy/)*

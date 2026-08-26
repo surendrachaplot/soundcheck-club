@@ -1,6 +1,6 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Substation, Seattle on Sat, 5 Sept 2026.
+AC Slater is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Substation, Seattle on Sat, 5 Sept 2026.
 
 AC Slater is a house and bass artist tracked on soundcheck, with 44 sets logged across Austin, Boston, Chicago and Cologne and 12 more. Often billed alongside Tchami, Hotfire and Cassian. Next up: Substation, Seattle on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ AC Slater is a house and bass artist tracked on soundcheck, with 44 sets logged 
 
 Tchami, Hotfire, Cassian
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*

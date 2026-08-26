@@ -1,14 +1,15 @@
 # Hyan (2)
 
-Hyan (2) is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Section 8, Melbourne on Thu, 27 Aug 2026.
+Hyan (2) is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Section 8, Melbourne on Thu, 27 Aug 2026.
 
-Hyan (2) is a garage and house artist based in New Zealand, tracked on soundcheck, with 11 sets logged across Auckland, London, Melbourne and Sydney. Often billed alongside Caru (NZ), THIRZA and Alix Perez. Next up: Section 8, Melbourne on Thu 27 Aug.
+Hyan (2) is a garage and house artist based in New Zealand, tracked on soundcheck, with 12 sets logged across Auckland, London, Melbourne and Sydney. Often billed alongside Caru (NZ), THIRZA and Alix Perez. Next up: Section 8, Melbourne on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Section 8 | Melbourne |
+| Fri, 28 Aug 2026 | Webster's Rooftop and Bar | Sydney |
 | Fri, 28 Aug 2026 | Webster's Rooftop and Bar | Sydney |
 | Fri, 11 Sept 2026 | Neck of the Woods | Auckland |
 
@@ -27,4 +28,4 @@ Hyan (2) is a garage and house artist based in New Zealand, tracked on soundchec
 
 Caru (NZ), THIRZA, Alix Perez
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*

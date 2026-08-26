@@ -1,6 +1,6 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
+Job Jobse is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Else, Berlin on Fri, 28 Aug 2026.
 
 Job Jobse is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Else, Berlin on Fri 28 Aug.
 
@@ -9,7 +9,7 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 143 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Else | Berlin |
-| Sat, 29 Aug 2026 | Phoxxi Green Area | Hamburg |
+| Sat, 29 Aug 2026 | Edelfettwerk | Hamburg |
 | Fri, 11 Sept 2026 | Madrid Caja Mágica | Madrid |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
@@ -31,4 +31,4 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 143 sets logg
 
 Palms Trax, BASHKKA, Saoirse
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

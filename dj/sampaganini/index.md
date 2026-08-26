@@ -1,6 +1,6 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Nitsa Club, Barcelona on Fri, 11 Sept 2026.
+Sam Paganini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nitsa Club, Barcelona on Fri, 11 Sept 2026.
 
 Sam Paganini is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: Nitsa Club, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sam Paganini is a techno and house artist tracked on soundcheck, with 98 sets lo
 
 Adiel, Anfisa Letyago, Daria Kolosova
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

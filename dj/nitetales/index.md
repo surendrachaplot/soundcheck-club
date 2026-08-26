@@ -1,6 +1,6 @@
 # Nitetales
 
-Nitetales is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Liquid Nightclub, Belfast on Sat, 24 Oct 2026.
+Nitetales is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Liquid Nightclub, Belfast on Sat, 24 Oct 2026.
 
 Nitetales is an electronic artist based in Ireland, tracked on soundcheck, with 4 sets logged across Belfast and Dublin. Often billed alongside CAOIMHE, Chris Cargo and Craig Mitchell. Next up: Liquid Nightclub, Belfast on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Nitetales is an electronic artist based in Ireland, tracked on soundcheck, with 
 
 CAOIMHE, Chris Cargo, Craig Mitchell
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitetales/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitetales/)*

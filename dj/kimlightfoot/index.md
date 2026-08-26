@@ -1,6 +1,6 @@
 # Kim Lightfoot
 
-Kim Lightfoot is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 21 Sept 2026.
+Kim Lightfoot is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 21 Sept 2026.
 
 Kim Lightfoot is a house and deep house artist tracked on soundcheck, with 17 sets logged across Newyorkcity and Tokyo. Often billed alongside k.tea, Herb Martin and Ozkar Fuller. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Kim Lightfoot is a house and deep house artist tracked on soundcheck, with 17 se
 
 k.tea, Herb Martin, Ozkar Fuller
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlightfoot/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlightfoot/)*

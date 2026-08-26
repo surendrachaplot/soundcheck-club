@@ -1,13 +1,14 @@
 # VIBRANT C
 
-VIBRANT C is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Arch535, London on Sat, 26 Sept 2026.
+VIBRANT C is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Queens Se15, London on Fri, 11 Sept 2026.
 
-VIBRANT C is a house and deep house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Ace Shyllon, Artist Lebo and Booker T. Next up: Arch535, London on Sat 26 Sept.
+VIBRANT C is a house and deep house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Ace Shyllon, Artist Lebo and Booker T. Next up: Queens Se15, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Queens Se15 | London |
 | Sat, 26 Sept 2026 | Arch535 | London |
 
 ## Recently played
@@ -24,4 +25,4 @@ VIBRANT C is a house and deep house artist tracked on soundcheck, with 8 sets lo
 
 Ace Shyllon, Artist Lebo, Booker T
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrantc/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibrantc/)*

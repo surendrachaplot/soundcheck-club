@@ -1,6 +1,6 @@
 # SAVSSOUNDS
 
-SAVSSOUNDS is a UK Funky and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at M.O.T, London on Thu, 27 Aug 2026.
+SAVSSOUNDS is a UK Funky and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at M.O.T, London on Thu, 27 Aug 2026.
 
 SAVSSOUNDS is an uk funky and afro house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, London and Seoul. Often billed alongside Donnie Sunshine, KATALYSSST and Laelo Black. Next up: M.O.T, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ SAVSSOUNDS is an uk funky and afro house artist based in United Kingdom, tracked
 
 Donnie Sunshine, KATALYSSST, Laelo Black
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savssounds/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savssounds/)*

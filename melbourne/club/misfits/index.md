@@ -1,6 +1,6 @@
 # Misfits
 
-Misfits is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Tue, 25 Aug 2026; the next is "Desi Day Rave" on Sun, 30 Aug 2026.
+Misfits is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Desi Day Rave" on Sun, 30 Aug 2026.
 
 Misfits is a music venue in Melbourne listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 30 Chambers St, Footscray VIC 3011, Australia.
 
@@ -15,4 +15,4 @@ Misfits is a music venue in Melbourne listed on soundcheck. 2 upcoming nights. B
 
 30 Chambers St, Footscray VIC 3011, Australia, Melbourne
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/misfits/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/misfits/)*

@@ -1,6 +1,6 @@
 # Takuma Matsunaga
 
-Takuma Matsunaga is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
+Takuma Matsunaga is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
 Takuma Matsunaga is a trance and techno artist tracked on soundcheck, with 5 sets logged across Kyoto and Tokyo. Often billed alongside Hue Ray, Mars89 and Azrel. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Takuma Matsunaga is a trance and techno artist tracked on soundcheck, with 5 set
 
 Hue Ray, Mars89, Azrel
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takumamatsunaga/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takumamatsunaga/)*

@@ -1,6 +1,6 @@
 # COGEE
 
-COGEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
+COGEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
 
 COGEE is a house and techno artist tracked on soundcheck, with 26 sets logged across London, Osaka and Tokyo. Often billed alongside Sunga, ifax! and 7e. Next up: Heavy Sick Zero, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ COGEE is a house and techno artist tracked on soundcheck, with 26 sets logged ac
 
 Sunga, ifax!, 7e
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cogee/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cogee/)*

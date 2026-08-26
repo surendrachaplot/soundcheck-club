@@ -1,8 +1,8 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 25 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 4 Sept 2026.
+The Ghost is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 4 Sept 2026.
 
-The Ghost is a house and tech house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 38 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Yamamori Tengu, Dublin on Fri 4 Sept.
+The Ghost is a house and tech house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 38 more. Often billed alongside Gene On Earth, Coast 2 Coast and Dr Banana. Next up: Yamamori Tengu, Dublin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 173 sets 
 | Sat, 5 Sept 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 11 Sept 2026 | Backsteinboot | Berlin |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Thu, 22 Oct 2026 | Blast Galaxy | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ The Ghost is a house and tech house artist tracked on soundcheck, with 173 sets 
 
 Gene On Earth, Coast 2 Coast, Dr Banana
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

@@ -1,6 +1,6 @@
 # Neumonic
 
-Neumonic is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Bourbon On Division, Chicago on Fri, 4 Sept 2026.
+Neumonic is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bourbon On Division, Chicago on Fri, 4 Sept 2026.
 
 Neumonic is a garage and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Denver, Losangeles and Newyorkcity and 5 more. Often billed alongside DWATA, Justin Jay and Nightware. Next up: Bourbon On Division, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Neumonic is a garage and house artist based in United States of America, tracked
 
 DWATA, Justin Jay, Nightware
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*

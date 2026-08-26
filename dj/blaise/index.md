@@ -1,6 +1,6 @@
 # Blaise
 
-Blaise is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Le 211, Paris on Fri, 18 Sept 2026.
+Blaise is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le 211, Paris on Fri, 18 Sept 2026.
 
 Blaise is a house and hip-hop artist tracked on soundcheck, with 5 sets logged across Paris and Tokyo. Often billed alongside Casual Treatment, Crowd Control and DJ André. Next up: Le 211, Paris on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Blaise is a house and hip-hop artist tracked on soundcheck, with 5 sets logged a
 
 Casual Treatment, Crowd Control, DJ André
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaise/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blaise/)*

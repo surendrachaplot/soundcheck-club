@@ -1,14 +1,14 @@
 # Gamine
 
-Gamine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Gaffe, London on Fri, 28 Aug 2026.
+Gamine is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar A Bar, London on Fri, 28 Aug 2026.
 
-Gamine is a house and electro artist based in Belgium, tracked on soundcheck, with 25 sets logged across Antwerp, Brussels, Ghent and Lisbon and 4 more. Often billed alongside Maito, DJ Rino and Kuba'97. Next up: Gaffe, London on Fri 28 Aug.
+Gamine is a house and electro artist based in Belgium, tracked on soundcheck, with 25 sets logged across Antwerp, Brussels, Ghent and Lisbon and 4 more. Often billed alongside Maito, DJ Rino and Kuba'97. Next up: Bar A Bar, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Gaffe | London |
+| Fri, 28 Aug 2026 | Bar A Bar | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Gamine is a house and electro artist based in Belgium, tracked on soundcheck, wi
 
 Maito, DJ Rino, Kuba'97
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gamine/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gamine/)*

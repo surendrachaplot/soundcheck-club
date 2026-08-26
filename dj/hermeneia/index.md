@@ -1,6 +1,6 @@
 # Hermeneia
 
-Hermeneia is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 25 Aug 2026, next at Komuna Warszawa, Warsaw on Thu, 27 Aug 2026.
+Hermeneia is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Komuna Warszawa, Warsaw on Thu, 27 Aug 2026.
 
 Hermeneia is a dub and bass artist based in Poland, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside GWAN, 2K88 and GTTRDMMRNG. Next up: Komuna Warszawa, Warsaw on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Hermeneia is a dub and bass artist based in Poland, tracked on soundcheck, with 
 
 GWAN, 2K88, GTTRDMMRNG
 
-*Updated Tue, 25 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeneia/)*
+*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermeneia/)*
