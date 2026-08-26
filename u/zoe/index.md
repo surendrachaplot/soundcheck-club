@@ -1,21 +1,21 @@
 # u/zoe (@zoe)
 
-u/zoe (@zoe) has logged 6 club nights across 3 venues on soundcheck, based in London.
+u/zoe (@zoe) has logged 7 club nights across 4 venues in 2 cities on soundcheck, based in London.
 
-- Nights logged: 6
-- Venues: 3
-- Cities: 1
-- Seen live: 14
+- Nights logged: 7
+- Venues: 4
+- Cities: 2
+- Seen live: 26
 
 ## Most seen
 
+- [Alarico](https://soundcheck.club/dj/alarico/)
+- [ANNĒ](https://soundcheck.club/dj/anne/)
 - [Elli Acula](https://soundcheck.club/dj/elliacula/)
 - [FJAAK](https://soundcheck.club/dj/fjaak/)
+- [Mac Declos](https://soundcheck.club/dj/macdeclos/)
 - [Pablo Bozzi](https://soundcheck.club/dj/pablobozzi/)
-- [Alarico](https://soundcheck.club/dj/alarico/)
 - [Amphia](https://soundcheck.club/dj/amphia/)
-- [ANNĒ](https://soundcheck.club/dj/anne/)
-- [Jennifer Loveless](https://soundcheck.club/dj/jenniferloveless/)
-- [KiNK](https://soundcheck.club/dj/kink/)
+- [BASHKKA](https://soundcheck.club/dj/bashkka/)
 
 *Source: [soundcheck](https://soundcheck.club/u/zoe/)*
