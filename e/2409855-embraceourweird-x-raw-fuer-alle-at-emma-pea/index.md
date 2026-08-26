@@ -1,6 +1,6 @@
 # embraceOurweird x RAW fuer Alle at Emma Pea
 
-embraceOurweird x RAW fuer Alle at Emma Pea on Sat 29 Aug, Berlin. 4 acts on the bill: Hit Beat, JaFrei Loufoque, Phat Beat and RedtomCat. House and Tech House. Preview the line-up and save it on soundcheck.
+embraceOurweird x RAW fuer Alle at Emma Pea on Sat 29 Aug, Berlin. 5 acts on the bill: Hit Beat, JaFrei Loufoque, Max Nytram and Phat Beat and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ embraceOurweird x RAW fuer Alle at Emma Pea on Sat 29 Aug, Berlin. 4 acts on the
 
 - Hit Beat
 - JaFrei Loufoque
+- Max Nytram
 - Phat Beat
 - RedtomCat
 

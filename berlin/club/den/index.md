@@ -12,7 +12,7 @@
 | Thu, 27 Aug 2026 | CANCELLED -  OBXENE |  |
 | Fri, 28 Aug 2026 | Pikante / BENZA, ELOISA, Alfa Cornae & many more  | Alfa Cornae, Amo (IT), BENZA, Bruno Brero, ELOISA, Hanne B, INA RUSH, Jaguar (3), PyjamaMama, RECLUSE (2), SIVINSKI, k4mi |
 | Sat, 29 Aug 2026 | Nacktfleisch - Berlin Queer Summer Open Air August 2026 | Andrew Moore, Cristian Marras, DJ PERIODT |
-| Sat, 29 Aug 2026 | ＬＩＬＩＴＨ ✦ ECHOES OF GEORGIA | CSILLA, DTSDJ (4), Daviti, Maris Shilton, UniKhatu |
+| Sat, 29 Aug 2026 | ＬＩＬＩＴＨ ✦ ECHOES OF GEORGIA | CSILLA, DTSDJ (4), Daviti, Dtsdj, James Cherry, Maris Shilton, UniKhatu |
 | Thu, 3 Sept 2026 | Soundhall | Blosvenn, DMZ (DE), Genghis C_nt, K1000o, PW DISTORTION, Philena, Pylerinstinct1, Redondoo, Yiye, wisje |
 | Fri, 4 Sept 2026 | Cuddles: VIRGO SEASON | Aaron Blau, Chico Blanco, Katy De Jesus, MCMLXXXV, Sterling Juan Diaz, Vani Vachi, Verushka, puppy |
 | Thu, 10 Sept 2026 | CHROMA XXL - OFFBEAT SESSION | Conntex, Delta Division, Jynki, Kali, Ketarina, MZR, Ôneyra |

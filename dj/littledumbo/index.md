@@ -1,13 +1,14 @@
 # Little Dumbo
 
-Little Dumbo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at BUS Hexperience, Barcelona on Fri, 28 Aug 2026.
+Little Dumbo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA -  Motor Oil, Barcelona on Thu, 27 Aug 2026.
 
-Little Dumbo is a house and electro artist tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Jo Kazan, Alphanova and Al Gray. Next up: BUS Hexperience, Barcelona on Fri 28 Aug.
+Little Dumbo is a house and deep house artist tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside Jo Kazan, Alphanova and Al Gray. Next up: TBA -  Motor Oil, Barcelona on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 27 Aug 2026 | TBA -  Motor Oil | Barcelona |
 | Fri, 28 Aug 2026 | BUS Hexperience | Barcelona |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # ＬＩＬＩＴＨ ✦ ECHOES OF GEORGIA at ÆDEN
 
-ＬＩＬＩＴＨ ✦ ECHOES OF GEORGIA at ÆDEN on Sat 29 Aug, Berlin. 5 acts on the bill: CSILLA, Daviti, DTSDJ (4) and Maris Shilton and 1 more. Preview the line-up and save it on soundcheck.
+ＬＩＬＩＴＨ ✦ ECHOES OF GEORGIA at ÆDEN on Sat 29 Aug, Berlin. 7 acts on the bill: CSILLA, Daviti, Dtsdj and DTSDJ (4) and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@
 
 - CSILLA
 - Daviti
+- Dtsdj
 - DTSDJ (4)
+- James Cherry
 - Maris Shilton
 - UniKhatu
 

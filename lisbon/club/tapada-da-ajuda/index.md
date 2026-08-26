@@ -9,7 +9,7 @@ Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 6 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Fuse Records: 15th Anniversary (Day) | Ale De Tuglie, Analodjica, Booka Shade, Boundless (1), Carlos Regadas, DJ Nox, Jorge Martins, Khalil Suleman, Luca Guichard, Luis M., Moullinex, Syper |
-| Sun, 30 Aug 2026 | Brunch Electronik Lisboa 2026 #5: Charlotte de Witte, Vil b2b Temudo, Diana Oliveira, Kokeshi | Charlotte de Witte, Diana Oliveira, Kokeshi, Temudo, VIL (PT) |
+| Sun, 30 Aug 2026 | Brunch Electronik Lisboa 2026 #5: Charlotte de Witte, Vilb, Temudo,Diana Oliveira,Taxsh,Kokeshi | Charlotte de Witte, Diana Oliveira, Kokeshi, Taxsh, Temudo, VIL (PT) |
 | Sun, 13 Sept 2026 | Brunch Electronik Lisboa 2026 #6: Argy + Artists tba | Argy |
 | Sat, 19 Sept 2026 | Brunch Electronik Lisboa 2026 #7: NOVAH, Clara Cuvé, Ornella, GAIVEU, SUSKA | Clara Cuvé, GAIVEU, NOVAH, Ornella, SUSKA |
 | Sat, 26 Sept 2026 | 1/4 Escuro x Vault Sessions with Alarico B2B Freddy K All Night Long | Alarico, Freddy K, Laura Hasagun |

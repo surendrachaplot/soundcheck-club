@@ -1,8 +1,8 @@
 # Mascott
 
-Mascott is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Nells / Common NQ, Edge Street, Manchester on Sat, 29 Aug 2026.
+Mascott is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Nells / Common NQ, Edge Street, Manchester on Sat, 29 Aug 2026.
 
-Mascott is a disco and house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Ibiza, London and Manchester. Often billed alongside Mai Tai, Kellit and Mark Whites. Next up: TBA - Nells / Common NQ, Edge Street, Manchester on Sat 29 Aug.
+Mascott is a disco and house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Ibiza, London and Manchester. Often billed alongside Mai Tai, Kellit and Mark Whites. Next up: TBA - Nells / Common NQ, Edge Street, Manchester on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mascott is a disco and house artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - Nells / Common NQ, Edge Street | Manchester |
 | Sun, 30 Aug 2026 | Redlight | Manchester |
+| Fri, 4 Sept 2026 | Tangerine | Manchester |
 
 ## Recently played
 

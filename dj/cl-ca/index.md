@@ -1,8 +1,8 @@
 # Ciel
 
-Ciel is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Ciel is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: Southwark Park, London on Sat 29 Aug.
+Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Milch (1), Venus in Foil and CCL. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ciel is a techno and house artist based in Canada, tracked on soundcheck, with 2
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 | Sat, 5 Sept 2026 | Central 1926 | Sao Paulo |
+| Thu, 10 Sept 2026 | Blå | Oslo |
 | Fri, 11 Sept 2026 | Karmakoma | Belgrade |
 | Wed, 16 Sept 2026 | The Berkeley Suite | Glasgow |
 | Fri, 18 Sept 2026 | Bassiani | Tbilisi |

@@ -1,8 +1,8 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
 
-Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: UNLOCKED, London on Sat 5 Sept.
+Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: UNLOCKED, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Eelke Kleijn is a progressive house and techno artist tracked on soundcheck, wit
 | Fri, 25 Sept 2026 | TBA - Newcastle Australia | Newcastle |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 10 Oct 2026 | TBA | Melbourne |
+| Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 

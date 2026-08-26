@@ -1,6 +1,6 @@
 # Angels Pride Party at renae
 
-Angels Pride Party at renae on Sun 30 Aug, Manchester. 5 acts on the bill: FKA Hardcore, Jess Rose, Miss Cabbage and The Fat Britney and 1 more. House and Baile Funk. Preview the line-up and save it on soundcheck.
+Angels Pride Party at renae on Sun 30 Aug, Manchester. 6 acts on the bill: atalaya, FKA Hardcore, Jess Rose and Miss Cabbage and 2 more. House and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Angels Pride Party at renae on Sun 30 Aug, Manchester. 5 acts on the bill: FKA H
 
 ## Line-up
 
+- atalaya
 - FKA Hardcore
 - Jess Rose
 - Miss Cabbage

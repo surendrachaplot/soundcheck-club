@@ -10,7 +10,7 @@ Electric Garden is a music venue in Dublin listed on soundcheck. 3 upcoming nigh
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TIMELESS HOUSE Vol 2 | DJ PIERR, Dean Sherry, Dr.Flamer, Paddy Sheridan |
 | Sat, 12 Sept 2026 | No Signal | Leo Cardi, MOGO |
-| Sat, 26 Sept 2026 | NOMADA |  |
+| Sat, 26 Sept 2026 | NOMADA: B2B Bouclée & Repeater |  |
 
 ## Address
 

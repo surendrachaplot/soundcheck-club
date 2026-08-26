@@ -10,7 +10,7 @@ renae is a music venue in Manchester listed on soundcheck. 11 upcoming nights, w
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | PHAT collective - Manchester Pride Weekend Rave |  |
 | Sat, 29 Aug 2026 | ROJAK PESTA PRIDE 2026 [FREE ENTRY] | Abena, Ayy Den, Charms, DANCING WITH STANLEY, Kuriboh, Natalia (2), sebastieN |
-| Sun, 30 Aug 2026 | Angels Pride Party | FKA Hardcore, Jess Rose, Miss Cabbage, The Fat Britney, Yyre |
+| Sun, 30 Aug 2026 | Angels Pride Party | FKA Hardcore, Jess Rose, Miss Cabbage, The Fat Britney, Yyre, atalaya |
 | Sat, 5 Sept 2026 | CLUBCOSMICA |  |
 | Sat, 5 Sept 2026 | CLUBCOSMICA | DAISY, KRÄFTY, eira haul |
 | Fri, 11 Sept 2026 | OFF-VISION presents Gabriel Belabbas | Gabriel Belabbas, j:me |
