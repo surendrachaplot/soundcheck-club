@@ -41,11 +41,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.66e067ae021e.css">
+  <link rel="stylesheet" href="/app.2f7a373c0be3.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787819799115">
+<meta name="sc-build" content="1787821596734">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=Oslo&s=Find%20your%20music%20for%20tonight" />
   <link rel="canonical" href="https://soundcheck.club/oslo/" />
 </head>
@@ -195,6 +195,7 @@
 
   <div class="fab-stack" id="fab-stack">
     <div class="radio-fab" id="radio-fab">
+      <span class="rf-video" id="radio-video" aria-hidden="true"></span>
       <button class="rf-main" id="radio-fab-main" type="button" aria-label="Play the weekend radio">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
       </button>
@@ -222,7 +223,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.66e067ae021e.js" defer></script>
+  <script src="/app.2f7a373c0be3.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → whole app at 90% on Android.

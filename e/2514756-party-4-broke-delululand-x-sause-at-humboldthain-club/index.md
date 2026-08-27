@@ -1,6 +1,6 @@
 # PARTY 4 BROKE // Delululand x Sause at Humboldthain Club
 
-PARTY 4 BROKE // Delululand x Sause at Humboldthain Club on Sat 5 Sept, Berlin. 6 acts on the bill: DJ Spaßgetränk, EZA (DE), Konsument and Lezza and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+PARTY 4 BROKE // Delululand x Sause at Humboldthain Club on Sat 5 Sept, Berlin. 7 acts on the bill: DJ Spaßgetränk, EZA (DE), Konsument and Lezza and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ PARTY 4 BROKE // Delululand x Sause at Humboldthain Club on Sat 5 Sept, Berlin. 
 - EZA (DE)
 - Konsument
 - Lezza
+- MARRE
 - Patchy
 - Paul Bauhaus
 

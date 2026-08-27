@@ -1,14 +1,15 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bikini Beach, Cologne on Fri, 28 Aug 2026.
+Robag Wruhme is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bikini Beach, Cologne on Fri, 28 Aug 2026.
 
-Robag Wruhme is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Bikini Beach, Cologne on Fri 28 Aug.
+Robag Wruhme is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: Bikini Beach, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Bikini Beach | Cologne |
+| Sat, 12 Sept 2026 | SAGE | Berlin |
 | Sun, 13 Sept 2026 | Sparta Schwimmclub | Frankfurt |
 | Fri, 25 Sept 2026 | fi | Cologne |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |

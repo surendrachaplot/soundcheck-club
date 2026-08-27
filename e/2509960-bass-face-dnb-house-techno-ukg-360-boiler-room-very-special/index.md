@@ -1,6 +1,6 @@
-# Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS at The Cause
+# Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause
 
-Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS at The Cause on Sat 24 Oct, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause on Sat 24 Oct, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

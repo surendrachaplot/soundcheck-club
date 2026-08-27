@@ -976,6 +976,20 @@
     .rf-main svg { width:var(--icon-sm); height:var(--icon-sm); }
     .radio-fab.onair { background:var(--surface); color:var(--accent); border:1px solid var(--accent); max-width:330px; padding:6px 7px 6px 13px; }
     .radio-fab.onair .rf-main svg { animation:radio-pulse 1.6s ease-in-out infinite; }
+    /* THE RADIO PLAYER IS ON SCREEN. It used to live in a host parked at
+       left:-9999px, which is precisely the "background player" YouTube's
+       developer policy prohibits (III.I.9 — a player not displayed in the page
+       the user is viewing), and playing only its audio is III.I.7. It is a real
+       visible tile in the on-air bar now: small, but shown, in the tab you are
+       looking at, and it is what is actually making the sound. */
+    .rf-video { display:none; }
+    .radio-fab.onair .rf-video { display:block; width:96px; height:54px; flex:none;
+                                 border-radius:var(--radius-2xs); overflow:hidden; background:#000; }
+    .rf-video iframe { width:96px; height:54px; border:0; display:block; }
+    @media (max-width:620px){
+      body.radio-on .radio-fab.onair .rf-video { width:80px; height:45px; }
+      body.radio-on .rf-video iframe { width:80px; height:45px; }
+    }
     .radio-fab .rf-tx { display:flex; flex-direction:column; align-items:flex-start; text-align:left; min-width:0; }
     .radio-fab .rf-t { line-height:1.2; font:800 var(--fs-xs)/var(--lh-xs) var(--head); letter-spacing:0.1em; text-transform:uppercase; }
     .radio-fab .rf-sub { display:block; font:600 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.04em; text-transform:none; opacity:0.75; margin-top:2px; max-width:150px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -3670,65 +3684,65 @@
        like, and where" were the last thing you reached. They are a column that
        stays on screen now, and every row is a real page (/london/house/,
        /london/in/dalston/), not a filter that vanishes on reload. */
-    .sg-wrap{ display:grid; grid-template-columns:268px minmax(0,1fr); gap:28px; align-items:start; margin-top:20px; }
-    .sg-main{ min-width:0; }
-    .sg-rail{ position:sticky; top:88px; display:flex; flex-direction:column; gap:14px; min-width:0; }
-    .sg-card{ min-width:0; }
-    .sg-card{ border:1px solid var(--border); border-radius:var(--radius); background:var(--surface); padding:14px 14px 10px; }
-    .sg-card > h4{ margin:0 0 8px; padding:0 10px; font:800 var(--fs-lg)/1.2 var(--head); color:var(--fg); }
-    .sg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px;
+    .scg-wrap{ display:grid; grid-template-columns:268px minmax(0,1fr); gap:28px; align-items:start; margin-top:20px; }
+    .scg-main{ min-width:0; }
+    .scg-rail{ position:sticky; top:88px; display:flex; flex-direction:column; gap:14px; min-width:0; }
+    .scg-card{ min-width:0; }
+    .scg-card{ border:1px solid var(--border); border-radius:var(--radius); background:var(--surface); padding:14px 14px 10px; }
+    .scg-card > h4{ margin:0 0 8px; padding:0 10px; font:800 var(--fs-lg)/1.2 var(--head); color:var(--fg); }
+    .scg-row{ display:flex; align-items:center; justify-content:space-between; gap:10px;
              height:34px; padding:0 10px; border-radius:var(--radius-pill); color:var(--fg);
              font:500 var(--fs-sm)/1 var(--body); text-decoration:none; }
-    .sg-row:hover{ background:var(--surface-2); }
-    .sg-row .sg-n{ color:var(--faint); font-size:var(--fs-xs); font-variant-numeric:tabular-nums; }
-    .sg-row.on{ background:var(--sel-weak); border:1px solid var(--sel); font-weight:700; }
-    .sg-more{ display:block; padding:6px 10px 2px; font:700 var(--fs-xs)/1.2 var(--body); color:var(--accent); text-decoration:none; }
+    .scg-row:hover{ background:var(--surface-2); }
+    .scg-row .scg-n{ color:var(--faint); font-size:var(--fs-xs); font-variant-numeric:tabular-nums; }
+    .scg-row.on{ background:var(--sel-weak); border:1px solid var(--sel); font-weight:700; }
+    .scg-more{ display:block; padding:6px 10px 2px; font:700 var(--fs-xs)/1.2 var(--body); color:var(--accent); text-decoration:none; }
     /* The board has no accent bar under this title — .page-title::after draws a
        flat 72x6 --accent rule on every other page, and the guide's own eyebrow
        does that job here. */
-    .sg-h1::after{ display:none !important; }
-    .sg-head{ display:flex; align-items:flex-end; gap:20px; }
-    .sg-headtx{ flex:1; min-width:0; }
-    .sg-eyebrow{ font:700 var(--fs-2xs)/1 var(--body); letter-spacing:.12em; text-transform:uppercase;
+    .scg-h1::after{ display:none !important; }
+    .scg-head{ display:flex; align-items:flex-end; gap:20px; }
+    .scg-headtx{ flex:1; min-width:0; }
+    .scg-eyebrow{ font:700 var(--fs-2xs)/1 var(--body); letter-spacing:.12em; text-transform:uppercase;
                  color:var(--faint); margin-bottom:8px; }
-    .sg-head .page-title{ margin:0 0 10px; font-size:clamp(2rem,4.4vw,2.9rem); }
-    .sg-play{ flex:none; }
+    .scg-head .page-title{ margin:0 0 10px; font-size:clamp(2rem,4.4vw,2.9rem); }
+    .scg-play{ flex:none; }
     /* Filter state. The board keeps ONE headline and says what is filtered here,
        rather than swapping the title — so the page you land on from a sound and
        the page you filtered to are the same page. */
-    .sg-showing{ display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    .scg-showing{ display:flex; align-items:center; gap:10px; flex-wrap:wrap;
                  font:500 var(--fs-sm)/1 var(--body); color:var(--faint); margin-bottom:4px; }
-    .sg-chip{ display:inline-flex; align-items:center; gap:7px; height:26px; padding:0 10px;
+    .scg-chip{ display:inline-flex; align-items:center; gap:7px; height:26px; padding:0 10px;
               border-radius:var(--radius-pill); background:var(--sel-weak); border:1px solid var(--sel);
               color:var(--fg); font-weight:600; text-decoration:none; }
-    .sg-chip b{ font-weight:700; }
-    .sg-chip .x{ color:var(--muted); font-size:14px; line-height:1; }
+    .scg-chip b{ font-weight:700; }
+    .scg-chip .x{ color:var(--muted); font-size:14px; line-height:1; }
     @media (max-width:640px){
-      .sg-head{ flex-direction:column; align-items:stretch; gap:12px; }
-      .sg-play{ align-self:flex-start; }
+      .scg-head{ flex-direction:column; align-items:stretch; gap:12px; }
+      .scg-play{ align-self:flex-start; }
     }
-    .sg-week{ display:flex; align-items:center; gap:12px; margin:22px 0 12px; }
-    .sg-week h3{ margin:0; font:800 var(--fs-lg)/1.2 var(--head); color:var(--fg); white-space:nowrap; }
-    .sg-week .sg-rule{ flex:1; height:1px; background:var(--border); }
-    .sg-week .sg-when{ font:500 var(--fs-xs)/1 var(--body); color:var(--faint); white-space:nowrap; }
+    .scg-week{ display:flex; align-items:center; gap:12px; margin:22px 0 12px; }
+    .scg-week h3{ margin:0; font:800 var(--fs-lg)/1.2 var(--head); color:var(--fg); white-space:nowrap; }
+    .scg-week .scg-rule{ flex:1; height:1px; background:var(--border); }
+    .scg-week .scg-when{ font:500 var(--fs-xs)/1 var(--body); color:var(--faint); white-space:nowrap; }
     /* On a phone the rail cannot be a column: stacked, twenty rows of sound and
        area push the first event a screen and a half down, which is the opposite
        of what this redesign is for. Each card becomes ONE scrollable line, so
        both lists stay above the fold and cost ~100px between them. */
     @media (max-width:900px){
-      .sg-wrap{ grid-template-columns:minmax(0,1fr); gap:14px; }
+      .scg-wrap{ grid-template-columns:minmax(0,1fr); gap:14px; }
       /* Sticky needs somewhere to stick; stacked on a phone it would pin the
          rail over the list it is meant to filter. */
-      .sg-rail{ position:static; gap:8px; }
-      .sg-card{ display:flex; align-items:center; gap:8px; padding:8px 12px;
+      .scg-rail{ position:static; gap:8px; }
+      .scg-card{ display:flex; align-items:center; gap:8px; padding:8px 12px;
                 overflow-x:auto; overflow-y:hidden; scrollbar-width:none; }
-      .sg-card::-webkit-scrollbar{ display:none; }
-      .sg-card > h4{ flex:none; margin:0; padding:0 2px 0 0;
+      .scg-card::-webkit-scrollbar{ display:none; }
+      .scg-card > h4{ flex:none; margin:0; padding:0 2px 0 0;
                      font:700 var(--fs-2xs)/1 var(--body); letter-spacing:.1em;
                      text-transform:uppercase; color:var(--faint); }
-      .sg-row{ flex:none; height:32px; padding:0 12px; gap:7px;
+      .scg-row{ flex:none; height:32px; padding:0 12px; gap:7px;
                border:1px solid var(--border); font-weight:600; }
-      .sg-more{ flex:none; padding:0 4px; white-space:nowrap; }
+      .scg-more{ flex:none; padding:0 4px; white-space:nowrap; }
     }
     .ptr{ position:fixed; left:0; right:0; top:0; z-index:60; display:flex; justify-content:center;
           pointer-events:none; transform:translateY(calc(var(--ptrY, 0px) - 44px));
@@ -4202,7 +4216,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787819799115">
+<meta name="sc-build" content="1787821596734">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4261,7 +4275,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">138 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">98 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">23 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">138 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">98 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">24 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4352,6 +4366,7 @@
 
   <div class="fab-stack" id="fab-stack">
     <div class="radio-fab" id="radio-fab">
+      <span class="rf-video" id="radio-video" aria-hidden="true"></span>
       <button class="rf-main" id="radio-fab-main" type="button" aria-label="Play the weekend radio">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
       </button>
@@ -5495,14 +5510,32 @@
     // without a fresh gesture. Sets play minutes 6→12 (start=360).
     var radioYt=null, radioIframe=null, radioWidgetReady=false;
     function radioHostEl(){
-      var h=document.getElementById('radio-audio');
-      if(!h){ h=document.createElement('div'); h.id='radio-audio'; h.style.cssText='position:fixed;left:-9999px;top:0;width:300px;height:170px;pointer-events:none'; document.body.appendChild(h); }
+      // The slot in the on-air bar. If the bar is not in the DOM for some reason,
+      // the fallback is still ON SCREEN — bottom-left, above the bar — because an
+      // off-screen host is the thing this change exists to remove.
+      var h=document.getElementById('radio-video');
+      if(h) return h;
+      h=document.getElementById('radio-audio');
+      if(!h){
+        h=document.createElement('div'); h.id='radio-audio';
+        h.style.cssText='position:fixed;left:16px;bottom:calc(96px + env(safe-area-inset-bottom));'
+                      + 'width:96px;height:54px;z-index:56;border-radius:6px;overflow:hidden;background:#000';
+        document.body.appendChild(h);
+      }
       return h;
     }
     // Create the persistent player cued to `entry` (NOT auto-playing). onReady
     // fires once the IFrame API is bound and ready.
     function radioBuildWidget(entry, onReady){
-      if(!radioIframe){ radioIframe=document.createElement('iframe'); radioIframe.className='yt'; radioIframe.allow='autoplay; encrypted-media'; radioIframe.width='300'; radioIframe.height='170'; radioHostEl().appendChild(radioIframe); }
+      if(!radioIframe){
+        radioIframe=document.createElement('iframe'); radioIframe.className='yt';
+        radioIframe.allow='autoplay; encrypted-media';
+        // Sized to the visible tile. 300x170 was the size of a player nobody
+        // could see; these are the dimensions it actually occupies.
+        radioIframe.width='96'; radioIframe.height='54';
+        radioIframe.setAttribute('title','soundcheck radio');
+        radioHostEl().appendChild(radioIframe);
+      }
       radioWidgetReady=false;
       radioIframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(entry.yt)+
         '?enablejsapi=1&autoplay=0&rel=0&playsinline=1&start=360&origin='+encodeURIComponent(location.origin);
@@ -9710,12 +9743,12 @@
         var hit = rows.filter(function(r){ return r.slug===onSlug; })[0];
         if(hit) shown = [hit].concat(shown.slice(0,7));
       }
-      return '<div class="sg-card"><h4>'+esc(title)+'</h4>'+
+      return '<div class="scg-card"><h4>'+esc(title)+'</h4>'+
         shown.map(function(r){
-          return '<a class="sg-row nav'+(r.slug===onSlug?' on':'')+'" href="'+esc(href(r))+'">'+esc(label(r))+
-                 '<span class="sg-n">'+count(r)+'</span></a>';
+          return '<a class="scg-row nav'+(r.slug===onSlug?' on':'')+'" href="'+esc(href(r))+'">'+esc(label(r))+
+                 '<span class="scg-n">'+count(r)+'</span></a>';
         }).join('')+
-        (rows.length>shown.length ? '<a class="sg-more nav" href="'+esc(allHref)+'">'+esc(allLabel.replace('{n}', rows.length))+'</a>' : '')+
+        (rows.length>shown.length ? '<a class="scg-more nav" href="'+esc(allHref)+'">'+esc(allLabel.replace('{n}', rows.length))+'</a>' : '')+
       '</div>';
     }
     // ONE renderer for the guide, whether or not a sound or an area is chosen.
@@ -9741,15 +9774,15 @@
         var sub=[n30.nights?num(n30.nights)+' nights':'', n30.venues?num(n30.venues)+' venues':'', n30.artists?num(n30.artists)+' artists':'']
                 .filter(Boolean).join(' · ');
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button>'+
-          '<div class="sg-head"><div class="sg-headtx">'+
-            '<div class="sg-eyebrow">Scene guide</div>'+
-            '<h2 class="page-title sg-h1">'+esc(nm)+', next 30 days</h2>'+
+          '<div class="scg-head"><div class="scg-headtx">'+
+            '<div class="scg-eyebrow">Scene guide</div>'+
+            '<h2 class="page-title scg-h1">'+esc(nm)+', next 30 days</h2>'+
             '<div class="sub">'+(sub?esc(sub)+'. ':'')+'Filter by sound or area — hit play on anything.</div>'+
           '</div>'+
-          '<button class="fp-ab go sg-play" id="cs-play" type="button">'+PLAY_SVG+'<span>Play the month</span></button>'+
+          '<button class="fp-ab go scg-play" id="cs-play" type="button">'+PLAY_SVG+'<span>Play the month</span></button>'+
           '</div>'+
-          '<div class="sg-wrap"><div class="sg-rail" id="cs-rail"></div>'+
-          '<div class="sg-main"><div id="cs-showing"></div><div id="cs-weeks"></div>'+
+          '<div class="scg-wrap"><div class="scg-rail" id="cs-rail"></div>'+
+          '<div class="scg-main"><div id="cs-showing"></div><div id="cs-weeks"></div>'+
           '<div id="cs-playing"></div><div id="cs-venues"></div>'+
           '<div class="sec-h" style="margin-top:26px">On the map</div>'+
           '<div id="cs-map" class="cs-map-hero"></div>'+
@@ -9783,8 +9816,8 @@
 
         (function(){
           var box=document.getElementById('cs-showing'); if(!box||!filter) return;
-          box.innerHTML='<div class="sg-showing">Showing '+
-            '<a class="sg-chip nav" href="'+esc(SC_BASE+city+'/scene/')+'"><b>'+esc(filter.name)+'</b><span class="x">&times;</span></a>'+
+          box.innerHTML='<div class="scg-showing">Showing '+
+            '<a class="scg-chip nav" href="'+esc(SC_BASE+city+'/scene/')+'"><b>'+esc(filter.name)+'</b><span class="x">&times;</span></a>'+
             '<span>'+(count!=null?num(count)+' nights':'')+' across '+esc(nm)+'</span></div>';
         })();
 
@@ -9793,8 +9826,8 @@
           var groups=sceneWeeks(evs);
           if(!groups.length){ box.innerHTML='<div class="empty">Nothing listed yet.</div>'; return; }
           box.innerHTML=groups.map(function(g,i){
-            return '<div class="sg-week"><h3>'+esc(g.label)+'</h3><div class="sg-rule"></div>'+
-                   '<div class="sg-when">'+esc(sceneRange(g.evs))+'</div></div><div id="cs-wk-'+i+'"></div>';
+            return '<div class="scg-week"><h3>'+esc(g.label)+'</h3><div class="scg-rule"></div>'+
+                   '<div class="scg-when">'+esc(sceneRange(g.evs))+'</div></div><div id="cs-wk-'+i+'"></div>';
           }).join('');
           groups.forEach(function(g,i){ mountEventCards(document.getElementById('cs-wk-'+i), g.evs, { list:true }); });
         })();
@@ -12516,11 +12549,34 @@
     // Mobile keyboard: when an autocomplete input (.sg-wrap — log-a-gig / import city, artist,
     // venue) is focused, scroll it toward the top so its dropdown opens in the space ABOVE the
     // on-screen keyboard rather than behind it.
+    // ONLY WHEN THE INPUT IS ACTUALLY IN THE WAY. This used to fire on every
+    // focusin and smooth-scroll the field to the top of the screen. Picking an
+    // artist in log-a-gig refocuses the input so you can add another, so every
+    // pick queued another scroll — and with the chip changing the layout at the
+    // same time, the page visibly wobbled after each one.
+    //
+    // Now it measures first: if the field and the space its dropdown needs are
+    // already above the keyboard, nothing moves. block:'nearest' rather than
+    // 'start' for the same reason — an input that only needs 20px does not get
+    // yanked to the top.
+    var _sgScrolled=null;
     document.addEventListener('focusin',function(e){
       var inp=e.target&&e.target.closest&&e.target.closest('.sg-wrap input');
       if(!inp || !window.matchMedia('(max-width:620px)').matches) return;
-      setTimeout(function(){ try{ inp.scrollIntoView({block:'start',behavior:'smooth'}); }catch(_){ } },300);
+      if(_sgScrolled===inp) return;              // already handled this field
+      setTimeout(function(){
+        if(document.activeElement!==inp) return; // focus moved on; leave the page alone
+        try{
+          var vv=window.visualViewport, bottom=vv?vv.height:window.innerHeight;
+          var r=inp.getBoundingClientRect();
+          var NEEDED=190;                         // input + a usable dropdown
+          if(r.bottom + NEEDED <= bottom) return; // there is already room — do not move
+          _sgScrolled=inp;
+          inp.scrollIntoView({block:'nearest',behavior:'smooth'});
+        }catch(_){ }
+      },300);
     });
+    document.addEventListener('focusout',function(e){ if(_sgScrolled===e.target) _sgScrolled=null; });
 
     async function fetchDay(date){
       var key=currentCity+'|'+date;

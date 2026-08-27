@@ -15,7 +15,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 17 upcoming nights
 | Sun, 30 Aug 2026 | PULSE x POSH x EITC London present: The Official London Carnival Lineup |  |
 | Sun, 30 Aug 2026 | Prito Sounds Vol. 7 |  |
 | Mon, 31 Aug 2026 | Jeremiah Asiamah presents: CARNIVAL | Donnie Sunshine, Jeremiah Asiamah |
-| Fri, 4 Sept 2026 | Remember Them Days: UK Funky Special feat. Crazy Cousinz | Crazy Cousinz, Donch, Scottyinside |
+| Fri, 4 Sept 2026 | Remember Them Days: Crazy Cousinz & Donch | Crazy Cousinz, Donch, Scottyinside |
 | Sat, 5 Sept 2026 | House & Disco at Jamm |  |
 | Fri, 11 Sept 2026 | Raise the Bar presents: Wrekonize - Edited for Reality UK Tour |  |
 

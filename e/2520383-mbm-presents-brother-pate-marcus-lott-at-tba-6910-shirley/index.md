@@ -1,6 +1,6 @@
 # MBM presents: Brother Pate + Marcus Lott at TBA - 6910 Shirley 
 
-MBM presents: Brother Pate + Marcus Lott at TBA - 6910 Shirley  on Sat 29 Aug, Austin. 2 acts on the bill: Brother Pate and Marcus Lott. Deep House. Preview the line-up and save it on soundcheck.
+MBM presents: Brother Pate + Marcus Lott at TBA - 6910 Shirley  on Sat 29 Aug, Austin. 2 acts on the bill: Brother Pate and Marcus Lott. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

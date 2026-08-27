@@ -1,14 +1,14 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 45 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Amsterdam Techno Sessions" on Thu, 27 Aug 2026.
+John Doe is a music venue in Amsterdam with 46 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Amsterdam Techno Sessions - EXTENDED with Marco Ramos (Illegal Alien Records)" on Thu, 27 Aug 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 45 upcoming nights, with line-ups including A.L.A.E, Alex Medina, ARTISTIKK and Alex Sharp and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 46 upcoming nights, with line-ups including A.L.A.E, Alex Medina, ARTISTIKK and Alex Sharp and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Amsterdam Techno Sessions | Marco Ramos |
+| Thu, 27 Aug 2026 | Amsterdam Techno Sessions - EXTENDED with Marco Ramos (Illegal Alien Records) | Marco Ramos |
 | Fri, 28 Aug 2026 | RAVEGROUND - Hard Techno & Hard Bounce | Gaya Carmeli, Paroxyzm, SASHE (2), saskia laval |
 | Sat, 29 Aug 2026 | TEDER | CØPTER, Gaya Carmeli, Nettta |
 | Sun, 30 Aug 2026 | No Sundays Without Techno | Alex Sharp |

@@ -1,8 +1,8 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Passion DEEZ & Friends" on Thu, 27 Aug 2026.
+nachbar is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Passion DEEZ & Friends" on Thu, 27 Aug 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including AiMii, angelboy, Passion DEEZ and Schwesta P and 1 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including AiMii, angelboy, Passion DEEZ and Schwesta P and 1 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

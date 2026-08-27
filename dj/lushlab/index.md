@@ -1,14 +1,15 @@
 # Lush Lab
 
-Lush Lab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Lush Lab is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Lush Lab is a techno and house artist tracked on soundcheck, with 21 sets logged across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Charlie Vaux and Electric Visionary. Next up: Renate, Berlin on Fri 11 Sept.
+Lush Lab is an ebm and techno artist tracked on soundcheck, with 22 sets logged across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Charlie Vaux and Electric Visionary. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Renate | Berlin |
+| Fri, 2 Oct 2026 | Void Club | Berlin |
 
 ## Recently played
 

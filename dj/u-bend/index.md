@@ -1,8 +1,8 @@
 # U-BEND
 
-U-BEND is a Balearic and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Yard, Manchester on Sat, 12 Sept 2026.
+U-BEND is a Balearic and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Yard, Manchester on Sat, 12 Sept 2026.
 
-U-BEND is a balearic and electronica artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London, Manchester and Melbourne. Often billed alongside A For Alpha, A-Bril and AYSHA. Next up: The Yard, Manchester on Sat 12 Sept.
+U-BEND is a balearic and acid artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, London, Manchester and Melbourne. Often billed alongside A For Alpha, A-Bril and AYSHA. Next up: The Yard, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ U-BEND is a balearic and electronica artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Yard | Manchester |
 | Sat, 26 Sept 2026 | The Victory | London |
+| Sun, 25 Oct 2026 | TBA - Cafe Westerdok | Amsterdam |
 
 ## Recently played
 

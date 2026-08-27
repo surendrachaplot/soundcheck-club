@@ -1,8 +1,8 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at El Rey Theatre, Los Angeles on Thu, 1 Oct 2026.
+DJ_Dave is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at El Rey Theatre, Los Angeles on Thu, 1 Oct 2026.
 
-DJ_Dave is a techno and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Barcelona, Boston, Losangeles and Lyon and 6 more. Often billed alongside Alice Longyu Gao, B0YG1RL and Ella Warren. Next up: El Rey Theatre, Losangeles on Thu 1 Oct.
+DJ_Dave is a techno and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Boston and Losangeles and 7 more. Often billed alongside Alice Longyu Gao, B0YG1RL and Ella Warren. Next up: El Rey Theatre, Losangeles on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ_Dave is a techno and electronica artist based in United States of America, tr
 | Thu, 1 Oct 2026 | El Rey Theatre | Los Angeles |
 | Sat, 17 Oct 2026 | Bar Le Ritz PDB | Montreal |
 | Sat, 31 Oct 2026 | Roadrunner | Boston |
+| Wed, 25 Nov 2026 | Huxley's Neue Welt | Berlin |
 
 ## Recently played
 

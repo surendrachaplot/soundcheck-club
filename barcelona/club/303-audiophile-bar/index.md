@@ -15,7 +15,7 @@
 | Fri, 11 Sept 2026 | &Friends at 303 pres. Michael James | Downtown Sai, Fontana (ES), Michael James |
 | Sat, 12 Sept 2026 | Just Modular at 303 | ICKX, Selten, Waveratio 618 |
 | Thu, 17 Sept 2026 | Recordeep at 303 | CMYK, Noiro |
-| Fri, 18 Sept 2026 | Simple Times at 303 | 100 faces, DJ Gamba, Rafatel, Valeriana |
+| Fri, 18 Sept 2026 | Warping Time at 303 | 100 faces, DJ Gamba, Rafatel, Valeriana |
 | Sat, 19 Sept 2026 | Cupula Records at 303 |  |
 | Wed, 23 Sept 2026 | Grabe at 303 | Angel Mellado, Lisandro Mustapic |
 

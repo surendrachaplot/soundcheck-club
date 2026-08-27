@@ -9,7 +9,7 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 15 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Night District | Amy Kisnorbo, Dub Isotope, Forward Sisters, Genoe, Larhythmix, Migz, janosch |
-| Fri, 28 Aug 2026 | Disco Drops | C.love, Nigel Nagel |
+| Fri, 28 Aug 2026 | Disco Drops | C.love, Moni von Pisani, Nigel Nagel |
 | Sat, 29 Aug 2026 | STAY TOXIC x RAZJOB [FREE ENTRY*] |  |
 | Sun, 30 Aug 2026 | Dyke Goth Night |  |
 | Thu, 3 Sept 2026 | Disco Oasis | NuAmo |
