@@ -1,6 +1,6 @@
 # Bronx TechnoZoo >> Ms. K - Bella is FREE >> OSO >> NOUIS KLEAR >> HOLTTER >> RAVEMAN at Eventhuset
 
-Bronx TechnoZoo >> Ms. K - Bella is FREE >> OSO >> NOUIS KLEAR >> HOLTTER >> RAVEMAN at Eventhuset on Sat 29 Aug, Stockholm. 3 acts on the bill: Ms. K, Nous Klear and OSO (3). Techno and Tech House. Preview the line-up and save it on soundcheck.
+Bronx TechnoZoo >> Ms. K - Bella is FREE >> OSO >> NOUIS KLEAR >> HOLTTER >> RAVEMAN at Eventhuset on Sat 29 Aug, Stockholm. 5 acts on the bill: Ms. K, Nous Klear, OSO (3) and Raveman and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,7 @@ Bronx TechnoZoo >> Ms. K - Bella is FREE >> OSO >> NOUIS KLEAR >> HOLTTER >> RAV
 - Ms. K
 - Nous Klear
 - OSO (3)
+- Raveman
+- Viktor Hemgren
 
 *Source: [soundcheck](https://soundcheck.club/e/2511541-bronx-technozoo-ms-k-bella-is-free-oso-nouis-klear-holtter-r/)*

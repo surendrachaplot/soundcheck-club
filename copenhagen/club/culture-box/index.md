@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave" on Fri, 28 Aug 2026.
+Culture Box is a music venue in Copenhagen with 21 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave" on Fri, 28 Aug 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including ADAPT (DK), Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights, with line-ups including ADAPT (DK), Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 

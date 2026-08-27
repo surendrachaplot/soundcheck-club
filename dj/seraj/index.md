@@ -1,8 +1,8 @@
 # Sera J
 
-Sera J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
+Sera J is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
-Sera J is a techno and house artist based in Greece, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
+Sera J is a techno and house artist based in Greece, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sera J is a techno and house artist based in Greece, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | BASEMENT | New York City |
 | Sat, 12 Sept 2026 | SMUT Athens | Athens |
+| Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played

@@ -9,7 +9,7 @@ Lance Morgan is a deep house and house artist tracked on soundcheck, with 53 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sector 57 | Birmingham |
-| Sun, 30 Aug 2026 | Onyx (E1) | London |
+| Sun, 30 Aug 2026 | E1 | London |
 
 ## Recently played
 

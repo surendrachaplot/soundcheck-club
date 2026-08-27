@@ -1,8 +1,8 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+ALISHA is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-ALISHA is a house and tech house artist tracked on soundcheck, with 178 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Sidney Charles. Next up: Kelvedon Hall, London on Sat 29 Aug.
+ALISHA is a house and tech house artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 178 sets log
 | Sun, 20 Sept 2026 | Thuishaven | Amsterdam |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
+| Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | The Limelight | Belfast |
 | Sat, 3 Oct 2026 | Marcfait | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Now&Wow | Rotterdam |
-| Sat, 7 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ ALISHA is a house and tech house artist tracked on soundcheck, with 178 sets log
 
 ## Shares bills with
 
-East End Dubs, Jamie Jones, Sidney Charles
+East End Dubs, Jamie Jones, Max Dean
 
 *Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

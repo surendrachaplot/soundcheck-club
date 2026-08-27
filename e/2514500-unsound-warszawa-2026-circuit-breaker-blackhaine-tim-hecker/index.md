@@ -1,6 +1,6 @@
-# Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker & Vincent de Belleval + more at Tunelowa
+# Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker & Vincent de Belleval at Tunelowa
 
-Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker & Vincent de Belleval + more at Tunelowa on Sun 4 Oct, Warsaw. 2 acts on the bill: Blackhaine and Tim Hecker. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker & Vincent de Belleval at Tunelowa on Sun 4 Oct, Warsaw. 2 acts on the bill: Blackhaine and Tim Hecker. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

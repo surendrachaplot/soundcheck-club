@@ -11,7 +11,7 @@ European 305 is an amapiano and afro house artist tracked on soundcheck, with 34
 | Fri, 28 Aug 2026 | E1 | London |
 | Fri, 28 Aug 2026 | Egg London | London |
 | Sat, 29 Aug 2026 | Theata | London |
-| Sun, 30 Aug 2026 | Onyx (E1) | London |
+| Sun, 30 Aug 2026 | E1 | London |
 
 ## Recently played
 

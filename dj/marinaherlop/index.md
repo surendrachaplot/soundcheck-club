@@ -1,13 +1,14 @@
 # Marina Herlop
 
-Marina Herlop is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Marina Herlop is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Teatr Łaźnia Nowa, Krakow on Fri, 9 Oct 2026.
 
-Marina Herlop is an experimental and club artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside James Holden, Kode9 and Bill Kouligas. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Marina Herlop is an experimental and club artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside James Holden, Kode9 and Bill Kouligas. Next up: Teatr Łaźnia Nowa, Krakow on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Teatr Łaźnia Nowa | Krakow |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played

@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Rave Ritual | MOSHBEAT, Plagger, TYPEO (3) |
-| Sat, 12 Sept 2026 | Heads or Tails | Ben Biron, Inco |
+| Sat, 12 Sept 2026 | Heads or Tails with Assaf Amdursky & Ben Biron  | Ben Biron, Inco |
 | Sat, 26 Sept 2026 | Modular Expansion: Techno Soundz | Alisa Murphy, Emex, George Apergis, Mømentum, Talantösis |
 | Sat, 10 Oct 2026 | KOLLEKTIV: THE REALM | George Apergis, Marthe, Mikele, Tolis Q, TolisQ |
 | Tue, 27 Oct 2026 | Modular Expansion: Techno Soundz | Emex, George Apergis, Talantösis |

@@ -9,7 +9,7 @@ Nicky Summers is an afro house and amapiano artist tracked on soundcheck, with 2
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Gallery | London |
-| Sun, 30 Aug 2026 | Onyx (E1) | London |
+| Sun, 30 Aug 2026 | E1 | London |
 
 ## Recently played
 

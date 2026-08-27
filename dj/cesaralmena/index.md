@@ -1,8 +1,8 @@
 # CESAR ALMENA
 
-CESAR ALMENA is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ART Madrid Club, Madrid on Fri, 11 Sept 2026.
+CESAR ALMENA is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ART Madrid Club, Madrid on Fri, 11 Sept 2026.
 
-CESAR ALMENA is a techno and industrial artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Nuke, Parsa Jafari and Raul Ortiz. Next up: ART Madrid Club, Madrid on Fri 11 Sept.
+CESAR ALMENA is a techno and industrial artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Nuke, Parsa Jafari and Raul Ortiz. Next up: ART Madrid Club, Madrid on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ CESAR ALMENA is a techno and industrial artist tracked on soundcheck, with 69 se
 | Fri, 11 Sept 2026 | ART Madrid Club | Madrid |
 | Sat, 12 Sept 2026 | Fabrik | Madrid |
 | Fri, 25 Sept 2026 | ART Madrid Club | Madrid |
+| Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 16 Oct 2026 | ART Madrid Club | Madrid |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 

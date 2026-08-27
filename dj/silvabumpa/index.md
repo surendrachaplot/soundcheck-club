@@ -1,8 +1,8 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Silva Bumpa is a Garage and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Silva Bumpa is a garage and house artist tracked on soundcheck, with 207 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Kelvedon Hall, London on Sat 29 Aug.
+Silva Bumpa is a garage and house artist tracked on soundcheck, with 208 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Soul Mass Transit System, Main Phase and Prozak (IRL). Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Silva Bumpa is a garage and house artist tracked on soundcheck, with 207 sets lo
 | Fri, 25 Sept 2026 | SILO | New York City |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Circle Line Cruises | New York City |
+| Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | The Roundhouse | London |
 | Fri, 9 Oct 2026 | The Limelight | Belfast |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | SWG3 | Glasgow |
-| Thu, 15 Oct 2026 | Mondo | Madrid |
 
 ## Recently played
 

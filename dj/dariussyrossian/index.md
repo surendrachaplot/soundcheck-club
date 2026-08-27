@@ -1,8 +1,8 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 27 Aug 2026.
+Darius Syrossian is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 27 Aug 2026.
 
-Darius Syrossian is a house and tech house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Chinois Ibiza, Ibiza on Thu 27 Aug.
+Darius Syrossian is a house and tech house artist tracked on soundcheck, with 192 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Chinois Ibiza, Ibiza on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 19
 | Sat, 5 Sept 2026 | 77 | London |
 | Tue, 8 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
+| Sat, 12 Sept 2026 | Amnesia Milano | Milan |
 | Thu, 17 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | IDRA | Manchester |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |

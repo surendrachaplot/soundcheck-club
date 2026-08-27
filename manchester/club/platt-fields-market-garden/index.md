@@ -8,7 +8,7 @@ Platt Fields Market Garden is a music venue in Manchester listed on soundcheck. 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | 𖦹 Chitta - Instrospective Explorations 𖦹 | Ana K Miller, Etienne Groh, Jude Race, KD22LR, Kop-Z, Medlock, Sharari, Yon Kim, Zuri, djcd |
+| Sat, 12 Sept 2026 | 𖦹 Chitta - Instrospective Explorations 𖦹 | Ana K Miller, Etienne Groh, Jude Race, KD22LR, Kop-Z, Medlock, Sharari, Tamus, Yon Kim, Zuri, djcd |
 
 ## Address
 

@@ -3744,6 +3744,39 @@
                border:1px solid var(--border); font-weight:600; }
       .scg-more{ flex:none; padding:0 4px; white-space:nowrap; }
     }
+    /* ── Scenes tab: your city first, then everywhere else ────────────────────
+       Class names all checked against the stylesheet before use — .sc-hero is a
+       view-transition name and .sc-row is the profile suggest row, which is how
+       .sg-wrap got broken last time. */
+    .scn-h1::after{ display:none !important; }
+    .scn-hero{ position:relative; height:224px; margin:14px 0 0; border-radius:var(--radius);
+               background-size:cover; background-position:center; overflow:hidden; cursor:pointer;
+               border:1px solid var(--border); display:flex; align-items:flex-end; }
+    .scn-hero-in{ width:100%; padding:16px 18px 18px; display:flex; flex-direction:column; gap:9px;
+                  background:linear-gradient(180deg, rgba(22,16,42,0), rgba(22,16,42,0.55) 45%, rgba(22,16,42,0.95)); }
+    .scn-hero-eyebrow{ font:700 var(--fs-2xs)/1 var(--body); letter-spacing:.12em; text-transform:uppercase; color:var(--accent); }
+    .scn-hero-name{ font:800 var(--fs-2xl)/1 var(--head); letter-spacing:-0.02em; color:var(--fg); }
+    .scn-hero-cc{ font:600 var(--fs-xs)/1 var(--body); color:var(--muted); margin-left:8px; }
+    .scn-hero-meta{ font:500 var(--fs-sm)/1.3 var(--body); color:var(--muted); }
+    .scn-hero-cta{ align-self:flex-start; margin-top:3px; }
+    /* Continent filter: one scrollable line, never a wall. */
+    .scn-conts{ display:flex; gap:7px; overflow-x:auto; scrollbar-width:none; padding:2px 0 2px; margin-top:10px; }
+    .scn-conts::-webkit-scrollbar{ display:none; }
+    .scn-cont{ flex:none; height:32px; padding:0 13px; border-radius:var(--radius-pill);
+               background:none; border:1px solid var(--border); color:var(--fg);
+               font:500 var(--fs-sm)/1 var(--body); cursor:pointer; white-space:nowrap;
+               -webkit-tap-highlight-color:transparent; transition:border-color var(--dur-1), background var(--dur-1); }
+    .scn-cont.on{ background:var(--sel-weak); border-color:var(--sel); font-weight:700; }
+    .scn-row{ display:flex; align-items:center; gap:12px; width:100%; padding:9px 0; background:none;
+              border:none; border-top:1px solid var(--border); color:var(--fg); text-align:left;
+              cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .scn-row:first-child{ border-top:none; }
+    .scn-row-img{ flex:none; width:34px; height:34px; border-radius:var(--radius-2xs);
+                  background-size:cover; background-position:center; }
+    .scn-row-tx{ flex:1; min-width:0; display:flex; flex-direction:column; gap:1px; }
+    .scn-row-name{ font:700 var(--fs-md)/1.2 var(--head); color:var(--fg); }
+    .scn-row-sub{ font:500 var(--fs-xs)/1.3 var(--body); color:var(--faint); }
+    .scn-row-cc{ flex:none; font:700 var(--fs-xs)/1 var(--body); color:var(--accent); }
     .ptr{ position:fixed; left:0; right:0; top:0; z-index:60; display:flex; justify-content:center;
           pointer-events:none; transform:translateY(calc(var(--ptrY, 0px) - 44px));
           opacity:var(--ptrO, 0); transition:opacity var(--dur-1) linear; }
@@ -4216,7 +4249,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787821596734">
+<meta name="sc-build" content="1787825962041">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4382,7 +4415,7 @@
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
     <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a night"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
-    <button class="bnav-tab" id="bnav-radio" type="button" aria-label="Radio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M4.93 19.07a10 10 0 0 1 0-14.14"/><path d="M7.76 16.24a6 6 0 0 1 0-8.49"/><path d="M16.24 7.76a6 6 0 0 1 0 8.49"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg><span class="bnav-l">Radio</span></button>
+    <button class="bnav-tab" id="bnav-scenes" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg><span class="bnav-l">Scenes</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
 
@@ -5844,9 +5877,9 @@
       function setTab(id,on){ var t=document.getElementById(id); if(t) t.classList.toggle('on',!!on); }
       setTab('bnav-home', !onPage);
       setTab('bnav-search', route==='search');
-      setTab('bnav-radio', route==='radio');
+      setTab('bnav-scenes', route==='scenes' || /^[a-z0-9-]+\/scene$/.test(route||''));
       setTab('bnav-profile', route==='account' || (currentUser && route==='u/'+currentUser.handle));
-      var br=document.getElementById('bnav-radio'); if(br) br.classList.toggle('onair', !!radio.on);
+      var br=document.getElementById('bnav-scenes'); if(br) br.classList.toggle('onair', !!radio.on);
       // web header named-nav active states
       function setNav(name,on){ document.querySelectorAll('.nl[data-nav="'+name+'"]').forEach(function(t){ t.classList.toggle('on',!!on); }); }
       // Home is underlined whenever NO page is open — the same test the mobile
@@ -5875,7 +5908,7 @@
       window.scrollTo({top:0,behavior:'smooth'}); syncTabs();
     });
     onEl('bnav-search','click',function(){ openSearch(); });
-    onEl('bnav-radio','click',function(){ openRadio(); });
+    onEl('bnav-scenes','click',function(){ openScenes(); });
     onEl('bnav-log','click',function(){ if(!currentUser){ openAuth(); return; } openLog(); });
     onEl('bnav-profile','click',function(){ whenAuthKnown().then(function(){ if(currentUser) openAccount(); else scOnboard('city'); }); });
     // Canonical SEO hrefs for entities — used to render real <a> links (hover URL,
@@ -6057,6 +6090,7 @@
     var STAR_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.6l2.7 5.9 6.4.6-4.85 4.3 1.45 6.3L12 16.9 6.3 19.7l1.45-6.3L2.9 9.1l6.4-.6z"/></svg>';
     var DOTS_SVG='<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
     var PLUS_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>';
+    var GLOBE_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg>';
     // Venue review vibe tags — MUST mirror VENUE_REVIEW_TAGS in reviews.js (server validates).
     var VENUE_TAGS=['Great sound','Intimate','Big room','Underground','Friendly staff','Tough door','Long queues','Good value','Pricey','Late license','Cash only','Smoking area'];
     var PICKS_KEY='sc_picks_v1';
@@ -9085,8 +9119,8 @@
       // Weekend radio pinned at the bottom of the search page (user pref)
       (function(){ var rf=document.getElementById('sx-radio-foot'); if(!rf) return;
         rf.innerHTML='<button class="sx-radio-row" id="sx-radio-btn" type="button"><span class="sx-radio-ic">'+RADIO_SVG+'</span><span class="sx-radio-tx"><b>Weekend radio</b><span>Every artist playing this weekend, shuffled</span></span>'+PLAY_SVG+'</button>';
-        rf.insertAdjacentHTML('afterbegin','<button class="sx-radio-row" id="sx-guides-btn" type="button"><span class="sx-radio-ic">'+PLUS_SVG+'</span><span class="sx-radio-tx"><b>Guides &amp; lists</b><span>Where to go by sound and area, and lists from the scene</span></span></button>');
-        var gb=document.getElementById('sx-guides-btn'); if(gb) gb.addEventListener('click',function(){ openLists(); });
+        rf.insertAdjacentHTML('afterbegin','<button class="sx-radio-row" id="sx-scenes-btn" type="button"><span class="sx-radio-ic">'+GLOBE_SVG+'</span><span class="sx-radio-tx"><b>Scenes</b><span>Every city with something on \u2014 the clubs, the sounds, who&rsquo;s playing</span></span></button>');
+        var gb=document.getElementById('sx-scenes-btn'); if(gb) gb.addEventListener('click',function(){ openScenes(); });
         var b=document.getElementById('sx-radio-btn'); if(b) b.addEventListener('click',function(){ openRadio(); });
       })();
       var input=document.getElementById('sx-input'), results=document.getElementById('sx-results');
@@ -9669,26 +9703,92 @@
       AE:'Middle East',IL:'Middle East',TR:'Middle East',LB:'Middle East',SA:'Middle East',QA:'Middle East',
       ZA:'Africa',NG:'Africa',EG:'Africa',MA:'Africa',KE:'Africa',TZ:'Africa',GH:'Africa',UG:'Africa' };
     var SCENE_CONT_ORDER=['Europe','North America','South America','Asia','Oceania','Middle East','Africa','Other'];
+    // ── Scenes: your city first, then everywhere else ────────────────────────
+    // Design C. The city you are in is the answer nine times in ten, so it gets
+    // the hero and one tap to its guide. The other 103 sit under it, filtered by
+    // continent, compact enough to flick through.
+    var _scFilter=null;   // continent key, or null for all
     async function openScenes(){
       if(location.pathname!==SC_BASE+'scenes/') history.pushState({sc:1},'',SC_BASE+'scenes/');
       openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/scenes'); var j=await r.json();
-        var cs=j.cities||[];
-        var h='<h2 class="page-title">Scene guides</h2><div class="sub">Pick a city — the clubs, the sounds, and who&rsquo;s playing this month.</div>';
-        var byCont={};
-        cs.forEach(function(c){ var k=SCENE_CONT[(c.country||'').toUpperCase()]||'Other'; (byCont[k]=byCont[k]||[]).push(c); });
-        SCENE_CONT_ORDER.forEach(function(k){ var list=byCont[k]; if(!list||!list.length) return;
-          h+='<div class="sec-h" style="margin-top:26px">'+k+'<span class="ct">'+list.length+'</span></div><div class="sc-cover-grid">'+list.map(coverTileHTML).join('')+'</div>';
-        });
-        if(!cs.length) h+='<div class="empty">No scenes with upcoming nights yet.</div>';
-        openPanel(h);
+        var cs=(j.cities||[]).slice();
+        if(!cs.length){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">No scenes with upcoming nights yet.</div>'); return; }
+
+        // Your city, by the same rule the rest of the app uses. If we do not have
+        // it (or it has nothing on) the hero falls to the busiest city rather
+        // than showing an empty stage.
+        var mineSlug=(currentCity||'london').toLowerCase();
+        var mine=cs.filter(function(c){ return c.slug===mineSlug; })[0];
+        var isYours=!!mine;
+        if(!mine){ mine=cs.slice().sort(function(a,b){ return (b.count||0)-(a.count||0); })[0]; }
+        var rest=cs.filter(function(c){ return c.slug!==mine.slug; })
+                   .sort(function(a,b){ return (b.count||0)-(a.count||0); });
+
+        // Continents, counted from the cities we actually have.
+        var contOf=function(c){ return SCENE_CONT[(c.country||'').toUpperCase()]||'Other'; };
+        var counts={}; rest.forEach(function(c){ var k=contOf(c); counts[k]=(counts[k]||0)+1; });
+        var conts=SCENE_CONT_ORDER.filter(function(k){ return counts[k]; });
+        if(_scFilter && !counts[_scFilter]) _scFilter=null;   // stale filter after a data change
+
+        var hero='<div class="scn-hero" id="scn-hero" style="'+(mine.image?'background-image:url('+imgUrl(mine.image,900)+')':'background:'+sceneTone(mine.slug))+'">'+
+          '<div class="scn-hero-in">'+
+            '<div class="scn-hero-eyebrow">'+(isYours?'Your scene':'Busiest scene')+'</div>'+
+            '<div class="scn-hero-name">'+esc(mine.name)+(mine.country?'<span class="scn-hero-cc">'+esc(mine.country)+'</span>':'')+'</div>'+
+            '<div class="scn-hero-meta">'+(mine.count?Number(mine.count).toLocaleString('en-GB')+' nights':'')+
+              (mine.topGenre?' &middot; '+esc(titleCaseWord(mine.topGenre)):'')+'</div>'+
+            '<button class="fp-ab go scn-hero-cta" type="button" id="sc-hero-go">'+PLAY_SVG+'<span>Open the guide</span></button>'+
+          '</div></div>';
+
+        var chips=conts.length>1
+          ? '<div class="scn-conts" id="scn-conts">'+
+              '<button class="scn-cont'+(_scFilter?'':' on')+'" type="button" data-cont="">All '+rest.length+'</button>'+
+              conts.map(function(k){ return '<button class="scn-cont'+(_scFilter===k?' on':'')+'" type="button" data-cont="'+esc(k)+'">'+esc(k)+' '+counts[k]+'</button>'; }).join('')+
+            '</div>'
+          : '';
+
+        openPanel('<h2 class="page-title scn-h1">Scenes</h2>'+
+          '<div class="sub">'+cs.length+' cities with something on. Pick one &mdash; the clubs, the sounds, and who&rsquo;s playing this month.</div>'+
+          hero+
+          '<div class="sec-h" style="margin-top:22px">Everywhere else<span class="ct">'+rest.length+'</span></div>'+
+          chips+
+          '<div id="sc-rest"></div>');
         setSeo('Scene guides by city | soundcheck', 'Browse soundcheck scene guides for every city — the clubs, sounds and artists shaping each scene.', null, location.origin+SC_BASE+'scenes/');
-        document.querySelectorAll('#page-body .sct[data-city]').forEach(function(b){ b.addEventListener('click',function(){ openCityScene(b.dataset.city); }); });
-      }catch(_){ openPanel('<h2 class="page-title">Scene guides</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
+
+        var go=document.getElementById('sc-hero-go'); if(go) go.addEventListener('click',function(){ openCityScene(mine.slug); });
+        var heroEl=document.getElementById('scn-hero'); if(heroEl) heroEl.addEventListener('click',function(e){ if(e.target.closest('#sc-hero-go')) return; openCityScene(mine.slug); });
+
+        function paintRest(){
+          var box=document.getElementById('sc-rest'); if(!box) return;
+          var list=_scFilter?rest.filter(function(c){ return contOf(c)===_scFilter; }):rest;
+          box.innerHTML=list.map(function(c){
+            return '<button class="scn-row" type="button" data-city="'+esc(c.slug)+'">'+
+              '<span class="scn-row-img" style="'+(c.image?'background-image:url('+imgUrl(c.image,120)+')':'background:'+sceneTone(c.slug))+'"></span>'+
+              '<span class="scn-row-tx"><span class="scn-row-name">'+esc(c.name)+'</span>'+
+              '<span class="scn-row-sub">'+(c.count?Number(c.count).toLocaleString('en-GB')+' nights':'')+
+                (c.topGenre?' &middot; '+esc(titleCaseWord(c.topGenre)):'')+'</span></span>'+
+              '<span class="scn-row-cc">'+esc(c.country||'')+'</span></button>';
+          }).join('');
+          box.querySelectorAll('.scn-row[data-city]').forEach(function(b){
+            b.addEventListener('click',function(){ openCityScene(b.dataset.city); });
+          });
+        }
+        paintRest();
+        var cbox=document.getElementById('scn-conts');
+        if(cbox) cbox.querySelectorAll('.scn-cont').forEach(function(b){
+          b.addEventListener('click',function(){
+            _scFilter=b.dataset.cont||null;
+            cbox.querySelectorAll('.scn-cont').forEach(function(x){ x.classList.toggle('on', (x.dataset.cont||'')===(_scFilter||'')); });
+            paintRest();
+          });
+        });
+      }catch(_){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">Couldn&rsquo;t load scene guides.</div>'); }
     }
-    // Scene routing: each card is a sound → the venues likely to play it, as venue tiles that
-    // open the venue. No play button, no artist hook — just "if you like X, go to these venues".
+    // "house" → "House". Genres arrive already cased from the API, but the hero
+    // and the rows must agree even when one of them does not.
+    function titleCaseWord(s){ s=String(s||''); return s.charAt(0).toUpperCase()+s.slice(1); }
+
     function sceneRouteHTML(routes){
       return routes.map(function(rt){
         var vch=rt.venues.map(function(v){ return '<a class="rf-venue nav" href="'+esc(venueHref(v.name))+'" data-venue="'+esc(v.name)+'">'+esc(v.name)+'</a>'; }).join('');

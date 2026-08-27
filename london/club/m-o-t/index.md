@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 39 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "JUNGLICIOUS 2 YEAR ANNIVERSARY" on Thu, 27 Aug 2026.
+M.O.T is a music venue in London with 40 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "JUNGLICIOUS 2 YEAR ANNIVERSARY" on Thu, 27 Aug 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including 3DMA, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 40 upcoming nights, with line-ups including 3DMA, Anina, arawzi and AUDIO DUNE and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+SANTØS is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
+SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ SANTØS is a techno and industrial artist based in Netherlands, tracked on sound
 | Sat, 19 Sept 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Sat, 24 Oct 2026 | OCZKI | Warsaw |
+| Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 21 Nov 2026 | Panama | Amsterdam |
 

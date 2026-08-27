@@ -1,14 +1,15 @@
 # Xpansul
 
-Xpansul is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at EL SÓTANO, Madrid on Fri, 4 Sept 2026.
+Xpansul is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at EL SÓTANO, Madrid on Fri, 4 Sept 2026.
 
-Xpansul is a techno and dub techno artist tracked on soundcheck, with 31 sets logged across Madrid. Often billed alongside Elesbaan, Jesus Riaño and Cristian Varela. Next up: EL SÓTANO, Madrid on Fri 4 Sept.
+Xpansul is a techno and dub techno artist tracked on soundcheck, with 32 sets logged across Madrid. Often billed alongside Elesbaan, Jesus Riaño and Cristian Varela. Next up: EL SÓTANO, Madrid on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | EL SÓTANO | Madrid |
+| Sun, 11 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 

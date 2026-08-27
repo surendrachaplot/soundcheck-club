@@ -9,7 +9,7 @@ yung kidd is a techno and house artist based in United Kingdom, tracked on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Leith Arches | Edinburgh |
-| Wed, 9 Sept 2026 | Sneaky Pete's | Edinburgh |
+| Thu, 3 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 17 Sept 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played

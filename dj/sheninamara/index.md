@@ -9,7 +9,7 @@ Shenin Amara is a tech house and house artist tracked on soundcheck, with 202 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Amber's | Manchester |
-| Sun, 30 Aug 2026 | Onyx (E1) | London |
+| Sun, 30 Aug 2026 | E1 | London |
 | Mon, 31 Aug 2026 | Ministry Of Sound | London |
 | Mon, 31 Aug 2026 | The North London Tavern | London |
 | Sat, 12 Sept 2026 | XOYO | London |

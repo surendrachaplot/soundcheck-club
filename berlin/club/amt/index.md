@@ -1,8 +1,8 @@
 # AMT
 
-AMT is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "CLASH" on Fri, 11 Sept 2026.
+AMT is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "CLASH" on Fri, 11 Sept 2026.
 
-AMT is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including ALAN JOE, Alyne, Bill Sanders and Danny Roach and 2 more. Browse upcoming dates, start times and who's playing.
+AMT is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including ALAN JOE, Alyne, Bill Sanders and Danny Roach and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -11,6 +11,7 @@ AMT is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with lin
 | Fri, 11 Sept 2026 | CLASH | Danny Roach, Esther Dune, Lixi, RuBi. |
 | Sat, 12 Sept 2026 | CAGE by UNDR: Techno / Hard Techno [Kinky] | Alyne, Jakob Lesch, Malouna, Misha Svirid, Paula Hilton, Tanit, nicole lukiys |
 | Fri, 18 Sept 2026 | SUBSTATION |  |
+| Sat, 19 Sept 2026 | PEAK - with PRDK , Dr.AX b2b Kaama | Dark Zenith, IHOPEIEXIST, Snarecrow, unknown.dnb |
 | Sat, 26 Sept 2026 | LIMAX - Naked Electronic Dance Party |  |
 | Fri, 16 Oct 2026 | CLASH |  |
 | Fri, 16 Oct 2026 | CLASH |  |

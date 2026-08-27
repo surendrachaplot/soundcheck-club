@@ -9,7 +9,7 @@ Tunelowa is a music venue in Warsaw listed on soundcheck. 2 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi | 2K88, Arca, KAVARI, Mica Levi |
-| Sun, 4 Oct 2026 | Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker & Vincent de Belleval + more | Blackhaine, Tim Hecker |
+| Sun, 4 Oct 2026 | Unsound Warszawa 2026: CIRCUIT BREAKER - Blackhaine / Tim Hecker & Vincent de Belleval | Blackhaine, Tim Hecker |
 
 ## Address
 
