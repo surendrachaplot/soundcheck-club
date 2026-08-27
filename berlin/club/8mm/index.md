@@ -1,13 +1,14 @@
 # 8MM
 
-8MM is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "8MM & Shameless/Limitless present: Le Ren" on Sun, 13 Sept 2026.
+8MM is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "RenzNiro Live" on Thu, 10 Sept 2026.
 
-8MM is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including miaw. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
+8MM is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including miaw and RenzNiro. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | RenzNiro Live | RenzNiro |
 | Sun, 13 Sept 2026 | 8MM & Shameless/Limitless present: Le Ren |  |
 | Tue, 15 Sept 2026 | 8MM & Shameless/Limitless present: miaw | miaw |
 | Wed, 30 Sept 2026 | 8MM & Shameless/Limitless present: Morgan Garrett |  |

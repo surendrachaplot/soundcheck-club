@@ -2,7 +2,7 @@
 
 Sariim is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sameheads, Berlin on Fri, 4 Sept 2026.
 
-Sariim is a bass and experimental artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Costa, Chaosy and Jana Woodstock. Next up: Sameheads, Berlin on Fri 4 Sept.
+Sariim is a bass and experimental artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Costa (FR), Chaosy and Jana Woodstock. Next up: Sameheads, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sariim is a bass and experimental artist tracked on soundcheck, with 19 sets log
 
 ## Shares bills with
 
-Costa, Chaosy, Jana Woodstock
+Costa (FR), Chaosy, Jana Woodstock
 
 *Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sariim/)*

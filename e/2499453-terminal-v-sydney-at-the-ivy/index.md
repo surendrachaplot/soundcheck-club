@@ -1,6 +1,6 @@
 # Terminal V Sydney at The Ivy
 
-Terminal V Sydney at The Ivy on Sat 17 Oct, Sydney. 8 acts on the bill: AEREA, AKEYLAH, Azyr and Ben Hemsley and 4 more. Preview the line-up and save it on soundcheck.
+Terminal V Sydney at The Ivy on Sat 17 Oct, Sydney. 9 acts on the bill: AEREA, AKEYLAH, Azyr and Bailey Ibbs and 5 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Terminal V Sydney at The Ivy on Sat 17 Oct, Sydney. 8 acts on the bill: AEREA, A
 - AEREA
 - AKEYLAH
 - Azyr
+- Bailey Ibbs
 - Ben Hemsley
 - brookeloveshoney
 - Emma Moon

@@ -9,7 +9,7 @@ The Students' Union at UWE is a music venue in Bristol listed on soundcheck. 4 u
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The OFFICIAL UWE Bristol Freshers' Week Wristband 2026 |  |
-| Sat, 12 Sept 2026 | UWE Bristol Official Freshers - Actual Life: A Tribute to Fred again | Fred again.. |
+| Sat, 12 Sept 2026 | UWE Bristol Official Freshers / The Big Freshers' Opening Party | Fred again.. |
 | Tue, 15 Sept 2026 | UWE Bristol Official Freshers - Bingo Lingo |  |
 | Tue, 15 Sept 2026 | UWE Bristol Official Freshers - Bingo Lingo |  |
 

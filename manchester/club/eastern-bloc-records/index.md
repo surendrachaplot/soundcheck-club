@@ -1,8 +1,8 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Via Jupiter with Psychederek & Bobby Thorpe" on Thu, 27 Aug 2026.
+Eastern Bloc Records is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Via Jupiter with Psychederek & Bobby Thorpe" on Thu, 27 Aug 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including Adrian Skiba, Andy Green, Bobby Thorpe and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Adrian Skiba, Andy Green, Bobby Thorpe and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 

@@ -1,10 +1,10 @@
 # Fierro Grande's Big Shindig: West Port All Stars at West Port Oracle
 
-Fierro Grande's Big Shindig: West Port All Stars at West Port Oracle on Sat 29 Aug, Edinburgh. 2 acts on the bill: Fierro Grande and Jacuzzi General. Preview the line-up and save it on soundcheck.
+Fierro Grande's Big Shindig: West Port All Stars at West Port Oracle on Sun 30 Aug, Edinburgh. 2 acts on the bill: Fierro Grande and Jacuzzi General. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 29 Aug 2026 |
+| Date | Sun, 30 Aug 2026 |
 | Venue | West Port Oracle |
 | City | Edinburgh |
 

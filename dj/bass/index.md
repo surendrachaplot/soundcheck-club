@@ -1,14 +1,15 @@
 # Bass
 
-Bass is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Socore Factory, Osaka on Sat, 5 Sept 2026.
+Bass is a Drum & Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Socore Factory, Osaka on Sat, 5 Sept 2026.
 
-Bass is a drum & bass and techno artist tracked on soundcheck, with 110 sets logged across Auckland, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Socore Factory, Osaka on Sat 5 Sept.
+Bass is a drum & bass and techno artist tracked on soundcheck, with 111 sets logged across Auckland, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Socore Factory, Osaka on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Socore Factory | Osaka |
+| Sat, 12 Sept 2026 | Fluid510 | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | The Coup by BUNKERBUNKER!! | Singapore |
 | Sat, 26 Sept 2026 | The Button Factory | Auckland |
 | Sat, 17 Oct 2026 | BRUS | Copenhagen |

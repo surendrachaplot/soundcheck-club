@@ -13,7 +13,7 @@ Giri is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with l
 | Sat, 29 Aug 2026 | RUTA: Colombia Earthquake Aid | Juana Valeria, Retter (DE), Triana, gugol maps, sin serif |
 | Wed, 2 Sept 2026 | Giri x El Manto: Dario Jongerius release | Airaboi, Manuel Carbone, ZFK (1) |
 | Wed, 2 Sept 2026 | Giri x El Manto | Airaboi, Manuel Carbone, ZFK (1) |
-| Thu, 3 Sept 2026 | Giri x Local Slang |  |
+| Thu, 3 Sept 2026 | Giri x Local Slang | Warlord®, t0ni |
 | Fri, 4 Sept 2026 | Giri x  Presshouse | Jessica Nightlife, Sanaz |
 | Thu, 10 Sept 2026 | Giri x Cilens: RE:FRAME - moving image from within East and Southeast Asian |  |
 | Fri, 11 Sept 2026 | Giri x Wormhole Studies | Chris Gorrie, Sean Gonzalez |

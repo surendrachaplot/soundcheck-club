@@ -9,7 +9,7 @@ Fierro Grande is a house and baile funk artist tracked on soundcheck, with 30 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Voodoo Rooms | Edinburgh |
-| Sat, 29 Aug 2026 | West Port Oracle | Edinburgh |
+| Sun, 30 Aug 2026 | West Port Oracle | Edinburgh |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 64 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Chantal's House of Shame" on Thu, 27 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 65 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Chantal's House of Shame" on Thu, 27 Aug 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 64 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 65 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and Ryukyu and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 

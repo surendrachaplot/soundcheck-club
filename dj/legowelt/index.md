@@ -1,8 +1,8 @@
 # Legowelt
 
-Legowelt is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
+Legowelt is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
 
-Legowelt is a techno and electro artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Ron Morelli, David Vunk and Serge. Next up: Het Dorp, Amsterdam on Fri 4 Sept.
+Legowelt is a techno and electro artist tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside David Vunk, Ron Morelli and Serge. Next up: Het Dorp, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Legowelt is a techno and electro artist tracked on soundcheck, with 85 sets logg
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Het Dorp | Amsterdam |
 | Fri, 4 Sept 2026 | Het Dorp | Amsterdam |
+| Fri, 11 Sept 2026 | export | Rotterdam |
 | Sat, 3 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 21 Nov 2026 | Patterns | Brighton |
 
@@ -26,6 +27,6 @@ Legowelt is a techno and electro artist tracked on soundcheck, with 85 sets logg
 
 ## Shares bills with
 
-Ron Morelli, David Vunk, Serge
+David Vunk, Ron Morelli, Serge
 
 *Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legowelt/)*

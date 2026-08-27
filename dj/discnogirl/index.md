@@ -1,8 +1,8 @@
 # Discnogirl
 
-Discnogirl is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 30 Aug 2026.
+Discnogirl is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 30 Aug 2026.
 
-Discnogirl is a club and techno artist based in United States of America, tracked on soundcheck, with 149 sets logged across Berlin, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside DJ CARO, Tom Marsi and RITCHRD. Next up: F8 1192 Folsom, Sanfrancisco on Sun 30 Aug.
+Discnogirl is a club and techno artist based in United States of America, tracked on soundcheck, with 150 sets logged across Berlin, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside DJ CARO, Tom Marsi and RITCHRD. Next up: F8 1192 Folsom, Sanfrancisco on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Discnogirl is a club and techno artist based in United States of America, tracke
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | Club Six | San Francisco/Oakland |
+| Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
 

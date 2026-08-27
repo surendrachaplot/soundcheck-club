@@ -1,14 +1,15 @@
 # dguru
 
-dguru is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kockiri, Seoul on Thu, 27 Aug 2026.
+dguru is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kockiri, Seoul on Thu, 27 Aug 2026.
 
-dguru is a house and disco artist based in South Korea, tracked on soundcheck, with 165 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside RTRP, Conan and grid (KR). Next up: Kockiri, Seoul on Thu 27 Aug.
+dguru is a house and disco artist based in South Korea, tracked on soundcheck, with 166 sets logged across Hongkong, Seoul and Tokyo. Often billed alongside RTRP, Conan and grid (KR). Next up: Kockiri, Seoul on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Kockiri | Seoul |
+| Fri, 28 Aug 2026 | Cul Sec | Seoul |
 
 ## Recently played
 

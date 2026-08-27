@@ -9,7 +9,7 @@ Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 2 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Sexto Rooftop Sunset Party - Sept 05 | Let (3), Shjva |
-| Sat, 12 Sept 2026 | Rooftop Party #6 W/Kambalache Summer Edition |  |
+| Sat, 12 Sept 2026 | Rooftop Party #6 W/Kambalache Summer Edition (OPEN AIR) |  |
 
 ## Address
 

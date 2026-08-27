@@ -10,7 +10,7 @@ Noon + Cafe is a music venue in Osaka listed on soundcheck. 4 upcoming nights, w
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | WAVE - Deep House & Visuals | Junki Akutagawa, KONDO Mitsuo, yu-more |
 | Fri, 11 Sept 2026 | RAISE BOOT VOL.8 | COTA, Jonathan Kusuma, Viet (1) |
-| Sat, 19 Sept 2026 | AUFHEBEN | AKIRA  FLAMMA, GAKUTO(TOKYO), Tui (1) |
+| Sat, 19 Sept 2026 | AUFHEBEN | AKIRA  FLAMMA, GAKUTO(TOKYO), TENO, Tui (1) |
 | Sat, 26 Sept 2026 | HEAVYWEIGHT vol.8 | 1TA (1), Element (3) |
 
 ## Address

@@ -1,6 +1,6 @@
 # JASHO CLUB VOL.05: THE COMEBACK at Poolen
 
-JASHO CLUB VOL.05: THE COMEBACK at Poolen on Sat 12 Sept, Copenhagen. 4 acts on the bill: George Riley, Haseeb Iqbal, Malika Mahmoud and Suzie The Cockroach. Club and Amapiano. Preview the line-up and save it on soundcheck.
+JASHO CLUB VOL.05: THE COMEBACK at Poolen on Sat 12 Sept, Copenhagen. 4 acts on the bill: George Riley, Haseeb Iqbal, Malika Mahmoud and Suzie The Cockroach. Club and Dembow. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

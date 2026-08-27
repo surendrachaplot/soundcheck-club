@@ -1,8 +1,8 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 22 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Noizer pres. Linkan Ray + Ronze" on Thu, 27 Aug 2026.
+Les Enfants Brillants is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Noizer pres. Linkan Ray + Ronze" on Thu, 27 Aug 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 22 upcoming nights, with line-ups including Adi, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Adi, Alexander Skancke, Alex Dima and Alex (ES) and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 

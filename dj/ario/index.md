@@ -1,14 +1,15 @@
 # Ario
 
-Ario is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OHM, Berlin on Thu, 17 Sept 2026.
+Ario is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at OHM, Berlin on Thu, 17 Sept 2026.
 
-Ario is a techno and ambient artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: OHM, Berlin on Thu 17 Sept.
+Ario is a techno and ambient artist tracked on soundcheck, with 83 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 14 more. Often billed alongside F-on, Yoshitaka Shirakura and Endurance. Next up: OHM, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | OHM | Berlin |
+| Thu, 8 Oct 2026 | KGR(n) | Tokyo |
 
 ## Recently played
 

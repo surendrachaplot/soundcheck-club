@@ -1,14 +1,13 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Compilations by Caire" on Thu, 27 Aug 2026.
+Silence Please is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Silence Please presents: Tokyo Whisper" on Fri, 28 Aug 2026.
 
-Silence Please is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Alex Lustig, Alien D, Caire and Hamadi and 1 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Alex Lustig, Alien D, Hamadi and Typefunk. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Compilations by Caire | Caire |
 | Fri, 28 Aug 2026 | Silence Please presents: Tokyo Whisper | Typefunk |
 | Sat, 29 Aug 2026 | DAWSHA with Hamadi | Hamadi |
 | Sun, 30 Aug 2026 | Silence Please presents: Alien D | Alien D |

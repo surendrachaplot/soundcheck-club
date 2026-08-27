@@ -1,8 +1,8 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Knockdown Center, New York City on Sun, 30 Aug 2026.
+DJ SWISHA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Knockdown Center, New York City on Sun, 30 Aug 2026.
 
-DJ SWISHA is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Knockdown Center, Newyorkcity on Sun 30 Aug.
+DJ SWISHA is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Knockdown Center, Newyorkcity on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 193 sets logg
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 26 Sept 2026 | Dead Letter No. 9 | New York City |
+| Fri, 16 Oct 2026 | Palais | London |
 | Fri, 23 Oct 2026 | Hidden | Manchester |
 | Sat, 14 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 

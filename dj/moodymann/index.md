@@ -1,8 +1,8 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Moodymann is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Moodymann is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Union Park, Chicago on Fri 4 Sept.
+Moodymann is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Moodymann is a house and techno artist tracked on soundcheck, with 159 sets logg
 | Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Sat, 3 Oct 2026 | Ministry Of Sound | London |
 | Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
+| Fri, 16 Oct 2026 | The Bernard Shaw | Dublin |
 | Sat, 24 Oct 2026 | Phono Lake | Amsterdam |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 

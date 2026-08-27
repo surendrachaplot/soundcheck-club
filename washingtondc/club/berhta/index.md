@@ -1,8 +1,8 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 23 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Everyday People DC" on Sun, 30 Aug 2026.
+BERHTA is a music venue in Washington DC with 24 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Everyday People DC" on Sun, 30 Aug 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 23 upcoming nights, with line-ups including 100 gecs, Cassian, Danny L Harle and John Digweed and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights, with line-ups including 100 gecs, Cassian, Danny L Harle and John Digweed and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 

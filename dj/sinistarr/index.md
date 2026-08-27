@@ -1,14 +1,14 @@
 # Sinistarr
 
-Sinistarr is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - 1st AVE & KALAMATH ST, DENVER, Denver on Sat, 29 Aug 2026.
+Sinistarr is a Drum & Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - 1st AVE & KALAMATH ST, DENVER, Denver on Sun, 30 Aug 2026.
 
-Sinistarr is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 85 sets logged across Denver, Detroit, London and Miami and 6 more. Often billed alongside Sheefy McFly, JMT (2) and AK (US). Next up: TBA - 1st AVE & KALAMATH ST, DENVER, Denver on Sat 29 Aug.
+Sinistarr is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 85 sets logged across Denver, Detroit, London and Miami and 6 more. Often billed alongside Sheefy McFly, JMT (2) and AK (US). Next up: TBA - 1st AVE & KALAMATH ST, DENVER, Denver on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA - 1st AVE & KALAMATH ST, DENVER | Denver |
+| Sun, 30 Aug 2026 | TBA - 1st AVE & KALAMATH ST, DENVER | Denver |
 | Fri, 25 Sept 2026 | The Black Box | Denver |
 | Sat, 10 Oct 2026 | The Black Box | Denver |
 | Thu, 29 Oct 2026 | Marble Bar | Detroit |

@@ -1,8 +1,8 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Jojo Lorenzo is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Jojo Lorenzo is a house and techno artist tracked on soundcheck, with 115 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
+Jojo Lorenzo is a house and disco artist tracked on soundcheck, with 115 sets logged across Austin, Barcelona, Boston and Chicago and 17 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 

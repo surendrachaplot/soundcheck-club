@@ -9,7 +9,7 @@ Apache is an afro house and house artist based in France, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Creekside - Under The K Bridge | New York City |
-| Sat, 19 Sept 2026 | Level 8 DTLA | Los Angeles |
+| Sat, 19 Sept 2026 | W Hotel - Westwood | Los Angeles |
 | Sun, 20 Sept 2026 | Spin | San Diego |
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 

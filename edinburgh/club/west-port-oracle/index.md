@@ -10,7 +10,7 @@ West Port Oracle is a music venue in Edinburgh listed on soundcheck. 4 upcoming 
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Matthew Orrell |  |
 | Sat, 29 Aug 2026 | discjocelyne | discjocelyne |
-| Sat, 29 Aug 2026 | Fierro Grande's Big Shindig: West Port All Stars | Fierro Grande, Jacuzzi General |
+| Sun, 30 Aug 2026 | Fierro Grande's Big Shindig: West Port All Stars | Fierro Grande, Jacuzzi General |
 | Tue, 1 Sept 2026 | GREN | Helter Skelper |
 
 ## Address

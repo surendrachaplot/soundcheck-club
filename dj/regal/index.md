@@ -1,8 +1,8 @@
 # Regal
 
-Regal is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
+Regal is a Techno and Acid artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
 
-Regal is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Amelie Lens, Nuke and Daria Kolosova. Next up: Mia Mao, Paris on Fri 4 Sept.
+Regal is a techno and acid artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Amelie Lens, Nuke and Daria Kolosova. Next up: Mia Mao, Paris on Fri 4 Sept.
 
 ## Upcoming shows
 

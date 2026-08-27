@@ -11,7 +11,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 32 upcoming nights, 
 | Thu, 27 Aug 2026 | UNITY AT KITKAT CLUB | EZA (DE), Jambu (2), e.leptic |
 | Fri, 28 Aug 2026 | PiepShow - AugustPiep | Alice D., DJ Francis, DJ PayPaul, Doram, ELEETE, FLEXTASY, KEN (DE), NØA (DE), TechTonic, Yves Meyer, yohan.aif |
 | Sun, 30 Aug 2026 | Nachspiel |  |
-| Mon, 31 Aug 2026 | Electric Monday Summer Special  | Dose, Frankie Flowerz, Gioski, Tobi Dei (DE) |
+| Mon, 31 Aug 2026 | Electric Monday Summer Special @KitKat Club | Dose, Frankie Flowerz, Gioski, Tobi Dei (DE) |
 | Wed, 2 Sept 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Mababy, PyjamaMama, Rachel Raw |
 | Thu, 3 Sept 2026 | UNITY AT KITKAT CLUB | Joe Shmoo, Stacy |
 | Fri, 4 Sept 2026 | Four Play | BODYSHIFT, Crimson Lake, FINYA, Gunnar Stiller, Jean Frais, Kodah, Lilith., MONIXON, Momentune, Multifuse, Nakadia, Rn86, SIBAST |

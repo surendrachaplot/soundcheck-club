@@ -1,8 +1,8 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "2 Years In Balance I Open Air & Indoor" on Sun, 30 Aug 2026.
+KREUZWERK is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "2 Years In Balance I Open Air & Indoor" on Sun, 30 Aug 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 

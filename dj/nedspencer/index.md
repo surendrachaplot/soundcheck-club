@@ -1,14 +1,15 @@
 # Ned Spencer
 
-Ned Spencer is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
+Ned Spencer is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
 
-Ned Spencer is a hip-hop and house artist tracked on soundcheck, with 29 sets logged across London and Newcastle. Often billed alongside DJelley, Oneman and Reece Hodges. Next up: Ministry Of Sound, London on Mon 31 Aug.
+Ned Spencer is a house and hip-hop artist tracked on soundcheck, with 30 sets logged across London and Newcastle. Often billed alongside DJelley, Oneman and Reece Hodges. Next up: Ministry Of Sound, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Ministry Of Sound | London |
+| Sat, 26 Sept 2026 | Gallery | London |
 
 ## Recently played
 

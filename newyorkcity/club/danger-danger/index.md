@@ -1,14 +1,15 @@
 # Danger Danger
 
-Danger Danger is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "'Bebop' Release Party" on Fri, 28 Aug 2026.
+Danger Danger is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "'Bebop' Release Party" on Fri, 28 Aug 2026.
 
-Danger Danger is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Nutritious and tonton. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
+Danger Danger is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including Bachtroy, Marjan, Nutritious and SIDESTREETS and 1 more. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | 'Bebop' Release Party | tonton |
+| Fri, 11 Sept 2026 | Danger Danger Reintegration | Bachtroy, Marjan, SIDESTREETS |
 | Sat, 19 Sept 2026 | Liquid Culture presents Nutritious All Night: Solarmaxxing Release Party | Nutritious |
 
 ## Address

@@ -1,6 +1,6 @@
 # 4Q4 ERROR Festival: Heatwave at Kater
 
-4Q4 ERROR Festival: Heatwave at Kater on Fri 28 Aug, Berlin. 50 acts on the bill: Adri Alibi, Ahni, Baltza and Berfu and 46 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+4Q4 ERROR Festival: Heatwave at Kater on Fri 28 Aug, Berlin. 51 acts on the bill: Adri Alibi, Ahni, Baltza and Berfu and 47 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -43,6 +43,7 @@
 - Mer Esnal
 - MI$$ JUNIA
 - NAT(SK)
+- Njeri
 - Organza
 - Panooc
 - Part-Time Lesbian

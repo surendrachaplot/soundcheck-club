@@ -1,8 +1,8 @@
 # Dr. G
 
-Dr. G is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
+Dr. G is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Ghent and 7 more. Often billed alongside MOKER, Cleopard2000 and EMILIJA. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
+Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Ghent and 7 more. Often billed alongside MOKER, Cleopard2000 and EMILIJA. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dr. G is a techno and trance artist based in Belgium, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
+| Fri, 23 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 
 ## Recently played
 

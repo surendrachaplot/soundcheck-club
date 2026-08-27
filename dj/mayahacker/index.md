@@ -1,13 +1,14 @@
 # Maya Hacker
 
-Maya Hacker is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 29 Oct 2026.
+Maya Hacker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 1 Oct 2026.
 
-Maya Hacker is a house and disco artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside Trucha, A Pavlo and Geordie. Next up: The Bongo Club, Edinburgh on Thu 29 Oct.
+Maya Hacker is a house and disco artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Edinburgh. Often billed alongside Trucha, A Pavlo and Geordie. Next up: The Bongo Club, Edinburgh on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | The Bongo Club | Edinburgh |
 | Thu, 29 Oct 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played

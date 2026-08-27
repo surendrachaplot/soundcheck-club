@@ -1,8 +1,8 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SSRI - Varrio2Varrio (Live); Bloodhound (Live); Taj and Kosmik" on Thu, 27 Aug 2026.
+The Airliner is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SSRI - Varrio2Varrio (Live); Bloodhound (Live); Taj and Kosmik" on Thu, 27 Aug 2026.
 
-The Airliner is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including ash., BLOODHOUND (3), Bored Lord and DJ Shroomie and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including ash., BLOODHOUND (3), Bored Lord and DJ Shroomie and 2 more. Browse upcoming dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Airliner is a music venue in Losangeles listed on soundcheck. 5 upcoming nig
 | Fri, 28 Aug 2026 | Psychic Skin presents: 𝒬𝓊𝒶𝒹𝓇𝓊𝓅𝓁𝑒 𝒱𝒾𝓇𝑔𝑜 |  |
 | Fri, 4 Sept 2026 | DEEP FRIED w/ Bored Lord, Linda Lo, ash. & Hristo | Bored Lord, Linda Lo, ash. |
 | Sat, 5 Sept 2026 | Spin The Bottle |  |
+| Thu, 24 Sept 2026 | ÆFFECT RADIO 16-Year Anniversary Party | Freeman 713, Wheez-ie, Yessi |
 
 ## Address
 

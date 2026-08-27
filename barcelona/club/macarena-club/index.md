@@ -1,14 +1,14 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 30 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Mad Radio Night" on Thu, 27 Aug 2026.
+Macarena Club is a music venue in Barcelona with 35 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Mad Radio Night" on Thu, 27 Aug 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 30 upcoming nights, with line-ups including Jo-Sie, Brizas, André Butano and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 35 upcoming nights, with line-ups including Jo-Sie, Brizas, André Butano and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Mad Radio Night |  |
+| Thu, 27 Aug 2026 | Mad Radio Night | erlin james |
 | Fri, 28 Aug 2026 | Posay Music | André Butano |
 | Sat, 29 Aug 2026 | Less is More x Medio Crew | Daescu, Galu Bla, Gera, Guedes, Kid Moss |
 | Sun, 30 Aug 2026 | Move Your Body |  |

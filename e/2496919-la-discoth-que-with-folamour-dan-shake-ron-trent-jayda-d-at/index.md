@@ -1,6 +1,6 @@
 # La Discothèque with Folamour, Dan Shake, Ron Trent, Jayda D at DRUMSHEDS
 
-La Discothèque with Folamour, Dan Shake, Ron Trent, Jayda D at DRUMSHEDS on Fri 13 Nov, London. 11 acts on the bill: Daisybelle, Dan Shake, DJ Paulette and Folamour and 7 more. House and Disco. Preview the line-up and save it on soundcheck.
+La Discothèque with Folamour, Dan Shake, Ron Trent, Jayda D at DRUMSHEDS on Fri 13 Nov, London. 16 acts on the bill: Daisybelle, Dan Shake, DJ Paulette and Dombresky and 12 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,11 +13,16 @@ La Discothèque with Folamour, Dan Shake, Ron Trent, Jayda D at DRUMSHEDS on Fri
 - Daisybelle
 - Dan Shake
 - DJ Paulette
+- Dombresky
 - Folamour
+- Heléna Star
 - Jayda G
 - Jenna G
 - Jennifer Loveless
+- Kenny Dope
+- Louie Vega
 - Masters At Work
+- Purple Disco Machine
 - Ron Trent
 - SIGGY
 - Tarzsa

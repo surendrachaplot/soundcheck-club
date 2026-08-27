@@ -1,14 +1,15 @@
 # TABZ
 
-TABZ is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
+TABZ is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
 
-TABZ is a garage and house artist tracked on soundcheck, with 11 sets logged across London and Nottingham. Often billed alongside T Simm, Milzy and Cottam (2). Next up: Starlane Pizza Bar, London on Sat 29 Aug.
+TABZ is a garage and house artist tracked on soundcheck, with 12 sets logged across London and Nottingham. Often billed alongside Milzy, T Simm and Cottam (2). Next up: Starlane Pizza Bar, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Starlane Pizza Bar | London |
+| Thu, 24 Sept 2026 | Movers | Nottingham |
 | Fri, 30 Oct 2026 | The Brickworks | Nottingham |
 
 ## Recently played
@@ -24,6 +25,6 @@ TABZ is a garage and house artist tracked on soundcheck, with 11 sets logged acr
 
 ## Shares bills with
 
-T Simm, Milzy, Cottam (2)
+Milzy, T Simm, Cottam (2)
 
 *Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tabz/)*

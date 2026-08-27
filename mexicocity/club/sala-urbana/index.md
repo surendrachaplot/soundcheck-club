@@ -1,14 +1,15 @@
 # Sala Urbana
 
-Sala Urbana is a music venue in Mexico City with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "R3HAB, Mexico City MX" on Fri, 25 Sept 2026.
+Sala Urbana is a music venue in Mexico City with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "R3HAB, Mexico City MX" on Fri, 25 Sept 2026.
 
-Sala Urbana is a music venue in Mexicocity listed on soundcheck. 3 upcoming nights, with line-ups including Angerfist, Hernan Cattaneo, KLOFAMA and Øostil. Browse upcoming dates, start times and who's playing. Blvd. Toluca 115, El Conde, 53500 Naucalpan de Juárez, Méx..
+Sala Urbana is a music venue in Mexicocity listed on soundcheck. 4 upcoming nights, with line-ups including Angerfist, Hernan Cattaneo, KLOFAMA and Øostil. Browse upcoming dates, start times and who's playing. Blvd. Toluca 115, El Conde, 53500 Naucalpan de Juárez, Méx..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | R3HAB, Mexico City MX |  |
+| Fri, 25 Sept 2026 | R3hab Mexico City 2026 (+18) |  |
 | Fri, 9 Oct 2026 | Angerfist + KLOFAMA en MÉXICO | Angerfist, KLOFAMA |
 | Sat, 31 Oct 2026 | Hernan Cattaneo en México | Hernan Cattaneo, Øostil |
 

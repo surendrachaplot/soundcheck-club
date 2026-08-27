@@ -1,6 +1,6 @@
 # Crave Tapes x LMNTL x Distant Gaze Records at Void Club
 
-Crave Tapes x LMNTL x Distant Gaze Records at Void Club on Fri 2 Oct, Berlin. 7 acts on the bill: Clouzer, Desolate Discotheque, Electrosexual and Karassimeon and 3 more. Electro and EBM. Preview the line-up and save it on soundcheck.
+Crave Tapes x LMNTL x Distant Gaze Records at Void Club on Fri 2 Oct, Berlin. 7 acts on the bill: Clouzer, Desolate Discotheque, Electrosexual and Karassimeon and 3 more. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -17,7 +17,7 @@ The Old Blue Last is a music venue in London listed on soundcheck. 13 upcoming n
 | Mon, 14 Sept 2026 | Erode x Sinister Feeling |  |
 | Fri, 18 Sept 2026 | Memento | Sho Komatsu, Tomoki |
 | Sat, 19 Sept 2026 | Cunning MC - The Old Blue Last |  |
-| Sat, 19 Sept 2026 | Well Street Records: Mantra + Special Guests | Mantra |
+| Sat, 19 Sept 2026 | Well Street Records: Mantra + L-Vis 1990  Guests | L-Vis 1990, Mantra |
 
 ## Address
 

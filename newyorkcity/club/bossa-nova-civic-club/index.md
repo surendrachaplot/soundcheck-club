@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 30 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DAYTONA 500 BIRTHDAY BASH: Asha, Dj Warning, August V.M" on Thu, 27 Aug 2026.
+Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DAYTONA 500 BIRTHDAY BASH: Asha, Dj Warning, August V.M" on Thu, 27 Aug 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 30 upcoming nights, with line-ups including The AM/AMX, Ah Dek, Aleska and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including The AM/AMX, Ah Dek, Aleska and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

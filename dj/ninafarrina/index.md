@@ -1,8 +1,8 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Altenburg 1964, Prague on Sat, 29 Aug 2026.
+Nina Farrina is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Altenburg 1964, Prague on Sat, 29 Aug 2026.
 
-Nina Farrina is a techno and experimental artist tracked on soundcheck, with 136 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Altenburg 1964, Prague on Sat 29 Aug.
+Nina Farrina is a techno and experimental artist tracked on soundcheck, with 137 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Altenburg 1964, Prague on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nina Farrina is a techno and experimental artist tracked on soundcheck, with 136
 | Sat, 29 Aug 2026 | Altenburg 1964 | Prague |
 | Fri, 4 Sept 2026 | Bike Jesus | Prague |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
+| Fri, 11 Sept 2026 | Fuchs2 | Prague |
 | Sat, 26 Sept 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

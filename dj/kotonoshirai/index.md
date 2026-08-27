@@ -1,14 +1,15 @@
 # Kotono Shirai
 
-Kotono Shirai is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at HVEN, Tokyo on Fri, 28 Aug 2026.
+Kotono Shirai is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at HVEN, Tokyo on Fri, 28 Aug 2026.
 
-Kotono Shirai is a house and tech house artist based in Japan, tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside ALEXANDER M, GooPer and IRODORI. Next up: HVEN, Tokyo on Fri 28 Aug.
+Kotono Shirai is a house and tech house artist based in Japan, tracked on soundcheck, with 21 sets logged across Seoul and Tokyo. Often billed alongside ALEXANDER M, GooPer and IRODORI. Next up: HVEN, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | HVEN | Tokyo |
+| Fri, 4 Sept 2026 | Flac | Seoul |
 
 ## Recently played
 

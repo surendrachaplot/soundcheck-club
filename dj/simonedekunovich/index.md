@@ -1,8 +1,8 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Calatheabeachclub, Naples on Sat, 29 Aug 2026.
+Simone de Kunovich is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Calatheabeachclub, Naples on Sat, 29 Aug 2026.
 
-Simone de Kunovich is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside PARAMIDA, Pascal Moscheni and Dante (H501). Next up: Calatheabeachclub, Naples on Sat 29 Aug.
+Simone de Kunovich is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside PARAMIDA, Pascal Moscheni and Dante (H501). Next up: Calatheabeachclub, Naples on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Simone de Kunovich is a house and techno artist tracked on soundcheck, with 146 
 | Sat, 29 Aug 2026 | Calatheabeachclub | Naples |
 | Fri, 4 Sept 2026 | The White Hotel | Manchester |
 | Fri, 11 Sept 2026 | public records | New York City |
+| Fri, 25 Sept 2026 | Frankhan Selectist | Istanbul |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

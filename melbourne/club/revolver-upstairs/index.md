@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 19 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "So Good Tattoo Takeover — 3181 Thursdays" on Thu, 27 Aug 2026.
+Revolver Upstairs is a music venue in Melbourne with 21 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "So Good Tattoo Takeover — 3181 Thursdays" on Thu, 27 Aug 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcoming nights, with line-ups including Acid Safari, Alex Wann, ANNIE KEZ and archiLo and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcoming nights, with line-ups including Acid Safari, Ageusic, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 19 upcomin
 | Fri, 4 Sept 2026 | Curated x Revolver Fridays | AROHA, Acid Safari, Flynn Bulman, Jasmine Speers, Mike Callander |
 | Sat, 5 Sept 2026 | REVOLVER BANDROOM: DAFT WEEKND — presents ROBOTS. NEON. DISCO. EUPHORIA |  |
 | Sat, 5 Sept 2026 | Sunshine & Disco Faith Choir — Rise & Shine | Crozier, Jesse Boyd, Sunshine |
-| Sun, 6 Sept 2026 | Joss Dean (UK) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Cooper James, Joss Dean, KELLY TEE, Mixed Methods, Spacey Space |
+| Sat, 5 Sept 2026 | VINYLS: Hardcore Special — The Late Show | Ageusic, Hijack, Lewis Cancut, Mendoza (AUS) |
 
 ## Address
 

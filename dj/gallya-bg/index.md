@@ -1,13 +1,14 @@
 # Gallya
 
-Gallya is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Gallya is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Flac, Seoul on Fri, 4 Sept 2026.
 
-Gallya is a techno and tech house artist based in Bulgaria, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Ibiza and Munich. Often billed alongside ALXJ, Format B and Gabs Leyton. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
+Gallya is a techno and tech house artist based in Bulgaria, tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Ibiza and Munich and 1 more. Often billed alongside ALXJ, Format B and Gabs Leyton. Next up: Flac, Seoul on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Flac | Seoul |
 | Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played

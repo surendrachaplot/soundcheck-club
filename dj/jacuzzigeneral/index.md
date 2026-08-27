@@ -9,7 +9,7 @@ Jacuzzi General is a house and disco artist tracked on soundcheck, with 104 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Paradise Palms | Edinburgh |
-| Sat, 29 Aug 2026 | West Port Oracle | Edinburgh |
+| Sun, 30 Aug 2026 | West Port Oracle | Edinburgh |
 
 ## Recently played
 

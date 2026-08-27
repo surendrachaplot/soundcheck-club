@@ -9,7 +9,7 @@ Howler is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Sound Summit Australia 2026 | AROHA, Harvey Sutherland, Honeysmack, O'Flynn, Patricia, Sampology, Shouse |
-| Sat, 19 Sept 2026 | Overtake x Blackout Frequency presents: Benny Page & Doktor | Benny Page |
+| Sat, 19 Sept 2026 | Overtake x Blackout Frequency presents: Benny Page & Doktor | Benny Page, EMCD, safire |
 | Sat, 3 Oct 2026 | Mariano Mellino in Morning After 10th Birthday Party | Bridget, Cookie (2), Jedidiah, Kasey Taylor, Liam Sieker, Mariano Mellino, Mish'Chief |
 
 ## Address

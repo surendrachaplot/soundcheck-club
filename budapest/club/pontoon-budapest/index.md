@@ -1,8 +1,8 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "True Energy" on Thu, 27 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "True Energy" on Thu, 27 Aug 2026.
 
-Pontoon Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including ANESI, Daniel Santiago, Gingershot and Mirmur and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
+Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including ANESI, Daniel Santiago, Gingershot and Indirect Movement and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming n
 | Sat, 29 Aug 2026 | Éclipse 〜 PONTOON: Full Moon Boogie | Zlatnik |
 | Sun, 30 Aug 2026 | Sunday Sundown Summer Closing@Pontoon | ANESI, Ratkay, Viktor Bondar |
 | Fri, 4 Sept 2026 | VégrePéntek | Switch Nollie |
+| Sat, 5 Sept 2026 | Skipper - Casual Minimal Night - Count Dracula strikes back | Indirect Movement |
 
 ## Address
 

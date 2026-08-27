@@ -1,14 +1,16 @@
 # KARAYAN
 
-KARAYAN is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bolero, Seoul on Sat, 29 Aug 2026.
+KARAYAN is a Club and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at RO Seoul, Seoul on Fri, 28 Aug 2026.
 
-KARAYAN is a club and hip-hop artist based in South Korea, tracked on soundcheck, with 65 sets logged across Seoul. Often billed alongside BIGTER, McCOL and SERA (2). Next up: Bolero, Seoul on Sat 29 Aug.
+KARAYAN is a club and hip-hop artist based in South Korea, tracked on soundcheck, with 67 sets logged across Seoul. Often billed alongside BIGTER, McCOL and SERA (2). Next up: RO Seoul, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | RO Seoul | Seoul |
 | Sat, 29 Aug 2026 | Bolero | Seoul |
+| Sat, 29 Aug 2026 | Rosso | Seoul |
 
 ## Recently played
 

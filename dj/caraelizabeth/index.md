@@ -13,7 +13,7 @@ Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 137 set
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
-| Sun, 6 Sept 2026 | The Media Room | San Francisco/Oakland |
+| Sun, 6 Sept 2026 | TBA | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | Artheater | Cologne |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Sat, 17 Oct 2026 | Hangaren | Copenhagen |

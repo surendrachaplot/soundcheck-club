@@ -1,8 +1,8 @@
 # Mija
 
-Mija is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
+Mija is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Virage, Paris on Fri, 28 Aug 2026.
 
-Mija is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Virage, Paris on Fri 28 Aug.
+Mija is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Virage, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mija is a techno and house artist tracked on soundcheck, with 121 sets logged ac
 | Fri, 4 Sept 2026 | Hall | Tallinn |
 | Fri, 11 Sept 2026 | Hangaren | Copenhagen |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
+| Fri, 23 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 
 ## Recently played
 

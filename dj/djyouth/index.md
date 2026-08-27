@@ -1,14 +1,15 @@
 # DJYOUTH
 
-DJYOUTH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
+DJYOUTH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Camelot, Tokyo on Sat, 29 Aug 2026.
 
-DJYOUTH is a techno and house artist tracked on soundcheck, with 61 sets logged across London, Osaka, Tokyo and Toronto and 1 more. Often billed alongside RYOHEI, RINALUCKY and SAKO. Next up: Camelot, Tokyo on Sat 29 Aug.
+DJYOUTH is a techno and house artist tracked on soundcheck, with 62 sets logged across London, Osaka, Tokyo and Toronto and 1 more. Often billed alongside RYOHEI, RINALUCKY and SAKO. Next up: Camelot, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Camelot | Tokyo |
+| Fri, 25 Sept 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 

@@ -11,7 +11,7 @@ Laak is a music venue in Thehague listed on soundcheck. 7 upcoming nights, with 
 | Fri, 28 Aug 2026 | Club Day & Night (Season opening) | Kash Kaval, Kilo Vee, Max Abysmal, Niebla, OLIVIA LENSEN, Oceanic, Rosa, Torus, Verity, stevie (3) |
 | Fri, 18 Sept 2026 | Club Night + Presto | Canva6, Gábor Lázár, Jeans (NL), Lorenzo Senni |
 | Fri, 25 Sept 2026 | Watergate x Den Haag | DEVREE, Koperblond |
-| Fri, 2 Oct 2026 | Club Night | Bella Hall, Bruno Pronsato, Lolo Batten, Magda |
+| Fri, 2 Oct 2026 | Club Night | Bella Hall, Bruno Pronsato, Lolo Batten, Magda, jojoj |
 | Fri, 16 Oct 2026 | Club Night |  |
 | Sat, 7 Nov 2026 | Club Night |  |
 | Fri, 20 Nov 2026 | Club Night |  |

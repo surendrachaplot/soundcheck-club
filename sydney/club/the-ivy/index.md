@@ -13,7 +13,7 @@ The Ivy is a music venue in Sydney listed on soundcheck. 6 upcoming nights, with
 | Sun, 4 Oct 2026 | Lost Sundays Block Party — October 4 [Long Weekend] | Bryson Hill, Casual P, Couch Mechanic, Elijah Something, Human Movement, Jacqui Cunningham, Lilian, Little Fritter, Mina Tonic, Mincy, Papa Nugs, Tjade |
 | Mon, 5 Oct 2026 | DnB Allstars (Sydney) | Camo & Krooked, Crossy, Disrupta, Kanine |
 | Sat, 10 Oct 2026 | ZURI feat. Alex Wann (FR) | Alex Wann, Maison Ware |
-| Sat, 17 Oct 2026 | Terminal V Sydney | AEREA, AKEYLAH, Azyr, Ben Hemsley, Emma Moon, Raredub, Trym, brookeloveshoney |
+| Sat, 17 Oct 2026 | Terminal V Sydney | AEREA, AKEYLAH, Azyr, Bailey Ibbs, Ben Hemsley, Emma Moon, Raredub, Trym, brookeloveshoney |
 
 ## Address
 

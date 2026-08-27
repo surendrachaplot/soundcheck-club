@@ -9,7 +9,7 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 5 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | PYGMENTS inv. In-Tan & SECRET GUEST | In-Tan |
-| Thu, 27 Aug 2026 | 59 BEL RECORDS inv. VANGUARD & Ian Maur | Ian Maur |
+| Thu, 27 Aug 2026 | 59 BEL RECORDS inv. EMMA & Ian Maur | Ian Maur, Maemm |
 | Fri, 28 Aug 2026 | LA RIPOSTE: KINETIC COLLECTIVE INV. Obscur, A.mo & Sedna | A.mo, Obscur, Sedna |
 | Sat, 29 Aug 2026 | LA RIPOSTE: KINETIC COLLECTIVE INV. Benabou, A.mo & Sedna | A.mo, Benabou, Sedna |
 | Sun, 30 Aug 2026 | CLUB 909: Axel Blanc B2B GOTIS | Axel Blanc, GOTIS |

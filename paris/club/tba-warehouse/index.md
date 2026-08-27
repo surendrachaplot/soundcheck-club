@@ -1,8 +1,8 @@
-# TBA - warehouse
+# TBA - Warehouse
 
-TBA - warehouse is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "ROTE8 EVENTS presents: Luigi Madonna & Bailey Ibbs" on Sat, 29 Aug 2026.
+TBA - Warehouse is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "ROTE8 EVENTS presents: Luigi Madonna & Bailey Ibbs" on Sat, 29 Aug 2026.
 
-TBA - warehouse is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including AEREA, Aline Umber, ARJ (IR) and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Warehouse is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including AEREA, Aline Umber, ARJ (IR) and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

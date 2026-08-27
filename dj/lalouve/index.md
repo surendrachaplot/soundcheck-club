@@ -1,14 +1,14 @@
 # La Louve
 
-La Louve is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at BBCB: Beton Brut+Concrete Bar, Seoul on Sat, 29 Aug 2026.
+La Louve is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Blank Site, Seoul on Sat, 29 Aug 2026.
 
-La Louve is a techno and industrial artist based in South Korea, tracked on soundcheck, with 7 sets logged across Marseille, Paris and Seoul. Often billed alongside Healer_t_s, ATISMIA and BEI_. Next up: BBCB: Beton Brut+Concrete Bar, Seoul on Sat 29 Aug.
+La Louve is a techno and industrial artist based in South Korea, tracked on soundcheck, with 7 sets logged across Marseille, Paris and Seoul. Often billed alongside Healer_t_s, ATISMIA and BEI_. Next up: Blank Site, Seoul on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | BBCB: Beton Brut+Concrete Bar | Seoul |
+| Sat, 29 Aug 2026 | Blank Site | Seoul |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Interdimensional Transmissions x Clone Records" on Fri, 28 Aug 2026.
+export is a music venue in Rotterdam with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Interdimensional Transmissions x Clone Records" on Fri, 28 Aug 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including Ben Diggins, BMG, Bukkha and Ectomorph and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 9 upcoming nights, with line-ups including Ben Diggins, BMG, Bukkha and David Vunk and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
@@ -15,6 +15,7 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 | Sat, 5 Sept 2026 | Krackfree 10 Years |  |
 | Sat, 5 Sept 2026 | Krackfree Soundsystem 10year Anniversary Event - Rotterdam | Bukkha, Hebbe, Helmond Lang, Kessler, V.I.V.E.K. |
 | Sat, 5 Sept 2026 | Krackfree 10 year anniversary | Fleck, Hebbe, Helmond Lang, Kessler, V.I.V.E.K. |
+| Fri, 11 Sept 2026 | David Vunk 50 YRS | David Vunk, Legowelt, Marsman |
 | Sat, 26 Sept 2026 | Kult Funktion - Rotterdam Pride |  |
 
 ## Address
