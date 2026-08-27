@@ -1,6 +1,6 @@
 # Tasho Ishi
 
-Tasho Ishi is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at WWW, Tokyo on Thu, 17 Sept 2026.
+Tasho Ishi is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at WWW, Tokyo on Thu, 17 Sept 2026.
 
 Tasho Ishi is an electro and electronica artist based in Japan, tracked on soundcheck, with 15 sets logged across Berlin, Milan, Osaka and Seoul and 1 more. Often billed alongside AKIRAM EN, DJ CENTERFOLD and E.O.U. Next up: WWW, Tokyo on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Tasho Ishi is an electro and electronica artist based in Japan, tracked on sound
 
 AKIRAM EN, DJ CENTERFOLD, E.O.U
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tashoishi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tashoishi/)*

@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FILTER W Clicklounge" on Fri, 4 Sept 2026.
+B2 Rīga is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FILTER W Clicklounge" on Fri, 4 Sept 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 3 upcoming nights, with line-ups including Clicklounge, Hele, PUPA and RAF [ LT ] and 1 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -16,4 +16,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 3 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

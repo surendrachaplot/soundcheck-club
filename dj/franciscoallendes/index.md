@@ -1,6 +1,6 @@
 # Francisco Allendes
 
-Francisco Allendes is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 30 Aug 2026.
+Francisco Allendes is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kiesgrube, Düsseldorf on Sun, 30 Aug 2026.
 
 Francisco Allendes is a tech house and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Barcelona and Boston and 13 more. Often billed alongside Raul Rodriguez, Andrea Oliva and Chelina Manuhutu. Next up: Kiesgrube, Dusseldorf on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Francisco Allendes is a tech house and house artist tracked on soundcheck, with 
 
 Raul Rodriguez, Andrea Oliva, Chelina Manuhutu
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*

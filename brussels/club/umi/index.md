@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "BLUR with Rasaaq, Harold mp1" on Sat, 29 Aug 2026.
+UMI is a music venue in Brussels with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "BLUR with Rasaaq, Harold mp1" on Sat, 29 Aug 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with line-ups including Bambi (Menage a Trois), Bapow, Bass Toast and Bibi Seck and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -19,4 +19,4 @@ UMI is a music venue in Brussels listed on soundcheck. 6 upcoming nights, with l
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

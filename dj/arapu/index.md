@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
+Arapu is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
 
 Arapu is a house and minimal artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Jolene Downtown Miami, Miami on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Arapu is a house and minimal artist tracked on soundcheck, with 148 sets logged 
 
 Priku, Seth Troxler, Sossa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

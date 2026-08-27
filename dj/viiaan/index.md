@@ -1,6 +1,6 @@
 # Viiaan
 
-Viiaan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
+Viiaan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
 
 Viiaan is a techno and club artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 8 more. Often billed alongside Octoptic, Retter (DE) and Boo Lean. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Viiaan is a techno and club artist tracked on soundcheck, with 107 sets logged a
 
 Octoptic, Retter (DE), Boo Lean
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viiaan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viiaan/)*

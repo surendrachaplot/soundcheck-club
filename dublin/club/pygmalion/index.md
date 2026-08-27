@@ -1,6 +1,6 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Pyg presents DJ Pierr & Pablo Santo" on Fri, 28 Aug 2026.
+Pygmalion is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Pyg presents DJ Pierr & Pablo Santo" on Fri, 28 Aug 2026.
 
 Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including DIEBYVEG, Jake Fitz and Joshwa. Browse upcoming dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
@@ -18,4 +18,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming nights, wi
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

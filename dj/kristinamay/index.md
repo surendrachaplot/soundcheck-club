@@ -1,6 +1,6 @@
 # Kristina May
 
-Kristina May is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Greyhound, London on Fri, 6 Nov 2026.
+Kristina May is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Greyhound, London on Fri, 6 Nov 2026.
 
 Kristina May is a techno and experimental artist based in Moldova, tracked on soundcheck, with 16 sets logged across London. Often billed alongside 8108STN, Alien Communications and Allecto. Next up: The Greyhound, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kristina May is a techno and experimental artist based in Moldova, tracked on so
 
 8108STN, Alien Communications, Allecto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*

@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Paprika" on Thu, 27 Aug 2026.
+Modeci is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Paprika" on Thu, 27 Aug 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including .2ndfloor, Acidwork, AMANE and BABY DON’T CRY and 2 more. Browse upcoming dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -17,4 +17,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with l
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

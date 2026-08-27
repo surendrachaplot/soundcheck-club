@@ -1,6 +1,6 @@
 # BäRK (NE)
 
-BäRK (NE) is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Grey Space In The Middle, The Hague on Sat, 5 Sept 2026.
+BäRK (NE) is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Grey Space In The Middle, The Hague on Sat, 5 Sept 2026.
 
 BäRK (NE) is an acid and electro artist tracked on soundcheck, with 4 sets logged across Rotterdam and Thehague. Often billed alongside Doktoro, LEWIE and Melis Köke. Next up: The Grey Space In The Middle, Thehague on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ BäRK (NE) is an acid and electro artist tracked on soundcheck, with 4 sets logg
 
 Doktoro, LEWIE, Melis Köke
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bork-ne/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bork-ne/)*

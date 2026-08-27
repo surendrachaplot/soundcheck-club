@@ -1,6 +1,6 @@
 # Reformed Society
 
-Reformed Society is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Switch Bar, Barcelona on Fri, 4 Sept 2026.
+Reformed Society is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Switch Bar, Barcelona on Fri, 4 Sept 2026.
 
 Reformed Society is a house and ebm artist tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside Arildo, Matteo Floris and Baffa. Next up: Switch Bar, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Reformed Society is a house and ebm artist tracked on soundcheck, with 28 sets l
 
 Arildo, Matteo Floris, Baffa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reformedsociety/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reformedsociety/)*

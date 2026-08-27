@@ -1,6 +1,6 @@
 # Samuel Fish
 
-Samuel Fish is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
+Samuel Fish is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Renate, Berlin on Fri, 28 Aug 2026.
 
 Samuel Fish is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Detroit and Mexicocity and 5 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: Renate, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Samuel Fish is a techno and house artist based in United States of America, trac
 
 Henry Chow, Anthony Parasole, Handmade
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*

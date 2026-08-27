@@ -1,6 +1,6 @@
 # Double B
 
-Double B is a Afrobeat and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Temple SF, San Francisco/Oakland on Sun, 6 Sept 2026.
+Double B is a Afrobeat and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Temple SF, San Francisco/Oakland on Sun, 6 Sept 2026.
 
 Double B is an afrobeat and reggaeton artist tracked on soundcheck, with 6 sets logged across Ibiza, Newyorkcity and Sanfrancisco. Often billed alongside Alex Delmar, Ivan Pica and Kassita. Next up: Temple SF, Sanfrancisco on Sun 6 Sept.
 
@@ -22,4 +22,4 @@ Double B is an afrobeat and reggaeton artist tracked on soundcheck, with 6 sets 
 
 Alex Delmar, Ivan Pica, Kassita
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleb/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleb/)*

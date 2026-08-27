@@ -1,6 +1,6 @@
 # Meri
 
-Meri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 5 Sept 2026.
+Meri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 5 Sept 2026.
 
 Meri is a house and techno artist tracked on soundcheck, with 19 sets logged across Istanbul and Tokyo. Often billed alongside Ali Cem Esmeray, Ergin Elvan and fvku. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Meri is a house and techno artist tracked on soundcheck, with 19 sets logged acr
 
 Ali Cem Esmeray, Ergin Elvan, fvku
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meri/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meri/)*

@@ -1,6 +1,6 @@
 # Chris Collins
 
-Chris Collins is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at KOKO, London on Sun, 30 Aug 2026.
+Chris Collins is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KOKO, London on Sun, 30 Aug 2026.
 
 Chris Collins is a dancehall and amapiano artist tracked on soundcheck, with 10 sets logged across London, Madrid and Paris. Often billed alongside Harriet Bella, Adiba and DJ Nate. Next up: KOKO, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Chris Collins is a dancehall and amapiano artist tracked on soundcheck, with 10 
 
 Harriet Bella, Adiba, DJ Nate
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscollins/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscollins/)*

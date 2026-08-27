@@ -1,6 +1,6 @@
 # Loka
 
-Loka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nowadays, New York City on Sat, 29 Aug 2026.
+Loka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Nowadays, New York City on Sat, 29 Aug 2026.
 
 Loka is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside 320 (1), Annie Lew and Baroque Hoe. Next up: Nowadays, Newyorkcity on Sat 29 Aug.
 
@@ -15,4 +15,4 @@ Loka is a techno and electro artist based in United Kingdom, tracked on soundche
 
 320 (1), Annie Lew, Baroque Hoe
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loka/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loka/)*

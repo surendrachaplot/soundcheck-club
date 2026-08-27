@@ -1,6 +1,6 @@
 # Síofra
 
-Síofra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Queen Adelaide, London on Fri, 28 Aug 2026.
+Síofra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Queen Adelaide, London on Fri, 28 Aug 2026.
 
 Síofra is a techno and house artist based in Ireland, tracked on soundcheck, with 78 sets logged across Belfast, Berlin, Copenhagen and Cork and 8 more. Often billed alongside Lucky Lube, Popmix and Mark Gill. Next up: The Queen Adelaide, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Síofra is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Lucky Lube, Popmix, Mark Gill
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siofra/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siofra/)*

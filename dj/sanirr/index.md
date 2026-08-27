@@ -1,6 +1,6 @@
 # SANIRR
 
-SANIRR is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 4 Sept 2026.
+SANIRR is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 4 Sept 2026.
 
 SANIRR is a progressive house and house artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside GUS PICCO, Amadori and CAAMI. Next up: Almar Beach Club, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ SANIRR is a progressive house and house artist based in Spain, tracked on soundc
 
 GUS PICCO, Amadori, CAAMI
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanirr/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanirr/)*

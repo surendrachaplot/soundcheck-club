@@ -1,6 +1,6 @@
 # Moulin
 
-Moulin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Pikes Ibiza, Ibiza on Thu, 27 Aug 2026.
+Moulin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Pikes Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 Moulin is a house and techno artist tracked on soundcheck, with 50 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 4 more. Often billed alongside Chris Gorrie, Fabich and Calabasa. Next up: Pikes Ibiza, Ibiza on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Moulin is a house and techno artist tracked on soundcheck, with 50 sets logged a
 
 Chris Gorrie, Fabich, Calabasa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*

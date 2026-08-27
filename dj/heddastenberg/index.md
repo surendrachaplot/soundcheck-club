@@ -1,6 +1,6 @@
 # Hedda Stenberg
 
-Hedda Stenberg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 10 Oct 2026.
+Hedda Stenberg is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 10 Oct 2026.
 
 Hedda Stenberg is a house and techno artist based in Sweden, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Mees Salomé, VNTM and CamelPhat. Next up: Het Sieraad, Amsterdam on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Hedda Stenberg is a house and techno artist based in Sweden, tracked on soundche
 
 Mees Salomé, VNTM, CamelPhat
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*

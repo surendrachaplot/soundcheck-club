@@ -1,6 +1,6 @@
 # Zelev (CH)
 
-Zelev (CH) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hive Club, Zurich on Thu, 27 Aug 2026.
+Zelev (CH) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hive Club, Zurich on Thu, 27 Aug 2026.
 
 Zelev (CH) is a house and minimal artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Berlin, Hamburg, London and Zurich. Often billed alongside Juli Lee, ATTA (GER) and 2M (CH). Next up: Hive Club, Zurich on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Zelev (CH) is a house and minimal artist based in Switzerland, tracked on soundc
 
 Juli Lee, ATTA (GER), 2M (CH)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zelev-ch/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zelev-ch/)*

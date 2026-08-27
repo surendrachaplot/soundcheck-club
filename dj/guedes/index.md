@@ -1,6 +1,6 @@
 # Guedes
 
-Guedes is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Macarena Club, Barcelona on Sat, 29 Aug 2026.
+Guedes is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Macarena Club, Barcelona on Sat, 29 Aug 2026.
 
 Guedes is a house and minimal artist based in Brazil, tracked on soundcheck, with 27 sets logged across Barcelona and Geneva. Often billed alongside Kid Moss, Bill Hates and Galu Bla. Next up: Macarena Club, Barcelona on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Guedes is a house and minimal artist based in Brazil, tracked on soundcheck, wit
 
 Kid Moss, Bill Hates, Galu Bla
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guedes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guedes/)*

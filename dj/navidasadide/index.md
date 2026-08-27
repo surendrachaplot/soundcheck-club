@@ -1,6 +1,6 @@
 # Navid Asadi (DE)
 
-Navid Asadi (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 29 Aug 2026.
+Navid Asadi (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 29 Aug 2026.
 
 Navid Asadi (DE) is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside DJ Hellfire, Jesse (DE) and Mischa (2). Next up: Uebel & Gefährlich, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Navid Asadi (DE) is a techno and trance artist tracked on soundcheck, with 16 se
 
 DJ Hellfire, Jesse (DE), Mischa (2)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navidasadide/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/navidasadide/)*

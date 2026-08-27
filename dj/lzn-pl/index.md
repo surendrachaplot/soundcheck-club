@@ -1,6 +1,6 @@
 # LZN (PL)
 
-LZN (PL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mastak, Warsaw on Fri, 28 Aug 2026.
+LZN (PL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mastak, Warsaw on Fri, 28 Aug 2026.
 
 LZN (PL) is a techno artist tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside 7CIRCLE, Dizzy (PL) and Fogler. Next up: Mastak, Warsaw on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ LZN (PL) is a techno artist tracked on soundcheck, with 3 sets logged across War
 
 7CIRCLE, Dizzy (PL), Fogler
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzn-pl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzn-pl/)*

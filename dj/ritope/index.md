@@ -1,6 +1,6 @@
 # Ritope
 
-Ritope is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 3 Sept 2026.
+Ritope is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 3 Sept 2026.
 
 Ritope is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London and Rome. Often billed alongside Gianmarco Gazzillo, Desiree' and Manlio. Next up: THE MAGICK BAR, Rome on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Ritope is a techno and electro artist based in United Kingdom, tracked on soundc
 
 Gianmarco Gazzillo, Desiree', Manlio
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ritope/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ritope/)*

@@ -1,6 +1,6 @@
 # Zuckersüß
 
-Zuckersüß is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tranzit, Hamburg on Sat, 12 Sept 2026.
+Zuckersüß is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tranzit, Hamburg on Sat, 12 Sept 2026.
 
 Zuckersüß is a techno artist tracked on soundcheck, with 11 sets logged across Hamburg. Often billed alongside Pierre Kraft, AH-N!CE and Karamustan. Next up: Tranzit, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Zuckersüß is a techno artist tracked on soundcheck, with 11 sets logged across
 
 Pierre Kraft, AH-N!CE, Karamustan
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuckersuess/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuckersuess/)*

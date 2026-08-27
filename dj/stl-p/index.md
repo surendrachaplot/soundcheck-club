@@ -1,6 +1,6 @@
 # STL-P
 
-STL-P is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kilomètre25, Paris on Fri, 28 Aug 2026.
+STL-P is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kilomètre25, Paris on Fri, 28 Aug 2026.
 
 STL-P is a techno and minimal artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, London, Lyon and Paris and 1 more. Often billed alongside Less-O, Elise Massoni and Belaria. Next up: Kilomètre25, Paris on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ STL-P is a techno and minimal artist based in France, tracked on soundcheck, wit
 
 Less-O, Elise Massoni, Belaria
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stl-p/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stl-p/)*

@@ -1,6 +1,6 @@
 # EKSPO
 
-EKSPO is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at MOS' > Mystery of Sound, Naples on Thu, 27 Aug 2026.
+EKSPO is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at MOS' > Mystery of Sound, Naples on Thu, 27 Aug 2026.
 
 EKSPO is a hip-hop and funk / soul artist based in Italy, tracked on soundcheck, with 24 sets logged across Naples. Often billed alongside Michele Lopardo and Alfio Pienne. Next up: MOS' > Mystery of Sound, Naples on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ EKSPO is a hip-hop and funk / soul artist based in Italy, tracked on soundcheck,
 
 Michele Lopardo, Alfio Pienne
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ekspo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ekspo/)*

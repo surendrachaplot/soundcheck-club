@@ -1,6 +1,6 @@
 # Choo Choo
 
-Choo Choo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Trans-Pecos, New York City on Fri, 28 Aug 2026.
+Choo Choo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Trans-Pecos, New York City on Fri, 28 Aug 2026.
 
 Choo Choo is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Newyorkcity, Sanfrancisco, Tokyo and Vienna. Often billed alongside Sam Valle, SHRAY and ceviché. Next up: Trans-Pecos, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Choo Choo is a house and techno artist based in United States of America, tracke
 
 Sam Valle, SHRAY, ceviché
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*

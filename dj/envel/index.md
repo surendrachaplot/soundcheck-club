@@ -1,6 +1,6 @@
 # Envel
 
-Envel is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 19 Sept 2026.
+Envel is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 19 Sept 2026.
 
 Envel is a progressive house artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Agatha Pher, Bill Hates and Einmusik. Next up: Seaseaclub Barcelona, Barcelona on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Envel is a progressive house artist based in Spain, tracked on soundcheck, with 
 
 Agatha Pher, Bill Hates, Einmusik
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/envel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/envel/)*

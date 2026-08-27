@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "EXIT 3→RD BIRTHDAY - Friday [Night 1]" on Fri, 4 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "EXIT 3→RD BIRTHDAY - Friday [Night 1]" on Fri, 4 Sept 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including 3SBAT, Bake, Brandon Lee Vear and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 10 upcoming night
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

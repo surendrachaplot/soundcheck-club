@@ -1,6 +1,6 @@
 # Sunnyside Pavilion
 
-Sunnyside Pavilion is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sunnyside Sessions x Toolroom Records Takeover" on Sat, 29 Aug 2026.
+Sunnyside Pavilion is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Sunnyside Sessions x Toolroom Records Takeover" on Sat, 29 Aug 2026.
 
 Sunnyside Pavilion is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Addy, Fedde Le Grand, Hatiras and Mark Knight and 1 more. Browse upcoming dates, start times and who's playing. 1755 Lake Shore Blvd; Toronto, ON M6S; Canada.
 
@@ -15,4 +15,4 @@ Sunnyside Pavilion is a music venue in Toronto listed on soundcheck. 2 upcoming 
 
 1755 Lake Shore Blvd; Toronto, ON M6S; Canada, Toronto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sunnyside-pavilion/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sunnyside-pavilion/)*

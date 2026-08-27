@@ -1,6 +1,6 @@
 # Toff Youth
 
-Toff Youth is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at murmur, Amsterdam on Sat, 29 Aug 2026.
+Toff Youth is a Dub and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at murmur, Amsterdam on Sat, 29 Aug 2026.
 
 Toff Youth is a dub and techno artist tracked on soundcheck, with 17 sets logged across Amsterdam, Brussels, Rotterdam and Thehague. Often billed alongside Jo FLM, Rozaly and Chinnamasta. Next up: murmur, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Toff Youth is a dub and techno artist tracked on soundcheck, with 17 sets logged
 
 Jo FLM, Rozaly, Chinnamasta
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toffyouth/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toffyouth/)*

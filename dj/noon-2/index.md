@@ -1,6 +1,6 @@
 # NOON (2)
 
-NOON (2) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Horn, Bangkok on Thu, 27 Aug 2026.
+NOON (2) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Horn, Bangkok on Thu, 27 Aug 2026.
 
 NOON (2) is a techno and bass artist based in Thailand, tracked on soundcheck, with 19 sets logged across Bangkok. Often billed alongside JWP., Mae Happyair and Brownie Popkens. Next up: Horn, Bangkok on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ NOON (2) is a techno and bass artist based in Thailand, tracked on soundcheck, w
 
 JWP., Mae Happyair, Brownie Popkens
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noon-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noon-2/)*

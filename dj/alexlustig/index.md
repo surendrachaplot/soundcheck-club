@@ -1,6 +1,6 @@
 # Alex Lustig
 
-Alex Lustig is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Silence Please, New York City on Thu, 10 Sept 2026.
+Alex Lustig is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Silence Please, New York City on Thu, 10 Sept 2026.
 
 Alex Lustig is an ambient and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Austin, Berlin and Birmingham and 22 more. Often billed alongside JENNO (2) and Rampa. Next up: Silence Please, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Alex Lustig is an ambient and house artist tracked on soundcheck, with 36 sets l
 
 JENNO (2), Rampa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*

@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at W Barcelona, Barcelona on Sun, 30 Aug 2026.
+Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at W Barcelona, Barcelona on Sun, 30 Aug 2026.
 
 Seth Troxler is a house and techno artist tracked on soundcheck, with 308 sets logged across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside DJ Tennis, Sossa and Chloé Caillet. Next up: W Barcelona, Barcelona on Sun 30 Aug.
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist tracked on soundcheck, with 308 sets l
 
 DJ Tennis, Sossa, Chloé Caillet
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

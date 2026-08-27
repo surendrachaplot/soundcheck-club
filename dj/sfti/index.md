@@ -1,6 +1,6 @@
 # SFTI
 
-SFTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at elipamanoke, Leipzig on Wed, 2 Sept 2026.
+SFTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at elipamanoke, Leipzig on Wed, 2 Sept 2026.
 
 SFTI is a techno and trance artist tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside Dari and the Beast, Yardman and 50PHIE. Next up: elipamanoke, Leipzig on Wed 2 Sept.
 
@@ -24,4 +24,4 @@ SFTI is a techno and trance artist tracked on soundcheck, with 8 sets logged acr
 
 Dari and the Beast, Yardman, 50PHIE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sfti/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sfti/)*

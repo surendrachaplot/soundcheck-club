@@ -1,6 +1,6 @@
 # lueasa
 
-lueasa is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at X Private Club, Madrid on Sat, 5 Sept 2026.
+lueasa is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at X Private Club, Madrid on Sat, 5 Sept 2026.
 
 lueasa is a house artist tracked on soundcheck, with 3 sets logged across Berlin and Madrid. Often billed alongside Peter Schumann, Acidfinky and Alma Linda. Next up: X Private Club, Madrid on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ lueasa is a house artist tracked on soundcheck, with 3 sets logged across Berlin
 
 Peter Schumann, Acidfinky, Alma Linda
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lueasa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lueasa/)*

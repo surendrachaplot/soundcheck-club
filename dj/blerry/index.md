@@ -1,6 +1,6 @@
 # Blerry
 
-Blerry is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Level 8 DTLA, Los Angeles on Thu, 27 Aug 2026.
+Blerry is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Level 8 DTLA, Los Angeles on Thu, 27 Aug 2026.
 
 Blerry is a tech house and minimal artist tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Estalit, Lavenge and Max Rush. Next up: Level 8 DTLA, Losangeles on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ Blerry is a tech house and minimal artist tracked on soundcheck, with 8 sets log
 
 Estalit, Lavenge, Max Rush
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blerry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blerry/)*

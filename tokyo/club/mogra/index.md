@@ -1,6 +1,6 @@
 # Mogra
 
-Mogra is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "elemog vol.180" on Fri, 18 Sept 2026.
+Mogra is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "elemog vol.180" on Fri, 18 Sept 2026.
 
 Mogra is a music venue in Tokyo listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 3-11 Akihabara, Taitou-ku, Tokyo, 101-0021.
 
@@ -16,4 +16,4 @@ Mogra is a music venue in Tokyo listed on soundcheck. 3 upcoming nights. Browse 
 
 3-11 Akihabara, Taitou-ku, Tokyo, 101-0021, Tokyo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mogra/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mogra/)*

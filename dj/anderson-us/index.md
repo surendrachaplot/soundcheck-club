@@ -1,6 +1,6 @@
 # Anderson (US)
 
-Anderson (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Fri, 11 Sept 2026.
+Anderson (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club der Visionaere, Berlin on Fri, 11 Sept 2026.
 
 Anderson (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside DJ Zurückbleiben Bitte, Some Uncertain Sir and Peppe Way. Next up: Club der Visionaere, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Anderson (US) is a house and techno artist based in United States of America, tr
 
 DJ Zurückbleiben Bitte, Some Uncertain Sir, Peppe Way
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson-us/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson-us/)*

@@ -1,6 +1,6 @@
 # Lukas Meunier
 
-Lukas Meunier is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+Lukas Meunier is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
 Lukas Meunier is a techno and trance artist based in Germany, tracked on soundcheck, with 64 sets logged across Bangkok, Berlin, Bucharest and Cologne and 16 more. Often billed alongside CAIVA, Michael Klein and PETDuo. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Lukas Meunier is a techno and trance artist based in Germany, tracked on soundch
 
 CAIVA, Michael Klein, PETDuo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasmeunier/)*

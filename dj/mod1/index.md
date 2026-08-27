@@ -1,6 +1,6 @@
 # Mod.1
 
-Mod.1 is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Razzmatazz, Barcelona on Sat, 12 Sept 2026.
+Mod.1 is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Razzmatazz, Barcelona on Sat, 12 Sept 2026.
 
 Mod.1 is a techno and dub techno artist tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Madrid and Milan and 3 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: Razzmatazz, Barcelona on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mod.1 is a techno and dub techno artist tracked on soundcheck, with 64 sets logg
 
 ABSIS, Ana Alves, Queixal
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mod1/)*

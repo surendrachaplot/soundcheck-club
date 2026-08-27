@@ -1,6 +1,6 @@
 # Cezaire
 
-Cezaire is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Soap Seoul., Seoul on Fri, 28 Aug 2026.
+Cezaire is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Soap Seoul., Seoul on Fri, 28 Aug 2026.
 
 Cezaire is a house and disco artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Barcelona and Brussels and 12 more. Often billed alongside Darius (FR), Kartell and Didi Han. Next up: Soap Seoul., Seoul on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Cezaire is a house and disco artist tracked on soundcheck, with 46 sets logged a
 
 Darius (FR), Kartell, Didi Han
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*

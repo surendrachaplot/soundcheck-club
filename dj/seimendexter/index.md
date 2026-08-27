@@ -1,8 +1,8 @@
 # Seimen Dexter
 
-Seimen Dexter is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Void Club, Berlin on Fri, 30 Oct 2026.
+Seimen Dexter is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Void Club, Berlin on Fri, 30 Oct 2026.
 
-Seimen Dexter is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside GHOST DE, Felix Reichelt and Jens Schwan. Next up: Void Club, Berlin on Fri 30 Oct.
+Seimen Dexter is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside GHOST DE, Felix Reichelt and Rob Robsen. Next up: Void Club, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Seimen Dexter is a techno and trance artist based in Germany, tracked on soundch
 
 ## Shares bills with
 
-GHOST DE, Felix Reichelt, Jens Schwan
+GHOST DE, Felix Reichelt, Rob Robsen
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seimendexter/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seimendexter/)*

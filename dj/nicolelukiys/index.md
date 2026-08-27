@@ -1,6 +1,6 @@
 # nicole lukiys
 
-nicole lukiys is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sala El Sol, Madrid on Sat, 29 Aug 2026.
+nicole lukiys is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sala El Sol, Madrid on Sat, 29 Aug 2026.
 
 nicole lukiys is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon, London and Madrid and 2 more. Often billed alongside Madson Carpenter, Cruxado and DJ Paradox. Next up: Sala El Sol, Madrid on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ nicole lukiys is a techno and trance artist tracked on soundcheck, with 23 sets 
 
 Madson Carpenter, Cruxado, DJ Paradox
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelukiys/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelukiys/)*

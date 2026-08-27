@@ -1,6 +1,6 @@
 # Shane Fernandes
 
-Shane Fernandes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Egg London, London on Fri, 4 Sept 2026.
+Shane Fernandes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Egg London, London on Fri, 4 Sept 2026.
 
 Shane Fernandes is a house and techno artist tracked on soundcheck, with 14 sets logged across Birmingham, Liverpool, London and Manchester. Often billed alongside Donna Love, Kieren Lythgow and Leftwing & Kody. Next up: Egg London, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Shane Fernandes is a house and techno artist tracked on soundcheck, with 14 sets
 
 Donna Love, Kieren Lythgow, Leftwing & Kody
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanefernandes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanefernandes/)*

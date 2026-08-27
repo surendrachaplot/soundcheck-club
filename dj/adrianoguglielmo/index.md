@@ -1,6 +1,6 @@
 # Adriano Guglielmo
 
-Adriano Guglielmo is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Plantation, Paris on Fri, 28 Aug 2026.
+Adriano Guglielmo is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Plantation, Paris on Fri, 28 Aug 2026.
 
 Adriano Guglielmo is a disco and funk / soul artist tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside Danny Fortunato and JPYE. Next up: Plantation, Paris on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Adriano Guglielmo is a disco and funk / soul artist tracked on soundcheck, with 
 
 Danny Fortunato, JPYE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoguglielmo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianoguglielmo/)*

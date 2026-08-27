@@ -1,6 +1,6 @@
 # ROWANA
 
-ROWANA is a Trance and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
+ROWANA is a Trance and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Crown, Bristol on Sat, 29 Aug 2026.
 
 ROWANA is a trance and garage artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Bristol. Often billed alongside Neil And I, Emma Rose and BBY GOOSE. Next up: The Crown, Bristol on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ ROWANA is a trance and garage artist based in United Kingdom, tracked on soundch
 
 Neil And I, Emma Rose, BBY GOOSE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowana/)*

@@ -1,6 +1,6 @@
 # Omar Latigo
 
-Omar Latigo is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Versalles 64, Mexico City on Sat, 29 Aug 2026.
+Omar Latigo is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Versalles 64, Mexico City on Sat, 29 Aug 2026.
 
 Omar Latigo is a house and trance artist tracked on soundcheck, with 8 sets logged across Mexicocity. Often billed alongside Eliel Capa, Holder and Joss Crown. Next up: Versalles 64, Mexicocity on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Omar Latigo is a house and trance artist tracked on soundcheck, with 8 sets logg
 
 Eliel Capa, Holder, Joss Crown
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omarlatigo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omarlatigo/)*

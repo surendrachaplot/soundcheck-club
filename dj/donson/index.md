@@ -1,6 +1,6 @@
 # Don Son
 
-Don Son is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at rake?raka?, Osaka on Sat, 29 Aug 2026.
+Don Son is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at rake?raka?, Osaka on Sat, 29 Aug 2026.
 
 Don Son is a techno and electronica artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Barcelona, Basel, Berlin and London and 4 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Michael Ritter. Next up: rake?raka?, Osaka on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Don Son is a techno and electronica artist based in Switzerland, tracked on soun
 
 DMITRI ABSINTHE, MAX PELA, Michael Ritter
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*

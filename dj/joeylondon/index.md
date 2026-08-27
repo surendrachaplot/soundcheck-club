@@ -1,6 +1,6 @@
 # Joey London
 
-Joey London is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Joey London is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
 Joey London is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Birmingham, Leeds and Manchester and 2 more. Often billed alongside Joseph Edmund, Mike Morrisey and Baylee Brown. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Joey London is a tech house and house artist based in United Kingdom, tracked on
 
 Joseph Edmund, Mike Morrisey, Baylee Brown
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylondon/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylondon/)*

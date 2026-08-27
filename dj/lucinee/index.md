@@ -1,6 +1,6 @@
 # Lucinee
 
-Lucinee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 29 Aug 2026.
+Lucinee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 29 Aug 2026.
 
 Lucinee is a techno and trance artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Lifka, Sept and CLTX. Next up: Uebel & Gefährlich, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lucinee is a techno and trance artist tracked on soundcheck, with 125 sets logge
 
 Lifka, Sept, CLTX
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*

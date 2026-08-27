@@ -1,6 +1,6 @@
 # Casa Brandon
 
-Casa Brandon is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "LES ALIENS CHICHIXxX" on Sun, 30 Aug 2026.
+Casa Brandon is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "LES ALIENS CHICHIXxX" on Sun, 30 Aug 2026.
 
 Casa Brandon is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including FRIEDRIICH. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Casa Brandon is a music venue in Buenosaires listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | LES ALIENS CHICHIXxX | FRIEDRIICH |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/casa-brandon/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/casa-brandon/)*

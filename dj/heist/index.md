@@ -1,6 +1,6 @@
 # Heist
 
-Heist is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
+Heist is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Phonox, London on Fri, 4 Sept 2026.
 
 Heist is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Birmingham, Brighton, Hamburg and London. Often billed alongside DJ Hype, DJ Hazard and IC3. Next up: Phonox, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Heist is a drum & bass and jungle artist tracked on soundcheck, with 17 sets log
 
 DJ Hype, DJ Hazard, IC3
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heist/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heist/)*

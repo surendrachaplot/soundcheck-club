@@ -1,6 +1,6 @@
 # Pierre
 
-Pierre is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Atrium Žižkov, Prague on Sat, 29 Aug 2026.
+Pierre is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Atrium Žižkov, Prague on Sat, 29 Aug 2026.
 
 Pierre is a techno and house artist tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Prague. Often billed alongside Deg, Joris Voorn and Pan-Pot. Next up: Atrium Žižkov, Prague on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pierre is a techno and house artist tracked on soundcheck, with 9 sets logged ac
 
 Deg, Joris Voorn, Pan-Pot
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierre/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pierre/)*

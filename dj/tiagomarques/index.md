@@ -1,6 +1,6 @@
 # Tiago Marques
 
-Tiago Marques is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
+Tiago Marques is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
 
 Tiago Marques is a house and techno artist based in Portugal, tracked on soundcheck, with 61 sets logged across Athens, Berlin, Brussels and Buenosaires and 3 more. Often billed alongside Mary B (2), Cruz (PT) and Kee_ko. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Tiago Marques is a house and techno artist based in Portugal, tracked on soundch
 
 Mary B (2), Cruz (PT), Kee_ko
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*

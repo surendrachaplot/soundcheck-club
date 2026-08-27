@@ -1,6 +1,6 @@
 # Dari Dark
 
-Dari Dark is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Liquid Club, Malta on Fri, 28 Aug 2026.
+Dari Dark is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Liquid Club, Malta on Fri, 28 Aug 2026.
 
 Dari Dark is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Malta and Munich. Often billed alongside CDB (1), Chopper and Dan Mlinar. Next up: Liquid Club, Malta on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dari Dark is a techno and trance artist based in Germany, tracked on soundcheck,
 
 CDB (1), Chopper, Dan Mlinar
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daridark/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daridark/)*

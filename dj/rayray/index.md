@@ -1,6 +1,6 @@
 # RayRay
 
-RayRay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
+RayRay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
 
 RayRay is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: The DBA, Manchester on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ RayRay is a techno and house artist tracked on soundcheck, with 36 sets logged a
 
 Varanasi, ASHTREY, Gloria Rose
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

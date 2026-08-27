@@ -1,6 +1,6 @@
 # Nala
 
-Nala is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
+Nala is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
 
 Nala is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside Vnssa, Justin Martin and Bastienne. Next up: Skatecafe, Amsterdam on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Nala is a house and tech house artist tracked on soundcheck, with 85 sets logged
 
 Vnssa, Justin Martin, Bastienne
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*

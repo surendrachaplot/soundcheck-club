@@ -1,6 +1,6 @@
 # A_Phan
 
-A_Phan is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Monarch, Berlin on Sat, 5 Sept 2026.
+A_Phan is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Monarch, Berlin on Sat, 5 Sept 2026.
 
 A_Phan is a techno artist tracked on soundcheck, with 5 sets logged across Berlin and Vienna. Often billed alongside Natasha Moreno, Luca Carlotta and MERS. Next up: Monarch, Berlin on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ A_Phan is a techno artist tracked on soundcheck, with 5 sets logged across Berli
 
 Natasha Moreno, Luca Carlotta, MERS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a_phan/)*

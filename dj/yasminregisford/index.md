@@ -1,6 +1,6 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 28 Aug 2026.
+Yasmin Regisford is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 28 Aug 2026.
 
 Yasmin Regisford is a techno and bass artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 19 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: RSO.BERLIN, Berlin on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Yasmin Regisford is a techno and bass artist based in France, tracked on soundch
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

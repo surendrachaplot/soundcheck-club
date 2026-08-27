@@ -1,6 +1,6 @@
 # Mike Midnight
 
-Mike Midnight is a Downtempo and Electronica artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
+Mike Midnight is a Downtempo and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 30 Aug 2026.
 
 Mike Midnight is a downtempo and electronica artist based in Australia, tracked on soundcheck, with 38 sets logged across Athens, Berlin, Copenhagen and Lisbon and 9 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: TBA - Secret Location, Berlin on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Mike Midnight is a downtempo and electronica artist based in Australia, tracked 
 
 Paper-Cuts, Roza Terenzi, Miscmeg
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*

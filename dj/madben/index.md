@@ -1,6 +1,6 @@
 # Madben
 
-Madben is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
+Madben is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
 
 Madben is a techno and electro artist based in France, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Copenhagen and Geneva and 8 more. Often billed alongside Maceo Plex, Chris Gavin and Kosme. Next up: Mia Mao, Paris on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Madben is a techno and electro artist based in France, tracked on soundcheck, wi
 
 Maceo Plex, Chris Gavin, Kosme
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madben/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madben/)*

@@ -1,6 +1,6 @@
 # Sika Akis
 
-Sika Akis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Insomnia, Berlin on Sat, 19 Sept 2026.
+Sika Akis is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Insomnia, Berlin on Sat, 19 Sept 2026.
 
 Sika Akis is a techno and tech house artist based in Germany, tracked on soundcheck, with 97 sets logged across Berlin. Often billed alongside Nat SuPrise, Kaminka Merel and Felidae. Next up: Insomnia, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sika Akis is a techno and tech house artist based in Germany, tracked on soundch
 
 Nat SuPrise, Kaminka Merel, Felidae
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*

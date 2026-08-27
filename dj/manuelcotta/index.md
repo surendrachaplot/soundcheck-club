@@ -1,6 +1,6 @@
 # Manuel Cotta
 
-Manuel Cotta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ministerium Club, Lisbon on Fri, 28 Aug 2026.
+Manuel Cotta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ministerium Club, Lisbon on Fri, 28 Aug 2026.
 
 Manuel Cotta is a house and techno artist based in Portugal, tracked on soundcheck, with 69 sets logged across Barcelona, Lisbon, Porto and Saopaulo and 2 more. Often billed alongside Helio, Tíago and Andre Cascais. Next up: Ministerium Club, Lisbon on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Manuel Cotta is a house and techno artist based in Portugal, tracked on soundche
 
 Helio, Tíago, Andre Cascais
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcotta/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcotta/)*

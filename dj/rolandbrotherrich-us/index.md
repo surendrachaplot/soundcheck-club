@@ -1,6 +1,6 @@
 # Roland & Brother Rich
 
-Roland & Brother Rich is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jean’s, New York City on Thu, 27 Aug 2026.
+Roland & Brother Rich is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jean’s, New York City on Thu, 27 Aug 2026.
 
 Roland & Brother Rich are a house and disco duo based in United States of America, tracked on soundcheck, with 32 sets logged across Amsterdam, London, Miami and Newyorkcity. Often billed alongside Bustin' Loose, Monsieur Van Pratt and Poppi. Next up: Jean’s, Newyorkcity on Thu 27 Aug.
 
@@ -29,4 +29,4 @@ Roland & Brother Rich are a house and disco duo based in United States of Americ
 
 Bustin' Loose, Monsieur Van Pratt, Poppi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandbrotherrich-us/)*

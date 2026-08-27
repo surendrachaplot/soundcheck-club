@@ -1,6 +1,6 @@
 # ugurmeister
 
-ugurmeister is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sensorium, Berlin on Sat, 29 Aug 2026.
+ugurmeister is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sensorium, Berlin on Sat, 29 Aug 2026.
 
 ugurmeister is a techno and house artist based in Turkey, tracked on soundcheck, with 15 sets logged across Berlin and Istanbul. Often billed alongside el Capitan, Ghed and Laren. Next up: Sensorium, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ugurmeister is a techno and house artist based in Turkey, tracked on soundcheck,
 
 el Capitan, Ghed, Laren
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurmeister/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ugurmeister/)*

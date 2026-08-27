@@ -1,6 +1,6 @@
 # TBA - Han River Ferry
 
-TBA - Han River Ferry is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "ceiling service vol.11" on Sat, 29 Aug 2026.
+TBA - Han River Ferry is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "ceiling service vol.11" on Sat, 29 Aug 2026.
 
 TBA - Han River Ferry is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Jongho, Leafar Legov, Maarten Vos and sooom. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Han River Ferry is a music venue in Seoul listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | ceiling service vol.11 | Jongho, Leafar Legov, Maarten Vos, sooom |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/tba-han-river-ferry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/tba-han-river-ferry/)*

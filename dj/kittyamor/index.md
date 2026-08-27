@@ -1,6 +1,6 @@
 # Kitty Amor
 
-Kitty Amor is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at SILO, New York City on Sat, 12 Sept 2026.
+Kitty Amor is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at SILO, New York City on Sat, 12 Sept 2026.
 
 Kitty Amor is a house and afro house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: SILO, Newyorkcity on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Kitty Amor is a house and afro house artist tracked on soundcheck, with 93 sets 
 
 Andrea Oliva, Major League Djz, SYREETA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*

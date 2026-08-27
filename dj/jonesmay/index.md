@@ -1,6 +1,6 @@
 # Jones May
 
-Jones May is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Macarena Club, Barcelona on Wed, 2 Sept 2026.
+Jones May is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Macarena Club, Barcelona on Wed, 2 Sept 2026.
 
 Jones May is a house and techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona. Often billed alongside Pau Guilera, Hitch and Alex Pott. Next up: Macarena Club, Barcelona on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Jones May is a house and techno artist based in Spain, tracked on soundcheck, wi
 
 Pau Guilera, Hitch, Alex Pott
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesmay/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesmay/)*

@@ -1,6 +1,6 @@
 # Klub 20/44
 
-Klub 20/44 is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FRØM THURSDAY - 20/44" on Thu, 27 Aug 2026.
+Klub 20/44 is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FRØM THURSDAY - 20/44" on Thu, 27 Aug 2026.
 
 Klub 20/44 is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, with line-ups including Herzel, M E L I, Teodora Van Context and Vladimir Ivkovic. Browse upcoming dates, start times and who's playing. Karađorđeva 44 Belgrade, Serbia.
 
@@ -17,4 +17,4 @@ Klub 20/44 is a music venue in Belgrade listed on soundcheck. 4 upcoming nights,
 
 Karađorđeva 44 Belgrade, Serbia, Belgrade
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-20-44/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/klub-20-44/)*

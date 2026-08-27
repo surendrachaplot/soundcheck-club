@@ -1,6 +1,6 @@
 # nik-ey
 
-nik-ey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
+nik-ey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
 nik-ey is a house and electro artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague. Often billed alongside Mees Mattern, Khun and Luis Ripa. Next up: Shelter Amsterdam, Amsterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ nik-ey is a house and electro artist tracked on soundcheck, with 38 sets logged 
 
 Mees Mattern, Khun, Luis Ripa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*

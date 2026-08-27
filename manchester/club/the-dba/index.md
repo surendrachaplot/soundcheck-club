@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FILTH x Minus Pink: Alternative Queer Pride" on Fri, 28 Aug 2026.
+The DBA is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FILTH x Minus Pink: Alternative Queer Pride" on Fri, 28 Aug 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including 4STR0, Aerbreak, Aiden Francis and Ali Roche (2) and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 22 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

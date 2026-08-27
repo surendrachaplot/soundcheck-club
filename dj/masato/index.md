@@ -1,6 +1,6 @@
 # masato
 
-masato is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Los Angeles on Sat, 29 Aug 2026.
+masato is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Los Angeles on Sat, 29 Aug 2026.
 
 masato is a techno and tech house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles, Sandiego, Sanfrancisco and Tokyo. Often billed alongside BUCK/OFF, Nic Jericho and Shane Thomas. Next up: TBA, Losangeles on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ masato is a techno and tech house artist based in United States of America, trac
 
 BUCK/OFF, Nic Jericho, Shane Thomas
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masato/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masato/)*

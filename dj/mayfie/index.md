@@ -1,6 +1,6 @@
 # Mayfie
 
-Mayfie is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Stereo, Montreal on Fri, 28 Aug 2026.
+Mayfie is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Stereo, Montreal on Fri, 28 Aug 2026.
 
 Mayfie is a techno and acid artist tracked on soundcheck, with 19 sets logged across Montreal and Toronto. Often billed alongside Sam Paganini, Altinbas and Anfisa Letyago. Next up: Stereo, Montreal on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Mayfie is a techno and acid artist tracked on soundcheck, with 19 sets logged ac
 
 Sam Paganini, Altinbas, Anfisa Letyago
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayfie/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayfie/)*

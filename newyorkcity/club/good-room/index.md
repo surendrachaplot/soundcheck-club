@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Magnetic ft Artwork, Alex McCracken, Victor Florescu, UMA DJ, Boat Neck, Lee Cash, whydan" on Fri, 28 Aug 2026.
+Good Room is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Magnetic ft Artwork, Alex McCracken, Victor Florescu, UMA DJ, Boat Neck, Lee Cash, whydan" on Fri, 28 Aug 2026.
 
 Good Room is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including 1morning, A lana, Alex McCracken and Artwork and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nigh
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

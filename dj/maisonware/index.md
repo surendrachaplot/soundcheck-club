@@ -1,6 +1,6 @@
 # Maison Ware
 
-Maison Ware is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Home The Venue, Sydney on Fri, 18 Sept 2026.
+Maison Ware is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Home The Venue, Sydney on Fri, 18 Sept 2026.
 
 Maison Ware is an afro house and techno artist based in Australia, tracked on soundcheck, with 33 sets logged across Bali, Bangkok, Mykonos and Sydney. Often billed alongside HIJCKD, Bella Backe and mara (AU). Next up: Home The Venue, Sydney on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Maison Ware is an afro house and techno artist based in Australia, tracked on so
 
 HIJCKD, Bella Backe, mara (AU)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonware/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maisonware/)*

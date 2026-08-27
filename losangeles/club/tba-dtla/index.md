@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "HANDS ON YOUR HIPS: 1 YEAR ANNIVERSARY" on Fri, 28 Aug 2026.
+TBA - DTLA is a music venue in Los Angeles with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "HANDS ON YOUR HIPS: 1 YEAR ANNIVERSARY" on Fri, 28 Aug 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nights, with line-ups including 6 SENSE, baby.com, Baby Uniq and BL4ZE and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 10 upcoming nigh
 | Fri, 6 Nov 2026 | CLOSER presents THERMAL with 6 SENSE (LA Debut) | 6 SENSE, Brick (US), S.I.M, fun2bjane |
 | Sat, 14 Nov 2026 | OBSERVE 24 YEAR ANNIVERSARY // TICKETS OF TRUST AVAILABLE NOW |  |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

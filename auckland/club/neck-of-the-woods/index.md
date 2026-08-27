@@ -1,6 +1,6 @@
 # Neck of the Woods
 
-Neck of the Woods is a music venue in Auckland with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "NOISE CONTROL VOLUME 2" on Fri, 28 Aug 2026.
+Neck of the Woods is a music venue in Auckland with 11 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NOISE CONTROL VOLUME 2" on Fri, 28 Aug 2026.
 
 Neck of the Woods is a music venue in Auckland listed on soundcheck. 11 upcoming nights, with line-ups including BBYFACEKILLA, Beccie B, Caru (NZ) and Dylan C and 2 more. Browse upcoming dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
 
@@ -23,4 +23,4 @@ Neck of the Woods is a music venue in Auckland listed on soundcheck. 11 upcoming
 
 155 Karangahape Road, Auckland 1010, New Zealand, Auckland
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*

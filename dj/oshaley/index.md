@@ -1,6 +1,6 @@
 # OSHALEY
 
-OSHALEY is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Boson, Tokyo on Sat, 29 Aug 2026.
+OSHALEY is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Boson, Tokyo on Sat, 29 Aug 2026.
 
 OSHALEY is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 50 sets logged across Osaka and Tokyo. Often billed alongside HSC (1), TENO and OCCA. Next up: Bar Boson, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ OSHALEY is a techno and minimal techno artist based in Japan, tracked on soundch
 
 HSC (1), TENO, OCCA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oshaley/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oshaley/)*

@@ -1,6 +1,6 @@
 # Jody 6
 
-Jody 6 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
+Jody 6 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
 
 Jody 6 is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Geneva, Melbourne and Sydney. Often billed alongside Alex White, Anna Reusch and Auriga. Next up: TBA -  INDUSTRIE CAR WASH , Geneva on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Jody 6 is a techno and tech house artist tracked on soundcheck, with 5 sets logg
 
 Alex White, Anna Reusch, Auriga
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jody6/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jody6/)*

@@ -1,6 +1,6 @@
 # Reenie
 
-Reenie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Reenie is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
 Reenie is a house and techno artist based in Australia, tracked on soundcheck, with 113 sets logged across Brisbane, Edinburgh, London and Melbourne and 1 more. Often billed alongside Kato, Mazzacles and AHJU. Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Reenie is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Kato, Mazzacles, AHJU
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*

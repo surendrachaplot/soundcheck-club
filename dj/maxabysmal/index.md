@@ -1,6 +1,6 @@
 # Max Abysmal
 
-Max Abysmal is a Dub Techno and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
+Max Abysmal is a Dub Techno and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
 Max Abysmal is a dub techno and balearic artist tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside YoungWoman, Identified Patient and LazerGazer. Next up: Laak, Thehague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Max Abysmal is a dub techno and balearic artist tracked on soundcheck, with 11 s
 
 YoungWoman, Identified Patient, LazerGazer
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxabysmal/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxabysmal/)*

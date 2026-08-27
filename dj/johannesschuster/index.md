@@ -1,6 +1,6 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Johannes Schuster is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Johannes Schuster is a techno and trance artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 193 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

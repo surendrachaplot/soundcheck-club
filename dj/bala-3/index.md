@@ -1,6 +1,6 @@
 # BALA (3)
 
-BALA (3) is a Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at fabric, London on Sun, 20 Sept 2026.
+BALA (3) is a Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at fabric, London on Sun, 20 Sept 2026.
 
 BALA (3) is a drum & bass artist based in Spain, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, London and Madrid and 1 more. Often billed alongside Insmniak, PEAK (2) and CAPITANA. Next up: fabric, London on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ BALA (3) is a drum & bass artist based in Spain, tracked on soundcheck, with 22 
 
 Insmniak, PEAK (2), CAPITANA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bala-3/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bala-3/)*

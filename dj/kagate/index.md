@@ -1,6 +1,6 @@
 # KAGATE
 
-KAGATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Spilve Airport, Riga on Fri, 2 Oct 2026.
+KAGATE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Spilve Airport, Riga on Fri, 2 Oct 2026.
 
 KAGATE is a techno and house artist based in Latvia, tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside Ksenia Kamikaza, Anabel Arroyo and Ben Spalding. Next up: Spilve Airport, Riga on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ KAGATE is a techno and house artist based in Latvia, tracked on soundcheck, with
 
 Ksenia Kamikaza, Anabel Arroyo, Ben Spalding
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagate/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagate/)*

@@ -1,6 +1,6 @@
 # Krithi
 
-Krithi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
+Krithi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
 
 Krithi is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across London, Newyorkcity and Toronto. Often billed alongside Sana (NYC), Baalti and A. Sarr. Next up: Mood Ring, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Krithi is a house and techno artist based in United States of America, tracked o
 
 Sana (NYC), Baalti, A. Sarr
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krithi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krithi/)*

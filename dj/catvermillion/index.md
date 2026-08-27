@@ -1,6 +1,6 @@
 # Cat Vermillion
 
-Cat Vermillion is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 8 Sept 2026.
+Cat Vermillion is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 8 Sept 2026.
 
 Cat Vermillion is a techno and tech house artist tracked on soundcheck, with 68 sets logged across Berlin. Often billed alongside Felix Reichelt, Ronny Luft and Kaminka Merel. Next up: Der Weiße Hase, Berlin on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Cat Vermillion is a techno and tech house artist tracked on soundcheck, with 68 
 
 Felix Reichelt, Ronny Luft, Kaminka Merel
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catvermillion/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catvermillion/)*

@@ -1,6 +1,6 @@
 # TRYCK
 
-TRYCK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ziegrastraße 11, Berlin on Fri, 18 Sept 2026.
+TRYCK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ziegrastraße 11, Berlin on Fri, 18 Sept 2026.
 
 TRYCK is a techno and trance artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside SACID, DJ HENTAI and CHOREOPHILA. Next up: Ziegrastraße 11, Berlin on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ TRYCK is a techno and trance artist tracked on soundcheck, with 8 sets logged ac
 
 SACID, DJ HENTAI, CHOREOPHILA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tryck/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tryck/)*

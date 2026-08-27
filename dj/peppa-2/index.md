@@ -1,6 +1,6 @@
 # PEPPA (2)
 
-PEPPA (2) is a Footwork and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
+PEPPA (2) is a Footwork and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
 
 PEPPA (2) is a footwork and hardcore artist tracked on soundcheck, with 29 sets logged across Bristol, London, Manchester and Sheffield. Often billed alongside Sleazebag, Shirley Temper and Rodney. Next up: The DBA, Manchester on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ PEPPA (2) is a footwork and hardcore artist tracked on soundcheck, with 29 sets 
 
 Sleazebag, Shirley Temper, Rodney
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peppa-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peppa-2/)*

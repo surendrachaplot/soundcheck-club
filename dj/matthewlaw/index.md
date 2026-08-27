@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Penn Treaty Park, Philadelphia on Sat, 29 Aug 2026.
+Matthew Law is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Penn Treaty Park, Philadelphia on Sat, 29 Aug 2026.
 
 Matthew Law is a house and club artist based in United States of America, tracked on soundcheck, with 58 sets logged across Miami, Newyorkcity and Philadelphia. Often billed alongside Khalil, DJ Dommis and Jabair. Next up: Penn Treaty Park, Philadelphia on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Matthew Law is a house and club artist based in United States of America, tracke
 
 Khalil, DJ Dommis, Jabair
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

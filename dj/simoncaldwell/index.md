@@ -1,6 +1,6 @@
 # Simon Caldwell
 
-Simon Caldwell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
+Simon Caldwell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Inner West Location, Sydney on Sat, 29 Aug 2026.
 
 Simon Caldwell is a house and techno artist based in Australia, tracked on soundcheck, with 79 sets logged across Berlin, Brisbane, Hamburg and Melbourne and 1 more. Often billed alongside Kato, Ken Cloud and Deepa. Next up: TBA - Inner West Location, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Simon Caldwell is a house and techno artist based in Australia, tracked on sound
 
 Kato, Ken Cloud, Deepa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncaldwell/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simoncaldwell/)*

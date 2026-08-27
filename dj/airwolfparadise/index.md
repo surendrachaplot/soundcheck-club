@@ -1,6 +1,6 @@
 # Airwolf Paradise
 
-Airwolf Paradise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Brown Alley, Melbourne on Thu, 24 Sept 2026.
+Airwolf Paradise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Brown Alley, Melbourne on Thu, 24 Sept 2026.
 
 Airwolf Paradise is a house and tech house artist tracked on soundcheck, with 47 sets logged across Austin, Australiancapitalterritory, Bali and Belfast and 17 more. Often billed alongside Torren Foot, Patrick Topping and Dom Dolla. Next up: Brown Alley, Melbourne on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Airwolf Paradise is a house and tech house artist tracked on soundcheck, with 47
 
 Torren Foot, Patrick Topping, Dom Dolla
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airwolfparadise/)*

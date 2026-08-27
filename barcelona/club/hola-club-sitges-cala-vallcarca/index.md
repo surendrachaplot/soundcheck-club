@@ -1,6 +1,6 @@
 # Hola Club Sitges (Cala Vallcarca)
 
-Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "EL PARIPÉ goes to HOLA CLUB" on Sat, 29 Aug 2026.
+Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "EL PARIPÉ goes to HOLA CLUB" on Sat, 29 Aug 2026.
 
 Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including _MARCBA, Alex Pott, Brizas and Camelia (IT) and 2 more. Browse upcoming dates, start times and who's playing. 08872 Sitges, Barcelona.
 
@@ -21,4 +21,4 @@ Hola Club Sitges (Cala Vallcarca) is a music venue in Barcelona listed on soundc
 
 08872 Sitges, Barcelona, Barcelona
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hola-club-sitges-cala-vallcarca/)*

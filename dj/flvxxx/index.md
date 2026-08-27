@@ -1,6 +1,6 @@
 # F L V X X X
 
-F L V X X X is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
+F L V X X X is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
 
 F L V X X X are a bass and dub duo based in Italy, tracked on soundcheck, with 18 sets logged across Milan and Rome. Often billed alongside biased, Ortensio and Prest. Next up: TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ F L V X X X are a bass and dub duo based in Italy, tracked on soundcheck, with 1
 
 biased, Ortensio, Prest
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flvxxx/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flvxxx/)*

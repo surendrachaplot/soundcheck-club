@@ -1,6 +1,6 @@
 # Jank Inc.
 
-Jank Inc. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+Jank Inc. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Jank Inc. is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Estimulo, Vani-T and Avsluta. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jank Inc. is a house and techno artist based in United Kingdom, tracked on sound
 
 Estimulo, Vani-T, Avsluta
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jankinc/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jankinc/)*

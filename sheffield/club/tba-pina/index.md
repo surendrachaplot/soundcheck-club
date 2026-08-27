@@ -1,6 +1,6 @@
 # TBA - Pina
 
-TBA - Pina is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "SoulTrain Sheffield" on Sun, 30 Aug 2026.
+TBA - Pina is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "SoulTrain Sheffield" on Sun, 30 Aug 2026.
 
 TBA - Pina is a music venue in Sheffield listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Pina is a music venue in Sheffield listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | SoulTrain Sheffield |  |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/tba-pina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/tba-pina/)*

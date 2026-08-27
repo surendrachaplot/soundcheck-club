@@ -1,6 +1,6 @@
 # Usquare
 
-Usquare is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Open Deck By Lov" on Fri, 28 Aug 2026.
+Usquare is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Open Deck By Lov" on Fri, 28 Aug 2026.
 
 Usquare is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Alex Kassian, Eclectic Elektra, Giizmoo and LOV (1) and 1 more. Browse upcoming dates, start times and who's playing. Av. de la Couronne 227, 1050 Bruxelles.
 
@@ -18,4 +18,4 @@ Usquare is a music venue in Brussels listed on soundcheck. 5 upcoming nights, wi
 
 Av. de la Couronne 227, 1050 Bruxelles, Brussels
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/usquare/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/usquare/)*

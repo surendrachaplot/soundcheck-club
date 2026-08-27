@@ -1,6 +1,6 @@
 # Jake Moree
 
-Jake Moree is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - secret location , Bristol on Sat, 29 Aug 2026.
+Jake Moree is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - secret location , Bristol on Sat, 29 Aug 2026.
 
 Jake Moree is an electro and minimal artist tracked on soundcheck, with 9 sets logged across Bristol. Often billed alongside rasel h, Eksish and Harry McCanna. Next up: TBA - secret location , Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jake Moree is an electro and minimal artist tracked on soundcheck, with 9 sets l
 
 rasel h, Eksish, Harry McCanna
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemoree/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemoree/)*

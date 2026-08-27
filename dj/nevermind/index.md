@@ -1,6 +1,6 @@
 # Nevermind
 
-Nevermind is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 18 Sept 2026.
+Nevermind is a Drum & Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 18 Sept 2026.
 
 Nevermind is a drum & bass and trance artist tracked on soundcheck, with 4 sets logged across Paris and Seoul. Often billed alongside BETÏSES, Cara Elizabeth and Carla Schmitt. Next up: La Machine Du Moulin Rouge, Paris on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Nevermind is a drum & bass and trance artist tracked on soundcheck, with 4 sets 
 
 BETÏSES, Cara Elizabeth, Carla Schmitt
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevermind/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nevermind/)*

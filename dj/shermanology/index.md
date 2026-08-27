@@ -1,6 +1,6 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at ZeyZey, Miami on Sat, 29 Aug 2026.
+Shermanology is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ZeyZey, Miami on Sat, 29 Aug 2026.
 
 Shermanology is a house and tech house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Basel and Boston and 27 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: ZeyZey, Miami on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Shermanology is a house and tech house artist tracked on soundcheck, with 97 set
 
 Sam Divine, Eats Everything, Green Velvet
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

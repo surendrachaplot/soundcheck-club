@@ -1,6 +1,6 @@
 # Pitchblnd
 
-Pitchblnd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Lagerhaus#5, Detroit on Sun, 6 Sept 2026.
+Pitchblnd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Lagerhaus#5, Detroit on Sun, 6 Sept 2026.
 
 Pitchblnd is a house and techno artist tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Brent Shay, Deeper Waters and Smooth Llama. Next up: TBA - Lagerhaus#5, Detroit on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Pitchblnd is a house and techno artist tracked on soundcheck, with 18 sets logge
 
 Brent Shay, Deeper Waters, Smooth Llama
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchblnd/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchblnd/)*

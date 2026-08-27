@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DECOY w/ RUIZ OSC1, HUJUS, No Valentia, Bours?, Fran LF, Caniche & saya" on Fri, 28 Aug 2026.
+OXI is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DECOY w/ RUIZ OSC1, HUJUS, No Valentia, Bours?, Fran LF, Caniche & saya" on Fri, 28 Aug 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Acidalia, Alex Levin, Alison Swing and Ana Molina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

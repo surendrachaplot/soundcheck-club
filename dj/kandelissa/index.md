@@ -1,6 +1,6 @@
 # Kandelissa
 
-Kandelissa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
+Kandelissa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
 
 Kandelissa is a techno and house artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, Lyon, Marseille and Paris and 2 more. Often billed alongside Lucifer, Ben Manson and COCKO. Next up: La Machine Du Moulin Rouge, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Kandelissa is a techno and house artist based in France, tracked on soundcheck, 
 
 Lucifer, Ben Manson, COCKO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kandelissa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kandelissa/)*

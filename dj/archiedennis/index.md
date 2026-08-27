@@ -1,6 +1,6 @@
 # Archie Dennis
 
-Archie Dennis is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
+Archie Dennis is a Electronica and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
 Archie Dennis is an electronica and disco artist tracked on soundcheck, with 35 sets logged across Bali. Often billed alongside Bagvs, DITA (ID) and Danny. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Archie Dennis is an electronica and disco artist tracked on soundcheck, with 35 
 
 Bagvs, DITA (ID), Danny
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiedennis/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiedennis/)*

@@ -1,6 +1,6 @@
 # Karmel Jäger
 
-Karmel Jäger is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
+Karmel Jäger is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
 
 Karmel Jäger is a techno and garage artist based in Australia, tracked on soundcheck, with 34 sets logged across Berlin, London and Sydney. Often billed alongside Floga, S Smurf and Fashionably Late. Next up: Chinese Laundry, Sydney on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Karmel Jäger is a techno and garage artist based in Australia, tracked on sound
 
 Floga, S Smurf, Fashionably Late
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karmeljager/)*

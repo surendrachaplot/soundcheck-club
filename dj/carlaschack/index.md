@@ -1,6 +1,6 @@
 # Carla Schack
 
-Carla Schack is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sigurd CPH, Copenhagen on Fri, 18 Sept 2026.
+Carla Schack is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sigurd CPH, Copenhagen on Fri, 18 Sept 2026.
 
 Carla Schack is a house and hip-hop artist tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Sound and Fury, AELVA K and Buja. Next up: Sigurd CPH, Copenhagen on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Carla Schack is a house and hip-hop artist tracked on soundcheck, with 8 sets lo
 
 Sound and Fury, AELVA K, Buja
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschack/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschack/)*

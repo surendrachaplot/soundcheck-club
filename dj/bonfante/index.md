@@ -1,6 +1,6 @@
 # Bonfante
 
-Bonfante is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at gART.n, Berlin on Sun, 20 Sept 2026.
+Bonfante is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at gART.n, Berlin on Sun, 20 Sept 2026.
 
 Bonfante is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Hamburg. Often billed alongside CIOZ, Chris Schwarzwälder and ELIZEN THE EMPEROR. Next up: gART.n, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Bonfante is a techno and house artist tracked on soundcheck, with 20 sets logged
 
 CIOZ, Chris Schwarzwälder, ELIZEN THE EMPEROR
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonfante/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bonfante/)*

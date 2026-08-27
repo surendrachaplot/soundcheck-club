@@ -1,6 +1,6 @@
 # DJANGO (NL)
 
-DJANGO (NL) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
+DJANGO (NL) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
 
 DJANGO (NL) is a house and garage artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Manchester and Rotterdam and 1 more. Often billed alongside Ive Lovers, Gabriel Muñoz and Michael Pieterse. Next up: Boomerang Beach, Thehague on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ DJANGO (NL) is a house and garage artist based in Netherlands, tracked on soundc
 
 Ive Lovers, Gabriel Muñoz, Michael Pieterse
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/django-nl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/django-nl/)*

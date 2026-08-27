@@ -1,6 +1,6 @@
 # Toomy Disco
 
-Toomy Disco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 29 Aug 2026.
+Toomy Disco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 29 Aug 2026.
 
 Toomy Disco is a house and tech house artist tracked on soundcheck, with 18 sets logged across Buenosaires. Often billed alongside Tobias DL, Festa Bros and Cosenza. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Toomy Disco is a house and tech house artist tracked on soundcheck, with 18 sets
 
 Tobias DL, Festa Bros, Cosenza
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toomydisco/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toomydisco/)*

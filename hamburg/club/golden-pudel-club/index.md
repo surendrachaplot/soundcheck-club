@@ -1,14 +1,13 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Afrotonic" on Wed, 26 Aug 2026.
+Golden Pudel Club is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "P.O.V. (Point of View) Vol. I – Hosted by INTERTRONIKA w/ Joy, Lenker, Lesbi Honest, Mama Love" on Thu, 27 Aug 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including Anton Jonathan, Barbaros, beccs and Benny (El Rio Hostel) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including Anton Jonathan, Barbaros, beccs and Benny (El Rio Hostel) and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Afrotonic |  |
 | Thu, 27 Aug 2026 | P.O.V. (Point of View) Vol. I – Hosted by INTERTRONIKA w/ Joy, Lenker, Lesbi Honest, Mama Love | MAMA LOVE |
 | Fri, 28 Aug 2026 | EGYM w/ Paranoid London, Dj Killing, Festnacht and Newinfluenzer | DJ KILLING, Festnacht, Newinfluenzer, Paranoid London |
 | Sat, 29 Aug 2026 | blipmotif | Barbaros, Eddie Ness, Laetizia, Marta Aurelia, Shimmy Robin, dj blip, keos |
@@ -23,4 +22,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming 
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

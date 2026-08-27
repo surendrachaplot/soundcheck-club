@@ -1,6 +1,6 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cova Santa, Ibiza on Sat, 5 Sept 2026.
+Kerri Chandler is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cova Santa, Ibiza on Sat, 5 Sept 2026.
 
 Kerri Chandler is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Basel and 33 more. Often billed alongside Seth Troxler, Chris Stassy and DJ Deep. Next up: Cova Santa, Ibiza on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Kerri Chandler is a house and techno artist tracked on soundcheck, with 156 sets
 
 Seth Troxler, Chris Stassy, DJ Deep
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

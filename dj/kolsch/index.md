@@ -1,6 +1,6 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Fri, 28 Aug 2026.
+Kolsch is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Budai Vár - Oroszlános Udvar, Budapest on Fri, 28 Aug 2026.
 
 Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Budai Vár - Oroszlános Udvar, Budapest on Fri 28 Aug.
 
@@ -32,4 +32,4 @@ Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged 
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

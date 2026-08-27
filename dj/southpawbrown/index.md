@@ -1,6 +1,6 @@
 # SouthPawBrown
 
-SouthPawBrown is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
+SouthPawBrown is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
 
 SouthPawBrown is a house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside Antitrust, Landan Brawley and Barroness. Next up: Leslie Lookout Park, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ SouthPawBrown is a house and techno artist based in Canada, tracked on soundchec
 
 Antitrust, Landan Brawley, Barroness
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*

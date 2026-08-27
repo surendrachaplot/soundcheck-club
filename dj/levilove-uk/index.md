@@ -1,6 +1,6 @@
 # Levi Love
 
-Levi Love is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Golden Lion, Manchester on Fri, 18 Sept 2026.
+Levi Love is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Golden Lion, Manchester on Fri, 18 Sept 2026.
 
 Levi Love is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Liverpool, London and Manchester. Often billed alongside Joey T, Stallone (UK) and Marley Reid. Next up: The Golden Lion, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Levi Love is a house and funk / soul artist based in United Kingdom, tracked on 
 
 Joey T, Stallone (UK), Marley Reid
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levilove-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levilove-uk/)*

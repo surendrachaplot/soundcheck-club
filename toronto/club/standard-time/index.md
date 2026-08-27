@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Leon Vynehall Open to Close" on Fri, 28 Aug 2026.
+Standard Time is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Leon Vynehall Open to Close" on Fri, 28 Aug 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including Andrew Greville, Andre Zimmer, Corinne and DJ Split and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

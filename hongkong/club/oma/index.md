@@ -1,6 +1,6 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "OMA" on Thu, 27 Aug 2026.
+OMA is a music venue in Hong Kong with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "OMA" on Thu, 27 Aug 2026.
 
 OMA is a music venue in Hongkong listed on soundcheck. 4 upcoming nights, with line-ups including Casey Anderson, Cortecx, Dan-neo and DJ Anthony2 and 2 more. Browse upcoming dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
@@ -17,4 +17,4 @@ OMA is a music venue in Hongkong listed on soundcheck. 4 upcoming nights, with l
 
 Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong, Hong Kong
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*

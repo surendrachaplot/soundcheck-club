@@ -1,6 +1,6 @@
 # Juni
 
-Juni is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at CHICO, Mexico City on Fri, 28 Aug 2026.
+Juni is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at CHICO, Mexico City on Fri, 28 Aug 2026.
 
 Juni is a house and classical artist based in South Korea, tracked on soundcheck, with 45 sets logged across Cologne, Mexicocity, Osaka and Sanfrancisco and 1 more. Often billed alongside Black Daria, Solaris and Dj Dizam. Next up: CHICO, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Juni is a house and classical artist based in South Korea, tracked on soundcheck
 
 Black Daria, Solaris, Dj Dizam
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juni/)*

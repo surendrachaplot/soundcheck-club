@@ -1,6 +1,6 @@
 # Chaze & Endos
 
-Chaze & Endos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hive Club, Zurich on Thu, 27 Aug 2026.
+Chaze & Endos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hive Club, Zurich on Thu, 27 Aug 2026.
 
 Chaze & Endos are a techno and house duo tracked on soundcheck, with 10 sets logged across Zurich. Often billed alongside ACID FLORA, Pazkal and 8KAYS. Next up: Hive Club, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Chaze & Endos are a techno and house duo tracked on soundcheck, with 10 sets log
 
 ACID FLORA, Pazkal, 8KAYS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chazeendos/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chazeendos/)*

@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Cloonee is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Cloonee is a house and tech house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Boston and 28 more. Often billed alongside Jamie Jones, Sosa and ChaseWest. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Cloonee is a house and tech house artist tracked on soundcheck, with 63 sets log
 
 Jamie Jones, Sosa, ChaseWest
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

@@ -1,6 +1,6 @@
 # Multifuse
 
-Multifuse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Multifuse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
 
 Multifuse is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Tripolitan, Annie O and Mømentum. Next up: KitKatClub, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Multifuse is a house and techno artist tracked on soundcheck, with 21 sets logge
 
 Tripolitan, Annie O, Mømentum
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multifuse/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/multifuse/)*

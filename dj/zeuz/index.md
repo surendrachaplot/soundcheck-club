@@ -1,6 +1,6 @@
 # ZEUZ
 
-ZEUZ is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+ZEUZ is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 ZEUZ is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside Cloudy, DELTA LABS and DeGuzman. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ ZEUZ is a techno and drum & bass artist based in Germany, tracked on soundcheck,
 
 Cloudy, DELTA LABS, DeGuzman
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeuz/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zeuz/)*

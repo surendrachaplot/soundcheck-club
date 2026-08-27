@@ -1,6 +1,6 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
+East End Dubs is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
 
 East End Dubs is a house and tech house artist tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 47 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Jardins de Joan Brossa, Barcelona on Sun 30 Aug.
 
@@ -36,4 +36,4 @@ East End Dubs is a house and tech house artist tracked on soundcheck, with 275 s
 
 ALISHA, Jamback, Max Dean
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

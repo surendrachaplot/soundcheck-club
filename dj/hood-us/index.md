@@ -1,6 +1,6 @@
 # Hood (US)
 
-Hood (US) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 27 Aug 2026.
+Hood (US) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Northern Lights Lounge, Detroit on Thu, 27 Aug 2026.
 
 Hood (US) is a techno and electro artist based in United States of America, tracked on soundcheck, with 20 sets logged across Detroit. Often billed alongside DJ SPHiNX, Yamah and Zafar. Next up: Northern Lights Lounge, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Hood (US) is a techno and electro artist based in United States of America, trac
 
 DJ SPHiNX, Yamah, Zafar
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hood-us/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hood-us/)*

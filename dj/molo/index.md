@@ -1,6 +1,6 @@
 # Molø
 
-Molø is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Eden, Stockholm on Fri, 28 Aug 2026.
+Molø is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Eden, Stockholm on Fri, 28 Aug 2026.
 
 Molø is a techno and progressive house artist tracked on soundcheck, with 22 sets logged across Berlin, London, Malta and Manchester and 3 more. Often billed alongside OLING, Because of Art and Jody Wisternoff. Next up: Eden, Stockholm on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Molø is a techno and progressive house artist tracked on soundcheck, with 22 se
 
 OLING, Because of Art, Jody Wisternoff
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molo/)*

@@ -1,6 +1,6 @@
 # Mr.A
 
-Mr.A is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The North London Tavern, London on Mon, 31 Aug 2026.
+Mr.A is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The North London Tavern, London on Mon, 31 Aug 2026.
 
 Mr.A is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside HARTY, Darrell Privett and Reece Richards. Next up: The North London Tavern, London on Mon 31 Aug.
 
@@ -21,4 +21,4 @@ Mr.A is a house and garage artist tracked on soundcheck, with 5 sets logged acro
 
 HARTY, Darrell Privett, Reece Richards
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mra-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mra-uk/)*

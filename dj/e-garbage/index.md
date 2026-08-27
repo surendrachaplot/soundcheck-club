@@ -1,6 +1,6 @@
 # e-garbage
 
-e-garbage is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Douze, Geneva on Wed, 9 Sept 2026.
+e-garbage is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Le Douze, Geneva on Wed, 9 Sept 2026.
 
 e-garbage is a techno and acid artist tracked on soundcheck, with 24 sets logged across Geneva, Lyon and Prague. Often billed alongside Owelle, Bowmore and Buds Buzzy. Next up: Le Douze, Geneva on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ e-garbage is a techno and acid artist tracked on soundcheck, with 24 sets logged
 
 Owelle, Bowmore, Buds Buzzy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e-garbage/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e-garbage/)*

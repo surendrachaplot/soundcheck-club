@@ -1,6 +1,6 @@
 # Kitty Hall
 
-Kitty Hall is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Kitty Hall is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Kitty Hall is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Glasgow, Ibiza and London and 2 more. Often billed alongside Benji King, East End Dubs and George Mensah. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Kitty Hall is a house and tech house artist based in United Kingdom, tracked on 
 
 Benji King, East End Dubs, George Mensah
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyhall/)*

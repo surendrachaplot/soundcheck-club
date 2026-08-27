@@ -1,6 +1,6 @@
 # DJ Nox
 
-DJ Nox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+DJ Nox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 DJ Nox is a techno and house artist based in Portugal, tracked on soundcheck, with 80 sets logged across Amsterdam, Geneva, Lisbon and Porto. Often billed alongside Syper, Analodjica and Gilvaia. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ DJ Nox is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 Syper, Analodjica, Gilvaia
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnox/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnox/)*

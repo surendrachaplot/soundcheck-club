@@ -1,6 +1,6 @@
 # JWY (1)
 
-JWY (1) is a Techno and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+JWY (1) is a Techno and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 JWY (1) is a techno and baile funk artist based in Netherlands, tracked on soundcheck, with 97 sets logged across Belfast, Cork, Dublin and Galway and 2 more. Often billed alongside Lúnasa, Puzzy Wrangler and Roo Honeychild. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ JWY (1) is a techno and baile funk artist based in Netherlands, tracked on sound
 
 Lúnasa, Puzzy Wrangler, Roo Honeychild
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwy-1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwy-1/)*

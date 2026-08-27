@@ -1,6 +1,6 @@
 # Blame The Mono
 
-Blame The Mono is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
+Blame The Mono is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
 
 Blame The Mono is a techno and trance artist tracked on soundcheck, with 59 sets logged across Athens, Barcelona, Berlin and Budapest and 18 more. Often billed alongside DLV, CAIVA and DJ Hyperdrive. Next up: TBA - Secret Warehouse, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Blame The Mono is a techno and trance artist tracked on soundcheck, with 59 sets
 
 DLV, CAIVA, DJ Hyperdrive
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethemono/)*

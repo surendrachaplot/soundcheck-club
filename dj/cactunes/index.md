@@ -1,6 +1,6 @@
 # Cactunes
 
-Cactunes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Crema Club, Sao Paulo on Sat, 29 Aug 2026.
+Cactunes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Crema Club, Sao Paulo on Sat, 29 Aug 2026.
 
 Cactunes is a house and techno artist tracked on soundcheck, with 38 sets logged across Milan and Saopaulo. Often billed alongside Guss, ZOMERO and Adnan Sharif. Next up: Crema Club, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Cactunes is a house and techno artist tracked on soundcheck, with 38 sets logged
 
 Guss, ZOMERO, Adnan Sharif
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cactunes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cactunes/)*

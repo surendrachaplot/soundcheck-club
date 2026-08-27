@@ -1,6 +1,6 @@
 # LAVERN
 
-LAVERN is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 27 Aug 2026.
+LAVERN is a House and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 27 Aug 2026.
 
 LAVERN is a house and progressive house artist tracked on soundcheck, with 50 sets logged across Austin, Boston, Brisbane and Budapest and 21 more. Often billed alongside Martin Garrix, Black Tiger Sex Machine and Bou (UK). Next up: Ushuaïa Ibiza, Ibiza on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ LAVERN is a house and progressive house artist tracked on soundcheck, with 50 se
 
 Martin Garrix, Black Tiger Sex Machine, Bou (UK)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*

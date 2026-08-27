@@ -1,6 +1,6 @@
 # And.re
 
-And.re is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
+And.re is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - East Gallery Dock, Berlin on Sun, 13 Sept 2026.
 
 And.re is a house and minimal artist tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Ibiza and Stuttgart and 1 more. Often billed alongside tobe, Kevin Cook and Per Hammar. Next up: TBA - East Gallery Dock, Berlin on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ And.re is a house and minimal artist tracked on soundcheck, with 15 sets logged 
 
 tobe, Kevin Cook, Per Hammar
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*

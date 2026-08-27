@@ -1,6 +1,6 @@
 # Cees
 
-Cees is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Boomerang Beach, The Hague on Sat, 29 Aug 2026.
+Cees is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Boomerang Beach, The Hague on Sat, 29 Aug 2026.
 
 Cees is an afro house and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Basel, Berlin and Copenhagen and 4 more. Often billed alongside LevyM, David Mackay and SHANNIN. Next up: Boomerang Beach, Thehague on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Cees is an afro house and house artist tracked on soundcheck, with 19 sets logge
 
 LevyM, David Mackay, SHANNIN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cees/)*

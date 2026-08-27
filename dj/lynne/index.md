@@ -1,6 +1,6 @@
 # Lynne
 
-Lynne is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Strange Brew, Bristol on Fri, 9 Oct 2026.
+Lynne is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Strange Brew, Bristol on Fri, 9 Oct 2026.
 
 Lynne is a techno and experimental artist based in Japan, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside DB1, Ario and Toner(JP). Next up: Strange Brew, Bristol on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lynne is a techno and experimental artist based in Japan, tracked on soundcheck,
 
 DB1, Ario, Toner(JP)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lynne/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lynne/)*

@@ -1,6 +1,6 @@
 # Gioh Cecato
 
-Gioh Cecato is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Domicile, Miami on Fri, 4 Sept 2026.
+Gioh Cecato is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Domicile, Miami on Fri, 4 Sept 2026.
 
 Gioh Cecato is a techno and hardcore artist based in Brazil, tracked on soundcheck, with 47 sets logged across Bangkok, Lisbon, Losangeles and Miami and 2 more. Often billed alongside Naomi Luna, Jay Toledo and Madison Kay. Next up: Domicile, Miami on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Gioh Cecato is a techno and hardcore artist based in Brazil, tracked on soundche
 
 Naomi Luna, Jay Toledo, Madison Kay
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giohcecato/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giohcecato/)*

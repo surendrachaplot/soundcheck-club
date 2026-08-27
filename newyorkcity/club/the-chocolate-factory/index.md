@@ -1,8 +1,8 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Artists United for Venezuela - NYC Edition" on Thu, 10 Sept 2026.
+The Chocolate Factory is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Artists United for Venezuela - NYC Edition" on Thu, 10 Sept 2026.
 
-The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Clarisa Kimskii, Eric Umble, Holmar and Joris Voorn and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
+The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Clarisa Kimskii, Eric Umble, Holmar and Joris Voorn and 2 more. Browse upcoming dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
 ## What's on
 
@@ -15,9 +15,10 @@ The Chocolate Factory is a music venue in Newyorkcity listed on soundcheck. 7 up
 | Sat, 10 Oct 2026 | Sights & Sounds |  |
 | Fri, 23 Oct 2026 | Soul in the Horn FT Natasha Diggs & Friends - October 23 | Natasha Diggs |
 | Sat, 7 Nov 2026 | Sights & Sounds: Zombies In Miami | Zombies In Miami |
+| Wed, 25 Nov 2026 | Soul in the Horn FT Natasha Diggs & Friends - November 25 | Natasha Diggs |
 
 ## Address
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

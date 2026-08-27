@@ -1,6 +1,6 @@
 # Ben Prophet
 
-Ben Prophet is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Oxygenic, Newcastle on Sat, 5 Sept 2026.
+Ben Prophet is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Oxygenic, Newcastle on Sat, 5 Sept 2026.
 
 Ben Prophet is a techno and breakbeat artist tracked on soundcheck, with 14 sets logged across Cork, Dublin, Manchester and Melbourne and 2 more. Often billed alongside Alousea, Beller and Ben Caldwell. Next up: Oxygenic, Newcastle on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ben Prophet is a techno and breakbeat artist tracked on soundcheck, with 14 sets
 
 Alousea, Beller, Ben Caldwell
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benprophet/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benprophet/)*

@@ -1,6 +1,6 @@
 # Argy(uk)
 
-Argy(uk) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at World Headquarters, Newcastle on Fri, 28 Aug 2026.
+Argy(uk) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at World Headquarters, Newcastle on Fri, 28 Aug 2026.
 
 Argy(uk) is a techno and trance artist tracked on soundcheck, with 4 sets logged across Cardiff, Edinburgh, Liverpool and Newcastle. Often billed alongside Mha iri, Dbkm and Sam Kitt. Next up: World Headquarters, Newcastle on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Argy(uk) is a techno and trance artist tracked on soundcheck, with 4 sets logged
 
 Mha iri, Dbkm, Sam Kitt
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argyuk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argyuk/)*

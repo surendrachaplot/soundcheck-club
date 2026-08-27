@@ -1,6 +1,6 @@
 # Anriu
 
-Anriu is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
+Anriu is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
 
 Anriu is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London, Manchester and Nottingham. Often billed alongside Estiva, Ophanim and ALLKNIGHT. Next up: E1, London on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Anriu is a progressive house and deep house artist based in United Kingdom, trac
 
 Estiva, Ophanim, ALLKNIGHT
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anriu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anriu/)*

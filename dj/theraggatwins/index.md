@@ -1,6 +1,6 @@
 # The Ragga Twins
 
-The Ragga Twins is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Outernet Live, London on Sat, 29 Aug 2026.
+The Ragga Twins is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Outernet Live, London on Sat, 29 Aug 2026.
 
 The Ragga Twins is a drum & bass and jungle artist tracked on soundcheck, with 81 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside DJ Brockie, Uncle Dugs and Nicky Blackmarket. Next up: Outernet Live, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ The Ragga Twins is a drum & bass and jungle artist tracked on soundcheck, with 8
 
 DJ Brockie, Uncle Dugs, Nicky Blackmarket
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theraggatwins/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theraggatwins/)*

@@ -1,6 +1,6 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
+DJ DRECKISCH is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Schlachthof Wiesbaden, Frankfurt on Sat, 29 Aug 2026.
 
 DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 79 sets l
 
 Kacy, 3LEEZA, DJ Achim Feuervogel
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

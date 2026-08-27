@@ -1,6 +1,6 @@
 # Fernanda Martins
 
-Fernanda Martins is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at M-BIA, Berlin on Fri, 28 Aug 2026.
+Fernanda Martins is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at M-BIA, Berlin on Fri, 28 Aug 2026.
 
 Fernanda Martins is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Barcelona, Basel, Berlin and Buenosaires and 17 more. Often billed alongside DJ Lukas, Nuke and Luciid. Next up: M-BIA, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fernanda Martins is a techno and tech house artist tracked on soundcheck, with 5
 
 DJ Lukas, Nuke, Luciid
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandamartins/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandamartins/)*

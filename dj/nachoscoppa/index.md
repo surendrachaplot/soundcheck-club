@@ -1,6 +1,6 @@
 # nachoscoppa
 
-nachoscoppa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lula Club, Madrid on Fri, 4 Sept 2026.
+nachoscoppa is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Lula Club, Madrid on Fri, 4 Sept 2026.
 
 nachoscoppa is a tech house and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 3 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: Lula Club, Madrid on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ nachoscoppa is a tech house and house artist tracked on soundcheck, with 18 sets
 
 Cuartero, Easttown, Jay de Lys
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*

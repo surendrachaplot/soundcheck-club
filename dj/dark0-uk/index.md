@@ -1,6 +1,6 @@
 # Dark0
 
-Dark0 is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 29 Aug 2026.
+Dark0 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vittoria Wharf Studio, London on Sat, 29 Aug 2026.
 
 Dark0 is an electronic artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Glasgow, London and Manchester. Often billed alongside MssingNo, Evian Christ and seretide. Next up: Vittoria Wharf Studio, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dark0 is an electronic artist based in United Kingdom, tracked on soundcheck, wi
 
 MssingNo, Evian Christ, seretide
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dark0-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dark0-uk/)*

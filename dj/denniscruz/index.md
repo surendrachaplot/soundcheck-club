@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Dennis Cruz is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Dennis Cruz is a tech house and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside PAWSA, Marco Carola and ANOTR. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -35,4 +35,4 @@ Dennis Cruz is a tech house and house artist tracked on soundcheck, with 179 set
 
 PAWSA, Marco Carola, ANOTR
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

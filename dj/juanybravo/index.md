@@ -1,6 +1,6 @@
 # Juany Bravo
 
-Juany Bravo is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 28 Aug 2026.
+Juany Bravo is a Afro House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Madarae San Francisco, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 Juany Bravo is an afro house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Bangkok, Barcelona, Ibiza and Istanbul and 9 more. Often billed alongside Hugel, Eran Hersh and Miss Monique. Next up: Madarae San Francisco, Sanfrancisco on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Juany Bravo is an afro house and tech house artist based in United States of Ame
 
 Hugel, Eran Hersh, Miss Monique
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*

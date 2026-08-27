@@ -1,6 +1,6 @@
 # Manendria
 
-Manendria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
+Manendria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kastel, Istanbul on Fri, 28 Aug 2026.
 
 Manendria is a house and techno artist tracked on soundcheck, with 12 sets logged across Istanbul and Seoul. Often billed alongside FAITH, Volkan Gunduz and Atakan Uysal. Next up: Kastel, Istanbul on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Manendria is a house and techno artist tracked on soundcheck, with 12 sets logge
 
 FAITH, Volkan Gunduz, Atakan Uysal
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manendria/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manendria/)*

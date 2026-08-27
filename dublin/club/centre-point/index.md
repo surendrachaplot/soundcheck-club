@@ -1,6 +1,6 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Flight Facilities (DJ Set)" on Sat, 29 Aug 2026.
+Centre Point is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Flight Facilities (DJ Set)" on Sat, 29 Aug 2026.
 
 Centre Point is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Andrew Cairns, Flight Facilities, James Nash and Route 94. Browse upcoming dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
@@ -18,4 +18,4 @@ Centre Point is a music venue in Dublin listed on soundcheck. 5 upcoming nights,
 
 Temple Lane Street, Temple Bar, Dublin, Dublin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*

@@ -1,6 +1,6 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
+Anika Kunst is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
 
 Anika Kunst is a techno and acid artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: Razzmatazz, Barcelona on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Anika Kunst is a techno and acid artist tracked on soundcheck, with 128 sets log
 
 Stojche, Ben Sims, Montero
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

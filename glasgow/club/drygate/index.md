@@ -1,6 +1,6 @@
 # Drygate
 
-Drygate is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Jawnino - PITCH Scotland" on Thu, 3 Sept 2026.
+Drygate is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Jawnino - PITCH Scotland" on Thu, 3 Sept 2026.
 
 Drygate is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with line-ups including Jawnino. Browse upcoming dates, start times and who's playing. 85 Drygate, Glasgow, G4 0UT.
 
@@ -16,4 +16,4 @@ Drygate is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, wit
 
 85 Drygate, Glasgow, G4 0UT, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/drygate/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/drygate/)*

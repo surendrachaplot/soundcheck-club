@@ -1,6 +1,6 @@
 # Gabe Live
 
-Gabe Live is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Gallery, London on Fri, 4 Sept 2026.
+Gabe Live is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Gallery, London on Fri, 4 Sept 2026.
 
 Gabe Live is a tech house and house artist based in Brazil, tracked on soundcheck, with 7 sets logged across Dublin, London and Saopaulo. Often billed alongside Boris Brejcha, Exequiel and Gabbs. Next up: Gallery, London on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Gabe Live is a tech house and house artist based in Brazil, tracked on soundchec
 
 Boris Brejcha, Exequiel, Gabbs
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabelive/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabelive/)*

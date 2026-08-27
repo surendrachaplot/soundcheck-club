@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Crime with Two Dots" on Sat, 5 Sept 2026.
+Turbina is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Crime with Two Dots" on Sat, 5 Sept 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Akác, AllaDerivaLontano, Arash Ete and Atashi and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -19,4 +19,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

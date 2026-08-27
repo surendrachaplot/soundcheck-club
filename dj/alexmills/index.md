@@ -1,6 +1,6 @@
 # Alex Mills
 
-Alex Mills is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Distrikt, Leeds on Fri, 28 Aug 2026.
+Alex Mills is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Distrikt, Leeds on Fri, 28 Aug 2026.
 
 Alex Mills is a house and tech house artist tracked on soundcheck, with 74 sets logged across Berlin, Cardiff, Ibiza and Leeds and 5 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: Distrikt, Leeds on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Alex Mills is a house and tech house artist tracked on soundcheck, with 74 sets 
 
 George Mensah, Sammy Porter, Tilli Murphy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmills/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmills/)*

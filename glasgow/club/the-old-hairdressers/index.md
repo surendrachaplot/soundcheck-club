@@ -1,6 +1,6 @@
 # The Old Hairdressers
 
-The Old Hairdressers is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Isobel McKenna + Charlie Butler + Craggyland" on Sun, 30 Aug 2026.
+The Old Hairdressers is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Isobel McKenna + Charlie Butler + Craggyland" on Sun, 30 Aug 2026.
 
 The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including Craggyland. Browse upcoming dates, start times and who's playing. 20 - 28 Renfield Lane, G2 6PH Glasgow.
 
@@ -15,4 +15,4 @@ The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 2 upcomin
 
 20 - 28 Renfield Lane, G2 6PH Glasgow, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*

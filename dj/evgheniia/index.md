@@ -1,6 +1,6 @@
 # EVGHENIIA
 
-EVGHENIIA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+EVGHENIIA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 EVGHENIIA is a house and deep house artist tracked on soundcheck, with 22 sets logged across Berlin, Geneva, Ibiza and Lisbon and 4 more. Often billed alongside Mathew Jonson, Antilope and DJ STRANGELOVE. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ EVGHENIIA is a house and deep house artist tracked on soundcheck, with 22 sets l
 
 Mathew Jonson, Antilope, DJ STRANGELOVE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evgheniia/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evgheniia/)*

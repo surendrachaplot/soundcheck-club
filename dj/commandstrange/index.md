@@ -1,6 +1,6 @@
 # Command Strange
 
-Command Strange is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+Command Strange is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
 Command Strange is a drum & bass artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 2 more. Often billed alongside Bryan Gee, Jumping Jack Frost and Paul T. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Command Strange is a drum & bass artist tracked on soundcheck, with 14 sets logg
 
 Bryan Gee, Jumping Jack Frost, Paul T
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/commandstrange/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/commandstrange/)*

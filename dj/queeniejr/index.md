@@ -1,6 +1,6 @@
 # Queenie Jr
 
-Queenie Jr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Système, Montreal on Fri, 28 Aug 2026.
+Queenie Jr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Système, Montreal on Fri, 28 Aug 2026.
 
 Queenie Jr is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin and Montreal. Often billed alongside Flleur, Nathan Burns and Jean Pascal Groove. Next up: Système, Montreal on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Queenie Jr is a house and techno artist tracked on soundcheck, with 43 sets logg
 
 Flleur, Nathan Burns, Jean Pascal Groove
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*

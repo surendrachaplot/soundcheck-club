@@ -1,6 +1,6 @@
 # Guthrie
 
-Guthrie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Système, Montreal on Thu, 27 Aug 2026.
+Guthrie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Système, Montreal on Thu, 27 Aug 2026.
 
 Guthrie is a house and disco artist tracked on soundcheck, with 151 sets logged across Detroit, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Alina (MTL), Ferias and Kris Guilty. Next up: Système, Montreal on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Guthrie is a house and disco artist tracked on soundcheck, with 151 sets logged 
 
 Alina (MTL), Ferias, Kris Guilty
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*

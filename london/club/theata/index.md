@@ -1,6 +1,6 @@
 # Theata
 
-Theata is a music venue in London with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 29 Aug 2026.
+Theata is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Kronologik Rekords presents: BADBOX & Friends" on Sat, 29 Aug 2026.
 
 Theata is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Maqossa, Anela, AOB and Artist Lebo and 2 more. Browse upcoming dates, start times and who's playing. 8 Victoria Embankment,  London, WC2R 2AB.
 
@@ -17,4 +17,4 @@ Theata is a music venue in London listed on soundcheck. 4 upcoming nights, with 
 
 8 Victoria Embankment,  London, WC2R 2AB, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/theata/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/theata/)*

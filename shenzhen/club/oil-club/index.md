@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 32 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Dissolve The Ego Pres: Nikos" on Thu, 27 Aug 2026.
+OIL Club is a music venue in Shenzhen with 32 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Dissolve The Ego Pres: Nikos" on Thu, 27 Aug 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 32 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Alion and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 32 upcoming nights, 
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

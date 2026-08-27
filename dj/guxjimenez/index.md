@@ -1,6 +1,6 @@
 # Gux Jimenez
 
-Gux Jimenez is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bikini Club, Barcelona on Sat, 5 Sept 2026.
+Gux Jimenez is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bikini Club, Barcelona on Sat, 5 Sept 2026.
 
 Gux Jimenez is a progressive house and deep house artist tracked on soundcheck, with 3 sets logged across Amsterdam, Barcelona and Mexicocity. Often billed alongside Agoostina, Anthony Pappa and Around Us. Next up: Bikini Club, Barcelona on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Gux Jimenez is a progressive house and deep house artist tracked on soundcheck, 
 
 Agoostina, Anthony Pappa, Around Us
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guxjimenez/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guxjimenez/)*

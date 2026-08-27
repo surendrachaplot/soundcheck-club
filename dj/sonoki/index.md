@@ -1,6 +1,6 @@
 # SONOKI
 
-SONOKI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Villa, Oslo on Sat, 26 Sept 2026.
+SONOKI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Villa, Oslo on Sat, 26 Sept 2026.
 
 SONOKI is a house and techno artist based in Japan, tracked on soundcheck, with 38 sets logged across Berlin, Oslo and Tokyo. Often billed alongside AYURI, Pine and Tonbo. Next up: The Villa, Oslo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SONOKI is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 AYURI, Pine, Tonbo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoki/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoki/)*

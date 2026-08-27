@@ -1,6 +1,6 @@
 # Element (3)
 
-Element (3) is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Noon + Cafe, Osaka on Sat, 26 Sept 2026.
+Element (3) is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Noon + Cafe, Osaka on Sat, 26 Sept 2026.
 
 Element (3) is a dub and bass artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Frankfurt and Glasgow and 5 more. Often billed alongside 1TA (1), Lil Mofo and pnnikin. Next up: Noon + Cafe, Osaka on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Element (3) is a dub and bass artist tracked on soundcheck, with 33 sets logged 
 
 1TA (1), Lil Mofo, pnnikin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/element-3/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/element-3/)*

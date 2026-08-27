@@ -1,6 +1,6 @@
 # SGT Pokes
 
-SGT Pokes is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
+SGT Pokes is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Pitt Market, Edinburgh on Sat, 29 Aug 2026.
 
 SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 96 sets logged across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Mala and Dub Athlete. Next up: The Pitt Market, Edinburgh on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ SGT Pokes is a dubstep and bass artist tracked on soundcheck, with 96 sets logge
 
 DUKU, Mala, Dub Athlete
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*

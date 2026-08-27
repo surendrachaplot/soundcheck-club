@@ -1,6 +1,6 @@
 # LAVKY
 
-LAVKY is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Budapest Park, Budapest on Wed, 9 Sept 2026.
+LAVKY is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Budapest Park, Budapest on Wed, 9 Sept 2026.
 
 LAVKY is a minimal techno and progressive house artist based in Hungary, tracked on soundcheck, with 3 sets logged across Budapest. Often billed alongside Acsa, Andrija Jäger and Dorota. Next up: Budapest Park, Budapest on Wed 9 Sept.
 
@@ -19,4 +19,4 @@ LAVKY is a minimal techno and progressive house artist based in Hungary, tracked
 
 Acsa, Andrija Jäger, Dorota
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavky/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lavky/)*

@@ -1,6 +1,6 @@
 # Riana Holley
 
-Riana Holley is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DNA Club, Munich on Fri, 28 Aug 2026.
+Riana Holley is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at DNA Club, Munich on Fri, 28 Aug 2026.
 
 Riana Holley is a techno and trance artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Hurts, 2HOT2PLAY and 3LEEZA. Next up: DNA Club, Munich on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Riana Holley is a techno and trance artist tracked on soundcheck, with 69 sets l
 
 Hurts, 2HOT2PLAY, 3LEEZA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rianaholley/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rianaholley/)*

@@ -1,6 +1,6 @@
 # HOOM
 
-HOOM is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Cova, Hamburg on Sat, 29 Aug 2026.
+HOOM is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at La Cova, Hamburg on Sat, 29 Aug 2026.
 
 HOOM is a techno and trance artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Hamburg and London and 3 more. Often billed alongside Temazcal (2), DJ Breakless and MC1R. Next up: La Cova, Hamburg on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ HOOM is a techno and trance artist tracked on soundcheck, with 29 sets logged ac
 
 Temazcal (2), DJ Breakless, MC1R
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoom/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hoom/)*

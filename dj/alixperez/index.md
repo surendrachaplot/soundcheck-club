@@ -1,6 +1,6 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club Colette, Birmingham on Fri, 28 Aug 2026.
+Alix Perez is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club Colette, Birmingham on Fri, 28 Aug 2026.
 
 Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Antwerp, Auckland, Basel and Berlin and 24 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Club Colette, Birmingham on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 56 sets 
 
 SP:MC, Cesco, Visages
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

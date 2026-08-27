@@ -1,6 +1,6 @@
 # The Silk Road
 
-The Silk Road is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at On The Hiyu, Seattle on Fri, 28 Aug 2026.
+The Silk Road is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at On The Hiyu, Seattle on Fri, 28 Aug 2026.
 
 The Silk Road is a house and bass artist tracked on soundcheck, with 13 sets logged across Losangeles, Seattle and Vancouver. Often billed alongside Black Velveteen, Christine Michelle and 1-800 GIRLS. Next up: On The Hiyu, Seattle on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ The Silk Road is a house and bass artist tracked on soundcheck, with 13 sets log
 
 Black Velveteen, Christine Michelle, 1-800 GIRLS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thesilkroad/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thesilkroad/)*

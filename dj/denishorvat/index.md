@@ -1,6 +1,6 @@
 # Denis Horvat
 
-Denis Horvat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Klein Phönix, Istanbul on Sat, 12 Sept 2026.
+Denis Horvat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Klein Phönix, Istanbul on Sat, 12 Sept 2026.
 
 Denis Horvat is a techno and house artist based in Denmark, tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Austin and Barcelona and 27 more. Often billed alongside Colyn, Lehar and Auggië. Next up: Klein Phönix, Istanbul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Denis Horvat is a techno and house artist based in Denmark, tracked on soundchec
 
 Colyn, Lehar, Auggië
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denishorvat/)*

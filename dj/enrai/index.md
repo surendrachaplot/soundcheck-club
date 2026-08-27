@@ -1,6 +1,6 @@
 # ENRAI
 
-ENRAI is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kiss Camden, London on Fri, 18 Sept 2026.
+ENRAI is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kiss Camden, London on Fri, 18 Sept 2026.
 
 ENRAI is a techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Nuggz, TECHNOLUX and Azur. Next up: Kiss Camden, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ENRAI is a techno artist tracked on soundcheck, with 9 sets logged across London
 
 Nuggz, TECHNOLUX, Azur
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enrai/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enrai/)*

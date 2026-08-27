@@ -1,6 +1,6 @@
 # AleBCostantino
 
-AleBCostantino is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
+AleBCostantino is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
 
 AleBCostantino is a house and progressive house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Boston and Newyorkcity. Often billed alongside ViV:On, FRANZIV and DJ Bookworm. Next up: The Lower Level, Boston on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ AleBCostantino is a house and progressive house artist based in Argentina, track
 
 ViV:On, FRANZIV, DJ Bookworm
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alebcostantino/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alebcostantino/)*

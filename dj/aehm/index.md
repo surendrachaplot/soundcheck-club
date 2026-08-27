@@ -1,6 +1,6 @@
 # aehm
 
-aehm is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+aehm is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
 aehm is a techno and hardcore artist tracked on soundcheck, with 3 sets logged across Frankfurt and Leipzig. Often billed alongside Abzocka, Bassick and Cannibal Cooking Club. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ aehm is a techno and hardcore artist tracked on soundcheck, with 3 sets logged a
 
 Abzocka, Bassick, Cannibal Cooking Club
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aehm/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aehm/)*

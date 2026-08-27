@@ -1,6 +1,6 @@
 # Phi Phi
 
-Phi Phi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
+Phi Phi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
 
 Phi Phi is a techno and acid artist tracked on soundcheck, with 13 sets logged across Amsterdam, Brussels and Ghent. Often billed alongside Red D, Alexander Koning and Cosmo. Next up: Bodies in Space, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Phi Phi is a techno and acid artist tracked on soundcheck, with 13 sets logged a
 
 Red D, Alexander Koning, Cosmo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phiphi/)*

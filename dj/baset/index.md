@@ -1,6 +1,6 @@
 # Baset
 
-Baset is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at [UNVRS], Ibiza on Tue, 1 Sept 2026.
+Baset is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at [UNVRS], Ibiza on Tue, 1 Sept 2026.
 
 Baset is a house and techno artist based in Egypt, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 4 more. Often billed alongside AMARE, Abstraal and Anyma. Next up: [UNVRS], Ibiza on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Baset is a house and techno artist based in Egypt, tracked on soundcheck, with 1
 
 AMARE, Abstraal, Anyma
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baset/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baset/)*

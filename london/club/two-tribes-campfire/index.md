@@ -1,6 +1,6 @@
 # Two Tribes CAMPFIRE
 
-Two Tribes CAMPFIRE is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Rhythm Social x Soul Satisfaction present: Poly-Ritmo" on Fri, 28 Aug 2026.
+Two Tribes CAMPFIRE is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Rhythm Social x Soul Satisfaction present: Poly-Ritmo" on Fri, 28 Aug 2026.
 
 Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including bangus, Braaks, Conrad Lee and Crazy Cousinz and 2 more. Browse upcoming dates, start times and who's playing. Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH.
 
@@ -20,4 +20,4 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 7 upcoming 
 
 Tile Yard Studios, Tileyard Road, Kings Cross, London N7 9AH, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-tribes-campfire/)*

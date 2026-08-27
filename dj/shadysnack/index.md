@@ -1,6 +1,6 @@
 # Shadysnack
 
-Shadysnack is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Shadysnack is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 Shadysnack is a progressive house and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside BOYCA, Khloe and Cristian Marras. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shadysnack is a progressive house and house artist tracked on soundcheck, with 3
 
 BOYCA, Khloe, Cristian Marras
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*

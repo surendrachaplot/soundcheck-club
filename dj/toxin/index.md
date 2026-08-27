@@ -1,6 +1,6 @@
 # Toxin
 
-Toxin is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Killing Time, Valencia on Fri, 4 Sept 2026.
+Toxin is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Killing Time, Valencia on Fri, 4 Sept 2026.
 
 Toxin is a tech house and electro artist based in Ukraine, tracked on soundcheck, with 11 sets logged across Valencia. Often billed alongside Broken boy, Svarn and Bodio. Next up: Killing Time, Valencia on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Toxin is a tech house and electro artist based in Ukraine, tracked on soundcheck
 
 Broken boy, Svarn, Bodio
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toxin/)*

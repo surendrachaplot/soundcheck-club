@@ -1,6 +1,6 @@
 # Anitë
 
-Anitë is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 13 Sept 2026.
+Anitë is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 13 Sept 2026.
 
 Anitë is a tech house and minimal techno artist based in Kosovo, tracked on soundcheck, with 8 sets logged across Athens, Belgrade, Berlin and Brussels and 3 more. Often billed alongside Always Late, Jonn and ANNĒ. Next up: Amnesia Ibiza, Ibiza on Sun 13 Sept.
 
@@ -24,4 +24,4 @@ Anitë is a tech house and minimal techno artist based in Kosovo, tracked on sou
 
 Always Late, Jonn, ANNĒ
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anite/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anite/)*

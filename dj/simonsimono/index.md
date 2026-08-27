@@ -1,6 +1,6 @@
 # Simon Simono
 
-Simon Simono is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
+Simon Simono is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
 
 Simon Simono is an electronica and techno artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Benjie Bäm, Cleos and AMORE*FURORE. Next up: Klunkerkranich, Berlin on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Simon Simono is an electronica and techno artist tracked on soundcheck, with 8 s
 
 Benjie Bäm, Cleos, AMORE*FURORE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsimono/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonsimono/)*

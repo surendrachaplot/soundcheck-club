@@ -1,6 +1,6 @@
 # TBA - FACT Liverpool
 
-TBA - FACT Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Space Afrika: Film Screening, Q&A + Signing" on Tue, 29 Sept 2026.
+TBA - FACT Liverpool is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Space Afrika: Film Screening, Q&A + Signing" on Tue, 29 Sept 2026.
 
 TBA - FACT Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Space Afrika. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - FACT Liverpool is a music venue in Liverpool listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Tue, 29 Sept 2026 | Space Afrika: Film Screening, Q&A + Signing | Space Afrika |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/tba-fact-liverpool/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/tba-fact-liverpool/)*

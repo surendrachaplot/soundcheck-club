@@ -1,6 +1,6 @@
 # Christoph Cham
 
-Christoph Cham is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 28 Aug 2026.
+Christoph Cham is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 28 Aug 2026.
 
 Christoph Cham is a techno and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam and Utrecht. Often billed alongside LGNA, ilse dorine and VITTAO. Next up: Het Veronica Schip, Amsterdam on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Christoph Cham is a techno and deep house artist based in United States of Ameri
 
 LGNA, ilse dorine, VITTAO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christophcham/)*

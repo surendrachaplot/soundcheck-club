@@ -1,6 +1,6 @@
 # DJ ARCHIVE
 
-DJ ARCHIVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 28 Aug 2026.
+DJ ARCHIVE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Ulster Sports Club, Belfast on Fri, 28 Aug 2026.
 
 DJ ARCHIVE is a techno and house artist tracked on soundcheck, with 13 sets logged across Belfast and Manchester. Often billed alongside DJ Cosworth, Sophie (2) and Aggie Acid Line. Next up: The Ulster Sports Club, Belfast on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ ARCHIVE is a techno and house artist tracked on soundcheck, with 13 sets logg
 
 DJ Cosworth, Sophie (2), Aggie Acid Line
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djarchive/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djarchive/)*

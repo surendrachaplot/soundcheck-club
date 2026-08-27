@@ -1,14 +1,13 @@
 # David Morales
 
-David Morales is a House and Disco artist with 14 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pikes Ibiza, Ibiza on Wed, 26 Aug 2026.
+David Morales is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Pikes Ibiza, Ibiza on Wed, 2 Sept 2026.
 
-David Morales is a house and disco artist tracked on soundcheck, with 191 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Pikes Ibiza, Ibiza on Wed 26 Aug.
+David Morales is a house and disco artist tracked on soundcheck, with 191 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Pikes Ibiza, Ibiza on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Pikes Ibiza | Ibiza |
 | Wed, 2 Sept 2026 | Pikes Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Refuge | New York City |
@@ -20,9 +19,11 @@ David Morales is a house and disco artist tracked on soundcheck, with 191 sets l
 | Wed, 30 Sept 2026 | Pikes Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Wed, 7 Oct 2026 | Pikes Ibiza | Ibiza |
 
 ## Recently played
 
+- Pikes Ibiza, Ibiza — Wed, 26 Aug 2026
 - Cavo Paradiso, Mykonos — Fri, 21 Aug 2026
 - Bolivar Beach Bar, Athens — Thu, 20 Aug 2026
 - Pikes Ibiza, Ibiza — Wed, 19 Aug 2026
@@ -30,10 +31,9 @@ David Morales is a house and disco artist tracked on soundcheck, with 191 sets l
 - Pikes Ibiza, Ibiza — Wed, 12 Aug 2026
 - Pikes Ibiza, Ibiza — Wed, 5 Aug 2026
 - Studio 338, London — Sat, 1 Aug 2026
-- Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Louie Vega, Todd Terry
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

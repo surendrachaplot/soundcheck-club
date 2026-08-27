@@ -1,6 +1,6 @@
 # Radeckt
 
-Radeckt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hangaren, Copenhagen on Fri, 4 Sept 2026.
+Radeckt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hangaren, Copenhagen on Fri, 4 Sept 2026.
 
 Radeckt is a techno and house artist based in Denmark, tracked on soundcheck, with 41 sets logged across Barcelona, Brussels, Copenhagen and Hongkong and 5 more. Often billed alongside SCHAARUP, Baime and NILU. Next up: Hangaren, Copenhagen on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Radeckt is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 SCHAARUP, Baime, NILU
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radeckt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radeckt/)*

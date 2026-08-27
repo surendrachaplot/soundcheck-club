@@ -1,6 +1,6 @@
 # Not Related
 
-Not Related is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Skatecafe, Amsterdam on Fri, 11 Sept 2026.
+Not Related is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Skatecafe, Amsterdam on Fri, 11 Sept 2026.
 
 Not Related is a techno and psytrance artist tracked on soundcheck, with 26 sets logged across Amsterdam and Dublin. Often billed alongside Romanetto, Phil Bass and Corralo.. Next up: Skatecafe, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Not Related is a techno and psytrance artist tracked on soundcheck, with 26 sets
 
 Romanetto, Phil Bass, Corralo.
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notrelated/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notrelated/)*

@@ -1,6 +1,6 @@
 # Children of Zeus
 
-Children of Zeus is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Adela Street W10, London on Sun, 30 Aug 2026.
+Children of Zeus is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Adela Street W10, London on Sun, 30 Aug 2026.
 
 Children of Zeus is a hip-hop and funk / soul artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 5 more. Often billed alongside Chunky, DJ BORING and Dan Shake. Next up: TBA - Adela Street W10, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Children of Zeus is a hip-hop and funk / soul artist based in United Kingdom, tr
 
 Chunky, DJ BORING, Dan Shake
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofzeus/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/childrenofzeus/)*

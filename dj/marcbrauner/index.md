@@ -1,6 +1,6 @@
 # Marc Brauner
 
-Marc Brauner is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 26 Sept 2026.
+Marc Brauner is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 26 Sept 2026.
 
 Marc Brauner is a house and disco artist tracked on soundcheck, with 62 sets logged across Antwerp, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Luca Olivotto, DJ Houseum and David Silver. Next up: Bulbul Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Marc Brauner is a house and disco artist tracked on soundcheck, with 62 sets log
 
 Luca Olivotto, DJ Houseum, David Silver
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*

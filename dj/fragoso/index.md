@@ -1,6 +1,6 @@
 # Fragoso
 
-Fragoso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Backyard, Lisbon on Sat, 29 Aug 2026.
+Fragoso is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Backyard, Lisbon on Sat, 29 Aug 2026.
 
 Fragoso is a house and minimal artist tracked on soundcheck, with 24 sets logged across Geneva, Lisbon and Porto. Often billed alongside DJ Nox, Pedro Tabuada and Syper. Next up: Backyard, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Fragoso is a house and minimal artist tracked on soundcheck, with 24 sets logged
 
 DJ Nox, Pedro Tabuada, Syper
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fragoso/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fragoso/)*

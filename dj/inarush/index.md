@@ -1,6 +1,6 @@
 # INA RUSH
 
-INA RUSH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
+INA RUSH is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ÆDEN, Berlin on Fri, 28 Aug 2026.
 
 INA RUSH is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin and Turin. Often billed alongside Jaguar (3), Alfa Cornae and Amo (IT). Next up: ÆDEN, Berlin on Fri 28 Aug.
 
@@ -19,4 +19,4 @@ INA RUSH is a techno and trance artist tracked on soundcheck, with 3 sets logged
 
 Jaguar (3), Alfa Cornae, Amo (IT)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inarush/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inarush/)*

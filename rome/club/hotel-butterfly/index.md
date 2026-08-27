@@ -1,6 +1,6 @@
 # Hotel Butterfly
 
-Hotel Butterfly is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Goaultrabeat - Hotel Butterfly" on Thu, 27 Aug 2026.
+Hotel Butterfly is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Goaultrabeat - Hotel Butterfly" on Thu, 27 Aug 2026.
 
 Hotel Butterfly is a music venue in Rome listed on soundcheck. 4 upcoming nights, with line-ups including Alessandro Gaia, Francesco Del Garda, Francesco Farfa and FRANKIEE and 2 more. Browse upcoming dates, start times and who's playing. Viale dei Gladiatori, 68, 00135 Roma RM, Italia.
 
@@ -17,4 +17,4 @@ Hotel Butterfly is a music venue in Rome listed on soundcheck. 4 upcoming nights
 
 Viale dei Gladiatori, 68, 00135 Roma RM, Italia, Rome
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/hotel-butterfly/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/hotel-butterfly/)*

@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Monsters League with Vieze Asbak [NL]" on Thu, 27 Aug 2026.
+Kømplex Lisbon is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Monsters League with Vieze Asbak [NL]" on Thu, 27 Aug 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including Carol d'Souza, DIMENSION 9, DJ MOSKI and DJ MX and 2 more. Browse upcoming dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -20,4 +20,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 7 upcoming nigh
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

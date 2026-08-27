@@ -1,6 +1,6 @@
 # Adra
 
-Adra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 28 Aug 2026.
+Adra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 28 Aug 2026.
 
 Adra is a techno and house artist based in United States of America, tracked on soundcheck, with 67 sets logged across Detroit, Losangeles, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside Max Gardner, Truncate and Zachary Noel. Next up: Halcyon, Sanfrancisco on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Adra is a techno and house artist based in United States of America, tracked on 
 
 Max Gardner, Truncate, Zachary Noel
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*

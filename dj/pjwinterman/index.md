@@ -1,6 +1,6 @@
 # Pj Winterman
 
-Pj Winterman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 12 Sept 2026.
+Pj Winterman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 12 Sept 2026.
 
 Pj Winterman is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside HAY:LI and Sebteque. Next up: Almar Beach Club, Barcelona on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Pj Winterman is a house and deep house artist based in United Kingdom, tracked o
 
 HAY:LI, Sebteque
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjwinterman/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjwinterman/)*

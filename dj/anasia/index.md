@@ -1,6 +1,6 @@
 # Ana Sia
 
-Ana Sia is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
+Ana Sia is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
 
 Ana Sia is a bass and techno artist tracked on soundcheck, with 6 sets logged across Portland. Often billed alongside Hej Fund, Slurgeon and Sol Elicio. Next up: Process PDX, Portland on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Ana Sia is a bass and techno artist tracked on soundcheck, with 6 sets logged ac
 
 Hej Fund, Slurgeon, Sol Elicio
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anasia/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anasia/)*

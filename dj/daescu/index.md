@@ -1,6 +1,6 @@
 # Daescu
 
-Daescu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
+Daescu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 Daescu is a minimal and house artist tracked on soundcheck, with 26 sets logged across Barcelona, Bucharest, London and Madrid. Often billed alongside Gera (3), John Karam and Dimbee. Next up: Sunseabar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Daescu is a minimal and house artist tracked on soundcheck, with 26 sets logged 
 
 Gera (3), John Karam, Dimbee
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daescu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daescu/)*

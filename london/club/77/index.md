@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FullHouse: Danny Howard" on Fri, 28 Aug 2026.
+77 is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FullHouse: Danny Howard" on Fri, 28 Aug 2026.
 
 77 is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Danny Howard, Darius Syrossian, Duo and Kidflo and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -21,4 +21,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

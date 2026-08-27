@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "E L I X I R T H U R S • John Ryan aka DR. Disko Dust • DJ HOOD • WSG • No Cover" on Thu, 27 Aug 2026.
+Northern Lights Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "E L I X I R T H U R S • John Ryan aka DR. Disko Dust • DJ HOOD • WSG • No Cover" on Thu, 27 Aug 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including The AM/AMX, DJ.K2, Aboudi Issa and Ameera and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -19,4 +19,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 6 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

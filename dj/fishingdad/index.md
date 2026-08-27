@@ -1,6 +1,6 @@
 # Fishing Dad
 
-Fishing Dad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
+Fishing Dad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Chinese Laundry, Sydney on Fri, 28 Aug 2026.
 
 Fishing Dad is a techno and house artist tracked on soundcheck, with 16 sets logged across Sydney. Often billed alongside Bella Bella, Fashionably Late and Bouki. Next up: Chinese Laundry, Sydney on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fishing Dad is a techno and house artist tracked on soundcheck, with 16 sets log
 
 Bella Bella, Fashionably Late, Bouki
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fishingdad/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fishingdad/)*

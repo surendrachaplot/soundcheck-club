@@ -1,6 +1,6 @@
 # CarDona
 
-CarDona is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
+CarDona is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Razzmatazz, Barcelona on Sat, 29 Aug 2026.
 
 CarDona is a tech house and minimal artist based in United States of America, tracked on soundcheck, with 9 sets logged across Barcelona, Miami and Newyorkcity. Often billed alongside Aline Umber, Blame (EC) and Choukroun. Next up: Razzmatazz, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ CarDona is a tech house and minimal artist based in United States of America, tr
 
 Aline Umber, Blame (EC), Choukroun
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardona/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardona/)*

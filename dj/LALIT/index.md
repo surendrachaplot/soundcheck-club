@@ -1,6 +1,6 @@
 # LALIT
 
-LALIT is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Shadowplay Bangkok, Bangkok on Fri, 28 Aug 2026.
+LALIT is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Shadowplay Bangkok, Bangkok on Fri, 28 Aug 2026.
 
 LALIT is a techno and experimental artist tracked on soundcheck, with 8 sets logged across Bangkok. Often billed alongside DJ BATCUM, kochewww and Hi(gh) Hat. Next up: Shadowplay Bangkok, Bangkok on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ LALIT is a techno and experimental artist tracked on soundcheck, with 8 sets log
 
 DJ BATCUM, kochewww, Hi(gh) Hat
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LALIT/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LALIT/)*

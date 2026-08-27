@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Legal x Ro0m Service w./ Chet Rubbs, Kongusto, Melchiorr, Sofiia Zoloto, Vinz Sosa" on Fri, 28 Aug 2026.
+Legal is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Legal x Ro0m Service w./ Chet Rubbs, Kongusto, Melchiorr, Sofiia Zoloto, Vinz Sosa" on Fri, 28 Aug 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including Almedina (2), Audio Werner, Benjamin Fröhlich and buuo and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -18,4 +18,4 @@ Legal is a music venue in Munich listed on soundcheck. 5 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

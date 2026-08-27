@@ -1,6 +1,6 @@
 # Theo (8)
 
-Theo (8) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 4 Sept 2026.
+Theo (8) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 4 Sept 2026.
 
 Theo (8) is a house and trance artist based in France, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Silhouette, Unjack* and ANĪC. Next up: Ankali & Planeta Za, Prague on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Theo (8) is a house and trance artist based in France, tracked on soundcheck, wi
 
 Silhouette, Unjack*, ANĪC
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-8/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-8/)*

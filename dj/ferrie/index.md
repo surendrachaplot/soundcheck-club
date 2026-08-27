@@ -1,6 +1,6 @@
 # Ferrie
 
-Ferrie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Ferrie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Ferrie is a house and techno artist tracked on soundcheck, with 24 sets logged across Edinburgh, Glasgow and London. Often billed alongside Jay Celino, Murphy and Babyccino. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ferrie is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 Jay Celino, Murphy, Babyccino
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrie/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrie/)*

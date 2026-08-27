@@ -1,6 +1,6 @@
 # Dopo?Space
 
-Dopo?Space is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "BUKA" on Sat, 5 Sept 2026.
+Dopo?Space is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "BUKA" on Sat, 5 Sept 2026.
 
 Dopo?Space is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Brillante, Compuma, Dr. Nishimura and Front De Cadeaux and 1 more. Browse upcoming dates, start times and who's playing. Via Carlo Boncompagni, 51/10, 20139 Milano MI.
 
@@ -15,4 +15,4 @@ Dopo?Space is a music venue in Milan listed on soundcheck. 2 upcoming nights, wi
 
 Via Carlo Boncompagni, 51/10, 20139 Milano MI, Milan
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/dopo-space/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/dopo-space/)*

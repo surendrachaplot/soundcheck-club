@@ -1,6 +1,6 @@
 # Victoria Engel
 
-Victoria Engel is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 5 Sept 2026.
+Victoria Engel is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 5 Sept 2026.
 
 Victoria Engel is a techno and tech house artist based in Argentina, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 1 more. Often billed alongside Chris Liebing, Alessandra Fierro and BYØRN. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Victoria Engel is a techno and tech house artist based in Argentina, tracked on 
 
 Chris Liebing, Alessandra Fierro, BYØRN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaengel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaengel/)*

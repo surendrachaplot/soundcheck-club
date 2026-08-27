@@ -1,6 +1,6 @@
 # TBA - Bristol Club
 
-TBA - Bristol Club is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "IMPREZA 2K17 - CZĘSTOCHOWA - IMPREZA" on Sat, 29 Aug 2026.
+TBA - Bristol Club is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "IMPREZA 2K17 - CZĘSTOCHOWA - IMPREZA" on Sat, 29 Aug 2026.
 
 TBA - Bristol Club is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bristol Club is a music venue in Warsaw listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | IMPREZA 2K17 - CZĘSTOCHOWA - IMPREZA |  |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-bristol-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-bristol-club/)*

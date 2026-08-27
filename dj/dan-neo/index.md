@@ -1,6 +1,6 @@
 # Dan-neo
 
-Dan-neo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at OMA, Hong Kong on Thu, 27 Aug 2026.
+Dan-neo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OMA, Hong Kong on Thu, 27 Aug 2026.
 
 Dan-neo is a techno and house artist tracked on soundcheck, with 50 sets logged across Hongkong, Kyoto, Seoul and Tokyo. Often billed alongside Finsent C, Konnection and MarcoYu. Next up: OMA, Hongkong on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Dan-neo is a techno and house artist tracked on soundcheck, with 50 sets logged 
 
 Finsent C, Konnection, MarcoYu
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-neo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-neo/)*

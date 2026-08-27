@@ -1,6 +1,6 @@
 # Planar
 
-Planar is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
+Planar is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Raketenstation Hombroich, Cologne on Fri, 28 Aug 2026.
 
 Planar is an experimental and ambient artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Cologne. Often billed alongside lomi, Dornen and Brutalism Soundsystem. Next up: TBA - Raketenstation Hombroich, Cologne on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Planar is an experimental and ambient artist based in Germany, tracked on soundc
 
 lomi, Dornen, Brutalism Soundsystem
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planar/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/planar/)*

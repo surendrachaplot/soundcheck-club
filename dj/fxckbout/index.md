@@ -1,6 +1,6 @@
 # FXCKBOUT
 
-FXCKBOUT is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
+FXCKBOUT is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The DBA, Manchester on Fri, 18 Sept 2026.
 
 FXCKBOUT is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Manchester. Often billed alongside BUTCHABOI, KABOCANA and Macy Lancaster. Next up: The DBA, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ FXCKBOUT is a bass and techno artist based in United Kingdom, tracked on soundch
 
 BUTCHABOI, KABOCANA, Macy Lancaster
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fxckbout/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fxckbout/)*

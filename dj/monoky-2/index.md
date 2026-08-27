@@ -1,6 +1,6 @@
 # Monoky (2)
 
-Monoky (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Monoky (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Monoky (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside Berrakka, Cami di Marzo and ChaseWest. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Monoky (2) is a house and techno artist based in United States of America, track
 
 Berrakka, Cami di Marzo, ChaseWest
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*

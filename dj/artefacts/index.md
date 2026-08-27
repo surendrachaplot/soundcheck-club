@@ -1,6 +1,6 @@
 # artefacts
 
-artefacts is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Coil, Melbourne on Fri, 28 Aug 2026.
+artefacts is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Coil, Melbourne on Fri, 28 Aug 2026.
 
 artefacts is a house and club artist tracked on soundcheck, with 11 sets logged across Brisbane, London, Melbourne and Sydney. Often billed alongside Postponez, Adi Toohey and Andy Garvey. Next up: Coil, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ artefacts is a house and club artist tracked on soundcheck, with 11 sets logged 
 
 Postponez, Adi Toohey, Andy Garvey
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artefacts/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artefacts/)*

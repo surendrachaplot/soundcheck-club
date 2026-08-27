@@ -1,6 +1,6 @@
 # ZEE-2
 
-ZEE-2 is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+ZEE-2 is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 ZEE-2 is a house and baile funk artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Copenhagen, Geneva and Hongkong and 5 more. Often billed alongside JVINCENT, HARUNA (2) and Sham Steele. Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ZEE-2 is a house and baile funk artist based in United Kingdom, tracked on sound
 
 JVINCENT, HARUNA (2), Sham Steele
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zee-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zee-2/)*

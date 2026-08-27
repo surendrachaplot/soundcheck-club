@@ -1,6 +1,6 @@
 # Morisia
 
-Morisia is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mena Berlin, Berlin on Fri, 28 Aug 2026.
+Morisia is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mena Berlin, Berlin on Fri, 28 Aug 2026.
 
 Morisia is a house and club artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Nikklaas, Better Call Paul and 7ommes. Next up: Mena Berlin, Berlin on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Morisia is a house and club artist based in Germany, tracked on soundcheck, with
 
 Nikklaas, Better Call Paul, 7ommes
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morisia/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morisia/)*

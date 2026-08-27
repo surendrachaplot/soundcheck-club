@@ -1,6 +1,6 @@
 # RamonPang
 
-RamonPang is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Water & Power, Los Angeles on Fri, 4 Sept 2026.
+RamonPang is a Garage and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Water & Power, Los Angeles on Fri, 4 Sept 2026.
 
 RamonPang is a garage and electro artist tracked on soundcheck, with 28 sets logged across Losangeles, Melbourne, Newyorkcity and Osaka and 2 more. Often billed alongside Daddy Kev, Clearcast and canary yellow. Next up: Water & Power, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ RamonPang is a garage and electro artist tracked on soundcheck, with 28 sets log
 
 Daddy Kev, Clearcast, canary yellow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*

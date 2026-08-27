@@ -1,6 +1,6 @@
 # DJ CORDE SENSIBLE
 
-DJ CORDE SENSIBLE is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hangar48 Club, Madrid on Fri, 4 Sept 2026.
+DJ CORDE SENSIBLE is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hangar48 Club, Madrid on Fri, 4 Sept 2026.
 
 DJ CORDE SENSIBLE is a tech house artist tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside KZTÀ and LA CATHARSIS. Next up: Hangar48 Club, Madrid on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ DJ CORDE SENSIBLE is a tech house artist tracked on soundcheck, with 3 sets logg
 
 KZTÀ, LA CATHARSIS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcordesensible/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcordesensible/)*

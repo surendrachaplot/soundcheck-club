@@ -1,6 +1,6 @@
 # Jannik van der Vegt
 
-Jannik van der Vegt is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Park.Cologne, Cologne on Sat, 29 Aug 2026.
+Jannik van der Vegt is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Park.Cologne, Cologne on Sat, 29 Aug 2026.
 
 Jannik van der Vegt is a trance and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Frankfurt and London and 2 more. Often billed alongside DJ SODBRENNEN, Cassa Cristano and GEORGE aka DR.RADSPORT. Next up: Park.Cologne, Cologne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Jannik van der Vegt is a trance and techno artist tracked on soundcheck, with 17
 
 DJ SODBRENNEN, Cassa Cristano, GEORGE aka DR.RADSPORT
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jannikvandervegt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jannikvandervegt/)*

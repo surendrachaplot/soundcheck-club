@@ -1,6 +1,6 @@
 # Satin Jackets
 
-Satin Jackets is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Lee's Palace, Toronto on Fri, 28 Aug 2026.
+Satin Jackets is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Lee's Palace, Toronto on Fri, 28 Aug 2026.
 
 Satin Jackets is a house and disco artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Undercatt, clavette and Amiti. Next up: Lee's Palace, Toronto on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Satin Jackets is a house and disco artist tracked on soundcheck, with 49 sets lo
 
 Undercatt, clavette, Amiti
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satinjackets/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/satinjackets/)*

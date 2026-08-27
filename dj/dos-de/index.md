@@ -1,6 +1,6 @@
 # DOS (DE)
 
-DOS (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
+DOS (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ritter Butzke, Berlin on Fri, 28 Aug 2026.
 
 DOS (DE) is a techno and house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Marius Holm, Confred and Pajüh. Next up: Ritter Butzke, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DOS (DE) is a techno and house artist tracked on soundcheck, with 12 sets logged
 
 Marius Holm, Confred, Pajüh
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dos-de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dos-de/)*

@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "4Q4 ERROR Festival: Heatwave" on Fri, 28 Aug 2026.
+Kater is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "4Q4 ERROR Festival: Heatwave" on Fri, 28 Aug 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Javier Anxiety, A.D.H.S., Adri Alibi and Aera and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

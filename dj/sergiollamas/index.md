@@ -1,6 +1,6 @@
 # Sergio LLamas
 
-Sergio LLamas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA -  Motor Oil, Barcelona on Thu, 27 Aug 2026.
+Sergio LLamas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA -  Motor Oil, Barcelona on Thu, 27 Aug 2026.
 
 Sergio LLamas is a house and techno artist tracked on soundcheck, with 49 sets logged across Barcelona and Madrid. Often billed alongside VITALI (1), Violeta Reynal and Biotech Patagonia. Next up: TBA -  Motor Oil, Barcelona on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Sergio LLamas is a house and techno artist tracked on soundcheck, with 49 sets l
 
 VITALI (1), Violeta Reynal, Biotech Patagonia
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*

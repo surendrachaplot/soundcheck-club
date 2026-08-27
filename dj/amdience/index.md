@@ -1,6 +1,6 @@
 # Amdience
 
-Amdience is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Nashaz, Brussels on Fri, 18 Sept 2026.
+Amdience is a Experimental and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Nashaz, Brussels on Fri, 18 Sept 2026.
 
 Amdience is an experimental and acid artist tracked on soundcheck, with 10 sets logged across Berlin, Brussels, Ghent and Paris and 1 more. Often billed alongside 9dwa, Aphex Twink and Brodinski. Next up: Nashaz, Brussels on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Amdience is an experimental and acid artist tracked on soundcheck, with 10 sets 
 
 9dwa, Aphex Twink, Brodinski
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amdience/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amdience/)*

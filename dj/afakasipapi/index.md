@@ -1,6 +1,6 @@
 # Afakasi Papi
 
-Afakasi Papi is a Club and Ballroom artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 12 Sept 2026.
+Afakasi Papi is a Club and Ballroom artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Afakasi Papi is a club and ballroom artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside QUEENIE (US), Amarji King and Byrell The Great. Next up: Monarch, Sanfrancisco on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Afakasi Papi is a club and ballroom artist based in United States of America, tr
 
 QUEENIE (US), Amarji King, Byrell The Great
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afakasipapi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afakasipapi/)*

@@ -1,6 +1,6 @@
 # The Ton of Brix
 
-The Ton of Brix is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "DOTWAVNOTWAVE & Lex Records PRESENT: VAYDA + FRIENDS" on Sat, 29 Aug 2026.
+The Ton of Brix is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "DOTWAVNOTWAVE & Lex Records PRESENT: VAYDA + FRIENDS" on Sat, 29 Aug 2026.
 
 The Ton of Brix is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Annabelle (US), Dazegxd and LISAKEEKS. Browse upcoming dates, start times and who's playing. 414 Coldharbour Ln, London SW9 8LF, United Kingdom.
 
@@ -14,4 +14,4 @@ The Ton of Brix is a music venue in London listed on soundcheck. 1 upcoming nigh
 
 414 Coldharbour Ln, London SW9 8LF, United Kingdom, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ton-of-brix/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-ton-of-brix/)*

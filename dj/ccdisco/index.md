@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Patterns, Brighton on Sun, 30 Aug 2026.
+CC:DISCO! is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Patterns, Brighton on Sun, 30 Aug 2026.
 
 CC:DISCO! is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: Patterns, Brighton on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 142 sets logge
 
 Chima Isaaro, Erol Alkan, Gerd Janson
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

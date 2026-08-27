@@ -1,6 +1,6 @@
 # PILEA
 
-PILEA is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Haus73, Hamburg on Sat, 19 Sept 2026.
+PILEA is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Haus73, Hamburg on Sat, 19 Sept 2026.
 
 PILEA is a house and minimal artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Finona Rider, aitch and ACID B4RBIE. Next up: Haus73, Hamburg on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ PILEA is a house and minimal artist based in Germany, tracked on soundcheck, wit
 
 Finona Rider, aitch, ACID B4RBIE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilea/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pilea/)*

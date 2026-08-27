@@ -1,6 +1,6 @@
 # Fonzo
 
-Fonzo is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Clock Factory, Bristol on Sat, 26 Sept 2026.
+Fonzo is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Clock Factory, Bristol on Sat, 26 Sept 2026.
 
 Fonzo is a garage and bass artist tracked on soundcheck, with 18 sets logged across Bristol, Leeds, Lisbon and London and 4 more. Often billed alongside AÆE, Bakey and Girls Don't Sync. Next up: The Clock Factory, Bristol on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Fonzo is a garage and bass artist tracked on soundcheck, with 18 sets logged acr
 
 AÆE, Bakey, Girls Don't Sync
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzo/)*

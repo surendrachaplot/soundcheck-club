@@ -1,6 +1,6 @@
 # Hamos
 
-Hamos is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Nué Seoul, Seoul on Fri, 28 Aug 2026.
+Hamos is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Nué Seoul, Seoul on Fri, 28 Aug 2026.
 
 Hamos is a house and disco artist tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside Cozyhoon, Imogene and ASIANPAYDAY. Next up: Nué Seoul, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Hamos is a house and disco artist tracked on soundcheck, with 11 sets logged acr
 
 Cozyhoon, Imogene, ASIANPAYDAY
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamos/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamos/)*

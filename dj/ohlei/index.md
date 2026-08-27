@@ -1,6 +1,6 @@
 # Ohlei
 
-Ohlei is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
+Ohlei is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
 
 Ohlei is a house and afro house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Mexicocity, Newyorkcity and Philadelphia. Often billed alongside Khiari Bakar, Dom Haley and BlckTeeth. Next up: Bastet, Philadelphia on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ohlei is a house and afro house artist based in United States of America, tracke
 
 Khiari Bakar, Dom Haley, BlckTeeth
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohlei/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohlei/)*

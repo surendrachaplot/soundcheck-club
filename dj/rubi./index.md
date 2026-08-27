@@ -1,6 +1,6 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mammoth Moma5, Berlin on Fri, 28 Aug 2026.
+RuBi. is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mammoth Moma5, Berlin on Fri, 28 Aug 2026.
 
 RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Schalltrichter, ALAN JOE and Alex Friday. Next up: Mammoth Moma5, Berlin on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 Schalltrichter, ALAN JOE, Alex Friday
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

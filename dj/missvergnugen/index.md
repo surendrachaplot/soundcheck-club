@@ -1,14 +1,13 @@
 # MissVergnügen
 
-MissVergnügen is a electronic artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Eschschloraque, Berlin on Wed, 26 Aug 2026.
+MissVergnügen is a electronic artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Eschschloraque, Berlin on Wed, 2 Sept 2026.
 
-MissVergnügen is an electronic artist tracked on soundcheck, with 128 sets logged across Berlin. Often billed alongside Sheila Chipperfield and Kerosine. Next up: Eschschloraque, Berlin on Wed 26 Aug.
+MissVergnügen is an electronic artist tracked on soundcheck, with 128 sets logged across Berlin. Often billed alongside Sheila Chipperfield and Kerosine. Next up: Eschschloraque, Berlin on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Eschschloraque | Berlin |
 | Wed, 2 Sept 2026 | Eschschloraque | Berlin |
 | Wed, 9 Sept 2026 | Eschschloraque | Berlin |
 | Wed, 16 Sept 2026 | Eschschloraque | Berlin |
@@ -17,6 +16,7 @@ MissVergnügen is an electronic artist tracked on soundcheck, with 128 sets logg
 
 ## Recently played
 
+- Eschschloraque, Berlin — Wed, 26 Aug 2026
 - Eschschloraque, Berlin — Wed, 19 Aug 2026
 - Eschschloraque, Berlin — Wed, 12 Aug 2026
 - Eschschloraque, Berlin — Wed, 5 Aug 2026
@@ -24,10 +24,9 @@ MissVergnügen is an electronic artist tracked on soundcheck, with 128 sets logg
 - Eschschloraque, Berlin — Wed, 22 Jul 2026
 - Eschschloraque, Berlin — Wed, 8 Jul 2026
 - Eschschloraque, Berlin — Wed, 1 Jul 2026
-- Eschschloraque, Berlin — Wed, 24 Jun 2026
 
 ## Shares bills with
 
 Sheila Chipperfield, Kerosine
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missvergnugen/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missvergnugen/)*

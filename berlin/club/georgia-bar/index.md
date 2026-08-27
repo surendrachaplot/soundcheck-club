@@ -1,6 +1,6 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SER:KAN" on Thu, 27 Aug 2026.
+Georgia Bar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SER:KAN" on Thu, 27 Aug 2026.
 
 Georgia Bar is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Amowia, Bailey Brown, iZZie and Someone Sunny. Browse upcoming dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 4 upcoming nights, 
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

@@ -1,6 +1,6 @@
 # Casabanchel
 
-Casabanchel is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Campos de Marte Exp. David Cordero, Sara Muñiz, RUIDØCULAR" on Sun, 20 Sept 2026.
+Casabanchel is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Campos de Marte Exp. David Cordero, Sara Muñiz, RUIDØCULAR" on Sun, 20 Sept 2026.
 
 Casabanchel is a music venue in Madrid listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Santiago Estévez, 26, Carabanchel, 28019 Madrid.
 
@@ -14,4 +14,4 @@ Casabanchel is a music venue in Madrid listed on soundcheck. 1 upcoming night. B
 
 Santiago Estévez, 26, Carabanchel, 28019 Madrid, Madrid
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casabanchel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casabanchel/)*

@@ -1,6 +1,6 @@
 # Disk Cartel
 
-Disk Cartel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+Disk Cartel is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Leipzig and London and 2 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck
 
 THC, S-candalo, Byron Yeates
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*

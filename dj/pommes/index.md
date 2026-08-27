@@ -1,6 +1,6 @@
 # Pommes
 
-Pommes is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vertical Berlin, Berlin on Sat, 29 Aug 2026.
+Pommes is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vertical Berlin, Berlin on Sat, 29 Aug 2026.
 
 Pommes is a house and hip-hop artist tracked on soundcheck, with 17 sets logged across Berlin and Vienna. Often billed alongside Schlecksi, onlylou and Flotte Motte. Next up: Vertical Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pommes is a house and hip-hop artist tracked on soundcheck, with 17 sets logged 
 
 Schlecksi, onlylou, Flotte Motte
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pommes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pommes/)*

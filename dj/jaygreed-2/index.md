@@ -1,6 +1,6 @@
 # Jay Greed (2)
 
-Jay Greed (2) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
+Jay Greed (2) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Athens on Sun, 20 Sept 2026.
 
 Jay Greed (2) is a disco and house artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside Jay Greed, Boh (2) and Innassi. Next up: TBA, Athens on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Jay Greed (2) is a disco and house artist based in Greece, tracked on soundcheck
 
 Jay Greed, Boh (2), Innassi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygreed-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygreed-2/)*

@@ -1,6 +1,6 @@
 # Towa Tei
 
-Towa Tei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club Metro, Kyoto on Sun, 30 Aug 2026.
+Towa Tei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Metro, Kyoto on Sun, 30 Aug 2026.
 
 Towa Tei is a house and techno artist tracked on soundcheck, with 10 sets logged across Kyoto and Tokyo. Often billed alongside Neibiss, CH.0 and Caroline. Next up: Club Metro, Kyoto on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Towa Tei is a house and techno artist tracked on soundcheck, with 10 sets logged
 
 Neibiss, CH.0, Caroline
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/towatei/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/towatei/)*

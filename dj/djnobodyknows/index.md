@@ -1,6 +1,6 @@
 # DJ Nobody Knows
 
-DJ Nobody Knows is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paal69, Amsterdam on Sat, 5 Sept 2026.
+DJ Nobody Knows is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Paal69, Amsterdam on Sat, 5 Sept 2026.
 
 DJ Nobody Knows is a disco and house artist tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside DJ Bone, Arp Frique and Benny Rodrigues. Next up: Paal69, Amsterdam on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ DJ Nobody Knows is a disco and house artist tracked on soundcheck, with 8 sets l
 
 DJ Bone, Arp Frique, Benny Rodrigues
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobodyknows/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobodyknows/)*

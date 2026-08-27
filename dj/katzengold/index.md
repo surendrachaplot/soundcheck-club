@@ -1,6 +1,6 @@
 # Katzengold
 
-Katzengold is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+Katzengold is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
 
 Katzengold is a techno and tech house artist based in Germany, tracked on soundcheck, with 137 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside justUS, Markus Klee and Maurice Mino. Next up: Kater, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Katzengold is a techno and tech house artist based in Germany, tracked on soundc
 
 justUS, Markus Klee, Maurice Mino
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*

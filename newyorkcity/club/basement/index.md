@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy" on Sat, 29 Aug 2026.
+BASEMENT is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy" on Sat, 29 Aug 2026.
 
 BASEMENT is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 10 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

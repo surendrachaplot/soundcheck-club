@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Wassabi Collective with DJ Rollin' Cash" on Fri, 4 Sept 2026.
+Bsmt 254 is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Wassabi Collective with DJ Rollin' Cash" on Fri, 4 Sept 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Iced Misto, Jason Palma and Pursuit Grooves. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -18,4 +18,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 5 upcoming nights, wi
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

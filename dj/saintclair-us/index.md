@@ -1,6 +1,6 @@
 # Saintclair
 
-Saintclair is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Nowadays, New York City on Thu, 27 Aug 2026.
+Saintclair is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Nowadays, New York City on Thu, 27 Aug 2026.
 
 Saintclair is a techno and club artist tracked on soundcheck, with 20 sets logged across Lisbon, Newyorkcity and Philadelphia. Often billed alongside PHIL TY, Adrian Hex and BLAIZE. Next up: Nowadays, Newyorkcity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Saintclair is a techno and club artist tracked on soundcheck, with 20 sets logge
 
 PHIL TY, Adrian Hex, BLAIZE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair-us/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair-us/)*

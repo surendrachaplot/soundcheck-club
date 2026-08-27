@@ -1,6 +1,6 @@
 # Darno
 
-Darno is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 29 Aug 2026.
+Darno is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 29 Aug 2026.
 
 Darno is a progressive house and deep house artist tracked on soundcheck, with 13 sets logged across Amsterdam, London, Paris and Riga and 2 more. Often billed alongside Sham.m.an, NORO and ATARAX. Next up: YoYo - Palais de Tokyo, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Darno is a progressive house and deep house artist tracked on soundcheck, with 1
 
 Sham.m.an, NORO, ATARAX
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darno/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darno/)*

@@ -1,6 +1,6 @@
 # ELIVVATE
 
-ELIVVATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at SILO, New York City on Thu, 27 Aug 2026.
+ELIVVATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at SILO, New York City on Thu, 27 Aug 2026.
 
 ELIVVATE is a techno and trance artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity and Philadelphia. Often billed alongside Amado, Bruce Wayne (US) and DJ Kalin. Next up: SILO, Newyorkcity on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ ELIVVATE is a techno and trance artist based in United States of America, tracke
 
 Amado, Bruce Wayne (US), DJ Kalin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*

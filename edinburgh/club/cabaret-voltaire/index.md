@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FLY Fringe with Ellia Jaya + Hannah Doc " on Fri, 28 Aug 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FLY Fringe with Ellia Jaya + Hannah Doc " on Fri, 28 Aug 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 13 upcoming nights, with line-ups including YVI, Avyakt, Ben Kok (2) and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 13 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

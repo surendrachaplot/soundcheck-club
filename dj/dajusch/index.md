@@ -1,6 +1,6 @@
 # Dajusch
 
-Dajusch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
+Dajusch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bassiani, Tbilisi on Fri, 18 Sept 2026.
 
 Dajusch is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Cologne and Copenhagen and 6 more. Often billed alongside FJAAK, Anna Z. and Elli Acula. Next up: Bassiani, Tbilisi on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dajusch is a techno and house artist tracked on soundcheck, with 20 sets logged 
 
 FJAAK, Anna Z., Elli Acula
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dajusch/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dajusch/)*

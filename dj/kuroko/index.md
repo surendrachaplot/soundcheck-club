@@ -1,6 +1,6 @@
 # Kuroko
 
-Kuroko is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Holding Patterns, Leeds on Sat, 5 Sept 2026.
+Kuroko is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Holding Patterns, Leeds on Sat, 5 Sept 2026.
 
 Kuroko is a dub techno and techno artist tracked on soundcheck, with 6 sets logged across Leeds and Manchester. Often billed alongside Phil Warner, Rory Flynn and Bobby O'Donnell. Next up: Holding Patterns, Leeds on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Kuroko is a dub techno and techno artist tracked on soundcheck, with 6 sets logg
 
 Phil Warner, Rory Flynn, Bobby O'Donnell
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuroko/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuroko/)*

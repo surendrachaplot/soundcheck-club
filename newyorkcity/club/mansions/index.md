@@ -1,6 +1,6 @@
 # Mansions
 
-Mansions is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Kiernan Laveaux All Night Long" on Thu, 27 Aug 2026.
+Mansions is a music venue in New York City with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Kiernan Laveaux All Night Long" on Thu, 27 Aug 2026.
 
 Mansions is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights, with line-ups including AceMo, Kiernan Laveaux, MIARISUA and Peter Fonda and 1 more. Browse upcoming dates, start times and who's playing. 46-63 Metropolitan Ave, Queens, NY, 11385, USA.
 
@@ -16,4 +16,4 @@ Mansions is a music venue in Newyorkcity listed on soundcheck. 3 upcoming nights
 
 46-63 Metropolitan Ave, Queens, NY, 11385, USA, New York City
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mansions/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mansions/)*

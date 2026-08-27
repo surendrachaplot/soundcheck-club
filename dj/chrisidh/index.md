@@ -1,6 +1,6 @@
 # Chris IDH
 
-Chris IDH is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Island Athens Riviera, Athens on Thu, 27 Aug 2026.
+Chris IDH is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Island Athens Riviera, Athens on Thu, 27 Aug 2026.
 
 Chris IDH is a house and afro house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Athens, Istanbul and London and 1 more. Often billed alongside Raise (2), AERES (1) and Alex Wann. Next up: Island Athens Riviera, Athens on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Chris IDH is a house and afro house artist tracked on soundcheck, with 14 sets l
 
 Raise (2), AERES (1), Alex Wann
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisidh/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisidh/)*

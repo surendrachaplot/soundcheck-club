@@ -1,6 +1,6 @@
 # SATURDAY SCAPE at Club Makossa
 
-SATURDAY SCAPE at Club Makossa on Sat 29 Aug, London. Techno and Disco. Preview the line-up and save it on soundcheck.
+SATURDAY SCAPE at Club Makossa on Sat 29 Aug, London. Disco and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

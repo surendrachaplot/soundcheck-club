@@ -1,6 +1,6 @@
 # Yiota
 
-Yiota is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Patterns, Brighton on Sat, 26 Sept 2026.
+Yiota is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Patterns, Brighton on Sat, 26 Sept 2026.
 
 Yiota is a techno and trance artist tracked on soundcheck, with 42 sets logged across Athens, Birmingham, Brighton and Edinburgh and 2 more. Often billed alongside Spinks, ona:v and Atoxyl. Next up: Patterns, Brighton on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yiota is a techno and trance artist tracked on soundcheck, with 42 sets logged a
 
 Spinks, ona:v, Atoxyl
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yiota/)*

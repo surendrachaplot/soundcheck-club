@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 15 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Armen Miran - Oiseau de Nuit" on Fri, 28 Aug 2026.
+StereoBar is a music venue in Montreal with 15 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Armen Miran - Oiseau de Nuit" on Fri, 28 Aug 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 15 upcoming nights, with line-ups including Armen Miran, Brian Cuta, Claude VonStroke and Colmee and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -23,4 +23,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 15 upcoming nights,
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

@@ -1,6 +1,6 @@
 # LUNATIXX
 
-LUNATIXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kilomètre25, Paris on Sat, 29 Aug 2026.
+LUNATIXX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kilomètre25, Paris on Sat, 29 Aug 2026.
 
 LUNATIXX is a techno and trance artist based in France, tracked on soundcheck, with 7 sets logged across Berlin and Paris. Often billed alongside A2XBY, BETÏSES and Bours?. Next up: Kilomètre25, Paris on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ LUNATIXX is a techno and trance artist based in France, tracked on soundcheck, w
 
 A2XBY, BETÏSES, Bours?
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatixx/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatixx/)*

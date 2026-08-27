@@ -1,6 +1,6 @@
 # Homotopies
 
-Homotopies is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
+Homotopies is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
 
 Homotopies is a techno and trance artist tracked on soundcheck, with 12 sets logged across Austin and Newyorkcity. Often billed alongside ITZA, The Electric Pearl and Vitalik. Next up: Mood Ring, Newyorkcity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Homotopies is a techno and trance artist tracked on soundcheck, with 12 sets log
 
 ITZA, The Electric Pearl, Vitalik
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homotopies/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homotopies/)*

@@ -1,6 +1,6 @@
 # Tribal Link
 
-Tribal Link is a Techno and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
+Tribal Link is a Techno and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
 
 Tribal Link is a techno and grime artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Acid Carbon, Naira Bullon and !NN. Next up: Union Club, Vauxhall, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Tribal Link is a techno and grime artist tracked on soundcheck, with 10 sets log
 
 Acid Carbon, Naira Bullon, !NN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triballink/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triballink/)*

@@ -1,6 +1,6 @@
 # Infinite Pleasure
 
-Infinite Pleasure is a House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+Infinite Pleasure is a House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
 
 Infinite Pleasure is a house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Ibiza, Paris and Rotterdam. Often billed alongside Steven Pieters, Ben Diggins and Matan Klevan. Next up: export, Rotterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Infinite Pleasure is a house artist based in Netherlands, tracked on soundcheck,
 
 Steven Pieters, Ben Diggins, Matan Klevan
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitepleasure/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infinitepleasure/)*

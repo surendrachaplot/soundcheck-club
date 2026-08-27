@@ -1,6 +1,6 @@
 # LILI
 
-LILI is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+LILI is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 LILI is a tech house and house artist tracked on soundcheck, with 26 sets logged across Berlin, Ibiza, Leeds and London and 2 more. Often billed alongside Lewis Carroll, Tommy Gold and ADMNTi. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ LILI is a tech house and house artist tracked on soundcheck, with 26 sets logged
 
 Lewis Carroll, Tommy Gold, ADMNTi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lili/)*

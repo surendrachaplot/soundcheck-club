@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
+Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Pacha Ibiza, Ibiza on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

@@ -1,6 +1,6 @@
 # The Lighthouse Club
 
-The Lighthouse Club is a music venue in London with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Bashment Whine" on Fri, 28 Aug 2026.
+The Lighthouse Club is a music venue in London with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Bashment Whine" on Fri, 28 Aug 2026.
 
 The Lighthouse Club is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Vybz Kartel. Browse upcoming dates, start times and who's playing. 62 Rivington Street.
 
@@ -23,4 +23,4 @@ The Lighthouse Club is a music venue in London listed on soundcheck. 10 upcoming
 
 62 Rivington Street, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-club/)*

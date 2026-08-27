@@ -1,6 +1,6 @@
 # Fire
 
-Fire is a music venue in London with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "A:M After Hours" on Sat, 29 Aug 2026.
+Fire is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "A:M After Hours" on Sat, 29 Aug 2026.
 
 Fire is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including DJ Millz, DJ Will, Fabio Luigi and Fatman D and 2 more. Browse upcoming dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
@@ -22,4 +22,4 @@ Fire is a music venue in London listed on soundcheck. 9 upcoming nights, with li
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

@@ -1,6 +1,6 @@
 # MOMO MISCHT
 
-MOMO MISCHT is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+MOMO MISCHT is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 MOMO MISCHT is a tech house and techno artist tracked on soundcheck, with 15 sets logged across Hamburg. Often billed alongside VIRGIN!A, Kevin Sona and VIĆERO. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MOMO MISCHT is a tech house and techno artist tracked on soundcheck, with 15 set
 
 VIRGIN!A, Kevin Sona, VIĆERO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momomischt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momomischt/)*

@@ -1,6 +1,6 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+DJ Pete is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
 DJ Pete is a techno and electro artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ DJ Pete is a techno and electro artist tracked on soundcheck, with 132 sets logg
 
 Finn Johannsen, Substance, BLACK ANTHEM RESTORE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*

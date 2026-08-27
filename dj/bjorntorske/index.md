@@ -1,6 +1,6 @@
 # Bjørn Torske
 
-Bjørn Torske is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Villa, Oslo on Sat, 26 Sept 2026.
+Bjørn Torske is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Villa, Oslo on Sat, 26 Sept 2026.
 
 Bjørn Torske is a balearic and house artist tracked on soundcheck, with 28 sets logged across Copenhagen, London, Melbourne and Oslo and 1 more. Often billed alongside G-HA, Olanskii and Olefonken. Next up: The Villa, Oslo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bjørn Torske is a balearic and house artist tracked on soundcheck, with 28 sets
 
 G-HA, Olanskii, Olefonken
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorntorske/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bjorntorske/)*

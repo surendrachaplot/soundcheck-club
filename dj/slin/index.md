@@ -1,6 +1,6 @@
 # slin
 
-slin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Artheater, Cologne on Fri, 28 Aug 2026.
+slin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Artheater, Cologne on Fri, 28 Aug 2026.
 
 slin is a techno and house artist tracked on soundcheck, with 164 sets logged across Amsterdam, Barcelona, Basel and Berlin and 39 more. Often billed alongside Tarkno, lex_shockwerk and Carmen Electro. Next up: Artheater, Cologne on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ slin is a techno and house artist tracked on soundcheck, with 164 sets logged ac
 
 Tarkno, lex_shockwerk, Carmen Electro
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slin/)*

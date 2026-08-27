@@ -1,6 +1,6 @@
 # Fierro Grande
 
-Fierro Grande is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Voodoo Rooms, Edinburgh on Fri, 28 Aug 2026.
+Fierro Grande is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Voodoo Rooms, Edinburgh on Fri, 28 Aug 2026.
 
 Fierro Grande is a house and baile funk artist tracked on soundcheck, with 29 sets logged across Edinburgh. Often billed alongside Lara Sinclair, Jacuzzi General and Ann Tweak. Next up: The Voodoo Rooms, Edinburgh on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fierro Grande is a house and baile funk artist tracked on soundcheck, with 29 se
 
 Lara Sinclair, Jacuzzi General, Ann Tweak
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fierrogrande/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fierrogrande/)*

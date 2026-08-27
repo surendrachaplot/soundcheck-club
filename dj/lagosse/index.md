@@ -1,6 +1,6 @@
 # La Gosse
 
-La Gosse is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
+La Gosse is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
 
 La Gosse is a house and minimal artist tracked on soundcheck, with 29 sets logged across London and Marseille. Often billed alongside Samantha Blackburn, DeRizzio and Kesh (1). Next up: Starlane Pizza Bar, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ La Gosse is a house and minimal artist tracked on soundcheck, with 29 sets logge
 
 Samantha Blackburn, DeRizzio, Kesh (1)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lagosse/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lagosse/)*

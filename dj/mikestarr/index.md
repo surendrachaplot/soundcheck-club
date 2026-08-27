@@ -1,6 +1,6 @@
 # Mike Starr
 
-Mike Starr is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+Mike Starr is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Mike Starr is a house and techno artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Natalie Robinson, Virginia and BASHKKA. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Mike Starr is a house and techno artist tracked on soundcheck, with 91 sets logg
 
 Natalie Robinson, Virginia, BASHKKA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikestarr/)*

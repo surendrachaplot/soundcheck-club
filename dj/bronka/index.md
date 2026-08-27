@@ -1,6 +1,6 @@
 # Bronka
 
-Bronka is a Baile Funk and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at New Century Locker, Manchester on Fri, 9 Oct 2026.
+Bronka is a Baile Funk and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at New Century Locker, Manchester on Fri, 9 Oct 2026.
 
 Bronka is a baile funk and club artist based in Brazil, tracked on soundcheck, with 9 sets logged across Barcelona, Lisbon, London and Manchester and 3 more. Often billed alongside Caio Prince, Carmilla Sioux and Chloe Lula. Next up: New Century Locker, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bronka is a baile funk and club artist based in Brazil, tracked on soundcheck, w
 
 Caio Prince, Carmilla Sioux, Chloe Lula
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronka/)*

@@ -1,6 +1,6 @@
 # Dylan Payne
 
-Dylan Payne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Wicked West, San Diego on Sat, 29 Aug 2026.
+Dylan Payne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Wicked West, San Diego on Sat, 29 Aug 2026.
 
 Dylan Payne is a house and techno artist based in United States of America, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Boston and Detroit and 9 more. Often billed alongside Highkin', Krane and O.BEE. Next up: Wicked West, Sandiego on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dylan Payne is a house and techno artist based in United States of America, trac
 
 Highkin', Krane, O.BEE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanpayne/)*

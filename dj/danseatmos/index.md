@@ -1,6 +1,6 @@
 # Danse Atmos
 
-Danse Atmos is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Danse Atmos is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Danse Atmos is a house and disco artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Edinburgh, Glasgow and Ibiza. Often billed alongside Stevie Cox, Hayley Zalassi and Big Miz. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Danse Atmos is a house and disco artist based in United Kingdom, tracked on soun
 
 Stevie Cox, Hayley Zalassi, Big Miz
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danseatmos/)*

@@ -1,6 +1,6 @@
 # Dwonji
 
-Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
+Dwonji is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Culture Box, Copenhagen on Fri, 28 Aug 2026.
 
 Dwonji is a drum & bass and dubstep artist based in Denmark, tracked on soundcheck, with 17 sets logged across Copenhagen and Osaka. Often billed alongside HDN (DK), CALIFANO and Arsom. Next up: Culture Box, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dwonji is a drum & bass and dubstep artist based in Denmark, tracked on soundche
 
 HDN (DK), CALIFANO, Arsom
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwonji/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwonji/)*

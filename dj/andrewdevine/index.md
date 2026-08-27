@@ -1,6 +1,6 @@
 # Andrew Devine
 
-Andrew Devine is a Disco and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Shrimp, Manchester on Fri, 28 Aug 2026.
+Andrew Devine is a Disco and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Shrimp, Manchester on Fri, 28 Aug 2026.
 
 Andrew Devine is a disco and downtempo artist tracked on soundcheck, with 34 sets logged across Glasgow, Leeds, London and Manchester. Often billed alongside John Paynter, DJ Subaru and Elliot Holt. Next up: Bar Shrimp, Manchester on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Andrew Devine is a disco and downtempo artist tracked on soundcheck, with 34 set
 
 John Paynter, DJ Subaru, Elliot Holt
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewdevine/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewdevine/)*

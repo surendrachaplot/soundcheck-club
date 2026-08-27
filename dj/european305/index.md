@@ -1,6 +1,6 @@
 # European 305
 
-European 305 is a Amapiano and Afro House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
+European 305 is a Amapiano and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
 
 European 305 is an amapiano and afro house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona and London. Often billed alongside Ade Smilez, Shenin Amara and Supa D. Next up: E1, London on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ European 305 is an amapiano and afro house artist tracked on soundcheck, with 34
 
 Ade Smilez, Shenin Amara, Supa D
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/european305/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/european305/)*

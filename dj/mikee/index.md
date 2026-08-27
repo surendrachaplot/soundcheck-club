@@ -1,6 +1,6 @@
 # MikeE (NZ)
 
-MikeE (NZ) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Paradiso, Mykonos on Sat, 29 Aug 2026.
+MikeE (NZ) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Paradiso, Mykonos on Sat, 29 Aug 2026.
 
 MikeE (NZ) is an electronic artist tracked on soundcheck, with 5 sets logged across Athens and Mykonos. Often billed alongside Deborah De Luca, Manolaco and Dubfire. Next up: Cavo Paradiso, Mykonos on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ MikeE (NZ) is an electronic artist tracked on soundcheck, with 5 sets logged acr
 
 Deborah De Luca, Manolaco, Dubfire
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikee/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikee/)*

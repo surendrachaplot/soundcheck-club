@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "GHETTOTECHTOPIA" on Fri, 28 Aug 2026.
+Lincoln Factory is a music venue in Detroit with 12 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "GHETTOTECHTOPIA" on Fri, 28 Aug 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming nights, with line-ups including Arlo Parks, Blake Baxter, DJ Godfather and DJ Spinn and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -23,4 +23,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 12 upcoming ni
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

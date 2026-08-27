@@ -1,6 +1,6 @@
 # Masha Dabelka
 
-Masha Dabelka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Porto Pollo, Vienna on Fri, 28 Aug 2026.
+Masha Dabelka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Porto Pollo, Vienna on Fri, 28 Aug 2026.
 
 Masha Dabelka is a techno and house artist tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside Masha, AMOVV and CPR0. Next up: Porto Pollo, Vienna on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Masha Dabelka is a techno and house artist tracked on soundcheck, with 13 sets l
 
 Masha, AMOVV, CPR0
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashadabelka/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashadabelka/)*

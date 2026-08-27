@@ -1,6 +1,6 @@
 # Nikki Kent
 
-Nikki Kent is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 29 Aug 2026.
+Nikki Kent is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at People's Leisure Club, Edinburgh on Sat, 29 Aug 2026.
 
 Nikki Kent is a house and disco artist tracked on soundcheck, with 66 sets logged across Edinburgh and Glasgow. Often billed alongside Ravelston, Hometown Sound and Jacuzzi General. Next up: People's Leisure Club, Edinburgh on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Nikki Kent is a house and disco artist tracked on soundcheck, with 66 sets logge
 
 Ravelston, Hometown Sound, Jacuzzi General
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*

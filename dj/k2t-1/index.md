@@ -1,6 +1,6 @@
 # K2T (1)
 
-K2T (1) is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
+K2T (1) is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
 
 K2T (1) is a drum & bass artist tracked on soundcheck, with 3 sets logged across Copenhagen, London and Nottingham. Often billed alongside Cellar (2), DBADJO and Redemptive. Next up: Planet Wax, London on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ K2T (1) is a drum & bass artist tracked on soundcheck, with 3 sets logged across
 
 Cellar (2), DBADJO, Redemptive
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k2t-1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k2t-1/)*

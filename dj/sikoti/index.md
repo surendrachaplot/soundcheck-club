@@ -1,6 +1,6 @@
 # SIKOTI
 
-SIKOTI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kilomètre25, Paris on Fri, 9 Oct 2026.
+SIKOTI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kilomètre25, Paris on Fri, 9 Oct 2026.
 
 SIKOTI is a techno and trance artist tracked on soundcheck, with 136 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 39 more. Often billed alongside Alex Farell, Azyr and Faster Horses. Next up: Kilomètre25, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ SIKOTI is a techno and trance artist tracked on soundcheck, with 136 sets logged
 
 Alex Farell, Azyr, Faster Horses
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikoti/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sikoti/)*

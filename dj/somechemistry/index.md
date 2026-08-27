@@ -1,14 +1,15 @@
 # Some Chemistry
 
-Some Chemistry is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Houtrijk, Amsterdam on Sat, 5 Sept 2026.
+Some Chemistry is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Houtrijk, Amsterdam on Sat, 5 Sept 2026.
 
-Some Chemistry is a house and deep house artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin and Mexicocity. Often billed alongside SHMLSS, UN/POLISHED and Noraj Cue. Next up: Houtrijk, Amsterdam on Sat 5 Sept.
+Some Chemistry is a house and deep house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin and Mexicocity. Often billed alongside SHMLSS, UN/POLISHED and Noraj Cue. Next up: Houtrijk, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Houtrijk | Amsterdam |
+| Sat, 24 Oct 2026 | Waterhouse Studios | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Some Chemistry is a house and deep house artist based in Netherlands, tracked on
 
 SHMLSS, UN/POLISHED, Noraj Cue
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somechemistry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somechemistry/)*

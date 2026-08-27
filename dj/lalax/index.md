@@ -1,6 +1,6 @@
 # Lala X
 
-Lala X is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at OXI, Berlin on Tue, 1 Sept 2026.
+Lala X is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OXI, Berlin on Tue, 1 Sept 2026.
 
 Lala X is a techno artist tracked on soundcheck, with 3 sets logged across Barcelona and Berlin. Often billed alongside Beau Didier, DJ Pete and ENGALANAN. Next up: OXI, Berlin on Tue 1 Sept.
 
@@ -19,4 +19,4 @@ Lala X is a techno artist tracked on soundcheck, with 3 sets logged across Barce
 
 Beau Didier, DJ Pete, ENGALANAN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalax/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalax/)*

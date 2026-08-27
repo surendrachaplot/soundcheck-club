@@ -1,6 +1,6 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
+AWEN is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
 
 AWEN is an afro house and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Shimza, Francis Mercier and DJEFF. Next up: Hï Ibiza, Ibiza on Mon 31 Aug.
 
@@ -27,4 +27,4 @@ AWEN is an afro house and house artist tracked on soundcheck, with 73 sets logge
 
 Shimza, Francis Mercier, DJEFF
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

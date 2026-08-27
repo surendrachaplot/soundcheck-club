@@ -1,6 +1,6 @@
 # Yochanan
 
-Yochanan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 22 Sept 2026.
+Yochanan is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 22 Sept 2026.
 
 Yochanan is a minimal and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin and Newyorkcity. Often billed alongside Bella Mutino, Nico Noir and ADREE. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Yochanan is a minimal and house artist based in United States of America, tracke
 
 Bella Mutino, Nico Noir, ADREE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yochanan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yochanan/)*

@@ -1,6 +1,6 @@
 # Kleyver Reyes
 
-Kleyver Reyes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Imperial Private Club, Barcelona on Fri, 11 Sept 2026.
+Kleyver Reyes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Imperial Private Club, Barcelona on Fri, 11 Sept 2026.
 
 Kleyver Reyes is a techno and house artist based in Venezuela, tracked on soundcheck, with 59 sets logged across Barcelona and Madrid. Often billed alongside Miguel Silva, DIDIXX and MDM. Next up: Imperial Private Club, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Kleyver Reyes is a techno and house artist based in Venezuela, tracked on soundc
 
 Miguel Silva, DIDIXX, MDM
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kleyverreyes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kleyverreyes/)*

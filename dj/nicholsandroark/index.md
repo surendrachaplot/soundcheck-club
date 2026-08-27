@@ -1,6 +1,6 @@
 # Nicholsandroark
 
-Nicholsandroark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Nicholsandroark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Nicholsandroark is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Munich. Often billed alongside Alexa (KR), Alythia Kwan and AmyElle. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Nicholsandroark is a house and deep house artist based in United Kingdom, tracke
 
 Alexa (KR), Alythia Kwan, AmyElle
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholsandroark/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholsandroark/)*

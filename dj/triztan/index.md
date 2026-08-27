@@ -1,6 +1,6 @@
 # TRIZTAN
 
-TRIZTAN is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Emerald Center piso 2, Av. Adolfo Ruiz Cortines, Mexico City on Sun, 30 Aug 2026.
+TRIZTAN is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Emerald Center piso 2, Av. Adolfo Ruiz Cortines, Mexico City on Sun, 30 Aug 2026.
 
 TRIZTAN is a house and afro house artist based in Mexico, tracked on soundcheck, with 61 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Diego Walle, Disco 86 and Enya Botello. Next up: TBA - Emerald Center piso 2, Av. Adolfo Ruiz Cortines, Mexicocity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ TRIZTAN is a house and afro house artist based in Mexico, tracked on soundcheck,
 
 Diego Walle, Disco 86, Enya Botello
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triztan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triztan/)*

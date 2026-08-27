@@ -1,6 +1,6 @@
 # RELO4D
 
-RELO4D is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Sat, 24 Oct 2026.
+RELO4D is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Sat, 24 Oct 2026.
 
 RELO4D is a techno and progressive house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Brussels and Copenhagen. Often billed alongside Pedro Mercado, Dizo and DkA. Next up: The Flying Dutchman Café, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ RELO4D is a techno and progressive house artist based in Belgium, tracked on sou
 
 Pedro Mercado, Dizo, DkA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relo4d/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/relo4d/)*

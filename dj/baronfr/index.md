@@ -1,6 +1,6 @@
 # BARON (FR)
 
-BARON (FR) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bazart, Montreal on Fri, 18 Sept 2026.
+BARON (FR) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bazart, Montreal on Fri, 18 Sept 2026.
 
 BARON (FR) is a house and deep house artist based in France, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Belgrade and Hongkong and 4 more. Often billed alongside :DARREN, Benja (NL) and Fata Morgana. Next up: Bazart, Montreal on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ BARON (FR) is a house and deep house artist based in France, tracked on soundche
 
 :DARREN, Benja (NL), Fata Morgana
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baronfr/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baronfr/)*

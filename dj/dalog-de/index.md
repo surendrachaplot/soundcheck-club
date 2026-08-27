@@ -1,6 +1,6 @@
 # DALOG
 
-DALOG is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
+DALOG is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
 
 DALOG is a house and deep house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Kaloustian, Khmgnff and Akatana. Next up: Perro Loco, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DALOG is a house and deep house artist tracked on soundcheck, with 12 sets logge
 
 Kaloustian, Khmgnff, Akatana
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalog-de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalog-de/)*

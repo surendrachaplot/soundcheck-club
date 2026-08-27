@@ -1,6 +1,6 @@
 # TS Kahuna
 
-TS Kahuna is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jolene, Copenhagen on Sat, 29 Aug 2026.
+TS Kahuna is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jolene, Copenhagen on Sat, 29 Aug 2026.
 
 TS Kahuna is a techno and minimal artist tracked on soundcheck, with 28 sets logged across Copenhagen, Mexicocity, Milan and Oslo and 1 more. Often billed alongside DJ JM, Studio Natura and Thodén. Next up: Jolene, Copenhagen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ TS Kahuna is a techno and minimal artist tracked on soundcheck, with 28 sets log
 
 DJ JM, Studio Natura, Thodén
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tskahuna/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tskahuna/)*

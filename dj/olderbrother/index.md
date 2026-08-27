@@ -1,6 +1,6 @@
 # Older Brother
 
-Older Brother is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at FOLD, London on Sat, 17 Oct 2026.
+Older Brother is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FOLD, London on Sat, 17 Oct 2026.
 
 Older Brother is a dub techno and house artist tracked on soundcheck, with 8 sets logged across Berlin, Glasgow, London and Manchester. Often billed alongside georg-i, Alliyah Enyo and Elena Colombi. Next up: FOLD, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Older Brother is a dub techno and house artist tracked on soundcheck, with 8 set
 
 georg-i, Alliyah Enyo, Elena Colombi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olderbrother/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olderbrother/)*

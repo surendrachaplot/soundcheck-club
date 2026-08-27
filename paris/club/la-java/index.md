@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "C7 1year: Known Artist, Dielli, Club Eterno & More" on Sat, 29 Aug 2026.
+La Java is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "C7 1year: Known Artist, Dielli, Club Eterno & More" on Sat, 29 Aug 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including ARPL, Baka G, Dielli and MERS and 2 more. Browse upcoming dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -20,4 +20,4 @@ La Java is a music venue in Paris listed on soundcheck. 7 upcoming nights, with 
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

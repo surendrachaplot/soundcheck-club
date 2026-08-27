@@ -1,6 +1,6 @@
 # Knock Down Ginger
 
-Knock Down Ginger is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bricks, London on Fri, 25 Sept 2026.
+Knock Down Ginger is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bricks, London on Fri, 25 Sept 2026.
 
 Knock Down Ginger is a garage and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside AHARDS and RHD (1). Next up: Bricks, London on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Knock Down Ginger is a garage and house artist based in United Kingdom, tracked 
 
 AHARDS, RHD (1)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knockdownginger/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knockdownginger/)*

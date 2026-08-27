@@ -1,6 +1,6 @@
 # j.flo
 
-j.flo is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Betel Klub, Krakow on Sat, 5 Sept 2026.
+j.flo is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Betel Klub, Krakow on Sat, 5 Sept 2026.
 
 j.flo is a bass and electronica artist based in Poland, tracked on soundcheck, with 3 sets logged across Krakow. Often billed alongside Semprey, Aetha and Chugajstra. Next up: Betel Klub, Krakow on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ j.flo is a bass and electronica artist based in Poland, tracked on soundcheck, w
 
 Semprey, Aetha, Chugajstra
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.flo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.flo/)*

@@ -1,6 +1,6 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Upsidedown, Osaka on Sat, 12 Sept 2026.
+Toru Ikemoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Upsidedown, Osaka on Sat, 12 Sept 2026.
 
 Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Berlin, Brisbane, Kyoto and Malta and 6 more. Often billed alongside DJ HI-C, TENO and Goodrug. Next up: Upsidedown, Osaka on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Toru Ikemoto is a techno and house artist based in Japan, tracked on soundcheck,
 
 DJ HI-C, TENO, Goodrug
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*

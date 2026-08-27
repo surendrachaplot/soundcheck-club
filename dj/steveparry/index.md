@@ -1,6 +1,6 @@
 # Steve Parry
 
-Steve Parry is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bikini Club, Barcelona on Sat, 26 Sept 2026.
+Steve Parry is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bikini Club, Barcelona on Sat, 26 Sept 2026.
 
 Steve Parry is a house and progressive house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 7 more. Often billed alongside Dave Seaman, Just Her and Quivver. Next up: Bikini Club, Barcelona on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Steve Parry is a house and progressive house artist tracked on soundcheck, with 
 
 Dave Seaman, Just Her, Quivver
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveparry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steveparry/)*

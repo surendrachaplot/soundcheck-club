@@ -1,6 +1,6 @@
 # 16BL
 
-16BL is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+16BL is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 16BL is a deep house and progressive house artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brighton and Budapest and 14 more. Often billed alongside Nox Vahn, Braxton and Nicky Elisabeth. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 Nox Vahn, Braxton, Nicky Elisabeth
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/16bl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/16bl/)*

@@ -1,6 +1,6 @@
 # Petra (4)
 
-Petra (4) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 15 Sept 2026.
+Petra (4) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at THE MAGICK BAR, Rome on Tue, 15 Sept 2026.
 
 Petra (4) is a house and electronica artist tracked on soundcheck, with 5 sets logged across London, Naples and Rome. Often billed alongside Matteo Canori, Mordak and Brasi. Next up: THE MAGICK BAR, Rome on Tue 15 Sept.
 
@@ -21,4 +21,4 @@ Petra (4) is a house and electronica artist tracked on soundcheck, with 5 sets l
 
 Matteo Canori, Mordak, Brasi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petra-4/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petra-4/)*

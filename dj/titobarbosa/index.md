@@ -1,6 +1,6 @@
 # Tito Barbosa
 
-Tito Barbosa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 18 Sept 2026.
+Tito Barbosa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Smoke & Mirrors, Chicago on Fri, 18 Sept 2026.
 
 Tito Barbosa is a techno and house artist tracked on soundcheck, with 12 sets logged across Chicago. Often billed alongside HOTPRETTY, Kirk (US) and ATT1C. Next up: Smoke & Mirrors, Chicago on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tito Barbosa is a techno and house artist tracked on soundcheck, with 12 sets lo
 
 HOTPRETTY, Kirk (US), ATT1C
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/titobarbosa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/titobarbosa/)*

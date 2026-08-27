@@ -1,6 +1,6 @@
 # Dance
 
-Dance is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 28 Aug 2026.
+Dance is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Acud Macht NEU, Berlin on Fri, 28 Aug 2026.
 
 Dance is a house and club artist tracked on soundcheck, with 55 sets logged across Athens, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside DJ B2B, Amine Edge & DANCE and Bass. Next up: Acud Macht NEU, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Dance is a house and club artist tracked on soundcheck, with 55 sets logged acro
 
 DJ B2B, Amine Edge & DANCE, Bass
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dance/)*

@@ -1,6 +1,6 @@
 # Hanten
 
-Hanten is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 33/45 Club, Valencia on Sat, 29 Aug 2026.
+Hanten is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 33/45 Club, Valencia on Sat, 29 Aug 2026.
 
 Hanten is a techno and electronica artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona, Buenosaires, Madrid and Valencia. Often billed alongside Hexxe, Xé (1) and Carlos Flores. Next up: 33/45 Club, Valencia on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hanten is a techno and electronica artist based in Argentina, tracked on soundch
 
 Hexxe, Xé (1), Carlos Flores
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanten/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hanten/)*

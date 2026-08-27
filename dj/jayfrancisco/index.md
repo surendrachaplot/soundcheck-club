@@ -1,6 +1,6 @@
 # Jay Francisco
 
-Jay Francisco is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, London on Sat, 5 Sept 2026.
+Jay Francisco is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, London on Sat, 5 Sept 2026.
 
 Jay Francisco is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside PERILOUS P, Chopper (Scotland) and Brad P. Next up: TBA, London on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Jay Francisco is a house and progressive house artist based in United Kingdom, t
 
 PERILOUS P, Chopper (Scotland), Brad P
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfrancisco/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfrancisco/)*

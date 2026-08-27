@@ -1,6 +1,6 @@
 # DJ MACARONI
 
-DJ MACARONI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
+DJ MACARONI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
 
 DJ MACARONI is a house and techno artist tracked on soundcheck, with 32 sets logged across Hobart, Melbourne and Sydney. Often billed alongside JOVE, 1tbsp and Bag Raiders. Next up: Preston Warehouse, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ MACARONI is a house and techno artist tracked on soundcheck, with 32 sets log
 
 JOVE, 1tbsp, Bag Raiders
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacaroni/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacaroni/)*

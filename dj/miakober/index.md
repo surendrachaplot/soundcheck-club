@@ -1,6 +1,6 @@
 # Mia Kober
 
-Mia Kober is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Mia Kober is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Mia Kober is a house and techno artist tracked on soundcheck, with 34 sets logged across Auckland, Berlin, Copenhagen and Munich. Often billed alongside DirdyGerdi, Dylan C and Sanoi. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Mia Kober is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 DirdyGerdi, Dylan C, Sanoi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miakober/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miakober/)*

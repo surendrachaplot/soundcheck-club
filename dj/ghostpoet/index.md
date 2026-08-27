@@ -1,6 +1,6 @@
 # Ghostpoet
 
-Ghostpoet is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+Ghostpoet is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Ghostpoet is a bass and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin and Vienna. Often billed alongside Maryisonacid, Opium Hum and Billy Caso. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Ghostpoet is a bass and house artist based in United Kingdom, tracked on soundch
 
 Maryisonacid, Opium Hum, Billy Caso
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostpoet/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostpoet/)*

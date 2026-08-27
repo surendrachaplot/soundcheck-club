@@ -1,6 +1,6 @@
 # Mamarazzi
 
-Mamarazzi is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Cult." on Sat, 29 Aug 2026.
+Mamarazzi is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Cult." on Sat, 29 Aug 2026.
 
 Mamarazzi is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mamarazzi is a music venue in Rotterdam listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Cult. |  |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mamarazzi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mamarazzi/)*

@@ -1,6 +1,6 @@
 # Harry Gay
 
-Harry Gay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Harry Gay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Harry Gay is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Brighton, London, Manchester and Melbourne and 2 more. Often billed alongside FAFF, Joshua James and THEMPRESS. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Harry Gay is a house and techno artist based in United Kingdom, tracked on sound
 
 FAFF, Joshua James, THEMPRESS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrygay/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrygay/)*

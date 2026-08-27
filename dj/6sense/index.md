@@ -1,6 +1,6 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 28 Aug 2026.
+6 SENSE is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Berkeley Suite, Glasgow on Fri, 28 Aug 2026.
 
 6 SENSE is a techno and house artist based in Australia, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 14 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: The Berkeley Suite, Glasgow on Fri 28 Aug.
 
@@ -32,4 +32,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

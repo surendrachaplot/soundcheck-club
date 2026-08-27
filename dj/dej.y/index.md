@@ -1,6 +1,6 @@
 # dej.y
 
-dej.y is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Spkrbox, Detroit on Sat, 29 Aug 2026.
+dej.y is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Spkrbox, Detroit on Sat, 29 Aug 2026.
 
 dej.y is a house and techno artist tracked on soundcheck, with 70 sets logged across Detroit, Montreal, Nashville and Newyorkcity. Often billed alongside Kindle, Aboudi Issa and Jesse Cory. Next up: Spkrbox, Detroit on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ dej.y is a house and techno artist tracked on soundcheck, with 70 sets logged ac
 
 Kindle, Aboudi Issa, Jesse Cory
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*

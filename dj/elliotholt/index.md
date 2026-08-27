@@ -1,6 +1,6 @@
 # Elliot Holt
 
-Elliot Holt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Holding Patterns, Leeds on Sat, 5 Sept 2026.
+Elliot Holt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Holding Patterns, Leeds on Sat, 5 Sept 2026.
 
 Elliot Holt is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Leeds. Often billed alongside Cosmikuro, Ellis Weeks and Andrew Devine. Next up: Holding Patterns, Leeds on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Elliot Holt is a house and techno artist based in United Kingdom, tracked on sou
 
 Cosmikuro, Ellis Weeks, Andrew Devine
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*

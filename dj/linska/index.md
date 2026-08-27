@@ -1,14 +1,13 @@
 # Linska
 
-Linska is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 26 Aug 2026.
+Linska is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at EQ San Diego, San Diego on Fri, 11 Sept 2026.
 
-Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Adam Beyer and Cassian. Next up: Cavo Paradiso, Mykonos on Wed 26 Aug.
+Linska is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Gorgon City, Adam Beyer and Cassian. Next up: EQ San Diego, Sandiego on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Cavo Paradiso | Mykonos |
 | Fri, 11 Sept 2026 | EQ San Diego | San Diego |
 | Fri, 18 Sept 2026 | Coda | Toronto |
 | Sat, 19 Sept 2026 | Newspeak | Montreal |
@@ -19,6 +18,7 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
+- Cavo Paradiso, Mykonos — Wed, 26 Aug 2026
 - Boat Cruise Summer Series, Boston — Fri, 7 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
 - fabric, London — Fri, 10 Jul 2026
@@ -26,10 +26,9 @@ Linska is a house and techno artist based in United Kingdom, tracked on soundche
 - Holland Park, Vancouver — Thu, 2 Jul 2026
 - RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
 - Reframe Studios Indoors, Los Angeles — Sat, 30 May 2026
-- Industry City, New York City — Sat, 23 May 2026
 
 ## Shares bills with
 
 Gorgon City, Adam Beyer, Cassian
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

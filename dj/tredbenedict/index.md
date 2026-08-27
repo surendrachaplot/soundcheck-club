@@ -1,6 +1,6 @@
 # Tred Benedict
 
-Tred Benedict is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Cross, London on Sat, 19 Sept 2026.
+Tred Benedict is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Cross, London on Sat, 19 Sept 2026.
 
 Tred Benedict is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Chris Stanford, Leroy Roberts and Broken Neon. Next up: The Cross, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tred Benedict is a tech house and minimal artist based in United Kingdom, tracke
 
 Chris Stanford, Leroy Roberts, Broken Neon
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tredbenedict/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tredbenedict/)*

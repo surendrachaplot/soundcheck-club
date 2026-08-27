@@ -1,6 +1,6 @@
 # Cröak
 
-Cröak is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tuin van Heden, Ghent on Sat, 29 Aug 2026.
+Cröak is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tuin van Heden, Ghent on Sat, 29 Aug 2026.
 
 Cröak is a deep house and disco artist tracked on soundcheck, with 4 sets logged across Brussels and Ghent. Often billed alongside Ajuma, Bass Toast and Bulie Jordeaux. Next up: Tuin van Heden, Ghent on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Cröak is a deep house and disco artist tracked on soundcheck, with 4 sets logge
 
 Ajuma, Bass Toast, Bulie Jordeaux
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/croak/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/croak/)*

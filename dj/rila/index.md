@@ -1,6 +1,6 @@
 # Rila
 
-Rila is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Green Room NYC, New York City on Thu, 27 Aug 2026.
+Rila is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Green Room NYC, New York City on Thu, 27 Aug 2026.
 
 Rila is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Conduit, Iggy Nuclear and Kettle. Next up: Green Room NYC, Newyorkcity on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Rila is a techno and house artist based in United States of America, tracked on 
 
 Conduit, Iggy Nuclear, Kettle
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rila/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rila/)*

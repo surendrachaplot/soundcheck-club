@@ -1,6 +1,6 @@
 # Tšungel
 
-Tšungel is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Arto" on Thu, 27 Aug 2026.
+Tšungel is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Arto" on Thu, 27 Aug 2026.
 
 Tšungel is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with line-ups including Arto, Charch, Lill and Rummo and 1 more. Browse upcoming dates, start times and who's playing. Kopli 1, Tallinn, 10412, Harjumaa, Estonia.
 
@@ -17,4 +17,4 @@ Tšungel is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, wi
 
 Kopli 1, Tallinn, 10412, Harjumaa, Estonia, Tallinn
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/t-ungel/)*

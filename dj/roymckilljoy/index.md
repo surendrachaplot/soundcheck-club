@@ -1,6 +1,6 @@
 # Roy McKilljoy
 
-Roy McKilljoy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
+Roy McKilljoy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
 
 Roy McKilljoy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Malwen, KOSIE and Martita. Next up: Next Door Records Two, London on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Roy McKilljoy is a house and techno artist based in United Kingdom, tracked on s
 
 Malwen, KOSIE, Martita
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roymckilljoy/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roymckilljoy/)*

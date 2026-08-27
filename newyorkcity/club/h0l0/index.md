@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Nuvé: Summer Never Ends" on Thu, 27 Aug 2026.
+H0L0 is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Nuvé: Summer Never Ends" on Thu, 27 Aug 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Amelia Holt, Anane, Armii1n and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

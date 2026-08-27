@@ -1,6 +1,6 @@
 # Kurly
 
-Kurly is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Sydney on Sat, 29 Aug 2026.
+Kurly is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Sydney on Sat, 29 Aug 2026.
 
 Kurly is a techno and psytrance artist based in Australia, tracked on soundcheck, with 22 sets logged across Sydney. Often billed alongside Bryan Ro, JACK ROOTS and Michael Scheppert. Next up: TBA, Sydney on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Kurly is a techno and psytrance artist based in Australia, tracked on soundcheck
 
 Bryan Ro, JACK ROOTS, Michael Scheppert
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurly/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurly/)*

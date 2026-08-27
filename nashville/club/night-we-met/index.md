@@ -1,6 +1,6 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 25 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "U, Me & Ukg" on Thu, 27 Aug 2026.
+Night We Met is a music venue in Nashville with 25 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "U, Me & Ukg" on Thu, 27 Aug 2026.
 
 Night We Met is a music venue in Nashville listed on soundcheck. 25 upcoming nights, with line-ups including bradeazy, camoufly, CRi and Cruel Mistress and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 25 upcoming nig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

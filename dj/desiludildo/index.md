@@ -1,6 +1,6 @@
 # Desiludildo
 
-Desiludildo is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vauxhall Arches, London on Fri, 16 Oct 2026.
+Desiludildo is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vauxhall Arches, London on Fri, 16 Oct 2026.
 
 Desiludildo is an electronic artist based in Portugal, tracked on soundcheck, with 13 sets logged across Glasgow and London. Often billed alongside AC (dot robot), Becky Stroke and Compulsive Leia. Next up: Vauxhall Arches, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Desiludildo is an electronic artist based in Portugal, tracked on soundcheck, wi
 
 AC (dot robot), Becky Stroke, Compulsive Leia
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiludildo/)*

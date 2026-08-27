@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Rex Club, Paris on Sat, 29 Aug 2026.
+Jen Cardini is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Rex Club, Paris on Sat, 29 Aug 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Rex Club, Paris on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 247 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

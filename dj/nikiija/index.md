@@ -1,6 +1,6 @@
 # Nikiija
 
-Nikiija is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Nikiija is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 Nikiija is a techno and house artist tracked on soundcheck, with 49 sets logged across Hamburg and Prague. Often billed alongside NO.MADS, Randali and VABU. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Nikiija is a techno and house artist tracked on soundcheck, with 49 sets logged 
 
 NO.MADS, Randali, VABU
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiija/)*

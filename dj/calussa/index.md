@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Floyd, Miami on Sat, 12 Sept 2026.
+Calussa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Floyd, Miami on Sat, 12 Sept 2026.
 
 Calussa is a house and afro house artist tracked on soundcheck, with 58 sets logged across Austin, Buenosaires, Chicago and Ibiza and 13 more. Often billed alongside BLOND:ISH, Bora Uzer and Max Styler. Next up: Floyd, Miami on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Calussa is a house and afro house artist tracked on soundcheck, with 58 sets log
 
 BLOND:ISH, Bora Uzer, Max Styler
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

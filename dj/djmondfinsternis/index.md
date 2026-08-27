@@ -1,6 +1,6 @@
 # DJ Mondfinsternis
 
-DJ Mondfinsternis is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tresor / Globus, Berlin on Wed, 2 Sept 2026.
+DJ Mondfinsternis is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tresor / Globus, Berlin on Wed, 2 Sept 2026.
 
 DJ Mondfinsternis is an electronic artist tracked on soundcheck, with 15 sets logged across Berlin and Leipzig. Often billed alongside Squaric, ALP (DE) and DMZ (DE). Next up: Tresor / Globus, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ DJ Mondfinsternis is an electronic artist tracked on soundcheck, with 15 sets lo
 
 Squaric, ALP (DE), DMZ (DE)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmondfinsternis/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmondfinsternis/)*

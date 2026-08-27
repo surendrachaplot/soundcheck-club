@@ -1,6 +1,6 @@
 # CAPTAIN HOOK Jr.
 
-CAPTAIN HOOK Jr. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Super Studio Kitakagaya, Osaka on Sat, 19 Sept 2026.
+CAPTAIN HOOK Jr. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Super Studio Kitakagaya, Osaka on Sat, 19 Sept 2026.
 
 CAPTAIN HOOK Jr. is a house and techno artist based in Japan, tracked on soundcheck, with 3 sets logged across Osaka. Often billed alongside Chiaki Uehira, WÖNDER GIRL and Ko Yang (JP). Next up: Super Studio Kitakagaya, Osaka on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ CAPTAIN HOOK Jr. is a house and techno artist based in Japan, tracked on soundch
 
 Chiaki Uehira, WÖNDER GIRL, Ko Yang (JP)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhookjr./)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainhookjr./)*

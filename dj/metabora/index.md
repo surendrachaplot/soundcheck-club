@@ -1,6 +1,6 @@
 # Metabora
 
-Metabora is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ormside Projects, London on Sat, 5 Sept 2026.
+Metabora is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ormside Projects, London on Sat, 5 Sept 2026.
 
 Metabora is an electronica and techno artist based in Estonia, tracked on soundcheck, with 10 sets logged across London and Tallinn. Often billed alongside White Gloss, Fake Versace and Tanel Mütt. Next up: Ormside Projects, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Metabora is an electronica and techno artist based in Estonia, tracked on soundc
 
 White Gloss, Fake Versace, Tanel Mütt
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metabora/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metabora/)*

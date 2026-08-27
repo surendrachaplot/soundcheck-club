@@ -1,6 +1,6 @@
 # wilf B
 
-wilf B is a IDM and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The System, Sheffield on Fri, 11 Sept 2026.
+wilf B is a IDM and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The System, Sheffield on Fri, 11 Sept 2026.
 
 wilf B is an idm and balearic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester and Sheffield. Often billed alongside BUTCHABOI, Babs (3) and Ben Marks. Next up: The System, Sheffield on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ wilf B is an idm and balearic artist based in United Kingdom, tracked on soundch
 
 BUTCHABOI, Babs (3), Ben Marks
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfb/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfb/)*

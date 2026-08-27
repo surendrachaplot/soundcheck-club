@@ -1,6 +1,6 @@
 # Cellar (2)
 
-Cellar (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
+Cellar (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
 
 Cellar (2) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Nottingham. Often billed alongside alfs, Slencho and Acolyte. Next up: Planet Wax, London on Thu 17 Sept.
 
@@ -22,4 +22,4 @@ Cellar (2) is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 alfs, Slencho, Acolyte
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellar-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cellar-2/)*

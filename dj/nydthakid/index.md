@@ -1,6 +1,6 @@
 # nydthakid
 
-nydthakid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
+nydthakid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
 
 nydthakid is a house and techno artist based in Singapore, tracked on soundcheck, with 11 sets logged across Singapore. Often billed alongside Metamoksha, Loyboy and howrøng. Next up: Padimai Art & Tech Studio, Singapore on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ nydthakid is a house and techno artist based in Singapore, tracked on soundcheck
 
 Metamoksha, Loyboy, howrøng
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nydthakid/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nydthakid/)*

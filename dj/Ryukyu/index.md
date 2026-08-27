@@ -1,6 +1,6 @@
 # Ryukyu
 
-Ryukyu is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
+Ryukyu is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 11 Sept 2026.
 
 Ryukyu is a techno and industrial artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Frankfurt. Often billed alongside Jaden Brown, TATAKI and RITM. Next up: Lokschuppen Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ryukyu is a techno and industrial artist based in Germany, tracked on soundcheck
 
 Jaden Brown, TATAKI, RITM
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Ryukyu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Ryukyu/)*

@@ -1,6 +1,6 @@
 # Novak
 
-Novak is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 2 Sept 2026.
+Novak is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 2 Sept 2026.
 
 Novak is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Belgrade and Ibiza and 2 more. Often billed alongside LevyM, Marasi and ARYMÉ. Next up: Cavo Paradiso, Mykonos on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Novak is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 LevyM, Marasi, ARYMÉ
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novak/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novak/)*

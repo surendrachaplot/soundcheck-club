@@ -1,6 +1,6 @@
 # Madalin
 
-Madalin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
+Madalin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
 
 Madalin is a house and techno artist tracked on soundcheck, with 6 sets logged across Washingtondc. Often billed alongside kabir., Kabir and Dave from Stoke. Next up: TRANSMISSION DC, Washingtondc on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Madalin is a house and techno artist tracked on soundcheck, with 6 sets logged a
 
 kabir., Kabir, Dave from Stoke
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madalin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madalin/)*

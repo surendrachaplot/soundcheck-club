@@ -1,6 +1,6 @@
 # Stekke
 
-Stekke is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Home Club, Sao Paulo on Sat, 5 Sept 2026.
+Stekke is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Home Club, Sao Paulo on Sat, 5 Sept 2026.
 
 Stekke is a minimal and techno artist tracked on soundcheck, with 4 sets logged across Berlin, Osaka, Saopaulo and Tokyo. Often billed alongside AOKI takamasa, Kohei and Flabbergast. Next up: Home Club, Saopaulo on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Stekke is a minimal and techno artist tracked on soundcheck, with 4 sets logged 
 
 AOKI takamasa, Kohei, Flabbergast
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stekke/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stekke/)*

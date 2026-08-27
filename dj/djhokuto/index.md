@@ -1,6 +1,6 @@
 # DJ HOKUTO
 
-DJ HOKUTO is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Z Maruyama, Tokyo on Fri, 28 Aug 2026.
+DJ HOKUTO is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Z Maruyama, Tokyo on Fri, 28 Aug 2026.
 
 DJ HOKUTO is a hip-hop and afrobeats artist tracked on soundcheck, with 54 sets logged across Amsterdam, Tokyo and Zurich. Often billed alongside FUJI TRILL, DJ KOUJIRO and NikkaNinja. Next up: Z Maruyama, Tokyo on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ HOKUTO is a hip-hop and afrobeats artist tracked on soundcheck, with 54 sets 
 
 FUJI TRILL, DJ KOUJIRO, NikkaNinja
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhokuto/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhokuto/)*

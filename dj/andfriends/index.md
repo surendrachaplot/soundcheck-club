@@ -1,6 +1,6 @@
 # &friends
 
-&friends is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 23 Oct 2026.
+&friends is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 23 Oct 2026.
 
 &friends is a house and techno artist tracked on soundcheck, with 3 sets logged across Barcelona, London and Losangeles. Often billed alongside Channel Tres, Goom Gum and HARI. Next up: Shrine Auditorium and Expo Hall, Losangeles on Fri 23 Oct.
 
@@ -19,4 +19,4 @@
 
 Channel Tres, Goom Gum, HARI
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

@@ -1,6 +1,6 @@
 # Ribeka
 
-Ribeka is a Jungle and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
+Ribeka is a Jungle and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
 
 Ribeka is a jungle and ebm artist tracked on soundcheck, with 29 sets logged across Glasgow and London. Often billed alongside Sofay, Alliyah Enyo and HUNTRESS. Next up: EXIT Glasgow, Glasgow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ribeka is a jungle and ebm artist tracked on soundcheck, with 29 sets logged acr
 
 Sofay, Alliyah Enyo, HUNTRESS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ribeka/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ribeka/)*

@@ -1,6 +1,6 @@
 # MIRASIA
 
-MIRASIA is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
+MIRASIA is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
 
 MIRASIA is a club and house artist tracked on soundcheck, with 47 sets logged across Auckland, Berlin, Brisbane and Geneva and 3 more. Often billed alongside C.FRIM, Brown Suga Princess and HALF QUEEN. Next up: Miscellania, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ MIRASIA is a club and house artist tracked on soundcheck, with 47 sets logged ac
 
 C.FRIM, Brown Suga Princess, HALF QUEEN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirasia/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirasia/)*

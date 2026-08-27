@@ -1,6 +1,6 @@
 # Scardua
 
-Scardua is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Endlss Disco Hotel, Ibiza on Thu, 27 Aug 2026.
+Scardua is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Endlss Disco Hotel, Ibiza on Thu, 27 Aug 2026.
 
 Scardua is a tech house and house artist tracked on soundcheck, with 8 sets logged across Ibiza and Saopaulo. Often billed alongside Nelson Reis, Be Lion and DJ PIERR. Next up: Endlss Disco Hotel, Ibiza on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ Scardua is a tech house and house artist tracked on soundcheck, with 8 sets logg
 
 Nelson Reis, Be Lion, DJ PIERR
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scardua/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scardua/)*

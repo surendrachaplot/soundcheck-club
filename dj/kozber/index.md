@@ -1,6 +1,6 @@
 # Kozber
 
-Kozber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Piękny Pies, Krakow on Fri, 28 Aug 2026.
+Kozber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Piękny Pies, Krakow on Fri, 28 Aug 2026.
 
 Kozber is a techno and house artist tracked on soundcheck, with 17 sets logged across Istanbul, Krakow, London and Prague. Often billed alongside Rico Casazza, Thomas Tesla and Ms Jules. Next up: Piękny Pies, Krakow on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kozber is a techno and house artist tracked on soundcheck, with 17 sets logged a
 
 Rico Casazza, Thomas Tesla, Ms Jules
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kozber/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kozber/)*

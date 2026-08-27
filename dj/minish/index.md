@@ -1,6 +1,6 @@
 # Minish
 
-Minish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Faust, Seoul on Fri, 28 Aug 2026.
+Minish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Faust, Seoul on Fri, 28 Aug 2026.
 
 Minish is a house and techno artist based in South Korea, tracked on soundcheck, with 47 sets logged across Berlin, Osaka and Seoul. Often billed alongside Nocturnal (KR), Ginger (KR) and Zion. Next up: Faust, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Minish is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Nocturnal (KR), Ginger (KR), Zion
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minish/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minish/)*

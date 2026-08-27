@@ -1,6 +1,6 @@
 # dj33L
 
-dj33L is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
+dj33L is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mood Ring, New York City on Thu, 27 Aug 2026.
 
 dj33L is a techno and trance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside R-DNA, stress tess and Burtay. Next up: Mood Ring, Newyorkcity on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ dj33L is a techno and trance artist based in United States of America, tracked o
 
 R-DNA, stress tess, Burtay
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj33l/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj33l/)*

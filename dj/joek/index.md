@@ -1,6 +1,6 @@
 # JöëK
 
-JöëK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 28 Aug 2026.
+JöëK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 28 Aug 2026.
 
 JöëK is a techno and trance artist tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside Yan (CZ), frujty and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ JöëK is a techno and trance artist tracked on soundcheck, with 8 sets logged a
 
 Yan (CZ), frujty, Alfred Czital
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joek/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joek/)*

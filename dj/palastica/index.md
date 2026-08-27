@@ -1,6 +1,6 @@
 # Palastica
 
-Palastica is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 19 Sept 2026.
+Palastica is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bahnwärter Thiel, Munich on Sat, 19 Sept 2026.
 
 Palastica is an electronic artist tracked on soundcheck, with 11 sets logged across Munich. Often billed alongside LOOMINAS, Terzenbreaker and antyo. Next up: Bahnwärter Thiel, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Palastica is an electronic artist tracked on soundcheck, with 11 sets logged acr
 
 LOOMINAS, Terzenbreaker, antyo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palastica/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palastica/)*

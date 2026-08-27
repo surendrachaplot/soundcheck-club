@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "feierabend. with Philipp Alt" on Thu, 27 Aug 2026.
+Pracht is a music venue in Frankfurt with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "feierabend. with Philipp Alt" on Thu, 27 Aug 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights, with line-ups including Biagio Sibilla, Boutiq.808, RDL.wav and Reboot. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -16,4 +16,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 3 upcoming nights, wi
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

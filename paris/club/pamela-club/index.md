@@ -1,6 +1,6 @@
 # Pamela Club
 
-Pamela Club is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Youthdreams @1" on Thu, 27 Aug 2026.
+Pamela Club is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Youthdreams @1" on Thu, 27 Aug 2026.
 
 Pamela Club is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Amarji King, Broodoo Ramses, Brown Liquah and C.LYYA and 2 more. Browse upcoming dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
 
@@ -17,4 +17,4 @@ Pamela Club is a music venue in Paris listed on soundcheck. 4 upcoming nights, w
 
 62 Rue Mazarine, 75006 Paris, France, Paris
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*

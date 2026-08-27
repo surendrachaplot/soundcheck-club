@@ -1,6 +1,6 @@
 # Lidas
 
-Lidas is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
+Lidas is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
 
 Lidas is a minimal and house artist tracked on soundcheck, with 46 sets logged across Austin, Denver and Detroit. Often billed alongside Irvn, Kev Obrien and Den Of Snakes. Next up: TBA - Nineteen25, Denver on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Lidas is a minimal and house artist tracked on soundcheck, with 46 sets logged a
 
 Irvn, Kev Obrien, Den Of Snakes
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lidas/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lidas/)*

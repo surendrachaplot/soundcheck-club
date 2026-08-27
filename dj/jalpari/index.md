@@ -1,6 +1,6 @@
 # Jalpari
 
-Jalpari is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+Jalpari is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 Jalpari is a techno and experimental artist tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside LTE (1), Petal and Anthorp. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jalpari is a techno and experimental artist tracked on soundcheck, with 22 sets 
 
 LTE (1), Petal, Anthorp
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalpari/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jalpari/)*

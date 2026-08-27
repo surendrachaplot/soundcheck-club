@@ -1,6 +1,6 @@
 # Mutex
 
-Mutex is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+Mutex is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
 
 Mutex is an electro and idm artist based in Malta, tracked on soundcheck, with 5 sets logged across Antwerp, Ghent and Malta. Often billed alongside Acidulant, Bjan Jensen and Brian James. Next up: Liquid Club, Malta on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Mutex is an electro and idm artist based in Malta, tracked on soundcheck, with 5
 
 Acidulant, Bjan Jensen, Brian James
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutex/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mutex/)*

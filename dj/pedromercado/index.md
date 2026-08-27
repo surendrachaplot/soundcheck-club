@@ -1,6 +1,6 @@
 # Pedro Mercado
 
-Pedro Mercado is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+Pedro Mercado is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
 
 Pedro Mercado is a progressive house and deep house artist based in Belgium, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Berlin and Brussels. Often billed alongside RELO4D, Alex Sharp and Daniel Pinho. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Pedro Mercado is a progressive house and deep house artist based in Belgium, tra
 
 RELO4D, Alex Sharp, Daniel Pinho
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedromercado/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedromercado/)*

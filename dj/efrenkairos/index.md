@@ -1,6 +1,6 @@
 # Efren Kairos
 
-Efren Kairos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at City Hall, Barcelona on Thu, 3 Sept 2026.
+Efren Kairos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at City Hall, Barcelona on Thu, 3 Sept 2026.
 
 Efren Kairos is a house and techno artist tracked on soundcheck, with 8 sets logged across Barcelona and Mexicocity. Often billed alongside Djomby, Athena (2) and Cristian Gardeta. Next up: City Hall, Barcelona on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Efren Kairos is a house and techno artist tracked on soundcheck, with 8 sets log
 
 Djomby, Athena (2), Cristian Gardeta
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efrenkairos/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/efrenkairos/)*

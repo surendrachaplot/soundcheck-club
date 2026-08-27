@@ -1,6 +1,6 @@
 # Rich Medina
 
-Rich Medina is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Rich Medina is a House and Funk / Soul artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Rich Medina is a house and funk / soul artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Chicago and Denver and 19 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Rich Medina is a house and funk / soul artist tracked on soundcheck, with 194 se
 
 Djinji Brown, Dvize, Sunny Cheeba
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*

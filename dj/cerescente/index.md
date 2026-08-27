@@ -1,6 +1,6 @@
 # Cerescente
 
-Cerescente is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at berlinClub, Madrid on Thu, 27 Aug 2026.
+Cerescente is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at berlinClub, Madrid on Thu, 27 Aug 2026.
 
 Cerescente is an electronica and electro artist tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside LVL1, Presunta (2) and Bellaswag. Next up: berlinClub, Madrid on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Cerescente is an electronica and electro artist tracked on soundcheck, with 5 se
 
 LVL1, Presunta (2), Bellaswag
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerescente/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerescente/)*

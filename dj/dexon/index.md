@@ -1,14 +1,13 @@
 # Dexon
 
-Dexon is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Melkweg, Amsterdam on Wed, 26 Aug 2026.
+Dexon is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Melkweg, Amsterdam on Tue, 1 Sept 2026.
 
-Dexon is a techno and trance artist tracked on soundcheck, with 188 sets logged across Amsterdam. Often billed alongside Dauphin Åka, Inez Akker and Stefano Richetta. Next up: Melkweg, Amsterdam on Wed 26 Aug.
+Dexon is a techno and trance artist tracked on soundcheck, with 188 sets logged across Amsterdam. Often billed alongside Dauphin Åka, Inez Akker and Stefano Richetta. Next up: Melkweg, Amsterdam on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Melkweg | Amsterdam |
 | Tue, 1 Sept 2026 | Melkweg | Amsterdam |
 | Tue, 8 Sept 2026 | Melkweg | Amsterdam |
 | Tue, 15 Sept 2026 | Melkweg | Amsterdam |
@@ -17,6 +16,7 @@ Dexon is a techno and trance artist tracked on soundcheck, with 188 sets logged 
 
 ## Recently played
 
+- Melkweg, Amsterdam — Wed, 26 Aug 2026
 - Melkweg, Amsterdam — Tue, 18 Aug 2026
 - Melkweg, Amsterdam — Tue, 11 Aug 2026
 - Melkweg, Amsterdam — Tue, 4 Aug 2026
@@ -24,10 +24,9 @@ Dexon is a techno and trance artist tracked on soundcheck, with 188 sets logged 
 - Melkweg, Amsterdam — Tue, 21 Jul 2026
 - Melkweg, Amsterdam — Tue, 14 Jul 2026
 - Melkweg, Amsterdam — Tue, 7 Jul 2026
-- Melkweg, Amsterdam — Tue, 30 Jun 2026
 
 ## Shares bills with
 
 Dauphin Åka, Inez Akker, Stefano Richetta
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*

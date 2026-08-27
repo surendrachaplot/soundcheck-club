@@ -1,6 +1,6 @@
 # Le Chinois
 
-Le Chinois is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "33,7C: Industrial techno with DANCE DIVINE" on Sat, 29 Aug 2026.
+Le Chinois is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "33,7C: Industrial techno with DANCE DIVINE" on Sat, 29 Aug 2026.
 
 Le Chinois is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including DANCE DIVINE and Venetia. Browse upcoming dates, start times and who's playing. 6 place du Marché, Montreuil.
 
@@ -17,4 +17,4 @@ Le Chinois is a music venue in Paris listed on soundcheck. 4 upcoming nights, wi
 
 6 place du Marché, Montreuil, Paris
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*

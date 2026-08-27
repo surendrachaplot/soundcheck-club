@@ -1,6 +1,6 @@
 # Jesse Sugar Moore
 
-Jesse Sugar Moore is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Jesse Sugar Moore is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Jesse Sugar Moore is a techno and bass artist tracked on soundcheck, with 10 sets logged across Portland. Often billed alongside Andy Warren, Aaron Davis and Ben Bondy. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jesse Sugar Moore is a techno and bass artist tracked on soundcheck, with 10 set
 
 Andy Warren, Aaron Davis, Ben Bondy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesugarmoore/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessesugarmoore/)*

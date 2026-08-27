@@ -1,6 +1,6 @@
 # Aphex Twink
 
-Aphex Twink is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nashaz, Brussels on Fri, 18 Sept 2026.
+Aphex Twink is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Nashaz, Brussels on Fri, 18 Sept 2026.
 
 Aphex Twink is a techno and club artist tracked on soundcheck, with 11 sets logged across Brussels, London and Miami. Often billed alongside Lady Narcisse, B0YG1RL and FORESEER. Next up: Nashaz, Brussels on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Aphex Twink is a techno and club artist tracked on soundcheck, with 11 sets logg
 
 Lady Narcisse, B0YG1RL, FORESEER
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aphextwink/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aphextwink/)*

@@ -1,6 +1,6 @@
 # Kataploks
 
-Kataploks is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Luka, Seoul on Sun, 30 Aug 2026.
+Kataploks is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Luka, Seoul on Sun, 30 Aug 2026.
 
 Kataploks is a trance and techno artist based in South Korea, tracked on soundcheck, with 24 sets logged across Seoul. Often billed alongside Casepeat, Rubato and M42 (1). Next up: Luka, Seoul on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Kataploks is a trance and techno artist based in South Korea, tracked on soundch
 
 Casepeat, Rubato, M42 (1)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kataploks/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kataploks/)*

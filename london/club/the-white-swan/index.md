@@ -1,6 +1,6 @@
 # The White Swan
 
-The White Swan is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Uncensored" on Fri, 28 Aug 2026.
+The White Swan is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Uncensored" on Fri, 28 Aug 2026.
 
 The White Swan is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 556 Commercial Road, Limehouse, E14 7JD.
 
@@ -15,4 +15,4 @@ The White Swan is a music venue in London listed on soundcheck. 2 upcoming night
 
 556 Commercial Road, Limehouse, E14 7JD, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-white-swan/)*

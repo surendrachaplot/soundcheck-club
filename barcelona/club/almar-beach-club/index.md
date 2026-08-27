@@ -1,6 +1,6 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FREE BEACH PARTY by Kazanova Club w/ Javier Ferreira, Jo Kazan" on Fri, 28 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FREE BEACH PARTY by Kazanova Club w/ Javier Ferreira, Jo Kazan" on Fri, 28 Aug 2026.
 
 Almar Beach Club is a music venue in Barcelona listed on soundcheck. 8 upcoming nights, with line-ups including Alessio Panasiti, Alphanova, Anikha and Bill Hates and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
@@ -21,4 +21,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 8 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

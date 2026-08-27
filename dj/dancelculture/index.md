@@ -1,6 +1,6 @@
 # Dancel Culture
 
-Dancel Culture is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+Dancel Culture is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 Dancel Culture is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Sebastian Gabriel, manque and Anna Almani. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Dancel Culture is a house and techno artist tracked on soundcheck, with 5 sets l
 
 Sebastian Gabriel, manque, Anna Almani
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancelculture/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancelculture/)*

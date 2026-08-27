@@ -1,6 +1,6 @@
 # YAMARCHY
 
-YAMARCHY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
+YAMARCHY is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
 
 YAMARCHY is a house and techno artist tracked on soundcheck, with 328 sets logged across Bali, Bangkok, Berlin and Hongkong and 9 more. Often billed alongside Monkey Timers, CHIDA and Kenji Takimi. Next up: WOMB, Tokyo on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ YAMARCHY is a house and techno artist tracked on soundcheck, with 328 sets logge
 
 Monkey Timers, CHIDA, Kenji Takimi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yamarchy/)*

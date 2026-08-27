@@ -1,6 +1,6 @@
 # Connor Tomoana
 
-Connor Tomoana is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 5 Sept 2026.
+Connor Tomoana is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 5 Sept 2026.
 
 Connor Tomoana is a house and deep house artist based in New Zealand, tracked on soundcheck, with 14 sets logged across Auckland and Melbourne. Often billed alongside Macmillan, Danny Snowden and Eddie Guy. Next up: Kemuri Hi-Fi, Auckland on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Connor Tomoana is a house and deep house artist based in New Zealand, tracked on
 
 Macmillan, Danny Snowden, Eddie Guy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connortomoana/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/connortomoana/)*

@@ -1,6 +1,6 @@
 # WWW
 
-WWW is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Tasho Ishi performing the 'T2'" on Thu, 17 Sept 2026.
+WWW is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Tasho Ishi performing the 'T2'" on Thu, 17 Sept 2026.
 
 WWW is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including Dinamarca, Takao and Tasho Ishi. Browse upcoming dates, start times and who's playing. 13-7 Udagawacho, Shibuya-ku, Tokyo, Japan, 150-0042.
 
@@ -16,4 +16,4 @@ WWW is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line
 
 13-7 Udagawacho, Shibuya-ku, Tokyo, Japan, 150-0042, Tokyo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/www/)*

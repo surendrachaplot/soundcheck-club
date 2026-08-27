@@ -1,6 +1,6 @@
 # Wuki
 
-Wuki is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Bellwether, Los Angeles on Fri, 6 Nov 2026.
+Wuki is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Bellwether, Los Angeles on Fri, 6 Nov 2026.
 
 Wuki is a house and bass artist tracked on soundcheck, with 29 sets logged across Austin, Boston, Budapest and Chicago and 11 more. Often billed alongside Azzecca, Dillon Francis and Kyle Watson. Next up: The Bellwether, Losangeles on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Wuki is a house and bass artist tracked on soundcheck, with 29 sets logged acros
 
 Azzecca, Dillon Francis, Kyle Watson
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*

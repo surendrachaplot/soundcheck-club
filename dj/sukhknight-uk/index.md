@@ -1,6 +1,6 @@
 # Sukh Knight
 
-Sukh Knight is a Grime and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Sukh Knight is a Grime and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 Sukh Knight is a grime and hip-hop artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Jakes, Chimpo and Chunky. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sukh Knight is a grime and hip-hop artist based in United Kingdom, tracked on so
 
 Jakes, Chimpo, Chunky
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukhknight-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukhknight-uk/)*

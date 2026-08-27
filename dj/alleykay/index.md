@@ -1,6 +1,6 @@
 # Alley Kay
 
-Alley Kay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Vertigo, Toronto on Fri, 28 Aug 2026.
+Alley Kay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Vertigo, Toronto on Fri, 28 Aug 2026.
 
 Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, with 67 sets logged across Detroit, Montreal, Sanfrancisco and Toronto and 1 more. Often billed alongside Darkova, Addy and Greg Gow. Next up: Vertigo, Toronto on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Alley Kay is a techno and house artist based in Canada, tracked on soundcheck, w
 
 Darkova, Addy, Greg Gow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alleykay/)*

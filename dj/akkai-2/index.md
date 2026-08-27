@@ -1,6 +1,6 @@
 # Akkai (2)
 
-Akkai (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
+Akkai (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
 
 Akkai (2) is a house and club artist tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside comma,, GG STEPS and NiUNiU. Next up: Soleil, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Akkai (2) is a house and club artist tracked on soundcheck, with 20 sets logged 
 
 comma,, GG STEPS, NiUNiU
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akkai-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akkai-2/)*

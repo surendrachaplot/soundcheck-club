@@ -1,6 +1,6 @@
 # Bláthnaid
 
-Bláthnaid is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Curveball, Dublin on Sat, 19 Sept 2026.
+Bláthnaid is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Curveball, Dublin on Sat, 19 Sept 2026.
 
 Bláthnaid is a house and garage artist based in Ireland, tracked on soundcheck, with 3 sets logged across Dublin. Often billed alongside Jenn Hession, Kaycee and ShaunaDee. Next up: Curveball, Dublin on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Bláthnaid is a house and garage artist based in Ireland, tracked on soundcheck,
 
 Jenn Hession, Kaycee, ShaunaDee
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blathnaid/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blathnaid/)*

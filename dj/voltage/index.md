@@ -1,6 +1,6 @@
 # Voltage
 
-Voltage is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Otherside London, London on Sat, 29 Aug 2026.
+Voltage is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Otherside London, London on Sat, 29 Aug 2026.
 
 Voltage is a drum & bass and jungle artist tracked on soundcheck, with 63 sets logged across Amsterdam, Auckland, Bali and Birmingham and 14 more. Often billed alongside Inja, Turno and Bladerunner. Next up: Otherside London, London on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Voltage is a drum & bass and jungle artist tracked on soundcheck, with 63 sets l
 
 Inja, Turno, Bladerunner
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voltage/)*

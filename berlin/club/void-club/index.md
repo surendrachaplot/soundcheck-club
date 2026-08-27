@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, Saint Popsy" on Fri, 28 Aug 2026.
+Void Club is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, Saint Popsy" on Fri, 28 Aug 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Alex Xandra, Andriiic, Antiquis Anima and Anton Quasi and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,6 +1,6 @@
 # BLACK(JP)
 
-BLACK(JP) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at OST, Berlin on Fri, 16 Oct 2026.
+BLACK(JP) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OST, Berlin on Fri, 16 Oct 2026.
 
 BLACK(JP) is a techno and industrial artist based in Japan, tracked on soundcheck, with 9 sets logged across Berlin, Osaka, Seoul and Tokyo. Often billed alongside SWAGGER, NIKI (JP) and MARU (3). Next up: OST, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BLACK(JP) is a techno and industrial artist based in Japan, tracked on soundchec
 
 SWAGGER, NIKI (JP), MARU (3)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackjp/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackjp/)*

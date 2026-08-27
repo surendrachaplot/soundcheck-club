@@ -1,6 +1,6 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FOUNDATION X" on Thu, 27 Aug 2026.
+The Chemist is a music venue in Boston with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FOUNDATION X" on Thu, 27 Aug 2026.
 
 The Chemist is a music venue in Boston listed on soundcheck. 8 upcoming nights, with line-ups including Anthony Pappa, Brian Gravel, Camila (2) and Chris Clement and 2 more. Browse upcoming dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
@@ -21,4 +21,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 8 upcoming nights, 
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

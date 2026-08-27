@@ -1,6 +1,6 @@
 # Cineclube Cortina
 
-Cineclube Cortina is a music venue in Sao Paulo with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "CORTINA LIVE: L_cio + Ignacio" on Fri, 28 Aug 2026.
+Cineclube Cortina is a music venue in Sao Paulo with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "CORTINA LIVE: L_cio + Ignacio" on Fri, 28 Aug 2026.
 
 Cineclube Cortina is a music venue in Saopaulo listed on soundcheck. 6 upcoming nights, with line-ups including Gop Tun DJs, Gui Boratto, Ignacio_live and Jup do Bairro and 2 more. Browse upcoming dates, start times and who's playing. R. Araújo, 62 - República, São Paulo - SP, 01220-020, Brazil.
 
@@ -19,4 +19,4 @@ Cineclube Cortina is a music venue in Saopaulo listed on soundcheck. 6 upcoming 
 
 R. Araújo, 62 - República, São Paulo - SP, 01220-020, Brazil, Sao Paulo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/cineclube-cortina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/cineclube-cortina/)*

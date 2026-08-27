@@ -1,6 +1,6 @@
 # Technadze
 
-Technadze is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Technadze is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Technadze is a techno and ghetto tech artist based in Georgia, tracked on soundcheck, with 23 sets logged across Berlin, Krakow and Prague. Often billed alongside MLK:M, Kavkaz Widow and Diva. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Technadze is a techno and ghetto tech artist based in Georgia, tracked on soundc
 
 MLK:M, Kavkaz Widow, Diva
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*

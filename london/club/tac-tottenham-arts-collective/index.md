@@ -1,6 +1,6 @@
 # TAC (Tottenham Arts Collective)
 
-TAC (Tottenham Arts Collective) is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Insomnia London: Halloween Special" on Sat, 31 Oct 2026.
+TAC (Tottenham Arts Collective) is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Insomnia London: Halloween Special" on Sat, 31 Oct 2026.
 
 TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Benton (UK), Fonzo (UK), Killa P and Mani Festo and 2 more. Browse upcoming dates, start times and who's playing. Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London.
 
@@ -14,4 +14,4 @@ TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck.
 
 Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*

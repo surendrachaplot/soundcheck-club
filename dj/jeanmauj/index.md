@@ -1,6 +1,6 @@
 # Jean Mauj
 
-Jean Mauj is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
+Jean Mauj is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
 
 Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Berlin and Cologne and 7 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Edelfettwerk, Hamburg on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Anton Jonathan, Carluschka, Daisy Weweh
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*

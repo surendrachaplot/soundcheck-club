@@ -1,6 +1,6 @@
 # Niktech
 
-Niktech is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at DNA. CLUB, Berlin on Sat, 29 Aug 2026.
+Niktech is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at DNA. CLUB, Berlin on Sat, 29 Aug 2026.
 
 Niktech is a techno and tech house artist tracked on soundcheck, with 7 sets logged across Berlin, Leipzig and Naples. Often billed alongside Blasha & Allatt, CRAVO and Daniela Dair. Next up: DNA. CLUB, Berlin on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Niktech is a techno and tech house artist tracked on soundcheck, with 7 sets log
 
 Blasha & Allatt, CRAVO, Daniela Dair
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niktech/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niktech/)*

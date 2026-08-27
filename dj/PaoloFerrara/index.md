@@ -1,6 +1,6 @@
 # Paolo Ferrara
 
-Paolo Ferrara is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Paolo Ferrara is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
 
 Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 84 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Lorenzo Raganzini, Alignment and BIIA. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Paolo Ferrara is a techno and hardcore artist tracked on soundcheck, with 84 set
 
 Lorenzo Raganzini, Alignment, BIIA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/PaoloFerrara/)*

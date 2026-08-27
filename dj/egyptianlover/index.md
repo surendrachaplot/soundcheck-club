@@ -1,6 +1,6 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Egyptian Lover is a Electro and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Egyptian Lover is an electro and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside DJ Godfather, Binh and DJ Business (2). Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -33,4 +33,4 @@ Egyptian Lover is an electro and house artist tracked on soundcheck, with 89 set
 
 DJ Godfather, Binh, DJ Business (2)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

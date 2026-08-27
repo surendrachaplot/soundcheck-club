@@ -1,6 +1,6 @@
 # W Barcelona
 
-W Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "GRAND CLOSING*WET DECK SUMMER SERIES │ Seth Troxler - Piem - Gianmarco Limenta" on Sun, 30 Aug 2026.
+W Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "GRAND CLOSING*WET DECK SUMMER SERIES │ Seth Troxler - Piem - Gianmarco Limenta" on Sun, 30 Aug 2026.
 
 W Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Gianmarco Limenta, Piem and Seth Troxler. Browse upcoming dates, start times and who's playing. Placa de la Rosa dels Vents, 1; 08039 Barcelona; Spain.
 
@@ -14,4 +14,4 @@ W Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night
 
 Placa de la Rosa dels Vents, 1; 08039 Barcelona; Spain, Barcelona
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/w-barcelona/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/w-barcelona/)*

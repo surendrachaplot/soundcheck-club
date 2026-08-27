@@ -1,6 +1,6 @@
 # Thoms Traxx
 
-Thoms Traxx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
+Thoms Traxx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ISOamsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Thoms Traxx is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Manchester and 7 more. Often billed alongside Beste Hira, Flits and I-RO. Next up: ISOamsterdam, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Thoms Traxx is a techno and house artist tracked on soundcheck, with 57 sets log
 
 Beste Hira, Flits, I-RO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomstraxx/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomstraxx/)*

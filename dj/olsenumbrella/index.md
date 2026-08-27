@@ -1,6 +1,6 @@
 # Olsen Umbrella
 
-Olsen Umbrella is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+Olsen Umbrella is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
 Olsen Umbrella is a house and garage artist tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Zayler, Clayton Fox and J-Slyde. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Olsen Umbrella is a house and garage artist tracked on soundcheck, with 3 sets l
 
 Zayler, Clayton Fox, J-Slyde
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olsenumbrella/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olsenumbrella/)*

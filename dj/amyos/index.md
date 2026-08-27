@@ -1,6 +1,6 @@
 # Amy Os
 
-Amy Os is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Jazz Cafe, London on Sat, 5 Sept 2026.
+Amy Os is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Jazz Cafe, London on Sat, 5 Sept 2026.
 
 Amy Os is a house and tech house artist tracked on soundcheck, with 22 sets logged across Ibiza, Leeds, London and Manchester. Often billed alongside Ben Rau, Benji King and Duncan Thomas. Next up: The Jazz Cafe, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Amy Os is a house and tech house artist tracked on soundcheck, with 22 sets logg
 
 Ben Rau, Benji King, Duncan Thomas
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*

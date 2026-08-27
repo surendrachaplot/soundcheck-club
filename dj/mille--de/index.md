@@ -1,6 +1,6 @@
 # Mille (DE)
 
-Mille (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
+Mille (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
 
 Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside DJ MILLE, MILLE and Alec Dienaar. Next up: Edelfettwerk, Hamburg on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck,
 
 DJ MILLE, MILLE, Alec Dienaar
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*

@@ -1,6 +1,6 @@
 # RM47
 
-RM47 is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 28 Aug 2026.
+RM47 is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 28 Aug 2026.
 
 RM47 is a house and club artist tracked on soundcheck, with 5 sets logged across Losangeles and Newyorkcity. Often billed alongside 1-800 GIRLS, AMIRA and Aluna. Next up: TBA - DTLA, Losangeles on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ RM47 is a house and club artist tracked on soundcheck, with 5 sets logged across
 
 1-800 GIRLS, AMIRA, Aluna
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rm47/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rm47/)*

@@ -1,14 +1,13 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Resonance W/ Shockwave , Cybrwlf , Dj Épi" on Wed, 26 Aug 2026.
+Studio56 is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Impact W/ Sun Seven , Gwyze , Nola" on Thu, 27 Aug 2026.
 
-Studio56 is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Killoverjoy and Nola. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
+Studio56 is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Killoverjoy and Nola. Browse upcoming dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Resonance W/ Shockwave , Cybrwlf , Dj Épi |  |
 | Thu, 27 Aug 2026 | Impact W/ Sun Seven , Gwyze , Nola | Nola |
 | Fri, 28 Aug 2026 | Pressure |  |
 | Sat, 29 Aug 2026 | Ignition |  |
@@ -18,4 +17,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 5 upcoming nights, with
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

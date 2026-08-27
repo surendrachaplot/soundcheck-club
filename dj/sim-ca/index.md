@@ -1,6 +1,6 @@
 # SIM (CA)
 
-SIM (CA) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
+SIM (CA) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
 
 SIM (CA) is a bass and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Asha (4), MIASALAV and Pleurire. Next up: La Récré, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ SIM (CA) is a bass and techno artist tracked on soundcheck, with 46 sets logged 
 
 Asha (4), MIASALAV, Pleurire
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim-ca/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim-ca/)*

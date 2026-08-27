@@ -1,6 +1,6 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mansions, New York City on Thu, 27 Aug 2026.
+Kiernan Laveaux is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mansions, New York City on Thu, 27 Aug 2026.
 
 Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Mansions, Newyorkcity on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ Kiernan Laveaux is a techno and house artist tracked on soundcheck, with 132 set
 
 ADAB, CCL, Clarisa Kimskii
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

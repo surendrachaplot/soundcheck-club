@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Ozone²" on Sat, 29 Aug 2026.
+Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Ozone²" on Sat, 29 Aug 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including EL PADRE, Flava J, Gabor Matty and Jay Cluss and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nigh
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

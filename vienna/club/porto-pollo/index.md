@@ -1,6 +1,6 @@
 # Porto Pollo
 
-Porto Pollo is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "res:collectives open-air" on Fri, 28 Aug 2026.
+Porto Pollo is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "res:collectives open-air" on Fri, 28 Aug 2026.
 
 Porto Pollo is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Kid Kodama, Masha Dabelka and Reeno Reluv. Browse upcoming dates, start times and who's playing. Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria.
 
@@ -16,4 +16,4 @@ Porto Pollo is a music venue in Vienna listed on soundcheck. 3 upcoming nights, 
 
 Donauinsel 19, Donau Ufer 500 von der reichsbrücke, Vienna, Austria, Vienna
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/porto-pollo/)*

@@ -1,6 +1,6 @@
 # Homero Espinosa
 
-Homero Espinosa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
+Homero Espinosa is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
 
 Homero Espinosa is a house and deep house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Detroit, Mexicocity and Sandiego and 2 more. Often billed alongside David Harness, John Glass and Mark Farina. Next up: TBA, Sandiego on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Homero Espinosa is a house and deep house artist based in United States of Ameri
 
 David Harness, John Glass, Mark Farina
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homeroespinosa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/homeroespinosa/)*

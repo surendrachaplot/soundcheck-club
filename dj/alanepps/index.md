@@ -1,6 +1,6 @@
 # Alan Epps
 
-Alan Epps is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Lunasol, Miami on Sat, 12 Sept 2026.
+Alan Epps is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Lunasol, Miami on Sat, 12 Sept 2026.
 
 Alan Epps is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside Dude Skywalker, Mary Jane (US) and Alex Cecil. Next up: Lunasol, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Alan Epps is a house and deep house artist based in United States of America, tr
 
 Dude Skywalker, Mary Jane (US), Alex Cecil
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanepps/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanepps/)*

@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "NO SUITS - Thank You For Dancing" on Fri, 28 Aug 2026.
+Yellow House is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NO SUITS - Thank You For Dancing" on Fri, 28 Aug 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Ammé, Be Lion, Ben Horton and Bérou and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -20,4 +20,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

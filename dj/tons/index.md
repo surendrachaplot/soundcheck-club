@@ -1,6 +1,6 @@
 # TONS
 
-TONS is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 1 Sept 2026.
+TONS is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 1 Sept 2026.
 
 TONS is a tech house and house artist based in Venezuela, tracked on soundcheck, with 114 sets logged across Amsterdam, Austin, Barcelona and Boston and 16 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: Hï Ibiza, Ibiza on Tue 1 Sept.
 
@@ -29,4 +29,4 @@ TONS is a tech house and house artist based in Venezuela, tracked on soundcheck,
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

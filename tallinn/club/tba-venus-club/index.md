@@ -1,6 +1,6 @@
 # TBA - Venus Club
 
-TBA - Venus Club is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "THROWBACK THURSDAY" on Thu, 27 Aug 2026.
+TBA - Venus Club is a music venue in Tallinn with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "THROWBACK THURSDAY" on Thu, 27 Aug 2026.
 
 TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Venus Club is a music venue in Tallinn listed on soundcheck. 5 upcoming ni
 | Fri, 4 Sept 2026 | ERIÜRITUS: VENUS CLUB 17! 2 QUICK START LIVE |  |
 | Sat, 5 Sept 2026 | ERIÜRITUS: VENUS CLUB 17 & SMILERS LIVE |  |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/tba-venus-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/tba-venus-club/)*

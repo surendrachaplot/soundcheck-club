@@ -1,6 +1,6 @@
 # Djedjotronic
 
-Djedjotronic is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Badaboum, Paris on Sat, 26 Sept 2026.
+Djedjotronic is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Badaboum, Paris on Sat, 26 Sept 2026.
 
 Djedjotronic is a techno and ebm artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, London and Lyon and 5 more. Often billed alongside Kendal, DJ MELL G and RAG. Next up: Badaboum, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Djedjotronic is a techno and ebm artist tracked on soundcheck, with 23 sets logg
 
 Kendal, DJ MELL G, RAG
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjotronic/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djedjotronic/)*

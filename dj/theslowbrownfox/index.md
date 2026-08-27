@@ -1,6 +1,6 @@
 # The Slow Brown Fox
 
-The Slow Brown Fox is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ciao ciao Bar, Berlin on Thu, 27 Aug 2026.
+The Slow Brown Fox is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ciao ciao Bar, Berlin on Thu, 27 Aug 2026.
 
 The Slow Brown Fox is an electronica and experimental artist tracked on soundcheck, with 17 sets logged across Berlin, Frankfurt and Prague. Often billed alongside Die Wilde Jagd, Loma Doom and Menqui. Next up: ciao ciao Bar, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ The Slow Brown Fox is an electronica and experimental artist tracked on soundche
 
 Die Wilde Jagd, Loma Doom, Menqui
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theslowbrownfox/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theslowbrownfox/)*

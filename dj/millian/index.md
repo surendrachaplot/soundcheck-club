@@ -1,6 +1,6 @@
 # Millian
 
-Millian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+Millian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 Millian is a house and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside ODJ (1), ANLON and Armând. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Millian is a house and techno artist based in United Kingdom, tracked on soundch
 
 ODJ (1), ANLON, Armând
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millian/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millian/)*

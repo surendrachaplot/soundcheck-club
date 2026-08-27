@@ -1,6 +1,6 @@
 # Field Notes DJs
 
-Field Notes DJs is a Acid and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
+Field Notes DJs is a Acid and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
 
 Field Notes DJs is an acid and electronica artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Edinburgh and London. Often billed alongside Sound Metaphors Djs, Alicia Carrera and Richii. Next up: Het Dorp, Amsterdam on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Field Notes DJs is an acid and electronica artist tracked on soundcheck, with 31
 
 Sound Metaphors Djs, Alicia Carrera, Richii
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fieldnotesdjs/)*

@@ -1,6 +1,6 @@
 # Goat (JP)
 
-Goat (JP) is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Silent Green, Berlin on Wed, 4 Nov 2026.
+Goat (JP) is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Silent Green, Berlin on Wed, 4 Nov 2026.
 
 Goat (JP) is an experimental and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Bristol, Brussels and Copenhagen and 6 more. Often billed alongside Alva Noto, Nicola Cruz and PAURRO. Next up: Silent Green, Berlin on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Goat (JP) is an experimental and techno artist tracked on soundcheck, with 14 se
 
 Alva Noto, Nicola Cruz, PAURRO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*

@@ -1,6 +1,6 @@
 # CUTDWN
 
-CUTDWN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
+CUTDWN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
 
 CUTDWN is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Barcelona, London, Miami and Newyorkcity and 4 more. Often billed alongside ANGEL CANNON, INIGMA and SNAQ. Next up: Studio 60, Miami on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ CUTDWN is a techno and hardcore artist based in United Kingdom, tracked on sound
 
 ANGEL CANNON, INIGMA, SNAQ
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cutdwn/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cutdwn/)*

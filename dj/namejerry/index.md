@@ -1,6 +1,6 @@
 # namejerry
 
-namejerry is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+namejerry is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
 namejerry is a techno and acid artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Bokaric, DEN!SE and Jasmin Giovanazzi. Next up: ://about blank, Berlin on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ namejerry is a techno and acid artist based in Germany, tracked on soundcheck, w
 
 Bokaric, DEN!SE, Jasmin Giovanazzi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/namejerry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/namejerry/)*

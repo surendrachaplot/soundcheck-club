@@ -1,6 +1,6 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Bongo Club, Edinburgh on Sat, 5 Sept 2026.
+Surgeon is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Bongo Club, Edinburgh on Sat, 5 Sept 2026.
 
 Surgeon is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: The Bongo Club, Edinburgh on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Surgeon is a techno and house artist tracked on soundcheck, with 124 sets logged
 
 Speedy J, DJ Pete, Eris Drew
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

@@ -1,6 +1,6 @@
 # Spray
 
-Spray is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 28 Aug 2026.
+Spray is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Spray is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 55 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Hï Ibiza, Ibiza on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ Spray is a techno and house artist tracked on soundcheck, with 198 sets logged a
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

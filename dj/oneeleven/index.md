@@ -1,6 +1,6 @@
 # ONEELEVEN
 
-ONEELEVEN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Dolphin, Philadelphia on Fri, 28 Aug 2026.
+ONEELEVEN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Dolphin, Philadelphia on Fri, 28 Aug 2026.
 
 ONEELEVEN is a club and techno artist tracked on soundcheck, with 47 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside lorboo, R3m Sativa and Firestone. Next up: The Dolphin, Philadelphia on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ ONEELEVEN is a club and techno artist tracked on soundcheck, with 47 sets logged
 
 lorboo, R3m Sativa, Firestone
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneeleven/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneeleven/)*

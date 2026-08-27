@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Take Off 16+ End Of Summer Open Air Rave" on Fri, 28 Aug 2026.
+LDN East is a music venue in London with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Take Off 16+ End Of Summer Open Air Rave" on Fri, 28 Aug 2026.
 
 LDN East is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Crazy P, Darkstepper, Donnie Sunshine and Don't F**k with Disco. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -20,4 +20,4 @@ LDN East is a music venue in London listed on soundcheck. 7 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

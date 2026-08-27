@@ -1,6 +1,6 @@
 # Xav (US)
 
-Xav (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at 618 DC, Washington DC on Sat, 5 Sept 2026.
+Xav (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 618 DC, Washington DC on Sat, 5 Sept 2026.
 
 Xav (US) is a techno and house artist tracked on soundcheck, with 20 sets logged across Detroit, Losangeles and Washingtondc. Often billed alongside Eric Yaz, STUKES and B_X_R_N_X_R_D. Next up: 618 DC, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Xav (US) is a techno and house artist tracked on soundcheck, with 20 sets logged
 
 Eric Yaz, STUKES, B_X_R_N_X_R_D
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xavus/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xavus/)*

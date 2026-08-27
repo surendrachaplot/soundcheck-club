@@ -1,6 +1,6 @@
 # RCGT
 
-RCGT is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
+RCGT is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
 
 RCGT is a techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Cologne. Often billed alongside Sneaky Pete, Cara Elizabeth and HUELLE. Next up: Artheater, Cologne on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ RCGT is a techno artist based in Germany, tracked on soundcheck, with 4 sets log
 
 Sneaky Pete, Cara Elizabeth, HUELLE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rcgt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rcgt/)*

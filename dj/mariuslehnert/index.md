@@ -1,6 +1,6 @@
 # Marius Lehnert
 
-Marius Lehnert is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+Marius Lehnert is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 Marius Lehnert is a house and techno artist based in Germany, tracked on soundcheck, with 85 sets logged across Berlin, Copenhagen, Frankfurt and Istanbul and 4 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Marius Lehnert is a house and techno artist based in Germany, tracked on soundch
 
 Alexander Maier, Dejago, Dominik Eulberg
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*

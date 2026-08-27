@@ -1,6 +1,6 @@
 # Benc
 
-Benc is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Atno, Budapest on Fri, 11 Sept 2026.
+Benc is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Atno, Budapest on Fri, 11 Sept 2026.
 
 Benc is a jungle and drum & bass artist tracked on soundcheck, with 17 sets logged across Budapest and Vienna. Often billed alongside Mentalien, Aikatherina and Andre S.. Next up: Atno, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Benc is a jungle and drum & bass artist tracked on soundcheck, with 17 sets logg
 
 Mentalien, Aikatherina, Andre S.
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benc-hu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benc-hu/)*

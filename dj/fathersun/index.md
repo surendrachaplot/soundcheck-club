@@ -1,6 +1,6 @@
 # Fathersun
 
-Fathersun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Better Tomorrow, Los Angeles on Thu, 27 Aug 2026.
+Fathersun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Better Tomorrow, Los Angeles on Thu, 27 Aug 2026.
 
 Fathersun is a house and techno artist tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Perry Mason, Dj Kerry and Dylan Payne. Next up: Better Tomorrow, Losangeles on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ Fathersun is a house and techno artist tracked on soundcheck, with 4 sets logged
 
 Perry Mason, Dj Kerry, Dylan Payne
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fathersun/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fathersun/)*

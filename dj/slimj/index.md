@@ -1,6 +1,6 @@
 # SLIM J
 
-SLIM J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Rooftop, Lisbon on Sun, 30 Aug 2026.
+SLIM J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Rooftop, Lisbon on Sun, 30 Aug 2026.
 
 SLIM J is a house and techno artist based in Portugal, tracked on soundcheck, with 38 sets logged across Brussels, Lisbon, London and Vancouver. Often billed alongside Rui Alves, Octo and AVRY. Next up: Cavo Rooftop, Lisbon on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ SLIM J is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 Rui Alves, Octo, AVRY
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj/)*

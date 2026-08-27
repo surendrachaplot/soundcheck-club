@@ -1,6 +1,6 @@
 # Vincent Neumann
 
-Vincent Neumann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
+Vincent Neumann is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
 
 Vincent Neumann is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Amotik, Efdemin and Peter Invasion. Next up: Distillery, Leipzig on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Vincent Neumann is a techno and house artist based in Germany, tracked on soundc
 
 Amotik, Efdemin, Peter Invasion
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*

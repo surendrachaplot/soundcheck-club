@@ -1,6 +1,6 @@
 # Madre Guía
 
-Madre Guía is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Paragon, New York City on Sat, 29 Aug 2026.
+Madre Guía is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Paragon, New York City on Sat, 29 Aug 2026.
 
 Madre Guía is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Newyorkcity, Philadelphia and Sanfrancisco. Often billed alongside DJ Shannon, sola system and Niyah West. Next up: Paragon, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Madre Guía is a house and techno artist based in United States of America, trac
 
 DJ Shannon, sola system, Niyah West
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madreguía/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madreguía/)*

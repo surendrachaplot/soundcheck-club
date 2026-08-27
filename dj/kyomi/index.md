@@ -1,6 +1,6 @@
 # Kyomi
 
-Kyomi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Boson, Tokyo on Sat, 29 Aug 2026.
+Kyomi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Boson, Tokyo on Sat, 29 Aug 2026.
 
 Kyomi is a techno and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Mexicocity, Seoul and Tokyo. Often billed alongside FFAN, OCCA and KABUTO. Next up: Bar Boson, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kyomi is a techno and house artist based in Japan, tracked on soundcheck, with 2
 
 FFAN, OCCA, KABUTO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyomi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyomi/)*

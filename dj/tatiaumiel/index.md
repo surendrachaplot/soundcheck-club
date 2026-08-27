@@ -1,6 +1,6 @@
 # Tati au Miel
 
-Tati au Miel is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vorplatz des Museums für Naturkunde Berlin, Berlin on Sun, 13 Sept 2026.
+Tati au Miel is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vorplatz des Museums für Naturkunde Berlin, Berlin on Sun, 13 Sept 2026.
 
 Tati au Miel is an experimental and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Berlin and Brussels and 14 more. Often billed alongside Rabit, Total XTC and Daito Manabe. Next up: Vorplatz des Museums für Naturkunde Berlin, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Tati au Miel is an experimental and techno artist tracked on soundcheck, with 49
 
 Rabit, Total XTC, Daito Manabe
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiaumiel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiaumiel/)*

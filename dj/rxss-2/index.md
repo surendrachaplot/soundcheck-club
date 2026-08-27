@@ -1,6 +1,6 @@
 # RXSS (2)
 
-RXSS (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Victoria’s Club, Milan on Fri, 28 Aug 2026.
+RXSS (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Victoria’s Club, Milan on Fri, 28 Aug 2026.
 
 RXSS (2) is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Milan. Often billed alongside Rassel XTL, ELNA and TUROTUNZ. Next up: Victoria’s Club, Milan on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ RXSS (2) is a techno and industrial artist tracked on soundcheck, with 11 sets l
 
 Rassel XTL, ELNA, TUROTUNZ
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rxss-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rxss-2/)*

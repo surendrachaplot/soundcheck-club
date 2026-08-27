@@ -1,6 +1,6 @@
 # DJ Archives
 
-DJ Archives is a Hip-Hop and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Dada Echo Park, Los Angeles on Sun, 6 Sept 2026.
+DJ Archives is a Hip-Hop and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Dada Echo Park, Los Angeles on Sun, 6 Sept 2026.
 
 DJ Archives is a hip-hop and dancehall artist based in United States of America, tracked on soundcheck, with 5 sets logged across Belfast and Losangeles. Often billed alongside Terrell Brooke, BODII and Daniro. Next up: Dada Echo Park, Losangeles on Sun 6 Sept.
 
@@ -21,4 +21,4 @@ DJ Archives is a hip-hop and dancehall artist based in United States of America,
 
 Terrell Brooke, BODII, Daniro
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djarchives/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djarchives/)*

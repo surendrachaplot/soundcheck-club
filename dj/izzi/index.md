@@ -1,6 +1,6 @@
 # Izzi
 
-Izzi is a Bass and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+Izzi is a Bass and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 Izzi is a bass and uk funky artist tracked on soundcheck, with 72 sets logged across Bangkok, Barcelona, Berlin and Bristol and 3 more. Often billed alongside yourboykiran, Ìyáàlù and Chande. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Izzi is a bass and uk funky artist tracked on soundcheck, with 72 sets logged ac
 
 yourboykiran, Ìyáàlù, Chande
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzi/)*

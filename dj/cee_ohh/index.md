@@ -1,6 +1,6 @@
 # cee_ohh
 
-cee_ohh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+cee_ohh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 cee_ohh is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Sanfrancisco. Often billed alongside Lisatrix, Pilar Jordan and kattastrophe. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ cee_ohh is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Lisatrix, Pilar Jordan, kattastrophe
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cee_ohh/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cee_ohh/)*

@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Thump! presents 1morning (Ilian Tape)" on Sat, 26 Sept 2026.
+Platform9 is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Thump! presents 1morning (Ilian Tape)" on Sat, 26 Sept 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including 1morning, AWood, DJ Hockey and Max Ulis and 1 more. Browse upcoming dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -14,4 +14,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 1 upcoming night, 
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

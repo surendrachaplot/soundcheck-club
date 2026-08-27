@@ -1,6 +1,6 @@
 # Laura Vargas
 
-Laura Vargas is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Orangerie Neukölln, Berlin on Thu, 27 Aug 2026.
+Laura Vargas is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Orangerie Neukölln, Berlin on Thu, 27 Aug 2026.
 
 Laura Vargas is an electronica and ambient artist tracked on soundcheck, with 15 sets logged across Berlin, Leipzig and Munich. Often billed alongside Vargas, kimbwazo and DJ Plead. Next up: Orangerie Neukölln, Berlin on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Laura Vargas is an electronica and ambient artist tracked on soundcheck, with 15
 
 Vargas, kimbwazo, DJ Plead
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravargas/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravargas/)*

@@ -1,6 +1,6 @@
 # BLUMITSU
 
-BLUMITSU is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hare & Hounds, Birmingham on Sat, 12 Sept 2026.
+BLUMITSU is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hare & Hounds, Birmingham on Sat, 12 Sept 2026.
 
 BLUMITSU is a bass and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 13 more. Often billed alongside Bluetoof, Jossy Mitsu and Aletha. Next up: Hare & Hounds, Birmingham on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ BLUMITSU is a bass and techno artist tracked on soundcheck, with 39 sets logged 
 
 Bluetoof, Jossy Mitsu, Aletha
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*

@@ -1,6 +1,6 @@
 # Stoked&stoned
 
-Stoked&stoned is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Bubble's Night" on Thu, 27 Aug 2026.
+Stoked&stoned is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Bubble's Night" on Thu, 27 Aug 2026.
 
 Stoked&stoned is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including Closet Yi, DJ Jinwook, DJ SIN and Jucid and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Yongsan District, Daesagwan-ro, 72 2F.
 
@@ -16,4 +16,4 @@ Stoked&stoned is a music venue in Seoul listed on soundcheck. 3 upcoming nights,
 
 Seoul, Yongsan District, Daesagwan-ro, 72 2F, Seoul
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/stoked-stoned/)*

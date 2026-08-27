@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sinewave with N.E GIRL" on Thu, 27 Aug 2026.
+Jolene is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Sinewave with N.E GIRL" on Thu, 27 Aug 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including Amazinggaijin, N.E.GIRL, pai-lin and Prince of Whales and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -16,4 +16,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

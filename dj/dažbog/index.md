@@ -1,6 +1,6 @@
 # Dažbog
 
-Dažbog is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Barutana, Belgrade on Fri, 28 Aug 2026.
+Dažbog is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Barutana, Belgrade on Fri, 28 Aug 2026.
 
 Dažbog is a techno and electronica artist tracked on soundcheck, with 14 sets logged across Belgrade. Often billed alongside Balša, Čevut and Impedance. Next up: Barutana, Belgrade on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dažbog is a techno and electronica artist tracked on soundcheck, with 14 sets l
 
 Balša, Čevut, Impedance
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dažbog/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dažbog/)*

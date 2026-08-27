@@ -1,6 +1,6 @@
 # Freedonia
 
-Freedonia is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "PLAYGROUND with Javier Carballo + Martin Noise + Capurro" on Fri, 28 Aug 2026.
+Freedonia is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "PLAYGROUND with Javier Carballo + Martin Noise + Capurro" on Fri, 28 Aug 2026.
 
 Freedonia is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Javier Carballo and Martin Noise. Browse upcoming dates, start times and who's playing. Carrer de la Lleialtat, 6, 08001 Raval, Barcelona.
 
@@ -14,4 +14,4 @@ Freedonia is a music venue in Barcelona listed on soundcheck. 1 upcoming night, 
 
 Carrer de la Lleialtat, 6, 08001 Raval, Barcelona, Barcelona
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*

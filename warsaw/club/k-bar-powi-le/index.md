@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FOMO" on Fri, 28 Aug 2026.
+K-Bar Powiśle is a music venue in Warsaw with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FOMO" on Fri, 28 Aug 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 3 upcoming nights, with line-ups including Adobo (PL), anymati, Cosaco and fiedorka and 2 more. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -16,4 +16,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 3 upcoming night
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

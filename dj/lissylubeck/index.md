@@ -1,6 +1,6 @@
 # Lissy Lübeck
 
-Lissy Lübeck is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
+Lissy Lübeck is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Lissy Lübeck is a tech house and house artist tracked on soundcheck, with 12 sets logged across Ibiza and London. Often billed alongside Danny Howard, Sonny Fodera and Late Replies. Next up: Tantra Bar Ibiza, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lissy Lübeck is a tech house and house artist tracked on soundcheck, with 12 se
 
 Danny Howard, Sonny Fodera, Late Replies
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lissylubeck/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lissylubeck/)*

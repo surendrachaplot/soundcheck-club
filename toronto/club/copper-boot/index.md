@@ -1,6 +1,6 @@
 # Copper Boot
 
-Copper Boot is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Do You Love House Day Party with Ten City's Byron Stingily at The Laneway" on Sun, 13 Sept 2026.
+Copper Boot is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Do You Love House Day Party with Ten City's Byron Stingily at The Laneway" on Sun, 13 Sept 2026.
 
 Copper Boot is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Byron Stingily, Dino and Terry, Ten City and Yogi. Browse upcoming dates, start times and who's playing. 171 College Street.
 
@@ -14,4 +14,4 @@ Copper Boot is a music venue in Toronto listed on soundcheck. 1 upcoming night, 
 
 171 College Street, Toronto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/copper-boot/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/copper-boot/)*

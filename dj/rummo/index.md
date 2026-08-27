@@ -1,6 +1,6 @@
 # Rummo
 
-Rummo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tšungel, Tallinn on Sat, 29 Aug 2026.
+Rummo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tšungel, Tallinn on Sat, 29 Aug 2026.
 
 Rummo is a techno and house artist tracked on soundcheck, with 10 sets logged across Barcelona and Tallinn. Often billed alongside alabama, Abdul Raeva and Brett Rästas. Next up: Tšungel, Tallinn on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Rummo is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 alabama, Abdul Raeva, Brett Rästas
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rummo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rummo/)*

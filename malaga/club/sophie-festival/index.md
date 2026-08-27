@@ -1,6 +1,6 @@
 # Sophie Festival
 
-Sophie Festival is a music venue in Malaga with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sophie #6 - Richie Hawtin, Sama' Abdulhadi, Objekt, Alci" on Sat, 5 Sept 2026.
+Sophie Festival is a music venue in Malaga with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Sophie #6 - Richie Hawtin, Sama' Abdulhadi, Objekt, Alci" on Sat, 5 Sept 2026.
 
 Sophie Festival is a music venue in Malaga listed on soundcheck. 2 upcoming nights, with line-ups including AGELESS, Alci, Calabasa and Cap and 2 more. Browse upcoming dates, start times and who's playing. Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España.
 
@@ -15,4 +15,4 @@ Sophie Festival is a music venue in Malaga listed on soundcheck. 2 upcoming nigh
 
 Ogus Park, Calle Rda., 16, Churriana, 29004 Málaga, España, Malaga
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sophie-festival/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/sophie-festival/)*

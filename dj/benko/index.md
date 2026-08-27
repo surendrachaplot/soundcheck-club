@@ -1,6 +1,6 @@
 # Benko
 
-Benko is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Benko is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
 Benko is a techno and bass artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside Stress Less, Sammy Sass and Alicia (UK). Next up: FOLD, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Benko is a techno and bass artist tracked on soundcheck, with 21 sets logged acr
 
 Stress Less, Sammy Sass, Alicia (UK)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benko/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benko/)*

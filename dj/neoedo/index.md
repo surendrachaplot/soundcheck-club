@@ -1,6 +1,6 @@
 # Neo Edo
 
-Neo Edo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
+Neo Edo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
 
 Neo Edo is a techno and hardcore artist tracked on soundcheck, with 44 sets logged across Montreal. Often billed alongside D.Blavatsky, Beamskii and DJ Pacifier. Next up: La Récré, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Neo Edo is a techno and hardcore artist tracked on soundcheck, with 44 sets logg
 
 D.Blavatsky, Beamskii, DJ Pacifier
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoedo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoedo/)*

@@ -1,6 +1,6 @@
 # Shinjuku Duusraa
 
-Shinjuku Duusraa is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Miki Kehai Lounge vol.16 with VICEMAN & Genichiro" on Fri, 4 Sept 2026.
+Shinjuku Duusraa is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Miki Kehai Lounge vol.16 with VICEMAN & Genichiro" on Fri, 4 Sept 2026.
 
 Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Acrocanthosaurus, ALPHA (4), DubFreq (2) and 反核機動隊 and 2 more. Browse upcoming dates, start times and who's playing. 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan.
 
@@ -17,4 +17,4 @@ Shinjuku Duusraa is a music venue in Tokyo listed on soundcheck. 4 upcoming nigh
 
 3-35-1 Shinjuku, Shinjuku-ku, Tokyo, 160-0022 Japan, Tokyo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/shinjuku-duusraa/)*

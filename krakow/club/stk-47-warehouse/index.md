@@ -1,6 +1,6 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "OPENDECKS" on Thu, 27 Aug 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "OPENDECKS" on Thu, 27 Aug 2026.
 
 STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming nights, with line-ups including 7CIRCLE, A.C., DJ Ricky and Eddie Santini and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
@@ -21,4 +21,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming nig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

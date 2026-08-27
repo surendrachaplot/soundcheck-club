@@ -1,6 +1,6 @@
 # Naira Bullon
 
-Naira Bullon is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
+Naira Bullon is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Club, Vauxhall, London on Sat, 29 Aug 2026.
 
 Naira Bullon is a techno and tech house artist based in Spain, tracked on soundcheck, with 11 sets logged across London. Often billed alongside LIZAZA, Lau.tastic and Almeida Moura. Next up: Union Club, Vauxhall, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Naira Bullon is a techno and tech house artist based in Spain, tracked on soundc
 
 LIZAZA, Lau.tastic, Almeida Moura
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nairabullon/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nairabullon/)*

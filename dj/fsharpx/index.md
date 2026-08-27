@@ -1,6 +1,6 @@
 # F#X
 
-F#X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+F#X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 F#X is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Laetizia, Nina and Helena Hauff. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ F#X is a techno and house artist based in Germany, tracked on soundcheck, with 9
 
 Laetizia, Nina, Helena Hauff
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fsharpx/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fsharpx/)*

@@ -1,6 +1,6 @@
 # Antiguo Liceo de Málaga
 
-Antiguo Liceo de Málaga is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "BIZNART presents: Art & DJs at Malaga City Center" on Sat, 29 Aug 2026.
+Antiguo Liceo de Málaga is a music venue in Malaga with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "BIZNART presents: Art & DJs at Malaga City Center" on Sat, 29 Aug 2026.
 
 Antiguo Liceo de Málaga is a music venue in Malaga listed on soundcheck. 1 upcoming night, with line-ups including Carlo and Fontango. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Antiguo Liceo de Málaga is a music venue in Malaga listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | BIZNART presents: Art & DJs at Malaga City Center | Carlo, Fontango |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/antiguo-liceo-de-m-laga/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/antiguo-liceo-de-m-laga/)*

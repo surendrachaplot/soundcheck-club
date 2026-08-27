@@ -1,14 +1,13 @@
 # 88block
 
-88block is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Upper Cuts #117" on Wed, 26 Aug 2026.
+88block is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "mini LARIX" on Thu, 27 Aug 2026.
 
-88block is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including Blabla, Diceman, DJ B2B and Early Morning and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
+88block is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including Blabla, Diceman, DJ B2B and Hirosson and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Upper Cuts #117 | Early Morning |
 | Thu, 27 Aug 2026 | mini LARIX | Blabla, Hirosson |
 | Sat, 29 Aug 2026 | LINK-UP vol.1 | Diceman, Hirosson |
 | Tue, 1 Sept 2026 | 3 Diggas | suzu |
@@ -23,4 +22,4 @@
 
 B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075, Tokyo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/88block/)*

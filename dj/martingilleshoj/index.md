@@ -1,6 +1,6 @@
 # Martin Gilleshøj
 
-Martin Gilleshøj is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
+Martin Gilleshøj is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
 
 Martin Gilleshøj is a techno and trance artist tracked on soundcheck, with 61 sets logged across Berlin, Copenhagen, Lyon and Nantes and 3 more. Often billed alongside Kasper Marott, Popmix and Alfredo92. Next up: TBA - secret location, Copenhagen on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Martin Gilleshøj is a techno and trance artist tracked on soundcheck, with 61 s
 
 Kasper Marott, Popmix, Alfredo92
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martingilleshoj/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martingilleshoj/)*

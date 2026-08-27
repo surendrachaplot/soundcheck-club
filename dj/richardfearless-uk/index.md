@@ -1,6 +1,6 @@
 # Richard Fearless
 
-Richard Fearless is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Strange Brew, Bristol on Fri, 28 Aug 2026.
+Richard Fearless is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Strange Brew, Bristol on Fri, 28 Aug 2026.
 
 Richard Fearless is a techno and experimental artist tracked on soundcheck, with 44 sets logged across Amsterdam, Belfast, Belgrade and Bristol and 8 more. Often billed alongside Daniel Avery, Tom Dubwise and DJ MELL G. Next up: Strange Brew, Bristol on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Richard Fearless is a techno and experimental artist tracked on soundcheck, with
 
 Daniel Avery, Tom Dubwise, DJ MELL G
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfearless-uk/)*

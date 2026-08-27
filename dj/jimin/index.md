@@ -1,6 +1,6 @@
 # Jimin
 
-Jimin is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paper, Seoul on Sat, 29 Aug 2026.
+Jimin is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Paper, Seoul on Sat, 29 Aug 2026.
 
 Jimin is a house and club artist tracked on soundcheck, with 136 sets logged across Amsterdam, Bangkok, Barcelona and Seoul and 1 more. Often billed alongside Jesse You, Acidwork and FOI (SK). Next up: Paper, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jimin is a house and club artist tracked on soundcheck, with 136 sets logged acr
 
 Jesse You, Acidwork, FOI (SK)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimin/)*

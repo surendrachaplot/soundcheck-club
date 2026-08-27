@@ -1,6 +1,6 @@
 # HAPOL
 
-HAPOL is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sub Club, Glasgow on Thu, 17 Sept 2026.
+HAPOL is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sub Club, Glasgow on Thu, 17 Sept 2026.
 
 HAPOL is a house and garage artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Edinburgh and Glasgow. Often billed alongside Robbie, Jamie Gunn and McCart. Next up: Sub Club, Glasgow on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ HAPOL is a house and garage artist based in United Kingdom, tracked on soundchec
 
 Robbie, Jamie Gunn, McCart
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hapol/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hapol/)*

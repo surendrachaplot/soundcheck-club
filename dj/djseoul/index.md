@@ -1,6 +1,6 @@
 # DJ Seoul
 
-DJ Seoul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at broad hall., Philadelphia on Sat, 29 Aug 2026.
+DJ Seoul is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at broad hall., Philadelphia on Sat, 29 Aug 2026.
 
 DJ Seoul is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Detroit, Melbourne, Montreal and Philadelphia and 1 more. Often billed alongside T.Linder, DJ I.V. and DJ Krazy. Next up: broad hall., Philadelphia on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ Seoul is a techno and house artist based in United States of America, tracked
 
 T.Linder, DJ I.V., DJ Krazy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseoul/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseoul/)*

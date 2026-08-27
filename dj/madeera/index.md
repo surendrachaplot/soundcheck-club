@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
+madeera is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Pawn Shop, Dublin on Thu, 27 Aug 2026.
 
 madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Detroit, Dublin, Newcastle and Newyorkcity and 1 more. Often billed alongside Brent Shay, Antikkka and Tormented. Next up: Pawn Shop, Dublin on Thu 27 Aug.
 
@@ -28,4 +28,4 @@ madeera is a techno and house artist based in United States of America, tracked 
 
 Brent Shay, Antikkka, Tormented
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

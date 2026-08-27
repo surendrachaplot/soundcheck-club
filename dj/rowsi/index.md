@@ -1,6 +1,6 @@
 # Rowsi
 
-Rowsi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - private location, tba 48h before the event to all ticket holders, Barcelona on Fri, 28 Aug 2026.
+Rowsi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - private location, tba 48h before the event to all ticket holders, Barcelona on Fri, 28 Aug 2026.
 
 Rowsi is a techno and trance artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside JOANNA COELHO, DIDIXX and Felinae. Next up: TBA - private location, tba 48h before the event to all ticket holders, Barcelona on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Rowsi is a techno and trance artist tracked on soundcheck, with 82 sets logged a
 
 JOANNA COELHO, DIDIXX, Felinae
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowsi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowsi/)*

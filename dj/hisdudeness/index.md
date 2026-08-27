@@ -1,6 +1,6 @@
 # His dudeness
 
-His dudeness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Benelux Rederij Boot, Ghent on Sun, 30 Aug 2026.
+His dudeness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Benelux Rederij Boot, Ghent on Sun, 30 Aug 2026.
 
 His dudeness is a house and techno artist tracked on soundcheck, with 14 sets logged across Brussels and Ghent. Often billed alongside Red D, &RY. and AMARE. Next up: Benelux Rederij Boot, Ghent on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ His dudeness is a house and techno artist tracked on soundcheck, with 14 sets lo
 
 Red D, &RY., AMARE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hisdudeness/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hisdudeness/)*

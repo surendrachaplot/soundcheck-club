@@ -1,6 +1,6 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "PDA & Sameheads present Mark Grusane" on Sat, 29 Aug 2026.
+Sameheads is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "PDA & Sameheads present Mark Grusane" on Sat, 29 Aug 2026.
 
 Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including ALF CHAMPION, Courtney Bailey, DJ Marcelle and Esther Dune and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Sameheads is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

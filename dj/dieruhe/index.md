@@ -1,6 +1,6 @@
 # Die Ruhe
 
-Die Ruhe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
+Die Ruhe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
 
 Die Ruhe is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Frankfurt and Leipzig. Often billed alongside ANKA (2), ANNAWAFFEL and Avocado. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Die Ruhe is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ANKA (2), ANNAWAFFEL, Avocado
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieruhe/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dieruhe/)*

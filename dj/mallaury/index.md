@@ -1,6 +1,6 @@
 # MALLAURY
 
-MALLAURY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at BRET, Amsterdam on Fri, 23 Oct 2026.
+MALLAURY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
 MALLAURY is a house and techno artist based in France, tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and Deez. Next up: BRET, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MALLAURY is a house and techno artist based in France, tracked on soundcheck, wi
 
 Passion DEEZ, Cinnaman, Deez
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallaury/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mallaury/)*

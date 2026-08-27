@@ -1,6 +1,6 @@
 # London Trans+ Pride Fundraver at Hackney Bridge
 
-London Trans+ Pride Fundraver at Hackney Bridge on Sun 6 Sept, London. 10 acts on the bill: Alo3, Cosmic Caz, Ivicore and Lewis G. Burton and 6 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
+London Trans+ Pride Fundraver at Hackney Bridge on Sun 6 Sept, London. 11 acts on the bill: Alo3, Cosmic Caz, Ivicore and Lewis G. Burton and 7 more. Techno and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ London Trans+ Pride Fundraver at Hackney Bridge on Sun 6 Sept, London. 10 acts o
 - Ivicore
 - Lewis G. Burton
 - Lilian Lyzander
+- LYZANDER
 - Princess Xixi
 - S3BA
 - Sarra Wild

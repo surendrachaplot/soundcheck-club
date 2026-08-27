@@ -1,6 +1,6 @@
 # Afrique Like Me
 
-Afrique Like Me is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
+Afrique Like Me is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
 
 Afrique Like Me is an afro house and house artist based in Canada, tracked on soundcheck, with 26 sets logged across Toronto. Often billed alongside Razaq El Toro, Sonic Griot and martinses. Next up: Soleil, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Afrique Like Me is an afro house and house artist based in Canada, tracked on so
 
 Razaq El Toro, Sonic Griot, martinses
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afriquelikeme/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afriquelikeme/)*

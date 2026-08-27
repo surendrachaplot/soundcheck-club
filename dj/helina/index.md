@@ -1,6 +1,6 @@
 # Helina
 
-Helina is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 4 Sept 2026.
+Helina is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 4 Sept 2026.
 
 Helina is a club and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Copenhagen, Frankfurt and Hamburg and 3 more. Often billed alongside JADA MORAES, ALBA (3) and S!RENE. Next up: Jonny Knüppel, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Helina is a club and house artist based in Germany, tracked on soundcheck, with 
 
 JADA MORAES, ALBA (3), S!RENE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helina/)*

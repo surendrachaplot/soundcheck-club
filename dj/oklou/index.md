@@ -1,6 +1,6 @@
 # Oklou
 
-Oklou is a Experimental and Pop artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Oklou is a Experimental and Pop artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 Oklou is an experimental and pop artist based in France, tracked on soundcheck, with 32 sets logged across Amsterdam, Bristol, Brussels and Chicago and 15 more. Often billed alongside Erika de Casier, Nick León and james K. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Oklou is an experimental and pop artist based in France, tracked on soundcheck, 
 
 Erika de Casier, Nick León, james K
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*

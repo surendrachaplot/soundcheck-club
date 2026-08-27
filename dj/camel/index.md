@@ -1,6 +1,6 @@
 # Camel
 
-Camel is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Pamela Club, Paris on Thu, 27 Aug 2026.
+Camel is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Pamela Club, Paris on Thu, 27 Aug 2026.
 
 Camel is an electronic artist based in Italy, tracked on soundcheck, with 3 sets logged across Paris and Prague. Often billed alongside Wen, Aztek and Charly (FR). Next up: Pamela Club, Paris on Thu 27 Aug.
 
@@ -19,4 +19,4 @@ Camel is an electronic artist based in Italy, tracked on soundcheck, with 3 sets
 
 Wen, Aztek, Charly (FR)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camel/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camel/)*

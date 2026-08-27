@@ -1,6 +1,6 @@
 # Deluge
 
-Deluge is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
+Deluge is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
 
 Deluge is a techno and drum & bass artist tracked on soundcheck, with 3 sets logged across Berlin and Vancouver. Often billed alongside BINKY, Brendocha and DK PAU. Next up: TBA - 1201 FRANKLIN ST, Vancouver on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Deluge is a techno and drum & bass artist tracked on soundcheck, with 3 sets log
 
 BINKY, Brendocha, DK PAU
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deluge/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deluge/)*

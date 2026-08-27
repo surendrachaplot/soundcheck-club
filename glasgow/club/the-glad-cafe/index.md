@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Vanderlye presents: Dystopia Calling EP Launch Night with support from Ryan Harley" on Fri, 28 Aug 2026.
+The Glad Cafe is a music venue in Glasgow with 19 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Vanderlye presents: Dystopia Calling EP Launch Night with support from Ryan Harley" on Fri, 28 Aug 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 19 upcoming nights, with line-ups including Carla dal Forno, Loscil, Mark Van Hoen and more eaze and 2 more. Browse upcoming dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -23,4 +23,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 19 upcoming nigh
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

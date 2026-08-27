@@ -1,6 +1,6 @@
 # Ani con Gas
 
-Ani con Gas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
+Ani con Gas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
 
 Ani con Gas is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Alphabae, SunnDior and Taskä. Next up: YOTO, Hamburg on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Ani con Gas is a house and techno artist based in Germany, tracked on soundcheck
 
 Alphabae, SunnDior, Taskä
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anicongas/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anicongas/)*

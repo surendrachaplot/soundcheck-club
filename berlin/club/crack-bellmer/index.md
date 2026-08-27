@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL **DANCEFLOOR EDITION**" on Wed, 26 Aug 2026.
+Crack Bellmer is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Night District" on Thu, 27 Aug 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Ahni, Amy Kisnorbo, babxi and BB. angel and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Ahni, Amy Kisnorbo, babxi and BB. angel and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL **DANCEFLOOR EDITION** |  |
 | Thu, 27 Aug 2026 | Night District | Amy Kisnorbo, Dub Isotope, Forward Sisters, Genoe, Larhythmix, Migz, janosch |
 | Fri, 28 Aug 2026 | Disco Drops | C.love, Nigel Nagel |
 | Sat, 29 Aug 2026 | STAY TOXIC x RAZJOB [FREE ENTRY*] |  |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 16 upcoming night
 | Sat, 5 Sept 2026 | San Loqal | Ahni, BB. angel, DJ Fiona, OatMilk |
 | Thu, 10 Sept 2026 | Thursday Service by Pulse Friction | Caldii, Dr. Sud, Luminick, Roots., dOctOr doms |
 | Fri, 11 Sept 2026 | Tales of Dakno: The Berlin Story | BILLY, Mario Ignacio, Stella Fiore |
+| Sat, 12 Sept 2026 | AGA baddies | DAAS (1), Daya Pruna, Do you know Juno, babxi |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

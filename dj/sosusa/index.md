@@ -1,6 +1,6 @@
 # so'su'sa
 
-so'su'sa is a Grime and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+so'su'sa is a Grime and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 so'su'sa is a grime and garage artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Alith Berndarn, Alphabae and Anne-Lu. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ so'su'sa is a grime and garage artist based in Germany, tracked on soundcheck, w
 
 Alith Berndarn, Alphabae, Anne-Lu
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosusa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sosusa/)*

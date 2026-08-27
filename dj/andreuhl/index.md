@@ -1,6 +1,6 @@
 # André Uhl
 
-André Uhl is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ciao ciao Bar, Berlin on Thu, 27 Aug 2026.
+André Uhl is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ciao ciao Bar, Berlin on Thu, 27 Aug 2026.
 
 André Uhl is an experimental and electronica artist tracked on soundcheck, with 6 sets logged across Amsterdam and Berlin. Often billed alongside Akkamiau, Azemad and Castle. Next up: ciao ciao Bar, Berlin on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ André Uhl is an experimental and electronica artist tracked on soundcheck, with
 
 Akkamiau, Azemad, Castle
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreuhl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreuhl/)*

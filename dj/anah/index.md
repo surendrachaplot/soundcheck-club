@@ -1,6 +1,6 @@
 # Anah
 
-Anah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 12 Sept 2026.
+Anah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 12 Sept 2026.
 
 Anah is a house and techno artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 13 more. Often billed alongside Lumiere, Francesco Del Garda and Christian AB. Next up: Village Underground Barcelona, Barcelona on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Anah is a house and techno artist tracked on soundcheck, with 76 sets logged acr
 
 Lumiere, Francesco Del Garda, Christian AB
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anah/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anah/)*

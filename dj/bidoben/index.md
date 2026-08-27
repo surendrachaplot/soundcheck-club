@@ -1,6 +1,6 @@
 # BIDOBEN
 
-BIDOBEN is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at SMUT Athens, Athens on Sat, 3 Oct 2026.
+BIDOBEN is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at SMUT Athens, Athens on Sat, 3 Oct 2026.
 
 BIDOBEN is a techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Berlin and Milan. Often billed alongside Cleric, Félicie and Hertz Collision. Next up: SMUT Athens, Athens on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BIDOBEN is a techno artist tracked on soundcheck, with 9 sets logged across Amst
 
 Cleric, Félicie, Hertz Collision
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bidoben/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bidoben/)*

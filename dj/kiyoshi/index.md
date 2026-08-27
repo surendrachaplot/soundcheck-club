@@ -1,6 +1,6 @@
 # Kiyoshi
 
-Kiyoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
+Kiyoshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
 
 Kiyoshi is a house and techno artist tracked on soundcheck, with 107 sets logged across Losangeles, Newyorkcity, Osaka and Tbilisi and 2 more. Often billed alongside Chuwee, Armii1n and Greg Paulus. Next up: H0L0, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kiyoshi is a house and techno artist tracked on soundcheck, with 107 sets logged
 
 Chuwee, Armii1n, Greg Paulus
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoshi/)*

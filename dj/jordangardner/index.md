@@ -1,6 +1,6 @@
 # Jordan Gardner
 
-Jordan Gardner is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Jordan Gardner is a Club and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Jordan Gardner is a club and house artist tracked on soundcheck, with 30 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside Ard1n, Groceries and HVN (1). Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -28,4 +28,4 @@ Jordan Gardner is a club and house artist tracked on soundcheck, with 30 sets lo
 
 Ard1n, Groceries, HVN (1)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*

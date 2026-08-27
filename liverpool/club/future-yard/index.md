@@ -1,6 +1,6 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 16 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Dark Reign Presents Ashes of August" on Sat, 29 Aug 2026.
+Future Yard is a music venue in Liverpool with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Dark Reign Presents Ashes of August" on Sat, 29 Aug 2026.
 
 Future Yard is a music venue in Liverpool listed on soundcheck. 16 upcoming nights, with line-ups including African Head Charge, corto.alto, DJ Andy Smith and Grandmaster Flash and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
@@ -23,4 +23,4 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 16 upcoming nigh
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

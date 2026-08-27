@@ -1,6 +1,6 @@
 # Proteus
 
-Proteus is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
+Proteus is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
 
 Proteus is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Berlin, Glasgow, London and Oslo and 1 more. Often billed alongside Glotzer, Becky Stroke and Wax Wings. Next up: Vittoria Wharf Studio, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Proteus is a techno and experimental artist based in United Kingdom, tracked on 
 
 Glotzer, Becky Stroke, Wax Wings
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proteus-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/proteus-uk/)*

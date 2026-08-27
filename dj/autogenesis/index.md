@@ -1,6 +1,6 @@
 # Autogenesis
 
-Autogenesis is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
+Autogenesis is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
 
 Autogenesis is a techno and psytrance artist based in Australia, tracked on soundcheck, with 22 sets logged across Athens, Berlin, Budapest and Ghent and 5 more. Often billed alongside Jungist, Andy Garvey and Arsonist. Next up: Patision65, Athens on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Autogenesis is a techno and psytrance artist based in Australia, tracked on soun
 
 Jungist, Andy Garvey, Arsonist
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/autogenesis/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/autogenesis/)*

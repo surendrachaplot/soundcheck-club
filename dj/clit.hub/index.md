@@ -1,6 +1,6 @@
 # Clit.hub
 
-Clit.hub is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Nowadays, New York City on Thu, 27 Aug 2026.
+Clit.hub is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Nowadays, New York City on Thu, 27 Aug 2026.
 
 Clit.hub is a club and experimental artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside LITA DA DOLL, ARCHANGEL (US) and Amarji King. Next up: Nowadays, Newyorkcity on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Clit.hub is a club and experimental artist based in United States of America, tr
 
 LITA DA DOLL, ARCHANGEL (US), Amarji King
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clit.hub/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clit.hub/)*

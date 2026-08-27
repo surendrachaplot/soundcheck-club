@@ -1,6 +1,6 @@
 # Vinz Sosa
 
-Vinz Sosa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
+Vinz Sosa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Legal, Munich on Fri, 28 Aug 2026.
 
 Vinz Sosa is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Legal, Munich on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Vinz Sosa is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 dj sweet6teen, Terrakin, Hashashin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*

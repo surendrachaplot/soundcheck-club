@@ -1,6 +1,6 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Outdoor Location, Vancouver on Fri, 28 Aug 2026.
+Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Outdoor Location, Vancouver on Fri, 28 Aug 2026.
 
 Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: TBA - Outdoor Location, Vancouver on Fri 28 Aug.
 
@@ -32,4 +32,4 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 158 sets lo
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

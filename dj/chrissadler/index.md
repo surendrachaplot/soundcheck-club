@@ -1,6 +1,6 @@
 # Chris Sadler
 
-Chris Sadler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sky Lounge 360, Prague on Sat, 19 Sept 2026.
+Chris Sadler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sky Lounge 360, Prague on Sat, 19 Sept 2026.
 
 Chris Sadler is a house and techno artist tracked on soundcheck, with 13 sets logged across Prague. Often billed alongside Nika77, Orbith and Skeledan. Next up: Sky Lounge 360, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Chris Sadler is a house and techno artist tracked on soundcheck, with 13 sets lo
 
 Nika77, Orbith, Skeledan
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissadler/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissadler/)*

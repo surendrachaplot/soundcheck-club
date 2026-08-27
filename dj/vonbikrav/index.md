@@ -1,6 +1,6 @@
 # Von Bikräv
 
-Von Bikräv is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Sucre, Lyon on Sat, 12 Sept 2026.
+Von Bikräv is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Le Sucre, Lyon on Sat, 12 Sept 2026.
 
 Von Bikräv is a techno and hardcore artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Lolalita, Paul Seul and Claude Murder. Next up: Le Sucre, Lyon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Von Bikräv is a techno and hardcore artist tracked on soundcheck, with 39 sets 
 
 Lolalita, Paul Seul, Claude Murder
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbikrav/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbikrav/)*

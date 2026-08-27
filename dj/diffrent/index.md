@@ -1,6 +1,6 @@
 # Diffrent
 
-Diffrent is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Night Tales, London on Thu, 27 Aug 2026.
+Diffrent is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Night Tales, London on Thu, 27 Aug 2026.
 
 Diffrent is a house and garage artist tracked on soundcheck, with 131 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Kyle Starkey, Faster Horses and SAIDAH. Next up: Night Tales, London on Thu 27 Aug.
 
@@ -34,4 +34,4 @@ Diffrent is a house and garage artist tracked on soundcheck, with 131 sets logge
 
 Kyle Starkey, Faster Horses, SAIDAH
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

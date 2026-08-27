@@ -1,6 +1,6 @@
 # Ruzter
 
-Ruzter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
+Ruzter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
 
 Ruzter is a techno and house artist tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside LeeLee Mishi, 2HZY and ATARAS. Next up: Leslie Lookout Park, Toronto on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Ruzter is a techno and house artist tracked on soundcheck, with 5 sets logged ac
 
 LeeLee Mishi, 2HZY, ATARAS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruzter/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruzter/)*

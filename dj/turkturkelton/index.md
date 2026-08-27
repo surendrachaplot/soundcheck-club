@@ -1,6 +1,6 @@
 # Turk Turkelton
 
-Turk Turkelton is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
+Turk Turkelton is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
 
 Turk Turkelton is an electro and house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 2 more. Often billed alongside DJ MELL G, ALICE XLS and Abr.. Next up: Hoppetosse, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Turk Turkelton is an electro and house artist tracked on soundcheck, with 11 set
 
 DJ MELL G, ALICE XLS, Abr.
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turkturkelton/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turkturkelton/)*

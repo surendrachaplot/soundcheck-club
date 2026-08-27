@@ -1,6 +1,6 @@
 # Rodrigo Valdovinos
 
-Rodrigo Valdovinos is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at berlinClub, Madrid on Sat, 29 Aug 2026.
+Rodrigo Valdovinos is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at berlinClub, Madrid on Sat, 29 Aug 2026.
 
 Rodrigo Valdovinos is a deep house and tech house artist based in Argentina, tracked on soundcheck, with 18 sets logged across Barcelona, Buenosaires, Ibiza and Madrid. Often billed alongside Facundo Mohrr, Brizas and Chustek. Next up: berlinClub, Madrid on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Rodrigo Valdovinos is a deep house and tech house artist based in Argentina, tra
 
 Facundo Mohrr, Brizas, Chustek
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigovaldovinos/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigovaldovinos/)*

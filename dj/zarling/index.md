@@ -1,6 +1,6 @@
 # Zarling
 
-Zarling is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
+Zarling is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
 
 Zarling is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside degen, Dreimal T and schönfeld. Next up: Renate, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Zarling is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 degen, Dreimal T, schönfeld
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zarling/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zarling/)*

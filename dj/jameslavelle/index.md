@@ -1,6 +1,6 @@
 # James Lavelle
 
-James Lavelle is a Hip-Hop and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at fabric, London on Sat, 29 Aug 2026.
+James Lavelle is a Hip-Hop and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at fabric, London on Sat, 29 Aug 2026.
 
 James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Belfast and Birmingham and 11 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: fabric, London on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 
 UNKLE, Elliot Schooling, Liam Palmer
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*

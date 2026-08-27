@@ -1,6 +1,6 @@
 # TRYPTAJ
 
-TRYPTAJ is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+TRYPTAJ is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 TRYPTAJ is a trance and techno artist tracked on soundcheck, with 17 sets logged across Berlin and Hamburg. Often billed alongside Frank Rayo, TZO (1) and Staszko. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ TRYPTAJ is a trance and techno artist tracked on soundcheck, with 17 sets logged
 
 Frank Rayo, TZO (1), Staszko
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tryptaj/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tryptaj/)*

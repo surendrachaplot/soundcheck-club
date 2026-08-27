@@ -1,6 +1,6 @@
 # Hele
 
-Hele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at B2 Rīga, Riga on Sat, 12 Sept 2026.
+Hele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at B2 Rīga, Riga on Sat, 12 Sept 2026.
 
 Hele is a house and techno artist tracked on soundcheck, with 9 sets logged across Oslo, Riga and Tallinn. Often billed alongside Abdul Raeva, Alys and Arto. Next up: B2 Rīga, Riga on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Hele is a house and techno artist tracked on soundcheck, with 9 sets logged acro
 
 Abdul Raeva, Alys, Arto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hele/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hele/)*

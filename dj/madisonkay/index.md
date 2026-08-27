@@ -1,6 +1,6 @@
 # Madison Kay
 
-Madison Kay is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
+Madison Kay is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
 
 Madison Kay is a techno and electronica artist tracked on soundcheck, with 32 sets logged across Miami and Washingtondc. Often billed alongside Kevin Bithell, Naomi Luna and Gioh Cecato. Next up: Studio 60, Miami on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Madison Kay is a techno and electronica artist tracked on soundcheck, with 32 se
 
 Kevin Bithell, Naomi Luna, Gioh Cecato
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonkay/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madisonkay/)*

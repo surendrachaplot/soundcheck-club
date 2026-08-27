@@ -1,6 +1,6 @@
 # ANDI WALL
 
-ANDI WALL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
+ANDI WALL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
 
 ANDI WALL is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Sol System, Fabricated Ambiance and Fattie Bee. Next up: Honey's, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ANDI WALL is a house and deep house artist based in United States of America, tr
 
 Sol System, Fabricated Ambiance, Fattie Bee
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andiwall/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andiwall/)*

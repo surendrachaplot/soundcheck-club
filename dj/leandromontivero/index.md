@@ -1,6 +1,6 @@
 # Leandro Montivero
 
-Leandro Montivero is a Electronica and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 30 Aug 2026.
+Leandro Montivero is a Electronica and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 30 Aug 2026.
 
 Leandro Montivero is an electronica and tech house artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside EVES DJ, MøønkiZa and Cherman (2). Next up: Azul Rooftop Barceloneta, Barcelona on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ Leandro Montivero is an electronica and tech house artist tracked on soundcheck,
 
 EVES DJ, MøønkiZa, Cherman (2)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leandromontivero/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leandromontivero/)*

@@ -1,6 +1,6 @@
 # Pursuit Grooves
 
-Pursuit Grooves is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Jama, Toronto on Thu, 27 Aug 2026.
+Pursuit Grooves is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Jama, Toronto on Thu, 27 Aug 2026.
 
 Pursuit Grooves is a house and techno artist tracked on soundcheck, with 16 sets logged across Toronto. Often billed alongside Nicholas Nothing, AMV.3 and Ceremonies. Next up: The Jama, Toronto on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Pursuit Grooves is a house and techno artist tracked on soundcheck, with 16 sets
 
 Nicholas Nothing, AMV.3, Ceremonies
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pursuit-grooves/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pursuit-grooves/)*

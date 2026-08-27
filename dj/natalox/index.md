@@ -1,6 +1,6 @@
 # Natalox
 
-Natalox is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
+Natalox is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
 
 Natalox is a house and techno artist tracked on soundcheck, with 14 sets logged across Hamburg and Vienna. Often billed alongside Tekkida, Fredda and Bobbery. Next up: YOTO, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Natalox is a house and techno artist tracked on soundcheck, with 14 sets logged 
 
 Tekkida, Fredda, Bobbery
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalox/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalox/)*

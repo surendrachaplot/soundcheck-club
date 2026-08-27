@@ -1,14 +1,13 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at [UNVRS], Ibiza on Wed, 26 Aug 2026.
+Luke Dean_ is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Luke Dean_ is a house and tech house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 28 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: [UNVRS], Ibiza on Wed 26 Aug.
+Luke Dean_ is a house and tech house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 28 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | [UNVRS] | Ibiza |
 | Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Thu, 3 Sept 2026 | Spybar | Chicago |
 | Sun, 6 Sept 2026 | New City Gas | Montreal |
@@ -22,6 +21,7 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 106 sets
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 26 Aug 2026
 - Colorado Charlie, The Hague — Sun, 23 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 31 Jul 2026
 - Brooklyn Storehouse, New York City — Fri, 24 Jul 2026
@@ -29,10 +29,9 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 106 sets
 - Amnesia Ibiza, Ibiza — Sun, 12 Jul 2026
 - Quarters, Brighton — Sat, 11 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- 528 Ibiza, Ibiza — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

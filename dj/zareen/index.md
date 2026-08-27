@@ -1,6 +1,6 @@
 # ZAREEN
 
-ZAREEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
+ZAREEN is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Maaya, Berlin on Sat, 29 Aug 2026.
 
 ZAREEN is a house and tech house artist based in Italy, tracked on soundcheck, with 13 sets logged across Berlin, Milan, Paris and Sandiego. Often billed alongside DJ IDeaL, AMBRA and AMIRA. Next up: Maaya, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ZAREEN is a house and tech house artist based in Italy, tracked on soundcheck, w
 
 DJ IDeaL, AMBRA, AMIRA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zareen/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zareen/)*

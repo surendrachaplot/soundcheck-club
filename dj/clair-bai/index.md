@@ -1,6 +1,6 @@
 # CLAIR (BAI)
 
-CLAIR (BAI) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+CLAIR (BAI) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 CLAIR (BAI) is a trance and techno artist based in China, tracked on soundcheck, with 16 sets logged across Brisbane, Madrid, Melbourne and Seoul and 3 more. Often billed alongside zzm (2), Beibeilon and DJ ALI (AU). Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ CLAIR (BAI) is a trance and techno artist based in China, tracked on soundcheck,
 
 zzm (2), Beibeilon, DJ ALI (AU)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*

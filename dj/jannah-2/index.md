@@ -1,6 +1,6 @@
 # jannah
 
-jannah is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at De Fik Garden, Amsterdam on Thu, 27 Aug 2026.
+jannah is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at De Fik Garden, Amsterdam on Thu, 27 Aug 2026.
 
 jannah is a techno and electro artist tracked on soundcheck, with 61 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside David Vunk, Serge and Afra. Next up: De Fik Garden, Amsterdam on Thu 27 Aug.
 
@@ -30,4 +30,4 @@ jannah is a techno and electro artist tracked on soundcheck, with 61 sets logged
 
 David Vunk, Serge, Afra
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jannah-2/)*

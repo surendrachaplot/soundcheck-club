@@ -1,6 +1,6 @@
 # pruefunke
 
-pruefunke is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+pruefunke is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 pruefunke is a drum & bass and bass artist tracked on soundcheck, with 10 sets logged across Hamburg and Leipzig. Often billed alongside SUNS, Eightball and Fibe. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ pruefunke is a drum & bass and bass artist tracked on soundcheck, with 10 sets l
 
 SUNS, Eightball, Fibe
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pruefunke/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pruefunke/)*

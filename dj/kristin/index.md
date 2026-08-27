@@ -1,6 +1,6 @@
 # Kris Tin
 
-Kris Tin is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 27 Aug 2026.
+Kris Tin is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 27 Aug 2026.
 
 Kris Tin is a techno and industrial artist tracked on soundcheck, with 53 sets logged across Berlin, Losangeles, Montreal and Toronto. Often billed alongside K657, Meen Moreen and Dopamyne. Next up: Jardins Gamelin, Montreal on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ Kris Tin is a techno and industrial artist tracked on soundcheck, with 53 sets l
 
 K657, Meen Moreen, Dopamyne
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristin/)*

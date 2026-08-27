@@ -1,6 +1,6 @@
 # Taylor Shockley
 
-Taylor Shockley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Dolphin, Philadelphia on Sat, 29 Aug 2026.
+Taylor Shockley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Dolphin, Philadelphia on Sat, 29 Aug 2026.
 
 Taylor Shockley is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Boston and Brussels and 8 more. Often billed alongside 98dots, Carl H and Aurora Halal. Next up: The Dolphin, Philadelphia on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Taylor Shockley is a techno and house artist based in United States of America, 
 
 98dots, Carl H, Aurora Halal
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*

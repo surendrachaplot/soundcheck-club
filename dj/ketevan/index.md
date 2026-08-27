@@ -1,6 +1,6 @@
 # KETEVAN
 
-KETEVAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
+KETEVAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
 
 KETEVAN is a techno and house artist tracked on soundcheck, with 28 sets logged across Tbilisi and Vienna. Often billed alongside Neon Warrior, gwän and Dual Pistols. Next up: Mtkvarze, Tbilisi on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ KETEVAN is a techno and house artist tracked on soundcheck, with 28 sets logged 
 
 Neon Warrior, gwän, Dual Pistols
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketevan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ketevan/)*

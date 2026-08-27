@@ -1,6 +1,6 @@
 # DJ PI-GE
 
-DJ PI-GE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
+DJ PI-GE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
 
 DJ PI-GE is a house and techno artist based in Japan, tracked on soundcheck, with 11 sets logged across Seoul and Tokyo. Often billed alongside Satoshi Otsuki, Kyper and Kikiorix. Next up: Modeci, Seoul on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ PI-GE is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 Satoshi Otsuki, Kyper, Kikiorix
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpi-ge/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpi-ge/)*

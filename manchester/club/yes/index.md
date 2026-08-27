@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro" on Fri, 28 Aug 2026.
+Yes is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro" on Fri, 28 Aug 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including 1-800 GIRLS, Dan Louder, Digitalism and Girlfriend and 2 more. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 13 upcoming nights, wit
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

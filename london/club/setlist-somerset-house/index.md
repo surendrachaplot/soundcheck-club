@@ -1,6 +1,6 @@
 # Setlist @ Somerset House
 
-Setlist @ Somerset House is a music venue in London with 17 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "R&B and FUNKY HOUSE NIGHT presents GRACIOUS K & TRIBAL MAGZ" on Fri, 28 Aug 2026.
+Setlist @ Somerset House is a music venue in London with 17 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "R&B and FUNKY HOUSE NIGHT presents GRACIOUS K & TRIBAL MAGZ" on Fri, 28 Aug 2026.
 
 Setlist @ Somerset House is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Atjazz, Handson Family and Supa D. Browse upcoming dates, start times and who's playing. SOMERSET HOUSE, STRAND LONDON, WC2R 1LA.
 
@@ -23,4 +23,4 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 17 upc
 
 SOMERSET HOUSE, STRAND LONDON, WC2R 1LA, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/setlist-somerset-house/)*

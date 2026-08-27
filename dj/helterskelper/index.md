@@ -1,6 +1,6 @@
 # Helter Skelper
 
-Helter Skelper is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Voodoo Rooms, Edinburgh on Sun, 30 Aug 2026.
+Helter Skelper is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Voodoo Rooms, Edinburgh on Sun, 30 Aug 2026.
 
 Helter Skelper is a house and disco artist tracked on soundcheck, with 20 sets logged across Edinburgh. Often billed alongside Amber Leith, Chameleon (1) and Frankie Elyse. Next up: The Voodoo Rooms, Edinburgh on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Helter Skelper is a house and disco artist tracked on soundcheck, with 20 sets l
 
 Amber Leith, Chameleon (1), Frankie Elyse
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helterskelper/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helterskelper/)*

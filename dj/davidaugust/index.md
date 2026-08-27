@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ZENNER, Berlin on Sat, 31 Oct 2026.
+David August is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ZENNER, Berlin on Sat, 31 Oct 2026.
 
 David August is an experimental and electronica artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Sofia Kourtesis, Bendik Giske and DE:MA. Next up: ZENNER, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ David August is an experimental and electronica artist tracked on soundcheck, wi
 
 Sofia Kourtesis, Bendik Giske, DE:MA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

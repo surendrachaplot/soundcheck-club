@@ -1,6 +1,6 @@
 # Azar Club
 
-Azar Club is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "OPENING - La Commerciale - Jeudi 27 août - Azar Club" on Thu, 27 Aug 2026.
+Azar Club is a music venue in Lyon with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "OPENING - La Commerciale - Jeudi 27 août - Azar Club" on Thu, 27 Aug 2026.
 
 Azar Club is a music venue in Lyon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 52 Quai Rambaud 69002 Lyon.
 
@@ -14,4 +14,4 @@ Azar Club is a music venue in Lyon listed on soundcheck. 1 upcoming night. Brows
 
 52 Quai Rambaud 69002 Lyon, Lyon
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/azar-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/azar-club/)*

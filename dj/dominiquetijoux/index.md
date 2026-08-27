@@ -1,6 +1,6 @@
 # Dominique Tijoux
 
-Dominique Tijoux is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
+Dominique Tijoux is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
 
 Dominique Tijoux is a house and progressive house artist tracked on soundcheck, with 5 sets logged across Barcelona and Buenosaires. Often billed alongside Javier Labarca, Daniel Sanchez and Munøz. Next up: Macarena Club, Barcelona on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Dominique Tijoux is a house and progressive house artist tracked on soundcheck, 
 
 Javier Labarca, Daniel Sanchez, Munøz
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquetijoux/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquetijoux/)*

@@ -1,6 +1,6 @@
 # Kim Laughton
 
-Kim Laughton is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
+Kim Laughton is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 29 Aug 2026.
 
 Kim Laughton is a techno and experimental artist tracked on soundcheck, with 16 sets logged across London, Manchester and Tokyo. Often billed alongside Tzusing, MOUTH and PRETTYBWOY. Next up: Heavy Sick Zero, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kim Laughton is a techno and experimental artist tracked on soundcheck, with 16 
 
 Tzusing, MOUTH, PRETTYBWOY
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*

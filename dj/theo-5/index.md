@@ -1,6 +1,6 @@
 # THEO (5)
 
-THEO (5) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Starlane Pizza Bar, London on Thu, 27 Aug 2026.
+THEO (5) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Starlane Pizza Bar, London on Thu, 27 Aug 2026.
 
 THEO (5) is a house and tech house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside T Simm, ANLON and FITS ME FUNNY. Next up: Starlane Pizza Bar, London on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ THEO (5) is a house and tech house artist tracked on soundcheck, with 10 sets lo
 
 T Simm, ANLON, FITS ME FUNNY
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-5/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-5/)*

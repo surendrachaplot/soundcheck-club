@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Smoove: Continental GT, Supa D, Crazy Cousinz + more" on Fri, 28 Aug 2026.
+Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Smoove: Continental GT, Supa D, Crazy Cousinz + more" on Fri, 28 Aug 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming n
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

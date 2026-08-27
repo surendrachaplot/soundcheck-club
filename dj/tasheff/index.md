@@ -1,14 +1,15 @@
 # Tasheff
 
-Tasheff is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
+Tasheff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
 
-Tasheff is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside porygon k, ALLAN RITUAL and Papa Giorgio. Next up: Jade, Newyorkcity on Sat 5 Sept.
+Tasheff is a techno and house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside porygon k, ALLAN RITUAL and Papa Giorgio. Next up: Jade, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Jade | New York City |
+| Wed, 9 Sept 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tasheff is a techno and house artist based in United States of America, tracked 
 
 porygon k, ALLAN RITUAL, Papa Giorgio
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tasheff/)*

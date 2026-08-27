@@ -1,6 +1,6 @@
 # Lisek
 
-Lisek is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
+Lisek is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Lisek is a techno and trance artist tracked on soundcheck, with 55 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside DJ Sweedee, Sober At The Disco and CH4YN. Next up: Sommerbad Neukölln, Berlin on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Lisek is a techno and trance artist tracked on soundcheck, with 55 sets logged a
 
 DJ Sweedee, Sober At The Disco, CH4YN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*

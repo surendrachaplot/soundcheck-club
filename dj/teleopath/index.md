@@ -1,6 +1,6 @@
 # teleopath
 
-teleopath is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at radial, London on Sun, 30 Aug 2026.
+teleopath is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at radial, London on Sun, 30 Aug 2026.
 
 teleopath is a disco and techno artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Berlin, London and Sheffield. Often billed alongside Tafkanik, S_STEELE and Liam Parsons. Next up: radial, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ teleopath is a disco and techno artist based in United Kingdom, tracked on sound
 
 Tafkanik, S_STEELE, Liam Parsons
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*

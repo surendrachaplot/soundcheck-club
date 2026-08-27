@@ -1,6 +1,6 @@
 # Temry
 
-Temry is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Museum Angewandte Kunst, Frankfurt on Fri, 28 Aug 2026.
+Temry is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Museum Angewandte Kunst, Frankfurt on Fri, 28 Aug 2026.
 
 Temry is a house and hip-hop artist tracked on soundcheck, with 11 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside ALFREDT, Bunsen and CHELO. Next up: Museum Angewandte Kunst, Frankfurt on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Temry is a house and hip-hop artist tracked on soundcheck, with 11 sets logged a
 
 ALFREDT, Bunsen, CHELO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/temry/)*

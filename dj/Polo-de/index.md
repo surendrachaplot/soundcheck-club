@@ -1,6 +1,6 @@
 # Polo (DE)
 
-Polo (DE) is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Polo (DE) is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 Polo (DE) is a house and ambient artist tracked on soundcheck, with 4 sets logged across Hamburg, Leipzig and Zurich. Often billed alongside 96kbps, AALIYAH and BEQA. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Polo (DE) is a house and ambient artist tracked on soundcheck, with 4 sets logge
 
 96kbps, AALIYAH, BEQA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Polo-de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Polo-de/)*

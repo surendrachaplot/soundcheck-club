@@ -1,6 +1,6 @@
 # saskia laval
 
-saskia laval is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
+saskia laval is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
 
 saskia laval is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Thehague. Often billed alongside Gaya Carmeli, Alex Sharp and CØPTER. Next up: John Doe, Amsterdam on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ saskia laval is a techno and minimal techno artist based in Netherlands, tracked
 
 Gaya Carmeli, Alex Sharp, CØPTER
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saskialaval/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saskialaval/)*

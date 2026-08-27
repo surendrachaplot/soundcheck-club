@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "NO TOMORROW - NYCTO, Kiuz, And/Or, dtnb" on Fri, 28 Aug 2026.
+Aether Club Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NO TOMORROW - NYCTO, Kiuz, And/Or, dtnb" on Fri, 28 Aug 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including And/Or, Antique (HU), Captain Knuckles and Daniel Moritz and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -17,4 +17,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 4 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

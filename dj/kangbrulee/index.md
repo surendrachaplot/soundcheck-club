@@ -1,6 +1,6 @@
 # Kang Brulèe
 
-Kang Brulèe is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Sept 2026.
+Kang Brulèe is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Sept 2026.
 
 Kang Brulèe is a techno and bass artist tracked on soundcheck, with 5 sets logged across Milan. Often billed alongside Cristian Comes, Dogs I Know and BOPINTROUBLE. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Kang Brulèe is a techno and bass artist tracked on soundcheck, with 5 sets logg
 
 Cristian Comes, Dogs I Know, BOPINTROUBLE
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kangbrulee/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kangbrulee/)*

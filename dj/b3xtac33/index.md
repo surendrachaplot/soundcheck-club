@@ -1,6 +1,6 @@
 # b3xtac33
 
-b3xtac33 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
+b3xtac33 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Process PDX, Portland on Thu, 27 Aug 2026.
 
 b3xtac33 is a bass and techno artist tracked on soundcheck, with 5 sets logged across Portland. Often billed alongside Sol Elicio, Ana Sia and Ben Bondy. Next up: Process PDX, Portland on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ b3xtac33 is a bass and techno artist tracked on soundcheck, with 5 sets logged a
 
 Sol Elicio, Ana Sia, Ben Bondy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b3xtac33/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b3xtac33/)*

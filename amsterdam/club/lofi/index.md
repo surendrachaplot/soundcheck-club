@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi" on Sat, 29 Aug 2026.
+Lofi is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT1 - Lofi" on Sat, 29 Aug 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Yulia Niko, Agents Of Time, Aldonna and Amanda Mussi and 2 more. Browse upcoming dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, wit
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

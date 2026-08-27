@@ -1,6 +1,6 @@
 # Dicky Trisco
 
-Dicky Trisco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Street, Edinburgh on Sat, 29 Aug 2026.
+Dicky Trisco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Street, Edinburgh on Sat, 29 Aug 2026.
 
 Dicky Trisco is a disco and house artist tracked on soundcheck, with 60 sets logged across Aberdeen, Bangkok, Barcelona and Denver and 12 more. Often billed alongside Natasha Kitty Katt, Lisa Loud and Irena Stanisic. Next up: The Street, Edinburgh on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dicky Trisco is a disco and house artist tracked on soundcheck, with 60 sets log
 
 Natasha Kitty Katt, Lisa Loud, Irena Stanisic
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*

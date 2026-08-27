@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DONNERSTRADA with LiSSTN & Memet Acuma" on Thu, 27 Aug 2026.
+PRST is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DONNERSTRADA with LiSSTN & Memet Acuma" on Thu, 27 Aug 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including 11:68PM, Andrea Saba, Andy Catana and Anna Ullrich and 2 more. Browse upcoming dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -19,4 +19,4 @@ PRST is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with li
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

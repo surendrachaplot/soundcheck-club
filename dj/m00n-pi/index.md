@@ -1,6 +1,6 @@
 # M00N-Pi
 
-M00N-Pi is a Ballroom and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TV Lounge, Detroit on Fri, 28 Aug 2026.
+M00N-Pi is a Ballroom and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TV Lounge, Detroit on Fri, 28 Aug 2026.
 
 M00N-Pi is a ballroom and club artist tracked on soundcheck, with 4 sets logged across Detroit. Often billed alongside we1sman, Just Shacoi and jamea.. Next up: TV Lounge, Detroit on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ M00N-Pi is a ballroom and club artist tracked on soundcheck, with 4 sets logged 
 
 we1sman, Just Shacoi, jamea.
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m00n-pi/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m00n-pi/)*

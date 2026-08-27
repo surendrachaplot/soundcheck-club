@@ -1,6 +1,6 @@
 # Molly Lin
 
-Molly Lin is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Social Room, Hong Kong on Sat, 5 Sept 2026.
+Molly Lin is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Social Room, Hong Kong on Sat, 5 Sept 2026.
 
 Molly Lin is a jungle and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Hongkong and Leeds and 4 more. Often billed alongside Twisted Jack, WEIZO and DE FEO. Next up: Social Room, Hongkong on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Molly Lin is a jungle and techno artist tracked on soundcheck, with 9 sets logge
 
 Twisted Jack, WEIZO, DE FEO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylin/)*

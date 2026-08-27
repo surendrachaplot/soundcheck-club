@@ -1,6 +1,6 @@
 # Mango and Ginger
 
-Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
+Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - DTLA Warehouse, Los Angeles on Fri, 18 Sept 2026.
 
 Mango and Ginger are a baile funk and reggaeton duo tracked on soundcheck, with 43 sets logged across Berlin, Chicago, Losangeles and Montreal and 5 more. Often billed alongside Cquestt, Bianca Maieli and DINABN. Next up: TBA - DTLA Warehouse, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mango and Ginger are a baile funk and reggaeton duo tracked on soundcheck, with 
 
 Cquestt, Bianca Maieli, DINABN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoandginger/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoandginger/)*

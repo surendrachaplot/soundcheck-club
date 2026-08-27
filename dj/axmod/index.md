@@ -1,6 +1,6 @@
 # AxMod
 
-AxMod is a Deep House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at La Nuit, Paris on Sat, 17 Oct 2026.
+AxMod is a Deep House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Nuit, Paris on Sat, 17 Oct 2026.
 
 AxMod is a deep house and club artist tracked on soundcheck, with 11 sets logged across Paris. Often billed alongside Winson, Solidmind and ATARAX. Next up: La Nuit, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ AxMod is a deep house and club artist tracked on soundcheck, with 11 sets logged
 
 Winson, Solidmind, ATARAX
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axmod/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axmod/)*

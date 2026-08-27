@@ -1,6 +1,6 @@
 # Sexy Lazer
 
-Sexy Lazer is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Byhaven, Copenhagen on Sun, 30 Aug 2026.
+Sexy Lazer is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Byhaven, Copenhagen on Sun, 30 Aug 2026.
 
 Sexy Lazer is a house and disco artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf and 2 more. Often billed alongside Shumi, Hightower Soundsystem and Peter Invasion. Next up: Byhaven, Copenhagen on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Sexy Lazer is a house and disco artist tracked on soundcheck, with 17 sets logge
 
 Shumi, Hightower Soundsystem, Peter Invasion
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexylazer/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sexylazer/)*

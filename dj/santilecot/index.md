@@ -1,6 +1,6 @@
 # Santi Lecot
 
-Santi Lecot is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at berlinClub, Madrid on Sat, 29 Aug 2026.
+Santi Lecot is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at berlinClub, Madrid on Sat, 29 Aug 2026.
 
 Santi Lecot is a house and progressive house artist tracked on soundcheck, with 10 sets logged across Barcelona, Madrid and Zurich. Often billed alongside Shiver (AR), pr:mo and Babo. Next up: berlinClub, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Santi Lecot is a house and progressive house artist tracked on soundcheck, with 
 
 Shiver (AR), pr:mo, Babo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santilecot/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santilecot/)*

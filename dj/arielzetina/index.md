@@ -1,6 +1,6 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
+Ariel Zetina is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 27 Aug 2026.
 
 Ariel Zetina is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: Bossa Nova Civic Club, Newyorkcity on Thu 27 Aug.
 
@@ -29,4 +29,4 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 189 sets l
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

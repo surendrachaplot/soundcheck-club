@@ -1,6 +1,6 @@
 # R4F4
 
-R4F4 is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+R4F4 is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 R4F4 is an electro and progressive house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Easy K, Suzanne Dolmancé and La Schmock. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ R4F4 is an electro and progressive house artist tracked on soundcheck, with 6 se
 
 Easy K, Suzanne Dolmancé, La Schmock
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r4f4/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/r4f4/)*

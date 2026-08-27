@@ -1,6 +1,6 @@
 # Nitecaps
 
-Nitecaps is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paper, Seoul on Fri, 28 Aug 2026.
+Nitecaps is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Paper, Seoul on Fri, 28 Aug 2026.
 
 Nitecaps is a house and minimal artist tracked on soundcheck, with 42 sets logged across Seoul. Often billed alongside Kimmingi, Austen and Jesse You. Next up: Paper, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Nitecaps is a house and minimal artist tracked on soundcheck, with 42 sets logge
 
 Kimmingi, Austen, Jesse You
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitecaps/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitecaps/)*

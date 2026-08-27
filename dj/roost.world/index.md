@@ -1,6 +1,6 @@
 # Roost.World
 
-Roost.World is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Jupiter Disco, New York City on Thu, 3 Sept 2026.
+Roost.World is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jupiter Disco, New York City on Thu, 3 Sept 2026.
 
 Roost.World is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Washingtondc. Often billed alongside Mole (US), Babypufff and Black Grealish. Next up: Jupiter Disco, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Roost.World is a techno and house artist based in United States of America, trac
 
 Mole (US), Babypufff, Black Grealish
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roost.world/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roost.world/)*

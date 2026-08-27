@@ -1,6 +1,6 @@
 # Estevez (1)
 
-Estevez (1) is a Dubstep and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
+Estevez (1) is a Dubstep and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Sat, 29 Aug 2026.
 
 Estevez (1) is a dubstep and hardcore artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Nio-B, Shoplifting and Wiwson. Next up: Planet Wax, London on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Estevez (1) is a dubstep and hardcore artist based in United Kingdom, tracked on
 
 Nio-B, Shoplifting, Wiwson
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estevez-1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estevez-1/)*

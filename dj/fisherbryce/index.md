@@ -1,6 +1,6 @@
 # Fisher Bryce
 
-Fisher Bryce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - East Van, Vancouver on Sat, 29 Aug 2026.
+Fisher Bryce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - East Van, Vancouver on Sat, 29 Aug 2026.
 
 Fisher Bryce is a house and techno artist tracked on soundcheck, with 34 sets logged across Mexicocity, Seattle and Vancouver. Often billed alongside ZIGGY ZAYA, educación física and jiggity jeff. Next up: TBA - East Van, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Fisher Bryce is a house and techno artist tracked on soundcheck, with 34 sets lo
 
 ZIGGY ZAYA, educación física, jiggity jeff
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*

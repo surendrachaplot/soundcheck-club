@@ -1,6 +1,6 @@
 # MYNA
 
-MYNA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
+MYNA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
 
 MYNA is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, London, Manchester and Miami and 1 more. Often billed alongside Gracie T, Shannon From Admin and colecta. Next up: Studio 60, Miami on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ MYNA is a techno and house artist tracked on soundcheck, with 54 sets logged acr
 
 Gracie T, Shannon From Admin, colecta
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*

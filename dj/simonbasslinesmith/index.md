@@ -1,6 +1,6 @@
 # Simon Bassline Smith
 
-Simon Bassline Smith is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Simon Bassline Smith is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Simon Bassline Smith is a jungle and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London, Manchester and Sheffield. Often billed alongside DJ SS, Kenny Ken and Nicky Blackmarket. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Simon Bassline Smith is a jungle and house artist based in United Kingdom, track
 
 DJ SS, Kenny Ken, Nicky Blackmarket
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonbasslinesmith/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonbasslinesmith/)*

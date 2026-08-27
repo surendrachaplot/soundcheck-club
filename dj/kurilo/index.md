@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at MAD Radio NYC, New York City on Sat, 29 Aug 2026.
+Kurilo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at MAD Radio NYC, New York City on Sat, 29 Aug 2026.
 
 Kurilo is a house and techno artist tracked on soundcheck, with 113 sets logged across Berlin, Boston, Detroit and Losangeles and 6 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: MAD Radio NYC, Newyorkcity on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Kurilo is a house and techno artist tracked on soundcheck, with 113 sets logged 
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

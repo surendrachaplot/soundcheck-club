@@ -1,6 +1,6 @@
 # Dominant Hand
 
-Dominant Hand is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at MAD Arts, Detroit on Thu, 1 Oct 2026.
+Dominant Hand is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at MAD Arts, Detroit on Thu, 1 Oct 2026.
 
 Dominant Hand is an experimental and ambient artist tracked on soundcheck, with 11 sets logged across Detroit. Often billed alongside ACE, Detroit Bureau of Sound and Ahya Simone. Next up: MAD Arts, Detroit on Thu 1 Oct.
 
@@ -27,4 +27,4 @@ Dominant Hand is an experimental and ambient artist tracked on soundcheck, with 
 
 ACE, Detroit Bureau of Sound, Ahya Simone
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominanthand/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominanthand/)*

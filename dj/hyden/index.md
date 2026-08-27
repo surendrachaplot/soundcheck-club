@@ -1,6 +1,6 @@
 # Hyden
 
-Hyden is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 5 Sept 2026.
+Hyden is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club Phoenix - Gianpula Village, Malta on Sat, 5 Sept 2026.
 
 Hyden is a techno and electro artist based in France, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Buenosaires and Copenhagen and 8 more. Often billed alongside Cleric, Félicie and Koboyo. Next up: Club Phoenix - Gianpula Village, Malta on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Hyden is a techno and electro artist based in France, tracked on soundcheck, wit
 
 Cleric, Félicie, Koboyo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*

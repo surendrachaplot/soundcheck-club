@@ -1,6 +1,6 @@
 # ALL1SØN
 
-ALL1SØN is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Le Scandale, Geneva on Sat, 29 Aug 2026.
+ALL1SØN is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Le Scandale, Geneva on Sat, 29 Aug 2026.
 
 ALL1SØN is a techno and acid artist based in Italy, tracked on soundcheck, with 2 sets logged across Geneva. Often billed alongside Alex Nantaya and JUICYMOKA. Next up: Le Scandale, Geneva on Sat 29 Aug.
 
@@ -15,4 +15,4 @@ ALL1SØN is a techno and acid artist based in Italy, tracked on soundcheck, with
 
 Alex Nantaya, JUICYMOKA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/all1son/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/all1son/)*

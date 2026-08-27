@@ -1,6 +1,6 @@
 # Dope Ammo
 
-Dope Ammo is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Social, London on Sat, 29 Aug 2026.
+Dope Ammo is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Social, London on Sat, 29 Aug 2026.
 
 Dope Ammo is a drum & bass and jungle artist tracked on soundcheck, with 15 sets logged across Amsterdam, Boston, Brighton and Bristol and 6 more. Often billed alongside Benny Page, Kleu and Scuffed. Next up: The Social, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dope Ammo is a drum & bass and jungle artist tracked on soundcheck, with 15 sets
 
 Benny Page, Kleu, Scuffed
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dopeammo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dopeammo/)*

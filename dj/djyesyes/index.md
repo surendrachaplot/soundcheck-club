@@ -1,6 +1,6 @@
 # DJ yesyes
 
-DJ yesyes is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Modeci, Seoul on Fri, 28 Aug 2026.
+DJ yesyes is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Modeci, Seoul on Fri, 28 Aug 2026.
 
 DJ yesyes is a techno and gabber artist tracked on soundcheck, with 22 sets logged across Seoul, Stockholm and Tokyo. Often billed alongside Yetsuby, Shins and Acidwork. Next up: Modeci, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ yesyes is a techno and gabber artist tracked on soundcheck, with 22 sets logg
 
 Yetsuby, Shins, Acidwork
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyesyes/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djyesyes/)*

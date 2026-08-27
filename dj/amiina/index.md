@@ -1,6 +1,6 @@
 # AMiiNA
 
-AMiiNA is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
+AMiiNA is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
 
 AMiiNA is a techno and dub techno artist tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside Danny Roach, Kabel and SHUNTA. Next up: The Star and Garter, Manchester on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ AMiiNA is a techno and dub techno artist tracked on soundcheck, with 4 sets logg
 
 Danny Roach, Kabel, SHUNTA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amiina/)*

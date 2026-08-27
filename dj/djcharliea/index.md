@@ -1,6 +1,6 @@
 # Charlie A.
 
-Charlie A. is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at NO DICE, London on Sat, 29 Aug 2026.
+Charlie A. is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at NO DICE, London on Sat, 29 Aug 2026.
 
 Charlie A. is an electro and idm artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Darykie, Diffriend and Sloan (2). Next up: NO DICE, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Charlie A. is an electro and idm artist tracked on soundcheck, with 5 sets logge
 
 Darykie, Diffriend, Sloan (2)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcharliea/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcharliea/)*

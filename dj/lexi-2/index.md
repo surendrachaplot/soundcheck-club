@@ -1,6 +1,6 @@
 # LEXI (2)
 
-LEXI (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Coil, Melbourne on Thu, 27 Aug 2026.
+LEXI (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Coil, Melbourne on Thu, 27 Aug 2026.
 
 LEXI (2) is a house and techno artist based in Australia, tracked on soundcheck, with 16 sets logged across Melbourne. Often billed alongside au4r33y, A.Well and Amber Ferraro. Next up: Coil, Melbourne on Thu 27 Aug.
 
@@ -26,4 +26,4 @@ LEXI (2) is a house and techno artist based in Australia, tracked on soundcheck,
 
 au4r33y, A.Well, Amber Ferraro
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*

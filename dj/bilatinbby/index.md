@@ -1,6 +1,6 @@
 # BiLatinBby
 
-BiLatinBby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Wicker Park, Chicago on Sat, 26 Sept 2026.
+BiLatinBby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Wicker Park, Chicago on Sat, 26 Sept 2026.
 
 BiLatinBby is a techno and house artist based in Brazil, tracked on soundcheck, with 9 sets logged across Chicago. Often billed alongside Juan aka grizzly, Jon McCray and Mister Wallace. Next up: TBA - Wicker Park, Chicago on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ BiLatinBby is a techno and house artist based in Brazil, tracked on soundcheck, 
 
 Juan aka grizzly, Jon McCray, Mister Wallace
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bilatinbby/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bilatinbby/)*

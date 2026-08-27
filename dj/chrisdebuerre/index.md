@@ -1,6 +1,6 @@
 # Chris de Buerre
 
-Chris de Buerre is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Electrowerkz, London on Sat, 5 Sept 2026.
+Chris de Buerre is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Electrowerkz, London on Sat, 5 Sept 2026.
 
 Chris de Buerre is an electronic artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside S_STEELE, Wildblood and Queenie and Dom de Sousa. Next up: Electrowerkz, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Chris de Buerre is an electronic artist tracked on soundcheck, with 6 sets logge
 
 S_STEELE, Wildblood and Queenie, Dom de Sousa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdebuerre/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdebuerre/)*

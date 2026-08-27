@@ -1,6 +1,6 @@
 # manu abeca
 
-manu abeca is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+manu abeca is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
 
 manu abeca is a techno and ambient artist tracked on soundcheck, with 19 sets logged across Berlin, Madrid, Munich and Osaka and 1 more. Often billed alongside bw (AR), Sam Eyvaz and Até.. Next up: Fuchs2, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ manu abeca is a techno and ambient artist tracked on soundcheck, with 19 sets lo
 
 bw (AR), Sam Eyvaz, Até.
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuabeca/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuabeca/)*

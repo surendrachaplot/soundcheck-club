@@ -1,6 +1,6 @@
 # Eden Burns
 
-Eden Burns is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Palais, London on Fri, 28 Aug 2026.
+Eden Burns is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Palais, London on Fri, 28 Aug 2026.
 
 Eden Burns is a house and tech house artist based in New Zealand, tracked on soundcheck, with 53 sets logged across Auckland, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Adriana (1), DJ City and Babycino. Next up: Palais, London on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Eden Burns is a house and tech house artist based in New Zealand, tracked on sou
 
 Adriana (1), DJ City, Babycino
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenburns/)*

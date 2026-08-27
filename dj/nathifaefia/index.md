@@ -1,6 +1,6 @@
 # NATHIFA EFIA
 
-NATHIFA EFIA is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
+NATHIFA EFIA is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
 
 NATHIFA EFIA is an amapiano and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, London and Paris. Often billed alongside AAA, Zoë Janice and Drea. Next up: CLUB RAUM, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NATHIFA EFIA is an amapiano and house artist tracked on soundcheck, with 13 sets
 
 AAA, Zoë Janice, Drea
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathifaefia/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nathifaefia/)*

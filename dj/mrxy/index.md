@@ -1,6 +1,6 @@
 # MRXY
 
-MRXY is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
+MRXY is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fiducial Asteria, Lyon on Sat, 19 Sept 2026.
 
 MRXY is a techno and bass artist tracked on soundcheck, with 9 sets logged across Lyon. Often billed alongside Alarico, Beau Didier and Ben Klock. Next up: Fiducial Asteria, Lyon on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MRXY is a techno and bass artist tracked on soundcheck, with 9 sets logged acros
 
 Alarico, Beau Didier, Ben Klock
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrxy/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrxy/)*

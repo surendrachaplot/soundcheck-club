@@ -1,6 +1,6 @@
 # YLS
 
-YLS is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Veleiro Principe Perfeito, Lisbon on Sat, 5 Sept 2026.
+YLS is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Veleiro Principe Perfeito, Lisbon on Sat, 5 Sept 2026.
 
 YLS is a drum & bass and jungle artist based in Portugal, tracked on soundcheck, with 9 sets logged across Brussels and Lisbon. Often billed alongside Xtanki, CHUBBZ and La Dame. Next up: Veleiro Principe Perfeito, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ YLS is a drum & bass and jungle artist based in Portugal, tracked on soundcheck,
 
 Xtanki, CHUBBZ, La Dame
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yls/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yls/)*

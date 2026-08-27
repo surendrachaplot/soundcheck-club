@@ -1,6 +1,6 @@
 # JP Lantieri
 
-JP Lantieri is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+JP Lantieri is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 JP Lantieri is a house and progressive house artist tracked on soundcheck, with 6 sets logged across Amsterdam, London and Paris. Often billed alongside Eddy Tango, 6RAJ and AMYMI MUSICA. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ JP Lantieri is a house and progressive house artist tracked on soundcheck, with 
 
 Eddy Tango, 6RAJ, AMYMI MUSICA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jplantieri/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jplantieri/)*

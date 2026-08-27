@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Thuishaven, Amsterdam on Sun, 30 Aug 2026.
+Dean Turnley is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Thuishaven, Amsterdam on Sun, 30 Aug 2026.
 
 Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 15 more. Often billed alongside Prospa, Beltran and Ben Sterling. Next up: Thuishaven, Amsterdam on Sun 30 Aug.
 
@@ -35,4 +35,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 set
 
 Prospa, Beltran, Ben Sterling
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

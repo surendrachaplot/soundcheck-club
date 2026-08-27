@@ -1,6 +1,6 @@
 # Fergus Jones
 
-Fergus Jones is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Laika, New York City on Thu, 3 Sept 2026.
+Fergus Jones is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Laika, New York City on Thu, 3 Sept 2026.
 
 Fergus Jones is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 15 more. Often billed alongside Alif Hilal, Mia Koden and Ryong. Next up: Bar Laika, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Fergus Jones is a techno and experimental artist based in United Kingdom, tracke
 
 Alif Hilal, Mia Koden, Ryong
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusjones/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fergusjones/)*

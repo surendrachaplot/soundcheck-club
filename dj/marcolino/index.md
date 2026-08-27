@@ -1,6 +1,6 @@
 # Marcolino
 
-Marcolino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
+Marcolino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
 
 Marcolino is a techno and electro artist tracked on soundcheck, with 84 sets logged across Barcelona, Berlin, Bucharest and Madrid and 7 more. Often billed alongside GNMR, IRIDE and Giammarco Orsini. Next up: Club der Visionaere, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Marcolino is a techno and electro artist tracked on soundcheck, with 84 sets log
 
 GNMR, IRIDE, Giammarco Orsini
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*

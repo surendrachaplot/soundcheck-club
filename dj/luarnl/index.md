@@ -1,6 +1,6 @@
 # LUAR (NL)
 
-LUAR (NL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
+LUAR (NL) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
 LUAR (NL) is a techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, Cologne and Milan and 2 more. Often billed alongside Any Mello, BIANKA and Djen (2). Next up: RADION, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LUAR (NL) is a techno artist tracked on soundcheck, with 10 sets logged across A
 
 Any Mello, BIANKA, Djen (2)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luarnl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luarnl/)*

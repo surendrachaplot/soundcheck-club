@@ -1,6 +1,6 @@
 # WeeDot
 
-WeeDot is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 28 Aug 2026.
+WeeDot is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Eastern Bloc Records, Manchester on Fri, 28 Aug 2026.
 
 WeeDot is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Cork and Manchester. Often billed alongside Róisín W, Pangölin and Pattie Mac. Next up: Eastern Bloc Records, Manchester on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ WeeDot is a house and progressive house artist based in United Kingdom, tracked 
 
 Róisín W, Pangölin, Pattie Mac
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weedot/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weedot/)*

@@ -1,6 +1,6 @@
 # Tiago de Renor
 
-Tiago de Renor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
+Tiago de Renor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
 
 Tiago de Renor is a techno and house artist based in Canada, tracked on soundcheck, with 29 sets logged across Vancouver. Often billed alongside Siavash, Perspectiv and Rodriguez Jr.. Next up: TBA - 1201 FRANKLIN ST, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Tiago de Renor is a techno and house artist based in Canada, tracked on soundche
 
 Siavash, Perspectiv, Rodriguez Jr.
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagoderenor/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagoderenor/)*

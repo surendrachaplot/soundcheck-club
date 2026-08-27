@@ -1,6 +1,6 @@
 # REV0LT
 
-REV0LT is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Chmury, Warsaw on Sat, 19 Sept 2026.
+REV0LT is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Chmury, Warsaw on Sat, 19 Sept 2026.
 
 REV0LT is an electro and ebm artist tracked on soundcheck, with 4 sets logged across Krakow and Warsaw. Often billed alongside Chino, Dizzy (PL) and Forest (PL). Next up: Chmury, Warsaw on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ REV0LT is an electro and ebm artist tracked on soundcheck, with 4 sets logged ac
 
 Chino, Dizzy (PL), Forest (PL)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rev0lt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rev0lt/)*

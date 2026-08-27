@@ -1,8 +1,8 @@
 # felipe d
 
-felipe d is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
+felipe d is a Baile Funk and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 28 Aug 2026.
 
-felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck, with 32 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside QUEENIE (US), Profesito and DJ Saratonin. Next up: Monarch, Sanfrancisco on Fri 28 Aug.
+felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck, with 33 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside QUEENIE (US), Profesito and DJ Saratonin. Next up: Monarch, Sanfrancisco on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Monarch | San Francisco/Oakland |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Fri, 25 Sept 2026 | TBA - SECRET LOCATION | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ felipe d is a baile funk and club artist based in Brazil, tracked on soundcheck,
 
 QUEENIE (US), Profesito, DJ Saratonin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feliped/)*

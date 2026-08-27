@@ -1,18 +1,17 @@
 # MOS' > Mystery of Sound
 
-MOS' > Mystery of Sound is a music venue in Naples with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "MOS'REBORN NO MORE LIMITS" on Tue, 25 Aug 2026.
+MOS' > Mystery of Sound is a music venue in Naples with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "THE PARTY ISN'T OVER" on Thu, 27 Aug 2026.
 
-MOS' > Mystery of Sound is a music venue in Naples listed on soundcheck. 2 upcoming nights, with line-ups including EKSPO. Browse upcoming dates, start times and who's playing. Vico San Giovanni Maggiore 1, 80134 Naples, Italy.
+MOS' > Mystery of Sound is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including EKSPO. Browse upcoming dates, start times and who's playing. Vico San Giovanni Maggiore 1, 80134 Naples, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | MOS'REBORN NO MORE LIMITS |  |
 | Thu, 27 Aug 2026 | THE PARTY ISN'T OVER | EKSPO |
 
 ## Address
 
 Vico San Giovanni Maggiore 1, 80134 Naples, Italy, Naples
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/mos-mystery-of-sound/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/mos-mystery-of-sound/)*

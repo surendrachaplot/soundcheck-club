@@ -1,6 +1,6 @@
 # DJ Reas
 
-DJ Reas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Audio Club, Geneva on Fri, 28 Aug 2026.
+DJ Reas is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Audio Club, Geneva on Fri, 28 Aug 2026.
 
 DJ Reas is a techno and house artist tracked on soundcheck, with 47 sets logged across Geneva. Often billed alongside La Forêt, DJ Deep and David Armada. Next up: Audio Club, Geneva on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ DJ Reas is a techno and house artist tracked on soundcheck, with 47 sets logged 
 
 La Forêt, DJ Deep, David Armada
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reas/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reas/)*

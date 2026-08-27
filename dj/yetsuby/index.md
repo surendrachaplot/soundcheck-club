@@ -1,6 +1,6 @@
 # Yetsuby
 
-Yetsuby is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cakeshop, Seoul on Tue, 1 Sept 2026.
+Yetsuby is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cakeshop, Seoul on Tue, 1 Sept 2026.
 
 Yetsuby is a bass and techno artist tracked on soundcheck, with 87 sets logged across Berlin, Hongkong, Kyoto and London and 3 more. Often billed alongside Arexibo, KISEWA and Hyejin. Next up: Cakeshop, Seoul on Tue 1 Sept.
 
@@ -26,4 +26,4 @@ Yetsuby is a bass and techno artist tracked on soundcheck, with 87 sets logged a
 
 Arexibo, KISEWA, Hyejin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*

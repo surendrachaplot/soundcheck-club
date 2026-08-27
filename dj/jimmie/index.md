@@ -1,6 +1,6 @@
 # Jimmie
 
-Jimmie is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Jimmie is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Jimmie is a techno and house artist based in Italy, tracked on soundcheck, with 28 sets logged across Berlin and Prague. Often billed alongside Kidcat, zikade and ilbroccolovolante. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Jimmie is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Kidcat, zikade, ilbroccolovolante
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*

@@ -1,6 +1,6 @@
 # Hurdslenk
 
-Hurdslenk is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Hurdslenk is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
 
 Hurdslenk is a techno and ghetto tech artist tracked on soundcheck, with 8 sets logged across Berlin, Edinburgh, Manchester and Newcastle and 1 more. Often billed alongside Darrell Pulse, Freddy K and Sean Laird. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Hurdslenk is a techno and ghetto tech artist tracked on soundcheck, with 8 sets 
 
 Darrell Pulse, Freddy K, Sean Laird
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hurdslenk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hurdslenk/)*

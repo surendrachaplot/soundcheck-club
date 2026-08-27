@@ -1,6 +1,6 @@
 # Almost Famous
 
-Almost Famous is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 26 Sept 2026.
+Almost Famous is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 26 Sept 2026.
 
 Almost Famous is a house and techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Munich. Often billed alongside groovyjuri, Käthe & Haes and Smau. Next up: Bulbul Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Almost Famous is a house and techno artist based in Germany, tracked on soundche
 
 groovyjuri, Käthe & Haes, Smau
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almostfamous/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almostfamous/)*

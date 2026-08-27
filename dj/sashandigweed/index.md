@@ -1,6 +1,6 @@
 # Sasha & John Digweed
 
-Sasha & John Digweed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at [UNVRS], Ibiza on Sun, 6 Sept 2026.
+Sasha & John Digweed is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at [UNVRS], Ibiza on Sun, 6 Sept 2026.
 
 Sasha & John Digweed are a techno and house duo based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Barcelona and Belfast and 6 more. Often billed alongside John Digweed, Nick Warren and Guy J. Next up: [UNVRS], Ibiza on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Sasha & John Digweed are a techno and house duo based in United Kingdom, tracked
 
 John Digweed, Nick Warren, Guy J
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*

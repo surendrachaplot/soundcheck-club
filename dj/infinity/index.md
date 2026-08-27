@@ -1,6 +1,6 @@
 # INFINITY
 
-INFINITY is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Chasers Nightclub, Melbourne on Fri, 11 Sept 2026.
+INFINITY is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Chasers Nightclub, Melbourne on Fri, 11 Sept 2026.
 
 INFINITY is a techno and deep house artist based in Sri Lanka, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Taglo, Kamilo Sanclemente and NOIYSE PROJECT. Next up: Chasers Nightclub, Melbourne on Fri 11 Sept.
 
@@ -15,4 +15,4 @@ INFINITY is a techno and deep house artist based in Sri Lanka, tracked on soundc
 
 Taglo, Kamilo Sanclemente, NOIYSE PROJECT
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infinity/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/infinity/)*

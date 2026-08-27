@@ -1,6 +1,6 @@
 # Peacharoo
 
-Peacharoo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kumharas, Ibiza on Sat, 29 Aug 2026.
+Peacharoo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kumharas, Ibiza on Sat, 29 Aug 2026.
 
 Peacharoo is a disco and house artist tracked on soundcheck, with 19 sets logged across Ibiza. Often billed alongside Bart Ricardo, Jens Lissat and Whoann. Next up: Kumharas, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Peacharoo is a disco and house artist tracked on soundcheck, with 19 sets logged
 
 Bart Ricardo, Jens Lissat, Whoann
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peacharoo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peacharoo/)*

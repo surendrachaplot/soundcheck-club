@@ -1,6 +1,6 @@
 # Luc (1)
 
-Luc (1) is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club NYX, Amsterdam on Sat, 12 Sept 2026.
+Luc (1) is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club NYX, Amsterdam on Sat, 12 Sept 2026.
 
 Luc (1) is an electronica and acid artist tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Berlin and London and 7 more. Often billed alongside Brasi, Lumiere and Marcolino. Next up: Club NYX, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Luc (1) is an electronica and acid artist tracked on soundcheck, with 22 sets lo
 
 Brasi, Lumiere, Marcolino
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*

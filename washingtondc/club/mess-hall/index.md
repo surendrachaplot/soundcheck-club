@@ -1,6 +1,6 @@
 # Mess Hall
 
-Mess Hall is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Extended Play with Ash Lauryn" on Sun, 20 Sept 2026.
+Mess Hall is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Extended Play with Ash Lauryn" on Sun, 20 Sept 2026.
 
 Mess Hall is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights, with line-ups including Ash Lauryn and DJ Spinna. Browse upcoming dates, start times and who's playing. 703 Edgewood St NE, Washington, DC 20017.
 
@@ -15,4 +15,4 @@ Mess Hall is a music venue in Washingtondc listed on soundcheck. 2 upcoming nigh
 
 703 Edgewood St NE, Washington, DC 20017, Washington DC
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/mess-hall/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/mess-hall/)*

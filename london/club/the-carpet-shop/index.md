@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 19 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "People's Assembly" on Thu, 27 Aug 2026.
+The Carpet Shop is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "People's Assembly" on Thu, 27 Aug 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 2xAA, Alexander Nut, Bushbby and Cleveland Watkiss and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming nig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

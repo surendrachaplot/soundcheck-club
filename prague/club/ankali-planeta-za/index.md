@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Yuggadus Birthday" on Fri, 28 Aug 2026.
+Ankali & Planeta Za is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Yuggadus Birthday" on Fri, 28 Aug 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including 3ever, Abo Abo, Adamovia and AE.WAI and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -23,4 +23,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 11 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

@@ -1,6 +1,6 @@
 # Dane Deveraux
 
-Dane Deveraux is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at telos.haus, New York City on Sun, 6 Sept 2026.
+Dane Deveraux is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at telos.haus, New York City on Sun, 6 Sept 2026.
 
 Dane Deveraux is a house and ambient artist based in United States of America, tracked on soundcheck, with 21 sets logged across Boston, Chicago, Losangeles and Newyorkcity. Often billed alongside Coyado, Joopiter and Monchai. Next up: telos.haus, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Dane Deveraux is a house and ambient artist based in United States of America, t
 
 Coyado, Joopiter, Monchai
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danedeveraux/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danedeveraux/)*

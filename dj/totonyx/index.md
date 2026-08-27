@@ -1,6 +1,6 @@
 # Tot Onyx
 
-Tot Onyx is a Industrial and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Tot Onyx is a Industrial and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
 Tot Onyx is an industrial and club artist tracked on soundcheck, with 16 sets logged across Berlin, London, Paris and Stockholm and 2 more. Often billed alongside 93Sovage, AM sin and Ale Hop. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Tot Onyx is an industrial and club artist tracked on soundcheck, with 16 sets lo
 
 93Sovage, AM sin, Ale Hop
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totonyx/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/totonyx/)*

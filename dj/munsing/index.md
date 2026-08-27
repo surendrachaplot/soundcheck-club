@@ -1,6 +1,6 @@
 # Mun Sing
 
-Mun Sing is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Strange Brew, Bristol on Sat, 29 Aug 2026.
+Mun Sing is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Strange Brew, Bristol on Sat, 29 Aug 2026.
 
 Mun Sing is an experimental and club artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Brussels and 19 more. Often billed alongside Slikback, ASJ and Alex Zhang Hungtai. Next up: Strange Brew, Bristol on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Mun Sing is an experimental and club artist tracked on soundcheck, with 42 sets 
 
 Slikback, ASJ, Alex Zhang Hungtai
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*

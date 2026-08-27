@@ -1,6 +1,6 @@
 # Phuong Dan
 
-Phuong Dan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at saasfee*pavillon, Frankfurt on Fri, 28 Aug 2026.
+Phuong Dan is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at saasfee*pavillon, Frankfurt on Fri, 28 Aug 2026.
 
 Phuong Dan is a techno and club artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 14 more. Often billed alongside Cloud Management, Yadin Moha and 404.zero. Next up: saasfee*pavillon, Frankfurt on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Phuong Dan is a techno and club artist based in Germany, tracked on soundcheck, 
 
 Cloud Management, Yadin Moha, 404.zero
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*

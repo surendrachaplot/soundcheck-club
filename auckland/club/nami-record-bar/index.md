@@ -1,6 +1,6 @@
 # nami record bar
 
-nami record bar is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Dj Sai Funkin" on Fri, 28 Aug 2026.
+nami record bar is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Dj Sai Funkin" on Fri, 28 Aug 2026.
 
 nami record bar is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Goldtooth. Browse upcoming dates, start times and who's playing. 115a Ponsonby Road, Ponsonby, Auckland.
 
@@ -15,4 +15,4 @@ nami record bar is a music venue in Auckland listed on soundcheck. 2 upcoming ni
 
 115a Ponsonby Road, Ponsonby, Auckland, Auckland
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/nami-record-bar/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/nami-record-bar/)*

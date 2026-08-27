@@ -1,6 +1,6 @@
 # Patrick (6)
 
-Patrick (6) is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bar Datcha, Montreal on Thu, 27 Aug 2026.
+Patrick (6) is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Datcha, Montreal on Thu, 27 Aug 2026.
 
 Patrick (6) is a tech house and electronica artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside bbyboybleu, Patrick and Jamvvis. Next up: Bar Datcha, Montreal on Thu 27 Aug.
 
@@ -22,4 +22,4 @@ Patrick (6) is a tech house and electronica artist based in Canada, tracked on s
 
 bbyboybleu, Patrick, Jamvvis
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrick-6/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/patrick-6/)*

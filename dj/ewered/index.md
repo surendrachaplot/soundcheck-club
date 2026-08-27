@@ -1,6 +1,6 @@
 # EWERED
 
-EWERED is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club Makossa, London on Thu, 3 Sept 2026.
+EWERED is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club Makossa, London on Thu, 3 Sept 2026.
 
 EWERED is a house and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside la piscine, Chito and PICKY. Next up: Club Makossa, London on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ EWERED is a house and garage artist based in United Kingdom, tracked on soundche
 
 la piscine, Chito, PICKY
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewered/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ewered/)*

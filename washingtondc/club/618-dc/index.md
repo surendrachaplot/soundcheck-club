@@ -1,6 +1,6 @@
 # 618 DC
 
-618 DC is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "A10N Techno: Dead Language, Eric Yaz [Live], Poetic Note, Ryan Soho" on Fri, 28 Aug 2026.
+618 DC is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "A10N Techno: Dead Language, Eric Yaz [Live], Poetic Note, Ryan Soho" on Fri, 28 Aug 2026.
 
 618 DC is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights, with line-ups including Dead Language, Destro187, Eric Yaz and Giovani and 2 more. Browse upcoming dates, start times and who's playing. 618 H St NW, Floor 2, Washington, DC, 20001.
 
@@ -16,4 +16,4 @@
 
 618 H St NW, Floor 2, Washington, DC, 20001, Washington DC
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/618-dc/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/618-dc/)*

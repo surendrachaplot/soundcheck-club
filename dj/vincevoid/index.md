@@ -1,6 +1,6 @@
 # Vince Void
 
-Vince Void is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 28 Aug 2026.
+Vince Void is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 28 Aug 2026.
 
 Vince Void is a house and electro artist tracked on soundcheck, with 112 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Diesco, Alex Garcia (2) and Pau Rosés. Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Vince Void is a house and electro artist tracked on soundcheck, with 112 sets lo
 
 Diesco, Alex Garcia (2), Pau Rosés
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vincevoid/)*

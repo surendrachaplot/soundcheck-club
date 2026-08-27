@@ -1,6 +1,6 @@
 # De Schuurman
 
-De Schuurman is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
+De Schuurman is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Paragon, New York City on Fri, 28 Aug 2026.
 
 De Schuurman is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Catu Diosis, Nsasi and Kampire. Next up: Paragon, Newyorkcity on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ De Schuurman is a techno and house artist tracked on soundcheck, with 57 sets lo
 
 Catu Diosis, Nsasi, Kampire
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

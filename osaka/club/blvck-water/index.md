@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "RHYTHM SHIFT Vol.15 with RINN-NE & SHIVA" on Wed, 26 Aug 2026.
+Blvck Water is a music venue in Osaka with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "AWAKING THE UNKNOWN" on Thu, 27 Aug 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including 死者蘇生CH, FENGX2, Goodrug and inudog system and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 6 upcoming nights, with line-ups including 死者蘇生CH, FENGX2, inudog system and Kaoll and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | RHYTHM SHIFT Vol.15 with RINN-NE & SHIVA | Goodrug, WOLT |
 | Thu, 27 Aug 2026 | AWAKING THE UNKNOWN |  |
 | Fri, 28 Aug 2026 | HARD TECHNO'CRACKS' with FENGX2, Kaoll, LIZA,, inudog system, ZAGUN, ANKH of LIFE | FENGX2, Kaoll, LIZA (6), ZAGUN, inudog system, 死者蘇生CH |
 | Sat, 29 Aug 2026 | AWAKING THE UNKNOWN SP |  |
@@ -20,4 +19,4 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 7 upcoming nights, w
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

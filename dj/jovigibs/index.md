@@ -1,6 +1,6 @@
 # JOVIGIBS
 
-JOVIGIBS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+JOVIGIBS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 JOVIGIBS is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across Barcelona, Madrid, Mexicocity and Miami. Often billed alongside True Vine, Bort and Bakke. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ JOVIGIBS is a house and disco artist based in United States of America, tracked 
 
 True Vine, Bort, Bakke
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*

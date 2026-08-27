@@ -1,6 +1,6 @@
 # Oz man
 
-Oz man is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at UMI, Brussels on Fri, 4 Sept 2026.
+Oz man is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at UMI, Brussels on Fri, 4 Sept 2026.
 
 Oz man is a techno and trance artist tracked on soundcheck, with 8 sets logged across Berlin and Brussels. Often billed alongside Thomas M, GALAGO (BE) and Yojhan. Next up: UMI, Brussels on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Oz man is a techno and trance artist tracked on soundcheck, with 8 sets logged a
 
 Thomas M, GALAGO (BE), Yojhan
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozman/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozman/)*

@@ -1,6 +1,6 @@
 # BL SUEDE
 
-BL SUEDE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Broken Shaker Los Angeles, Los Angeles on Fri, 28 Aug 2026.
+BL SUEDE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Broken Shaker Los Angeles, Los Angeles on Fri, 28 Aug 2026.
 
 BL SUEDE is a house and afro house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Mexicocity, Newyorkcity and Philadelphia and 1 more. Often billed alongside Mana Moves, nish. and Eli Fola. Next up: The Broken Shaker Los Angeles, Losangeles on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ BL SUEDE is a house and afro house artist based in United States of America, tra
 
 Mana Moves, nish., Eli Fola
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blsuede/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blsuede/)*

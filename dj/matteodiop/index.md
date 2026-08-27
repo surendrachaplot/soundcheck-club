@@ -1,6 +1,6 @@
 # Matteo Diop
 
-Matteo Diop is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Rex Club, Paris on Thu, 24 Sept 2026.
+Matteo Diop is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Rex Club, Paris on Thu, 24 Sept 2026.
 
 Matteo Diop is a house and tech house artist tracked on soundcheck, with 24 sets logged across London, Munich, Naples and Paris. Often billed alongside II FACES, Arthur Nozen and Franky Rizardo. Next up: Rex Club, Paris on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Matteo Diop is a house and tech house artist tracked on soundcheck, with 24 sets
 
 II FACES, Arthur Nozen, Franky Rizardo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*

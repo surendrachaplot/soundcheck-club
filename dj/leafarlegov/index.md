@@ -1,6 +1,6 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at teller, Seoul on Sat, 29 Aug 2026.
+Leafar Legov is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at teller, Seoul on Sat, 29 Aug 2026.
 
 Leafar Legov is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: teller, Seoul on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Leafar Legov is a house and techno artist tracked on soundcheck, with 97 sets lo
 
 Konstantin, Edward, Map.ache
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

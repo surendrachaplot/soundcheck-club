@@ -1,6 +1,6 @@
 # Max NRG Supply
 
-Max NRG Supply is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at LIVE EVIL, Munich on Fri, 4 Sept 2026.
+Max NRG Supply is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at LIVE EVIL, Munich on Fri, 4 Sept 2026.
 
 Max NRG Supply is a house and disco artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, London and Milan and 4 more. Often billed alongside Kapote, Barbara Boeing and COEO. Next up: LIVE EVIL, Munich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Max NRG Supply is a house and disco artist based in Germany, tracked on soundche
 
 Kapote, Barbara Boeing, COEO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxnrgsupply/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxnrgsupply/)*

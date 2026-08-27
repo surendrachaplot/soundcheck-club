@@ -1,6 +1,6 @@
 # Emily Makis
 
-Emily Makis is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Emily Makis is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Emily Makis is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Bali and Barcelona and 12 more. Often billed alongside Monrroe, Pola & Bryson and Duskee. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Emily Makis is a drum & bass and bass artist based in United Kingdom, tracked on
 
 Monrroe, Pola & Bryson, Duskee
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*

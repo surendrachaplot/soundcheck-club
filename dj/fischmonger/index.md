@@ -1,6 +1,6 @@
 # Fischmonger
 
-Fischmonger is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
+Fischmonger is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
 
 Fischmonger is a techno and hardcore artist based in China, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Hongkong and Kualalumpur and 5 more. Often billed alongside Blame the Booker, The Jakob Sister and Nicolas Julian. Next up: OIL Club, Shenzhen on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Fischmonger is a techno and hardcore artist based in China, tracked on soundchec
 
 Blame the Booker, The Jakob Sister, Nicolas Julian
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*

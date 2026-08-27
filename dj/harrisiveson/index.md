@@ -1,6 +1,6 @@
 # Harris Iveson
 
-Harris Iveson is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Desterro, Lisbon on Sat, 29 Aug 2026.
+Harris Iveson is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Desterro, Lisbon on Sat, 29 Aug 2026.
 
 Harris Iveson is an ebm and electro artist tracked on soundcheck, with 15 sets logged across Lisbon. Often billed alongside Idle Rich, Chris Video and Chaosmos. Next up: Desterro, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Harris Iveson is an ebm and electro artist tracked on soundcheck, with 15 sets l
 
 Idle Rich, Chris Video, Chaosmos
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisiveson/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisiveson/)*

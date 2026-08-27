@@ -1,6 +1,6 @@
 # Retter (DE)
 
-Retter (DE) is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Coro Wine and Vinyls, Berlin on Fri, 28 Aug 2026.
+Retter (DE) is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Coro Wine and Vinyls, Berlin on Fri, 28 Aug 2026.
 
 Retter (DE) is a club and bass artist tracked on soundcheck, with 24 sets logged across Berlin and Madrid. Often billed alongside Nikita T, Viiaan and Charlie Caves. Next up: Coro Wine and Vinyls, Berlin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Retter (DE) is a club and bass artist tracked on soundcheck, with 24 sets logged
 
 Nikita T, Viiaan, Charlie Caves
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retter-de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retter-de/)*

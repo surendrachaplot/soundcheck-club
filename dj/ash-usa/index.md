@@ -1,6 +1,6 @@
 # ash.
 
-ash. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+ash. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 ash. is a house and techno artist tracked on soundcheck, with 8 sets logged across Losangeles and Newyorkcity. Often billed alongside Vix Vapor Rub, ARMANA KHAN and Akumen. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ ash. is a house and techno artist tracked on soundcheck, with 8 sets logged acro
 
 Vix Vapor Rub, ARMANA KHAN, Akumen
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ash-usa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ash-usa/)*

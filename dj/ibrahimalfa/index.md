@@ -1,6 +1,6 @@
 # Ibrahim Alfa
 
-Ibrahim Alfa is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Ormside Projects, London on Thu, 27 Aug 2026.
+Ibrahim Alfa is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ormside Projects, London on Thu, 27 Aug 2026.
 
 Ibrahim Alfa is a house and experimental artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, Frankfurt and London. Often billed alongside Bienoise, Daisy Moon and Flora Yin-Wong. Next up: Ormside Projects, London on Thu 27 Aug.
 
@@ -20,4 +20,4 @@ Ibrahim Alfa is a house and experimental artist based in United Kingdom, tracked
 
 Bienoise, Daisy Moon, Flora Yin-Wong
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibrahimalfa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibrahimalfa/)*

@@ -1,6 +1,6 @@
 # nomitekk
 
-nomitekk is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+nomitekk is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
 nomitekk is a techno and trance artist tracked on soundcheck, with 19 sets logged across Frankfurt and Nurnberg. Often billed alongside Kacy, PENELOPE (DE) and CiKi. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ nomitekk is a techno and trance artist tracked on soundcheck, with 19 sets logge
 
 Kacy, PENELOPE (DE), CiKi
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomitekk/)*

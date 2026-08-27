@@ -1,6 +1,6 @@
 # KasbaH
 
-KasbaH is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Sucre, Lyon on Fri, 28 Aug 2026.
+KasbaH is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Le Sucre, Lyon on Fri, 28 Aug 2026.
 
 KasbaH is a techno and electro artist based in France, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Lyon and 4 more. Often billed alongside BAB MUSIQUE, Tales and Ahlam and ATARAX. Next up: Le Sucre, Lyon on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KasbaH is a techno and electro artist based in France, tracked on soundcheck, wi
 
 BAB MUSIQUE, Tales and Ahlam, ATARAX
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasbah/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasbah/)*

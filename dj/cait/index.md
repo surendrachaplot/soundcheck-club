@@ -1,6 +1,6 @@
 # Cáit
 
-Cáit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Palais, London on Fri, 18 Sept 2026.
+Cáit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Palais, London on Fri, 18 Sept 2026.
 
 Cáit is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Belfast, Berlin and Copenhagen and 10 more. Often billed alongside Fio Fa, Mercorn and Angel D'lite. Next up: Palais, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cáit is a house and techno artist tracked on soundcheck, with 56 sets logged ac
 
 Fio Fa, Mercorn, Angel D'lite
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*

@@ -1,6 +1,6 @@
 # Mikass
 
-Mikass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 28 Aug 2026.
+Mikass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at River Ship Vecrīga, Riga on Fri, 28 Aug 2026.
 
 Mikass is a house and techno artist tracked on soundcheck, with 29 sets logged across Riga. Often billed alongside Johnny Depo, Grisha Nirgov and Recurrence. Next up: River Ship Vecrīga, Riga on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mikass is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 Johnny Depo, Grisha Nirgov, Recurrence
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikass/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikass/)*

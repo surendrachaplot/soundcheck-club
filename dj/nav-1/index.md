@@ -1,6 +1,6 @@
 # Nav (1)
 
-Nav (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+Nav (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 Nav (1) is a techno and trance artist tracked on soundcheck, with 16 sets logged across London and Lyon. Often billed alongside De Santi, Drime and Maelita. Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nav (1) is a techno and trance artist tracked on soundcheck, with 16 sets logged
 
 De Santi, Drime, Maelita
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nav-1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nav-1/)*

@@ -1,6 +1,6 @@
 # Karl B.
 
-Karl B. is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Goldener Reiter, Munich on Fri, 28 Aug 2026.
+Karl B. is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Goldener Reiter, Munich on Fri, 28 Aug 2026.
 
 Karl B. is a house and garage artist based in Germany, tracked on soundcheck, with 18 sets logged across Munich. Often billed alongside A-DEE, A-Dee and Dasmo and Alessia Ceruti. Next up: Goldener Reiter, Munich on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Karl B. is a house and garage artist based in Germany, tracked on soundcheck, wi
 
 A-DEE, A-Dee and Dasmo, Alessia Ceruti
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karlb./)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karlb./)*

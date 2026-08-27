@@ -1,6 +1,6 @@
 # Funkhaus Wien
 
-Funkhaus Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Sonido Prohibido" on Sat, 5 Sept 2026.
+Funkhaus Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Sonido Prohibido" on Sat, 5 Sept 2026.
 
 Funkhaus Wien is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Funkhaus Wien is a music venue in Vienna listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Sonido Prohibido |  |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus-wien/)*

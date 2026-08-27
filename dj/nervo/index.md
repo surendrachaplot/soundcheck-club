@@ -1,6 +1,6 @@
 # Nervo
 
-Nervo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 12 Sept 2026.
+Nervo is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Nervo is a house and electro artist based in Australia, tracked on soundcheck, with 20 sets logged across Bangkok, Barcelona, Boston and Frankfurt and 8 more. Often billed alongside Dimitri Vegas & Like Mike, Robin Schulz and ASK:ME. Next up: Pacha Ibiza, Ibiza on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nervo is a house and electro artist based in Australia, tracked on soundcheck, w
 
 Dimitri Vegas & Like Mike, Robin Schulz, ASK:ME
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nervo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nervo/)*

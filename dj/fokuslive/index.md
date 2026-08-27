@@ -1,6 +1,6 @@
 # FOKUS (Live)
 
-FOKUS (Live) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
+FOKUS (Live) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at OST, Berlin on Sat, 29 Aug 2026.
 
 FOKUS (Live) is a techno and industrial artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Budapest, London and Rotterdam. Often billed alongside Bildgewalt, BSLS and Khyodo. Next up: OST, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ FOKUS (Live) is a techno and industrial artist based in Germany, tracked on soun
 
 Bildgewalt, BSLS, Khyodo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fokuslive/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fokuslive/)*

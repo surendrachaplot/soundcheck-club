@@ -1,6 +1,6 @@
 # Flight Facilities
 
-Flight Facilities is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Fidelity Studio, Dublin on Fri, 28 Aug 2026.
+Flight Facilities is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Fidelity Studio, Dublin on Fri, 28 Aug 2026.
 
 Flight Facilities is a house and disco artist tracked on soundcheck, with 62 sets logged across Austin, Bali, Barcelona and Chicago and 19 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Fidelity Studio, Dublin on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Flight Facilities is a house and disco artist tracked on soundcheck, with 62 set
 
 Armand Van Helden, Claptone, Hannah Laing
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*

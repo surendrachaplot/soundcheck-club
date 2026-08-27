@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Smile because it happened.. Une soirée avec Patrick, DJ Mignon & Keywatch" on Thu, 27 Aug 2026.
+Bar Datcha is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Smile because it happened.. Une soirée avec Patrick, DJ Mignon & Keywatch" on Thu, 27 Aug 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including AṢKIM, Alina (MTL), Casa Kobrae and Colmee and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -23,4 +23,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 14 upcoming nights
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

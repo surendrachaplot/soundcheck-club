@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "TAPERED" on Fri, 28 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "TAPERED" on Fri, 28 Aug 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, 
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

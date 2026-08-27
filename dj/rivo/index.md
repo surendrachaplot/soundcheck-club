@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Mediapark Köln, Cologne on Sat, 29 Aug 2026.
+Rivo is a House and Afro House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mediapark Köln, Cologne on Sat, 29 Aug 2026.
 
 Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Mediapark Köln, Cologne on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged
 
 Eric Prydz, Bender, Argy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

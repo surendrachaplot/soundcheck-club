@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DISCODELIC 3 YEAR ANNIVERSARY" on Fri, 28 Aug 2026.
+Arcana is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DISCODELIC 3 YEAR ANNIVERSARY" on Fri, 28 Aug 2026.
 
 Arcana is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including cstr, Rohdeo and S.I.M. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -17,4 +17,4 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights,
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

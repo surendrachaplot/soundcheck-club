@@ -1,6 +1,6 @@
 # GYS (TT)
 
-GYS (TT) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
+GYS (TT) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
 
 GYS (TT) is a progressive house and deep house artist tracked on soundcheck, with 18 sets logged across London and Nottingham. Often billed alongside Tris (UK), Adela and Nour (UK). Next up: The Bunker @ The Rolling Stock, London on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ GYS (TT) is a progressive house and deep house artist tracked on soundcheck, wit
 
 Tris (UK), Adela, Nour (UK)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gys-tt/)*

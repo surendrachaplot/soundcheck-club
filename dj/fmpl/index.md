@@ -1,6 +1,6 @@
 # FM (PL)
 
-FM (PL) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Mastak, Warsaw on Sat, 26 Sept 2026.
+FM (PL) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mastak, Warsaw on Sat, 26 Sept 2026.
 
 FM (PL) is a house and electro artist tracked on soundcheck, with 4 sets logged across Krakow, Newyorkcity and Warsaw. Often billed alongside 4\4, EN:VY and Kola (PL). Next up: Mastak, Warsaw on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ FM (PL) is a house and electro artist tracked on soundcheck, with 4 sets logged 
 
 4\4, EN:VY, Kola (PL)
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fmpl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fmpl/)*

@@ -1,6 +1,6 @@
 # co:co
 
-co:co is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+co:co is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 co:co is a techno and trance artist tracked on soundcheck, with 53 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside AKIIM, SPORTMANN and Elon Bass. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ co:co is a techno and trance artist tracked on soundcheck, with 53 sets logged a
 
 AKIIM, SPORTMANN, Elon Bass
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/co-co/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/co-co/)*

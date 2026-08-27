@@ -1,6 +1,6 @@
 # Cocho
 
-Cocho is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 27 Aug 2026.
+Cocho is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 27 Aug 2026.
 
 Cocho is a deep house and techno artist tracked on soundcheck, with 13 sets logged across Buenosaires, Montreal and Toronto. Often billed alongside Kabi, maezbi and Agustin Ficarra. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Cocho is a deep house and techno artist tracked on soundcheck, with 13 sets logg
 
 Kabi, maezbi, Agustin Ficarra
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocho/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocho/)*

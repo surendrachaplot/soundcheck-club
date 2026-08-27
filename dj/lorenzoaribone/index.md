@@ -1,6 +1,6 @@
 # Lorenzo Aribone
 
-Lorenzo Aribone is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Lorenzo Aribone is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Lorenzo Aribone is a house and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Boston and 10 more. Often billed alongside Cristian Sarde, Alex Dima and Munir Nadir. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lorenzo Aribone is a house and techno artist tracked on soundcheck, with 43 sets
 
 Cristian Sarde, Alex Dima, Munir Nadir
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoaribone/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzoaribone/)*

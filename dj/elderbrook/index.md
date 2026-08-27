@@ -1,6 +1,6 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 5 Sept 2026.
+Elderbrook is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Elderbrook is a house and electro artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Austin, Bali, Barcelona and Basel and 32 more. Often billed alongside Cassian, Eli Brown and Boys Noize. Next up: Chinois Ibiza, Ibiza on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Elderbrook is a house and electro artist based in United Kingdom, tracked on sou
 
 Cassian, Eli Brown, Boys Noize
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

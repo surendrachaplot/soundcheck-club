@@ -1,6 +1,6 @@
 # LEI
 
-LEI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+LEI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
 
 LEI is a house and minimal artist tracked on soundcheck, with 20 sets logged across Berlin, Newyorkcity, Paris and Sanfrancisco and 1 more. Often billed alongside OmNa, Monoclick and James Houdini. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ LEI is a house and minimal artist tracked on soundcheck, with 20 sets logged acr
 
 OmNa, Monoclick, James Houdini
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*

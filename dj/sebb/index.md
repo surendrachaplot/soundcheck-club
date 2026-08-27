@@ -1,6 +1,6 @@
 # SEBB
 
-SEBB is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Acqua Supper Club, Toronto on Fri, 28 Aug 2026.
+SEBB is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Acqua Supper Club, Toronto on Fri, 28 Aug 2026.
 
 SEBB is a house and deep house artist tracked on soundcheck, with 4 sets logged across Toronto and Vienna. Often billed alongside Creme Carmel, Farouki and FizzX. Next up: Acqua Supper Club, Toronto on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ SEBB is a house and deep house artist tracked on soundcheck, with 4 sets logged 
 
 Creme Carmel, Farouki, FizzX
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebb/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebb/)*

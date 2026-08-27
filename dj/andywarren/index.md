@@ -1,6 +1,6 @@
 # Andy Warren
 
-Andy Warren is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Andy Warren is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Andy Warren is a house and techno artist tracked on soundcheck, with 39 sets logged across Newyorkcity, Portland, Sanfrancisco and Tokyo and 1 more. Often billed alongside Peter Sheppard, Ginkgo and Trustfall. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Andy Warren is a house and techno artist tracked on soundcheck, with 39 sets log
 
 Peter Sheppard, Ginkgo, Trustfall
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andywarren/)*

@@ -1,6 +1,6 @@
 # Gourlay
 
-Gourlay is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 27 Aug 2026.
+Gourlay is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 27 Aug 2026.
 
 Gourlay is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: La Cheetah Club, Glasgow on Thu 27 Aug.
 
@@ -27,4 +27,4 @@ Gourlay is a house and techno artist based in United Kingdom, tracked on soundch
 
 DJ Bz, Doogi, Eubo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*

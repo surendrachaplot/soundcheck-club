@@ -1,6 +1,6 @@
 # Corios
 
-Corios is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
+Corios is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
 
 Corios is a downtempo and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 4 more. Often billed alongside Elias Goldmund, Maria Theresia von Eberg and Urem. Next up: Klunkerkranich, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Corios is a downtempo and techno artist based in Germany, tracked on soundcheck,
 
 Elias Goldmund, Maria Theresia von Eberg, Urem
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corios/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corios/)*

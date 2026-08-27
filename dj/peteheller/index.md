@@ -1,6 +1,6 @@
 # Pete Heller
 
-Pete Heller is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Crowdedhouse, Leeds on Sat, 29 Aug 2026.
+Pete Heller is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Crowdedhouse, Leeds on Sat, 29 Aug 2026.
 
 Pete Heller is a house and balearic artist tracked on soundcheck, with 7 sets logged across Glasgow, Leeds, London and Sheffield. Often billed alongside Terry Farley, Colin Dale and Stuart Patterson. Next up: Crowdedhouse, Leeds on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Pete Heller is a house and balearic artist tracked on soundcheck, with 7 sets lo
 
 Terry Farley, Colin Dale, Stuart Patterson
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peteheller/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peteheller/)*

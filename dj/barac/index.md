@@ -1,6 +1,6 @@
 # Barac
 
-Barac is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at FOLD, London on Fri, 11 Sept 2026.
+Barac is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FOLD, London on Fri, 11 Sept 2026.
 
 Barac is a minimal and minimal techno artist tracked on soundcheck, with 43 sets logged across Athens, Belgrade, Bucharest and Buenosaires and 13 more. Often billed alongside Andreas Ramos, BRYZ and CEZAR. Next up: FOLD, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Barac is a minimal and minimal techno artist tracked on soundcheck, with 43 sets
 
 Andreas Ramos, BRYZ, CEZAR
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barac/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barac/)*

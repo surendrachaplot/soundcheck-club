@@ -1,6 +1,6 @@
 # Acqua Supper Club
 
-Acqua Supper Club is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "ZEDS DEAD AFTER PARTY (UNOFFICIAL)" on Fri, 28 Aug 2026.
+Acqua Supper Club is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "ZEDS DEAD AFTER PARTY (UNOFFICIAL)" on Fri, 28 Aug 2026.
 
 Acqua Supper Club is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Farouki, FizzX, Mark Oliver and SEBB and 2 more. Browse upcoming dates, start times and who's playing. 50 Prince Edward Island Crescent, Toronto, ON M6K 3C3, Canada.
 
@@ -16,4 +16,4 @@ Acqua Supper Club is a music venue in Toronto listed on soundcheck. 3 upcoming n
 
 50 Prince Edward Island Crescent, Toronto, ON M6K 3C3, Canada, Toronto
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/acqua-supper-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/acqua-supper-club/)*

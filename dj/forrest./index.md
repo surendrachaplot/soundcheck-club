@@ -1,6 +1,6 @@
 # Forrest.
 
-Forrest. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vino Disco, Montreal on Thu, 27 Aug 2026.
+Forrest. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vino Disco, Montreal on Thu, 27 Aug 2026.
 
 Forrest. is a house and tech house artist tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Sterling Grove. Next up: Vino Disco, Montreal on Thu 27 Aug.
 
@@ -21,4 +21,4 @@ Forrest. is a house and tech house artist tracked on soundcheck, with 5 sets log
 
 Sterling Grove
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forrest./)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forrest./)*

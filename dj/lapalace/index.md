@@ -1,6 +1,6 @@
 # Lapalace
 
-Lapalace is a Electronica and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
+Lapalace is a Electronica and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
 
 Lapalace is an electronica and club artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside ASHTYLR, Princess Elf Bar and Willow J. Next up: Soup, Manchester on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Lapalace is an electronica and club artist based in United Kingdom, tracked on s
 
 ASHTYLR, Princess Elf Bar, Willow J
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapalace/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapalace/)*

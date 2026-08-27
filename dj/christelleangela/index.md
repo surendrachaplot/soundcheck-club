@@ -1,6 +1,6 @@
 # Christelle Angela
 
-Christelle Angela is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Weetamix, Geneva on Sat, 12 Sept 2026.
+Christelle Angela is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Weetamix, Geneva on Sat, 12 Sept 2026.
 
 Christelle Angela is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Geneva. Often billed alongside Sad Paco, Brady and HUGOAT. Next up: Weetamix, Geneva on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Christelle Angela is a techno and industrial artist based in Switzerland, tracke
 
 Sad Paco, Brady, HUGOAT
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christelleangela/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christelleangela/)*

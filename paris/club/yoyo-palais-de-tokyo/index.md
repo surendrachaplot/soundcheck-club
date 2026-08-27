@@ -1,6 +1,6 @@
 # YoYo - Palais de Tokyo
 
-YoYo - Palais de Tokyo is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Futur:O presents Pablo Fierro" on Sat, 29 Aug 2026.
+YoYo - Palais de Tokyo is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Futur:O presents Pablo Fierro" on Sat, 29 Aug 2026.
 
 YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Andera, Darno, Deer Jade and Julian Prince and 2 more. Browse upcoming dates, start times and who's playing. 13 avenue du Président Wilson 75016 Paris.
 
@@ -15,4 +15,4 @@ YoYo - Palais de Tokyo is a music venue in Paris listed on soundcheck. 2 upcomin
 
 13 avenue du Président Wilson 75016 Paris, Paris
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/yoyo-palais-de-tokyo/)*

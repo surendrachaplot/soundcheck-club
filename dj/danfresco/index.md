@@ -1,6 +1,6 @@
 # Dan Fresco
 
-Dan Fresco is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at No.32, Brighton on Sat, 29 Aug 2026.
+Dan Fresco is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at No.32, Brighton on Sat, 29 Aug 2026.
 
 Dan Fresco is a house and tech house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 5 more. Often billed alongside FINKY, Ryan Resso and Stef Davidse. Next up: No.32, Brighton on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Dan Fresco is a house and tech house artist tracked on soundcheck, with 32 sets 
 
 FINKY, Ryan Resso, Stef Davidse
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danfresco/)*

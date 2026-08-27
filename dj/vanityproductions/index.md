@@ -1,6 +1,6 @@
 # Vanity Productions
 
-Vanity Productions is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Vanity Productions is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Vanity Productions is an experimental and ambient artist tracked on soundcheck, with 35 sets logged across Amsterdam, Basel, Belgrade and Berlin and 15 more. Often billed alongside Croatian Amor, oqbqbo and Scandinavian Star. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Vanity Productions is an experimental and ambient artist tracked on soundcheck, 
 
 Croatian Amor, oqbqbo, Scandinavian Star
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanityproductions/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanityproductions/)*

@@ -1,6 +1,6 @@
 # Adnan Jakubovic
 
-Adnan Jakubovic is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
+Adnan Jakubovic is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
 Adnan Jakubovic is a techno and deep house artist based in Germany, tracked on soundcheck, with 3 sets logged across Amsterdam and Stuttgart. Often billed alongside Arrakis (GER), DJ Ruby and Jerpa. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ Adnan Jakubovic is a techno and deep house artist based in Germany, tracked on s
 
 Arrakis (GER), DJ Ruby, Jerpa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adnanjakubovic/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adnanjakubovic/)*

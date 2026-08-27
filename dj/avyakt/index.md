@@ -1,6 +1,6 @@
 # Avyakt
 
-Avyakt is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cabaret Voltaire, Edinburgh on Thu, 10 Sept 2026.
+Avyakt is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cabaret Voltaire, Edinburgh on Thu, 10 Sept 2026.
 
 Avyakt is a tech house and afro house artist based in India, tracked on soundcheck, with 5 sets logged across Edinburgh and Glasgow. Often billed alongside Psync and Shoestepper.music. Next up: Cabaret Voltaire, Edinburgh on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Avyakt is a tech house and afro house artist based in India, tracked on soundche
 
 Psync, Shoestepper.music
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avyakt/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avyakt/)*

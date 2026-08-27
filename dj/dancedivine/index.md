@@ -1,6 +1,6 @@
 # DANCE DIVINE
 
-DANCE DIVINE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Le Chinois, Paris on Sat, 29 Aug 2026.
+DANCE DIVINE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Le Chinois, Paris on Sat, 29 Aug 2026.
 
 DANCE DIVINE is a techno and trance artist tracked on soundcheck, with 30 sets logged across Antwerp, Berlin, Brussels and Bucharest and 15 more. Often billed alongside Luca Eck, Pitch! and 6EJOU. Next up: Le Chinois, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DANCE DIVINE is a techno and trance artist tracked on soundcheck, with 30 sets l
 
 Luca Eck, Pitch!, 6EJOU
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancedivine/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dancedivine/)*

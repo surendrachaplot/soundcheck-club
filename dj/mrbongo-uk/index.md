@@ -1,6 +1,6 @@
 # Mr Bongo
 
-Mr Bongo is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
+Mr Bongo is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Grow, London on Sun, 30 Aug 2026.
 
 Mr Bongo is a funk / soul and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Barcelona, Brighton, Kyoto and Leeds and 4 more. Often billed alongside Luke Una, Liminal People and Miche. Next up: Grow, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mr Bongo is a funk / soul and house artist based in United Kingdom, tracked on s
 
 Luke Una, Liminal People, Miche
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbongo-uk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbongo-uk/)*

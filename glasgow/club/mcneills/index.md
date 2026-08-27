@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Makongo VISA EP Launch - Powered by Holy Loch Hi Fi" on Sun, 13 Sept 2026.
+McNeills is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Makongo VISA EP Launch - Powered by Holy Loch Hi Fi" on Sun, 13 Sept 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -15,4 +15,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Br
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

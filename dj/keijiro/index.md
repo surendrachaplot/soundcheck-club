@@ -1,6 +1,6 @@
 # KEIJIRO
 
-KEIJIRO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 25 Sept 2026.
+KEIJIRO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 25 Sept 2026.
 
 KEIJIRO is a house and techno artist tracked on soundcheck, with 11 sets logged across London and Tokyo. Often billed alongside Al Jones, Alien Communications and Fonte. Next up: Vittoria Wharf Studio, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ KEIJIRO is a house and techno artist tracked on soundcheck, with 11 sets logged 
 
 Al Jones, Alien Communications, Fonte
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keijiro/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keijiro/)*

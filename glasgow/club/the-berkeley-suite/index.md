@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 32 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Céleste W/ 6 SENSE" on Fri, 28 Aug 2026.
+The Berkeley Suite is a music venue in Glasgow with 32 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Céleste W/ 6 SENSE" on Fri, 28 Aug 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 32 upcoming nights, with line-ups including 3MR., 6 SENSE, AKA DISPLAY and Amizl and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 32 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

@@ -1,6 +1,6 @@
 # Shawty
 
-Shawty is a Neo Perreo and Ballroom artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Shawty is a Neo Perreo and Ballroom artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Shawty is a neo perreo and ballroom artist tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside Shilo, Alphabae and Anne-Lu. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Shawty is a neo perreo and ballroom artist tracked on soundcheck, with 4 sets lo
 
 Shilo, Alphabae, Anne-Lu
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawty/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shawty/)*

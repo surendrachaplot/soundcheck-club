@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Fatima Hajji · NHYMPH" on Fri, 28 Aug 2026.
+Nitsa Club is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Fatima Hajji · NHYMPH" on Fri, 28 Aug 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Cannelle, DJ Ramon Sucesso, Fatima Hajji and Florentino and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -22,4 +22,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming nights
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

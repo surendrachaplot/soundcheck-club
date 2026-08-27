@@ -1,6 +1,6 @@
 # Kevin Bithell
 
-Kevin Bithell is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
+Kevin Bithell is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Studio 60, Miami on Fri, 28 Aug 2026.
 
 Kevin Bithell is a techno and minimal techno artist tracked on soundcheck, with 19 sets logged across Miami and Washingtondc. Often billed alongside Madison Kay, Naomi Luna and Felizeta. Next up: Studio 60, Miami on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kevin Bithell is a techno and minimal techno artist tracked on soundcheck, with 
 
 Madison Kay, Naomi Luna, Felizeta
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinbithell/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinbithell/)*

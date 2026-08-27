@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 33 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "SUMMER HEROES: Open Air with WHO ELSE" on Thu, 27 Aug 2026.
+La Terrrazza is a music venue in Barcelona with 33 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SUMMER HEROES: Open Air with WHO ELSE" on Thu, 27 Aug 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 33 upcoming nights, with line-ups including 909 RACING TEAM, Belu Rodriguez, Breezy S and Cesar Martino and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 33 upcoming nig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

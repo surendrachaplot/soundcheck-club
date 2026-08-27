@@ -1,6 +1,6 @@
 # DJ Klapsalon
 
-DJ Klapsalon is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at dubble, Amsterdam on Thu, 10 Sept 2026.
+DJ Klapsalon is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at dubble, Amsterdam on Thu, 10 Sept 2026.
 
 DJ Klapsalon is a house and electronica artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Brussels, Paris and Rotterdam. Often billed alongside Hassan Raphael, AYEDA and Adam Bkr. Next up: dubble, Amsterdam on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ DJ Klapsalon is a house and electronica artist based in United States of America
 
 Hassan Raphael, AYEDA, Adam Bkr
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djklapsalon-nl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djklapsalon-nl/)*

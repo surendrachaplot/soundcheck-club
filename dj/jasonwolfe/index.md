@@ -1,6 +1,6 @@
 # Jason Wolfe
 
-Jason Wolfe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Zubar at 8436 Brookfield Ave Brookfield, IL, Chicago on Sat, 5 Sept 2026.
+Jason Wolfe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Zubar at 8436 Brookfield Ave Brookfield, IL, Chicago on Sat, 5 Sept 2026.
 
 Jason Wolfe is a house and techno artist tracked on soundcheck, with 10 sets logged across Chicago. Often billed alongside Pat Fee, Ron Carroll and Mike Bledsoe. Next up: TBA - Zubar at 8436 Brookfield Ave Brookfield, IL, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jason Wolfe is a house and techno artist tracked on soundcheck, with 10 sets log
 
 Pat Fee, Ron Carroll, Mike Bledsoe
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonwolfe/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonwolfe/)*

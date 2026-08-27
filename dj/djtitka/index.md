@@ -1,6 +1,6 @@
 # DJ titka
 
-DJ titka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+DJ titka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 DJ titka is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Ká (DE), Triqi and INVERNO. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ titka is a techno and house artist tracked on soundcheck, with 11 sets logged
 
 Ká (DE), Triqi, INVERNO
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtitka/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtitka/)*

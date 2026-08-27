@@ -1,6 +1,6 @@
 # Presunta (2)
 
-Presunta (2) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at berlinClub, Madrid on Thu, 27 Aug 2026.
+Presunta (2) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at berlinClub, Madrid on Thu, 27 Aug 2026.
 
 Presunta (2) is a house and electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside LVL1, Cerescente and Sora Éke. Next up: berlinClub, Madrid on Thu 27 Aug.
 
@@ -24,4 +24,4 @@ Presunta (2) is a house and electronica artist based in Spain, tracked on soundc
 
 LVL1, Cerescente, Sora Éke
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/presunta-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/presunta-2/)*

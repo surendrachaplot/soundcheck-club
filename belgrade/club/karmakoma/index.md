@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Drugstore Garden with D.Dan, Lollipop Janosz, Aneri, Essio" on Fri, 28 Aug 2026.
+Karmakoma is a music venue in Belgrade with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Drugstore Garden with D.Dan, Lollipop Janosz, Aneri, Essio" on Fri, 28 Aug 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming nights, with line-ups including Aneri, Ciel, D.Dan and Essio and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -19,4 +19,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 6 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

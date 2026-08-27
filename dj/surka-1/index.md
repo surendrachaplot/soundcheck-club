@@ -1,6 +1,6 @@
 # Surka (1)
 
-Surka (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at block., Dublin on Sat, 17 Oct 2026.
+Surka (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at block., Dublin on Sat, 17 Oct 2026.
 
 Surka (1) is a house and techno artist tracked on soundcheck, with 68 sets logged across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Collie (1), Accomplice and DJ Gary. Next up: block., Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Surka (1) is a house and techno artist tracked on soundcheck, with 68 sets logge
 
 Collie (1), Accomplice, DJ Gary
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surka-1/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surka-1/)*

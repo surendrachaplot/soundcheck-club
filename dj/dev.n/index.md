@@ -1,6 +1,6 @@
 # dev.n
 
-dev.n is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Montrose Beach, Chicago on Mon, 7 Sept 2026.
+dev.n is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Montrose Beach, Chicago on Mon, 7 Sept 2026.
 
 dev.n is a club and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside DJ THADZ, Mo Mami and Nanoos. Next up: Montrose Beach, Chicago on Mon 7 Sept.
 
@@ -20,4 +20,4 @@ dev.n is a club and house artist based in United States of America, tracked on s
 
 DJ THADZ, Mo Mami, Nanoos
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*

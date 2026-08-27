@@ -1,6 +1,6 @@
 # LA Rítmica Club
 
-LA Rítmica Club is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Leather club Kinky" on Sat, 12 Sept 2026.
+LA Rítmica Club is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Leather club Kinky" on Sat, 12 Sept 2026.
 
 LA Rítmica Club is a music venue in Valencia listed on soundcheck. 1 upcoming night, with line-ups including Marí Kozlovska. Browse upcoming dates, start times and who's playing. CAMI DE LA MARJAL 52, ALBAL (VALENCIA).
 
@@ -14,4 +14,4 @@ LA Rítmica Club is a music venue in Valencia listed on soundcheck. 1 upcoming n
 
 CAMI DE LA MARJAL 52, ALBAL (VALENCIA), Valencia
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/la-r-tmica-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/la-r-tmica-club/)*

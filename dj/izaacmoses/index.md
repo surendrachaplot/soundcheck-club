@@ -1,6 +1,6 @@
 # Izaac Moses
 
-Izaac Moses is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Basing House, London on Sat, 19 Sept 2026.
+Izaac Moses is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Basing House, London on Sat, 19 Sept 2026.
 
 Izaac Moses is a house and disco artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Liverpool and London. Often billed alongside BRUIN (UK), Beechy and Dan Cluskey. Next up: Basing House, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Izaac Moses is a house and disco artist based in United Kingdom, tracked on soun
 
 BRUIN (UK), Beechy, Dan Cluskey
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izaacmoses/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izaacmoses/)*

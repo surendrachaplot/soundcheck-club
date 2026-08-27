@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at SMUT Athens, Athens on Sat, 5 Sept 2026.
+Mareena is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at SMUT Athens, Athens on Sat, 5 Sept 2026.
 
 Mareena is a techno and house artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: SMUT Athens, Athens on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Mareena is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

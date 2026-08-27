@@ -1,6 +1,6 @@
 # Victor Hugo
 
-Victor Hugo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
+Victor Hugo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sunseabar Beach Club, Barcelona on Fri, 28 Aug 2026.
 
 Victor Hugo is a house and techno artist based in Mexico, tracked on soundcheck, with 59 sets logged across Barcelona, Ibiza, Madrid and Mexicocity. Often billed alongside Eudald Selva, Elwei and ATMEN. Next up: Sunseabar Beach Club, Barcelona on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Victor Hugo is a house and techno artist based in Mexico, tracked on soundcheck,
 
 Eudald Selva, Elwei, ATMEN
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

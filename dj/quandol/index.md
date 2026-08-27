@@ -1,6 +1,6 @@
 # Quandol
 
-Quandol is a Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Modeci, Seoul on Fri, 28 Aug 2026.
+Quandol is a Bass and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Modeci, Seoul on Fri, 28 Aug 2026.
 
 Quandol is a bass and industrial artist tracked on soundcheck, with 30 sets logged across Seoul. Often billed alongside DJ Soulscape, Von Bueno and Yetsuby. Next up: Modeci, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Quandol is a bass and industrial artist tracked on soundcheck, with 30 sets logg
 
 DJ Soulscape, Von Bueno, Yetsuby
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quandol/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/quandol/)*

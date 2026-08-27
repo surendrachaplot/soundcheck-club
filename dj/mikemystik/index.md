@@ -1,6 +1,6 @@
 # MIKE MYSTIK
 
-MIKE MYSTIK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at the inner circle vienna / wien, Vienna on Sat, 29 Aug 2026.
+MIKE MYSTIK is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at the inner circle vienna / wien, Vienna on Sat, 29 Aug 2026.
 
 MIKE MYSTIK is a techno and acid artist based in Austria, tracked on soundcheck, with 9 sets logged across Vienna. Often billed alongside Mücke, DJ Tronik and RaW. Next up: the inner circle vienna / wien, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MIKE MYSTIK is a techno and acid artist based in Austria, tracked on soundcheck,
 
 Mücke, DJ Tronik, RaW
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemystik/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemystik/)*

@@ -1,6 +1,6 @@
 # Linden C
 
-Linden C is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Arch 535, London on Fri, 28 Aug 2026.
+Linden C is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Arch 535, London on Fri, 28 Aug 2026.
 
 Linden C is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Colin Dale, Darren Roach and Mr Shiver. Next up: Arch 535, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Linden C is a deep house and house artist based in United Kingdom, tracked on so
 
 Colin Dale, Darren Roach, Mr Shiver
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindenc/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindenc/)*

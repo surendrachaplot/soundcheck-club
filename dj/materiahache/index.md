@@ -1,6 +1,6 @@
 # materia hache
 
-materia hache is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+materia hache is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 materia hache is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ materia hache is a house and techno artist tracked on soundcheck, with 78 sets l
 
 Fluffi, Mamede, ilbroccolovolante
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/materiahache/)*

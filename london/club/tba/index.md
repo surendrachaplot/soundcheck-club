@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 312 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "…" on Wed, 26 Aug 2026.
+TBA is a music venue in London with 313 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "…" on Wed, 26 Aug 2026.
 
-TBA is a music venue in London listed on soundcheck. 312 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 2flowers and 320 (1) and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 313 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 2flowers and 320 (1) and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 312 upcoming nights, with l
 | Fri, 28 Aug 2026 | Polite Society presents Istanbul Ghetto Club | Istanbul Ghetto Club, Jad Ad, bond (ca), onlyhans |
 | Fri, 28 Aug 2026 | UNSEEN presents: Casual Treatment | Casual Treatment, simonsays |
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

@@ -1,6 +1,6 @@
 # Conduit
 
-Conduit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Honey's, New York City on Wed, 2 Sept 2026.
+Conduit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Honey's, New York City on Wed, 2 Sept 2026.
 
 Conduit is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Kettle, Iggy Nuclear and Byld. Next up: Honey's, Newyorkcity on Wed 2 Sept.
 
@@ -22,4 +22,4 @@ Conduit is a house and techno artist based in United States of America, tracked 
 
 Kettle, Iggy Nuclear, Byld
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Conduit_US/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Conduit_US/)*

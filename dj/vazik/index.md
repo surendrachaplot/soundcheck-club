@@ -1,6 +1,6 @@
 # Vazik
 
-Vazik is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Campeche 367, Mexico City on Sat, 29 Aug 2026.
+Vazik is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Campeche 367, Mexico City on Sat, 29 Aug 2026.
 
 Vazik is a techno and progressive house artist tracked on soundcheck, with 17 sets logged across Berlin, Hamburg, Mexicocity and Paris. Often billed alongside Tini Tun, Em Boss and Leon Licht. Next up: Campeche 367, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vazik is a techno and progressive house artist tracked on soundcheck, with 17 se
 
 Tini Tun, Em Boss, Leon Licht
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vazik/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vazik/)*

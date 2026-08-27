@@ -1,6 +1,6 @@
 # Dr. Spree
 
-Dr. Spree is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
+Dr. Spree is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
 
 Dr. Spree is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Dshanna, Gray Contrast and Hendrik Nitsche. Next up: OXI, Berlin on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Dr. Spree is a techno artist based in Germany, tracked on soundcheck, with 3 set
 
 Dshanna, Gray Contrast, Hendrik Nitsche
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.spree/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.spree/)*

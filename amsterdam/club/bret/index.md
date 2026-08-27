@@ -1,6 +1,6 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 27 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra" on Fri, 28 Aug 2026.
+BRET is a music venue in Amsterdam with 27 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "KILLACUTZ presents REAL AUDIO - Eddie Richards, GIDEON JACKSON, RICHARD PARKER, Herra" on Fri, 28 Aug 2026.
 
 BRET is a music venue in Amsterdam listed on soundcheck. 27 upcoming nights, with line-ups including Anz, Bastienne, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 27 upcoming nights, wit
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

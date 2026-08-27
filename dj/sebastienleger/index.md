@@ -1,6 +1,6 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at KOKO, London on Sat, 5 Sept 2026.
+Sebastien Leger is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at KOKO, London on Sat, 5 Sept 2026.
 
 Sebastien Leger is a house and progressive house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: KOKO, London on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Sebastien Leger is a house and progressive house artist tracked on soundcheck, w
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

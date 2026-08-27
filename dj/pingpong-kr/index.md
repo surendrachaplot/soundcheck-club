@@ -1,6 +1,6 @@
 # Pingpong (KR)
 
-Pingpong (KR) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 28 Aug 2026.
+Pingpong (KR) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 28 Aug 2026.
 
 Pingpong (KR) is a house and disco artist tracked on soundcheck, with 36 sets logged across Seoul. Often billed alongside Adroit Joe, Better and Gyusco. Next up: J.J. Mahoney's Bar, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Pingpong (KR) is a house and disco artist tracked on soundcheck, with 36 sets lo
 
 Adroit Joe, Better, Gyusco
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pingpong-kr/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pingpong-kr/)*

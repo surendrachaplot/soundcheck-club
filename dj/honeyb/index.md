@@ -1,6 +1,6 @@
 # HONEY B
 
-HONEY B is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Signal, New York City on Sat, 26 Sept 2026.
+HONEY B is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Signal, New York City on Sat, 26 Sept 2026.
 
 HONEY B is a techno and club artist tracked on soundcheck, with 86 sets logged across Berlin, Boston, Edinburgh and Miami and 8 more. Often billed alongside nextdimensional, DJ Shannon and Kandylion. Next up: Signal, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ HONEY B is a techno and club artist tracked on soundcheck, with 86 sets logged a
 
 nextdimensional, DJ Shannon, Kandylion
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyb/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyb/)*

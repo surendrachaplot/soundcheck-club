@@ -1,6 +1,6 @@
 # HypeLies
 
-HypeLies is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Middle East, Boston on Sat, 12 Sept 2026.
+HypeLies is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Middle East, Boston on Sat, 12 Sept 2026.
 
 HypeLies is a house and garage artist based in United States of America, tracked on soundcheck, with 10 sets logged across Boston. Often billed alongside Austin Gallagher, Louie Lanka and DJ Deshoda. Next up: The Middle East, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ HypeLies is a house and garage artist based in United States of America, tracked
 
 Austin Gallagher, Louie Lanka, DJ Deshoda
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypelies/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypelies/)*

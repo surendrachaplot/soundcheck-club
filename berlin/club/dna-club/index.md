@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR" on Thu, 27 Aug 2026.
+DNA. CLUB is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR" on Thu, 27 Aug 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Alex Friday, Astrocue, BEJA and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -23,4 +23,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 21 upcoming nights, w
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

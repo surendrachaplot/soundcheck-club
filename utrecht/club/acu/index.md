@@ -1,6 +1,6 @@
 # Acu
 
-Acu is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Wed, 26 Aug 2026; the next is "Bankra Bike Sounds" on Sat, 29 Aug 2026.
+Acu is a music venue in Utrecht with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Bankra Bike Sounds" on Sat, 29 Aug 2026.
 
 Acu is a music venue in Utrecht listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Voorstraat 71, 3512 AK, Utrecht.
 
@@ -14,4 +14,4 @@ Acu is a music venue in Utrecht listed on soundcheck. 1 upcoming night. Browse u
 
 Voorstraat 71, 3512 AK, Utrecht, Utrecht
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/acu/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/acu/)*

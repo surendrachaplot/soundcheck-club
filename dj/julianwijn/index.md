@@ -1,6 +1,6 @@
 # Julian Wijn
 
-Julian Wijn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Julian Wijn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
 Julian Wijn is a house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Paris and Utrecht. Often billed alongside Lasse Top, Laura Meester and Ive Lovers. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Julian Wijn is a house and deep house artist tracked on soundcheck, with 29 sets
 
 Lasse Top, Laura Meester, Ive Lovers
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwijn/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwijn/)*

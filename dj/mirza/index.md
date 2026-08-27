@@ -1,6 +1,6 @@
 # MIRZA
 
-MIRZA is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Night Tales, London on Fri, 4 Sept 2026.
+MIRZA is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Night Tales, London on Fri, 4 Sept 2026.
 
 MIRZA is a disco and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Hamburg, London and Munich and 3 more. Often billed alongside Track Advisor, Arjun Shah and Willy Soul. Next up: Night Tales, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ MIRZA is a disco and house artist based in United Kingdom, tracked on soundcheck
 
 Track Advisor, Arjun Shah, Willy Soul
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirza/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirza/)*

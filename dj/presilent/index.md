@@ -1,6 +1,6 @@
 # Pre Silent
 
-Pre Silent is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Sept 2026.
+Pre Silent is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Sept 2026.
 
 Pre Silent is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Berlin, London and Milan. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Pre Silent is a techno and industrial artist tracked on soundcheck, with 33 sets
 
 Antonio De Angelis, Gabriele Capponi, Laure Croft
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*

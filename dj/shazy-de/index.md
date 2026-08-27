@@ -1,6 +1,6 @@
 # SHAZY
 
-SHAZY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+SHAZY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 SHAZY is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Kaminka Merel, Albin Brezlan and Arctosa. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ SHAZY is a house and techno artist tracked on soundcheck, with 4 sets logged acr
 
 Kaminka Merel, Albin Brezlan, Arctosa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shazy-de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shazy-de/)*

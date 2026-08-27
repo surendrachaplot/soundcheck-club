@@ -1,6 +1,6 @@
 # Korey Dobson
 
-Korey Dobson is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Third Day, Melbourne on Sat, 31 Oct 2026.
+Korey Dobson is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Third Day, Melbourne on Sat, 31 Oct 2026.
 
 Korey Dobson is a techno and trance artist tracked on soundcheck, with 16 sets logged across Melbourne and Sydney. Often billed alongside Etwas, GavWhitehouse and Toska. Next up: The Third Day, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Korey Dobson is a techno and trance artist tracked on soundcheck, with 16 sets l
 
 Etwas, GavWhitehouse, Toska
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koreydobson/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koreydobson/)*

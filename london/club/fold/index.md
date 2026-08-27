@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 24 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "Alien Communications 7th Birthday: DJ Stingray 313 + Anthony Rother" on Fri, 28 Aug 2026.
+FOLD is a music venue in London with 24 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Alien Communications 7th Birthday: DJ Stingray 313 + Anthony Rother" on Fri, 28 Aug 2026.
 
 FOLD is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including adobeprincess, Alba Heidari, Alicia (UK) and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 24 upcoming nights, with l
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

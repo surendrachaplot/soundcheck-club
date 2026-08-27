@@ -1,6 +1,6 @@
 # MADGRRL
 
-MADGRRL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Warehouse on Watts, Philadelphia on Fri, 2 Oct 2026.
+MADGRRL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Warehouse on Watts, Philadelphia on Fri, 2 Oct 2026.
 
 MADGRRL is a techno and industrial artist based in United States of America, tracked on soundcheck, with 15 sets logged across Losangeles, Miami, Newyorkcity and Philadelphia and 4 more. Often billed alongside 2SIXXX, 6EJOU and 999999999. Next up: Warehouse on Watts, Philadelphia on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MADGRRL is a techno and industrial artist based in United States of America, tra
 
 2SIXXX, 6EJOU, 999999999
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madgrrl/)*

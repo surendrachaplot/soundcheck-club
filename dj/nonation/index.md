@@ -1,6 +1,6 @@
 # No Nation
 
-No Nation is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Plough, Bristol on Fri, 28 Aug 2026.
+No Nation is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Plough, Bristol on Fri, 28 Aug 2026.
 
 No Nation is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Bristol and London. Often billed alongside Asha Binx, Deselecta and Dwarde. Next up: The Plough, Bristol on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ No Nation is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 Asha Binx, Deselecta, Dwarde
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonation/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonation/)*

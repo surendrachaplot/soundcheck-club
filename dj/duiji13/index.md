@@ -1,6 +1,6 @@
 # Duiji 13
 
-Duiji 13 is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Framers Cafe, Philadelphia on Sat, 29 Aug 2026.
+Duiji 13 is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Framers Cafe, Philadelphia on Sat, 29 Aug 2026.
 
 Duiji 13 is a funk / soul and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Philadelphia. Often billed alongside Courtnee Owens, 1CLUE. and Cameron Kelly. Next up: Framers Cafe, Philadelphia on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Duiji 13 is a funk / soul and house artist based in United States of America, tr
 
 Courtnee Owens, 1CLUE., Cameron Kelly
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duiji13/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duiji13/)*

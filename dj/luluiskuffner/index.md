@@ -1,6 +1,6 @@
 # Lü (Luis Küffner)
 
-Lü (Luis Küffner) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
+Lü (Luis Küffner) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - check telegram, Berlin on Sat, 26 Sept 2026.
 
 Lü (Luis Küffner) is an experimental and bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Leipzig. Often billed alongside Antuum, Ay Lak and MAENDI. Next up: TBA - check telegram, Berlin on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Lü (Luis Küffner) is an experimental and bass artist based in Germany, tracked
 
 Antuum, Ay Lak, MAENDI
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luluiskuffner/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luluiskuffner/)*

@@ -1,15 +1,15 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "MELLOWDÍAS THUMP" on Wed, 26 Aug 2026.
+Wax Music Lounge is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SAOKO" on Thu, 27 Aug 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Beatski. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Beatski and Mullen. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | MELLOWDÍAS THUMP |  |
 | Thu, 27 Aug 2026 | SAOKO |  |
+| Thu, 27 Aug 2026 | DIGGIN IN THE CRATES: Mullen | Mullen |
 | Fri, 28 Aug 2026 | SABOR LATINO |  |
 | Sat, 29 Aug 2026 | TRIBE |  |
 | Sun, 30 Aug 2026 | WAX MUSEUM RECORDS: GEEZY |  |
@@ -23,4 +23,4 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 13 upcoming
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

@@ -1,6 +1,6 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 28 Aug 2026.
+Masha Mar is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sneaky Pete's, Edinburgh on Fri, 28 Aug 2026.
 
 Masha Mar is a house and techno artist tracked on soundcheck, with 152 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Masha, Heidi Lawden and Stacy Christine. Next up: Sneaky Pete's, Edinburgh on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 152 sets logg
 
 Masha, Heidi Lawden, Stacy Christine
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

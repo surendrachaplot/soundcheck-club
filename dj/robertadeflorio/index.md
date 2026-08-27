@@ -1,6 +1,6 @@
 # Roberta Deflorio
 
-Roberta Deflorio is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sameheads, Berlin on Sat, 3 Oct 2026.
+Roberta Deflorio is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sameheads, Berlin on Sat, 3 Oct 2026.
 
 Roberta Deflorio is a house and balearic artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Berlin and Leipzig and 2 more. Often billed alongside Camilo Miranda, Frinda di Lanco and Alexander Arpeggio. Next up: Sameheads, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Roberta Deflorio is a house and balearic artist based in Italy, tracked on sound
 
 Camilo Miranda, Frinda di Lanco, Alexander Arpeggio
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertadeflorio/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertadeflorio/)*

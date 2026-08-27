@@ -1,6 +1,6 @@
 # t.t.
 
-t.t. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cafe & Bar Extrawelt, Tokyo on Sat, 19 Sept 2026.
+t.t. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cafe & Bar Extrawelt, Tokyo on Sat, 19 Sept 2026.
 
 t.t. is a house and techno artist tracked on soundcheck, with 29 sets logged across Osaka and Tokyo. Often billed alongside Krankent, junkie babe and BERLINER KINDL. Next up: Cafe & Bar Extrawelt, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ t.t. is a house and techno artist tracked on soundcheck, with 29 sets logged acr
 
 Krankent, junkie babe, BERLINER KINDL
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.t./)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.t./)*

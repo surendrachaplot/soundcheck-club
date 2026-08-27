@@ -1,8 +1,8 @@
 # ARTISTIKK
 
-ARTISTIKK is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at John Doe, Amsterdam on Wed, 21 Oct 2026.
+ARTISTIKK is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at John Doe, Amsterdam on Wed, 21 Oct 2026.
 
-ARTISTIKK is a techno artist based in Brazil, tracked on soundcheck, with 4 sets logged across Amsterdam, Barcelona and London. Often billed alongside JHONATAN OSPINA, Enrico Chirchiello and Joevkid. Next up: John Doe, Amsterdam on Wed 21 Oct.
+ARTISTIKK is a techno artist based in Brazil, tracked on soundcheck, with 4 sets logged across Amsterdam, Barcelona and London. Often billed alongside JHONATAN OSPINA, Alex Sharp and Enrico Chirchiello. Next up: John Doe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ ARTISTIKK is a techno artist based in Brazil, tracked on soundcheck, with 4 sets
 
 ## Shares bills with
 
-JHONATAN OSPINA, Enrico Chirchiello, Joevkid
+JHONATAN OSPINA, Alex Sharp, Enrico Chirchiello
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artistikk/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artistikk/)*

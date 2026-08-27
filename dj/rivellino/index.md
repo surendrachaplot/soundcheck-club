@@ -1,6 +1,6 @@
 # Rivellino
 
-Rivellino is a Techno and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Cova Santa, Ibiza on Sun, 30 Aug 2026.
+Rivellino is a Techno and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cova Santa, Ibiza on Sun, 30 Aug 2026.
 
 Rivellino is a techno and deep house artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 2 more. Often billed alongside Andrea Castells, Ivan Pugliares and Saulo Pisa. Next up: Cova Santa, Ibiza on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Rivellino is a techno and deep house artist tracked on soundcheck, with 76 sets 
 
 Andrea Castells, Ivan Pugliares, Saulo Pisa
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*

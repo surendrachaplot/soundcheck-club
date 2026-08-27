@@ -1,6 +1,6 @@
 # Hakim.
 
-Hakim. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Hertz, Seoul on Fri, 28 Aug 2026.
+Hakim. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hertz, Seoul on Fri, 28 Aug 2026.
 
 Hakim. is a techno and house artist tracked on soundcheck, with 24 sets logged across Bangkok, Hongkong, Newyorkcity and Seoul and 1 more. Often billed alongside Kyuchan, .2ndfloor and Chae. Next up: Hertz, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Hakim. is a techno and house artist tracked on soundcheck, with 24 sets logged a
 
 Kyuchan, .2ndfloor, Chae
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hakim./)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hakim./)*

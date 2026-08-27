@@ -1,6 +1,6 @@
 # Andre Terrell
 
-Andre Terrell is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cannons, Detroit on Sat, 26 Sept 2026.
+Andre Terrell is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cannons, Detroit on Sat, 26 Sept 2026.
 
 Andre Terrell is a house and afro house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Detroit. Next up: Cannons, Detroit on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Andre Terrell is a house and afro house artist based in United States of America
 - Spkrbox, Detroit — Thu, 26 Jun 2025
 - Spkrbox, Detroit — Thu, 19 Jun 2025
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreterrell/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreterrell/)*

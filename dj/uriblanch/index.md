@@ -1,6 +1,6 @@
 # UriBlanch
 
-UriBlanch is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 28 Aug 2026.
+UriBlanch is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at De Fik Garden, Amsterdam on Fri, 28 Aug 2026.
 
 UriBlanch is a minimal and house artist tracked on soundcheck, with 7 sets logged across Amsterdam and Barcelona. Often billed alongside Niklas Becher, ANNASNEL and Black Box. Next up: De Fik Garden, Amsterdam on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ UriBlanch is a minimal and house artist tracked on soundcheck, with 7 sets logge
 
 Niklas Becher, ANNASNEL, Black Box
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uriblanch/)*

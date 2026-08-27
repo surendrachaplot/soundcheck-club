@@ -1,6 +1,6 @@
 # Yo Nishijima
 
-Yo Nishijima is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Azumaya, Tokyo on Fri, 28 Aug 2026.
+Yo Nishijima is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Azumaya, Tokyo on Fri, 28 Aug 2026.
 
 Yo Nishijima is a house and techno artist based in Japan, tracked on soundcheck, with 127 sets logged across Osaka and Tokyo. Often billed alongside SATICA, Sunga and YouForgot. Next up: Azumaya, Tokyo on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Yo Nishijima is a house and techno artist based in Japan, tracked on soundcheck,
 
 SATICA, Sunga, YouForgot
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yonishijima/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yonishijima/)*

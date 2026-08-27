@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "DRKNET 'INTERFACED' EP - Launch Party (+ special guest Redpill)" on Thu, 3 Sept 2026.
+Bricks is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DRKNET 'INTERFACED' EP - Launch Party (+ special guest Redpill)" on Thu, 3 Sept 2026.
 
 Bricks is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including 2Shy MC, AHARDS, B.Love and Black Circle and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -19,4 +19,4 @@ Bricks is a music venue in London listed on soundcheck. 6 upcoming nights, with 
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

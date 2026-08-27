@@ -1,6 +1,6 @@
 # Cafe 1001
 
-Cafe 1001 is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "25 Years of Cafe 1001 Birthday Weekend with Charlie Dark, Chris Wheatley & Camille Munn" on Fri, 28 Aug 2026.
+Cafe 1001 is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "25 Years of Cafe 1001 Birthday Weekend with Charlie Dark, Chris Wheatley & Camille Munn" on Fri, 28 Aug 2026.
 
 Cafe 1001 is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including AKWA, Charlie Dark, Chris Wheatley and Emanuel Pavlova and 2 more. Browse upcoming dates, start times and who's playing. 91 Brick Lane, London E1 6QL.
 
@@ -18,4 +18,4 @@ Cafe 1001 is a music venue in London listed on soundcheck. 5 upcoming nights, wi
 
 91 Brick Lane, London E1 6QL, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-1001/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/cafe-1001/)*

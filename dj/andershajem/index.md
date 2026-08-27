@@ -1,6 +1,6 @@
 # Anders Hajem
 
-Anders Hajem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at The Villa, Oslo on Sat, 29 Aug 2026.
+Anders Hajem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Villa, Oslo on Sat, 29 Aug 2026.
 
 Anders Hajem is a house and techno artist tracked on soundcheck, with 15 sets logged across Oslo and Tbilisi. Often billed alongside Henrik Villard, G-HA and Olanskii. Next up: The Villa, Oslo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Anders Hajem is a house and techno artist tracked on soundcheck, with 15 sets lo
 
 Henrik Villard, G-HA, Olanskii
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershajem/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershajem/)*

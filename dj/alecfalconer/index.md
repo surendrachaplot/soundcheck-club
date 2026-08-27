@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Crate Brewery, London on Sun, 30 Aug 2026.
+Alec Falconer is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Crate Brewery, London on Sun, 30 Aug 2026.
 
 Alec Falconer is a house and garage artist tracked on soundcheck, with 112 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Crate Brewery, London on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Alec Falconer is a house and garage artist tracked on soundcheck, with 112 sets 
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

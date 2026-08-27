@@ -1,6 +1,6 @@
 # Bileebob
 
-Bileebob is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
+Bileebob is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Paris Bar, Detroit on Thu, 27 Aug 2026.
 
 Bileebob is an acid and techno artist tracked on soundcheck, with 31 sets logged across Detroit and London. Often billed alongside Eric Hinchman, OMO (US) and Charles Trees. Next up: Paris Bar, Detroit on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Bileebob is an acid and techno artist tracked on soundcheck, with 31 sets logged
 
 Eric Hinchman, OMO (US), Charles Trees
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bileebob/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bileebob/)*

@@ -1,6 +1,6 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Denver, Denver on Fri, 28 Aug 2026.
+Isaiah (NL) is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Denver, Denver on Fri, 28 Aug 2026.
 
 Isaiah (NL) is a techno and club artist tracked on soundcheck, with 99 sets logged across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: TBA - Denver, Denver on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Isaiah (NL) is a techno and club artist tracked on soundcheck, with 99 sets logg
 
 Beau Didier, Flits, Lasse
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*

@@ -1,6 +1,6 @@
 # Passionfruit
 
-Passionfruit is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 29 Aug 2026.
+Passionfruit is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at arkaoda Berlin, Berlin on Sat, 29 Aug 2026.
 
 Passionfruit is a bass and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Losangeles and Marseille and 2 more. Often billed alongside Habitat Shaking, Ann Mysochka and The Lazy Jesus. Next up: arkaoda Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Passionfruit is a bass and house artist tracked on soundcheck, with 11 sets logg
 
 Habitat Shaking, Ann Mysochka, The Lazy Jesus
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/passionfruit/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/passionfruit/)*

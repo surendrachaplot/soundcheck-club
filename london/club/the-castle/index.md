@@ -1,6 +1,6 @@
 # The Castle
 
-The Castle is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "KOVA presents: PREECE @ The Castle" on Fri, 11 Sept 2026.
+The Castle is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "KOVA presents: PREECE @ The Castle" on Fri, 11 Sept 2026.
 
 The Castle is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including AC Industries, Lapworth and LOWCO. Browse upcoming dates, start times and who's playing. 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom.
 
@@ -16,4 +16,4 @@ The Castle is a music venue in London listed on soundcheck. 3 upcoming nights, w
 
 44 Commercial Road; Whitechapel; London E1 1LN; United Kingdom, London
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-castle/)*

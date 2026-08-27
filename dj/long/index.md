@@ -1,6 +1,6 @@
 # LONG
 
-LONG is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 28 Aug 2026.
+LONG is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 28 Aug 2026.
 
 LONG is an electronic artist based in Czech Republic, tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Alfred Czital, Ayiaa and Big Lil. Next up: Ankali & Planeta Za, Prague on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ LONG is an electronic artist based in Czech Republic, tracked on soundcheck, wit
 
 Alfred Czital, Ayiaa, Big Lil
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/long/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/long/)*

@@ -1,6 +1,6 @@
 # Hydroplane
 
-Hydroplane is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
+Hydroplane is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Hydroplane is an idm and experimental artist tracked on soundcheck, with 10 sets logged across Melbourne and Sanfrancisco. Often billed alongside Richard Haig, Dr. Rek and Nezzy Idy. Next up: Underground SF, Sanfrancisco on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Hydroplane is an idm and experimental artist tracked on soundcheck, with 10 sets
 
 Richard Haig, Dr. Rek, Nezzy Idy
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hydroplane/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hydroplane/)*

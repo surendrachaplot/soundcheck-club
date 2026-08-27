@@ -1,6 +1,6 @@
 # Burl Faircloth
 
-Burl Faircloth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
+Burl Faircloth is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
 
 Burl Faircloth is a techno and house artist tracked on soundcheck, with 3 sets logged across Washingtondc. Often billed alongside Casa Nova, Eric Yaz and Exequiel. Next up: Flash, Washingtondc on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Burl Faircloth is a techno and house artist tracked on soundcheck, with 3 sets l
 
 Casa Nova, Eric Yaz, Exequiel
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burlfaircloth/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burlfaircloth/)*

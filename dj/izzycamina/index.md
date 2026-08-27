@@ -1,6 +1,6 @@
 # Izzy Camina
 
-Izzy Camina is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+Izzy Camina is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
 Izzy Camina is a techno and electronica artist based in United States of America, tracked on soundcheck, with 15 sets logged across Berlin, Miami, Newyorkcity and Paris and 4 more. Often billed alongside Ninajirachi, ALCATRAZ and B0YG1RL. Next up: TBA, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Izzy Camina is a techno and electronica artist based in United States of America
 
 Ninajirachi, ALCATRAZ, B0YG1RL
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzycamina/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzycamina/)*

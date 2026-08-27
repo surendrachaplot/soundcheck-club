@@ -1,6 +1,6 @@
 # Cincity
 
-Cincity is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Boomerang Beach, The Hague on Sat, 29 Aug 2026.
+Cincity is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Boomerang Beach, The Hague on Sat, 29 Aug 2026.
 
 Cincity is an afro house and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bangkok, Basel and Berlin and 12 more. Often billed alongside Philou Louzolo, Benny Rodrigues and Karim Soliman. Next up: Boomerang Beach, Thehague on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Cincity is an afro house and house artist tracked on soundcheck, with 108 sets l
 
 Philou Louzolo, Benny Rodrigues, Karim Soliman
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cincity/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cincity/)*

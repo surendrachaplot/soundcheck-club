@@ -1,6 +1,6 @@
 # Shadya
 
-Shadya is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at ESC, Montreal on Fri, 28 Aug 2026.
+Shadya is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ESC, Montreal on Fri, 28 Aug 2026.
 
 Shadya is a techno and electro artist based in Canada, tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside D.B.Y., Mok-T and Bless You. Next up: ESC, Montreal on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Shadya is a techno and electro artist based in Canada, tracked on soundcheck, wi
 
 D.B.Y., Mok-T, Bless You
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadya/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shadya/)*

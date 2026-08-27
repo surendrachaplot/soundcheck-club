@@ -1,6 +1,6 @@
 # FAKEDEEPLEE
 
-FAKEDEEPLEE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Glow & Zalz, Seoul on Sat, 29 Aug 2026.
+FAKEDEEPLEE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Glow & Zalz, Seoul on Sat, 29 Aug 2026.
 
 FAKEDEEPLEE is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 79 sets logged across Newyorkcity and Seoul. Often billed alongside KARLLLL, AUS10 and DJ POOL. Next up: Glow & Zalz, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ FAKEDEEPLEE is a club and hip-hop artist based in United States of America, trac
 
 KARLLLL, AUS10, DJ POOL
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakedeeplee/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fakedeeplee/)*

@@ -1,6 +1,6 @@
 # Gren
 
-Gren is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 27 Aug 2026.
+Gren is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 27 Aug 2026.
 
 Gren is a house and garage artist tracked on soundcheck, with 7 sets logged across Cardiff, Edinburgh and London. Often billed alongside Bartek, J6 (UK) and Louspresso. Next up: Sneaky Pete's, Edinburgh on Thu 27 Aug.
 
@@ -23,4 +23,4 @@ Gren is a house and garage artist tracked on soundcheck, with 7 sets logged acro
 
 Bartek, J6 (UK), Louspresso
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gren/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gren/)*

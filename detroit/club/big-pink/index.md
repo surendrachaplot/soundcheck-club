@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "BIG STRETCH: YOGA WITH A LIVE DJ" on Thu, 27 Aug 2026.
+Big Pink is a music venue in Detroit with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "BIG STRETCH: YOGA WITH A LIVE DJ" on Thu, 27 Aug 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 10 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -23,4 +23,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 10 upcoming nights, w
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

@@ -1,6 +1,6 @@
 # Xixo
 
-Xixo is a Broken Beat and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
+Xixo is a Broken Beat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
 
 Xixo is a broken beat and bass artist tracked on soundcheck, with 4 sets logged across Seoul. Often billed alongside KISEWA, AEIDA and BAAWLA. Next up: Cakeshop, Seoul on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Xixo is a broken beat and bass artist tracked on soundcheck, with 4 sets logged 
 
 KISEWA, AEIDA, BAAWLA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xixo/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xixo/)*

@@ -1,18 +1,18 @@
 # Valeria (DE)
 
-Valeria (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Club der Visionaere, Berlin on Wed, 26 Aug 2026.
+Valeria (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tresor / Globus, Berlin on Wed, 16 Sept 2026.
 
-Valeria (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Stuttgart. Often billed alongside OLIV, Alex Kassian and Amy Dabbs. Next up: Club der Visionaere, Berlin on Wed 26 Aug.
+Valeria (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Stuttgart. Often billed alongside OLIV, Alex Kassian and Amy Dabbs. Next up: Tresor / Globus, Berlin on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 26 Aug 2026 | Club der Visionaere | Berlin |
 | Wed, 16 Sept 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
+- Club der Visionaere, Berlin — Wed, 26 Aug 2026
 - Paloma, Berlin — Fri, 31 Jul 2026
 - Bulbul Berlin, Berlin — Fri, 29 May 2026
 - Renate, Berlin — Sat, 5 Apr 2025
@@ -20,10 +20,9 @@ Valeria (DE) is a house and techno artist based in Germany, tracked on soundchec
 - Tresor / Globus, Berlin — Wed, 10 Jul 2024
 - Teufelsberg, Berlin — Fri, 8 Mar 2024
 - Fridas Pier, Stuttgart — Fri, 9 Jun 2023
-- Renate, Berlin — Thu, 2 Feb 2023
 
 ## Shares bills with
 
 OLIV, Alex Kassian, Amy Dabbs
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria-de/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria-de/)*

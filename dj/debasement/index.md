@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The White Hotel, Manchester on Fri, 28 Aug 2026.
+deBasement is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The White Hotel, Manchester on Fri, 28 Aug 2026.
 
 deBasement is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: The White Hotel, Manchester on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 35 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

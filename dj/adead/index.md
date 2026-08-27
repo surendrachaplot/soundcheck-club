@@ -1,6 +1,6 @@
 # ADEAD
 
-ADEAD is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at OIL Club, Shenzhen on Fri, 9 Oct 2026.
+ADEAD is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OIL Club, Shenzhen on Fri, 9 Oct 2026.
 
 ADEAD is a club and techno artist tracked on soundcheck, with 13 sets logged across Hongkong and Shenzhen. Often billed alongside anormalturtle300, 2G (1) and AntiSocialPrincess. Next up: OIL Club, Shenzhen on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ ADEAD is a club and techno artist tracked on soundcheck, with 13 sets logged acr
 
 anormalturtle300, 2G (1), AntiSocialPrincess
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adead/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adead/)*

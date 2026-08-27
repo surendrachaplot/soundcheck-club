@@ -1,6 +1,6 @@
 # Bliss Kiss
 
-Bliss Kiss is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Miami Wars, Warsaw on Fri, 28 Aug 2026.
+Bliss Kiss is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Miami Wars, Warsaw on Fri, 28 Aug 2026.
 
 Bliss Kiss is a house and disco artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Aftersunday, IKARVS and KEVS. Next up: Miami Wars, Warsaw on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Bliss Kiss is a house and disco artist based in Poland, tracked on soundcheck, w
 
 Aftersunday, IKARVS, KEVS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*

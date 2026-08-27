@@ -1,6 +1,6 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at DNA Club, Munich on Fri, 28 Aug 2026.
+Paralich is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at DNA Club, Munich on Fri, 28 Aug 2026.
 
 Paralich is a techno and trance artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: DNA Club, Munich on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ Paralich is a techno and trance artist tracked on soundcheck, with 159 sets logg
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

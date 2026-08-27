@@ -1,6 +1,6 @@
 # ASHER SWISSA
 
-ASHER SWISSA is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 1 Sept 2026.
+ASHER SWISSA is a Afro House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Paradiso, Mykonos on Tue, 1 Sept 2026.
 
 ASHER SWISSA is an afro house and techno artist tracked on soundcheck, with 3 sets logged across Bangkok, Mykonos and Toronto. Often billed alongside Alesso, Cat Dealers and Dimitri Vegas & Like Mike. Next up: Cavo Paradiso, Mykonos on Tue 1 Sept.
 
@@ -19,4 +19,4 @@ ASHER SWISSA is an afro house and techno artist tracked on soundcheck, with 3 se
 
 Alesso, Cat Dealers, Dimitri Vegas & Like Mike
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asherswissa/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asherswissa/)*

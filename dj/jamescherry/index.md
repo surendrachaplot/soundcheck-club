@@ -1,6 +1,6 @@
 # James Cherry
 
-James Cherry is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at ÆDEN, Berlin on Sat, 29 Aug 2026.
+James Cherry is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ÆDEN, Berlin on Sat, 29 Aug 2026.
 
 James Cherry is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside UniKhatu, CSILLA and Daviti. Next up: ÆDEN, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ James Cherry is a techno and tech house artist tracked on soundcheck, with 9 set
 
 UniKhatu, CSILLA, Daviti
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescherry/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescherry/)*

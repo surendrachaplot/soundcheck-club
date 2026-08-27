@@ -1,6 +1,6 @@
 # DJ Low (2)
 
-DJ Low (2) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 28 Aug 2026.
+DJ Low (2) is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 28 Aug 2026.
 
 DJ Low (2) is a drum & bass and house artist based in Malaysia, tracked on soundcheck, with 7 sets logged across Kualalumpur. Often billed alongside Biscuit (MY), Demian Muller and Miss SS. Next up: TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450, Kualalumpur on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ DJ Low (2) is a drum & bass and house artist based in Malaysia, tracked on sound
 
 Biscuit (MY), Demian Muller, Miss SS
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlow-2/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlow-2/)*

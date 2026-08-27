@@ -1,6 +1,6 @@
 # La Gugga
 
-La Gugga is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 5 Sept 2026.
+La Gugga is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 5 Sept 2026.
 
 La Gugga is a house and deep house artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Leeds and Lisbon and 3 more. Often billed alongside Maxime dB, O'Hana and Aline Umber. Next up: Collect LX Factory, Lisbon on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ La Gugga is a house and deep house artist tracked on soundcheck, with 63 sets lo
 
 Maxime dB, O'Hana, Aline Umber
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lagugga/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lagugga/)*

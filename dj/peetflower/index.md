@@ -1,6 +1,6 @@
 # Peet Flower
 
-Peet Flower is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 11 Sept 2026.
+Peet Flower is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 11 Sept 2026.
 
 Peet Flower is a house and tech house artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin. Often billed alongside Bombata, Dennis Beutler and Fab Massimo. Next up: Bulbul Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Peet Flower is a house and tech house artist based in Germany, tracked on soundc
 
 Bombata, Dennis Beutler, Fab Massimo
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peetflower/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peetflower/)*

@@ -1,6 +1,6 @@
 # Fratello
 
-Fratello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Flux, Istanbul on Fri, 28 Aug 2026.
+Fratello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Flux, Istanbul on Fri, 28 Aug 2026.
 
 Fratello is a techno and house artist based in Turkey, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 4 more. Often billed alongside CiKi, Ertug Karakas and Glowal. Next up: Flux, Istanbul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Fratello is a techno and house artist based in Turkey, tracked on soundcheck, wi
 
 CiKi, Ertug Karakas, Glowal
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fratello/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fratello/)*

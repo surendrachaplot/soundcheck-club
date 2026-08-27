@@ -1,6 +1,6 @@
 # Murthovic
 
-Murthovic is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Murthovic is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Murthovic is an experimental and techno artist based in India, tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside A Guy Called Gerald, Honeydrip and Mia Koden. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -19,4 +19,4 @@ Murthovic is an experimental and techno artist based in India, tracked on soundc
 
 A Guy Called Gerald, Honeydrip, Mia Koden
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murthovic/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/murthovic/)*

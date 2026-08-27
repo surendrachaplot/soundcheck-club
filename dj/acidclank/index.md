@@ -1,6 +1,6 @@
 # Acidclank
 
-Acidclank is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Batica, Tokyo on Tue, 1 Sept 2026.
+Acidclank is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Batica, Tokyo on Tue, 1 Sept 2026.
 
 Acidclank is a techno and idm artist tracked on soundcheck, with 26 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Alpha Decay, Espinoza and Hataken. Next up: Batica, Tokyo on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Acidclank is a techno and idm artist tracked on soundcheck, with 26 sets logged 
 
 Alpha Decay, Espinoza, Hataken
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidclank/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidclank/)*

@@ -1,6 +1,6 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 26 Aug 2026; the next is "NAIT - The Nocturnal Journey" on Fri, 28 Aug 2026.
+Humboldthain Club is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NAIT - The Nocturnal Journey" on Fri, 28 Aug 2026.
 
 Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including YOVA, __iwana__, AHAB and Anna Almani and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming n
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

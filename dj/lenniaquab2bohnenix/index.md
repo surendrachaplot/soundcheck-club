@@ -1,6 +1,6 @@
 # Lenni Aqua b2b ohne nix
 
-Lenni Aqua b2b ohne nix is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Wed, 26 Aug 2026, next at Blue Velvet, Berlin on Sat, 5 Sept 2026.
+Lenni Aqua b2b ohne nix is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Blue Velvet, Berlin on Sat, 5 Sept 2026.
 
 Lenni Aqua b2b ohne nix are a trance and house duo tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Tip Collection, ALKARLINE and Laska. Next up: Blue Velvet, Berlin on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Lenni Aqua b2b ohne nix are a trance and house duo tracked on soundcheck, with 3
 
 Tip Collection, ALKARLINE, Laska
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenniaquab2bohnenix/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lenniaquab2bohnenix/)*

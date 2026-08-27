@@ -1,6 +1,6 @@
 # Reece Pritchard
 
-Reece Pritchard is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 26 Aug 2026, next at The Liquid Room, Edinburgh on Sat, 29 Aug 2026.
+Reece Pritchard is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Liquid Room, Edinburgh on Sat, 29 Aug 2026.
 
 Reece Pritchard is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside Frazi.er, DREIAN and 999999999. Next up: The Liquid Room, Edinburgh on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Reece Pritchard is a techno and dub techno artist based in United Kingdom, track
 
 Frazi.er, DREIAN, 999999999
 
-*Updated Wed, 26 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*
+*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reecepritchard/)*
