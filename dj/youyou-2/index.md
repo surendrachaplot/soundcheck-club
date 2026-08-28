@@ -1,6 +1,6 @@
 # YouYou (2)
 
-YouYou (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Old Blue Last, London on Fri, 4 Sept 2026.
+YouYou (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Old Blue Last, London on Fri, 4 Sept 2026.
 
 YouYou (2) is a techno and bass artist tracked on soundcheck, with 14 sets logged across Bristol, London and Sheffield. Often billed alongside Tania Atyabi, Berwick and Medallion Man. Next up: The Old Blue Last, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ YouYou (2) is a techno and bass artist tracked on soundcheck, with 14 sets logge
 
 Tania Atyabi, Berwick, Medallion Man
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou-2/)*

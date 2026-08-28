@@ -1,6 +1,6 @@
 # Sharari
 
-Sharari is a Club and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Sharari is a Club and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Sharari is a club and uk funky artist tracked on soundcheck, with 23 sets logged across Bristol, London and Manchester. Often billed alongside Oriki, Kusasa and Camilla Reghenzi. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sharari is a club and uk funky artist tracked on soundcheck, with 23 sets logged
 
 Oriki, Kusasa, Camilla Reghenzi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharari/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharari/)*

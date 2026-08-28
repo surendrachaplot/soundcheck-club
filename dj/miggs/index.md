@@ -1,6 +1,6 @@
 # Miggs
 
-Miggs is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Colette, Birmingham on Fri, 28 Aug 2026.
+Miggs is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Colette, Birmingham on Fri, 28 Aug 2026.
 
 Miggs is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 3 more. Often billed alongside DAIZ, Alien Izz and Amber Rose. Next up: Club Colette, Birmingham on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Miggs is a garage and techno artist based in United Kingdom, tracked on soundche
 
 DAIZ, Alien Izz, Amber Rose
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miggs/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miggs/)*

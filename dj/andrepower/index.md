@@ -1,6 +1,6 @@
 # Andre Power
 
-Andre Power is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Midline, Miami on Sat, 5 Sept 2026.
+Andre Power is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Midline, Miami on Sat, 5 Sept 2026.
 
 Andre Power is a house and r&b artist based in United States of America, tracked on soundcheck, with 43 sets logged across Berlin, Birmingham, Chicago and Cologne and 11 more. Often billed alongside Bambii, DOUG and FS Green. Next up: Midline, Miami on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Andre Power is a house and r&b artist based in United States of America, tracked
 
 Bambii, DOUG, FS Green
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrepower/)*

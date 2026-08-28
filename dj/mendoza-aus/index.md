@@ -1,6 +1,6 @@
 # Mendoza (AUS)
 
-Mendoza (AUS) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
+Mendoza (AUS) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
 
 Mendoza (AUS) is a house and techno artist tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Lewis Cancut, Hijack and 3rd Orbit. Next up: Revolver Upstairs, Melbourne on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Mendoza (AUS) is a house and techno artist tracked on soundcheck, with 7 sets lo
 
 Lewis Cancut, Hijack, 3rd Orbit
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mendoza-aus/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mendoza-aus/)*

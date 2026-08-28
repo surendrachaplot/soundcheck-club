@@ -1,6 +1,6 @@
 # Taid1
 
-Taid1 is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Rosso, Seoul on Fri, 28 Aug 2026.
+Taid1 is a Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Rosso, Seoul on Fri, 28 Aug 2026.
 
 Taid1 is a club artist based in South Korea, tracked on soundcheck, with 5 sets logged across Seoul. Often billed alongside DOBERMAN, JADA MORAES and Minje. Next up: Rosso, Seoul on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ Taid1 is a club artist based in South Korea, tracked on soundcheck, with 5 sets 
 
 DOBERMAN, JADA MORAES, Minje
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taid1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taid1/)*

@@ -1,6 +1,6 @@
 # Brixton Storeys
 
-Brixton Storeys is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "CARNIVAL IN LONDON: Notting Hill Carnival After Party in Brixton" on Sun, 30 Aug 2026.
+Brixton Storeys is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "CARNIVAL IN LONDON: Notting Hill Carnival After Party in Brixton" on Sun, 30 Aug 2026.
 
 Brixton Storeys is a music venue in London listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
 
@@ -19,4 +19,4 @@ Brixton Storeys is a music venue in London listed on soundcheck. 6 upcoming nigh
 
 467- 469 Brixton Rd, London SW9 8HH, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-storeys/)*

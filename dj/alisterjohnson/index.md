@@ -1,6 +1,6 @@
 # Alister Johnson
 
-Alister Johnson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 915 Dupont, Toronto on Sat, 29 Aug 2026.
+Alister Johnson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 915 Dupont, Toronto on Sat, 29 Aug 2026.
 
 Alister Johnson is a house and disco artist based in United States of America, tracked on soundcheck, with 29 sets logged across Dublin, Montreal and Toronto. Often billed alongside John Kong, Jason Palma and Automaticamore. Next up: 915 Dupont, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alister Johnson is a house and disco artist based in United States of America, t
 
 John Kong, Jason Palma, Automaticamore
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisterjohnson/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisterjohnson/)*

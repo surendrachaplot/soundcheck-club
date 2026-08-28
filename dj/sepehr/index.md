@@ -1,6 +1,6 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+Sepehr is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
 
 Sepehr is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Elena Colombi, Kia (AU) and Amelia Holt. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Sepehr is a techno and house artist tracked on soundcheck, with 127 sets logged 
 
 Elena Colombi, Kia (AU), Amelia Holt
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

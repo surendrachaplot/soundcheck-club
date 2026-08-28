@@ -1,6 +1,6 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, Zutzut" on Fri, 28 Aug 2026.
+YuYu Cine Club is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Yu Yu Cine Club: Latencia takeover with Siete Catorce, Imaabs, Microhm, Zutzut" on Fri, 28 Aug 2026.
 
 YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including Alena Vox, Black Rave Culture, Botelo and Cashu and 2 more. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
@@ -23,4 +23,4 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 10 upcoming 
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

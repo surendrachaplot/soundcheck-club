@@ -1,6 +1,6 @@
 # Potential Badboy
 
-Potential Badboy is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Brixton Jamm, London on Sat, 12 Sept 2026.
+Potential Badboy is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Brixton Jamm, London on Sat, 12 Sept 2026.
 
 Potential Badboy is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Amsterdam and London. Often billed alongside The Ragga Twins, Uncle Dugs and DJ SS. Next up: Brixton Jamm, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Potential Badboy is a drum & bass and jungle artist tracked on soundcheck, with 
 
 The Ragga Twins, Uncle Dugs, DJ SS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/potentialbadboy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/potentialbadboy/)*

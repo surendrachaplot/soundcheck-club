@@ -1,6 +1,6 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Confessions On A Dance Floor: The Ultimate Madonna Party with Steiner Kristóf & Nimi ⏾" on Fri, 28 Aug 2026.
+Budapest Park is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Confessions On A Dance Floor: The Ultimate Madonna Party with Steiner Kristóf & Nimi ⏾" on Fri, 28 Aug 2026.
 
 Budapest Park is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Âme, LAVKY, Mateo and Ratkay and 2 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
@@ -20,4 +20,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 7 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

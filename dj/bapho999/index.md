@@ -1,6 +1,6 @@
 # Bapho999
 
-Bapho999 is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
+Bapho999 is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
 
 Bapho999 is a techno artist tracked on soundcheck, with 18 sets logged across Barcelona. Often billed alongside Kymmy, BACO and Dora Jeen. Next up: TBA, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bapho999 is a techno artist tracked on soundcheck, with 18 sets logged across Ba
 
 Kymmy, BACO, Dora Jeen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bapho999/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bapho999/)*

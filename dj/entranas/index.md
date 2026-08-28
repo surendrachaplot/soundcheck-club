@@ -1,14 +1,15 @@
 # Entrañas
 
-Entrañas is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 4 Sept 2026.
+Entrañas is a Latin Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Public Works, San Francisco/Oakland on Fri, 4 Sept 2026.
 
-Entrañas is a latin bass and club artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Chicago and Hongkong and 16 more. Often billed alongside Merca Bae, DJ Saratonin and DNZA. Next up: Public Works, Sanfrancisco on Fri 4 Sept.
+Entrañas is a latin bass and club artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Chicago and Denver and 17 more. Often billed alongside Merca Bae, DJ Saratonin and DNZA. Next up: Public Works, Sanfrancisco on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Public Works | San Francisco/Oakland |
+| Sat, 5 Sept 2026 | TBA - Location With Ticket | Denver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Entrañas is a latin bass and club artist tracked on soundcheck, with 29 sets lo
 
 Merca Bae, DJ Saratonin, DNZA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entranas/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/entranas/)*

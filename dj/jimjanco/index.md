@@ -1,6 +1,6 @@
 # Jim Janco
 
-Jim Janco is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Spanners, London on Fri, 18 Sept 2026.
+Jim Janco is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Spanners, London on Fri, 18 Sept 2026.
 
 Jim Janco is a techno and dub artist tracked on soundcheck, with 12 sets logged across Berlin and London. Often billed alongside DJ Sotofett, Conrad Pack and Elle Andrews. Next up: Spanners, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jim Janco is a techno and dub artist tracked on soundcheck, with 12 sets logged 
 
 DJ Sotofett, Conrad Pack, Elle Andrews
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimjanco/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimjanco/)*

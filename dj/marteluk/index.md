@@ -1,6 +1,6 @@
 # Martel (UK)
 
-Martel (UK) is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Chiave, London on Fri, 28 Aug 2026.
+Martel (UK) is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Chiave, London on Fri, 28 Aug 2026.
 
 Martel (UK) is a minimal techno and house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside MARTEL, Paddy Cotter and Elleinad. Next up: Chiave, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Martel (UK) is a minimal techno and house artist tracked on soundcheck, with 10 
 
 MARTEL, Paddy Cotter, Elleinad
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marteluk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marteluk/)*

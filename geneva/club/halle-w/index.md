@@ -1,6 +1,6 @@
 # Halle W
 
-Halle W is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "SHE RAVES - INVITES Alex Nantaya" on Fri, 25 Sept 2026.
+Halle W is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "SHE RAVES - INVITES Alex Nantaya" on Fri, 25 Sept 2026.
 
 Halle W is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Alex Nantaya and ALL1SØN. Browse upcoming dates, start times and who's playing. Get directions Ch. Jacques-Philibert-de-Sauvage 37, 1219 Vernier, Switzerland.
 
@@ -14,4 +14,4 @@ Halle W is a music venue in Geneva listed on soundcheck. 1 upcoming night, with 
 
 Get directions Ch. Jacques-Philibert-de-Sauvage 37, 1219 Vernier, Switzerland, Geneva
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/halle-w/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/halle-w/)*

@@ -1,6 +1,6 @@
 # Brynk
 
-Brynk is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Mash House, Edinburgh on Fri, 28 Aug 2026.
+Brynk is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Mash House, Edinburgh on Fri, 28 Aug 2026.
 
 Brynk is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Edinburgh, Glasgow and Warsaw. Often billed alongside Nabee, Faultlines and Janverse. Next up: The Mash House, Edinburgh on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Brynk is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Nabee, Faultlines, Janverse
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brynk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brynk/)*

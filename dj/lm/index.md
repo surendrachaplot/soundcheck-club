@@ -1,6 +1,6 @@
 # LM
 
-LM is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Sept 2026.
+LM is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Sept 2026.
 
 LM is a house and electro artist tracked on soundcheck, with 141 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 3 Sept.
 
@@ -30,4 +30,4 @@ LM is a house and electro artist tracked on soundcheck, with 141 sets logged acr
 
 Brieela, ildec, Baffa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

@@ -1,6 +1,6 @@
 # Quinn & Friends: Carnival Party at Two Tribes CAMPFIRE
 
-Quinn & Friends: Carnival Party at Two Tribes CAMPFIRE on Sun 30 Aug, London. 5 acts on the bill: bangus, Crazy Cousinz, G&T (2) and Paleman and 1 more. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Quinn & Friends: Carnival Party at Two Tribes CAMPFIRE on Sun 30 Aug, London. 6 acts on the bill: bangus, Crazy Cousinz, G&T (2) and Noudle and 2 more. Garage and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Quinn & Friends: Carnival Party at Two Tribes CAMPFIRE on Sun 30 Aug, London. 5 
 - bangus
 - Crazy Cousinz
 - G&T (2)
+- Noudle
 - Paleman
 - Tiffany Quinn
 

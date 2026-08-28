@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at vurt., Seoul on Fri, 28 Aug 2026.
+D-Leria is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at vurt., Seoul on Fri, 28 Aug 2026.
 
 D-Leria is a techno and house artist based in Italy, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: vurt., Seoul on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ D-Leria is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

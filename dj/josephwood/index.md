@@ -1,6 +1,6 @@
 # Joseph Wood
 
-Joseph Wood is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Last Arch, London on Sat, 19 Sept 2026.
+Joseph Wood is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Last Arch, London on Sat, 19 Sept 2026.
 
 Joseph Wood is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Mina, 1-800 GIRLS and A For Alpha. Next up: Last Arch, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Joseph Wood is a techno and electronica artist based in United Kingdom, tracked 
 
 Mina, 1-800 GIRLS, A For Alpha
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephwood/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josephwood/)*

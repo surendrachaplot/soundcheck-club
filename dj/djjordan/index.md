@@ -1,6 +1,6 @@
 # DJ Jordan
 
-DJ Jordan is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Neükolln , Berlin on Fri, 28 Aug 2026.
+DJ Jordan is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Neükolln , Berlin on Fri, 28 Aug 2026.
 
 DJ Jordan is a techno and trance artist tracked on soundcheck, with 257 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Grace Thompson, A.N.I. and LeoSkiDj. Next up: TBA - Neükolln , Berlin on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ DJ Jordan is a techno and trance artist tracked on soundcheck, with 257 sets log
 
 Grace Thompson, A.N.I., LeoSkiDj
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjordan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjordan/)*

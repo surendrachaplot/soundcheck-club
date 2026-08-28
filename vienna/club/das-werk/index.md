@@ -1,14 +1,15 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "WERK Resident Night" on Fri, 28 Aug 2026.
+Das Werk is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "WERK Resident Night" on Fri, 28 Aug 2026.
 
-Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including adrialin, Albin Brezlan, Arman Shadow and carlo kalu and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
+Das Werk is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including adrialin, Albin Brezlan, Arman Shadow and AUDIO303 and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | WERK Resident Night | Crystal O, DJ WIFI, Golpe, Hypermobile, Joey (2), KRETA, adrialin |
+| Fri, 4 Sept 2026 | LABELNACHT - PRYDIE ANL SPECIAL | AUDIO303, Trugbild, pinklotion |
 | Sat, 5 Sept 2026 | TECHNO OBSCENE #33 - NINE O NINE x LSH - Das Werk Wien | Albin Brezlan, Arman Shadow, Huebl, Telicho |
 | Fri, 11 Sept 2026 | HERZFREQUENZ: NIGHT | Crystal O, DJ Wolle, DORAH, Joey (2), KILIÅN, Kat Ze, Kø:lab, SEKTOR69, WO.IZZY, YØNDER, carlo kalu |
 | Fri, 11 Sept 2026 | SHACKE ONE 'STERNZEICHEN BOSS TOUR' |  |
@@ -20,4 +21,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 7 upcoming nights, wit
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

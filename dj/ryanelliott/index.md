@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Gewölbe, Cologne on Fri, 4 Sept 2026.
+Ryan Elliott is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Gewölbe, Cologne on Fri, 4 Sept 2026.
 
-Ryan Elliott is a house and techno artist tracked on soundcheck, with 241 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Gewölbe, Cologne on Fri 4 Sept.
+Ryan Elliott is a house and techno artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 56 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Gewölbe, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 241 sets l
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
+| Sat, 31 Oct 2026 | TBA | Liverpool |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 241 sets l
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

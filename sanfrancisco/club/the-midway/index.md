@@ -1,19 +1,24 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "bradeazy - SF" on Sat, 29 Aug 2026.
+The Midway is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "bradeazy - SF" on Sat, 29 Aug 2026.
 
-The Midway is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including bradeazy, Estiva, MOSTASH and Pixxie and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
+The Midway is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including bradeazy, chungtech, DJ Holographic and Estiva and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | bradeazy - SF | bradeazy |
+| Sat, 5 Sept 2026 | Electroluxx Block Party: Purple Disco Machine, RuPaul + more | DJ Holographic, JLittle, Kilo, Purple Disco Machine, Twunkerbell, nina sol |
+| Sat, 5 Sept 2026 | DJ Holographic | DJ Holographic |
 | Sat, 19 Sept 2026 | Polaris presents: Estiva 'Solyra' EP Tour | Estiva, MOSTASH, Pixxie, S Λ V |
+| Sat, 19 Sept 2026 | Satin Jackets | Satin Jackets |
 | Sat, 10 Oct 2026 | Tinlicker | Tinlicker |
+| Sat, 10 Oct 2026 | Polo & Pan - Americas Tour Block Party | MALAS, Polo & Pan, Syd Gris, chungtech, starfari |
+| Sun, 11 Oct 2026 | Brothers & Sisters presents Salted with Sandy Rivera | Franky Boissy, John Morales, Julius Papp, Miguel Migs, Sandy Rivera |
 
 ## Address
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

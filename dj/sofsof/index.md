@@ -1,6 +1,6 @@
 # SOFSOF
 
-SOFSOF is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Mash House, Edinburgh on Sat, 29 Aug 2026.
+SOFSOF is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Mash House, Edinburgh on Sat, 29 Aug 2026.
 
 SOFSOF is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Edinburgh and Glasgow. Often billed alongside Miss Cabbage, Hometown Sound and Maveen. Next up: The Mash House, Edinburgh on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ SOFSOF is a bass and dubstep artist based in United Kingdom, tracked on soundche
 
 Miss Cabbage, Hometown Sound, Maveen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofsof/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofsof/)*

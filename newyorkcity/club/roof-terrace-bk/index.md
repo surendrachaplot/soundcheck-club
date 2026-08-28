@@ -1,6 +1,6 @@
 # Roof Terrace BK
 
-Roof Terrace BK is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Vigilante: Per Hammar, CHKLTE + Rana Iravani at Brooklyn Rooftop" on Fri, 28 Aug 2026.
+Roof Terrace BK is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Vigilante: Per Hammar, CHKLTE + Rana Iravani at Brooklyn Rooftop" on Fri, 28 Aug 2026.
 
 Roof Terrace BK is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Amelia Holt, CHKLTE, Guzt and ICE THOMPSON and 2 more. Browse upcoming dates, start times and who's playing. 359 Meserole St.
 
@@ -17,4 +17,4 @@ Roof Terrace BK is a music venue in Newyorkcity listed on soundcheck. 4 upcoming
 
 359 Meserole St, New York City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roof-terrace-bk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roof-terrace-bk/)*

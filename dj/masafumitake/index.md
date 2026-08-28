@@ -1,6 +1,6 @@
 # Masafumi Take
 
-Masafumi Take is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Boson, Tokyo on Sat, 29 Aug 2026.
+Masafumi Take is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bar Boson, Tokyo on Sat, 29 Aug 2026.
 
 Masafumi Take is a techno and acid artist tracked on soundcheck, with 21 sets logged across Melbourne and Tokyo. Often billed alongside adak7, KATHARSIS and DJ SO. Next up: Bar Boson, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Masafumi Take is a techno and acid artist tracked on soundcheck, with 21 sets lo
 
 adak7, KATHARSIS, DJ SO
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masafumitake/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masafumitake/)*

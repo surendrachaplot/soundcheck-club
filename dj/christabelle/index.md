@@ -1,6 +1,6 @@
 # Christa Belle
 
-Christa Belle is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Pizza Coming Soon, Vancouver on Sat, 29 Aug 2026.
+Christa Belle is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Pizza Coming Soon, Vancouver on Sat, 29 Aug 2026.
 
 Christa Belle is a house and disco artist based in Canada, tracked on soundcheck, with 26 sets logged across Berlin and Vancouver. Often billed alongside DJ D.Dee, DJ Hannah and DJ Holographic. Next up: Pizza Coming Soon, Vancouver on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Christa Belle is a house and disco artist based in Canada, tracked on soundcheck
 
 DJ D.Dee, DJ Hannah, DJ Holographic
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*

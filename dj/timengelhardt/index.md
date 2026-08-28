@@ -1,6 +1,6 @@
 # Tim Engelhardt
 
-Tim Engelhardt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 5 Sept 2026.
+Tim Engelhardt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Tim Engelhardt is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside MAGA, Sean Doron and Emanuel Satie. Next up: Madarae San Francisco, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tim Engelhardt is a house and techno artist tracked on soundcheck, with 64 sets 
 
 MAGA, Sean Doron, Emanuel Satie
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timengelhardt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timengelhardt/)*

@@ -1,6 +1,6 @@
 # BL4ZE
 
-BL4ZE is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 4 Sept 2026.
+BL4ZE is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 4 Sept 2026.
 
 BL4ZE is a guaracha and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Losangeles and Sanfrancisco. Often billed alongside T3KNO, 4LOKA and Baby Uniq. Next up: TBA - DTLA, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ BL4ZE is a guaracha and techno artist based in United States of America, tracked
 
 T3KNO, 4LOKA, Baby Uniq
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bl4ze/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bl4ze/)*

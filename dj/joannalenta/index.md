@@ -1,6 +1,6 @@
 # Joanna Lenta
 
-Joanna Lenta is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Beate Uwe, Berlin on Sun, 13 Sept 2026.
+Joanna Lenta is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Beate Uwe, Berlin on Sun, 13 Sept 2026.
 
 Joanna Lenta is a downtempo and techno artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside K2W0, Colsen and Habikat. Next up: Beate Uwe, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Joanna Lenta is a downtempo and techno artist tracked on soundcheck, with 14 set
 
 K2W0, Colsen, Habikat
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joannalenta/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joannalenta/)*

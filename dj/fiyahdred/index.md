@@ -1,8 +1,8 @@
 # Fiyahdred
 
-Fiyahdred is a Amapiano and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
+Fiyahdred is a Amapiano and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ormside Projects, London on Fri, 28 Aug 2026.
 
-Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Karen Nyame KG, Bok Bok and Donnie Sunshine. Next up: Ormside Projects, London on Fri 28 Aug.
+Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Brussels and Copenhagen and 7 more. Often billed alongside Karen Nyame KG, Bok Bok and Donnie Sunshine. Next up: Ormside Projects, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Ormside Projects | London |
 | Sun, 30 Aug 2026 | Ballroom at Palais | London |
+| Fri, 25 Sept 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Fiyahdred is an amapiano and house artist based in United Kingdom, tracked on so
 
 Karen Nyame KG, Bok Bok, Donnie Sunshine
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiyahdred/)*

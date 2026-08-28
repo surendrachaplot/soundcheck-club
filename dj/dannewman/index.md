@@ -1,6 +1,6 @@
 # Dan Newman
 
-Dan Newman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Glamorama, Melbourne on Fri, 4 Sept 2026.
+Dan Newman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Glamorama, Melbourne on Fri, 4 Sept 2026.
 
 Dan Newman is a house and garage artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Cardiff, Dublin and Madrid and 2 more. Often billed alongside Gerardo Niva, 6 SENSE and Bella Claxton. Next up: Glamorama, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Dan Newman is a house and garage artist based in United Kingdom, tracked on soun
 
 Gerardo Niva, 6 SENSE, Bella Claxton
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannewman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannewman/)*

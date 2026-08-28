@@ -1,6 +1,6 @@
 # broad hall.
 
-broad hall. is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SHAMELESS feat. DJ Seoul" on Sat, 29 Aug 2026.
+broad hall. is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "SHAMELESS feat. DJ Seoul" on Sat, 29 Aug 2026.
 
 broad hall. is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including DJ Dawson, DJ Kalin, DJ Seoul and Redevil (2). Browse upcoming dates, start times and who's playing. 699 N. Broad Street, Philadelphia, PA 19123 USA.
 
@@ -15,4 +15,4 @@ broad hall. is a music venue in Philadelphia listed on soundcheck. 2 upcoming ni
 
 699 N. Broad Street, Philadelphia, PA 19123 USA, Philadelphia
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*

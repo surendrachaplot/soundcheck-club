@@ -1,14 +1,14 @@
 # Kapusta
 
-Kapusta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Riga Wake, Riga on Sat, 29 Aug 2026.
+Kapusta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at B2 Rīga, Riga on Sat, 29 Aug 2026.
 
-Kapusta is a house and techno artist tracked on soundcheck, with 34 sets logged across Riga and Tallinn. Often billed alongside Rexton, Nicolas Barnes and Adam Blake. Next up: Riga Wake, Riga on Sat 29 Aug.
+Kapusta is a house and techno artist tracked on soundcheck, with 34 sets logged across Riga and Tallinn. Often billed alongside Rexton, Nicolas Barnes and Adam Blake. Next up: B2 Rīga, Riga on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Riga Wake | Riga |
+| Sat, 29 Aug 2026 | B2 Rīga | Riga |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Kapusta is a house and techno artist tracked on soundcheck, with 34 sets logged 
 
 Rexton, Nicolas Barnes, Adam Blake
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapusta/)*

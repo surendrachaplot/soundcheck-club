@@ -1,8 +1,8 @@
 # CMD+JAZMINE
 
-CMD+JAZMINE is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jade, New York City on Fri, 28 Aug 2026.
+CMD+JAZMINE is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jade, New York City on Fri, 28 Aug 2026.
 
-CMD+JAZMINE is a club and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Newyorkcity. Often billed alongside Petal, actuator and DJ girlcrush. Next up: Jade, Newyorkcity on Fri 28 Aug.
+CMD+JAZMINE is a club and techno artist based in United States of America, tracked on soundcheck, with 59 sets logged across Newyorkcity. Often billed alongside Petal, actuator and DJ girlcrush. Next up: Jade, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CMD+JAZMINE is a club and techno artist based in United States of America, track
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Jade | New York City |
 | Mon, 31 Aug 2026 | Bossa Nova Civic Club | New York City |
+| Tue, 15 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CMD+JAZMINE is a club and techno artist based in United States of America, track
 
 Petal, actuator, DJ girlcrush
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*

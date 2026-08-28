@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 21 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Palais: Make A Dance, Eden Burns & Meltmode" on Fri, 28 Aug 2026.
+Palais is a music venue in London with 21 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Palais: Make A Dance, Eden Burns & Meltmode" on Fri, 28 Aug 2026.
 
 Palais is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Alex Kassian, AMORAL, Andy Garvey and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 21 upcoming nights, with
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

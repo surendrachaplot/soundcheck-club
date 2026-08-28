@@ -1,6 +1,6 @@
 # Juste S
 
-Juste S is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Magical Forest in Ovar, Porto on Fri, 28 Aug 2026.
+Juste S is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Magical Forest in Ovar, Porto on Fri, 28 Aug 2026.
 
 Juste S is a techno and house artist tracked on soundcheck, with 8 sets logged across Paris and Porto. Often billed alongside Blasha & Allatt, CRYME and Christian Coiffure. Next up: TBA - Magical Forest in Ovar, Porto on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Juste S is a techno and house artist tracked on soundcheck, with 8 sets logged a
 
 Blasha & Allatt, CRYME, Christian Coiffure
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justes/)*

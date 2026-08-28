@@ -1,6 +1,6 @@
 # DJ Will
 
-DJ Will is a Pop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fire, London on Sun, 30 Aug 2026.
+DJ Will is a Pop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fire, London on Sun, 30 Aug 2026.
 
 DJ Will is a pop and reggaeton artist tracked on soundcheck, with 4 sets logged across London, Newyorkcity and Saopaulo. Often billed alongside DJ Marky, DJ Murphy and KL Jay. Next up: Fire, London on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ DJ Will is a pop and reggaeton artist tracked on soundcheck, with 4 sets logged 
 
 DJ Marky, DJ Murphy, KL Jay
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwill-th/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djwill-th/)*

@@ -1,6 +1,6 @@
 # Ranjit Nijjer
 
-Ranjit Nijjer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 12 Sept 2026.
+Ranjit Nijjer is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Collingwood Basement, Melbourne on Sat, 12 Sept 2026.
 
 Ranjit Nijjer is a techno and electro artist tracked on soundcheck, with 13 sets logged across Melbourne. Often billed alongside Simon Slieker, Andrew Till and ALIEN-A. Next up: Collingwood Basement, Melbourne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ranjit Nijjer is a techno and electro artist tracked on soundcheck, with 13 sets
 
 Simon Slieker, Andrew Till, ALIEN-A
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranjitnijjer/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranjitnijjer/)*

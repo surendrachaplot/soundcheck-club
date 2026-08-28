@@ -1,6 +1,6 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Praia Irmão, Lisbon on Fri, 4 Sept 2026.
+Bambounou is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Praia Irmão, Lisbon on Fri, 4 Sept 2026.
 
 Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Praia Irmão, Lisbon on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logg
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

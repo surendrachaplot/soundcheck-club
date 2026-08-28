@@ -1,6 +1,6 @@
 # Mitchell Gee
 
-Mitchell Gee is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+Mitchell Gee is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
 Mitchell Gee is a house and garage artist tracked on soundcheck, with 6 sets logged across Melbourne. Often billed alongside Clayton Fox, J-Slyde and Manoy. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Mitchell Gee is a house and garage artist tracked on soundcheck, with 6 sets log
 
 Clayton Fox, J-Slyde, Manoy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchellgee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchellgee/)*

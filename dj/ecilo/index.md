@@ -1,6 +1,6 @@
 # Ecilo
 
-Ecilo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Ecilo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Ecilo is a techno and house artist based in Indonesia, tracked on soundcheck, with 20 sets logged across Amsterdam, Bali, Bangkok and Berlin and 7 more. Often billed alongside BBANDIT, Mairakilla and Pink Concrete. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ecilo is a techno and house artist based in Indonesia, tracked on soundcheck, wi
 
 BBANDIT, Mairakilla, Pink Concrete
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*

@@ -1,14 +1,14 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Justin Martin: LoHi Rooftop" on Sat, 29 Aug 2026.
+314 Scholes is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Justin Martin: LoHi Rooftop" on Sat, 29 Aug 2026.
 
-314 Scholes is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Emma X, Justin Martin, Moodymann and Nicolas Jaar and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
+314 Scholes is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Emma X, Justin Martin, Miguel Gallardo and Moodymann and 2 more. Browse upcoming dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Justin Martin: LoHi Rooftop | Justin Martin |
+| Sat, 29 Aug 2026 | Justin Martin: LoHi Rooftop | Justin Martin, Miguel Gallardo |
 | Sun, 13 Sept 2026 | 100 WAYS TO GET HERE — NYFW SS27 Fashion Show + After Party | Emma X |
 | Sun, 20 Sept 2026 | The Carry Nation: They Went On Forever | Nita Aviance, The Carry Nation, Will Automagic |
 | Fri, 25 Sept 2026 | Other People Night: AEAEA | Nicolas Jaar |
@@ -21,4 +21,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

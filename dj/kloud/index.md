@@ -1,8 +1,8 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
+KLOUD is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
 
-KLOUD is a techno and trance artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside Lola Cerise, I Hate Models and Kander. Next up: Mia Mao, Paris on Fri 28 Aug.
+KLOUD is a techno and trance artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, I Hate Models and Kander. Next up: Mia Mao, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 79 sets logged a
 | Fri, 11 Sept 2026 | Newspeak | Montreal |
 | Sat, 12 Sept 2026 | Rebel | Toronto |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Sat, 26 Sept 2026 | Club Exil | Vienna |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Fri, 9 Oct 2026 | OST | Berlin |
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
-| Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 79 sets logged a
 
 Lola Cerise, I Hate Models, Kander
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

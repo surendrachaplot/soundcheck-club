@@ -1,8 +1,8 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Terraza Catedral, Mexico City on Sat, 29 Aug 2026.
+Mihai Popoviciu is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Terraza Catedral, Mexico City on Sat, 29 Aug 2026.
 
-Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Terraza Catedral, Mexicocity on Sat 29 Aug.
+Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside Lola Palmer, Andrey Pushkarev and Janeret. Next up: Terraza Catedral, Mexicocity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 68 
 | Sat, 29 Aug 2026 | Terraza Catedral | Mexico City |
 | Sun, 13 Sept 2026 | Blue Summer Ibiza Boat | Ibiza |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |
+| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 68 
 
 ## Shares bills with
 
-Andrey Pushkarev, Lola Palmer, Janeret
+Lola Palmer, Andrey Pushkarev, Janeret
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

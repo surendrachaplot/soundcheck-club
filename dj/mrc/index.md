@@ -1,6 +1,6 @@
 # Mr C
 
-Mr C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
+Mr C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Belle Angele, Edinburgh on Sat, 29 Aug 2026.
 
 Mr C is a house and techno artist tracked on soundcheck, with 32 sets logged across Amsterdam, Brighton, Edinburgh and Kyoto and 7 more. Often billed alongside Miss C MCDJ, Colin Dale and David Scuba. Next up: La Belle Angele, Edinburgh on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mr C is a house and techno artist tracked on soundcheck, with 32 sets logged acr
 
 Miss C MCDJ, Colin Dale, David Scuba
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrc/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrc/)*

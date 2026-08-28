@@ -1,6 +1,6 @@
 # Danandout
 
-Danandout is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
+Danandout is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
 
 Danandout is a house and baile funk artist tracked on soundcheck, with 10 sets logged across Brighton, London and Manchester. Often billed alongside Marley Reid, Joseph Tunde and Bifa and The Juice. Next up: Soup, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Danandout is a house and baile funk artist tracked on soundcheck, with 10 sets l
 
 Marley Reid, Joseph Tunde, Bifa and The Juice
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danandout/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danandout/)*

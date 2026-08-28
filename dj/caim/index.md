@@ -1,6 +1,6 @@
 # Caim
 
-Caim is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 28 Aug 2026.
+Caim is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ankali & Planeta Za, Prague on Fri, 28 Aug 2026.
 
 Caim is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 22 more. Often billed alongside Marie K (1), Eversines and Pieter Jansen. Next up: Ankali & Planeta Za, Prague on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Caim is a techno and house artist tracked on soundcheck, with 77 sets logged acr
 
 Marie K (1), Eversines, Pieter Jansen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*

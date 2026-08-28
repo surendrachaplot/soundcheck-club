@@ -1,6 +1,6 @@
 # Luca Fernandez
 
-Luca Fernandez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
+Luca Fernandez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
 
 Luca Fernandez is a techno and house artist based in Canada, tracked on soundcheck, with 16 sets logged across Vancouver. Often billed alongside HighCUE, Jay Di and Ownside. Next up: Gorg-O-Mish, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Luca Fernandez is a techno and house artist based in Canada, tracked on soundche
 
 HighCUE, Jay Di, Ownside
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucafernandez/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucafernandez/)*

@@ -1,6 +1,6 @@
 # Topper
 
-Topper is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Topper is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Topper is a house and minimal artist tracked on soundcheck, with 87 sets logged across Bali, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Daniele Papini, Clovis and Triptease. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Topper is a house and minimal artist tracked on soundcheck, with 87 sets logged 
 
 Daniele Papini, Clovis, Triptease
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topper/)*

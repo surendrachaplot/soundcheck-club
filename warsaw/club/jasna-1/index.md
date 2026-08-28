@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "J1 - Guest List: Some Guest b2b SHHME, Caletti, dlaczego.tak, long w, YJ" on Fri, 28 Aug 2026.
+Jasna 1 is a music venue in Warsaw with 14 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "J1 - Guest List: Some Guest b2b SHHME, Caletti, dlaczego.tak, long w, YJ" on Fri, 28 Aug 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, with line-ups including 999999999, Abrew, Adelina and Aetha and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -15,12 +15,12 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 14 upcoming nights, wit
 | Fri, 11 Sept 2026 | J1 - Inner Tension | Blazej Malinowski, Claudio PRC, Kosmalski, Kovvalsky, Vera Logdanidi, dtekk |
 | Sat, 12 Sept 2026 | J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13 | Dedenia, Doga, ILLEGAL, JKO, KANCIAK, Mohji, Viennaus, Yaris, Zero_null, faron, hawwwa, m0nagenda |
 | Sat, 19 Sept 2026 | J1 - D-Leria [LIVE], Michal Wolski [LIVE], Aetha, Xim | Aetha, D-Leria, Michal Wolski, Xim (BY) |
-| Fri, 25 Sept 2026 | JASNA 9TH BDAY |  |
-| Sat, 26 Sept 2026 | JASNA 9TH BDAY  | Sandwell District |
-| Fri, 2 Oct 2026 | J1 x Unsound - SOFT LAUNCH PARTY with Donato Dozzy, dtekk, emerai B2B VI | Donato Dozzy, Vi (PL), dtekk, emerai |
+| Fri, 25 Sept 2026 | JASNA 9TH BDAY - DAY 1  | Blazej Malinowski, DJ JM, Dresden, Gabrielle Kwarteng, Ivan Smagghe, Kovvalsky, Manfredas, Marie Pravda, Michalec, Ola Teks, PAWEL (PL) |
+| Sat, 26 Sept 2026 | JASNA 9TH BDAY — DAY 2 | Aii PS, Earth Trax, Ilya Semashkevich, MATRIX3K, MKO (PL), Nadezh No, Olivia, Sandwell District, zenwerk |
+| Fri, 2 Oct 2026 | J1 x Unsound - SOFT LAUNCH PARTY with Donato Dozzy, dtekk, emerai B2B VI / Tom Boogizm  | Donato Dozzy, Tom Boogizm, Vi (PL), dtekk, emerai |
 
 ## Address
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

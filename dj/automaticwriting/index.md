@@ -1,8 +1,8 @@
 # Automatic Writing
 
-Automatic Writing is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
+Automatic Writing is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
 
-Automatic Writing is a house and techno artist based in France, tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Obe, Lyon on Fri 4 Sept.
+Automatic Writing is a house and techno artist based in France, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: Obe, Lyon on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Automatic Writing is a house and techno artist based in France, tracked on sound
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Obe | Lyon |
 | Sat, 5 Sept 2026 | Platforma Wolff | Bucharest |
+| Sat, 19 Sept 2026 | Auber Garden | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Automatic Writing is a house and techno artist based in France, tracked on sound
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

@@ -1,6 +1,6 @@
 # GODOT
 
-GODOT is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
+GODOT is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Pistil, Seoul on Fri, 28 Aug 2026.
 
 GODOT is a garage and bass artist tracked on soundcheck, with 5 sets logged across Seoul. Often billed alongside AEIDA, BAAWLA and DDD (2). Next up: Pistil, Seoul on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ GODOT is a garage and bass artist tracked on soundcheck, with 5 sets logged acro
 
 AEIDA, BAAWLA, DDD (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*

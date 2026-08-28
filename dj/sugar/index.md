@@ -1,6 +1,6 @@
 # Sugar
 
-Sugar is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 28 Aug 2026.
+Sugar is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 28 Aug 2026.
 
 Sugar is a techno and trance artist tracked on soundcheck, with 49 sets logged across Antwerp, Barcelona, Basel and Berlin and 14 more. Often billed alongside Schacke, Ezy and Mohajer. Next up: Northern Lights Lounge, Detroit on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sugar is a techno and trance artist tracked on soundcheck, with 49 sets logged a
 
 Schacke, Ezy, Mohajer
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar/)*

@@ -1,6 +1,6 @@
 # Flower Boy
 
-Flower Boy is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at OIL Club, Shenzhen on Fri, 28 Aug 2026.
+Flower Boy is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at OIL Club, Shenzhen on Fri, 28 Aug 2026.
 
 Flower Boy is a club and techno artist based in China, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Shenzhen. Often billed alongside Manson, 3ASiC and Alyne. Next up: OIL Club, Shenzhen on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Flower Boy is a club and techno artist based in China, tracked on soundcheck, wi
 
 Manson, 3ASiC, Alyne
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flowerboy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flowerboy/)*

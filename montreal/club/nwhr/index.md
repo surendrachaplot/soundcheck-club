@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NOS: Moonrise - NotMeghan, Elias Erium, Mike Chidiac" on Fri, 28 Aug 2026.
+NWHR is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "NOS: Moonrise - NotMeghan, Elias Erium, Mike Chidiac" on Fri, 28 Aug 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including AADJA, DJ Hockey, Elias Erium and Husa & Zeyada and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -17,4 +17,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

@@ -1,6 +1,6 @@
 # RY0N4
 
-RY0N4 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Circus Osaka, Osaka on Sat, 29 Aug 2026.
+RY0N4 is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Circus Osaka, Osaka on Sat, 29 Aug 2026.
 
 RY0N4 is a club and techno artist tracked on soundcheck, with 7 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Yoyou, NordOst and Yuta Aoki. Next up: Circus Osaka, Osaka on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ RY0N4 is a club and techno artist tracked on soundcheck, with 7 sets logged acro
 
 Yoyou, NordOst, Yuta Aoki
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ry0n4/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ry0n4/)*

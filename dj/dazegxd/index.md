@@ -1,8 +1,8 @@
 # Dazegxd
 
-Dazegxd is a Jungle and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Ton of Brix, London on Sat, 29 Aug 2026.
+Dazegxd is a Jungle and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Ton of Brix, London on Sat, 29 Aug 2026.
 
-Dazegxd is a jungle and club artist tracked on soundcheck, with 99 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: The Ton of Brix, London on Sat 29 Aug.
+Dazegxd is a jungle and house artist tracked on soundcheck, with 100 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: The Ton of Brix, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dazegxd is a jungle and club artist tracked on soundcheck, with 99 sets logged a
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Ton of Brix | London |
 | Mon, 7 Sept 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 11 Sept 2026 | Chatroom at Elsewhere | New York City |
 | Sat, 12 Sept 2026 | TBA - CALL INFOLINE | Boston |
 
 ## Recently played
@@ -27,4 +28,4 @@ Dazegxd is a jungle and club artist tracked on soundcheck, with 99 sets logged a
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

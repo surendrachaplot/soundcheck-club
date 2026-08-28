@@ -1,6 +1,6 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Lisa Korver All Day - ADE" on Sat, 24 Oct 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Lisa Korver All Day - ADE" on Sat, 24 Oct 2026.
 
 Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including A.M.C., A-Sides, b-line and BassLayerz and 2 more. Browse upcoming dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
@@ -18,4 +18,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 5 
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

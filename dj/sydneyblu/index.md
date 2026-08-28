@@ -1,6 +1,6 @@
 # Sydney Blu
 
-Sydney Blu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
+Sydney Blu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
 
 Sydney Blu is a house and tech house artist based in Canada, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 9 more. Often billed alongside SHERA, Videri and RUDEE NIK. Next up: Gorg-O-Mish, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sydney Blu is a house and tech house artist based in Canada, tracked on soundche
 
 SHERA, Videri, RUDEE NIK
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*

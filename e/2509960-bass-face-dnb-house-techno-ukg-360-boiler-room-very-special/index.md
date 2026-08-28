@@ -1,10 +1,10 @@
 # Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause
 
-Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause on Sat 24 Oct, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause on Fri 23 Oct, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 24 Oct 2026 |
+| Date | Fri, 23 Oct 2026 |
 | Venue | The Cause |
 | City | London |
 

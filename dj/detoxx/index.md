@@ -1,6 +1,6 @@
 # DETOXX
 
-DETOXX is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
+DETOXX is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
 
 DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 5 more. Often billed alongside Amøn, YËDM and DJ Achim Feuervogel. Next up: Sommerbad Neukölln, Berlin on Sun 30 Aug.
 
@@ -32,4 +32,4 @@ DETOXX is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Amøn, YËDM, DJ Achim Feuervogel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detoxx/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/detoxx/)*

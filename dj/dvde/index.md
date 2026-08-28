@@ -1,6 +1,6 @@
 # DVDE
 
-DVDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
+DVDE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Macadam, Nantes on Sat, 29 Aug 2026.
 
 DVDE is a house and techno artist based in France, tracked on soundcheck, with 105 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Maison Blanche, CL Beats and Cinthie. Next up: Macadam, Nantes on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DVDE is a house and techno artist based in France, tracked on soundcheck, with 1
 
 Maison Blanche, CL Beats, Cinthie
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dvde/)*

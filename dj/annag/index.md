@@ -1,6 +1,6 @@
 # anna G
 
-anna G is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
+anna G is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at RAW Gelände, Berlin on Sat, 29 Aug 2026.
 
 anna G is a house and drum & bass artist tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Lobo (DE), Monsai and Lola Brennt. Next up: RAW Gelände, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ anna G is a house and drum & bass artist tracked on soundcheck, with 22 sets log
 
 Lobo (DE), Monsai, Lola Brennt
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annag/)*

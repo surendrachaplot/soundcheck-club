@@ -1,6 +1,6 @@
 # lis (5)
 
-lis (5) is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
+lis (5) is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
 
 lis (5) is an ambient and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside ADHDJ (2), ARCHANGEL (US) and Afra. Next up: RADION, Amsterdam on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ lis (5) is an ambient and house artist based in Netherlands, tracked on soundche
 
 ADHDJ (2), ARCHANGEL (US), Afra
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lis-5/)*

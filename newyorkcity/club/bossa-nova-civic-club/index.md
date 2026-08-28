@@ -1,14 +1,13 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 32 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DAYTONA 500 BIRTHDAY BASH: Asha, Dj Warning, August V.M" on Thu, 27 Aug 2026.
+Bossa Nova Civic Club is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Soundbath with Dj Nico + BEARCAT + shekdash" on Fri, 28 Aug 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 upcoming nights, with line-ups including The AM/AMX, Ah Dek, Aleska and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including The AM/AMX, Ah Dek, Aleska and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | DAYTONA 500 BIRTHDAY BASH: Asha, Dj Warning, August V.M | Ariel Zetina, Asha (4), August V. M., DJ DEADNAME, Dj Warning, Eva Loveless |
 | Fri, 28 Aug 2026 | Soundbath with Dj Nico + BEARCAT + shekdash | BEARCAT, Dj Nico, shekdash |
 | Fri, 28 Aug 2026 | an evening with babu | babu (2) |
 | Sat, 29 Aug 2026 | Realms of Techno with AMX + KYRUH +Wytheda | KYRUH, The AM/AMX |
@@ -18,9 +17,10 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 32 u
 | Tue, 1 Sept 2026 | House of FLINTA* | Aleska, BOB1, LTE (1), Preacher's Daughter, SEDENTARY, amita, stress tess |
 | Wed, 2 Sept 2026 | Life Of | Baroque Hoe, Brutal Twink, Zeigler |
 | Wed, 2 Sept 2026 | Happy Hour: Risk Advisory | Ben Chaddha, Cataract, Trader O |
+| Thu, 3 Sept 2026 | Happy Hour: Sex Over Thirty | Ah Dek, DJ girlcrush, Kristen London, Sex Over Thirty |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

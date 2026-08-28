@@ -1,6 +1,6 @@
 # Sheps
 
-Sheps is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
+Sheps is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Waterhouse Studios, Amsterdam on Sat, 29 Aug 2026.
 
 Sheps is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam and Vancouver. Often billed alongside Taylor Taylor, Cambio and SAAB (2). Next up: Waterhouse Studios, Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sheps is a house and funk / soul artist based in United Kingdom, tracked on soun
 
 Taylor Taylor, Cambio, SAAB (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheps/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheps/)*

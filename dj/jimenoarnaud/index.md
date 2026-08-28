@@ -1,13 +1,14 @@
 # Jimeno Arnaud
 
-Jimeno Arnaud is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at M.N.Roy, Mexico City on Fri, 28 Aug 2026.
+Jimeno Arnaud is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at ROCA HIFI, Mexico City on Wed, 26 Aug 2026.
 
-Jimeno Arnaud is a house and downtempo artist tracked on soundcheck, with 40 sets logged across Mexicocity. Often billed alongside Wolffer, Barreto and Irena Stanisic. Next up: M.N.Roy, Mexicocity on Fri 28 Aug.
+Jimeno Arnaud is a house and downtempo artist tracked on soundcheck, with 40 sets logged across Mexicocity. Often billed alongside Wolffer, Barreto and Irena Stanisic. Next up: ROCA HIFI, Mexicocity on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | ROCA HIFI | Mexico City |
 | Fri, 28 Aug 2026 | M.N.Roy | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jimeno Arnaud is a house and downtempo artist tracked on soundcheck, with 40 set
 
 Wolffer, Barreto, Irena Stanisic
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*

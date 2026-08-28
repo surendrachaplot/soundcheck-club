@@ -1,6 +1,6 @@
 # Lo Simple
 
-Lo Simple is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Lo Simple is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 Lo Simple is an electronic artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Angel D'lite, Authentically Plastic and Beneath. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Lo Simple is an electronic artist tracked on soundcheck, with 5 sets logged acro
 
 Angel D'lite, Authentically Plastic, Beneath
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/losimple/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/losimple/)*

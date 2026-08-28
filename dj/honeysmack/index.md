@@ -1,6 +1,6 @@
 # Honeysmack
 
-Honeysmack is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Her, Melbourne on Fri, 28 Aug 2026.
+Honeysmack is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Her, Melbourne on Fri, 28 Aug 2026.
 
 Honeysmack is a techno and acid artist tracked on soundcheck, with 21 sets logged across Auckland, Berlin, Losangeles and Melbourne and 1 more. Often billed alongside Acid Safari, Chiara Kickdrum and Mike Callander. Next up: Her, Melbourne on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Honeysmack is a techno and acid artist tracked on soundcheck, with 21 sets logge
 
 Acid Safari, Chiara Kickdrum, Mike Callander
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeysmack/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/honeysmack/)*

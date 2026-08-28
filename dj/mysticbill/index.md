@@ -1,6 +1,6 @@
 # Mystic Bill
 
-Mystic Bill is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 30 Aug 2026.
+Mystic Bill is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sunday Sunday, Mexico City on Sun, 30 Aug 2026.
 
 Mystic Bill is a house and disco artist based in United States of America, tracked on soundcheck, with 45 sets logged across Austin, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Danny Daze, Sister System and Terence Tabeau. Next up: Sunday Sunday, Mexicocity on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Mystic Bill is a house and disco artist based in United States of America, track
 
 Danny Daze, Sister System, Terence Tabeau
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*

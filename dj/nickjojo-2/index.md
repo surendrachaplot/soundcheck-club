@@ -1,6 +1,6 @@
 # Nick Jojo (2)
 
-Nick Jojo (2) is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Void Mykonos, Mykonos on Sun, 30 Aug 2026.
+Nick Jojo (2) is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Void Mykonos, Mykonos on Sun, 30 Aug 2026.
 
 Nick Jojo (2) is a house artist based in Greece, tracked on soundcheck, with 49 sets logged across Athens, Ibiza and Mykonos. Often billed alongside KORRILA, Alex Kosh and Fotinos. Next up: Void Mykonos, Mykonos on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Nick Jojo (2) is a house artist based in Greece, tracked on soundcheck, with 49 
 
 KORRILA, Alex Kosh, Fotinos
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickjojo-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickjojo-2/)*

@@ -1,8 +1,8 @@
 # Bambi-S
 
-Bambi-S is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
+Bambi-S is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
 
-Bambi-S is a house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 7 more. Often billed alongside Stipo, It's George! and Techno Ganoven. Next up: Les Enfants Brillants, Barcelona on Fri 28 Aug.
+Bambi-S is a house and tech house artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Stipo, Cristina Lazic and It's George!. Next up: Les Enfants Brillants, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bambi-S is a house and techno artist based in Germany, tracked on soundcheck, wi
 | Fri, 28 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 29 Aug 2026 | Studio Club Malaga | Malaga |
 | Fri, 11 Sept 2026 | Ritter Butzke | Berlin |
+| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Bambi-S is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Stipo, It's George!, Techno Ganoven
+Stipo, Cristina Lazic, It's George!
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-s/)*

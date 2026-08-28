@@ -1,6 +1,6 @@
 # LUNAx3
 
-LUNAx3 is a Gabber and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
+LUNAx3 is a Gabber and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
 
 LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 19 sets logged across Birmingham, Brighton, Leeds and London and 3 more. Often billed alongside RUBY RAWR, beansclub and Purity Filter. Next up: Stage and Radio, Manchester on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ LUNAx3 is a gabber and hardcore artist tracked on soundcheck, with 19 sets logge
 
 RUBY RAWR, beansclub, Purity Filter
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lunax3/)*

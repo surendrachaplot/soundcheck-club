@@ -1,6 +1,6 @@
 # intoxxy
 
-intoxxy is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Traffic, Tokyo on Sat, 5 Sept 2026.
+intoxxy is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Traffic, Tokyo on Sat, 5 Sept 2026.
 
 intoxxy is a techno and electronica artist based in South Korea, tracked on soundcheck, with 54 sets logged across Bangkok, Kyoto, Melbourne and Newyorkcity and 3 more. Often billed alongside MUNÉO, MELEETIME and MileZ. Next up: Traffic, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ intoxxy is a techno and electronica artist based in South Korea, tracked on soun
 
 MUNÉO, MELEETIME, MileZ
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intoxxy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/intoxxy/)*

@@ -1,6 +1,6 @@
 # B48 Live x VICIUS SERIES at Bridge 48
 
-B48 Live x VICIUS SERIES at Bridge 48 on Thu 17 Sept, Barcelona. 3 acts on the bill: Devicious, Jean Pierre and Rafa Aleman. House. Preview the line-up and save it on soundcheck.
+B48 Live x VICIUS SERIES at Bridge 48 on Thu 17 Sept, Barcelona. 4 acts on the bill: Devicious, Freddy Bello, Jean Pierre and Rafa Aleman. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ B48 Live x VICIUS SERIES at Bridge 48 on Thu 17 Sept, Barcelona. 3 acts on the b
 ## Line-up
 
 - Devicious
+- Freddy Bello
 - Jean Pierre
 - Rafa Aleman
 

@@ -1,6 +1,6 @@
 # Arthur Nozen
 
-Arthur Nozen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
+Arthur Nozen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
 
 Arthur Nozen is a house and tech house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Istanbul and Lisbon and 3 more. Often billed alongside Edouard!, Mario Liberti and Marwan Sabb. Next up: Auber Garden, Paris on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Arthur Nozen is a house and tech house artist tracked on soundcheck, with 72 set
 
 Edouard!, Mario Liberti, Marwan Sabb
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nozen/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nozen/)*

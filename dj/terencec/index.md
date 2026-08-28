@@ -1,6 +1,6 @@
 # Terence C
 
-Terence C is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 28 Aug 2026.
+Terence C is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 28 Aug 2026.
 
 Terence C is a house and progressive house artist based in Malaysia, tracked on soundcheck, with 20 sets logged across Kualalumpur and Singapore. Often billed alongside Meliha, Alam and Biscuit (MY). Next up: TBA - Neo Bar KL, Ilham Tower Level 37, Jalan Binjai 8, 50450, Kualalumpur on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Terence C is a house and progressive house artist based in Malaysia, tracked on 
 
 Meliha, Alam, Biscuit (MY)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terencec/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terencec/)*

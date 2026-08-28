@@ -1,6 +1,6 @@
 # Ryan Crosson
 
-Ryan Crosson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - 360 jefferson st, New York City on Fri, 11 Sept 2026.
+Ryan Crosson is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - 360 jefferson st, New York City on Fri, 11 Sept 2026.
 
 Ryan Crosson is a house and minimal artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Boston, Denver and Detroit and 3 more. Often billed alongside Shaun Reeves, Lee Curtiss and O.BEE. Next up: TBA - 360 jefferson st, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ryan Crosson is a house and minimal artist based in United States of America, tr
 
 Shaun Reeves, Lee Curtiss, O.BEE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryancrosson/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryancrosson/)*

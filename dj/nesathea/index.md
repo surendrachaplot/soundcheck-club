@@ -1,6 +1,6 @@
 # Nésa Thea
 
-Nésa Thea is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
+Nésa Thea is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
 
 Nésa Thea is an afro house and amapiano artist tracked on soundcheck, with 19 sets logged across London. Often billed alongside BABY JACKZ, LISAKEEKS and Tadi.wav. Next up: 93 Feet East, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Nésa Thea is an afro house and amapiano artist tracked on soundcheck, with 19 s
 
 BABY JACKZ, LISAKEEKS, Tadi.wav
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nesathea/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nesathea/)*

@@ -1,6 +1,6 @@
 # Max Hammur
 
-Max Hammur is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Glamorama, Melbourne on Sat, 5 Sept 2026.
+Max Hammur is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Glamorama, Melbourne on Sat, 5 Sept 2026.
 
 Max Hammur is a disco and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Bangkok, Edinburgh, Glasgow and Melbourne and 1 more. Often billed alongside Bandolier, David Barbarossa and Merchant. Next up: Glamorama, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Max Hammur is a disco and house artist based in United Kingdom, tracked on sound
 
 Bandolier, David Barbarossa, Merchant
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxhammur/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxhammur/)*

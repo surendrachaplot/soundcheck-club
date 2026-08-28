@@ -1,8 +1,8 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Drugstore Beograd, Belgrade on Fri, 4 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Drugstore Beograd, Belgrade on Fri, 4 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Drugstore Beograd, Belgrade on Fri 4 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Drugstore Beograd, Belgrade on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 | Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 12 Sept 2026 | TBA | Portland |
+| Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | KALT | Strasbourg |
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
@@ -31,4 +32,4 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

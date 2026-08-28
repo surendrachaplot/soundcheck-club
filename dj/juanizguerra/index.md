@@ -1,6 +1,6 @@
 # Juan Izguerra
 
-Juan Izguerra is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Palomino Bar, Los Angeles on Fri, 28 Aug 2026.
+Juan Izguerra is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Palomino Bar, Los Angeles on Fri, 28 Aug 2026.
 
 Juan Izguerra is a house and downtempo artist based in United States of America, tracked on soundcheck, with 39 sets logged across Chicago, London, Losangeles and Melbourne and 7 more. Often billed alongside Bianca Lexis, Soos and Adam Pits. Next up: Palomino Bar, Losangeles on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Juan Izguerra is a house and downtempo artist based in United States of America,
 
 Bianca Lexis, Soos, Adam Pits
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanizguerra/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanizguerra/)*

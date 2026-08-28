@@ -1,6 +1,6 @@
 # Space Arp Pete
 
-Space Arp Pete is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Time is the new space, Rotterdam on Fri, 28 Aug 2026.
+Space Arp Pete is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Time is the new space, Rotterdam on Fri, 28 Aug 2026.
 
 Space Arp Pete is an electro and electronica artist tracked on soundcheck, with 9 sets logged across Rotterdam, Thehague and Utrecht. Often billed alongside 2:29, 751 and Afra. Next up: Time is the new space, Rotterdam on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Space Arp Pete is an electro and electronica artist tracked on soundcheck, with 
 
 2:29, 751, Afra
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spacearppete/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spacearppete/)*

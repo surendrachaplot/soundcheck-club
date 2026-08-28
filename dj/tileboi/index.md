@@ -1,6 +1,6 @@
 # TILEBOI
 
-TILEBOI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
+TILEBOI is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
 
 TILEBOI is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Balrog, Lockhart and SIOBHAN.. Next up: Vittoria Wharf Studio, London on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ TILEBOI is a techno and industrial artist based in United Kingdom, tracked on so
 
 Balrog, Lockhart, SIOBHAN.
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tileboi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tileboi/)*

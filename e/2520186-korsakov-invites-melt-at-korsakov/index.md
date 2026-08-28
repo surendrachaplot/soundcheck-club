@@ -1,6 +1,6 @@
 # Korsakov Invites Melt at Korsakov
 
-Korsakov Invites Melt on Sat 29 Aug, Antwerp. 2 acts on the bill: Cosmox and Elwei. House and Electro. Preview the line-up and save it on soundcheck.
+Korsakov Invites Melt on Sat 29 Aug, Antwerp. 3 acts on the bill: Cosmo X, Cosmox and Elwei. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Korsakov Invites Melt on Sat 29 Aug, Antwerp. 2 acts on the bill: Cosmox and Elw
 
 ## Line-up
 
+- Cosmo X
 - Cosmox
 - Elwei
 

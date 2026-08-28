@@ -1,6 +1,6 @@
 # Christina Chatfield
 
-Christina Chatfield is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Christina Chatfield is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Christina Chatfield is a techno and idm artist based in United States of America, tracked on soundcheck, with 10 sets logged across Barcelona, Detroit, Newyorkcity and Philadelphia and 1 more. Often billed alongside Mozhgan, Patrick Russell and Wata Igarashi. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Christina Chatfield is a techno and idm artist based in United States of America
 
 Mozhgan, Patrick Russell, Wata Igarashi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christinachatfield/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christinachatfield/)*

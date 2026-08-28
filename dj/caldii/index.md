@@ -1,6 +1,6 @@
 # Caldii
 
-Caldii is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
+Caldii is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
 
 Caldii is a house and disco artist based in France, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside dOctOr doms, Dr. Sud and Luminick. Next up: Crack Bellmer, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Caldii is a house and disco artist based in France, tracked on soundcheck, with 
 
 dOctOr doms, Dr. Sud, Luminick
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caldii/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caldii/)*

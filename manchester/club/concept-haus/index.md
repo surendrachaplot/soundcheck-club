@@ -1,6 +1,6 @@
 # Concept Haus
 
-Concept Haus is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Meat Free Autumn Warehouse Party" on Sat, 10 Oct 2026.
+Concept Haus is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Meat Free Autumn Warehouse Party" on Sat, 10 Oct 2026.
 
 Concept Haus is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including aalice, Adriana Lopez, Akua and Binh and 2 more. Browse upcoming dates, start times and who's playing. 29 Cobden Street, Salford, M66WF.
 
@@ -16,4 +16,4 @@ Concept Haus is a music venue in Manchester listed on soundcheck. 3 upcoming nig
 
 29 Cobden Street, Salford, M66WF, Manchester
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/concept-haus/)*

@@ -1,6 +1,6 @@
 # languages music Open Air at Gestrandet An Der Jannowitzbrücke
 
-languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 6 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Berlin. 7 acts on the bill: Alex Narrow, Die Jane, Mike Koglin and MoodFreak and 3 more. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ languages music Open Air at Gestrandet An Der Jannowitzbrücke on Sat 29 Aug, Be
 - Mike Koglin
 - MoodFreak
 - Planty Snips
+- Vlad Yaki
 - Wiebe Roose
 
 *Source: [soundcheck](https://soundcheck.club/e/2490758-languages-music-open-air-at-gestrandet-an-der-jannowitzbr-ck/)*

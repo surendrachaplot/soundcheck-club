@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Arts Bar Baltic, Liverpool on Sat, 5 Sept 2026.
+Beechy is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Arts Bar Baltic, Liverpool on Sat, 5 Sept 2026.
 
 Beechy is a disco and house artist tracked on soundcheck, with 4 sets logged across Liverpool and Manchester. Often billed alongside AC Groove, BRUIN (UK) and DJ Moo (UK). Next up: Arts Bar Baltic, Liverpool on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Beechy is a disco and house artist tracked on soundcheck, with 4 sets logged acr
 
 AC Groove, BRUIN (UK), DJ Moo (UK)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

@@ -1,6 +1,6 @@
 # M.I.C (The Master of Inane Conversation)
 
-M.I.C (The Master of Inane Conversation) is a Grime and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Piehouse Coop, London on Thu, 24 Sept 2026.
+M.I.C (The Master of Inane Conversation) is a Grime and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Piehouse Coop, London on Thu, 24 Sept 2026.
 
 M.I.C (The Master of Inane Conversation) is a grime and bass artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, London, Manchester and Paris. Often billed alongside Nammy Wams, Tice Cin and Kibo. Next up: Piehouse Coop, London on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ M.I.C (The Master of Inane Conversation) is a grime and bass artist based in Uni
 
 Nammy Wams, Tice Cin, Kibo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micthemasterofinaneconversation/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micthemasterofinaneconversation/)*

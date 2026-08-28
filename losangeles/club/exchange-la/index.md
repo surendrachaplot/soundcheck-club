@@ -1,6 +1,6 @@
 # Exchange LA
 
-Exchange LA is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Tech My House" on Fri, 28 Aug 2026.
+Exchange LA is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Tech My House" on Fri, 28 Aug 2026.
 
 Exchange LA is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Anfisa Letyago, Massano and Township Rebellion. Browse upcoming dates, start times and who's playing. 618 S. Spring St., Los Angeles, CA 90014.
 
@@ -17,4 +17,4 @@ Exchange LA is a music venue in Losangeles listed on soundcheck. 4 upcoming nigh
 
 618 S. Spring St., Los Angeles, CA 90014, Los Angeles
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*

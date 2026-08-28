@@ -1,6 +1,6 @@
 # Monika Kruse
 
-Monika Kruse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Monika Kruse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
 
 Monika Kruse is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Helena Hauff, Berlin Bunny and Bloody Mary. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Monika Kruse is a techno and house artist based in Germany, tracked on soundchec
 
 Helena Hauff, Berlin Bunny, Bloody Mary
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monikakruse/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monikakruse/)*

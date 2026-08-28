@@ -1,6 +1,6 @@
 # Gimmeamfbreakbeat
 
-Gimmeamfbreakbeat is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Het Groene Veld, Amsterdam on Sat, 12 Sept 2026.
+Gimmeamfbreakbeat is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Het Groene Veld, Amsterdam on Sat, 12 Sept 2026.
 
 Gimmeamfbreakbeat is a gabber and hardcore artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside ADHDJ (2), HANNAH (NL) and screenage dj. Next up: Het Groene Veld, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Gimmeamfbreakbeat is a gabber and hardcore artist based in Netherlands, tracked 
 
 ADHDJ (2), HANNAH (NL), screenage dj
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gimmeamfbreakbeat/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gimmeamfbreakbeat/)*

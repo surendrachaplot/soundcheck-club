@@ -1,6 +1,6 @@
 # TBA - Mustache Bangkok Silom
 
-TBA - Mustache Bangkok Silom is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Mustache Bangkok REOPENING - WE'RE BACK" on Sat, 29 Aug 2026.
+TBA - Mustache Bangkok Silom is a music venue in Bangkok with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Mustache Bangkok REOPENING - WE'RE BACK" on Sat, 29 Aug 2026.
 
 TBA - Mustache Bangkok Silom is a music venue in Bangkok listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Mustache Bangkok Silom is a music venue in Bangkok listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Mustache Bangkok REOPENING - WE'RE BACK |  |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-mustache-bangkok-silom/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/tba-mustache-bangkok-silom/)*

@@ -1,6 +1,6 @@
 # Valkyrion
 
-Valkyrion is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kauz, Zurich on Sat, 5 Sept 2026.
+Valkyrion is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kauz, Zurich on Sat, 5 Sept 2026.
 
 Valkyrion is an electronic artist tracked on soundcheck, with 6 sets logged across Zurich. Often billed alongside Megix, ONX (CH) and Scheppērt. Next up: Kauz, Zurich on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Valkyrion is an electronic artist tracked on soundcheck, with 6 sets logged acro
 
 Megix, ONX (CH), Scheppērt
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valkyrion/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valkyrion/)*

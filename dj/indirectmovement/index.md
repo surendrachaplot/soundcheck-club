@@ -1,6 +1,6 @@
 # Indirect Movement
 
-Indirect Movement is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 5 Sept 2026.
+Indirect Movement is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 5 Sept 2026.
 
 Indirect Movement is a techno and trance artist based in Hungary, tracked on soundcheck, with 65 sets logged across Budapest and Vienna. Often billed alongside AGA2L, Cvrdwell and CRB. Next up: Pontoon Budapest, Budapest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Indirect Movement is a techno and trance artist based in Hungary, tracked on sou
 
 AGA2L, Cvrdwell, CRB
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indirectmovement/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indirectmovement/)*

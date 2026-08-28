@@ -1,6 +1,6 @@
 # Joshua Orange
 
-Joshua Orange is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Rawhide, New York City on Sat, 29 Aug 2026.
+Joshua Orange is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Rawhide, New York City on Sat, 29 Aug 2026.
 
 Joshua Orange is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit, Newyorkcity and Philadelphia. Often billed alongside Dj incognito mode, Analog Soul and Dangerous Rose. Next up: Club Rawhide, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Joshua Orange is a techno and house artist based in United States of America, tr
 
 Dj incognito mode, Analog Soul, Dangerous Rose
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaorange/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuaorange/)*

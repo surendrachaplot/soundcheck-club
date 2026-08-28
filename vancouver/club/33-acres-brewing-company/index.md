@@ -1,6 +1,6 @@
 # 33 Acres Brewing Company
 
-33 Acres Brewing Company is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Glas3.Hous3 with DJ D.DEE" on Sat, 29 Aug 2026.
+33 Acres Brewing Company is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Glas3.Hous3 with DJ D.DEE" on Sat, 29 Aug 2026.
 
 33 Acres Brewing Company is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, with line-ups including DJ D.Dee and Galen Allan. Browse upcoming dates, start times and who's playing. 15 W 8th Ave, Vancouver, BC V5Y 1M8.
 
@@ -16,4 +16,4 @@
 
 15 W 8th Ave, Vancouver, BC V5Y 1M8, Vancouver
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/33-acres-brewing-company/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/33-acres-brewing-company/)*

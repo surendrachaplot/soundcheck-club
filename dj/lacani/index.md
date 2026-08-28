@@ -1,6 +1,6 @@
 # La cani
 
-La cani is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+La cani is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
 La cani is a techno and house artist tracked on soundcheck, with 4 sets logged across Berlin and Manchester. Often billed alongside anna andersrum, Cmba and courtroom drama. Next up: Renate, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ La cani is a techno and house artist tracked on soundcheck, with 4 sets logged a
 
 anna andersrum, Cmba, courtroom drama
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacani/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lacani/)*

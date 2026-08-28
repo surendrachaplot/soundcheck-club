@@ -1,6 +1,6 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mia Mao, Paris on Sat, 29 Aug 2026.
+Rebekah is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mia Mao, Paris on Sat, 29 Aug 2026.
 
 Rebekah is a techno and hardcore artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Basel and 56 more. Often billed alongside SNTS, AnD and DYEN. Next up: Mia Mao, Paris on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Rebekah is a techno and hardcore artist tracked on soundcheck, with 158 sets log
 
 SNTS, AnD, DYEN
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

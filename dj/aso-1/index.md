@@ -1,6 +1,6 @@
 # aso (1)
 
-aso (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Evening, Seoul on Fri, 28 Aug 2026.
+aso (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Evening, Seoul on Fri, 28 Aug 2026.
 
 aso (1) is an electronic artist based in South Korea, tracked on soundcheck, with 16 sets logged across Seoul. Often billed alongside Isoz, J.U.N.E and Minseok Kim. Next up: Evening, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ aso (1) is an electronic artist based in South Korea, tracked on soundcheck, wit
 
 Isoz, J.U.N.E, Minseok Kim
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aso-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aso-1/)*

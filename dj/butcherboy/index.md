@@ -1,6 +1,6 @@
 # Butcher Boy
 
-Butcher Boy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Skull Bar, Athens on Sat, 29 Aug 2026.
+Butcher Boy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Skull Bar, Athens on Sat, 29 Aug 2026.
 
 Butcher Boy is a house and techno artist tracked on soundcheck, with 4 sets logged across Athens and Barcelona. Often billed alongside Mikkel (ES), Niznik and JUNIOR KURTIS. Next up: Skull Bar, Athens on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Butcher Boy is a house and techno artist tracked on soundcheck, with 4 sets logg
 
 Mikkel (ES), Niznik, JUNIOR KURTIS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butcherboy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butcherboy/)*

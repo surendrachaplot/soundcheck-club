@@ -1,6 +1,6 @@
 # Isaac Denny
 
-Isaac Denny is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Mothership, Auckland on Fri, 18 Sept 2026.
+Isaac Denny is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Mothership, Auckland on Fri, 18 Sept 2026.
 
 Isaac Denny is a house and tech house artist tracked on soundcheck, with 10 sets logged across Auckland. Often billed alongside Herman Saiz, Greg Churchill and Jack Masters. Next up: The Mothership, Auckland on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Isaac Denny is a house and tech house artist tracked on soundcheck, with 10 sets
 
 Herman Saiz, Greg Churchill, Jack Masters
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacdenny/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacdenny/)*

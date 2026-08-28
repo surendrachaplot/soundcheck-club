@@ -1,6 +1,6 @@
 # DJ Gonz
 
-DJ Gonz is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
+DJ Gonz is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
 
 DJ Gonz is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Bristol and Dusseldorf and 5 more. Often billed alongside Conrad Pack, John T. Gast and Angel Steele. Next up: The White Hotel, Manchester on Wed 23 Sept.
 
@@ -27,4 +27,4 @@ DJ Gonz is a techno and experimental artist based in United Kingdom, tracked on 
 
 Conrad Pack, John T. Gast, Angel Steele
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgonz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djgonz/)*

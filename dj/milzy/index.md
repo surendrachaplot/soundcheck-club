@@ -1,6 +1,6 @@
 # Milzy
 
-Milzy is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
+Milzy is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Starlane Pizza Bar, London on Sat, 29 Aug 2026.
 
 Milzy is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Bristol, Cardiff, Edinburgh and Leeds and 5 more. Often billed alongside Amelia Leigh, TABZ and Bakey. Next up: Starlane Pizza Bar, London on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Milzy is a garage and bass artist based in United Kingdom, tracked on soundcheck
 
 Amelia Leigh, TABZ, Bakey
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milzy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milzy/)*

@@ -1,6 +1,6 @@
 # TBA - Gold Coast
 
-TBA - Gold Coast is a music venue in Hong Kong with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Red Achinelli" on Fri, 28 Aug 2026.
+TBA - Gold Coast is a music venue in Hong Kong with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Red Achinelli" on Fri, 28 Aug 2026.
 
 TBA - Gold Coast is a music venue in Hongkong listed on soundcheck. 7 upcoming nights, with line-ups including N2N (US). Browse upcoming dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - Gold Coast is a music venue in Hongkong listed on soundcheck. 7 upcoming n
 | Fri, 25 Sept 2026 | Freenzy |  |
 | Sat, 26 Sept 2026 | Skilah |  |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/tba-gold-coast/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/tba-gold-coast/)*

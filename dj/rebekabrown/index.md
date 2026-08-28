@@ -1,6 +1,6 @@
 # Rebeka Brown
 
-Rebeka Brown is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
+Rebeka Brown is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
 
 Rebeka Brown is a house and tech house artist tracked on soundcheck, with 8 sets logged across Barcelona, Ibiza, Madrid and Mallorca. Often billed alongside Juanjo Martin, J.Louis and Paco Maroto. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Rebeka Brown is a house and tech house artist tracked on soundcheck, with 8 sets
 
 Juanjo Martin, J.Louis, Paco Maroto
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekabrown/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekabrown/)*

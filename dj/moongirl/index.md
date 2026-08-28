@@ -1,6 +1,6 @@
 # moong!rl
 
-moong!rl is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+moong!rl is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
 
 moong!rl is a pop and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Losangeles, Newyorkcity, Seoul and Tokyo. Often billed alongside KA WAI, nguyendowsXP and Kat Offline. Next up: Paragon, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ moong!rl is a pop and club artist based in United States of America, tracked on 
 
 KA WAI, nguyendowsXP, Kat Offline
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moongirl/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moongirl/)*

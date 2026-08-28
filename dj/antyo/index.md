@@ -1,14 +1,15 @@
 # antyo
 
-antyo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 24 Sept 2026.
+antyo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 24 Sept 2026.
 
-antyo is a techno and trance artist tracked on soundcheck, with 32 sets logged across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Bahnwärter Thiel, Munich on Thu 24 Sept.
+antyo is a techno and trance artist tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Bahnwärter Thiel, Munich on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Bahnwärter Thiel | Munich |
+| Fri, 30 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ antyo is a techno and trance artist tracked on soundcheck, with 32 sets logged a
 
 Terzenbreaker, LOOMINAS, danuschek
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antyo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antyo/)*

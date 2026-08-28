@@ -1,18 +1,19 @@
 # Oculist
 
-Oculist is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Missing People" on Sat, 12 Sept 2026.
+Oculist is a music venue in Brighton with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Missing People" on Sat, 12 Sept 2026.
 
-Oculist is a music venue in Brighton listed on soundcheck. 2 upcoming nights, with line-ups including SKYE.7.7.7. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
+Oculist is a music venue in Brighton listed on soundcheck. 3 upcoming nights, with line-ups including SKYE.7.7.7. Browse upcoming dates, start times and who's playing. 2 Boyce's St, Brighton BN1 1AN.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Missing People |  |
+| Sat, 19 Sept 2026 | Charlie Bureau (All Day Long) |  |
 | Thu, 24 Sept 2026 | Freaky Freshers | SKYE.7.7.7 |
 
 ## Address
 
 2 Boyce's St, Brighton BN1 1AN, Brighton
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/oculist/)*

@@ -1,6 +1,6 @@
 # Lydia akut
 
-Lydia akut is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Lydia akut is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Lydia akut is a downtempo and house artist tracked on soundcheck, with 5 sets logged across Basel and Zurich. Often billed alongside Vlnolam, ADO (DE) and Add FM. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -12,6 +12,7 @@ Lydia akut is a downtempo and house artist tracked on soundcheck, with 5 sets lo
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Kaschemme Basel, Basel — Fri, 19 Jun 2026
 - Schall und Rauch, Basel — Fri, 13 Mar 2026
 - Das Viertel, Basel — Tue, 9 Jan 2024
@@ -21,4 +22,4 @@ Lydia akut is a downtempo and house artist tracked on soundcheck, with 5 sets lo
 
 Vlnolam, ADO (DE), Add FM
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiaakut/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiaakut/)*

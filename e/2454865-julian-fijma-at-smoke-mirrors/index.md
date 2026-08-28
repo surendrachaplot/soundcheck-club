@@ -1,6 +1,6 @@
 # Julian Fijma at Smoke & Mirrors
 
-Julian Fijma at Smoke & Mirrors on Sat 12 Sept, Chicago. 1 act on the bill: Julian Fijma. Preview the line-up and save it on soundcheck.
+Julian Fijma at Smoke & Mirrors on Sat 12 Sept, Chicago. 1 act on the bill: Julian Fijma. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

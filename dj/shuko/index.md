@@ -1,6 +1,6 @@
 # Shuko
 
-Shuko is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club 77, Sydney on Fri, 4 Sept 2026.
+Shuko is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club 77, Sydney on Fri, 4 Sept 2026.
 
 Shuko is a house and club artist based in Zambia, tracked on soundcheck, with 38 sets logged across Melbourne and Sydney. Often billed alongside Baschoe, C.FRIM and Rydeen (AU). Next up: Club 77, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Shuko is a house and club artist based in Zambia, tracked on soundcheck, with 38
 
 Baschoe, C.FRIM, Rydeen (AU)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shuko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shuko/)*

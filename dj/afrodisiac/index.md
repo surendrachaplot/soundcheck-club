@@ -1,6 +1,6 @@
 # Afrodisiac
 
-Afrodisiac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Second Story Studios, Melbourne on Sat, 5 Sept 2026.
+Afrodisiac is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Second Story Studios, Melbourne on Sat, 5 Sept 2026.
 
 Afrodisiac is a house and techno artist tracked on soundcheck, with 60 sets logged across Berlin, Melbourne, Munich and Sydney. Often billed alongside Baby G, Activator (AU) and Hannah D. Next up: Second Story Studios, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Afrodisiac is a house and techno artist tracked on soundcheck, with 60 sets logg
 
 Baby G, Activator (AU), Hannah D
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodisiac/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodisiac/)*

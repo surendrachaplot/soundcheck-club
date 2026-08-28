@@ -1,6 +1,6 @@
 # XCI
 
-XCI is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Minimal Bar, Berlin on Sat, 24 Oct 2026.
+XCI is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Minimal Bar, Berlin on Sat, 24 Oct 2026.
 
 XCI is a techno and downtempo artist based in Portugal, tracked on soundcheck, with 25 sets logged across Berlin, Lisbon and Porto. Often billed alongside Khalil Suleman, Switchdance and LICA. Next up: Minimal Bar, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ XCI is a techno and downtempo artist based in Portugal, tracked on soundcheck, w
 
 Khalil Suleman, Switchdance, LICA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xci/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xci/)*

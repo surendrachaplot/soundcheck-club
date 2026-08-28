@@ -1,6 +1,6 @@
 # 1skr
 
-1skr is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Live Haus, Tokyo on Fri, 4 Sept 2026.
+1skr is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Live Haus, Tokyo on Fri, 4 Sept 2026.
 
 1skr is a hip-hop and club artist tracked on soundcheck, with 12 sets logged across Seoul and Tokyo. Often billed alongside FELINE (JP), Submerse and Aki Dolanikov. Next up: Live Haus, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 FELINE (JP), Submerse, Aki Dolanikov
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1skr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1skr/)*

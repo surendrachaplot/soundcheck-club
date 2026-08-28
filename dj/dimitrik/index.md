@@ -1,6 +1,6 @@
 # Dimitri K
 
-Dimitri K is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Dimitri K is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Dimitri K is a hardcore and house artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Brussels and Cologne and 9 more. Often billed alongside Angerfist, Major Conspiracy and The Dark Horror. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dimitri K is a hardcore and house artist based in Netherlands, tracked on soundc
 
 Angerfist, Major Conspiracy, The Dark Horror
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrik/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrik/)*

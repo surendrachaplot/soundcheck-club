@@ -1,13 +1,14 @@
 # Trudy Knight
 
-Trudy Knight is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Fox and Firkin, London on Thu, 24 Sept 2026.
+Trudy Knight is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Next Door Records, London on Mon, 31 Aug 2026.
 
-Trudy Knight is a house and bass artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Rebekah Abdeen, Prospa and Sport Mode. Next up: The Fox and Firkin, London on Thu 24 Sept.
+Trudy Knight is a house and bass artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Rebekah Abdeen, Denham Audio and Prospa. Next up: Next Door Records, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 31 Aug 2026 | Next Door Records | London |
 | Thu, 24 Sept 2026 | The Fox and Firkin | London |
 | Fri, 25 Sept 2026 | The Timber Loft | London |
 
@@ -24,6 +25,6 @@ Trudy Knight is a house and bass artist tracked on soundcheck, with 13 sets logg
 
 ## Shares bills with
 
-Rebekah Abdeen, Prospa, Sport Mode
+Rebekah Abdeen, Denham Audio, Prospa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trudyknight/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trudyknight/)*

@@ -1,6 +1,6 @@
 # Minim C
 
-Minim C is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Nué Seoul, Seoul on Fri, 28 Aug 2026.
+Minim C is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nué Seoul, Seoul on Fri, 28 Aug 2026.
 
 Minim C is a house and deep house artist tracked on soundcheck, with 40 sets logged across Seoul. Often billed alongside Gyusco, IAY (1) and Doyeon. Next up: Nué Seoul, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Minim C is a house and deep house artist tracked on soundcheck, with 40 sets log
 
 Gyusco, IAY (1), Doyeon
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minimc/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minimc/)*

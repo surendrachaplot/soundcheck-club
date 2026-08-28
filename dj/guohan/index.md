@@ -1,6 +1,6 @@
 # Guohan
 
-Guohan is a Jazz and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sauna Social Club, London on Sat, 29 Aug 2026.
+Guohan is a Jazz and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sauna Social Club, London on Sat, 29 Aug 2026.
 
 Guohan is a jazz and downtempo artist based in China, tracked on soundcheck, with 16 sets logged across London and Nottingham. Often billed alongside Stella Z, Anja Ngozi and Nina Yamada. Next up: Sauna Social Club, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Guohan is a jazz and downtempo artist based in China, tracked on soundcheck, wit
 
 Stella Z, Anja Ngozi, Nina Yamada
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guohan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guohan/)*

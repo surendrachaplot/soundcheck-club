@@ -1,6 +1,6 @@
 # Jash Jay
 
-Jash Jay is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at M.O.T, London on Sun, 30 Aug 2026.
+Jash Jay is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at M.O.T, London on Sun, 30 Aug 2026.
 
 Jash Jay is a house artist based in United States of America, tracked on soundcheck, with 4 sets logged across London, Losangeles and Newyorkcity. Often billed alongside Shaun Ross, Alxander Ivey and Anane. Next up: M.O.T, London on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ Jash Jay is a house artist based in United States of America, tracked on soundch
 
 Shaun Ross, Alxander Ivey, Anane
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jashjay/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jashjay/)*

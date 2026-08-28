@@ -1,6 +1,6 @@
 # Østre Anlæg
 
-Østre Anlæg is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Stella Polaris Sunday Vinyl Session" on Sun, 30 Aug 2026.
+Østre Anlæg is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Stella Polaris Sunday Vinyl Session" on Sun, 30 Aug 2026.
 
 Østre Anlæg is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Ida Daugaard and Markovela. Browse upcoming dates, start times and who's playing. Stockholmsgade 24, 2100 Copenhagen Ø.
 
@@ -14,4 +14,4 @@
 
 Stockholmsgade 24, 2100 Copenhagen Ø, Copenhagen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/stre-anl-g/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/stre-anl-g/)*

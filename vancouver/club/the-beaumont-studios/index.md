@@ -1,6 +1,6 @@
 # The Beaumont Studios
 
-The Beaumont Studios is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Sebene Heaven Vol. (1) Live Sesh B-Side" on Sat, 29 Aug 2026.
+The Beaumont Studios is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Sebene Heaven Vol. (1) Live Sesh B-Side" on Sat, 29 Aug 2026.
 
 The Beaumont Studios is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including Jesse Walker, Kon Radd and LADYMONIX. Browse upcoming dates, start times and who's playing. 316 W 5th Ave, Vancouver, BC.
 
@@ -15,4 +15,4 @@ The Beaumont Studios is a music venue in Vancouver listed on soundcheck. 2 upcom
 
 316 W 5th Ave, Vancouver, BC, Vancouver
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-beaumont-studios/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-beaumont-studios/)*

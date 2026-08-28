@@ -1,14 +1,13 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 19 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Myd (Free Entry)" on Thu, 27 Aug 2026.
+ZeyZey is a music venue in Miami with 18 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Maria Nocheydia" on Fri, 28 Aug 2026.
 
-ZeyZey is a music venue in Miami listed on soundcheck. 19 upcoming nights, with line-ups including Cezaire, Cult Member, Eli & Fur and GiZ and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
+ZeyZey is a music venue in Miami listed on soundcheck. 18 upcoming nights, with line-ups including Cezaire, Cult Member, Eli & Fur and GiZ and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Myd (Free Entry) | Myd |
 | Fri, 28 Aug 2026 | Maria Nocheydia |  |
 | Sat, 29 Aug 2026 | Shermanology (Live), GiZ & Kamcoco (Free RSVP) | GiZ, Kamcoco, Shermanology |
 | Fri, 4 Sept 2026 | Emmit Fenn |  |
@@ -18,9 +17,10 @@ ZeyZey is a music venue in Miami listed on soundcheck. 19 upcoming nights, with 
 | Sun, 6 Sept 2026 | Kasbo 'Labyrinth Tour' (Dj Set) |  |
 | Fri, 11 Sept 2026 | Tonic Walter | Tonic Walter |
 | Fri, 11 Sept 2026 | Cezaire | Cezaire |
+| Sat, 12 Sept 2026 | Satin Jackets | Satin Jackets |
 
 ## Address
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

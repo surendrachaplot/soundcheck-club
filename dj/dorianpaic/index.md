@@ -1,6 +1,6 @@
 # Dorian Paic
 
-Dorian Paic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
+Dorian Paic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
 Dorian Paic is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Alexander Skancke, Federico Molinari and Margaret Dygas. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Dorian Paic is a house and techno artist based in Germany, tracked on soundcheck
 
 Alexander Skancke, Federico Molinari, Margaret Dygas
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*

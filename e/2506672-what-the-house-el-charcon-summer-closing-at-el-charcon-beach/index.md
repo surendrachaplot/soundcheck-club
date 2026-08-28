@@ -1,6 +1,6 @@
 # What The House / El Charcon / Summer Closing at El Charcon Beach
 
-What The House / El Charcon / Summer Closing at El Charcon Beach on Sat 19 Sept, Malaga. 2 acts on the bill: Sol Brown and Tito Pulpo. House and Deep House. Preview the line-up and save it on soundcheck.
+What The House / El Charcon / Summer Closing at El Charcon Beach on Sat 19 Sept, Malaga. 4 acts on the bill: Aston Evans, Brian Power, Sol Brown and Tito Pulpo. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ What The House / El Charcon / Summer Closing at El Charcon Beach on Sat 19 Sept,
 
 ## Line-up
 
+- Aston Evans
+- Brian Power
 - Sol Brown
 - Tito Pulpo
 

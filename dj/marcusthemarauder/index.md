@@ -1,6 +1,6 @@
 # MARCUS THE MARAUDER
 
-MARCUS THE MARAUDER is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
+MARCUS THE MARAUDER is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Stage and Radio, Manchester on Sat, 29 Aug 2026.
 
 MARCUS THE MARAUDER is a garage and dubstep artist tracked on soundcheck, with 5 sets logged across Leeds and Manchester. Often billed alongside ronch, AEON FUX and Aura (UK). Next up: Stage and Radio, Manchester on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ MARCUS THE MARAUDER is a garage and dubstep artist tracked on soundcheck, with 5
 
 ronch, AEON FUX, Aura (UK)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusthemarauder/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusthemarauder/)*

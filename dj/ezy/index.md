@@ -1,6 +1,6 @@
 # Ezy
 
-Ezy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Times, Seoul on Sat, 29 Aug 2026.
+Ezy is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Times, Seoul on Sat, 29 Aug 2026.
 
 Ezy is a techno and trance artist based in Denmark, tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Peachlyfe, DJ Nah Care and Sugar. Next up: Times, Seoul on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ezy is a techno and trance artist based in Denmark, tracked on soundcheck, with 
 
 Peachlyfe, DJ Nah Care, Sugar
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezy/)*

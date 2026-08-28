@@ -1,6 +1,6 @@
 # Falcons
 
-Falcons is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 28 Aug 2026.
+Falcons is a Baile Funk and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 28 Aug 2026.
 
 Falcons is a baile funk and amapiano artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Chicago, Losangeles and Mexicocity and 6 more. Often billed alongside JOAQU.N, SuperNova (US) and Supernova. Next up: TBA - DTLA, Losangeles on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Falcons is a baile funk and amapiano artist based in United States of America, t
 
 JOAQU.N, SuperNova (US), Supernova
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falcons/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falcons/)*

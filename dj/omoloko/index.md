@@ -1,14 +1,15 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at BAR Inc, Osaka on Sat, 5 Sept 2026.
+OMOLOKO is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at BAR Inc, Osaka on Sat, 5 Sept 2026.
 
-OMOLOKO is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 27 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: BAR Inc, Osaka on Sat 5 Sept.
+OMOLOKO is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 28 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: BAR Inc, Osaka on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | BAR Inc | Osaka |
+| Fri, 11 Sept 2026 | Mitsuki | Tokyo |
 | Sat, 17 Oct 2026 | Horn | Bangkok |
 
 ## Recently played
@@ -26,4 +27,4 @@ OMOLOKO is a house and techno artist tracked on soundcheck, with 84 sets logged 
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

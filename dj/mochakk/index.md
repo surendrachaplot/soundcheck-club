@@ -1,8 +1,8 @@
 # Mochakk
 
-Mochakk is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
+Mochakk is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
 
-Mochakk is a house and techno artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Under the K Bridge, Newyorkcity on Sat 29 Aug.
+Mochakk is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: Under the K Bridge, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Mochakk is a house and techno artist tracked on soundcheck, with 156 sets logged
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

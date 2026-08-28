@@ -1,6 +1,6 @@
 # DOTWAVNOTWAVE & Lex Records PRESENT: VAYDA + FRIENDS at The Ton of Brix
 
-DOTWAVNOTWAVE & Lex Records PRESENT: VAYDA + FRIENDS at The Ton of Brix on Sat 29 Aug, London. 3 acts on the bill: Annabelle (US), Dazegxd and LISAKEEKS. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+DOTWAVNOTWAVE & Lex Records PRESENT: VAYDA + FRIENDS at The Ton of Brix on Sat 29 Aug, London. 4 acts on the bill: Angel Gray, Annabelle (US), Dazegxd and LISAKEEKS. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DOTWAVNOTWAVE & Lex Records PRESENT: VAYDA + FRIENDS at The Ton of Brix on Sat 2
 
 ## Line-up
 
+- Angel Gray
 - Annabelle (US)
 - Dazegxd
 - LISAKEEKS

@@ -1,8 +1,8 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "One Leg One Eye + Bridget Ferrill" on Mon, 7 Sept 2026.
+Kantine am Berghain is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "One Leg One Eye + Bridget Ferrill" on Mon, 7 Sept 2026.
 
-Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aircraft, Blockhead, Christoph de Babalon and Do you know Juno and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aircraft, Alex P., Blockhead and Christoph de Babalon and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 11 upcoming
 | Tue, 6 Oct 2026 | Obsimo (live set) - Berlin | Obsimo |
 | Sat, 10 Oct 2026 | This is Techno Jazz with Fabrizio Rat, Resonances, Do You Know Juno, Mattia Prete, Misloop | Do you know Juno, Fabrizio Rat - La Machina, Mattia Prete, Misloop, Nory Kimijima |
 | Thu, 15 Oct 2026 | Girls of the Internet (Live) | Girls of the Internet |
-| Sun, 1 Nov 2026 | Flowgeist - Live in Berlin | Flowgeist |
+| Sun, 1 Nov 2026 | Flowgeist - Live in Berlin | Alex P., Flowgeist, Pareal |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

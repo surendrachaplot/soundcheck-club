@@ -1,14 +1,15 @@
 # Watchers
 
-Watchers is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cova Santa, Ibiza on Mon, 7 Sept 2026.
+Watchers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cova Santa, Ibiza on Mon, 7 Sept 2026.
 
-Watchers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Julian Fijma, Ellia Jaya and ALISHA. Next up: Cova Santa, Ibiza on Mon 7 Sept.
+Watchers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Julian Fijma, Ellia Jaya and ALISHA. Next up: Cova Santa, Ibiza on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Sept 2026 | Cova Santa | Ibiza |
+| Thu, 10 Sept 2026 | Gallery | London |
 | Fri, 18 Sept 2026 | After Dark | Bristol |
 
 ## Recently played
@@ -26,4 +27,4 @@ Watchers is a house and tech house artist based in United Kingdom, tracked on so
 
 Julian Fijma, Ellia Jaya, ALISHA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*

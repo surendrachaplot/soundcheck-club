@@ -1,14 +1,15 @@
 # LIONESSA
 
-LIONESSA is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jupiter Disco, New York City on Sun, 30 Aug 2026.
+LIONESSA is a Bass and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jupiter Disco, New York City on Sun, 30 Aug 2026.
 
-LIONESSA is a bass and electro artist based in Egypt, tracked on soundcheck, with 27 sets logged across Athens, Berlin, Dublin and Geneva and 8 more. Often billed alongside PUFF, suciopath and AWood. Next up: Jupiter Disco, Newyorkcity on Sun 30 Aug.
+LIONESSA is a bass and electro artist based in Egypt, tracked on soundcheck, with 28 sets logged across Athens, Berlin, Dublin and Geneva and 8 more. Often billed alongside PUFF, suciopath and AWood. Next up: Jupiter Disco, Newyorkcity on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Jupiter Disco | New York City |
+| Sat, 12 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ LIONESSA is a bass and electro artist based in Egypt, tracked on soundcheck, wit
 
 PUFF, suciopath, AWood
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lionessa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lionessa/)*

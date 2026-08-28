@@ -1,8 +1,8 @@
 # Fenn Piper
 
-Fenn Piper is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Commune, Liverpool on Fri, 28 Aug 2026.
+Fenn Piper is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Commune, Liverpool on Fri, 28 Aug 2026.
 
-Fenn Piper is a disco and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Liverpool and London. Often billed alongside Deams, Malachi and Malachi (2). Next up: Commune, Liverpool on Fri 28 Aug.
+Fenn Piper is a disco and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Liverpool and London. Often billed alongside Deams, Jade Burns and Malachi. Next up: Commune, Liverpool on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Fenn Piper is a disco and house artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Deams, Malachi, Malachi (2)
+Deams, Jade Burns, Malachi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fennpiper/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fennpiper/)*

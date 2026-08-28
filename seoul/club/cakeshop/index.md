@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Darklight Drum and Bass: Hugh Hardie and Felon MC (UK)" on Sat, 29 Aug 2026.
+Cakeshop is a music venue in Seoul with 9 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Darklight Drum and Bass: Hugh Hardie and Felon MC (UK)" on Sat, 29 Aug 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 9 upcoming nights, with line-ups including 7ip7o3, ABOPF, AEIDA and Arexibo and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -22,4 +22,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 9 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

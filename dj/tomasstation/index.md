@@ -1,8 +1,8 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Tomas Station is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Tomas Station is a house and techno artist tracked on soundcheck, with 203 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 31 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Tomas Station is a house and techno artist tracked on soundcheck, with 204 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 31 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tomas Station is a house and techno artist tracked on soundcheck, with 203 sets 
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | The Loft | Manchester |
 | Sat, 17 Oct 2026 | fabric | London |
+| Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Tomas Station is a house and techno artist tracked on soundcheck, with 203 sets 
 
 O.BEE, Ricardo Villalobos, Sonja Moonear
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

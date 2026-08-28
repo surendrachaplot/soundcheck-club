@@ -1,6 +1,6 @@
 # Golden Times at Golden Gate
 
-Golden Times at Golden Gate on Fri 28 Aug, Berlin. 2 acts on the bill: Hagel and POSI FLO. Preview the line-up and save it on soundcheck.
+Golden Times at Golden Gate on Fri 28 Aug, Berlin. 3 acts on the bill: Chris Beulich, Hagel and POSI FLO. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Golden Times at Golden Gate on Fri 28 Aug, Berlin. 2 acts on the bill: Hagel and
 
 ## Line-up
 
+- Chris Beulich
 - Hagel
 - POSI FLO
 

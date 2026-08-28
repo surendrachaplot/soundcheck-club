@@ -1,8 +1,8 @@
 # John Morales
 
-John Morales is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Suono, Liverpool on Fri, 28 Aug 2026.
+John Morales is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Suono, Liverpool on Fri, 28 Aug 2026.
 
-John Morales is a house and disco artist tracked on soundcheck, with 43 sets logged across Barcelona, Cardiff, Chicago and Edinburgh and 11 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: Suono, Liverpool on Fri 28 Aug.
+John Morales is a house and disco artist tracked on soundcheck, with 44 sets logged across Barcelona, Cardiff, Chicago and Edinburgh and 12 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: Suono, Liverpool on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ John Morales is a house and disco artist tracked on soundcheck, with 43 sets log
 | Fri, 28 Aug 2026 | Suono | Liverpool |
 | Sun, 30 Aug 2026 | NUMBER 90 LONDON | London |
 | Sat, 26 Sept 2026 | Standard Time | Toronto |
+| Sun, 11 Oct 2026 | The Midway | San Francisco/Oakland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ John Morales is a house and disco artist tracked on soundcheck, with 43 sets log
 
 Melvo Baptiste, The Shapeshifters, Young Pulse
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*

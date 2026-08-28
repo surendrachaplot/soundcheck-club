@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "JETLAG REGGAETON AIRLINES" on Thu, 27 Aug 2026.
+Virage is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Transgenik" on Fri, 28 Aug 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Aleksandir and Alex Quillard and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -8,7 +8,6 @@ Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | JETLAG REGGAETON AIRLINES |  |
 | Fri, 28 Aug 2026 | Transgenik |  |
 | Fri, 28 Aug 2026 | TRANSGENIK: Cleopard2000, Mija, KVN, Shannon | Cleopard2000, KVKN, KVN, Mija, Shannon |
 | Sat, 29 Aug 2026 | Marathon !: Mount Kimbie, Tour-Maubourg, Astels, Cabaret Contemporain | Mely, Mount Kimbie, Tour-Maubourg |
@@ -18,9 +17,10 @@ Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Fri, 4 Sept 2026 | Union Trance Mission: Metaraph, Dana Montana & more | 4000 Hz, DJ Reiz, Dana Montana, Metaraph, Vickies |
 | Sat, 5 Sept 2026 | MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain | Aleksandir, Mely, Mount Kimbie |
 | Wed, 9 Sept 2026 | Le Virage du Mercredi Closing All Stars | Alex Quillard, DJ ANGEL (fr), Djé Djé from the block, NTBR |
+| Thu, 10 Sept 2026 | Disco Disco x Paillettes Pompettes: Tonno Disko, Bande de Filles | Bande de Filles, Dusty Fingers, Tonno Disko |
 
 ## Address
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

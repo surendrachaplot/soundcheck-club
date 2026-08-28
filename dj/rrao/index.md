@@ -1,6 +1,6 @@
 # rrao
 
-rrao is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Good Room, New York City on Thu, 1 Oct 2026.
+rrao is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Good Room, New York City on Thu, 1 Oct 2026.
 
 rrao is a techno and bass artist based in United States of America, tracked on soundcheck, with 32 sets logged across Newyorkcity, Portland and Tokyo. Often billed alongside Enayet, Simisea and K Wata. Next up: Good Room, Newyorkcity on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ rrao is a techno and bass artist based in United States of America, tracked on s
 
 Enayet, Simisea, K Wata
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrao/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rrao/)*

@@ -1,6 +1,6 @@
 # Franco Strato
 
-Franco Strato is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
+Franco Strato is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
 
 Franco Strato is a house and disco artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Ibiza. Often billed alongside Javier Anxiety, da Graca Brothers and B. Clarke. Next up: Kater, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Franco Strato is a house and disco artist tracked on soundcheck, with 18 sets lo
 
 Javier Anxiety, da Graca Brothers, B. Clarke
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francostrato-ar/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francostrato-ar/)*

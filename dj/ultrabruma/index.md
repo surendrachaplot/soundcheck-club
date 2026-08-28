@@ -1,6 +1,6 @@
 # Ultrabruma
 
-Ultrabruma is a Bass and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at nachbar, Amsterdam on Sat, 29 Aug 2026.
+Ultrabruma is a Bass and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at nachbar, Amsterdam on Sat, 29 Aug 2026.
 
 Ultrabruma is a bass and latin bass artist based in Colombia, tracked on soundcheck, with 5 sets logged across Amsterdam, Geneva, London and Paris and 1 more. Often billed alongside Aidan Lee, Bamao Yendé and Blue Canarinho. Next up: nachbar, Amsterdam on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Ultrabruma is a bass and latin bass artist based in Colombia, tracked on soundch
 
 Aidan Lee, Bamao Yendé, Blue Canarinho
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*

@@ -1,6 +1,6 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Fantastic Man is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Fantastic Man is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -13,6 +13,7 @@ Fantastic Man is a house and techno artist tracked on soundcheck, with 124 sets 
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - The Cause, London — Sat, 25 Jul 2026
 - La Paloma, Barcelona — Sat, 25 Jul 2026
 - Club der Visionaere, Berlin — Tue, 21 Jul 2026
@@ -20,10 +21,9 @@ Fantastic Man is a house and techno artist tracked on soundcheck, with 124 sets 
 - Sunseabar Beach Club, Barcelona — Sun, 21 Jun 2026
 - La Terrrazza, Barcelona — Thu, 18 Jun 2026
 - Virage, Paris — Wed, 3 Jun 2026
-- Palais, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

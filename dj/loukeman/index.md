@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+Loukeman is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 Loukeman is a house and electronica artist tracked on soundcheck, with 30 sets logged across Berlin, Bristol, Brussels and Chicago and 9 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Loukeman is a house and electronica artist tracked on soundcheck, with 30 sets l
 
 Lis Dalton, Marie Davidson, Nick León
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

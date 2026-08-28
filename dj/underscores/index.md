@@ -1,6 +1,6 @@
 # underscores
 
-underscores is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
+underscores is a Club and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Pier 80, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 underscores is a club and electro artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago, Losangeles, Sanfrancisco and Toronto. Often billed alongside umru, ALISHA and Airwolf Paradise. Next up: TBA - Pier 80, Sanfrancisco on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ underscores is a club and electro artist based in United States of America, trac
 
 umru, ALISHA, Airwolf Paradise
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/underscores/)*

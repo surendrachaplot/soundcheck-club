@@ -1,13 +1,14 @@
 # Alive
 
-Alive is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Alive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Era uma vez no Porto, Porto on Wed, 16 Sept 2026.
 
-Alive is a drum & bass and techno artist based in Portugal, tracked on soundcheck, with 6 sets logged across Athens, Losangeles, Manchester and Porto. Often billed alongside Andy C, Pedro Tabuada and 10cust. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Alive is a techno and house artist based in Portugal, tracked on soundcheck, with 7 sets logged across Athens, Losangeles, Manchester and Porto. Often billed alongside Andy C, Pedro Tabuada and 10cust. Next up: Era uma vez no Porto, Porto on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Era uma vez no Porto | Porto |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -22,4 +23,4 @@ Alive is a drum & bass and techno artist based in Portugal, tracked on soundchec
 
 Andy C, Pedro Tabuada, 10cust
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*

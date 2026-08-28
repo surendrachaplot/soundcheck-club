@@ -1,6 +1,6 @@
 # Linh (2)
 
-Linh (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Nachtasyl, Hamburg on Fri, 28 Aug 2026.
+Linh (2) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Nachtasyl, Hamburg on Fri, 28 Aug 2026.
 
 Linh (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across Hamburg. Often billed alongside Alex Benz, co:co and SPORTMANN. Next up: Nachtasyl, Hamburg on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Linh (2) is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Alex Benz, co:co, SPORTMANN
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*

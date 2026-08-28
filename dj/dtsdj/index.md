@@ -1,6 +1,6 @@
 # Dtsdj
 
-Dtsdj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ÆDEN, Berlin on Sat, 29 Aug 2026.
+Dtsdj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at ÆDEN, Berlin on Sat, 29 Aug 2026.
 
 Dtsdj is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Tbilisi and Vienna. Often billed alongside VIBLIANI, BLNDFLD and Bekuchi. Next up: ÆDEN, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dtsdj is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 VIBLIANI, BLNDFLD, Bekuchi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dtsdj/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dtsdj/)*

@@ -1,6 +1,6 @@
 # Kostya Outta
 
-Kostya Outta is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Paper, Seoul on Fri, 28 Aug 2026.
+Kostya Outta is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Paper, Seoul on Fri, 28 Aug 2026.
 
 Kostya Outta is a progressive house and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Madrid, Malaga and Malta and 9 more. Often billed alongside Alísha, Angelo Mike and Bryan Wolf Ear. Next up: Paper, Seoul on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Kostya Outta is a progressive house and house artist tracked on soundcheck, with
 
 Alísha, Angelo Mike, Bryan Wolf Ear
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kostyaoutta/)*

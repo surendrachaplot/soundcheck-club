@@ -1,6 +1,6 @@
 # DJ DURSTLÖSCHER
 
-DJ DURSTLÖSCHER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Garagen, Cologne on Sat, 10 Oct 2026.
+DJ DURSTLÖSCHER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Garagen, Cologne on Sat, 10 Oct 2026.
 
 DJ DURSTLÖSCHER is a techno and house artist tracked on soundcheck, with 6 sets logged across Cologne. Often billed alongside Rafael Da Cruz, Andhim and Cufme. Next up: Garagen, Cologne on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ DJ DURSTLÖSCHER is a techno and house artist tracked on soundcheck, with 6 sets
 
 Rafael Da Cruz, Andhim, Cufme
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdurstloscher/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdurstloscher/)*

@@ -1,6 +1,6 @@
 # Allister Whitehead
 
-Allister Whitehead is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 29 Aug 2026.
+Allister Whitehead is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Allister Whitehead is a house and disco artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, Glasgow, Ibiza and London and 3 more. Often billed alongside Jason Bye, Clara Da Costa and Danny Rampling. Next up: 528 Ibiza, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Allister Whitehead is a house and disco artist based in United Kingdom, tracked 
 
 Jason Bye, Clara Da Costa, Danny Rampling
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allisterwhitehead/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allisterwhitehead/)*

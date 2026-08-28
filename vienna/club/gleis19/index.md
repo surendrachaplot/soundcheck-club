@@ -1,6 +1,6 @@
 # Gleis19
 
-Gleis19 is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Fluffig OPENAIR" on Fri, 28 Aug 2026.
+Gleis19 is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Fluffig OPENAIR" on Fri, 28 Aug 2026.
 
 Gleis19 is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including Anna Ullrich, Crystal O, DJ SUSI and Joey (2) and 2 more. Browse upcoming dates, start times and who's playing. Gundoldstraße 12, 1190 Wien.
 
@@ -18,4 +18,4 @@ Gleis19 is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with
 
 Gundoldstraße 12, 1190 Wien, Vienna
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*

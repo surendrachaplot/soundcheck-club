@@ -1,6 +1,6 @@
 # VILE
 
-VILE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Trans-Pecos, New York City on Fri, 28 Aug 2026.
+VILE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Trans-Pecos, New York City on Fri, 28 Aug 2026.
 
 VILE is a techno and industrial artist based in United States of America, tracked on soundcheck, with 42 sets logged across Athens and Newyorkcity. Often billed alongside Concrete Husband, KXAH and ALL EXITS. Next up: Trans-Pecos, Newyorkcity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ VILE is a techno and industrial artist based in United States of America, tracke
 
 Concrete Husband, KXAH, ALL EXITS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vile-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vile-1/)*

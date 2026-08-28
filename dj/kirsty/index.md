@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Wigwam, Dublin on Fri, 28 Aug 2026.
+KIRSTY is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Wigwam, Dublin on Fri, 28 Aug 2026.
 
 KIRSTY is a techno and house artist tracked on soundcheck, with 64 sets logged across Auckland, Belfast, Belgrade and Berlin and 20 more. Often billed alongside Lolalita, KimberlaID and Mad Dog. Next up: Wigwam, Dublin on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 64 sets logged a
 
 Lolalita, KimberlaID, Mad Dog
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

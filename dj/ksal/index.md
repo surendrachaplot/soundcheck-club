@@ -1,6 +1,6 @@
 # KSAL
 
-KSAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sala ART, Madrid on Sat, 29 Aug 2026.
+KSAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sala ART, Madrid on Sat, 29 Aug 2026.
 
 KSAL is a techno and house artist tracked on soundcheck, with 17 sets logged across Barcelona and Madrid. Often billed alongside ANJELIKA SAHAKIAN, Ana Sant and ALYOSHA. Next up: Sala ART, Madrid on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ KSAL is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 ANJELIKA SAHAKIAN, Ana Sant, ALYOSHA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ksal/)*

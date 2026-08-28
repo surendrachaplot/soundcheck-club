@@ -1,6 +1,6 @@
 # DJ Syncbutton
 
-DJ Syncbutton is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 29 Aug 2026.
+DJ Syncbutton is a EBM and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Aether Club Budapest, Budapest on Sat, 29 Aug 2026.
 
 DJ Syncbutton is an ebm and house artist based in Hungary, tracked on soundcheck, with 20 sets logged across Budapest. Often billed alongside Sobek, Arash Ete and Galactic Jackson. Next up: Aether Club Budapest, Budapest on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Syncbutton is an ebm and house artist based in Hungary, tracked on soundcheck
 
 Sobek, Arash Ete, Galactic Jackson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*

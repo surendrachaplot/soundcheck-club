@@ -1,6 +1,6 @@
 # Dode
 
-Dode is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Horse & Groom, London on Sat, 26 Sept 2026.
+Dode is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Horse & Groom, London on Sat, 26 Sept 2026.
 
 Dode is a house and balearic artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Aimée Sao, Aur0m and DJ Caru. Next up: The Horse & Groom, London on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Dode is a house and balearic artist tracked on soundcheck, with 7 sets logged ac
 
 Aimée Sao, Aur0m, DJ Caru
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dode/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dode/)*

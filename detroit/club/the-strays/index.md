@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "KNIGHTS IRON VEIL Not Ur Amigo 3 Year" on Sat, 29 Aug 2026.
+The Strays is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "KNIGHTS IRON VEIL Not Ur Amigo 3 Year" on Sat, 29 Aug 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including Colliding Pins, Gwendolyn Dot, Kenjiro and Nick Burgess and 1 more. Browse upcoming dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming nights, 
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

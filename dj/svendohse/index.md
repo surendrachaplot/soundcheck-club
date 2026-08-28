@@ -1,14 +1,15 @@
 # Sven Dohse
 
-Sven Dohse is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 26 Sept 2026.
+Sven Dohse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 26 Sept 2026.
 
-Sven Dohse is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Copenhagen, Hamburg and Istanbul and 4 more. Often billed alongside Mira, Chris Schwarzwälder and Mimi Love. Next up: Fridas Pier, Stuttgart on Sat 26 Sept.
+Sven Dohse is a techno and house artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Copenhagen, Hamburg and Istanbul and 4 more. Often billed alongside Mira, Chris Schwarzwälder and Mimi Love. Next up: Fridas Pier, Stuttgart on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Fridas Pier | Stuttgart |
+| Fri, 9 Oct 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sven Dohse is a techno and house artist based in Germany, tracked on soundcheck,
 
 Mira, Chris Schwarzwälder, Mimi Love
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svendohse/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/svendohse/)*

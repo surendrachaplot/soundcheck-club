@@ -1,6 +1,6 @@
 # No Sir
 
-No Sir is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at public records, New York City on Fri, 25 Sept 2026.
+No Sir is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at public records, New York City on Fri, 25 Sept 2026.
 
 No Sir is a techno and bass artist tracked on soundcheck, with 46 sets logged across Miami, Montreal, Newyorkcity and Philadelphia. Often billed alongside Alien D, Andrew Devlin and NIGELTHREETIMES. Next up: public records, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ No Sir is a techno and bass artist tracked on soundcheck, with 46 sets logged ac
 
 Alien D, Andrew Devlin, NIGELTHREETIMES
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosir/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosir/)*

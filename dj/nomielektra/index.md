@@ -1,6 +1,6 @@
 # Nomi Elektra
 
-Nomi Elektra is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
+Nomi Elektra is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
 
 Nomi Elektra is a trance and techno artist tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside alemiko, Alex.Do and DJ WASSERFALL. Next up: DSTRKT Club Berlin, Berlin on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ Nomi Elektra is a trance and techno artist tracked on soundcheck, with 7 sets lo
 
 alemiko, Alex.Do, DJ WASSERFALL
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomielektra/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nomielektra/)*

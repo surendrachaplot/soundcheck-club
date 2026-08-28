@@ -1,6 +1,6 @@
 # Anjawah
 
-Anjawah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+Anjawah is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
 
 Anjawah is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Berlin and Leipzig. Often billed alongside Amy Dabbs, Craig White and NeZoomie. Next up: Kater, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Anjawah is a house and techno artist based in United States of America, tracked 
 
 Amy Dabbs, Craig White, NeZoomie
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjawah/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anjawah/)*

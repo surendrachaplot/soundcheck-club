@@ -1,6 +1,6 @@
 # Cap
 
-Cap is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
+Cap is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
 
 Cap is a house and minimal artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Supermarket, Zurich on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Cap is a house and minimal artist tracked on soundcheck, with 154 sets logged ac
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

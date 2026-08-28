@@ -1,6 +1,6 @@
 # Furz
 
-Furz is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
+Furz is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Urban Spree, Berlin on Fri, 28 Aug 2026.
 
 Furz is a house and electro artist based in Argentina, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Flor Coto, Guile and Kim Bruun. Next up: Urban Spree, Berlin on Fri 28 Aug.
 
@@ -28,4 +28,4 @@ Furz is a house and electro artist based in Argentina, tracked on soundcheck, wi
 
 Flor Coto, Guile, Kim Bruun
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/furz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/furz/)*

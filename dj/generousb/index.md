@@ -1,6 +1,6 @@
 # Generous B
 
-Generous B is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Ground at Club Space, Miami on Sun, 6 Sept 2026.
+Generous B is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Ground at Club Space, Miami on Sun, 6 Sept 2026.
 
 Generous B is a house and techno artist tracked on soundcheck, with 24 sets logged across Miami. Often billed alongside Souls Departed, Cole Knight and JOVIGIBS. Next up: The Ground at Club Space, Miami on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Generous B is a house and techno artist tracked on soundcheck, with 24 sets logg
 
 Souls Departed, Cole Knight, JOVIGIBS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/generousb/)*

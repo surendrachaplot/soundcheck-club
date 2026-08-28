@@ -1,6 +1,6 @@
 # Maldita Vaina
 
-Maldita Vaina is a Reggaeton and Singeli artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kauz, Zurich on Fri, 18 Sept 2026.
+Maldita Vaina is a Reggaeton and Singeli artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kauz, Zurich on Fri, 18 Sept 2026.
 
 Maldita Vaina is a reggaeton and singeli artist based in Dominican Republic, tracked on soundcheck, with 8 sets logged across Houston, Leeds, London and Newyorkcity and 1 more. Often billed alongside Total XTC, ARMANA KHAN and ASHTREY. Next up: Kauz, Zurich on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Maldita Vaina is a reggaeton and singeli artist based in Dominican Republic, tra
 
 Total XTC, ARMANA KHAN, ASHTREY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*

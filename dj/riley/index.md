@@ -1,6 +1,6 @@
 # Riley
 
-Riley is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
+Riley is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Camp and Furnace, Liverpool on Fri, 9 Oct 2026.
 
 Riley is a tech house and house artist tracked on soundcheck, with 39 sets logged across Bristol, Cardiff, Dublin and Glasgow and 9 more. Often billed alongside Max Dean, East End Dubs and Latmun. Next up: Camp and Furnace, Liverpool on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Riley is a tech house and house artist tracked on soundcheck, with 39 sets logge
 
 Max Dean, East End Dubs, Latmun
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

@@ -1,6 +1,6 @@
 # The Disco Express (UK) at Sigurd CPH
 
-The Disco Express (UK) at Sigurd CPH on Sat 19 Sept, Copenhagen. 2 acts on the bill: Monsieur Van Pratt and Third Attempt. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express (UK) at Sigurd CPH on Sat 19 Sept, Copenhagen. 3 acts on the bill: Caio Cenci, Monsieur Van Pratt and Third Attempt. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Disco Express (UK) at Sigurd CPH on Sat 19 Sept, Copenhagen. 2 acts on the b
 
 ## Line-up
 
+- Caio Cenci
 - Monsieur Van Pratt
 - Third Attempt
 

@@ -1,6 +1,6 @@
 # Jan Ritter
 
-Jan Ritter is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+Jan Ritter is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
 Jan Ritter is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside DEN!SE, Dave Mech and Jasmin Giovanazzi. Next up: ://about blank, Berlin on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Jan Ritter is a techno artist based in Germany, tracked on soundcheck, with 8 se
 
 DEN!SE, Dave Mech, Jasmin Giovanazzi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janritter/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janritter/)*

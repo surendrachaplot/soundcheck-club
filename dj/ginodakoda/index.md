@@ -1,6 +1,6 @@
 # Gino Da Koda
 
-Gino Da Koda is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Madam, Amsterdam on Fri, 2 Oct 2026.
+Gino Da Koda is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Madam, Amsterdam on Fri, 2 Oct 2026.
 
 Gino Da Koda is a tech house and minimal artist tracked on soundcheck, with 12 sets logged across Amsterdam, London, Rotterdam and Zurich. Often billed alongside Nick Garcia, AAT (NL) and Raphaelito. Next up: Madam, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gino Da Koda is a tech house and minimal artist tracked on soundcheck, with 12 s
 
 Nick Garcia, AAT (NL), Raphaelito
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginodakoda/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginodakoda/)*

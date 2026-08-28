@@ -1,6 +1,6 @@
 # Phenomenon
 
-Phenomenon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location, London on Sat, 5 Sept 2026.
+Phenomenon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Secret Location, London on Sat, 5 Sept 2026.
 
 Phenomenon is a techno and house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside AXU (2), haukeheyen and 22Cheeky. Next up: TBA - Secret Location, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Phenomenon is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 AXU (2), haukeheyen, 22Cheeky
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phenomenon/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phenomenon/)*

@@ -1,8 +1,8 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
+John T. Gast is a Experimental and Dub artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club Cheek, London on Fri, 28 Aug 2026.
 
-John T. Gast is an experimental and dub artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Devon Rexi, i-sha and Lord Tusk. Next up: Club Cheek, London on Fri 28 Aug.
+John T. Gast is an experimental and dub artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: Club Cheek, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 65 se
 
 ## Shares bills with
 
-Devon Rexi, i-sha, Lord Tusk
+Devon Rexi, i-sha, Carrier
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

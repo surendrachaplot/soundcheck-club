@@ -1,6 +1,6 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Night Tales, London on Fri, 2 Oct 2026.
+JACK MARLOW is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Night Tales, London on Fri, 2 Oct 2026.
 
 JACK MARLOW is a garage and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Berlin, Brighton, Brisbane and Bristol and 14 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Night Tales, London on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ JACK MARLOW is a garage and house artist based in United Kingdom, tracked on sou
 
 GEE LEE, Lemtom, salameh
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmarlow/)*

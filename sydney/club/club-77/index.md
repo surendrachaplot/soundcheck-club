@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 15 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Fridays at 77 x Love Message: Milkpaste, Unprotected Success, Alex Diwa, Harry Court" on Fri, 28 Aug 2026.
+Club 77 is a music venue in Sydney with 15 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Fridays at 77 x Love Message: Milkpaste, Unprotected Success, Alex Diwa, Harry Court" on Fri, 28 Aug 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 15 upcoming nights, with line-ups including Alex Diwa, Assembler Code, Ayebatonye and Caitlin Medcalf and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 15 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

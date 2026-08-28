@@ -1,6 +1,6 @@
 # DJ4BLUE
 
-DJ4BLUE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Makossa, London on Fri, 11 Sept 2026.
+DJ4BLUE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Makossa, London on Fri, 11 Sept 2026.
 
 DJ4BLUE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Ibiza and London. Often billed alongside CARO (3), DJ LIL-E and JFOX. Next up: Club Makossa, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ4BLUE is a tech house and house artist based in United Kingdom, tracked on sou
 
 CARO (3), DJ LIL-E, JFOX
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj4blue/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj4blue/)*

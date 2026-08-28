@@ -1,6 +1,6 @@
 # Anna Konda
 
-Anna Konda is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Zum Genossen, Berlin on Sat, 5 Sept 2026.
+Anna Konda is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Zum Genossen, Berlin on Sat, 5 Sept 2026.
 
 Anna Konda is a techno and trance artist tracked on soundcheck, with 29 sets logged across Berlin, Cologne, Dusseldorf and Vienna. Often billed alongside Ramón Zappa, Ariel (DE) and mojo. Next up: TBA - Zum Genossen, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Anna Konda is a techno and trance artist tracked on soundcheck, with 29 sets log
 
 Ramón Zappa, Ariel (DE), mojo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annakonda/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annakonda/)*

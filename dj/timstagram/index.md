@@ -1,6 +1,6 @@
 # Timstagram
 
-Timstagram is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
+Timstagram is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
 
 Timstagram is a trance and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Leipzig. Often billed alongside DZBL, KETA PERRY and VLUNA. Next up: Distillery, Leipzig on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Timstagram is a trance and techno artist based in Germany, tracked on soundcheck
 
 DZBL, KETA PERRY, VLUNA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timstagram/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timstagram/)*

@@ -1,6 +1,6 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 30 Aug 2026.
+Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 30 Aug 2026.
 
 Danny Tenaglia is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 24 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 105 sets
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

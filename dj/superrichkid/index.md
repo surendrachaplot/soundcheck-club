@@ -1,6 +1,6 @@
 # superrichkid
 
-superrichkid is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 4 Sept 2026.
+superrichkid is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 4 Sept 2026.
 
 superrichkid is a techno and hip-hop artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside JUN INAGAWA, Romy Mats and West Ape. Next up: Enter Shibuya, Tokyo on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ superrichkid is a techno and hip-hop artist tracked on soundcheck, with 4 sets l
 
 JUN INAGAWA, Romy Mats, West Ape
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superrichkid/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superrichkid/)*

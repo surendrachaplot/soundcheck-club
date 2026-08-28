@@ -1,6 +1,6 @@
 # Lord Of The Isles
 
-Lord Of The Isles is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
+Lord Of The Isles is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Secret Location, Glasgow on Sat, 29 Aug 2026.
 
 Lord Of The Isles is a house and electronica artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 2 more. Often billed alongside Eclair Fifi, Physix and Sundaymann. Next up: TBA - Secret Location, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lord Of The Isles is a house and electronica artist tracked on soundcheck, with 
 
 Eclair Fifi, Physix, Sundaymann
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lordoftheisles/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lordoftheisles/)*

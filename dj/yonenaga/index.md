@@ -1,6 +1,6 @@
 # Yonenaga
 
-Yonenaga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Koara, Tokyo on Wed, 2 Sept 2026.
+Yonenaga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Koara, Tokyo on Wed, 2 Sept 2026.
 
 Yonenaga is a techno and house artist tracked on soundcheck, with 37 sets logged across Osaka and Tokyo. Often billed alongside Satoshi Matsui, Tommy (2) and Arao. Next up: Koara, Tokyo on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Yonenaga is a techno and house artist tracked on soundcheck, with 37 sets logged
 
 Satoshi Matsui, Tommy (2), Arao
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yonenaga/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yonenaga/)*

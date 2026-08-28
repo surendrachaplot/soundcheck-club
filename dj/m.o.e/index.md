@@ -1,6 +1,6 @@
 # M.o.E
 
-M.o.E is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 16 Sept 2026.
+M.o.E is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Do Not Sit On The Furniture, Miami on Wed, 16 Sept 2026.
 
 M.o.E is a house and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Frankfurt and Miami. Often billed alongside Pierre Vice, Aimé You and Carl Bergé. Next up: Do Not Sit On The Furniture, Miami on Wed 16 Sept.
 
@@ -22,4 +22,4 @@ M.o.E is a house and tech house artist based in Germany, tracked on soundcheck, 
 
 Pierre Vice, Aimé You, Carl Bergé
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.o.e/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.o.e/)*

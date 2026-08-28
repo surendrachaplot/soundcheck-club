@@ -1,6 +1,6 @@
 # Mike Swells
 
-Mike Swells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at BASEMENT, New York City on Sat, 12 Sept 2026.
+Mike Swells is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at BASEMENT, New York City on Sat, 12 Sept 2026.
 
 Mike Swells is a house and techno artist tracked on soundcheck, with 13 sets logged across Boston, Detroit and Newyorkcity. Often billed alongside Alinka, BEYA and Bob The Egoist. Next up: BASEMENT, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mike Swells is a house and techno artist tracked on soundcheck, with 13 sets log
 
 Alinka, BEYA, Bob The Egoist
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeswells/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeswells/)*

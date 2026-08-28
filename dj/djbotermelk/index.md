@@ -1,6 +1,6 @@
 # DJ Botermelk
 
-DJ Botermelk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Nué Seoul, Seoul on Sat, 29 Aug 2026.
+DJ Botermelk is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nué Seoul, Seoul on Sat, 29 Aug 2026.
 
 DJ Botermelk is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Seoul. Often billed alongside YESL, odix and Shlemba. Next up: Nué Seoul, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Botermelk is a house and tech house artist based in United Kingdom, tracked o
 
 YESL, odix, Shlemba
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbotermelk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbotermelk/)*

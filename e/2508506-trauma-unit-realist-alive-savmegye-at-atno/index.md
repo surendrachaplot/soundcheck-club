@@ -1,6 +1,6 @@
 # Trauma Unit + Realist Alive + savmegye at Atno
 
-Trauma Unit + Realist Alive + savmegye at Atno on Fri 28 Aug, Budapest. 5 acts on the bill: 96zen, glas___skin, Naramnesia and Ship Sket and 1 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Trauma Unit + Realist Alive + savmegye at Atno on Fri 28 Aug, Budapest. 6 acts on the bill: 96zen, glas___skin, ItsLucid and Naramnesia and 2 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Trauma Unit + Realist Alive + savmegye at Atno on Fri 28 Aug, Budapest. 5 acts o
 
 - 96zen
 - glas___skin
+- ItsLucid
 - Naramnesia
 - Ship Sket
 - Talpah

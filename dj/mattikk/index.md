@@ -1,6 +1,6 @@
 # Mattikk
 
-Mattikk is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
+Mattikk is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
 
 Mattikk is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona and Thehague. Often billed alongside Konduku, Tammo Hesselink and Remma. Next up: Paradiso, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mattikk is a techno and ambient artist based in Netherlands, tracked on soundche
 
 Konduku, Tammo Hesselink, Remma
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattikk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattikk/)*

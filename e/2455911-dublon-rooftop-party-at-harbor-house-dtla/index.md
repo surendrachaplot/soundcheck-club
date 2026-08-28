@@ -1,6 +1,6 @@
 # Dublon [rooftop party] at Harbor House DTLA
 
-Dublon [rooftop party] at Harbor House DTLA on Fri 9 Oct, Losangeles. 1 act on the bill: Dublon. House and Jazz. Preview the line-up and save it on soundcheck.
+Dublon [rooftop party] at Harbor House DTLA on Fri 9 Oct, Losangeles. 3 acts on the bill: Dublon, Mayari and Xica Soul. House and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Dublon [rooftop party] at Harbor House DTLA on Fri 9 Oct, Losangeles. 1 act on t
 ## Line-up
 
 - Dublon
+- Mayari
+- Xica Soul
 
 *Source: [soundcheck](https://soundcheck.club/e/2455911-dublon-rooftop-party-at-harbor-house-dtla/)*

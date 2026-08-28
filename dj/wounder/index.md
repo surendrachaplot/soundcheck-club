@@ -1,6 +1,6 @@
 # Wounder
 
-Wounder is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
+Wounder is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Panke, Berlin on Sat, 29 Aug 2026.
 
 Wounder is an experimental and club artist tracked on soundcheck, with 15 sets logged across Berlin, London, Manchester and Vienna. Often billed alongside Crimson Chaos, Kamixlo and Madjestic Kasual. Next up: Panke, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Wounder is an experimental and club artist tracked on soundcheck, with 15 sets l
 
 Crimson Chaos, Kamixlo, Madjestic Kasual
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*

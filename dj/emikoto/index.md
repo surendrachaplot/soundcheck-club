@@ -1,6 +1,6 @@
 # Emi Koto
 
-Emi Koto is a Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cadavra, Madrid on Sat, 12 Sept 2026.
+Emi Koto is a Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cadavra, Madrid on Sat, 12 Sept 2026.
 
 Emi Koto is an electronica artist based in Spain, tracked on soundcheck, with 21 sets logged across Madrid. Often billed alongside Certain People, Le Nomad and Gerardo Niva. Next up: Cadavra, Madrid on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Emi Koto is an electronica artist based in Spain, tracked on soundcheck, with 21
 
 Certain People, Le Nomad, Gerardo Niva
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*

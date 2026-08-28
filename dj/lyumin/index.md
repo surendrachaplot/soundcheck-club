@@ -1,6 +1,6 @@
 # Lyumin
 
-Lyumin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Stoked&stoned, Seoul on Fri, 28 Aug 2026.
+Lyumin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Stoked&stoned, Seoul on Fri, 28 Aug 2026.
 
 Lyumin is a house and tech house artist based in South Korea, tracked on soundcheck, with 241 sets logged across Barcelona and Seoul. Often billed alongside givogi, Mihak and .2ndfloor. Next up: Stoked&stoned, Seoul on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lyumin is a house and tech house artist based in South Korea, tracked on soundch
 
 givogi, Mihak, .2ndfloor
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyumin/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyumin/)*

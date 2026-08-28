@@ -1,6 +1,6 @@
 # MATVOICE
 
-MATVOICE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Baken Bar, Warsaw on Fri, 28 Aug 2026.
+MATVOICE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Baken Bar, Warsaw on Fri, 28 Aug 2026.
 
 MATVOICE is a house and deep house artist based in Poland, tracked on soundcheck, with 6 sets logged across Krakow, Warsaw and Zurich. Often billed alongside Djaa (PL), Matt Rudnicki and Adi Dassler. Next up: TBA - Baken Bar, Warsaw on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ MATVOICE is a house and deep house artist based in Poland, tracked on soundcheck
 
 Djaa (PL), Matt Rudnicki, Adi Dassler
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matvoice/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matvoice/)*

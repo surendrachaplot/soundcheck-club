@@ -1,6 +1,6 @@
 # Tormented
 
-Tormented is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+Tormented is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 Tormented is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit. Often billed alongside Nick Burgess, Brent Shay and DykeChow. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tormented is a techno and house artist based in United States of America, tracke
 
 Nick Burgess, Brent Shay, DykeChow
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tormented/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tormented/)*

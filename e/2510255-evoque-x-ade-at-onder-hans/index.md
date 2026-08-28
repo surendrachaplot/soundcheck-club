@@ -1,6 +1,6 @@
 # EVOQUE x ADE at Onder Hans
 
-EVOQUE x ADE at Onder Hans on Sat 24 Oct, Amsterdam. 10 acts on the bill: 16BL, Cris-H, Dilby and Elliot Moriarty and 6 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+EVOQUE x ADE at Onder Hans on Sat 24 Oct, Amsterdam. 13 acts on the bill: 16BL, Cris-H, Demattei and Dilby and 9 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,12 @@ EVOQUE x ADE at Onder Hans on Sat 24 Oct, Amsterdam. 10 acts on the bill: 16BL, 
 
 - 16BL
 - Cris-H
+- Demattei
 - Dilby
 - Elliot Moriarty
 - Frankey & Sandrino
+- GINO GENTILI
+- Henry Saiz
 - Iovino
 - KELO AR
 - Kiko

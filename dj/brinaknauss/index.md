@@ -1,6 +1,6 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
+Brina Knauss is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
 
 Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Kafes x Milo, Istanbul on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 
 Fideles, Mathame, Henri Bergmann
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

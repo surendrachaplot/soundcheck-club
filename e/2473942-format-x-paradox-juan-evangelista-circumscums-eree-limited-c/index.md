@@ -1,11 +1,11 @@
-# FORMAT X PARADOX: Juan Evangelista / Circumscums / eRee (Limited Capacity) at Mooi Space
+# FORMAT X PARADOX: Juan Evangelista / Circumscums / eRee (Limited Capacity) at TBA - Toronto
 
-FORMAT X PARADOX: Juan Evangelista / Circumscums / eRee (Limited Capacity) at Mooi Space on Fri 28 Aug, Toronto. 3 acts on the bill: Circumscums, eRee and Juan Evangelista. Techno. Preview the line-up and save it on soundcheck.
+FORMAT X PARADOX: Juan Evangelista / Circumscums / eRee (Limited Capacity) at TBA - Toronto on Fri 28 Aug, Toronto. 3 acts on the bill: Circumscums, eRee and Juan Evangelista. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 28 Aug 2026 |
-| Venue | Mooi Space |
+| Venue | TBA - Toronto |
 | City | Toronto |
 
 ## Line-up

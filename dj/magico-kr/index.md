@@ -1,14 +1,15 @@
 # Magico.
 
-Magico. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
+Magico. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Modeci, Seoul on Sat, 29 Aug 2026.
 
-Magico. is a techno and house artist based in South Korea, tracked on soundcheck, with 42 sets logged across Bali, Barcelona, Berlin and Frankfurt and 11 more. Often billed alongside .2ndfloor, Evan Baggs and Minkyu. Next up: Modeci, Seoul on Sat 29 Aug.
+Magico. is a techno and house artist based in South Korea, tracked on soundcheck, with 43 sets logged across Bali, Barcelona, Berlin and Frankfurt and 11 more. Often billed alongside .2ndfloor, Minkyu and Evan Baggs. Next up: Modeci, Seoul on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Modeci | Seoul |
+| Sat, 19 Sept 2026 | TBA | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Magico. is a techno and house artist based in South Korea, tracked on soundcheck
 
 ## Shares bills with
 
-.2ndfloor, Evan Baggs, Minkyu
+.2ndfloor, Minkyu, Evan Baggs
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magico-kr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magico-kr/)*

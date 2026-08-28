@@ -1,6 +1,6 @@
 # DEEPAH: day party at M.O.T
 
-DEEPAH: day party at M.O.T on Sat 19 Sept, London. 3 acts on the bill: Bluetoof, Nancy June and Zed Bias. House and Garage. Preview the line-up and save it on soundcheck.
+DEEPAH: day party at M.O.T on Sat 19 Sept, London. 4 acts on the bill: Bluetoof, LZee, Nancy June and Zed Bias. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DEEPAH: day party at M.O.T on Sat 19 Sept, London. 3 acts on the bill: Bluetoof,
 ## Line-up
 
 - Bluetoof
+- LZee
 - Nancy June
 - Zed Bias
 

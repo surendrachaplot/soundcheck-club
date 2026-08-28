@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Heavy Rotation #20 with Cruella C" on Thu, 27 Aug 2026.
+Unter Deck is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Techno ist Familiensache" on Sat, 29 Aug 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including David Franz, DELLA, Die Tektonische Plattenverschiebung and DJ FM & DJ FREUND and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including David Franz, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Dr. Getdown and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Heavy Rotation #20 with Cruella C | DELLA |
 | Sat, 29 Aug 2026 | Techno ist Familiensache |  |
 | Tue, 1 Sept 2026 | Tuesday in Love: All-night-long-FAM*TAM im Unter Deck | Kim_Twiddle |
 | Thu, 3 Sept 2026 | 33 RPM / Femdelic | Dr. Getdown, Femdelic |
@@ -23,4 +22,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 10 upcoming nights, 
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

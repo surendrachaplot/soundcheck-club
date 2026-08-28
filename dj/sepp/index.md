@@ -1,6 +1,6 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
+Sepp is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jolene Downtown Miami, Miami on Fri, 28 Aug 2026.
 
 Sepp is a minimal and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Nu Zau, Alci and Arapu. Next up: Jolene Downtown Miami, Miami on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Sepp is a minimal and house artist tracked on soundcheck, with 107 sets logged a
 
 Nu Zau, Alci, Arapu
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

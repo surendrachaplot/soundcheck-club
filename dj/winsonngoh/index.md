@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 15 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Winson Ngoh is a Techno and Industrial artist with 15 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 20 more. Often billed alongside KUKO, Fantasm and Winson. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Winson Ngoh is a techno and industrial artist tracked on soundcheck, with 31 set
 
 KUKO, Fantasm, Winson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

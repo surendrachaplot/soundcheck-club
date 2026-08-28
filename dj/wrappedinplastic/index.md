@@ -1,6 +1,6 @@
 # WrappeD In PlastiC
 
-WrappeD In PlastiC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at SMUT Athens, Athens on Fri, 4 Sept 2026.
+WrappeD In PlastiC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at SMUT Athens, Athens on Fri, 4 Sept 2026.
 
 WrappeD In PlastiC is a house and techno artist based in Greece, tracked on soundcheck, with 36 sets logged across Athens. Often billed alongside The Dreamer, Miss Trouli and BÊTE NOIRE. Next up: SMUT Athens, Athens on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ WrappeD In PlastiC is a house and techno artist based in Greece, tracked on soun
 
 The Dreamer, Miss Trouli, BÊTE NOIRE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrappedinplastic/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrappedinplastic/)*

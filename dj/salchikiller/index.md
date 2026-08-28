@@ -1,6 +1,6 @@
 # SALCHIKILLER
 
-SALCHIKILLER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at DNA. CLUB, Berlin on Fri, 28 Aug 2026.
+SALCHIKILLER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DNA. CLUB, Berlin on Fri, 28 Aug 2026.
 
 SALCHIKILLER is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside mølly (on molly), DJ AYEN and L X S. Next up: DNA. CLUB, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ SALCHIKILLER is a techno and trance artist tracked on soundcheck, with 27 sets l
 
 mølly (on molly), DJ AYEN, L X S
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salchikiller/)*

@@ -1,6 +1,6 @@
 # Sergio Cucalon
 
-Sergio Cucalon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Zumana Bali, Bali on Sat, 5 Sept 2026.
+Sergio Cucalon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Zumana Bali, Bali on Sat, 5 Sept 2026.
 
 Sergio Cucalon is a house and tech house artist tracked on soundcheck, with 26 sets logged across Bali, Barcelona, Hongkong and Tokyo. Often billed alongside James Taylor (AU), Sergio Hilinger and BRAD WATTS. Next up: Zumana Bali, Bali on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sergio Cucalon is a house and tech house artist tracked on soundcheck, with 26 s
 
 James Taylor (AU), Sergio Hilinger, BRAD WATTS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiocucalon/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiocucalon/)*

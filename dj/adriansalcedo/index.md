@@ -1,6 +1,6 @@
 # Adrian Salcedo
 
-Adrian Salcedo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vertigo, Toronto on Fri, 28 Aug 2026.
+Adrian Salcedo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Vertigo, Toronto on Fri, 28 Aug 2026.
 
 Adrian Salcedo is a tech house and house artist based in Denmark, tracked on soundcheck, with 25 sets logged across Copenhagen and Toronto. Often billed alongside RUDEE NIK, Alley Kay and Greg Gow. Next up: Vertigo, Toronto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Adrian Salcedo is a tech house and house artist based in Denmark, tracked on sou
 
 RUDEE NIK, Alley Kay, Greg Gow
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansalcedo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriansalcedo/)*

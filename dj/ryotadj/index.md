@@ -1,6 +1,6 @@
 # ryota dj
 
-ryota dj is a Bass and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Circus Osaka, Osaka on Fri, 11 Sept 2026.
+ryota dj is a Bass and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Circus Osaka, Osaka on Fri, 11 Sept 2026.
 
 ryota dj is a bass and house artist tracked on soundcheck, with 86 sets logged across Bali, Bangkok, Barcelona and Brighton and 15 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: Circus Osaka, Osaka on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ ryota dj is a bass and house artist tracked on soundcheck, with 86 sets logged a
 
 Ryota, SAMO (JP), kengotaki
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotadj/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotadj/)*

@@ -1,6 +1,6 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Foro Frontera, Mexico City on Fri, 9 Oct 2026.
+Konstantin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Foro Frontera, Mexico City on Fri, 9 Oct 2026.
 
 Konstantin is a house and techno artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Foro Frontera, Mexicocity on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Konstantin is a house and techno artist tracked on soundcheck, with 165 sets log
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

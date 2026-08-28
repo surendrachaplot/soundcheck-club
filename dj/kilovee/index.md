@@ -1,6 +1,6 @@
 # Kilo Vee
 
-Kilo Vee is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
+Kilo Vee is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Laak, The Hague on Fri, 28 Aug 2026.
 
 Kilo Vee is a bass and club artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Barcelona, Berlin and Hamburg and 7 more. Often billed alongside ALEX WANG, Rui Ho and 8Kitoo. Next up: Laak, Thehague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Kilo Vee is a bass and club artist based in China, tracked on soundcheck, with 1
 
 ALEX WANG, Rui Ho, 8Kitoo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilovee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilovee/)*

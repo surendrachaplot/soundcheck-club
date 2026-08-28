@@ -1,6 +1,6 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
+BENNETT is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sommerbad Neukölln, Berlin on Sun, 30 Aug 2026.
 
 BENNETT is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Losangeles and Mexicocity and 4 more. Often billed alongside WAN.1, DJ Jordan and I Hate Models. Next up: Sommerbad Neukölln, Berlin on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ BENNETT is a techno and trance artist tracked on soundcheck, with 23 sets logged
 
 WAN.1, DJ Jordan, I Hate Models
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

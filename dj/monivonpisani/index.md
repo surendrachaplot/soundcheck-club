@@ -1,6 +1,6 @@
 # Moni von Pisani
 
-Moni von Pisani is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Crack Bellmer, Berlin on Fri, 28 Aug 2026.
+Moni von Pisani is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Crack Bellmer, Berlin on Fri, 28 Aug 2026.
 
 Moni von Pisani is a house and disco artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Zehlendorfer Disco Squad, C.love and Daniel Duese. Next up: Crack Bellmer, Berlin on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Moni von Pisani is a house and disco artist based in Germany, tracked on soundch
 
 Zehlendorfer Disco Squad, C.love, Daniel Duese
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monivonpisani/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monivonpisani/)*

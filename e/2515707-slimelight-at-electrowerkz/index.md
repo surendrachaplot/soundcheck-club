@@ -1,6 +1,6 @@
 # Slimelight at Electrowerkz
 
-Slimelight at Electrowerkz on Fri 11 Sept, London. 3 acts on the bill: Dj.Malefica, Ricardo Castro and Steve Weeks. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Slimelight at Electrowerkz on Fri 11 Sept, London. 4 acts on the bill: Dj.Malefica, Ricardo Castro, Soylent Black and Steve Weeks. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Slimelight at Electrowerkz on Fri 11 Sept, London. 3 acts on the bill: Dj.Malefi
 
 - Dj.Malefica
 - Ricardo Castro
+- Soylent Black
 - Steve Weeks
 
 *Source: [soundcheck](https://soundcheck.club/e/2515707-slimelight-at-electrowerkz/)*

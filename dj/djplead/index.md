@@ -1,8 +1,8 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Uus Laine, Tallinn on Fri, 28 Aug 2026.
+DJ Plead is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Uus Laine, Tallinn on Fri, 28 Aug 2026.
 
-DJ Plead is a techno and bass artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Basel and Berlin and 31 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Uus Laine, Tallinn on Fri 28 Aug.
+DJ Plead is a techno and bass artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Basel and Berlin and 31 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Uus Laine, Tallinn on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 125 sets logged
 | Sat, 12 Sept 2026 | EXIT Glasgow | Glasgow |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
 | Thu, 1 Oct 2026 | Good Room | New York City |
+| Sat, 3 Oct 2026 | TBA | Mexico City |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 9 Oct 2026 | Hotel Forum | Krakow |
 
@@ -31,4 +32,4 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 125 sets logged
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

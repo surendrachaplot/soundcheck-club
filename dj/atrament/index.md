@@ -1,6 +1,6 @@
 # Atrament
 
-Atrament is a Dub Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
+Atrament is a Dub Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
 
 Atrament is a dub techno and ambient artist based in Canada, tracked on soundcheck, with 18 sets logged across Vancouver. Often billed alongside Vasho, Willisist and Kai Bradley. Next up: TBA, Vancouver on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Atrament is a dub techno and ambient artist based in Canada, tracked on soundche
 
 Vasho, Willisist, Kai Bradley
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrament/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atrament/)*

@@ -1,6 +1,6 @@
 # SOBs
 
-SOBs is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Nitrous Sessions: A Don Toliver Fan Listening Experience" on Fri, 28 Aug 2026.
+SOBs is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Nitrous Sessions: A Don Toliver Fan Listening Experience" on Fri, 28 Aug 2026.
 
 SOBs is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
@@ -18,4 +18,4 @@ SOBs is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Br
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

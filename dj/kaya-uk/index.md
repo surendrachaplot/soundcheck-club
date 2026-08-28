@@ -1,6 +1,6 @@
 # KaYa (UK)
 
-KaYa (UK) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
+KaYa (UK) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
 
 KaYa (UK) is a house and disco artist tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside Joshua James, Mike Menace and Viktor Victoria. Next up: The Glove That Fits, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ KaYa (UK) is a house and disco artist tracked on soundcheck, with 24 sets logged
 
 Joshua James, Mike Menace, Viktor Victoria
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaya-uk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaya-uk/)*

@@ -1,6 +1,6 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Barutana, Belgrade on Fri, 28 Aug 2026.
+Marcel Dettmann is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Barutana, Belgrade on Fri, 28 Aug 2026.
 
 Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Austin and 63 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Barutana, Belgrade on Fri 28 Aug.
 
@@ -11,7 +11,7 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 set
 | Fri, 28 Aug 2026 | Barutana | Belgrade |
 | Sat, 5 Sept 2026 | Westhafen | Leipzig |
 | Thu, 10 Sept 2026 | Barragem da Queimadela | Porto |
-| Sat, 12 Sept 2026 | 8 Marvila | Lisbon |
+| Sat, 12 Sept 2026 | Anfiteatro de Pedra | Lisbon |
 | Sat, 12 Sept 2026 | 8 Marvila | Lisbon |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | Academy LA | Los Angeles |
@@ -36,4 +36,4 @@ Marcel Dettmann is a techno and house artist tracked on soundcheck, with 262 set
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

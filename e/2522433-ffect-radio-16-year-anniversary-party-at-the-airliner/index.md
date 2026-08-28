@@ -1,6 +1,6 @@
 # ÆFFECT RADIO 16-Year Anniversary Party at The Airliner
 
-ÆFFECT RADIO 16-Year Anniversary Party at The Airliner on Thu 24 Sept, Losangeles. 3 acts on the bill: Freeman 713, Wheez-ie and Yessi. Club. Preview the line-up and save it on soundcheck.
+ÆFFECT RADIO 16-Year Anniversary Party at The Airliner on Thu 24 Sept, Losangeles. 4 acts on the bill: Freeman 713, Songco, Wheez-ie and Yessi. Experimental and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Freeman 713
+- Songco
 - Wheez-ie
 - Yessi
 

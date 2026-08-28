@@ -1,6 +1,6 @@
 # Vales Madre
 
-Vales Madre is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Subterrannean, Chicago on Fri, 28 Aug 2026.
+Vales Madre is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Subterrannean, Chicago on Fri, 28 Aug 2026.
 
 Vales Madre is a techno and footwork artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago and Detroit. Often billed alongside Elock, Flores Negras and Initial G. Next up: Subterrannean, Chicago on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Vales Madre is a techno and footwork artist based in United States of America, t
 
 Elock, Flores Negras, Initial G
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valesmadre/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valesmadre/)*

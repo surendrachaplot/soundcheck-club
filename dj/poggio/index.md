@@ -1,13 +1,14 @@
 # Poggio
 
-Poggio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Poggio is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Auber Garden, Paris on Sat, 19 Sept 2026.
 
-Poggio is a house and electro artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Gabriel Belabbas, Automatic Writing and E.LINA. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
+Poggio is a house and electro artist tracked on soundcheck, with 88 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Gabriel Belabbas, Automatic Writing and E.LINA. Next up: Auber Garden, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Auber Garden | Paris |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Poggio is a house and electro artist tracked on soundcheck, with 87 sets logged 
 
 Gabriel Belabbas, Automatic Writing, E.LINA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*

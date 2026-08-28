@@ -1,6 +1,6 @@
 # Maly Kien
 
-Maly Kien is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Maly Kien is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Maly Kien is a house and progressive house artist based in France, tracked on soundcheck, with 6 sets logged across Paris. Often billed alongside Ploum, Spicy Sofi and Chtak.. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Maly Kien is a house and progressive house artist based in France, tracked on so
 
 Ploum, Spicy Sofi, Chtak.
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malykien/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malykien/)*

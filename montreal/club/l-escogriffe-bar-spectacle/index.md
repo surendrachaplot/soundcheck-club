@@ -1,6 +1,6 @@
 # L'Escogriffe Bar Spectacle
 
-L'Escogriffe Bar Spectacle is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Spike Hellis (LA) + Belly Hatcher + RocMan → Live EBM / Electro" on Sat, 29 Aug 2026.
+L'Escogriffe Bar Spectacle is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Spike Hellis (LA) + Belly Hatcher + RocMan → Live EBM / Electro" on Sat, 29 Aug 2026.
 
 L'Escogriffe Bar Spectacle is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4467 Saint-Denis, Montreal H2J 2L2.
 
@@ -14,4 +14,4 @@ L'Escogriffe Bar Spectacle is a music venue in Montreal listed on soundcheck. 1 
 
 4467 Saint-Denis, Montreal H2J 2L2, Montreal
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/l-escogriffe-bar-spectacle/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/l-escogriffe-bar-spectacle/)*

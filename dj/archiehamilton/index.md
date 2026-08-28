@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 30 Aug 2026.
+Archie Hamilton is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 30 Aug 2026.
 
 Archie Hamilton is a house and tech house artist tracked on soundcheck, with 206 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Los Angeles State Historic Park, Losangeles on Sun 30 Aug.
 
@@ -35,4 +35,4 @@ Archie Hamilton is a house and tech house artist tracked on soundcheck, with 206
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

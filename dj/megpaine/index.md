@@ -1,6 +1,6 @@
 # Meg Paine
 
-Meg Paine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
+Meg Paine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
 
 Meg Paine is a house and techno artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Brighton, Bristol and Dublin and 4 more. Often billed alongside Tech Support, Zaltsman and Asa Tate. Next up: Cafe 1001, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Meg Paine is a house and techno artist based in United Kingdom, tracked on sound
 
 Tech Support, Zaltsman, Asa Tate
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megpaine/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megpaine/)*

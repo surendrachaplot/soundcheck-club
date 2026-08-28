@@ -1,14 +1,15 @@
 # Sonido Tupinamba
 
-Sonido Tupinamba is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at La Terrrazza, Barcelona on Fri, 28 Aug 2026.
+Sonido Tupinamba is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at La Terrrazza, Barcelona on Fri, 28 Aug 2026.
 
-Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 73 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: La Terrrazza, Barcelona on Fri 28 Aug.
+Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: La Terrrazza, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | La Terrrazza | Barcelona |
+| Fri, 11 Sept 2026 | BUS Hexperience | Barcelona |
 | Sat, 12 Sept 2026 | La Paloma | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 73 sets
 
 Camilo Miranda, Zonzo, Sama Yax
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*

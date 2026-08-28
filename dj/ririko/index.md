@@ -1,8 +1,8 @@
 # Ririko
 
-Ririko is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Enter Shibuya, Tokyo on Wed, 2 Sept 2026.
+Ririko is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Enter Shibuya, Tokyo on Wed, 2 Sept 2026.
 
-Ririko is a techno and house artist tracked on soundcheck, with 75 sets logged across Osaka and Tokyo. Often billed alongside Chrumi, Ken Ishii and DJ Wada. Next up: Enter Shibuya, Tokyo on Wed 2 Sept.
+Ririko is a techno and house artist tracked on soundcheck, with 76 sets logged across Osaka and Tokyo. Often billed alongside Chrumi, Ken Ishii and DJ Wada. Next up: Enter Shibuya, Tokyo on Wed 2 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ririko is a techno and house artist tracked on soundcheck, with 75 sets logged a
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Enter Shibuya | Tokyo |
 | Sun, 6 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Mon, 21 Sept 2026 | Numm | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ririko is a techno and house artist tracked on soundcheck, with 75 sets logged a
 
 Chrumi, Ken Ishii, DJ Wada
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ririko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ririko/)*

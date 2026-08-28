@@ -1,14 +1,13 @@
 # Plano B
 
-Plano B is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Liquid Skin" on Thu, 27 Aug 2026.
+Plano B is a music venue in Porto with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Gusta-vo + Serginho + Ma-riana" on Fri, 28 Aug 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 7 upcoming nights, with line-ups including John Talabot, Objekt, Ogazón and salute and 1 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 6 upcoming nights, with line-ups including John Talabot, Objekt, Ogazón and salute and 1 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Liquid Skin |  |
 | Fri, 28 Aug 2026 | Gusta-vo + Serginho + Ma-riana | Serginho |
 | Sat, 29 Aug 2026 | Nuno Lopes + Mary Jou |  |
 | Fri, 25 Sept 2026 | John Talabot (ES) | John Talabot |
@@ -20,4 +19,4 @@ Plano B is a music venue in Porto listed on soundcheck. 7 upcoming nights, with 
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

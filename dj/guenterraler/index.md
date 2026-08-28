@@ -1,6 +1,6 @@
 # Guenter Råler
 
-Guenter Råler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at WAS., Utrecht on Sat, 12 Sept 2026.
+Guenter Råler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at WAS., Utrecht on Sat, 12 Sept 2026.
 
 Guenter Råler is a techno and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Milan and 2 more. Often billed alongside CEM, DJ Shahmaran and Garnett. Next up: WAS., Utrecht on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Guenter Råler is a techno and house artist tracked on soundcheck, with 20 sets 
 
 CEM, DJ Shahmaran, Garnett
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guenterraler/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guenterraler/)*

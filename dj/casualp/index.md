@@ -1,6 +1,6 @@
 # Casual P
 
-Casual P is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Lord Gladstone, Sydney on Sat, 5 Sept 2026.
+Casual P is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Lord Gladstone, Sydney on Sat, 5 Sept 2026.
 
 Casual P is a house and garage artist based in Australia, tracked on soundcheck, with 22 sets logged across Sydney. Often billed alongside Ari Kiko, Mina Tonic and Couch Mechanic. Next up: The Lord Gladstone, Sydney on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Casual P is a house and garage artist based in Australia, tracked on soundcheck,
 
 Ari Kiko, Mina Tonic, Couch Mechanic
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casualp/)*

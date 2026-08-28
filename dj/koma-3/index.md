@@ -1,6 +1,6 @@
 # KŌMA (3)
 
-KŌMA (3) is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+KŌMA (3) is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 KŌMA (3) is a techno and garage artist tracked on soundcheck, with 42 sets logged across Antwerp, Berlin, Bristol and Brussels and 6 more. Often billed alongside VCR (1), Erykah and Shoplifter. Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ KŌMA (3) is a techno and garage artist tracked on soundcheck, with 42 sets logg
 
 VCR (1), Erykah, Shoplifter
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-3/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-3/)*

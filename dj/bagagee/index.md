@@ -1,13 +1,14 @@
 # Bagagee Viphex13
 
-Bagagee Viphex13 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at UNDERCITY, Seoul on Sat, 17 Oct 2026.
+Bagagee Viphex13 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ximxim Bar, Seoul on Sat, 12 Sept 2026.
 
-Bagagee Viphex13 is a techno and electro artist based in South Korea, tracked on soundcheck, with 45 sets logged across Seoul. Often billed alongside Honn, Better and PIERRE BLANCHE. Next up: UNDERCITY, Seoul on Sat 17 Oct.
+Bagagee Viphex13 is a techno and electro artist based in South Korea, tracked on soundcheck, with 46 sets logged across Seoul. Often billed alongside Honn, Better and Rubato. Next up: Ximxim Bar, Seoul on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Ximxim Bar | Seoul |
 | Sat, 17 Oct 2026 | UNDERCITY | Seoul |
 
 ## Recently played
@@ -23,6 +24,6 @@ Bagagee Viphex13 is a techno and electro artist based in South Korea, tracked on
 
 ## Shares bills with
 
-Honn, Better, PIERRE BLANCHE
+Honn, Better, Rubato
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bagagee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bagagee/)*

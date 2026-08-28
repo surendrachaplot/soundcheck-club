@@ -1,6 +1,6 @@
 # Monsieurmadam
 
-Monsieurmadam is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Monsieurmadam is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets logged across Montreal and Toronto. Often billed alongside Ekitwanda, CrisseMarqueur and nastygloss. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -9,10 +9,10 @@ Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
-| Thu, 27 Aug 2026 | Esplanade Tranquille | Montreal |
 
 ## Recently played
 
+- Esplanade Tranquille, Montreal — Thu, 27 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 19 Jul 2026
 - ESC, Montreal — Fri, 17 Jul 2026
@@ -20,10 +20,9 @@ Monsieurmadam is a techno and club artist tracked on soundcheck, with 48 sets lo
 - Système, Montreal — Thu, 11 Jun 2026
 - La Toscadura, Montreal — Fri, 22 May 2026
 - Bar Datcha, Montreal — Thu, 14 May 2026
-- Bar Datcha, Montreal — Thu, 2 Apr 2026
 
 ## Shares bills with
 
 Ekitwanda, CrisseMarqueur, nastygloss
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmadam/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monsieurmadam/)*

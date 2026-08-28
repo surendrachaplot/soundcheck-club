@@ -1,6 +1,6 @@
 # FORMA FESTIVAL 2026 at TBA - 16915 Darnestown Road, Boyds, Maryland 20841
 
-FORMA FESTIVAL 2026 at TBA - 16915 Darnestown Road, Boyds, Maryland 20841 on Sat 17 Oct, Washingtondc. 16 acts on the bill: Adrian Hex, Chris Lock, Dustin Zahn and Ether Pleaser and 12 more. Techno. Preview the line-up and save it on soundcheck.
+FORMA FESTIVAL 2026 at TBA - 16915 Darnestown Road, Boyds, Maryland 20841 on Sat 17 Oct, Washingtondc. 17 acts on the bill: Adrian Hex, Chris Lock, Dustin Zahn and Ether Pleaser and 13 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ FORMA FESTIVAL 2026 at TBA - 16915 Darnestown Road, Boyds, Maryland 20841 on Sat
 - Marteka Fair
 - N3urodegenerate
 - renai
+- Ron Jackson
 - secret handshake
 - STE-VÍ
 - TonalTheory

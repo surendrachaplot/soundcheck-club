@@ -1,6 +1,6 @@
 # Sanghwan
 
-Sanghwan is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Atdge Seoul, Seoul on Fri, 28 Aug 2026.
+Sanghwan is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Atdge Seoul, Seoul on Fri, 28 Aug 2026.
 
 Sanghwan is a techno and minimal artist based in South Korea, tracked on soundcheck, with 13 sets logged across Seoul. Often billed alongside Hogun, ccb and Haemi Park. Next up: Atdge Seoul, Seoul on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Sanghwan is a techno and minimal artist based in South Korea, tracked on soundch
 
 Hogun, ccb, Haemi Park
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanghwan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanghwan/)*

@@ -1,6 +1,6 @@
 # AiMii
 
-AiMii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at nachbar, Amsterdam on Wed, 2 Sept 2026.
+AiMii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at nachbar, Amsterdam on Wed, 2 Sept 2026.
 
 AiMii is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam and Tokyo. Often billed alongside YOSHI KANOU, WAKA XINXI and Alex Ormond. Next up: nachbar, Amsterdam on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ AiMii is a techno and house artist tracked on soundcheck, with 70 sets logged ac
 
 YOSHI KANOU, WAKA XINXI, Alex Ormond
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*

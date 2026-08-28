@@ -1,6 +1,6 @@
 # Panke Social
 
-Panke Social is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "RIDE THE UNDERGROUND: Dj Ladies Night" on Sat, 29 Aug 2026.
+Panke Social is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "RIDE THE UNDERGROUND: Dj Ladies Night" on Sat, 29 Aug 2026.
 
 Panke Social is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 16 Exchange street, Sheffield, S25TR.
 
@@ -15,4 +15,4 @@ Panke Social is a music venue in Sheffield listed on soundcheck. 2 upcoming nigh
 
 16 Exchange street, Sheffield, S25TR, Sheffield
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*

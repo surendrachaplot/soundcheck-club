@@ -1,6 +1,6 @@
 # HYPERDR!VE: VERSION 1.0 at Sinners and Saints
 
-HYPERDR!VE: VERSION 1.0 at Sinners and Saints on Sat 12 Sept, Washingtondc. 3 acts on the bill: IDKRYAN, Trinity Forever and znorthy. Preview the line-up and save it on soundcheck.
+HYPERDR!VE: VERSION 1.0 at Sinners and Saints on Sat 12 Sept, Washingtondc. 3 acts on the bill: IDKRYAN, Trinity Forever and znorthy. Techno and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

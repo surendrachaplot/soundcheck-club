@@ -1,6 +1,6 @@
 # Essex
 
-Essex is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Piękny Pies, Krakow on Fri, 28 Aug 2026.
+Essex is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Piękny Pies, Krakow on Fri, 28 Aug 2026.
 
 Essex is an afro house and house artist tracked on soundcheck, with 6 sets logged across Krakow, London, Seattle and Warsaw. Often billed alongside 550am, Antonio Pascal and Arkyn. Next up: Piękny Pies, Krakow on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Essex is an afro house and house artist tracked on soundcheck, with 6 sets logge
 
 550am, Antonio Pascal, Arkyn
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essex/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/essex/)*

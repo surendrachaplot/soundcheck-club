@@ -1,6 +1,6 @@
 # Miss Maddie
 
-Miss Maddie is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Launderette Records, Philadelphia on Sat, 29 Aug 2026.
+Miss Maddie is a Funk / Soul and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Launderette Records, Philadelphia on Sat, 29 Aug 2026.
 
 Miss Maddie is a funk / soul and disco artist tracked on soundcheck, with 5 sets logged across Philadelphia. Often billed alongside Comrade Cota, Particle Ray and Vicenta. Next up: Launderette Records, Philadelphia on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Miss Maddie is a funk / soul and disco artist tracked on soundcheck, with 5 sets
 
 Comrade Cota, Particle Ray, Vicenta
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missmaddie/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missmaddie/)*

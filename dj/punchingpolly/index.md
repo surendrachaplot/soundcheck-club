@@ -1,6 +1,6 @@
 # Punching Polly
 
-Punching Polly is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Punching Polly is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Punching Polly is a techno and downtempo artist tracked on soundcheck, with 23 sets logged across Berlin and Hamburg. Often billed alongside Barabass, Boskopp and Mwaah. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Punching Polly is a techno and downtempo artist tracked on soundcheck, with 23 s
 
 Barabass, Boskopp, Mwaah
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punchingpolly/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/punchingpolly/)*

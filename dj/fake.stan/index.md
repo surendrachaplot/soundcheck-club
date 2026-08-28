@@ -1,6 +1,6 @@
 # fake.stan
 
-fake.stan is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
+fake.stan is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
 
 fake.stan is a trance and techno artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Lilflower and hans bas. Next up: Jade, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ fake.stan is a trance and techno artist tracked on soundcheck, with 12 sets logg
 
 ASTER (DJ), Lilflower, hans bas
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fake.stan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fake.stan/)*

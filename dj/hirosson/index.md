@@ -1,18 +1,18 @@
 # Hirosson
 
-Hirosson is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at 88block, Tokyo on Thu, 27 Aug 2026.
+Hirosson is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 88block, Tokyo on Sat, 29 Aug 2026.
 
-Hirosson is a hip-hop and techno artist tracked on soundcheck, with 33 sets logged across Tokyo. Often billed alongside Blabla, FUJI TRILL and Jellyf!sh. Next up: 88block, Tokyo on Thu 27 Aug.
+Hirosson is a hip-hop and techno artist tracked on soundcheck, with 33 sets logged across Tokyo. Often billed alongside Blabla, FUJI TRILL and Jellyf!sh. Next up: 88block, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | 88block | Tokyo |
 | Sat, 29 Aug 2026 | 88block | Tokyo |
 
 ## Recently played
 
+- 88block, Tokyo — Thu, 27 Aug 2026
 - clubasia, Tokyo — Wed, 12 Aug 2026
 - clubasia, Tokyo — Wed, 29 Jul 2026
 - clubasia, Tokyo — Wed, 1 Jul 2026
@@ -20,10 +20,9 @@ Hirosson is a hip-hop and techno artist tracked on soundcheck, with 33 sets logg
 - 88block, Tokyo — Sat, 13 Jun 2026
 - clubasia, Tokyo — Wed, 3 Jun 2026
 - Heavy Sick Zero, Tokyo — Sat, 30 May 2026
-- Oath, Tokyo — Tue, 12 May 2026
 
 ## Shares bills with
 
 Blabla, FUJI TRILL, Jellyf!sh
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirosson/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirosson/)*

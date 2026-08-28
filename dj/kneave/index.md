@@ -1,6 +1,6 @@
 # Kneave
 
-Kneave is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Stereo, Glasgow on Thu, 17 Sept 2026.
+Kneave is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Stereo, Glasgow on Thu, 17 Sept 2026.
 
 Kneave is an electro and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Dundee, Glasgow and London. Often billed alongside BLEEN, Inertia (uk) and Babyccino. Next up: Stereo, Glasgow on Thu 17 Sept.
 
@@ -22,4 +22,4 @@ Kneave is an electro and house artist based in United Kingdom, tracked on soundc
 
 BLEEN, Inertia (uk), Babyccino
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kneave/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kneave/)*

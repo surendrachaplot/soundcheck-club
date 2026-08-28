@@ -1,6 +1,6 @@
 # alecks
 
-alecks is a Garage and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
+alecks is a Garage and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Vancouver on Fri, 28 Aug 2026.
 
 alecks is a garage and electronica artist tracked on soundcheck, with 17 sets logged across Newyorkcity, Toronto and Vancouver. Often billed alongside DJ Koreatown, esme2k and scoodt. Next up: TBA, Vancouver on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ alecks is a garage and electronica artist tracked on soundcheck, with 17 sets lo
 
 DJ Koreatown, esme2k, scoodt
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecks/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecks/)*

@@ -1,6 +1,6 @@
 # T.K (KR)
 
-T.K (KR) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Rosso, Seoul on Fri, 28 Aug 2026.
+T.K (KR) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Rosso, Seoul on Fri, 28 Aug 2026.
 
 T.K (KR) is a club and house artist based in South Korea, tracked on soundcheck, with 34 sets logged across Seoul. Often billed alongside DJ Co.kr, Hyejin and KIKOH. Next up: Rosso, Seoul on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ T.K (KR) is a club and house artist based in South Korea, tracked on soundcheck,
 
 DJ Co.kr, Hyejin, KIKOH
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*

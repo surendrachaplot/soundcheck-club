@@ -1,6 +1,6 @@
 # KEUT
 
-KEUT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat, 29 Aug 2026.
+KEUT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat, 29 Aug 2026.
 
 KEUT is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Losangeles, Montreal and Nantes and 1 more. Often billed alongside GOTIS, Gabbor and Lastvuska. Next up: TBA - 92390 Villeneuve-la-Garenne, France, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ KEUT is a techno and house artist tracked on soundcheck, with 35 sets logged acr
 
 GOTIS, Gabbor, Lastvuska
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keut/)*

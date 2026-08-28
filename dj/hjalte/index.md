@@ -1,18 +1,18 @@
 # Hjalte
 
-Hjalte is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Romantica, Stuttgart on Thu, 27 Aug 2026.
+Hjalte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
 
-Hjalte is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Stuttgart. Often billed alongside Stereo Visions, Anica and Loodas. Next up: Romantica, Stuttgart on Thu 27 Aug.
+Hjalte is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Stuttgart. Often billed alongside Stereo Visions, Anica and Loodas. Next up: Sunny High, Stuttgart on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Romantica | Stuttgart |
 | Sat, 12 Sept 2026 | Sunny High | Stuttgart |
 
 ## Recently played
 
+- Romantica, Stuttgart — Thu, 27 Aug 2026
 - TBA - Flora und Fauna | Am Schwanenplatz 10, 70190 Stuttgart |, Stuttgart — Sat, 25 Jul 2026
 - Romantica, Stuttgart — Tue, 14 Jul 2026
 - Romantica, Stuttgart — Tue, 16 Jun 2026
@@ -20,10 +20,9 @@ Hjalte is a techno and house artist based in Germany, tracked on soundcheck, wit
 - Romantica, Stuttgart — Tue, 28 Apr 2026
 - Romantica, Stuttgart — Tue, 24 Mar 2026
 - Romantica, Stuttgart — Tue, 24 Feb 2026
-- TBA - Kulturbunker Stuttgart, Stuttgart — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Stereo Visions, Anica, Loodas
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hjalte/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hjalte/)*

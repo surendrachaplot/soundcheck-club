@@ -1,6 +1,6 @@
 # Yohji Igarashi
 
-Yohji Igarashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
+Yohji Igarashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at WOMB, Tokyo on Tue, 22 Sept 2026.
 
 Yohji Igarashi is a techno and house artist tracked on soundcheck, with 63 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ecec, JUN INAGAWA and Licaxxx. Next up: WOMB, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Yohji Igarashi is a techno and house artist tracked on soundcheck, with 63 sets 
 
 ecec, JUN INAGAWA, Licaxxx
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohjiigarashi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yohjiigarashi/)*

@@ -1,14 +1,13 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Unbound Earth" on Thu, 27 Aug 2026.
+Avalon Cafe Bermondsey is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Shimmer 008 - Affinities Edition" on Fri, 28 Aug 2026.
 
-Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Elle Akosua, Junior Buzz, Memory Palace and Rhi Spect and 2 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
+Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Junior Buzz, Memory Palace, Rhi Spect and Small Car NRG and 1 more. Browse upcoming dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Unbound Earth | Elle Akosua |
 | Fri, 28 Aug 2026 | Shimmer 008 - Affinities Edition |  |
 | Sat, 29 Aug 2026 | RALLY x Avalon Cafe: YHWH Nailgun presents | YHWH Nailgun |
 | Sat, 12 Sept 2026 | Small Car NRG | Memory Palace, Small Car NRG |
@@ -19,4 +18,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

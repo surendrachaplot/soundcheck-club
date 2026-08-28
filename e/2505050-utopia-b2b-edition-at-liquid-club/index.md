@@ -1,6 +1,6 @@
 # UTOPIA - B2B EDITION at Liquid Club
 
-UTOPIA - B2B EDITION at Liquid Club on Sat 5 Sept, Malta. 5 acts on the bill: chouhal, Dicentra, Idealist (2) and Naomi Baldacchino and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+UTOPIA - B2B EDITION at Liquid Club on Sat 5 Sept, Malta. 6 acts on the bill: chouhal, Dicentra, Idealist (2) and Naomi Baldacchino and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ UTOPIA - B2B EDITION at Liquid Club on Sat 5 Sept, Malta. 5 acts on the bill: ch
 - Dicentra
 - Idealist (2)
 - Naomi Baldacchino
+- SPEEDQUEEN (PL)
 - Tntna
 
 *Source: [soundcheck](https://soundcheck.club/e/2505050-utopia-b2b-edition-at-liquid-club/)*

@@ -1,6 +1,6 @@
 # Medlock
 
-Medlock is a Ambient and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Medlock is a Ambient and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Medlock is an ambient and trance artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London, Manchester and Milan. Often billed alongside colell, HØLEIGH and KD22LR. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Medlock is an ambient and trance artist based in United Kingdom, tracked on soun
 
 colell, HØLEIGH, KD22LR
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medlock/)*

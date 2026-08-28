@@ -1,8 +1,8 @@
 # Facta
 
-Facta is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
+Facta is a Bass and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Jama, Toronto on Fri, 28 Aug 2026.
 
-Facta is a bass and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Berlin and Bristol and 13 more. Often billed alongside K-LONE, Yushh and EMA (1). Next up: The Jama, Toronto on Fri 28 Aug.
+Facta is a bass and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Berlin and Bristol and 13 more. Often billed alongside K-LONE, Yushh and EMA (1). Next up: The Jama, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Facta is a bass and house artist tracked on soundcheck, with 53 sets logged acro
 | Fri, 28 Aug 2026 | The Jama | Toronto |
 | Sat, 29 Aug 2026 | MTELUS | Montreal |
 | Sat, 19 Sept 2026 | Gaffe | London |
+| Fri, 16 Oct 2026 | Soup | Manchester |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Facta is a bass and house artist tracked on soundcheck, with 53 sets logged acro
 
 K-LONE, Yushh, EMA (1)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*

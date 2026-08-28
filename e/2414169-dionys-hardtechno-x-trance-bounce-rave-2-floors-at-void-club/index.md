@@ -1,6 +1,6 @@
 # Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) at Void Club
 
-Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) at Void Club on Fri 11 Sept, Berlin. 3 acts on the bill: Brizze, DaSoMaZo and GM1 (IT). Techno. Preview the line-up and save it on soundcheck.
+Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) at Void Club on Fri 11 Sept, Berlin. 4 acts on the bill: Brizze, DaSoMaZo, GM1 (IT) and Wieko. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Dionys: Hardtechno x Trance/Bounce Rave(2 Floors) at Void Club on Fri 11 Sept, B
 - Brizze
 - DaSoMaZo
 - GM1 (IT)
+- Wieko
 
 *Source: [soundcheck](https://soundcheck.club/e/2414169-dionys-hardtechno-x-trance-bounce-rave-2-floors-at-void-club/)*

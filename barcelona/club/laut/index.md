@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Aura Nox + C.MØ + Omvra" on Fri, 28 Aug 2026.
+LAUT is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Aura Nox + C.MØ + Omvra" on Fri, 28 Aug 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Aleja Sanchez, Armela, Aura Nox and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, wit
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

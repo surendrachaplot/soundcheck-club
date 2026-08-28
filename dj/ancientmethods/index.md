@@ -1,6 +1,6 @@
 # Ancient Methods
 
-Ancient Methods is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Astron Club, Athens on Fri, 4 Sept 2026.
+Ancient Methods is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Astron Club, Athens on Fri, 4 Sept 2026.
 
 Ancient Methods is a techno and industrial artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside OTHR, 00rt and Phase Fatale. Next up: Astron Club, Athens on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Ancient Methods is a techno and industrial artist tracked on soundcheck, with 11
 
 OTHR, 00rt, Phase Fatale
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ancientmethods/)*

@@ -1,6 +1,6 @@
 # Kasper Bjorke
 
-Kasper Bjorke is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Byhaven, Copenhagen on Sun, 30 Aug 2026.
+Kasper Bjorke is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Byhaven, Copenhagen on Sun, 30 Aug 2026.
 
 Kasper Bjorke is a house artist tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, Hamburg and Munich and 1 more. Often billed alongside Prom Night, Hazy Pockets and Ida Daugaard. Next up: Byhaven, Copenhagen on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Kasper Bjorke is a house artist tracked on soundcheck, with 19 sets logged acros
 
 Prom Night, Hazy Pockets, Ida Daugaard
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperbjorke/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasperbjorke/)*

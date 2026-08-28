@@ -1,6 +1,6 @@
 # Markoni
 
-Markoni is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 30 Aug 2026.
+Markoni is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 30 Aug 2026.
 
 Markoni is a techno and electro artist tracked on soundcheck, with 9 sets logged across Belgrade. Often billed alongside BrüneX, ANSHI and cmic.akk. Next up: Para Klub Beograd, Belgrade on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Markoni is a techno and electro artist tracked on soundcheck, with 9 sets logged
 
 BrüneX, ANSHI, cmic.akk
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markoni/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markoni/)*

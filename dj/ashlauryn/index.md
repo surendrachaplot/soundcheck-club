@@ -1,14 +1,15 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mess Hall, Washington DC on Sun, 20 Sept 2026.
+Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mess Hall, Washington DC on Sun, 20 Sept 2026.
 
-Ash Lauryn is a house and techno artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Mess Hall, Washingtondc on Sun 20 Sept.
+Ash Lauryn is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Mess Hall, Washingtondc on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Mess Hall | Washington DC |
+| Sat, 26 Sept 2026 | TBA - Near Villeray | Montreal |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
@@ -28,4 +29,4 @@ Ash Lauryn is a house and techno artist tracked on soundcheck, with 123 sets log
 
 The AM/AMX, JADALAREIGN, Ben UFO
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

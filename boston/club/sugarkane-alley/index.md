@@ -1,13 +1,13 @@
 # Sugarkane Alley
 
-Sugarkane Alley is a music venue in Boston with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "HeatWave Disco" on Sat, 29 Aug 2026.
+Sugarkane Alley is a music venue in Boston with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "HeatWave Disco" on Sat, 29 Aug 2026.
 
-Sugarkane Alley is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including BLXSS and brazen. Browse upcoming dates, start times and who's playing.
+Sugarkane Alley is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including BLXSS, brazen and Christinathesaintt. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | HeatWave Disco | BLXSS, brazen |
+| Sat, 29 Aug 2026 | HeatWave Disco | BLXSS, Christinathesaintt, brazen |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/sugarkane-alley/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/sugarkane-alley/)*

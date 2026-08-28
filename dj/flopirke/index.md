@@ -1,6 +1,6 @@
 # Flo Pirke
 
-Flo Pirke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Flo Pirke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Flo Pirke is a house and techno artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin and Hamburg. Often billed alongside Coco, Bee Lincoln and Empro. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Flo Pirke is a house and techno artist tracked on soundcheck, with 29 sets logge
 
 Coco, Bee Lincoln, Empro
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*

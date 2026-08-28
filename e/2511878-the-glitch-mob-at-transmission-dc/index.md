@@ -1,6 +1,6 @@
 # The Glitch Mob at TRANSMISSION DC
 
-The Glitch Mob at TRANSMISSION DC on Sat 5 Sept, Washingtondc. 3 acts on the bill: Djoser, Pouty's Rage and The Glitch Mob. Breakbeat. Preview the line-up and save it on soundcheck.
+The Glitch Mob at TRANSMISSION DC on Sat 5 Sept, Washingtondc. 4 acts on the bill: Djoser, j:drive, Pouty's Rage and The Glitch Mob. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ The Glitch Mob at TRANSMISSION DC on Sat 5 Sept, Washingtondc. 3 acts on the bil
 ## Line-up
 
 - Djoser
+- j:drive
 - Pouty's Rage
 - The Glitch Mob
 

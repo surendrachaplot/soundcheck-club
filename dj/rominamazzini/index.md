@@ -1,6 +1,6 @@
 # Romina Mazzini
 
-Romina Mazzini is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Baalsaal, Hamburg on Fri, 28 Aug 2026.
+Romina Mazzini is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Baalsaal, Hamburg on Fri, 28 Aug 2026.
 
 Romina Mazzini is a techno and trance artist tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Alex Volta, Aliha and Benja Asima. Next up: Baalsaal, Hamburg on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Romina Mazzini is a techno and trance artist tracked on soundcheck, with 6 sets 
 
 Alex Volta, Aliha, Benja Asima
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rominamazzini/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rominamazzini/)*

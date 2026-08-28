@@ -1,6 +1,6 @@
 # RESURRECTION × GRIDMOTH at Korpuss
 
-RESURRECTION × GRIDMOTH at Korpuss on Fri 4 Sept, Riga. 11 acts on the bill: ANNDRA, DEP (LV), DEX.NØ and DV8 (LV) and 7 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+RESURRECTION × GRIDMOTH at Korpuss on Fri 4 Sept, Riga. 12 acts on the bill: ANASI, ANNDRA, DEP (LV) and DEX.NØ and 8 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ RESURRECTION × GRIDMOTH at Korpuss on Fri 4 Sept, Riga. 11 acts on the bill: AN
 
 ## Line-up
 
+- ANASI
 - ANNDRA
 - DEP (LV)
 - DEX.NØ

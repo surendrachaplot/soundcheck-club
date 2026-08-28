@@ -1,6 +1,6 @@
 # frantzMichael
 
-frantzMichael is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Die Rakete, Nürnberg on Sat, 12 Sept 2026.
+frantzMichael is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Die Rakete, Nürnberg on Sat, 12 Sept 2026.
 
 frantzMichael is a techno and dub techno artist tracked on soundcheck, with 5 sets logged across Nurnberg. Often billed alongside ANNĒ, Dominik Fröhlich and Fiedel. Next up: Die Rakete, Nurnberg on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ frantzMichael is a techno and dub techno artist tracked on soundcheck, with 5 se
 
 ANNĒ, Dominik Fröhlich, Fiedel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frantzmichael/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frantzmichael/)*

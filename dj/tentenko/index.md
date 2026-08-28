@@ -1,6 +1,6 @@
 # TENTENKO
 
-TENTENKO is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kagurane, Tokyo on Sat, 29 Aug 2026.
+TENTENKO is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kagurane, Tokyo on Sat, 29 Aug 2026.
 
 TENTENKO is an experimental and electronica artist based in Japan, tracked on soundcheck, with 19 sets logged across Tokyo. Often billed alongside YUKO ARAKI, 1TA (1) and COGEE. Next up: Kagurane, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ TENTENKO is an experimental and electronica artist based in Japan, tracked on so
 
 YUKO ARAKI, 1TA (1), COGEE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tentenko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tentenko/)*

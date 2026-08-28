@@ -1,6 +1,6 @@
 # Treble Gemini
 
-Treble Gemini is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Piccadilly Central, Manchester on Fri, 28 Aug 2026.
+Treble Gemini is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Piccadilly Central, Manchester on Fri, 28 Aug 2026.
 
 Treble Gemini is a house and disco artist tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside DJ Scissher, DJ Klitbait and Kate Meyher. Next up: Piccadilly Central, Manchester on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Treble Gemini is a house and disco artist tracked on soundcheck, with 7 sets log
 
 DJ Scissher, DJ Klitbait, Kate Meyher
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treblegemini/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treblegemini/)*

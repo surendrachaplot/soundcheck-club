@@ -1,6 +1,6 @@
 # lego
 
-lego is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Navy Pier, Chicago on Sat, 29 Aug 2026.
+lego is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Navy Pier, Chicago on Sat, 29 Aug 2026.
 
 lego is a house and deep house artist based in Sweden, tracked on soundcheck, with 18 sets logged across Bangkok, Berlin, Chicago and Porto and 2 more. Often billed alongside Adorio, Brett Rästas and Franz Jäger. Next up: Navy Pier, Chicago on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ lego is a house and deep house artist based in Sweden, tracked on soundcheck, wi
 
 Adorio, Brett Rästas, Franz Jäger
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lego-se/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lego-se/)*

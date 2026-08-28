@@ -1,6 +1,6 @@
 # BC Rydah
 
-BC Rydah is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 11 Sept 2026.
+BC Rydah is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - DTLA, Los Angeles on Fri, 11 Sept 2026.
 
 BC Rydah is a jungle and drum & bass artist tracked on soundcheck, with 24 sets logged across Boston, Losangeles, Newyorkcity and Sandiego and 1 more. Often billed alongside Drowncast, M27 (1) and SOBA. Next up: TBA - DTLA, Losangeles on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BC Rydah is a jungle and drum & bass artist tracked on soundcheck, with 24 sets 
 
 Drowncast, M27 (1), SOBA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bcrydah/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bcrydah/)*

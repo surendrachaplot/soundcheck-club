@@ -1,14 +1,15 @@
 # Lila Gold (2)
 
-Lila Gold (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Grelle Forelle, Vienna on Fri, 4 Sept 2026.
+Lila Gold (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Grelle Forelle, Vienna on Fri, 4 Sept 2026.
 
-Lila Gold (2) is a trance and techno artist based in Austria, tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside Aleta, ASCHENBRENNER and Der Werther. Next up: Grelle Forelle, Vienna on Fri 4 Sept.
+Lila Gold (2) is a trance and techno artist based in Austria, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Aleta, ASCHENBRENNER and Der Werther. Next up: Grelle Forelle, Vienna on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Grelle Forelle | Vienna |
+| Sat, 3 Oct 2026 | Wild im West | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lila Gold (2) is a trance and techno artist based in Austria, tracked on soundch
 
 Aleta, ASCHENBRENNER, Der Werther
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilagold-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilagold-2/)*

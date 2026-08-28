@@ -1,8 +1,8 @@
 # KAVARI
 
-KAVARI is a Techno and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
+KAVARI is a Experimental and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
 
-KAVARI is a techno and experimental artist tracked on soundcheck, with 101 sets logged across Amsterdam, Auckland, Austin and Barcelona and 31 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: The Pearl, Vancouver on Sat 12 Sept.
+KAVARI is an experimental and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Auckland, Austin and Barcelona and 31 more. Often billed alongside Blood of Aza, KLAUDIO and Mvcoko. Next up: The Pearl, Vancouver on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ KAVARI is a techno and experimental artist tracked on soundcheck, with 101 sets 
 | Sat, 3 Oct 2026 | Tunelowa | Warsaw |
 | Thu, 8 Oct 2026 | Hotel Forum | Krakow |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ KAVARI is a techno and experimental artist tracked on soundcheck, with 101 sets 
 
 Blood of Aza, KLAUDIO, Mvcoko
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

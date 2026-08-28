@@ -1,6 +1,6 @@
 # Miles X
 
-Miles X is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
+Miles X is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jonny Knüppel, Berlin on Fri, 28 Aug 2026.
 
 Miles X is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Brussels, London and Philadelphia and 1 more. Often billed alongside ARTEMIX, De León and JFK (USA). Next up: Jonny Knüppel, Berlin on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Miles X is a techno and house artist based in United States of America, tracked 
 
 ARTEMIX, De León, JFK (USA)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesx/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milesx/)*

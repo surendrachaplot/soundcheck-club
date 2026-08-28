@@ -1,6 +1,6 @@
 # FEELX
 
-FEELX is a Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 29 Aug 2026.
+FEELX is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Otto Wagner Areal, Vienna on Sat, 29 Aug 2026.
 
 FEELX is an experimental artist tracked on soundcheck, with 8 sets logged across Berlin, Munich and Vienna. Often billed alongside S.verin, Andrea Ida and Bambalan. Next up: Otto Wagner Areal, Vienna on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ FEELX is an experimental artist tracked on soundcheck, with 8 sets logged across
 
 S.verin, Andrea Ida, Bambalan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feelx-de/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feelx-de/)*

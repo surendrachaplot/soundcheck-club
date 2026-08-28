@@ -1,6 +1,6 @@
 # RAVL
 
-RAVL is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Magical Forest in Ovar, Porto on Fri, 28 Aug 2026.
+RAVL is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Magical Forest in Ovar, Porto on Fri, 28 Aug 2026.
 
 RAVL is a techno and bass artist based in France, tracked on soundcheck, with 20 sets logged across Lisbon, Lyon, Marseille and Paris and 2 more. Often billed alongside 42L (1), Mila Necchella and CABALE. Next up: TBA - Magical Forest in Ovar, Porto on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ RAVL is a techno and bass artist based in France, tracked on soundcheck, with 20
 
 42L (1), Mila Necchella, CABALE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravl/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ravl/)*

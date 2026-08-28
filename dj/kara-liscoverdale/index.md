@@ -1,6 +1,6 @@
 # Kara-Lis Coverdale
 
-Kara-Lis Coverdale is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Kara-Lis Coverdale is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Kara-Lis Coverdale is an experimental and techno artist based in Canada, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside A Guy Called Gerald, Assyouti and Barker. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -9,12 +9,12 @@ Kara-Lis Coverdale is an experimental and techno artist based in Canada, tracked
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
-| Thu, 27 Aug 2026 | Maison Symphonique de Montréal | Montreal |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
 
 ## Recently played
 
+- Maison Symphonique de Montréal, Montreal — Thu, 27 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Orgelpark, Amsterdam — Fri, 29 May 2026
 - Gray Area, San Francisco/Oakland — Thu, 26 Mar 2026
@@ -22,10 +22,9 @@ Kara-Lis Coverdale is an experimental and techno artist based in Canada, tracked
 - Haus der Kunst, Munich — Sat, 31 Jan 2026
 - Radialsystem, Berlin — Tue, 27 Jan 2026
 - TBA - various venues , Berlin — Fri, 23 Jan 2026
-- TBA, Sao Paulo — Mon, 8 Dec 2025
 
 ## Shares bills with
 
 A Guy Called Gerald, Assyouti, Barker
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*

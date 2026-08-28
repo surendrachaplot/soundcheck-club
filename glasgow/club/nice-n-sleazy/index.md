@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Ozone²" on Sat, 29 Aug 2026.
+Nice N Sleazy is a music venue in Glasgow with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Ozone²" on Sat, 29 Aug 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nights, with line-ups including EL PADRE, Flava J, Gabor Matty and Jay Cluss and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 11 upcoming nights, with line-ups including Angel Negrin, EL PADRE, Flava J and Gabor Matty and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming nigh
 | Fri, 18 Sept 2026 | Queer Theory: Garden of Eden | Flava J, Gabor Matty |
 | Sun, 20 Sept 2026 | Life Imitates Art: Live in Glasgow with DJ Lucas, Papo2oo4, Subjxct 5 |  |
 | Mon, 21 Sept 2026 | Possibly Jamie: Did It All For You |  |
-| Sat, 24 Oct 2026 | Dark Protocol W ona:v / Residents | ona:v |
-| Thu, 5 Nov 2026 | Mono Culture Fundraiser Party |  |
+| Sat, 10 Oct 2026 | Finesse: Ángel Negrín | Angel Negrin, ITEM9, SunēX, TiLA |
+| Sat, 24 Oct 2026 | Dark Protocol W ona:v /  Residents | ona:v |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

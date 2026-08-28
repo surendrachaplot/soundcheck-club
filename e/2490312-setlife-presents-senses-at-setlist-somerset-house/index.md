@@ -1,6 +1,6 @@
 # SETLIFE presents SENSES at Setlist @ Somerset House
 
-SETLIFE presents SENSES at Setlist @ Somerset House on Sat 12 Sept, London. Experimental and Afrobeats. Preview the line-up and save it on soundcheck.
+SETLIFE presents SENSES at Setlist @ Somerset House on Sat 12 Sept, London. Dancehall and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

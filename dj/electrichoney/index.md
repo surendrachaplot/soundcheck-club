@@ -1,6 +1,6 @@
 # Electric Honey
 
-Electric Honey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ground Floor, Philadelphia on Fri, 28 Aug 2026.
+Electric Honey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ground Floor, Philadelphia on Fri, 28 Aug 2026.
 
 Electric Honey is a house and tech house artist tracked on soundcheck, with 19 sets logged across Newyorkcity and Philadelphia. Often billed alongside Blanco Rabbit, Anne Fahn and Oscar N (US). Next up: Ground Floor, Philadelphia on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Electric Honey is a house and tech house artist tracked on soundcheck, with 19 s
 
 Blanco Rabbit, Anne Fahn, Oscar N (US)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electrichoney/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/electrichoney/)*

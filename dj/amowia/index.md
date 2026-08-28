@@ -1,6 +1,6 @@
 # Amowia
 
-Amowia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Georgia Bar, Berlin on Sat, 29 Aug 2026.
+Amowia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Georgia Bar, Berlin on Sat, 29 Aug 2026.
 
 Amowia is a house and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside LIL RISK, Hanaby and Kikelomo. Next up: Georgia Bar, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Amowia is a house and techno artist tracked on soundcheck, with 23 sets logged a
 
 LIL RISK, Hanaby, Kikelomo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amowia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amowia/)*

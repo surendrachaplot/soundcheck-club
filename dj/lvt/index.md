@@ -1,6 +1,6 @@
 # LVT
 
-LVT is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Gorg-O-Mish, Vancouver on Sun, 30 Aug 2026.
+LVT is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Gorg-O-Mish, Vancouver on Sun, 30 Aug 2026.
 
 LVT is a techno and acid artist tracked on soundcheck, with 21 sets logged across Portland and Vancouver. Often billed alongside 2flowers, DJ Hockey and Syd Woz. Next up: Gorg-O-Mish, Vancouver on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ LVT is a techno and acid artist tracked on soundcheck, with 21 sets logged acros
 
 2flowers, DJ Hockey, Syd Woz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lvt/)*

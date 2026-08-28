@@ -1,6 +1,6 @@
 # Sevyn 0000
 
-Sevyn 0000 is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, New York City on Fri, 4 Sept 2026.
+Sevyn 0000 is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, New York City on Fri, 4 Sept 2026.
 
 Sevyn 0000 is a techno and club artist based in United States of America, tracked on soundcheck, with 95 sets logged across Barcelona, Berlin, Chicago and Detroit and 6 more. Often billed alongside Bapari, Memphy and MCMLXXXV. Next up: TBA, Newyorkcity on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Sevyn 0000 is a techno and club artist based in United States of America, tracke
 
 Bapari, Memphy, MCMLXXXV
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn-0000/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevyn-0000/)*

@@ -1,6 +1,6 @@
 # The Outhouse
 
-The Outhouse is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Disco Tapas X Hector ('Duvet Vous'?) Edinburgh Fringe Edition" on Sat, 29 Aug 2026.
+The Outhouse is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Disco Tapas X Hector ('Duvet Vous'?) Edinburgh Fringe Edition" on Sat, 29 Aug 2026.
 
 The Outhouse is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including Jedda and Macaulay Sulkin. Browse upcoming dates, start times and who's playing. 12a Broughton Street Lane, Edinburgh, Midlothian EH1 3LY.
 
@@ -15,4 +15,4 @@ The Outhouse is a music venue in Edinburgh listed on soundcheck. 2 upcoming nigh
 
 12a Broughton Street Lane, Edinburgh, Midlothian EH1 3LY, Edinburgh
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-outhouse/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-outhouse/)*

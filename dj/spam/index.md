@@ -1,6 +1,6 @@
 # Spam
 
-Spam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 28 Aug 2026.
+Spam is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 28 Aug 2026.
 
 Spam is a house and minimal artist based in United States of America, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Losangeles and Miami and 4 more. Often billed alongside Mz3 (1), Heidi Lawden and Lonald J. Bandz. Next up: Club Frau Holle, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Spam is a house and minimal artist based in United States of America, tracked on
 
 Mz3 (1), Heidi Lawden, Lonald J. Bandz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spam/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spam/)*

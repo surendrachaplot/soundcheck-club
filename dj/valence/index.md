@@ -1,6 +1,6 @@
 # VALENCE
 
-VALENCE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Lulú Club, Palermo Soho, Buenos Aires on Sat, 29 Aug 2026.
+VALENCE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Lulú Club, Palermo Soho, Buenos Aires on Sat, 29 Aug 2026.
 
 VALENCE is a house and deep house artist tracked on soundcheck, with 26 sets logged across Buenosaires, Lyon and Miami. Often billed alongside Manu Oubiña, Miguel Silver and CHKLTE. Next up: TBA - Lulú Club, Palermo Soho, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ VALENCE is a house and deep house artist tracked on soundcheck, with 26 sets log
 
 Manu Oubiña, Miguel Silver, CHKLTE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valence/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valence/)*

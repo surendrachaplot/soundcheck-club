@@ -1,14 +1,13 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mondo, Madrid on Thu, 27 Aug 2026.
+Demi Riquisimo is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
-Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Mondo, Madrid on Thu 27 Aug.
+Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Mondo | Madrid |
 | Sat, 29 Aug 2026 | Konijnenwei | Antwerp |
 | Fri, 4 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 5 Sept 2026 | Culture Box | Copenhagen |
@@ -20,9 +19,11 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 | Fri, 23 Oct 2026 | Het Dorp | Amsterdam |
 | Thu, 29 Oct 2026 | Amber's | Manchester |
+| Sat, 31 Oct 2026 | fabric | London |
 
 ## Recently played
 
+- Mondo, Madrid — Thu, 27 Aug 2026
 - Cova Santa, Ibiza — Tue, 25 Aug 2026
 - Kater, Berlin — Fri, 21 Aug 2026
 - Chinois Ibiza, Ibiza — Tue, 18 Aug 2026
@@ -30,10 +31,9 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets
 - Studio Zürich, Zurich — Sat, 11 Jul 2026
 - Lux Fragil, Lisbon — Sat, 4 Jul 2026
 - Refuge, New York City — Fri, 3 Jul 2026
-- Thuishaven, Amsterdam — Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

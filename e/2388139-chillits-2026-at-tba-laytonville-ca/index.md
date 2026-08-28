@@ -1,6 +1,6 @@
 # Chillits 2026 at TBA - Laytonville, CA
 
-Chillits 2026 at TBA - Laytonville, CA on Fri 11 Sept, Sanfrancisco. 14 acts on the bill: agraybé, awryly, Bakh Inamov and Beyond the Black Hole and 10 more. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Chillits 2026 at TBA - Laytonville, CA on Fri 11 Sept, Sanfrancisco. 15 acts on the bill: agraybé, awryly, Bakh Inamov and Beyond the Black Hole and 11 more. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Chillits 2026 at TBA - Laytonville, CA on Fri 11 Sept, Sanfrancisco. 14 acts on 
 - awryly
 - Bakh Inamov
 - Beyond the Black Hole
+- Consciousness Lab
 - David Siska
 - DJ CZ
 - Give In

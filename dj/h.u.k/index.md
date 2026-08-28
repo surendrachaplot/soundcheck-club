@@ -1,6 +1,6 @@
 # H.U.K
 
-H.U.K is a Drum & Bass and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Void Club, Berlin on Sat, 29 Aug 2026.
+H.U.K is a Drum & Bass and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Void Club, Berlin on Sat, 29 Aug 2026.
 
 H.U.K is a drum & bass and psytrance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Upzet, IHOPEIEXIST and Lay.Dee Strange. Next up: Void Club, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ H.U.K is a drum & bass and psytrance artist based in Germany, tracked on soundch
 
 Upzet, IHOPEIEXIST, Lay.Dee Strange
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h.u.k/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/h.u.k/)*

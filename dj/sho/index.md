@@ -1,6 +1,6 @@
 # SHO
 
-SHO is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Decabar Super, Tokyo on Sat, 29 Aug 2026.
+SHO is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Decabar Super, Tokyo on Sat, 29 Aug 2026.
 
 SHO is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, with 51 sets logged across Amsterdam, Brighton, Dublin and Mexicocity and 1 more. Often billed alongside Steak, Fran Ortu and Mutron. Next up: Decabar Super, Tokyo on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ SHO is a drum & bass and jungle artist based in Ireland, tracked on soundcheck, 
 
 Steak, Fran Ortu, Mutron
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sho/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sho/)*

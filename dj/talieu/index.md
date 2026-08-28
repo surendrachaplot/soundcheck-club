@@ -1,6 +1,6 @@
 # Talieu
 
-Talieu is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 93 Feet East, London on Sat, 10 Oct 2026.
+Talieu is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 93 Feet East, London on Sat, 10 Oct 2026.
 
 Talieu is a house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Dan Cowan, Groves and Lewis Carroll. Next up: 93 Feet East, London on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Talieu is a house artist tracked on soundcheck, with 5 sets logged across London
 
 Dan Cowan, Groves, Lewis Carroll
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talieu/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/talieu/)*

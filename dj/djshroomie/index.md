@@ -1,6 +1,6 @@
 # DJ Shroomie
 
-DJ Shroomie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Airliner, Los Angeles on Fri, 28 Aug 2026.
+DJ Shroomie is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Airliner, Los Angeles on Fri, 28 Aug 2026.
 
 DJ Shroomie is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Losangeles, Sandiego and Sydney. Often billed alongside Beggar, Naomi Green and Ian Llorens. Next up: The Airliner, Losangeles on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ DJ Shroomie is a house and deep house artist based in United States of America, 
 
 Beggar, Naomi Green, Ian Llorens
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshroomie/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshroomie/)*

@@ -1,6 +1,6 @@
 # Juju Manju
 
-Juju Manju is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 18 Sept 2026.
+Juju Manju is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 18 Sept 2026.
 
 Juju Manju is a house and deep house artist tracked on soundcheck, with 25 sets logged across Bangkok, Lisbon and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Cavo Rooftop, Lisbon on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Juju Manju is a house and deep house artist tracked on soundcheck, with 25 sets 
 
 manju, Moulin.music, Fabich
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*

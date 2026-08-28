@@ -1,6 +1,6 @@
 # Sink Deep Vol.8 at West Harlem
 
-Sink Deep Vol.8 at West Harlem on Sat 5 Sept, Kyoto. 4 acts on the bill: D.J.Fulltono, Naco (2), reya (2) and ykah. Techno and Footwork. Preview the line-up and save it on soundcheck.
+Sink Deep Vol.8 at West Harlem on Sat 5 Sept, Kyoto. 5 acts on the bill: D.J.Fulltono, ilium, Naco (2) and reya (2) and 1 more. Techno and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Sink Deep Vol.8 at West Harlem on Sat 5 Sept, Kyoto. 4 acts on the bill: D.J.Ful
 ## Line-up
 
 - D.J.Fulltono
+- ilium
 - Naco (2)
 - reya (2)
 - ykah

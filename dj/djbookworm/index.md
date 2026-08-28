@@ -1,6 +1,6 @@
 # DJ Bookworm
 
-DJ Bookworm is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
+DJ Bookworm is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
 
 DJ Bookworm is a house and progressive house artist tracked on soundcheck, with 11 sets logged across Boston and Newyorkcity. Often billed alongside FRANZIV, ViV:On and 1R.fm. Next up: The Lower Level, Boston on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Bookworm is a house and progressive house artist tracked on soundcheck, with 
 
 FRANZIV, ViV:On, 1R.fm
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbookworm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbookworm/)*

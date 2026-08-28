@@ -1,6 +1,6 @@
 # ZIGGY ZAYA
 
-ZIGGY ZAYA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - East Van, Vancouver on Sat, 29 Aug 2026.
+ZIGGY ZAYA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - East Van, Vancouver on Sat, 29 Aug 2026.
 
 ZIGGY ZAYA is a techno and house artist tracked on soundcheck, with 27 sets logged across Portland, Toronto and Vancouver. Often billed alongside Fisher Bryce, AVRY and PM. Next up: TBA - East Van, Vancouver on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ ZIGGY ZAYA is a techno and house artist tracked on soundcheck, with 27 sets logg
 
 Fisher Bryce, AVRY, PM
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyzaya/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyzaya/)*

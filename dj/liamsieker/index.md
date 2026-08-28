@@ -1,6 +1,6 @@
 # Liam Sieker
 
-Liam Sieker is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
+Liam Sieker is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
 
 Liam Sieker is a house and progressive house artist based in Australia, tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside Bby Cass, Bridget and Cookie (2). Next up: Howler, Melbourne on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Liam Sieker is a house and progressive house artist based in Australia, tracked 
 
 Bby Cass, Bridget, Cookie (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamsieker/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liamsieker/)*

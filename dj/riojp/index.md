@@ -1,6 +1,6 @@
 # Rio (JP)
 
-Rio (JP) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Azumaya, Tokyo on Thu, 10 Sept 2026.
+Rio (JP) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Azumaya, Tokyo on Thu, 10 Sept 2026.
 
 Rio (JP) is a bass and techno artist tracked on soundcheck, with 6 sets logged across Sydney and Tokyo. Often billed alongside AKARI, Bleach and CITY1. Next up: Azumaya, Tokyo on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ Rio (JP) is a bass and techno artist tracked on soundcheck, with 6 sets logged a
 
 AKARI, Bleach, CITY1
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riojp/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riojp/)*

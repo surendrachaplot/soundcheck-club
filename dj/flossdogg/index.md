@@ -1,6 +1,6 @@
 # Floss Dogg
 
-Floss Dogg is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Dr Morse, Melbourne on Sat, 29 Aug 2026.
+Floss Dogg is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Dr Morse, Melbourne on Sat, 29 Aug 2026.
 
 Floss Dogg is a house and techno artist tracked on soundcheck, with 31 sets logged across Melbourne. Often billed alongside DE SILVA, Dr. Condiments and Minimale Fatale. Next up: Dr Morse, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Floss Dogg is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 DE SILVA, Dr. Condiments, Minimale Fatale
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flossdogg/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flossdogg/)*

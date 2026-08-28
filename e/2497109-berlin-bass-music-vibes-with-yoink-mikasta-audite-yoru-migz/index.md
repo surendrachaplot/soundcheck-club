@@ -1,6 +1,6 @@
 # Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, Saint Popsy at Void Club
 
-Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, Saint Popsy at Void Club on Fri 28 Aug, Berlin. 13 acts on the bill: Anton Quasi, audite, Dub Isotope and EMBEE3 and 9 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, Saint Popsy at Void Club on Fri 28 Aug, Berlin. 14 acts on the bill: Anton Quasi, audite, Dub Isotope and EMBEE3 and 10 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Berlin Bass Music Vibes with YOINK, Mikasta, audite, Yoru, Migz, Jimi Handtrix, 
 - Dub Isotope
 - EMBEE3
 - Jimi Handtrix
+- Kenzura
 - Lay.Dee Strange
 - Migz
 - MixB

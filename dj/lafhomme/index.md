@@ -1,6 +1,6 @@
 # LaFHomme
 
-LaFHomme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mood Ring, New York City on Thu, 3 Sept 2026.
+LaFHomme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mood Ring, New York City on Thu, 3 Sept 2026.
 
 LaFHomme is a techno and house artist based in Canada, tracked on soundcheck, with 27 sets logged across Montreal and Newyorkcity. Often billed alongside Syana, h1bou and Ekitwanda. Next up: Mood Ring, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ LaFHomme is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 Syana, h1bou, Ekitwanda
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafhomme/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafhomme/)*

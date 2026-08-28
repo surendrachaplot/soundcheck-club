@@ -1,6 +1,6 @@
 # Ludvig Poll
 
-Ludvig Poll is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Baggen, Copenhagen on Fri, 28 Aug 2026.
+Ludvig Poll is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Baggen, Copenhagen on Fri, 28 Aug 2026.
 
 Ludvig Poll is a tech house and electro artist based in Denmark, tracked on soundcheck, with 24 sets logged across Copenhagen. Often billed alongside A.dixen, Marc Helt and Téa. Next up: Baggen, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Ludvig Poll is a tech house and electro artist based in Denmark, tracked on soun
 
 A.dixen, Marc Helt, Téa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludvigpoll/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludvigpoll/)*

@@ -1,6 +1,6 @@
 # SOULFUEL: Alex Nut (House, Disco, Soul, Brokenbeat) at Night Tales Loft
 
-SOULFUEL: Alex Nut (House, Disco, Soul, Brokenbeat) at Night Tales Loft on Sat 29 Aug, London. 1 act on the bill: Alexander Nut. Preview the line-up and save it on soundcheck.
+SOULFUEL: Alex Nut (House, Disco, Soul, Brokenbeat) at Night Tales Loft on Sat 29 Aug, London. 2 acts on the bill: Alexander Nut and Donut. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SOULFUEL: Alex Nut (House, Disco, Soul, Brokenbeat) at Night Tales Loft on Sat 2
 ## Line-up
 
 - Alexander Nut
+- Donut
 
 *Source: [soundcheck](https://soundcheck.club/e/2494400-soulfuel-alex-nut-house-disco-soul-brokenbeat-at-night-tales/)*

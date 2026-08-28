@@ -1,6 +1,6 @@
 # Triana
 
-Triana is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Giri, Berlin on Sat, 29 Aug 2026.
+Triana is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Giri, Berlin on Sat, 29 Aug 2026.
 
 Triana is a bass and electro artist based in Argentina, tracked on soundcheck, with 15 sets logged across Berlin and Hamburg. Often billed alongside Reinartz, BLUME and King Softy. Next up: Giri, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Triana is a bass and electro artist based in Argentina, tracked on soundcheck, w
 
 Reinartz, BLUME, King Softy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triana/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/triana/)*

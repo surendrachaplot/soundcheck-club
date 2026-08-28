@@ -1,6 +1,6 @@
 # Hiatus Kaiyote
 
-Hiatus Kaiyote is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Hiatus Kaiyote is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Hiatus Kaiyote is a house and club artist tracked on soundcheck, with 6 sets logged across Melbourne, Mexicocity, Paris and Sydney. Often billed alongside 1tbsp, Alex Rita and Antenna (2). Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Hiatus Kaiyote is a house and club artist tracked on soundcheck, with 6 sets log
 
 1tbsp, Alex Rita, Antenna (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiatuskaiyote/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiatuskaiyote/)*

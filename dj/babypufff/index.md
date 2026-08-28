@@ -1,6 +1,6 @@
 # Babypufff
 
-Babypufff is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Babypufff is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Babypufff is a bass and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity and Washingtondc. Often billed alongside Black Grealish, kabir. and Djoser. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Babypufff is a bass and club artist based in United States of America, tracked o
 
 Black Grealish, kabir., Djoser
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babypufff/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babypufff/)*

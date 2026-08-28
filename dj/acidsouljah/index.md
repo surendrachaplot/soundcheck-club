@@ -1,6 +1,6 @@
 # Acid Souljah
 
-Acid Souljah is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Rubix Warehouse & Tetris Studios, Melbourne on Fri, 4 Sept 2026.
+Acid Souljah is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Rubix Warehouse & Tetris Studios, Melbourne on Fri, 4 Sept 2026.
 
 Acid Souljah is a hip-hop and r&b artist tracked on soundcheck, with 17 sets logged across Barcelona, Berlin, London and Losangeles and 6 more. Often billed alongside Christ Dillinger, Warlord® and exmantera. Next up: Rubix Warehouse & Tetris Studios, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Acid Souljah is a hip-hop and r&b artist tracked on soundcheck, with 17 sets log
 
 Christ Dillinger, Warlord®, exmantera
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*

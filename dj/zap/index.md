@@ -1,6 +1,6 @@
 # Z@p
 
-Z@p is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - East Williamsburg, New York City on Fri, 4 Sept 2026.
+Z@p is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - East Williamsburg, New York City on Fri, 4 Sept 2026.
 
 Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: TBA - East Williamsburg, Newyorkcity on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Z@p is a techno and electro artist based in Uruguay, tracked on soundcheck, with
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

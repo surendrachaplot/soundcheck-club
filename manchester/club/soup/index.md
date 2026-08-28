@@ -1,14 +1,14 @@
 # Soup
 
-Soup is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "RUNWAY x nympha alt pride - Egg On Toast, Kuriboh, Lapalace, caonix, Girlfriend, Atiké, atalaya" on Fri, 28 Aug 2026.
+Soup is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "RUNWAY x nympha alt pride - Egg On Toast, Kuriboh, Lapalace, Qoqnut, SDJ + residents" on Fri, 28 Aug 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including ASIAN BRAT, atalaya, Atiké and Bugs Groove and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, atalaya and Atiké and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | RUNWAY x nympha alt pride - Egg On Toast, Kuriboh, Lapalace, caonix, Girlfriend, Atiké, atalaya | Atiké, Egg On Toast, Girlfriend, Kuriboh, Lapalace, atalaya, caonix |
+| Fri, 28 Aug 2026 | RUNWAY x nympha alt pride - Egg On Toast, Kuriboh, Lapalace, Qoqnut, SDJ + residents | Atiké, Egg On Toast, Girlfriend, Kuriboh, Lapalace, Qoqnut, SDJ (1), atalaya, caonix |
 | Mon, 7 Sept 2026 | Grey Lantern presents: Ak'chamel |  |
 | Fri, 18 Sept 2026 | No Boundaries presents: Coflo | Coflo, Danandout, Hen K, Marley Reid |
 | Sat, 19 Sept 2026 | Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove | Bugs Groove, JS Zeiter, Simo Cell |
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 10 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

@@ -1,6 +1,6 @@
 # SUNI SIDE UP
 
-SUNI SIDE UP is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
+SUNI SIDE UP is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at HWK Garden / Terrace, London on Sat, 29 Aug 2026.
 
 SUNI SIDE UP is a tech house and minimal artist based in Bulgaria, tracked on soundcheck, with 8 sets logged across Ibiza and London. Often billed alongside Inca Jones, Jo Cruz and CAMZ. Next up: HWK Garden / Terrace, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ SUNI SIDE UP is a tech house and minimal artist based in Bulgaria, tracked on so
 
 Inca Jones, Jo Cruz, CAMZ
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunisideup/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunisideup/)*

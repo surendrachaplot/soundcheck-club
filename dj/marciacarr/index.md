@@ -1,14 +1,15 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Patterns, Brighton on Fri, 28 Aug 2026.
+Marcia Carr is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Patterns, Brighton on Fri, 28 Aug 2026.
 
-Marcia Carr is a house and disco artist tracked on soundcheck, with 73 sets logged across Brighton, Bristol, Leeds and London and 2 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Patterns, Brighton on Fri 28 Aug.
+Marcia Carr is a house and disco artist tracked on soundcheck, with 74 sets logged across Brighton, Bristol, Leeds and London and 2 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Patterns, Brighton on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Patterns | Brighton |
+| Sat, 12 Sept 2026 | Last Arch | London |
 | Fri, 16 Oct 2026 | Night Tales Loft | London |
 | Sun, 1 Nov 2026 | Patterns | Brighton |
 
@@ -27,4 +28,4 @@ Marcia Carr is a house and disco artist tracked on soundcheck, with 73 sets logg
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

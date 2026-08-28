@@ -1,6 +1,6 @@
 # Reelow
 
-Reelow is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 528 Ibiza, Ibiza on Thu, 3 Sept 2026.
+Reelow is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 528 Ibiza, Ibiza on Thu, 3 Sept 2026.
 
 Reelow is a tech house and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Bali and Barcelona and 15 more. Often billed alongside ACA (YU), Sadkiel and Mene. Next up: 528 Ibiza, Ibiza on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Reelow is a tech house and house artist tracked on soundcheck, with 73 sets logg
 
 ACA (YU), Sadkiel, Mene
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reelow/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reelow/)*

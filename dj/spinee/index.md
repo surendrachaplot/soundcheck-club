@@ -1,6 +1,6 @@
 # SPINEE
 
-SPINEE is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
+SPINEE is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
 
 SPINEE is a club and hardcore artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Budapest and Leeds and 3 more. Often billed alongside DJ Fingerblast, Trancey Beaker and Peggy Viennetta. Next up: VooDoo Club, Warsaw on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ SPINEE is a club and hardcore artist based in United Kingdom, tracked on soundch
 
 DJ Fingerblast, Trancey Beaker, Peggy Viennetta
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spinee/)*

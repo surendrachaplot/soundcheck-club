@@ -1,14 +1,15 @@
 # Rytm
 
-Rytm is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Astoria, Turin on Fri, 11 Sept 2026.
+Rytm is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Astoria, Turin on Fri, 11 Sept 2026.
 
-Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 20 sets logged across Newyorkcity and Turin. Often billed alongside Aberra, Mike Esse and Teeo. Next up: Astoria, Turin on Fri 11 Sept.
+Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 21 sets logged across Newyorkcity and Turin. Often billed alongside Aberra, Mike Esse and Teeo. Next up: Astoria, Turin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Astoria | Turin |
+| Sat, 26 Sept 2026 | Azimut Club | Turin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rytm is a techno and house artist based in Italy, tracked on soundcheck, with 20
 
 Aberra, Mike Esse, Teeo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm/)*

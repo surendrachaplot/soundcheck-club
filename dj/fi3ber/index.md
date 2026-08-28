@@ -1,6 +1,6 @@
 # FI3BER
 
-FI3BER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+FI3BER is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 FI3BER is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Anne-Lu, LEAN MARIS and DJ Semisecco. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ FI3BER is a techno and trance artist tracked on soundcheck, with 11 sets logged 
 
 Anne-Lu, LEAN MARIS, DJ Semisecco
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fi3ber/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fi3ber/)*

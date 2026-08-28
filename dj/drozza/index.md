@@ -1,6 +1,6 @@
 # Drozza
 
-Drozza is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
+Drozza is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Dream Bags Jaguar Shoes, London on Sat, 29 Aug 2026.
 
 Drozza is a minimal and house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside QWAK, Stellarator and katamine. Next up: Dream Bags Jaguar Shoes, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Drozza is a minimal and house artist tracked on soundcheck, with 11 sets logged 
 
 QWAK, Stellarator, katamine
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drozza/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drozza/)*

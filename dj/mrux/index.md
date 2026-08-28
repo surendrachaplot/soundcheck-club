@@ -1,6 +1,6 @@
 # M.Rux
 
-M.Rux is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+M.Rux is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
 
 M.Rux is an electronica and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Hamburg and Zurich. Often billed alongside 2 Girls 1 Club, 69DB and AFAR. Next up: Südpol, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ M.Rux is an electronica and techno artist tracked on soundcheck, with 9 sets log
 
 2 Girls 1 Club, 69DB, AFAR
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrux/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrux/)*

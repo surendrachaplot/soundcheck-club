@@ -1,6 +1,6 @@
 # Rudolfode
 
-Rudolfode is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
+Rudolfode is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
 
 Rudolfode is a dubstep and drum & bass artist based in Austria, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside trembeats, CHERCHES and Sequent. Next up: Rhiz, Vienna on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rudolfode is a dubstep and drum & bass artist based in Austria, tracked on sound
 
 trembeats, CHERCHES, Sequent
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfode/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rudolfode/)*

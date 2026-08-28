@@ -1,6 +1,6 @@
 # Astrid Gnosis
 
-Astrid Gnosis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
+Astrid Gnosis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at E1, London on Fri, 28 Aug 2026.
 
 Astrid Gnosis is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin, London and Vienna. Often billed alongside Becky Stroke, MARIEEEA and 2HOT2PLAY. Next up: E1, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Astrid Gnosis is a techno and trance artist tracked on soundcheck, with 12 sets 
 
 Becky Stroke, MARIEEEA, 2HOT2PLAY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astridgnosis/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astridgnosis/)*

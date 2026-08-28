@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+ANNA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 ANNA is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside DJ Tennis, Vintage Culture and Kevin de Vries. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ ANNA is a techno and house artist tracked on soundcheck, with 95 sets logged acr
 
 DJ Tennis, Vintage Culture, Kevin de Vries
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

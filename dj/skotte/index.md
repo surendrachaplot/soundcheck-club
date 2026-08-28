@@ -1,6 +1,6 @@
 # Skotte
 
-Skotte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Baggen, Copenhagen on Fri, 28 Aug 2026.
+Skotte is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Baggen, Copenhagen on Fri, 28 Aug 2026.
 
 Skotte is a techno and house artist tracked on soundcheck, with 24 sets logged across Copenhagen and Oslo. Often billed alongside Martinez, FILTH.y and A.dixen. Next up: Baggen, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Skotte is a techno and house artist tracked on soundcheck, with 24 sets logged a
 
 Martinez, FILTH.y, A.dixen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skotte/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skotte/)*

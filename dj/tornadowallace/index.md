@@ -1,8 +1,8 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
+Tornado Wallace is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at WOMB, Tokyo on Fri, 28 Aug 2026.
 
-Tornado Wallace is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Auckland and Bali and 41 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: WOMB, Tokyo on Fri 28 Aug.
+Tornado Wallace is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Auckland and Bali and 41 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: WOMB, Tokyo on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Tornado Wallace is a house and techno artist tracked on soundcheck, with 130 set
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | public records | New York City |
 | Fri, 2 Oct 2026 | Cadavra | Madrid |
+| Fri, 23 Oct 2026 | Hearth | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Tornado Wallace is a house and techno artist tracked on soundcheck, with 130 set
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

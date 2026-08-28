@@ -1,6 +1,6 @@
 # Grand Café Heineken Hoek
 
-Grand Café Heineken Hoek is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Showcase Kokolores x ADE" on Wed, 21 Oct 2026.
+Grand Café Heineken Hoek is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Showcase Kokolores x ADE" on Wed, 21 Oct 2026.
 
 Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Angelo Ferreri, Black Legend, Charlie Brown and Claudius and 2 more. Browse upcoming dates, start times and who's playing. Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 5 
 
 Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*

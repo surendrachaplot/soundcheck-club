@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 20 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "hitty" on Fri, 28 Aug 2026.
+Quarters is a music venue in Brighton with 20 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "hitty" on Fri, 28 Aug 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 20 upcoming nights, with line-ups including 2ManyDJs, 4am Kru, ADR (UK) and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 20 upcoming nights, 
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

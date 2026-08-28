@@ -1,6 +1,6 @@
 # 𝐕𝐀𝐑𝐒𝐎𝐕𝐈𝐀 𝐓𝐑𝐎𝐏𝐈𝐂𝐀𝐋 - LabTropCrew presenta 𝐆𝐄𝐍𝐎𝐒𝐈𝐃𝐑𝐀 (col) - y amigxs at K-Bar Powiśle
 
-𝐕𝐀𝐑𝐒𝐎𝐕𝐈𝐀 𝐓𝐑𝐎𝐏𝐈𝐂𝐀𝐋 - LabTropCrew presenta 𝐆𝐄𝐍𝐎𝐒𝐈𝐃𝐑𝐀 (col) - y amigxs at K-Bar Powiśle on Fri 25 Sept, Warsaw. 9 acts on the bill: Adobo (PL), anymati, Cosaco and Fourth World Music and 5 more. Baile Funk and Guaracha. Preview the line-up and save it on soundcheck.
+𝐕𝐀𝐑𝐒𝐎𝐕𝐈𝐀 𝐓𝐑𝐎𝐏𝐈𝐂𝐀𝐋 - LabTropCrew presenta 𝐆𝐄𝐍𝐎𝐒𝐈𝐃𝐑𝐀 (col) - y amigxs at K-Bar Powiśle on Fri 25 Sept, Warsaw. 10 acts on the bill: Adobo (PL), anymati, Cosaco and DJ Kobieta and 6 more. Baile Funk and Guaracha. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@
 - Adobo (PL)
 - anymati
 - Cosaco
+- DJ Kobieta
 - Fourth World Music
 - Genosidra
 - KarateKnur

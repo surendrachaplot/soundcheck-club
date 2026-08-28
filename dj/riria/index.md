@@ -1,6 +1,6 @@
 # RIRIA
 
-RIRIA is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+RIRIA is a Techno and Bass artist with 11 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 RIRIA is a techno and bass artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 32 more. Often billed alongside Diffrent, ryota dj and Ryota. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -22,6 +22,7 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 89 sets logged acr
 
 ## Recently played
 
+- Hangaren, Copenhagen — Thu, 27 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
 - Burgess Park, London — Fri, 31 Jul 2026
 - Parc de la Trinitat, Barcelona — Sun, 26 Jul 2026
@@ -29,10 +30,9 @@ RIRIA is a techno and bass artist tracked on soundcheck, with 89 sets logged acr
 - Document, Bristol — Sat, 11 Jul 2026
 - Sala ART, Madrid — Thu, 9 Jul 2026
 - Eden, Ibiza — Wed, 8 Jul 2026
-- Colwick Country Park, Nottingham — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Diffrent, ryota dj, Ryota
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

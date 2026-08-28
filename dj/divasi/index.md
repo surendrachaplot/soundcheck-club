@@ -1,6 +1,6 @@
 # Divasi
 
-Divasi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Panama, Amsterdam on Sat, 21 Nov 2026.
+Divasi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Panama, Amsterdam on Sat, 21 Nov 2026.
 
 Divasi is a techno and tech house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Ghent, Rotterdam and Utrecht. Often billed alongside SANTØS, Ben Techy and IOSIO. Next up: Panama, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Divasi is a techno and tech house artist tracked on soundcheck, with 12 sets log
 
 SANTØS, Ben Techy, IOSIO
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/divasi/)*

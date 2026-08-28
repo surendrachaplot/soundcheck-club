@@ -1,13 +1,14 @@
 # Nídia
 
-Nídia is a Kuduro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Nídia is a Kuduro and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 17 Sept 2026.
 
-Nídia is a kuduro and techno artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside DJ Firmeza, Dj Danifox and DJ Marfox. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Nídia is a kuduro and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside DJ Firmeza, Dj Danifox and DJ Marfox. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nídia is a kuduro and techno artist tracked on soundcheck, with 59 sets logged 
 
 DJ Firmeza, Dj Danifox, DJ Marfox
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*

@@ -1,6 +1,6 @@
 # Subject 13
 
-Subject 13 is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OT301, Amsterdam on Fri, 4 Sept 2026.
+Subject 13 is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OT301, Amsterdam on Fri, 4 Sept 2026.
 
 Subject 13 is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Amsterdam and London. Often billed alongside Abby Daze, Joe Le Groove and Outrage. Next up: OT301, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Subject 13 is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Abby Daze, Joe Le Groove, Outrage
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subject13/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subject13/)*

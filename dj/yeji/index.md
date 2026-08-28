@@ -1,6 +1,6 @@
 # Yeji
 
-Yeji is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Atdge Seoul, Seoul on Sat, 5 Sept 2026.
+Yeji is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Atdge Seoul, Seoul on Sat, 5 Sept 2026.
 
 Yeji is a techno and house artist based in South Korea, tracked on soundcheck, with 33 sets logged across Seoul. Often billed alongside KYVU, Recy and DJ SIN. Next up: Atdge Seoul, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Yeji is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 KYVU, Recy, DJ SIN
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yeji/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yeji/)*

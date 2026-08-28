@@ -1,6 +1,6 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+Dillinja is a Drum & Bass and Jungle artist with 10 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
 Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
@@ -34,4 +34,4 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 114 sets
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

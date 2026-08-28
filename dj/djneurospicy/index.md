@@ -1,6 +1,6 @@
 # dj neurospicy
 
-dj neurospicy is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hydrozagadka, Warsaw on Sat, 19 Sept 2026.
+dj neurospicy is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hydrozagadka, Warsaw on Sat, 19 Sept 2026.
 
 dj neurospicy is an experimental and bass artist tracked on soundcheck, with 26 sets logged across Warsaw. Often billed alongside anymati, KAROLINDA and Vizril. Next up: Hydrozagadka, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ dj neurospicy is an experimental and bass artist tracked on soundcheck, with 26 
 
 anymati, KAROLINDA, Vizril
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*

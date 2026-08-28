@@ -1,6 +1,6 @@
 # Tinco
 
-Tinco is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at DNA. CLUB, Berlin on Sat, 29 Aug 2026.
+Tinco is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at DNA. CLUB, Berlin on Sat, 29 Aug 2026.
 
 Tinco is a techno and tech house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Krakow, Lisbon and Zurich. Often billed alongside Brane, Skungal and Vaccaro. Next up: DNA. CLUB, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Tinco is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Brane, Skungal, Vaccaro
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinco/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinco/)*

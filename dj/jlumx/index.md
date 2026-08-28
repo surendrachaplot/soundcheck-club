@@ -1,6 +1,6 @@
 # JLu (MX)
 
-JLu (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 315 Meserole, New York City on Sat, 29 Aug 2026.
+JLu (MX) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 315 Meserole, New York City on Sat, 29 Aug 2026.
 
 JLu (MX) is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Jeny Michelle, Erin Page and Armen Miran. Next up: 315 Meserole, Newyorkcity on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ JLu (MX) is a house and deep house artist based in United States of America, tra
 
 Jeny Michelle, Erin Page, Armen Miran
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jlumx/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jlumx/)*

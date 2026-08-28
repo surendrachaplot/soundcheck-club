@@ -1,6 +1,6 @@
 # Lorenzi
 
-Lorenzi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
+Lorenzi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 27 Sept 2026.
 
 Lorenzi is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam, Lyon, Montreal and Newyorkcity and 2 more. Often billed alongside Jay Prouty, Yume and Asha Jasz. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Lorenzi is a house and tech house artist based in United States of America, trac
 
 Jay Prouty, Yume, Asha Jasz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzi/)*

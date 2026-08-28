@@ -1,6 +1,6 @@
 # Hissy Fit
 
-Hissy Fit is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Hissy Fit is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Hissy Fit is a club and techno artist based in Canada, tracked on soundcheck, with 8 sets logged across Sanfrancisco and Washingtondc. Often billed alongside Franxx, GET FACE and Gabberbitch69. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Hissy Fit is a club and techno artist based in Canada, tracked on soundcheck, wi
 
 Franxx, GET FACE, Gabberbitch69
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hissyfit/)*

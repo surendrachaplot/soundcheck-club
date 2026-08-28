@@ -1,6 +1,6 @@
 # juli (8)
 
-juli (8) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Batica, Tokyo on Fri, 4 Sept 2026.
+juli (8) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Batica, Tokyo on Fri, 4 Sept 2026.
 
 juli (8) is a techno and house artist based in Japan, tracked on soundcheck, with 6 sets logged across Seoul and Tokyo. Often billed alongside Michel, Shoma fr,dambosound and YUUGOH. Next up: Batica, Tokyo on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ juli (8) is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 Michel, Shoma fr,dambosound, YUUGOH
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juli-8/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juli-8/)*

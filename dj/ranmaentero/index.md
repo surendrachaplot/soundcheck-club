@@ -1,6 +1,6 @@
 # Ranma Entero
 
-Ranma Entero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+Ranma Entero is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
 
 Ranma Entero is a techno and house artist tracked on soundcheck, with 100 sets logged across Berlin, Lisbon, Mexicocity and Montreal and 3 more. Often billed alongside Bluecommand, PAURRO and Octoptic. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ranma Entero is a techno and house artist tracked on soundcheck, with 100 sets l
 
 Bluecommand, PAURRO, Octoptic
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranmaentero/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranmaentero/)*

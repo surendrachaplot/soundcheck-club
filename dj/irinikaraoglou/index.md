@@ -1,6 +1,6 @@
 # Irini Karaoglou
 
-Irini Karaoglou is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cantina Social, Athens on Sun, 30 Aug 2026.
+Irini Karaoglou is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cantina Social, Athens on Sun, 30 Aug 2026.
 
 Irini Karaoglou is an electronica and club artist based in Greece, tracked on soundcheck, with 13 sets logged across Athens. Often billed alongside Rrose Sélavy, Cyber Glitter and DEPPYT. Next up: Cantina Social, Athens on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Irini Karaoglou is an electronica and club artist based in Greece, tracked on so
 
 Rrose Sélavy, Cyber Glitter, DEPPYT
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irinikaraoglou/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/irinikaraoglou/)*

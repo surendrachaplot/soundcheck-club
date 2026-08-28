@@ -1,6 +1,6 @@
 # Doltz
 
-Doltz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Razzmatazz, Barcelona on Sat, 12 Sept 2026.
+Doltz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Razzmatazz, Barcelona on Sat, 12 Sept 2026.
 
 Doltz is a techno and house artist tracked on soundcheck, with 29 sets logged across Athens, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DJ Nobu, OCCA and DANA NADA. Next up: Razzmatazz, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Doltz is a techno and house artist tracked on soundcheck, with 29 sets logged ac
 
 DJ Nobu, OCCA, DANA NADA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*

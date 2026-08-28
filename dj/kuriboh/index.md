@@ -1,8 +1,8 @@
 # Kuriboh
 
-Kuriboh is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
+Kuriboh is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
 
-Kuriboh is a club and techno artist tracked on soundcheck, with 47 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Egui, KURLZ and sebastieN. Next up: Soup, Manchester on Fri 28 Aug.
+Kuriboh is a techno and club artist tracked on soundcheck, with 48 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Egui, KURLZ and sebastieN. Next up: Soup, Manchester on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kuriboh is a club and techno artist tracked on soundcheck, with 47 sets logged a
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Soup | Manchester |
 | Sat, 29 Aug 2026 | renae | Manchester |
+| Sat, 3 Oct 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kuriboh is a club and techno artist tracked on soundcheck, with 47 sets logged a
 
 Egui, KURLZ, sebastieN
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriboh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriboh/)*

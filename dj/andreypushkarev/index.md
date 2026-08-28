@@ -1,6 +1,6 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at public records, New York City on Fri, 28 Aug 2026.
+Andrey Pushkarev is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at public records, New York City on Fri, 28 Aug 2026.
 
 Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Lola Palmer, Eli Verveine and Priku. Next up: public records, Newyorkcity on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Andrey Pushkarev is a house and minimal artist tracked on soundcheck, with 89 se
 
 Lola Palmer, Eli Verveine, Priku
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

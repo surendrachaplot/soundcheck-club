@@ -1,6 +1,6 @@
 # Amino
 
-Amino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Amino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Amino is a techno and house artist tracked on soundcheck, with 86 sets logged across Detroit, Newyorkcity and Sanfrancisco. Often billed alongside Garrison XR, Duck Trash and Loren. Next up: F8 1192 Folsom, Sanfrancisco on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Amino is a techno and house artist tracked on soundcheck, with 86 sets logged ac
 
 Garrison XR, Duck Trash, Loren
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amino/)*

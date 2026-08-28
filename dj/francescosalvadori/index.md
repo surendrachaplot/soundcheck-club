@@ -1,6 +1,6 @@
 # Francesco Salvadori
 
-Francesco Salvadori is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Francesco Salvadori is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Francesco Salvadori is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Basse Frequenze Soundsystem, Aton and Johnson (2). Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Francesco Salvadori is a house and techno artist based in Germany, tracked on so
 
 Basse Frequenze Soundsystem, Aton, Johnson (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescosalvadori/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescosalvadori/)*

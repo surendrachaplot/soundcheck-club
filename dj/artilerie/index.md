@@ -1,6 +1,6 @@
 # artilerie
 
-artilerie is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+artilerie is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
 artilerie is a techno and experimental artist tracked on soundcheck, with 14 sets logged across Prague and Warsaw. Often billed alongside 3ever, Nina Farrina and DDK (1). Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ artilerie is a techno and experimental artist tracked on soundcheck, with 14 set
 
 3ever, Nina Farrina, DDK (1)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artilerie/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artilerie/)*

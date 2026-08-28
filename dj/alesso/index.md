@@ -1,6 +1,6 @@
 # Alesso
 
-Alesso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 31 Aug 2026.
+Alesso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Mon, 31 Aug 2026.
 
 Alesso is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Brisbane and Buenosaires and 13 more. Often billed alongside The Chainsmokers, Gryffin and Steve Aoki. Next up: Ushuaïa Ibiza, Ibiza on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Alesso is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 The Chainsmokers, Gryffin, Steve Aoki
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

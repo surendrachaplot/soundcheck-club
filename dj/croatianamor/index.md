@@ -1,13 +1,14 @@
 # Croatian Amor
 
-Croatian Amor is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at EartH, London on Sat, 26 Sept 2026.
+Croatian Amor is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Croatian Amor is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside oqbqbo, Vanity Productions and Scandinavian Star. Next up: EartH, London on Sat 26 Sept.
+Croatian Amor is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside oqbqbo, Vanity Productions and Scandinavian Star. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Various Venues | London |
 | Sat, 26 Sept 2026 | EartH | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Croatian Amor is an experimental and ambient artist based in Denmark, tracked on
 
 oqbqbo, Vanity Productions, Scandinavian Star
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/croatianamor/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/croatianamor/)*

@@ -1,8 +1,8 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Lux Fragil, Lisbon on Fri, 28 Aug 2026.
+Michael Mayer is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Lux Fragil, Lisbon on Fri, 28 Aug 2026.
 
-Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Lux Fragil, Lisbon on Fri 28 Aug.
+Michael Mayer is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Lux Fragil, Lisbon on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets l
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Lux Fragil | Lisbon |
 | Sat, 5 Sept 2026 | Treibgut | Düsseldorf |
+| Sat, 12 Sept 2026 | Switch | Porto |
 | Sat, 19 Sept 2026 | Specka | Madrid |
 | Mon, 21 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | fi | Cologne |
@@ -30,4 +31,4 @@ Michael Mayer is a techno and house artist tracked on soundcheck, with 81 sets l
 
 Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

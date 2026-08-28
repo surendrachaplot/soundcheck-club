@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 28 Aug 2026.
+Giammarco Orsini is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 28 Aug 2026.
 
 Giammarco Orsini is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 28 Aug.
 
@@ -9,7 +9,7 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 166 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 29 Aug 2026 | TBA - Marseille 13014 | Marseille |
+| Sat, 29 Aug 2026 | Stade Fontainieu | Marseille |
 | Sat, 5 Sept 2026 | TBA - 75013 | Paris |
 | Sun, 6 Sept 2026 | Thuishaven | Amsterdam |
 | Sat, 12 Sept 2026 | Bunker | Turin |
@@ -31,4 +31,4 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 166 se
 
 PARAMIDA, Anthea, Marcolino
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

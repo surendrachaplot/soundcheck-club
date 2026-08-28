@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
+Sharlese is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Pier 62, Seattle on Mon, 7 Sept 2026.
 
 Sharlese is a techno and house artist based in United States of America, tracked on soundcheck, with 142 sets logged across Amsterdam, Belgrade, Berlin and Boston and 14 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: TBA - Pier 62, Seattle on Mon 7 Sept.
 
@@ -30,4 +30,4 @@ Sharlese is a techno and house artist based in United States of America, tracked
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

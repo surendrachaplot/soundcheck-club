@@ -1,6 +1,6 @@
 # Samet Gunal
 
-Samet Gunal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
+Samet Gunal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
 
 Samet Gunal is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Frankfurt, Istanbul and Malaga and 2 more. Often billed alongside Esin, Enes Çakır and Bákayan. Next up: Kafes x Milo, Istanbul on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Samet Gunal is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Esin, Enes Çakır, Bákayan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sametgunal/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sametgunal/)*

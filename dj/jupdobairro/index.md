@@ -1,13 +1,14 @@
 # Jup do Bairro
 
-Jup do Bairro is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cineclube Cortina, Sao Paulo on Fri, 18 Sept 2026.
+Jup do Bairro is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Sao Paulo on Sat, 12 Sept 2026.
 
-Jup do Bairro is a house and baile funk artist tracked on soundcheck, with 6 sets logged across Saopaulo. Often billed alongside BADSISTA, Eli Iwasa and Mirands. Next up: Cineclube Cortina, Saopaulo on Fri 18 Sept.
+Jup do Bairro is a house and baile funk artist tracked on soundcheck, with 7 sets logged across Saopaulo. Often billed alongside BADSISTA, Delcu and Eli Iwasa. Next up: TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Saopaulo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil | Sao Paulo |
 | Fri, 18 Sept 2026 | Cineclube Cortina | Sao Paulo |
 
 ## Recently played
@@ -20,6 +21,6 @@ Jup do Bairro is a house and baile funk artist tracked on soundcheck, with 6 set
 
 ## Shares bills with
 
-BADSISTA, Eli Iwasa, Mirands
+BADSISTA, Delcu, Eli Iwasa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jupdobairro/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jupdobairro/)*

@@ -1,6 +1,6 @@
 # Kweku
 
-Kweku is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
+Kweku is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at ErF Studios, New York City on Sat, 29 Aug 2026.
 
 Kweku is a club and techno artist tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside Petal, Connector and Délé. Next up: ErF Studios, Newyorkcity on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Kweku is a club and techno artist tracked on soundcheck, with 27 sets logged acr
 
 Petal, Connector, Délé
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*

@@ -1,8 +1,8 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Optimo (Espacio) is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Southwark Park, London on Sat 29 Aug.
+Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 186 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 185 se
 | Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Thu, 24 Sept 2026 | Various Venues | London |
 | Fri, 25 Sept 2026 | FOLD | London |
 | Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 31 Oct 2026 | Saint Luke's & The Winged Ox | Glasgow |
@@ -33,4 +34,4 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 185 se
 
 Daniel Avery, HAAi, Batu
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

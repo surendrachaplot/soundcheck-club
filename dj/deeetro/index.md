@@ -1,6 +1,6 @@
 # Deeetro
 
-Deeetro is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
+Deeetro is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
 
 Deeetro is a house and trance artist tracked on soundcheck, with 8 sets logged across Milan. Often billed alongside Giorgio Di Majo, Ilya Blinkov and Vannelli Bros. Next up: Villa Ricotti - La Valera, Milan on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Deeetro is a house and trance artist tracked on soundcheck, with 8 sets logged a
 
 Giorgio Di Majo, Ilya Blinkov, Vannelli Bros
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeetro/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeetro/)*

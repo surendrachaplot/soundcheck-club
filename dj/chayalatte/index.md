@@ -1,6 +1,6 @@
 # Chayalatte
 
-Chayalatte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Chayalatte is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Chayalatte is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Anne-Lu, FI3BER and Schott (2). Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Chayalatte is a house and techno artist based in Germany, tracked on soundcheck,
 
 Anne-Lu, FI3BER, Schott (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chayalatte/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chayalatte/)*

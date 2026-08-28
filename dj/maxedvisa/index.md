@@ -1,6 +1,6 @@
 # maxedvisa
 
-maxedvisa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
+maxedvisa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cherry Beach, Toronto on Sun, 30 Aug 2026.
 
 maxedvisa is a house and techno artist tracked on soundcheck, with 34 sets logged across Toronto. Often billed alongside Program Sam, florasystem and Wavy Oasis. Next up: Cherry Beach, Toronto on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ maxedvisa is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 Program Sam, florasystem, Wavy Oasis
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*

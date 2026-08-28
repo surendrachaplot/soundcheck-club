@@ -1,6 +1,6 @@
 # Thodén
 
-Thodén is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jolene, Copenhagen on Sat, 29 Aug 2026.
+Thodén is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jolene, Copenhagen on Sat, 29 Aug 2026.
 
 Thodén is a techno and minimal artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin, Copenhagen, Manchester and Stockholm. Often billed alongside pai-lin, TS Kahuna and Alin. Next up: Jolene, Copenhagen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Thodén is a techno and minimal artist based in United Kingdom, tracked on sound
 
 pai-lin, TS Kahuna, Alin
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoden/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thoden/)*

@@ -1,6 +1,6 @@
 # Kodah
 
-Kodah is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Kodah is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
 
 Kodah is a techno and electro artist tracked on soundcheck, with 11 sets logged across Berlin and London. Often billed alongside EKATA, Rommek and Annie Hall. Next up: KitKatClub, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kodah is a techno and electro artist tracked on soundcheck, with 11 sets logged 
 
 EKATA, Rommek, Annie Hall
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodah/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kodah/)*

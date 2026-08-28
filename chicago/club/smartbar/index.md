@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Flowers of Romance feat. DJ Godfather - Justin Aulis Long 2x4 Grey People - CCTV" on Fri, 28 Aug 2026.
+smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Flowers of Romance feat. DJ Godfather - Justin Aulis Long 2x4 Grey People - CCTV" on Fri, 28 Aug 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Paula Tape, Ariel Zetina, Bambounou and Ben UFO and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

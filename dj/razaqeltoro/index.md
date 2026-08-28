@@ -1,6 +1,6 @@
 # Razaq El Toro
 
-Razaq El Toro is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
+Razaq El Toro is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
 
 Razaq El Toro is an afro house and afro tech artist based in Canada, tracked on soundcheck, with 39 sets logged across Toronto. Often billed alongside martinses, Sonic Griot and Afrique Like Me. Next up: Soleil, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Razaq El Toro is an afro house and afro tech artist based in Canada, tracked on 
 
 martinses, Sonic Griot, Afrique Like Me
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/razaqeltoro/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/razaqeltoro/)*

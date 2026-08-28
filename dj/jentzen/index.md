@@ -1,19 +1,19 @@
 # Jentzen
 
-Jentzen is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 27 Aug 2026.
+Jentzen is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Stage and Radio, Manchester on Sat, 5 Sept 2026.
 
-Jentzen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Bristol, Glasgow and Ibiza and 6 more. Often billed alongside Josh Baker, Local Dub and Paddy Lee. Next up: Amnesia Ibiza, Ibiza on Thu 27 Aug.
+Jentzen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Bristol, Glasgow and Ibiza and 6 more. Often billed alongside Josh Baker, Local Dub and Paddy Lee. Next up: Stage and Radio, Manchester on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Stage and Radio | Manchester |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Thu, 27 Aug 2026
 - Six Trees Bar And Kitchen Manchester, Manchester — Sat, 1 Aug 2026
 - TBA - APT DISCO, London — Fri, 6 Mar 2026
 - Last Arch, London — Sat, 24 Jan 2026
@@ -21,10 +21,9 @@ Jentzen is a house and tech house artist based in United Kingdom, tracked on sou
 - Digital, Newcastle — Fri, 26 Sept 2025
 - The Classic Grand, Glasgow — Fri, 29 Aug 2025
 - Drygate, Glasgow — Sat, 26 Jul 2025
-- TBA, Manchester — Sat, 5 Jul 2025
 
 ## Shares bills with
 
 Josh Baker, Local Dub, Paddy Lee
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jentzen/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jentzen/)*

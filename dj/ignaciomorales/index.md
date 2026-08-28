@@ -1,6 +1,6 @@
 # Ignacio Morales
 
-Ignacio Morales is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Malasaña, Madrid on Sat, 29 Aug 2026.
+Ignacio Morales is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Malasaña, Madrid on Sat, 29 Aug 2026.
 
 Ignacio Morales is a house and electronica artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 5 more. Often billed alongside Alexis Cabrera, Giorgio Maulini and David Triana. Next up: Club Malasaña, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ignacio Morales is a house and electronica artist tracked on soundcheck, with 19
 
 Alexis Cabrera, Giorgio Maulini, David Triana
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*

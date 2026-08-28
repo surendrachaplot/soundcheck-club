@@ -1,8 +1,8 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hagglers Corner, Sheffield on Fri, 28 Aug 2026.
+Laurence Guy is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hagglers Corner, Sheffield on Fri, 28 Aug 2026.
 
-Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 94 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: Hagglers Corner, Sheffield on Fri 28 Aug.
+Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: Hagglers Corner, Sheffield on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 | Sun, 30 Aug 2026 | Festival Pier | London |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 19 Sept 2026 | Sala Villanos | Madrid |
+| Sat, 26 Sept 2026 | Folk. | Manchester |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 
 Arpy Brown, Hayden James, 1-800 GIRLS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

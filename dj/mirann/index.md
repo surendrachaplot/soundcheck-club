@@ -1,6 +1,6 @@
 # Miran N
 
-Miran N is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Miran N is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Miran N is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin, Copenhagen, Hamburg and Leipzig and 4 more. Often billed alongside ADO (DE), tamypro and Eluzid. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -12,6 +12,7 @@ Miran N is a techno and trance artist tracked on soundcheck, with 36 sets logged
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
 - Fitzroy, Berlin — Sat, 9 May 2026
 - Den Anden Side, Copenhagen — Sat, 2 May 2026
@@ -19,10 +20,9 @@ Miran N is a techno and trance artist tracked on soundcheck, with 36 sets logged
 - RSO.BERLIN, Berlin — Sat, 10 Jan 2026
 - Fitzroy, Berlin — Sat, 6 Dec 2025
 - TBA - Secret Location (address will be sent upon ticket purchase), Berlin — Sat, 30 Aug 2025
-- Den Anden Side, Copenhagen — Fri, 27 Jun 2025
 
 ## Shares bills with
 
 ADO (DE), tamypro, Eluzid
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirann/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirann/)*

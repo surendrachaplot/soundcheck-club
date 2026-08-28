@@ -1,6 +1,6 @@
 # SñRFlores
 
-SñRFlores is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
+SñRFlores is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
 
 SñRFlores is a house and techno artist tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Katze Storno, Malvadisco and Ring41. Next up: YOTO, Hamburg on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ SñRFlores is a house and techno artist tracked on soundcheck, with 5 sets logge
 
 Katze Storno, Malvadisco, Ring41
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snrflores/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snrflores/)*

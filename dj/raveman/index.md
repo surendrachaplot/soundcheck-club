@@ -1,6 +1,6 @@
 # Raveman
 
-Raveman is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Eventhuset, Stockholm on Sat, 29 Aug 2026.
+Raveman is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Eventhuset, Stockholm on Sat, 29 Aug 2026.
 
 Raveman is a techno and psytrance artist based in Sweden, tracked on soundcheck, with 15 sets logged across Stockholm and Tokyo. Often billed alongside Andreas Barth, MERILIN and Marten Attling. Next up: Eventhuset, Stockholm on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Raveman is a techno and psytrance artist based in Sweden, tracked on soundcheck,
 
 Andreas Barth, MERILIN, Marten Attling
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raveman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raveman/)*

@@ -1,6 +1,6 @@
 # Mocongo
 
-Mocongo is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
+Mocongo is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mtkvarze, Tbilisi on Fri, 28 Aug 2026.
 
 Mocongo is a house and trance artist based in Georgia, tracked on soundcheck, with 47 sets logged across Tbilisi. Often billed alongside Hatsvali, Monk (2) and Giorgi Devadze. Next up: Mtkvarze, Tbilisi on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Mocongo is a house and trance artist based in Georgia, tracked on soundcheck, wi
 
 Hatsvali, Monk (2), Giorgi Devadze
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mocongo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mocongo/)*

@@ -1,6 +1,6 @@
 # Cosenza
 
-Cosenza is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 29 Aug 2026.
+Cosenza is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 29 Aug 2026.
 
 Cosenza is a house and minimal artist tracked on soundcheck, with 12 sets logged across Amsterdam, Buenosaires, Ibiza and Marseille. Often billed alongside Agustin Clark, Ale Kis and Benny Rodrigues. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Cosenza is a house and minimal artist tracked on soundcheck, with 12 sets logged
 
 Agustin Clark, Ale Kis, Benny Rodrigues
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosenza/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosenza/)*

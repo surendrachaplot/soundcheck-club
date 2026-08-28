@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Free Tickets AVALON: Miss Evelina, Arthur Macias, Ren, Civaro, Dr. Beats" on Wed, 26 Aug 2026.
+Ku Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Free Tickets AVALON: Miss Evelina, Arthur Macias, Ren, Civaro, Dr. Beats" on Wed, 26 Aug 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Bora Uzer, Civaro, CJ Jeff and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -19,4 +19,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

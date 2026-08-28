@@ -1,6 +1,6 @@
 # Madelic
 
-Madelic is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
+Madelic is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
 
 Madelic is a house and tech house artist tracked on soundcheck, with 44 sets logged across London, Tokyo and Toronto. Often billed alongside FITS ME FUNNY, AKWA and Elianne. Next up: Cafe 1001, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Madelic is a house and tech house artist tracked on soundcheck, with 44 sets log
 
 FITS ME FUNNY, AKWA, Elianne
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*

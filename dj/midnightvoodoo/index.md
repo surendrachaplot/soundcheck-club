@@ -1,6 +1,6 @@
 # Midnight Voodoo
 
-Midnight Voodoo is a Afrobeat and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Place Colignon Schaerbeek, Brussels on Sat, 29 Aug 2026.
+Midnight Voodoo is a Afrobeat and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Place Colignon Schaerbeek, Brussels on Sat, 29 Aug 2026.
 
 Midnight Voodoo is an afrobeat and funk / soul artist based in Belgium, tracked on soundcheck, with 27 sets logged across Antwerp, Berlin, Brussels and Paris and 1 more. Often billed alongside Adam Bkr, Hassan Raphael and Donna Gibson. Next up: TBA - Place Colignon Schaerbeek, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Midnight Voodoo is an afrobeat and funk / soul artist based in Belgium, tracked 
 
 Adam Bkr, Hassan Raphael, Donna Gibson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightvoodoo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightvoodoo/)*

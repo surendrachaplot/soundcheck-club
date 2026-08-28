@@ -1,6 +1,6 @@
 # Pe Dro
 
-Pe Dro is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vertigo, Toronto on Fri, 28 Aug 2026.
+Pe Dro is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Vertigo, Toronto on Fri, 28 Aug 2026.
 
 Pe Dro is a techno and tech house artist based in Vietnam, tracked on soundcheck, with 7 sets logged across Buenosaires, Istanbul, Krakow and Toronto. Often billed alongside Ardalan, RUDEE NIK and 1TK (1). Next up: Vertigo, Toronto on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Pe Dro is a techno and tech house artist based in Vietnam, tracked on soundcheck
 
 Ardalan, RUDEE NIK, 1TK (1)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro/)*

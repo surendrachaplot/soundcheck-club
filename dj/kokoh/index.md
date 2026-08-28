@@ -1,6 +1,6 @@
 # KOKOH
 
-KOKOH is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at One•75 BAR, London on Sat, 29 Aug 2026.
+KOKOH is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at One•75 BAR, London on Sat, 29 Aug 2026.
 
 KOKOH is a tech house and electronica artist tracked on soundcheck, with 36 sets logged across Barcelona and London. Often billed alongside Diana Loredana, Paulo Navarro and DJ LIL-E. Next up: One•75 BAR, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ KOKOH is a tech house and electronica artist tracked on soundcheck, with 36 sets
 
 Diana Loredana, Paulo Navarro, DJ LIL-E
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoh/)*

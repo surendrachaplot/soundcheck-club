@@ -1,6 +1,6 @@
 # Horston
 
-Horston is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Om Being, London on Fri, 28 Aug 2026.
+Horston is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Om Being, London on Fri, 28 Aug 2026.
 
 Horston is a techno and dub artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Belin, Breezy (2) and CAMIVINA. Next up: Om Being, London on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Horston is a techno and dub artist based in United Kingdom, tracked on soundchec
 
 Belin, Breezy (2), CAMIVINA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horston/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/horston/)*

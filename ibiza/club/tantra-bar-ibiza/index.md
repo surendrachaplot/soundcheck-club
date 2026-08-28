@@ -1,6 +1,6 @@
 # Tantra Bar Ibiza
 
-Tantra Bar Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "LIBERO Ibiza" on Sat, 29 Aug 2026.
+Tantra Bar Ibiza is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LIBERO Ibiza" on Sat, 29 Aug 2026.
 
 Tantra Bar Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Dan Costello, Jaco Reigosa, James Wyler and Leith and 2 more. Browse upcoming dates, start times and who's playing. Ctra Platge Den Bossa 8, edfc Pepe, 07817 Ibiza-St.Jordi, España.
 
@@ -15,4 +15,4 @@ Tantra Bar Ibiza is a music venue in Ibiza listed on soundcheck. 2 upcoming nigh
 
 Ctra Platge Den Bossa 8, edfc Pepe, 07817 Ibiza-St.Jordi, España, Ibiza
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tantra-bar-ibiza/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tantra-bar-ibiza/)*

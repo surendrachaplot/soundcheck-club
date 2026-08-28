@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FIXED GLOSS" on Thu, 27 Aug 2026.
+Underground SF is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Amor Digital: BOYPRINCESS, DJ JUANNY, javi" on Fri, 28 Aug 2026.
 
-Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including 9-System, DJ JUANNY, Alexandernaut and ALICE STRIBLING and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including 9-System, DJ JUANNY, Alexandernaut and Beverly Chills and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | FIXED GLOSS | ALICE STRIBLING |
 | Fri, 28 Aug 2026 | Amor Digital: BOYPRINCESS, DJ JUANNY, javi | DJ JUANNY, Javi (US) |
 | Fri, 4 Sept 2026 | FILM FUND RAVE | Beverly Chills, xtcemi |
 | Fri, 11 Sept 2026 | PROX. Jason Kendig, Dr. Rek, Kenvulsion, M4RC0, Andrew Butcher | Dr. Rek, Jason Kendig |
@@ -22,4 +21,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

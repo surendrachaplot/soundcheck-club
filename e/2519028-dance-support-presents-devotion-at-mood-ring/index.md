@@ -1,6 +1,6 @@
 # Dance Support presents Devotion at Mood Ring
 
-Dance Support presents Devotion at Mood Ring on Wed 2 Sept, Newyorkcity. 2 acts on the bill: girl_irl and shirlz. Preview the line-up and save it on soundcheck.
+Dance Support presents Devotion at Mood Ring on Wed 2 Sept, Newyorkcity. 3 acts on the bill: DJ Passion Fruit, girl_irl and shirlz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dance Support presents Devotion at Mood Ring on Wed 2 Sept, Newyorkcity. 2 acts 
 
 ## Line-up
 
+- DJ Passion Fruit
 - girl_irl
 - shirlz
 

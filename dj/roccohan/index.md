@@ -1,13 +1,14 @@
 # Rocco Han
 
-Rocco Han is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at fabric, London on Sun, 20 Sept 2026.
+Rocco Han is a Garage and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at XOYO, London on Wed, 2 Sept 2026.
 
-Rocco Han is a garage and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside FITS ME FUNNY, samasama and BALA (3). Next up: fabric, London on Sun 20 Sept.
+Rocco Han is a garage and deep house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside FITS ME FUNNY, samasama and BALA (3). Next up: XOYO, London on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Sept 2026 | XOYO | London |
 | Sun, 20 Sept 2026 | fabric | London |
 
 ## Recently played
@@ -23,4 +24,4 @@ Rocco Han is a garage and house artist based in United Kingdom, tracked on sound
 
 FITS ME FUNNY, samasama, BALA (3)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roccohan/)*

@@ -1,6 +1,6 @@
 # Mazko A
 
-Mazko A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 30 Aug 2026.
+Mazko A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 30 Aug 2026.
 
 Mazko A is a house and techno artist tracked on soundcheck, with 28 sets logged across Losangeles, Newyorkcity, Warsaw and Washingtondc. Often billed alongside Kurilo, Ramos (2) and Taiga. Next up: 1928 E 7th Pl, Los Angeles, CA 90021, Losangeles on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mazko A is a house and techno artist tracked on soundcheck, with 28 sets logged 
 
 Kurilo, Ramos (2), Taiga
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mazkoa/)*

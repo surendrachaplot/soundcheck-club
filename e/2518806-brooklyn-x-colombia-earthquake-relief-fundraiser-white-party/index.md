@@ -1,6 +1,6 @@
 # Brooklyn x Colombia - Earthquake Relief Fundraiser (White Party) at Roof Terrace BK
 
-Brooklyn x Colombia - Earthquake Relief Fundraiser (White Party) at Roof Terrace BK on Fri 4 Sept, Newyorkcity. 1 act on the bill: Pablo Romero. Tech House. Preview the line-up and save it on soundcheck.
+Brooklyn x Colombia - Earthquake Relief Fundraiser (White Party) at Roof Terrace BK on Fri 4 Sept, Newyorkcity. 1 act on the bill: Pablo Romero. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 29 Aug 2026.
+NEUX is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 29 Aug 2026.
 
 NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: Karmen Camina, Strasbourg on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged a
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

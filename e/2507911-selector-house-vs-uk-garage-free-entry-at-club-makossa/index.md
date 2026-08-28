@@ -1,6 +1,6 @@
 # SELECTOR: House vs UK Garage (FREE ENTRY) at Club Makossa
 
-SELECTOR: House vs UK Garage (FREE ENTRY) at Club Makossa on Thu 3 Sept, London. 2 acts on the bill: EWERED and la piscine. House and Garage. Preview the line-up and save it on soundcheck.
+SELECTOR: House vs UK Garage (FREE ENTRY) at Club Makossa on Thu 3 Sept, London. 3 acts on the bill: EWERED, Grog and la piscine. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SELECTOR: House vs UK Garage (FREE ENTRY) at Club Makossa on Thu 3 Sept, London.
 ## Line-up
 
 - EWERED
+- Grog
 - la piscine
 
 *Source: [soundcheck](https://soundcheck.club/e/2507911-selector-house-vs-uk-garage-free-entry-at-club-makossa/)*

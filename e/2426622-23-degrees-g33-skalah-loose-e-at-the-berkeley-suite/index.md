@@ -1,6 +1,6 @@
-# 23 Degrees: G33, SKALAH & LOOSE-E at The Berkeley Suite
+# 23 Degrees: G33, SKALAH & Loose E at The Berkeley Suite
 
-23 Degrees: G33, SKALAH & LOOSE-E at The Berkeley Suite on Thu 17 Sept, Glasgow. 3 acts on the bill: G33 (UK), Loose E and SKALAH (UK). Garage and Dubstep. Preview the line-up and save it on soundcheck.
+23 Degrees: G33, SKALAH & Loose E at The Berkeley Suite on Thu 17 Sept, Glasgow. 3 acts on the bill: G33 (UK), Loose E and SKALAH (UK). Garage and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

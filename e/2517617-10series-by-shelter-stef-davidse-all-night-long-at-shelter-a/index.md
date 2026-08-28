@@ -1,6 +1,6 @@
 # 10SERIES by Shelter - Stef Davidse (all night long) at Shelter Amsterdam
 
-10SERIES by Shelter - Stef Davidse (all night long) at Shelter Amsterdam on Sat 17 Oct, Amsterdam. 1 act on the bill: Stef Davidse. House. Preview the line-up and save it on soundcheck.
+10SERIES by Shelter - Stef Davidse (all night long) at Shelter Amsterdam on Sat 17 Oct, Amsterdam. 2 acts on the bill: KINETIKS and Stef Davidse. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- KINETIKS
 - Stef Davidse
 
 *Source: [soundcheck](https://soundcheck.club/e/2517617-10series-by-shelter-stef-davidse-all-night-long-at-shelter-a/)*

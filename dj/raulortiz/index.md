@@ -1,6 +1,6 @@
 # Raul Ortiz
 
-Raul Ortiz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
+Raul Ortiz is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
 
 Raul Ortiz is a tech house and house artist based in Spain, tracked on soundcheck, with 40 sets logged across London and Madrid. Often billed alongside CESAR ALMENA, Nuke and Parsa Jafari. Next up: Fabrik, Madrid on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Raul Ortiz is a tech house and house artist based in Spain, tracked on soundchec
 
 CESAR ALMENA, Nuke, Parsa Jafari
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulortiz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulortiz/)*

@@ -1,6 +1,6 @@
 # Kayfabe! The Wrestling Rave at Club360
 
-Kayfabe! The Wrestling Rave at Club360 on Fri 11 Sept, London. 8 acts on the bill: alterum, CICELY, DJ PRIYA and Hang The DJs and 4 more. Hardcore. Preview the line-up and save it on soundcheck.
+Kayfabe! The Wrestling Rave at Club360 on Fri 11 Sept, London. 9 acts on the bill: alterum, CICELY, DJ PRIYA and Hang The DJs and 5 more. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Kayfabe! The Wrestling Rave at Club360 on Fri 11 Sept, London. 8 acts on the bil
 - DJ PRIYA
 - Hang The DJs
 - Harry Gay
+- it_dont_Matt.er
 - MisterrCha
 - Mollie Rush
 - THEMPRESS

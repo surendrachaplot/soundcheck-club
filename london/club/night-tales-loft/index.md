@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 27 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NT's Loft: Kylie Wears Berghaus & Nora" on Fri, 28 Aug 2026.
+Night Tales Loft is a music venue in London with 27 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "NT's Loft: Kylie Wears Berghaus & Nora" on Fri, 28 Aug 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including 6 SENSE, Alexander Nut, babyschön and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -10,7 +10,7 @@ Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming ni
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | NT's Loft: Kylie Wears Berghaus & Nora | Kylie Wears Berghaus, Nora (UK) |
 | Fri, 28 Aug 2026 | NT's Loft: babyschön Residency | babyschön |
-| Sat, 29 Aug 2026 | SOULFUEL: Alex Nut (House, Disco, Soul, Brokenbeat)  | Alexander Nut |
+| Sat, 29 Aug 2026 | SOULFUEL: Alex Nut (House, Disco, Soul, Brokenbeat)  | Alexander Nut, Donut |
 | Sun, 30 Aug 2026 | Origins: 6 SENSE | 6 SENSE |
 | Sun, 30 Aug 2026 | NT's Loft: Bank Holiday FREE Day Party |  |
 | Fri, 4 Sept 2026 | NT's Loft: Todd Edwards Weekender - All Night Long | Todd Edwards |
@@ -23,4 +23,4 @@ Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming ni
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

@@ -1,6 +1,6 @@
 # 1BYAKKO
 
-1BYAKKO is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Gaffe, London on Sat, 17 Oct 2026.
+1BYAKKO is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Gaffe, London on Sat, 17 Oct 2026.
 
 1BYAKKO is a techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside H Grade, Aniaef and Deranged. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@
 
 H Grade, Aniaef, Deranged
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1byakko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1byakko/)*

@@ -1,6 +1,6 @@
 # CAÑITA
 
-CAÑITA is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
+CAÑITA is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
 
 CAÑITA is a house and deep house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Diegoo, LegenDari and Bruno Gervais. Next up: H0L0, Newyorkcity on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ CAÑITA is a house and deep house artist based in United States of America, trac
 
 Diegoo, LegenDari, Bruno Gervais
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canita/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canita/)*

@@ -1,6 +1,6 @@
 # yunginternet
 
-yunginternet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Art Club, Houston on Sat, 5 Sept 2026.
+yunginternet is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Art Club, Houston on Sat, 5 Sept 2026.
 
 yunginternet is a house and techno artist tracked on soundcheck, with 16 sets logged across Austin and Houston. Often billed alongside HYPERFEMME, Dusty Tombs and Hustle Cry. Next up: Art Club, Houston on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ yunginternet is a house and techno artist tracked on soundcheck, with 16 sets lo
 
 HYPERFEMME, Dusty Tombs, Hustle Cry
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yunginternet/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yunginternet/)*

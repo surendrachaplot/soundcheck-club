@@ -1,6 +1,6 @@
 # Dale Mussington
 
-Dale Mussington is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Dale Mussington is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Dale Mussington is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Leeds, London and Malaga and 1 more. Often billed alongside Sam Bangura, Harry McCanna and NorthSouth. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dale Mussington is a house and techno artist tracked on soundcheck, with 56 sets
 
 Sam Bangura, Harry McCanna, NorthSouth
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dalemussington/)*

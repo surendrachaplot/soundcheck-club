@@ -1,6 +1,6 @@
 # Century
 
-Century is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Some Place Else & The Plug's Pop Ups present: Rooftop Carnival at The Century " on Sat, 29 Aug 2026.
+Century is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Some Place Else & The Plug's Pop Ups present: Rooftop Carnival at The Century " on Sat, 29 Aug 2026.
 
 Century is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including HARTY, Jansons, J.Müller and Kris Harris and 2 more. Browse upcoming dates, start times and who's playing. 61-63 Shaftsbury Avenue; Soho; London W1D 6LD; United Kingdom.
 
@@ -15,4 +15,4 @@ Century is a music venue in London listed on soundcheck. 2 upcoming nights, with
 
 61-63 Shaftsbury Avenue; Soho; London W1D 6LD; United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/century/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/century/)*

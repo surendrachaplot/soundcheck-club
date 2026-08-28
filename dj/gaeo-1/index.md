@@ -1,6 +1,6 @@
 # GÆO
 
-GÆO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Culture Box, Copenhagen on Fri, 4 Sept 2026.
+GÆO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Culture Box, Copenhagen on Fri, 4 Sept 2026.
 
 GÆO is a house and techno artist based in Hungary, tracked on soundcheck, with 26 sets logged across Copenhagen. Often billed alongside Kipp, Tim Andresen and Aja Gulris. Next up: Culture Box, Copenhagen on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ GÆO is a house and techno artist based in Hungary, tracked on soundcheck, with 
 
 Kipp, Tim Andresen, Aja Gulris
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaeo-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaeo-1/)*

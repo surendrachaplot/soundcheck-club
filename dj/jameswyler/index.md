@@ -1,6 +1,6 @@
 # James Wyler
 
-James Wyler is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
+James Wyler is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Tantra Bar Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 James Wyler is a tech house and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Boston, Chicago and Denver and 6 more. Often billed alongside Shahar, Jeff Sorkowitz and Luquez. Next up: Tantra Bar Ibiza, Ibiza on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ James Wyler is a tech house and house artist based in United States of America, 
 
 Shahar, Jeff Sorkowitz, Luquez
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameswyler/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jameswyler/)*

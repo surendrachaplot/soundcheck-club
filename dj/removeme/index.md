@@ -1,6 +1,6 @@
 # Remove Me
 
-Remove Me is a Psytrance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
+Remove Me is a Psytrance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
 
 Remove Me is a psytrance and progressive house artist tracked on soundcheck, with 19 sets logged across Berlin, Brussels, London and Madrid and 1 more. Often billed alongside Carl H, Vass and DJ Masda. Next up: Colour Factory, London on Mon 31 Aug.
 
@@ -26,4 +26,4 @@ Remove Me is a psytrance and progressive house artist tracked on soundcheck, wit
 
 Carl H, Vass, DJ Masda
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*

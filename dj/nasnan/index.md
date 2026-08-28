@@ -1,6 +1,6 @@
 # nasnan
 
-nasnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Macarena Club, Barcelona on Tue, 22 Sept 2026.
+nasnan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Macarena Club, Barcelona on Tue, 22 Sept 2026.
 
 nasnan is a house and techno artist tracked on soundcheck, with 16 sets logged across Barcelona and Berlin. Often billed alongside Lisa Thaens, Yanakuna and Monkyman. Next up: Macarena Club, Barcelona on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ nasnan is a house and techno artist tracked on soundcheck, with 16 sets logged a
 
 Lisa Thaens, Yanakuna, Monkyman
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasnan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nasnan/)*

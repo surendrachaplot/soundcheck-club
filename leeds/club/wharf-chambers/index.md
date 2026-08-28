@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Ambient Leeds: A-Sun Amissa with Lauren Mason // Colossloth // Duncan Chapman" on Thu, 3 Sept 2026.
+Wharf Chambers is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Ambient Leeds: A-Sun Amissa with Lauren Mason // Colossloth // Duncan Chapman" on Thu, 3 Sept 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming nights, with line-ups including Anastasia McGarel, Billy Jack (UK), Diverge and Gremlinz and 2 more. Browse upcoming dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -20,4 +20,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming nights
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

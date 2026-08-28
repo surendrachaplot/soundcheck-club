@@ -1,6 +1,6 @@
 # Leo Kasper
 
-Leo Kasper is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Outset, Chicago on Fri, 4 Sept 2026.
+Leo Kasper is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Outset, Chicago on Fri, 4 Sept 2026.
 
 Leo Kasper is a house and garage artist based in United States of America, tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside Kai Castro, 2tipz and Agent O. Next up: Outset, Chicago on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Leo Kasper is a house and garage artist based in United States of America, track
 
 Kai Castro, 2tipz, Agent O
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leokasper/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leokasper/)*

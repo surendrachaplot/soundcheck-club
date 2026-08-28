@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
-Ellen Allien is a techno and house artist tracked on soundcheck, with 248 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+Ellen Allien is a techno and house artist tracked on soundcheck, with 249 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
 ## Upcoming shows
 
@@ -16,10 +16,12 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 248 sets l
 | Sat, 26 Sept 2026 | Flash | Washington DC |
 | Sat, 17 Oct 2026 | SMUT Athens | Athens |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Fri, 6 Nov 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | fabric | London |
 
 ## Recently played
 
+- Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Tempelhof Airport, Berlin — Sat, 22 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
@@ -27,10 +29,9 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 248 sets l
 - Palais Mascotte, Zurich — Sat, 8 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 4 Aug 2026
 - Budapest Park, Budapest — Sat, 1 Aug 2026
-- Budapest Park, Budapest — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

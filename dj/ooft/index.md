@@ -1,6 +1,6 @@
 # OOFT
 
-OOFT is a Disco and Balearic artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Caley Bar, Edinburgh on Fri, 28 Aug 2026.
+OOFT is a Disco and Balearic artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Caley Bar, Edinburgh on Fri, 28 Aug 2026.
 
 OOFT is a disco and balearic artist tracked on soundcheck, with 189 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside David Barbarossa, ButhoTheWarrior and Charlotte Tuesday. Next up: The Caley Bar, Edinburgh on Fri 28 Aug.
 
@@ -31,4 +31,4 @@ OOFT is a disco and balearic artist tracked on soundcheck, with 189 sets logged 
 
 David Barbarossa, ButhoTheWarrior, Charlotte Tuesday
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*

@@ -1,6 +1,6 @@
 # Barutana
 
-Barutana is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Marcel Dettman // 28.08.2026 // Barutana" on Fri, 28 Aug 2026.
+Barutana is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Marcel Dettman // 28.08.2026 // Barutana" on Fri, 28 Aug 2026.
 
 Barutana is a music venue in Belgrade listed on soundcheck. 2 upcoming nights, with line-ups including Balša, Dažbog, Hobin Rude and Ilija Djokovic and 2 more. Browse upcoming dates, start times and who's playing. Kalemegdan Fortress, Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Barutana is a music venue in Belgrade listed on soundcheck. 2 upcoming nights, w
 
 Kalemegdan Fortress, Belgrade, Serbia, Belgrade
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/barutana/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/barutana/)*

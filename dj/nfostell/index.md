@@ -1,6 +1,6 @@
 # N Fostell
 
-N Fostell is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at XOYO, London on Sat, 12 Sept 2026.
+N Fostell is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at XOYO, London on Sat, 12 Sept 2026.
 
 N Fostell is an afro house and house artist tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside Shenin Amara, Beezo and DJ Majesty. Next up: XOYO, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ N Fostell is an afro house and house artist tracked on soundcheck, with 12 sets 
 
 Shenin Amara, Beezo, DJ Majesty
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*

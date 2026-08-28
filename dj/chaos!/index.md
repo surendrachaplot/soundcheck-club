@@ -1,18 +1,18 @@
 # CHAOS!
 
-CHAOS! is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 27 Aug 2026.
+CHAOS! is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-CHAOS! is a house and electro artist based in United States of America, tracked on soundcheck, with 29 sets logged across Miami. Often billed alongside Lotusoph, Roll-e and Milo Ziro. Next up: Jolene Downtown Miami, Miami on Thu 27 Aug.
+CHAOS! is a house and electro artist based in United States of America, tracked on soundcheck, with 29 sets logged across Miami. Often billed alongside Lotusoph, Roll-e and Milo Ziro. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Jolene Downtown Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
 
+- Jolene Downtown Miami, Miami — Thu, 27 Aug 2026
 - Floyd, Miami — Fri, 24 Jul 2026
 - Jolene Downtown Miami, Miami — Thu, 25 Jun 2026
 - TBA - Private Gallery Location , Miami — Sat, 30 May 2026
@@ -20,10 +20,9 @@ CHAOS! is a house and electro artist based in United States of America, tracked 
 - Factory Town, Miami — Sat, 18 Apr 2026
 - The Boombox, Miami — Fri, 30 Jan 2026
 - The Boombox, Miami — Fri, 19 Dec 2025
-- The Boombox, Miami — Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Lotusoph, Roll-e, Milo Ziro
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos!/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos!/)*

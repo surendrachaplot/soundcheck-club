@@ -1,6 +1,6 @@
 # CEREAL
 
-CEREAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+CEREAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
 CEREAL is a techno and house artist based in Czech Republic, tracked on soundcheck, with 24 sets logged across Prague. Often billed alongside Dash (CZ), Alfred Czital and ishka machina. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ CEREAL is a techno and house artist based in Czech Republic, tracked on soundche
 
 Dash (CZ), Alfred Czital, ishka machina
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cereal/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cereal/)*

@@ -1,6 +1,6 @@
 # Richii
 
-Richii is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sameheads, Berlin on Sat, 29 Aug 2026.
+Richii is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sameheads, Berlin on Sat, 29 Aug 2026.
 
 Richii is a house and electro artist based in Japan, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Brussels and Geneva and 10 more. Often billed alongside Luigi Di Venere, Juan Ramos and FFAN. Next up: Sameheads, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Richii is a house and electro artist based in Japan, tracked on soundcheck, with
 
 Luigi Di Venere, Juan Ramos, FFAN
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*

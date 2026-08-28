@@ -1,6 +1,6 @@
 # KHAOS IN ORDER
 
-KHAOS IN ORDER is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sala El Sol, Madrid on Fri, 28 Aug 2026.
+KHAOS IN ORDER is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sala El Sol, Madrid on Fri, 28 Aug 2026.
 
 KHAOS IN ORDER is a techno and acid artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona and Madrid. Often billed alongside Pulpix, Tori and JayVi. Next up: Sala El Sol, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ KHAOS IN ORDER is a techno and acid artist based in Spain, tracked on soundcheck
 
 Pulpix, Tori, JayVi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khaosinorder/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khaosinorder/)*

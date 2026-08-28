@@ -1,6 +1,6 @@
 # Joyhauser
 
-Joyhauser is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Die Rakete, Nürnberg on Sat, 29 Aug 2026.
+Joyhauser is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Die Rakete, Nürnberg on Sat, 29 Aug 2026.
 
 Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck, with 121 sets logged across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Juliet Fox, Pan-Pot and Bart Skils. Next up: Die Rakete, Nurnberg on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Joyhauser is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 Juliet Fox, Pan-Pot, Bart Skils
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*

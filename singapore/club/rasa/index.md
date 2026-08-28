@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "RASA presents Daydream Nation & Soul Powered" on Sat, 29 Aug 2026.
+RASA is a music venue in Singapore with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "RASA presents Daydream Nation & Soul Powered" on Sat, 29 Aug 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 5 upcoming nights, with line-ups including Cosmic, Dean Chew, Dexter Colt and GiGi FM and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ RASA is a music venue in Singapore listed on soundcheck. 5 upcoming nights, with
 | Fri, 25 Sept 2026 | RASA x Sivilian Affairs presents Celestial Seasonings with Ogazón | Miss Lil, Ogazón, Roshan, Sivanesh |
 | Sat, 26 Sept 2026 | RASA presents GiGi FM (DE) & ophélie (DE) | GiGi FM, Loopinmotion, ophélie |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

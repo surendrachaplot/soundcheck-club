@@ -1,6 +1,6 @@
 # Chumbo
 
-Chumbo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
+Chumbo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
 
 Chumbo is a techno and house artist based in Canada, tracked on soundcheck, with 19 sets logged across Mexicocity and Toronto. Often billed alongside Hemlock (CA), Utopos and Siren (4). Next up: TBA, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Chumbo is a techno and house artist based in Canada, tracked on soundcheck, with
 
 Hemlock (CA), Utopos, Siren (4)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chumbo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chumbo/)*

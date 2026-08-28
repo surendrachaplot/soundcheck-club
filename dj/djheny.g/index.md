@@ -1,6 +1,6 @@
 # DJ Heny.G
 
-DJ Heny.G is a Grime and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+DJ Heny.G is a Grime and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 DJ Heny.G is a grime and jungle artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Braindead, DFUSE and Paul Robinson. Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ DJ Heny.G is a grime and jungle artist tracked on soundcheck, with 7 sets logged
 
 Braindead, DFUSE, Paul Robinson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheny.g/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheny.g/)*

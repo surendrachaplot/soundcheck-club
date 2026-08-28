@@ -1,6 +1,6 @@
 # Hallowfest at Fabrik with Charlotte de Witte at Fabrik
 
-Hallowfest at Fabrik with Charlotte de Witte on Sat 31 Oct, Madrid. 9 acts on the bill: CESAR ALMENA, Charlotte de Witte, future.666 and In Verruf and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Hallowfest at Fabrik with Charlotte de Witte on Sat 31 Oct, Madrid. 15 acts on the bill: Anthony Godfather (2), CESAR ALMENA, Charlotte de Witte and Dany Gómez and 11 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,19 @@ Hallowfest at Fabrik with Charlotte de Witte on Sat 31 Oct, Madrid. 9 acts on th
 
 ## Line-up
 
+- Anthony Godfather (2)
 - CESAR ALMENA
 - Charlotte de Witte
+- Dany Gómez
+- Darius Syrossian
+- Detlef
 - future.666
 - In Verruf
 - Inox Traxx
+- Joey Daniel
 - Nastia
 - Nuke
+- Seb Zito
 - Supergloss
 - Svetec
 

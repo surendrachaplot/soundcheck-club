@@ -1,6 +1,6 @@
 # Stamina MC
 
-Stamina MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+Stamina MC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
 Stamina MC is a drum & bass and jungle artist tracked on soundcheck, with 31 sets logged across Bali, Birmingham, Brighton and Bristol and 9 more. Often billed alongside DJ Marky, Shy FX and Bryan Gee. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Stamina MC is a drum & bass and jungle artist tracked on soundcheck, with 31 set
 
 DJ Marky, Shy FX, Bryan Gee
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staminamc/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staminamc/)*

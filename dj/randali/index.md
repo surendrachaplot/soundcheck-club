@@ -1,8 +1,8 @@
 # Randali
 
-Randali is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Randali is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
-Randali is a techno and house artist tracked on soundcheck, with 43 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Sabura and Nikiija. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
+Randali is a techno and house artist tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Sabura and Nikiija. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Randali is a techno and house artist tracked on soundcheck, with 43 sets logged 
 | Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Sat, 29 Aug 2026 | Fundbureau | Hamburg |
 | Sat, 5 Sept 2026 | Club Frau Holle | Hamburg |
+| Sat, 5 Sept 2026 | ÆDEN | Berlin |
 | Fri, 18 Sept 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
@@ -28,4 +29,4 @@ Randali is a techno and house artist tracked on soundcheck, with 43 sets logged 
 
 Konfusia, Sabura, Nikiija
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*

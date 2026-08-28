@@ -1,6 +1,6 @@
 # Hijack
 
-Hijack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
+Hijack is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
 
 Hijack is a house and techno artist tracked on soundcheck, with 20 sets logged across Edinburgh, Glasgow, London and Melbourne. Often billed alongside Lewis Cancut, Kovac and Ageusic. Next up: Revolver Upstairs, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hijack is a house and techno artist tracked on soundcheck, with 20 sets logged a
 
 Lewis Cancut, Kovac, Ageusic
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijack/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijack/)*

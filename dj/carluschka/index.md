@@ -1,6 +1,6 @@
 # Carluschka
 
-Carluschka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - R1 Klybeck, Basel on Sat, 29 Aug 2026.
+Carluschka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - R1 Klybeck, Basel on Sat, 29 Aug 2026.
 
 Carluschka is a house and techno artist based in Germany, tracked on soundcheck, with 120 sets logged across Basel, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside BNZN, DJ Pinky Promise and Antonym. Next up: TBA - R1 Klybeck, Basel on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Carluschka is a house and techno artist based in Germany, tracked on soundcheck,
 
 BNZN, DJ Pinky Promise, Antonym
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

@@ -1,6 +1,6 @@
 # D|K|OXY
 
-D|K|OXY is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
+D|K|OXY is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat, 29 Aug 2026.
 
 D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 11 more. Often billed alongside PARAPHER, Bildgewalt and Sørenga. Next up: TBA - SECRET PORTAL WAREHOUSE RAVE, Berlin on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundchec
 
 PARAPHER, Bildgewalt, Sørenga
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*

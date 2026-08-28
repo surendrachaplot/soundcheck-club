@@ -1,8 +1,8 @@
 # Korolova
 
-Korolova is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Korolova is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Korolova is a techno and house artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Union Park, Chicago on Fri 4 Sept.
+Korolova is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adam Beyer, Artbat and Franky Wah. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Korolova is a techno and house artist tracked on soundcheck, with 124 sets logge
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Avalon Hollywood | Los Angeles |
+| Sun, 13 Sept 2026 | Tapada da Ajuda | Lisbon |
 | Fri, 18 Sept 2026 | LIV Nightclub Miami | Miami |
 | Sat, 19 Sept 2026 | Randall's Island | New York City |
 | Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
@@ -29,4 +30,4 @@ Korolova is a techno and house artist tracked on soundcheck, with 124 sets logge
 
 Adam Beyer, Artbat, Franky Wah
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

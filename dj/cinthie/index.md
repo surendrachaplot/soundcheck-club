@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
+Cinthie is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
 
-Cinthie is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Cova Santa, Ibiza on Tue 8 Sept.
+Cinthie is a house and techno artist tracked on soundcheck, with 280 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Cova Santa, Ibiza on Tue 8 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Cinthie is a house and techno artist tracked on soundcheck, with 279 sets logged
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 13 Nov 2026 | Sala Villanos | Madrid |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
@@ -34,4 +35,4 @@ Cinthie is a house and techno artist tracked on soundcheck, with 279 sets logged
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

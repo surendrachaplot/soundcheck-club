@@ -1,6 +1,6 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+William Kiss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 William Kiss is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Jordan Brando, Luke Alessi and Azzecca. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ William Kiss is a house and techno artist tracked on soundcheck, with 49 sets lo
 
 Jordan Brando, Luke Alessi, Azzecca
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*

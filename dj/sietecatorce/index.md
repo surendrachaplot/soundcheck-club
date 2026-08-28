@@ -1,13 +1,14 @@
 # Siete Catorce
 
-Siete Catorce is a Latin Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 28 Aug 2026.
+Siete Catorce is a Latin Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
-Siete Catorce is a latin bass and experimental artist based in Mexico, tracked on soundcheck, with 16 sets logged across Berlin, Losangeles, Mexicocity and Montreal and 3 more. Often billed alongside SIETE, DJ JUANNY and Anna Morgan. Next up: YuYu Cine Club, Mexicocity on Fri 28 Aug.
+Siete Catorce is a latin bass and experimental artist based in Mexico, tracked on soundcheck, with 16 sets logged across Berlin, Losangeles, Mexicocity and Montreal and 3 more. Often billed alongside SIETE, DJ JUANNY and Anna Morgan. Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 25 Aug 2026 | Drama Radio Bar | Mexico City |
 | Fri, 28 Aug 2026 | YuYu Cine Club | Mexico City |
 | Sun, 30 Aug 2026 | TBA - Sor Juana Inés de la Cruz 78, Santa Maria la Ribera | Mexico City |
 
@@ -26,4 +27,4 @@ Siete Catorce is a latin bass and experimental artist based in Mexico, tracked o
 
 SIETE, DJ JUANNY, Anna Morgan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sietecatorce/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sietecatorce/)*

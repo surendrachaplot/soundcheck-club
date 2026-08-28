@@ -1,6 +1,6 @@
 # DWSM
 
-DWSM is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 31 Oct 2026.
+DWSM is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 DWSM is a house and deep house artist tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside ALMAS, Amatric and Arashism. Next up: Public Works, Sanfrancisco on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ DWSM is a house and deep house artist tracked on soundcheck, with 5 sets logged 
 
 ALMAS, Amatric, Arashism
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwsm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwsm/)*

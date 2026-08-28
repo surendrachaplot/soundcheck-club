@@ -1,6 +1,6 @@
 # DJ Shoe
 
-DJ Shoe is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KEYBAR, New York City on Sat, 26 Sept 2026.
+DJ Shoe is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at KEYBAR, New York City on Sat, 26 Sept 2026.
 
 DJ Shoe is a house and club artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Dom Haley, Rainbow Tutu and Berky. Next up: KEYBAR, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Shoe is a house and club artist tracked on soundcheck, with 10 sets logged ac
 
 Dom Haley, Rainbow Tutu, Berky
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshoe/)*

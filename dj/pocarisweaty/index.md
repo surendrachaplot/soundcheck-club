@@ -1,6 +1,6 @@
 # Pocari Sweaty
 
-Pocari Sweaty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 宀 Club, Hong Kong on Fri, 2 Oct 2026.
+Pocari Sweaty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 宀 Club, Hong Kong on Fri, 2 Oct 2026.
 
 Pocari Sweaty is a house and disco artist tracked on soundcheck, with 15 sets logged across Hongkong, Melbourne, Osaka and Taipei and 1 more. Often billed alongside Sunsiaré, DJ Possum and Dan-neo. Next up: 宀 Club, Hongkong on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Pocari Sweaty is a house and disco artist tracked on soundcheck, with 15 sets lo
 
 Sunsiaré, DJ Possum, Dan-neo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pocarisweaty/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pocarisweaty/)*

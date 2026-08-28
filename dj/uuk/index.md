@@ -1,6 +1,6 @@
 # U (UK)
 
-U (UK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+U (UK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
 U (UK) is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London, Montreal, Osaka and Tokyo. Often billed alongside Neon Noir, Blood Orange and Ciel. Next up: Southwark Park, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ U (UK) is a techno and house artist based in United Kingdom, tracked on soundche
 
 Neon Noir, Blood Orange, Ciel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uuk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uuk/)*

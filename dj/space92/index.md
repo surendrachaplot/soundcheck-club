@@ -1,14 +1,15 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Royale, Boston on Sat, 19 Sept 2026.
+Space 92 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Royale, Boston on Sat, 19 Sept 2026.
 
-Space 92 is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside Popof, Lilly Palmer and Joyhauser. Next up: Royale, Boston on Sat 19 Sept.
+Space 92 is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Popof, Lilly Palmer and Joyhauser. Next up: Royale, Boston on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Royale | Boston |
+| Fri, 25 Sept 2026 | Bauhaus | Houston |
 | Sat, 21 Nov 2026 | Q Nightclub | Seattle |
 
 ## Recently played
@@ -26,4 +27,4 @@ Space 92 is a techno and house artist tracked on soundcheck, with 119 sets logge
 
 Popof, Lilly Palmer, Joyhauser
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

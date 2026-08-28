@@ -1,14 +1,15 @@
 # Kyuchan
 
-Kyuchan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Nyapi, Seoul on Sat, 29 Aug 2026.
+Kyuchan is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Nyapi, Seoul on Sat, 29 Aug 2026.
 
-Kyuchan is a techno and house artist based in South Korea, tracked on soundcheck, with 48 sets logged across Bangkok, Berlin, Melbourne and Seoul and 2 more. Often billed alongside chani, Hakim. and .2ndfloor. Next up: Nyapi, Seoul on Sat 29 Aug.
+Kyuchan is a techno and house artist based in South Korea, tracked on soundcheck, with 49 sets logged across Bangkok, Berlin, Melbourne and Seoul and 2 more. Often billed alongside chani, Hakim. and Yoel. Next up: Nyapi, Seoul on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Nyapi | Seoul |
+| Sat, 19 Sept 2026 | TBA | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kyuchan is a techno and house artist based in South Korea, tracked on soundcheck
 
 ## Shares bills with
 
-chani, Hakim., .2ndfloor
+chani, Hakim., Yoel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyuchan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyuchan/)*

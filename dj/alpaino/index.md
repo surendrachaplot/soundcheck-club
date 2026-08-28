@@ -1,6 +1,6 @@
 # Al Paino
 
-Al Paino is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
+Al Paino is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
 
 Al Paino is an electronica and techno artist tracked on soundcheck, with 17 sets logged across Milan and Rome. Often billed alongside Monica Witty, Giesse and Kara (3). Next up: CIQ - Centro Internazionale di Quartiere, Milan on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Al Paino is an electronica and techno artist tracked on soundcheck, with 17 sets
 
 Monica Witty, Giesse, Kara (3)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaino/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaino/)*

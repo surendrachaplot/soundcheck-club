@@ -1,6 +1,6 @@
 # Chunky
 
-Chunky is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
+Chunky is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 29 Aug 2026.
 
 Chunky is a garage and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 9 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: SISSI'S Amsterdam, Amsterdam on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Chunky is a garage and house artist tracked on soundcheck, with 98 sets logged a
 
 Rich Reason, Tom Boogizm, Chimpo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

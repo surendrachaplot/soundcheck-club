@@ -1,6 +1,6 @@
 # Angelo Cortines
 
-Angelo Cortines is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 28 Aug 2026.
+Angelo Cortines is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 28 Aug 2026.
 
 Angelo Cortines is a house and electro artist tracked on soundcheck, with 37 sets logged across Barcelona. Often billed alongside Zedlav, max brachais and Alice Youngling. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Angelo Cortines is a house and electro artist tracked on soundcheck, with 37 set
 
 Zedlav, max brachais, Alice Youngling
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelocortines/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelocortines/)*

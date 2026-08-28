@@ -1,6 +1,6 @@
 # Dyzen
 
-Dyzen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Else, Berlin on Sat, 29 Aug 2026.
+Dyzen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Else, Berlin on Sat, 29 Aug 2026.
 
 Dyzen is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Athens and Basel and 19 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Else, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Dyzen is a techno and house artist tracked on soundcheck, with 51 sets logged ac
 
 Mind Against, sideral, Recondite
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*

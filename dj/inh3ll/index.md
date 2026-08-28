@@ -1,6 +1,6 @@
 # INH3LL
 
-INH3LL is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at DETROIT CLUB, Barcelona on Sun, 27 Sept 2026.
+INH3LL is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DETROIT CLUB, Barcelona on Sun, 27 Sept 2026.
 
 INH3LL is a techno and drum & bass artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside DIL KASHMIR, GRAViiTY and Herk. Next up: DETROIT CLUB, Barcelona on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ INH3LL is a techno and drum & bass artist based in Spain, tracked on soundcheck,
 
 DIL KASHMIR, GRAViiTY, Herk
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inh3ll/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inh3ll/)*

@@ -1,6 +1,6 @@
 # Fur Coat
 
-Fur Coat is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 12 Sept 2026.
+Fur Coat is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 12 Sept 2026.
 
 Fur Coat is a techno and tech house artist tracked on soundcheck, with 31 sets logged across Austin, Barcelona, Budapest and Buenosaires and 13 more. Often billed alongside Art Department, Korolova and Nick Warren. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fur Coat is a techno and tech house artist tracked on soundcheck, with 31 sets l
 
 Art Department, Korolova, Nick Warren
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/furcoat/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/furcoat/)*

@@ -1,6 +1,6 @@
 # TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4
 
-TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4 is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Techno Dampfer Köln with SaltySis" on Sat, 29 Aug 2026.
+TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4 is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Techno Dampfer Köln with SaltySis" on Sat, 29 Aug 2026.
 
 TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4 is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including SaltySis. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises
 | Sat, 29 Aug 2026 | Techno Dampfer Köln with SaltySis | SaltySis |
 | Sat, 26 Sept 2026 | Techno Dampfer Köln with Bonnie Strange |  |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-konrad-adenauer-ufer-50668-k-ln-schiffanlegestelle-viking-river-cruises-4/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-konrad-adenauer-ufer-50668-k-ln-schiffanlegestelle-viking-river-cruises-4/)*

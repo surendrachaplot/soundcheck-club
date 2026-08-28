@@ -1,6 +1,6 @@
 # enz.O
 
-enz.O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Satellite Gallery, New York City on Fri, 11 Sept 2026.
+enz.O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Satellite Gallery, New York City on Fri, 11 Sept 2026.
 
 enz.O is a house and techno artist tracked on soundcheck, with 76 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ramos (2), KayLaSoul and Jus Nowhere. Next up: Satellite Gallery, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ enz.O is a house and techno artist tracked on soundcheck, with 76 sets logged ac
 
 Ramos (2), KayLaSoul, Jus Nowhere
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*

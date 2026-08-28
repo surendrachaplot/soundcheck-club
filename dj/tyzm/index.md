@@ -1,6 +1,6 @@
 # TYZM
 
-TYZM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Room 2 Glasgow, Glasgow on Sat, 19 Sept 2026.
+TYZM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Room 2 Glasgow, Glasgow on Sat, 19 Sept 2026.
 
 TYZM is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh and Glasgow. Often billed alongside SHORTIE, ATTA. and Costy. Next up: Room 2 Glasgow, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ TYZM is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 SHORTIE, ATTA., Costy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyzm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tyzm/)*

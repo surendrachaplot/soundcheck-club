@@ -1,6 +1,6 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
+nextdimensional is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
 
 nextdimensional is a techno and club artist based in United States of America, tracked on soundcheck, with 91 sets logged across Chicago, Montreal, Newyorkcity and Paris and 5 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: R Lounge, Tokyo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ nextdimensional is a techno and club artist based in United States of America, t
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

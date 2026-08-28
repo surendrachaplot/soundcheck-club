@@ -1,17 +1,18 @@
 # Ximxim Bar
 
-Ximxim Bar is a music venue in Seoul with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Seoul House Connection" on Fri, 4 Sept 2026.
+Ximxim Bar is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Seoul House Connection" on Fri, 4 Sept 2026.
 
-Ximxim Bar is a music venue in Seoul listed on soundcheck. 1 upcoming night, with line-ups including Beejay. Browse upcoming dates, start times and who's playing. 11, Yeonmujang 15-gil, Seongdong-gu, Seoul.
+Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Bagagee Viphex13, Beejay, Casepeat and Kago Pengchi and 2 more. Browse upcoming dates, start times and who's playing. 11, Yeonmujang 15-gil, Seongdong-gu, Seoul.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Seoul House Connection | Beejay |
+| Sat, 12 Sept 2026 | [PIF PARTY VOL.5] MUZIE X PLAY IT FORWARD | Bagagee Viphex13, Casepeat, Kago Pengchi, Kataploks, M42 (1), Purple Rabbit, Rubato |
 
 ## Address
 
 11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*

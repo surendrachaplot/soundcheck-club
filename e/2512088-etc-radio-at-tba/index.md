@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Sun 20 Sept, Chicago. 4 acts on the bill: Bardia Mehrzadeh, m50, Payam Parvizi and Yashar. Ambient and Acid. Preview the line-up and save it on soundcheck.
+etc radio at TBA on Sun 20 Sept, Chicago. 5 acts on the bill: Bardia Mehrzadeh, m50, Parsa Hs and Payam Parvizi and 1 more. Ambient and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ etc radio at TBA on Sun 20 Sept, Chicago. 4 acts on the bill: Bardia Mehrzadeh, 
 
 - Bardia Mehrzadeh
 - m50
+- Parsa Hs
 - Payam Parvizi
 - Yashar
 

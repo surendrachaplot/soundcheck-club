@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Cola Ren - Live" on Fri, 28 Aug 2026.
+Pastiche is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Cola Ren - Live" on Fri, 28 Aug 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including COLA REN, JS, Neutran and Perila and 1 more. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -16,4 +16,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 3 upcoming nights, wit
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

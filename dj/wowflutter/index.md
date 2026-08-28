@@ -1,6 +1,6 @@
 # Wow & Flutter
 
-Wow & Flutter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
+Wow & Flutter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
 
 Wow & Flutter are a house and techno duo tracked on soundcheck, with 46 sets logged across London, Manchester, Nottingham and Sheffield. Often billed alongside Joi La Frique, Aaron Dynamic and Hames. Next up: Hagglers Corner, Sheffield on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Wow & Flutter are a house and techno duo tracked on soundcheck, with 46 sets log
 
 Joi La Frique, Aaron Dynamic, Hames
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wowflutter/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wowflutter/)*

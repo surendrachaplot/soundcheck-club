@@ -1,6 +1,6 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+MikeQ is a Ballroom and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 MikeQ is a ballroom and club artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MikeQ is a ballroom and club artist based in United States of America, tracked o
 
 Sinjin Hawke, Leonce, Litney
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*

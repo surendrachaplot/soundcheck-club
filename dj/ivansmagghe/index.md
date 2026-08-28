@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
+Ivan Smagghe is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Sonnenraum, Berlin on Sat 29 Aug.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets l
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Sonnenraum | Berlin |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
@@ -30,4 +31,4 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 181 sets l
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

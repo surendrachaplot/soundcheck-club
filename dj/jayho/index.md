@@ -1,6 +1,6 @@
 # Jay Ho
 
-Jay Ho is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
+Jay Ho is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cafe 1001, London on Sun, 30 Aug 2026.
 
 Jay Ho is a disco and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, London and Seoul. Often billed alongside Claudia (UK), Marcus Owen and AKWA. Next up: Cafe 1001, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jay Ho is a disco and house artist tracked on soundcheck, with 13 sets logged ac
 
 Claudia (UK), Marcus Owen, AKWA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayho/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayho/)*

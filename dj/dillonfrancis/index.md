@@ -1,6 +1,6 @@
 # Dillon Francis
 
-Dillon Francis is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Future Nightlife, Toronto on Fri, 16 Oct 2026.
+Dillon Francis is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Future Nightlife, Toronto on Fri, 16 Oct 2026.
 
 Dillon Francis is a house and bass artist tracked on soundcheck, with 37 sets logged across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside Flosstradamus, Hamdi and Alignment. Next up: Future Nightlife, Toronto on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Dillon Francis is a house and bass artist tracked on soundcheck, with 37 sets lo
 
 Flosstradamus, Hamdi, Alignment
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dillonfrancis/)*

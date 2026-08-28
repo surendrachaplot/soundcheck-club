@@ -1,6 +1,6 @@
 # Jazzy Jeff
 
-Jazzy Jeff is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
+Jazzy Jeff is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Amnesia Ibiza, Ibiza on Fri, 28 Aug 2026.
 
 Jazzy Jeff is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 12 sets logged across Chicago, Detroit, Ibiza and Lisbon and 6 more. Often billed alongside Melvo Baptiste, Rich Medina and Fat Tony. Next up: Amnesia Ibiza, Ibiza on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Jazzy Jeff is a house and hip-hop artist based in United States of America, trac
 
 Melvo Baptiste, Rich Medina, Fat Tony
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyjeff/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzyjeff/)*

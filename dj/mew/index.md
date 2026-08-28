@@ -1,6 +1,6 @@
 # Mew
 
-Mew is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Abercrombie Hotel, Sydney on Sat, 29 Aug 2026.
+Mew is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Abercrombie Hotel, Sydney on Sat, 29 Aug 2026.
 
 Mew is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg, Mexicocity and Seoul and 2 more. Often billed alongside Jacqui Cunningham, Concret and Olsvangèr. Next up: Abercrombie Hotel, Sydney on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Mew is a house and techno artist based in Australia, tracked on soundcheck, with
 
 Jacqui Cunningham, Concret, Olsvangèr
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mew/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mew/)*

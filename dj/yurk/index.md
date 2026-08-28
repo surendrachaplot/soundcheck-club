@@ -1,6 +1,6 @@
 # Yurk
 
-Yurk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
+Yurk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
 
 Yurk is a house and techno artist tracked on soundcheck, with 52 sets logged across Losangeles and Newyorkcity. Often billed alongside Timo Lee, Prince of Queens and Tommy Castro. Next up: Dead Letter No. 9, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yurk is a house and techno artist tracked on soundcheck, with 52 sets logged acr
 
 Timo Lee, Prince of Queens, Tommy Castro
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yurk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yurk/)*

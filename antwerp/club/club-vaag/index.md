@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Club Vaag invites NØNAME & VICØ" on Fri, 28 Aug 2026.
+Club Vaag is a music venue in Antwerp with 13 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Club Vaag invites NØNAME & VICØ" on Fri, 28 Aug 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming nights, with line-ups including 6 SENSE, ANSWR, BISOUX and DJ IP and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -23,4 +23,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 13 upcoming nights, 
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

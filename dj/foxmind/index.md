@@ -1,6 +1,6 @@
 # FoxMind
 
-FoxMind is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
+FoxMind is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
 
 FoxMind is a house and techno artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside Janosch (2), Serving Suggestions and Aezron. Next up: OHM, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ FoxMind is a house and techno artist based in United Kingdom, tracked on soundch
 
 Janosch (2), Serving Suggestions, Aezron
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxmind/)*

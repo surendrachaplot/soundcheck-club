@@ -1,6 +1,6 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Eve Whitehouse Scheveningen, The Hague on Fri, 28 Aug 2026.
+Estiva is a Progressive House and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Eve Whitehouse Scheveningen, The Hague on Fri, 28 Aug 2026.
 
 Estiva is a progressive house and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: TBA - Eve Whitehouse Scheveningen, Thehague on Fri 28 Aug.
 
@@ -30,4 +30,4 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 37 s
 
 mölly, ALLKNIGHT, Farius
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

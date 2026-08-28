@@ -1,6 +1,6 @@
 # Anarchy in The Club with Cosimo Damiano, Ziur at THE MAGICK BAR
 
-Anarchy in The Club with Cosimo Damiano, Ziur at THE MAGICK BAR on Fri 28 Aug, Rome. 2 acts on the bill: Cosimo Damiano and Ziúr. Preview the line-up and save it on soundcheck.
+Anarchy in The Club with Cosimo Damiano, Ziur at THE MAGICK BAR on Fri 28 Aug, Rome. 3 acts on the bill: Cosimo Damiano, Strada and Ziúr. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Anarchy in The Club with Cosimo Damiano, Ziur at THE MAGICK BAR on Fri 28 Aug, R
 ## Line-up
 
 - Cosimo Damiano
+- Strada
 - Ziúr
 
 *Source: [soundcheck](https://soundcheck.club/e/2519343-anarchy-in-the-club-with-cosimo-damiano-ziur-at-the-magick-b/)*

@@ -1,6 +1,6 @@
 # DYEN
 
-DYEN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
+DYEN is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
 DYEN is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ DYEN is a techno and house artist tracked on soundcheck, with 196 sets logged ac
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

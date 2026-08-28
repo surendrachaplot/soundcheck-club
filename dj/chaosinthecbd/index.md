@@ -1,6 +1,6 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+Chaos In The CBD is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
 Chaos In The CBD is a house and techno artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Chaos In The CBD is a house and techno artist tracked on soundcheck, with 207 se
 
 Sally C, Seth Troxler, Ben UFO
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

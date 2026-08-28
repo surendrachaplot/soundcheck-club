@@ -1,8 +1,8 @@
 # Minkyu
 
-Minkyu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ring, Seoul on Fri, 28 Aug 2026.
+Minkyu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ring, Seoul on Fri, 28 Aug 2026.
 
-Minkyu is a techno and house artist tracked on soundcheck, with 37 sets logged across Bangkok, Barcelona, Hongkong and Seoul and 1 more. Often billed alongside Yoel, .2ndfloor and Hakim.. Next up: Ring, Seoul on Fri 28 Aug.
+Minkyu is a techno and house artist tracked on soundcheck, with 38 sets logged across Bangkok, Barcelona, Hongkong and Seoul and 1 more. Often billed alongside Yoel, .2ndfloor and Hakim.. Next up: Ring, Seoul on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Minkyu is a techno and house artist tracked on soundcheck, with 37 sets logged a
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Ring | Seoul |
 | Sat, 29 Aug 2026 | Elsewhere | Bangkok |
+| Sat, 19 Sept 2026 | TBA | Seoul |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Minkyu is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 Yoel, .2ndfloor, Hakim.
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minkyu/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minkyu/)*

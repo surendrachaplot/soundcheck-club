@@ -1,6 +1,6 @@
 # Dinamite
 
-Dinamite is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Coro Wine and Vinyls, Berlin on Fri, 28 Aug 2026.
+Dinamite is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Coro Wine and Vinyls, Berlin on Fri, 28 Aug 2026.
 
 Dinamite is a techno and ambient artist based in Spain, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Magda El Bayoumi, Steve Bicknell and Alienata. Next up: Coro Wine and Vinyls, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Dinamite is a techno and ambient artist based in Spain, tracked on soundcheck, w
 
 Magda El Bayoumi, Steve Bicknell, Alienata
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamite/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamite/)*

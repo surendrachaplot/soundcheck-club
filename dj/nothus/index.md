@@ -1,6 +1,6 @@
 # Nothus
 
-Nothus is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Soffio Fregene, Rome on Sun, 30 Aug 2026.
+Nothus is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Soffio Fregene, Rome on Sun, 30 Aug 2026.
 
 Nothus is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Berlin, London, Milan and Prague and 2 more. Often billed alongside Aeery, Appleblim and Asymptote. Next up: Soffio Fregene, Rome on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Nothus is a techno and electronica artist tracked on soundcheck, with 9 sets log
 
 Aeery, Appleblim, Asymptote
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nothus/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nothus/)*

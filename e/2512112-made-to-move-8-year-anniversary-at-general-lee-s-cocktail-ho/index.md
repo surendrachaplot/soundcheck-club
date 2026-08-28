@@ -1,6 +1,6 @@
 # Made to Move 8 Year Anniversary at General Lee's Cocktail House
 
-Made to Move 8 Year Anniversary at General Lee's Cocktail House on Thu 10 Sept, Losangeles. 4 acts on the bill: agraybé, Akumen, Andy Oro and No Pressure. House. Preview the line-up and save it on soundcheck.
+Made to Move 8 Year Anniversary at General Lee's Cocktail House on Thu 10 Sept, Losangeles. 9 acts on the bill: agraybé, Akumen, Andy Oro and Ctrl.mp3 and 5 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,11 @@ Made to Move 8 Year Anniversary at General Lee's Cocktail House on Thu 10 Sept, 
 - agraybé
 - Akumen
 - Andy Oro
+- Ctrl.mp3
+- Dj Kerry
 - No Pressure
+- Rivussy
+- Stacy Christine
+- Xica Soul
 
 *Source: [soundcheck](https://soundcheck.club/e/2512112-made-to-move-8-year-anniversary-at-general-lee-s-cocktail-ho/)*

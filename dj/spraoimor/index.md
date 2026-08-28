@@ -1,6 +1,6 @@
 # Spraoi Mór
 
-Spraoi Mór is a Acid and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - SECRET LOCATION, Belfast on Sat, 5 Sept 2026.
+Spraoi Mór is a Acid and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - SECRET LOCATION, Belfast on Sat, 5 Sept 2026.
 
 Spraoi Mór is an acid and disco artist tracked on soundcheck, with 17 sets logged across Belfast, Berlin, Dublin and Ibiza and 1 more. Often billed alongside Dar Molloy (2), Holten and Bella Festa. Next up: TBA - SECRET LOCATION, Belfast on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Spraoi Mór is an acid and disco artist tracked on soundcheck, with 17 sets logg
 
 Dar Molloy (2), Holten, Bella Festa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*

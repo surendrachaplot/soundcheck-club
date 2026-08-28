@@ -1,6 +1,6 @@
 # Percolate presents Benwal at M.O.T
 
-Percolate presents Benwal at M.O.T on Sat 17 Oct, London. 1 act on the bill: Benwal. Preview the line-up and save it on soundcheck.
+Percolate presents Benwal at M.O.T on Sat 17 Oct, London. 1 act on the bill: Benwal. Trance and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

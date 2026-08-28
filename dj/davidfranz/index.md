@@ -1,6 +1,6 @@
 # David Franz
 
-David Franz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Unter Deck, Munich on Fri, 11 Sept 2026.
+David Franz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Unter Deck, Munich on Fri, 11 Sept 2026.
 
 David Franz is a techno and house artist tracked on soundcheck, with 11 sets logged across Munich. Often billed alongside Niko S., Dexxis and Ellice. Next up: Unter Deck, Munich on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ David Franz is a techno and house artist tracked on soundcheck, with 11 sets log
 
 Niko S., Dexxis, Ellice
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfranz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfranz/)*

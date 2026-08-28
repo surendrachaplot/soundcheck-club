@@ -1,6 +1,6 @@
 # HERS
 
-HERS is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
+HERS is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
 
 HERS is a techno and electronica artist based in Argentina, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 1 more. Often billed alongside JXXXO, Bondarük and Lucas Sosa (AR). Next up: M7 Club, Barcelona on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ HERS is a techno and electronica artist based in Argentina, tracked on soundchec
 
 JXXXO, Bondarük, Lucas Sosa (AR)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hers/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hers/)*

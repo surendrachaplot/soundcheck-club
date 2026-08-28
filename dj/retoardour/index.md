@@ -1,6 +1,6 @@
 # Reto Ardour
 
-Reto Ardour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Landesmuseum, Zurich on Mon, 24 Aug 2026.
+Reto Ardour is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Landesmuseum, Zurich on Mon, 24 Aug 2026.
 
 Reto Ardour is a techno and house artist tracked on soundcheck, with 42 sets logged across Zurich. Often billed alongside Read the News, Adriatique and Lou Combo. Next up: Landesmuseum, Zurich on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Reto Ardour is a techno and house artist tracked on soundcheck, with 42 sets log
 
 Read the News, Adriatique, Lou Combo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retoardour/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/retoardour/)*

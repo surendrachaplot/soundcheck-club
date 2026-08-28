@@ -1,8 +1,8 @@
 # radial
 
-radial is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Minor Science ✼ Nose Dive" on Fri, 28 Aug 2026.
+radial is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Minor Science ✼ Nose Dive" on Fri, 28 Aug 2026.
 
-radial is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Adam Curtain, Alex Sourbis, Alírio and Baba T and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Seyer (UK), Adam Curtain, Alex Sourbis and Alírio and 2 more. Browse upcoming dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ radial is a music venue in London listed on soundcheck. 16 upcoming nights, with
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

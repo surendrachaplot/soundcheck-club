@@ -1,6 +1,6 @@
 # Obstructor
 
-Obstructor is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KHIDI, Tbilisi on Fri, 28 Aug 2026.
+Obstructor is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at KHIDI, Tbilisi on Fri, 28 Aug 2026.
 
 Obstructor is an electronic artist tracked on soundcheck, with 12 sets logged across Berlin and Tbilisi. Often billed alongside Comethisfar, gwän and Aksed. Next up: KHIDI, Tbilisi on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Obstructor is an electronic artist tracked on soundcheck, with 12 sets logged ac
 
 Comethisfar, gwän, Aksed
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obstructor/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obstructor/)*

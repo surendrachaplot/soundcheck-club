@@ -1,6 +1,6 @@
 # Fucknormal
 
-Fucknormal is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
+Fucknormal is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
 
 Fucknormal is a techno and club artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, London and Madrid. Often billed alongside Olvido, Hanna Plum and Aexhy. Next up: Colour Factory, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fucknormal is a techno and club artist based in Spain, tracked on soundcheck, wi
 
 Olvido, Hanna Plum, Aexhy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fucknormal/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fucknormal/)*

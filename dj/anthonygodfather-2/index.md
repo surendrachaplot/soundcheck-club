@@ -1,14 +1,15 @@
 # Anthony Godfather (2)
 
-Anthony Godfather (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Luz De Gas, Barcelona on Sat, 12 Sept 2026.
+Anthony Godfather (2) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Luz De Gas, Barcelona on Sat, 12 Sept 2026.
 
-Anthony Godfather (2) is a techno artist tracked on soundcheck, with 9 sets logged across Barcelona, London and Madrid. Often billed alongside Abdon, Los Canarios and Purofuego. Next up: Luz De Gas, Barcelona on Sat 12 Sept.
+Anthony Godfather (2) is a techno artist tracked on soundcheck, with 10 sets logged across Barcelona, London and Madrid. Often billed alongside Abdon, Darius Syrossian and Joey Daniel. Next up: Luz De Gas, Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Luz De Gas | Barcelona |
+| Sat, 31 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Anthony Godfather (2) is a techno artist tracked on soundcheck, with 9 sets logg
 
 ## Shares bills with
 
-Abdon, Los Canarios, Purofuego
+Abdon, Darius Syrossian, Joey Daniel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*

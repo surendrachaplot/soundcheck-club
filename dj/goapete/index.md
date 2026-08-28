@@ -1,6 +1,6 @@
 # Goa Pete
 
-Goa Pete is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
+Goa Pete is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
 
 Goa Pete is a techno and house artist tracked on soundcheck, with 26 sets logged across Vancouver. Often billed alongside DK PAU, C-Star and POPU. Next up: TBA - Secret Location, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Goa Pete is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 DK PAU, C-Star, POPU
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goapete/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goapete/)*

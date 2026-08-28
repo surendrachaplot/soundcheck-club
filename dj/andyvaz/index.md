@@ -1,14 +1,15 @@
 # Andy Vaz
 
-Andy Vaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Metro, Kyoto on Fri, 18 Sept 2026.
+Andy Vaz is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club Metro, Kyoto on Fri, 18 Sept 2026.
 
-Andy Vaz is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Cologne, Kyoto, Osaka and Tokyo. Often billed alongside Ryoma Sasaki, DJ Compufunk and Ian Oskadev. Next up: Club Metro, Kyoto on Fri 18 Sept.
+Andy Vaz is a house and deep house artist based in Germany, tracked on soundcheck, with 6 sets logged across Cologne, Kyoto, Osaka and Tokyo. Often billed alongside DJ Compufunk, Ryoma Sasaki and Ian Oskadev. Next up: Club Metro, Kyoto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Club Metro | Kyoto |
+| Sat, 19 Sept 2026 | Compufunk Records | Osaka |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Andy Vaz is a house and techno artist based in Germany, tracked on soundcheck, w
 
 ## Shares bills with
 
-Ryoma Sasaki, DJ Compufunk, Ian Oskadev
+DJ Compufunk, Ryoma Sasaki, Ian Oskadev
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvaz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyvaz/)*

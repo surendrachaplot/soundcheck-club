@@ -1,6 +1,6 @@
 # DJ LONER
 
-DJ LONER is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club 77, Sydney on Sun, 13 Sept 2026.
+DJ LONER is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club 77, Sydney on Sun, 13 Sept 2026.
 
 DJ LONER is a house and techno artist tracked on soundcheck, with 18 sets logged across Melbourne and Sydney. Often billed alongside Shouse, BAiiN TWINS and BLURR3D. Next up: Club 77, Sydney on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ DJ LONER is a house and techno artist tracked on soundcheck, with 18 sets logged
 
 Shouse, BAiiN TWINS, BLURR3D
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djloner/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djloner/)*

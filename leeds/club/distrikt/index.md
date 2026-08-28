@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 15 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Back2Diamonds" on Fri, 28 Aug 2026.
+Distrikt is a music venue in Leeds with 15 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Back2Diamonds" on Fri, 28 Aug 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 15 upcoming nights, with line-ups including ad*n, Alex Mills, Arty and B-HIND and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -23,4 +23,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 15 upcoming nights, wit
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

@@ -1,6 +1,6 @@
 # fiedorka
 
-fiedorka is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 5 Sept 2026.
+fiedorka is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 5 Sept 2026.
 
 fiedorka is a house and acid artist based in Belarus, tracked on soundcheck, with 11 sets logged across Berlin and Warsaw. Often billed alongside max whatever, MATRIX3K and Slowmode. Next up: K-Bar Powiśle, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ fiedorka is a house and acid artist based in Belarus, tracked on soundcheck, wit
 
 max whatever, MATRIX3K, Slowmode
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedorka/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiedorka/)*

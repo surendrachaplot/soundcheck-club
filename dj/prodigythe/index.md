@@ -1,6 +1,6 @@
 # The Prodigy
 
-The Prodigy is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+The Prodigy is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Brisbane and Copenhagen and 13 more. Often billed alongside Carl Cox, Andy C and Jamie Jones. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 se
 
 Carl Cox, Andy C, Jamie Jones
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*

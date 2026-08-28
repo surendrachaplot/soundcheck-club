@@ -1,6 +1,6 @@
 # Ejdm
 
-Ejdm is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Music Club Pulse 22, Prague on Fri, 4 Sept 2026.
+Ejdm is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Music Club Pulse 22, Prague on Fri, 4 Sept 2026.
 
 Ejdm is a drum & bass and techno artist based in Czech Republic, tracked on soundcheck, with 45 sets logged across Prague. Often billed alongside Patricio Strix, Plus One (1) and NFKS. Next up: Music Club Pulse 22, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ejdm is a drum & bass and techno artist based in Czech Republic, tracked on soun
 
 Patricio Strix, Plus One (1), NFKS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejdm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejdm/)*

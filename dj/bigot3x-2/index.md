@@ -1,6 +1,6 @@
 # Bigot3x (2)
 
-Bigot3x (2) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Goya Social Club, Madrid on Fri, 28 Aug 2026.
+Bigot3x (2) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Goya Social Club, Madrid on Fri, 28 Aug 2026.
 
 Bigot3x (2) is a techno and acid artist based in Spain, tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside KRSDJ, Arok Shiva and Capella (ES). Next up: Goya Social Club, Madrid on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Bigot3x (2) is a techno and acid artist based in Spain, tracked on soundcheck, w
 
 KRSDJ, Arok Shiva, Capella (ES)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigot3x-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigot3x-2/)*

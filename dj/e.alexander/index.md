@@ -1,6 +1,6 @@
 # E. Alexander
 
-E. Alexander is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
+E. Alexander is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
 
 E. Alexander is a house and tech house artist tracked on soundcheck, with 53 sets logged across Brighton, Edinburgh, Hamburg and London. Often billed alongside Trixie (UK), Jake Hodgkinson and Alien Communications. Next up: Big Penny Social, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ E. Alexander is a house and tech house artist tracked on soundcheck, with 53 set
 
 Trixie (UK), Jake Hodgkinson, Alien Communications
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/e.alexander/)*

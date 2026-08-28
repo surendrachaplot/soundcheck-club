@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Jesse Maas curates" on Fri, 28 Aug 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 21 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Jesse Maas curates" on Fri, 28 Aug 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 21 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 21 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

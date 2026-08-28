@@ -1,6 +1,6 @@
 # Bruno Gervais
 
-Bruno Gervais is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
+Bruno Gervais is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
 
 Bruno Gervais is a house and techno artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Dragos Ilici, CAÑITA and Corazón De Melon. Next up: H0L0, Newyorkcity on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Bruno Gervais is a house and techno artist tracked on soundcheck, with 5 sets lo
 
 Dragos Ilici, CAÑITA, Corazón De Melon
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunogervais/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brunogervais/)*

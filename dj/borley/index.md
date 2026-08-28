@@ -1,13 +1,14 @@
 # BORLEY
 
-BORLEY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sneaky Pete's, Edinburgh on Wed, 16 Sept 2026.
+BORLEY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sneaky Pete's, Edinburgh on Tue, 1 Sept 2026.
 
-BORLEY is a house and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh and Leeds. Often billed alongside PASO, ARWEN and BING (UK). Next up: Sneaky Pete's, Edinburgh on Wed 16 Sept.
+BORLEY is a house and techno artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Edinburgh and Leeds. Often billed alongside PASO, ARWEN and BING (UK). Next up: Sneaky Pete's, Edinburgh on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 1 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Wed, 16 Sept 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
@@ -25,4 +26,4 @@ BORLEY is a house and techno artist based in United Kingdom, tracked on soundche
 
 PASO, ARWEN, BING (UK)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borley/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borley/)*

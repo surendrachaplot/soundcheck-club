@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "DEMORAVE AFTERSHOW" on Sat, 29 Aug 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "DEMORAVE AFTERSHOW" on Sat, 29 Aug 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including AH-N!CE, Aiden (DE), ANDATA and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -10,7 +10,7 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcomin
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | DEMORAVE AFTERSHOW | AH-N!CE, LUGIÆ, Lucinee, Mischa, Navid Asadi (DE), RIA (DE), Sophie Cut |
 | Fri, 4 Sept 2026 | Bunker Season Opening with dasstudach & ANDATA | ANDATA, Invaria, TWOFACEDKIMMY, dasstudach |
-| Fri, 11 Sept 2026 | VER pres. davyboi, Charleen Herzig, SUAY ÆNNA, MOVE TO GROOVE COLLECTIVE uvm | Charleen Herzig, KENZ, Suay Aenna, dannycookin, davyboi, djcob, unjani |
+| Fri, 11 Sept 2026 | VER pres. davyboi, Charleen Herzig, DJ Pinky Promise,  MOVE TO GROOVE COLLECTIVE uvm | Charleen Herzig, KENZ, Suay Aenna, dannycookin, davyboi, djcob, unjani |
 | Fri, 25 Sept 2026 | Liquicity Hamburg 2026 | Eightball, Lexurus, Maduk, Pola & Bryson |
 | Sat, 26 Sept 2026 | Bunker Rave (Schranz Edition) with AIDEN & Svetec | Aiden (DE), Kaizen, Svetec |
 | Fri, 2 Oct 2026 | King Kong Kicks • IndiePop&Hypes + RaveIsKing• Uebel & Gefährlich • Hamburg |  |
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

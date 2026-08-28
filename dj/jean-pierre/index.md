@@ -1,6 +1,6 @@
 # JEAN-PIERRE
 
-JEAN-PIERRE is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Amma Cafe, New York City on Sat, 29 Aug 2026.
+JEAN-PIERRE is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Amma Cafe, New York City on Sat, 29 Aug 2026.
 
 JEAN-PIERRE is a club and footwork artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside D3NIM, Petal and BEYBLADE SHAWTY. Next up: Amma Cafe, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JEAN-PIERRE is a club and footwork artist based in United States of America, tra
 
 D3NIM, Petal, BEYBLADE SHAWTY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-pierre/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-pierre/)*

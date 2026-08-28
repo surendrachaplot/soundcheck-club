@@ -1,6 +1,6 @@
 # TBA - The Perch
 
-TBA - The Perch is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Spindrift with August VM, Ben Shirken & Dorothy Carlos, Lady Prowl, Zone Farmer" on Fri, 28 Aug 2026.
+TBA - The Perch is a music venue in Philadelphia with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Spindrift with August VM, Ben Shirken & Dorothy Carlos, Lady Prowl, Zone Farmer" on Fri, 28 Aug 2026.
 
 TBA - The Perch is a music venue in Philadelphia listed on soundcheck. 1 upcoming night, with line-ups including ex wiish and Lady Prowl. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The Perch is a music venue in Philadelphia listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Spindrift with August VM, Ben Shirken & Dorothy Carlos, Lady Prowl, Zone Farmer | Lady Prowl, ex wiish |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-the-perch/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-the-perch/)*

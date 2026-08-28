@@ -1,6 +1,6 @@
 # The Brunswick
 
-The Brunswick is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "The Munyks and The Xlnts" on Thu, 3 Sept 2026.
+The Brunswick is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "The Munyks and The Xlnts" on Thu, 3 Sept 2026.
 
 The Brunswick is a music venue in Brighton listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1 Holland Road, Hove, BN31JF.
 
@@ -14,4 +14,4 @@ The Brunswick is a music venue in Brighton listed on soundcheck. 1 upcoming nigh
 
 1 Holland Road, Hove, BN31JF, Brighton
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-brunswick/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/the-brunswick/)*

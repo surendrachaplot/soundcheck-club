@@ -1,6 +1,6 @@
 # Suburbial
 
-Suburbial is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+Suburbial is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
 
 Suburbial is a minimal techno and progressive house artist based in Spain, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Alex Kraemer, Fabio Caria and Hubble. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Suburbial is a minimal techno and progressive house artist based in Spain, track
 
 Alex Kraemer, Fabio Caria, Hubble
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suburbial/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suburbial/)*

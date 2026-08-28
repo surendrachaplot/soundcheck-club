@@ -1,6 +1,6 @@
 # HeatWave Disco at Sugarkane Alley
 
-HeatWave Disco at Sugarkane Alley on Sat 29 Aug, Boston. 2 acts on the bill: BLXSS and brazen. House and Disco. Preview the line-up and save it on soundcheck.
+HeatWave Disco at Sugarkane Alley on Sat 29 Aug, Boston. 3 acts on the bill: BLXSS, brazen and Christinathesaintt. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ HeatWave Disco at Sugarkane Alley on Sat 29 Aug, Boston. 2 acts on the bill: BLX
 
 - BLXSS
 - brazen
+- Christinathesaintt
 
 *Source: [soundcheck](https://soundcheck.club/e/2515134-heatwave-disco-at-sugarkane-alley/)*

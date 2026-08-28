@@ -1,6 +1,6 @@
 # LeeLee Mishi
 
-LeeLee Mishi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
+LeeLee Mishi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
 
 LeeLee Mishi is a house and tech house artist tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Barroness, Manzone & Strong and Tyler Hill. Next up: Leslie Lookout Park, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ LeeLee Mishi is a house and tech house artist tracked on soundcheck, with 23 set
 
 Barroness, Manzone & Strong, Tyler Hill
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leeleemishi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leeleemishi/)*

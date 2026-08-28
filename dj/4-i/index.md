@@ -1,6 +1,6 @@
 # 4-i
 
-4-i is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
+4-i is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Frankhan Selectist, Istanbul on Fri, 28 Aug 2026.
 
 4-i is a techno and acid artist tracked on soundcheck, with 59 sets logged across Istanbul. Often billed alongside jtamul, Luna Fosepthicc and Mx. Sür. Next up: Frankhan Selectist, Istanbul on Fri 28 Aug.
 
@@ -26,4 +26,4 @@
 
 jtamul, Luna Fosepthicc, Mx. Sür
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4-i/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4-i/)*

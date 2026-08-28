@@ -1,6 +1,6 @@
 # Thanhsx
 
-Thanhsx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fucine Vulcano, Milan on Sat, 5 Sept 2026.
+Thanhsx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fucine Vulcano, Milan on Sat, 5 Sept 2026.
 
 Thanhsx is a house and techno artist based in Italy, tracked on soundcheck, with 8 sets logged across Milan. Often billed alongside Kingsizebed, 131bpm and R.ocks. Next up: Fucine Vulcano, Milan on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Thanhsx is a house and techno artist based in Italy, tracked on soundcheck, with
 
 Kingsizebed, 131bpm, R.ocks
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thanhsx/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thanhsx/)*

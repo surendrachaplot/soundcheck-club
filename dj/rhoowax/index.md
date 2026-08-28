@@ -1,6 +1,6 @@
 # Rhoowax
 
-Rhoowax is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Gianca - Murazzi, Turin on Fri, 28 Aug 2026.
+Rhoowax is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Gianca - Murazzi, Turin on Fri, 28 Aug 2026.
 
 Rhoowax is a tech house and minimal artist tracked on soundcheck, with 21 sets logged across Barcelona and Turin. Often billed alongside Planas., Rafa Aleman and Anikha. Next up: Gianca - Murazzi, Turin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Rhoowax is a tech house and minimal artist tracked on soundcheck, with 21 sets l
 
 Planas., Rafa Aleman, Anikha
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhoowax/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhoowax/)*

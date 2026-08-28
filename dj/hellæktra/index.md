@@ -1,6 +1,6 @@
 # Hellæktra
 
-Hellæktra is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+Hellæktra is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
 
 Hellæktra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Edinburgh. Often billed alongside Iona.Violet, Nikki Guild and iluna. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
 
@@ -15,4 +15,4 @@ Hellæktra is a house and techno artist based in United Kingdom, tracked on soun
 
 Iona.Violet, Nikki Guild, iluna
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellæktra/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellæktra/)*

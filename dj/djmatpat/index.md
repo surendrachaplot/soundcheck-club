@@ -1,6 +1,6 @@
 # DJ Matpat
 
-DJ Matpat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+DJ Matpat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
 DJ Matpat is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Boston, Detroit, Glasgow and Miami and 3 more. Often billed alongside Shang, Elvin T and Céleste. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Matpat is a house and techno artist based in United States of America, tracke
 
 Shang, Elvin T, Céleste
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatpat/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatpat/)*

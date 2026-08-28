@@ -1,6 +1,6 @@
 # Dr. Condiments
 
-Dr. Condiments is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Dr Morse, Melbourne on Sat, 29 Aug 2026.
+Dr. Condiments is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dr Morse, Melbourne on Sat, 29 Aug 2026.
 
 Dr. Condiments is a house and balearic artist tracked on soundcheck, with 22 sets logged across Melbourne. Often billed alongside Floss Dogg, Kgomotso and Dawn Again. Next up: Dr Morse, Melbourne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Dr. Condiments is a house and balearic artist tracked on soundcheck, with 22 set
 
 Floss Dogg, Kgomotso, Dawn Again
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drcondiments/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drcondiments/)*

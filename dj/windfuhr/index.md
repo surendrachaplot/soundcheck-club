@@ -1,14 +1,16 @@
 # WINDFUHR
 
-WINDFUHR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
+WINDFUHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
 
-WINDFUHR is a techno and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Athens, Berlin and Hamburg and 13 more. Often billed alongside Hitam, Angioma and Uväll. Next up: Tresor / Globus, Berlin on Sat 5 Sept.
+WINDFUHR is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Berlin and Hamburg and 14 more. Often billed alongside Hitam, Angioma and Uväll. Next up: Tresor / Globus, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Tresor / Globus | Berlin |
+| Sat, 19 Sept 2026 | Q35 WAREHOUSE | Turin |
+| Sun, 20 Sept 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ WINDFUHR is a techno and house artist tracked on soundcheck, with 54 sets logged
 
 Hitam, Angioma, Uväll
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*

@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+Sandrien is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
 
 Sandrien is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Sandrien is a techno and house artist tracked on soundcheck, with 170 sets logge
 
 JakoJako, DVS1, Fafi Abdel Nour
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

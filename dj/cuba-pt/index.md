@@ -1,8 +1,8 @@
 # Cuba (PT)
 
-Cuba (PT) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 29 Aug 2026.
+Cuba (PT) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Quinta do Miratejo, Lisbon on Sat, 29 Aug 2026.
 
-Cuba (PT) is a house and techno artist tracked on soundcheck, with 51 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: Quinta do Miratejo, Lisbon on Sat 29 Aug.
+Cuba (PT) is a house and techno artist tracked on soundcheck, with 52 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: Quinta do Miratejo, Lisbon on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cuba (PT) is a house and techno artist tracked on soundcheck, with 51 sets logge
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Quinta do Miratejo | Lisbon |
 | Sat, 5 Sept 2026 | Escala25 | Lisbon |
+| Fri, 25 Sept 2026 | Switch | Porto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Cuba (PT) is a house and techno artist tracked on soundcheck, with 51 sets logge
 
 Miguel Nery, Jean Mauj, Klin Klop
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*

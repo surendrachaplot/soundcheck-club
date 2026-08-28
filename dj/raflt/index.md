@@ -1,6 +1,6 @@
 # RAF [ LT ]
 
-RAF [ LT ] is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at B2 Rīga, Riga on Sat, 12 Sept 2026.
+RAF [ LT ] is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at B2 Rīga, Riga on Sat, 12 Sept 2026.
 
 RAF [ LT ] is a house and breakbeat artist tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside LAMISH, PUPA and KIRHA. Next up: B2 Rīga, Riga on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ RAF [ LT ] is a house and breakbeat artist tracked on soundcheck, with 5 sets lo
 
 LAMISH, PUPA, KIRHA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raflt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raflt/)*

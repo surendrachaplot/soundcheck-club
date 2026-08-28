@@ -1,6 +1,6 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Star Monster" on Sat, 29 Aug 2026.
+The Get Down is a music venue in Portland with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Star Monster" on Sat, 29 Aug 2026.
 
 The Get Down is a music venue in Portland listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
@@ -18,4 +18,4 @@ The Get Down is a music venue in Portland listed on soundcheck. 5 upcoming night
 
 615 SE Alder St Suite B, Portland, OR 97214, United States, Portland
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*

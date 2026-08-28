@@ -1,6 +1,6 @@
 # Odd (MY)
 
-Odd (MY) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 5 Sept 2026.
+Odd (MY) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 5 Sept 2026.
 
 Odd (MY) is a techno and house artist based in Malaysia, tracked on soundcheck, with 39 sets logged across Kualalumpur. Often billed alongside Alam, Obadius and Julia Deychuk. Next up: Pisco Bar, Kualalumpur on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Odd (MY) is a techno and house artist based in Malaysia, tracked on soundcheck, 
 
 Alam, Obadius, Julia Deychuk
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*

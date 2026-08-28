@@ -1,6 +1,6 @@
 # Little D (CO)
 
-Little D (CO) is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Planet Wax, London on Sat, 19 Sept 2026.
+Little D (CO) is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Planet Wax, London on Sat, 19 Sept 2026.
 
 Little D (CO) is a club and garage artist based in Colombia, tracked on soundcheck, with 11 sets logged across Athens, Glasgow, London and Mykonos. Often billed alongside &ME, AWEN and Ase Manual. Next up: Planet Wax, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Little D (CO) is a club and garage artist based in Colombia, tracked on soundche
 
 &ME, AWEN, Ase Manual
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littled-co/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littled-co/)*

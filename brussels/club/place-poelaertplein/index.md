@@ -1,6 +1,6 @@
 # Place Poelaertplein
 
-Place Poelaertplein is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "OPEN AIR POELAERT by TUESDAY tv" on Sat, 29 Aug 2026.
+Place Poelaertplein is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "OPEN AIR POELAERT by TUESDAY tv" on Sat, 29 Aug 2026.
 
 Place Poelaertplein is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Christian AB, Ehua, Jessen and John Talabot and 2 more. Browse upcoming dates, start times and who's playing. Poelaertplein, 1000 Brussel, België.
 
@@ -15,4 +15,4 @@ Place Poelaertplein is a music venue in Brussels listed on soundcheck. 2 upcomin
 
 Poelaertplein, 1000 Brussel, België, Brussels
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/place-poelaertplein/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/place-poelaertplein/)*

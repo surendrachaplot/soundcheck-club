@@ -1,6 +1,6 @@
 # Hanno Hinkelbein
 
-Hanno Hinkelbein is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Distillery, Leipzig on Sat, 24 Oct 2026.
+Hanno Hinkelbein is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Distillery, Leipzig on Sat, 24 Oct 2026.
 
 Hanno Hinkelbein is a techno and acid artist tracked on soundcheck, with 11 sets logged across Berlin, Leipzig and London. Often billed alongside Lydmate, Twang and Nanzhen Yang. Next up: Distillery, Leipzig on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Hanno Hinkelbein is a techno and acid artist tracked on soundcheck, with 11 sets
 
 Lydmate, Twang, Nanzhen Yang
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannohinkelbein/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannohinkelbein/)*

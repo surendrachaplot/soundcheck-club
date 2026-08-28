@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
+Newinfluenzer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
 
 Newinfluenzer is a techno and electro artist tracked on soundcheck, with 83 sets logged across Berlin, Hamburg, Leipzig and London and 1 more. Often billed alongside yamyam, DJ SOURCE and 11Schnull. Next up: Golden Pudel Club, Hamburg on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 83 sets
 
 yamyam, DJ SOURCE, 11Schnull
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

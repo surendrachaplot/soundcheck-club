@@ -1,8 +1,8 @@
 # ENNIO
 
-ENNIO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
+ENNIO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TILLATEC, Amsterdam on Sat, 29 Aug 2026.
 
-ENNIO is a techno and house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Faerber, HAMY and N.R.M. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
+ENNIO is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Faerber, HAMY and N.R.M. Next up: TILLATEC, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ENNIO is a techno and house artist tracked on soundcheck, with 74 sets logged ac
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TILLATEC | Amsterdam |
 | Sat, 12 Sept 2026 | Marmorbar | Berlin |
+| Sat, 3 Oct 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ENNIO is a techno and house artist tracked on soundcheck, with 74 sets logged ac
 
 Faerber, HAMY, N.R.M
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*

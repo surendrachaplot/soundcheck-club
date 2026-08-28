@@ -1,6 +1,6 @@
 # somebody3lse
 
-somebody3lse is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Système, Montreal on Sat, 12 Sept 2026.
+somebody3lse is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Système, Montreal on Sat, 12 Sept 2026.
 
 somebody3lse is a bass and house artist tracked on soundcheck, with 52 sets logged across Montreal. Often billed alongside CMD, Emil Paquin and Mok-T. Next up: Système, Montreal on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ somebody3lse is a bass and house artist tracked on soundcheck, with 52 sets logg
 
 CMD, Emil Paquin, Mok-T
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*

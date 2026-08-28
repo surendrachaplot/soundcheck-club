@@ -1,8 +1,8 @@
 # XLR
 
-XLR is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "XLR x Surf Beatz [B.Y.O.B]" on Fri, 18 Sept 2026.
+XLR is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "XLR x Surf Beatz [B.Y.O.B]" on Fri, 18 Sept 2026.
 
-XLR is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including G33 (UK), Kami Lee, Skeptic and Zeleste Rokatechno. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
+XLR is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including AZEH, G33 (UK), Kami Lee and Skeptic and 1 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
 ## What's on
 
@@ -13,11 +13,11 @@ XLR is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with
 | Tue, 22 Sept 2026 | DISCO PUSS x XLR [B.Y.O.B] |  |
 | Fri, 25 Sept 2026 | 23 Degrees x XLR: G33 - All Night Long | G33 (UK) |
 | Fri, 9 Oct 2026 | Sucker Punch X XLR [B.Y.O.B] |  |
-| Sat, 10 Oct 2026 | SCHRANZ NIGHT MANCHESTER | Kami Lee, Zeleste Rokatechno |
+| Sat, 10 Oct 2026 | SCHRANZ NIGHT MANCHESTER | AZEH, Kami Lee, Zeleste Rokatechno |
 | Fri, 23 Oct 2026 | 23 Degrees x XLR: Skeptic - All Night Long | Skeptic |
 
 ## Address
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

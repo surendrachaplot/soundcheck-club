@@ -1,8 +1,8 @@
 # gem.ini
 
-gem.ini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
+gem.ini is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ritter Butzke, Berlin on Sat, 29 Aug 2026.
 
-gem.ini is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Berlin, Hamburg, Lisbon and Nurnberg and 1 more. Often billed alongside Dela Nesto, Adrian Ernst and Ateş Sönmez. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
+gem.ini is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Hamburg, Lisbon and Nurnberg and 1 more. Often billed alongside Dela Nesto, Adrian Ernst and Ateş Sönmez. Next up: Ritter Butzke, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ gem.ini is a house and techno artist based in Germany, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
 | Sat, 29 Aug 2026 | Ritter Butzke | Berlin |
+| Sat, 24 Oct 2026 | AMT | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ gem.ini is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Dela Nesto, Adrian Ernst, Ateş Sönmez
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gem.ini/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gem.ini/)*

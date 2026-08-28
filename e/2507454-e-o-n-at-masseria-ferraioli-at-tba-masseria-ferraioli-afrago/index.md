@@ -1,6 +1,6 @@
 # E.O.N at MASSERIA FERRAIOLI at TBA - Masseria Ferraioli - Afragola
 
-E.O.N at MASSERIA FERRAIOLI at TBA - Masseria Ferraioli - Afragola on Sun 6 Sept, Naples. 3 acts on the bill: John T. Gast, NPLGNN and Sara Persico. Bass and Electronica. Preview the line-up and save it on soundcheck.
+E.O.N at MASSERIA FERRAIOLI at TBA - Masseria Ferraioli - Afragola on Sun 6 Sept, Naples. 4 acts on the bill: Carrier, John T. Gast, NPLGNN and Sara Persico. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ E.O.N at MASSERIA FERRAIOLI at TBA - Masseria Ferraioli - Afragola on Sun 6 Sept
 
 ## Line-up
 
+- Carrier
 - John T. Gast
 - NPLGNN
 - Sara Persico

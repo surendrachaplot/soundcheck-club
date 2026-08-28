@@ -1,14 +1,13 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 11 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "AEG presents: Kenny Mason" on Thu, 27 Aug 2026.
+UNLOCKED is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "PLAYPIEM: PLAYERS CLUB - THE CARNIVAL PARTY" on Fri, 28 Aug 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | AEG presents: Kenny Mason |  |
 | Fri, 28 Aug 2026 | PLAYPIEM: PLAYERS CLUB - THE CARNIVAL PARTY |  |
 | Sun, 30 Aug 2026 | RBC's RECESS |  |
 | Thu, 3 Sept 2026 | Live Nation presents: SISTRA |  |
@@ -18,9 +17,10 @@ UNLOCKED is a music venue in London listed on soundcheck. 11 upcoming nights, wi
 | Sat, 17 Oct 2026 | Dosem presents 'Passion' | Alythia Kwan, Dosem, My Friend |
 | Fri, 23 Oct 2026 | Sultan + Shepard (DJ) | Sultan + Shepard |
 | Fri, 30 Oct 2026 | Y U QT - UNLOCKED | Y U QT |
+| Sat, 7 Nov 2026 | RAVE IN SPACE | HARTY, JAYDAA, Jnr Windross, Summer Ghemati |
 
 ## Address
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

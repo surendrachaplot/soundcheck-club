@@ -1,6 +1,6 @@
 # ROD
 
-ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+ROD is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 ROD is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 5 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and Speedy J. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ ROD is a techno and house artist tracked on soundcheck, with 48 sets logged acro
 
 Benny Rodrigues, Cynthia Spiering, Speedy J
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rod/)*

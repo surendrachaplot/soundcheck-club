@@ -1,6 +1,6 @@
 # DJ Botermelk - Who Is It? EP Release Event at Nué Seoul
 
-DJ Botermelk - Who Is It? EP Release Event at Nué Seoul on Sat 29 Aug, Seoul. 7 acts on the bill: Airbear, DJ Botermelk, Gyusco and Jucid and 3 more. Tech House and Acid. Preview the line-up and save it on soundcheck.
+DJ Botermelk - Who Is It? EP Release Event at Nué Seoul on Sat 29 Aug, Seoul. 7 acts on the bill: Airbear, DJ Botermelk, Gyusco and Jucid and 3 more. Acid and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

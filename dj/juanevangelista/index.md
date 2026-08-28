@@ -1,14 +1,14 @@
 # Juan Evangelista
 
-Juan Evangelista is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mooi Space, Toronto on Fri, 28 Aug 2026.
+Juan Evangelista is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Toronto, Toronto on Fri, 28 Aug 2026.
 
-Juan Evangelista is a techno and house artist based in Argentina, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Boston and Buenosaires and 11 more. Often billed alongside Alejandro Franco, Alexander Kowalski and Fab Massimo. Next up: Mooi Space, Toronto on Fri 28 Aug.
+Juan Evangelista is a techno and house artist based in Argentina, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Boston and Buenosaires and 11 more. Often billed alongside Alejandro Franco, Alexander Kowalski and Fab Massimo. Next up: TBA - Toronto, Toronto on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Mooi Space | Toronto |
+| Fri, 28 Aug 2026 | TBA - Toronto | Toronto |
 | Sat, 29 Aug 2026 | NWHR | Montreal |
 | Thu, 3 Sept 2026 | Kilomètre25 | Paris |
 
@@ -27,4 +27,4 @@ Juan Evangelista is a techno and house artist based in Argentina, tracked on sou
 
 Alejandro Franco, Alexander Kowalski, Fab Massimo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanevangelista/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanevangelista/)*

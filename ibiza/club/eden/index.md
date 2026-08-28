@@ -1,14 +1,13 @@
 # Eden
 
-Eden is a music venue in Ibiza with 25 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "MARKUS SCHULZ - Opening Party" on Thu, 27 Aug 2026.
+Eden is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "FIRE IN THE CLUB WEEK 13" on Fri, 28 Aug 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 25 upcoming nights, with line-ups including Alberto Costa, Andres Campo, Angelo Ferreri and Annie and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including Alberto Costa, Andres Campo, Angelo Ferreri and Annie and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | MARKUS SCHULZ - Opening Party | Markus Schulz |
 | Fri, 28 Aug 2026 | FIRE IN THE CLUB WEEK 13 |  |
 | Sat, 29 Aug 2026 | FUEGO WEEK 14 |  |
 | Mon, 31 Aug 2026 | ACTIN' BAD WEEK 9 (Presented by Holler At Me) | Noel Holler |
@@ -18,9 +17,10 @@ Eden is a music venue in Ibiza listed on soundcheck. 25 upcoming nights, with li
 | Fri, 4 Sept 2026 | FIRE IN THE CLUB: Closing Party |  |
 | Sat, 5 Sept 2026 | FUEGO Closing Party |  |
 | Mon, 7 Sept 2026 | ACTIN' BAD WEEK 10 (Presented by Holler At Me) | Fritz Kalkbrenner, Noel Holler, STELLA BOSSI |
+| Wed, 9 Sept 2026 | GARAGE NATION WEEK 5 |  |
 
 ## Address
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

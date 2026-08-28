@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "ARK: Tiga" on Sat, 3 Oct 2026.
+OCZKI is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "ARK: Tiga" on Sat, 3 Oct 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including BOBAIO, Bronka, Debit and Devon Rexi and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -19,4 +19,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with l
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

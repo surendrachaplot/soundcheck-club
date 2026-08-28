@@ -1,6 +1,6 @@
 # Beejay
 
-Beejay is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Leeam ART Center, Seoul on Sat, 29 Aug 2026.
+Beejay is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Leeam ART Center, Seoul on Sat, 29 Aug 2026.
 
 Beejay is a house and deep house artist tracked on soundcheck, with 52 sets logged across Seoul. Often billed alongside Better, OOFY and Claire (KR). Next up: Leeam ART Center, Seoul on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Beejay is a house and deep house artist tracked on soundcheck, with 52 sets logg
 
 Better, OOFY, Claire (KR)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beejay/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beejay/)*

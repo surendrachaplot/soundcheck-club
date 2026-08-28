@@ -1,6 +1,6 @@
 # GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at TBA
 
-GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at TBA on Fri 16 Oct, Melbourne. 3 acts on the bill: INFINITY, Kamilo Sanclemente and Taglo. Techno and Deep House. Preview the line-up and save it on soundcheck.
+GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at TBA on Fri 16 Oct, Melbourne. 4 acts on the bill: Gaston Gari, INFINITY, Kamilo Sanclemente and Taglo. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GTA & INEFFABLE Pres: KAMILO SANCELEMENTE MELBOURNE 2026 at TBA on Fri 16 Oct, M
 
 ## Line-up
 
+- Gaston Gari
 - INFINITY
 - Kamilo Sanclemente
 - Taglo

@@ -1,8 +1,8 @@
 # Refuge
 
-Refuge is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Refuge Friday: Elevation with Lost Desert and Lovecraft" on Fri, 28 Aug 2026.
+Refuge is a music venue in New York City with 28 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Refuge Friday: Elevation with Lost Desert and Lovecraft" on Fri, 28 Aug 2026.
 
-Refuge is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights, with line-ups including Ahadadream, Akua, Alci and Anna Collecta and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in Newyorkcity listed on soundcheck. 28 upcoming nights, with line-ups including Ahadadream, Akua, Alci and Anna Collecta and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights,
 | Sat, 5 Sept 2026 | Gabriel & Dresden NYC Weekender - Refuge & Boat Party 2-Day Pass |  |
 | Sat, 5 Sept 2026 | Refuge Saturday Daytime: Gabriel & Dresden | Gabriel & Dresden |
 | Sat, 5 Sept 2026 | Refuge Saturday: David Morales (12 Hour Marathon Set) | David Morales |
+| Sat, 5 Sept 2026 | Gabriel & Dresden Daytime Block Party - House, Techno, NYC Club Classics | Gabriel & Dresden |
 | Sun, 6 Sept 2026 | David Morales | David Morales |
 | Sun, 6 Sept 2026 | Refuge Sunday: Soul in the Horn with Natasha Diggs | Natasha Diggs |
-| Sun, 6 Sept 2026 | Sunday Selectors: David Morales | David Morales |
 
 ## Address
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

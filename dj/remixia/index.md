@@ -1,6 +1,6 @@
 # REMIXIA
 
-REMIXIA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 77, London on Thu, 17 Sept 2026.
+REMIXIA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 77, London on Thu, 17 Sept 2026.
 
 REMIXIA is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Copenhagen and Ibiza and 1 more. Often billed alongside Major League Djz, CLEIDO and BADBOX. Next up: 77, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ REMIXIA is a house and afro house artist based in United Kingdom, tracked on sou
 
 Major League Djz, CLEIDO, BADBOX
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remixia/)*

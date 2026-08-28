@@ -1,6 +1,6 @@
 # Judoc
 
-Judoc is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+Judoc is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
 
 Judoc is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam and Ibiza. Often billed alongside Major K, Femmebot Grooves and Munay. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Judoc is a house and tech house artist based in Netherlands, tracked on soundche
 
 Major K, Femmebot Grooves, Munay
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judoc/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/judoc/)*

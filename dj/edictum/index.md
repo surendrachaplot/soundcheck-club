@@ -1,6 +1,6 @@
 # Edictum
 
-Edictum is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Arena Wien, Vienna on Fri, 28 Aug 2026.
+Edictum is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Arena Wien, Vienna on Fri, 28 Aug 2026.
 
 Edictum is a progressive house and electronica artist tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside Fede Frostl, Daniel Darkhofer and Enoltra. Next up: Arena Wien, Vienna on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Edictum is a progressive house and electronica artist tracked on soundcheck, wit
 
 Fede Frostl, Daniel Darkhofer, Enoltra
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edictum/)*

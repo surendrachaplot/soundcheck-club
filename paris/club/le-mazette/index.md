@@ -1,6 +1,6 @@
 # Le Mazette
 
-Le Mazette is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "LAST SUMMER ROOFTOP PARTY" on Fri, 28 Aug 2026.
+Le Mazette is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LAST SUMMER ROOFTOP PARTY" on Fri, 28 Aug 2026.
 
 Le Mazette is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Micky Hurts. Browse upcoming dates, start times and who's playing. 69 Port de la Rapée.
 
@@ -15,4 +15,4 @@ Le Mazette is a music venue in Paris listed on soundcheck. 2 upcoming nights, wi
 
 69 Port de la Rapée, Paris
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-mazette/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-mazette/)*

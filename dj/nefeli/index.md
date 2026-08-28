@@ -1,6 +1,6 @@
 # Nefeli
 
-Nefeli is a Minimal and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Nefeli is a Minimal and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Nefeli is a minimal and trance artist based in Belgium, tracked on soundcheck, with 28 sets logged across Antwerp, Athens, Brussels and Ghent and 2 more. Often billed alongside STDJ, DJ Rino and Emma Caers. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -14,6 +14,7 @@ Nefeli is a minimal and trance artist based in Belgium, tracked on soundcheck, w
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Funke, Ghent — Wed, 22 Jul 2026
 - C12, Brussels — Sat, 6 Jun 2026
 - TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
@@ -21,10 +22,9 @@ Nefeli is a minimal and trance artist based in Belgium, tracked on soundcheck, w
 - Funke, Ghent — Wed, 13 May 2026
 - Het Bos, Antwerp — Fri, 20 Feb 2026
 - Het Bos, Antwerp — Fri, 20 Feb 2026
-- UMI, Brussels — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 STDJ, DJ Rino, Emma Caers
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nefeli/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nefeli/)*

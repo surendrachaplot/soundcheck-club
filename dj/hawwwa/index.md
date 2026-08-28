@@ -1,6 +1,6 @@
 # hawwwa
 
-hawwwa is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+hawwwa is a Gabber and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 hawwwa is a gabber and techno artist tracked on soundcheck, with 4 sets logged across Tbilisi and Warsaw. Often billed alongside faron, Cyntia G. Wabia and Dedenia. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ hawwwa is a gabber and techno artist tracked on soundcheck, with 4 sets logged a
 
 faron, Cyntia G. Wabia, Dedenia
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hawwwa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hawwwa/)*

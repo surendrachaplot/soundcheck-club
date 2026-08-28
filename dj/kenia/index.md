@@ -1,6 +1,6 @@
 # Kenia
 
-Kenia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 29 Aug 2026.
+Kenia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Rumore Nightclub Capri, Naples on Sat, 29 Aug 2026.
 
 Kenia is a house and techno artist tracked on soundcheck, with 82 sets logged across London, Madrid, Miami and Milan and 3 more. Often billed alongside Vithz, Rakim Under and David Triana. Next up: Rumore Nightclub Capri, Naples on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kenia is a house and techno artist tracked on soundcheck, with 82 sets logged ac
 
 Vithz, Rakim Under, David Triana
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*

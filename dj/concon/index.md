@@ -1,6 +1,6 @@
 # ConCon
 
-ConCon is a Ambient and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Highland Park, Brooklyn, New York City on Sun, 30 Aug 2026.
+ConCon is a Ambient and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Highland Park, Brooklyn, New York City on Sun, 30 Aug 2026.
 
 ConCon is an ambient and downtempo artist based in United States of America, tracked on soundcheck, with 43 sets logged across Leeds, Munich and Newyorkcity. Often billed alongside Adam R, BABES The DJ and Luwan. Next up: TBA - Highland Park, Brooklyn, Newyorkcity on Sun 30 Aug.
 
@@ -9,7 +9,7 @@ ConCon is an ambient and downtempo artist based in United States of America, tra
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | TBA - Highland Park, Brooklyn | New York City |
-| Sun, 30 Aug 2026 | TBA - Highland Meadow Park | New York City |
+| Sun, 30 Aug 2026 | TBA - Highland Park | New York City |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ ConCon is an ambient and downtempo artist based in United States of America, tra
 
 Adam R, BABES The DJ, Luwan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/concon/)*

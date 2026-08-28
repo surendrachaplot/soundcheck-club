@@ -1,8 +1,8 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at fabric, London on Sun, 6 Sept 2026.
+DJ Cosworth is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at fabric, London on Sun, 6 Sept 2026.
 
-DJ Cosworth is a garage and house artist tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 20 more. Often billed alongside Dr Dubplate, Oldboy and Bakey. Next up: fabric, London on Sun 6 Sept.
+DJ Cosworth is a garage and house artist tracked on soundcheck, with 77 sets logged across Aberdeen, Amsterdam, Auckland and Belfast and 20 more. Often billed alongside Dr Dubplate, Oldboy and Bakey. Next up: fabric, London on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Cosworth is a garage and house artist tracked on soundcheck, with 76 sets log
 | Fri, 11 Sept 2026 | BASIS | Utrecht |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 30 Oct 2026 | Gaffe | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ DJ Cosworth is a garage and house artist tracked on soundcheck, with 76 sets log
 
 Dr Dubplate, Oldboy, Bakey
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

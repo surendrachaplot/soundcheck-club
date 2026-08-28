@@ -1,6 +1,6 @@
 # Hang Aoki
 
-Hang Aoki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - our favorite secret location, address on Telegram on the day on the event, Berlin on Fri, 4 Sept 2026.
+Hang Aoki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - our favorite secret location, address on Telegram on the day on the event, Berlin on Fri, 4 Sept 2026.
 
 Hang Aoki is a techno and house artist tracked on soundcheck, with 64 sets logged across Athens, Bangkok, Berlin and Leipzig and 6 more. Often billed alongside CIKO, Alex.Do and Jessamine. Next up: TBA - our favorite secret location, address on Telegram on the day on the event, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Hang Aoki is a techno and house artist tracked on soundcheck, with 64 sets logge
 
 CIKO, Alex.Do, Jessamine
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaoki/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hangaoki/)*

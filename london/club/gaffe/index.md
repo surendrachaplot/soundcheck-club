@@ -1,8 +1,8 @@
 # Gaffe
 
-Gaffe is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "May I? - Holy Tongue (Live), Craig Richards, Peach, Enrica Falqui, Chez De Milo, Jay Duncan " on Sun, 30 Aug 2026.
+Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "May I? - Holy Tongue (Live), Craig Richards, Peach, Enrica Falqui, Chez De Milo, Jay Duncan " on Sun, 30 Aug 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 16 upcoming nights, with 
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

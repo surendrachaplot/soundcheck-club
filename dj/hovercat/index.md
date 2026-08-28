@@ -1,6 +1,6 @@
 # Hovercat
 
-Hovercat is a Jungle and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+Hovercat is a Jungle and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
 Hovercat is a jungle and electronica artist tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside CP4C, Agem and Plugin Ears. Next up: TBA, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hovercat is a jungle and electronica artist tracked on soundcheck, with 26 sets 
 
 CP4C, Agem, Plugin Ears
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hovercat/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hovercat/)*

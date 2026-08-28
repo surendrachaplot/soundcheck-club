@@ -1,6 +1,6 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Serafina is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Serafina is a techno and trance artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ Serafina is a techno and trance artist tracked on soundcheck, with 159 sets logg
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

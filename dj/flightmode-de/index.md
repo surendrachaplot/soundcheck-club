@@ -1,14 +1,15 @@
 # Flight Mode (DE)
 
-Flight Mode (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+Flight Mode (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
 
-Flight Mode (DE) is a techno and house artist based in Italy, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Milan and Paris and 1 more. Often billed alongside G.oss, Kobzev and LUISELLE. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
+Flight Mode (DE) is a techno and house artist based in Italy, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Milan and Newyorkcity and 2 more. Often billed alongside G.oss, Kobzev and LUISELLE. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | TBA -  Somewhere in East Berlin | Berlin |
+| Fri, 25 Sept 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Flight Mode (DE) is a techno and house artist based in Italy, tracked on soundch
 
 G.oss, Kobzev, LUISELLE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightmode-de/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flightmode-de/)*

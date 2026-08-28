@@ -1,6 +1,6 @@
 # Hasfeldt
 
-Hasfeldt is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Raleigh Chapel, London on Thu, 15 Oct 2026.
+Hasfeldt is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Raleigh Chapel, London on Thu, 15 Oct 2026.
 
 Hasfeldt is an experimental and ambient artist based in Denmark, tracked on soundcheck, with 17 sets logged across Berlin, Copenhagen, Lisbon and London and 2 more. Often billed alongside Ryong, Franarchy and Alto Aria. Next up: Raleigh Chapel, London on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Hasfeldt is an experimental and ambient artist based in Denmark, tracked on soun
 
 Ryong, Franarchy, Alto Aria
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hasfeldt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hasfeldt/)*

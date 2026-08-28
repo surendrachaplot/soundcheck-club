@@ -1,6 +1,6 @@
 # Zoe Zett
 
-Zoe Zett is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Cova, Hamburg on Sat, 5 Sept 2026.
+Zoe Zett is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Cova, Hamburg on Sat, 5 Sept 2026.
 
 Zoe Zett is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Kacy, Ephy Pinkman and Polytoxic. Next up: La Cova, Hamburg on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Zoe Zett is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Kacy, Ephy Pinkman, Polytoxic
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezett/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezett/)*

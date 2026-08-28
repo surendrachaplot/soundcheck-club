@@ -1,6 +1,6 @@
 # Blenk
 
-Blenk is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
+Blenk is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 27 Sept 2026.
 
 Blenk is a techno artist tracked on soundcheck, with 5 sets logged across Berlin, London and Paris. Often billed alongside ALKARLINE, Aural Plant Sonification and Blue Hour. Next up: NUMBER 90 LONDON, London on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Blenk is a techno artist tracked on soundcheck, with 5 sets logged across Berlin
 
 ALKARLINE, Aural Plant Sonification, Blue Hour
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blenk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blenk/)*

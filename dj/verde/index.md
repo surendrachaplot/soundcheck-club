@@ -1,6 +1,6 @@
 # Verde
 
-Verde is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jasna 1, Warsaw on Sat, 5 Sept 2026.
+Verde is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Sat, 5 Sept 2026.
 
 Verde is a tech house and minimal artist tracked on soundcheck, with 29 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Salut 80, Viikatory and Badalian. Next up: Jasna 1, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Verde is a tech house and minimal artist tracked on soundcheck, with 29 sets log
 
 Salut 80, Viikatory, Badalian
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verde/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verde/)*

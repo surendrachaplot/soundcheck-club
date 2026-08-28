@@ -1,6 +1,6 @@
 # Djaa (PL)
 
-Djaa (PL) is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Baken Bar, Warsaw on Fri, 28 Aug 2026.
+Djaa (PL) is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Baken Bar, Warsaw on Fri, 28 Aug 2026.
 
 Djaa (PL) is a house and downtempo artist based in Ukraine, tracked on soundcheck, with 32 sets logged across Krakow and Warsaw. Often billed alongside Matt Rudnicki, Bartman and Delumia. Next up: TBA - Baken Bar, Warsaw on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Djaa (PL) is a house and downtempo artist based in Ukraine, tracked on soundchec
 
 Matt Rudnicki, Bartman, Delumia
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaa-pl/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaa-pl/)*

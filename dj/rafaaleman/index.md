@@ -1,6 +1,6 @@
 # Rafa Aleman
 
-Rafa Aleman is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bridge 48, Barcelona on Thu, 17 Sept 2026.
+Rafa Aleman is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bridge 48, Barcelona on Thu, 17 Sept 2026.
 
 Rafa Aleman is a tech house and house artist based in Venezuela, tracked on soundcheck, with 44 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Bill Hates, Klency and MACKINLAY. Next up: Bridge 48, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Rafa Aleman is a tech house and house artist based in Venezuela, tracked on soun
 
 Bill Hates, Klency, MACKINLAY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaaleman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaaleman/)*

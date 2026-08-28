@@ -1,6 +1,6 @@
 # JVINCENT
 
-JVINCENT is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
+JVINCENT is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
 JVINCENT is a baile funk and club artist tracked on soundcheck, with 31 sets logged across Copenhagen, Hongkong, London and Paris. Often billed alongside ZEE-2, HARUNA (2) and Samo. Next up: Bread and Butter, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JVINCENT is a baile funk and club artist tracked on soundcheck, with 31 sets log
 
 ZEE-2, HARUNA (2), Samo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jvincent/)*

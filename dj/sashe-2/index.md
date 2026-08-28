@@ -1,6 +1,6 @@
 # SASHE (2)
 
-SASHE (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
+SASHE (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
 
 SASHE (2) is a techno artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Gaya Carmeli, MIESØ and 86 Hz. Next up: John Doe, Amsterdam on Fri 28 Aug.
 
@@ -21,4 +21,4 @@ SASHE (2) is a techno artist tracked on soundcheck, with 5 sets logged across Am
 
 Gaya Carmeli, MIESØ, 86 Hz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashe-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sashe-2/)*

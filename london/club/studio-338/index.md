@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Drake Night - Iceman - Bank Holiday Weekend" on Sun, 30 Aug 2026.
+Studio 338 is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Drake Night - Iceman - Bank Holiday Weekend" on Sun, 30 Aug 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -23,4 +23,4 @@ Studio 338 is a music venue in London listed on soundcheck. 12 upcoming nights, 
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

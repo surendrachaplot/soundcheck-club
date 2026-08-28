@@ -1,18 +1,18 @@
 # ALoSo
 
-ALoSo is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Living Room Wines, Portland on Thu, 27 Aug 2026.
+ALoSo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Portland on Fri, 18 Sept 2026.
 
-ALoSo is a techno and club artist tracked on soundcheck, with 37 sets logged across Portland and Seattle. Often billed alongside sqip, cay horiuchi and Dos Flakos. Next up: TBA - Living Room Wines, Portland on Thu 27 Aug.
+ALoSo is a techno and club artist tracked on soundcheck, with 37 sets logged across Portland and Seattle. Often billed alongside sqip, cay horiuchi and Dos Flakos. Next up: TBA, Portland on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Living Room Wines | Portland |
 | Fri, 18 Sept 2026 | TBA | Portland |
 
 ## Recently played
 
+- TBA - Living Room Wines, Portland — Thu, 27 Aug 2026
 - Process PDX, Portland — Sat, 20 Jun 2026
 - White Owl Social Club, Portland — Sun, 14 Jun 2026
 - Barn Radio, Portland — Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ ALoSo is a techno and club artist tracked on soundcheck, with 37 sets logged acr
 - Process PDX, Portland — Sat, 11 Apr 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 30 Aug 2025
 - TBA - 133 SE Madison St, Portland — Sat, 23 Aug 2025
-- Produce Row Cafe, Portland — Sun, 13 Jul 2025
 
 ## Shares bills with
 
 sqip, cay horiuchi, Dos Flakos
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aloso/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aloso/)*

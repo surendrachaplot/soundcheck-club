@@ -1,6 +1,6 @@
 # Ezio Aguiar
 
-Ezio Aguiar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
+Ezio Aguiar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Die Rakete, Nürnberg on Fri, 20 Nov 2026.
 
 Ezio Aguiar is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Copenhagen and Nurnberg. Often billed alongside Janoma, Mad Son and Mona Pirzad. Next up: Die Rakete, Nurnberg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ezio Aguiar is a techno and house artist based in Germany, tracked on soundcheck
 
 Janoma, Mad Son, Mona Pirzad
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezioaguiar/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ezioaguiar/)*

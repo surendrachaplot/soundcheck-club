@@ -1,6 +1,6 @@
 # Tissanai
 
-Tissanai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 29 Aug 2026.
+Tissanai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 29 Aug 2026.
 
 Tissanai is a house and techno artist based in Thailand, tracked on soundcheck, with 11 sets logged across Bangkok and Kualalumpur. Often billed alongside Meltmode (2), IYY (TH) and DOTT. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Tissanai is a house and techno artist based in Thailand, tracked on soundcheck, 
 
 Meltmode (2), IYY (TH), DOTT
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*

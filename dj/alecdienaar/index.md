@@ -1,6 +1,6 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
+Alec Dienaar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
 
 Alec Dienaar is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Dublin and Hamburg and 7 more. Often billed alongside Genex, STIPP and Julian Wijn. Next up: Edelfettwerk, Hamburg on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Alec Dienaar is a techno and house artist tracked on soundcheck, with 43 sets lo
 
 Genex, STIPP, Julian Wijn
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*

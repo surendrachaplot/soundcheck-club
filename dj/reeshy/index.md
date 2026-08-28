@@ -1,8 +1,8 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+Reeshy is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
 
-Reeshy is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Josh Baker. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
+Reeshy is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Josh Baker. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 108 sets log
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 29 Aug 2026 | Under The Arches | Leeds |
+| Sat, 29 Aug 2026 | Lofi | Amsterdam |
 | Sat, 5 Sept 2026 | Starlane Pizza Bar | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
@@ -32,4 +33,4 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 108 sets log
 
 Enzo Siragusa, Laidlaw, Josh Baker
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

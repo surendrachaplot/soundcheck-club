@@ -1,6 +1,6 @@
 # Citizen Simmo
 
-Citizen Simmo is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - GRUB Stretford , Manchester on Sat, 29 Aug 2026.
+Citizen Simmo is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - GRUB Stretford , Manchester on Sat, 29 Aug 2026.
 
 Citizen Simmo is an afro house and house artist tracked on soundcheck, with 11 sets logged across Leeds and Manchester. Often billed alongside Moodymanc, Electric Gigi and Chafik. Next up: TBA - GRUB Stretford , Manchester on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Citizen Simmo is an afro house and house artist tracked on soundcheck, with 11 s
 
 Moodymanc, Electric Gigi, Chafik
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensimmo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensimmo/)*

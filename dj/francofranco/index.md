@@ -1,6 +1,6 @@
 # Franco Franco
 
-Franco Franco is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Silent Green, Berlin on Thu, 3 Sept 2026.
+Franco Franco is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Silent Green, Berlin on Thu, 3 Sept 2026.
 
 Franco Franco is an experimental and electronica artist tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, London and Naples. Often billed alongside O$VMV$M, ALYA L and Ben Sleia. Next up: Silent Green, Berlin on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Franco Franco is an experimental and electronica artist tracked on soundcheck, w
 
 O$VMV$M, ALYA L, Ben Sleia
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francofranco/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francofranco/)*

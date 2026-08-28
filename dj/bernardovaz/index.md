@@ -1,6 +1,6 @@
 # Bernardo Vaz
 
-Bernardo Vaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 28 Aug 2026.
+Bernardo Vaz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 28 Aug 2026.
 
 Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundcheck, with 102 sets logged across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Cavo Rooftop, Lisbon on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundche
 
 Kaesar, John-E, Gear
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*

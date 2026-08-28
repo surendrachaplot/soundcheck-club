@@ -1,14 +1,15 @@
 # FLKN
 
-FLKN is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 18 Sept 2026.
+FLKN is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Fri, 18 Sept 2026.
 
-FLKN is a techno and acid artist based in France, tracked on soundcheck, with 26 sets logged across Berlin, Brussels, Cologne and Lisbon and 5 more. Often billed alongside Jacidorex, Protokseed and DXPE (ES). Next up: La Machine Du Moulin Rouge, Paris on Fri 18 Sept.
+FLKN is a techno and acid artist based in France, tracked on soundcheck, with 27 sets logged across Berlin, Brussels, Cologne and Lisbon and 5 more. Often billed alongside Jacidorex, Protokseed and DXPE (ES). Next up: La Machine Du Moulin Rouge, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | La Machine Du Moulin Rouge | Paris |
+| Sat, 10 Oct 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FLKN is a techno and acid artist based in France, tracked on soundcheck, with 26
 
 Jacidorex, Protokseed, DXPE (ES)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flkn/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flkn/)*

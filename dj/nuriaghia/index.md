@@ -1,6 +1,6 @@
 # Nuria Ghia
 
-Nuria Ghia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
+Nuria Ghia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
 
 Nuria Ghia is a techno and trance artist tracked on soundcheck, with 23 sets logged across Barcelona. Often billed alongside Doug Bass, Malinka and BLONDEX. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nuria Ghia is a techno and trance artist tracked on soundcheck, with 23 sets log
 
 Doug Bass, Malinka, BLONDEX
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuriaghia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuriaghia/)*

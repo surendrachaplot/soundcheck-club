@@ -1,6 +1,6 @@
 # Skeleton Jacket
 
-Skeleton Jacket is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Inner North Warehouse, Melbourne on Sat, 5 Sept 2026.
+Skeleton Jacket is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Inner North Warehouse, Melbourne on Sat, 5 Sept 2026.
 
 Skeleton Jacket is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Melbourne. Often billed alongside CAITY WATSON, Lincoln J. K. Webber and Mr. Rachele. Next up: TBA - Inner North Warehouse, Melbourne on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Skeleton Jacket is a techno and electronica artist tracked on soundcheck, with 5
 
 CAITY WATSON, Lincoln J. K. Webber, Mr. Rachele
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletonjacket/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletonjacket/)*

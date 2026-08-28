@@ -1,6 +1,6 @@
 # BERRA
 
-BERRA is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+BERRA is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 BERRA is a garage and grime artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Bristol, London, Manchester and Nottingham. Often billed alongside Akira, Killa P and Saint Ludo. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ BERRA is a garage and grime artist based in United Kingdom, tracked on soundchec
 
 Akira, Killa P, Saint Ludo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berra/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berra/)*

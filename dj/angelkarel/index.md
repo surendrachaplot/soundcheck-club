@@ -1,6 +1,6 @@
 # Angel Karel
 
-Angel Karel is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ministerium Club, Lisbon on Thu, 3 Sept 2026.
+Angel Karel is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ministerium Club, Lisbon on Thu, 3 Sept 2026.
 
 Angel Karel is a techno and industrial artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Cologne and Geneva and 14 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: Ministerium Club, Lisbon on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Angel Karel is a techno and industrial artist based in France, tracked on soundc
 
 Vinka Wydro, LiXaa, Aida Arko
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*

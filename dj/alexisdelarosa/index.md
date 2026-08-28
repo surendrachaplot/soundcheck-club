@@ -1,6 +1,6 @@
 # ALEXIS DE LA ROSA
 
-ALEXIS DE LA ROSA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Signal, New York City on Sat, 29 Aug 2026.
+ALEXIS DE LA ROSA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Signal, New York City on Sat, 29 Aug 2026.
 
 ALEXIS DE LA ROSA is a house and techno artist based in United States of America, tracked on soundcheck, with 60 sets logged across Mexicocity and Newyorkcity. Often billed alongside Sterling Juan Diaz, MORENXXX and Leonce. Next up: Signal, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ALEXIS DE LA ROSA is a house and techno artist based in United States of America
 
 Sterling Juan Diaz, MORENXXX, Leonce
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*

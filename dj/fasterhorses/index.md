@@ -1,8 +1,8 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sub Club, Glasgow on Thu, 10 Sept 2026.
+Faster Horses is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sub Club, Glasgow on Thu, 10 Sept 2026.
 
-Faster Horses is a techno and trance artist tracked on soundcheck, with 240 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 53 more. Often billed alongside Leaha, Azyr and Kander. Next up: Sub Club, Glasgow on Thu 10 Sept.
+Faster Horses is a techno and trance artist tracked on soundcheck, with 241 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 53 more. Often billed alongside Leaha, Azyr and Kander. Next up: Sub Club, Glasgow on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 240 sets
 | Thu, 10 Sept 2026 | Sub Club | Glasgow |
 | Sat, 12 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 12 Sept 2026 | Mondo | Madrid |
+| Fri, 18 Sept 2026 | Virage | Paris |
 | Mon, 21 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Fri, 2 Oct 2026 | Club Vaag | Antwerp |
@@ -19,7 +20,6 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 240 sets
 | Fri, 9 Oct 2026 | Village Underground | London |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | NX Newcastle | Newcastle |
-| Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist tracked on soundcheck, with 240 sets
 
 Leaha, Azyr, Kander
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

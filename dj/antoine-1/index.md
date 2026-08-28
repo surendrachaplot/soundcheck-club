@@ -1,6 +1,6 @@
 # Antoine (1)
 
-Antoine (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+Antoine (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 Antoine (1) is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Lisbon and London and 1 more. Often billed alongside A Strange Wedding, Dirty Plates and Foie Gras. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Antoine (1) is a house and techno artist tracked on soundcheck, with 10 sets log
 
 A Strange Wedding, Dirty Plates, Foie Gras
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoine-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoine-1/)*

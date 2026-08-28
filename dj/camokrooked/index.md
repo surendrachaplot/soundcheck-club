@@ -1,8 +1,8 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at H2o6, Riga on Sat, 29 Aug 2026.
 
-Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: H2o6, Riga on Sat 29 Aug.
+Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: H2o6, Riga on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 74 s
 | Sat, 3 Oct 2026 | The Trusts Stadium | Auckland |
 | Mon, 5 Oct 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 30 Oct 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 74 s
 
 Mefjus, Disrupta, Kanine
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

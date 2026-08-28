@@ -1,6 +1,6 @@
 # Danny Bodega
 
-Danny Bodega is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+Danny Bodega is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 Danny Bodega is a house and balearic artist based in Australia, tracked on soundcheck, with 22 sets logged across Berlin, Edinburgh, Lisbon and London and 1 more. Often billed alongside Evie, Lenny (UK) and Boboxa. Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Danny Bodega is a house and balearic artist based in Australia, tracked on sound
 
 Evie, Lenny (UK), Boboxa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybodega/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybodega/)*

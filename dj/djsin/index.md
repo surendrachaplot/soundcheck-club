@@ -1,6 +1,6 @@
 # DJ SIN
 
-DJ SIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Stoked&stoned, Seoul on Sun, 30 Aug 2026.
+DJ SIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Stoked&stoned, Seoul on Sun, 30 Aug 2026.
 
 DJ SIN is a techno and house artist tracked on soundcheck, with 147 sets logged across Malta and Seoul. Often billed alongside Purusha, SIJIN and Siot. Next up: Stoked&stoned, Seoul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ SIN is a techno and house artist tracked on soundcheck, with 147 sets logged 
 
 Purusha, SIJIN, Siot
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsin/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsin/)*

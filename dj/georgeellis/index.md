@@ -1,6 +1,6 @@
 # George Ellis
 
-George Ellis is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+George Ellis is a Tech House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 George Ellis is a tech house and garage artist tracked on soundcheck, with 9 sets logged across Amsterdam and London. Often billed alongside Solartrak, Trix and Wolf Auris. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ George Ellis is a tech house and garage artist tracked on soundcheck, with 9 set
 
 Solartrak, Trix, Wolf Auris
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeellis/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeellis/)*

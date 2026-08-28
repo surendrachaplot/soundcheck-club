@@ -1,6 +1,6 @@
 # BAGAGE SOMMERFEST at elipamanoke
 
-BAGAGE SOMMERFEST at elipamanoke on Sat 29 Aug, Leipzig. 5 acts on the bill: DJ STIMULA, dj twerking class, Juno030 and unDs and 1 more. Trance and Hip-Hop. Preview the line-up and save it on soundcheck.
+BAGAGE SOMMERFEST at elipamanoke on Sat 29 Aug, Leipzig. 6 acts on the bill: DJ STIMULA, dj twerking class, Juno030 and S.3000 and 2 more. Trance and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BAGAGE SOMMERFEST at elipamanoke on Sat 29 Aug, Leipzig. 5 acts on the bill: DJ 
 - DJ STIMULA
 - dj twerking class
 - Juno030
+- S.3000
 - unDs
 - Vasil
 

@@ -1,6 +1,6 @@
 # Llyr
 
-Llyr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Else, Berlin on Fri, 4 Sept 2026.
+Llyr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Else, Berlin on Fri, 4 Sept 2026.
 
 Llyr is a techno and house artist tracked on soundcheck, with 5 sets logged across Berlin, London and Prague. Often billed alongside Max Cooper, Alex Banks and Any Mello. Next up: Else, Berlin on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Llyr is a techno and house artist tracked on soundcheck, with 5 sets logged acro
 
 Max Cooper, Alex Banks, Any Mello
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/llyr/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/llyr/)*

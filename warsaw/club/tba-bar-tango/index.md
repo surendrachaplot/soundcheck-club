@@ -1,6 +1,6 @@
 # TBA - bar tango
 
-TBA - bar tango is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "TINY BAR SESSIONS 3" on Sat, 29 Aug 2026.
+TBA - bar tango is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "TINY BAR SESSIONS 3" on Sat, 29 Aug 2026.
 
 TBA - bar tango is a music venue in Warsaw listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - bar tango is a music venue in Warsaw listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TINY BAR SESSIONS 3 |  |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-bar-tango/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/tba-bar-tango/)*

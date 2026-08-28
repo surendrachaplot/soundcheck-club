@@ -1,6 +1,6 @@
 # inudog system
 
-inudog system is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Blvck Water, Osaka on Fri, 28 Aug 2026.
+inudog system is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Blvck Water, Osaka on Fri, 28 Aug 2026.
 
 inudog system is a techno artist based in Japan, tracked on soundcheck, with 8 sets logged across Osaka. Often billed alongside FENGX2, ZAGUN and Kaoll. Next up: Blvck Water, Osaka on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ inudog system is a techno artist based in Japan, tracked on soundcheck, with 8 s
 
 FENGX2, ZAGUN, Kaoll
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inudogsystem/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inudogsystem/)*

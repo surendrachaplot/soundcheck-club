@@ -1,6 +1,6 @@
 # Oberman
 
-Oberman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Palais, London on Sat, 3 Oct 2026.
+Oberman is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Palais, London on Sat, 3 Oct 2026.
 
 Oberman is a techno and house artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 9 more. Often billed alongside Oceanic, Konduku and Lenxi. Next up: Palais, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Oberman is a techno and house artist based in Netherlands, tracked on soundcheck
 
 Oceanic, Konduku, Lenxi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oberman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oberman/)*

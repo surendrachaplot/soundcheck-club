@@ -1,14 +1,15 @@
 # Touch Base
 
-Touch Base is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Trans-Pecos, New York City on Fri, 28 Aug 2026.
+Touch Base is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Trans-Pecos, New York City on Fri, 28 Aug 2026.
 
-Touch Base is a techno and house artist tracked on soundcheck, with 17 sets logged across Manchester, Newyorkcity and Tokyo. Often billed alongside ceviché, Choo Choo and SHRAY. Next up: Trans-Pecos, Newyorkcity on Fri 28 Aug.
+Touch Base is a techno and house artist tracked on soundcheck, with 18 sets logged across Manchester, Newyorkcity and Tokyo. Often billed alongside ceviché, Choo Choo and SHRAY. Next up: Trans-Pecos, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Trans-Pecos | New York City |
+| Fri, 9 Oct 2026 | Honey's | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Touch Base is a techno and house artist tracked on soundcheck, with 17 sets logg
 
 ceviché, Choo Choo, SHRAY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/touchbase/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/touchbase/)*

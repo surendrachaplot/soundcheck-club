@@ -1,6 +1,6 @@
 # Kristina
 
-Kristina is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Kristina is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 Kristina is a progressive house and house artist tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Lisbon. Often billed alongside 131bpm, ADAM MUNNINGS and Alírio. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Kristina is a progressive house and house artist tracked on soundcheck, with 4 s
 
 131bpm, ADAM MUNNINGS, Alírio
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kristina/)*

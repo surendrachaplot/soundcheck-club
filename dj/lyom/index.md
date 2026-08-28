@@ -1,13 +1,14 @@
 # LYOM
 
-LYOM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location , Tokyo on Fri, 18 Sept 2026.
+LYOM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 11 Sept 2026.
 
-LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside EMILIO (3), STRATAH and Calavera. Next up: TBA - Secret Location , Tokyo on Fri 18 Sept.
+LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside EMILIO (3), STRATAH and Calavera. Next up: ZEROTOKYO, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | ZEROTOKYO | Tokyo |
 | Fri, 18 Sept 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
@@ -23,4 +24,4 @@ LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 7 
 
 EMILIO (3), STRATAH, Calavera
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

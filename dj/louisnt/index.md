@@ -1,6 +1,6 @@
 # Lou Isn't
 
-Lou Isn't is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jupiter Disco, New York City on Sun, 30 Aug 2026.
+Lou Isn't is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jupiter Disco, New York City on Sun, 30 Aug 2026.
 
 Lou Isn't is a techno and pop artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Patsy, Preacher's Daughter and Boat Neck. Next up: Jupiter Disco, Newyorkcity on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ Lou Isn't is a techno and pop artist tracked on soundcheck, with 6 sets logged a
 
 Patsy, Preacher's Daughter, Boat Neck
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisnt/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisnt/)*

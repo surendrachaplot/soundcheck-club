@@ -1,6 +1,6 @@
 # The Space KU Damm
 
-The Space KU Damm is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Already Possible #4 (MIND/F◡̈CK)" on Sat, 5 Sept 2026.
+The Space KU Damm is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Already Possible #4 (MIND/F◡̈CK)" on Sat, 5 Sept 2026.
 
 The Space KU Damm is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Chris Speed Visuals, Discotopian, Hi-Lar and New Frames and 1 more. Browse upcoming dates, start times and who's playing. Kurfürstendamm 229, 10719 Berlin, Deutschland.
 
@@ -14,4 +14,4 @@ The Space KU Damm is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Kurfürstendamm 229, 10719 Berlin, Deutschland, Berlin
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-space-ku-damm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-space-ku-damm/)*

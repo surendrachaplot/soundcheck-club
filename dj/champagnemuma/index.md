@@ -1,6 +1,6 @@
 # Champagnemuma
 
-Champagnemuma is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Glamorama, Melbourne on Fri, 28 Aug 2026.
+Champagnemuma is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Glamorama, Melbourne on Fri, 28 Aug 2026.
 
 Champagnemuma is a garage and house artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne. Often billed alongside BETHANY (1), Safe and 2HOT2PLAY. Next up: Glamorama, Melbourne on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Champagnemuma is a garage and house artist based in Australia, tracked on soundc
 
 BETHANY (1), Safe, 2HOT2PLAY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemuma/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemuma/)*

@@ -1,6 +1,6 @@
 # Joey Fontaine
 
-Joey Fontaine is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
+Joey Fontaine is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, London on Sat, 29 Aug 2026.
 
 Joey Fontaine is a progressive house and house artist tracked on soundcheck, with 13 sets logged across Bristol, London and Manchester. Often billed alongside Emilia G, Compass and Liam (Handclap). Next up: TBA, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Joey Fontaine is a progressive house and house artist tracked on soundcheck, wit
 
 Emilia G, Compass, Liam (Handclap)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyfontaine/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyfontaine/)*

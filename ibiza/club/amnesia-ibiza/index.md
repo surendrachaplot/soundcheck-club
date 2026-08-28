@@ -1,14 +1,13 @@
 # Amnesia Ibiza
 
-Amnesia Ibiza is a music venue in Ibiza with 39 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "You&Me" on Thu, 27 Aug 2026.
+Amnesia Ibiza is a music venue in Ibiza with 38 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Glitterbox" on Fri, 28 Aug 2026.
 
-Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 39 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
+Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 38 upcoming nights, with line-ups including 999999999, Artbat, Kepler and Adam Beyer and 2 more. Browse upcoming dates, start times and who's playing. Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | You&Me | Eliza Rose, Jentzen, Josh Baker, Luuk van Dijk, Olive F |
 | Fri, 28 Aug 2026 | Glitterbox | Dam Swindle, Fat Tony, Fattony, Groove Armada, Horse Meat Disco, Jazzy Jeff, Melvo Baptiste, Shaun Ross |
 | Sun, 30 Aug 2026 | Pyramid | 999999999, Ben Sterling, Gaskin, Katnada, Kim April, Nina Kraviz, Saraga, Yanamaste |
 | Mon, 31 Aug 2026 | NRG | Ben Hemsley, Benwal, DART, Denis Sulta, Kyle Starkey, Leena Punks, Robbie Doherty |
@@ -18,9 +17,10 @@ Amnesia Ibiza is a music venue in Ibiza listed on soundcheck. 39 upcoming nights
 | Fri, 4 Sept 2026 | Glitterbox | Aline Rocha, Aroop Roy, David Morales, Fat Tony, Fattony, Horse Meat Disco, Jayda G, Melvo Baptiste, Seamus Haji |
 | Sun, 6 Sept 2026 | Pyramid | Alarico, Chlär, Joseph Capriati, Luca Donzelli, Mar-T, Marco Faraone, Sidney Charles, Yanamaste |
 | Mon, 7 Sept 2026 | NRG | Alan Fitzpatrick, Ben Hemsley, Black Traffic, Jezza & Jod, Paige Tomlinson, blk. |
+| Tue, 8 Sept 2026 | Joseph Capriati presents Metamorfosi | DJ Skizzo, Dubfire, Janina, Joseph Capriati, Karretero, Maceo Plex, Ryan Elliott, Sasha Carassi, Seth Troxler |
 
 ## Address
 
 Ctra. Ibiza a San Antonio, Km 5, 07816 San Rafael, Ibiza, Ibiza
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/amnesia-ibiza/)*

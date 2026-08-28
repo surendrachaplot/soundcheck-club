@@ -1,6 +1,6 @@
 # David Jackson
 
-David Jackson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Prince Charles, Berlin on Fri, 11 Sept 2026.
+David Jackson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Prince Charles, Berlin on Fri, 11 Sept 2026.
 
 David Jackson is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Bucharest and Cork and 14 more. Often billed alongside Mall Grab, Effy and Claire O'Brien. Next up: Prince Charles, Berlin on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ David Jackson is a house and techno artist tracked on soundcheck, with 34 sets l
 
 Mall Grab, Effy, Claire O'Brien
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidjackson/)*

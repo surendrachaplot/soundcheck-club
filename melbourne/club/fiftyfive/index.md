@@ -1,6 +1,6 @@
 # Fiftyfive
 
-Fiftyfive is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "SUBVERSION: with Ess & Deft J" on Sat, 29 Aug 2026.
+Fiftyfive is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "SUBVERSION: with Ess & Deft J" on Sat, 29 Aug 2026.
 
 Fiftyfive is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Julius Myles, Luke ur friend, sbas and With Ess. Browse upcoming dates, start times and who's playing. 55 Elizabeth St; Melbourne, VIC 3000; Australia.
 
@@ -15,4 +15,4 @@ Fiftyfive is a music venue in Melbourne listed on soundcheck. 2 upcoming nights,
 
 55 Elizabeth St; Melbourne, VIC 3000; Australia, Melbourne
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/fiftyfive/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/fiftyfive/)*

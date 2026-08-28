@@ -1,6 +1,6 @@
 # Prince of Whales
 
-Prince of Whales is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jolene, Copenhagen on Fri, 28 Aug 2026.
+Prince of Whales is a Dub and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jolene, Copenhagen on Fri, 28 Aug 2026.
 
 Prince of Whales is a dub and house artist based in Austria, tracked on soundcheck, with 9 sets logged across Copenhagen. Often billed alongside A.dixen, Anton Friisgaard and Barbara Hryciuk. Next up: Jolene, Copenhagen on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Prince of Whales is a dub and house artist based in Austria, tracked on soundche
 
 A.dixen, Anton Friisgaard, Barbara Hryciuk
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princeofwhales/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princeofwhales/)*

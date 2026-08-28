@@ -1,6 +1,6 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 29 Aug 2026.
+Luna (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Aoyama Hachi, Tokyo on Sat, 29 Aug 2026.
 
 Luna (1) is a house and techno artist tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Bangkok and Budapest and 13 more. Often billed alongside Pavo, Franky Jones and Alexander Koning. Next up: Aoyama Hachi, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Luna (1) is a house and techno artist tracked on soundcheck, with 34 sets logged
 
 Pavo, Franky Jones, Alexander Koning
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-1/)*

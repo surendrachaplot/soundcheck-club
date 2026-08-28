@@ -1,6 +1,6 @@
 # Karlie Marx
 
-Karlie Marx is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Karlie Marx is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Karlie Marx is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Joshua James, THEMPRESS and Michelle Manetti. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Karlie Marx is a techno and bass artist based in United Kingdom, tracked on soun
 
 Joshua James, THEMPRESS, Michelle Manetti
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karliemarx/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karliemarx/)*

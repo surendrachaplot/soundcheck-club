@@ -1,6 +1,6 @@
 # Queer Open Decks at Promenaden Eck
 
-Queer Open Decks at Promenaden Eck on Thu 3 Sept, Berlin. 1 act on the bill: Daniel Mata. House and Tech House. Preview the line-up and save it on soundcheck.
+Queer Open Decks at Promenaden Eck on Thu 3 Sept, Berlin. 2 acts on the bill: Daniel Mata and Noxumi. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Queer Open Decks at Promenaden Eck on Thu 3 Sept, Berlin. 1 act on the bill: Dan
 ## Line-up
 
 - Daniel Mata
+- Noxumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2511339-queer-open-decks-at-promenaden-eck/)*

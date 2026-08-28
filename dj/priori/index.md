@@ -1,13 +1,14 @@
 # Priori
 
-Priori is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at UMI, Brussels on Sat, 5 Sept 2026.
+Priori is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Love Inn, Bristol on Sat, 29 Aug 2026.
 
-Priori is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 48 more. Often billed alongside Aurora Halal, Kia (AU) and DjRUM. Next up: UMI, Brussels on Sat 5 Sept.
+Priori is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 48 more. Often billed alongside Aurora Halal, Kia (AU) and DjRUM. Next up: The Love Inn, Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 29 Aug 2026 | The Love Inn | Bristol |
 | Sat, 5 Sept 2026 | UMI | Brussels |
 | Fri, 11 Sept 2026 | Virage | Paris |
 | Sat, 12 Sept 2026 | The Cause | London |
@@ -29,4 +30,4 @@ Priori is a techno and house artist tracked on soundcheck, with 148 sets logged 
 
 Aurora Halal, Kia (AU), DjRUM
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priori/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/priori/)*

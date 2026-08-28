@@ -1,6 +1,6 @@
 # KAïA (2)
 
-KAïA (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
+KAïA (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kraftwerk, Zurich on Sat, 12 Sept 2026.
 
 KAïA (2) is a techno and electronica artist tracked on soundcheck, with 15 sets logged across Zurich. Often billed alongside Megix, CAERMI and Miska. Next up: Kraftwerk, Zurich on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ KAïA (2) is a techno and electronica artist tracked on soundcheck, with 15 sets
 
 Megix, CAERMI, Miska
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaïa-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaïa-2/)*

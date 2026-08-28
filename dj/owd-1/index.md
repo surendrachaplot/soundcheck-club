@@ -1,6 +1,6 @@
 # OWD (1)
 
-OWD (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
+OWD (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at LEO, Brussels on Sat, 29 Aug 2026.
 
 OWD (1) is a techno and industrial artist tracked on soundcheck, with 16 sets logged across Brussels. Often billed alongside Leck Barker, Makoveev and SYSMIK. Next up: LEO, Brussels on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ OWD (1) is a techno and industrial artist tracked on soundcheck, with 16 sets lo
 
 Leck Barker, Makoveev, SYSMIK
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owd-1/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owd-1/)*

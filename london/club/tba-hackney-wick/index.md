@@ -1,6 +1,6 @@
 # TBA - HACKNEY WICK
 
-TBA - HACKNEY WICK is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Minus Pink" on Fri, 11 Sept 2026.
+TBA - HACKNEY WICK is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Minus Pink" on Fri, 11 Sept 2026.
 
 TBA - HACKNEY WICK is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AYLIN IDAH, David Ramsay, Gridlock and Jacklyn and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - HACKNEY WICK is a music venue in London listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Minus Pink | AYLIN IDAH, David Ramsay, Gridlock, Jacklyn, NARA (UK), RHYNOK |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-hackney-wick/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-hackney-wick/)*

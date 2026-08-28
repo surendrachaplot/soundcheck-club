@@ -1,6 +1,6 @@
 # Raab
 
-Raab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
+Raab is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Next Door Records Two, London on Fri, 4 Sept 2026.
 
 Raab is a techno and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Dublin, London and Nurnberg. Often billed alongside Martita, KOSIE and Malwen. Next up: Next Door Records Two, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Raab is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Martita, KOSIE, Malwen
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raab/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raab/)*

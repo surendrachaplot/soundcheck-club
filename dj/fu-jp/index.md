@@ -1,14 +1,15 @@
 # FU (JP)
 
-FU (JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat, 29 Aug 2026.
+FU (JP) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat, 29 Aug 2026.
 
-FU (JP) is a house and techno artist based in Japan, tracked on soundcheck, with 65 sets logged across Bangkok, Hamburg, Istanbul and Melbourne and 3 more. Often billed alongside Joe O, CHIDA and Hanzo Tono. Next up: TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat 29 Aug.
+FU (JP) is a house and techno artist based in Japan, tracked on soundcheck, with 66 sets logged across Bangkok, Hamburg, Istanbul and Melbourne and 3 more. Often billed alongside Joe O, CHIDA and Al Jones. Next up: TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | TBA - PinkNoiz - somewhere in Hatagaya | Tokyo |
+| Fri, 11 Sept 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ FU (JP) is a house and techno artist based in Japan, tracked on soundcheck, with
 
 ## Shares bills with
 
-Joe O, CHIDA, Hanzo Tono
+Joe O, CHIDA, Al Jones
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fu-jp/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fu-jp/)*

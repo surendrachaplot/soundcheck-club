@@ -1,13 +1,14 @@
 # MEGUSTA
 
-MEGUSTA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+MEGUSTA is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Stratus Lounge, Philadelphia on Sun, 30 Aug 2026.
 
-MEGUSTA is a tech house and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Miami and Saopaulo. Often billed alongside Lousy Lover, Ale Acosta and Roll-e. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+MEGUSTA is a tech house and house artist based in United States of America, tracked on soundcheck, with 28 sets logged across Miami, Philadelphia and Saopaulo. Often billed alongside Lousy Lover, Ale Acosta and Roll-e. Next up: Stratus Lounge, Philadelphia on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Stratus Lounge | Philadelphia |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ MEGUSTA is a tech house and house artist based in United States of America, trac
 
 Lousy Lover, Ale Acosta, Roll-e
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megusta/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/megusta/)*

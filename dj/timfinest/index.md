@@ -1,6 +1,6 @@
 # Tim Finest
 
-Tim Finest is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kulturbetrieb Zappa, Stuttgart on Sat, 29 Aug 2026.
+Tim Finest is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kulturbetrieb Zappa, Stuttgart on Sat, 29 Aug 2026.
 
 Tim Finest is a techno and tech house artist based in Germany, tracked on soundcheck, with 31 sets logged across Stuttgart. Often billed alongside Verinja, Herbrido and HXTC. Next up: Kulturbetrieb Zappa, Stuttgart on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Tim Finest is a techno and tech house artist based in Germany, tracked on soundc
 
 Verinja, Herbrido, HXTC
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timfinest/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timfinest/)*

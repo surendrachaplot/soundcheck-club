@@ -1,13 +1,14 @@
 # Marjan
 
-Marjan is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Danger Danger, New York City on Fri, 11 Sept 2026.
+Marjan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at SILO, New York City on Fri, 28 Aug 2026.
 
-Marjan is a house and tech house artist tracked on soundcheck, with 10 sets logged across Berlin and Newyorkcity. Often billed alongside baby-g, Anna Almani and Coss. Next up: Danger Danger, Newyorkcity on Fri 11 Sept.
+Marjan is a house and tech house artist tracked on soundcheck, with 11 sets logged across Berlin and Newyorkcity. Often billed alongside baby-g, Anna Almani and Coss. Next up: SILO, Newyorkcity on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | SILO | New York City |
 | Fri, 11 Sept 2026 | Danger Danger | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marjan is a house and tech house artist tracked on soundcheck, with 10 sets logg
 
 baby-g, Anna Almani, Coss
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marjan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marjan/)*

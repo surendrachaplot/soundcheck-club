@@ -1,6 +1,6 @@
 # DJ Lucy Bakanal
 
-DJ Lucy Bakanal is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
+DJ Lucy Bakanal is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
 
 DJ Lucy Bakanal is an experimental and techno artist tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside Gawdesque, esti.d and AfroNinja. Next up: FLUCC, Vienna on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Lucy Bakanal is an experimental and techno artist tracked on soundcheck, with
 
 Gawdesque, esti.d, AfroNinja
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucybacchanal/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djlucybacchanal/)*

@@ -1,14 +1,15 @@
 # Vero
 
-Vero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 29 Aug 2026.
+Vero is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Het Sieraad, Amsterdam on Sat, 29 Aug 2026.
 
-Vero is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, London and Munich. Often billed alongside ALISHA, Aio and Alexis Hera. Next up: Het Sieraad, Amsterdam on Sat 29 Aug.
+Vero is a house and techno artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, London and Munich. Often billed alongside ALISHA, Aio and Alexis Hera. Next up: Het Sieraad, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Het Sieraad | Amsterdam |
+| Sat, 5 Sept 2026 | ÆDEN | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Vero is a house and techno artist tracked on soundcheck, with 13 sets logged acr
 
 ALISHA, Aio, Alexis Hera
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*

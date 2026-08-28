@@ -1,13 +1,14 @@
 # CHÉ WAX
 
-CHÉ WAX is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Social, London on Fri, 11 Sept 2026.
+CHÉ WAX is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 30 Aug 2026.
 
-CHÉ WAX is a house and disco artist tracked on soundcheck, with 23 sets logged across Amsterdam, Bangkok, Liverpool and London and 1 more. Often billed alongside DMC., Dan Soulsmith and Greg Wilson. Next up: The Social, London on Fri 11 Sept.
+CHÉ WAX is a house and disco artist tracked on soundcheck, with 24 sets logged across Amsterdam, Bangkok, Liverpool and London and 1 more. Often billed alongside DMC., Dan Soulsmith and Greg Wilson. Next up: Vittoria Wharf Studio, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Vittoria Wharf Studio | London |
 | Fri, 11 Sept 2026 | The Social | London |
 | Fri, 30 Oct 2026 | The Golden Lion | Manchester |
 
@@ -26,4 +27,4 @@ CHÉ WAX is a house and disco artist tracked on soundcheck, with 23 sets logged 
 
 DMC., Dan Soulsmith, Greg Wilson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*

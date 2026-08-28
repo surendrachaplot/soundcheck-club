@@ -1,6 +1,6 @@
 # Folamour
 
-Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Folamour is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 Folamour is a house and disco artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Folamour is a house and disco artist tracked on soundcheck, with 145 sets logged
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Mondo, Madrid on Sat, 29 Aug 2026.
+STÜM is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mondo, Madrid on Sat, 29 Aug 2026.
 
 STÜM is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bali, Belfast and Berlin and 17 more. Often billed alongside Sam Alfred, Kyle Starkey and 6 SENSE. Next up: Mondo, Madrid on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ STÜM is a techno and house artist tracked on soundcheck, with 62 sets logged ac
 
 Sam Alfred, Kyle Starkey, 6 SENSE
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

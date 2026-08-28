@@ -1,8 +1,8 @@
 # Lezcano
 
-Lezcano is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Low Profile Studios, London on Fri, 28 Aug 2026.
+Lezcano is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Low Profile Studios, London on Fri, 28 Aug 2026.
 
-Lezcano is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Birmingham, Brighton, Budapest and London. Often billed alongside Labåzuy, Lau.tastic and SHARKA. Next up: Low Profile Studios, London on Fri 28 Aug.
+Lezcano is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Birmingham, Brighton, Budapest and London. Often billed alongside Labåzuy, Lau.tastic and SHARKA. Next up: Low Profile Studios, London on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lezcano is a techno and industrial artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Low Profile Studios | London |
 | Sat, 29 Aug 2026 | TBA - Secret Location | London |
+| Sun, 30 Aug 2026 | Distillery N17 | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lezcano is a techno and industrial artist based in United Kingdom, tracked on so
 
 Labåzuy, Lau.tastic, SHARKA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lezcano/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lezcano/)*

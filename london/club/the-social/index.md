@@ -1,14 +1,13 @@
 # The Social
 
-The Social is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "HARDBACK: Anti Climax" on Thu, 27 Aug 2026.
+The Social is a music venue in London with 15 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LOCALISM: Toshiki Ohta" on Fri, 28 Aug 2026.
 
-The Social is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+The Social is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. Browse upcoming dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | HARDBACK: Anti Climax | MRWIZE, dogheadsurigeri, madame3swords, six-winged hilda |
 | Fri, 28 Aug 2026 | LOCALISM: Toshiki Ohta | Toshiki Ohta |
 | Sat, 29 Aug 2026 | Propa Ammo: DJ Rap + Dope Ammo + more | DJ Rap, Dope Ammo, Lynx, MC Fearless |
 | Fri, 4 Sept 2026 | LOCALISM: Twin Sun | Twin Sun |
@@ -18,9 +17,10 @@ The Social is a music venue in London listed on soundcheck. 16 upcoming nights, 
 | Fri, 25 Sept 2026 | LOCALISM |  |
 | Fri, 2 Oct 2026 | LOCALISM: NIGHT manoeuvres Takeover | NIGHT manoeuvres |
 | Fri, 9 Oct 2026 | LOCALISM |  |
+| Fri, 16 Oct 2026 | LOCALISM: NIGHT manoeuvres | NIGHT manoeuvres |
 
 ## Address
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

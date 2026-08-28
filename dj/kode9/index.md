@@ -1,6 +1,6 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
+Kode9 is a Bass and Experimental artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
 
 Kode9 is a bass and experimental artist tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside Tim Reaper, Skee Mask and Mala. Next up: Badaboum, Paris on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Kode9 is a bass and experimental artist tracked on soundcheck, with 123 sets log
 
 Tim Reaper, Skee Mask, Mala
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

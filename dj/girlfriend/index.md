@@ -1,6 +1,6 @@
 # Girlfriend
 
-Girlfriend is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
+Girlfriend is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Soup, Manchester on Fri, 28 Aug 2026.
 
 Girlfriend is a house and techno artist tracked on soundcheck, with 25 sets logged across Manchester. Often billed alongside caonix, Shelle.y and Baba Sketch. Next up: Soup, Manchester on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Girlfriend is a house and techno artist tracked on soundcheck, with 25 sets logg
 
 caonix, Shelle.y, Baba Sketch
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girlfriend/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/girlfriend/)*

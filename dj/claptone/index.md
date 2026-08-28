@@ -1,14 +1,13 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Cavo Paradiso, Mykonos on Thu, 27 Aug 2026.
+Claptone is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Chinois Ibiza, Ibiza on Sat, 29 Aug 2026.
 
-Claptone is a house and tech house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Cavo Paradiso, Mykonos on Thu 27 Aug.
+Claptone is a house and tech house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Chinois Ibiza, Ibiza on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Cavo Paradiso | Mykonos |
 | Sat, 29 Aug 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Sat, 5 Sept 2026 | Chinois Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Claptone is a house and tech house artist tracked on soundcheck, with 229 sets l
 
 ## Recently played
 
+- Cavo Paradiso, Mykonos — Thu, 27 Aug 2026
 - Chinois Ibiza, Ibiza — Sat, 22 Aug 2026
 - Chinois Ibiza, Ibiza — Sat, 15 Aug 2026
 - Amok Club, Mallorca — Sat, 15 Aug 2026
@@ -30,10 +30,9 @@ Claptone is a house and tech house artist tracked on soundcheck, with 229 sets l
 - Chinois Ibiza, Ibiza — Sat, 8 Aug 2026
 - Ku Barcelona, Barcelona — Sun, 2 Aug 2026
 - Chinois Ibiza, Ibiza — Sat, 1 Aug 2026
-- Chinois Ibiza, Ibiza — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

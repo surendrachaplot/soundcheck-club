@@ -1,6 +1,6 @@
 # Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, Redax & More at Northern Lights Lounge
 
-Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, Redax & More at Northern Lights Lounge on Fri 11 Sept, Detroit. 6 acts on the bill: DJ SPHiNX, Henry Brooks, Lady Witch and Marcel Fengler and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, Redax & More at Northern Lights Lounge on Fri 11 Sept, Detroit. 7 acts on the bill: DJ SPHiNX, Henry Brooks, Konrad James and Lady Witch and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, 
 
 - DJ SPHiNX
 - Henry Brooks
+- Konrad James
 - Lady Witch
 - Marcel Fengler
 - Redax

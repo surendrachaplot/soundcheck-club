@@ -1,6 +1,6 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Keep It Shields Day & Night with HAAi, Gerd Janson B2B Optimo, Man Power, Jacklyn and more" on Sun, 30 Aug 2026.
+Are You Affiliated is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Keep It Shields Day & Night with HAAi, Gerd Janson B2B Optimo, Man Power, Jacklyn and more" on Sun, 30 Aug 2026.
 
 Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcoming nights, with line-ups including Decius, Gerd Janson, HAAi and Jacklyn and 2 more. Browse upcoming dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
@@ -17,4 +17,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

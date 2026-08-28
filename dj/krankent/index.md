@@ -1,6 +1,6 @@
 # Krankent
 
-Krankent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Yakusyu Bar Kouenji, Tokyo on Sat, 5 Sept 2026.
+Krankent is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Yakusyu Bar Kouenji, Tokyo on Sat, 5 Sept 2026.
 
 Krankent is a techno and house artist tracked on soundcheck, with 99 sets logged across Tokyo. Often billed alongside KASHIWAGI, SIGNAL (JP) and t.t.. Next up: Yakusyu Bar Kouenji, Tokyo on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Krankent is a techno and house artist tracked on soundcheck, with 99 sets logged
 
 KASHIWAGI, SIGNAL (JP), t.t.
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*

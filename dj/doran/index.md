@@ -1,6 +1,6 @@
 # Doran
 
-Doran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
+Doran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
 
 Doran is a techno and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Thehague. Often billed alongside Ferenc Ratkai, Bastienne and Bito. Next up: Radio Radio, Amsterdam on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Doran is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Ferenc Ratkai, Bastienne, Bito
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doran/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doran/)*

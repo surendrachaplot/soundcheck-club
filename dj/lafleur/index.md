@@ -1,6 +1,6 @@
 # La Fleur
 
-La Fleur is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Eden, Stockholm on Fri, 28 Aug 2026.
+La Fleur is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Eden, Stockholm on Fri, 28 Aug 2026.
 
 La Fleur is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, Bucharest, Copenhagen and Dublin and 7 more. Often billed alongside Jamie Jones, ALISHA and Antonsson. Next up: Eden, Stockholm on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ La Fleur is a house and techno artist tracked on soundcheck, with 24 sets logged
 
 Jamie Jones, ALISHA, Antonsson
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafleur/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafleur/)*

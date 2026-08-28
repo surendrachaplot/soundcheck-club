@@ -1,6 +1,6 @@
 # k.oz
 
-k.oz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Emporium Arcade Bar - Wicker Park, Chicago on Thu, 17 Sept 2026.
+k.oz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Emporium Arcade Bar - Wicker Park, Chicago on Thu, 17 Sept 2026.
 
 k.oz is a techno and club artist tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside Akua, Beau Wanzer and Caro Arroba. Next up: Emporium Arcade Bar - Wicker Park, Chicago on Thu 17 Sept.
 
@@ -24,4 +24,4 @@ k.oz is a techno and club artist tracked on soundcheck, with 8 sets logged acros
 
 Akua, Beau Wanzer, Caro Arroba
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.oz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.oz/)*

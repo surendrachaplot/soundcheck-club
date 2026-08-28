@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
+Mothafunk is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
 
 Mothafunk is a house and disco artist based in United States of America, tracked on soundcheck, with 67 sets logged across Chicago, Losangeles, Melbourne and Newyorkcity. Often billed alongside Chris NG, Kgomotso and Sophie Forrest. Next up: TBA, Chicago on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Mothafunk is a house and disco artist based in United States of America, tracked
 
 Chris NG, Kgomotso, Sophie Forrest
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

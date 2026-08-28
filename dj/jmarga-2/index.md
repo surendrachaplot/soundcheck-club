@@ -1,6 +1,6 @@
 # JMarga (2)
 
-JMarga (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
+JMarga (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at M7 Club, Barcelona on Fri, 28 Aug 2026.
 
 JMarga (2) is a techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside EDS (ESP), Øxiyd and ArceX. Next up: M7 Club, Barcelona on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ JMarga (2) is a techno artist based in Spain, tracked on soundcheck, with 4 sets
 
 EDS (ESP), Øxiyd, ArceX
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmarga-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jmarga-2/)*

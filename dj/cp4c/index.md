@@ -1,6 +1,6 @@
 # CP4C
 
-CP4C is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+CP4C is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
 CP4C is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Hovercat, Agem and Dj Quien. Next up: TBA, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ CP4C is a drum & bass and jungle artist tracked on soundcheck, with 17 sets logg
 
 Hovercat, Agem, Dj Quien
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cp4c/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cp4c/)*

@@ -1,6 +1,6 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
+Succubass is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Secret Location, Chicago on Sat, 29 Aug 2026.
 
 Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Secret Location, Chicago on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

@@ -1,6 +1,6 @@
 # Sainte Exp
 
-Sainte Exp is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Rex Club, Paris on Sat, 26 Sept 2026.
+Sainte Exp is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Rex Club, Paris on Sat, 26 Sept 2026.
 
 Sainte Exp is a techno and house artist tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Lyon and Paris. Often billed alongside Vickies, Hadj y Baba and La Chikh. Next up: Rex Club, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sainte Exp is a techno and house artist tracked on soundcheck, with 33 sets logg
 
 Vickies, Hadj y Baba, La Chikh
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sainteexp/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sainteexp/)*

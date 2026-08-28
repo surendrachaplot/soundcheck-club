@@ -1,6 +1,6 @@
 # FREEEMAN
 
-FREEEMAN is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bar Datcha, Montreal on Sat, 26 Sept 2026.
+FREEEMAN is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bar Datcha, Montreal on Sat, 26 Sept 2026.
 
 FREEEMAN is a deep house and tech house artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Colmee, Clochette and DUZA. Next up: Bar Datcha, Montreal on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FREEEMAN is a deep house and tech house artist based in Canada, tracked on sound
 
 Colmee, Clochette, DUZA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freeeman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freeeman/)*

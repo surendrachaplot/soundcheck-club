@@ -1,6 +1,6 @@
 # Miguel Silver
 
-Miguel Silver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Lulú Club, Palermo Soho, Buenos Aires on Sat, 29 Aug 2026.
+Miguel Silver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Lulú Club, Palermo Soho, Buenos Aires on Sat, 29 Aug 2026.
 
 Miguel Silver is a techno and house artist tracked on soundcheck, with 16 sets logged across Buenosaires. Often billed alongside VALENCE, Luis Nieva and Michel Lauriola. Next up: TBA - Lulú Club, Palermo Soho, Buenosaires on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Miguel Silver is a techno and house artist tracked on soundcheck, with 16 sets l
 
 VALENCE, Luis Nieva, Michel Lauriola
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilver/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilver/)*

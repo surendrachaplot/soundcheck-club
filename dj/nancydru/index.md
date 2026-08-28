@@ -1,6 +1,6 @@
 # Nancy Dru
 
-Nancy Dru is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
+Nancy Dru is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 29 Aug 2026.
 
 Nancy Dru is a techno and house artist based in Canada, tracked on soundcheck, with 26 sets logged across Vancouver. Often billed alongside DJ Hockey, Abasi and DK PAU. Next up: Gorg-O-Mish, Vancouver on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Nancy Dru is a techno and house artist based in Canada, tracked on soundcheck, w
 
 DJ Hockey, Abasi, DK PAU
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nancydru/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nancydru/)*

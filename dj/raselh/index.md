@@ -1,6 +1,6 @@
 # rasel h
 
-rasel h is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - secret location , Bristol on Sat, 29 Aug 2026.
+rasel h is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - secret location , Bristol on Sat, 29 Aug 2026.
 
 rasel h is a techno and house artist tracked on soundcheck, with 16 sets logged across Brighton, Bristol and London. Often billed alongside Jake Moree, Eksish and Adam Chapman. Next up: TBA - secret location , Bristol on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ rasel h is a techno and house artist tracked on soundcheck, with 16 sets logged 
 
 Jake Moree, Eksish, Adam Chapman
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raselh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raselh/)*

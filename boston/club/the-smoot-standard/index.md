@@ -1,18 +1,18 @@
 # The Smoot Standard
 
-The Smoot Standard is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "House Standards: MixmstrStel's Birthday Bash" on Fri, 28 Aug 2026.
+The Smoot Standard is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "House Standards: MixmstrStel's Birthday Bash" on Fri, 28 Aug 2026.
 
-The Smoot Standard is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including DJ Yee. Browse upcoming dates, start times and who's playing. 313 Massachusetts Ave, Cambridge, MA 02139, USA.
+The Smoot Standard is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including DJ Yee and Rob Philmar. Browse upcoming dates, start times and who's playing. 313 Massachusetts Ave, Cambridge, MA 02139, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | House Standards: MixmstrStel's Birthday Bash |  |
-| Sat, 19 Sept 2026 | House Of Yee: Saturday Sessions | DJ Yee |
+| Sat, 19 Sept 2026 | House Of Yee: Saturday Sessions | DJ Yee, Rob Philmar |
 
 ## Address
 
 313 Massachusetts Ave, Cambridge, MA 02139, USA, Boston
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*

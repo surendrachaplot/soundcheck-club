@@ -1,6 +1,6 @@
 # Glade Marie
 
-Glade Marie is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Adela Street W10, London on Sun, 30 Aug 2026.
+Glade Marie is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Adela Street W10, London on Sun, 30 Aug 2026.
 
 Glade Marie is a house and afrobeat artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Birmingham, Bristol and London. Often billed alongside Shifa Ligero, Donnie Sunshine and KATANA (2). Next up: TBA - Adela Street W10, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Glade Marie is a house and afrobeat artist based in United Kingdom, tracked on s
 
 Shifa Ligero, Donnie Sunshine, KATANA (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glademarie/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glademarie/)*

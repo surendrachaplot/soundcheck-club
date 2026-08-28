@@ -1,6 +1,6 @@
 # Alby Esc
 
-Alby Esc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at un club bonito, Mexico City on Fri, 28 Aug 2026.
+Alby Esc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at un club bonito, Mexico City on Fri, 28 Aug 2026.
 
 Alby Esc is a house and techno artist based in Mexico, tracked on soundcheck, with 118 sets logged across Brighton, London and Mexicocity. Often billed alongside Diz Shocka, Tommy Hart and Enya Botello. Next up: un club bonito, Mexicocity on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Alby Esc is a house and techno artist based in Mexico, tracked on soundcheck, wi
 
 Diz Shocka, Tommy Hart, Enya Botello
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albyesc/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/albyesc/)*

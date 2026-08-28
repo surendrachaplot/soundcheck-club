@@ -1,6 +1,6 @@
 # James Bangura
 
-James Bangura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Good Room, New York City on Fri, 4 Sept 2026.
+James Bangura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Good Room, New York City on Fri, 4 Sept 2026.
 
 James Bangura is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Boston and Detroit and 15 more. Often billed alongside Nativesun, Black Rave Culture and Amal. Next up: Good Room, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ James Bangura is a techno and house artist tracked on soundcheck, with 67 sets l
 
 Nativesun, Black Rave Culture, Amal
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbangura/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesbangura/)*

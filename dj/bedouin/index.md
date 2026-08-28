@@ -1,6 +1,6 @@
 # Bedouin
 
-Bedouin is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kaufleuten, Zurich on Sat, 29 Aug 2026.
+Bedouin is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kaufleuten, Zurich on Sat, 29 Aug 2026.
 
 Bedouin is a house and tech house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Austin and Bali and 35 more. Often billed alongside Seth Troxler, Carlita and DJ Tennis. Next up: Kaufleuten, Zurich on Sat 29 Aug.
 
@@ -35,4 +35,4 @@ Bedouin is a house and tech house artist tracked on soundcheck, with 212 sets lo
 
 Seth Troxler, Carlita, DJ Tennis
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bedouin/)*

@@ -1,13 +1,14 @@
 # Dimaio
 
-Dimaio is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Terraza Catedral, Mexico City on Fri, 28 Aug 2026.
+Dimaio is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hookah Lounge, Mexico City on Wed, 26 Aug 2026.
 
-Dimaio is a house and minimal artist based in Mexico, tracked on soundcheck, with 62 sets logged across Mexicocity and Prague. Often billed alongside Nimean Sunset, Cinema Paradisco and RUJA. Next up: Terraza Catedral, Mexicocity on Fri 28 Aug.
+Dimaio is a house and minimal artist based in Mexico, tracked on soundcheck, with 62 sets logged across Mexicocity and Prague. Often billed alongside Nimean Sunset, Cinema Paradisco and RUJA. Next up: Hookah Lounge, Mexicocity on Wed 26 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 26 Aug 2026 | Hookah Lounge | Mexico City |
 | Fri, 28 Aug 2026 | Terraza Catedral | Mexico City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dimaio is a house and minimal artist based in Mexico, tracked on soundcheck, wit
 
 Nimean Sunset, Cinema Paradisco, RUJA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaio/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimaio/)*

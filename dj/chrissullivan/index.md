@@ -1,6 +1,6 @@
 # Chris Sullivan
 
-Chris Sullivan is a Club and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Jago, London on Fri, 4 Sept 2026.
+Chris Sullivan is a Club and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Jago, London on Fri, 4 Sept 2026.
 
 Chris Sullivan is a club and funk / soul artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Ernesto Chahoud, Gilles Peterson and Jerry Dammers. Next up: The Jago, London on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Chris Sullivan is a club and funk / soul artist tracked on soundcheck, with 4 se
 
 Ernesto Chahoud, Gilles Peterson, Jerry Dammers
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissullivan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissullivan/)*

@@ -1,6 +1,6 @@
 # Lee Brown
 
-Lee Brown is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 3 Sept 2026.
+Lee Brown is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 3 Sept 2026.
 
 Lee Brown is a house and tech house artist tracked on soundcheck, with 10 sets logged across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Thomas + James, McCart and BORLEY. Next up: La Cheetah Club, Glasgow on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Lee Brown is a house and tech house artist tracked on soundcheck, with 10 sets l
 
 Thomas + James, McCart, BORLEY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leebrown/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leebrown/)*

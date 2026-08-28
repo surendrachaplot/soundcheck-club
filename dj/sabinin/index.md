@@ -1,6 +1,6 @@
 # Sabinin
 
-Sabinin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
+Sabinin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
 
 Sabinin is a techno and house artist based in Ukraine, tracked on soundcheck, with 28 sets logged across Austin, Houston and Newyorkcity. Often billed alongside Kurilo, Noey Lopez and Stealthy. Next up: Bogart House, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sabinin is a techno and house artist based in Ukraine, tracked on soundcheck, wi
 
 Kurilo, Noey Lopez, Stealthy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinin/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinin/)*

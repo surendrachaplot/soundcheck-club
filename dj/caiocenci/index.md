@@ -1,14 +1,15 @@
 # Caio Cenci
 
-Caio Cenci is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Caio Cenci is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
-Caio Cenci is a house and disco artist based in Brazil, tracked on soundcheck, with 29 sets logged across Amsterdam, Copenhagen, London and Paris and 1 more. Often billed alongside Bustin' Loose, Old as Funk and Poppi. Next up: Ministry Of Sound, London on Sat 5 Sept.
+Caio Cenci is a house and disco artist based in Brazil, tracked on soundcheck, with 30 sets logged across Amsterdam, Copenhagen, London and Paris and 1 more. Often billed alongside Bustin' Loose, Old as Funk and Poppi. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Ministry Of Sound | London |
+| Sat, 19 Sept 2026 | Sigurd CPH | Copenhagen |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Caio Cenci is a house and disco artist based in Brazil, tracked on soundcheck, w
 
 Bustin' Loose, Old as Funk, Poppi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caiocenci/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caiocenci/)*

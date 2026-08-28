@@ -1,6 +1,6 @@
 # Herton
 
-Herton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
+Herton is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
 
 Herton is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Initial Code, Sylvie Maziarz and Clara D. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Herton is a techno and house artist tracked on soundcheck, with 92 sets logged a
 
 Initial Code, Sylvie Maziarz, Clara D
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/herton/)*

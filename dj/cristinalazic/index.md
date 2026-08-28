@@ -1,8 +1,8 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
+Cristina Lazic is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 28 Aug 2026.
 
-Cristina Lazic is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside East End Dubs, Hot Since 82 and Black Coffee. Next up: Les Enfants Brillants, Barcelona on Fri 28 Aug.
+Cristina Lazic is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside East End Dubs, Hot Since 82 and Black Coffee. Next up: Les Enfants Brillants, Barcelona on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cristina Lazic is a house and tech house artist tracked on soundcheck, with 77 s
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 25 Sept 2026 | Document | Bristol |
+| Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
@@ -27,4 +28,4 @@ Cristina Lazic is a house and tech house artist tracked on soundcheck, with 77 s
 
 East End Dubs, Hot Since 82, Black Coffee
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristinalazic/)*

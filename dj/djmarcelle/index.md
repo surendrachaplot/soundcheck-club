@@ -1,6 +1,6 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Sameheads, Berlin on Fri, 4 Sept 2026.
+DJ Marcelle is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sameheads, Berlin on Fri, 4 Sept 2026.
 
 DJ Marcelle is an experimental and electronica artist based in Netherlands, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside DjRUM, ojoo and Mala. Next up: Sameheads, Berlin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, trac
 
 DjRUM, ojoo, Mala
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

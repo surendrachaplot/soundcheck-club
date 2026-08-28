@@ -1,6 +1,6 @@
 # Lee Cee
 
-Lee Cee is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sub Club, Glasgow on Fri, 4 Sept 2026.
+Lee Cee is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sub Club, Glasgow on Fri, 4 Sept 2026.
 
 Lee Cee is an acid and techno artist tracked on soundcheck, with 8 sets logged across Edinburgh and Glasgow. Often billed alongside Co-Accused, Dixon Avenue Basement Jams and Facets. Next up: Sub Club, Glasgow on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Lee Cee is an acid and techno artist tracked on soundcheck, with 8 sets logged a
 
 Co-Accused, Dixon Avenue Basement Jams, Facets
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leecee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leecee/)*

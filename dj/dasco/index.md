@@ -1,6 +1,6 @@
 # DASCO
 
-DASCO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Printhouse, Munich on Sat, 5 Sept 2026.
+DASCO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Printhouse, Munich on Sat, 5 Sept 2026.
 
 DASCO is a house and techno artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside Best Boy Electric, Deepneue and Extase Urbaine. Next up: Printhouse, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DASCO is a house and techno artist tracked on soundcheck, with 35 sets logged ac
 
 Best Boy Electric, Deepneue, Extase Urbaine
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasco/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasco/)*

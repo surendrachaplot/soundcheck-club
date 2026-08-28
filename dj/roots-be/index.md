@@ -1,6 +1,6 @@
 # Roots.
 
-Roots. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
+Roots. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
 
 Roots. is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside dOctOr doms, Luminick and __iwana__. Next up: Crack Bellmer, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Roots. is a house and techno artist tracked on soundcheck, with 19 sets logged a
 
 dOctOr doms, Luminick, __iwana__
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roots-be/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roots-be/)*

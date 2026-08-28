@@ -1,6 +1,6 @@
 # CAM GIRL
 
-CAM GIRL is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at House of Yes, New York City on Fri, 28 Aug 2026.
+CAM GIRL is a Pop and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at House of Yes, New York City on Fri, 28 Aug 2026.
 
 CAM GIRL is a pop and electro artist tracked on soundcheck, with 11 sets logged across Detroit, Hongkong, Losangeles and Miami and 4 more. Often billed alongside MAMA SAN, ABRA and BAAWLA. Next up: House of Yes, Newyorkcity on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ CAM GIRL is a pop and electro artist tracked on soundcheck, with 11 sets logged 
 
 MAMA SAN, ABRA, BAAWLA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirl/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirl/)*

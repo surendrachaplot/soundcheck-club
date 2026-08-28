@@ -1,6 +1,6 @@
 # Alex Banks
 
-Alex Banks is a IDM and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at OIL Club, Shenzhen on Thu, 24 Sept 2026.
+Alex Banks is a IDM and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at OIL Club, Shenzhen on Thu, 24 Sept 2026.
 
 Alex Banks is an idm and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Brighton, London, Prague and Shenzhen. Often billed alongside Max Cooper, Alion and Llyr. Next up: OIL Club, Shenzhen on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ Alex Banks is an idm and techno artist based in United Kingdom, tracked on sound
 
 Max Cooper, Alion, Llyr
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbanks/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbanks/)*

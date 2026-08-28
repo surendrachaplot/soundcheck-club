@@ -1,6 +1,6 @@
 # Alexy
 
-Alexy is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
+Alexy is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
 
 Alexy is a house and experimental artist based in Spain, tracked on soundcheck, with 7 sets logged across Berlin and Madrid. Often billed alongside THIRTEEN DOZE, VCO and Banu. Next up: OHM, Berlin on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Alexy is a house and experimental artist based in Spain, tracked on soundcheck, 
 
 THIRTEEN DOZE, VCO, Banu
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexy/)*

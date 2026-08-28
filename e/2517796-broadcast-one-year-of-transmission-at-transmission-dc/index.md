@@ -1,6 +1,6 @@
 # BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC
 
-BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washingtondc. 24 acts on the bill: Cadeem LaMarr, CalvoMusic, CFCF and Clear Channel and 20 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
+BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washingtondc. 25 acts on the bill: Cadeem LaMarr, CalvoMusic, CFCF and Clear Channel and 21 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washingtond
 - Girlypop Princess
 - Hissy Fit
 - ILUSM
+- JAMBALAYA
 - Juno (NY)
 - Kade Young
 - MANGUMAMI

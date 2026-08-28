@@ -1,6 +1,6 @@
 # Get to Funk Presents: Launch Party at Commune Liverpool at Commune
 
-Get to Funk Presents: Launch Party at Commune Liverpool on Fri 28 Aug, Liverpool. 1 act on the bill: Fenn Piper. House and Disco. Preview the line-up and save it on soundcheck.
+Get to Funk Presents: Launch Party at Commune Liverpool on Fri 28 Aug, Liverpool. 2 acts on the bill: Fenn Piper and Jade Burns. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Get to Funk Presents: Launch Party at Commune Liverpool on Fri 28 Aug, Liverpool
 ## Line-up
 
 - Fenn Piper
+- Jade Burns
 
 *Source: [soundcheck](https://soundcheck.club/e/2480589-get-to-funk-presents-launch-party-at-commune-liverpool-at-co/)*

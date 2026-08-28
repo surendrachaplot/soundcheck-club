@@ -1,6 +1,6 @@
 # Denize
 
-Denize is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
+Denize is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Culture Box, Copenhagen on Sat, 31 Oct 2026.
 
 Denize is a house and techno artist based in Denmark, tracked on soundcheck, with 10 sets logged across Copenhagen. Often billed alongside Fynutzu, Adelina (2) and Bongo & Pusk. Next up: Culture Box, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Denize is a house and techno artist based in Denmark, tracked on soundcheck, wit
 
 Fynutzu, Adelina (2), Bongo & Pusk
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denize/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denize/)*

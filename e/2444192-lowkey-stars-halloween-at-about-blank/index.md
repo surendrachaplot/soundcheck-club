@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ HALLOWEEN at ://about blank
 
-★ LOWKEY STARS ☆ HALLOWEEN at ://about blank on Fri 30 Oct, Berlin. 1 act on the bill: Bélavie. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ HALLOWEEN at ://about blank on Fri 30 Oct, Berlin. 19 acts on the bill: Anna Hoeber, antyo, Bambii and Bélavie and 15 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,24 @@
 
 ## Line-up
 
+- Anna Hoeber
+- antyo
+- Bambii
 - Bélavie
+- Cottí Larje
+- Delm
+- Dino S
+- DJ Spaßgetränk
+- EVYA
+- LEIA (2)
+- M O N A (US)
+- MAD.MOD
+- MARØ
+- Monalisa Michaelis
+- Natasha Roze
+- R1D1
+- RaVix
+- Sasa
+- Sinetiketa
 
 *Source: [soundcheck](https://soundcheck.club/e/2444192-lowkey-stars-halloween-at-about-blank/)*

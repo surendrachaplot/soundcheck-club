@@ -1,6 +1,6 @@
 # bozito
 
-bozito is a Reggaeton and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Supernatural Haus, Miami on Sat, 29 Aug 2026.
+bozito is a Reggaeton and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Supernatural Haus, Miami on Sat, 29 Aug 2026.
 
 bozito is a reggaeton and techno artist tracked on soundcheck, with 33 sets logged across Miami and Sanfrancisco. Often billed alongside SATURNSARii, 619! and Roll-e. Next up: Supernatural Haus, Miami on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ bozito is a reggaeton and techno artist tracked on soundcheck, with 33 sets logg
 
 SATURNSARii, 619!, Roll-e
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bozito/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bozito/)*

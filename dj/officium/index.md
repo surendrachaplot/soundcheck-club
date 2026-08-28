@@ -1,6 +1,6 @@
 # Officium
 
-Officium is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
+Officium is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
 
 Officium is an experimental and electronica artist tracked on soundcheck, with 14 sets logged across Lyon, Marseille, Milan and Paris and 2 more. Often billed alongside Jonquera, Al Paino and Anetha. Next up: CIQ - Centro Internazionale di Quartiere, Milan on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Officium is an experimental and electronica artist tracked on soundcheck, with 1
 
 Jonquera, Al Paino, Anetha
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/officium/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/officium/)*

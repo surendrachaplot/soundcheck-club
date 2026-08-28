@@ -1,6 +1,6 @@
 # The Almanac
 
-The Almanac is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at fabric, London on Fri, 25 Sept 2026.
+The Almanac is a Afro House and Gqom artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at fabric, London on Fri, 25 Sept 2026.
 
 The Almanac is an afro house and gqom artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Leeda, INTUIT and ANGL (2). Next up: fabric, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ The Almanac is an afro house and gqom artist based in United Kingdom, tracked on
 
 Leeda, INTUIT, ANGL (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thealmanac/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thealmanac/)*

@@ -1,6 +1,6 @@
 # Colours Hoxton
 
-Colours Hoxton is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Re:um (Electronic Set) (London, UK)" on Fri, 4 Sept 2026.
+Colours Hoxton is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Re:um (Electronic Set) (London, UK)" on Fri, 4 Sept 2026.
 
 Colours Hoxton is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Arrosa, Berlin Bunny, CatMint and Dina Summer and 2 more. Browse upcoming dates, start times and who's playing. 2-4 Hoxton Square, London N1 6NU, United Kingdom.
 
@@ -17,4 +17,4 @@ Colours Hoxton is a music venue in London listed on soundcheck. 4 upcoming night
 
 2-4 Hoxton Square, London N1 6NU, United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*

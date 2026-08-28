@@ -1,6 +1,6 @@
 # Andriy K.
 
-Andriy K. is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+Andriy K. is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
 
 Andriy K. is an ambient and bass artist based in Ukraine, tracked on soundcheck, with 77 sets logged across Amsterdam, Basel, Berlin and Krakow and 10 more. Often billed alongside AXT, endléa and BLUME. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Andriy K. is an ambient and bass artist based in Ukraine, tracked on soundcheck,
 
 AXT, endléa, BLUME
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andriyk/)*

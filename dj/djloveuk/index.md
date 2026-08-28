@@ -1,6 +1,6 @@
 # DJ Love UK
 
-DJ Love UK is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Phonox, London on Thu, 10 Sept 2026.
+DJ Love UK is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Phonox, London on Thu, 10 Sept 2026.
 
 DJ Love UK is a techno and garage artist tracked on soundcheck, with 49 sets logged across Amsterdam, Belfast, Berlin and Bristol and 9 more. Often billed alongside Dusty Dan, Gemi (UK) and THELMA. Next up: Phonox, London on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ DJ Love UK is a techno and garage artist tracked on soundcheck, with 49 sets log
 
 Dusty Dan, Gemi (UK), THELMA
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djloveuk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djloveuk/)*

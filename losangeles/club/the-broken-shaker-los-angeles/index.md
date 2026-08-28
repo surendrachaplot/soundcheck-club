@@ -1,6 +1,6 @@
 # The Broken Shaker Los Angeles
 
-The Broken Shaker Los Angeles is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Cali Caliente Poolside Sessions Vol. 4: BL SUEDE, Mana Moves, Nish" on Fri, 28 Aug 2026.
+The Broken Shaker Los Angeles is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Cali Caliente Poolside Sessions Vol. 4: BL SUEDE, Mana Moves, Nish" on Fri, 28 Aug 2026.
 
 The Broken Shaker Los Angeles is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including BL SUEDE, Mana Moves and nish.. Browse upcoming dates, start times and who's playing. 416 W 8th St., Los Angeles, CA 90014, USA.
 
@@ -14,4 +14,4 @@ The Broken Shaker Los Angeles is a music venue in Losangeles listed on soundchec
 
 416 W 8th St., Los Angeles, CA 90014, USA, Los Angeles
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-broken-shaker-los-angeles/)*

@@ -1,6 +1,6 @@
 # Jooheon
 
-Jooheon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Evening, Seoul on Sat, 29 Aug 2026.
+Jooheon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Evening, Seoul on Sat, 29 Aug 2026.
 
 Jooheon is a house and techno artist based in South Korea, tracked on soundcheck, with 68 sets logged across Seoul. Often billed alongside Yeonju, Hyerang and Cityboy from Seoul. Next up: Evening, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jooheon is a house and techno artist based in South Korea, tracked on soundcheck
 
 Yeonju, Hyerang, Cityboy from Seoul
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jooheon/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jooheon/)*

@@ -1,6 +1,6 @@
 # SKIN2SKIN: 2 YEAR ANNIVERSARY at Bossa Nova Civic Club
 
-SKIN2SKIN: 2 YEAR ANNIVERSARY at Bossa Nova Civic Club on Sat 5 Sept, Newyorkcity. 3 acts on the bill: Amarji King, ARCHANGEL (US) and Daniro. Techno and Club. Preview the line-up and save it on soundcheck.
+SKIN2SKIN: 2 YEAR ANNIVERSARY at Bossa Nova Civic Club on Sat 5 Sept, Newyorkcity. 4 acts on the bill: Amarji King, ARCHANGEL (US), Christinathesaintt and Daniro. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SKIN2SKIN: 2 YEAR ANNIVERSARY at Bossa Nova Civic Club on Sat 5 Sept, Newyorkcit
 
 - Amarji King
 - ARCHANGEL (US)
+- Christinathesaintt
 - Daniro
 
 *Source: [soundcheck](https://soundcheck.club/e/2511909-skin2skin-2-year-anniversary-at-bossa-nova-civic-club/)*

@@ -1,6 +1,6 @@
 # DJ KILLING
 
-DJ KILLING is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
+DJ KILLING is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
 
 DJ KILLING is a techno and house artist based in Germany, tracked on soundcheck, with 127 sets logged across Amsterdam, Basel, Berlin and Hamburg and 7 more. Often billed alongside travaspango, LINDHOUSE and juan and only. Next up: Golden Pudel Club, Hamburg on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ DJ KILLING is a techno and house artist based in Germany, tracked on soundcheck,
 
 travaspango, LINDHOUSE, juan and only
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkilling/)*

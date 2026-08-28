@@ -1,8 +1,8 @@
 # Lillevan
 
-Lillevan is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Lillevan is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
-Lillevan is an experimental and electronica artist based in Germany, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Montreal. Often billed alongside Fennesz, Ah! Kosmos and Hainbach. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Lillevan is an experimental and electronica artist based in Germany, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Montreal. Often billed alongside Fennesz, Ah! Kosmos and Debit. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Lillevan is an experimental and electronica artist based in Germany, tracked on 
 
 ## Shares bills with
 
-Fennesz, Ah! Kosmos, Hainbach
+Fennesz, Ah! Kosmos, Debit
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillevan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillevan/)*

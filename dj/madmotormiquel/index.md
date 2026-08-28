@@ -1,6 +1,6 @@
 # Madmotormiquel
 
-Madmotormiquel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Valerie Toronto, Toronto on Fri, 11 Sept 2026.
+Madmotormiquel is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Valerie Toronto, Toronto on Fri, 11 Sept 2026.
 
 Madmotormiquel is a house and deep house artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Chicago and Cologne and 21 more. Often billed alongside Kotoe, Nacho Isa and Oliver Koletzki. Next up: Valerie Toronto, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Madmotormiquel is a house and deep house artist based in Germany, tracked on sou
 
 Kotoe, Nacho Isa, Oliver Koletzki
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madmotormiquel/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madmotormiquel/)*

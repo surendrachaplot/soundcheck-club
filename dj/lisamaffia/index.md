@@ -1,6 +1,6 @@
 # Lisa Maffia
 
-Lisa Maffia is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
+Lisa Maffia is a Garage and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tola, London on Fri, 28 Aug 2026.
 
 Lisa Maffia is a garage and club artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Birmingham, London and Manchester. Often billed alongside Artful Dodger, Romeo and DJ Luck & MC Neat. Next up: Tola, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Lisa Maffia is a garage and club artist based in United Kingdom, tracked on soun
 
 Artful Dodger, Romeo, DJ Luck & MC Neat
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamaffia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamaffia/)*

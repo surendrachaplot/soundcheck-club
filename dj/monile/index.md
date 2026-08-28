@@ -1,14 +1,14 @@
 # Monile
 
-Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Marseille 13014, Marseille on Sat, 29 Aug 2026.
+Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Stade Fontainieu, Marseille on Sat, 29 Aug 2026.
 
-Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Jonny Rock, Lamache and Miroloja. Next up: TBA - Marseille 13014, Marseille on Sat 29 Aug.
+Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Jonny Rock, Lamache and Miroloja. Next up: Stade Fontainieu, Marseille on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA - Marseille 13014 | Marseille |
+| Sat, 29 Aug 2026 | Stade Fontainieu | Marseille |
 | Sat, 5 Sept 2026 | Flash | Washington DC |
 | Sat, 12 Sept 2026 | Stereo | Montreal |
 | Sat, 3 Oct 2026 | Cadavra | Madrid |
@@ -28,4 +28,4 @@ Monile is a house and techno artist based in Morocco, tracked on soundcheck, wit
 
 Jonny Rock, Lamache, Miroloja
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

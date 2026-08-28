@@ -1,6 +1,6 @@
 # Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub
 
-Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub on Sun 15 Nov, Berlin. 3 acts on the bill: Cristian Marras, Sina XX and Spikey Lee. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub on Sun 15 Nov, Berlin. 5 acts on the bill: Cristian Marras, K-H1, SIMZ (DE) and Sina XX and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub on Sun 15 No
 ## Line-up
 
 - Cristian Marras
+- K-H1
+- SIMZ (DE)
 - Sina XX
 - Spikey Lee
 

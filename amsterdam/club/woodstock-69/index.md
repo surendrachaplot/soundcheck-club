@@ -1,6 +1,6 @@
 # Woodstock'69
 
-Woodstock'69 is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Brighter Days at the Beach" on Sun, 30 Aug 2026.
+Woodstock'69 is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Brighter Days at the Beach" on Sun, 30 Aug 2026.
 
 Woodstock'69 is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Dixon, Eileen (NL), Gizem and Jimi Jules and 2 more. Browse upcoming dates, start times and who's playing. Zeeweg 7, 2051 EB Overveen, Netherlands.
 
@@ -16,4 +16,4 @@ Woodstock'69 is a music venue in Amsterdam listed on soundcheck. 3 upcoming nigh
 
 Zeeweg 7, 2051 EB Overveen, Netherlands, Amsterdam
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/woodstock-69/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/woodstock-69/)*

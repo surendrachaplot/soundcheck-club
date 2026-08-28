@@ -1,6 +1,6 @@
 # 3Hertz
 
-3Hertz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fitzroy, Berlin on Fri, 18 Sept 2026.
+3Hertz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fitzroy, Berlin on Fri, 18 Sept 2026.
 
 3Hertz is a house and garage artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside SNC Crew, DJ NORTHERN and Garage Girls. Next up: Fitzroy, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@
 
 SNC Crew, DJ NORTHERN, Garage Girls
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3hertz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/3hertz/)*

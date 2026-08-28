@@ -1,6 +1,6 @@
 # Pacific Coliseum
 
-Pacific Coliseum is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Vancouver Art Gallery, Vancouver on Sat, 29 Aug 2026.
+Pacific Coliseum is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Vancouver Art Gallery, Vancouver on Sat, 29 Aug 2026.
 
 Pacific Coliseum is a house and balearic artist based in Canada, tracked on soundcheck, with 21 sets logged across Losangeles, Toronto and Vancouver. Often billed alongside Teen Daze, DJ D.Dee and Dane. Next up: Vancouver Art Gallery, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Pacific Coliseum is a house and balearic artist based in Canada, tracked on soun
 
 Teen Daze, DJ D.Dee, Dane
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pacificcoliseum/)*

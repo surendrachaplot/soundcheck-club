@@ -1,6 +1,6 @@
 # Inner Zone
 
-Inner Zone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Inner Zone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at FOLD, London on Sat, 3 Oct 2026.
 
 Inner Zone is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, Bristol, Edinburgh and London and 5 more. Often billed alongside Alien Communications, DJ TEETH and Lora Mipsum. Next up: FOLD, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Inner Zone is a techno and house artist tracked on soundcheck, with 41 sets logg
 
 Alien Communications, DJ TEETH, Lora Mipsum
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerzone/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerzone/)*

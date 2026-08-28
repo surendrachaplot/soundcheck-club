@@ -1,6 +1,6 @@
 # Haffi
 
-Haffi is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Flash, Washington DC on Fri, 28 Aug 2026.
+Haffi is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Flash, Washington DC on Fri, 28 Aug 2026.
 
 Haffi is a club and house artist tracked on soundcheck, with 8 sets logged across Washingtondc. Often billed alongside Allanit, Andry Es and Casa Nova. Next up: Flash, Washingtondc on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Haffi is a club and house artist tracked on soundcheck, with 8 sets logged acros
 
 Allanit, Andry Es, Casa Nova
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haffi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haffi/)*

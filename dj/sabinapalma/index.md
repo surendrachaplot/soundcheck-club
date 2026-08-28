@@ -1,14 +1,15 @@
 # Sabina Palma
 
-Sabina Palma is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 12 Sept 2026.
+Sabina Palma is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 12 Sept 2026.
 
-Sabina Palma is a techno and electronica artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Botelo, Deenia and MORVIUS. Next up: YuYu Cine Club, Mexicocity on Sat 12 Sept.
+Sabina Palma is a techno and electronica artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside Botelo, Deenia and MORVIUS. Next up: YuYu Cine Club, Mexicocity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | YuYu Cine Club | Mexico City |
+| Sat, 24 Oct 2026 | CHICO | Mexico City |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Sabina Palma is a techno and electronica artist based in Mexico, tracked on soun
 
 Botelo, Deenia, MORVIUS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinapalma/)*

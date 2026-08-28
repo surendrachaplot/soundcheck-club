@@ -1,8 +1,8 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 5 Sept 2026.
+DJ MARIA. is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 5 Sept 2026.
 
-DJ MARIA. is a techno and trance artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: ZEROTOKYO, Tokyo on Sat 5 Sept.
+DJ MARIA. is a techno and trance artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: ZEROTOKYO, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 143 sets log
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Sun, 20 Sept 2026 | TBA | Montreal |
+| Fri, 9 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -31,4 +32,4 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 143 sets log
 
 DJ Yazi, DJ Nobu, Haruka
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

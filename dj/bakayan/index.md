@@ -1,6 +1,6 @@
 # Bákayan
 
-Bákayan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
+Bákayan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
 
 Bákayan is a house and deep house artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Copenhagen and Geneva and 5 more. Often billed alongside Samet Gunal, Enes Çakır and Esin. Next up: Kafes x Milo, Istanbul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bákayan is a house and deep house artist based in Germany, tracked on soundchec
 
 Samet Gunal, Enes Çakır, Esin
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakayan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bakayan/)*

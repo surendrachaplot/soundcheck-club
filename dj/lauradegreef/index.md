@@ -1,6 +1,6 @@
 # Laura De Greef
 
-Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Laura De Greef is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Brussels, Ghent and Ibiza and 6 more. Often billed alongside Jamback, Marsolo and L.P. Rhythm. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Laura De Greef is a house and techno artist tracked on soundcheck, with 30 sets 
 
 Jamback, Marsolo, L.P. Rhythm
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradegreef/)*

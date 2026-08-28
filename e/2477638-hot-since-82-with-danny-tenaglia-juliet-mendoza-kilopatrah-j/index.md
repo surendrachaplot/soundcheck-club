@@ -1,6 +1,6 @@
-# Hot Since 82 with/ Danny Tenaglia, Juliet Mendoza, Kilopatrah Jones at Knockdown Center
+# Hot Since 82 with Danny Tenaglia, Juliet Mendoza, Kilopatrah Jones at Knockdown Center
 
-Hot Since 82 with/ Danny Tenaglia, Juliet Mendoza, Kilopatrah Jones at Knockdown Center on Sat 5 Sept, Newyorkcity. 4 acts on the bill: Danny Tenaglia, Hot Since 82, Juliet Mendoza and Kilopatrah Jones. House. Preview the line-up and save it on soundcheck.
+Hot Since 82 with Danny Tenaglia, Juliet Mendoza, Kilopatrah Jones at Knockdown Center on Sat 5 Sept, Newyorkcity. 4 acts on the bill: Danny Tenaglia, Hot Since 82, Juliet Mendoza and Kilopatrah Jones. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 # TONA
 
-TONA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bahnwärter Thiel, Munich on Thu, 27 Aug 2026.
+TONA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bahnwärter Thiel, Munich on Fri, 4 Sept 2026.
 
-TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 8 sets logged across Munich. Often billed alongside ANASTASÍA, NAGINI and Vaneska. Next up: Bahnwärter Thiel, Munich on Thu 27 Aug.
+TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 8 sets logged across Munich. Often billed alongside ANASTASÍA, NAGINI and Vaneska. Next up: Bahnwärter Thiel, Munich on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Bahnwärter Thiel | Munich |
 | Fri, 4 Sept 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich — Thu, 27 Aug 2026
 - Lieberscholli, Munich — Sat, 22 Aug 2026
 - Bahnwärter Thiel, Munich — Thu, 4 Jun 2026
 - Bahnwärter Thiel, Munich — Fri, 15 May 2026
@@ -24,4 +24,4 @@ TONA is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 ANASTASÍA, NAGINI, Vaneska
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tona/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tona/)*

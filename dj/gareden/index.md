@@ -1,6 +1,6 @@
 # Gareden
 
-Gareden is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Süss War Gestern, Berlin on Fri, 28 Aug 2026.
+Gareden is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Süss War Gestern, Berlin on Fri, 28 Aug 2026.
 
 Gareden is a house and club artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin and Cologne. Often billed alongside Black Box, ZARE and Ginchy. Next up: Süss War Gestern, Berlin on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ Gareden is a house and club artist based in Germany, tracked on soundcheck, with
 
 Black Box, ZARE, Ginchy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*

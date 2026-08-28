@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
+DJ Possum is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Glove That Fits, London on Sat, 29 Aug 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: The Glove That Fits, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 84 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

@@ -1,6 +1,6 @@
 # DJ Blockflöte 2000
 
-DJ Blockflöte 2000 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+DJ Blockflöte 2000 is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 DJ Blockflöte 2000 is an electronic artist tracked on soundcheck, with 20 sets logged across Berlin, Hamburg and Vienna. Often billed alongside PASSA, brvder jakob and VIVUS. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Blockflöte 2000 is an electronic artist tracked on soundcheck, with 20 sets 
 
 PASSA, brvder jakob, VIVUS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblockflote2000/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblockflote2000/)*

@@ -1,6 +1,6 @@
 # Alex Sharp
 
-Alex Sharp is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at John Doe, Amsterdam on Sun, 30 Aug 2026.
+Alex Sharp is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at John Doe, Amsterdam on Sun, 30 Aug 2026.
 
 Alex Sharp is a techno and tech house artist tracked on soundcheck, with 338 sets logged across Amsterdam, Barcelona, London and Saopaulo. Often billed alongside Lino Fuso, SOROUSH and Main Identity. Next up: John Doe, Amsterdam on Sun 30 Aug.
 
@@ -29,4 +29,4 @@ Alex Sharp is a techno and tech house artist tracked on soundcheck, with 338 set
 
 Lino Fuso, SOROUSH, Main Identity
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asharp-nl/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asharp-nl/)*

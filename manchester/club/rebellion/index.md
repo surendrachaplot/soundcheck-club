@@ -1,8 +1,8 @@
 # Rebellion
 
-Rebellion is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Riot Manchester Pride Afterparty" on Sat, 29 Aug 2026.
+Rebellion is a music venue in Manchester with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Riot Manchester Pride Afterparty" on Sat, 29 Aug 2026.
 
-Rebellion is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Arkyn, Big Dope P, CRAIC DAVID and skywalka and 1 more. Browse upcoming dates, start times and who's playing. 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom.
+Rebellion is a music venue in Manchester listed on soundcheck. 3 upcoming nights, with line-ups including Arkyn, Big Dope P, Chinese Daughter and CRAIC DAVID and 2 more. Browse upcoming dates, start times and who's playing. 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom.
 
 ## What's on
 
@@ -10,10 +10,10 @@ Rebellion is a music venue in Manchester listed on soundcheck. 3 upcoming nights
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Riot Manchester Pride Afterparty |  |
 | Fri, 2 Oct 2026 | HARDWeRK VI: HARDCORE WILL [ ..NEVeR] WeRK | Arkyn, Big Dope P, CRAIC DAVID, skywalka, sohotsospicy |
-| Fri, 23 Oct 2026 | SPUN: Line Up TBA |  |
+| Fri, 23 Oct 2026 | SPUN: M-Beat, Dwarde, Chinese Daughter + Residents | Chinese Daughter, Dwarde, Isabella-Rose, Joe Mac |
 
 ## Address
 
 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom, Manchester
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/rebellion/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/rebellion/)*

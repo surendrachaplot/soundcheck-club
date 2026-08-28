@@ -1,6 +1,6 @@
 # Red D
 
-Red D is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Charlatan, Ghent on Sat, 29 Aug 2026.
+Red D is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Charlatan, Ghent on Sat, 29 Aug 2026.
 
 Red D is a house and disco artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Phi Phi, WLC (BE) and His dudeness. Next up: Charlatan, Ghent on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Red D is a house and disco artist tracked on soundcheck, with 60 sets logged acr
 
 Phi Phi, WLC (BE), His dudeness
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redd/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redd/)*

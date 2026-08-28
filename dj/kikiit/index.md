@@ -1,6 +1,6 @@
 # KIKI (IT)
 
-KIKI (IT) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hotel Butterfly, Rome on Wed, 9 Sept 2026.
+KIKI (IT) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hotel Butterfly, Rome on Wed, 9 Sept 2026.
 
 KIKI (IT) is a house and electronica artist tracked on soundcheck, with 13 sets logged across London, Milan and Rome. Often billed alongside Dante (H501), Pietro (3) and Ciancio. Next up: Hotel Butterfly, Rome on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ KIKI (IT) is a house and electronica artist tracked on soundcheck, with 13 sets 
 
 Dante (H501), Pietro (3), Ciancio
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiit/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiit/)*

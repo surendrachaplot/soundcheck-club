@@ -1,6 +1,6 @@
 # KMD.
 
-KMD. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Mash House, Edinburgh on Fri, 4 Sept 2026.
+KMD. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Mash House, Edinburgh on Fri, 4 Sept 2026.
 
 KMD. is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Edinburgh and Glasgow. Often billed alongside Isaac Sayers, Antonio Martone and Brad Herbert. Next up: The Mash House, Edinburgh on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ KMD. is a techno and trance artist based in United Kingdom, tracked on soundchec
 
 Isaac Sayers, Antonio Martone, Brad Herbert
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kmd./)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kmd./)*

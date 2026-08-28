@@ -1,6 +1,6 @@
 # CRi
 
-CRi is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+CRi is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 CRi is a house and deep house artist based in Canada, tracked on soundcheck, with 47 sets logged across Austin, Berlin, Chicago and London and 13 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -16,6 +16,7 @@ CRi is a house and deep house artist based in Canada, tracked on soundcheck, wit
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Beach House San Diego, San Diego — Sat, 1 Aug 2026
 - Elsewhere, New York City — Sat, 11 Jul 2026
 - ZeyZey, Miami — Fri, 19 Jun 2026
@@ -23,10 +24,9 @@ CRi is a house and deep house artist based in Canada, tracked on soundcheck, wit
 - Coda, Toronto — Fri, 29 May 2026
 - Kauz, Zurich — Fri, 29 May 2026
 - Société des arts technologiques, Montreal — Fri, 24 Apr 2026
-- Audio SF, San Francisco/Oakland — Sat, 3 Jan 2026
 
 ## Shares bills with
 
 Nicky Elisabeth, Hana, Eli & Fur
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*

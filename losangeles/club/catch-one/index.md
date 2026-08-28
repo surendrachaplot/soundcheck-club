@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG)" on Fri, 28 Aug 2026.
+Catch One is a music venue in Los Angeles with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "HOUSE WORX (HIGH OCTANE HOUSE ANTHEMS - ALL NITE LONG)" on Fri, 28 Aug 2026.
 
 Catch One is a music venue in Losangeles listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -21,4 +21,4 @@ Catch One is a music venue in Losangeles listed on soundcheck. 8 upcoming nights
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

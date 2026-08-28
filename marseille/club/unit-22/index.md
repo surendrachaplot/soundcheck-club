@@ -1,8 +1,8 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Unité.22: Mrd, Mile Dietrich" on Fri, 28 Aug 2026.
+Unité.22 is a music venue in Marseille with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Unité.22: Mrd, Mile Dietrich" on Fri, 28 Aug 2026.
 
-Unité.22 is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including Erna (FR), MRD (NO), Nesa Azadikhah and Sina XX and 1 more. Browse upcoming dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
+Unité.22 is a music venue in Marseille listed on soundcheck. 4 upcoming nights, with line-ups including Erna (FR), Etienne Nogues, MRD (NO) and Nesa Azadikhah and 2 more. Browse upcoming dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 3 upcoming nights,
 | Fri, 28 Aug 2026 | Unité.22: Mrd, Mile Dietrich | MRD (NO) |
 | Sat, 29 Aug 2026 | Unité.22: Sina XX B2b Nesa Azadikhah, Mateo, Nota | Nesa Azadikhah, Sina XX |
 | Fri, 4 Sept 2026 | Unité.22: Yasmin Regisford, Erna, Maka Dison | Erna (FR), Yasmin Regisford |
+| Sat, 12 Sept 2026 | Unité.22 - YENKOV RESIDENCY: TWIENA, Etienne Nogues, YENKOV | Etienne Nogues, TWIENA, YENKOV |
 
 ## Address
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

@@ -1,6 +1,6 @@
 # Forgotten Sounds
 
-Forgotten Sounds is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
+Forgotten Sounds is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at OXI, Berlin on Thu, 10 Sept 2026.
 
 Forgotten Sounds is a techno and ambient artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Howler (UK), TRYCK and Alex Levin. Next up: OXI, Berlin on Thu 10 Sept.
 
@@ -9,7 +9,7 @@ Forgotten Sounds is a techno and ambient artist tracked on soundcheck, with 3 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | OXI | Berlin |
-| Fri, 18 Sept 2026 | Ziegrastraße 11 | Berlin |
+| Fri, 18 Sept 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -19,4 +19,4 @@ Forgotten Sounds is a techno and ambient artist tracked on soundcheck, with 3 se
 
 Howler (UK), TRYCK, Alex Levin
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forgottensounds/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forgottensounds/)*

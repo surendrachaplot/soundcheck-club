@@ -1,6 +1,6 @@
 # MIMA
 
-MIMA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - OLD TOWN, Prague on Sat, 29 Aug 2026.
+MIMA is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - OLD TOWN, Prague on Sat, 29 Aug 2026.
 
 MIMA is a tech house and house artist tracked on soundcheck, with 21 sets logged across Barcelona and Prague. Often billed alongside Sam Gittis, Pink Concrete and Rufus. Next up: TBA - OLD TOWN, Prague on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MIMA is a tech house and house artist tracked on soundcheck, with 21 sets logged
 
 Sam Gittis, Pink Concrete, Rufus
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mima/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mima/)*

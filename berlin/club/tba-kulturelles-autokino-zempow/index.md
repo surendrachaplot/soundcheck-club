@@ -1,6 +1,6 @@
 # TBA - KULTURELLES AUTOKINO ZEMPOW
 
-TBA - KULTURELLES AUTOKINO ZEMPOW is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Anderewelt Festival" on Thu, 27 Aug 2026.
+TBA - KULTURELLES AUTOKINO ZEMPOW is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Anderewelt Festival" on Thu, 27 Aug 2026.
 
 TBA - KULTURELLES AUTOKINO ZEMPOW is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - KULTURELLES AUTOKINO ZEMPOW is a music venue in Berlin listed on soundchec
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | Anderewelt Festival |  |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-kulturelles-autokino-zempow/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-kulturelles-autokino-zempow/)*

@@ -1,6 +1,6 @@
 # TBA -  Kaferberg
 
-TBA -  Kaferberg is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Mama Cacao showcase Celebration" on Sat, 29 Aug 2026.
+TBA -  Kaferberg is a music venue in Zurich with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Mama Cacao showcase Celebration" on Sat, 29 Aug 2026.
 
 TBA -  Kaferberg is a music venue in Zurich listed on soundcheck. 1 upcoming night, with line-ups including Jkson. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA -  Kaferberg is a music venue in Zurich listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Mama Cacao showcase Celebration | Jkson |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/tba-kaferberg/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/tba-kaferberg/)*

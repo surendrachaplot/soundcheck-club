@@ -1,6 +1,6 @@
 # Scott Zacharias
 
-Scott Zacharias is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
+Scott Zacharias is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Paris Bar, Detroit on Sat, 29 Aug 2026.
 
 Scott Zacharias is a house and techno artist based in United States of America, tracked on soundcheck, with 143 sets logged across Austin, Boston, Chicago and Detroit and 12 more. Often billed alongside Ryan Spencer, Father Dukes and Ladylike. Next up: Paris Bar, Detroit on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Scott Zacharias is a house and techno artist based in United States of America, 
 
 Ryan Spencer, Father Dukes, Ladylike
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottzacharias/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scottzacharias/)*

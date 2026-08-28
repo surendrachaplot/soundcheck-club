@@ -1,6 +1,6 @@
 # reialise
 
-reialise is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX, London on Fri, 28 Aug 2026.
+reialise is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX, London on Fri, 28 Aug 2026.
 
 reialise is a hip-hop and club artist tracked on soundcheck, with 7 sets logged across London and Tokyo. Often billed alongside RAAANDY, CYBERHACKSYSTEM and Courtney Bailey. Next up: TBA - KeyStone Crescent  No.9 Caledonian Road  London  N1 9DX, London on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ reialise is a hip-hop and club artist tracked on soundcheck, with 7 sets logged 
 
 RAAANDY, CYBERHACKSYSTEM, Courtney Bailey
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reialise/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reialise/)*

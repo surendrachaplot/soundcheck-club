@@ -1,6 +1,6 @@
 # Piscesprince
 
-Piscesprince is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
+Piscesprince is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
 
 Piscesprince is a pop and club artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Robyn DaBank, fake.stan and ASTER (DJ). Next up: Jade, Newyorkcity on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Piscesprince is a pop and club artist tracked on soundcheck, with 5 sets logged 
 
 Robyn DaBank, fake.stan, ASTER (DJ)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piscesprince/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piscesprince/)*

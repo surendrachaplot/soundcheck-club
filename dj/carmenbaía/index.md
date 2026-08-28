@@ -1,6 +1,6 @@
 # Carmen Baía
 
-Carmen Baía is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Paradise Palms, Edinburgh on Sat, 29 Aug 2026.
+Carmen Baía is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Paradise Palms, Edinburgh on Sat, 29 Aug 2026.
 
 Carmen Baía is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Jamie Gunn, Robbie and T.D. Slider. Next up: Paradise Palms, Edinburgh on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Carmen Baía is a house and techno artist tracked on soundcheck, with 77 sets lo
 
 Jamie Gunn, Robbie, T.D. Slider
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenbaía/)*

@@ -1,6 +1,6 @@
 # Hames
 
-Hames is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
+Hames is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
 
 Hames is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, London, Manchester and Nottingham and 1 more. Often billed alongside Joi La Frique, Wow & Flutter and Talking Motion. Next up: Hagglers Corner, Sheffield on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Hames is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Joi La Frique, Wow & Flutter, Talking Motion
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hames/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hames/)*

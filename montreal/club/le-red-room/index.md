@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Digital Apocalyspe" on Fri, 28 Aug 2026.
+Le Red Room is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Digital Apocalyspe" on Fri, 28 Aug 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including DJ Pacifier, fangsie, Guillaume Michaud and Mowie (2) and 1 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -19,4 +19,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 6 upcoming nights
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

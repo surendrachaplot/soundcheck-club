@@ -1,6 +1,6 @@
 # Carl Suspect
 
-Carl Suspect is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Carl Suspect is a Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
 Carl Suspect is a club artist tracked on soundcheck, with 8 sets logged across Berlin and Stockholm. Often billed alongside Conrad Kaden, Philipp Demankowski and Credit 00. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Carl Suspect is a club artist tracked on soundcheck, with 8 sets logged across B
 
 Conrad Kaden, Philipp Demankowski, Credit 00
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlsuspect/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlsuspect/)*

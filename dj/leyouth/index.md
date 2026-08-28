@@ -1,6 +1,6 @@
 # Le Youth
 
-Le Youth is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Beach House San Diego, San Diego on Sat, 5 Sept 2026.
+Le Youth is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Beach House San Diego, San Diego on Sat, 5 Sept 2026.
 
 Le Youth is a deep house and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Austin, Brisbane and Melbourne and 14 more. Often billed alongside Sultan + Shepard, EMBRZ (IE) and Nils Hoffmann. Next up: Beach House San Diego, Sandiego on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Le Youth is a deep house and house artist based in United States of America, tra
 
 Sultan + Shepard, EMBRZ (IE), Nils Hoffmann
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*

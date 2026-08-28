@@ -1,6 +1,6 @@
 # SAM AROHA
 
-SAM AROHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+SAM AROHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
 
 SAM AROHA is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside OLEA, Andrale and Beatina. Next up: Kater, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SAM AROHA is a house and techno artist tracked on soundcheck, with 15 sets logge
 
 OLEA, Andrale, Beatina
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samaroha/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samaroha/)*

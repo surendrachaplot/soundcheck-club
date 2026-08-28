@@ -1,6 +1,6 @@
 # GAGGLE - Summer Edition at Monarch
 
-GAGGLE - Summer Edition at Monarch on Fri 28 Aug, Berlin. 3 acts on the bill: Alegrando, HOVR and Kerry Gold. Techno and House. Preview the line-up and save it on soundcheck.
+GAGGLE - Summer Edition at Monarch on Fri 28 Aug, Berlin. 4 acts on the bill: Aimé You, Alegrando, HOVR and Kerry Gold. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GAGGLE - Summer Edition at Monarch on Fri 28 Aug, Berlin. 3 acts on the bill: Al
 
 ## Line-up
 
+- Aimé You
 - Alegrando
 - HOVR
 - Kerry Gold

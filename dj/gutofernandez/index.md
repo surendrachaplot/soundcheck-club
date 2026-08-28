@@ -1,6 +1,6 @@
 # Guto Fernandez
 
-Guto Fernandez is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Noxe Barcelona, Barcelona on Wed, 30 Sept 2026.
+Guto Fernandez is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Noxe Barcelona, Barcelona on Wed, 30 Sept 2026.
 
 Guto Fernandez is a house and afro house artist tracked on soundcheck, with 5 sets logged across Barcelona and Malta. Often billed alongside Better Late, HannahLuyah and Alex Liveris. Next up: Noxe Barcelona, Barcelona on Wed 30 Sept.
 
@@ -21,4 +21,4 @@ Guto Fernandez is a house and afro house artist tracked on soundcheck, with 5 se
 
 Better Late, HannahLuyah, Alex Liveris
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gutofernandez/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gutofernandez/)*

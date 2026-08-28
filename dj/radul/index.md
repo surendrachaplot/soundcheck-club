@@ -1,6 +1,6 @@
 # Radul
 
-Radul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bukanyr Boat, Prague on Sat, 26 Sept 2026.
+Radul is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bukanyr Boat, Prague on Sat, 26 Sept 2026.
 
 Radul is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Bucharest, Budapest and Istanbul and 1 more. Often billed alongside LEONARD (RO), Baban and Solus. Next up: Bukanyr Boat, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Radul is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 LEONARD (RO), Baban, Solus
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radul/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radul/)*

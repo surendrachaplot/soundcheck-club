@@ -1,6 +1,6 @@
 # Ephy Pinkman
 
-Ephy Pinkman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 28 Aug 2026.
+Ephy Pinkman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 28 Aug 2026.
 
 Ephy Pinkman is a techno and trance artist based in Germany, tracked on soundcheck, with 84 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside Polytoxic, Kacy and Zoe Zett. Next up: Fridas Pier, Stuttgart on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ Ephy Pinkman is a techno and trance artist based in Germany, tracked on soundche
 
 Polytoxic, Kacy, Zoe Zett
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ephypinkman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ephypinkman/)*

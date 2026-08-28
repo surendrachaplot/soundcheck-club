@@ -1,8 +1,8 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "RAZZCLUBS: Havana x Fuego: Tsunami + Afri k + Drizzyclare - Powered By Greenlight Sound System" on Fri, 28 Aug 2026.
+Razzmatazz is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "RAZZCLUBS: Havana x Fuego: Tsunami + Afri k + Drizzyclare - Powered By Greenlight Sound System" on Fri, 28 Aug 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Alienata, Ana Alves, Anika Kunst and Antiribeiro and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Alienata, Ana Alves, Anika Kunst and Antiribeiro and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

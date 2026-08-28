@@ -1,6 +1,6 @@
 # D.N.S
 
-D.N.S is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
+D.N.S is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 D.N.S is a techno and breakbeat artist tracked on soundcheck, with 24 sets logged across Barcelona and London. Often billed alongside Jerome Hill, LMajor and Medallion Man. Next up: The Cause, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ D.N.S is a techno and breakbeat artist tracked on soundcheck, with 24 sets logge
 
 Jerome Hill, LMajor, Medallion Man
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.n.s/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.n.s/)*

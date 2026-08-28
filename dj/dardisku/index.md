@@ -1,6 +1,6 @@
 # DAR DISKU
 
-DAR DISKU is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hackney Bridge, London on Sat, 29 Aug 2026.
+DAR DISKU is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hackney Bridge, London on Sat, 29 Aug 2026.
 
 DAR DISKU is a house and techno artist tracked on soundcheck, with 41 sets logged across Bristol, Bucharest, Glasgow and London and 2 more. Often billed alongside Millie McKee, Sofie K and Cheb Mimo. Next up: Hackney Bridge, London on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ DAR DISKU is a house and techno artist tracked on soundcheck, with 41 sets logge
 
 Millie McKee, Sofie K, Cheb Mimo
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*

@@ -1,14 +1,15 @@
 # Gridlock
 
-Gridlock is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
+Gridlock is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
 
-Gridlock is a techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, London, Madrid and Manchester. Often billed alongside TAITO, Varanasi and RayRay. Next up: The DBA, Manchester on Fri 28 Aug.
+Gridlock is a techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, London, Madrid and Manchester. Often billed alongside TAITO, SBBS and Varanasi. Next up: The DBA, Manchester on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The DBA | Manchester |
+| Sun, 30 Aug 2026 | Distillery N17 | London |
 | Fri, 11 Sept 2026 | TBA - HACKNEY WICK | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Gridlock is a techno artist based in United Kingdom, tracked on soundcheck, with
 
 ## Shares bills with
 
-TAITO, Varanasi, RayRay
+TAITO, SBBS, Varanasi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*

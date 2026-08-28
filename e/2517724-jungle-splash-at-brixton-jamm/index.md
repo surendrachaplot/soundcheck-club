@@ -1,6 +1,6 @@
 # Jungle Splash at Brixton Jamm
 
-Jungle Splash at Brixton Jamm on Sat 12 Sept, London. 3 acts on the bill: DJ SS, Jamie G and Potential Badboy. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Splash at Brixton Jamm on Sat 12 Sept, London. 6 acts on the bill: DJ SS, Jamie G, OS:MAN and Potential Badboy and 2 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,9 @@ Jungle Splash at Brixton Jamm on Sat 12 Sept, London. 3 acts on the bill: DJ SS,
 
 - DJ SS
 - Jamie G
+- OS:MAN
 - Potential Badboy
+- Tianna Franxx
+- Wilman
 
 *Source: [soundcheck](https://soundcheck.club/e/2517724-jungle-splash-at-brixton-jamm/)*

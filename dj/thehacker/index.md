@@ -1,6 +1,6 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Le Sucre, Lyon on Sun, 30 Aug 2026.
+The Hacker is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Le Sucre, Lyon on Sun, 30 Aug 2026.
 
 The Hacker is a techno and electro artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Le Sucre, Lyon on Sun 30 Aug.
 
@@ -30,4 +30,4 @@ The Hacker is a techno and electro artist tracked on soundcheck, with 113 sets l
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

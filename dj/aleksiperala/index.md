@@ -1,6 +1,6 @@
 # Aleksi Perälä
 
-Aleksi Perälä is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Aleksi Perälä is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Aleksi Perälä is an experimental and techno artist based in Finland, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Jolly (FR), Lastvuska and Polygonia. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Aleksi Perälä is an experimental and techno artist based in Finland, tracked o
 
 Jolly (FR), Lastvuska, Polygonia
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksiperala/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksiperala/)*

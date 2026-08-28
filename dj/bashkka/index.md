@@ -1,18 +1,19 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu, 27 Aug 2026.
+BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 299 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Hamburger Bahnhof - Museum für Gegenwart, Berlin on Thu 27 Aug.
+BASHKKA is a techno and house artist tracked on soundcheck, with 301 sets logged across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Hamburger Bahnhof - Museum für Gegenwart | Berlin |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 11 Sept 2026 | BASEMENT | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sun, 20 Sept 2026 | Flash | Washington DC |
+| Fri, 25 Sept 2026 | Azimut Club | Turin |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sat, 17 Oct 2026 | Palais | London |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
@@ -22,6 +23,7 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 299 sets logged
 
 ## Recently played
 
+- Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 27 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Nocturna, Ibiza — Wed, 12 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
@@ -29,10 +31,9 @@ BASHKKA is a techno and house artist tracked on soundcheck, with 299 sets logged
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
-- KALT, Strasbourg — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

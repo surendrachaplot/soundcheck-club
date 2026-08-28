@@ -1,6 +1,6 @@
 # Sony2k
 
-Sony2k is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
+Sony2k is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
 
 Sony2k is a house and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Leipzig and Madrid. Often billed alongside Ben Derris, Amo (IT) and Deltapeak. Next up: OXI, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Sony2k is a house and trance artist based in Germany, tracked on soundcheck, wit
 
 Ben Derris, Amo (IT), Deltapeak
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*

@@ -1,6 +1,6 @@
 # Aletha
 
-Aletha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Aletha is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Aletha is a house and techno artist tracked on soundcheck, with 72 sets logged across Amsterdam, Belgrade, Berlin and Brighton and 14 more. Often billed alongside Joe Motion, Zuri and Eich. Next up: The Cause, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Aletha is a house and techno artist tracked on soundcheck, with 72 sets logged a
 
 Joe Motion, Zuri, Eich
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aletha/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aletha/)*

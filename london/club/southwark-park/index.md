@@ -1,6 +1,6 @@
 # Southwark Park
 
-Southwark Park is a music venue in London with 4 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Piano People in the Park - London's biggest Amapiano Festival" on Fri, 28 Aug 2026.
+Southwark Park is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Piano People in the Park - London's biggest Amapiano Festival" on Fri, 28 Aug 2026.
 
 Southwark Park is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Amaliah, BASHKKA, basic chanel and Blasha & Allatt and 2 more. Browse upcoming dates, start times and who's playing. Gomm Rd, London, SE16 2TX, United Kingdom.
 
@@ -17,4 +17,4 @@ Southwark Park is a music venue in London listed on soundcheck. 4 upcoming night
 
 Gomm Rd, London, SE16 2TX, United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/southwark-park/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/southwark-park/)*

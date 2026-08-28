@@ -1,6 +1,6 @@
 # Alexis Le-Tan
 
-Alexis Le-Tan is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
+Alexis Le-Tan is a Acid and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Het Dorp, Amsterdam on Fri, 4 Sept 2026.
 
 Alexis Le-Tan is an acid and techno artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 11 more. Often billed alongside Joakim, Alicia Carrera and Field Notes DJs. Next up: Het Dorp, Amsterdam on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Alexis Le-Tan is an acid and techno artist based in France, tracked on soundchec
 
 Joakim, Alicia Carrera, Field Notes DJs
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisle-tan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisle-tan/)*

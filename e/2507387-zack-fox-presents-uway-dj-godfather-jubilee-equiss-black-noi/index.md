@@ -1,6 +1,6 @@
 # Zack Fox presents: UWAY - DJ Godfather, Jubilee, EQUISS, Black Noi$e + more at Elsewhere
 
-Zack Fox presents: UWAY - DJ Godfather, Jubilee, EQUISS, Black Noi$e + more at Elsewhere on Sat 19 Sept, Newyorkcity. 12 acts on the bill: 999ADJ, Amal, Amarji King and Angel (GR) and 8 more. Preview the line-up and save it on soundcheck.
+Zack Fox presents: UWAY - DJ Godfather, Jubilee, EQUISS, Black Noi$e + more at Elsewhere on Sat 19 Sept, Newyorkcity. 13 acts on the bill: 999ADJ, Amal, Amarji King and Angel (GR) and 9 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Zack Fox presents: UWAY - DJ Godfather, Jubilee, EQUISS, Black Noi$e + more at E
 - Aumnï
 - Chinnamasta
 - Clit.hub
+- Elysian (1)
 - Kilopatrah Jones
 - Miss Parker
 - Nativesun

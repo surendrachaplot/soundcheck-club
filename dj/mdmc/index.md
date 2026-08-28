@@ -1,14 +1,15 @@
 # MDMC
 
-MDMC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Volks, Brighton on Sat, 19 Sept 2026.
+MDMC is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Volks, Brighton on Sat, 19 Sept 2026.
 
-MDMC is a techno and house artist tracked on soundcheck, with 7 sets logged across Brighton, Kyoto, Osaka and Tokyo. Often billed alongside HOBOBRAZIL, Abiu and Aiconga. Next up: Volks, Brighton on Sat 19 Sept.
+MDMC is a techno and house artist tracked on soundcheck, with 8 sets logged across Brighton, Kyoto, Osaka and Tokyo. Often billed alongside HOBOBRAZIL, Abiu and Aiconga. Next up: Volks, Brighton on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Volks | Brighton |
+| Sat, 26 Sept 2026 | Heavy Sick Zero | Tokyo |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ MDMC is a techno and house artist tracked on soundcheck, with 7 sets logged acro
 
 HOBOBRAZIL, Abiu, Aiconga
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdmc/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mdmc/)*

@@ -1,6 +1,6 @@
 # Diskoan
 
-Diskoan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Skin Club, Madrid on Fri, 28 Aug 2026.
+Diskoan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Skin Club, Madrid on Fri, 28 Aug 2026.
 
 Diskoan is a techno and house artist based in Spain, tracked on soundcheck, with 56 sets logged across Barcelona and Madrid. Often billed alongside Marcos in Dub, Josephine and -nico-. Next up: Skin Club, Madrid on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Diskoan is a techno and house artist based in Spain, tracked on soundcheck, with
 
 Marcos in Dub, Josephine, -nico-
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoan/)*

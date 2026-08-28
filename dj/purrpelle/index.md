@@ -1,6 +1,6 @@
 # Purrpelle
 
-Purrpelle is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
+Purrpelle is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
 
 Purrpelle is a tech house and house artist tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside Barroness, Manzone & Strong and Tyler Hill. Next up: Leslie Lookout Park, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Purrpelle is a tech house and house artist tracked on soundcheck, with 10 sets l
 
 Barroness, Manzone & Strong, Tyler Hill
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purrpelle/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/purrpelle/)*

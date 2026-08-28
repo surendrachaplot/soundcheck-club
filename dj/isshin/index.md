@@ -1,6 +1,6 @@
 # Isshin
 
-Isshin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
+Isshin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
 
 Isshin is a techno and house artist based in Japan, tracked on soundcheck, with 35 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside tnseei, Kurea and Lynta. Next up: Club Metro, Kyoto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Isshin is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 tnseei, Kurea, Lynta
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isshin/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isshin/)*

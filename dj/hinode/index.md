@@ -1,14 +1,15 @@
 # Hinode
 
-Hinode is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
+Hinode is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
-Hinode is a psytrance and techno artist tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Takuya Asakura, BERLINER KINDL and Bones. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
+Hinode is a psytrance and techno artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Takuya Asakura, BASiRiNO and BERLINER KINDL. Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | MIDNIGHT EAST | Tokyo |
+| Sun, 20 Sept 2026 | Heavy Sick Zero | Tokyo |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Hinode is a psytrance and techno artist tracked on soundcheck, with 8 sets logge
 
 ## Shares bills with
 
-Takuya Asakura, BERLINER KINDL, Bones
+Takuya Asakura, BASiRiNO, BERLINER KINDL
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*

@@ -1,6 +1,6 @@
 # Our Garage pres. Kiara Friend at New Guernica
 
-Our Garage pres. Kiara Friend at New Guernica on Fri 18 Sept, Melbourne. 4 acts on the bill: Bekks, CHEEKI, FRIEND OF MINE (2) and Kiara Friend. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Our Garage pres. Kiara Friend at New Guernica on Fri 18 Sept, Melbourne. 5 acts on the bill: Bekks, CHEEKI, FRIEND OF MINE (2) and Kiara Friend and 1 more. Garage and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ Our Garage pres. Kiara Friend at New Guernica on Fri 18 Sept, Melbourne. 4 acts 
 - CHEEKI
 - FRIEND OF MINE (2)
 - Kiara Friend
+- TiNTON
 
 *Source: [soundcheck](https://soundcheck.club/e/2502455-our-garage-pres-kiara-friend-at-new-guernica/)*

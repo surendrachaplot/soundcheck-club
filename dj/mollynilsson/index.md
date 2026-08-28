@@ -1,6 +1,6 @@
 # Molly Nilsson
 
-Molly Nilsson is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fairfield Club, Glasgow on Sat, 29 Aug 2026.
+Molly Nilsson is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fairfield Club, Glasgow on Sat, 29 Aug 2026.
 
 Molly Nilsson is an experimental and pop artist tracked on soundcheck, with 14 sets logged across Athens, Berlin, Glasgow and London and 3 more. Often billed alongside Aalia Iraki, Abibi and Acid Foxy. Next up: Fairfield Club, Glasgow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Molly Nilsson is an experimental and pop artist tracked on soundcheck, with 14 s
 
 Aalia Iraki, Abibi, Acid Foxy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollynilsson/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mollynilsson/)*

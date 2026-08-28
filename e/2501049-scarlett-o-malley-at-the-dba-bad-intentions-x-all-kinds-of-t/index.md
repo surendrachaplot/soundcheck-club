@@ -1,6 +1,6 @@
 # Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things at The DBA
 
-Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things on Fri 11 Sept, Manchester. 3 acts on the bill: Layson, Marlon Baleci and Scarlett O'Malley. Techno and House. Preview the line-up and save it on soundcheck.
+Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things on Fri 11 Sept, Manchester. 4 acts on the bill: Gary Spesh, Layson, Marlon Baleci and Scarlett O'Malley. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things on Fri 11 Sep
 
 ## Line-up
 
+- Gary Spesh
 - Layson
 - Marlon Baleci
 - Scarlett O'Malley

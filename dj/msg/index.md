@@ -1,6 +1,6 @@
 # MSG
 
-MSG is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Flinders, Sydney on Fri, 4 Sept 2026.
+MSG is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Flinders, Sydney on Fri, 4 Sept 2026.
 
 MSG is a techno and club artist based in Australia, tracked on soundcheck, with 17 sets logged across Bristol, Seoul, Sydney and Tokyo. Often billed alongside YONKS, ARTISAH and Alice Burcovich. Next up: The Flinders, Sydney on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ MSG is a techno and club artist based in Australia, tracked on soundcheck, with 
 
 YONKS, ARTISAH, Alice Burcovich
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/msg/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/msg/)*

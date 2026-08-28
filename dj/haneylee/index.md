@@ -1,6 +1,6 @@
 # Haney Lee
 
-Haney Lee is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Edge Seoul, Seoul on Sat, 12 Sept 2026.
+Haney Lee is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Edge Seoul, Seoul on Sat, 12 Sept 2026.
 
 Haney Lee is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Krakow and Seoul. Often billed alongside Shins, Hyejin and Juuno. Next up: The Edge Seoul, Seoul on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Haney Lee is a bass and garage artist based in United Kingdom, tracked on soundc
 
 Shins, Hyejin, Juuno
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haneylee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haneylee/)*

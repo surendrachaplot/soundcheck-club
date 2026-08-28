@@ -1,6 +1,6 @@
 # Koh
 
-Koh is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Madame Claude, Berlin on Thu, 3 Sept 2026.
+Koh is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Madame Claude, Berlin on Thu, 3 Sept 2026.
 
 Koh is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Berlin, Mexicocity, Osaka and Washingtondc. Often billed alongside Shab.d, Sooma and Amal. Next up: Madame Claude, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Koh is a house and hip-hop artist based in United Kingdom, tracked on soundcheck
 
 Shab.d, Sooma, Amal
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koh/)*

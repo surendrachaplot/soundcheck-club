@@ -1,6 +1,6 @@
 # FAUZIA
 
-FAUZIA is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+FAUZIA is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 FAUZIA is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 3 more. Often billed alongside Pariah, Flowdan and OK Williams. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FAUZIA is a techno and experimental artist based in United Kingdom, tracked on s
 
 Pariah, Flowdan, OK Williams
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fauzia/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fauzia/)*

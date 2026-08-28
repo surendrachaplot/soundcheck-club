@@ -1,6 +1,6 @@
 # Mancaro
 
-Mancaro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bridge 48, Barcelona on Fri, 4 Sept 2026.
+Mancaro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bridge 48, Barcelona on Fri, 4 Sept 2026.
 
 Mancaro is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Armela, HollowFate and Noa (DE). Next up: Bridge 48, Barcelona on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Mancaro is a house and techno artist based in United Kingdom, tracked on soundch
 
 Armela, HollowFate, Noa (DE)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mancaro/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mancaro/)*

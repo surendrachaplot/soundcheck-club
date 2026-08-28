@@ -1,6 +1,6 @@
 # SCHRANZ NIGHT MANCHESTER at XLR
 
-SCHRANZ NIGHT MANCHESTER at XLR on Sat 10 Oct, Manchester. 2 acts on the bill: Kami Lee and Zeleste Rokatechno. Techno. Preview the line-up and save it on soundcheck.
+SCHRANZ NIGHT MANCHESTER at XLR on Sat 10 Oct, Manchester. 3 acts on the bill: AZEH, Kami Lee and Zeleste Rokatechno. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SCHRANZ NIGHT MANCHESTER at XLR on Sat 10 Oct, Manchester. 2 acts on the bill: K
 
 ## Line-up
 
+- AZEH
 - Kami Lee
 - Zeleste Rokatechno
 

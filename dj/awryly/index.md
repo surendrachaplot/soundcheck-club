@@ -1,8 +1,8 @@
 # awryly
 
-awryly is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
+awryly is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Laytonville, CA, San Francisco/Oakland on Fri, 11 Sept 2026.
 
-awryly is an ambient and downtempo artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Bakh Inamov, Beyond the Black Hole and DJ CZ. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
+awryly is an ambient and downtempo artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Bakh Inamov, Beyond the Black Hole and Consciousness Lab. Next up: TBA - Laytonville, CA, Sanfrancisco on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ awryly is an ambient and downtempo artist based in United States of America, tra
 
 ## Shares bills with
 
-Bakh Inamov, Beyond the Black Hole, DJ CZ
+Bakh Inamov, Beyond the Black Hole, Consciousness Lab
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awryly/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awryly/)*

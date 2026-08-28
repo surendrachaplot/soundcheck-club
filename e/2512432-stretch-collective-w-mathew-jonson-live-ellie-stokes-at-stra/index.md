@@ -1,6 +1,6 @@
 # Stretch Collective w/Mathew Jonson (live), Ellie Stokes at Strange Brew
 
-Stretch Collective w/Mathew Jonson (live), Ellie Stokes at Strange Brew on Fri 25 Sept, Bristol. 4 acts on the bill: Addsound, Ellie Stokes, Mathew Jonson and Monika Taneska. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Stretch Collective w/Mathew Jonson (live), Ellie Stokes at Strange Brew on Fri 25 Sept, Bristol. 5 acts on the bill: Addsound, Ellie Stokes, Front Room and Mathew Jonson and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Stretch Collective w/Mathew Jonson (live), Ellie Stokes at Strange Brew on Fri 2
 
 - Addsound
 - Ellie Stokes
+- Front Room
 - Mathew Jonson
 - Monika Taneska
 

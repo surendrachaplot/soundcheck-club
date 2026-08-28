@@ -1,6 +1,6 @@
 # duaba
 
-duaba is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
+duaba is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fundbureau, Hamburg on Fri, 16 Oct 2026.
 
 duaba is a drum & bass and bass artist tracked on soundcheck, with 17 sets logged across Hamburg. Often billed alongside Eightball, Fibe and Sindicate. Next up: Fundbureau, Hamburg on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ duaba is a drum & bass and bass artist tracked on soundcheck, with 17 sets logge
 
 Eightball, Fibe, Sindicate
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duaba/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duaba/)*

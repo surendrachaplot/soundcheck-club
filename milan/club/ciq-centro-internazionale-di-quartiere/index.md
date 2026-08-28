@@ -1,6 +1,6 @@
 # CIQ - Centro Internazionale di Quartiere
 
-CIQ - Centro Internazionale di Quartiere is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "LOCAL SERVICE presents Oficium & Jonquera and more" on Sun, 30 Aug 2026.
+CIQ - Centro Internazionale di Quartiere is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LOCAL SERVICE presents Oficium & Jonquera and more" on Sun, 30 Aug 2026.
 
 CIQ - Centro Internazionale di Quartiere is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Al Paino, Jonquera, Monica Witty and Officium. Browse upcoming dates, start times and who's playing. Via Fabio Massimo, 19, 20139 Milano MI.
 
@@ -15,4 +15,4 @@ CIQ - Centro Internazionale di Quartiere is a music venue in Milan listed on sou
 
 Via Fabio Massimo, 19, 20139 Milano MI, Milan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ciq-centro-internazionale-di-quartiere/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ciq-centro-internazionale-di-quartiere/)*

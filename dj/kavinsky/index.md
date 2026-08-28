@@ -1,6 +1,6 @@
 # Kavinsky
 
-Kavinsky is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Kavinsky is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Kavinsky is a house and electro artist tracked on soundcheck, with 17 sets logged across Istanbul, Losangeles, Mexicocity and Montreal and 6 more. Often billed alongside Bon Entendeur, Breakbot and Polo & Pan. Next up: TBA - Arts District Los Angeles, Losangeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kavinsky is a house and electro artist tracked on soundcheck, with 17 sets logge
 
 Bon Entendeur, Breakbot, Polo & Pan
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kavinsky/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kavinsky/)*

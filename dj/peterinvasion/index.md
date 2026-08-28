@@ -1,6 +1,6 @@
 # Peter Invasion
 
-Peter Invasion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Byhaven, Copenhagen on Sun, 30 Aug 2026.
+Peter Invasion is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Byhaven, Copenhagen on Sun, 30 Aug 2026.
 
 Peter Invasion is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Barcelona and Berlin and 10 more. Often billed alongside Baby Mango, Panthera Krause and Vincent Neumann. Next up: Byhaven, Copenhagen on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Peter Invasion is a house and techno artist tracked on soundcheck, with 47 sets 
 
 Baby Mango, Panthera Krause, Vincent Neumann
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterinvasion/)*

@@ -1,6 +1,6 @@
 # Ryota
 
-Ryota is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at 浅草金虎, Tokyo on Sat, 5 Sept 2026.
+Ryota is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at 浅草金虎, Tokyo on Sat, 5 Sept 2026.
 
 Ryota is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Bali, Barcelona and Brighton and 16 more. Often billed alongside ryota dj, Yung Singh and Ryota (JP). Next up: 浅草金虎, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Ryota is a techno and house artist tracked on soundcheck, with 86 sets logged ac
 
 ryota dj, Yung Singh, Ryota (JP)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota/)*

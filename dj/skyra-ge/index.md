@@ -1,6 +1,6 @@
 # skyra
 
-skyra is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TILLATEC, Amsterdam on Fri, 28 Aug 2026.
+skyra is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TILLATEC, Amsterdam on Fri, 28 Aug 2026.
 
 skyra is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Tallinn and 1 more. Often billed alongside Boyá, HVL and Hamatsuki. Next up: TILLATEC, Amsterdam on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ skyra is a house and techno artist tracked on soundcheck, with 93 sets logged ac
 
 Boyá, HVL, Hamatsuki
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*

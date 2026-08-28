@@ -1,6 +1,6 @@
 # FS Green
 
-FS Green is a Hip-Hop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
+FS Green is a Hip-Hop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Freight Brixton, London on Sat, 29 Aug 2026.
 
 FS Green is a hip-hop and amapiano artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Bangkok, Berlin and Chicago and 13 more. Often billed alongside Jarreau Vandal, Arthi and Tiffany Calver. Next up: Freight Brixton, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ FS Green is a hip-hop and amapiano artist based in Netherlands, tracked on sound
 
 Jarreau Vandal, Arthi, Tiffany Calver
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fsgreen/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fsgreen/)*

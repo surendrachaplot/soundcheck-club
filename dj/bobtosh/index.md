@@ -1,14 +1,15 @@
 # Bob Tosh
 
-Bob Tosh is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
+Bob Tosh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
 
-Bob Tosh is a techno and electronica artist based in Argentina, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 1 more. Often billed alongside 6RAJ, Ark Nomads and Dist. Next up: Atlantic Sound, Barcelona on Sat 5 Sept.
+Bob Tosh is a techno and electronica artist based in Argentina, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 1 more. Often billed alongside 6RAJ, Ark Nomads and Dist. Next up: Atlantic Sound, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Atlantic Sound | Barcelona |
+| Sat, 26 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Bob Tosh is a techno and electronica artist based in Argentina, tracked on sound
 
 6RAJ, Ark Nomads, Dist
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobtosh/)*

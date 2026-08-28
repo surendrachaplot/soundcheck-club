@@ -1,6 +1,6 @@
 # Jorge Martins
 
-Jorge Martins is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
+Jorge Martins is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Tapada da Ajuda, Lisbon on Sat, 29 Aug 2026.
 
 Jorge Martins is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Lisbon, London and Porto. Often billed alongside Diego Genn, Aidan Doherty and Muther. Next up: Tapada da Ajuda, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jorge Martins is a techno and house artist based in United Kingdom, tracked on s
 
 Diego Genn, Aidan Doherty, Muther
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgemartins/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgemartins/)*

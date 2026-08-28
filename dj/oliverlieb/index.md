@@ -1,6 +1,6 @@
 # Oliver Lieb
 
-Oliver Lieb is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
+Oliver Lieb is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
 
 Oliver Lieb is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Amsterdam, Frankfurt, London and Madrid and 1 more. Often billed alongside DJ Dag, 808 State and Alexander Koning. Next up: FOLD, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Oliver Lieb is a techno and trance artist based in Germany, tracked on soundchec
 
 DJ Dag, 808 State, Alexander Koning
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*

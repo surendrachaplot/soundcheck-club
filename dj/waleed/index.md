@@ -1,6 +1,6 @@
 # Waleed
 
-Waleed is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club Malasaña, Madrid on Fri, 28 Aug 2026.
+Waleed is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Malasaña, Madrid on Fri, 28 Aug 2026.
 
 Waleed is a house and club artist tracked on soundcheck, with 8 sets logged across Berlin, London, Madrid and Newyorkcity and 1 more. Often billed alongside Villager, ASA 808 and Coco Cobra. Next up: Club Malasaña, Madrid on Fri 28 Aug.
 
@@ -24,4 +24,4 @@ Waleed is a house and club artist tracked on soundcheck, with 8 sets logged acro
 
 Villager, ASA 808, Coco Cobra
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waleed/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/waleed/)*

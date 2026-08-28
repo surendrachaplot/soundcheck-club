@@ -1,6 +1,6 @@
 # Moonbootica
 
-Moonbootica is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Odonien, Cologne on Fri, 28 Aug 2026.
+Moonbootica is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Odonien, Cologne on Fri, 28 Aug 2026.
 
 Moonbootica is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Odonien, Cologne on Fri 28 Aug.
 
@@ -27,4 +27,4 @@ Moonbootica is a techno and house artist tracked on soundcheck, with 35 sets log
 
 Format B, AKA AKA, Dominik Eulberg
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbootica/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moonbootica/)*

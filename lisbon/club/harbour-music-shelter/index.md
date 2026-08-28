@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "Harbour Sundaze CucaRafa convida Fonzi" on Sun, 30 Aug 2026.
+Harbour Music Shelter is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Harbour Sundaze CucaRafa convida Fonzi" on Sun, 30 Aug 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including CucaRafa and Fonzi (2). Browse upcoming dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -14,4 +14,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 1 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

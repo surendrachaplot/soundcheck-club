@@ -1,6 +1,6 @@
 # Method One
 
-Method One is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 30 Aug 2026.
+Method One is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 30 Aug 2026.
 
 Method One is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin and Sanfrancisco. Often billed alongside Jamal, khariszma and Bachelors Of Science. Next up: F8 1192 Folsom, Sanfrancisco on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Method One is a drum & bass and jungle artist based in United States of America,
 
 Jamal, khariszma, Bachelors Of Science
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/methodone/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/methodone/)*

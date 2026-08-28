@@ -1,8 +1,8 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
+Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Badaboum, Paris on Fri, 28 Aug 2026.
 
-Shake Daddy is a techno and trance artist tracked on soundcheck, with 52 sets logged across Berlin, Brisbane, Edinburgh and Glasgow and 6 more. Often billed alongside GEN97, SATYS FYRE and Eva Charley. Next up: Badaboum, Paris on Fri 28 Aug.
+Shake Daddy is a techno and trance artist tracked on soundcheck, with 52 sets logged across Berlin, Brisbane, Edinburgh and Glasgow and 6 more. Often billed alongside GEN97, SATYS FYRE and DJ YARAK. Next up: Badaboum, Paris on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Shake Daddy is a techno and trance artist tracked on soundcheck, with 52 sets lo
 
 ## Shares bills with
 
-GEN97, SATYS FYRE, Eva Charley
+GEN97, SATYS FYRE, DJ YARAK
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*

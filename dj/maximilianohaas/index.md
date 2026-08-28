@@ -1,6 +1,6 @@
 # Max Haas
 
-Max Haas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 12 Sept 2026.
+Max Haas is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sat, 12 Sept 2026.
 
 Max Haas is a house and techno artist based in Argentina, tracked on soundcheck, with 58 sets logged across Barcelona and Buenosaires. Often billed alongside ALUSH, Andrew Azara and Kid Moss. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Max Haas is a house and techno artist based in Argentina, tracked on soundcheck,
 
 ALUSH, Andrew Azara, Kid Moss
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianohaas/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianohaas/)*

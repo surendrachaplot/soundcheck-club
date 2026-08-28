@@ -1,6 +1,6 @@
 # Andy Blake
 
-Andy Blake is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Strange Brew, Bristol on Sat, 5 Sept 2026.
+Andy Blake is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Strange Brew, Bristol on Sat, 5 Sept 2026.
 
 Andy Blake is a house and acid artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Lisbon, London and Sheffield. Often billed alongside Adonis, Alicia Carrera and Blixa. Next up: Strange Brew, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Andy Blake is a house and acid artist based in United Kingdom, tracked on soundc
 
 Adonis, Alicia Carrera, Blixa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyblake/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andyblake/)*

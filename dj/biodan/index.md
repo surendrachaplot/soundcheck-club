@@ -1,6 +1,6 @@
 # Biodan
 
-Biodan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bukanyr Boat, Prague on Fri, 28 Aug 2026.
+Biodan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bukanyr Boat, Prague on Fri, 28 Aug 2026.
 
 Biodan is a techno and house artist based in Czech Republic, tracked on soundcheck, with 48 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Zissou, Ondrej K and Sincz. Next up: Bukanyr Boat, Prague on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Biodan is a techno and house artist based in Czech Republic, tracked on soundche
 
 Zissou, Ondrej K, Sincz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biodan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biodan/)*

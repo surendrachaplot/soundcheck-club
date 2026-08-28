@@ -1,6 +1,6 @@
 # Kaiho
 
-Kaiho is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "leverson x Kaihō カイホウ (vinyl set)" on Sat, 29 Aug 2026.
+Kaiho is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "leverson x Kaihō カイホウ (vinyl set)" on Sat, 29 Aug 2026.
 
 Kaiho is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including leverson. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kaiho is a music venue in London listed on soundcheck. 1 upcoming night, with li
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | leverson x Kaihō カイホウ (vinyl set) | leverson |
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kaiho/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/kaiho/)*

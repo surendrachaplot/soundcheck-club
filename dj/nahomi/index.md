@@ -1,6 +1,6 @@
 # Nahomi
 
-Nahomi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Nahomi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Nahomi is a house and techno artist based in Switzerland, tracked on soundcheck, with 26 sets logged across Basel, Berlin, Frankfurt and Geneva and 4 more. Often billed alongside Lea Lisa, Dusty Fingers and Soela. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -13,6 +13,7 @@ Nahomi is a house and techno artist based in Switzerland, tracked on soundcheck,
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Kauz, Zurich — Fri, 15 May 2026
 - La Gravière, Geneva — Fri, 5 Dec 2025
 - DC-10, Ibiza — Thu, 18 Sept 2025
@@ -20,10 +21,9 @@ Nahomi is a house and techno artist based in Switzerland, tracked on soundcheck,
 - Halle W, Geneva — Sat, 21 Jun 2025
 - Sacré, Paris — Sat, 24 May 2025
 - Sacré, Paris — Sat, 22 Mar 2025
-- Sacré, Paris — Sat, 22 Mar 2025
 
 ## Shares bills with
 
 Lea Lisa, Dusty Fingers, Soela
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nahomi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nahomi/)*

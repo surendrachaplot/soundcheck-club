@@ -1,6 +1,6 @@
 # raging moms
 
-raging moms is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+raging moms is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 raging moms is an electronic artist based in Switzerland, tracked on soundcheck, with 8 sets logged across Berlin, Paris and Zurich. Often billed alongside ALCATRAZ, 10cust and 36birds. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -12,6 +12,7 @@ raging moms is an electronic artist based in Switzerland, tracked on soundcheck,
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - TBA, Paris — Sun, 21 Jun 2026
 - Kauz, Zurich — Fri, 27 Mar 2026
 - TBA - Baby Angel, Zurich — Sat, 15 Nov 2025
@@ -24,4 +25,4 @@ raging moms is an electronic artist based in Switzerland, tracked on soundcheck,
 
 ALCATRAZ, 10cust, 36birds
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ragingmoms/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ragingmoms/)*

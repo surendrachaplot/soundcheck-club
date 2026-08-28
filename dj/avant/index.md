@@ -1,6 +1,6 @@
 # AVANT
 
-AVANT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+AVANT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
 AVANT is a techno and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 2 more. Often billed alongside Solique, VINTASH and Alchemiah. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ AVANT is a techno and house artist tracked on soundcheck, with 31 sets logged ac
 
 Solique, VINTASH, Alchemiah
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avant/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avant/)*

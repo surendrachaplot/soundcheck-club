@@ -1,6 +1,6 @@
 # Althoff
 
-Althoff is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 28 Aug 2026.
+Althoff is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 28 Aug 2026.
 
 Althoff is a deep house and afro house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Milan and Prague and 1 more. Often billed alongside ERRANT, Last Set and NAC Oliver. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Althoff is a deep house and afro house artist tracked on soundcheck, with 65 set
 
 ERRANT, Last Set, NAC Oliver
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/althoff/)*

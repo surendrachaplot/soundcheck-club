@@ -1,6 +1,6 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Calatheabeachclub, Naples on Sat, 29 Aug 2026.
+The Blessed Madonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Calatheabeachclub, Naples on Sat, 29 Aug 2026.
 
 The Blessed Madonna is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Calatheabeachclub, Naples on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ The Blessed Madonna is a house and techno artist tracked on soundcheck, with 136
 
 Honey Dijon, Mochakk, HAAi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

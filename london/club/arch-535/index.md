@@ -1,6 +1,6 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Foundation Underground Party" on Fri, 28 Aug 2026.
+Arch 535 is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Foundation Underground Party" on Fri, 28 Aug 2026.
 
 Arch 535 is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Drew Karma, Jade Seatle, Junior Richards and Linden C and 2 more. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
@@ -16,4 +16,4 @@ Arch 535 is a music venue in London listed on soundcheck. 3 upcoming nights, wit
 
 Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/arch-535/)*

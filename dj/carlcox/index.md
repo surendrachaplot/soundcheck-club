@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+Carl Cox is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 Carl Cox is a techno and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Auckland and Austin and 41 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Carl Cox is a techno and house artist tracked on soundcheck, with 131 sets logge
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

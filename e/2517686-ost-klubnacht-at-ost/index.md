@@ -1,6 +1,6 @@
 # OST Klubnacht at OST
 
-OST Klubnacht on Sat 5 Sept, Berlin. 4 acts on the bill: DJ SUN (CH/DE), Dollushka, JUICY (DE) and MKHXR. Techno. Preview the line-up and save it on soundcheck.
+OST Klubnacht on Sat 5 Sept, Berlin. 5 acts on the bill: DJ SUN (CH/DE), Dollushka, JUICY (DE) and MKHXR and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ OST Klubnacht on Sat 5 Sept, Berlin. 4 acts on the bill: DJ SUN (CH/DE), Dollush
 - Dollushka
 - JUICY (DE)
 - MKHXR
+- XIMA
 
 *Source: [soundcheck](https://soundcheck.club/e/2517686-ost-klubnacht-at-ost/)*

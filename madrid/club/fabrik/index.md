@@ -1,8 +1,8 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "OPENING SEASON with LOOP & The Martinez Brothers" on Sat, 5 Sept 2026.
+Fabrik is a music venue in Madrid with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "OPENING SEASON with LOOP & The Martinez Brothers" on Sat, 5 Sept 2026.
 
-Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Alex Clap, Anetha, Angerfist and ArceX and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
+Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with line-ups including Alex Clap, Anetha, Angerfist and Anthony Godfather (2) and 2 more. Browse upcoming dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Fabrik is a music venue in Madrid listed on soundcheck. 11 upcoming nights, with
 | Sun, 11 Oct 2026 | CODE 23 Anniversary: La Trilogía [Part I] with KlangKuenstler | Arnaud Le Texier, CESAR ALMENA, Cera Khin, Chris Liebing, Clara Cuvé, Daria Kolosova, Elesbaan, Estella Boersma, FJAAK, Ignez, Iñaki Villasante, KUKO, Kenny Larkin, Kevin Saunderson, KlangKuenstler, Mac Declos, Marck D, Nuke, Obscure Shape, Octave One, Phase Fatale, SPFDJ, Sera J, Valentino Kanzyani, Vieze Asbak, Xpansul |
 | Sat, 17 Oct 2026 | LA RESISTENCIA - Lethal industry | Brenda Serna (2), Carlos Pérez, Cristian Varela, Gaston Zani, H1pnos1s, K-Style, Pastis & Buenri |
 | Sat, 24 Oct 2026 | 150 by Fabrik - October 2026 Edition | BLNK, Dimitri K, Dual Damage, Ender, KRUELTY, Major Conspiracy, Noxiouz, Pinotello, Satirized, The Dark Horror, Unload, Yoshiko |
-| Sat, 31 Oct 2026 | Hallowfest at Fabrik with Charlotte de Witte | CESAR ALMENA, Charlotte de Witte, In Verruf, Inox Traxx, Nastia, Nuke, Supergloss, Svetec, future.666 |
+| Sat, 31 Oct 2026 | Hallowfest at Fabrik with Charlotte de Witte | Anthony Godfather (2), CESAR ALMENA, Charlotte de Witte, Dany Gómez, Darius Syrossian, Detlef, In Verruf, Inox Traxx, Joey Daniel, Nastia, Nuke, Seb Zito, Supergloss, Svetec, future.666 |
 
 ## Address
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

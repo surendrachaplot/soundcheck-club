@@ -1,26 +1,26 @@
 # XOYO
 
-XOYO is a music venue in London with 23 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Insomnia London: Closing Party" on Thu, 27 Aug 2026.
+XOYO is a music venue in London with 23 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Jungle Cakes: The Return" on Sat, 29 Aug 2026.
 
-XOYO is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including AR (UK), Badger (UK), Beezo and Brandon Block and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
+XOYO is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Alex P, AR (UK), Badger (UK) and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Insomnia London: Closing Party | SIDESHOW (2), gau7t, raina (2) |
 | Sat, 29 Aug 2026 | Jungle Cakes: The Return | Congo Natty, Deekline, Serial Killaz |
 | Sun, 30 Aug 2026 | Joss Dean [All Night Long] with Special Guests - FINAL 100 | Joss Dean |
-| Mon, 31 Aug 2026 | MOTION Every Monday |  |
-| Wed, 2 Sept 2026 | PARADOX |  |
+| Mon, 31 Aug 2026 | MOTION Every Monday - Carnival Afterparty |  |
+| Wed, 2 Sept 2026 | PARADOX | David Ferreira, Maximillion, Rocco Han |
 | Thu, 3 Sept 2026 | Insomnia London |  |
 | Thu, 3 Sept 2026 | Cherry - Opening Party | BTAY |
 | Sat, 5 Sept 2026 | Cafe Mambo Ibiza London Day Party at XOYO | Brandon Block, Smokin Jo, Tristan Ingram |
 | Sat, 5 Sept 2026 | Badger, Oh My Rosh, Tom Haigh & Ray Von | Badger (UK) |
 | Mon, 7 Sept 2026 | MOTION Every Monday |  |
+| Wed, 9 Sept 2026 | PARADOX |  |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

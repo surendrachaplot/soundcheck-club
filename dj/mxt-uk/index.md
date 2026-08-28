@@ -1,14 +1,15 @@
 # MXT (UK)
 
-MXT (UK) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 45 London, London on Fri, 28 Aug 2026.
+MXT (UK) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at 45 London, London on Fri, 28 Aug 2026.
 
-MXT (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Lisbon and London. Often billed alongside Azire, Steamy Bumplings and Dez (UK). Next up: 45 London, London on Fri 28 Aug.
+MXT (UK) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Lisbon and London. Often billed alongside Azire, Kesh (1) and Steamy Bumplings. Next up: 45 London, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | 45 London | London |
+| Sat, 29 Aug 2026 | TBA - Secret Location - Open Air | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MXT (UK) is a house and tech house artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-Azire, Steamy Bumplings, Dez (UK)
+Azire, Kesh (1), Steamy Bumplings
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxt-uk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxt-uk/)*

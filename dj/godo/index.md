@@ -1,13 +1,14 @@
 # Gōdō
 
-Gōdō is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
+Gōdō is a Club and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - romita napoli, Naples on Thu, 3 Sept 2026.
 
-Gōdō is a minimal and tech house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Bangkok, Barcelona and London and 2 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and Adi. Next up: Les Enfants Brillants, Barcelona on Fri 2 Oct.
+Gōdō is a club and minimal artist tracked on soundcheck, with 14 sets logged across Amsterdam, Bangkok, Barcelona and London and 3 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and Adi. Next up: TBA - romita napoli, Naples on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | TBA - romita napoli | Naples |
 | Fri, 2 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Gōdō is a minimal and tech house artist tracked on soundcheck, with 13 sets lo
 
 Benny (El Rio Hostel), Mila Morr, Adi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*

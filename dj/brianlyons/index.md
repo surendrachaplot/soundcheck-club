@@ -1,6 +1,6 @@
 # Brian Lyons
 
-Brian Lyons is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Chop Suey, Seattle on Sun, 30 Aug 2026.
+Brian Lyons is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Chop Suey, Seattle on Sun, 30 Aug 2026.
 
 Brian Lyons is a house and deep house artist based in United States of America, tracked on soundcheck, with 63 sets logged across Seattle. Often billed alongside Dane Garfield, Dane Garfield Wilson and Julie Herrera. Next up: Chop Suey, Seattle on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Brian Lyons is a house and deep house artist based in United States of America, 
 
 Dane Garfield, Dane Garfield Wilson, Julie Herrera
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brianlyons/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brianlyons/)*

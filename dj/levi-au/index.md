@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Boat Cruise Summer Series, Boston on Fri, 28 Aug 2026.
+Levi (AU) is a Afro House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Boat Cruise Summer Series, Boston on Fri, 28 Aug 2026.
 
 Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 35 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Boat Cruise Summer Series, Boston on Fri 28 Aug.
 
@@ -33,4 +33,4 @@ Levi (AU) is an afro house and deep house artist tracked on soundcheck, with 92 
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

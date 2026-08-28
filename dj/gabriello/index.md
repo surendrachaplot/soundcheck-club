@@ -1,6 +1,6 @@
 # Gabriello
 
-Gabriello is a Electronica and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Salon Solin, Mexico City on Thu, 27 Aug 2026.
+Gabriello is a Electronica and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Salon Solin, Mexico City on Thu, 27 Aug 2026.
 
 Gabriello is an electronica and reggaeton artist tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside ALX, Dj Rankng and Eisenheim. Next up: Salon Solin, Mexicocity on Thu 27 Aug.
 
@@ -12,6 +12,7 @@ Gabriello is an electronica and reggaeton artist tracked on soundcheck, with 4 s
 
 ## Recently played
 
+- Salon Solin, Mexico City — Thu, 27 Aug 2026
 - Salon Solin, Mexico City — Thu, 9 Apr 2026
 - Japan Monterrey, Mexico City — Thu, 13 Nov 2025
 - TBA - Frontera 96 | Roma Norte, Mexico City — Thu, 25 Jul 2024
@@ -20,4 +21,4 @@ Gabriello is an electronica and reggaeton artist tracked on soundcheck, with 4 s
 
 ALX, Dj Rankng, Eisenheim
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriello/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriello/)*

@@ -1,8 +1,8 @@
 # Denham Audio
 
-Denham Audio is a Breakbeat and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
+Denham Audio is a Breakbeat and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
 
-Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Document, Bristol on Sun 30 Aug.
+Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Mani Festo, Rebekah Abdeen and Borai. Next up: Document, Bristol on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 145 se
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Document | Bristol |
 | Mon, 31 Aug 2026 | Next Door Records | London |
+| Fri, 18 Sept 2026 | Village Studios | Vancouver |
 | Sat, 19 Sept 2026 | Village Studios | Vancouver |
 
 ## Recently played
@@ -27,4 +28,4 @@ Denham Audio is a breakbeat and garage artist tracked on soundcheck, with 145 se
 
 Mani Festo, Rebekah Abdeen, Borai
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denhamaudio-uk/)*

@@ -1,6 +1,6 @@
 # Cardi-O
 
-Cardi-O is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 12 Sept 2026.
+Cardi-O is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 12 Sept 2026.
 
 Cardi-O is a house and tech house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Tbilisi. Often billed alongside crydebleich, Mystigrix and Daniel Mata. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cardi-O is a house and tech house artist based in Germany, tracked on soundcheck
 
 crydebleich, Mystigrix, Daniel Mata
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*

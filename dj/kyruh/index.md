@@ -1,8 +1,8 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 29 Aug 2026.
+KYRUH is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bossa Nova Civic Club, New York City on Sat, 29 Aug 2026.
 
-KYRUH is a techno and house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 29 Aug.
+KYRUH is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KYRUH is a techno and house artist tracked on soundcheck, with 148 sets logged a
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
+| Fri, 9 Oct 2026 | Honey's | New York City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ KYRUH is a techno and house artist tracked on soundcheck, with 148 sets logged a
 
 WTCHCRFT, Katie Rex, Annie Lew
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*

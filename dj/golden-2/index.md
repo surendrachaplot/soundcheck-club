@@ -1,6 +1,6 @@
 # Golden (2)
 
-Golden (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Bridge 48, Barcelona on Thu, 10 Sept 2026.
+Golden (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bridge 48, Barcelona on Thu, 10 Sept 2026.
 
 Golden (2) is a club and techno artist tracked on soundcheck, with 5 sets logged across Austin, Barcelona and Berlin. Often billed alongside Aio, Al V Dam and Baerbel. Next up: Bridge 48, Barcelona on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Golden (2) is a club and techno artist tracked on soundcheck, with 5 sets logged
 
 Aio, Al V Dam, Baerbel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/golden-2/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/golden-2/)*

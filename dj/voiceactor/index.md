@@ -1,8 +1,8 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Voice Actor is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
 
-Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside James Massiah, Nosedrip and Smerz. Next up: Southwark Park, London on Sat 29 Aug.
+Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside James Massiah, Nosedrip and Smerz. Next up: Southwark Park, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, track
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Southwark Park | London |
 | Sat, 29 Aug 2026 | TBA - Southwark Park | London |
+| Thu, 10 Sept 2026 | Julia Stoschek Foundation | Berlin |
 | Thu, 17 Sept 2026 | The Lubber Fiend | Newcastle |
 
 ## Recently played
@@ -27,4 +28,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, track
 
 James Massiah, Nosedrip, Smerz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

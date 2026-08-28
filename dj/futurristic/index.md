@@ -1,6 +1,6 @@
 # futurristic
 
-futurristic is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
+futurristic is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
 
 futurristic is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Frankfurt, Hamburg and Sanfrancisco. Often billed alongside SOHOE, Stinny Stone and Salzbauer. Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ futurristic is a techno and trance artist based in Germany, tracked on soundchec
 
 SOHOE, Stinny Stone, Salzbauer
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/futurristic/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/futurristic/)*

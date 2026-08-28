@@ -1,13 +1,14 @@
 # Eliel Capa
 
-Eliel Capa is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Madreams, Madrid on Fri, 18 Sept 2026.
+Eliel Capa is a Techno and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Abrazarnos, Mexico City on Thu, 3 Sept 2026.
 
-Eliel Capa is a techno and guaracha artist based in Mexico, tracked on soundcheck, with 95 sets logged across Berlin, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside Enya Botello, Pablo Lara and Diego Walle. Next up: Madreams, Madrid on Fri 18 Sept.
+Eliel Capa is a techno and guaracha artist based in Mexico, tracked on soundcheck, with 96 sets logged across Berlin, Madrid, Mexicocity and Newyorkcity and 1 more. Often billed alongside Enya Botello, Pablo Lara and Diego Walle. Next up: Abrazarnos, Mexicocity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Abrazarnos | Mexico City |
 | Fri, 18 Sept 2026 | Madreams | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Eliel Capa is a techno and guaracha artist based in Mexico, tracked on soundchec
 
 Enya Botello, Pablo Lara, Diego Walle
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elielcapa/)*

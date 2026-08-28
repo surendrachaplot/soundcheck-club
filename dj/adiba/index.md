@@ -1,6 +1,6 @@
 # Adiba
 
-Adiba is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at KOKO, London on Sun, 30 Aug 2026.
+Adiba is a Dancehall and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at KOKO, London on Sun, 30 Aug 2026.
 
 Adiba is a dancehall and amapiano artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside Bussa, Chris Collins and DJ Nate. Next up: KOKO, London on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ Adiba is a dancehall and amapiano artist based in United Kingdom, tracked on sou
 
 Bussa, Chris Collins, DJ Nate
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adiba/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adiba/)*

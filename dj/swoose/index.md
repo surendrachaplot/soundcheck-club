@@ -1,13 +1,14 @@
 # Swoose
 
-Swoose is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at FOLD, London on Fri, 25 Sept 2026.
+Swoose is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
-Swoose is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Belfast, Berlin and Dublin and 4 more. Often billed alongside Holly Lester, Kessler and Body Clinic. Next up: FOLD, London on Fri 25 Sept.
+Swoose is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Barcelona, Belfast, Berlin and Dublin and 4 more. Often billed alongside Holly Lester, Body Clinic and Kessler. Next up: Various Venues, London on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Various Venues | London |
 | Fri, 25 Sept 2026 | FOLD | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Swoose is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Holly Lester, Kessler, Body Clinic
+Holly Lester, Body Clinic, Kessler
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swoose/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swoose/)*

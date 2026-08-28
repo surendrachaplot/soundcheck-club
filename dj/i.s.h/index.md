@@ -1,6 +1,6 @@
 # I.S.H
 
-I.S.H is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at On The Hiyu, Seattle on Fri, 28 Aug 2026.
+I.S.H is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at On The Hiyu, Seattle on Fri, 28 Aug 2026.
 
 I.S.H is a house and tech house artist tracked on soundcheck, with 20 sets logged across Sanfrancisco, Seattle and Vancouver. Often billed alongside Alec Fursman, Sammy Taylor and 858fantasy. Next up: On The Hiyu, Seattle on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ I.S.H is a house and tech house artist tracked on soundcheck, with 20 sets logge
 
 Alec Fursman, Sammy Taylor, 858fantasy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i.s.h/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i.s.h/)*

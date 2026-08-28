@@ -1,6 +1,6 @@
 # Dominik Krammer
 
-Dominik Krammer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Romantica, Stuttgart on Fri, 21 Aug 2026.
+Dominik Krammer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Romantica, Stuttgart on Fri, 21 Aug 2026.
 
 Dominik Krammer is a techno and house artist tracked on soundcheck, with 40 sets logged across Stuttgart. Often billed alongside Hansn, Hannes Schuchardt and BLAK & CRÉER. Next up: Romantica, Stuttgart on Fri 21 Aug.
 
@@ -25,4 +25,4 @@ Dominik Krammer is a techno and house artist tracked on soundcheck, with 40 sets
 
 Hansn, Hannes Schuchardt, BLAK & CRÉER
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikkrammer/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikkrammer/)*

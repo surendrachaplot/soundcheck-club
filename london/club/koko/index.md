@@ -1,8 +1,8 @@
 # KOKO
 
-KOKO is a music venue in London with 19 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "KOKO Electronic: Paco Osuna" on Fri, 28 Aug 2026.
+KOKO is a music venue in London with 20 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "KOKO Electronic: Paco Osuna" on Fri, 28 Aug 2026.
 
-KOKO is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Yulia Niko, Adiba, Alan Dixon and Anane and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Yulia Niko, Adiba, Alan Dixon and Anane and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 19 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

@@ -1,6 +1,6 @@
 # Baku
 
-Baku is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Débris, Tokyo on Wed, 26 Aug 2026.
+Baku is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Débris, Tokyo on Wed, 26 Aug 2026.
 
 Baku is a house and hip-hop artist based in Japan, tracked on soundcheck, with 50 sets logged across Bucharest, Kyoto, Paris and Tokyo. Often billed alongside DJ Quietstorm, migeru and KAISSER. Next up: Débris, Tokyo on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Baku is a house and hip-hop artist based in Japan, tracked on soundcheck, with 5
 
 DJ Quietstorm, migeru, KAISSER
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baku/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baku/)*

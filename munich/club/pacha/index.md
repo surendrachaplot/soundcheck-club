@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FreitagNacht with Ciza, DJ Linus" on Fri, 28 Aug 2026.
+Pacha is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "FreitagNacht with Ciza, DJ Linus" on Fri, 28 Aug 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including Deep Dish and Kevin de Vries. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -16,4 +16,4 @@ Pacha is a music venue in Munich listed on soundcheck. 3 upcoming nights, with l
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

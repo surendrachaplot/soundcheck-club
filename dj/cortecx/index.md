@@ -1,6 +1,6 @@
 # Cortecx
 
-Cortecx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at OMA, Hong Kong on Fri, 28 Aug 2026.
+Cortecx is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OMA, Hong Kong on Fri, 28 Aug 2026.
 
 Cortecx is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Hongkong. Often billed alongside Andy-S, JayMe and The Heman. Next up: OMA, Hongkong on Fri 28 Aug.
 
@@ -22,4 +22,4 @@ Cortecx is a techno and house artist based in United Kingdom, tracked on soundch
 
 Andy-S, JayMe, The Heman
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortecx/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortecx/)*

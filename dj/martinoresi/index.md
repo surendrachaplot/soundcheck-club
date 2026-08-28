@@ -1,6 +1,6 @@
 # MartinoResi
 
-MartinoResi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at X Private Club, Madrid on Sat, 29 Aug 2026.
+MartinoResi is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at X Private Club, Madrid on Sat, 29 Aug 2026.
 
 MartinoResi is a tech house and house artist tracked on soundcheck, with 10 sets logged across Buenosaires and Madrid. Often billed alongside Feda, Herrera (ES) and Rafa Barrios. Next up: X Private Club, Madrid on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MartinoResi is a tech house and house artist tracked on soundcheck, with 10 sets
 
 Feda, Herrera (ES), Rafa Barrios
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinoresi/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinoresi/)*

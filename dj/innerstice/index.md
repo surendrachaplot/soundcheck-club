@@ -1,6 +1,6 @@
 # Innerstice
 
-Innerstice is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Tereza Joanne Boat, London on Fri, 4 Sept 2026.
+Innerstice is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tereza Joanne Boat, London on Fri, 4 Sept 2026.
 
 Innerstice is a techno and progressive house artist tracked on soundcheck, with 46 sets logged across London, Madrid and Rome. Often billed alongside Carina Lawrence, Adela and Karellos. Next up: Tereza Joanne Boat, London on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Innerstice is a techno and progressive house artist tracked on soundcheck, with 
 
 Carina Lawrence, Adela, Karellos
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innerstice/)*

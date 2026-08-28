@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 35 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Body Hack: umru, ARCHANGEL, Clit.hub, Saintclair, Ivy Fischer, Quetamine, swello  " on Thu, 27 Aug 2026.
+Nowadays is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Vladimir Ivkovic All Night" on Fri, 28 Aug 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 35 upcoming nights, with line-ups including 5ive, MORENXXX, Ali Coleman and Analog Soul and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including 5ive, MORENXXX, Ali Coleman and Analog Soul and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Body Hack: umru, ARCHANGEL, Clit.hub, Saintclair, Ivy Fischer, Quetamine, swello   | ARCHANGEL (US), Clit.hub, Quetamine, Saint Clair, Saintclair, umru |
 | Fri, 28 Aug 2026 | Vladimir Ivkovic All Night | Vladimir Ivkovic |
 | Sat, 29 Aug 2026 | Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) | LOKA (US), Leeon, Loka, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake |
 | Sun, 30 Aug 2026 | Mister Sunday: Eamon Harkin All Day | Eamon Harkin |
@@ -18,9 +17,10 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 35 upcoming night
 | Sat, 5 Sept 2026 | Shock Value Nonstop: B0YG1RL, DILUVIA, DICAP, Juliana Huxtable, Sewa Choki, TYGAPAW, Via App | B0YG1RL, DICAP, DILUVIA, Juliana Huxtable, TYGAPAW, Via App, sydfalls |
 | Sat, 5 Sept 2026 | SanDia: Season Finale with Bendito, Donis, Jeremy Giros, Yvonne Turner | Bendito, Donis, Jeremy Giros |
 | Sun, 6 Sept 2026 | Mister Sunday Long Weekend Edition: Justin Carter and Eamon Harkin | Eamon Harkin, Justin Carter |
+| Sun, 6 Sept 2026 | Sunday Night: DJ Possum & Myles Mac All Night | DJ Possum, Myles Mac |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

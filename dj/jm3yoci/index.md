@@ -1,6 +1,6 @@
 # Jm3Yoci
 
-Jm3Yoci is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Débris, Tokyo on Sun, 30 Aug 2026.
+Jm3Yoci is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Débris, Tokyo on Sun, 30 Aug 2026.
 
 Jm3Yoci is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Tokyo. Often billed alongside SIGNAL (JP), Gewnky and Alex Ormond. Next up: Débris, Tokyo on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Jm3Yoci is a house and techno artist based in Japan, tracked on soundcheck, with
 
 SIGNAL (JP), Gewnky, Alex Ormond
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jm3yoci/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jm3yoci/)*

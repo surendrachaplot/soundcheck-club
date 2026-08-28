@@ -1,8 +1,8 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Opening Party - Enzo is Burning" on Fri, 18 Sept 2026.
+The Warehouse is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Opening Party - Enzo is Burning" on Fri, 18 Sept 2026.
 
-The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including Big Ang, BTAY, Champion and Clouds and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
+The Warehouse is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including Big Ang, BTAY, Champion and Clouds and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
 ## What's on
 
@@ -17,9 +17,10 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 9 upcoming nights,
 | Fri, 30 Oct 2026 | Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La | Hidde van Wee, Jamie Fielding, Mad.Again (2) |
 | Sat, 7 Nov 2026 | Culture Shock | Culture Shock |
 | Thu, 19 Nov 2026 | LUKAS & FRANK | LUKAS & FRANK |
+| Thu, 19 Nov 2026 | Lukas & Frank live in Leeds | LUKAS & FRANK |
 
 ## Address
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

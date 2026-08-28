@@ -1,6 +1,6 @@
 # Luca Carluccio
 
-Luca Carluccio is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 28 Aug 2026.
+Luca Carluccio is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at arkaoda Berlin, Berlin on Fri, 28 Aug 2026.
 
 Luca Carluccio is a house and italo disco artist based in Italy, tracked on soundcheck, with 44 sets logged across Berlin and London. Often billed alongside Marco Ohboy, TamTam and Luca Averna. Next up: arkaoda Berlin, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Luca Carluccio is a house and italo disco artist based in Italy, tracked on soun
 
 Marco Ohboy, TamTam, Luca Averna
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacarluccio/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacarluccio/)*

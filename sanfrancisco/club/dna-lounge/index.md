@@ -1,6 +1,6 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "AniCloversary 7 (Day 2) - A Tokyo underground EDM party" on Sat, 29 Aug 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "AniCloversary 7 (Day 2) - A Tokyo underground EDM party" on Sat, 29 Aug 2026.
 
 DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Miss Gia and Saint Triste. Browse upcoming dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
@@ -20,4 +20,4 @@ DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nig
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

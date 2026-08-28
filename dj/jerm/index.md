@@ -1,13 +1,14 @@
 # JERM
 
-JERM is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at SMUT Athens, Athens on Sat, 10 Oct 2026.
+JERM is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Drugstore Beograd, Belgrade on Fri, 25 Sept 2026.
 
-JERM is a techno and industrial artist based in Greece, tracked on soundcheck, with 65 sets logged across Athens, Berlin, Paris and Vienna. Often billed alongside BMSK, Rlct and Mr.M. Next up: SMUT Athens, Athens on Sat 10 Oct.
+JERM is a techno and industrial artist based in Greece, tracked on soundcheck, with 66 sets logged across Athens, Belgrade, Berlin and Paris and 1 more. Often billed alongside BMSK, Rlct and Mr.M. Next up: Drugstore Beograd, Belgrade on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Drugstore Beograd | Belgrade |
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ JERM is a techno and industrial artist based in Greece, tracked on soundcheck, w
 
 BMSK, Rlct, Mr.M
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jerm/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jerm/)*

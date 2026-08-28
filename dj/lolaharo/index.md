@@ -1,6 +1,6 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Lola Haro is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Lola Haro is a house and techno artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -19,6 +19,7 @@ Lola Haro is a house and techno artist tracked on soundcheck, with 157 sets logg
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Club der Visionaere, Berlin — Sun, 16 Aug 2026
 - Lavallée, Brussels — Sat, 15 Aug 2026
 - Garage Noord, Amsterdam — Fri, 24 Jul 2026
@@ -26,10 +27,9 @@ Lola Haro is a house and techno artist tracked on soundcheck, with 157 sets logg
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Bijhuub, Amsterdam — Sat, 13 Jun 2026
 - Shelter Amsterdam, Amsterdam — Sat, 13 Jun 2026
-- The DBA, Manchester — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Ben Kamal, r.omy, DJ Rino
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaharo/)*

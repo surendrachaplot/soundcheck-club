@@ -1,8 +1,8 @@
 # hopifer
 
-hopifer is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The Dolphin, Philadelphia on Fri, 28 Aug 2026.
+hopifer is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Dolphin, Philadelphia on Fri, 28 Aug 2026.
 
-hopifer is a pop and club artist based in United States of America, tracked on soundcheck, with 39 sets logged across Philadelphia. Often billed alongside Firestone, Deluxe Ultra and Gravers Lane. Next up: The Dolphin, Philadelphia on Fri 28 Aug.
+hopifer is a pop and club artist based in United States of America, tracked on soundcheck, with 40 sets logged across Philadelphia. Often billed alongside Firestone, Deluxe Ultra and Gravers Lane. Next up: The Dolphin, Philadelphia on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ hopifer is a pop and club artist based in United States of America, tracked on s
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The Dolphin | Philadelphia |
 | Sat, 5 Sept 2026 | Val’s Lesbian Bar | Philadelphia |
+| Sat, 12 Sept 2026 | Upstairs at the 700 | Philadelphia |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ hopifer is a pop and club artist based in United States of America, tracked on s
 
 Firestone, Deluxe Ultra, Gravers Lane
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hopifer/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hopifer/)*

@@ -1,6 +1,6 @@
 # Sunn O)))
 
-Sunn O))) is a Drone and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Sunn O))) is a Drone and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Sunn O))) is a drone and experimental artist based in United States of America, tracked on soundcheck, with 15 sets logged across Belgrade, Berlin, Brussels and Leeds and 9 more. Often billed alongside Andriana-Yaroslava Saienko, Heinali and Phew. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sunn O))) is a drone and experimental artist based in United States of America, 
 
 Andriana-Yaroslava Saienko, Heinali, Phew
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunno/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunno/)*

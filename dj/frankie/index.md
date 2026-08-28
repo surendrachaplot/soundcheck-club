@@ -1,6 +1,6 @@
 # Frankie
 
-Frankie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Saloon, Tokyo on Thu, 10 Sept 2026.
+Frankie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Saloon, Tokyo on Thu, 10 Sept 2026.
 
 Frankie is a house and techno artist based in France, tracked on soundcheck, with 20 sets logged across Bristol, Dusseldorf, Losangeles and Madrid and 5 more. Often billed alongside Abiu, Dis Fig and Hayato Iwaki. Next up: Saloon, Tokyo on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Frankie is a house and techno artist based in France, tracked on soundcheck, wit
 
 Abiu, Dis Fig, Hayato Iwaki
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie/)*

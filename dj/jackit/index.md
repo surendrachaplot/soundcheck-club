@@ -1,6 +1,6 @@
 # Jackit
 
-Jackit is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Royal Lounge, Tokyo on Fri, 4 Sept 2026.
+Jackit is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Royal Lounge, Tokyo on Fri, 4 Sept 2026.
 
 Jackit is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 26 sets logged across Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: Royal Lounge, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jackit is a drum & bass and bass artist based in Japan, tracked on soundcheck, w
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackit/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackit/)*

@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Lines & Dots" on Thu, 27 Aug 2026.
+Sigma is a music venue in Ibiza with 13 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Makino Ibiza [Drum & Bass] with Teej, Andy Tudor, Arya, Noel Sonkwa & Sean Rudz" on Fri, 28 Aug 2026.
 
 Sigma is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with line-ups including D I N, Francesco Menduni, iOAN (LV) and Javi Niño and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
@@ -8,8 +8,8 @@ Sigma is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Lines & Dots | Luigi Rossi |
 | Fri, 28 Aug 2026 | Makino Ibiza [Drum & Bass] with Teej, Andy Tudor, Arya, Noel Sonkwa & Sean Rudz |  |
+| Sat, 29 Aug 2026 | HOTMESS |  |
 | Sun, 30 Aug 2026 | Bonus Sunday |  |
 | Tue, 1 Sept 2026 | Indeep |  |
 | Sat, 5 Sept 2026 | Symmetric Space | Korben Nice, MIA MAZ, Ren Ascutt, SEMREH |
@@ -23,4 +23,4 @@ Sigma is a music venue in Ibiza listed on soundcheck. 13 upcoming nights, with l
 
 C/ de Carles V, nº 11, local 15, 07800 Ibiza, Ibiza
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sigma/)*

@@ -1,6 +1,6 @@
 # Jana Irmert
 
-Jana Irmert is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at 90mil, Berlin on Sat, 12 Sept 2026.
+Jana Irmert is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 90mil, Berlin on Sat, 12 Sept 2026.
 
 Jana Irmert is an experimental and electronica artist tracked on soundcheck, with 6 sets logged across Berlin, Leipzig, Mexicocity and Sydney. Often billed alongside ophélie, AceMoMA and Actress. Next up: 90mil, Berlin on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Jana Irmert is an experimental and electronica artist tracked on soundcheck, wit
 
 ophélie, AceMoMA, Actress
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janairmert/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janairmert/)*

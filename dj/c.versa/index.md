@@ -1,6 +1,6 @@
 # C.Versa
 
-C.Versa is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at West Harlem, Kyoto on Fri, 28 Aug 2026.
+C.Versa is a House and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at West Harlem, Kyoto on Fri, 28 Aug 2026.
 
 C.Versa is a house and dub artist based in Japan, tracked on soundcheck, with 4 sets logged across Kyoto. Often billed alongside Sou Kitahara, kotakunisaki and Dihi. Next up: West Harlem, Kyoto on Fri 28 Aug.
 
@@ -20,4 +20,4 @@ C.Versa is a house and dub artist based in Japan, tracked on soundcheck, with 4 
 
 Sou Kitahara, kotakunisaki, Dihi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.versa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.versa/)*

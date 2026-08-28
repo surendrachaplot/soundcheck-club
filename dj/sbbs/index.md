@@ -1,14 +1,15 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
+SBBS is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The DBA, Manchester on Fri, 28 Aug 2026.
 
-SBBS is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Brighton, London, Manchester and Mexicocity. Often billed alongside Varanasi, RayRay and TAITO. Next up: The DBA, Manchester on Fri 28 Aug.
+SBBS is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Brighton, London, Manchester and Mexicocity. Often billed alongside Varanasi, Gridlock and RayRay. Next up: The DBA, Manchester on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | The DBA | Manchester |
+| Sun, 30 Aug 2026 | Distillery N17 | London |
 | Sat, 12 Sept 2026 | Algha's Plantroom | London |
 | Sun, 20 Sept 2026 | The Glove That Fits | London |
 | Sun, 27 Sept 2026 | NUMBER 90 LONDON | London |
@@ -26,6 +27,6 @@ SBBS is a techno and tech house artist tracked on soundcheck, with 24 sets logge
 
 ## Shares bills with
 
-Varanasi, RayRay, TAITO
+Varanasi, Gridlock, RayRay
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

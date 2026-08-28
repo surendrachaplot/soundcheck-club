@@ -1,6 +1,6 @@
 # justpatrick
 
-justpatrick is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Mikropol, Berlin on Sat, 31 Oct 2026.
+justpatrick is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mikropol, Berlin on Sat, 31 Oct 2026.
 
 justpatrick is a house and pop artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Kayoso, Camo Braxton and Sesame. Next up: Mikropol, Berlin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ justpatrick is a house and pop artist tracked on soundcheck, with 6 sets logged 
 
 Kayoso, Camo Braxton, Sesame
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justpatrick/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justpatrick/)*

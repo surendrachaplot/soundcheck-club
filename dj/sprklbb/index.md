@@ -1,14 +1,15 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
+SPRKLBB is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
 
-SPRKLBB is a house and techno artist based in United States of America, tracked on soundcheck, with 66 sets logged across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, BEIGE and Ciel. Next up: TBA - Cape Lookout, Portland on Fri 11 Sept.
+SPRKLBB is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, BEIGE and Ciel. Next up: TBA - Cape Lookout, Portland on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Cape Lookout | Portland |
+| Sat, 12 Sept 2026 | Process PDX | Portland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SPRKLBB is a house and techno artist based in United States of America, tracked 
 
 Mutualism, BEIGE, Ciel
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

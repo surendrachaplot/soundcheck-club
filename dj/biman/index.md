@@ -1,6 +1,6 @@
 # Bi Män
 
-Bi Män is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
+Bi Män is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Distillery, Leipzig on Sat, 29 Aug 2026.
 
 Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside AFAR, Baerbel and Bee Lincoln. Next up: Distillery, Leipzig on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Bi Män is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 AFAR, Baerbel, Bee Lincoln
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biman/)*

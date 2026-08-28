@@ -1,6 +1,6 @@
 # MisterrCha
 
-MisterrCha is a Afrobeat and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Club360, London on Fri, 11 Sept 2026.
+MisterrCha is a Afrobeat and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club360, London on Fri, 11 Sept 2026.
 
 MisterrCha is an afrobeat and pop artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Compulsive Leia, Figs and Takenbymarshall. Next up: Club360, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MisterrCha is an afrobeat and pop artist based in United Kingdom, tracked on sou
 
 Compulsive Leia, Figs, Takenbymarshall
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misterrcha/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misterrcha/)*

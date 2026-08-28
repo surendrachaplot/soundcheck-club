@@ -1,6 +1,6 @@
 # GLEM
 
-GLEM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+GLEM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 GLEM is a house and disco artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Mees Mattern, Khun and Luis Ripa. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ GLEM is a house and disco artist tracked on soundcheck, with 5 sets logged acros
 
 Mees Mattern, Khun, Luis Ripa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glem/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glem/)*

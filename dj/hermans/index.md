@@ -1,6 +1,6 @@
 # Hermans
 
-Hermans is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
+Hermans is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
 
 Hermans is a tech house and house artist based in Canada, tracked on soundcheck, with 8 sets logged across Denver. Often billed alongside AM (8), Billy Bevevino and Brittz. Next up: TBA - Nineteen25, Denver on Thu 27 Aug.
 
@@ -12,6 +12,7 @@ Hermans is a tech house and house artist based in Canada, tracked on soundcheck,
 
 ## Recently played
 
+- TBA - Nineteen25, Denver — Thu, 27 Aug 2026
 - TBA - Address Released to Ticket Holders, Denver — Fri, 14 Aug 2026
 - Larimer Lounge, Denver — Fri, 24 Apr 2026
 - Temple Denver, Denver — Sat, 20 Sept 2025
@@ -24,4 +25,4 @@ Hermans is a tech house and house artist based in Canada, tracked on soundcheck,
 
 AM (8), Billy Bevevino, Brittz
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermans/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hermans/)*

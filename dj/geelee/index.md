@@ -1,6 +1,6 @@
 # GEE LEE
 
-GEE LEE is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 10 Oct 2026.
+GEE LEE is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 10 Oct 2026.
 
 GEE LEE is a house and garage artist tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside JACK MARLOW, salameh and Shaolin Cowboy. Next up: TBA - DTLA, Losangeles on Sat 10 Oct.
 
@@ -30,4 +30,4 @@ GEE LEE is a house and garage artist tracked on soundcheck, with 51 sets logged 
 
 JACK MARLOW, salameh, Shaolin Cowboy
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geelee/)*

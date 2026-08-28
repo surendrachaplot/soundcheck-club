@@ -1,6 +1,6 @@
 # Nu:Tone \\\ Pray To Good at The Art School
 
-Nu:Tone \\\ Pray To Good at The Art School on Fri 20 Nov, Glasgow. 3 acts on the bill: Nu:Tone, Ruthless and Winslow. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Nu:Tone \\\ Pray To Good at The Art School on Fri 20 Nov, Glasgow. 4 acts on the bill: IYRE, Nu:Tone, Ruthless and Winslow. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nu:Tone \\\ Pray To Good at The Art School on Fri 20 Nov, Glasgow. 3 acts on the
 
 ## Line-up
 
+- IYRE
 - Nu:Tone
 - Ruthless
 - Winslow

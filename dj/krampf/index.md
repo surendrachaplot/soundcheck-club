@@ -1,6 +1,6 @@
 # Krampf
 
-Krampf is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 4 Sept 2026.
+Krampf is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 4 Sept 2026.
 
 Krampf is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Brisbane and Geneva and 5 more. Often billed alongside MCR-T, DJ Gigola and MRD (NO). Next up: La Station - Gare des Mines, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Krampf is a techno and hardcore artist tracked on soundcheck, with 14 sets logge
 
 MCR-T, DJ Gigola, MRD (NO)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krampf/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krampf/)*

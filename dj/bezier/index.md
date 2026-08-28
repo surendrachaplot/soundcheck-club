@@ -1,6 +1,6 @@
 # Bézier
 
-Bézier is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
+Bézier is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 27 Aug 2026.
 
 Bézier is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin, Detroit, Hamburg and Hongkong and 7 more. Often billed alongside BrthrMidnyt, La Carpio and cristian zanotti. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 27 Aug.
 
@@ -13,6 +13,7 @@ Bézier is a house and techno artist tracked on soundcheck, with 43 sets logged 
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Thu, 27 Aug 2026
 - Beate Uwe, Berlin — Sat, 25 Jul 2026
 - TBA - Secret Location, Berlin — Fri, 17 Jul 2026
 - Signal, New York City — Fri, 26 Jun 2026
@@ -20,10 +21,9 @@ Bézier is a house and techno artist tracked on soundcheck, with 43 sets logged 
 - Paloma, Berlin — Sun, 14 Jun 2026
 - TBA - Doll Quarry, Bushwick, New York City — Sat, 2 May 2026
 - Paloma, Berlin — Sun, 12 Apr 2026
-- Südpol, Hamburg — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 BrthrMidnyt, La Carpio, cristian zanotti
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bezier/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bezier/)*

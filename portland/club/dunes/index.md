@@ -1,6 +1,6 @@
 # Dunes
 
-Dunes is a music venue in Portland with 1 upcoming night listed on soundcheck as of Thu, 27 Aug 2026; the next is "ADUNANZA ~" on Wed, 16 Sept 2026.
+Dunes is a music venue in Portland with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "ADUNANZA ~" on Wed, 16 Sept 2026.
 
 Dunes is a music venue in Portland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1909 NE Martin Luther King Jr. Blvd; Portland, OR 97212; United States.
 
@@ -14,4 +14,4 @@ Dunes is a music venue in Portland listed on soundcheck. 1 upcoming night. Brows
 
 1909 NE Martin Luther King Jr. Blvd; Portland, OR 97212; United States, Portland
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/dunes/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/portland/club/dunes/)*

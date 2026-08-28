@@ -1,6 +1,6 @@
 # BODY ELECTRIC W/ Soundstream at OXI
 
-BODY ELECTRIC W/ Soundstream at OXI on Fri 11 Sept, Berlin. 6 acts on the bill: Annina, DimSum, Goss and heinrich grooves and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+BODY ELECTRIC W/ Soundstream at OXI on Fri 11 Sept, Berlin. 7 acts on the bill: Annina, DimSum, G.oss and Goss and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ BODY ELECTRIC W/ Soundstream at OXI on Fri 11 Sept, Berlin. 6 acts on the bill: 
 
 - Annina
 - DimSum
+- G.oss
 - Goss
 - heinrich grooves
 - Josiane

@@ -1,6 +1,6 @@
 # SIOBHAN.
 
-SIOBHAN. is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
+SIOBHAN. is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
 
 SIOBHAN. is a techno and experimental artist tracked on soundcheck, with 10 sets logged across London and Losangeles. Often billed alongside AAKAARA, Lockhart and New Flesh (2). Next up: Vittoria Wharf Studio, London on Fri 28 Aug.
 
@@ -26,4 +26,4 @@ SIOBHAN. is a techno and experimental artist tracked on soundcheck, with 10 sets
 
 AAKAARA, Lockhart, New Flesh (2)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*

@@ -1,6 +1,6 @@
 # AIKKO
 
-AIKKO is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Era uma vez no Porto, Porto on Wed, 26 Aug 2026.
+AIKKO is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Era uma vez no Porto, Porto on Wed, 26 Aug 2026.
 
 AIKKO is a house and afro house artist based in France, tracked on soundcheck, with 30 sets logged across Porto. Often billed alongside Pedro Tabuada, Carlos Regadas and Rúben Costa. Next up: Era uma vez no Porto, Porto on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ AIKKO is a house and afro house artist based in France, tracked on soundcheck, w
 
 Pedro Tabuada, Carlos Regadas, Rúben Costa
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aikko/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aikko/)*

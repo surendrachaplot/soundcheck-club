@@ -1,18 +1,19 @@
 # Glob
 
-Glob is a music venue in Denver with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "FULL CIRCLE" on Sat, 29 Aug 2026.
+Glob is a music venue in Denver with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "FULL CIRCLE" on Sat, 29 Aug 2026.
 
-Glob is a music venue in Denver listed on soundcheck. 2 upcoming nights, with line-ups including Carl Stone. Browse upcoming dates, start times and who's playing. 3551 Brighton Blvd, Denver, CO 80216, United States.
+Glob is a music venue in Denver listed on soundcheck. 3 upcoming nights, with line-ups including Carl Stone and slowdancexo. Browse upcoming dates, start times and who's playing. 3551 Brighton Blvd, Denver, CO 80216, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | FULL CIRCLE |  |
+| Sat, 19 Sept 2026 | Headroom presents: slowdancexo | slowdancexo |
 | Wed, 14 Oct 2026 | Carl Stone | Carl Stone |
 
 ## Address
 
 3551 Brighton Blvd, Denver, CO 80216, United States, Denver
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/glob/)*

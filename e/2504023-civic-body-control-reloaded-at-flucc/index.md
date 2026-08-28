@@ -1,6 +1,6 @@
 # CIVIC: Body Control Reloaded at FLUCC
 
-CIVIC: Body Control Reloaded at FLUCC on Sat 29 Aug, Vienna. 2 acts on the bill: Dj Wifi (3) and Menessy. Techno. Preview the line-up and save it on soundcheck.
+CIVIC: Body Control Reloaded at FLUCC on Sat 29 Aug, Vienna. 4 acts on the bill: Aleta, DIAS, Dj Wifi (3) and Menessy. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ CIVIC: Body Control Reloaded at FLUCC on Sat 29 Aug, Vienna. 2 acts on the bill:
 
 ## Line-up
 
+- Aleta
+- DIAS
 - Dj Wifi (3)
 - Menessy
 

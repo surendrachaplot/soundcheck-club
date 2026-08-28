@@ -1,13 +1,14 @@
 # Club Zimmermanns
 
-Club Zimmermanns is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "BZZBZZ TECHNO 3 YEAR ANNIVERSARY AFTERHOUR" on Sat, 5 Sept 2026.
+Club Zimmermanns is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "AETHER_BASS PRES.: AETHER_RAVE_009 - KOMA BDAY BASH - UNDERGROUND DNBxDUBSTEP EDITION" on Fri, 4 Sept 2026.
 
-Club Zimmermanns is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including SPEEDO (2). Browse upcoming dates, start times and who's playing. Venloer Str. 39, 50672 Köln, Germany.
+Club Zimmermanns is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including SPEEDO (2). Browse upcoming dates, start times and who's playing. Venloer Str. 39, 50672 Köln, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | AETHER_BASS PRES.: AETHER_RAVE_009 - KOMA BDAY BASH - UNDERGROUND DNBxDUBSTEP EDITION |  |
 | Sat, 5 Sept 2026 | BZZBZZ TECHNO 3 YEAR ANNIVERSARY AFTERHOUR | SPEEDO (2) |
 | Fri, 25 Sept 2026 | studio rainbow #9: techno for queers and friends |  |
 
@@ -15,4 +16,4 @@ Club Zimmermanns is a music venue in Cologne listed on soundcheck. 2 upcoming ni
 
 Venloer Str. 39, 50672 Köln, Germany, Cologne
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-zimmermanns/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-zimmermanns/)*

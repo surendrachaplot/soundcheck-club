@@ -1,6 +1,6 @@
 # Moolakii Club Audio Interface presents LIVE SOUNDTRACKS TO SILENT FILMS at Future Yard
 
-Moolakii Club Audio Interface presents LIVE SOUNDTRACKS TO SILENT FILMS at Future Yard on Thu 8 Oct, Liverpool. 2 acts on the bill: Stealing Sheep and Traindeer. Broken Beat and Electronica. Preview the line-up and save it on soundcheck.
+Moolakii Club Audio Interface presents LIVE SOUNDTRACKS TO SILENT FILMS at Future Yard on Thu 8 Oct, Liverpool. 3 acts on the bill: LoopFader, Stealing Sheep and Traindeer. Broken Beat and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Moolakii Club Audio Interface presents LIVE SOUNDTRACKS TO SILENT FILMS at Futur
 
 ## Line-up
 
+- LoopFader
 - Stealing Sheep
 - Traindeer
 

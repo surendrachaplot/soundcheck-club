@@ -1,6 +1,6 @@
 # Verso
 
-Verso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
+Verso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cova Santa, Ibiza on Tue, 6 Oct 2026.
 
 Verso is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside BRADII, Savio Testa and BECKIE ADAMS. Next up: Cova Santa, Ibiza on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Verso is a house and tech house artist based in United Kingdom, tracked on sound
 
 BRADII, Savio Testa, BECKIE ADAMS
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verso/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verso/)*

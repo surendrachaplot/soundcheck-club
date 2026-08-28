@@ -1,6 +1,6 @@
 # Molly
 
-Molly is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
+Molly is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
 
 Molly is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside DJ Dustin, Konstantin and Map.ache. Next up: Cassiopeia, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Molly is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 DJ Dustin, Konstantin, Map.ache
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molly/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molly/)*

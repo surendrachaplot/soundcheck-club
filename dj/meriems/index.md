@@ -1,6 +1,6 @@
 # Meriem S
 
-Meriem S is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+Meriem S is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Meriem S is a house and disco artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Brussels and Munich and 1 more. Often billed alongside saHHar, hi.fí and Adam Cooke. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Meriem S is a house and disco artist tracked on soundcheck, with 37 sets logged 
 
 saHHar, hi.fí, Adam Cooke
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meriems/)*

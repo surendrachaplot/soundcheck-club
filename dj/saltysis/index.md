@@ -1,8 +1,8 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Sat, 29 Aug 2026.
+SaltySis is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Sat, 29 Aug 2026.
 
-SaltySis is a techno and trance artist tracked on soundcheck, with 112 sets logged across Belgrade, Berlin, Brisbane and Budapest and 17 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Sat 29 Aug.
+SaltySis is a techno and trance artist tracked on soundcheck, with 113 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 18 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SaltySis is a techno and trance artist tracked on soundcheck, with 112 sets logg
 | Fri, 11 Sept 2026 | Mia Mao | Paris |
 | Sat, 26 Sept 2026 | Amerika | Buenos Aires |
 | Fri, 16 Oct 2026 | OST | Berlin |
+| Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ SaltySis is a techno and trance artist tracked on soundcheck, with 112 sets logg
 
 A.N.I., Cara Elizabeth, Millie Forsberg
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*

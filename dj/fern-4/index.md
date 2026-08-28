@@ -1,6 +1,6 @@
 # fern (4)
 
-fern (4) is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
+fern (4) is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
 
 fern (4) is an experimental and techno artist tracked on soundcheck, with 10 sets logged across Auckland, Bristol, Newyorkcity and Sanfrancisco. Often billed alongside shapes (2), AVA (3) and Alec Falconer. Next up: Sawmills, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ fern (4) is an experimental and techno artist tracked on soundcheck, with 10 set
 
 shapes (2), AVA (3), Alec Falconer
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fern-4/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fern-4/)*

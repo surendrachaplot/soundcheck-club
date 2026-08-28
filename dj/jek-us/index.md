@@ -1,6 +1,6 @@
 # Jek (US)
 
-Jek (US) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 27 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Jek (US) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
 Jek (US) is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Buenosaires and Copenhagen and 13 more. Often billed alongside djfix, Matas and adobeprincess. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
@@ -14,6 +14,7 @@ Jek (US) is a techno and house artist tracked on soundcheck, with 66 sets logged
 
 ## Recently played
 
+- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Jolene, Copenhagen — Sat, 25 Jul 2026
 - Hotel Butterfly, Rome — Thu, 23 Jul 2026
 - Club der Visionaere, Berlin — Wed, 8 Jul 2026
@@ -21,10 +22,9 @@ Jek (US) is a techno and house artist tracked on soundcheck, with 66 sets logged
 - Bassiani, Tbilisi — Fri, 5 Jun 2026
 - Mansions, New York City — Thu, 14 May 2026
 - Solace, Melbourne — Thu, 16 Apr 2026
-- Miscellania, Melbourne — Sun, 12 Apr 2026
 
 ## Shares bills with
 
 djfix, Matas, adobeprincess
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jek-us/)*

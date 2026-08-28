@@ -1,14 +1,15 @@
 # K.E.G
 
-K.E.G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 6 Sept 2026.
+K.E.G is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Aoyama Hachi, Tokyo on Sun, 6 Sept 2026.
 
-K.E.G is a house and techno artist based in Japan, tracked on soundcheck, with 39 sets logged across Tokyo. Often billed alongside Gonno, Abiu and An toi. Next up: Aoyama Hachi, Tokyo on Sun 6 Sept.
+K.E.G is a house and techno artist based in Japan, tracked on soundcheck, with 40 sets logged across Tokyo. Often billed alongside Gonno, Abiu and An toi. Next up: Aoyama Hachi, Tokyo on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Aoyama Hachi | Tokyo |
+| Fri, 9 Oct 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ K.E.G is a house and techno artist based in Japan, tracked on soundcheck, with 3
 
 Gonno, Abiu, An toi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.e.g/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k.e.g/)*

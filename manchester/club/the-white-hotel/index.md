@@ -1,14 +1,14 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 35 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NEW WORLD 2000two [A2ndChance?:BRandNuMilleNNium!]" on Fri, 28 Aug 2026.
+The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "NEW WORLD 2000two: deBasement [LIVE] / Miss Cabbage / Ikävä Pii / Poundshop & Cajm" on Fri, 28 Aug 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 35 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Paula Tape and ABADIR and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Paula Tape and ABADIR and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | NEW WORLD 2000two [A2ndChance?:BRandNuMilleNNium!] | Ikävä Pii, Miss Cabbage, Poundshop, deBasement |
+| Fri, 28 Aug 2026 | NEW WORLD 2000two: deBasement [LIVE] / Miss Cabbage / Ikävä Pii / Poundshop & Cajm | Ikävä Pii, Miss Cabbage, Poundshop, deBasement |
 | Sat, 29 Aug 2026 | High Hoops Pride Part 1 with Sterling Juan Diaz, Julie Desire, Angel D'lite & Fastlove | Angel D'lite, Fastlove, Julie Desire, Sterling Juan Diaz |
 | Sun, 30 Aug 2026 | High Hoops Pride Part 2 with Bell Towers, Jessica Nightlife & Merve | Bell Towers, Jessica Nightlife, Merve |
 | Fri, 4 Sept 2026 | Ordinary Friends presents Paula Tape & Simone de Kunovich | Paula Tape, Simone de Kunovich |
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 35 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

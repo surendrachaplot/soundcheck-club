@@ -1,6 +1,6 @@
 # Melon
 
-Melon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Melon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Melon is a house and techno artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Budapest, Ghent and Hamburg. Often billed alongside Alexander Koning, Dimitri (1) and Julien Simmons. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Melon is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Alexander Koning, Dimitri (1), Julien Simmons
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melonprods/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melonprods/)*

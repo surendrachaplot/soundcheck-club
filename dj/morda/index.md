@@ -1,13 +1,14 @@
 # MöRDA
 
-MöRDA is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at fabric, London on Fri, 28 Aug 2026.
+MöRDA is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at fabric, London on Fri, 28 Aug 2026.
 
-MöRDA is an afro house and afro tech artist based in South Africa, tracked on soundcheck, with 6 sets logged across Ibiza, London and Newyorkcity. Often billed alongside Black Coffee, Cameron Jack and Carl Craig. Next up: fabric, London on Fri 28 Aug.
+MöRDA is an afro house and afro tech artist based in South Africa, tracked on soundcheck, with 7 sets logged across Ibiza, London and Newyorkcity. Often billed alongside Black Coffee, Cameron Jack and Carl Craig. Next up: fabric, London on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | fabric | London |
 | Fri, 28 Aug 2026 | fabric | London |
 
 ## Recently played
@@ -22,4 +23,4 @@ MöRDA is an afro house and afro tech artist based in South Africa, tracked on s
 
 Black Coffee, Cameron Jack, Carl Craig
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morda/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morda/)*

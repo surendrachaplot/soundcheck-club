@@ -1,6 +1,6 @@
 # Risa
 
-Risa is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at ZUBAR, Tokyo on Sun, 6 Sept 2026.
+Risa is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at ZUBAR, Tokyo on Sun, 6 Sept 2026.
 
 Risa is a hip-hop and funk / soul artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal, Newyorkcity and Tokyo. Often billed alongside Takashit, Ken Sugai and Oshi. Next up: ZUBAR, Tokyo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Risa is a hip-hop and funk / soul artist based in Canada, tracked on soundcheck,
 
 Takashit, Ken Sugai, Oshi
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/risa/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/risa/)*

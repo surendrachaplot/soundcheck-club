@@ -1,14 +1,13 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 9 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "Freight Brixton presents Soul of the South: Mom Tudie" on Thu, 27 Aug 2026.
+Freight Brixton is a music venue in London with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Tiffany Calver presents No Requests Open Air Party W/ Donae'o, FS Green, Bambii + Many more" on Sat, 29 Aug 2026.
 
-Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Bambii, Baxtak, Changing Currents and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
+Freight Brixton is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Bambii, Baxtak, Changing Currents and Chunky and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Freight Brixton presents Soul of the South: Mom Tudie |  |
 | Sat, 29 Aug 2026 | Tiffany Calver presents No Requests Open Air Party W/ Donae'o, FS Green, Bambii + Many more | Bambii, Changing Currents, Donae'o, FS Green, Tiffany Calver |
 | Sat, 5 Sept 2026 | GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky | Baxtak, Chunky, DJ Perception, MJ Cole, Particles |
 | Sat, 12 Sept 2026 | ABSOLUTE BOWIE TRIBUE BAND |  |
@@ -22,4 +21,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 9 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

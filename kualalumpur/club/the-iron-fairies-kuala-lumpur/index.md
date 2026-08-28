@@ -1,6 +1,6 @@
 # The Iron Fairies Kuala Lumpur
 
-The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Thu, 27 Aug 2026; the next is "NoMind Showcase KL with Tissanai" on Sat, 29 Aug 2026.
+The Iron Fairies Kuala Lumpur is a music venue in Kuala Lumpur with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "NoMind Showcase KL with Tissanai" on Sat, 29 Aug 2026.
 
 The Iron Fairies Kuala Lumpur is a music venue in Kualalumpur listed on soundcheck. 2 upcoming nights, with line-ups including Alam, JO (MY), MADROSE and Tissanai. Browse upcoming dates, start times and who's playing. H-G-06, Hive, TREC, 438 Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia.
 
@@ -15,4 +15,4 @@ The Iron Fairies Kuala Lumpur is a music venue in Kualalumpur listed on soundche
 
 H-G-06, Hive, TREC, 438 Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia, Kuala Lumpur
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/the-iron-fairies-kuala-lumpur/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/the-iron-fairies-kuala-lumpur/)*

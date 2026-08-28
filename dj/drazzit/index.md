@@ -1,6 +1,6 @@
 # Drazzit
 
-Drazzit is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
+Drazzit is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
 
 Drazzit is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Doppelganger, SANTANA and Fillo Deportaberta. Next up: Village Underground Barcelona, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Drazzit is a techno and trance artist based in United Kingdom, tracked on soundc
 
 Doppelganger, SANTANA, Fillo Deportaberta
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drazzit/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drazzit/)*

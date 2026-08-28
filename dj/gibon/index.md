@@ -1,14 +1,15 @@
 # Fibon
 
-Fibon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Smolna, Warsaw on Sat, 29 Aug 2026.
+Fibon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Smolna, Warsaw on Sat, 29 Aug 2026.
 
-Fibon is a techno and house artist tracked on soundcheck, with 11 sets logged across Warsaw. Often billed alongside Piotr Ho, 2HOT2PLAY and Agents Of Time. Next up: Smolna, Warsaw on Sat 29 Aug.
+Fibon is a house and techno artist tracked on soundcheck, with 12 sets logged across Warsaw. Often billed alongside Piotr Ho, BBN (1) and 2HOT2PLAY. Next up: Smolna, Warsaw on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Smolna | Warsaw |
+| Sun, 30 Aug 2026 | Letnisko Żoliborz | Warsaw |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Fibon is a techno and house artist tracked on soundcheck, with 11 sets logged ac
 
 ## Shares bills with
 
-Piotr Ho, 2HOT2PLAY, Agents Of Time
+Piotr Ho, BBN (1), 2HOT2PLAY
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gibon/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gibon/)*

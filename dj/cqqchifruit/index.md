@@ -1,6 +1,6 @@
 # CQQCHiFRUIT
 
-CQQCHiFRUIT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Chicago Eagle, Chicago on Sat, 12 Sept 2026.
+CQQCHiFRUIT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Chicago Eagle, Chicago on Sat, 12 Sept 2026.
 
 CQQCHiFRUIT is a techno and house artist tracked on soundcheck, with 50 sets logged across Chicago, Detroit and Miami. Often billed alongside La Spacer, Chachi Guerrero and Madeline (Chi). Next up: Chicago Eagle, Chicago on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ CQQCHiFRUIT is a techno and house artist tracked on soundcheck, with 50 sets log
 
 La Spacer, Chachi Guerrero, Madeline (Chi)
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cqqchifruit/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cqqchifruit/)*

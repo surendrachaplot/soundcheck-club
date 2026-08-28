@@ -1,6 +1,6 @@
 # Bethan
 
-Bethan is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 27 Aug 2026, next at Spanners, London on Fri, 28 Aug 2026.
+Bethan is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Spanners, London on Fri, 28 Aug 2026.
 
 Bethan is a house and trance artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across London and Sheffield. Often billed alongside Angel D'lite, Marie Malarie and Michelle Manetti. Next up: Spanners, London on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ Bethan is a house and trance artist based in United Kingdom, tracked on soundche
 
 Angel D'lite, Marie Malarie, Michelle Manetti
 
-*Updated Thu, 27 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bethan/)*
+*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bethan/)*

@@ -1,11 +1,11 @@
-# Kumquat présente 'Le Château de Ma Mère' – Chapitre III [OPEN AIR] at TBA - Marseille 13014
+# Kumquat présente 'Le Château de Ma Mère' – Chapitre III [OPEN AIR] at Stade Fontainieu
 
-Kumquat présente 'Le Château de Ma Mère' – Chapitre III [OPEN AIR] at TBA - Marseille 13014 on Sat 29 Aug, Marseille. 4 acts on the bill: Camion Bazar, Giammarco Orsini, Monile and One Tough Cookie. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Kumquat présente 'Le Château de Ma Mère' – Chapitre III [OPEN AIR] at Stade Fontainieu on Sat 29 Aug, Marseille. 4 acts on the bill: Camion Bazar, Giammarco Orsini, Monile and One Tough Cookie. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 29 Aug 2026 |
-| Venue | TBA - Marseille 13014 |
+| Venue | Stade Fontainieu |
 | City | Marseille |
 
 ## Line-up
