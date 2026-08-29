@@ -1,14 +1,13 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 19 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Cottage" on Fri, 28 Aug 2026.
+Lakota is a music venue in Bristol with 18 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "The Birthday Link up - 16 Years of Electrikal & 26 Years of RC1" on Sat, 5 Sept 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 19 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Friction and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 18 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Friction and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Cottage |  |
 | Sat, 5 Sept 2026 | The Birthday Link up - 16 Years of Electrikal & 26 Years of RC1 |  |
 | Sun, 6 Sept 2026 | Climax Clique | HOLY C, J.Rains, Milly on Air |
 | Sat, 12 Sept 2026 | Neuroheadz Celebrates 15 Years of Eatbrain |  |
@@ -18,9 +17,10 @@ Lakota is a music venue in Bristol listed on soundcheck. 19 upcoming nights, wit
 | Sat, 19 Sept 2026 | Dazed Muzic 10th Birthday ft Friction, Koven, Skepsis + more | Friction, Koven, Skepsis |
 | Sat, 19 Sept 2026 | UWE Bristol Official Freshers - 6 Room MEGA Rave ft Friction + more |  |
 | Sun, 20 Sept 2026 | Freshers Free Rave |  |
+| Fri, 25 Sept 2026 | ACCESS: Drum & Bass Free Rave |  |
 
 ## Address
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

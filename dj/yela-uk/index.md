@@ -1,6 +1,6 @@
 # Yela
 
-Yela is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
+Yela is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Rooftop Garden at The Standard, Brussels, Brussels on Sat, 29 Aug 2026.
 
 Yela is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Boston and 8 more. Often billed alongside Hofmann (BE), Hofmann and Daan Donk. Next up: The Rooftop Garden at The Standard, Brussels, Brussels on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Yela is a house and minimal artist based in United Kingdom, tracked on soundchec
 
 Hofmann (BE), Hofmann, Daan Donk
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yela-uk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yela-uk/)*

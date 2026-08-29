@@ -1,6 +1,6 @@
 # Vedic Roots
 
-Vedic Roots is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Onyx (E1), London on Fri, 18 Sept 2026.
+Vedic Roots is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Onyx (E1), London on Fri, 18 Sept 2026.
 
 Vedic Roots is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Valencia. Often billed alongside Arjxn, Ayesha and D-Malice. Next up: Onyx (E1), London on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Vedic Roots is a dub and bass artist based in United Kingdom, tracked on soundch
 
 Arjxn, Ayesha, D-Malice
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vedicroots/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vedicroots/)*

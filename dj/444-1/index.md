@@ -1,6 +1,6 @@
 # 444 (1)
 
-444 (1) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
+444 (1) is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
 
 444 (1) is a club and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Mexicocity, Montreal and Newyorkcity. Often billed alongside BEYBLADE SHAWTY, LeCamille and Arianna Danae. Next up: Mood Ring, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@
 
 BEYBLADE SHAWTY, LeCamille, Arianna Danae
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/444-1/)*

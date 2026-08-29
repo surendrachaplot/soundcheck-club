@@ -1,6 +1,6 @@
 # Schwarzer Kaffee
 
-Schwarzer Kaffee is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 29 Aug 2026.
+Schwarzer Kaffee is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 29 Aug 2026.
 
 Schwarzer Kaffee is a techno and industrial artist tracked on soundcheck, with 9 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside CHUPA, DANILO (ES) and DICE. Next up: R25 Kulturschlachthof, Dusseldorf on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Schwarzer Kaffee is a techno and industrial artist tracked on soundcheck, with 9
 
 CHUPA, DANILO (ES), DICE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzerkaffee/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwarzerkaffee/)*

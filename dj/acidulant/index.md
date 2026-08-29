@@ -1,6 +1,6 @@
 # Acidulant
 
-Acidulant is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hard Rock Hotel, Malta on Thu, 8 Oct 2026.
+Acidulant is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hard Rock Hotel, Malta on Thu, 8 Oct 2026.
 
 Acidulant is a techno and acid artist based in Malta, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Ghent and Glasgow and 2 more. Often billed alongside Sean Rickett, Human Safari and Sound synthesis (2). Next up: Hard Rock Hotel, Malta on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Acidulant is a techno and acid artist based in Malta, tracked on soundcheck, wit
 
 Sean Rickett, Human Safari, Sound synthesis (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidulant/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidulant/)*

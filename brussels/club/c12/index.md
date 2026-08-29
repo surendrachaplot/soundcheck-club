@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "2 Rooms, 2 Temperatures - C12 x 10SET" on Fri, 4 Sept 2026.
+C12 is a music venue in Brussels with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "2 Rooms, 2 Temperatures - C12 x 10SET" on Fri, 4 Sept 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Answer Code Request and Basic Feelings (2) and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -20,4 +20,4 @@ C12 is a music venue in Brussels listed on soundcheck. 7 upcoming nights, with l
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

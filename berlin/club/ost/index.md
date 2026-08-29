@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "ULTRA SOZIAL with Luciid, Obscure Shape, Tham " on Fri, 28 Aug 2026.
+OST is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sound of Hell w/ BSLS, William Luck,  REDBATUN, DT43, VINO and many more" on Sat, 29 Aug 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | ULTRA SOZIAL with Luciid, Obscure Shape, Tham  | An Chen, Luciid, Obscure Shape, Tham, Viscerale |
 | Sat, 29 Aug 2026 | Sound of Hell w/ BSLS, William Luck,  REDBATUN, DT43, VINO and many more | +UMBRAX+, Axciid, BSLS, FOKUS (Live), GLASSBASS, Jordan.nsx, Karashò, Khyodo, Laviena, William Luck |
 | Sun, 30 Aug 2026 | EPS x OST Afterparty | Katy Rough, senaitstar |
 | Thu, 3 Sept 2026 | Savory - Techno Every Thursday | Megaira, OnlyWithYou, TMS (Dj) |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with li
 | Sat, 12 Sept 2026 | ONYX x WHALIEN pres. KURAI LABEL w / Marie Vaunt, Niotech, ANDATA | ANDATA, KARISH, Marie Vaunt, Niotech, Paul Meier, YØNDER |
 | Thu, 17 Sept 2026 | Savory - Techno Every Thursday | Brtinzz, WAN.1, saya (DE) |
 | Fri, 18 Sept 2026 | SCHRANZ is BACK with Felix Kröcher | Felix Kröcher |
+| Sat, 19 Sept 2026 | Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more | Athina, DJ HOTMAIL, IGDA, JAZZY (2), Kø:lab, Limoncello, SEKTOR69, Treibende Kraft, ZOEVITA |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

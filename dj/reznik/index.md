@@ -1,6 +1,6 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Scorpios, Mykonos on Tue, 1 Sept 2026.
+Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Scorpios, Mykonos on Tue, 1 Sept 2026.
 
 Reznik is a house and afro house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Samm (BE), Avangart Tabldot and Bedouin. Next up: Scorpios, Mykonos on Tue 1 Sept.
 
@@ -27,4 +27,4 @@ Reznik is a house and afro house artist tracked on soundcheck, with 44 sets logg
 
 Samm (BE), Avangart Tabldot, Bedouin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

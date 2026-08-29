@@ -1,6 +1,6 @@
 # Johanneskirche, Offenbach
 
-Johanneskirche, Offenbach is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "SCORE @Sonic Sites, Johanneskirche Offenbach" on Sat, 29 Aug 2026.
+Johanneskirche, Offenbach is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "SCORE @Sonic Sites, Johanneskirche Offenbach" on Sat, 29 Aug 2026.
 
 Johanneskirche, Offenbach is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Ludwigstr. 131, 63067 Offenbach am Main.
 
@@ -14,4 +14,4 @@ Johanneskirche, Offenbach is a music venue in Frankfurt listed on soundcheck. 1 
 
 Ludwigstr. 131, 63067 Offenbach am Main, Frankfurt
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/johanneskirche-offenbach/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/johanneskirche-offenbach/)*

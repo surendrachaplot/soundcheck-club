@@ -1,6 +1,6 @@
 # Gojnea76
 
-Gojnea76 is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
+Gojnea76 is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
 
 Gojnea76 is a house and tech house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside G76, Piticu and Alexander Skancke. Next up: Supermarket, Zurich on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Gojnea76 is a house and tech house artist tracked on soundcheck, with 21 sets lo
 
 G76, Piticu, Alexander Skancke
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*

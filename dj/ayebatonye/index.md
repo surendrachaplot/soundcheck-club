@@ -1,6 +1,6 @@
 # Ayebatonye
 
-Ayebatonye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club 77, Sydney on Fri, 4 Sept 2026.
+Ayebatonye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club 77, Sydney on Fri, 4 Sept 2026.
 
 Ayebatonye is a house and techno artist tracked on soundcheck, with 31 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Four Tet, Jyoty and MERS. Next up: Club 77, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ayebatonye is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 Four Tet, Jyoty, MERS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ayebatonye/)*

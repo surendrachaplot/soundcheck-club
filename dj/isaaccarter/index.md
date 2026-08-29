@@ -1,6 +1,6 @@
 # Isaac Carter
 
-Isaac Carter is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Isaac Carter is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Isaac Carter is a house and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Bali, Berlin and Brisbane and 23 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Isaac Carter is a house and tech house artist tracked on soundcheck, with 89 set
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

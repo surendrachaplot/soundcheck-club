@@ -1,6 +1,6 @@
 # Scratcha DVA
 
-Scratcha DVA is a Gqom and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Palais, London on Sun, 30 Aug 2026.
+Scratcha DVA is a Gqom and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Palais, London on Sun, 30 Aug 2026.
 
 Scratcha DVA is a gqom and bass artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside Tash LC, Ikonika and Nkisi. Next up: Palais, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Scratcha DVA is a gqom and bass artist based in United Kingdom, tracked on sound
 
 Tash LC, Ikonika, Nkisi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scratchadva/)*

@@ -1,6 +1,6 @@
 # Wylam Brewery
 
-Wylam Brewery is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Gentleman's Dub Club" on Thu, 5 Nov 2026.
+Wylam Brewery is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Gentleman's Dub Club" on Thu, 5 Nov 2026.
 
 Wylam Brewery is a music venue in Newcastle listed on soundcheck. 1 upcoming night, with line-ups including Gentleman's Dub Club. Browse upcoming dates, start times and who's playing. Palace of Arts Exhibition Park, Claremont Rd, Newcastle upon Tyne NE2 4PZ, United Kingdom.
 
@@ -14,4 +14,4 @@ Wylam Brewery is a music venue in Newcastle listed on soundcheck. 1 upcoming nig
 
 Palace of Arts Exhibition Park, Claremont Rd, Newcastle upon Tyne NE2 4PZ, United Kingdom, Newcastle
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/wylam-brewery/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/wylam-brewery/)*

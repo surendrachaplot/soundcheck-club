@@ -1,6 +1,6 @@
 # Clax10
 
-Clax10 is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at M.O.T, London on Sun, 30 Aug 2026.
+Clax10 is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at M.O.T, London on Sun, 30 Aug 2026.
 
 Clax10 is a house and disco artist tracked on soundcheck, with 14 sets logged across Detroit, London and Losangeles. Often billed alongside Azure, BUCK/OFF and CHRYSALIS. Next up: M.O.T, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Clax10 is a house and disco artist tracked on soundcheck, with 14 sets logged ac
 
 Azure, BUCK/OFF, CHRYSALIS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clax10/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clax10/)*

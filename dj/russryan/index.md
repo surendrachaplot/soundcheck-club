@@ -1,6 +1,6 @@
 # Russ Ryan
 
-Russ Ryan is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Adela Street W10, London on Sun, 30 Aug 2026.
+Russ Ryan is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Adela Street W10, London on Sun, 30 Aug 2026.
 
 Russ Ryan is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside DJ Gilla, Children of Zeus and MarshmeLLo. Next up: TBA - Adela Street W10, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Russ Ryan is a house and jazz artist based in United Kingdom, tracked on soundch
 
 DJ Gilla, Children of Zeus, MarshmeLLo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russryan/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/russryan/)*

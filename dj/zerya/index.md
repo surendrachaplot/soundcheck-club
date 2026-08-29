@@ -1,6 +1,6 @@
 # Zerya
 
-Zerya is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Night Tales, London on Sat, 29 Aug 2026.
+Zerya is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Night Tales, London on Sat, 29 Aug 2026.
 
 Zerya is a house and disco artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Ghent, London and Mexicocity and 1 more. Often billed alongside Irena Stanisic, Barreto and Bonnz!. Next up: Night Tales, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Zerya is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Irena Stanisic, Barreto, Bonnz!
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerya/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zerya/)*

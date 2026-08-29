@@ -1,6 +1,6 @@
 # Itza Chacón
 
-Itza Chacón is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fünk, Mexico City on Sat, 26 Sept 2026.
+Itza Chacón is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fünk, Mexico City on Sat, 26 Sept 2026.
 
 Itza Chacón is a house and minimal artist based in Mexico, tracked on soundcheck, with 59 sets logged across Mexicocity. Often billed alongside Ernest Duke, Mejia and Itzvan. Next up: Fünk, Mexicocity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Itza Chacón is a house and minimal artist based in Mexico, tracked on soundchec
 
 Ernest Duke, Mejia, Itzvan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itzachacon/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/itzachacon/)*

@@ -1,14 +1,13 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 12 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT" on Fri, 28 Aug 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sissi's by Closecall x Ghosts of Garage" on Sat, 29 Aug 2026.
 
-SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 12 upcoming nights, with line-ups including Anil Aras, Ays (NL), Becking and Boris Coelman and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
+SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Anil Aras, Ays (NL), Becking and Boris Coelman and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Sissi's Friday by Huru-Hara: TASHASAN, Mia & XUNAT | MIA (MY), TASHASAN, XUNAT |
 | Sat, 29 Aug 2026 | Sissi's by Closecall x Ghosts of Garage | Becking, Chunky, Itz3bby, Larishka, Rich Reason, SHUFFA |
 | Fri, 4 Sept 2026 | Connection art | Polli Panda |
 | Fri, 4 Sept 2026 | Sissi's Friday with lizz.e, Papa Nugs, Polli Panda b2b Wesgood | Papa Nugs, Polli Panda, lizz.e |
@@ -18,9 +17,10 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 12 upcomin
 | Sat, 26 Sept 2026 | Sissi's Blockparty with Benny Rodrigues & LYLO |  |
 | Fri, 2 Oct 2026 | Sissi's Friday with SWAY, Mowgli & Ays | Ays (NL), Mowgli (NL) |
 | Sat, 3 Oct 2026 | Sissi's Saturday: Boris Coelman invites SUCHI | Boris Coelman, SUCHI |
+| Sat, 17 Oct 2026 | Sissi's Saturday with Kyra Khaldi invites COZi | COZi, Kyra Khaldi |
 
 ## Address
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

@@ -1,6 +1,6 @@
 # Lloyd Nwagboso
 
-Lloyd Nwagboso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
+Lloyd Nwagboso is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DRUMSHEDS, London on Sat, 19 Sept 2026.
 
 Lloyd Nwagboso is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Ibiza and London. Often billed alongside Alex Mills, Beyond Chicago and Melvo Baptiste. Next up: DRUMSHEDS, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lloyd Nwagboso is a house and tech house artist based in United Kingdom, tracked
 
 Alex Mills, Beyond Chicago, Melvo Baptiste
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydnwagboso/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydnwagboso/)*

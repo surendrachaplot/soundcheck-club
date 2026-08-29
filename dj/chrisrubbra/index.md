@@ -1,6 +1,6 @@
 # Chris Rubbra
 
-Chris Rubbra is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 30 Aug 2026.
+Chris Rubbra is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 30 Aug 2026.
 
 Chris Rubbra is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Detroit, Toronto and Vancouver. Often billed alongside Barbosa, Henry Brooks and CLEO LEIGH. Next up: Paradise Grapevine Winery, Toronto on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Chris Rubbra is a techno and industrial artist tracked on soundcheck, with 11 se
 
 Barbosa, Henry Brooks, CLEO LEIGH
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisrubbra/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisrubbra/)*

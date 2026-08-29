@@ -1,6 +1,6 @@
 # Don Barbarino
 
-Don Barbarino is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Salon Daomé, Montreal on Sun, 6 Sept 2026.
+Don Barbarino is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Salon Daomé, Montreal on Sun, 6 Sept 2026.
 
 Don Barbarino is a house and afro house artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal and Toronto. Often billed alongside DJ Michael Terzian, Akpossoul and A$H BANKS. Next up: Salon Daomé, Montreal on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Don Barbarino is a house and afro house artist based in Canada, tracked on sound
 
 DJ Michael Terzian, Akpossoul, A$H BANKS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donbarbarino/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donbarbarino/)*

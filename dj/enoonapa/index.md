@@ -1,20 +1,20 @@
 # Enoo Napa
 
-Enoo Napa is a Afro House and Afro Tech artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bolivar Beach Bar, Athens on Fri, 28 Aug 2026.
+Enoo Napa is a Afro House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Whitehouse, The Hague on Sat, 29 Aug 2026.
 
-Enoo Napa is an afro house and afro tech artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Bali and Berlin and 16 more. Often billed alongside Da Capo, Caiiro and Van Zand. Next up: Bolivar Beach Bar, Athens on Fri 28 Aug.
+Enoo Napa is an afro house and afro tech artist tracked on soundcheck, with 50 sets logged across Amsterdam, Athens, Bali and Berlin and 16 more. Often billed alongside Da Capo, Caiiro and Van Zand. Next up: Whitehouse, Thehague on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Bolivar Beach Bar | Athens |
 | Sat, 29 Aug 2026 | Whitehouse | The Hague |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Sat, 31 Oct 2026 | The Roundhouse | London |
 
 ## Recently played
 
+- Bolivar Beach Bar, Athens — Fri, 28 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 22 Jun 2026
 - Ministry Of Sound, London — Fri, 19 Jun 2026
 - Bolivar Beach Bar, Athens — Thu, 28 May 2026
@@ -22,10 +22,9 @@ Enoo Napa is an afro house and afro tech artist tracked on soundcheck, with 50 s
 - Onderzeebootloods, Rotterdam — Sat, 4 Apr 2026
 - Maassilo, Rotterdam — Sat, 4 Apr 2026
 - Vera Cocina & بار, Washington DC — Sun, 15 Mar 2026
-- The Chocolate Factory, New York City — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Da Capo, Caiiro, Van Zand
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*

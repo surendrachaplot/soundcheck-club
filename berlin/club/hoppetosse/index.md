@@ -1,6 +1,6 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "23 Jahre Betriebsfeier" on Fri, 11 Sept 2026.
+Hoppetosse is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "23 Jahre Betriebsfeier" on Fri, 11 Sept 2026.
 
 Hoppetosse is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including And.re, BODYSHIFT, Carina Posse and Casimir von Oettingen and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 6 upcoming nights, w
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

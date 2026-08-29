@@ -1,6 +1,6 @@
 # Livello
 
-Livello is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "ALTO Bank Holiday | AFTER PARTY" on Sun, 30 Aug 2026.
+Livello is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "ALTO Bank Holiday | AFTER PARTY" on Sun, 30 Aug 2026.
 
 Livello is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Lower Dean Street, 39 Side, Newcastle upon Tyne NE1 3JE.
 
@@ -14,4 +14,4 @@ Livello is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Br
 
 Lower Dean Street, 39 Side, Newcastle upon Tyne NE1 3JE, Newcastle
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/livello/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/livello/)*

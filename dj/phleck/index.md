@@ -1,6 +1,6 @@
 # Phleck
 
-Phleck is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 19 Sept 2026.
+Phleck is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Monarch, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Phleck is a house and disco artist tracked on soundcheck, with 15 sets logged across Sanfrancisco. Often billed alongside Duserock, DJ Cira and DJ M3. Next up: Monarch, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Phleck is a house and disco artist tracked on soundcheck, with 15 sets logged ac
 
 Duserock, DJ Cira, DJ M3
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phleck/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phleck/)*

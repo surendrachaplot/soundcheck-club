@@ -1,6 +1,6 @@
 # Basic Function
 
-Basic Function is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ernest, Newcastle on Sat, 5 Sept 2026.
+Basic Function is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ernest, Newcastle on Sat, 5 Sept 2026.
 
 Basic Function is a house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Newcastle. Often billed alongside Condy, Lucky Penny and Auld Rab. Next up: Ernest, Newcastle on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Basic Function is a house artist based in United Kingdom, tracked on soundcheck,
 
 Condy, Lucky Penny, Auld Rab
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basicfunction/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basicfunction/)*

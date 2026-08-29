@@ -1,6 +1,6 @@
 # LUPO PECE
 
-LUPO PECE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 29 Aug 2026.
+LUPO PECE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 29 Aug 2026.
 
 LUPO PECE is a techno and house artist based in Italy, tracked on soundcheck, with 23 sets logged across Lisbon, Milan and Rome. Often billed alongside Dove Quiete, Andrewww and Brillante. Next up: THE MAGICK BAR, Rome on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ LUPO PECE is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 Dove Quiete, Andrewww, Brillante
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lupopece/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lupopece/)*

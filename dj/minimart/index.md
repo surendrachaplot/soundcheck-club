@@ -1,6 +1,6 @@
 # Minimart
 
-Minimart is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ministerium Club, Lisbon on Sat, 5 Sept 2026.
+Minimart is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ministerium Club, Lisbon on Sat, 5 Sept 2026.
 
 Minimart is a hip-hop and house artist tracked on soundcheck, with 18 sets logged across Lisbon and London. Often billed alongside MURI, Calmo and Lou de Melo. Next up: Ministerium Club, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Minimart is a hip-hop and house artist tracked on soundcheck, with 18 sets logge
 
 MURI, Calmo, Lou de Melo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minimart/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minimart/)*

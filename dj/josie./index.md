@@ -1,6 +1,6 @@
 # JOSIE.
 
-JOSIE. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
+JOSIE. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Sat, 29 Aug 2026.
 
 JOSIE. is a house and deep house artist tracked on soundcheck, with 15 sets logged across Miami and Newyorkcity. Often billed alongside Anthony Romano, LEFTI and Agents Of Time. Next up: Elsewhere, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JOSIE. is a house and deep house artist tracked on soundcheck, with 15 sets logg
 
 Anthony Romano, LEFTI, Agents Of Time
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josie./)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/josie./)*

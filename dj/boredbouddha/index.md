@@ -1,6 +1,6 @@
 # BORED BOUDDHA
 
-BORED BOUDDHA is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paramour, Brussels on Sat, 5 Sept 2026.
+BORED BOUDDHA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paramour, Brussels on Sat, 5 Sept 2026.
 
 BORED BOUDDHA is a techno artist based in Belgium, tracked on soundcheck, with 18 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Hadone, Amalie and Border One. Next up: Paramour, Brussels on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ BORED BOUDDHA is a techno artist based in Belgium, tracked on soundcheck, with 1
 
 Hadone, Amalie, Border One
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boredbouddha/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boredbouddha/)*

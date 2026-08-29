@@ -1,6 +1,6 @@
 # Greg Paulus
 
-Greg Paulus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
+Greg Paulus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
 
 Greg Paulus is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Detroit, Miami and Newyorkcity. Often billed alongside Kiyoshi, Chuwee and Morgan. Next up: H0L0, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Greg Paulus is a house and techno artist based in United States of America, trac
 
 Kiyoshi, Chuwee, Morgan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregpaulus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gregpaulus/)*

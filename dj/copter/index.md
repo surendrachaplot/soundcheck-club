@@ -1,6 +1,6 @@
 # CØPTER
 
-CØPTER is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at John Doe, Amsterdam on Sat, 29 Aug 2026.
+CØPTER is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at John Doe, Amsterdam on Sat, 29 Aug 2026.
 
 CØPTER is a techno and hardcore artist tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside Gaya Carmeli, Alex Sharp and MIESØ. Next up: John Doe, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ CØPTER is a techno and hardcore artist tracked on soundcheck, with 13 sets logg
 
 Gaya Carmeli, Alex Sharp, MIESØ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/copter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/copter/)*

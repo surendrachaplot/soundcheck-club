@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Kilombo Dance x Under Bridge" on Sat, 29 Aug 2026.
+Under Bridge Madrid is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Kilombo Dance x Under Bridge" on Sat, 29 Aug 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including ESTRELLA OR and Ivan del Burgo. Browse upcoming dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -17,4 +17,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 4 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

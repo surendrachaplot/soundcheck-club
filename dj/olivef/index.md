@@ -1,6 +1,6 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
+Olive F is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Van Nelle Fabriek, Rotterdam on Sat, 29 Aug 2026.
 
 Olive F is a house and tech house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Van Nelle Fabriek, Rotterdam on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Olive F is a house and tech house artist tracked on soundcheck, with 128 sets lo
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

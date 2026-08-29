@@ -1,6 +1,6 @@
 # La Louve
 
-La Louve is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Blank Site, Seoul on Sat, 29 Aug 2026.
+La Louve is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Blank Site, Seoul on Sat, 29 Aug 2026.
 
 La Louve is a techno and industrial artist based in South Korea, tracked on soundcheck, with 7 sets logged across Marseille, Paris and Seoul. Often billed alongside Healer_t_s, ATISMIA and BEI_. Next up: Blank Site, Seoul on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ La Louve is a techno and industrial artist based in South Korea, tracked on soun
 
 Healer_t_s, ATISMIA, BEI_
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalouve/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalouve/)*

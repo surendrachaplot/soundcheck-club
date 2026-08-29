@@ -1,14 +1,13 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 9 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Theviacya invites" on Fri, 28 Aug 2026.
+Smolna is a music venue in Warsaw with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Smolna x Redefined" on Sat, 29 Aug 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with line-ups including BBN (1), Carla Roca, Cwtv and EARGASM GOD and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with line-ups including BBN (1), Carla Roca, Cwtv and EARGASM GOD and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Theviacya invites | Francesca, Francesca (PL), Mushin, SPNN, SYS.END, Theviacya |
 | Sat, 29 Aug 2026 | Smolna x Redefined | BBN (1), Fibon, KLAUDIA, magic.made.by.r |
 | Fri, 4 Sept 2026 | Bassmates x Smolna invites Solin | Sarba, Solin, long w |
 | Sat, 5 Sept 2026 | Smolna x Theia Crush | Myris, Sabre, Sickdat |
@@ -22,4 +21,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 9 upcoming nights, with 
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

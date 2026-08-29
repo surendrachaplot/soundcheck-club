@@ -1,6 +1,6 @@
 # Très Beau Paradis Fiscal
 
-Très Beau Paradis Fiscal is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Usquare, Brussels on Fri, 11 Sept 2026.
+Très Beau Paradis Fiscal is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Usquare, Brussels on Fri, 11 Sept 2026.
 
 Très Beau Paradis Fiscal is a jungle and drum & bass artist based in Belgium, tracked on soundcheck, with 18 sets logged across Brussels. Often billed alongside Paradis Fiscal, Selmz and CHUBBZ. Next up: Usquare, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Très Beau Paradis Fiscal is a jungle and drum & bass artist based in Belgium, t
 
 Paradis Fiscal, Selmz, CHUBBZ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tresbeauparadisfiscal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tresbeauparadisfiscal/)*

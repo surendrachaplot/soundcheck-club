@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Vision & Le Cannibale afterparty - KiNK, Hiroko Hacci" on Sat, 5 Sept 2026.
+Amnesia Milano is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Vision & Le Cannibale afterparty - KiNK, Hiroko Hacci" on Sat, 5 Sept 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Bambounou, Darius Syrossian, Dimmish and Hiroko Hacci and 2 more. Browse upcoming dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -16,4 +16,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 3 upcoming nights
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

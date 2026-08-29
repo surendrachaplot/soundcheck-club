@@ -1,6 +1,6 @@
 # Marlon Clark
 
-Marlon Clark is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
+Marlon Clark is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
 
 Marlon Clark is an electronica and house artist tracked on soundcheck, with 7 sets logged across Brussels, Copenhagen, Glasgow and Leeds and 1 more. Often billed alongside Jake Hodgkinson, BP (1) and Carl H. Next up: TBA - secret location, Copenhagen on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Marlon Clark is an electronica and house artist tracked on soundcheck, with 7 se
 
 Jake Hodgkinson, BP (1), Carl H
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonclark/)*

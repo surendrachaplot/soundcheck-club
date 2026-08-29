@@ -1,6 +1,6 @@
 # EMCD
 
-EMCD is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Howler, Melbourne on Sat, 19 Sept 2026.
+EMCD is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Howler, Melbourne on Sat, 19 Sept 2026.
 
 EMCD is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Bangkok, Liverpool, Manchester and Melbourne and 1 more. Often billed alongside Deekline, 2Peas and Sistym. Next up: Howler, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ EMCD is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logg
 
 Deekline, 2Peas, Sistym
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emcd/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emcd/)*

@@ -1,6 +1,6 @@
 # Manii Beach
 
-Manii Beach is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Last Days Of Summer" on Sat, 29 Aug 2026.
+Manii Beach is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Last Days Of Summer" on Sat, 29 Aug 2026.
 
 Manii Beach is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Anthony Pappa, Cris-H and Paul Sparkes. Browse upcoming dates, start times and who's playing. Zuidstrand 2, 2042AG, Zandvoort.
 
@@ -15,4 +15,4 @@ Manii Beach is a music venue in Amsterdam listed on soundcheck. 2 upcoming night
 
 Zuidstrand 2, 2042AG, Zandvoort, Amsterdam
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/manii-beach/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/manii-beach/)*

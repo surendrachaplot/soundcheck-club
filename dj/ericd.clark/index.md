@@ -1,6 +1,6 @@
 # Eric D. Clark
 
-Eric D. Clark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kater, Berlin on Tue, 1 Sept 2026.
+Eric D. Clark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Tue, 1 Sept 2026.
 
 Eric D. Clark is a house and deep house artist tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Lisbon and Newyorkcity and 1 more. Often billed alongside DJ KILLING, Haider and travaspango. Next up: Kater, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Eric D. Clark is a house and deep house artist tracked on soundcheck, with 33 se
 
 DJ KILLING, Haider, travaspango
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericd.clark/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ericd.clark/)*

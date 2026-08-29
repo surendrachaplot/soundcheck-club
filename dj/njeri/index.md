@@ -1,6 +1,6 @@
 # Njeri
 
-Njeri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Njeri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
 
 Njeri is a house and techno artist based in Kenya, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Katerinha, Anele and Khadija (DE). Next up: Kater, Berlin on Fri 28 Aug.
 
@@ -12,6 +12,7 @@ Njeri is a house and techno artist based in Kenya, tracked on soundcheck, with 2
 
 ## Recently played
 
+- Kater, Berlin — Fri, 28 Aug 2026
 - Festsaal Kreuzberg, Berlin — Sun, 28 Jun 2026
 - Renate, Berlin — Sat, 20 Jun 2026
 - Fitzroy, Berlin — Sun, 26 Apr 2026
@@ -19,10 +20,9 @@ Njeri is a house and techno artist based in Kenya, tracked on soundcheck, with 2
 - Generator Berlin Alexanderplatz, Berlin — Fri, 30 May 2025
 - Gretchen, Berlin — Fri, 23 May 2025
 - TORTE BAR, Berlin — Wed, 14 May 2025
-- Maaya, Berlin — Fri, 29 Nov 2024
 
 ## Shares bills with
 
 Katerinha, Anele, Khadija (DE)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/njeri/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/njeri/)*

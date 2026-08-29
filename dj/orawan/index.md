@@ -1,6 +1,6 @@
 # Orawan
 
-Orawan is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Blaq Lyte Bloq, Bangkok on Sat, 5 Sept 2026.
+Orawan is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Blaq Lyte Bloq, Bangkok on Sat, 5 Sept 2026.
 
 Orawan is a drum & bass and bass artist tracked on soundcheck, with 10 sets logged across Bangkok. Often billed alongside F-Word, NERZ and Sunday Sundae. Next up: Blaq Lyte Bloq, Bangkok on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Orawan is a drum & bass and bass artist tracked on soundcheck, with 10 sets logg
 
 F-Word, NERZ, Sunday Sundae
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orawan/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orawan/)*

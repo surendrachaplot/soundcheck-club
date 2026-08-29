@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "FORWARDS After Party #01 w/ 1-800 GIRLS + Guests (Pluralist + Brogan)" on Sat, 29 Aug 2026.
+The Love Inn is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "FORWARDS After Party #01 w/ 1-800 GIRLS + Guests (Pluralist + Brogan)" on Sat, 29 Aug 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including 1-800 GIRLS, A For Alpha, AVA (3) and Azumei and 2 more. Browse upcoming dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -18,4 +18,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 5 upcoming nights
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

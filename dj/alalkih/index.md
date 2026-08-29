@@ -1,6 +1,6 @@
 # Alalkih
 
-Alalkih is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Artheater, Cologne on Sat, 29 Aug 2026.
+Alalkih is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Artheater, Cologne on Sat, 29 Aug 2026.
 
 Alalkih is a techno and house artist tracked on soundcheck, with 16 sets logged across Cologne and Frankfurt. Often billed alongside Skippo, Alejandro Alvarez and Juan Del Chambo. Next up: Artheater, Cologne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alalkih is a techno and house artist tracked on soundcheck, with 16 sets logged 
 
 Skippo, Alejandro Alvarez, Juan Del Chambo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alalkih/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alalkih/)*

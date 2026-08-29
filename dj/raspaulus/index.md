@@ -1,6 +1,6 @@
 # Ras Paulus
 
-Ras Paulus is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kadinsky Cafe, Amsterdam on Sat, 29 Aug 2026.
+Ras Paulus is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kadinsky Cafe, Amsterdam on Sat, 29 Aug 2026.
 
 Ras Paulus is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam and Stockholm. Often billed alongside MC PPholl, Around Us and Francesco Pico. Next up: Kadinsky Cafe, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Ras Paulus is a progressive house and techno artist based in Netherlands, tracke
 
 MC PPholl, Around Us, Francesco Pico
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raspaulus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raspaulus/)*

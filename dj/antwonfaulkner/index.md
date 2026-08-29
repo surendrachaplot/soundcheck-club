@@ -1,6 +1,6 @@
 # Antwon Faulkner
 
-Antwon Faulkner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
+Antwon Faulkner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
 
 Antwon Faulkner is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Sanfrancisco and Toronto. Often billed alongside Marivs, LeeLee Mishi and Barroness. Next up: Leslie Lookout Park, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Antwon Faulkner is a techno and house artist based in United States of America, 
 
 Marivs, LeeLee Mishi, Barroness
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antwonfaulkner/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antwonfaulkner/)*

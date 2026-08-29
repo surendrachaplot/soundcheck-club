@@ -1,6 +1,6 @@
 # Frazi.er
 
-Frazi.er is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+Frazi.er is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
 Frazi.er is a techno and house artist tracked on soundcheck, with 102 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 28 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Frazi.er is a techno and house artist tracked on soundcheck, with 102 sets logge
 
 E.DN, Liam Cappello, 999999999
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*

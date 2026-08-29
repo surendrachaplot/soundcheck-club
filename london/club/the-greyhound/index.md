@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "TBD x Pulse presents" on Fri, 28 Aug 2026.
+The Greyhound is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Start Here" on Thu, 3 Sept 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Alex Wilcox, Blossom Hill, Dylan Forbes and EVIL THWEK and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including Alex Wilcox, Blossom Hill, Dylan Forbes and EVIL THWEK and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TBD x Pulse presents |  |
 | Thu, 3 Sept 2026 | Start Here | Tallboy, VERTEX (2), limi, vish |
 | Sat, 5 Sept 2026 | Blossom Hill + Pez Invites: Heléna Star & Giulia Tess | Blossom Hill, Giulia Tess, Heléna Star, Lou Vincent |
 | Fri, 11 Sept 2026 | Malice |  |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 16 upcoming night
 | Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
 | Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs |
 | Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
+| Fri, 16 Oct 2026 | Slippy 005: Mimi, Per, Terry Cotta, Wiseman, Woodwerk, Wyndham | Terry Cotta, Woodwerk, Wyndham |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

@@ -1,6 +1,6 @@
 # kabir.
 
-kabir. is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
+kabir. is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
 
 kabir. is a techno and bass artist based in United States of America, tracked on soundcheck, with 43 sets logged across Washingtondc. Often billed alongside Kabir, flotussin and Djoser. Next up: TRANSMISSION DC, Washingtondc on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ kabir. is a techno and bass artist based in United States of America, tracked on
 
 Kabir, flotussin, Djoser
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabir./)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabir./)*

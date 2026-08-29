@@ -1,14 +1,13 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "G2: Architect, Frequency Shifter, Highlimiter, Obstructor" on Fri, 28 Aug 2026.
+KHIDI is a music venue in Tbilisi with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "G2: AMSTRD, Dali, Triggers In Leash" on Sat, 29 Aug 2026.
 
-KHIDI is a music venue in Tbilisi listed on soundcheck. 6 upcoming nights, with line-ups including Boudi, Boyd Schidt, Cillian and Dali (GE) and 2 more. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
+KHIDI is a music venue in Tbilisi listed on soundcheck. 5 upcoming nights, with line-ups including Boudi, Boyd Schidt, Cillian and Dali (GE) and 2 more. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | G2: Architect, Frequency Shifter, Highlimiter, Obstructor | Frequency Shifter, Obstructor |
 | Sat, 29 Aug 2026 | G2: AMSTRD, Dali, Triggers In Leash | Dali (GE) |
 | Fri, 4 Sept 2026 | G2: Jorjick, Karina Saakyan, Pierce | Karina Saakyan, Pierce (GE) |
 | Sat, 5 Sept 2026 | G2: NO:ID, Poly Chain, TaronX | NO:ID, Poly Chain, TaronX |
@@ -19,4 +18,4 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 6 upcoming nights, with 
 
 Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

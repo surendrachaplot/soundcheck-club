@@ -1,6 +1,6 @@
 # Transpira
 
-Transpira is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Funilaria Bixiga, Sao Paulo on Sat, 29 Aug 2026.
+Transpira is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Funilaria Bixiga, Sao Paulo on Sat, 29 Aug 2026.
 
 Transpira is a house and baile funk artist based in Brazil, tracked on soundcheck, with 19 sets logged across Saopaulo. Often billed alongside AmadoPeace, Pista Quente and Adan Stokinger. Next up: Funilaria Bixiga, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Transpira is a house and baile funk artist based in Brazil, tracked on soundchec
 
 AmadoPeace, Pista Quente, Adan Stokinger
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/transpira/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/transpira/)*

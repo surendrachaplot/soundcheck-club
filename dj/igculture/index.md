@@ -1,6 +1,6 @@
 # IG Culture
 
-IG Culture is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jumbi, London on Sat, 5 Sept 2026.
+IG Culture is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jumbi, London on Sat, 5 Sept 2026.
 
 IG Culture is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds, London and Sheffield. Often billed alongside Alex Phountzi, Izco and Saige Sounds. Next up: Jumbi, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ IG Culture is a broken beat and house artist based in United Kingdom, tracked on
 
 Alex Phountzi, Izco, Saige Sounds
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/igculture/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/igculture/)*

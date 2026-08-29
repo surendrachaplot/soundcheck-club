@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 20 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "KOKO Electronic: Paco Osuna" on Fri, 28 Aug 2026.
+KOKO is a music venue in London with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "KOKO Electronic: Mustard" on Sat, 29 Aug 2026.
 
 KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Yulia Niko, Adiba, Alan Dixon and Anane and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -8,9 +8,9 @@ KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | KOKO Electronic: Paco Osuna | Joëlla Jackson, Mason Collective, Paco Osuna |
 | Sat, 29 Aug 2026 | KOKO Electronic: Mustard | DJ Mustard, Sir Spyro, Taylah Elaine |
 | Sun, 30 Aug 2026 | KOKO Electronic: Skillibeng (Carnival Edition) | Adiba, Chris Collins, DJ Nate, Danny Rankin |
+| Mon, 31 Aug 2026 | Chuckie Online: FAMILEE OFFICIAL Carnival After Party |  |
 | Fri, 4 Sept 2026 | Louie Vega & Anané: The Ritual | Anane, Daisybelle, GENNARO, KingCrowney, Louie Vega, Max Sinàl, Phill de Janeiro |
 | Sat, 5 Sept 2026 | KOKO Electronic: Sébastien Léger & Roy Rosenfeld | Roy Rosenfeld, Sebastien Leger |
 | Fri, 11 Sept 2026 | KOKO Electronic: Gordo | Gordo |
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 20 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

@@ -1,6 +1,6 @@
 # Reboot
 
-Reboot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Pracht, Frankfurt on Sat, 29 Aug 2026.
+Reboot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Pracht, Frankfurt on Sat, 29 Aug 2026.
 
 Reboot is a house and tech house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Belfast and Bucharest and 13 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: Pracht, Frankfurt on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Reboot is a house and tech house artist tracked on soundcheck, with 58 sets logg
 
 Valenzia, Boutiq.808, Nick Curly
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*

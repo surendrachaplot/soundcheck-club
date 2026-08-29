@@ -1,6 +1,6 @@
 # Robin Schellenberg
 
-Robin Schellenberg is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Klunkerkranich, Berlin on Mon, 31 Aug 2026.
+Robin Schellenberg is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klunkerkranich, Berlin on Mon, 31 Aug 2026.
 
 Robin Schellenberg is an electronica and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Copenhagen and Stuttgart. Often billed alongside Emorine, ELIZEN THE EMPEROR and Dave Dinger. Next up: Klunkerkranich, Berlin on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Robin Schellenberg is an electronica and techno artist based in Germany, tracked
 
 Emorine, ELIZEN THE EMPEROR, Dave Dinger
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinschellenberg/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinschellenberg/)*

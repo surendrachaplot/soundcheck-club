@@ -1,14 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Golden Record NYC x TAMED" on Fri, 28 Aug 2026.
+Green Room NYC is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Golden Record NYC x FIGA present Polygonia  " on Sat, 29 Aug 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, ANTOJITO and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, ANTOJITO and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Golden Record NYC x TAMED | Armii1n, Joiah, Max Sprauer, Miguel Gallardo, Mihai Pol, RAAUL, Silent Duality |
 | Sat, 29 Aug 2026 | Golden Record NYC x FIGA present Polygonia   | Mike Servito, Polygonia, ROCCO (FIGA), S4M23, Shyboi, VILE |
 | Sun, 30 Aug 2026 | Misbehave x Green Room presents Dale | DJ Ultra Violet, Seven Minaya |
 | Fri, 4 Sept 2026 | D[IV]ERSION: Sybil (uk), Ayesha, BLAIZE, Devoye, ANTOJITO, Madre Guía, Emsho | ANTOJITO, Ayesha, BLAIZE, Devoye, Emsho, Madre Guía, Sepehr, Sybil |
@@ -21,4 +20,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

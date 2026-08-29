@@ -1,6 +1,6 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Ellen Allien is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
 
 Ellen Allien is a techno and house artist tracked on soundcheck, with 249 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Hangaren, Copenhagen on Thu 27 Aug.
 
@@ -34,4 +34,4 @@ Ellen Allien is a techno and house artist tracked on soundcheck, with 249 sets l
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

@@ -1,6 +1,6 @@
 # KONNR
 
-KONNR is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Egg London, London on Sat, 12 Sept 2026.
+KONNR is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Egg London, London on Sat, 12 Sept 2026.
 
 KONNR is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London, Losangeles, Paris and Tokyo. Often billed alongside Ritchie Haydn, Carina Lawrence and GABS (SK). Next up: Egg London, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KONNR is a progressive house and deep house artist based in United Kingdom, trac
 
 Ritchie Haydn, Carina Lawrence, GABS (SK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konnr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/konnr/)*

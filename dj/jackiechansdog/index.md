@@ -1,6 +1,6 @@
 # JACKIECHANSDOG
 
-JACKIECHANSDOG is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
+JACKIECHANSDOG is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 29 Aug 2026.
 
 JACKIECHANSDOG is a club and ghetto tech artist tracked on soundcheck, with 21 sets logged across Philadelphia and Washingtondc. Often billed alongside Mooncrumb, CYB3R T0NIN and DJ KORIS. Next up: TRANSMISSION DC, Washingtondc on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ JACKIECHANSDOG is a club and ghetto tech artist tracked on soundcheck, with 21 s
 
 Mooncrumb, CYB3R T0NIN, DJ KORIS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiechansdog/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiechansdog/)*

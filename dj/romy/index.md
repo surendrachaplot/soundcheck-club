@@ -1,6 +1,6 @@
 # Romy
 
-Romy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Romy is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Romy is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 33 more. Often billed alongside Romy Mats, HAAi and Your Muther. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Romy is a techno and house artist tracked on soundcheck, with 130 sets logged ac
 
 Romy Mats, HAAi, Your Muther
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*

@@ -1,6 +1,6 @@
 # Fusegrade
 
-Fusegrade is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Marble Bar, Detroit on Sat, 29 Aug 2026.
+Fusegrade is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Marble Bar, Detroit on Sat, 29 Aug 2026.
 
 Fusegrade is a techno and house artist based in United States of America, tracked on soundcheck, with 55 sets logged across Detroit. Often billed alongside Jorissen, James (6) and Andrea Ghita. Next up: Marble Bar, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Fusegrade is a techno and house artist based in United States of America, tracke
 
 Jorissen, James (6), Andrea Ghita
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fusegrade/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fusegrade/)*

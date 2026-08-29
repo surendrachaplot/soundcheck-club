@@ -1,6 +1,6 @@
 # Thabo (DE)
 
-Thabo (DE) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Thabo (DE) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
 
 Thabo (DE) is an electronica and house artist tracked on soundcheck, with 7 sets logged across Athens, Berlin, Dusseldorf and Ibiza and 1 more. Often billed alongside Alex Dallas, Abana and Ale Castro. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
 
@@ -12,6 +12,7 @@ Thabo (DE) is an electronica and house artist tracked on soundcheck, with 7 sets
 
 ## Recently played
 
+- TBA - MAERA, Mykonos — Fri, 28 Aug 2026
 - Prince Charles, Berlin — Fri, 1 May 2026
 - Kater, Berlin — Sat, 9 Aug 2025
 - Crust Basement, Athens — Sat, 11 Jan 2025
@@ -23,4 +24,4 @@ Thabo (DE) is an electronica and house artist tracked on soundcheck, with 7 sets
 
 Alex Dallas, Abana, Ale Castro
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thabo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thabo/)*

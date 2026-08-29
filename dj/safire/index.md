@@ -1,6 +1,6 @@
 # safire
 
-safire is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Howler, Melbourne on Sat, 19 Sept 2026.
+safire is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Howler, Melbourne on Sat, 19 Sept 2026.
 
 safire is a drum & bass and dubstep artist based in Australia, tracked on soundcheck, with 18 sets logged across Auckland and Melbourne. Often billed alongside Sistym, MELTA and HELIX [UK]. Next up: Howler, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ safire is a drum & bass and dubstep artist based in Australia, tracked on soundc
 
 Sistym, MELTA, HELIX [UK]
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safire/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safire/)*

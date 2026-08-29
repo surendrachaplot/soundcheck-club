@@ -1,6 +1,6 @@
 # Flo Circus
 
-Flo Circus is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
+Flo Circus is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
 
 Flo Circus is a techno and tech house artist tracked on soundcheck, with 30 sets logged across Berlin, Frankfurt and Strasbourg. Often billed alongside Tom Schön, Luke Sun and Sebastian Kettel. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Flo Circus is a techno and tech house artist tracked on soundcheck, with 30 sets
 
 Tom Schön, Luke Sun, Sebastian Kettel
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flocircus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flocircus/)*

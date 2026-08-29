@@ -1,6 +1,6 @@
 # Stefan Goldmann
 
-Stefan Goldmann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Stefan Goldmann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Stefan Goldmann is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Athens, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Ryoma Sasaki, Ouchi-S and Paul Leonard. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Stefan Goldmann is a techno and house artist based in Germany, tracked on soundc
 
 Ryoma Sasaki, Ouchi-S, Paul Leonard
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*

@@ -1,6 +1,6 @@
 # Call Me Ben
 
-Call Me Ben is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - SARAB - Haji Lane, Singapore on Fri, 4 Sept 2026.
+Call Me Ben is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - SARAB - Haji Lane, Singapore on Fri, 4 Sept 2026.
 
 Call Me Ben is an afro house and house artist based in Singapore, tracked on soundcheck, with 8 sets logged across Singapore. Often billed alongside NAYRA, Enzo Siffredi and Alex Cancino. Next up: TBA - SARAB - Haji Lane, Singapore on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Call Me Ben is an afro house and house artist based in Singapore, tracked on sou
 
 NAYRA, Enzo Siffredi, Alex Cancino
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callmeben/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callmeben/)*

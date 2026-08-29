@@ -1,6 +1,6 @@
 # Grischa Lichtenberger
 
-Grischa Lichtenberger is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hashtag Lab, Warsaw on Thu, 17 Sept 2026.
+Grischa Lichtenberger is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hashtag Lab, Warsaw on Thu, 17 Sept 2026.
 
 Grischa Lichtenberger is an experimental and electronica artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Budapest, Seoul and Tbilisi and 1 more. Often billed alongside Byetone, Alejandro Mosso and Baby Vulture. Next up: Hashtag Lab, Warsaw on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Grischa Lichtenberger is an experimental and electronica artist based in Germany
 
 Byetone, Alejandro Mosso, Baby Vulture
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grischalichtenberger/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grischalichtenberger/)*

@@ -1,14 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Femme Fatale Birthday Bash" on Fri, 28 Aug 2026.
+TRANSMISSION DC is a music venue in Washington DC with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "MISCAST: Nowhere To Wear" on Sat, 29 Aug 2026.
 
-TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including 1tbsp, Artemis.105, Bastet (US) and Binh and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 20 upcoming nights, with line-ups including 1tbsp, Artemis.105, Bastet (US) and Binh and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Femme Fatale Birthday Bash |  |
 | Sat, 29 Aug 2026 | MISCAST: Nowhere To Wear | ILUSM, JACKIECHANSDOG, LowNotes, Ryan Almoete Bo |
 | Sat, 29 Aug 2026 | Sophie Parties x K-Hole Demon Hunter pres: DEMONIC | College Hill |
 | Thu, 3 Sept 2026 | Substrate Pres. Grace Dahl | Grace Dahl |
@@ -18,9 +17,10 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 21 upcomi
 | Sat, 12 Sept 2026 | Black Box pres. Clarisa Kimskii | Artemis.105, Bastet (US), Clarisa Kimskii, Djoser, Jackson Ryland, Jett, Juana, Tsurugi |
 | Sat, 12 Sept 2026 | Boycott Room DC: Daytime Market & Film Festival |  |
 | Thu, 17 Sept 2026 | Substrate Pres. Binh | Binh |
+| Fri, 18 Sept 2026 | TRANSMISSION x PARA PRESENTS: Skee Mask | Dave from Stoke, Madalin, Skee Mask, kabir. |
 
 ## Address
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

@@ -1,6 +1,6 @@
 # Maiden
 
-Maiden is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The White Hotel, Manchester on Fri, 20 Nov 2026.
+Maiden is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The White Hotel, Manchester on Fri, 20 Nov 2026.
 
 Maiden is an experimental and post-punk artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Liverpool, London and Manchester. Often billed alongside 96 Back, Cowper and DJ Marcelle. Next up: The White Hotel, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Maiden is an experimental and post-punk artist based in United Kingdom, tracked 
 
 96 Back, Cowper, DJ Marcelle
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maiden/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maiden/)*

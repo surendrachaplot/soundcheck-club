@@ -1,6 +1,6 @@
 # Jaree
 
-Jaree is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Culture Cafe, Bangkok on Tue, 1 Sept 2026.
+Jaree is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Culture Cafe, Bangkok on Tue, 1 Sept 2026.
 
 Jaree is a house and disco artist tracked on soundcheck, with 29 sets logged across Bangkok. Often billed alongside Takamichi, DJ Zombie and Krit Su. Next up: Culture Cafe, Bangkok on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Jaree is a house and disco artist tracked on soundcheck, with 29 sets logged acr
 
 Takamichi, DJ Zombie, Krit Su
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaree/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaree/)*

@@ -1,6 +1,6 @@
 # The Lucky Cat
 
-The Lucky Cat is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "immense at sea ⎮ after party ⎮ lucky cat" on Sat, 29 Aug 2026.
+The Lucky Cat is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "immense at sea ⎮ after party ⎮ lucky cat" on Sat, 29 Aug 2026.
 
 The Lucky Cat is a music venue in Sydney listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales.
 
@@ -16,4 +16,4 @@ The Lucky Cat is a music venue in Sydney listed on soundcheck. 3 upcoming nights
 
 Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales, Sydney
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*

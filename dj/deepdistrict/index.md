@@ -1,6 +1,6 @@
 # DEEP DISTRICT
 
-DEEP DISTRICT is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at B2 Rīga, Riga on Sat, 29 Aug 2026.
+DEEP DISTRICT is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at B2 Rīga, Riga on Sat, 29 Aug 2026.
 
 DEEP DISTRICT is a house and minimal artist based in Latvia, tracked on soundcheck, with 4 sets logged across Barcelona and Riga. Often billed alongside D I N, iOAN (LV) and Adam Blake. Next up: B2 Rīga, Riga on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ DEEP DISTRICT is a house and minimal artist based in Latvia, tracked on soundche
 
 D I N, iOAN (LV), Adam Blake
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdistrict/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdistrict/)*

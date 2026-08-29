@@ -1,6 +1,6 @@
 # Jamflat
 
-Jamflat is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Lowkey Seoul, Seoul on Sat, 29 Aug 2026.
+Jamflat is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lowkey Seoul, Seoul on Sat, 29 Aug 2026.
 
 Jamflat is an electronic artist based in South Korea, tracked on soundcheck, with 28 sets logged across Seoul. Often billed alongside REDBUTSOBER, Meero and Zoey. Next up: Lowkey Seoul, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jamflat is an electronic artist based in South Korea, tracked on soundcheck, wit
 
 REDBUTSOBER, Meero, Zoey
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamflat/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamflat/)*

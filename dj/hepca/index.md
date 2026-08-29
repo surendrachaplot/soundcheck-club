@@ -1,6 +1,6 @@
 # Hep (CA)
 
-Hep (CA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 11 Sept 2026.
+Hep (CA) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paradise Grapevine Winery, Toronto on Fri, 11 Sept 2026.
 
 Hep (CA) is a house and disco artist tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside TESFAY, Blooma and AKWA. Next up: Paradise Grapevine Winery, Toronto on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Hep (CA) is a house and disco artist tracked on soundcheck, with 5 sets logged a
 
 TESFAY, Blooma, AKWA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hepca/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hepca/)*

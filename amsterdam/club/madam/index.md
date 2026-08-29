@@ -1,14 +1,13 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 26 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Madam by Night invites: Simon Kidzoo, Ramon Rivé, Ella Noar" on Fri, 28 Aug 2026.
+Madam is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Madam by Night invites: Mea Culpa" on Sat, 29 Aug 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Madam by Night invites: Simon Kidzoo, Ramon Rivé, Ella Noar | Ramon Rivé, Simon Kidzoo |
 | Sat, 29 Aug 2026 | Madam by Night invites: Mea Culpa | Mike Scot |
 | Thu, 3 Sept 2026 | Madam by Night invites: MONARK | Okeam |
 | Fri, 4 Sept 2026 | Madam by Night invites: VELVET | Lidia Lo, Sanne Dammers, Tania Moon |
@@ -18,9 +17,10 @@ Madam is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, wi
 | Fri, 18 Sept 2026 | Madam by Night invites: Silven invites | Chris Di Perri, PERFECT TIMING, Silven |
 | Sat, 19 Sept 2026 | Madam by Night invites: The Disco Express | Crystal Touch, Drabes, Nablijven Soundsystem |
 | Fri, 25 Sept 2026 | Madam by Night invites: Sander Groet, Isa Roos, KARKÂDÉ | Isa Roos, KARKÂDÉ |
+| Sat, 26 Sept 2026 | Madam by Night invites: Guerrilla | Nitefield |
 
 ## Address
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

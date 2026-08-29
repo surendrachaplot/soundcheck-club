@@ -1,6 +1,6 @@
 # NGL Flounce
 
-NGL Flounce is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+NGL Flounce is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 NGL Flounce is a club and techno artist tracked on soundcheck, with 20 sets logged across Montreal. Often billed alongside Jamvvis, 16:9 ratio and DJ Pacifier. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ NGL Flounce is a club and techno artist tracked on soundcheck, with 20 sets logg
 
 Jamvvis, 16:9 ratio, DJ Pacifier
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nglflounce/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nglflounce/)*

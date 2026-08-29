@@ -1,6 +1,6 @@
 # Alay
 
-Alay is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nordstern, Basel on Sat, 26 Sept 2026.
+Alay is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nordstern, Basel on Sat, 26 Sept 2026.
 
 Alay is a techno and afro house artist based in Switzerland, tracked on soundcheck, with 29 sets logged across Basel, Ibiza and Zurich. Often billed alongside Ambient Pino, AANN and Alok. Next up: Nordstern, Basel on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alay is a techno and afro house artist based in Switzerland, tracked on soundche
 
 Ambient Pino, AANN, Alok
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alay/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alay/)*

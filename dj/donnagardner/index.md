@@ -1,6 +1,6 @@
 # Donna Gardner
 
-Donna Gardner is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Traverse City Whiskey Co. Outpost, Detroit on Sat, 29 Aug 2026.
+Donna Gardner is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Traverse City Whiskey Co. Outpost, Detroit on Sat, 29 Aug 2026.
 
 Donna Gardner is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 93 sets logged across Detroit. Often billed alongside DJ Moppy, Isaac Prieto and Jesse Cory. Next up: Traverse City Whiskey Co. Outpost, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Donna Gardner is a house and funk / soul artist based in United States of Americ
 
 DJ Moppy, Isaac Prieto, Jesse Cory
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagardner/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagardner/)*

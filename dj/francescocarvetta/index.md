@@ -1,6 +1,6 @@
 # Francesco Carvetta
 
-Francesco Carvetta is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
+Francesco Carvetta is a Electronica and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
 
 Francesco Carvetta is an electronica and techno artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Ibiza and London and 4 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: Jardins de Joan Brossa, Barcelona on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Francesco Carvetta is an electronica and techno artist tracked on soundcheck, wi
 
 Hitch, Jorge Escribano, Avo (ES)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*

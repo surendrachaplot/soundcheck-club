@@ -1,6 +1,6 @@
 # LUGIÆ
 
-LUGIÆ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 29 Aug 2026.
+LUGIÆ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Uebel & Gefährlich, Hamburg on Sat, 29 Aug 2026.
 
 LUGIÆ is a techno and trance artist tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside DJ Farbenblind, NYON and Schall und Rauch. Next up: Uebel & Gefährlich, Hamburg on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ LUGIÆ is a techno and trance artist tracked on soundcheck, with 4 sets logged a
 
 DJ Farbenblind, NYON, Schall und Rauch
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lugiæ/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lugiæ/)*

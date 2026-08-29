@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
+SLVL is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
 SLVL is a techno and industrial artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
@@ -32,4 +32,4 @@ SLVL is a techno and industrial artist tracked on soundcheck, with 81 sets logge
 
 KLOFAMA, KARAH, KRUELTY
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

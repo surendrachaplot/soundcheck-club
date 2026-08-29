@@ -1,6 +1,6 @@
 # XNFE
 
-XNFE is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 29 Aug 2026.
+XNFE is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 29 Aug 2026.
 
 XNFE is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside SN_Yeah, omeme_gangimari and ron3lyscript. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ XNFE is a drum & bass and bass artist based in Japan, tracked on soundcheck, wit
 
 SN_Yeah, omeme_gangimari, ron3lyscript
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xnfe/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xnfe/)*

@@ -1,6 +1,6 @@
 # Flord King
 
-Flord King is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Nature location, Stockholm on Sat, 29 Aug 2026.
+Flord King is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Nature location, Stockholm on Sat, 29 Aug 2026.
 
 Flord King is a tech house and minimal artist tracked on soundcheck, with 11 sets logged across Stockholm. Often billed alongside Nico O'Konor, Parallax Deep and Daniel Lien. Next up: TBA - Nature location, Stockholm on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Flord King is a tech house and minimal artist tracked on soundcheck, with 11 set
 
 Nico O'Konor, Parallax Deep, Daniel Lien
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flordking/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flordking/)*

@@ -1,6 +1,6 @@
 # Kid Simius
 
-Kid Simius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 5 Sept 2026.
+Kid Simius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 5 Sept 2026.
 
 Kid Simius is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 19 more. Often billed alongside Sarah Wild, Natalie Robinson and julës jay. Next up: Südbrücke Open Air, Cologne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kid Simius is a house and techno artist tracked on soundcheck, with 51 sets logg
 
 Sarah Wild, Natalie Robinson, julës jay
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidsimius/)*

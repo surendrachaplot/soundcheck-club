@@ -1,6 +1,6 @@
 # DeRizzio
 
-DeRizzio is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Secret Location - Open Air, London on Sat, 29 Aug 2026.
+DeRizzio is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Secret Location - Open Air, London on Sat, 29 Aug 2026.
 
 DeRizzio is a minimal and house artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Azire, Kesh (1) and Angello.. Next up: TBA - Secret Location - Open Air, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DeRizzio is a minimal and house artist tracked on soundcheck, with 23 sets logge
 
 Azire, Kesh (1), Angello.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derizzio/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derizzio/)*

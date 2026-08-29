@@ -1,19 +1,19 @@
 # Pioneer
 
-Pioneer is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ministry Of Sound, London on Fri, 28 Aug 2026.
+Pioneer is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Sector 57, Birmingham on Sat, 29 Aug 2026.
 
-Pioneer is a tech house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Birmingham, Bristol and London and 1 more. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: Ministry Of Sound, London on Fri 28 Aug.
+Pioneer is a tech house and house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Birmingham, Bristol and London and 1 more. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: Sector 57, Birmingham on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Ministry Of Sound | London |
 | Sat, 29 Aug 2026 | Sector 57 | Birmingham |
 | Sat, 19 Sept 2026 | E1 | London |
 
 ## Recently played
 
+- Ministry Of Sound, London — Fri, 28 Aug 2026
 - Ministry Of Sound, London — Sat, 15 Aug 2026
 - The Steel Yard, London — Sat, 8 Aug 2026
 - Addington Park, London — Sat, 8 Aug 2026
@@ -21,10 +21,9 @@ Pioneer is a tech house and house artist tracked on soundcheck, with 105 sets lo
 - Eutopia Warehouse, London — Sat, 4 Jul 2026
 - Egg London, London — Sat, 20 Jun 2026
 - XOYO, London — Sat, 6 Jun 2026
-- Brockwell Park, London — Mon, 25 May 2026
 
 ## Shares bills with
 
 Supa D, JAYDAA, Jerome Six
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*

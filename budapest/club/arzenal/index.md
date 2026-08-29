@@ -1,14 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Nachtwerk Pres. Vieze Asbak I Juul Exler I Anoluxx" on Fri, 28 Aug 2026.
+Arzenal is a music venue in Budapest with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ELYSIUM SUMMER CLOSING with Neon Graveyard + Technokool" on Sat, 5 Sept 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 10 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Nachtwerk Pres. Vieze Asbak I Juul Exler I Anoluxx | Vieze Asbak |
 | Sat, 5 Sept 2026 | ELYSIUM SUMMER CLOSING with Neon Graveyard + Technokool | Neon Graveyard, Technokool |
 | Fri, 11 Sept 2026 | Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED |  |
 | Sat, 12 Sept 2026 | FUSIONZ pres SCULLY (SCO) - HARDTECHNO | Johanna Bozai, Kamafaka, ädene |
@@ -18,9 +17,10 @@ Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, w
 | Fri, 9 Oct 2026 | UNREAL x ARZENÁL: Cloudy ALL NIGHT LONG | Cloudy |
 | Fri, 16 Oct 2026 | Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT | FUMI |
 | Sat, 7 Nov 2026 | Raum für Ton x ARZENÁL: Parallx, AESZTETIK, Kabay, Leskus, Tarkan | AESZTETIK, Kabay, Leskus, MAHA, Parallx, THIRD 2HIFT, Tarkan |
+| Sat, 14 Nov 2026 | Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal | Paralich, Valenthin |
 
 ## Address
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

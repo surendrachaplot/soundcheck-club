@@ -1,6 +1,6 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hangaren, Copenhagen on Sat, 29 Aug 2026.
+TOCCORORO is a Techno and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hangaren, Copenhagen on Sat, 29 Aug 2026.
 
 TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 35 more. Often billed alongside JASSS, Manuka Honey and SALOME. Next up: Hangaren, Copenhagen on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ TOCCORORO is a techno and reggaeton artist tracked on soundcheck, with 130 sets 
 
 JASSS, Manuka Honey, SALOME
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

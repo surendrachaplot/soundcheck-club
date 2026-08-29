@@ -1,6 +1,6 @@
 # Viennaus
 
-Viennaus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Viennaus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 Viennaus is a house and techno artist based in Poland, tracked on soundcheck, with 23 sets logged across Krakow and Warsaw. Often billed alongside Dedenia, Edvvin and Buchan. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Viennaus is a house and techno artist based in Poland, tracked on soundcheck, wi
 
 Dedenia, Edvvin, Buchan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viennaus/)*

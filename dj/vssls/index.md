@@ -1,6 +1,6 @@
 # VSSLS
 
-VSSLS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Skull Bar, Athens on Sun, 30 Aug 2026.
+VSSLS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Skull Bar, Athens on Sun, 30 Aug 2026.
 
 VSSLS is a techno and hardcore artist tracked on soundcheck, with 50 sets logged across Athens. Often billed alongside SALIN, Até. and Deadly 8. Next up: Skull Bar, Athens on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ VSSLS is a techno and hardcore artist tracked on soundcheck, with 50 sets logged
 
 SALIN, Até., Deadly 8
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*

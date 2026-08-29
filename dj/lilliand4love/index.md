@@ -1,6 +1,6 @@
 # LILLI & 4LOVE
 
-LILLI & 4LOVE is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+LILLI & 4LOVE is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 LILLI & 4LOVE are an electronic duo tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, London and Munich. Often billed alongside Diffrent, Bella Claxton and Deborah Aime La Bagarre. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ LILLI & 4LOVE are an electronic duo tracked on soundcheck, with 4 sets logged ac
 
 Diffrent, Bella Claxton, Deborah Aime La Bagarre
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilliand4love/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilliand4love/)*

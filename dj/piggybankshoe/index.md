@@ -1,6 +1,6 @@
 # Piggybankshoe
 
-Piggybankshoe is a New Wave and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Multi Story, London on Sun, 30 Aug 2026.
+Piggybankshoe is a New Wave and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Multi Story, London on Sun, 30 Aug 2026.
 
 Piggybankshoe is a new wave and techno artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Ella Blou, Boosterhooch and Club Winston. Next up: Multi Story, London on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ Piggybankshoe is a new wave and techno artist tracked on soundcheck, with 6 sets
 
 Ella Blou, Boosterhooch, Club Winston
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piggybankshoe/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/piggybankshoe/)*

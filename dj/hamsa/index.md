@@ -1,6 +1,6 @@
 # Hamsa
 
-Hamsa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+Hamsa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
 
 Hamsa is a techno and house artist tracked on soundcheck, with 16 sets logged across Barcelona and Berlin. Often billed alongside BioN, Francesco Farfa and Francesco Passantino. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
 
@@ -14,6 +14,7 @@ Hamsa is a techno and house artist tracked on soundcheck, with 16 sets logged ac
 
 ## Recently played
 
+- TBA -  Somewhere in East Berlin, Berlin — Fri, 28 Aug 2026
 - Club der Visionaere, Berlin — Wed, 19 Aug 2026
 - TBA, Berlin — Sat, 25 Jul 2026
 - Club der Visionaere, Berlin — Wed, 24 Jun 2026
@@ -21,10 +22,9 @@ Hamsa is a techno and house artist tracked on soundcheck, with 16 sets logged ac
 - Block1, Berlin — Sun, 17 May 2026
 - Giri, Berlin — Sat, 17 Jan 2026
 - TBA - Berlin, Berlin — Fri, 12 Sept 2025
-- Club der Visionaere, Berlin — Tue, 26 Aug 2025
 
 ## Shares bills with
 
 BioN, Francesco Farfa, Francesco Passantino
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamsa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamsa/)*

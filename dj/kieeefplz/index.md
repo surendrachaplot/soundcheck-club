@@ -1,6 +1,6 @@
 # kieeef plz
 
-kieeef plz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jupiter Disco, New York City on Thu, 17 Sept 2026.
+kieeef plz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jupiter Disco, New York City on Thu, 17 Sept 2026.
 
 kieeef plz is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside A lana, Brutal Twink and Kiss Kiss. Next up: Jupiter Disco, Newyorkcity on Thu 17 Sept.
 
@@ -21,4 +21,4 @@ kieeef plz is a house and techno artist based in United States of America, track
 
 A lana, Brutal Twink, Kiss Kiss
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kieeefplz/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kieeefplz/)*

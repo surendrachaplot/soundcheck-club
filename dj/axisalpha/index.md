@@ -1,6 +1,6 @@
 # Axis Alpha
 
-Axis Alpha is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bukanyr Boat, Prague on Sat, 29 Aug 2026.
+Axis Alpha is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bukanyr Boat, Prague on Sat, 29 Aug 2026.
 
 Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 72 sets logged across Berlin, Milan, Prague and Tokyo. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Bukanyr Boat, Prague on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 72 sets
 
 Eva Falt, Nior, DJ Slater
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axisalpha/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axisalpha/)*

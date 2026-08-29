@@ -1,6 +1,6 @@
 # Not Yet (2)
 
-Not Yet (2) is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club Up, Amsterdam on Sat, 12 Sept 2026.
+Not Yet (2) is a Baile Funk and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club Up, Amsterdam on Sat, 12 Sept 2026.
 
 Not Yet (2) is a baile funk and bass artist tracked on soundcheck, with 20 sets logged across Amsterdam and Brussels. Often billed alongside Pedro da Mata, AAlva and Lifter.. Next up: Club Up, Amsterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Not Yet (2) is a baile funk and bass artist tracked on soundcheck, with 20 sets 
 
 Pedro da Mata, AAlva, Lifter.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notyet-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notyet-2/)*

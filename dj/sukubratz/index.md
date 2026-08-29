@@ -1,6 +1,6 @@
 # Sukubratz
 
-Sukubratz is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
+Sukubratz is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
 
 Sukubratz is a techno and club artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Slimfit, Miss Jay (RO) and DIORA. Next up: Virage, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sukubratz is a techno and club artist tracked on soundcheck, with 66 sets logged
 
 Slimfit, Miss Jay (RO), DIORA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*

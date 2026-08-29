@@ -1,6 +1,6 @@
 # Kaeru
 
-Kaeru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
+Kaeru is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
 
 Kaeru is a house and deep house artist based in Spain, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona and Madrid. Often billed alongside Juarez, Gee Beat and Abas. Next up: TBA, Barcelona on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kaeru is a house and deep house artist based in Spain, tracked on soundcheck, wi
 
 Juarez, Gee Beat, Abas
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeru/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaeru/)*

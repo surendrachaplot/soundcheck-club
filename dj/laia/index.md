@@ -1,6 +1,6 @@
 # Laia
 
-Laia is a Techno and Electro artist with 13 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
+Laia is a Techno and Electro artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
 
 Laia is a techno and electro artist tracked on soundcheck, with 120 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: RADION, Amsterdam on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Laia is a techno and electro artist tracked on soundcheck, with 120 sets logged 
 
 Roll Dann, Shadow Hrym (ES), Alexandre Laeddis
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

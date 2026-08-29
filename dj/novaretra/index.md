@@ -1,6 +1,6 @@
 # Nova Retra
 
-Nova Retra is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Lisbon on Sat, 26 Sept 2026.
+Nova Retra is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Lisbon on Sat, 26 Sept 2026.
 
 Nova Retra is a downtempo and house artist based in Egypt, tracked on soundcheck, with 14 sets logged across Berlin, Lisbon, Naples and Stockholm. Often billed alongside Nibius, Oscar Faivre and Pitcho. Next up: TBA, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nova Retra is a downtempo and house artist based in Egypt, tracked on soundcheck
 
 Nibius, Oscar Faivre, Pitcho
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novaretra/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novaretra/)*

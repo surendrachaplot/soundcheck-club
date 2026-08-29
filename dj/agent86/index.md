@@ -1,6 +1,6 @@
 # Agent 86
 
-Agent 86 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OneSixOne, Melbourne on Sat, 29 Aug 2026.
+Agent 86 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at OneSixOne, Melbourne on Sat, 29 Aug 2026.
 
 Agent 86 is a house and deep house artist tracked on soundcheck, with 100 sets logged across Madrid and Melbourne. Often billed alongside Cara Murphy, Jay Ramon and BoyBlewe. Next up: OneSixOne, Melbourne on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Agent 86 is a house and deep house artist tracked on soundcheck, with 100 sets l
 
 Cara Murphy, Jay Ramon, BoyBlewe
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agent86/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agent86/)*

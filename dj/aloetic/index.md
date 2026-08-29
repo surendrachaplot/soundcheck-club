@@ -1,6 +1,6 @@
 # Aloetic
 
-Aloetic is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat, 29 Aug 2026.
+Aloetic is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat, 29 Aug 2026.
 
 Aloetic is a techno and deep house artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside DALJAE, YOXIKI and ceza. Next up: TBA - PinkNoiz - somewhere in Hatagaya, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Aloetic is a techno and deep house artist based in Japan, tracked on soundcheck,
 
 DALJAE, YOXIKI, ceza
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aloetic/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aloetic/)*

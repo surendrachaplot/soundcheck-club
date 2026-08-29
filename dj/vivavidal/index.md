@@ -1,6 +1,6 @@
 # Viva Vidal
 
-Viva Vidal is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Ground at Club Space, Miami on Sun, 6 Sept 2026.
+Viva Vidal is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Ground at Club Space, Miami on Sun, 6 Sept 2026.
 
 Viva Vidal is an electronica and house artist tracked on soundcheck, with 21 sets logged across Miami. Often billed alongside Roll-e, Marie Qrie and Milo Ziro. Next up: The Ground at Club Space, Miami on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Viva Vidal is an electronica and house artist tracked on soundcheck, with 21 set
 
 Roll-e, Marie Qrie, Milo Ziro
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivavidal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivavidal/)*

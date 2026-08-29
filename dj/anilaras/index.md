@@ -1,6 +1,6 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cova Santa, Ibiza on Tue, 1 Sept 2026.
+Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cova Santa, Ibiza on Tue, 1 Sept 2026.
 
 Anil Aras is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: Cova Santa, Ibiza on Tue 1 Sept.
 
@@ -32,4 +32,4 @@ Anil Aras is a house and tech house artist tracked on soundcheck, with 80 sets l
 
 Dennis Quin, M-High, Prunk
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anilaras/)*

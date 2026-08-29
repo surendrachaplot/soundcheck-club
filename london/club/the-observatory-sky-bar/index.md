@@ -1,6 +1,6 @@
 # The Observatory Sky Bar
 
-The Observatory Sky Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Patchouli Deep: Rooftop Sessions" on Fri, 4 Sept 2026.
+The Observatory Sky Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Patchouli Deep: Rooftop Sessions" on Fri, 4 Sept 2026.
 
 The Observatory Sky Bar is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AALEX, By Dusk, KENDIR and Khoshekh. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Observatory Sky Bar is a music venue in London listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Patchouli Deep: Rooftop Sessions | AALEX, By Dusk, KENDIR, Khoshekh |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-observatory-sky-bar/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-observatory-sky-bar/)*

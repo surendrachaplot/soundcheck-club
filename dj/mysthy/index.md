@@ -1,6 +1,6 @@
 # Mysthy
 
-Mysthy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Rooftop 105, Geneva on Sat, 29 Aug 2026.
+Mysthy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Rooftop 105, Geneva on Sat, 29 Aug 2026.
 
 Mysthy is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin and Geneva. Often billed alongside ALIASLOH, Herone and Reita D Russo. Next up: TBA - Rooftop 105, Geneva on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mysthy is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 ALIASLOH, Herone, Reita D Russo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysthy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mysthy/)*

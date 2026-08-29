@@ -1,6 +1,6 @@
 # ALEJO (US)
 
-ALEJO (US) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Ground at Club Space, Miami on Sat, 5 Sept 2026.
+ALEJO (US) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Ground at Club Space, Miami on Sat, 5 Sept 2026.
 
 ALEJO (US) is a techno and electro artist tracked on soundcheck, with 31 sets logged across Miami. Often billed alongside Robyn Sin Love, Ultrathem and Pressure Point (US). Next up: The Ground at Club Space, Miami on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ ALEJO (US) is a techno and electro artist tracked on soundcheck, with 31 sets lo
 
 Robyn Sin Love, Ultrathem, Pressure Point (US)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejo-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alejo-2/)*

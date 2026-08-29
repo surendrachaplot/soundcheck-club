@@ -1,6 +1,6 @@
 # Killamanjaro
 
-Killamanjaro is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Bag Factory, Manchester on Sat, 12 Sept 2026.
+Killamanjaro is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Bag Factory, Manchester on Sat, 12 Sept 2026.
 
 Killamanjaro is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside DAIZ, Breakfake and Chimpo. Next up: The Bag Factory, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Killamanjaro is a jungle and drum & bass artist based in United Kingdom, tracked
 
 DAIZ, Breakfake, Chimpo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killamanjaro/)*

@@ -1,16 +1,13 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Cobalt presents: Bank Holiday Friday with Bill Brewster & PBR Streetgang" on Fri, 28 Aug 2026.
+Cobalt Studios is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Cobalt 12 Hour Day Into Night Locals Back Yard Party" on Sun, 30 Aug 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Bill Brewster, PBR Streetgang, PIP. and Weston and 1 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 2 upcoming nights, with line-ups including PIP., Weston and Westy™️. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Cobalt presents: Bank Holiday Friday with Bill Brewster & PBR Streetgang | Bill Brewster, PBR Streetgang |
-| Fri, 28 Aug 2026 | Backyard Party: Bill Brewster + Diz & Vinny (Public House HiFi) | Bill Brewster |
-| Fri, 28 Aug 2026 | PBR Streetgang All Night Long | PBR Streetgang |
 | Sun, 30 Aug 2026 | Cobalt 12 Hour Day Into Night Locals Back Yard Party | PIP., Weston, Westy™️ |
 | Fri, 20 Nov 2026 | Juiced 2nd Birthday |  |
 
@@ -18,4 +15,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 5 upcoming ni
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

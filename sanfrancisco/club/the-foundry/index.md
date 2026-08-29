@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LYMPH / 001 — Leafar Legov (live ambient), Viewfinder x to.ne (live), zz (live)" on Wed, 16 Sept 2026.
+The Foundry is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "LYMPH / 001 — Leafar Legov (live ambient), Viewfinder x to.ne (live), zz (live)" on Wed, 16 Sept 2026.
 
 The Foundry is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Jojo Lorenzo, Leafar Legov, Tinzo and Viewfinder and 1 more. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -17,4 +17,4 @@ The Foundry is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming ni
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

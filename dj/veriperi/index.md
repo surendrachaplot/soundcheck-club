@@ -1,6 +1,6 @@
 # Veri Peri
 
-Veri Peri is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Whistler, Chicago on Thu, 17 Sept 2026.
+Veri Peri is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Whistler, Chicago on Thu, 17 Sept 2026.
 
 Veri Peri is a techno and club artist tracked on soundcheck, with 31 sets logged across Chicago. Often billed alongside Flores Negras, JULLS and Jon McCray. Next up: Whistler, Chicago on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Veri Peri is a techno and club artist tracked on soundcheck, with 31 sets logged
 
 Flores Negras, JULLS, Jon McCray
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*

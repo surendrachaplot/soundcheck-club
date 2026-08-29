@@ -1,6 +1,6 @@
 # Jayemkayem
 
-Jayemkayem is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Night Tales, London on Sat, 29 Aug 2026.
+Jayemkayem is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Night Tales, London on Sat, 29 Aug 2026.
 
 Jayemkayem is an uk funky and garage artist based in Canada, tracked on soundcheck, with 21 sets logged across Birmingham, London, Montreal and Toronto. Often billed alongside Freeza Chin, Ana Luisa and Choirboi. Next up: Night Tales, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Jayemkayem is an uk funky and garage artist based in Canada, tracked on soundche
 
 Freeza Chin, Ana Luisa, Choirboi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayemkayem/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jayemkayem/)*

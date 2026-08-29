@@ -1,6 +1,6 @@
 # Low Jack
 
-Low Jack is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Sat, 3 Oct 2026.
+Low Jack is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jasna 1, Warsaw on Sat, 3 Oct 2026.
 
 Low Jack is a club and bass artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Bamao Yendé, Brodinski and DJ Plead. Next up: Jasna 1, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Low Jack is a club and bass artist tracked on soundcheck, with 52 sets logged ac
 
 Bamao Yendé, Brodinski, DJ Plead
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowjack/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowjack/)*

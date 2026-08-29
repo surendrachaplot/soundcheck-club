@@ -1,14 +1,13 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 29 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Nü Androids presents: Archie Hamilton" on Fri, 28 Aug 2026.
+Tigres de la Noche is a music venue in Washington DC with 28 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Nü Androids presents SünDown: SOHMI" on Sat, 29 Aug 2026.
 
-Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 29 upcoming nights, with line-ups including AEREA, Bushbaby, Cezaire and Chinonegro and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 28 upcoming nights, with line-ups including AEREA, Bushbaby, Cezaire and Chinonegro and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Nü Androids presents: Archie Hamilton |  |
 | Sat, 29 Aug 2026 | Nü Androids presents SünDown: SOHMI | Motives, SOHMI |
 | Sat, 29 Aug 2026 | Nü Androids presents: Close Friends Only |  |
 | Fri, 4 Sept 2026 | Nü Androids presents: Chaos In The CBD |  |
@@ -18,9 +17,10 @@ Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 29 upc
 | Sat, 12 Sept 2026 | Nü Androids presents: Ben UFO |  |
 | Sat, 12 Sept 2026 | Nü Androids presents SünDown: Bushbaby | Bushbaby, Rawle Night Long |
 | Fri, 18 Sept 2026 | Cezaire: Space Between Volume 3 | Cezaire |
+| Sat, 19 Sept 2026 | Nü Androids presents SünDown: Mishell |  |
 
 ## Address
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

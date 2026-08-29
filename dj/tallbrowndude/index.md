@@ -1,6 +1,6 @@
 # tallbrowndude
 
-tallbrowndude is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
+tallbrowndude is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
 
 tallbrowndude is a dubstep and bass artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Baru, Brent Tactic and Hamdi (UK). Next up: Mood Ring, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ tallbrowndude is a dubstep and bass artist tracked on soundcheck, with 10 sets l
 
 Baru, Brent Tactic, Hamdi (UK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tallbrowndude/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tallbrowndude/)*

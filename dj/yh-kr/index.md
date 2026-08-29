@@ -1,6 +1,6 @@
 # YH (KR)
 
-YH (KR) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Flac, Seoul on Sat, 29 Aug 2026.
+YH (KR) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Flac, Seoul on Sat, 29 Aug 2026.
 
 YH (KR) is a house and tech house artist tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside LORI (KR), Davico and Apotekk (2). Next up: Flac, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ YH (KR) is a house and tech house artist tracked on soundcheck, with 11 sets log
 
 LORI (KR), Davico, Apotekk (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yh-kr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yh-kr/)*

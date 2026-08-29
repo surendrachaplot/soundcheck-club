@@ -1,6 +1,6 @@
 # Cosmo X
 
-Cosmo X is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Korsakov, Antwerp on Sat, 29 Aug 2026.
+Cosmo X is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Korsakov, Antwerp on Sat, 29 Aug 2026.
 
 Cosmo X is a house and techno artist based in Italy, tracked on soundcheck, with 14 sets logged across Antwerp and Barcelona. Often billed alongside Elwei, Mila Morr and Popsky. Next up: Korsakov, Antwerp on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Cosmo X is a house and techno artist based in Italy, tracked on soundcheck, with
 
 Elwei, Mila Morr, Popsky
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox-es/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmox-es/)*

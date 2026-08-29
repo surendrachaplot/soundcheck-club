@@ -1,6 +1,6 @@
 # Anna Hoeber
 
-Anna Hoeber is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Anna Hoeber is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 Anna Hoeber is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Holywanderer, nillonollin and Anton Quasi. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Anna Hoeber is a techno and drum & bass artist based in Germany, tracked on soun
 
 Holywanderer, nillonollin, Anton Quasi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annahoeber/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annahoeber/)*

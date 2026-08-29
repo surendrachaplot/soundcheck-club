@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "bradeazy - SF" on Sat, 29 Aug 2026.
+The Midway is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "bradeazy - SF" on Sat, 29 Aug 2026.
 
 The Midway is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including bradeazy, chungtech, DJ Holographic and Estiva and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -21,4 +21,4 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nig
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

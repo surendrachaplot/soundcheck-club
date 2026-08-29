@@ -1,6 +1,6 @@
 # Akác
 
-Akác is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
+Akác is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
 
 Akác is a techno and trance artist based in Hungary, tracked on soundcheck, with 78 sets logged across Belgrade, Budapest and Paris. Often billed alongside Technokool, Kamafaka and szoliver. Next up: Kassa Boat, Budapest on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Akác is a techno and trance artist based in Hungary, tracked on soundcheck, wit
 
 Technokool, Kamafaka, szoliver
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akac/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akac/)*

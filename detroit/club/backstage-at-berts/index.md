@@ -1,6 +1,6 @@
 # Backstage at Berts
 
-Backstage at Berts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Urban Pulse presents: Casual Treatment " on Sat, 29 Aug 2026.
+Backstage at Berts is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Urban Pulse presents: Casual Treatment " on Sat, 29 Aug 2026.
 
 Backstage at Berts is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Åre:gone, Casual Treatment, Jėck and Redax. Browse upcoming dates, start times and who's playing. 2740 Rivard Detroit, Michigan.
 
@@ -14,4 +14,4 @@ Backstage at Berts is a music venue in Detroit listed on soundcheck. 1 upcoming 
 
 2740 Rivard Detroit, Michigan, Detroit
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/backstage-at-berts/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/backstage-at-berts/)*

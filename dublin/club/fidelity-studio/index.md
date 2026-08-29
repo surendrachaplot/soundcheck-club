@@ -1,14 +1,13 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Flight Facilities (Extended Set)" on Fri, 28 Aug 2026.
+Fidelity Studio is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DJ Deece + Louche" on Sat, 29 Aug 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including Cian Ó Cíobháin, Cinthie, DJ Deece and Flight Facilities and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including Cian Ó Cíobháin, Cinthie, DJ Deece and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Flight Facilities (Extended Set) | Flight Facilities |
 | Sat, 29 Aug 2026 | DJ Deece + Louche | DJ Deece |
 | Fri, 11 Sept 2026 | Cian Ó Cíobháin’s Disco Dána | Cian Ó Cíobháin |
 | Sat, 12 Sept 2026 | SOLD OUT Joe Goddard | Joe Goddard |
@@ -23,4 +22,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 10 upcoming nig
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

@@ -1,6 +1,6 @@
 # Chaosmos
 
-Chaosmos is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Desterro, Lisbon on Sat, 29 Aug 2026.
+Chaosmos is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Desterro, Lisbon on Sat, 29 Aug 2026.
 
 Chaosmos is an acid and electro artist tracked on soundcheck, with 7 sets logged across Berlin, Istanbul, Lisbon and Porto. Often billed alongside DJ Regret, Ay Lak and Francis Canadas. Next up: Desterro, Lisbon on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Chaosmos is an acid and electro artist tracked on soundcheck, with 7 sets logged
 
 DJ Regret, Ay Lak, Francis Canadas
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosmos/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosmos/)*

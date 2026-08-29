@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "ECHO - Bulma Brief - DRUMS AND CHANTS B2B DJ OCTOPUS - Enrico Vivaldi" on Fri, 11 Sept 2026.
+DURO is a music venue in Milan with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ECHO - Bulma Brief - DRUMS AND CHANTS B2B DJ OCTOPUS - Enrico Vivaldi" on Fri, 11 Sept 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 6 upcoming nights, with line-ups including Aline Brooklyn, Abstract (IT), Bulma Brief and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -19,4 +19,4 @@ DURO is a music venue in Milan listed on soundcheck. 6 upcoming nights, with lin
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

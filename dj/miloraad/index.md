@@ -1,6 +1,6 @@
 # Milo Raad
 
-Milo Raad is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at KPTM, Belgrade on Sat, 29 Aug 2026.
+Milo Raad is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at KPTM, Belgrade on Sat, 29 Aug 2026.
 
 Milo Raad is a techno and industrial artist tracked on soundcheck, with 37 sets logged across Amsterdam, Athens, Belgrade and Berlin and 13 more. Often billed alongside Filip Xavi, Dexon and KATALINA. Next up: KPTM, Belgrade on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Milo Raad is a techno and industrial artist tracked on soundcheck, with 37 sets 
 
 Filip Xavi, Dexon, KATALINA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*

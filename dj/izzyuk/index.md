@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+IZZY (UK) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 IZZY (UK) is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, London and Thehague. Often billed alongside Lola So, Armând and ASHOJU. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ IZZY (UK) is a house and minimal artist based in United Kingdom, tracked on soun
 
 Lola So, Armând, ASHOJU
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

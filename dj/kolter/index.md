@@ -1,6 +1,6 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Kolter is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Kolter is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ Kolter is a house and tech house artist tracked on soundcheck, with 153 sets log
 
 East End Dubs, Jamback, M-High
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

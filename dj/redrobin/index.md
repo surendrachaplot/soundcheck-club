@@ -1,6 +1,6 @@
 # Red Robin
 
-Red Robin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
+Red Robin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
 
 Red Robin is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Vienna. Often billed alongside AantiGen, Lewin Paul and Porter. Next up: Club Frau Holle, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Red Robin is a techno and house artist tracked on soundcheck, with 10 sets logge
 
 AantiGen, Lewin Paul, Porter
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redrobin/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redrobin/)*

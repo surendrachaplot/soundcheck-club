@@ -1,6 +1,6 @@
 # Kaw (1)
 
-Kaw (1) is a Electro and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at スナックroots, Tokyo on Sat, 12 Sept 2026.
+Kaw (1) is a Electro and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at スナックroots, Tokyo on Sat, 12 Sept 2026.
 
 Kaw (1) is an electro and experimental artist based in Japan, tracked on soundcheck, with 88 sets logged across Tokyo. Often billed alongside Nao.Ichikawa, MOTOKA and COSMOGANG. Next up: スナックroots, Tokyo on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Kaw (1) is an electro and experimental artist based in Japan, tracked on soundch
 
 Nao.Ichikawa, MOTOKA, COSMOGANG
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaw-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaw-1/)*

@@ -1,6 +1,6 @@
 # No Silver Bullet
 
-No Silver Bullet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
+No Silver Bullet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
 
 No Silver Bullet is a house and deep house artist tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside MARIE.MOON, DAAS (1) and Santi Calvo. Next up: Bohnengold, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ No Silver Bullet is a house and deep house artist tracked on soundcheck, with 38
 
 MARIE.MOON, DAAS (1), Santi Calvo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosilverbullet/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosilverbullet/)*

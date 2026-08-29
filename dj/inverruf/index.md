@@ -1,6 +1,6 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
+In Verruf is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
 
 In Verruf is a techno and trance artist tracked on soundcheck, with 135 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
 
@@ -30,4 +30,4 @@ In Verruf is a techno and trance artist tracked on soundcheck, with 135 sets log
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

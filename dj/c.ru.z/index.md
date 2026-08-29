@@ -1,6 +1,6 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 4 Sept 2026.
+C.ru.z is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Platforma Wolff, Bucharest on Fri, 4 Sept 2026.
 
 C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 5 more. Often billed alongside DJ Tree, Niff and Anthea. Next up: Platforma Wolff, Bucharest on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ C.ru.z is an electro and house artist based in Argentina, tracked on soundcheck,
 
 DJ Tree, Niff, Anthea
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.ru.z/)*

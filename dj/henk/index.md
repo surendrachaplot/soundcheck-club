@@ -1,6 +1,6 @@
 # Hen K
 
-Hen K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
+Hen K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
 
 Hen K is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Cologne, London, Manchester and Saopaulo. Often billed alongside Javan, Tomi From Brockley and kayja vu. Next up: Soup, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Hen K is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Javan, Tomi From Brockley, kayja vu
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henk/)*

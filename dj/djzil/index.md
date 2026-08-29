@@ -1,6 +1,6 @@
 # DJ ZiL
 
-DJ ZiL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Decabar Super, Tokyo on Sat, 29 Aug 2026.
+DJ ZiL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Decabar Super, Tokyo on Sat, 29 Aug 2026.
 
 DJ ZiL is a house and techno artist tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside DQ Sakura, Luna* and Mutron. Next up: Decabar Super, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ ZiL is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 DQ Sakura, Luna*, Mutron
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzil/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzil/)*

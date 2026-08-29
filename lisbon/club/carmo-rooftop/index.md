@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "An Afternoon with Velvet Valour and Kee_ko" on Sat, 29 Aug 2026.
+Carmo Rooftop is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "An Afternoon with Velvet Valour and Kee_ko" on Sat, 29 Aug 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including boscar, Eric Furtado, Kee_ko and MURI and 2 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -17,4 +17,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming nights
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

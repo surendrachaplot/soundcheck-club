@@ -1,6 +1,6 @@
 # BOGU (ES)
 
-BOGU (ES) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
+BOGU (ES) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
 
 BOGU (ES) is a deep house and house artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside DJ Cobo, REGOR_ and CLANDESTINE (2). Next up: TBA, Barcelona on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ BOGU (ES) is a deep house and house artist tracked on soundcheck, with 4 sets lo
 
 DJ Cobo, REGOR_, CLANDESTINE (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bogues/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bogues/)*

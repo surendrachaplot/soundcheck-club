@@ -1,6 +1,6 @@
 # Ring41
 
-Ring41 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
+Ring41 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
 
 Ring41 is a house and techno artist tracked on soundcheck, with 24 sets logged across Hamburg. Often billed alongside Ivaldo Gino, L.A.tifa and Suzi Mystique. Next up: YOTO, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ring41 is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 Ivaldo Gino, L.A.tifa, Suzi Mystique
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ring41/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ring41/)*

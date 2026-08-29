@@ -1,6 +1,6 @@
 # TBA - Malta
 
-TBA - Malta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Hugel" on Sat, 29 Aug 2026.
+TBA - Malta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hugel" on Sat, 29 Aug 2026.
 
 TBA - Malta is a music venue in Malta listed on soundcheck. 1 upcoming night, with line-ups including Hugel. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Malta is a music venue in Malta listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | Hugel | Hugel |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tba-malta/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tba-malta/)*

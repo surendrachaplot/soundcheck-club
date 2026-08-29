@@ -1,14 +1,17 @@
-# Dr Banana Club
+# Dr. Banana Club
 
-Dr Banana Club is a music venue in Sao Paulo with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "JAZZ&HOUSE EXPERIMENTAL NO0 DR. BANANA CLUB" on Fri, 28 Aug 2026.
+Dr. Banana Club is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Prescrição #0024 - Baile Sessions X Banana Split" on Sat, 29 Aug 2026.
 
-Dr Banana Club is a music venue in Saopaulo listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
+Dr. Banana Club is a music venue in Saopaulo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rua Vergueiro, 6712 - Vila Brasilio Machado, São Paulo - SP, 04272-200, Brazil.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | JAZZ&HOUSE EXPERIMENTAL NO0 DR. BANANA CLUB |  |
-| Sat, 29 Aug 2026 | BAILE SESSION |  |
+| Sat, 29 Aug 2026 | Prescrição #0024 - Baile Sessions X Banana Split |  |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/dr-banana-club/)*
+## Address
+
+Rua Vergueiro, 6712 - Vila Brasilio Machado, São Paulo - SP, 04272-200, Brazil, Sao Paulo
+
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/dr-banana-club/)*

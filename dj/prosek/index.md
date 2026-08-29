@@ -1,6 +1,6 @@
 # Prosek
 
-Prosek is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Prosek is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Prosek is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Liverpool and Manchester. Often billed alongside Binx, Charlie Power and DAIZ. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Prosek is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Binx, Charlie Power, DAIZ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosek/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prosek/)*

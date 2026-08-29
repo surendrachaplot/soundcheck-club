@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Hazardous Nemesis PRESENTS: HARDCORE HEAVEN FT. Feardotcom, andy pls, Sophiaaaahjkl;8901, etc" on Sat, 29 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hazardous Nemesis PRESENTS: HARDCORE HEAVEN FT. Feardotcom, andy pls, Sophiaaaahjkl;8901, etc" on Sat, 29 Aug 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including Akumen, Amino, ANDYLAND and Andy Oro and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

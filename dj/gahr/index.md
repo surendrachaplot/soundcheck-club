@@ -1,6 +1,6 @@
 # Gahr
 
-Gahr is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Moonglow Oakland, San Francisco/Oakland on Sat, 29 Aug 2026.
+Gahr is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Moonglow Oakland, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 Gahr is a deep house and minimal techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Lil Sur, Space Ghost and nina sol. Next up: Moonglow Oakland, Sanfrancisco on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Gahr is a deep house and minimal techno artist based in United States of America
 
 Lil Sur, Space Ghost, nina sol
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gahr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gahr/)*

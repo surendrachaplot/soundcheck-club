@@ -1,6 +1,6 @@
 # Freeka
 
-Freeka is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bridge 48, Barcelona on Thu, 3 Sept 2026.
+Freeka is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bridge 48, Barcelona on Thu, 3 Sept 2026.
 
 Freeka is a techno and acid artist based in Italy, tracked on soundcheck, with 39 sets logged across Barcelona. Often billed alongside ROSS z, DD.MATTS and IZAN CRAMER. Next up: Bridge 48, Barcelona on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Freeka is a techno and acid artist based in Italy, tracked on soundcheck, with 3
 
 ROSS z, DD.MATTS, IZAN CRAMER
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freeka/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freeka/)*

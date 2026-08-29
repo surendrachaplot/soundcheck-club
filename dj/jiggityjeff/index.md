@@ -1,6 +1,6 @@
 # jiggity jeff
 
-jiggity jeff is a Acid and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - East Van, Vancouver on Sat, 29 Aug 2026.
+jiggity jeff is a Acid and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - East Van, Vancouver on Sat, 29 Aug 2026.
 
 jiggity jeff is an acid and trance artist based in Canada, tracked on soundcheck, with 6 sets logged across Seattle and Vancouver. Often billed alongside Fisher Bryce, educación física and DJ dood. Next up: TBA - East Van, Vancouver on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ jiggity jeff is an acid and trance artist based in Canada, tracked on soundcheck
 
 Fisher Bryce, educación física, DJ dood
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggityjeff/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jiggityjeff/)*

@@ -1,6 +1,6 @@
 # Mira Ló
 
-Mira Ló is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Virage, Paris on Fri, 18 Sept 2026.
+Mira Ló is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Virage, Paris on Fri, 18 Sept 2026.
 
 Mira Ló is a house and electro artist based in France, tracked on soundcheck, with 48 sets logged across Berlin, Chicago, London and Marseille and 1 more. Often billed alongside Maison Blanche, Tour-Maubourg and Kx9000. Next up: Virage, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mira Ló is a house and electro artist based in France, tracked on soundcheck, w
 
 Maison Blanche, Tour-Maubourg, Kx9000
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miralo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miralo/)*

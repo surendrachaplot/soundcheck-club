@@ -1,6 +1,6 @@
 # POSER
 
-POSER is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
+POSER is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
 
 POSER is a house and jazz artist tracked on soundcheck, with 13 sets logged across Dublin, London and Seoul. Often billed alongside Becky (2), DJ-CK and Coinín Beag. Next up: The Glove That Fits, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ POSER is a house and jazz artist tracked on soundcheck, with 13 sets logged acro
 
 Becky (2), DJ-CK, Coinín Beag
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poser/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poser/)*

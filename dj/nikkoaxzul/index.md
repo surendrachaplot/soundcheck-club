@@ -1,6 +1,6 @@
 # Nikko Axzul
 
-Nikko Axzul is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at dubble, Amsterdam on Sat, 26 Sept 2026.
+Nikko Axzul is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at dubble, Amsterdam on Sat, 26 Sept 2026.
 
 Nikko Axzul is a house and jazz artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Mexicocity and Newyorkcity. Often billed alongside baesmith, Fouk and Alcubierre. Next up: dubble, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nikko Axzul is a house and jazz artist based in United States of America, tracke
 
 baesmith, Fouk, Alcubierre
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkoaxzul/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkoaxzul/)*

@@ -1,6 +1,6 @@
 # CARMEN (RO)
 
-CARMEN (RO) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nether Club, Bucharest on Sat, 12 Sept 2026.
+CARMEN (RO) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nether Club, Bucharest on Sat, 12 Sept 2026.
 
 CARMEN (RO) is a techno and acid artist tracked on soundcheck, with 17 sets logged across Bucharest. Often billed alongside ALISTARM, Michael Ius and Radox. Next up: Nether Club, Bucharest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ CARMEN (RO) is a techno and acid artist tracked on soundcheck, with 17 sets logg
 
 ALISTARM, Michael Ius, Radox
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/CARMEN-ro/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/CARMEN-ro/)*

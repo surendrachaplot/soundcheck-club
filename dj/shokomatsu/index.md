@@ -1,6 +1,6 @@
 # Sho Komatsu
 
-Sho Komatsu is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Spanners, London on Sat, 5 Sept 2026.
+Sho Komatsu is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Spanners, London on Sat, 5 Sept 2026.
 
 Sho Komatsu is a techno and downtempo artist based in Japan, tracked on soundcheck, with 16 sets logged across London and Tokyo. Often billed alongside Rentaro, Keisuke Wada and Ozwick. Next up: Spanners, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sho Komatsu is a techno and downtempo artist based in Japan, tracked on soundche
 
 Rentaro, Keisuke Wada, Ozwick
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shokomatsu/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shokomatsu/)*

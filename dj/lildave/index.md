@@ -1,6 +1,6 @@
 # Lil'Dave
 
-Lil'Dave is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sekta Selekta, Krakow on Sat, 29 Aug 2026.
+Lil'Dave is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sekta Selekta, Krakow on Sat, 29 Aug 2026.
 
 Lil'Dave is a house and italo disco artist based in Germany, tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Krakow and London and 1 more. Often billed alongside Nadezh No, Meke and Badalian. Next up: Sekta Selekta, Krakow on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lil'Dave is a house and italo disco artist based in Germany, tracked on soundche
 
 Nadezh No, Meke, Badalian
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lildave/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lildave/)*

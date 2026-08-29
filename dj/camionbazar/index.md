@@ -1,6 +1,6 @@
 # Camion Bazar
 
-Camion Bazar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Stade Fontainieu, Marseille on Sat, 29 Aug 2026.
+Camion Bazar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Stade Fontainieu, Marseille on Sat, 29 Aug 2026.
 
 Camion Bazar is a house and techno artist tracked on soundcheck, with 64 sets logged across Bangkok, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Stade Fontainieu, Marseille on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Camion Bazar is a house and techno artist tracked on soundcheck, with 64 sets lo
 
 Romain Play, Benedetta, Mathilde Rocaboy
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*

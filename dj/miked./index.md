@@ -1,6 +1,6 @@
 # Mike D.
 
-Mike D. is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Paloma, Berlin on Fri, 4 Sept 2026.
+Mike D. is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Paloma, Berlin on Fri, 4 Sept 2026.
 
 Mike D. is a house and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Paul Hupfer, Anahita Sadighi and Bruno Schmidt. Next up: Paloma, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Mike D. is a house and deep house artist based in Germany, tracked on soundcheck
 
 Paul Hupfer, Anahita Sadighi, Bruno Schmidt
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miked./)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miked./)*

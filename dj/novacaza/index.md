@@ -1,6 +1,6 @@
 # Nova Caza
 
-Nova Caza is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Veronica Schip, Amsterdam on Sat, 5 Sept 2026.
+Nova Caza is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Veronica Schip, Amsterdam on Sat, 5 Sept 2026.
 
 Nova Caza is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Lbert, Libere and Chico. Next up: Veronica Schip, Amsterdam on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Nova Caza is a progressive house and deep house artist based in Netherlands, tra
 
 Lbert, Libere, Chico
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novacaza/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/novacaza/)*

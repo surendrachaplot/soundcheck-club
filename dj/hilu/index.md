@@ -1,6 +1,6 @@
 # Hilu
 
-Hilu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
+Hilu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
 
 Hilu is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Berlin, Brussels, Detroit and Hamburg and 3 more. Often billed alongside Roni Amitai, Casimir von Oettingen and Erhardt Schuster. Next up: H0L0, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Hilu is a house and techno artist based in United States of America, tracked on 
 
 Roni Amitai, Casimir von Oettingen, Erhardt Schuster
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hilu/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hilu/)*

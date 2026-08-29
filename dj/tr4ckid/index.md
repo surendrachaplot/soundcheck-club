@@ -1,6 +1,6 @@
 # TR4CK ID?
 
-TR4CK ID? is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
+TR4CK ID? is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Pearl, Vancouver on Sat, 12 Sept 2026.
 
 TR4CK ID? is a hardcore and techno artist based in Canada, tracked on soundcheck, with 25 sets logged across Vancouver. Often billed alongside EtOH, buny and VioletNoise. Next up: The Pearl, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ TR4CK ID? is a hardcore and techno artist based in Canada, tracked on soundcheck
 
 EtOH, buny, VioletNoise
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ckid/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tr4ckid/)*

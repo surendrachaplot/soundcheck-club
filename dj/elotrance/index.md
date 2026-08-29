@@ -1,6 +1,6 @@
 # Elotrance
 
-Elotrance is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Elotrance is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Elotrance is a techno and trance artist tracked on soundcheck, with 110 sets logged across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Justin Tinderdate, Cleopard2000 and Mika Heggemann. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -17,6 +17,7 @@ Elotrance is a techno and trance artist tracked on soundcheck, with 110 sets log
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 31 Jul 2026
 - Westhafen, Leipzig — Sat, 25 Jul 2026
 - Altenburg 1964, Prague — Fri, 5 Jun 2026
@@ -24,10 +25,9 @@ Elotrance is a techno and trance artist tracked on soundcheck, with 110 sets log
 - UNO MALTA, Malta — Thu, 21 May 2026
 - Karmen Camina, Strasbourg — Sun, 26 Apr 2026
 - Mia Mao, Paris — Fri, 17 Apr 2026
-- Edelfettwerk, Hamburg — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Justin Tinderdate, Cleopard2000, Mika Heggemann
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elotrance/)*

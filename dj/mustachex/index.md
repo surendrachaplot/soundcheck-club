@@ -1,6 +1,6 @@
 # Mustache X
 
-Mustache X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
+Mustache X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
 
 Mustache X is a techno and house artist tracked on soundcheck, with 63 sets logged across Bangkok, Mexicocity, Osaka and Seoul and 1 more. Often billed alongside Gem Wallow, Yo Nishijima and Moscoman. Next up: VENT, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mustache X is a techno and house artist tracked on soundcheck, with 63 sets logg
 
 Gem Wallow, Yo Nishijima, Moscoman
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mustachex/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mustachex/)*

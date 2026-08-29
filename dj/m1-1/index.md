@@ -1,6 +1,6 @@
 # m1 (1)
 
-m1 (1) is a R&B and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 31 Aug 2026.
+m1 (1) is a R&B and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sneaky Pete's, Edinburgh on Mon, 31 Aug 2026.
 
 m1 (1) is a r&b and pop artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Edinburgh and Glasgow. Often billed alongside monicat, Buckfast Barbie and Quarterpoundernocheese. Next up: Sneaky Pete's, Edinburgh on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ m1 (1) is a r&b and pop artist based in United Kingdom, tracked on soundcheck, w
 
 monicat, Buckfast Barbie, Quarterpoundernocheese
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m1-1/)*

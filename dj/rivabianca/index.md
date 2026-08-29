@@ -1,6 +1,6 @@
 # Riva + Bianca
 
-Riva + Bianca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
+Riva + Bianca is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
 
 Riva + Bianca are a house and tech house duo based in United States of America, tracked on soundcheck, with 64 sets logged across Miami, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Firestone, Ben Arsenal and Blanco Rabbit. Next up: Liberty Point, Philadelphia on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Riva + Bianca are a house and tech house duo based in United States of America, 
 
 Firestone, Ben Arsenal, Blanco Rabbit
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivabianca/)*

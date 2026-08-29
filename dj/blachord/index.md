@@ -1,6 +1,6 @@
 # Blachord
 
-Blachord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
+Blachord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
 
 Blachord is a techno and house artist based in Greece, tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Papa Hase, DJ Marviosi and beta_phase. Next up: Mom's Limousine Service, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Blachord is a techno and house artist based in Greece, tracked on soundcheck, wi
 
 Papa Hase, DJ Marviosi, beta_phase
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blachord/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blachord/)*

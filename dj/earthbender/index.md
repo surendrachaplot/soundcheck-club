@@ -1,6 +1,6 @@
 # Earthbender
 
-Earthbender is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
+Earthbender is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
 
 Earthbender is a club and bass artist tracked on soundcheck, with 19 sets logged across Bangkok and Seoul. Often billed alongside Dieman, MAZE (KR) and dayoung. Next up: Cakeshop, Seoul on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Earthbender is a club and bass artist tracked on soundcheck, with 19 sets logged
 
 Dieman, MAZE (KR), dayoung
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earthbender/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earthbender/)*

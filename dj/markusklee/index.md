@@ -1,6 +1,6 @@
 # Markus Klee
 
-Markus Klee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Insomnia, Berlin on Sat, 29 Aug 2026.
+Markus Klee is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Insomnia, Berlin on Sat, 29 Aug 2026.
 
 Markus Klee is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 8 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Insomnia, Berlin on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Markus Klee is a techno and house artist tracked on soundcheck, with 82 sets log
 
 Prismode, Solvane, Malouna
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*

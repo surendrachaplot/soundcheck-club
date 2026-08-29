@@ -1,6 +1,6 @@
 # Rolandson
 
-Rolandson is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Beate Uwe, Berlin on Sun, 13 Sept 2026.
+Rolandson is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Beate Uwe, Berlin on Sun, 13 Sept 2026.
 
 Rolandson is a downtempo and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Munich. Often billed alongside Luca Musto, Maria Theresia von Eberg and Aio. Next up: Beate Uwe, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Rolandson is a downtempo and techno artist based in Germany, tracked on soundche
 
 Luca Musto, Maria Theresia von Eberg, Aio
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolandson/)*

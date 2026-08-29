@@ -1,6 +1,6 @@
 # Material (1)
 
-Material (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
+Material (1) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
 
 Material (1) is a house and disco artist tracked on soundcheck, with 32 sets logged across Chicago, London and Paris. Often billed alongside Darryn Jones, Noshaluv and Duke Shin. Next up: TBA, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Material (1) is a house and disco artist tracked on soundcheck, with 32 sets log
 
 Darryn Jones, Noshaluv, Duke Shin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/material-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/material-1/)*

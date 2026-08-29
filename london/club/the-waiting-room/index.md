@@ -1,6 +1,6 @@
 # The Waiting Room
 
-The Waiting Room is a music venue in London with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Back in a Row" on Fri, 11 Sept 2026.
+The Waiting Room is a music venue in London with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Back in a Row" on Fri, 11 Sept 2026.
 
 The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Facets, Fasme, Graftak and METALLIC LOVER and 1 more. Browse upcoming dates, start times and who's playing. 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom.
 
@@ -17,4 +17,4 @@ The Waiting Room is a music venue in London listed on soundcheck. 4 upcoming nig
 
 175 Stoke Newington High Street; Stoke Newington; London N16 0LH; United Kingdom, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-waiting-room/)*

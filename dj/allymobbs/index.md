@@ -1,6 +1,6 @@
 # Ally Mobbs
 
-Ally Mobbs is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cafe la Siesta, Kyoto on Sat, 29 Aug 2026.
+Ally Mobbs is a Experimental and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cafe la Siesta, Kyoto on Sat, 29 Aug 2026.
 
 Ally Mobbs is an experimental and hip-hop artist based in Japan, tracked on soundcheck, with 6 sets logged across Kyoto. Often billed alongside DJ Master Kohta, BIG MATSUMURA and Demsky. Next up: Cafe la Siesta, Kyoto on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Ally Mobbs is an experimental and hip-hop artist based in Japan, tracked on soun
 
 DJ Master Kohta, BIG MATSUMURA, Demsky
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allymobbs/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allymobbs/)*

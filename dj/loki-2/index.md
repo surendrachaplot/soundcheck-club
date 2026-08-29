@@ -1,6 +1,6 @@
 # LOKI (2)
 
-LOKI (2) is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
+LOKI (2) is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
 
 LOKI (2) is an afro house and afro tech artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside DJ IC, Porsh DJ and Tribal Brothers. Next up: Onyx (E1), London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ LOKI (2) is an afro house and afro tech artist tracked on soundcheck, with 10 se
 
 DJ IC, Porsh DJ, Tribal Brothers
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loki-2/)*

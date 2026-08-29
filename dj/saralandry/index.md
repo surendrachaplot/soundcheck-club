@@ -1,6 +1,6 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Sara Landry is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Sara Landry is a techno and house artist tracked on soundcheck, with 193 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Nico Moreno, Trym and OGUZ. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Sara Landry is a techno and house artist tracked on soundcheck, with 193 sets lo
 
 Nico Moreno, Trym, OGUZ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saralandry/)*

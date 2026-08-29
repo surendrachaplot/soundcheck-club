@@ -1,6 +1,6 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Hannah Laing is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Hannah Laing is a techno and house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -20,17 +20,17 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 167 sets l
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - BCM, Mallorca — Tue, 25 Aug 2026
 - [UNVRS], Ibiza — Mon, 17 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
 - OST, Berlin — Sat, 15 Aug 2026
 - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Under the K Bridge, New York City — Fri, 31 Jul 2026
-- Amnesia Ibiza, Ibiza — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

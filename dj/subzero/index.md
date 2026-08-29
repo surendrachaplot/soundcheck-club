@@ -1,6 +1,6 @@
 # Sub Zero
 
-Sub Zero is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sable Miami, Miami on Sat, 29 Aug 2026.
+Sub Zero is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Sable Miami, Miami on Sat, 29 Aug 2026.
 
 Sub Zero is a drum & bass and bass artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Birmingham and Brighton and 10 more. Often billed alongside Harry Shotta, BassLayerz and Eksman. Next up: Sable Miami, Miami on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Sub Zero is a drum & bass and bass artist tracked on soundcheck, with 58 sets lo
 
 Harry Shotta, BassLayerz, Eksman
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subzero/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subzero/)*

@@ -1,6 +1,6 @@
 # DJ D.Dee
 
-DJ D.Dee is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at 33 Acres Brewing Company, Vancouver on Sat, 29 Aug 2026.
+DJ D.Dee is a Balearic and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at 33 Acres Brewing Company, Vancouver on Sat, 29 Aug 2026.
 
 DJ D.Dee is a balearic and house artist tracked on soundcheck, with 114 sets logged across Austin, Berlin, Bucharest and Melbourne and 11 more. Often billed alongside Dane, DJ Express and Patrick Holland. Next up: 33 Acres Brewing Company, Vancouver on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ DJ D.Dee is a balearic and house artist tracked on soundcheck, with 114 sets log
 
 Dane, DJ Express, Patrick Holland
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derekdee/)*

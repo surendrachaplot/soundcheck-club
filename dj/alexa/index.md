@@ -1,6 +1,6 @@
 # Alexa (KR)
 
-Alexa (KR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Alexa (KR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Alexa (KR) is a house and techno artist tracked on soundcheck, with 8 sets logged across London and Seoul. Often billed alongside Aain, Cy Nico and Seongsoo. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Alexa (KR) is a house and techno artist tracked on soundcheck, with 8 sets logge
 
 Aain, Cy Nico, Seongsoo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexa/)*

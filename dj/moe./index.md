@@ -1,6 +1,6 @@
 # moe.
 
-moe. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Gretchen, Berlin on Fri, 9 Oct 2026.
+moe. is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Gretchen, Berlin on Fri, 9 Oct 2026.
 
 moe. is a house and disco artist tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Ken Okuda, DJ Westfa and Suze Ijó. Next up: Gretchen, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ moe. is a house and disco artist tracked on soundcheck, with 65 sets logged acro
 
 Ken Okuda, DJ Westfa, Suze Ijó
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moe./)*

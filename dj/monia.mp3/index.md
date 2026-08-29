@@ -1,6 +1,6 @@
 # monia.mp3
 
-monia.mp3 is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
+monia.mp3 is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
 
 monia.mp3 is an electronica and bass artist tracked on soundcheck, with 17 sets logged across Krakow and Warsaw. Often billed alongside anymati, czuly and Avtomat. Next up: VooDoo Club, Warsaw on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ monia.mp3 is an electronica and bass artist tracked on soundcheck, with 17 sets 
 
 anymati, czuly, Avtomat
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monia.mp3/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monia.mp3/)*

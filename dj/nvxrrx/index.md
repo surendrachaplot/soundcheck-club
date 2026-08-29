@@ -1,6 +1,6 @@
 # nvxrrx
 
-nvxrrx is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 29 Aug 2026.
+nvxrrx is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 29 Aug 2026.
 
 nvxrrx is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 26 sets logged across Mexicocity, Paris, Seoul and Tokyo. Often billed alongside Ann García, Magnolia Coronado and Denisse Leilany. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ nvxrrx is a techno and hardcore artist based in Mexico, tracked on soundcheck, w
 
 Ann García, Magnolia Coronado, Denisse Leilany
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nvxrrx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nvxrrx/)*

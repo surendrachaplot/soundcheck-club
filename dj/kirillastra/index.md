@@ -1,6 +1,6 @@
 # Kirill Astra
 
-Kirill Astra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bukanyr Boat, Prague on Fri, 25 Sept 2026.
+Kirill Astra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bukanyr Boat, Prague on Fri, 25 Sept 2026.
 
 Kirill Astra is a techno and house artist tracked on soundcheck, with 66 sets logged across Berlin, Prague and Vienna. Often billed alongside Denny Krygr, Lucas Hulan and Alex Neivel. Next up: Bukanyr Boat, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kirill Astra is a techno and house artist tracked on soundcheck, with 66 sets lo
 
 Denny Krygr, Lucas Hulan, Alex Neivel
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*

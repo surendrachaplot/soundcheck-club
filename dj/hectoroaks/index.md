@@ -1,6 +1,6 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Héctor Oaks is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Héctor Oaks is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -19,6 +19,7 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 247 sets l
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 9 Aug 2026
 - Substation, Seattle — Sat, 1 Aug 2026
 - Stereo, Montreal — Fri, 31 Jul 2026
@@ -26,10 +27,9 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 247 sets l
 - Bassiani, Tbilisi — Fri, 26 Jun 2026
 - Hï Ibiza, Ibiza — Sun, 21 Jun 2026
 - Razzmatazz, Barcelona — Fri, 19 Jun 2026
-- Sophie Festival, Malaga — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

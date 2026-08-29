@@ -1,6 +1,6 @@
 # Gino Santos
 
-Gino Santos is a Tech House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Rose, New York City on Mon, 14 Sept 2026.
+Gino Santos is a Tech House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Rose, New York City on Mon, 14 Sept 2026.
 
 Gino Santos is a tech house and deep house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Next up: The Rose, Newyorkcity on Mon 14 Sept.
 
@@ -16,4 +16,4 @@ Gino Santos is a tech house and deep house artist based in United States of Amer
 
 - The Rose, New York City — Mon, 17 Aug 2026
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginosantos/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginosantos/)*

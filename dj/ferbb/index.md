@@ -1,6 +1,6 @@
 # Fërb
 
-Fërb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Belle Angele, Edinburgh on Fri, 11 Sept 2026.
+Fërb is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Belle Angele, Edinburgh on Fri, 11 Sept 2026.
 
 Fërb is a house and techno artist tracked on soundcheck, with 50 sets logged across Edinburgh. Often billed alongside TOOKAST, Innes MacDonald and Hobbes. Next up: La Belle Angele, Edinburgh on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fërb is a house and techno artist tracked on soundcheck, with 50 sets logged ac
 
 TOOKAST, Innes MacDonald, Hobbes
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferbb/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferbb/)*

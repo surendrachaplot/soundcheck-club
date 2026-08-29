@@ -1,6 +1,6 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "NOVAH at Kompass" on Fri, 2 Oct 2026.
+Kompass Klub is a music venue in Ghent with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "NOVAH at Kompass" on Fri, 2 Oct 2026.
 
 Kompass Klub is a music venue in Ghent listed on soundcheck. 3 upcoming nights, with line-ups including Azo, Clara D, Crookers and Digitalism and 2 more. Browse upcoming dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
@@ -16,4 +16,4 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 3 upcoming nights, 
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

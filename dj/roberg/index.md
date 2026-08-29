@@ -1,6 +1,6 @@
 # Roberg
 
-Roberg is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Legal, Munich on Sat, 12 Sept 2026.
+Roberg is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Legal, Munich on Sat, 12 Sept 2026.
 
 Roberg is a house and minimal artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, London and Munich. Often billed alongside Buzé, Andrei Ciubuc and ACP.. Next up: Legal, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Roberg is a house and minimal artist based in Germany, tracked on soundcheck, wi
 
 Buzé, Andrei Ciubuc, ACP.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roberg/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roberg/)*

@@ -1,6 +1,6 @@
 # ANGEL CANNON
 
-ANGEL CANNON is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 5 Sept 2026.
+ANGEL CANNON is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 5 Sept 2026.
 
 ANGEL CANNON is a techno and hardcore artist based in Canada, tracked on soundcheck, with 18 sets logged across Losangeles, Paris, Toronto and Vancouver and 1 more. Often billed alongside EtOH, Bÿständer and BINKY. Next up: 1201 Franklin St, Vancouver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ANGEL CANNON is a techno and hardcore artist based in Canada, tracked on soundch
 
 EtOH, Bÿständer, BINKY
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcannon/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcannon/)*

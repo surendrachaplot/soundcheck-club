@@ -1,6 +1,6 @@
 # Lalo Campo
 
-Lalo Campo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Vancouver on Sat, 29 Aug 2026.
+Lalo Campo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Vancouver on Sat, 29 Aug 2026.
 
 Lalo Campo is a house and minimal artist tracked on soundcheck, with 34 sets logged across Vancouver. Often billed alongside Ev O'Reilly, Paul Franc and Briser Gonzalez. Next up: TBA, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Lalo Campo is a house and minimal artist tracked on soundcheck, with 34 sets log
 
 Ev O'Reilly, Paul Franc, Briser Gonzalez
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalocampo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lalocampo/)*

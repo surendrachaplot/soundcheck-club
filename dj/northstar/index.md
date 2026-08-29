@@ -1,6 +1,6 @@
 # North Star
 
-North Star is a Gqom and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
+North Star is a Gqom and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
 
 North Star is a gqom and house artist tracked on soundcheck, with 8 sets logged across Glasgow and Losangeles. Often billed alongside Acido Cielo, saparilla and 3MR.. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ North Star is a gqom and house artist tracked on soundcheck, with 8 sets logged 
 
 Acido Cielo, saparilla, 3MR.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/northstar/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/northstar/)*

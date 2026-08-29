@@ -1,6 +1,6 @@
 # Camila Wolf
 
-Camila Wolf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
+Camila Wolf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 29 Aug 2026.
 
 Camila Wolf is a house and deep house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Newyorkcity. Often billed alongside Zeravla, Jeny Michelle and Amba. Next up: Dead Letter No. 9, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Camila Wolf is a house and deep house artist based in United States of America, 
 
 Zeravla, Jeny Michelle, Amba
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilawolf/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camilawolf/)*

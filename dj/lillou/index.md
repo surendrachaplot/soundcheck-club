@@ -1,6 +1,6 @@
 # Lillou
 
-Lillou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bukanyr Boat, Prague on Fri, 18 Sept 2026.
+Lillou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bukanyr Boat, Prague on Fri, 18 Sept 2026.
 
 Lillou is a house and minimal artist tracked on soundcheck, with 66 sets logged across Prague. Often billed alongside Thomas Tesla, Lucas Hulan and Icarian PB1. Next up: Bukanyr Boat, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lillou is a house and minimal artist tracked on soundcheck, with 66 sets logged 
 
 Thomas Tesla, Lucas Hulan, Icarian PB1
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lillou/)*

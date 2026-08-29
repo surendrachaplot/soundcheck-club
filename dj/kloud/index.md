@@ -1,14 +1,13 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
+KLOUD is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-KLOUD is a techno and trance artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, I Hate Models and Kander. Next up: Mia Mao, Paris on Fri 28 Aug.
+KLOUD is a techno and trance artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Barcelona and 37 more. Often billed alongside Lola Cerise, I Hate Models and Kander. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Mia Mao | Paris |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | Outset | Chicago |
 | Fri, 11 Sept 2026 | Newspeak | Montreal |
@@ -20,9 +19,11 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 80 sets logged a
 | Sat, 10 Oct 2026 | OST | Berlin |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
+| Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played
 
+- Mia Mao, Paris — Fri, 28 Aug 2026
 - Fuse, Brussels — Sat, 8 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 - Exhibition Park, Newcastle — Sat, 11 Jul 2026
@@ -30,10 +31,9 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 80 sets logged a
 - Night We Met, Nashville — Sat, 27 Jun 2026
 - Magic Stick, Detroit — Fri, 19 Jun 2026
 - Halcyon, San Francisco/Oakland — Fri, 5 Jun 2026
-- Sala Urbana, Mexico City — Fri, 22 May 2026
 
 ## Shares bills with
 
 Lola Cerise, I Hate Models, Kander
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

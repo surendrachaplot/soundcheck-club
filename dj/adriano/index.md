@@ -1,6 +1,6 @@
 # Adriano
 
-Adriano is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Home Club, Sao Paulo on Sat, 29 Aug 2026.
+Adriano is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Home Club, Sao Paulo on Sat, 29 Aug 2026.
 
 Adriano is an electro and ebm artist based in Italy, tracked on soundcheck, with 12 sets logged across Barcelona, Berlin, Rome and Saopaulo and 2 more. Often billed alongside Yoshi (DE), lean and Carlos GrabStein. Next up: Home Club, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Adriano is an electro and ebm artist based in Italy, tracked on soundcheck, with
 
 Yoshi (DE), lean, Carlos GrabStein
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriano/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adriano/)*

@@ -1,6 +1,6 @@
 # Suutoo
 
-Suutoo is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cank Neukölln, Berlin on Sat, 31 Oct 2026.
+Suutoo is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cank Neukölln, Berlin on Sat, 31 Oct 2026.
 
 Suutoo is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and London and 6 more. Often billed alongside Mobilegirl, Crystallmess and Freestyler (2). Next up: Cank Neukölln, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Suutoo is an experimental and club artist based in United Kingdom, tracked on so
 
 Mobilegirl, Crystallmess, Freestyler (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suutoo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suutoo/)*

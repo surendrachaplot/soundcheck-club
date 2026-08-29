@@ -1,6 +1,6 @@
 # Jeremy Ismael
 
-Jeremy Ismael is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jeremy Ismael is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jeremy Ismael is a house and deep house artist tracked on soundcheck, with 12 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside Alex Cecil, Alan Epps and Danyelino. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Jeremy Ismael is a house and deep house artist tracked on soundcheck, with 12 se
 
 Alex Cecil, Alan Epps, Danyelino
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyismael/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyismael/)*

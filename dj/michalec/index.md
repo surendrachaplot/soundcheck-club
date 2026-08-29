@@ -1,6 +1,6 @@
 # Michalec
 
-Michalec is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+Michalec is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
 Michalec is a techno and house artist based in Poland, tracked on soundcheck, with 13 sets logged across Krakow and Warsaw. Often billed alongside Kovvalsky, TAMTEN and PAWEL (PL). Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Michalec is a techno and house artist based in Poland, tracked on soundcheck, wi
 
 Kovvalsky, TAMTEN, PAWEL (PL)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michalec/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michalec/)*

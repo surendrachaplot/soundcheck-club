@@ -1,6 +1,6 @@
 # ALIASLOH
 
-ALIASLOH is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Rooftop 105, Geneva on Sat, 29 Aug 2026.
+ALIASLOH is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Rooftop 105, Geneva on Sat, 29 Aug 2026.
 
 ALIASLOH is a techno and club artist tracked on soundcheck, with 15 sets logged across Berlin and Geneva. Often billed alongside Mysthy, Herone and Reita D Russo. Next up: TBA - Rooftop 105, Geneva on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ ALIASLOH is a techno and club artist tracked on soundcheck, with 15 sets logged 
 
 Mysthy, Herone, Reita D Russo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasloh/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasloh/)*

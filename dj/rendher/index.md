@@ -1,6 +1,6 @@
 # Rendher
 
-Rendher is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 20 Sept 2026.
+Rendher is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sun, 20 Sept 2026.
 
 Rendher is a tech house and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Birmingham and Bucharest and 15 more. Often billed alongside Paco Osuna, Bastian Bux and Chelina Manuhutu. Next up: Seaseaclub Barcelona, Barcelona on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Rendher is a tech house and house artist tracked on soundcheck, with 66 sets log
 
 Paco Osuna, Bastian Bux, Chelina Manuhutu
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rendher/)*

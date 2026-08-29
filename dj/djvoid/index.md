@@ -1,18 +1,18 @@
 # DJ Void
 
-DJ Void is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at MODULE, Copenhagen on Fri, 28 Aug 2026.
+DJ Void is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 29 Aug 2026.
 
-DJ Void is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen, Lisbon and Vienna. Often billed alongside AWHM, Apua and Stipo. Next up: MODULE, Copenhagen on Fri 28 Aug.
+DJ Void is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen, Lisbon and Vienna. Often billed alongside AWHM, Apua and Stipo. Next up: Den Anden Side, Copenhagen on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | MODULE | Copenhagen |
 | Sat, 29 Aug 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
+- MODULE, Copenhagen — Fri, 28 Aug 2026
 - PRST, Vienna — Fri, 26 Jun 2026
 - MODULE, Copenhagen — Fri, 26 Jun 2026
 - MODULE, Copenhagen — Thu, 18 Jun 2026
@@ -20,10 +20,9 @@ DJ Void is a house and techno artist tracked on soundcheck, with 30 sets logged 
 - Den Anden Side, Copenhagen — Fri, 5 Jun 2026
 - MODULE, Copenhagen — Thu, 26 Mar 2026
 - MODULE, Copenhagen — Thu, 5 Mar 2026
-- MODULE, Copenhagen — Fri, 16 Jan 2026
 
 ## Shares bills with
 
 AWHM, Apua, Stipo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoid/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djvoid/)*

@@ -1,6 +1,6 @@
 # DJ PurRpLeXeD
 
-DJ PurRpLeXeD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
+DJ PurRpLeXeD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Nineteen25, Denver on Thu, 27 Aug 2026.
 
 DJ PurRpLeXeD is a house and techno artist tracked on soundcheck, with 20 sets logged across Denver. Often billed alongside Tailspin, Pounces and Haus Catz. Next up: TBA - Nineteen25, Denver on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ DJ PurRpLeXeD is a house and techno artist tracked on soundcheck, with 20 sets l
 
 Tailspin, Pounces, Haus Catz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurrplexed/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurrplexed/)*

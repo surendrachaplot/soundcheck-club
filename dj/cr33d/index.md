@@ -1,6 +1,6 @@
 # CR33D
 
-CR33D is a Afro Tech and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Gravière, Geneva on Sat, 29 Aug 2026.
+CR33D is a Afro Tech and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Gravière, Geneva on Sat, 29 Aug 2026.
 
 CR33D is an afro tech and bass artist tracked on soundcheck, with 4 sets logged across Berlin and Geneva. Often billed alongside Assyouti, Catu Diosis and Hibotep. Next up: La Gravière, Geneva on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ CR33D is an afro tech and bass artist tracked on soundcheck, with 4 sets logged 
 
 Assyouti, Catu Diosis, Hibotep
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cr33d/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cr33d/)*

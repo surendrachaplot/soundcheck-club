@@ -1,6 +1,6 @@
 # dylan.james
 
-dylan.james is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bike Jesus, Prague on Sat, 10 Oct 2026.
+dylan.james is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bike Jesus, Prague on Sat, 10 Oct 2026.
 
 dylan.james is a trance and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across London and Prague. Often billed alongside DELARA, FITS ME FUNNY and turn_t. Next up: Bike Jesus, Prague on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ dylan.james is a trance and techno artist based in United States of America, tra
 
 DELARA, FITS ME FUNNY, turn_t
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylan.james/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylan.james/)*

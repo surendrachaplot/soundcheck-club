@@ -1,6 +1,6 @@
 # Mantis (IT)
 
-Mantis (IT) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
+Mantis (IT) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
 
 Mantis (IT) is a dub and bass artist tracked on soundcheck, with 9 sets logged across Rome. Often billed alongside VSC (1), Her Nice Too and Manifesto Disappunto. Next up: TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Mantis (IT) is a dub and bass artist tracked on soundcheck, with 9 sets logged a
 
 VSC (1), Her Nice Too, Manifesto Disappunto
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*

@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 17 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "WEEKEND SELECTERS" on Fri, 28 Aug 2026.
+BAR Inc is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "WEEKEND SELECTERS" on Sat, 29 Aug 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Arpy Brown and Big Animal Theory and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 16 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Arpy Brown and Big Animal Theory and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | WEEKEND SELECTERS | Yoshihiro Okino |
 | Sat, 29 Aug 2026 | WEEKEND SELECTERS | DJ Quietstorm |
 | Sun, 30 Aug 2026 | HOLIDAY ORDERS |  |
 | Wed, 2 Sept 2026 | WEEKDAY ORDERS | Naco (2), sintaro fujita (2) |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with
 | Wed, 9 Sept 2026 | WEEKDAY ORDERS | GAKUTO(TOKYO), Ko Yang (JP), Lvca |
 | Fri, 11 Sept 2026 | WEEKEND SELECTERS | Ground (1), Moodman, YAMA(JP/OSK) |
 | Sat, 12 Sept 2026 | WEEKEND SELECTERS | Big Animal Theory, HIMAWARI, kengotaki |
+| Sun, 13 Sept 2026 | HOLIDAY ORDERS | DJ SPOT, Federico Molinari, Tomoya Furukawa |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

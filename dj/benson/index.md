@@ -1,18 +1,18 @@
 # Benson
 
-Benson is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at SILO, New York City on Fri, 28 Aug 2026.
+Benson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Yamamori Tengu, Dublin on Fri, 25 Sept 2026.
 
-Benson is a house and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Dublin, Manchester and Newyorkcity. Often billed alongside DIEBYVEG, Prozak (IRL) and Adapter. Next up: SILO, Newyorkcity on Fri 28 Aug.
+Benson is a house and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Dublin, Manchester and Newyorkcity. Often billed alongside DIEBYVEG, Prozak (IRL) and Adapter. Next up: Yamamori Tengu, Dublin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | SILO | New York City |
 | Fri, 25 Sept 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
 
+- SILO, New York City — Fri, 28 Aug 2026
 - The Radio Room @ Stage & Radio, Manchester — Sun, 24 May 2026
 - Hidden, Manchester — Sat, 21 Mar 2026
 - Yamamori Tengu, Dublin — Fri, 23 Jan 2026
@@ -22,4 +22,4 @@ Benson is a house and tech house artist based in Germany, tracked on soundcheck,
 
 DIEBYVEG, Prozak (IRL), Adapter
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benson/)*

@@ -1,6 +1,6 @@
 # Francis99
 
-Francis99 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
+Francis99 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 Francis99 is a house and techno artist tracked on soundcheck, with 15 sets logged across Barcelona, Brussels and Ghent. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Francis99 is a house and techno artist tracked on soundcheck, with 15 sets logge
 
 Dana Kuehr, Islas, Camiflage
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francis99/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francis99/)*

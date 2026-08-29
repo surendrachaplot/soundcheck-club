@@ -1,6 +1,6 @@
 # Malvadisco
 
-Malvadisco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
+Malvadisco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
 
 Malvadisco is a house and techno artist tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside Zypher, PUSS1 BABA and feelin’ red. Next up: YOTO, Hamburg on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Malvadisco is a house and techno artist tracked on soundcheck, with 7 sets logge
 
 Zypher, PUSS1 BABA, feelin’ red
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malvadisco/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malvadisco/)*

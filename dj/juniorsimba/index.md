@@ -1,6 +1,6 @@
 # Junior Simba
 
-Junior Simba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
+Junior Simba is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
 
 Junior Simba is a house and disco artist based in Zimbabwe, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Bristol and Glasgow and 5 more. Often billed alongside KILIMANJARO, Moehecan and Fiaa. Next up: The Dutch Master, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Junior Simba is a house and disco artist based in Zimbabwe, tracked on soundchec
 
 KILIMANJARO, Moehecan, Fiaa
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsimba/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsimba/)*

@@ -1,6 +1,6 @@
 # Magda
 
-Magda is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 29 Aug 2026.
+Magda is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Yamamori Tengu, Dublin on Sat, 29 Aug 2026.
 
 Magda is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Barcelona and Berlin and 48 more. Often billed alongside Mike Servito, Morgan and Mari.te. Next up: Yamamori Tengu, Dublin on Sat 29 Aug.
 
@@ -32,4 +32,4 @@ Magda is a techno and house artist tracked on soundcheck, with 162 sets logged a
 
 Mike Servito, Morgan, Mari.te
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

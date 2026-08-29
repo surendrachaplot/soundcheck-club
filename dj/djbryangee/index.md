@@ -1,6 +1,6 @@
 # DJ Bryan Gee
 
-DJ Bryan Gee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
+DJ Bryan Gee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Concorde 2, Brighton on Sat, 29 Aug 2026.
 
 DJ Bryan Gee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Brighton, Bristol, London and Manchester. Often billed alongside Bryan Gee, Dillinja and Rich Reason. Next up: Concorde 2, Brighton on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ DJ Bryan Gee is a drum & bass and jungle artist based in United Kingdom, tracked
 
 Bryan Gee, Dillinja, Rich Reason
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbryangee/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbryangee/)*

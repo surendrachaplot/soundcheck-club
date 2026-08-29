@@ -1,6 +1,6 @@
 # Claudius
 
-Claudius is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 26 Sept 2026.
+Claudius is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 26 Sept 2026.
 
 Claudius is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Frankfurt and Munich and 2 more. Often billed alongside Calypsis, Danny Daze and Jus Nowhere. Next up: Fridas Pier, Stuttgart on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Claudius is a house and techno artist based in United States of America, tracked
 
 Calypsis, Danny Daze, Jus Nowhere
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*

@@ -1,6 +1,6 @@
 # RIØ (DE)
 
-RIØ (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+RIØ (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
 RIØ (DE) is a house and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RIØ (DE) is a house and techno artist tracked on soundcheck, with 28 sets logge
 
 Sarica, Seva Rosendorfer, Sub.Vision
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*

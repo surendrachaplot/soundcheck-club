@@ -1,6 +1,6 @@
 # Wassu
 
-Wassu is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Do Not Sit On The Furniture, Miami on Sat, 5 Sept 2026.
+Wassu is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Do Not Sit On The Furniture, Miami on Sat, 5 Sept 2026.
 
 Wassu is a progressive house and deep house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Chicago, Houston and Losangeles and 9 more. Often billed alongside ELIF, TOMMYLOGIK and Authentic. Next up: Do Not Sit On The Furniture, Miami on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wassu is a progressive house and deep house artist based in United States of Ame
 
 ELIF, TOMMYLOGIK, Authentic
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wassu/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wassu/)*

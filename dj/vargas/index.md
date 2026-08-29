@@ -1,6 +1,6 @@
 # Vargas
 
-Vargas is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Era uma vez em Paris, Porto on Sat, 29 Aug 2026.
+Vargas is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Era uma vez em Paris, Porto on Sat, 29 Aug 2026.
 
 Vargas is a house and ambient artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Brussels and Cologne and 11 more. Often billed alongside Rui Vargas, Varela and Laura Vargas. Next up: Era uma vez em Paris, Porto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vargas is a house and ambient artist tracked on soundcheck, with 75 sets logged 
 
 Rui Vargas, Varela, Laura Vargas
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vargas/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vargas/)*

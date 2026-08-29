@@ -1,6 +1,6 @@
 # Jon Charles
 
-Jon Charles is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
+Jon Charles is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
 
 Jon Charles is a house and minimal artist tracked on soundcheck, with 14 sets logged across Washingtondc. Often billed alongside BE EZY, Sneakers in the Dryer and Xav (US). Next up: Flash, Washingtondc on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jon Charles is a house and minimal artist tracked on soundcheck, with 14 sets lo
 
 BE EZY, Sneakers in the Dryer, Xav (US)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joncharles/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joncharles/)*

@@ -1,15 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN  " on Fri, 21 Aug 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Freeride Millenium with nd_baumecker (Panorama Bar), Baby B (PALS), special interest, Jorkes" on Sat, 29 Aug 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights, with line-ups including Daniel Neuland, Dominik Krammer, Hansn and Jochen Junker and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Jochen Junker, Jorkes, Julian Bender and Marco Bastone and 1 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 21 Aug 2026 | WEVIEW: DI MOS (UA)  ⁄⁄⁄  Dominik Krammer  ⁄⁄⁄  HÄNSN   | Dominik Krammer, Hansn |
-| Fri, 28 Aug 2026 | HERZ & SEELE w./ Daniel Neuland, Sirikit, tim/bre | Daniel Neuland, tim/bre |
 | Sat, 29 Aug 2026 | Freeride Millenium with nd_baumecker (Panorama Bar), Baby B (PALS), special interest, Jorkes | Jorkes, Julian Bender, nd_baumecker |
 | Sun, 30 Aug 2026 | BUNTER HUND am SONNTAG mit ALVA (Lehmann) |  |
 | Sun, 30 Aug 2026 | EARLY BIRDY AFTERHOUR am SONNTAG mit ALVIN KYER & FRIENDS |  |
@@ -23,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming nights
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

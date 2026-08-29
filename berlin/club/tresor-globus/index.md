@@ -1,6 +1,6 @@
 # Tresor / Globus
 
-Tresor / Globus is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Tresor meets Fireground" on Fri, 28 Aug 2026.
+Tresor / Globus is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Tresor meets Fireground" on Fri, 28 Aug 2026.
 
 Tresor / Globus is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including 7CIRCLE, AERAE, Anabel Arroyo and Anthony Linell and 2 more. Browse upcoming dates, start times and who's playing. Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Tresor / Globus is a music venue in Berlin listed on soundcheck. 23 upcoming nig
 
 Köpenickerstrasse 70; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tresor-globus/)*

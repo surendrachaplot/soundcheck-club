@@ -1,14 +1,13 @@
 # Basstripper
 
-Basstripper is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Studio the Venue, Auckland on Fri, 28 Aug 2026.
+Basstripper is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside BassLayerz, Camo & Krooked and Hedex. Next up: Studio the Venue, Auckland on Fri 28 Aug.
+Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside BassLayerz, Camo & Krooked and Hedex. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Studio the Venue | Auckland |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Quarters | Brighton |
 | Fri, 20 Nov 2026 | Thekla | Bristol |
@@ -17,6 +16,7 @@ Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundc
 
 ## Recently played
 
+- Studio the Venue, Auckland — Fri, 28 Aug 2026
 - Document, Bristol — Sat, 18 Jul 2026
 - Elektricity, Detroit — Fri, 24 Apr 2026
 - Elsewhere, New York City — Sat, 28 Mar 2026
@@ -24,10 +24,9 @@ Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundc
 - LAB theCLUB, Madrid — Fri, 6 Mar 2026
 - MÄX, Zurich — Sat, 10 Jan 2026
 - Soundcheck, Washington DC — Thu, 11 Dec 2025
-- ArtCube, Ghent — Sat, 22 Nov 2025
 
 ## Shares bills with
 
 BassLayerz, Camo & Krooked, Hedex
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*

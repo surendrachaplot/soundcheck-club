@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a UK Funky and Jazz artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Haggerston, London on Sat, 29 Aug 2026.
+Chedda Bred is a UK Funky and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Haggerston, London on Sat, 29 Aug 2026.
 
 Chedda Bred is an uk funky and jazz artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: The Haggerston, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Chedda Bred is an uk funky and jazz artist tracked on soundcheck, with 21 sets l
 
 Chedda B, Neue Grafik, limi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

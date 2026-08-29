@@ -1,15 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "CASA TULUM - A Tulum Inspired House Music Party" on Fri, 28 Aug 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "FREE RAVE with Room 4 Improvement presented by Night Shift" on Sat, 29 Aug 2026.
 
-Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including AGROPOL, ALMAS, Âme and BROKE LEG and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including AGROPOL, ALMAS, Âme and BROKE LEG and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | CASA TULUM - A Tulum Inspired House Music Party |  |
-| Fri, 28 Aug 2026 | Öona Dahl & David Hohme presented by Public Works | David Hohme, Öona Dahl |
 | Sat, 29 Aug 2026 | FREE RAVE with Room 4 Improvement presented by Night Shift | Clancy Hickinbotham, Jimmy B, Phil Spank, natebytheway |
 | Sat, 29 Aug 2026 | Secret Psychedelica: VIRGO WORLD with DIGITAL HIPPIE |  |
 | Thu, 3 Sept 2026 | Function 500 with Jaag & BROKE LEG | AGROPOL, BROKE LEG, DJ Panderer, Jaag |
@@ -18,9 +16,11 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming 
 | Fri, 11 Sept 2026 | Fatima Hajji presented by Public Works | Fatima Hajji, S.I.M, Sandra Mane, cstr |
 | Sat, 12 Sept 2026 | Boombox Cartel presented by Public Works & Insomniac |  |
 | Fri, 18 Sept 2026 | Âme (Innervisions) Dj & Rodriguez Jr. Hybrid Live by SET, Safra & Konnekted | Rodriguez Jr., Âme |
+| Sat, 19 Sept 2026 | MGMT DJ SET presented by Goldenvoice | Jeremy Castillo, Mishka |
+| Sat, 3 Oct 2026 | JANTSEN PRESENTED BY VEXRA & Public Works |  |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

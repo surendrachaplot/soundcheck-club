@@ -1,6 +1,6 @@
 # Soulfunk
 
-Soulfunk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+Soulfunk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
 Soulfunk is a house and techno artist tracked on soundcheck, with 14 sets logged across Bali and Berlin. Often billed alongside Moehecan, DJ Zurückbleiben Bitte and Esther Silex. Next up: SAGE, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Soulfunk is a house and techno artist tracked on soundcheck, with 14 sets logged
 
 Moehecan, DJ Zurückbleiben Bitte, Esther Silex
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfunk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfunk/)*

@@ -1,6 +1,6 @@
 # Soul Summit Music
 
-Soul Summit Music is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Laziza, New York City on Sat, 29 Aug 2026.
+Soul Summit Music is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Laziza, New York City on Sat, 29 Aug 2026.
 
 Soul Summit Music is a house and disco artist based in United States of America, tracked on soundcheck, with 70 sets logged across Newyorkcity, Paris and Philadelphia. Often billed alongside JADALAREIGN, Omer Mil and Timmy Regisford. Next up: Laziza, Newyorkcity on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Soul Summit Music is a house and disco artist based in United States of America,
 
 JADALAREIGN, Omer Mil, Timmy Regisford
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsummitmusic/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsummitmusic/)*

@@ -1,6 +1,6 @@
 # Danny Roach
 
-Danny Roach is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
+Danny Roach is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
 
 Danny Roach is a techno and house artist tracked on soundcheck, with 42 sets logged across Berlin, London and Manchester. Often billed alongside Deventi, INLIMEN and ALAN JOE. Next up: The Star and Garter, Manchester on Sun 30 Aug.
 
@@ -30,4 +30,4 @@ Danny Roach is a techno and house artist tracked on soundcheck, with 42 sets log
 
 Deventi, INLIMEN, ALAN JOE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyroach/)*

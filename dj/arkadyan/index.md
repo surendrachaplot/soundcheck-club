@@ -1,6 +1,6 @@
 # ARKADYAN
 
-ARKADYAN is a Electronica and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Clairière, Paris on Sat, 29 Aug 2026.
+ARKADYAN is a Electronica and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Clairière, Paris on Sat, 29 Aug 2026.
 
 ARKADYAN is an electronica and balearic artist tracked on soundcheck, with 25 sets logged across Bali, Buenosaires, Geneva and Ibiza and 3 more. Often billed alongside MËSTIZA, Pablo Fierro and Pomboklap. Next up: La Clairière, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ARKADYAN is an electronica and balearic artist tracked on soundcheck, with 25 se
 
 MËSTIZA, Pablo Fierro, Pomboklap
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadyan/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arkadyan/)*

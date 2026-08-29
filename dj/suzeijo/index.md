@@ -1,6 +1,6 @@
 # Suze Ijó
 
-Suze Ijó is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+Suze Ijó is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
 
 Suze Ijó is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Auckland and Bali and 46 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Suze Ijó is a house and techno artist tracked on soundcheck, with 201 sets logg
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

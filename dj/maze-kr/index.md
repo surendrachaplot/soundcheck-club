@@ -1,6 +1,6 @@
 # MAZE (KR)
 
-MAZE (KR) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
+MAZE (KR) is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
 
 MAZE (KR) is a club and techno artist based in Iran, tracked on soundcheck, with 30 sets logged across Seoul. Often billed alongside dayoung, August (3) and KoiKoi. Next up: Cakeshop, Seoul on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ MAZE (KR) is a club and techno artist based in Iran, tracked on soundcheck, with
 
 dayoung, August (3), KoiKoi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-kr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-kr/)*

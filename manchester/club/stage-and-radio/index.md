@@ -1,15 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 25 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Elevation presents: Toddz" on Fri, 28 Aug 2026.
+Stage and Radio is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "cuesta x Technical Biome present: solar decay" on Sat, 29 Aug 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 25 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Elevation presents: Toddz |  |
-| Fri, 28 Aug 2026 | Escalivada 2nd edition // 28/08 night party | Balgi, Blason, Pizzicatto |
 | Sat, 29 Aug 2026 | cuesta x Technical Biome present: solar decay | Egg On Toast, LIZ-ZIE (2), MARCUS THE MARAUDER, ronch |
 | Sat, 29 Aug 2026 | AMPLIFIED | LUNAx3, RUBY RAWR |
 | Sun, 30 Aug 2026 | Good Minds Gathering X Scrambled Network |  |
@@ -18,9 +16,11 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 25 upcoming
 | Sat, 5 Sept 2026 | Cinco Shades: RUSSKE & Special Guests | Jentzen |
 | Sat, 5 Sept 2026 | MACBLACK presents |  |
 | Sat, 5 Sept 2026 | BKR EVENTS x LBC EVENTS |  |
+| Fri, 11 Sept 2026 | KXV-HARDWIRED |  |
+| Fri, 11 Sept 2026 | Contrabando presents: Foynez | Yaggo |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

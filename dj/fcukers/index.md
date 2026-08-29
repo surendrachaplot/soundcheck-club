@@ -1,6 +1,6 @@
 # FCUKERS
 
-FCUKERS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cafeteria, Toronto on Sat, 5 Sept 2026.
+FCUKERS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cafeteria, Toronto on Sat, 5 Sept 2026.
 
 FCUKERS is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Austin and Barcelona and 27 more. Often billed alongside DJ Gigola, Jackson Walker Lewis and Adam Ten. Next up: Cafeteria, Toronto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ FCUKERS is a house and techno artist based in United States of America, tracked 
 
 DJ Gigola, Jackson Walker Lewis, Adam Ten
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*

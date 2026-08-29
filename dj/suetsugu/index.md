@@ -1,6 +1,6 @@
 # SUETSUGU
 
-SUETSUGU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at VENT, Tokyo on Sat, 29 Aug 2026.
+SUETSUGU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at VENT, Tokyo on Sat, 29 Aug 2026.
 
 SUETSUGU is a techno and house artist based in Japan, tracked on soundcheck, with 110 sets logged across Tokyo. Often billed alongside RYOHEI, monielu.h and RINALUCKY. Next up: VENT, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ SUETSUGU is a techno and house artist based in Japan, tracked on soundcheck, wit
 
 RYOHEI, monielu.h, RINALUCKY
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suetsugu/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suetsugu/)*

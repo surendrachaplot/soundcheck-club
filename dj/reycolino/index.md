@@ -1,6 +1,6 @@
 # Rey Colino
 
-Rey Colino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
+Rey Colino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
 
 Rey Colino is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Spray, Roza Terenzi and Eversines. Next up: Cabaret Sauvage, Paris on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Rey Colino is a techno and house artist tracked on soundcheck, with 107 sets log
 
 Spray, Roza Terenzi, Eversines
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*

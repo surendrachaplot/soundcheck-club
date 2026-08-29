@@ -1,6 +1,6 @@
 # Daskaran
 
-Daskaran is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at radial, London on Sun, 30 Aug 2026.
+Daskaran is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at radial, London on Sun, 30 Aug 2026.
 
 Daskaran is a techno and club artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Lisbon and London. Often billed alongside LO-LOW, Varanasi and BLEID. Next up: radial, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Daskaran is a techno and club artist based in United Kingdom, tracked on soundch
 
 LO-LOW, Varanasi, BLEID
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*

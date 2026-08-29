@@ -1,6 +1,6 @@
 # Brendocha
 
-Brendocha is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
+Brendocha is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
 
 Brendocha is a club and techno artist based in Peru, tracked on soundcheck, with 29 sets logged across Toronto and Vancouver. Often billed alongside BINKY, Ana Luisa and El Ángel Exterminador. Next up: TBA - 1201 FRANKLIN ST, Vancouver on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Brendocha is a club and techno artist based in Peru, tracked on soundcheck, with
 
 BINKY, Ana Luisa, El Ángel Exterminador
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brendocha/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brendocha/)*

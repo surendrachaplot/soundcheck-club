@@ -1,6 +1,6 @@
 # Co Bra
 
-Co Bra is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
+Co Bra is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
 
 Co Bra is a techno and r&b artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Antwerp, Turin and Vienna. Often billed alongside AARON, Alessandro Nigro and Alle Farben. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
 
@@ -12,6 +12,7 @@ Co Bra is a techno and r&b artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
+- Former Smatch Supermarket, Antwerp — Fri, 28 Aug 2026
 - Donauinsel, Vienna — Fri, 3 Jul 2026
 - Grelle Forelle, Vienna — Sat, 18 Oct 2025
 - Jolly Roger Club, Vienna — Fri, 25 Apr 2025
@@ -21,4 +22,4 @@ Co Bra is a techno and r&b artist based in United Kingdom, tracked on soundcheck
 
 AARON, Alessandro Nigro, Alle Farben
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobra/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cobra/)*

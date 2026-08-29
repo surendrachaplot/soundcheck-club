@@ -1,6 +1,6 @@
 # Hang Dai Chinese
 
-Hang Dai Chinese is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Fantazee presents Marion Hawkes at Hang Dai" on Sat, 29 Aug 2026.
+Hang Dai Chinese is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Fantazee presents Marion Hawkes at Hang Dai" on Sat, 29 Aug 2026.
 
 Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including Arveene, Billy Scurry, Marion Hawkes and Mike Simonetti and 2 more. Browse upcoming dates, start times and who's playing. 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland.
 
@@ -17,4 +17,4 @@ Hang Dai Chinese is a music venue in Dublin listed on soundcheck. 4 upcoming nig
 
 2 Camden Street Lower, Saint Kevin's, Dublin, D02 T275, Ireland, Dublin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hang-dai-chinese/)*

@@ -1,6 +1,6 @@
 # Peter Fonda
 
-Peter Fonda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mansions, New York City on Sun, 30 Aug 2026.
+Peter Fonda is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mansions, New York City on Sun, 30 Aug 2026.
 
 Peter Fonda is a techno and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Detroit and Newyorkcity. Often billed alongside Reverb Cowgirl, otodojo and Christian Tokyo. Next up: Mansions, Newyorkcity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Peter Fonda is a techno and house artist based in United States of America, trac
 
 Reverb Cowgirl, otodojo, Christian Tokyo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterfonda/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterfonda/)*

@@ -1,6 +1,6 @@
 # Gullyteen
 
-Gullyteen is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
+Gullyteen is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
 
 Gullyteen is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Bristol, Budapest, Leeds and Liverpool and 4 more. Often billed alongside alterum, 3DMA and IFFYHYPE. Next up: Hidden, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Gullyteen is a hardcore and jungle artist based in United Kingdom, tracked on so
 
 alterum, 3DMA, IFFYHYPE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gullyteen/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gullyteen/)*

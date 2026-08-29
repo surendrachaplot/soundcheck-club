@@ -1,6 +1,6 @@
 # Ángel Molina
 
-Ángel Molina is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Moog Club, Barcelona on Wed, 23 Sept 2026.
+Ángel Molina is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Moog Club, Barcelona on Wed, 23 Sept 2026.
 
 Ángel Molina is a techno and industrial artist tracked on soundcheck, with 45 sets logged across Barcelona, Madrid and Malaga. Often billed alongside Imox, 30drop and Bicep. Next up: Moog Club, Barcelona on Wed 23 Sept.
 
@@ -25,4 +25,4 @@
 
 Imox, 30drop, Bicep
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmolina-es/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelmolina-es/)*

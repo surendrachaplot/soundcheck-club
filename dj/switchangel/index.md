@@ -1,6 +1,6 @@
 # Switch Angel
 
-Switch Angel is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sonia, Boston on Thu, 3 Sept 2026.
+Switch Angel is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sonia, Boston on Thu, 3 Sept 2026.
 
 Switch Angel is an electronica and experimental artist tracked on soundcheck, with 10 sets logged across Austin, Boston, London and Losangeles and 3 more. Often billed alongside Alice Longyu Gao, Ava Blank and DJ_Dave. Next up: Sonia, Boston on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Switch Angel is an electronica and experimental artist tracked on soundcheck, wi
 
 Alice Longyu Gao, Ava Blank, DJ_Dave
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/switchangel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/switchangel/)*

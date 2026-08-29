@@ -1,6 +1,6 @@
 # DEPA (3)
 
-DEPA (3) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Main Club, Milan on Sat, 12 Sept 2026.
+DEPA (3) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Main Club, Milan on Sat, 12 Sept 2026.
 
 DEPA (3) is a techno and industrial artist tracked on soundcheck, with 11 sets logged across Milan. Often billed alongside TUROTUNZ, IANOSH and ELNA. Next up: Main Club, Milan on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DEPA (3) is a techno and industrial artist tracked on soundcheck, with 11 sets l
 
 TUROTUNZ, IANOSH, ELNA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/depa-3/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/depa-3/)*

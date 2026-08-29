@@ -1,6 +1,6 @@
 # Padouc
 
-Padouc is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
+Padouc is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
 
 Padouc is an electronica and downtempo artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Bliz Nochi, Marisa Lia and ZHTA. Next up: Klunkerkranich, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Padouc is an electronica and downtempo artist based in Germany, tracked on sound
 
 Bliz Nochi, Marisa Lia, ZHTA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padouc/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padouc/)*

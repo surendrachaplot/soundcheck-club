@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Skream is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Skream is a house and techno artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 57 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -32,4 +32,4 @@ Skream is a house and techno artist tracked on soundcheck, with 211 sets logged 
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

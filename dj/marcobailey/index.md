@@ -1,6 +1,6 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
+Marco Bailey is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
 Marco Bailey is a techno and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 32 more. Often billed alongside Dave Clarke, Kobosil and Lino Fuso. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Marco Bailey is a techno and tech house artist tracked on soundcheck, with 89 se
 
 Dave Clarke, Kobosil, Lino Fuso
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

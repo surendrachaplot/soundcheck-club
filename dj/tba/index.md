@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Slakthuset, Stockholm on Fri, 28 Aug 2026.
+TBA is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Haus73, Hamburg on Sat, 29 Aug 2026.
 
-TBA is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Slakthuset, Stockholm on Fri 28 Aug.
+TBA is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Haus73, Hamburg on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Slakthuset | Stockholm |
 | Sat, 29 Aug 2026 | Haus73 | Hamburg |
 | Sat, 29 Aug 2026 | Temple SF | San Francisco/Oakland |
 | Fri, 4 Sept 2026 | Temple SF | San Francisco/Oakland |
@@ -20,9 +19,11 @@ TBA is a techno and house artist tracked on soundcheck, with 251 sets logged acr
 | Fri, 25 Sept 2026 | Slakthuset | Stockholm |
 | Fri, 25 Sept 2026 | Temple SF | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Haus73 | Hamburg |
+| Thu, 1 Oct 2026 | Phonox | London |
 
 ## Recently played
 
+- Slakthuset, Stockholm — Fri, 28 Aug 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 27 Aug 2026
 - Smolna, Warsaw — Wed, 26 Aug 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 20 Aug 2026
@@ -30,10 +31,9 @@ TBA is a techno and house artist tracked on soundcheck, with 251 sets logged acr
 - Skyport Marina, New York City — Fri, 14 Aug 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 13 Aug 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 6 Aug 2026
-- TBA - Rummelsburger Bucht, Berlin — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

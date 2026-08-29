@@ -1,6 +1,6 @@
 # Daenell
 
-Daenell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 1 Sept 2026.
+Daenell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Der Weiße Hase, Berlin on Tue, 1 Sept 2026.
 
 Daenell is a techno and house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Munich and Tirana. Often billed alongside AINA.KRU, ARCHERY and Alex Sharp. Next up: Der Weiße Hase, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Daenell is a techno and house artist tracked on soundcheck, with 16 sets logged 
 
 AINA.KRU, ARCHERY, Alex Sharp
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daenell/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daenell/)*

@@ -1,6 +1,6 @@
 # HKPD
 
-HKPD is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+HKPD is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 HKPD is a house and downtempo artist tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside Cherry (MX), Alatriste and Avant-Garde Institute. Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -21,4 +21,4 @@ HKPD is a house and downtempo artist tracked on soundcheck, with 4 sets logged a
 
 Cherry (MX), Alatriste, Avant-Garde Institute
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hkpd/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hkpd/)*

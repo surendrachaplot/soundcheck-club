@@ -1,6 +1,6 @@
 # Lost in Details
 
-Lost in Details is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at A38, Budapest on Thu, 1 Oct 2026.
+Lost in Details is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at A38, Budapest on Thu, 1 Oct 2026.
 
 Lost in Details is a house and minimal artist based in Hungary, tracked on soundcheck, with 29 sets logged across Budapest. Often billed alongside Electric Boutique, Dubtist and Monoclick. Next up: A38, Budapest on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Lost in Details is a house and minimal artist based in Hungary, tracked on sound
 
 Electric Boutique, Dubtist, Monoclick
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostindetails/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lostindetails/)*

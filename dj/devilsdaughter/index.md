@@ -1,6 +1,6 @@
 # Devil's Daughter
 
-Devil's Daughter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Distillery N17, London on Sun, 30 Aug 2026.
+Devil's Daughter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Distillery N17, London on Sun, 30 Aug 2026.
 
 Devil's Daughter is a techno and house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Gridlock, Alba Heidari and Anahita Shamsaei. Next up: Distillery N17, London on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Devil's Daughter is a techno and house artist tracked on soundcheck, with 5 sets
 
 Gridlock, Alba Heidari, Anahita Shamsaei
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devilsdaughter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devilsdaughter/)*

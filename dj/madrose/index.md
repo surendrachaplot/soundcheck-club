@@ -1,6 +1,6 @@
 # MADROSE
 
-MADROSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 29 Aug 2026.
+MADROSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 29 Aug 2026.
 
 MADROSE is a techno and house artist based in Malaysia, tracked on soundcheck, with 12 sets logged across Kualalumpur. Often billed alongside Alam, Odd (MY) and Notion A. Next up: The Iron Fairies Kuala Lumpur, Kualalumpur on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ MADROSE is a techno and house artist based in Malaysia, tracked on soundcheck, w
 
 Alam, Odd (MY), Notion A
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*

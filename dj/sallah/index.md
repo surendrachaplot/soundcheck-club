@@ -1,6 +1,6 @@
 # sallah
 
-sallah is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
+sallah is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
 
 sallah is a techno and ghetto tech artist tracked on soundcheck, with 13 sets logged across Berlin, Lisbon, Liverpool and Munich and 2 more. Often billed alongside DJ Maboku, DJ Nervoso and DJ Nigga Fox. Next up: Z-Bau, Nurnberg on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ sallah is a techno and ghetto tech artist tracked on soundcheck, with 13 sets lo
 
 DJ Maboku, DJ Nervoso, DJ Nigga Fox
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallah/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sallah/)*

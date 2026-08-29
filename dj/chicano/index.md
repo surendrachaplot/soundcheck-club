@@ -1,6 +1,6 @@
 # Chicano
 
-Chicano is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Golden Flamingo, Berlin on Sat, 29 Aug 2026.
+Chicano is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Golden Flamingo, Berlin on Sat, 29 Aug 2026.
 
 Chicano is a techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Albin Brezlan, Ben Green and DAV3. Next up: Golden Flamingo, Berlin on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Chicano is a techno artist tracked on soundcheck, with 4 sets logged across Berl
 
 Albin Brezlan, Ben Green, DAV3
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicano/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chicano/)*

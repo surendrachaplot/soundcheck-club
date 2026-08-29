@@ -1,6 +1,6 @@
 # DJ Courtney K
 
-DJ Courtney K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Crossroads Cafe, New York City on Sat, 29 Aug 2026.
+DJ Courtney K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Crossroads Cafe, New York City on Sat, 29 Aug 2026.
 
 DJ Courtney K is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Pjay, Todd Fatjo and LADYLIZBK. Next up: Crossroads Cafe, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DJ Courtney K is a house and techno artist based in United States of America, tr
 
 Pjay, Todd Fatjo, LADYLIZBK
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcourtneyk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcourtneyk/)*

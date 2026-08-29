@@ -1,6 +1,6 @@
 # Aerofunk
 
-Aerofunk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kazimier Garden, Liverpool on Sun, 30 Aug 2026.
+Aerofunk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kazimier Garden, Liverpool on Sun, 30 Aug 2026.
 
 Aerofunk is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Bristol, Leeds, Lisbon and Liverpool and 2 more. Often billed alongside Dig This, 4D (UK) and DMC.. Next up: Kazimier Garden, Liverpool on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Aerofunk is a house and techno artist based in United Kingdom, tracked on soundc
 
 Dig This, 4D (UK), DMC.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerofunk/)*

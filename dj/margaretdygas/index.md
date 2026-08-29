@@ -1,6 +1,6 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
+Margaret Dygas is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
 Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Margaret Dygas is a house and minimal artist tracked on soundcheck, with 137 set
 
 Edward, Francesco Del Garda, Sonja Moonear
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

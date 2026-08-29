@@ -1,6 +1,6 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at KOKO, London on Sat, 29 Aug 2026.
+Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at KOKO, London on Sat, 29 Aug 2026.
 
 Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: KOKO, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on 
 
 Jyoty, DJ Heartstring, Donnie Sunshine
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

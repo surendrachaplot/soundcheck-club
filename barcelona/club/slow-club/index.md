@@ -1,14 +1,13 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Introspection: Navider" on Fri, 28 Aug 2026.
+Slow Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hypnotic: Navider" on Sat, 29 Aug 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Frankie G, Ismael Rivas, Luis Bonias and Navider. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including Frankie G, Ismael Rivas, Luis Bonias and Navider. Browse upcoming dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Introspection: Navider | Navider |
 | Sat, 29 Aug 2026 | Hypnotic: Navider | Navider |
 | Thu, 3 Sept 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 4 Sept 2026 | Tribalesque: Navider | Navider |
@@ -18,9 +17,10 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 14 upcoming nights
 | Sat, 19 Sept 2026 | Hypnotic: Ismael Rivas + Frankie G | Frankie G, Ismael Rivas |
 | Thu, 24 Sept 2026 | Deep, Tech, House by Navider | Navider |
 | Thu, 1 Oct 2026 | Deep, Tech, House by Navider | Navider |
+| Thu, 8 Oct 2026 | ★★★ Deep, Tech, House by Navider | Navider |
 
 ## Address
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

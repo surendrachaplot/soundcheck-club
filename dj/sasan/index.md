@@ -1,6 +1,6 @@
 # Sasan
 
-Sasan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Klein, Istanbul on Sun, 30 Aug 2026.
+Sasan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klein, Istanbul on Sun, 30 Aug 2026.
 
 Sasan is a house and techno artist tracked on soundcheck, with 9 sets logged across Istanbul. Often billed alongside SCRIPT (2), 19:26 and Deniz Kabu. Next up: Klein, Istanbul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Sasan is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 SCRIPT (2), 19:26, Deniz Kabu
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasan/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasan/)*

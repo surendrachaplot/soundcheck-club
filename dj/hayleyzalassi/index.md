@@ -1,6 +1,6 @@
 # Hayley Zalassi
 
-Hayley Zalassi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
+Hayley Zalassi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ratpack Piano Bar, Edinburgh on Sat, 29 Aug 2026.
 
 Hayley Zalassi is a house and techno artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Barcelona and Brighton and 14 more. Often billed alongside KILIMANJARO, Big Miz and Danse Atmos. Next up: Ratpack Piano Bar, Edinburgh on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Hayley Zalassi is a house and techno artist tracked on soundcheck, with 88 sets 
 
 KILIMANJARO, Big Miz, Danse Atmos
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleyzalassi/)*

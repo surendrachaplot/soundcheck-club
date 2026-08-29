@@ -1,6 +1,6 @@
 # Alacrán del Amor
 
-Alacrán del Amor is a Techno and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bardo Speakeasy, Mexico City on Sat, 29 Aug 2026.
+Alacrán del Amor is a Techno and Dancehall artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bardo Speakeasy, Mexico City on Sat, 29 Aug 2026.
 
 Alacrán del Amor is a techno and dancehall artist tracked on soundcheck, with 21 sets logged across Mexicocity. Often billed alongside Catatonique, AB and Antaares. Next up: Bardo Speakeasy, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Alacrán del Amor is a techno and dancehall artist tracked on soundcheck, with 2
 
 Catatonique, AB, Antaares
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alacrandelamor/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alacrandelamor/)*

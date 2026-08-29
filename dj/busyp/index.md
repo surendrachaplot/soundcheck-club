@@ -1,6 +1,6 @@
 # Busy P
 
-Busy P is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
+Busy P is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 1 Oct 2026.
 
 Busy P is a house and electro artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Geneva and 13 more. Often billed alongside Tatyana Jane, Breakbot and Myd. Next up: Pacha Ibiza, Ibiza on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Busy P is a house and electro artist tracked on soundcheck, with 49 sets logged 
 
 Tatyana Jane, Breakbot, Myd
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/busyp/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/busyp/)*

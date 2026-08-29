@@ -1,6 +1,6 @@
 # AWood
 
-AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Vancouver Art Gallery, Vancouver on Sat, 29 Aug 2026.
+AWood is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Vancouver Art Gallery, Vancouver on Sat, 29 Aug 2026.
 
 AWood is a techno and house artist tracked on soundcheck, with 44 sets logged across Toronto and Vancouver. Often billed alongside Lucci (CA), DK PAU and Fizch. Next up: Vancouver Art Gallery, Vancouver on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ AWood is a techno and house artist tracked on soundcheck, with 44 sets logged ac
 
 Lucci (CA), DK PAU, Fizch
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awood/)*

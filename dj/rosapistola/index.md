@@ -1,6 +1,6 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paragon, New York City on Fri, 30 Oct 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paragon, New York City on Fri, 30 Oct 2026.
 
 Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: Paragon, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Rosa Pistola is a reggaeton and latin bass artist tracked on soundcheck, with 10
 
 Bclip, Freebot, DJ Travella
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*

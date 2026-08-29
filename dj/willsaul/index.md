@@ -1,6 +1,6 @@
 # Will Saul
 
-Will Saul is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
+Will Saul is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Parc de Sa Gravera, Mallorca on Sat, 29 Aug 2026.
 
 Will Saul is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, London, Mallorca and Stockholm and 1 more. Often billed alongside Cinthie, 808 State and Actress. Next up: Parc de Sa Gravera, Mallorca on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Will Saul is a house and electronica artist based in United Kingdom, tracked on 
 
 Cinthie, 808 State, Actress
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willsaul/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willsaul/)*

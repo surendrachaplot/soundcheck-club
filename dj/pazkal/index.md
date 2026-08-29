@@ -1,6 +1,6 @@
 # Pazkal
 
-Pazkal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Supermarket, Zurich on Sat, 12 Sept 2026.
+Pazkal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Supermarket, Zurich on Sat, 12 Sept 2026.
 
 Pazkal is a house and techno artist based in Switzerland, tracked on soundcheck, with 20 sets logged across Berlin, London and Zurich. Often billed alongside And Hazel, Dejan and Animal Trainer. Next up: Supermarket, Zurich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Pazkal is a house and techno artist based in Switzerland, tracked on soundcheck,
 
 And Hazel, Dejan, Animal Trainer
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pazkal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pazkal/)*

@@ -1,6 +1,6 @@
 # Ricky Chong
 
-Ricky Chong is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Big Romance, Dublin on Sat, 29 Aug 2026.
+Ricky Chong is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Big Romance, Dublin on Sat, 29 Aug 2026.
 
 Ricky Chong is a disco and house artist based in Ireland, tracked on soundcheck, with 62 sets logged across Belfast, Bristol, Cork and Dublin and 7 more. Often billed alongside MARINI, Glenn Davis and Pablo Fatty Fatty. Next up: The Big Romance, Dublin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Ricky Chong is a disco and house artist based in Ireland, tracked on soundcheck,
 
 MARINI, Glenn Davis, Pablo Fatty Fatty
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickychong/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rickychong/)*

@@ -1,6 +1,6 @@
 # PortaL(JP)
 
-PortaL(JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mitsuki, Tokyo on Thu, 3 Sept 2026.
+PortaL(JP) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mitsuki, Tokyo on Thu, 3 Sept 2026.
 
 PortaL(JP) is a house and techno artist based in Japan, tracked on soundcheck, with 18 sets logged across Kyoto and Tokyo. Often billed alongside KA4U, Acrocanthosaurus and CALPISS. Next up: Mitsuki, Tokyo on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ PortaL(JP) is a house and techno artist based in Japan, tracked on soundcheck, w
 
 KA4U, Acrocanthosaurus, CALPISS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/portaljp/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/portaljp/)*

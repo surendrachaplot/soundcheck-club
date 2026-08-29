@@ -1,6 +1,6 @@
 # Jan7th
 
-Jan7th is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
+Jan7th is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cakeshop, Seoul on Fri, 25 Sept 2026.
 
 Jan7th is a bass and garage artist based in South Korea, tracked on soundcheck, with 5 sets logged across Seoul. Often billed alongside AEIDA, BAAWLA and rom (6). Next up: Cakeshop, Seoul on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Jan7th is a bass and garage artist based in South Korea, tracked on soundcheck, 
 
 AEIDA, BAAWLA, rom (6)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jan7th/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jan7th/)*

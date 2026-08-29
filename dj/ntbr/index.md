@@ -1,6 +1,6 @@
 # NTBR
 
-NTBR is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Virage, Paris on Wed, 9 Sept 2026.
+NTBR is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Virage, Paris on Wed, 9 Sept 2026.
 
 NTBR is a techno and acid artist based in France, tracked on soundcheck, with 45 sets logged across Berlin, Cologne, Dublin and Frankfurt and 9 more. Often billed alongside AMRTUM, Asaya and DNNS. Next up: Virage, Paris on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ NTBR is a techno and acid artist based in France, tracked on soundcheck, with 45
 
 AMRTUM, Asaya, DNNS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntbr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ntbr/)*

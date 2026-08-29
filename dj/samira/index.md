@@ -1,14 +1,13 @@
 # Samira
 
-Samira is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Blue Room, Montreal on Sat, 22 Aug 2026.
+Samira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
 
-Samira is a house and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, London and Montreal and 2 more. Often billed alongside David Elimelech, Partok and Roi Perez. Next up: Blue Room, Montreal on Sat 22 Aug.
+Samira is a house and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin, London and Montreal and 2 more. Often billed alongside David Elimelech, Partok and Roi Perez. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 22 Aug 2026 | Blue Room | Montreal |
 | Fri, 11 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Samira is a house and techno artist tracked on soundcheck, with 10 sets logged a
 
 David Elimelech, Partok, Roi Perez
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samira/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samira/)*

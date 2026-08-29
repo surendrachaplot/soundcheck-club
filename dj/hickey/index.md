@@ -1,6 +1,6 @@
 # Hickey
 
-Hickey is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cu, London on Sat, 17 Oct 2026.
+Hickey is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cu, London on Sat, 17 Oct 2026.
 
 Hickey is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside SHAWK, Badly Drawn Banana and Amy  B. Next up: Cu, London on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Hickey is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 SHAWK, Badly Drawn Banana, Amy  B
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hickey/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hickey/)*

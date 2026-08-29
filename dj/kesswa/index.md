@@ -1,6 +1,6 @@
 # Kesswa
 
-Kesswa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Temple Bar, Detroit on Sat, 29 Aug 2026.
+Kesswa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Temple Bar, Detroit on Sat, 29 Aug 2026.
 
 Kesswa is a house and techno artist tracked on soundcheck, with 21 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside Gulley, Shigeto and Tammy Lakkis. Next up: Temple Bar, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kesswa is a house and techno artist tracked on soundcheck, with 21 sets logged a
 
 Gulley, Shigeto, Tammy Lakkis
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kesswa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kesswa/)*

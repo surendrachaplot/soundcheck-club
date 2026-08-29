@@ -1,6 +1,6 @@
 # Xana
 
-Xana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 5 Sept 2026.
+Xana is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Pisco Bar, Kuala Lumpur on Sat, 5 Sept 2026.
 
 Xana is a techno and house artist based in Malaysia, tracked on soundcheck, with 14 sets logged across Kualalumpur, Miami and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: Pisco Bar, Kualalumpur on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Xana is a techno and house artist based in Malaysia, tracked on soundcheck, with
 
 1-800-Lolita, SATURNSARii, Mai iachetti
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xana/)*

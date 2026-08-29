@@ -1,6 +1,6 @@
 # Salomé Le Chat
 
-Salomé Le Chat is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Königsplatz München, Munich on Sat, 29 Aug 2026.
+Salomé Le Chat is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Königsplatz München, Munich on Sat, 29 Aug 2026.
 
 Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 23 more. Often billed alongside Jamie Jones, Ben Sterling and Marco Carola. Next up: Königsplatz München, Munich on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Salomé Le Chat is a house and tech house artist tracked on soundcheck, with 108
 
 Jamie Jones, Ben Sterling, Marco Carola
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*

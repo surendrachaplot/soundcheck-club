@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Giri x DUBBDÄCK (a bi / pansexual flirty night)" on Fri, 28 Aug 2026.
+Giri is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Giri x DUBBDÄCK (a bi / pansexual flirty night)" on Fri, 28 Aug 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Airaboi, BENGALA, Chris Gorrie and Dimensionless Unity and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with l
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

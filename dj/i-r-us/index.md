@@ -1,6 +1,6 @@
 # I-R (US)
 
-I-R (US) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jobstoppers, Detroit on Sun, 30 Aug 2026.
+I-R (US) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jobstoppers, Detroit on Sun, 30 Aug 2026.
 
 I-R (US) is a techno and acid artist tracked on soundcheck, with 8 sets logged across Chicago and Detroit. Often billed alongside RETCON, Augustus Williams and Kuuma. Next up: Jobstoppers, Detroit on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ I-R (US) is a techno and acid artist tracked on soundcheck, with 8 sets logged a
 
 RETCON, Augustus Williams, Kuuma
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i-r-us/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/i-r-us/)*

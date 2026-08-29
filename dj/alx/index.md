@@ -1,6 +1,6 @@
 # ALX
 
-ALX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Salon Solin, Mexico City on Thu, 27 Aug 2026.
+ALX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Salon Solin, Mexico City on Thu, 27 Aug 2026.
 
 ALX is a house and techno artist tracked on soundcheck, with 20 sets logged across Houston, Lisbon, Mexicocity and Miami and 1 more. Often billed alongside Cassian, Dr. ADO and Magdalena (DE). Next up: Salon Solin, Mexicocity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ ALX is a house and techno artist tracked on soundcheck, with 20 sets logged acro
 
 Cassian, Dr. ADO, Magdalena (DE)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alx/)*

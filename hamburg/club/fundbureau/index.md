@@ -1,14 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Fundi Floorwarming w/ Avocado // SevenDays // LOLA KOLLEKTIV ANL" on Fri, 28 Aug 2026.
+Fundbureau is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Fundi Floorwarming w/ Randali ANL // Nikiija ANL" on Sat, 29 Aug 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including 3LEEZA, Avocado, BENITO (DE) and Charlie Tee and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including 3LEEZA, BENITO (DE), Charlie Tee and DJ Dommenjay and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Fundi Floorwarming w/ Avocado // SevenDays // LOLA KOLLEKTIV ANL | Avocado, SevenDays |
 | Sat, 29 Aug 2026 | Fundi Floorwarming w/ Randali ANL // Nikiija ANL | Isabelle Beaucamp, Nikiija, Randali |
 | Sat, 5 Sept 2026 | Trybe Summer Closing: Afterparty | BENITO (DE), DJ Dommenjay, LSG (3), SAIDEX, Softdrive, TRYPTAJ, TWOFACEDKIMMY |
 | Sat, 5 Sept 2026 | AOTM X Fundbureau with DJ JANNE |  |
@@ -21,4 +20,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, 
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

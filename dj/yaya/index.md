@@ -1,6 +1,6 @@
 # Yaya
 
-Yaya is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Estadio Nacional, Ezeiza, Buenos Aires on Sun, 20 Sept 2026.
+Yaya is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Estadio Nacional, Ezeiza, Buenos Aires on Sun, 20 Sept 2026.
 
 Yaya is a tech house and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Bucharest and Budapest and 22 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: TBA - Estadio Nacional, Ezeiza, Buenosaires on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Yaya is a tech house and house artist tracked on soundcheck, with 89 sets logged
 
 Mahony, Loco Dice, Joey Daniel
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*

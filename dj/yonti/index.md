@@ -1,6 +1,6 @@
 # Yonti
 
-Yonti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at BASEMENT, New York City on Sat, 29 Aug 2026.
+Yonti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at BASEMENT, New York City on Sat, 29 Aug 2026.
 
 Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside Roi Perez, Blasha & Allatt and Rachel Noon. Next up: BASEMENT, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Yonti is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Roi Perez, Blasha & Allatt, Rachel Noon
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*

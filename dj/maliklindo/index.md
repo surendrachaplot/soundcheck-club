@@ -1,6 +1,6 @@
 # Malik Lindo
 
-Malik Lindo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jean’s, New York City on Thu, 3 Sept 2026.
+Malik Lindo is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jean’s, New York City on Thu, 3 Sept 2026.
 
 Malik Lindo is a house and afro house artist tracked on soundcheck, with 10 sets logged across Newyorkcity and Toronto. Often billed alongside Chris Moore (NYC), Ami 8 and Byrell The Great. Next up: Jean’s, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Malik Lindo is a house and afro house artist tracked on soundcheck, with 10 sets
 
 Chris Moore (NYC), Ami 8, Byrell The Great
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maliklindo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maliklindo/)*

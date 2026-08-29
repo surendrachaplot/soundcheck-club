@@ -1,6 +1,6 @@
 # Aidan
 
-Aidan is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
+Aidan is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
 
 Aidan is a house and italo disco artist based in Ireland, tracked on soundcheck, with 34 sets logged across Berlin and Dublin. Often billed alongside David Diamond, Bella Festa and Matteo Gamba. Next up: Paloma, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Aidan is a house and italo disco artist based in Ireland, tracked on soundcheck,
 
 David Diamond, Bella Festa, Matteo Gamba
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidan/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidan/)*

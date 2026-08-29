@@ -1,6 +1,6 @@
 # Schott (2)
 
-Schott (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Schott (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Schott (2) is a trance and techno artist tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Alphabae, Chayalatte and Franziska Frizzante. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Schott (2) is a trance and techno artist tracked on soundcheck, with 5 sets logg
 
 Alphabae, Chayalatte, Franziska Frizzante
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schott-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schott-2/)*

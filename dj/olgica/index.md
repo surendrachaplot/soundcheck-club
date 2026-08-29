@@ -1,6 +1,6 @@
 # Olgica
 
-Olgica is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
+Olgica is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
 
 Olgica is a house and bass artist based in Serbia, tracked on soundcheck, with 19 sets logged across Belgrade, Ghent, Munich and Tbilisi and 1 more. Often billed alongside Sun People, BØRT and Katia Curie. Next up: Karmakoma, Belgrade on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Olgica is a house and bass artist based in Serbia, tracked on soundcheck, with 1
 
 Sun People, BØRT, Katia Curie
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*

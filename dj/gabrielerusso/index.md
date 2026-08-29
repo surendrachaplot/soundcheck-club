@@ -1,6 +1,6 @@
 # Gabriele Russo
 
-Gabriele Russo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Calatheabeachclub, Naples on Sat, 29 Aug 2026.
+Gabriele Russo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Calatheabeachclub, Naples on Sat, 29 Aug 2026.
 
 Gabriele Russo is a house and tech house artist based in Italy, tracked on soundcheck, with 30 sets logged across London, Naples and Tokyo. Often billed alongside Carlo Martino, VNP and Enrico Maria. Next up: Calatheabeachclub, Naples on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Gabriele Russo is a house and tech house artist based in Italy, tracked on sound
 
 Carlo Martino, VNP, Enrico Maria
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielerusso/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielerusso/)*

@@ -1,6 +1,6 @@
 # badassgatsby
 
-badassgatsby is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cakeshop, Seoul on Sat, 5 Sept 2026.
+badassgatsby is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cakeshop, Seoul on Sat, 5 Sept 2026.
 
 badassgatsby is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 22 sets logged across Seoul. Often billed alongside Xena (KR), Y1VB0 and Zion. Next up: Cakeshop, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ badassgatsby is a hip-hop and club artist based in South Korea, tracked on sound
 
 Xena (KR), Y1VB0, Zion
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badassgatsby/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/badassgatsby/)*

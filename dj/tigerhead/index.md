@@ -1,18 +1,18 @@
 # Tigerhead
 
-Tigerhead is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mia Mao, Paris on Fri, 28 Aug 2026.
+Tigerhead is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at OST, Berlin on Sat, 31 Oct 2026.
 
-Tigerhead is a techno and electro artist tracked on soundcheck, with 64 sets logged across Basel, Berlin, Brussels and Bucharest and 21 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: Mia Mao, Paris on Fri 28 Aug.
+Tigerhead is a techno and electro artist tracked on soundcheck, with 64 sets logged across Basel, Berlin, Brussels and Bucharest and 21 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: OST, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Mia Mao | Paris |
 | Sat, 31 Oct 2026 | OST | Berlin |
 
 ## Recently played
 
+- Mia Mao, Paris — Fri, 28 Aug 2026
 - KALT, Strasbourg — Sat, 15 Aug 2026
 - OXI, Berlin — Tue, 23 Jun 2026
 - Virage, Paris — Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ Tigerhead is a techno and electro artist tracked on soundcheck, with 64 sets log
 - Glazart, Paris — Thu, 14 May 2026
 - RSO.BERLIN, Berlin — Fri, 1 May 2026
 - Refuge, New York City — Fri, 24 Apr 2026
-- ://about blank, Berlin — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Ellen Allien, Bours?, Beau Didier
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerhead/)*

@@ -1,6 +1,6 @@
 # Pau Guilera
 
-Pau Guilera is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Macarena Club, Barcelona on Wed, 2 Sept 2026.
+Pau Guilera is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Macarena Club, Barcelona on Wed, 2 Sept 2026.
 
 Pau Guilera is a tech house and house artist tracked on soundcheck, with 119 sets logged across Barcelona, Ibiza and Utrecht. Often billed alongside Jones May, BizZa and Vidaloca. Next up: Macarena Club, Barcelona on Wed 2 Sept.
 
@@ -28,4 +28,4 @@ Pau Guilera is a tech house and house artist tracked on soundcheck, with 119 set
 
 Jones May, BizZa, Vidaloca
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*

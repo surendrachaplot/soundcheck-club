@@ -1,6 +1,6 @@
 # Bøgen
 
-Bøgen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Süss War Gestern, Berlin on Sat, 29 Aug 2026.
+Bøgen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Süss War Gestern, Berlin on Sat, 29 Aug 2026.
 
 Bøgen is a techno and house artist based in Chile, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Prague and Stockholm. Often billed alongside Vlad Yaki, Hugorieri and Stefan Muchte. Next up: Süss War Gestern, Berlin on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Bøgen is a techno and house artist based in Chile, tracked on soundcheck, with 
 
 Vlad Yaki, Hugorieri, Stefan Muchte
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bogen/)*

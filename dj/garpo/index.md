@@ -1,6 +1,6 @@
 # Garpo
 
-Garpo is a Dub Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Atno, Budapest on Sat, 12 Sept 2026.
+Garpo is a Dub Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Atno, Budapest on Sat, 12 Sept 2026.
 
 Garpo is a dub techno and ambient artist tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside ZOL, Bekø and Maron. Next up: Atno, Budapest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Garpo is a dub techno and ambient artist tracked on soundcheck, with 19 sets log
 
 ZOL, Bekø, Maron
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garpo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garpo/)*

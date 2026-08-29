@@ -1,6 +1,6 @@
 # Memet Acuma
 
-Memet Acuma is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at PRST, Vienna on Thu, 27 Aug 2026.
+Memet Acuma is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at PRST, Vienna on Thu, 27 Aug 2026.
 
 Memet Acuma is a techno and electro artist tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside BØRT, Farr and POLYXENE. Next up: PRST, Vienna on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Memet Acuma is a techno and electro artist tracked on soundcheck, with 11 sets l
 
 BØRT, Farr, POLYXENE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/memetacuma/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/memetacuma/)*

@@ -1,6 +1,6 @@
 # Manami T.B
 
-Manami T.B is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Numm, Tokyo on Sat, 29 Aug 2026.
+Manami T.B is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Numm, Tokyo on Sat, 29 Aug 2026.
 
 Manami T.B is a house and deep house artist based in Japan, tracked on soundcheck, with 30 sets logged across Tokyo. Often billed alongside Gara, Isoroqu and 000 (DJ). Next up: Numm, Tokyo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Manami T.B is a house and deep house artist based in Japan, tracked on soundchec
 
 Gara, Isoroqu, 000 (DJ)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manamitb/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manamitb/)*

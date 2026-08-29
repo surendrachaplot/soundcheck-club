@@ -1,6 +1,6 @@
 # Savoy
 
-Savoy is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "R&B & Hip-Hop throwback party" on Sat, 29 Aug 2026.
+Savoy is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "R&B & Hip-Hop throwback party" on Sat, 29 Aug 2026.
 
 Savoy is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including George Bowie and Ian Van Dahl. Browse upcoming dates, start times and who's playing. 140 Sauchiehall St, Glasgow G2 3DH.
 
@@ -17,4 +17,4 @@ Savoy is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with 
 
 140 Sauchiehall St, Glasgow G2 3DH, Glasgow
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*

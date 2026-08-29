@@ -1,6 +1,6 @@
 # hellocatfood
 
-hellocatfood is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
+hellocatfood is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
 
 hellocatfood is an experimental and idm artist tracked on soundcheck, with 13 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside #pastagang, Yaxu and 2xAA. Next up: The Carpet Shop, London on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ hellocatfood is an experimental and idm artist tracked on soundcheck, with 13 se
 
 #pastagang, Yaxu, 2xAA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellocatfood/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hellocatfood/)*

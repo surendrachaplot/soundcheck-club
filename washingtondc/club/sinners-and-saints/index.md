@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Sinners and Saints presents: Dyke Night" on Sat, 29 Aug 2026.
+Sinners and Saints is a music venue in Washington DC with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sinners and Saints presents: Dyke Night" on Sat, 29 Aug 2026.
 
 Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 4 upcoming nights, with line-ups including dicqbeats, GOkibstarGO, IDKRYAN and Mooncrumb and 2 more. Browse upcoming dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
@@ -17,4 +17,4 @@ Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 4 upco
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

@@ -1,6 +1,6 @@
 # Ian Martz
 
-Ian Martz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Salon Solin, Mexico City on Thu, 27 Aug 2026.
+Ian Martz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Salon Solin, Mexico City on Thu, 27 Aug 2026.
 
 Ian Martz is a house and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Mexicocity. Often billed alongside Roch (MX), AAAA and ALDOX. Next up: Salon Solin, Mexicocity on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ Ian Martz is a house and techno artist based in Mexico, tracked on soundcheck, w
 
 Roch (MX), AAAA, ALDOX
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartz/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartz/)*

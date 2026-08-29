@@ -1,6 +1,6 @@
 # Nic Siena
 
-Nic Siena is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
+Nic Siena is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
 
 Nic Siena is a house and minimal artist tracked on soundcheck, with 9 sets logged across Rome. Often billed alongside Alessandro Addi, Andrea Saba and Francesco Maria. Next up: Hotel Butterfly, Rome on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Nic Siena is a house and minimal artist tracked on soundcheck, with 9 sets logge
 
 Alessandro Addi, Andrea Saba, Francesco Maria
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicsiena/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicsiena/)*

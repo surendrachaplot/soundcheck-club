@@ -1,6 +1,6 @@
 # Format
 
-Format is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Bristol on Sat, 29 Aug 2026.
+Format is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Bristol on Sat, 29 Aug 2026.
 
 Format is a house and techno artist tracked on soundcheck, with 5 sets logged across Bristol, Lisbon, Mexicocity and Paris and 1 more. Often billed alongside Adam Khan, Audiophile and DJ B2B. Next up: TBA, Bristol on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ Format is a house and techno artist tracked on soundcheck, with 5 sets logged ac
 
 Adam Khan, Audiophile, DJ B2B
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/format/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/format/)*

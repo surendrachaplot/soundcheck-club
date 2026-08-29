@@ -1,6 +1,6 @@
 # Activator (AU)
 
-Activator (AU) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Activator (AU) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 Activator (AU) is a house and tech house artist tracked on soundcheck, with 42 sets logged across Berlin and Melbourne. Often billed alongside Hannah D, Miki (3) and Afrodisiac. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Activator (AU) is a house and tech house artist tracked on soundcheck, with 42 s
 
 Hannah D, Miki (3), Afrodisiac
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/activator-au/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/activator-au/)*

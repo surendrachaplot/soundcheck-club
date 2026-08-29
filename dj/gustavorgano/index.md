@@ -1,6 +1,6 @@
 # Gustav Ørgano
 
-Gustav Ørgano is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Gustav Ørgano is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Gustav Ørgano is a psytrance and techno artist tracked on soundcheck, with 6 sets logged across Cologne and Stuttgart. Often billed alongside GEORGE aka DR.RADSPORT, Johannes Schuster and Serafina. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -9,10 +9,11 @@ Gustav Ørgano is a psytrance and techno artist tracked on soundcheck, with 6 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Fri, 28 Aug 2026 | Lehmann Club | Stuttgart |
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
+- Lehmann Club, Stuttgart — Fri, 28 Aug 2026
 - Bootshaus, Cologne — Sat, 25 Apr 2026
 - Lehmann Club, Stuttgart — Fri, 17 Apr 2026
 - Lehmann Club, Stuttgart — Fri, 26 Dec 2025
@@ -22,4 +23,4 @@ Gustav Ørgano is a psytrance and techno artist tracked on soundcheck, with 6 se
 
 GEORGE aka DR.RADSPORT, Johannes Schuster, Serafina
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*

@@ -1,6 +1,6 @@
 # Layson
 
-Layson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Next Door Records Two, London on Sat, 29 Aug 2026.
+Layson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Next Door Records Two, London on Sat, 29 Aug 2026.
 
 Layson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: Next Door Records Two, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Layson is a house and techno artist based in United Kingdom, tracked on soundche
 
 Marlon Baleci, Nick Clev, Sam Beach
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/layson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/layson/)*

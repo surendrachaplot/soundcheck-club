@@ -1,6 +1,6 @@
 # Park.Cologne
 
-Park.Cologne is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "electronic love pres. ENDLESS SUMMER OPEN AIR - SAMSTAG-" on Sat, 29 Aug 2026.
+Park.Cologne is a music venue in Cologne with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "electronic love pres. ENDLESS SUMMER OPEN AIR - SAMSTAG-" on Sat, 29 Aug 2026.
 
 Park.Cologne is a music venue in Cologne listed on soundcheck. 1 upcoming night, with line-ups including ADEMES, Dj Kuschelschal, DJ SODBRENNEN and Flex on Trax and 2 more. Browse upcoming dates, start times and who's playing. Josef-Lammerting-Allee 17–19, 50933 Köln.
 
@@ -14,4 +14,4 @@ Park.Cologne is a music venue in Cologne listed on soundcheck. 1 upcoming night,
 
 Josef-Lammerting-Allee 17–19, 50933 Köln, Cologne
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/park-cologne/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/park-cologne/)*

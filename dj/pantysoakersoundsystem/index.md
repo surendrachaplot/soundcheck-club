@@ -1,6 +1,6 @@
 # Panty Soaker Sound System
 
-Panty Soaker Sound System is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Dundee Arms, Bethnal Green, London on Sat, 26 Sept 2026.
+Panty Soaker Sound System is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Dundee Arms, Bethnal Green, London on Sat, 26 Sept 2026.
 
 Panty Soaker Sound System is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh, London, Manchester and Newyorkcity. Often billed alongside Prosumer, 2ManyDJs and Alice Longyu Gao. Next up: The Dundee Arms, Bethnal Green, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Panty Soaker Sound System is a house and deep house artist based in United Kingd
 
 Prosumer, 2ManyDJs, Alice Longyu Gao
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pantysoakersoundsystem/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pantysoakersoundsystem/)*

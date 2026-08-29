@@ -1,6 +1,6 @@
 # egomania
 
-egomania is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
+egomania is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at MIDNIGHT EAST, Tokyo on Sat, 29 Aug 2026.
 
 egomania is a hardcore and techno artist tracked on soundcheck, with 44 sets logged across Barcelona and Tokyo. Often billed alongside KAMIKAZE, KYLE MIKASA and Sonia Lagoon (2). Next up: MIDNIGHT EAST, Tokyo on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ egomania is a hardcore and techno artist tracked on soundcheck, with 44 sets log
 
 KAMIKAZE, KYLE MIKASA, Sonia Lagoon (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/egomania/)*

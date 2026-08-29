@@ -1,6 +1,6 @@
 # Sansibar
 
-Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
+Sansibar is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Circle Park, Brussels on Sat, 29 Aug 2026.
 
 Sansibar is a techno and electro artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 45 more. Often billed alongside dj sweet6teen, Naone and Angel D'lite. Next up: Circle Park, Brussels on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ Sansibar is a techno and electro artist tracked on soundcheck, with 149 sets log
 
 dj sweet6teen, Naone, Angel D'lite
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansibar/)*

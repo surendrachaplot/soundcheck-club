@@ -1,6 +1,6 @@
 # Millian
 
-Millian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
+Millian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
 
 Millian is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside ODJ (1), Armând and ANLON. Next up: Crate Brewery, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Millian is a house and techno artist based in United Kingdom, tracked on soundch
 
 ODJ (1), Armând, ANLON
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millian/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/millian/)*

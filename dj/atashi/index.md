@@ -1,6 +1,6 @@
 # Atashi
 
-Atashi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Turbina, Budapest on Fri, 11 Sept 2026.
+Atashi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Turbina, Budapest on Fri, 11 Sept 2026.
 
 Atashi is a techno and trance artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest and Tokyo. Often billed alongside Bencsama, Kozma and AllaDerivaLontano. Next up: Turbina, Budapest on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Atashi is a techno and trance artist based in Hungary, tracked on soundcheck, wi
 
 Bencsama, Kozma, AllaDerivaLontano
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atashi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atashi/)*

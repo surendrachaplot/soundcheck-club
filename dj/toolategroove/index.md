@@ -1,6 +1,6 @@
 # Toolate Groove
 
-Toolate Groove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at UMI, Brussels on Sat, 5 Sept 2026.
+Toolate Groove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UMI, Brussels on Sat, 5 Sept 2026.
 
 Toolate Groove is a house and techno artist tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 4 more. Often billed alongside Bass Toast, EG (1) and Fiona Zanetti. Next up: UMI, Brussels on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Toolate Groove is a house and techno artist tracked on soundcheck, with 36 sets 
 
 Bass Toast, EG (1), Fiona Zanetti
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toolategroove/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toolategroove/)*

@@ -1,6 +1,6 @@
 # Excalibur
 
-Excalibur is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Système, Montreal on Fri, 18 Sept 2026.
+Excalibur is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Système, Montreal on Fri, 18 Sept 2026.
 
 Excalibur is a techno and experimental artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal, Newyorkcity, Toronto and Vancouver. Often billed alongside DJ Frog, DJ Spence and SnP 500. Next up: Système, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Excalibur is a techno and experimental artist based in Canada, tracked on soundc
 
 DJ Frog, DJ Spence, SnP 500
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excalibur/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/excalibur/)*

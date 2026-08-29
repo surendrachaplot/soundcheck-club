@@ -1,6 +1,6 @@
 # Fursa
 
-Fursa is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
+Fursa is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
 
 Fursa is an electro and pop artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity and Washingtondc. Often billed alongside MNSA, Ushka and Omar Ahmad. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fursa is an electro and pop artist based in United States of America, tracked on
 
 MNSA, Ushka, Omar Ahmad
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fursa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fursa/)*

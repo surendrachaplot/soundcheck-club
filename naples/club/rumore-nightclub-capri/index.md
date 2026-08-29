@@ -1,14 +1,13 @@
 # Rumore Nightclub Capri
 
-Rumore Nightclub Capri is a music venue in Naples with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Rumore Season 26 Party N°40 W/ Cumhur Jay & Orazio Rispo" on Fri, 28 Aug 2026.
+Rumore Nightclub Capri is a music venue in Naples with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Rumore Season 26 Party N°41 W/ Kenia & Maure" on Sat, 29 Aug 2026.
 
-Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 6 upcoming nights, with line-ups including Céline, Cumhur Jay, Gabriele Russo and Jonny Rock and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
+Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 5 upcoming nights, with line-ups including Céline, Gabriele Russo, Jonny Rock and Kenia and 2 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Rumore Season 26 Party N°40 W/ Cumhur Jay & Orazio Rispo | Cumhur Jay, Orazio Rispo |
 | Sat, 29 Aug 2026 | Rumore Season 26 Party N°41 W/ Kenia & Maure | Kenia |
 | Sat, 5 Sept 2026 | Rumore Season 26 Party N°42 W/ Jonny Rock & Gabriele Russo | Gabriele Russo, Jonny Rock |
 | Sat, 12 Sept 2026 | Rumore Season 26 Party N°43 W/ Eddie Megraoui & Francis Latombe |  |
@@ -19,4 +18,4 @@ Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 6 upcomi
 
 Via Roma 71, 80073, Capri, Italy, Naples
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*

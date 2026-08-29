@@ -1,6 +1,6 @@
 # Yengo
 
-Yengo is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
+Yengo is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bread and Butter, London on Sat, 29 Aug 2026.
 
 Yengo is an amapiano and bass artist tracked on soundcheck, with 7 sets logged across London and Tokyo. Often billed alongside Rico Vision, ABIMBOLA and Bisk. Next up: Bread and Butter, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ Yengo is an amapiano and bass artist tracked on soundcheck, with 7 sets logged a
 
 Rico Vision, ABIMBOLA, Bisk
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yengo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yengo/)*

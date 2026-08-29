@@ -1,6 +1,6 @@
 # DECOSTAT
 
-DECOSTAT is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
+DECOSTAT is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
 
 DECOSTAT is a house and deep house artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Tamborero, APTIN and Adria (ES). Next up: TBA, Barcelona on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ DECOSTAT is a house and deep house artist tracked on soundcheck, with 7 sets log
 
 Tamborero, APTIN, Adria (ES)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decostat/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decostat/)*

@@ -1,6 +1,6 @@
 # Enzo
 
-Enzo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 6 Sept 2026.
+Enzo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 6 Sept 2026.
 
 Enzo is a techno and tech house artist tracked on soundcheck, with 16 sets logged across Barcelona, Losangeles, Newyorkcity and Portland and 3 more. Often billed alongside Icarian PB1, Orkus and COTA. Next up: Circus Tokyo, Tokyo on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Enzo is a techno and tech house artist tracked on soundcheck, with 16 sets logge
 
 Icarian PB1, Orkus, COTA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*

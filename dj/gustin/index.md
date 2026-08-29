@@ -1,6 +1,6 @@
 # Gustin
 
-Gustin is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
+Gustin is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
 
 Gustin is a progressive house and electronica artist based in Ireland, tracked on soundcheck, with 17 sets logged across Amsterdam, Buenosaires, Dublin and Ibiza and 2 more. Often billed alongside Callecat, Pablo Pegar and Alain Pauwels. Next up: Marina Botafoch, Ibiza on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Gustin is a progressive house and electronica artist based in Ireland, tracked o
 
 Callecat, Pablo Pegar, Alain Pauwels
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gustin/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gustin/)*

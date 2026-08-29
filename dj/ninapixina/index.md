@@ -1,6 +1,6 @@
 # Nina Pixina
 
-Nina Pixina is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
+Nina Pixina is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 29 Aug 2026.
 
 Nina Pixina is a techno and trance artist tracked on soundcheck, with 37 sets logged across Barcelona, Brighton, Bucharest and Leeds and 1 more. Often billed alongside Gloria Rose, RayRay and Amphia. Next up: Village Underground Barcelona, Barcelona on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Nina Pixina is a techno and trance artist tracked on soundcheck, with 37 sets lo
 
 Gloria Rose, RayRay, Amphia
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninapixina/)*

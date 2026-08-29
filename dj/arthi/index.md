@@ -1,6 +1,6 @@
 # Arthi
 
-Arthi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at fabric, London on Fri, 30 Oct 2026.
+Arthi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at fabric, London on Fri, 30 Oct 2026.
 
 Arthi is a garage and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Bakey, Katy B and Skeptic. Next up: fabric, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Arthi is a garage and house artist tracked on soundcheck, with 102 sets logged a
 
 Bakey, Katy B, Skeptic
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arthi/)*

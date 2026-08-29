@@ -1,6 +1,6 @@
 # Masada
 
-Masada is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Neon with Marcolino and Domenico Rosa" on Sat, 5 Sept 2026.
+Masada is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Neon with Marcolino and Domenico Rosa" on Sat, 5 Sept 2026.
 
 Masada is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Amotik, Chami, Domenico Rosa and Ikaar and 2 more. Browse upcoming dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
@@ -16,4 +16,4 @@ Masada is a music venue in Milan listed on soundcheck. 3 upcoming nights, with l
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

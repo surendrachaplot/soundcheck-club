@@ -1,6 +1,6 @@
 # The Cadman
 
-The Cadman is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "immense at sea ⎮ sunset boat party" on Sat, 29 Aug 2026.
+The Cadman is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "immense at sea ⎮ sunset boat party" on Sat, 29 Aug 2026.
 
 The Cadman is a music venue in Sydney listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. The Cadman Boat, Sydney.
 
@@ -14,4 +14,4 @@ The Cadman is a music venue in Sydney listed on soundcheck. 1 upcoming night. Br
 
 The Cadman Boat, Sydney, Sydney
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-cadman/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-cadman/)*

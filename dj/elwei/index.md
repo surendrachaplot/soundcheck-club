@@ -1,6 +1,6 @@
 # Elwei
 
-Elwei is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Korsakov, Antwerp on Sat, 29 Aug 2026.
+Elwei is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Korsakov, Antwerp on Sat, 29 Aug 2026.
 
 Elwei is a house and techno artist based in Spain, tracked on soundcheck, with 95 sets logged across Antwerp, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Miguel Silva, Popsky and Djoan. Next up: Korsakov, Antwerp on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Elwei is a house and techno artist based in Spain, tracked on soundcheck, with 9
 
 Miguel Silva, Popsky, Djoan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elwei/)*

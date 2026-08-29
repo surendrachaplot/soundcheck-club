@@ -1,6 +1,6 @@
 # Nosaj Thing
 
-Nosaj Thing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Nosaj Thing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Nosaj Thing is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Austin and Bangkok and 28 more. Often billed alongside Jacques Greene, Daito Manabe and Chloé Caillet. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nosaj Thing is a techno and house artist based in United States of America, trac
 
 Jacques Greene, Daito Manabe, Chloé Caillet
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nosajthing/)*

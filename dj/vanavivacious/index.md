@@ -1,6 +1,6 @@
 # Vána Vivacious
 
-Vána Vivacious is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
+Vána Vivacious is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
 
 Vána Vivacious is a techno and house artist tracked on soundcheck, with 5 sets logged across Brussels. Often billed alongside Ordin Air, Roel Butzen and CP. Next up: Bodies in Space, Brussels on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Vána Vivacious is a techno and house artist tracked on soundcheck, with 5 sets 
 
 Ordin Air, Roel Butzen, CP
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanavivacious/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanavivacious/)*

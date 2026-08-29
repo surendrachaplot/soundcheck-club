@@ -1,6 +1,6 @@
 # dragosh (RO)
 
-dragosh (RO) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at control, Bucharest on Sat, 21 Nov 2026.
+dragosh (RO) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at control, Bucharest on Sat, 21 Nov 2026.
 
 dragosh (RO) is a techno and acid artist tracked on soundcheck, with 14 sets logged across Bucharest. Often billed alongside Gruell, ALISTARM and Thomas Rob. Next up: control, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ dragosh (RO) is a techno and acid artist tracked on soundcheck, with 14 sets log
 
 Gruell, ALISTARM, Thomas Rob
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragoshro/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dragoshro/)*

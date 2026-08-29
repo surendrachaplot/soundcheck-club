@@ -1,6 +1,6 @@
 # Topher the Alien
 
-Topher the Alien is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Churchill's Pub, Miami on Fri, 18 Sept 2026.
+Topher the Alien is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Churchill's Pub, Miami on Fri, 18 Sept 2026.
 
 Topher the Alien is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 28 sets logged across Denver and Miami. Often billed alongside DJ Tamsom, DB Cooper and LAMEBOT. Next up: Churchill's Pub, Miami on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Topher the Alien is a drum & bass and jungle artist based in United States of Am
 
 DJ Tamsom, DB Cooper, LAMEBOT
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topherthealien/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/topherthealien/)*

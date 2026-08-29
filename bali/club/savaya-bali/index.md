@@ -1,14 +1,13 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 28 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Sam Feldt" on Fri, 28 Aug 2026.
+Savaya Bali is a music venue in Bali with 27 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "GENESI" on Sat, 29 Aug 2026.
 
-Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming nights, with line-ups including AARON SEVILLA, Alex Wann, Colyn and Damian Lazarus and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
+Savaya Bali is a music venue in Bali listed on soundcheck. 27 upcoming nights, with line-ups including AARON SEVILLA, Alex Wann, Colyn and Damian Lazarus and 2 more. Browse upcoming dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Sam Feldt | Sam Feldt |
 | Sat, 29 Aug 2026 | GENESI | GENESI |
 | Sun, 30 Aug 2026 | AARON SEVILLA | AARON SEVILLA |
 | Sat, 5 Sept 2026 | Laolu | Laolu |
@@ -18,9 +17,10 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 28 upcoming nights, w
 | Sat, 19 Sept 2026 | Techno and Chill |  |
 | Sat, 26 Sept 2026 | Stephan Bodzin | Stephan Bodzin |
 | Sun, 27 Sept 2026 | The Martinez Brothers | The Martinez Brothers |
+| Sat, 3 Oct 2026 | Stephan Jolk | Stephan Jolk |
 
 ## Address
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

@@ -1,6 +1,6 @@
 # Mayari
 
-Mayari is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Harbor House DTLA, Los Angeles on Fri, 9 Oct 2026.
+Mayari is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Harbor House DTLA, Los Angeles on Fri, 9 Oct 2026.
 
 Mayari is a deep house and house artist tracked on soundcheck, with 14 sets logged across London, Losangeles and Melbourne. Often billed alongside Claudine Mayari, Massio and Eddie Salavati. Next up: Harbor House DTLA, Losangeles on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mayari is a deep house and house artist tracked on soundcheck, with 14 sets logg
 
 Claudine Mayari, Massio, Eddie Salavati
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari/)*

@@ -1,6 +1,6 @@
 # BEPPE BRANDO
 
-BEPPE BRANDO is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sorgiva Village, Milan on Sun, 30 Aug 2026.
+BEPPE BRANDO is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sorgiva Village, Milan on Sun, 30 Aug 2026.
 
 BEPPE BRANDO is an electronica and house artist tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Test_One, David Castellani and Kalitragus. Next up: Sorgiva Village, Milan on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ BEPPE BRANDO is an electronica and house artist tracked on soundcheck, with 7 se
 
 Test_One, David Castellani, Kalitragus
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beppebrando/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beppebrando/)*

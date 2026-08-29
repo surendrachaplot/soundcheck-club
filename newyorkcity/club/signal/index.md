@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Night & Day: Eli Escobar, The Carry Nation, Dee Diggs, Arvin T b2b Sissies of Mercy" on Fri, 28 Aug 2026.
+Signal is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Night & Day: Eli Escobar, The Carry Nation, Dee Diggs, Arvin T b2b Sissies of Mercy" on Fri, 28 Aug 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including 550am, 98dots, MORENXXX and adobeprincess and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

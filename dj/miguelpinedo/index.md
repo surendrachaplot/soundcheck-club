@@ -1,6 +1,6 @@
 # Miguel Pinedo
 
-Miguel Pinedo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
+Miguel Pinedo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
 
 Miguel Pinedo is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Ciara B, JAQ.XS and ARP8. Next up: EQ San Diego, Sandiego on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Miguel Pinedo is a techno and house artist based in United States of America, tr
 
 Ciara B, JAQ.XS, ARP8
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpinedo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelpinedo/)*

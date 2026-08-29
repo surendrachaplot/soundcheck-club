@@ -1,6 +1,6 @@
 # FRANZIV
 
-FRANZIV is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
+FRANZIV is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Lower Level, Boston on Sat, 29 Aug 2026.
 
 FRANZIV is a house and progressive house artist tracked on soundcheck, with 29 sets logged across Boston and Newyorkcity. Often billed alongside ViV:On, AleBCostantino and DJ Bookworm. Next up: The Lower Level, Boston on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ FRANZIV is a house and progressive house artist tracked on soundcheck, with 29 s
 
 ViV:On, AleBCostantino, DJ Bookworm
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franziv/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/franziv/)*

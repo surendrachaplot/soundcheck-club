@@ -1,6 +1,6 @@
 # WORKFORJOY
 
-WORKFORJOY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
+WORKFORJOY is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
 
 WORKFORJOY is a house and tech house artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside Armând, FITS ME FUNNY and Millian. Next up: Crate Brewery, London on Sat 29 Aug.
 
@@ -23,4 +23,4 @@ WORKFORJOY is a house and tech house artist tracked on soundcheck, with 7 sets l
 
 Armând, FITS ME FUNNY, Millian
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workforjoy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/workforjoy/)*

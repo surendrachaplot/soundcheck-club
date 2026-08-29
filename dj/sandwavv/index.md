@@ -1,6 +1,6 @@
 # Sandwavv
 
-Sandwavv is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Harmony Cafe, Toronto on Sat, 12 Sept 2026.
+Sandwavv is a Afro Tech and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Harmony Cafe, Toronto on Sat, 12 Sept 2026.
 
 Sandwavv is an afro tech and afro house artist tracked on soundcheck, with 22 sets logged across Toronto and Vancouver. Often billed alongside MXK (LB), INCOGNITA and LIONESSA. Next up: The Harmony Cafe, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sandwavv is an afro tech and afro house artist tracked on soundcheck, with 22 se
 
 MXK (LB), INCOGNITA, LIONESSA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*

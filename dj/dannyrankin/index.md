@@ -1,6 +1,6 @@
 # Danny Rankin
 
-Danny Rankin is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at KOKO, London on Sun, 30 Aug 2026.
+Danny Rankin is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at KOKO, London on Sun, 30 Aug 2026.
 
 Danny Rankin is a garage and jungle artist tracked on soundcheck, with 34 sets logged across Bristol, Glasgow, Hobart and Leeds and 4 more. Often billed alongside Arthi, Girls Don't Sync and Klose One. Next up: KOKO, London on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Danny Rankin is a garage and jungle artist tracked on soundcheck, with 34 sets l
 
 Arthi, Girls Don't Sync, Klose One
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*

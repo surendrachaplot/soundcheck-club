@@ -1,6 +1,6 @@
 # Fabrizio Brancaccio
 
-Fabrizio Brancaccio is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
+Fabrizio Brancaccio is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
 
 Fabrizio Brancaccio is an italo disco and house artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Matteo Gamba, Sciarada and Aidan. Next up: Paloma, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Fabrizio Brancaccio is an italo disco and house artist tracked on soundcheck, wi
 
 Matteo Gamba, Sciarada, Aidan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziobrancaccio/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziobrancaccio/)*

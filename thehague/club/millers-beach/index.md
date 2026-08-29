@@ -1,6 +1,6 @@
 # Millers Beach
 
-Millers Beach is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Moya: The Beach Edition" on Sun, 13 Sept 2026.
+Millers Beach is a music venue in The Hague with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Moya: The Beach Edition" on Sun, 13 Sept 2026.
 
 Millers Beach is a music venue in Thehague listed on soundcheck. 1 upcoming night, with line-ups including Erick E, Housequake and ROOG. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Millers Beach is a music venue in Thehague listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Moya: The Beach Edition | Erick E, Housequake, ROOG |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/millers-beach/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/millers-beach/)*

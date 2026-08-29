@@ -1,6 +1,6 @@
 # Oldfield
 
-Oldfield is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Last Arch, London on Fri, 4 Sept 2026.
+Oldfield is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Last Arch, London on Fri, 4 Sept 2026.
 
 Oldfield is a garage and house artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Brighton, Leeds, London and Manchester. Often billed alongside Josh Keit, Revstreet and Isaac Frost. Next up: Last Arch, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Oldfield is a garage and house artist based in United Kingdom, tracked on soundc
 
 Josh Keit, Revstreet, Isaac Frost
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldfield/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldfield/)*

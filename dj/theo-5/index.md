@@ -1,6 +1,6 @@
 # THEO (5)
 
-THEO (5) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
+THEO (5) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
 
 THEO (5) is a house and tech house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside T Simm, ANLON and Millian. Next up: Crate Brewery, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ THEO (5) is a house and tech house artist tracked on soundcheck, with 11 sets lo
 
 T Simm, ANLON, Millian
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-5/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theo-5/)*

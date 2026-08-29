@@ -1,6 +1,6 @@
 # Natalie Shooter
 
-Natalie Shooter is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Jago, London on Fri, 4 Sept 2026.
+Natalie Shooter is a Funk / Soul and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Jago, London on Fri, 4 Sept 2026.
 
 Natalie Shooter is a funk / soul and afrobeat artist tracked on soundcheck, with 26 sets logged across Hamburg, London and Paris. Often billed alongside Ernesto Chahoud, Beirut Groove Collective and Hamish & Toby. Next up: The Jago, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Natalie Shooter is a funk / soul and afrobeat artist tracked on soundcheck, with
 
 Ernesto Chahoud, Beirut Groove Collective, Hamish & Toby
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieshooter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natalieshooter/)*

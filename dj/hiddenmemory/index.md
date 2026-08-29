@@ -1,6 +1,6 @@
 # Hidden Memory
 
-Hidden Memory is a Dembow and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at OT301, Amsterdam on Fri, 4 Sept 2026.
+Hidden Memory is a Dembow and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at OT301, Amsterdam on Fri, 4 Sept 2026.
 
 Hidden Memory is a dembow and latin bass artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Barcelona. Often billed alongside Subject 13, Abby Daze and DJ MELEJ. Next up: OT301, Amsterdam on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Hidden Memory is a dembow and latin bass artist based in Netherlands, tracked on
 
 Subject 13, Abby Daze, DJ MELEJ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenmemory/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddenmemory/)*

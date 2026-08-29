@@ -1,6 +1,6 @@
 # Hendrix
 
-Hendrix is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Black Lacquer, London on Sat, 26 Sept 2026.
+Hendrix is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Black Lacquer, London on Sat, 26 Sept 2026.
 
 Hendrix is a house and afro house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Jay Wilson, RJ Mullen and Deams. Next up: Black Lacquer, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Hendrix is a house and afro house artist tracked on soundcheck, with 9 sets logg
 
 Jay Wilson, RJ Mullen, Deams
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrix-uk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrix-uk/)*

@@ -1,6 +1,6 @@
 # ADR (US)
 
-ADR (US) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at block., Dublin on Sat, 12 Sept 2026.
+ADR (US) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at block., Dublin on Sat, 12 Sept 2026.
 
 ADR (US) is a house and electronica artist based in United States of America, tracked on soundcheck, with 5 sets logged across Amsterdam, Dublin, Manchester and Newyorkcity. Often billed alongside Archie Hamilton, Jamback and Jamie Fielding. Next up: block., Dublin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ ADR (US) is a house and electronica artist based in United States of America, tr
 
 Archie Hamilton, Jamback, Jamie Fielding
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrus/)*

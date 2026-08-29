@@ -1,6 +1,6 @@
 # Tall Paul
 
-Tall Paul is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
+Tall Paul is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Tall Paul is a house and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Auckland, Birmingham, Glasgow and Ibiza and 6 more. Often billed alongside Seb Fontaine, Mauro Picotto and Ratpack. Next up: Amnesia Ibiza, Ibiza on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tall Paul is a house and trance artist based in United Kingdom, tracked on sound
 
 Seb Fontaine, Mauro Picotto, Ratpack
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tallpaul/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tallpaul/)*

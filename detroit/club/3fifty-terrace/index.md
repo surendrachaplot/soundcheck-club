@@ -1,6 +1,6 @@
 # 3fifty Terrace
 
-3fifty Terrace is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Where Are My Keys - Detroit Labor Day" on Mon, 7 Sept 2026.
+3fifty Terrace is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Where Are My Keys - Detroit Labor Day" on Mon, 7 Sept 2026.
 
 3fifty Terrace is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Andrés, BMG, britty. and Danny Daze and 2 more. Browse upcoming dates, start times and who's playing. 350 Madison St, Detroit, MI 48226.
 
@@ -14,4 +14,4 @@
 
 350 Madison St, Detroit, MI 48226, Detroit
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/3fifty-terrace/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/3fifty-terrace/)*

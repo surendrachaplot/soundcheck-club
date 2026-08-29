@@ -1,6 +1,6 @@
 # uphoria
 
-uphoria is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
+uphoria is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
 
 uphoria is a techno and hardcore artist tracked on soundcheck, with 35 sets logged across Belfast, Brussels, Ghent and London and 10 more. Often billed alongside Emma Ollivary, Cera Khin and ECZODIA. Next up: Titan Xyphos Complex, Lyon on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ uphoria is a techno and hardcore artist tracked on soundcheck, with 35 sets logg
 
 Emma Ollivary, Cera Khin, ECZODIA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uphoria/)*

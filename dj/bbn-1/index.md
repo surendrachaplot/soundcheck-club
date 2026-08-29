@@ -1,6 +1,6 @@
 # BBN (1)
 
-BBN (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Smolna, Warsaw on Sat, 29 Aug 2026.
+BBN (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Smolna, Warsaw on Sat, 29 Aug 2026.
 
 BBN (1) is a house and techno artist based in Poland, tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Fibon, Bedlam and Fogler. Next up: Smolna, Warsaw on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ BBN (1) is a house and techno artist based in Poland, tracked on soundcheck, wit
 
 Fibon, Bedlam, Fogler
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbn-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbn-1/)*

@@ -1,6 +1,6 @@
 # Sebastian Groth
 
-Sebastian Groth is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 29 Aug 2026.
+Sebastian Groth is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Sat, 29 Aug 2026.
 
 Sebastian Groth is a techno and acid artist tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 2 more. Often billed alongside Klang der Nacht, LUCA&LUKAS and Mario Angelo. Next up: R25 Kulturschlachthof, Dusseldorf on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sebastian Groth is a techno and acid artist tracked on soundcheck, with 9 sets l
 
 Klang der Nacht, LUCA&LUKAS, Mario Angelo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiangroth/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiangroth/)*

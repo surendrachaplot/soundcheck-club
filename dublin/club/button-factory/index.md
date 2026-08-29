@@ -1,6 +1,6 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "DJ Seinfeld" on Fri, 18 Sept 2026.
+Button Factory is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DJ Seinfeld" on Fri, 18 Sept 2026.
 
 Button Factory is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including 19:26, Cassius, DJ Seinfeld and Max Cooper. Browse upcoming dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
@@ -17,4 +17,4 @@ Button Factory is a music venue in Dublin listed on soundcheck. 4 upcoming night
 
 2 Curved Street; Dublin 2; Ireland, Dublin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*

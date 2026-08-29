@@ -1,6 +1,6 @@
 # Rii5
 
-Rii5 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Turbina, Budapest on Sat, 29 Aug 2026.
+Rii5 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Turbina, Budapest on Sat, 29 Aug 2026.
 
 Rii5 is a house and techno artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest. Often billed alongside Acsa, Dorota and Klayman. Next up: Turbina, Budapest on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ Rii5 is a house and techno artist based in Hungary, tracked on soundcheck, with 
 
 Acsa, Dorota, Klayman
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rii5/)*

@@ -1,6 +1,6 @@
 # Jonquera
 
-Jonquera is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
+Jonquera is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at CIQ - Centro Internazionale di Quartiere, Milan on Sun, 30 Aug 2026.
 
 Jonquera is an experimental and electronica artist based in France, tracked on soundcheck, with 13 sets logged across Athens, Bristol, Brussels and London and 3 more. Often billed alongside Officium, Al Paino and Elena Colombi. Next up: CIQ - Centro Internazionale di Quartiere, Milan on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Jonquera is an experimental and electronica artist based in France, tracked on s
 
 Officium, Al Paino, Elena Colombi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonquera/)*

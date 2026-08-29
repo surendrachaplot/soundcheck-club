@@ -1,6 +1,6 @@
 # The Teknoist
 
-The Teknoist is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
+The Teknoist is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Trinity Centre, Bristol on Sat, 26 Sept 2026.
 
 The Teknoist is a techno and drum & bass artist tracked on soundcheck, with 5 sets logged across Bristol, Rotterdam and Sheffield. Often billed alongside Krista Bourgeois, Mathlovsky and Mollie Rush. Next up: The Trinity Centre, Bristol on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ The Teknoist is a techno and drum & bass artist tracked on soundcheck, with 5 se
 
 Krista Bourgeois, Mathlovsky, Mollie Rush
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theteknoist/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theteknoist/)*

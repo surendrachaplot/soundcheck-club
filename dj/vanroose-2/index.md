@@ -1,6 +1,6 @@
 # VANROOSE
 
-VANROOSE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
+VANROOSE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
 
 VANROOSE is a house and techno artist tracked on soundcheck, with 38 sets logged across Lyon, Marseille, Mexicocity and Paris. Often billed alongside YENKOV, Bassi-fr and HearThug. Next up: Kilomètre25, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ VANROOSE is a house and techno artist tracked on soundcheck, with 38 sets logged
 
 YENKOV, Bassi-fr, HearThug
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanroose-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanroose-2/)*

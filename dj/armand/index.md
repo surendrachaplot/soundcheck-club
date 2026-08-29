@@ -1,6 +1,6 @@
 # Armând
 
-Armând is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
+Armând is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
 
 Armând is a house and techno artist tracked on soundcheck, with 56 sets logged across Athens and London. Often billed alongside Milad, ISHA and IZZY (UK). Next up: Crate Brewery, London on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Armând is a house and techno artist tracked on soundcheck, with 56 sets logged 
 
 Milad, ISHA, IZZY (UK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armand/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armand/)*

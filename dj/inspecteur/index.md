@@ -1,6 +1,6 @@
 # Inspecteur
 
-Inspecteur is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Inspecteur is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Inspecteur is a house and progressive house artist based in France, tracked on soundcheck, with 8 sets logged across Paris. Often billed alongside Ploum, Spicy Sofi and Chtak.. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -12,6 +12,7 @@ Inspecteur is a house and progressive house artist based in France, tracked on s
 
 ## Recently played
 
+- DOCK B, Paris — Fri, 28 Aug 2026
 - TBA - Paris, Paris — Wed, 31 Dec 2025
 - Le Sample, Paris — Sun, 30 Nov 2025
 - 42 Marches, Paris — Sat, 4 Oct 2025
@@ -24,4 +25,4 @@ Inspecteur is a house and progressive house artist based in France, tracked on s
 
 Ploum, Spicy Sofi, Chtak.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inspecteur/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inspecteur/)*

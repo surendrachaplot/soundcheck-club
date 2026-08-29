@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Hungry4 ps. Job Jobse, Sedef Adasï - Summer Closing (Night Time)" on Sat, 29 Aug 2026.
+Edelfettwerk is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hungry4 ps. Job Jobse, Sedef Adasï - Summer Closing (Night Time)" on Sat, 29 Aug 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Alec Dienaar, Anton Jonathan, Cera Khin and Charlie and 2 more. Browse upcoming dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -19,4 +19,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 6 upcoming nights
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

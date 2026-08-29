@@ -1,6 +1,6 @@
 # ETERNAL JOE
 
-ETERNAL JOE is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+ETERNAL JOE is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 ETERNAL JOE is a house artist tracked on soundcheck, with 12 sets logged across Amsterdam. Often billed alongside Khun, Luis Ripa and Mees Mattern. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ ETERNAL JOE is a house artist tracked on soundcheck, with 12 sets logged across 
 
 Khun, Luis Ripa, Mees Mattern
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternaljoe/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternaljoe/)*

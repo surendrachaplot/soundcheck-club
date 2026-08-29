@@ -1,6 +1,6 @@
 # Bugs Groove
 
-Bugs Groove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Soup, Manchester on Sat, 19 Sept 2026.
+Bugs Groove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Soup, Manchester on Sat, 19 Sept 2026.
 
 Bugs Groove is a house and techno artist tracked on soundcheck, with 37 sets logged across Leeds, London and Manchester. Often billed alongside JS Zeiter, Jase Jeffery and Korzi. Next up: Soup, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bugs Groove is a house and techno artist tracked on soundcheck, with 37 sets log
 
 JS Zeiter, Jase Jeffery, Korzi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsgroove/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsgroove/)*

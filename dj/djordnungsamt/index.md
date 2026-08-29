@@ -1,6 +1,6 @@
 # DJ ORDNUNGSAMT
 
-DJ ORDNUNGSAMT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DNA. CLUB, Berlin on Sat, 12 Sept 2026.
+DJ ORDNUNGSAMT is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DNA. CLUB, Berlin on Sat, 12 Sept 2026.
 
 DJ ORDNUNGSAMT is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside sterni (DE), 20_5_3_8_14_15 and Limoncello. Next up: DNA. CLUB, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ ORDNUNGSAMT is a techno and trance artist based in Germany, tracked on soundc
 
 sterni (DE), 20_5_3_8_14_15, Limoncello
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*

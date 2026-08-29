@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 28 Aug 2026.
+Rossi is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat, 29 Aug 2026.
 
-Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Pacha Ibiza, Ibiza on Fri 28 Aug.
+Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: Spaarnwoude (Deelplan Houtrak), Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Pacha Ibiza | Ibiza |
 | Sat, 29 Aug 2026 | Spaarnwoude (Deelplan Houtrak) | Amsterdam |
 | Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
@@ -23,6 +22,7 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 
 ## Recently played
 
+- Pacha Ibiza, Ibiza — Fri, 28 Aug 2026
 - Expo Lawn West, Los Angeles — Sat, 22 Aug 2026
 - Brooklyn Storehouse, New York City — Fri, 21 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
@@ -30,10 +30,9 @@ Rossi is a house and tech house artist tracked on soundcheck, with 228 sets logg
 - DC-10, Ibiza — Mon, 27 Jul 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - KOKO, London — Sat, 18 Jul 2026
-- DC-10, Ibiza — Mon, 29 Jun 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

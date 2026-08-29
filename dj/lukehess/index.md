@@ -1,6 +1,6 @@
 # Luke Hess
 
-Luke Hess is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at public records, New York City on Fri, 11 Sept 2026.
+Luke Hess is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at public records, New York City on Fri, 11 Sept 2026.
 
 Luke Hess is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Joshua Harrison, Brian Kage and Eddie Fowlkes. Next up: public records, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Luke Hess is a techno and dub techno artist based in United States of America, t
 
 Joshua Harrison, Brian Kage, Eddie Fowlkes
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehess/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehess/)*

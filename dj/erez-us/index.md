@@ -1,6 +1,6 @@
 # EREZ (US)
 
-EREZ (US) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
+EREZ (US) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
 
 EREZ (US) is a house and club artist tracked on soundcheck, with 15 sets logged across Losangeles, Madrid, Miami and Newyorkcity and 1 more. Often billed alongside Elderbrook, Alex Wann and Empire Of The Sun. Next up: Elsewhere, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ EREZ (US) is a house and club artist tracked on soundcheck, with 15 sets logged 
 
 Elderbrook, Alex Wann, Empire Of The Sun
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erez-us/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erez-us/)*

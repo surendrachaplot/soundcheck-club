@@ -1,6 +1,6 @@
 # Saturna
 
-Saturna is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Vista, Mexico City on Wed, 26 Aug 2026.
+Saturna is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Vista, Mexico City on Wed, 26 Aug 2026.
 
 Saturna is a deep house and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Detroit, Mexicocity, Sanfrancisco and Vancouver. Often billed alongside Future Feelings, Contra and Disco 86. Next up: La Vista, Mexicocity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Saturna is a deep house and house artist based in United States of America, trac
 
 Future Feelings, Contra, Disco 86
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saturna/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saturna/)*

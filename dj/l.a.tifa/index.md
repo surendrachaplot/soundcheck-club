@@ -1,6 +1,6 @@
 # L.A.tifa
 
-L.A.tifa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+L.A.tifa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 L.A.tifa is a techno and house artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Leipzig and Nurnberg. Often billed alongside Ring41, JAMera and Ivaldo Gino. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ L.A.tifa is a techno and house artist tracked on soundcheck, with 46 sets logged
 
 Ring41, JAMera, Ivaldo Gino
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.tifa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.tifa/)*

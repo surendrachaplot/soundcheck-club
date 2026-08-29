@@ -1,6 +1,6 @@
 # Cristian Croce
 
-Cristian Croce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sorgiva Village, Milan on Sun, 30 Aug 2026.
+Cristian Croce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sorgiva Village, Milan on Sun, 30 Aug 2026.
 
 Cristian Croce is a house and techno artist tracked on soundcheck, with 40 sets logged across Milan. Often billed alongside Avikal, Dove Quiete and Asevenes. Next up: Sorgiva Village, Milan on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Cristian Croce is a house and techno artist tracked on soundcheck, with 40 sets 
 
 Avikal, Dove Quiete, Asevenes
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*

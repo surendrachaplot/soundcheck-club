@@ -1,6 +1,6 @@
 # Marais
 
-Marais is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
+Marais is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hotel Butterfly, Rome on Wed, 23 Sept 2026.
 
 Marais is a house and tech house artist tracked on soundcheck, with 42 sets logged across London, Milan, Newyorkcity and Rome. Often billed alongside N0BLE R0T, Garçon De Rue and Vithz. Next up: Hotel Butterfly, Rome on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Marais is a house and tech house artist tracked on soundcheck, with 42 sets logg
 
 N0BLE R0T, Garçon De Rue, Vithz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marais/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marais/)*

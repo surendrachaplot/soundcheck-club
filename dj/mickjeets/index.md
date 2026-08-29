@@ -1,6 +1,6 @@
 # Mick Jeets
 
-Mick Jeets is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Location With Ticket, Denver on Fri, 4 Sept 2026.
+Mick Jeets is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Location With Ticket, Denver on Fri, 4 Sept 2026.
 
 Mick Jeets is a tech house and house artist tracked on soundcheck, with 6 sets logged across Denver, Losangeles and Sanfrancisco. Often billed alongside Derteedisco, The Scout and coldsweat. Next up: TBA - Location With Ticket, Denver on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Mick Jeets is a tech house and house artist tracked on soundcheck, with 6 sets l
 
 Derteedisco, The Scout, coldsweat
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickjeets/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mickjeets/)*

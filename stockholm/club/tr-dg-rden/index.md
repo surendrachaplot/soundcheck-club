@@ -1,14 +1,13 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 9 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Garcon, Dorisburg & Jessie Granqvist" on Fri, 28 Aug 2026.
+Trädgården is a music venue in Stockholm with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "YARD: Vera B2B Eli Verveine" on Sat, 29 Aug 2026.
 
-Trädgården is a music venue in Stockholm listed on soundcheck. 9 upcoming nights, with line-ups including ALCATRAZ, Andree Bohlin, Anthony Linell and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
+Trädgården is a music venue in Stockholm listed on soundcheck. 8 upcoming nights, with line-ups including ALCATRAZ, Andree Bohlin, Anthony Linell and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Garcon, Dorisburg & Jessie Granqvist | Dorisburg, Garçon, Jessie Granqvist |
 | Sat, 29 Aug 2026 | YARD: Vera B2B Eli Verveine | Eli Verveine, Vera |
 | Fri, 4 Sept 2026 | Luigi Tozzi & Claudio PRC (LIVE) + Anthony Linell  | Anthony Linell, Claudio PRC, Luigi Tozzi, Quelza |
 | Sat, 5 Sept 2026 | Fatuma, Norah |  |
@@ -22,4 +21,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 9 upcoming nigh
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

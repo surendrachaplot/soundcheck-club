@@ -1,6 +1,6 @@
 # Hutch
 
-Hutch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Hutch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Hutch is a house and techno artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brighton and Leeds and 3 more. Often billed alongside A For Alpha, Daughters of Frank and Eclair Fifi. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hutch is a house and techno artist based in United Kingdom, tracked on soundchec
 
 A For Alpha, Daughters of Frank, Eclair Fifi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hutch/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hutch/)*

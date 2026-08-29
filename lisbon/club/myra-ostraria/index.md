@@ -1,6 +1,6 @@
 # Myra Ostraria
 
-Myra Ostraria is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "ubiyu x Night with Jorge Caiado, Pedro Goya & CHKLTE" on Fri, 4 Sept 2026.
+Myra Ostraria is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ubiyu x Night with Jorge Caiado, Pedro Goya & CHKLTE" on Fri, 4 Sept 2026.
 
 Myra Ostraria is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including CHKLTE, Jorge Caiado, Pedro Goya and Robert Roman. Browse upcoming dates, start times and who's playing. R. da Praia, 2825-391, Costa de Caparica, Almada, Portugal.
 
@@ -15,4 +15,4 @@ Myra Ostraria is a music venue in Lisbon listed on soundcheck. 2 upcoming nights
 
 R. da Praia, 2825-391, Costa de Caparica, Almada, Portugal, Lisbon
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra-ostraria/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/myra-ostraria/)*

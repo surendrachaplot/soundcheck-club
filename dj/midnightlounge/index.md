@@ -1,6 +1,6 @@
 # Midnight Lounge
 
-Midnight Lounge is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, London on Sat, 26 Sept 2026.
+Midnight Lounge is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, London on Sat, 26 Sept 2026.
 
 Midnight Lounge is a house and electro artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, Leeds and London. Often billed alongside Paddy Cotter, Moon Chaser and Revstreet. Next up: TBA, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Midnight Lounge is a house and electro artist based in United Kingdom, tracked o
 
 Paddy Cotter, Moon Chaser, Revstreet
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightlounge/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightlounge/)*

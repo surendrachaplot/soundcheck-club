@@ -1,6 +1,6 @@
 # Katy B
 
-Katy B is a Afrobeat and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paradise, London on Mon, 31 Aug 2026.
+Katy B is a Afrobeat and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paradise, London on Mon, 31 Aug 2026.
 
 Katy B is an afrobeat and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Arthi, Geeneus and Slimzee. Next up: Paradise, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Katy B is an afrobeat and garage artist based in United Kingdom, tracked on soun
 
 Arthi, Geeneus, Slimzee
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyb/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katyb/)*

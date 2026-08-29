@@ -1,6 +1,6 @@
 # Jessica Bellomo
 
-Jessica Bellomo is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+Jessica Bellomo is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
 Jessica Bellomo is an acid and house artist based in Argentina, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Diego Montiel, Carmilla Sioux and Saulo Pisa. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jessica Bellomo is an acid and house artist based in Argentina, tracked on sound
 
 Diego Montiel, Carmilla Sioux, Saulo Pisa
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicabellomo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicabellomo/)*

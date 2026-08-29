@@ -1,6 +1,6 @@
 # Angelphroot
 
-Angelphroot is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
+Angelphroot is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Toronto on Sat, 29 Aug 2026.
 
 Angelphroot is a techno and hardcore artist based in Canada, tracked on soundcheck, with 36 sets logged across Losangeles, Montreal, Newyorkcity and Toronto and 1 more. Often billed alongside Ms. GothicFish, Tyriqueordie and Crushenhaus. Next up: TBA, Toronto on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Angelphroot is a techno and hardcore artist based in Canada, tracked on soundche
 
 Ms. GothicFish, Tyriqueordie, Crushenhaus
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelphroot/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/angelphroot/)*

@@ -1,14 +1,13 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Pleasurekraft (Kraftek / USA), Andre VII, Sommer" on Fri, 28 Aug 2026.
+Bar Oriente is a music venue in Mexico City with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "MNTY, Aura Muse, DJLuigi" on Sat, 29 Aug 2026.
 
-Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nights, with line-ups including AEREA, Andre VII, Ignacio Rosa and MNTY and 2 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
+Bar Oriente is a music venue in Mexicocity listed on soundcheck. 9 upcoming nights, with line-ups including AEREA, Ignacio Rosa, MNTY and Motel Flamingo and 1 more. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Pleasurekraft (Kraftek / USA), Andre VII, Sommer | Andre VII, Pleasurekraft |
 | Sat, 29 Aug 2026 | MNTY, Aura Muse, DJLuigi | MNTY |
 | Fri, 4 Sept 2026 | Ben Miller, Yazz Escobar, Zenzs |  |
 | Sat, 5 Sept 2026 | Pato Shoucair, Daniela GIlhoux, Ignacio Rosa | Ignacio Rosa |
@@ -23,4 +22,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 10 upcoming nig
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

@@ -1,18 +1,18 @@
 # Lockhart
 
-Lockhart is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Vittoria Wharf Studio, London on Fri, 28 Aug 2026.
+Lockhart is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at FOLD, London on Sat, 12 Sept 2026.
 
-Lockhart is a techno and experimental artist tracked on soundcheck, with 42 sets logged across Berlin, Bristol, Leipzig and London and 2 more. Often billed alongside Voicedrone, Alba Heidari and James Newmarch. Next up: Vittoria Wharf Studio, London on Fri 28 Aug.
+Lockhart is a techno and experimental artist tracked on soundcheck, with 42 sets logged across Berlin, Bristol, Leipzig and London and 2 more. Often billed alongside Voicedrone, Alba Heidari and James Newmarch. Next up: FOLD, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Vittoria Wharf Studio | London |
 | Sat, 12 Sept 2026 | FOLD | London |
 
 ## Recently played
 
+- Vittoria Wharf Studio, London — Fri, 28 Aug 2026
 - The Glove That Fits, London — Sat, 8 Aug 2026
 - FOLD, London — Fri, 12 Jun 2026
 - The Cause, London — Fri, 29 May 2026
@@ -20,10 +20,9 @@ Lockhart is a techno and experimental artist tracked on soundcheck, with 42 sets
 - FOLD, London — Fri, 1 May 2026
 - The Engine Rooms Rehearsal Studios, London — Sat, 22 Nov 2025
 - Electrowerkz, London — Fri, 12 Sept 2025
-- FOLD, London — Sat, 6 Sept 2025
 
 ## Shares bills with
 
 Voicedrone, Alba Heidari, James Newmarch
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lockhart/)*

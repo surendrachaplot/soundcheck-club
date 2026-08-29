@@ -1,6 +1,6 @@
 # Ojos de miel
 
-Ojos de miel is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+Ojos de miel is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
 Ojos de miel is a reggaeton and latin bass artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Maque, Sub Sahara and Aunty Nora. Next up: OXI, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ojos de miel is a reggaeton and latin bass artist based in Germany, tracked on s
 
 Maque, Sub Sahara, Aunty Nora
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ojosdemiel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ojosdemiel/)*

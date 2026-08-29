@@ -1,6 +1,6 @@
 # Kyle Hamilton
 
-Kyle Hamilton is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at VERS, New York City on Sat, 29 Aug 2026.
+Kyle Hamilton is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at VERS, New York City on Sat, 29 Aug 2026.
 
 Kyle Hamilton is a pop and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Mike Schreder, Andy Crush and Blue Rose Royalty. Next up: VERS, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Kyle Hamilton is a pop and house artist based in United States of America, track
 
 Mike Schreder, Andy Crush, Blue Rose Royalty
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehamilton/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehamilton/)*

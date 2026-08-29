@@ -1,6 +1,6 @@
 # Future Feelings
 
-Future Feelings is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Departamento, Mexico City on Wed, 26 Aug 2026.
+Future Feelings is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Departamento, Mexico City on Wed, 26 Aug 2026.
 
 Future Feelings is a house and deep house artist tracked on soundcheck, with 32 sets logged across Mexicocity. Often billed alongside Barreto, Valeriana and DJ Milka. Next up: Departamento, Mexicocity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Future Feelings is a house and deep house artist tracked on soundcheck, with 32 
 
 Barreto, Valeriana, DJ Milka
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/futurefeelings/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/futurefeelings/)*

@@ -1,6 +1,6 @@
 # The Carry Nation
 
-The Carry Nation is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Signal, New York City on Fri, 28 Aug 2026.
+The Carry Nation is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Signal, New York City on Fri, 28 Aug 2026.
 
 The Carry Nation is a house and techno artist tracked on soundcheck, with 164 sets logged across Austin, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Nita Aviance, Will Automagic and Eli Escobar. Next up: Signal, Newyorkcity on Fri 28 Aug.
 
@@ -17,6 +17,7 @@ The Carry Nation is a house and techno artist tracked on soundcheck, with 164 se
 
 ## Recently played
 
+- Signal, New York City — Fri, 28 Aug 2026
 - public records, New York City — Sun, 9 Aug 2026
 - Le Bain, New York City — Sat, 8 Aug 2026
 - Paragon, New York City — Sat, 1 Aug 2026
@@ -24,10 +25,9 @@ The Carry Nation is a house and techno artist tracked on soundcheck, with 164 se
 - Rumi, New York City — Sun, 28 Jun 2026
 - Rumi, New York City — Sun, 21 Jun 2026
 - BASEMENT, New York City — Sat, 13 Jun 2026
-- Green Room NYC, New York City — Wed, 10 Jun 2026
 
 ## Shares bills with
 
 Nita Aviance, Will Automagic, Eli Escobar
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thecarrynation/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thecarrynation/)*

@@ -1,6 +1,6 @@
 # Paleman
 
-Paleman is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
+Paleman is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
 
 Paleman is a garage and bass artist tracked on soundcheck, with 18 sets logged across Athens, London, Manchester and Newcastle. Often billed alongside Klose One, Case (2) and El-B. Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Paleman is a garage and bass artist tracked on soundcheck, with 18 sets logged a
 
 Klose One, Case (2), El-B
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paleman/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paleman/)*

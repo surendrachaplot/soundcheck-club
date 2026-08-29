@@ -1,6 +1,6 @@
 # YVI
 
-YVI is a Jungle and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
+YVI is a Jungle and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
 
 YVI is a jungle and house artist tracked on soundcheck, with 13 sets logged across Berlin, Edinburgh, Glasgow and London. Often billed alongside Mixfits (2), Dan Jakson and Janverse. Next up: The Bongo Club, Edinburgh on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ YVI is a jungle and house artist tracked on soundcheck, with 13 sets logged acro
 
 Mixfits (2), Dan Jakson, Janverse
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/YVI-uk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/YVI-uk/)*

@@ -1,14 +1,13 @@
 # Burnski
 
-Burnski is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 28 Aug 2026.
+Burnski is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-Burnski is a house and garage artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Dennis Quin and Job de Jong. Next up: Shelter Amsterdam, Amsterdam on Fri 28 Aug.
+Burnski is a house and garage artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Dennis Quin and Job de Jong. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | fabric | London |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
@@ -16,6 +15,7 @@ Burnski is a house and garage artist tracked on soundcheck, with 66 sets logged 
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam — Fri, 28 Aug 2026
 - Dullingham Polo Club, London — Sat, 22 Aug 2026
 - The Loft, Manchester — Fri, 21 Aug 2026
 - Cova Santa, Ibiza — Tue, 7 Jul 2026
@@ -23,10 +23,9 @@ Burnski is a house and garage artist tracked on soundcheck, with 66 sets logged 
 - Bosc Tancat / Diverbosc, Barcelona — Thu, 18 Jun 2026
 - Brighton Beach, Brighton — Sat, 13 Jun 2026
 - WaV, Liverpool — Fri, 12 Jun 2026
-- Cova Santa, Ibiza — Tue, 9 Jun 2026
 
 ## Shares bills with
 
 Kepler, Dennis Quin, Job de Jong
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

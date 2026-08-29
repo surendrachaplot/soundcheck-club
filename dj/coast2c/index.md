@@ -1,6 +1,6 @@
 # Coast2c
 
-Coast2c is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+Coast2c is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 Coast2c is an electronica and experimental artist based in Mexico, tracked on soundcheck, with 18 sets logged across Mexicocity, Newyorkcity and Tokyo. Often billed alongside Phanta, Macarena and Octoptic. Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Coast2c is an electronica and experimental artist based in Mexico, tracked on so
 
 Phanta, Macarena, Octoptic
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coast2c/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coast2c/)*

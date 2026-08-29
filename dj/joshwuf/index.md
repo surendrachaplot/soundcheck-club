@@ -1,6 +1,6 @@
 # Josh Wuf
 
-Josh Wuf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
+Josh Wuf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Peckham Arches, London on Sun, 30 Aug 2026.
 
 Josh Wuf is a house and deep house artist tracked on soundcheck, with 24 sets logged across London, Newcastle and Paris. Often billed alongside PHJ.WAV, DJ Shandy and Molly Sinnott. Next up: Peckham Arches, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Josh Wuf is a house and deep house artist tracked on soundcheck, with 24 sets lo
 
 PHJ.WAV, DJ Shandy, Molly Sinnott
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwuf/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwuf/)*

@@ -1,6 +1,6 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 7 Sept 2026.
+Paige Tomlinson is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Amnesia Ibiza, Ibiza on Mon, 7 Sept 2026.
 
 Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 155 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 33 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: Amnesia Ibiza, Ibiza on Mon 7 Sept.
 
@@ -32,4 +32,4 @@ Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 155
 
 Prunk, L.P. Rhythm, Gaskin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

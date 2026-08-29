@@ -1,19 +1,19 @@
 # Adapter
 
-Adapter is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at SILO, New York City on Fri, 28 Aug 2026.
+Adapter is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Halcyon, San Francisco/Oakland on Fri, 4 Sept 2026.
 
-Adapter is a house and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Amsterdam, Ibiza, Melbourne and Miami and 6 more. Often billed alongside Miss Monique, Anthony Attalla and Benson. Next up: SILO, Newyorkcity on Fri 28 Aug.
+Adapter is a house and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Amsterdam, Ibiza, Melbourne and Miami and 6 more. Often billed alongside Miss Monique, Anthony Attalla and Benson. Next up: Halcyon, Sanfrancisco on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | SILO | New York City |
 | Fri, 4 Sept 2026 | Halcyon | San Francisco/Oakland |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
+- SILO, New York City — Fri, 28 Aug 2026
 - Hï Ibiza, Ibiza — Thu, 16 Jul 2026
 - Inception Boat, Sydney — Sat, 23 May 2026
 - TBA - 546 Collins Street , Melbourne — Sat, 16 May 2026
@@ -26,4 +26,4 @@ Adapter is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 Miss Monique, Anthony Attalla, Benson
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*

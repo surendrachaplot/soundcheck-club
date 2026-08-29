@@ -1,6 +1,6 @@
 # Grace Arribas
 
-Grace Arribas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Grace Arribas is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Grace Arribas is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 5 more. Often billed alongside Franky Rizardo, East End Dubs and Marco Carola. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Grace Arribas is a house and tech house artist based in United States of America
 
 Franky Rizardo, East End Dubs, Marco Carola
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracearribas/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gracearribas/)*

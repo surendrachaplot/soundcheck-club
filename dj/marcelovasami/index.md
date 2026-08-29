@@ -1,6 +1,6 @@
 # Marcelo Vasami
 
-Marcelo Vasami is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - De Stedenmaeght Ship - Houthavens, Amsterdam on Sat, 29 Aug 2026.
+Marcelo Vasami is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - De Stedenmaeght Ship - Houthavens, Amsterdam on Sat, 29 Aug 2026.
 
 Marcelo Vasami is a progressive house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Belgrade and Budapest and 9 more. Often billed alongside Nicolas Rada, Antrim and Agustin Ficarra. Next up: TBA - De Stedenmaeght Ship - Houthavens, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Marcelo Vasami is a progressive house and techno artist tracked on soundcheck, w
 
 Nicolas Rada, Antrim, Agustin Ficarra
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelovasami/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelovasami/)*

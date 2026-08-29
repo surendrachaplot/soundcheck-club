@@ -1,6 +1,6 @@
 # DJ-HOTLINE 333
 
-DJ-HOTLINE 333 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+DJ-HOTLINE 333 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
 DJ-HOTLINE 333 is an electro and house artist based in Greece, tracked on soundcheck, with 23 sets logged across Athens, Berlin, Bucharest and Detroit and 1 more. Often billed alongside BRAVA, DJ LESSONS and Hughesee. Next up: Club Cheek, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ DJ-HOTLINE 333 is an electro and house artist based in Greece, tracked on soundc
 
 BRAVA, DJ LESSONS, Hughesee
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-hotline333/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-hotline333/)*

@@ -1,6 +1,6 @@
 # Sat
 
-Sat is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bar v Krymský, Prague on Sat, 29 Aug 2026.
+Sat is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bar v Krymský, Prague on Sat, 29 Aug 2026.
 
 Sat is a house and disco artist tracked on soundcheck, with 43 sets logged across Dublin, Kualalumpur, Lisbon and Losangeles and 4 more. Often billed alongside Andrea Zucca, Møreti and Chep. Next up: Bar v Krymský, Prague on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Sat is a house and disco artist tracked on soundcheck, with 43 sets logged acros
 
 Andrea Zucca, Møreti, Chep
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*

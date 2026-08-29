@@ -1,6 +1,6 @@
 # DIAS
 
-DIAS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
+DIAS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at FLUCC, Vienna on Sat, 29 Aug 2026.
 
 DIAS is a techno and industrial artist based in Austria, tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside Aleta, BLUDHOUND and Dj Wifi (3). Next up: FLUCC, Vienna on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ DIAS is a techno and industrial artist based in Austria, tracked on soundcheck, 
 
 Aleta, BLUDHOUND, Dj Wifi (3)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dias/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dias/)*

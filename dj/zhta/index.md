@@ -1,6 +1,6 @@
 # ZHTA
 
-ZHTA is a Downtempo and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
+ZHTA is a Downtempo and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klunkerkranich, Berlin on Sat, 29 Aug 2026.
 
 ZHTA is a downtempo and progressive house artist tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Hamburg and Nurnberg. Often billed alongside Padouc, Anna Almani and Corios. Next up: Klunkerkranich, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ ZHTA is a downtempo and progressive house artist tracked on soundcheck, with 20 
 
 Padouc, Anna Almani, Corios
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhta/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhta/)*

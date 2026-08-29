@@ -1,6 +1,6 @@
 # CøkiT
 
-CøkiT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Baggen, Copenhagen on Sat, 29 Aug 2026.
+CøkiT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Baggen, Copenhagen on Sat, 29 Aug 2026.
 
 CøkiT is a techno and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Copenhagen. Often billed alongside VI/TO, Midele and DJ Void. Next up: Baggen, Copenhagen on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ CøkiT is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 VI/TO, Midele, DJ Void
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cokit-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cokit-2/)*

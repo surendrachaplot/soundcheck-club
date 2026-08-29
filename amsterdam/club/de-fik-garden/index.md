@@ -1,15 +1,13 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "HYPERWAVES" on Fri, 28 Aug 2026.
+De Fik Garden is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "HOOI & HILLS in De Fik" on Sat, 29 Aug 2026.
 
-De Fik Garden is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Chami, Claudio PRC, Comrade Winston and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
+De Fik Garden is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Chami, Claudio PRC, Comrade Winston and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | HYPERWAVES |  |
-| Fri, 28 Aug 2026 | [Event Cancelled] Sandunga Clubnight | Lidia Lo, Niklas Becher, UriBlanch |
 | Sat, 29 Aug 2026 | HOOI & HILLS in De Fik | Dingemanz |
 | Sun, 30 Aug 2026 | Vault Sessions All Vinyl WKNDR / Afterhours / De Fik Garden | Chami, Claudio PRC, Louis The 4th, Olivia Mendez |
 | Sat, 5 Sept 2026 | Ondergronds Verzetje | Franky Jones |
@@ -20,4 +18,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 7 upcoming nig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

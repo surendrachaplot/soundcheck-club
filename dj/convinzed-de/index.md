@@ -1,6 +1,6 @@
 # Convinzed
 
-Convinzed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 29 Aug 2026.
+Convinzed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 29 Aug 2026.
 
 Convinzed is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Hamburg, Madrid and Stuttgart. Often billed alongside Sitze, Dennis Louvra and Femmzy. Next up: Fridas Pier, Stuttgart on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Convinzed is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Sitze, Dennis Louvra, Femmzy
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/convinzed-de/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/convinzed-de/)*

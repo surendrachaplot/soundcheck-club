@@ -1,6 +1,6 @@
 # Naone
 
-Naone is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Naone is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Naone is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Iggy P, mad miran and Doudou MD. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -32,4 +32,4 @@ Naone is a techno and house artist tracked on soundcheck, with 177 sets logged a
 
 Iggy P, mad miran, Doudou MD
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

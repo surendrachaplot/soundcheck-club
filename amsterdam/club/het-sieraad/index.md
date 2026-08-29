@@ -1,6 +1,6 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Ninsa b2b Vero" on Sat, 29 Aug 2026.
+Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Ninsa b2b Vero" on Sat, 29 Aug 2026.
 
 Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Adam Ten, Adapter, Arc Music and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nigh
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

@@ -1,6 +1,6 @@
 # krif
 
-krif is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+krif is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 krif is a house and minimal artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, London and Lyon. Often billed alongside Tarek Charbonnier, t.na and Darush. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ krif is a house and minimal artist tracked on soundcheck, with 19 sets logged ac
 
 Tarek Charbonnier, t.na, Darush
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krif/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krif/)*

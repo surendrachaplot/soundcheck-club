@@ -1,6 +1,6 @@
 # Baby G
 
-Baby G is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Melbourne Town Hall, Melbourne on Sat, 29 Aug 2026.
+Baby G is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Melbourne Town Hall, Melbourne on Sat, 29 Aug 2026.
 
 Baby G is a house and techno artist based in Australia, tracked on soundcheck, with 47 sets logged across Hobart, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Bertie, Tina Disco and Afrodisiac. Next up: Melbourne Town Hall, Melbourne on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Baby G is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Bertie, Tina Disco, Afrodisiac
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*

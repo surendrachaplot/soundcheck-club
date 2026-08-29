@@ -1,15 +1,13 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "亞典回路" on Fri, 28 Aug 2026.
+clubasia is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "BLOCK 11th Anniversary" on Sat, 29 Aug 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 80KIDZ, Bonnie, discopants and DJ Moro and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Bonnie, discopants, FELINE (JP) and FUJI TRILL and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | 亞典回路 | 80KIDZ, eijin, illequal |
-| Fri, 28 Aug 2026 | TYO GQOM takes over the 2nd floor of clubasia | DJ Moro, HW BINGO, K8 (TYO GQOM), mitokon |
 | Sat, 29 Aug 2026 | BLOCK 11th Anniversary | FUJI TRILL, Jellyf!sh, kyuuu, misa nakamura, rirugiliyangugili |
 | Fri, 4 Sept 2026 | Juan Atkins -JAPAN TOUR- at club asia | FELINE (JP), Juan Atkins, Ken Ishii |
 | Thu, 17 Sept 2026 | club asia THURSDAY - ryuu ALL NIGHT LONG - | ryuu (2) |
@@ -20,4 +18,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

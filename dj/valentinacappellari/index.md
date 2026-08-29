@@ -1,6 +1,6 @@
 # Valentina Cappellari
 
-Valentina Cappellari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Detroit on Sat, 29 Aug 2026.
+Valentina Cappellari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Detroit on Sat, 29 Aug 2026.
 
 Valentina Cappellari is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago and Detroit. Often billed alongside 88 MPH, Abisai and Austin Buck. Next up: TBA, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Valentina Cappellari is a techno and house artist based in United States of Amer
 
 88 MPH, Abisai, Austin Buck
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinacappellari/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinacappellari/)*

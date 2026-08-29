@@ -1,6 +1,6 @@
 # vizionn
 
-vizionn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
+vizionn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 26 Sept 2026.
 
 vizionn is a techno and trance artist tracked on soundcheck, with 73 sets logged across Antwerp, Basel, Berlin and Brussels and 28 more. Often billed alongside DJ Reiz, The Jakob Sister and RaverPik. Next up: Lokschuppen Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ vizionn is a techno and trance artist tracked on soundcheck, with 73 sets logged
 
 DJ Reiz, The Jakob Sister, RaverPik
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizionn/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizionn/)*

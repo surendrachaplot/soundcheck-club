@@ -1,6 +1,6 @@
 # T0M1
 
-T0M1 is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+T0M1 is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
 
 T0M1 is a techno and latin bass artist based in Argentina, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Julio César, Tiyumii and Sofy Suars. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ T0M1 is a techno and latin bass artist based in Argentina, tracked on soundcheck
 
 Julio César, Tiyumii, Sofy Suars
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t0m1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t0m1/)*

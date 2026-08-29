@@ -1,6 +1,6 @@
 # Njoki Njoki
 
-Njoki Njoki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
+Njoki Njoki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
 
 Njoki Njoki is a techno and bass artist tracked on soundcheck, with 33 sets logged across Montreal and Vancouver. Often billed alongside Brendocha, DR BPM and Frankie Teardrop. Next up: TBA - 1201 FRANKLIN ST, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Njoki Njoki is a techno and bass artist tracked on soundcheck, with 33 sets logg
 
 Brendocha, DR BPM, Frankie Teardrop
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/njokinjoki/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/njokinjoki/)*

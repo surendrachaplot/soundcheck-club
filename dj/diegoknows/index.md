@@ -1,6 +1,6 @@
 # Diego Knows
 
-Diego Knows is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Barracuda Beach Club, Lisbon on Sat, 29 Aug 2026.
+Diego Knows is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Barracuda Beach Club, Lisbon on Sat, 29 Aug 2026.
 
 Diego Knows is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Istanbul, Lisbon and Newyorkcity. Often billed alongside Pedro Goya, Gio Gulez and 3C. Next up: Barracuda Beach Club, Lisbon on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Diego Knows is a house and deep house artist based in United States of America, 
 
 Pedro Goya, Gio Gulez, 3C
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoknows/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoknows/)*

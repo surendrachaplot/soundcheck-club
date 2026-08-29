@@ -1,6 +1,6 @@
 # Raw Phonics
 
-Raw Phonics is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
+Raw Phonics is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
 
 Raw Phonics is a house and minimal artist based in United States of America, tracked on soundcheck, with 44 sets logged across Newyorkcity and Philadelphia. Often billed alongside Armii1n, Auphoria and Miguel Gallardo. Next up: Moondog Hifi, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Raw Phonics is a house and minimal artist based in United States of America, tra
 
 Armii1n, Auphoria, Miguel Gallardo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rawphonics/)*

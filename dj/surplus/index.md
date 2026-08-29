@@ -1,6 +1,6 @@
 # Surplus
 
-Surplus is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 17 Sept 2026.
+Surplus is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Cheetah Club, Glasgow on Thu, 17 Sept 2026.
 
 Surplus is a house and minimal techno artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Glasgow and Toronto. Often billed alongside SMK (1), Ali Watts and Active Surplus. Next up: La Cheetah Club, Glasgow on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Surplus is a house and minimal techno artist based in United Kingdom, tracked on
 
 SMK (1), Ali Watts, Active Surplus
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surplus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surplus/)*

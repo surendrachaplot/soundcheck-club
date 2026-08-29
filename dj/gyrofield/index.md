@@ -1,6 +1,6 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+gyrofield is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 gyrofield is a drum & bass and bass artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 23 more. Often billed alongside DjRUM, Mala and KAVARI. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -9,7 +9,6 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 70 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
-| Fri, 28 Aug 2026 | Société des arts technologiques | Montreal |
 | Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 26 Sept 2026 | Knockdown Center | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
@@ -17,6 +16,7 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 70 sets l
 
 ## Recently played
 
+- Société des arts technologiques, Montreal — Fri, 28 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -24,10 +24,9 @@ gyrofield is a drum & bass and bass artist tracked on soundcheck, with 70 sets l
 - Kraftwerk Berlin, Berlin — Sun, 31 May 2026
 - TILLATEC, Amsterdam — Sat, 30 May 2026
 - Kraftwerk Berlin, Berlin — Sat, 30 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
 
 ## Shares bills with
 
 DjRUM, Mala, KAVARI
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

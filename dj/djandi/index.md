@@ -1,6 +1,6 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
+Andi is a EBM and Italo Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bossa Nova Civic Club, New York City on Thu, 3 Sept 2026.
 
 Andi is an ebm and italo disco artist tracked on soundcheck, with 217 sets logged across Austin, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 3 Sept.
 
@@ -30,4 +30,4 @@ Andi is an ebm and italo disco artist tracked on soundcheck, with 217 sets logge
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

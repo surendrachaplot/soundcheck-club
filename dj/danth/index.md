@@ -1,6 +1,6 @@
 # Danth
 
-Danth is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at MS RheinMagie, Cologne on Sun, 13 Sept 2026.
+Danth is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at MS RheinMagie, Cologne on Sun, 13 Sept 2026.
 
 Danth is an electronic artist tracked on soundcheck, with 8 sets logged across Cologne. Often billed alongside Alex Martin, 1991 and A Little Sound. Next up: MS RheinMagie, Cologne on Sun 13 Sept.
 
@@ -24,4 +24,4 @@ Danth is an electronic artist tracked on soundcheck, with 8 sets logged across C
 
 Alex Martin, 1991, A Little Sound
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danth/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danth/)*

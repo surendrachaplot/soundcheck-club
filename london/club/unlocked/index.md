@@ -1,14 +1,13 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "PLAYPIEM: PLAYERS CLUB - THE CARNIVAL PARTY" on Fri, 28 Aug 2026.
+UNLOCKED is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "RBC's RECESS" on Sun, 30 Aug 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | PLAYPIEM: PLAYERS CLUB - THE CARNIVAL PARTY |  |
 | Sun, 30 Aug 2026 | RBC's RECESS |  |
 | Thu, 3 Sept 2026 | Live Nation presents: SISTRA |  |
 | Sat, 5 Sept 2026 | The Soundgarden | Carina Lawrence, Eelke Kleijn, Lavie Au Soleil, Nick Warren, Sinca |
@@ -23,4 +22,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming nights, wi
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

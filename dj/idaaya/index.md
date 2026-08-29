@@ -1,6 +1,6 @@
 # Ida Aya
 
-Ida Aya is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+Ida Aya is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 Ida Aya is a techno and trance artist based in Denmark, tracked on soundcheck, with 80 sets logged across Copenhagen and Hamburg. Often billed alongside Miss Puppy, Phloem and Kasper Marott. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Ida Aya is a techno and trance artist based in Denmark, tracked on soundcheck, w
 
 Miss Puppy, Phloem, Kasper Marott
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idaaya/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idaaya/)*

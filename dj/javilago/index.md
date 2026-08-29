@@ -1,6 +1,6 @@
 # Javi Lago
 
-Javi Lago is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Moog Club, Barcelona on Sat, 5 Sept 2026.
+Javi Lago is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Moog Club, Barcelona on Sat, 5 Sept 2026.
 
 Javi Lago is a techno and electronica artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside IZAN CRAMER, Javi gOn and Drucal. Next up: Moog Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Javi Lago is a techno and electronica artist based in Spain, tracked on soundche
 
 IZAN CRAMER, Javi gOn, Drucal
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javilago/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/javilago/)*

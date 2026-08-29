@@ -1,6 +1,6 @@
 # EVEHIVE
 
-EVEHIVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bar Carmem, Sao Paulo on Sat, 29 Aug 2026.
+EVEHIVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bar Carmem, Sao Paulo on Sat, 29 Aug 2026.
 
 EVEHIVE is a house and techno artist tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Lisbon and London and 2 more. Often billed alongside BADSISTA, Kontronatura and KENYA20HZ. Next up: Bar Carmem, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ EVEHIVE is a house and techno artist tracked on soundcheck, with 44 sets logged 
 
 BADSISTA, Kontronatura, KENYA20HZ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evehive/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evehive/)*

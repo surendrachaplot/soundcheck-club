@@ -1,6 +1,6 @@
 # Grove Shaman
 
-Grove Shaman is a Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Grove Shaman is a Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Grove Shaman is a deep house artist tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside Soto Music, RO3 and Jason Rault. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Grove Shaman is a deep house artist tracked on soundcheck, with 14 sets logged a
 
 Soto Music, RO3, Jason Rault
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groveshaman/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groveshaman/)*

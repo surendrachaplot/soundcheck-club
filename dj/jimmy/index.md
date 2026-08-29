@@ -1,6 +1,6 @@
 # Jimmy
 
-Jimmy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Socore Factory, Osaka on Sun, 11 Oct 2026.
+Jimmy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Socore Factory, Osaka on Sun, 11 Oct 2026.
 
 Jimmy is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Berlin, Detroit, Leeds and London and 3 more. Often billed alongside Quidders, Brennan (2) and DUCK-E. Next up: Socore Factory, Osaka on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Jimmy is a house and tech house artist based in United Kingdom, tracked on sound
 
 Quidders, Brennan (2), DUCK-E
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmy/)*

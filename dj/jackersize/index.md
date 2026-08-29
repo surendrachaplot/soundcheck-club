@@ -1,6 +1,6 @@
 # Jackersize
 
-Jackersize is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Whistler, Chicago on Sun, 6 Sept 2026.
+Jackersize is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Whistler, Chicago on Sun, 6 Sept 2026.
 
 Jackersize is a disco and italo disco artist tracked on soundcheck, with 9 sets logged across Chicago. Often billed alongside Pen Pals, Inés and Jillian x. Next up: Whistler, Chicago on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Jackersize is a disco and italo disco artist tracked on soundcheck, with 9 sets 
 
 Pen Pals, Inés, Jillian x
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackersize/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jackersize/)*

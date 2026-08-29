@@ -1,6 +1,6 @@
 # Bubamara
 
-Bubamara is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Frappant, Hamburg on Fri, 4 Sept 2026.
+Bubamara is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Frappant, Hamburg on Fri, 4 Sept 2026.
 
 Bubamara is an electronica and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Hamburg. Often billed alongside DJ Dreams, Muffel (2) and freesi. Next up: Frappant, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Bubamara is an electronica and trance artist based in Germany, tracked on soundc
 
 DJ Dreams, Muffel (2), freesi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bubamara/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bubamara/)*

@@ -1,6 +1,6 @@
 # Marco Baskind
 
-Marco Baskind is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+Marco Baskind is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
 
 Marco Baskind is a techno and house artist tracked on soundcheck, with 43 sets logged across Berlin, Hamburg and Munich. Often billed alongside Surreal (DE), Le.Fu and Antoine Baiser. Next up: Südpol, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Marco Baskind is a techno and house artist tracked on soundcheck, with 43 sets l
 
 Surreal (DE), Le.Fu, Antoine Baiser
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobaskind/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobaskind/)*

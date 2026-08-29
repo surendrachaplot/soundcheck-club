@@ -1,6 +1,6 @@
 # GUTA
 
-GUTA is a Afro House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Headrow House, Leeds on Sat, 19 Sept 2026.
+GUTA is a Afro House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Headrow House, Leeds on Sat, 19 Sept 2026.
 
 GUTA is an afro house and afrobeats artist tracked on soundcheck, with 6 sets logged across Barcelona, Leeds and Porto. Often billed alongside Adriana Ruas, Alfonsvs and Artist Lebo. Next up: Headrow House, Leeds on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ GUTA is an afro house and afrobeats artist tracked on soundcheck, with 6 sets lo
 
 Adriana Ruas, Alfonsvs, Artist Lebo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guta/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guta/)*

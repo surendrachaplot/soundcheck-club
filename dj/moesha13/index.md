@@ -1,6 +1,6 @@
 # Moesha 13
 
-Moesha 13 is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Gravière, Geneva on Sat, 29 Aug 2026.
+Moesha 13 is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Gravière, Geneva on Sat, 29 Aug 2026.
 
 Moesha 13 is an experimental and bass artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Brussels and Geneva and 8 more. Often billed alongside Soft Break, ojoo and Assyouti. Next up: La Gravière, Geneva on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Moesha 13 is an experimental and bass artist tracked on soundcheck, with 21 sets
 
 Soft Break, ojoo, Assyouti
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moesha13/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moesha13/)*

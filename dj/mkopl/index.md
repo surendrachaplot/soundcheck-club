@@ -1,6 +1,6 @@
 # MKO (PL)
 
-MKO (PL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+MKO (PL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
 MKO (PL) is a techno and house artist tracked on soundcheck, with 77 sets logged across Berlin, Krakow, Manchester and Prague and 3 more. Often billed alongside PAWEL (PL), Kovvalsky and Olivia. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MKO (PL) is a techno and house artist tracked on soundcheck, with 77 sets logged
 
 PAWEL (PL), Kovvalsky, Olivia
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkopl/)*

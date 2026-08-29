@@ -1,6 +1,6 @@
 # TRS (3)
 
-TRS (3) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sala Upload Barcelona, Barcelona on Fri, 4 Sept 2026.
+TRS (3) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sala Upload Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 TRS (3) is an ambient and experimental artist tracked on soundcheck, with 10 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Just Claudia, Pépe and AINES. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ TRS (3) is an ambient and experimental artist tracked on soundcheck, with 10 set
 
 Just Claudia, Pépe, AINES
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trs-3/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trs-3/)*

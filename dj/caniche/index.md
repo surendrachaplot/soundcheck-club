@@ -1,18 +1,18 @@
 # Caniche
 
-Caniche is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at OXI, Berlin on Fri, 28 Aug 2026.
+Caniche is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Grelle Forelle, Vienna on Fri, 4 Sept 2026.
 
-Caniche is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Mischa Beton, Specific Objects and Gydah. Next up: OXI, Berlin on Fri 28 Aug.
+Caniche is a techno and trance artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Mischa Beton, Specific Objects and Gydah. Next up: Grelle Forelle, Vienna on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | OXI | Berlin |
 | Fri, 4 Sept 2026 | Grelle Forelle | Vienna |
 
 ## Recently played
 
+- OXI, Berlin — Fri, 28 Aug 2026
 - ÆDEN, Berlin — Thu, 13 Aug 2026
 - ÆDEN, Berlin — Fri, 17 Jul 2026
 - Odonien, Cologne — Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ Caniche is a techno and trance artist tracked on soundcheck, with 107 sets logge
 - Club Exil, Vienna — Fri, 12 Jun 2026
 - Zoo, Geneva — Fri, 5 Jun 2026
 - Rote Sonne, Munich — Fri, 29 May 2026
-- ÆDEN, Berlin — Thu, 21 May 2026
 
 ## Shares bills with
 
 Mischa Beton, Specific Objects, Gydah
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caniche/)*

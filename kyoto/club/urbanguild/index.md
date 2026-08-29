@@ -1,6 +1,6 @@
 # Urbanguild
 
-Urbanguild is a music venue in Kyoto with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "MELLOER vol.5" on Sun, 20 Sept 2026.
+Urbanguild is a music venue in Kyoto with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "MELLOER vol.5" on Sun, 20 Sept 2026.
 
 Urbanguild is a music venue in Kyoto listed on soundcheck. 1 upcoming night, with line-ups including Aiconga and skn(sakana). Browse upcoming dates, start times and who's playing. Kiyamachi-Sanjo Kudaru, Nakagyo-Ku, Kyoto-Shi, Kyoto, 604-8002 Japan.
 
@@ -14,4 +14,4 @@ Urbanguild is a music venue in Kyoto listed on soundcheck. 1 upcoming night, wit
 
 Kiyamachi-Sanjo Kudaru, Nakagyo-Ku, Kyoto-Shi, Kyoto, 604-8002 Japan, Kyoto
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/urbanguild/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/urbanguild/)*

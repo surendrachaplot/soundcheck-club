@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Club — Area: Ocean b2b how2fly, Shake Daddy, dj try, Sensu" on Fri, 28 Aug 2026.
+Badaboum is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Club — Gaga, Jolly B2B Mel, Louison B2B Mafou" on Sat, 29 Aug 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Club — Area: Ocean b2b how2fly, Shake Daddy, dj try, Sensu | DJ Try, DJ Try (US), Sensu, Sensu (2), Shake Daddy, how2fly |
 | Sat, 29 Aug 2026 | Club — Gaga, Jolly B2B Mel, Louison B2B Mafou | Jolly (FR), Louison, Mafou, Mel (FR) |
 | Thu, 3 Sept 2026 | Club — LA CH!CK: BEY DAY BIRTHDAY EVE PARTY |  |
 | Fri, 4 Sept 2026 | Club — DJ Physical & THELMA (all night long) | DJ Physical, THELMA |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 | Sat, 12 Sept 2026 | Club — Friendsome: Viikatory (live), Clinique Lacuna, Michel D., Yuko Kakizawa, Dielli | Clinique Lacuna, Dielli, Michel D., Viikatory, Yuko Kakizawa |
 | Thu, 17 Sept 2026 | Club — LA CH!CK: TUMBLR RAVE |  |
 | Fri, 18 Sept 2026 | Club — Worms: Kode9, Breaka, re:ni, Shfoosja | Breaka, Kode9, Mafille, Oreille Interne, Shfoosja, re:ni |
+| Sat, 19 Sept 2026 | Concert — Deadbeat presents Dubtechno Special Tikiman live, Neida live, re:ni | Deadbeat, Neida, Paul St. Hilaire, re:ni |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

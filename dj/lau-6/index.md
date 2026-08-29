@@ -1,6 +1,6 @@
 # LAU (6)
 
-LAU (6) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Turbina, Budapest on Sat, 29 Aug 2026.
+LAU (6) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Turbina, Budapest on Sat, 29 Aug 2026.
 
 LAU (6) is a techno and house artist tracked on soundcheck, with 60 sets logged across Budapest. Often billed alongside Vatsanah, Switch Nollie and dtnb. Next up: Turbina, Budapest on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ LAU (6) is a techno and house artist tracked on soundcheck, with 60 sets logged 
 
 Vatsanah, Switch Nollie, dtnb
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lau-6/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lau-6/)*

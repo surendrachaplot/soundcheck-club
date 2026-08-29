@@ -1,6 +1,6 @@
 # Trixie (UK)
 
-Trixie (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 30 Aug 2026.
+Trixie (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 30 Aug 2026.
 
 Trixie (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 2 more. Often billed alongside E. Alexander, Mauro Ferno and Myriam. Next up: Vittoria Wharf Studio, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Trixie (UK) is a house and techno artist based in United Kingdom, tracked on sou
 
 E. Alexander, Mauro Ferno, Myriam
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-uk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trixie-uk/)*

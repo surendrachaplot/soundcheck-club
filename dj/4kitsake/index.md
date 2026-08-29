@@ -1,6 +1,6 @@
 # 4KitSake
 
-4KitSake is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Adrian's Bar, Glasgow on Sun, 30 Aug 2026.
+4KitSake is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Adrian's Bar, Glasgow on Sun, 30 Aug 2026.
 
 4KitSake is a house and hardcore artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Glasgow. Often billed alongside Darkcore Truth, eurokels and Angel Cake. Next up: Adrian's Bar, Glasgow on Sun 30 Aug.
 
@@ -22,4 +22,4 @@
 
 Darkcore Truth, eurokels, Angel Cake
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4kitsake/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4kitsake/)*

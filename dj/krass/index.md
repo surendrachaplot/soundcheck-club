@@ -1,6 +1,6 @@
 # Krass
 
-Krass is a Acid and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kafe Hærverk, Oslo on Sat, 29 Aug 2026.
+Krass is a Acid and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kafe Hærverk, Oslo on Sat, 29 Aug 2026.
 
 Krass is an acid and minimal artist tracked on soundcheck, with 38 sets logged across Oslo. Often billed alongside Dj Spacebear, Olefonken and Krüger. Next up: Kafe Hærverk, Oslo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Krass is an acid and minimal artist tracked on soundcheck, with 38 sets logged a
 
 Dj Spacebear, Olefonken, Krüger
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krass/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krass/)*

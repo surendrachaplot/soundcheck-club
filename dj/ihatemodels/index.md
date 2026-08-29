@@ -1,6 +1,6 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+I Hate Models is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 I Hate Models is a techno and house artist tracked on soundcheck, with 271 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and DYEN. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -23,17 +23,17 @@ I Hate Models is a techno and house artist tracked on soundcheck, with 271 sets 
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Boston Manor Park, London — Sun, 2 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 - Brixton Jamm, London — Sat, 18 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 5 Jul 2026
-- Life Park, Istanbul — Sat, 4 Jul 2026
-- Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 999999999, Nico Moreno, DYEN
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

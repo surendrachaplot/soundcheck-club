@@ -1,6 +1,6 @@
 # Quartyard
 
-Quartyard is a music venue in San Diego with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LED presents Boogie T" on Sat, 29 Aug 2026.
+Quartyard is a music venue in San Diego with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "LED presents Boogie T" on Sat, 29 Aug 2026.
 
 Quartyard is a music venue in Sandiego listed on soundcheck. 7 upcoming nights, with line-ups including Bag Raiders, Riordan and Shermanology. Browse upcoming dates, start times and who's playing. 1301 Market Street, San Diego, CA.
 
@@ -20,4 +20,4 @@ Quartyard is a music venue in Sandiego listed on soundcheck. 7 upcoming nights, 
 
 1301 Market Street, San Diego, CA, San Diego
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/quartyard/)*

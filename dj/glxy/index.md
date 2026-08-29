@@ -1,6 +1,6 @@
 # GLXY
 
-GLXY is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+GLXY is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 GLXY is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Duskee, Monrroe and SP:MC. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ GLXY is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Duskee, Monrroe, SP:MC
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glxy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glxy/)*

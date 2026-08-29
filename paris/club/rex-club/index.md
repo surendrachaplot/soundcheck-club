@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Rex Club OPENING DAY #1: Ams & Paula Tape" on Fri, 28 Aug 2026.
+Rex Club is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "August In Paris Release Party: Jen Cardini & Shonky all night long" on Sat, 29 Aug 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Mariiin, Paula Tape, Ams (FR) and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Mariiin, Antal, ARPL and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Rex Club OPENING DAY #1: Ams & Paula Tape | Ams (FR), Paula Tape |
 | Sat, 29 Aug 2026 | August In Paris Release Party: Jen Cardini & Shonky all night long | Jen Cardini, Shonky |
 | Wed, 2 Sept 2026 | Underbass & Aperotech presents: ARPL, Fleurbleus, Saphyr | ARPL |
 | Thu, 3 Sept 2026 | Undercore: El Desperado, Nrki, Hidup, Inima |  |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, wit
 | Sat, 12 Sept 2026 | Toy Tonics: Cody Currie, Kapote, geneva | Cody Currie, Kapote, geneva |
 | Sun, 13 Sept 2026 | LEGENDS: Kerri Chandler & DJ Deep | DJ Deep, Kerri Chandler |
 | Wed, 16 Sept 2026 | Vortex Invite: FUMI, VICØ, Keyklau | FUMI, Keyklau, VICØ |
+| Thu, 17 Sept 2026 | Bavardages & friends all night long |  |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

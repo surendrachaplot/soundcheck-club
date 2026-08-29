@@ -1,6 +1,6 @@
 # ANNX
 
-ANNX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Gaffe, London on Sun, 20 Sept 2026.
+ANNX is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Gaffe, London on Sun, 20 Sept 2026.
 
 ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Bangkok, Berlin, Bristol and Brussels and 10 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Gaffe, London on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

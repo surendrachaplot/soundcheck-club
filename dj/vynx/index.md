@@ -1,6 +1,6 @@
 # VYNX
 
-VYNX is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 618 DC, Washington DC on Fri, 4 Sept 2026.
+VYNX is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 618 DC, Washington DC on Fri, 4 Sept 2026.
 
 VYNX is a house and tech house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Detroit, Newyorkcity, Sandiego and Washingtondc. Often billed alongside SPCL.K, Jess in the Flesh and ANNYA. Next up: 618 DC, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ VYNX is a house and tech house artist based in United States of America, tracked
 
 SPCL.K, Jess in the Flesh, ANNYA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vynx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vynx/)*

@@ -1,6 +1,6 @@
 # Nita Aviance
 
-Nita Aviance is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at smartbar, Chicago on Sat, 29 Aug 2026.
+Nita Aviance is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at smartbar, Chicago on Sat, 29 Aug 2026.
 
 Nita Aviance is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Chicago, Detroit, Leipzig and London and 4 more. Often billed alongside Will Automagic, The Carry Nation and Alissa Brianna. Next up: smartbar, Chicago on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Nita Aviance is a house and techno artist based in United States of America, tra
 
 Will Automagic, The Carry Nation, Alissa Brianna
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaaviance/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaaviance/)*

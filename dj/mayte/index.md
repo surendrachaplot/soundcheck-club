@@ -1,6 +1,6 @@
 # Mayte
 
-Mayte is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 315 Meserole, New York City on Sat, 29 Aug 2026.
+Mayte is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 315 Meserole, New York City on Sat, 29 Aug 2026.
 
 Mayte is a house and deep house artist tracked on soundcheck, with 13 sets logged across Dublin, Mexicocity and Newyorkcity. Often billed alongside Alan Nieves, NURAN and @nimal. Next up: 315 Meserole, Newyorkcity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mayte is a house and deep house artist tracked on soundcheck, with 13 sets logge
 
 Alan Nieves, NURAN, @nimal
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayte/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayte/)*

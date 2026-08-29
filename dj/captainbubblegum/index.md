@@ -1,6 +1,6 @@
 # Captain Bubblegum
 
-Captain Bubblegum is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at MODULE, Copenhagen on Sat, 29 Aug 2026.
+Captain Bubblegum is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at MODULE, Copenhagen on Sat, 29 Aug 2026.
 
 Captain Bubblegum is a trance and techno artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside dj bootymagic, ALYOSHA and ASTA MARI. Next up: MODULE, Copenhagen on Sat 29 Aug.
 
@@ -20,4 +20,4 @@ Captain Bubblegum is a trance and techno artist based in Denmark, tracked on sou
 
 dj bootymagic, ALYOSHA, ASTA MARI
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainbubblegum/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainbubblegum/)*

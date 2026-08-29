@@ -1,6 +1,6 @@
 # Shivaionmusic
 
-Shivaionmusic is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Bernard Shaw, Dublin on Sat, 19 Sept 2026.
+Shivaionmusic is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Bernard Shaw, Dublin on Sat, 19 Sept 2026.
 
 Shivaionmusic is a psytrance and trance artist tracked on soundcheck, with 9 sets logged across Dublin. Often billed alongside Aram, JuliosMap and Noisy Chilli. Next up: The Bernard Shaw, Dublin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shivaionmusic is a psytrance and trance artist tracked on soundcheck, with 9 set
 
 Aram, JuliosMap, Noisy Chilli
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shivaionmusic/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shivaionmusic/)*

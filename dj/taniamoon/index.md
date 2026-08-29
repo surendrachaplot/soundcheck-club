@@ -1,6 +1,6 @@
 # Tania Moon
 
-Tania Moon is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Madam, Amsterdam on Fri, 4 Sept 2026.
+Tania Moon is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Madam, Amsterdam on Fri, 4 Sept 2026.
 
 Tania Moon is a techno and electronica artist based in Spain, tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, Madrid and Malaga. Often billed alongside Aktor Se, Ede and Esin. Next up: Madam, Amsterdam on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Tania Moon is a techno and electronica artist based in Spain, tracked on soundch
 
 Aktor Se, Ede, Esin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniamoon/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taniamoon/)*

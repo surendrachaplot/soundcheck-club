@@ -1,6 +1,6 @@
 # VIRGIN!A
 
-VIRGIN!A is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+VIRGIN!A is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 VIRGIN!A is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Hamburg. Often billed alongside MOMO MISCHT, VIĆERO and ELLY (DE). Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ VIRGIN!A is a techno and tech house artist tracked on soundcheck, with 27 sets l
 
 MOMO MISCHT, VIĆERO, ELLY (DE)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virgin!a/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/virgin!a/)*

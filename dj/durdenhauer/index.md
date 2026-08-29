@@ -1,6 +1,6 @@
 # DURDENHAUER
 
-DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
+DURDENHAUER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
 
 DURDENHAUER is a techno and trance artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside Fenrick, Carla Schmitt and DJ GUESTLIST. Next up: Kilomètre25, Paris on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DURDENHAUER is a techno and trance artist tracked on soundcheck, with 68 sets lo
 
 Fenrick, Carla Schmitt, DJ GUESTLIST
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/durdenhauer/)*

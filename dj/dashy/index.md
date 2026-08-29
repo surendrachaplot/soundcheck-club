@@ -1,6 +1,6 @@
 # DASHY
 
-DASHY is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Head Stretford, Manchester on Sat, 5 Sept 2026.
+DASHY is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Head Stretford, Manchester on Sat, 5 Sept 2026.
 
 DASHY is a garage and house artist tracked on soundcheck, with 33 sets logged across Brighton, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Lolli, Azumei and IZZIT. Next up: Head Stretford, Manchester on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DASHY is a garage and house artist tracked on soundcheck, with 33 sets logged ac
 
 Lolli, Azumei, IZZIT
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*

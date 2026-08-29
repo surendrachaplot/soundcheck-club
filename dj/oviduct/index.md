@@ -1,6 +1,6 @@
 # Oviduct
 
-Oviduct is a Minimal and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kockiri, Seoul on Sat, 29 Aug 2026.
+Oviduct is a Minimal and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kockiri, Seoul on Sat, 29 Aug 2026.
 
 Oviduct is a minimal and minimal techno artist based in South Korea, tracked on soundcheck, with 77 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Leesangsoon, Kibum and Jongho. Next up: Kockiri, Seoul on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Oviduct is a minimal and minimal techno artist based in South Korea, tracked on 
 
 Leesangsoon, Kibum, Jongho
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oviduct/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oviduct/)*

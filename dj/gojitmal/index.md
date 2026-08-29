@@ -1,6 +1,6 @@
 # Gojitmal
 
-Gojitmal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Gojitmal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Gojitmal is a techno and house artist tracked on soundcheck, with 48 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Sojourna, Noritachibana and Mars Parck. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Gojitmal is a techno and house artist tracked on soundcheck, with 48 sets logged
 
 Sojourna, Noritachibana, Mars Parck
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gojitmal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gojitmal/)*

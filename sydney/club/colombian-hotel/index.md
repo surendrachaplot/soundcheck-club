@@ -1,6 +1,6 @@
 # Colombian Hotel
 
-Colombian Hotel is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Sensual Collective Pres. Tu no Entiendes" on Sat, 29 Aug 2026.
+Colombian Hotel is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sensual Collective Pres. Tu no Entiendes" on Sat, 29 Aug 2026.
 
 Colombian Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including butters and Charles X. Browse upcoming dates, start times and who's playing. 117-123 Oxford St; Surry Hills, NSW 2010; Australia.
 
@@ -14,4 +14,4 @@ Colombian Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming nigh
 
 117-123 Oxford St; Surry Hills, NSW 2010; Australia, Sydney
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/colombian-hotel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/colombian-hotel/)*

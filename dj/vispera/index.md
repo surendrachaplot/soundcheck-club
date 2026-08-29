@@ -1,18 +1,18 @@
 # Vispera
 
-Vispera is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at M.O.T, London on Fri, 28 Aug 2026.
+Vispera is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Planet Wax, London on Sat, 21 Nov 2026.
 
-Vispera is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Bristol, Leeds, London and Manchester. Often billed alongside Jessy P, Kyber and Loker. Next up: M.O.T, London on Fri 28 Aug.
+Vispera is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Bristol, Leeds, London and Manchester. Often billed alongside Jessy P, Kyber and Loker. Next up: Planet Wax, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | M.O.T | London |
 | Sat, 21 Nov 2026 | Planet Wax | London |
 
 ## Recently played
 
+- M.O.T, London — Fri, 28 Aug 2026
 - Hidden, Manchester — Sat, 9 May 2026
 - The DBA, Manchester — Sat, 4 Oct 2025
 - Lakota, Bristol — Sat, 19 Jul 2025
@@ -20,10 +20,9 @@ Vispera is a drum & bass and jungle artist tracked on soundcheck, with 18 sets l
 - The Eagle Inn, Manchester — Sun, 6 Apr 2025
 - Eastern Bloc Records, Manchester — Thu, 30 Jan 2025
 - The Eagle Inn, Manchester — Fri, 17 Jan 2025
-- Rebellion, Manchester — Fri, 29 Nov 2024
 
 ## Shares bills with
 
 Jessy P, Kyber, Loker
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vispera/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vispera/)*

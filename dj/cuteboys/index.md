@@ -1,6 +1,6 @@
 # cute boys
 
-cute boys is a Trance and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Amma Cafe, New York City on Fri, 4 Sept 2026.
+cute boys is a Trance and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Amma Cafe, New York City on Fri, 4 Sept 2026.
 
 cute boys is a trance and pop artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Lilflower and Robyn DaBank. Next up: Amma Cafe, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ cute boys is a trance and pop artist based in United States of America, tracked 
 
 ASTER (DJ), Lilflower, Robyn DaBank
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cuteboys/)*

@@ -1,18 +1,18 @@
 # Allanit
 
-Allanit is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Flash, Washington DC on Fri, 28 Aug 2026.
+Allanit is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 30 Aug 2026.
 
-Allanit is a house and deep house artist tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside Sarah Myers, Apollo Dust and Dabz. Next up: Flash, Washingtondc on Fri 28 Aug.
+Allanit is a house and deep house artist tracked on soundcheck, with 7 sets logged across Washingtondc. Often billed alongside Sarah Myers, Apollo Dust and Dabz. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Flash | Washington DC |
 | Sun, 30 Aug 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 
 ## Recently played
 
+- Flash, Washington DC — Fri, 28 Aug 2026
 - El Secreto De Rosita, Washington DC — Sat, 6 Jun 2026
 - Eighteenth Street Lounge (ESL), Washington DC — Sun, 24 May 2026
 - Baby Shank, Washington DC — Sun, 21 Sept 2025
@@ -23,4 +23,4 @@ Allanit is a house and deep house artist tracked on soundcheck, with 7 sets logg
 
 Sarah Myers, Apollo Dust, Dabz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allanit/)*

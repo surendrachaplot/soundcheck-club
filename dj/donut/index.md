@@ -1,6 +1,6 @@
 # Donut
 
-Donut is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Night Tales Loft, London on Sat, 29 Aug 2026.
+Donut is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Night Tales Loft, London on Sat, 29 Aug 2026.
 
 Donut is a broken beat and house artist tracked on soundcheck, with 44 sets logged across Bristol and London. Often billed alongside Rohan Rakhit, Cam Joon and LORA S. Next up: Night Tales Loft, London on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Donut is a broken beat and house artist tracked on soundcheck, with 44 sets logg
 
 Rohan Rakhit, Cam Joon, LORA S
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*

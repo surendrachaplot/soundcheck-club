@@ -1,6 +1,6 @@
 # Dan Gray
 
-Dan Gray is a Club and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 29 Aug 2026.
+Dan Gray is a Club and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 29 Aug 2026.
 
 Dan Gray is a club and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Washingtondc. Often billed alongside MAXIMILIANO (US), CJ Jeff and Dub Tiger. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Dan Gray is a club and deep house artist based in United States of America, trac
 
 MAXIMILIANO (US), CJ Jeff, Dub Tiger
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dangray/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dangray/)*

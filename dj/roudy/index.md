@@ -1,6 +1,6 @@
 # ROUDY
 
-ROUDY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at StereoBar, Montreal on Sun, 27 Sept 2026.
+ROUDY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at StereoBar, Montreal on Sun, 27 Sept 2026.
 
 ROUDY is a deep house and house artist tracked on soundcheck, with 20 sets logged across Montreal and Newyorkcity. Often billed alongside FAMÜ, Napo Lugo and Brian Cuta. Next up: StereoBar, Montreal on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ ROUDY is a deep house and house artist tracked on soundcheck, with 20 sets logge
 
 FAMÜ, Napo Lugo, Brian Cuta
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roudy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roudy/)*

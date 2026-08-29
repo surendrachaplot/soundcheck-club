@@ -1,6 +1,6 @@
 # Davor
 
-Davor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tokyo Sing Song, Sydney on Sat, 12 Sept 2026.
+Davor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tokyo Sing Song, Sydney on Sat, 12 Sept 2026.
 
 Davor is a techno and trance artist based in Croatia, tracked on soundcheck, with 7 sets logged across Sydney. Often billed alongside Ciaran McAuley, Infected Mushroom and Lokesh. Next up: Tokyo Sing Song, Sydney on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Davor is a techno and trance artist based in Croatia, tracked on soundcheck, wit
 
 Ciaran McAuley, Infected Mushroom, Lokesh
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davor/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davor/)*

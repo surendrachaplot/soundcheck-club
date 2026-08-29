@@ -1,14 +1,13 @@
 # Bobby.
 
-Bobby. is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 28 Aug 2026.
+Bobby. is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club Cheek, London on Sat, 3 Oct 2026.
 
-Bobby. is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 28 Aug.
+Bobby. is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 30 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Club Cheek, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | Club Cheek | London |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
@@ -17,6 +16,7 @@ Bobby. is a techno and house artist tracked on soundcheck, with 139 sets logged 
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Fri, 28 Aug 2026
 - The Carpet Shop, London — Fri, 31 Jul 2026
 - fabric, London — Sat, 27 Jun 2026
 - Hidden, Manchester — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Bobby. is a techno and house artist tracked on soundcheck, with 139 sets logged 
 - Les Enfants Brillants, Barcelona — Thu, 18 Jun 2026
 - Outer Heaven, New York City — Sat, 13 Jun 2026
 - Signal, New York City — Thu, 11 Jun 2026
-- The Cause, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

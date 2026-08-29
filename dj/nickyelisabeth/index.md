@@ -1,6 +1,6 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at SAGE, Berlin on Sat, 29 Aug 2026.
+Nicky Elisabeth is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at SAGE, Berlin on Sat, 29 Aug 2026.
 
 Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: SAGE, Berlin on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 85 sets
 
 CRi, Jody Wisternoff, Rezident
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

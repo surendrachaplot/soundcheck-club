@@ -1,6 +1,6 @@
 # SAVBEA
 
-SAVBEA is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Room 8 (Roxy), Prague on Sat, 29 Aug 2026.
+SAVBEA is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Room 8 (Roxy), Prague on Sat, 29 Aug 2026.
 
 SAVBEA is a techno artist based in Ukraine, tracked on soundcheck, with 22 sets logged across Prague. Often billed alongside Katrixia, OKSI and XENEA LUMRA. Next up: Room 8 (Roxy), Prague on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ SAVBEA is a techno artist based in Ukraine, tracked on soundcheck, with 22 sets 
 
 Katrixia, OKSI, XENEA LUMRA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savbea/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savbea/)*

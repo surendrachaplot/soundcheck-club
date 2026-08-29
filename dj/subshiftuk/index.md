@@ -1,6 +1,6 @@
 # SUBSHIFT (UK)
 
-SUBSHIFT (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Coyote Studios, Los Angeles on Sat, 29 Aug 2026.
+SUBSHIFT (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Coyote Studios, Los Angeles on Sat, 29 Aug 2026.
 
 SUBSHIFT (UK) is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Chicago, Hobart, Ibiza and Losangeles and 1 more. Next up: Coyote Studios, Losangeles on Sat 29 Aug.
 
@@ -18,4 +18,4 @@ SUBSHIFT (UK) is a tech house and house artist based in United Kingdom, tracked 
 - Sound-Bar, Chicago — Sat, 7 Mar 2026
 - Twisted Lime, Hobart — Fri, 31 Oct 2025
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subshiftuk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subshiftuk/)*

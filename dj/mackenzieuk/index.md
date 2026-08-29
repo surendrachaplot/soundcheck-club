@@ -1,6 +1,6 @@
 # Mackenzie (UK)
 
-Mackenzie (UK) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Strange Brew, Bristol on Fri, 18 Sept 2026.
+Mackenzie (UK) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Strange Brew, Bristol on Fri, 18 Sept 2026.
 
 Mackenzie (UK) is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol and Osaka. Often billed alongside Anina, Pessimist and Clarity. Next up: Strange Brew, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mackenzie (UK) is a techno and acid artist based in United Kingdom, tracked on s
 
 Anina, Pessimist, Clarity
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackenzieuk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mackenzieuk/)*

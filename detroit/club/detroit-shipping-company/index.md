@@ -1,6 +1,6 @@
 # Detroit Shipping Company
 
-Detroit Shipping Company is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "MAD presents: The Big One" on Sat, 19 Sept 2026.
+Detroit Shipping Company is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "MAD presents: The Big One" on Sat, 19 Sept 2026.
 
 Detroit Shipping Company is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including DJ STAKXX, hydraa, Obi-Wan Shinobi and Seanni B and 2 more. Browse upcoming dates, start times and who's playing. 474 PETEBORO ST DETROIT MI 48201.
 
@@ -15,4 +15,4 @@ Detroit Shipping Company is a music venue in Detroit listed on soundcheck. 2 upc
 
 474 PETEBORO ST DETROIT MI 48201, Detroit
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/detroit-shipping-company/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/detroit-shipping-company/)*

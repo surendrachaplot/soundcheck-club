@@ -1,14 +1,13 @@
 # Multi Story
 
-Multi Story is a music venue in London with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Don Papa presents: Good Chaos in the Making" on Fri, 28 Aug 2026.
+Multi Story is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "The House Upstairs" on Sat, 29 Aug 2026.
 
-Multi Story is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AJ Couque, anu, Connor Gray and iasc and 2 more. Browse upcoming dates, start times and who's playing. Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST.
+Multi Story is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including AJ Couque, anu, Connor Gray and iasc and 2 more. Browse upcoming dates, start times and who's playing. Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Don Papa presents: Good Chaos in the Making | Magaziine |
 | Sat, 29 Aug 2026 | The House Upstairs | Connor Gray |
 | Sun, 30 Aug 2026 | Another Subculture: Repetitive Music in Your Area | Piggybankshoe, Repetitive Strain, anu |
 | Thu, 3 Sept 2026 | Select Radio's Open Decks Series | Max Volume (UK), Onncor, Teresa Jane |
@@ -18,9 +17,10 @@ Multi Story is a music venue in London listed on soundcheck. 11 upcoming nights,
 | Fri, 18 Sept 2026 | Friday Selector: iasc and Fabi (DJs) | iasc |
 | Sat, 19 Sept 2026 | The House Upstairs | Connor Gray |
 | Fri, 25 Sept 2026 | NIGHTSHIFT // Josh Malkin B2B AJ Couque // All Night Long | AJ Couque |
+| Sat, 26 Sept 2026 | The House Upstairs | Connor Gray |
 
 ## Address
 
 Level 6, Peckham Levels, 95a Rye Ln, London SE15 4ST, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/multi-story/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/multi-story/)*

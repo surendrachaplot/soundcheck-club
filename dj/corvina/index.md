@@ -1,6 +1,6 @@
 # Corvina
 
-Corvina is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Club Jerome, Sao Paulo on Sat, 29 Aug 2026.
+Corvina is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club Jerome, Sao Paulo on Sat, 29 Aug 2026.
 
 Corvina is a house and disco artist based in Brazil, tracked on soundcheck, with 21 sets logged across Saopaulo. Often billed alongside DJ DUE, Felipe Venancio and Fugaz. Next up: Club Jerome, Saopaulo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Corvina is a house and disco artist based in Brazil, tracked on soundcheck, with
 
 DJ DUE, Felipe Venancio, Fugaz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corvina/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/corvina/)*

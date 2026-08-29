@@ -1,6 +1,6 @@
 # lōrenzo
 
-lōrenzo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
+lōrenzo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
 
 lōrenzo is a house and techno artist based in Italy, tracked on soundcheck, with 26 sets logged across Milan and Rome. Often billed alongside Pancratio, AGNES (IT) and Fabrizio Sala. Next up: Villa Ricotti - La Valera, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ lōrenzo is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 Pancratio, AGNES (IT), Fabrizio Sala
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo/)*

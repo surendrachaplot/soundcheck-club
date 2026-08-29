@@ -1,6 +1,6 @@
 # Kris Harris
 
-Kris Harris is a Afro House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Century, London on Sat, 29 Aug 2026.
+Kris Harris is a Afro House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Century, London on Sat, 29 Aug 2026.
 
 Kris Harris is an afro house and baile funk artist tracked on soundcheck, with 6 sets logged across Ibiza and London. Often billed alongside Jesabel, Marco (UK) and STRAY SON. Next up: Century, London on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Kris Harris is an afro house and baile funk artist tracked on soundcheck, with 6
 
 Jesabel, Marco (UK), STRAY SON
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krisharris/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/krisharris/)*

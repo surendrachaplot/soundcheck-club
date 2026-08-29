@@ -1,6 +1,6 @@
 # SF Fudge
 
-SF Fudge is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Warehouse 25, Brisbane on Fri, 25 Sept 2026.
+SF Fudge is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Warehouse 25, Brisbane on Fri, 25 Sept 2026.
 
 SF Fudge is a techno and trance artist tracked on soundcheck, with 9 sets logged across Brisbane. Often billed alongside Public Nuisance, Alan Fitzpatrick and BLADEXC. Next up: Warehouse 25, Brisbane on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SF Fudge is a techno and trance artist tracked on soundcheck, with 9 sets logged
 
 Public Nuisance, Alan Fitzpatrick, BLADEXC
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sffudge/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sffudge/)*

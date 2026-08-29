@@ -1,6 +1,6 @@
 # ATMOS
 
-ATMOS is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ooba Camping Village, Tokyo on Mon, 21 Sept 2026.
+ATMOS is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ooba Camping Village, Tokyo on Mon, 21 Sept 2026.
 
 ATMOS is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside T & Sugah, Maze (FR) and AC13. Next up: Ooba Camping Village, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ ATMOS is a drum & bass and techno artist based in Germany, tracked on soundcheck
 
 T & Sugah, Maze (FR), AC13
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atmos-de/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atmos-de/)*

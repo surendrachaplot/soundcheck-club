@@ -1,6 +1,6 @@
 # Darryn Jones
 
-Darryn Jones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
+Darryn Jones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
 
 Darryn Jones is a house and disco artist tracked on soundcheck, with 43 sets logged across Antwerp, Auckland, Barcelona and Berlin and 13 more. Often billed alongside Material (1), Ge-ology and Rich Medina. Next up: TBA, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Darryn Jones is a house and disco artist tracked on soundcheck, with 43 sets log
 
 Material (1), Ge-ology, Rich Medina
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darrynjones/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darrynjones/)*

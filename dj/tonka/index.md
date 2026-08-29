@@ -1,6 +1,6 @@
 # Tonka
 
-Tonka is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Leipzig on Sat, 29 Aug 2026.
+Tonka is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Leipzig on Sat, 29 Aug 2026.
 
 Tonka is a house and garage artist tracked on soundcheck, with 6 sets logged across Copenhagen, Leipzig, Mexicocity and Munich and 1 more. Often billed alongside AriOn, A-DEE and A-Dee and Dasmo. Next up: TBA, Leipzig on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Tonka is a house and garage artist tracked on soundcheck, with 6 sets logged acr
 
 AriOn, A-DEE, A-Dee and Dasmo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonka/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonka/)*

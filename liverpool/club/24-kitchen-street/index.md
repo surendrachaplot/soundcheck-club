@@ -1,6 +1,6 @@
 # 24 Kitchen Street
 
-24 Kitchen Street is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Static Events presents:- Serial Killaz (Extended Set) + Support (2 Room Takeover)" on Fri, 11 Sept 2026.
+24 Kitchen Street is a music venue in Liverpool with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Static Events presents:- Serial Killaz (Extended Set) + Support (2 Room Takeover)" on Fri, 11 Sept 2026.
 
 24 Kitchen Street is a music venue in Liverpool listed on soundcheck. 5 upcoming nights, with line-ups including Bel Cobain, Channel One Sound, DMC. and Luna Thee Frenchie and 2 more. Browse upcoming dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom.
 
@@ -18,4 +18,4 @@
 
 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom, Liverpool
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street/)*

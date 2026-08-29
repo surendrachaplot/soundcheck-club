@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "End of Summer Day Party" on Sat, 29 Aug 2026.
+The Grand Social is a music venue in Dublin with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "End of Summer Day Party" on Sat, 29 Aug 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 6 upcoming nights, with line-ups including WINSLAO. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -19,4 +19,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 6 upcoming nig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

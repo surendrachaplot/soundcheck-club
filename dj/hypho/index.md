@@ -1,6 +1,6 @@
 # Hypho
 
-Hypho is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
+Hypho is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sainte-Catherine Hall, Montreal on Fri, 30 Oct 2026.
 
 Hypho is a bass and dubstep artist tracked on soundcheck, with 25 sets logged across Brighton, Chicago, Denver and Losangeles and 10 more. Often billed alongside Anna Morgan, Joker and ONHELL. Next up: Sainte-Catherine Hall, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Hypho is a bass and dubstep artist tracked on soundcheck, with 25 sets logged ac
 
 Anna Morgan, Joker, ONHELL
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypho/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hypho/)*

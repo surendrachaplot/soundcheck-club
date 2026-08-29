@@ -1,6 +1,6 @@
 # Ninon
 
-Ninon is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 24 Sept 2026.
+Ninon is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 24 Sept 2026.
 
 Ninon is a disco and house artist tracked on soundcheck, with 9 sets logged across Berlin, Paris and Tokyo. Often billed alongside DJ André, Nick V and Ranae Vallis. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Ninon is a disco and house artist tracked on soundcheck, with 9 sets logged acro
 
 DJ André, Nick V, Ranae Vallis
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninon/)*

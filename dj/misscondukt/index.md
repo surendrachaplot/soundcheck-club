@@ -1,6 +1,6 @@
 # misscondukt
 
-misscondukt is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Century, London on Sat, 29 Aug 2026.
+misscondukt is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Century, London on Sat, 29 Aug 2026.
 
 misscondukt is an afro house and house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside KOKOH, Groom Armada and Nicola (UK). Next up: Century, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ misscondukt is an afro house and house artist tracked on soundcheck, with 17 set
 
 KOKOH, Groom Armada, Nicola (UK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscondukt/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscondukt/)*

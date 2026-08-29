@@ -1,6 +1,6 @@
 # Kasper Marott
 
-Kasper Marott is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
+Kasper Marott is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at DOCK B, Paris on Fri, 28 Aug 2026.
 
 Kasper Marott is a techno and trance artist based in Denmark, tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: DOCK B, Paris on Fri 28 Aug.
 
@@ -14,6 +14,7 @@ Kasper Marott is a techno and trance artist based in Denmark, tracked on soundch
 
 ## Recently played
 
+- DOCK B, Paris — Fri, 28 Aug 2026
 - Le Sucre, Lyon — Sun, 23 Aug 2026
 - Hangaren, Copenhagen — Sun, 26 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Jul 2026
@@ -21,10 +22,9 @@ Kasper Marott is a techno and trance artist based in Denmark, tracked on soundch
 - Nido Marseille, Marseille — Mon, 13 Jul 2026
 - Bassiani, Tbilisi — Fri, 12 Jun 2026
 - Backsteinboot, Berlin — Sat, 6 Jun 2026
-- Den Anden Side, Copenhagen — Fri, 29 May 2026
 
 ## Shares bills with
 
 Audrey Danza, Téa, Martin Gilleshøj
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*

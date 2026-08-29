@@ -1,6 +1,6 @@
 # Manoy
 
-Manoy is a Garage and Footwork artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
+Manoy is a Garage and Footwork artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Whitehart Bar, Melbourne on Sat, 29 Aug 2026.
 
 Manoy is a garage and footwork artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Zayler, Aaron Static and Clayton Fox. Next up: Whitehart Bar, Melbourne on Sat 29 Aug.
 
@@ -19,4 +19,4 @@ Manoy is a garage and footwork artist based in Australia, tracked on soundcheck,
 
 Zayler, Aaron Static, Clayton Fox
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoy/)*

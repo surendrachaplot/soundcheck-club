@@ -1,6 +1,6 @@
 # Caren Callas
 
-Caren Callas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bukanyr Boat, Prague on Fri, 18 Sept 2026.
+Caren Callas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bukanyr Boat, Prague on Fri, 18 Sept 2026.
 
 Caren Callas is a house and techno artist tracked on soundcheck, with 77 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 6 more. Often billed alongside babxi, Camea and Naicet. Next up: Bukanyr Boat, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Caren Callas is a house and techno artist tracked on soundcheck, with 77 sets lo
 
 babxi, Camea, Naicet
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carencallas/)*

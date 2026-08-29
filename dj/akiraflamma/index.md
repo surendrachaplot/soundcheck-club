@@ -1,6 +1,6 @@
 # AKIRA  FLAMMA
 
-AKIRA  FLAMMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Noon + Cafe, Osaka on Sat, 19 Sept 2026.
+AKIRA  FLAMMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Noon + Cafe, Osaka on Sat, 19 Sept 2026.
 
 AKIRA  FLAMMA is a techno and house artist tracked on soundcheck, with 7 sets logged across Osaka and Tokyo. Often billed alongside Daichi Wada, GAKUTO(TOKYO) and 7e. Next up: Noon + Cafe, Osaka on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ AKIRA  FLAMMA is a techno and house artist tracked on soundcheck, with 7 sets lo
 
 Daichi Wada, GAKUTO(TOKYO), 7e
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiraflamma/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akiraflamma/)*

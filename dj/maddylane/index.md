@@ -1,6 +1,6 @@
 # Maddylane
 
-Maddylane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
+Maddylane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
 
 Maddylane is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside AJACENT, DJ SWISHA and Deo'jorge. Next up: Dead Letter No. 9, Newyorkcity on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Maddylane is a house and techno artist based in United States of America, tracke
 
 AJACENT, DJ SWISHA, Deo'jorge
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddylane/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maddylane/)*

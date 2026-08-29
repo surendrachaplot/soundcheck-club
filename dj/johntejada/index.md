@@ -1,6 +1,6 @@
 # John Tejada
 
-John Tejada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
+John Tejada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
 
 John Tejada is a house and techno artist tracked on soundcheck, with 31 sets logged across Berlin, Denver, London and Losangeles and 6 more. Often billed alongside DJ Sneak, Danny Goliger and Dj Kerry. Next up: Jolene Downtown Miami, Miami on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ John Tejada is a house and techno artist tracked on soundcheck, with 31 sets log
 
 DJ Sneak, Danny Goliger, Dj Kerry
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntejada/)*

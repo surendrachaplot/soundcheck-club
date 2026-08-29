@@ -1,6 +1,6 @@
 # Bodegas José L. Ferrer
 
-Bodegas José L. Ferrer is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "serrara" on Sat, 19 Sept 2026.
+Bodegas José L. Ferrer is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "serrara" on Sat, 19 Sept 2026.
 
 Bodegas José L. Ferrer is a music venue in Mallorca listed on soundcheck. 1 upcoming night, with line-ups including Blue Veil. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bodegas José L. Ferrer is a music venue in Mallorca listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | serrara | Blue Veil |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bodegas-jos-l-ferrer/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bodegas-jos-l-ferrer/)*

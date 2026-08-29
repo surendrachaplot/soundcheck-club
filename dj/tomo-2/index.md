@@ -1,6 +1,6 @@
 # TOMO (2)
 
-TOMO (2) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Warehouse 10365 Berlin, Berlin on Sat, 17 Oct 2026.
+TOMO (2) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Warehouse 10365 Berlin, Berlin on Sat, 17 Oct 2026.
 
 TOMO (2) is a techno and idm artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Ghent and 8 more. Often billed alongside Abo Abo, Plastique01 and Chingyi. Next up: TBA - Warehouse 10365 Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ TOMO (2) is a techno and idm artist tracked on soundcheck, with 13 sets logged a
 
 Abo Abo, Plastique01, Chingyi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomo-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomo-2/)*

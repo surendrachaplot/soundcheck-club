@@ -1,6 +1,6 @@
 # Zypher
 
-Zypher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
+Zypher is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at YOTO, Hamburg on Sat, 29 Aug 2026.
 
 Zypher is a techno and house artist tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside Malvadisco, Dieselstart and Gentle Giants. Next up: YOTO, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Zypher is a techno and house artist tracked on soundcheck, with 10 sets logged a
 
 Malvadisco, Dieselstart, Gentle Giants
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zypher/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zypher/)*

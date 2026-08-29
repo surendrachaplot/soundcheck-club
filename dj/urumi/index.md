@@ -1,6 +1,6 @@
 # Urumi
 
-Urumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+Urumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
 
 Urumi is a techno and house artist tracked on soundcheck, with 37 sets logged across Antwerp, Berlin, Brussels and Geneva and 6 more. Often billed alongside Vladimir Cauchemar, Mandragora and Von Bikräv. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Urumi is a techno and house artist tracked on soundcheck, with 37 sets logged ac
 
 Vladimir Cauchemar, Mandragora, Von Bikräv
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*

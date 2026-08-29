@@ -1,6 +1,6 @@
 # H! Dude
 
-H! Dude is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 5 Sept 2026.
+H! Dude is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 1201 Franklin St, Vancouver on Sat, 5 Sept 2026.
 
 H! Dude is a techno and hardcore artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Isabelle Beaucamp, Per Pleks and A.N.I.. Next up: 1201 Franklin St, Vancouver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ H! Dude is a techno and hardcore artist tracked on soundcheck, with 44 sets logg
 
 Isabelle Beaucamp, Per Pleks, A.N.I.
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hidude/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hidude/)*

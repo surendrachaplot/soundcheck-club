@@ -1,14 +1,13 @@
 # ona:v
 
-ona:v is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at People's Leisure Club, Edinburgh on Fri, 28 Aug 2026.
+ona:v is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
 
-ona:v is a techno and electro artist tracked on soundcheck, with 104 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 5 more. Often billed alongside ENAEN, Iona.Violet and iluna. Next up: People's Leisure Club, Edinburgh on Fri 28 Aug.
+ona:v is a techno and electro artist tracked on soundcheck, with 104 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 5 more. Often billed alongside ENAEN, Iona.Violet and iluna. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | People's Leisure Club | Edinburgh |
 | Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |
 | Sat, 12 Sept 2026 | Dalston Den | London |
 | Wed, 16 Sept 2026 | The Bongo Club | Edinburgh |
@@ -17,6 +16,7 @@ ona:v is a techno and electro artist tracked on soundcheck, with 104 sets logged
 
 ## Recently played
 
+- People's Leisure Club, Edinburgh — Fri, 28 Aug 2026
 - The Safari Lounge, Edinburgh — Sat, 8 Aug 2026
 - The Liquid Room Warehouse, Edinburgh — Fri, 7 Aug 2026
 - Sneaky Pete's, Edinburgh — Sun, 26 Jul 2026
@@ -24,10 +24,9 @@ ona:v is a techno and electro artist tracked on soundcheck, with 104 sets logged
 - Patterns, Brighton — Fri, 26 Jun 2026
 - Waterbear Music Bar, Brighton — Thu, 25 Jun 2026
 - Paradise Palms, Edinburgh — Tue, 9 Jun 2026
-- The Paper Factory, Edinburgh — Sun, 7 Jun 2026
 
 ## Shares bills with
 
 ENAEN, Iona.Violet, iluna
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onav/)*

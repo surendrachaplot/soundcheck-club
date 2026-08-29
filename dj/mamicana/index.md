@@ -1,18 +1,18 @@
 # MAMICANA
 
-MAMICANA is a Dembow and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Elsewhere, New York City on Fri, 28 Aug 2026.
+MAMICANA is a Dembow and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 99 Scott Ave, New York City on Sun, 6 Sept 2026.
 
-MAMICANA is a dembow and afrobeat artist tracked on soundcheck, with 35 sets logged across Chicago and Newyorkcity. Often billed alongside NoahG, LEI and Mondai. Next up: Elsewhere, Newyorkcity on Fri 28 Aug.
+MAMICANA is a dembow and afrobeat artist tracked on soundcheck, with 35 sets logged across Chicago and Newyorkcity. Often billed alongside NoahG, LEI and Mondai. Next up: 99 Scott Ave, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Elsewhere | New York City |
 | Sun, 6 Sept 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
 
+- Elsewhere, New York City — Fri, 28 Aug 2026
 - Bossa Nova Civic Club, New York City — Sat, 15 Aug 2026
 - Pianos, New York City — Thu, 14 May 2026
 - Elsewhere, New York City — Sat, 2 May 2026
@@ -20,10 +20,9 @@ MAMICANA is a dembow and afrobeat artist tracked on soundcheck, with 35 sets log
 - SOBs, New York City — Fri, 27 Feb 2026
 - Mood Ring, New York City — Sun, 18 Jan 2026
 - Mood Ring, New York City — Fri, 2 Jan 2026
-- Elsewhere, New York City — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 NoahG, LEI, Mondai
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamicana/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamicana/)*

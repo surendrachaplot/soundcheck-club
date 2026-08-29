@@ -1,6 +1,6 @@
 # Brixton Radio
 
-Brixton Radio is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Yard Party at Brixton Radio" on Sat, 29 Aug 2026.
+Brixton Radio is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Yard Party at Brixton Radio" on Sat, 29 Aug 2026.
 
 Brixton Radio is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Midnight Manoeuvres, Posthuman and Rhem. Browse upcoming dates, start times and who's playing. 23 Alphabet Mews, London SW9 0FN, UK.
 
@@ -15,4 +15,4 @@ Brixton Radio is a music venue in London listed on soundcheck. 2 upcoming nights
 
 23 Alphabet Mews, London SW9 0FN, UK, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-radio/)*

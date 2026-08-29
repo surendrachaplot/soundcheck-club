@@ -1,6 +1,6 @@
 # Lawal
 
-Lawal is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
+Lawal is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
 
 Lawal is a techno and latin bass artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Manchester and Munich. Often billed alongside Meme Gold, Bollibubbles and FOULMOUTH. Next up: The Star and Garter, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Lawal is a techno and latin bass artist based in United Kingdom, tracked on soun
 
 Meme Gold, Bollibubbles, FOULMOUTH
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lawal/)*

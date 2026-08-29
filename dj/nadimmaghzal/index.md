@@ -1,6 +1,6 @@
 # Nadim Maghzal
 
-Nadim Maghzal is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 29 Aug 2026.
+Nadim Maghzal is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 29 Aug 2026.
 
 Nadim Maghzal is an electro and pop artist tracked on soundcheck, with 44 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Saphe and Arianna Danae. Next up: Northern Lights Lounge, Detroit on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Nadim Maghzal is an electro and pop artist tracked on soundcheck, with 44 sets l
 
 MNSA, Saphe, Arianna Danae
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadimmaghzal/)*

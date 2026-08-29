@@ -1,6 +1,6 @@
 # Cian Ó Cíobháin
 
-Cian Ó Cíobháin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fidelity Studio, Dublin on Fri, 11 Sept 2026.
+Cian Ó Cíobháin is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fidelity Studio, Dublin on Fri, 11 Sept 2026.
 
 Cian Ó Cíobháin is a disco and house artist tracked on soundcheck, with 11 sets logged across Cork, Dublin and Galway. Often billed alongside Ant of Generic People, Billy Mc Galey and NODEN. Next up: Fidelity Studio, Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Cian Ó Cíobháin is a disco and house artist tracked on soundcheck, with 11 se
 
 Ant of Generic People, Billy Mc Galey, NODEN
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cianociobhain/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cianociobhain/)*

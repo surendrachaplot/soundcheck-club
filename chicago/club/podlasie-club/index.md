@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Club Communion" on Fri, 28 Aug 2026.
+Podlasie Club is a music venue in Chicago with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Research & Development" on Sat, 29 Aug 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 7 upcoming nights, with line-ups including Amber Gris, Anthony Nicholson, BLACKCLUB and D. Strange and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 6 upcoming nights, with line-ups including Amber Gris, Anthony Nicholson, D. Strange and Eden Aurelius and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Club Communion | BLACKCLUB, DJ Heather, Jaxx |
 | Sat, 29 Aug 2026 | Research & Development | JS Alvarez, Juana, La Spacer |
 | Thu, 3 Sept 2026 | HEARTWRENCH |  |
 | Fri, 4 Sept 2026 | Justin Aulis Long, Lorelei, Amber Gris | Amber Gris, Justin Aulis Long, Lorelei |
@@ -20,4 +19,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 7 upcoming night
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

@@ -1,6 +1,6 @@
 # Simona Beat
 
-Simona Beat is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 29 Aug 2026.
+Simona Beat is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at THE MAGICK BAR, Rome on Sat, 29 Aug 2026.
 
 Simona Beat is an electronica and club artist based in Italy, tracked on soundcheck, with 23 sets logged across Milan, Rome and Turin. Often billed alongside Hugo Sanchez, Brasi and Bluemarina. Next up: THE MAGICK BAR, Rome on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Simona Beat is an electronica and club artist based in Italy, tracked on soundch
 
 Hugo Sanchez, Brasi, Bluemarina
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonabeat/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonabeat/)*

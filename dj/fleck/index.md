@@ -1,6 +1,6 @@
 # Fleck
 
-Fleck is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
+Fleck is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
 
 Fleck is a bass and electro artist tracked on soundcheck, with 19 sets logged across Athens, Berlin, Bristol and London and 1 more. Often billed alongside DJ CHICHI, Hanna Baertig and KENZA. Next up: export, Rotterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Fleck is a bass and electro artist tracked on soundcheck, with 19 sets logged ac
 
 DJ CHICHI, Hanna Baertig, KENZA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fleck/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fleck/)*

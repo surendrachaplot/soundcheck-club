@@ -1,6 +1,6 @@
 # MJ Cole
 
-MJ Cole is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+MJ Cole is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 MJ Cole is a garage and bass artist tracked on soundcheck, with 28 sets logged across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside Chunky, Kirollus and LARISHKA (UK). Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ MJ Cole is a garage and bass artist tracked on soundcheck, with 28 sets logged a
 
 Chunky, Kirollus, LARISHKA (UK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*

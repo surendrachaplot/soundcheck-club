@@ -1,6 +1,6 @@
 # Ektoplast
 
-Ektoplast is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
+Ektoplast is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
 
 Ektoplast is a downtempo and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside Antoine Baiser, Bonjour Ben and EXZ. Next up: Kauz, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ektoplast is a downtempo and house artist tracked on soundcheck, with 20 sets lo
 
 Antoine Baiser, Bonjour Ben, EXZ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ektoplast/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ektoplast/)*

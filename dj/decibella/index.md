@@ -1,6 +1,6 @@
 # Decibella
 
-Decibella is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Planet Wax, London on Sat, 5 Sept 2026.
+Decibella is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Planet Wax, London on Sat, 5 Sept 2026.
 
 Decibella is a jungle and drum & bass artist tracked on soundcheck, with 85 sets logged across Brighton, Bristol, Brussels and Copenhagen and 14 more. Often billed alongside Tim Reaper, Double O and Mantra. Next up: Planet Wax, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Decibella is a jungle and drum & bass artist tracked on soundcheck, with 85 sets
 
 Tim Reaper, Double O, Mantra
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decibella/)*

@@ -1,6 +1,6 @@
 # Amstra
 
-Amstra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at DNA Club, Munich on Sat, 12 Sept 2026.
+Amstra is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DNA Club, Munich on Sat, 12 Sept 2026.
 
 Amstra is a techno and trance artist tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Brussels and Cologne and 5 more. Often billed alongside 999999999, CÖLN and David Strasser. Next up: DNA Club, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Amstra is a techno and trance artist tracked on soundcheck, with 15 sets logged 
 
 999999999, CÖLN, David Strasser
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amstra/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amstra/)*

@@ -1,6 +1,6 @@
 # Opuntia
 
-Opuntia is a Electronica and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Salon Palomilla, Mexico City on Tue, 25 Aug 2026.
+Opuntia is a Electronica and Classical artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Salon Palomilla, Mexico City on Tue, 25 Aug 2026.
 
 Opuntia is an electronica and classical artist tracked on soundcheck, with 11 sets logged across Mexicocity and Milan. Often billed alongside Buena Tarde, Ejival and Phanta. Next up: Salon Palomilla, Mexicocity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Opuntia is an electronica and classical artist tracked on soundcheck, with 11 se
 
 Buena Tarde, Ejival, Phanta
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opuntia/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opuntia/)*

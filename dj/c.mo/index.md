@@ -1,18 +1,18 @@
 # C.MØ
 
-C.MØ is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at LAUT, Barcelona on Fri, 28 Aug 2026.
+C.MØ is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Macarena Club, Barcelona on Mon, 7 Sept 2026.
 
-C.MØ is a techno and electro artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Arildo, DENA (IT) and Jo-Sie. Next up: LAUT, Barcelona on Fri 28 Aug.
+C.MØ is a techno and electro artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Arildo, DENA (IT) and Jo-Sie. Next up: Macarena Club, Barcelona on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | LAUT | Barcelona |
 | Mon, 7 Sept 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
+- LAUT, Barcelona — Fri, 28 Aug 2026
 - Macarena Club, Barcelona — Mon, 15 Jun 2026
 - Macarena Club, Barcelona — Mon, 25 May 2026
 - Switch Bar, Barcelona — Thu, 2 Apr 2026
@@ -20,10 +20,9 @@ C.MØ is a techno and electro artist tracked on soundcheck, with 24 sets logged 
 - PNC Radio, Barcelona — Fri, 14 Nov 2025
 - Switch Bar, Barcelona — Thu, 6 Nov 2025
 - Fractal Estudios, Barcelona — Sat, 25 Oct 2025
-- Switch Bar, Barcelona — Thu, 26 Jun 2025
 
 ## Shares bills with
 
 Arildo, DENA (IT), Jo-Sie
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.mo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.mo/)*

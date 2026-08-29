@@ -1,6 +1,6 @@
 # Jak Sen
 
-Jak Sen is a Electronica and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kolektor, Prague on Thu, 3 Sept 2026.
+Jak Sen is a Electronica and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kolektor, Prague on Thu, 3 Sept 2026.
 
 Jak Sen is an electronica and afrobeats artist tracked on soundcheck, with 14 sets logged across Prague and Vienna. Often billed alongside Austin Powers, Old & Rich and Raphael Kosmos. Next up: Kolektor, Prague on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Jak Sen is an electronica and afrobeats artist tracked on soundcheck, with 14 se
 
 Austin Powers, Old & Rich, Raphael Kosmos
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaksen/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaksen/)*

@@ -1,6 +1,6 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Eiger Studios, Leeds on Sat, 12 Sept 2026.
+DJ Bax is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Eiger Studios, Leeds on Sat, 12 Sept 2026.
 
 DJ Bax is a techno and trance artist tracked on soundcheck, with 16 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 6 more. Often billed alongside Ageusic, Burna and Caru (NZ). Next up: Eiger Studios, Leeds on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ DJ Bax is a techno and trance artist tracked on soundcheck, with 16 sets logged 
 
 Ageusic, Burna, Caru (NZ)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbax/)*

@@ -1,6 +1,6 @@
 # anna andersrum
 
-anna andersrum is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
+anna andersrum is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Renate, Berlin on Sat, 29 Aug 2026.
 
 anna andersrum is a bass and electro artist tracked on soundcheck, with 18 sets logged across Berlin, Manchester and Prague. Often billed alongside KaraKara, Genoe and La cani. Next up: Renate, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ anna andersrum is a bass and electro artist tracked on soundcheck, with 18 sets 
 
 KaraKara, Genoe, La cani
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*

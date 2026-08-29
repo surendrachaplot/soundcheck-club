@@ -1,6 +1,6 @@
 # Philou
 
-Philou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+Philou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
 
 Philou is a house and techno artist based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside Chambord, Daniel Weil and Victoire. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Philou is a house and techno artist based in France, tracked on soundcheck, with
 
 Chambord, Daniel Weil, Victoire
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philou/)*

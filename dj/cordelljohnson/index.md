@@ -1,6 +1,6 @@
 # Cordell Johnson
 
-Cordell Johnson is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at MotorCity Wine, Detroit on Sun, 30 Aug 2026.
+Cordell Johnson is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at MotorCity Wine, Detroit on Sun, 30 Aug 2026.
 
 Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Chicago, Detroit and Lisbon and 2 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: MotorCity Wine, Detroit on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 88 
 
 James Vincent, Lorenzo Dewberry, CTRLZORA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*

@@ -1,6 +1,6 @@
 # Delcu
 
-Delcu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Sao Paulo on Sat, 12 Sept 2026.
+Delcu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Sao Paulo on Sat, 12 Sept 2026.
 
 Delcu is a house and techno artist tracked on soundcheck, with 45 sets logged across Berlin, Ibiza, Lisbon and Porto and 2 more. Often billed alongside Kontronatura, Milian Dolla and Suelen Mesmo. Next up: TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Saopaulo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Delcu is a house and techno artist tracked on soundcheck, with 45 sets logged ac
 
 Kontronatura, Milian Dolla, Suelen Mesmo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delcu/)*

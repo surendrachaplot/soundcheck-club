@@ -1,6 +1,6 @@
 # uiava
 
-uiava is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
+uiava is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
 
 uiava is a house and tech house artist based in Ukraine, tracked on soundcheck, with 43 sets logged across Berlin, Krakow, London and Warsaw. Often billed alongside Easy Audio, bart ender and Jellin. Next up: Paloma, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ uiava is a house and tech house artist based in Ukraine, tracked on soundcheck, 
 
 Easy Audio, bart ender, Jellin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*

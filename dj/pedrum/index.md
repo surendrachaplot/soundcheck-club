@@ -1,6 +1,6 @@
 # Pedrum
 
-Pedrum is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at LA-YAM Rooftop, London on Fri, 4 Sept 2026.
+Pedrum is a Minimal and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at LA-YAM Rooftop, London on Fri, 4 Sept 2026.
 
 Pedrum is a minimal and deep house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Tobias Lineker, AOB and Billa Bazz. Next up: LA-YAM Rooftop, London on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Pedrum is a minimal and deep house artist tracked on soundcheck, with 6 sets log
 
 Tobias Lineker, AOB, Billa Bazz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrum/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrum/)*

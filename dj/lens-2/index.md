@@ -1,6 +1,6 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Lens (2) is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Lens (2) is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Bristol, Cologne and London and 7 more. Often billed alongside Mozey, Culture Shock and Dimension. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -14,6 +14,7 @@ Lens (2) is a drum & bass and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Finsbury Park, London — Sun, 2 Aug 2026
 - Bristol Amphitheatre & Waterfront Square, Bristol — Sat, 25 Jul 2026
 - Heaton Park, Manchester — Sat, 20 Jun 2026
@@ -21,10 +22,9 @@ Lens (2) is a drum & bass and techno artist based in United Kingdom, tracked on 
 - DETROIT CLUB, Barcelona — Fri, 17 Apr 2026
 - Fridas Pier, Stuttgart — Fri, 10 Apr 2026
 - Magazine London, London — Sat, 14 Mar 2026
-- TivoliVredenburg, Utrecht — Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Mozey, Culture Shock, Dimension
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

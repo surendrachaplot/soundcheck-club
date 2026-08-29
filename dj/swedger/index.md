@@ -1,6 +1,6 @@
 # Swedger
 
-Swedger is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Adrian's Bar, Glasgow on Sun, 30 Aug 2026.
+Swedger is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Adrian's Bar, Glasgow on Sun, 30 Aug 2026.
 
 Swedger is a garage and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside Angel Cake, 4KitSake and Jøhannes (UK). Next up: Adrian's Bar, Glasgow on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Swedger is a garage and house artist based in United Kingdom, tracked on soundch
 
 Angel Cake, 4KitSake, Jøhannes (UK)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swedger/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swedger/)*

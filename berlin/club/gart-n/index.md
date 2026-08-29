@@ -1,6 +1,6 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Kotori Open Air" on Sat, 29 Aug 2026.
+gART.n is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Kotori Open Air" on Sat, 29 Aug 2026.
 
 gART.n is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including 7heads, Ada, AGILY and Bonfante and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
@@ -21,4 +21,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with 
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

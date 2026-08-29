@@ -1,6 +1,6 @@
 # Skull Bar
 
-Skull Bar is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Afterhours with Butcher Boy / George Karmokolias" on Sat, 29 Aug 2026.
+Skull Bar is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Afterhours with Butcher Boy / George Karmokolias" on Sat, 29 Aug 2026.
 
 Skull Bar is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Butcher Boy, Sander El, SUNEATER. and VSSLS. Browse upcoming dates, start times and who's playing. 17, Lamprou Katsoni 13, Athina 114 71, Greece.
 
@@ -15,4 +15,4 @@ Skull Bar is a music venue in Athens listed on soundcheck. 2 upcoming nights, wi
 
 17, Lamprou Katsoni 13, Athina 114 71, Greece, Athens
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/skull-bar/)*

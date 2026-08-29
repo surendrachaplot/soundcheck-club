@@ -1,6 +1,6 @@
 # James (6)
 
-James (6) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Toffler, Rotterdam on Sat, 17 Oct 2026.
+James (6) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Toffler, Rotterdam on Sat, 17 Oct 2026.
 
 James (6) is a house and techno artist tracked on soundcheck, with 25 sets logged across Detroit, Leipzig, Prague and Rotterdam and 1 more. Often billed alongside Jorissen, Fusegrade and 2Lanes. Next up: Toffler, Rotterdam on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ James (6) is a house and techno artist tracked on soundcheck, with 25 sets logge
 
 Jorissen, Fusegrade, 2Lanes
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/james-6/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/james-6/)*

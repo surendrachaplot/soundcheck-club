@@ -1,6 +1,6 @@
 # MRGNSTRN
 
-MRGNSTRN is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+MRGNSTRN is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 MRGNSTRN is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside KLING&KLANG, CARGO (DE) and ELOISA. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ MRGNSTRN is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 KLING&KLANG, CARGO (DE), ELOISA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrgnstrn/)*

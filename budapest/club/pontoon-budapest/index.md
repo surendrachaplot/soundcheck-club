@@ -1,14 +1,13 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Pure Lust x OIEE All Night Special" on Fri, 28 Aug 2026.
+Pontoon Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Éclipse 〜 PONTOON: Full Moon Boogie" on Sat, 29 Aug 2026.
 
-Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including AKIYE, ANESI, Daniel Santiago and Indirect Movement and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
+Pontoon Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including AKIYE, ANESI, Indirect Movement and Kiqo and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Pure Lust x OIEE All Night Special | Daniel Santiago, OIEE |
 | Sat, 29 Aug 2026 | Éclipse 〜 PONTOON: Full Moon Boogie | Zlatnik |
 | Sun, 30 Aug 2026 | Sunday Sundown Summer Closing@Pontoon | AKIYE, ANESI, Ratkay, Uni-T, Viktor Bondar |
 | Thu, 3 Sept 2026 | Mehet x 4/4 @PONTOON | Kiqo, Meduzah, Vava (1), klpflrtpr |
@@ -19,4 +18,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 6 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

@@ -1,6 +1,6 @@
 # Moya (US)
 
-Moya (US) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Secret Location, New York City on Sat, 19 Sept 2026.
+Moya (US) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Secret Location, New York City on Sat, 19 Sept 2026.
 
 Moya (US) is a progressive house and techno artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Mike Martinez, Fabricated Ambiance and Mir Omar. Next up: TBA - Secret Location, Newyorkcity on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Moya (US) is a progressive house and techno artist tracked on soundcheck, with 7
 
 Mike Martinez, Fabricated Ambiance, Mir Omar
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moyaus/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moyaus/)*

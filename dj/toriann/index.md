@@ -1,6 +1,6 @@
 # TORI ANN
 
-TORI ANN is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
+TORI ANN is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Konijnenwei, Antwerp on Sat, 29 Aug 2026.
 
 TORI ANN is a house and disco artist tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp and Brussels. Often billed alongside Oko Stellar, Bibi Seck and Blck Mamba. Next up: Konijnenwei, Antwerp on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ TORI ANN is a house and disco artist tracked on soundcheck, with 28 sets logged 
 
 Oko Stellar, Bibi Seck, Blck Mamba
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toriann/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toriann/)*

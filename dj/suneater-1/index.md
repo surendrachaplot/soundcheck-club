@@ -1,6 +1,6 @@
 # SUNEATER.
 
-SUNEATER. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Skull Bar, Athens on Sun, 30 Aug 2026.
+SUNEATER. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Skull Bar, Athens on Sun, 30 Aug 2026.
 
 SUNEATER. is a techno and electro artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Athens and Mykonos. Often billed alongside Stratos (2), jayjayGR and Mr.M. Next up: Skull Bar, Athens on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ SUNEATER. is a techno and electro artist based in Netherlands, tracked on soundc
 
 Stratos (2), jayjayGR, Mr.M
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suneater-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suneater-1/)*

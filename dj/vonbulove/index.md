@@ -1,6 +1,6 @@
 # Von Bülove
 
-Von Bülove is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Platforma Wolff, Bucharest on Thu, 3 Sept 2026.
+Von Bülove is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Platforma Wolff, Bucharest on Thu, 3 Sept 2026.
 
 Von Bülove is a techno and house artist tracked on soundcheck, with 14 sets logged across Bucharest. Often billed alongside Admina, Andreea Veder and Bogman. Next up: Platforma Wolff, Bucharest on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Von Bülove is a techno and house artist tracked on soundcheck, with 14 sets log
 
 Admina, Andreea Veder, Bogman
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbulove/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vonbulove/)*

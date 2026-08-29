@@ -1,6 +1,6 @@
 # dustBunny
 
-dustBunny is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+dustBunny is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 dustBunny is a club and experimental artist based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, London, Montreal and Strasbourg. Often billed alongside Jamvvis, 16:9 ratio and CAAMEELIAAAAA. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ dustBunny is a club and experimental artist based in Canada, tracked on soundche
 
 Jamvvis, 16:9 ratio, CAAMEELIAAAAA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustbunny/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dustbunny/)*

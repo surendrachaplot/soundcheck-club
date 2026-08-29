@@ -1,14 +1,13 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jaeger, Oslo on Fri, 28 Aug 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at NAR, Utrecht on Sat, 29 Aug 2026.
 
-Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Jaeger, Oslo on Fri 28 Aug.
+Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: NAR, Utrecht on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Jaeger | Oslo |
 | Sat, 29 Aug 2026 | NAR | Utrecht |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Sat, 5 Sept 2026 | La Terrrazza | Barcelona |
@@ -20,9 +19,11 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets lo
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
+| Sat, 21 Nov 2026 | TBA | Melbourne |
 
 ## Recently played
 
+- Jaeger, Oslo — Fri, 28 Aug 2026
 - public records, New York City — Sun, 23 Aug 2026
 - Jolene Downtown Miami, Miami — Sat, 22 Aug 2026
 - YuYu Cine Club, Mexico City — Fri, 21 Aug 2026
@@ -30,10 +31,9 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets lo
 - Sub Club, Glasgow — Sat, 15 Aug 2026
 - Hangaren, Copenhagen — Fri, 14 Aug 2026
 - La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
-- DC-10, Ibiza — Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

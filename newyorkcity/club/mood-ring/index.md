@@ -1,15 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "LIFE AFTER TRANCE VERSUS SHIBUYA69" on Fri, 28 Aug 2026.
+Mood Ring is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "potluck" on Sat, 29 Aug 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including 444 (1), Ah Dek, Alejandra Sabillón and Apok and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including 444 (1), Alejandra Sabillón, Apok and BLAIZE and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | LIFE AFTER TRANCE VERSUS SHIBUYA69 | ASTER (DJ), Diveo, Gagbert, HAO (CN), Hao Ran, The Contro1freak |
-| Fri, 28 Aug 2026 | Rhythm Polemics Release Party | Ah Dek, Janus Rose, Ovid |
 | Sat, 29 Aug 2026 | potluck | DJ Fat Frog, Excuse The Beauty, dj 5spice, satandoll |
 | Wed, 2 Sept 2026 | Dance Support presents Devotion | DJ Passion Fruit, girl_irl, shirlz |
 | Thu, 3 Sept 2026 | panatekk | BLAIZE, LaFHomme |
@@ -18,9 +16,11 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nigh
 | Sat, 5 Sept 2026 | SWEAT SESSION | Apok, Full Body Stretch, J. Albert |
 | Sat, 5 Sept 2026 | Hysteric Hour | Niyx, silkshirt |
 | Sun, 6 Sept 2026 | Hi-Fi presents IankoFJ, YES2HVN, Xalwo (UK), OmarSB |  |
+| Wed, 9 Sept 2026 | Tasheff presents GOSSIP | Hope 808, Tasheff |
+| Thu, 10 Sept 2026 | Krithi, 444, Sana, Maiya, Urkanmani | 444 (1), Krithi, MAIYA, Sana (NYC), ur kanmani |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

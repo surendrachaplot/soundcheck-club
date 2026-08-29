@@ -1,6 +1,6 @@
 # Andër
 
-Andër is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 18 Sept 2026.
+Andër is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 3oz Dive Club, San Diego on Fri, 18 Sept 2026.
 
 Andër is a house and minimal artist based in Mexico, tracked on soundcheck, with 10 sets logged across Losangeles, Mexicocity and Sandiego. Often billed alongside Oboe (2), Pily (2) and ALKMST. Next up: 3oz Dive Club, Sandiego on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Andër is a house and minimal artist based in Mexico, tracked on soundcheck, wit
 
 Oboe (2), Pily (2), ALKMST
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ander-mx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ander-mx/)*

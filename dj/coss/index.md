@@ -1,6 +1,6 @@
 # Coss
 
-Coss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Weekend, Berlin on Fri, 25 Sept 2026.
+Coss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Weekend, Berlin on Fri, 25 Sept 2026.
 
 Coss is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 6 more. Often billed alongside Zettka, David Benjamin and Peter Schumann. Next up: Weekend, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Coss is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Zettka, David Benjamin, Peter Schumann
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coss/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coss/)*

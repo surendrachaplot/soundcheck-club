@@ -1,6 +1,6 @@
 # REGOR_
 
-REGOR_ is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
+REGOR_ is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Barcelona on Sat, 29 Aug 2026.
 
 REGOR_ is a house and electronica artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside BOGU (ES), DJ Cobo and INEXXSTABLE. Next up: TBA, Barcelona on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ REGOR_ is a house and electronica artist tracked on soundcheck, with 5 sets logg
 
 BOGU (ES), DJ Cobo, INEXXSTABLE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regor_/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/regor_/)*

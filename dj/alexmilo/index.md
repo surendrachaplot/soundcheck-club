@@ -1,6 +1,6 @@
 # Alex Milo
 
-Alex Milo is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
+Alex Milo is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
 
 Alex Milo is a downtempo and house artist tracked on soundcheck, with 21 sets logged across Manchester. Often billed alongside Yorlig, April (UK) and LOCKS. Next up: Honey Street Studio, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Alex Milo is a downtempo and house artist tracked on soundcheck, with 21 sets lo
 
 Yorlig, April (UK), LOCKS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmilo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmilo/)*

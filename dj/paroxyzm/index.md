@@ -1,18 +1,18 @@
 # Paroxyzm
 
-Paroxyzm is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at John Doe, Amsterdam on Fri, 28 Aug 2026.
+Paroxyzm is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
 
-Paroxyzm is a techno artist tracked on soundcheck, with 33 sets logged across Amsterdam and Utrecht. Often billed alongside Robin Hastings, Mischa Duncan and ADHDJ (2). Next up: John Doe, Amsterdam on Fri 28 Aug.
+Paroxyzm is a techno artist tracked on soundcheck, with 33 sets logged across Amsterdam and Utrecht. Often billed alongside Robin Hastings, Mischa Duncan and ADHDJ (2). Next up: RADION, Amsterdam on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | John Doe | Amsterdam |
 | Sat, 29 Aug 2026 | RADION | Amsterdam |
 
 ## Recently played
 
+- John Doe, Amsterdam — Fri, 28 Aug 2026
 - John Doe, Amsterdam — Wed, 5 Aug 2026
 - John Doe, Amsterdam — Sat, 13 Jun 2026
 - John Doe, Amsterdam — Sat, 11 Apr 2026
@@ -20,10 +20,9 @@ Paroxyzm is a techno artist tracked on soundcheck, with 33 sets logged across Am
 - John Doe, Amsterdam — Sat, 27 Dec 2025
 - John Doe, Amsterdam — Sat, 18 Oct 2025
 - De Fik Garden, Amsterdam — Sat, 4 Oct 2025
-- John Doe, Amsterdam — Wed, 3 Sept 2025
 
 ## Shares bills with
 
 Robin Hastings, Mischa Duncan, ADHDJ (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paroxyzm/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paroxyzm/)*

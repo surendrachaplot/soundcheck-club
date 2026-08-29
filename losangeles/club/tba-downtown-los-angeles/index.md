@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Certified Groovers: Yair [all night long]" on Sat, 29 Aug 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 12 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Certified Groovers: Yair [all night long]" on Sat, 29 Aug 2026.
 
 TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 12 upcoming nights, with line-ups including Avalon Emerson, Chemtrail Johnny, Cinthie and Corey Sizemore and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 31 Oct 2026 | Giegling in LA (The Halloween Special) |  |
 | Sat, 31 Oct 2026 | Certified Groovers: HALLOWEEN PARTY |  |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

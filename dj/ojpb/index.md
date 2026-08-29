@@ -1,6 +1,6 @@
 # OJPB
 
-OJPB is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 10 Sept 2026.
+OJPB is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 10 Sept 2026.
 
 OJPB is a techno and bass artist tracked on soundcheck, with 24 sets logged across Montreal. Often billed alongside Dj Hermano, CMD and Kiju. Next up: Village au Pied-du-Courant, Montreal on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ OJPB is a techno and bass artist tracked on soundcheck, with 24 sets logged acro
 
 Dj Hermano, CMD, Kiju
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ojpb/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ojpb/)*

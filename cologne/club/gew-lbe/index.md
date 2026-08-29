@@ -1,14 +1,13 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Im Fokus with Chiara Kley & Hugo Helten, Freddy Deckert & Marcel Janovsky, Summe Total & Lena M" on Fri, 28 Aug 2026.
+Gewölbe is a music venue in Cologne with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Next Level with AAMAA, Domenik Deckert, skathi, Vagabund" on Sat, 29 Aug 2026.
 
-Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming nights, with line-ups including Adiel, DCHM, Denis Stockhausen and Di² (1) and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
+Gewölbe is a music venue in Cologne listed on soundcheck. 9 upcoming nights, with line-ups including Adiel, DCHM, Denis Stockhausen and Di² (1) and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Im Fokus with Chiara Kley & Hugo Helten, Freddy Deckert & Marcel Janovsky, Summe Total & Lena M | Hugo Helten, Marcel Janovsky, Summe Total |
 | Sat, 29 Aug 2026 | Next Level with AAMAA, Domenik Deckert, skathi, Vagabund | Domenik Deckert, Vagabund |
 | Fri, 4 Sept 2026 | Simple present with DCHM, Lara Fein, Ryan Elliott | DCHM, Lara Fein, Ryan Elliott |
 | Sat, 5 Sept 2026 | Phonovision with HiHat, PAU, Various Identities | HiHat, PAU (6) |
@@ -23,4 +22,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 10 upcoming nights, w
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

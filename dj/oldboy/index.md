@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at fabric, London on Sun, 6 Sept 2026.
+Oldboy is a Garage and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at fabric, London on Sun, 6 Sept 2026.
 
 Oldboy is a garage and jungle artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Birmingham and Brighton and 17 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: fabric, London on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Oldboy is a garage and jungle artist tracked on soundcheck, with 51 sets logged 
 
 DJ Cosworth, Prozak (IRL), Silva Bumpa
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

@@ -1,6 +1,6 @@
 # Mr Majestyk
 
-Mr Majestyk is a Pop and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at La Terrrazza, Barcelona on Fri, 18 Sept 2026.
+Mr Majestyk is a Pop and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at La Terrrazza, Barcelona on Fri, 18 Sept 2026.
 
 Mr Majestyk is a pop and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Losangeles and Madrid and 1 more. Often billed alongside Bulma Beat, &friends and Goom Gum. Next up: La Terrrazza, Barcelona on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mr Majestyk is a pop and house artist tracked on soundcheck, with 41 sets logged
 
 Bulma Beat, &friends, Goom Gum
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrmajestyk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrmajestyk/)*

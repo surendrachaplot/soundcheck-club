@@ -1,6 +1,6 @@
 # The Darkraver
 
-The Darkraver is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+The Darkraver is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 The Darkraver is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Frankfurt and 2 more. Often billed alongside Pavo, Ruffian and Buzz Fuzz. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ The Darkraver is a hardcore and gabber artist based in Netherlands, tracked on s
 
 Pavo, Ruffian, Buzz Fuzz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkraver/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkraver/)*

@@ -1,18 +1,18 @@
 # Daniel Darkhofer
 
-Daniel Darkhofer is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Arena Wien, Vienna on Fri, 28 Aug 2026.
+Daniel Darkhofer is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Uferhaus Klosterneuburg, Vienna on Sat, 29 Aug 2026.
 
-Daniel Darkhofer is a progressive house and electronica artist tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Edictum, Fede Frostl and Enoltra. Next up: Arena Wien, Vienna on Fri 28 Aug.
+Daniel Darkhofer is a progressive house and electronica artist tracked on soundcheck, with 7 sets logged across Vienna. Often billed alongside Edictum, Fede Frostl and Enoltra. Next up: TBA - Uferhaus Klosterneuburg, Vienna on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Arena Wien | Vienna |
 | Sat, 29 Aug 2026 | TBA - Uferhaus Klosterneuburg | Vienna |
 
 ## Recently played
 
+- Arena Wien, Vienna — Fri, 28 Aug 2026
 - Club U, Vienna — Sat, 9 May 2026
 - Flex Café, Vienna — Sat, 9 May 2026
 - Pickwick's, Vienna — Sat, 27 Sept 2025
@@ -23,4 +23,4 @@ Daniel Darkhofer is a progressive house and electronica artist tracked on soundc
 
 Edictum, Fede Frostl, Enoltra
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldarkhofer/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldarkhofer/)*

@@ -1,14 +1,13 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "TOWNSIDE LONDON DEBUT" on Fri, 28 Aug 2026.
+Unit 58 is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Townside Studios LONDON DEBUT" on Sat, 29 Aug 2026.
 
-Unit 58 is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including acidhousewife3000, Al Gray, BJ Holy and bod [包家巷] and 2 more. Browse upcoming dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
+Unit 58 is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including acidhousewife3000, Al Gray, BJ Holy and bod [包家巷] and 2 more. Browse upcoming dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TOWNSIDE LONDON DEBUT |  |
 | Sat, 29 Aug 2026 | Townside Studios LONDON DEBUT |  |
 | Fri, 4 Sept 2026 | House of Opus Volume 2 | Daniella Font, Korey |
 | Fri, 25 Sept 2026 | SERO.TONIN VOLUME III: AFROELECTRONIC SOUNDS MEET THE QUEER UNDERGROUND | Fiyahdred, Girl Unit, Ryan Lovell, sweetestcape |
@@ -20,4 +19,4 @@ Unit 58 is a music venue in London listed on soundcheck. 7 upcoming nights, with
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

@@ -1,6 +1,6 @@
 # exlruth
 
-exlruth is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
+exlruth is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at FOLD, London on Sat, 29 Aug 2026.
 
 exlruth is an electronic artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Dis Fig, Evian Christ and Félicia Atkinson. Next up: FOLD, London on Sat 29 Aug.
 
@@ -21,4 +21,4 @@ exlruth is an electronic artist based in United Kingdom, tracked on soundcheck, 
 
 Dis Fig, Evian Christ, Félicia Atkinson
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exlruth/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exlruth/)*

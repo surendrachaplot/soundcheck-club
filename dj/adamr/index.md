@@ -1,6 +1,6 @@
 # Adam R
 
-Adam R is a Club and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
+Adam R is a Club and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
 
 Adam R is a club and dub techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Leipzig and Newyorkcity. Often billed alongside Oscar Nñ, Valentin Lamar and JLMR. Next up: Little Island, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Adam R is a club and dub techno artist based in United States of America, tracke
 
 Oscar Nñ, Valentin Lamar, JLMR
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamr/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamr/)*

@@ -1,14 +1,13 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 28 Aug 2026.
+Sasha is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Reelworks Denver, Denver on Fri, 11 Sept 2026.
 
-Sasha is a progressive house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Hï Ibiza, Ibiza on Fri 28 Aug.
+Sasha is a progressive house and techno artist tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 45 more. Often billed alongside John Digweed, Franky Wah and Nick Warren. Next up: Reelworks Denver, Denver on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Hï Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Reelworks Denver | Denver |
 | Sat, 12 Sept 2026 | Malkin Bowl | Vancouver |
 | Sat, 26 Sept 2026 | BERHTA | Washington DC |
@@ -17,6 +16,7 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 161 s
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Fri, 28 Aug 2026
 - Castaways, Chicago — Sun, 23 Aug 2026
 - The Barbary, Philadelphia — Fri, 21 Aug 2026
 - Stereo, Montreal — Sat, 15 Aug 2026
@@ -24,10 +24,9 @@ Sasha is a progressive house and techno artist tracked on soundcheck, with 161 s
 - World Headquarters, Newcastle — Sat, 1 Aug 2026
 - Manko Athens, Athens — Sat, 18 Jul 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 17 Jul 2026
-- Sala UNI Madrid, Madrid — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 John Digweed, Franky Wah, Nick Warren
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

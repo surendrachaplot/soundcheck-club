@@ -1,6 +1,6 @@
 # Etienne Groh
 
-Etienne Groh is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Etienne Groh is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Etienne Groh is an experimental and ambient artist based in France, tracked on soundcheck, with 14 sets logged across Manchester. Often billed alongside Nikol, Cersy and Allius. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Etienne Groh is an experimental and ambient artist based in France, tracked on s
 
 Nikol, Cersy, Allius
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*

@@ -1,6 +1,6 @@
 # Closet Yi
 
-Closet Yi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Stoked&stoned, Seoul on Sun, 30 Aug 2026.
+Closet Yi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Stoked&stoned, Seoul on Sun, 30 Aug 2026.
 
 Closet Yi is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Hongkong and Ibiza and 6 more. Often billed alongside JNS, Gyusco and Youngseok. Next up: Stoked&stoned, Seoul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Closet Yi is a house and techno artist tracked on soundcheck, with 99 sets logge
 
 JNS, Gyusco, Youngseok
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/closetyi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/closetyi/)*

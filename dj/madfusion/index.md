@@ -1,6 +1,6 @@
 # Mad Fusion
 
-Mad Fusion is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Compufunk Records, Osaka on Sun, 13 Sept 2026.
+Mad Fusion is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Compufunk Records, Osaka on Sun, 13 Sept 2026.
 
 Mad Fusion is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Osaka and Zurich. Often billed alongside Daisuke Kakimoto, Greg G and KNTRLVRLST. Next up: Compufunk Records, Osaka on Sun 13 Sept.
 
@@ -16,4 +16,4 @@ Mad Fusion is a techno and industrial artist based in Switzerland, tracked on so
 
 Daisuke Kakimoto, Greg G, KNTRLVRLST
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madfusion/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/madfusion/)*

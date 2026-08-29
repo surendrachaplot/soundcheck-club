@@ -1,6 +1,6 @@
 # SEDENTARY
 
-SEDENTARY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 1 Sept 2026.
+SEDENTARY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 1 Sept 2026.
 
 SEDENTARY is a techno and house artist tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside R-DNA, 1ol1v1a and masha latte. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ SEDENTARY is a techno and house artist tracked on soundcheck, with 15 sets logge
 
 R-DNA, 1ol1v1a, masha latte
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedentary/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sedentary/)*

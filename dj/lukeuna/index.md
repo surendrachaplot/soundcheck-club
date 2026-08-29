@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Hidden, Manchester on Sun, 30 Aug 2026.
+Luke Una is a House and Disco artist with 10 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hidden, Manchester on Sun, 30 Aug 2026.
 
 Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: Hidden, Manchester on Sun 30 Aug.
 
@@ -34,4 +34,4 @@ Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

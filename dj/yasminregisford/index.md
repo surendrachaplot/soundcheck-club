@@ -1,14 +1,13 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at RSO.BERLIN, Berlin on Fri, 28 Aug 2026.
+Yasmin Regisford is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Unité.22, Marseille on Fri, 4 Sept 2026.
 
-Yasmin Regisford is a techno and bass artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 19 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: RSO.BERLIN, Berlin on Fri 28 Aug.
+Yasmin Regisford is a techno and bass artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 19 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Unité.22, Marseille on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Sept 2026 | Unité.22 | Marseille |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |
@@ -16,6 +15,7 @@ Yasmin Regisford is a techno and bass artist based in France, tracked on soundch
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Fri, 28 Aug 2026
 - Fvtvr, Paris — Sat, 22 Aug 2026
 - DNA Club, Munich — Fri, 31 Jul 2026
 - Lehmann Club, Stuttgart — Fri, 24 Jul 2026
@@ -23,10 +23,9 @@ Yasmin Regisford is a techno and bass artist based in France, tracked on soundch
 - Karmen Camina, Strasbourg — Fri, 29 May 2026
 - Friche Belle de Mai, Marseille — Fri, 22 May 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
-- Else, Berlin — Fri, 15 May 2026
 
 ## Shares bills with
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

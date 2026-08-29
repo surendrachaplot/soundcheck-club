@@ -1,6 +1,6 @@
 # Mister Natasha
 
-Mister Natasha is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+Mister Natasha is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
 Mister Natasha is a house and jazz artist tracked on soundcheck, with 5 sets logged across Strasbourg. Often billed alongside Tal Stef, Javier (1) and Zhar. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Mister Natasha is a house and jazz artist tracked on soundcheck, with 5 sets log
 
 Tal Stef, Javier (1), Zhar
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misternatasha/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misternatasha/)*

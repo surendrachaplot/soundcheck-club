@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
+Anastazja is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
 
 Anastazja is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Chicago, Istanbul, Lisbon and London and 10 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: Under the K Bridge, Newyorkcity on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Anastazja is a house and techno artist based in United States of America, tracke
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

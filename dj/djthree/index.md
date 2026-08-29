@@ -1,6 +1,6 @@
 # DJ Three
 
-DJ Three is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
+DJ Three is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
 
 DJ Three is a house and techno artist tracked on soundcheck, with 32 sets logged across Austin, Detroit, Houston and Losangeles and 4 more. Often billed alongside Öona Dahl, Danny Daze and Dylan Payne. Next up: Flash, Washingtondc on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ DJ Three is a house and techno artist tracked on soundcheck, with 32 sets logged
 
 Öona Dahl, Danny Daze, Dylan Payne
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djthree/)*

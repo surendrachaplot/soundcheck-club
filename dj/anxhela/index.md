@@ -1,14 +1,13 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at UNO MALTA, Malta on Fri, 28 Aug 2026.
+ANXHELA is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Brooklyn, New York City on Sat, 29 Aug 2026.
 
-ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: UNO MALTA, Malta on Fri 28 Aug.
+ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: TBA - Brooklyn, Newyorkcity on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | UNO MALTA | Malta |
 | Sat, 29 Aug 2026 | TBA - Brooklyn | New York City |
 | Sat, 5 Sept 2026 | Kilomètre25 | Paris |
 | Sat, 19 Sept 2026 | Oxford Art Factory | Sydney |
@@ -20,6 +19,7 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logge
 
 ## Recently played
 
+- UNO MALTA, Malta — Fri, 28 Aug 2026
 - Lion Super Club, Seoul — Fri, 21 Aug 2026
 - Eden, Ibiza — Tue, 18 Aug 2026
 - Uebel & Gefährlich, Hamburg — Sat, 1 Aug 2026
@@ -27,10 +27,9 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logge
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Aria Complex, Malta — Mon, 29 Jun 2026
 - Fabrik, Madrid — Sat, 27 Jun 2026
-- Plage De Torcy, Paris — Sun, 24 May 2026
 
 ## Shares bills with
 
 Alignment, KØZLØV, DIØN
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

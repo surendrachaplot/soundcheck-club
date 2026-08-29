@@ -1,6 +1,6 @@
 # TATSUYA
 
-TATSUYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 12 Sept 2026.
+TATSUYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 12 Sept 2026.
 
 TATSUYA is a techno and house artist tracked on soundcheck, with 96 sets logged across Kyoto, Newyorkcity, Osaka and Paris and 2 more. Often billed alongside Hi Sai, HORKEW and Casimir (2). Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ TATSUYA is a techno and house artist tracked on soundcheck, with 96 sets logged 
 
 Hi Sai, HORKEW, Casimir (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/TATSUYA/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/TATSUYA/)*

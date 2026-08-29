@@ -1,6 +1,6 @@
 # Saeko Killy
 
-Saeko Killy is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
+Saeko Killy is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
 
 Saeko Killy is a disco and electronica artist tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Edinburgh and Glasgow and 7 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: EXIT Glasgow, Glasgow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Saeko Killy is a disco and electronica artist tracked on soundcheck, with 49 set
 
 African Head Charge, Marta De Pascalis, PRAED
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saekokilly/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saekokilly/)*

@@ -1,6 +1,6 @@
 # Mr.Mowgli
 
-Mr.Mowgli is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
+Mr.Mowgli is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
 
 Mr.Mowgli is a house and disco artist based in Thailand, tracked on soundcheck, with 19 sets logged across Bangkok and Kyoto. Often billed alongside Seelie, Brent Burns and Pam Anantr. Next up: Dual, Bangkok on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mr.Mowgli is a house and disco artist based in Thailand, tracked on soundcheck, 
 
 Seelie, Brent Burns, Pam Anantr
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrmowgli/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrmowgli/)*

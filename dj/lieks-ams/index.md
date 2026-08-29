@@ -1,6 +1,6 @@
 # LIEKS
 
-LIEKS is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
+LIEKS is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Maassilo, Rotterdam on Sat, 29 Aug 2026.
 
 LIEKS is a techno and industrial artist tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 6 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: Maassilo, Rotterdam on Sat 29 Aug.
 
@@ -31,4 +31,4 @@ LIEKS is a techno and industrial artist tracked on soundcheck, with 25 sets logg
 
 BLNK, TiTi, BØĘRY
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

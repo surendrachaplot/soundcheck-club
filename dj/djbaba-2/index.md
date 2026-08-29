@@ -1,6 +1,6 @@
 # Dj Babatr
 
-Dj Babatr is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Dj Babatr is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Dj Babatr is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Ruiseñor, Dj Deep RH and Blawan. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Dj Babatr is a techno and house artist tracked on soundcheck, with 98 sets logge
 
 Ruiseñor, Dj Deep RH, Blawan
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaba-2/)*

@@ -1,6 +1,6 @@
 # Mafou
 
-Mafou is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Badaboum, Paris on Sat, 29 Aug 2026.
+Mafou is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Badaboum, Paris on Sat, 29 Aug 2026.
 
 Mafou is an electronica and bass artist tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Berlin and Cologne and 5 more. Often billed alongside Kombé, Mukuna and Akanbi. Next up: Badaboum, Paris on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Mafou is an electronica and bass artist tracked on soundcheck, with 21 sets logg
 
 Kombé, Mukuna, Akanbi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafou/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mafou/)*

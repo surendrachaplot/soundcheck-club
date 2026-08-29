@@ -1,6 +1,6 @@
 # Techlex
 
-Techlex is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+Techlex is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 Techlex is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Hamburg and Prague. Often billed alongside Frank Rayo, Antonym and Serafina. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Techlex is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Frank Rayo, Antonym, Serafina
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/techlex/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/techlex/)*

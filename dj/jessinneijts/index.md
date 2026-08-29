@@ -1,6 +1,6 @@
 # Jessin Neijts
 
-Jessin Neijts is a House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
+Jessin Neijts is a House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at export, Rotterdam on Sat, 29 Aug 2026.
 
 Jessin Neijts is a house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Rotterdam. Often billed alongside Ben Diggins, Frits Wentink and Infinite Pleasure. Next up: export, Rotterdam on Sat 29 Aug.
 
@@ -15,4 +15,4 @@ Jessin Neijts is a house artist based in Netherlands, tracked on soundcheck, wit
 
 Ben Diggins, Frits Wentink, Infinite Pleasure
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessinneijts/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jessinneijts/)*

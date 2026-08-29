@@ -1,6 +1,6 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "EIT Fromuranus" on Thu, 3 Sept 2026.
+Kramladen is a music venue in Vienna with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "EIT Fromuranus" on Thu, 3 Sept 2026.
 
 Kramladen is a music venue in Vienna listed on soundcheck. 3 upcoming nights, with line-ups including Fede Frostl. Browse upcoming dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
@@ -16,4 +16,4 @@ Kramladen is a music venue in Vienna listed on soundcheck. 3 upcoming nights, wi
 
 U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien, Vienna
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kramladen/)*

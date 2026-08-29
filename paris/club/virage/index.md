@@ -1,15 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Transgenik" on Fri, 28 Aug 2026.
+Virage is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Marathon !: Mount Kimbie, Tour-Maubourg, Astels, Cabaret Contemporain" on Sat, 29 Aug 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Aleksandir and Alex Quillard and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Aleksandir and Alex Quillard and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Transgenik |  |
-| Fri, 28 Aug 2026 | TRANSGENIK: Cleopard2000, Mija, KVN, Shannon | Cleopard2000, KVKN, KVN, Mija, Shannon |
 | Sat, 29 Aug 2026 | Marathon !: Mount Kimbie, Tour-Maubourg, Astels, Cabaret Contemporain | Mely, Mount Kimbie, Tour-Maubourg |
 | Sat, 29 Aug 2026 | ALARMA: SPFDJ, aerodynamisme, Sukubratz, lilipop | SPFDJ, Sukubratz, aerodynamisme, lilipop |
 | Wed, 2 Sept 2026 | Bozo Records: Michelle (live), P.O, Marco del Bosque | Marco del Bosque, Michelle, P.O (1) |
@@ -18,9 +16,11 @@ Virage is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Sat, 5 Sept 2026 | MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain | Aleksandir, Mely, Mount Kimbie |
 | Wed, 9 Sept 2026 | Le Virage du Mercredi Closing All Stars | Alex Quillard, DJ ANGEL (fr), Djé Djé from the block, NTBR |
 | Thu, 10 Sept 2026 | Disco Disco x Paillettes Pompettes: Tonno Disko, Bande de Filles | Bande de Filles, Dusty Fingers, Tonno Disko |
+| Fri, 11 Sept 2026 | Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Katia Curie | HORS-SOL, Jump Source, Katia Curie, Nesa Azadikhah, Patrick Holland, Priori |
+| Fri, 18 Sept 2026 | Virage Présente: Faster Horses, THÉOS, Bérou, MIRA LÒ | Bérou, Faster Horses, Mira Ló, THEOS (1) |
 
 ## Address
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

@@ -1,6 +1,6 @@
 # Winter Wrong
 
-Winter Wrong is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Winter Wrong is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Winter Wrong is a techno and acid artist tracked on soundcheck, with 68 sets logged across Austin, Boston, Miami and Newyorkcity. Often billed alongside Ultrathem, SDRV and Pressure Point (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Winter Wrong is a techno and acid artist tracked on soundcheck, with 68 sets log
 
 Ultrathem, SDRV, Pressure Point (US)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winterwrong/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winterwrong/)*

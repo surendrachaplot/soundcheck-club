@@ -1,14 +1,13 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "SHAKE IT! TOP2BTTM x Club Coi" on Fri, 28 Aug 2026.
+TV Lounge is a music venue in Detroit with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DONLITE: Donavan Glover & Fullbodydurag" on Sat, 29 Aug 2026.
 
-TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including angela baskets, Bruce Bailey, Carl Craig and dej.y and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
+TV Lounge is a music venue in Detroit listed on soundcheck. 6 upcoming nights, with line-ups including angela baskets, Bruce Bailey, Carl Craig and dej.y and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | SHAKE IT! TOP2BTTM x Club Coi | Just Shacoi, M00N-Pi, jamea., we1sman |
 | Sat, 29 Aug 2026 | DONLITE: Donavan Glover & Fullbodydurag | Donavan Glover, Fullbodydurag |
 | Sat, 5 Sept 2026 | Jamie 3:26 drops in on Detroit | Eddie Logix, Jamie 3:26, angela baskets, dej.y |
 | Sun, 6 Sept 2026 | Detroit Love Labor Day Weekend: Carl Craig b2b Matthew Dear | Carl Craig, ERNO (US), Matthew Dear |
@@ -20,4 +19,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming nights, w
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

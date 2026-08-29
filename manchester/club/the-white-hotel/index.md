@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 38 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "NEW WORLD 2000two: deBasement [LIVE] / Miss Cabbage / Ikävä Pii / Poundshop & Cajm" on Fri, 28 Aug 2026.
+The White Hotel is a music venue in Manchester with 37 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "High Hoops Pride Part 1 with Sterling Juan Diaz, Julie Desire, Angel D'lite & Fastlove" on Sat, 29 Aug 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming nights, with line-ups including Fastlove, Ikävä Pii, Paula Tape and ABADIR and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming nights, with line-ups including Fastlove, Paula Tape, ABADIR and Abena and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | NEW WORLD 2000two: deBasement [LIVE] / Miss Cabbage / Ikävä Pii / Poundshop & Cajm | Ikävä Pii, Miss Cabbage, Poundshop, deBasement |
 | Sat, 29 Aug 2026 | High Hoops Pride Part 1 with Sterling Juan Diaz, Julie Desire, Angel D'lite & Fastlove | Angel D'lite, Fastlove, Julie Desire, Sterling Juan Diaz |
 | Sun, 30 Aug 2026 | High Hoops Pride Part 2 with Bell Towers, Jessica Nightlife & Merve | Bell Towers, Jessica Nightlife, Merve |
 | Fri, 4 Sept 2026 | Ordinary Friends presents Paula Tape & Simone de Kunovich | Paula Tape, Simone de Kunovich |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 38 upcoming
 | Fri, 11 Sept 2026 | Bakk Heia 10th Bday (Part 2) w/Jorg Kuning (Live), Schuttle, Bitzer & Herc | Bitzer Maloney, Jorg Kuning, Schuttle |
 | Sat, 12 Sept 2026 | Main Phase / Darwin / Zuri | Darwin, Main Phase, Zuri |
 | Thu, 17 Sept 2026 | JK Flesh | JK Flesh |
+| Fri, 18 Sept 2026 | Pangaea / Bitter Babe / Henzo | Bitter Babe, Henzo, Pangaea |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

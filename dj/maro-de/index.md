@@ -1,6 +1,6 @@
 # MARØ
 
-MARØ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+MARØ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 MARØ is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Vienna. Often billed alongside The Camel, VNVK and Sonic Slice. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MARØ is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 The Camel, VNVK, Sonic Slice
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maro-de/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maro-de/)*

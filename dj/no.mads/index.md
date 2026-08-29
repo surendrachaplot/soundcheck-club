@@ -1,6 +1,6 @@
 # NO.MADS
 
-NO.MADS is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+NO.MADS is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 NO.MADS is a techno and electro artist tracked on soundcheck, with 20 sets logged across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside Nikiija, Teenage Mutants and Ernie von Bernd. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -12,6 +12,7 @@ NO.MADS is a techno and electro artist tracked on soundcheck, with 20 sets logge
 
 ## Recently played
 
+- Hamburg Cruise Center Altona, Hamburg — Fri, 28 Aug 2026
 - Cassiopeia, Berlin — Mon, 25 May 2026
 - Altenburg 1964, Prague — Fri, 22 May 2026
 - Ritter Butzke, Berlin — Sat, 13 Dec 2025
@@ -19,10 +20,9 @@ NO.MADS is a techno and electro artist tracked on soundcheck, with 20 sets logge
 - Hamburg Cruise Center Altona, Hamburg — Fri, 18 Jul 2025
 - SAGE, Berlin — Thu, 1 May 2025
 - Fundbureau, Hamburg — Sat, 5 Apr 2025
-- Fundbureau, Hamburg — Sat, 7 Dec 2024
 
 ## Shares bills with
 
 Nikiija, Teenage Mutants, Ernie von Bernd
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no.mads/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/no.mads/)*

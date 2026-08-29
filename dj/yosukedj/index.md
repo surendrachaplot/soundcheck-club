@@ -1,6 +1,6 @@
 # Yōsuke DJ
 
-Yōsuke DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Philadelphia on Sat, 5 Sept 2026.
+Yōsuke DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Philadelphia on Sat, 5 Sept 2026.
 
 Yōsuke DJ is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity and Philadelphia. Often billed alongside DJ Papaya, John Raffaele and Keen. Next up: TBA, Philadelphia on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Yōsuke DJ is a techno and house artist based in United States of America, track
 
 DJ Papaya, John Raffaele, Keen
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukedj/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukedj/)*

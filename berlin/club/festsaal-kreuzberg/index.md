@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Techno Türken Open Air" on Sat, 29 Aug 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Techno Türken Open Air" on Sat, 29 Aug 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Absolute Body Control, Claudia Kane, FEVZEE and Harry Wills and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -17,4 +17,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 4 upcoming n
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

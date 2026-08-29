@@ -1,14 +1,13 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - FORO PEDREGAL, Mexico City on Fri, 28 Aug 2026.
+Dennis Ferrer is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Pacha Ibiza, Ibiza on Fri, 4 Sept 2026.
 
-Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Bristol and 27 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: TBA - FORO PEDREGAL, Mexicocity on Fri 28 Aug.
+Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Barcelona and Bristol and 27 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Pacha Ibiza, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TBA - FORO PEDREGAL | Mexico City |
 | Fri, 4 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Gallery | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
@@ -17,6 +16,7 @@ Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 132 s
 
 ## Recently played
 
+- TBA - FORO PEDREGAL, Mexico City — Fri, 28 Aug 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 15 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 1 Aug 2026
 - Spybar, Chicago — Fri, 17 Jul 2026
@@ -24,10 +24,9 @@ Dennis Ferrer is a house and tech house artist tracked on soundcheck, with 132 s
 - Studio Club Malaga, Malaga — Sat, 11 Jul 2026
 - Ku Barcelona, Barcelona — Fri, 19 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
-- Sunset Park Rooftop, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

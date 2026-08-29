@@ -1,14 +1,13 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Koenji Cave presents - Curiosity - 013" on Fri, 28 Aug 2026.
+Koenji Cave is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Koenji Cave presents - Inherited Fortune - V.8" on Sat, 29 Aug 2026.
 
-Koenji Cave is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including BERLINER KINDL, Bones, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Koenji Cave is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including BERLINER KINDL, Bones, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Koenji Cave presents - Curiosity - 013 | Frank S |
 | Sat, 29 Aug 2026 | Koenji Cave presents - Inherited Fortune - V.8 | BERLINER KINDL |
 | Fri, 4 Sept 2026 | Koenji Cave presents - Psychedelic Friday Vol.29 - |  |
 | Sat, 5 Sept 2026 | Koenji Cave presents Gravity Vol.21 | BERLINER KINDL, Bones, Kent Oria, NABE |
@@ -23,4 +22,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, 
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

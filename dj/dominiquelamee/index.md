@@ -1,6 +1,6 @@
 # Dominique Lamee
 
-Dominique Lamee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+Dominique Lamee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
 Dominique Lamee is a techno and trance artist based in Germany, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Budapest and Cologne and 10 more. Often billed alongside HNAS, Kø:lab and KLING&KLANG. Next up: Airport Würzburg, Nurnberg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dominique Lamee is a techno and trance artist based in Germany, tracked on sound
 
 HNAS, Kø:lab, KLING&KLANG
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquelamee/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dominiquelamee/)*

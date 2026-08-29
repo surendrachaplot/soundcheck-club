@@ -1,6 +1,6 @@
 # Son of Son
 
-Son of Son is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Son of Son is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Son of Son is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 20 more. Often billed alongside Adriatique, Anyma and 19:26. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Son of Son is a techno and house artist tracked on soundcheck, with 41 sets logg
 
 Adriatique, Anyma, 19:26
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*

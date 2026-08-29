@@ -1,6 +1,6 @@
 # Gabo Oliveira
 
-Gabo Oliveira is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
+Gabo Oliveira is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Almar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundcheck, with 55 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Rods Franchin, XipNoize and PAZ WAZ HERE. Next up: Almar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Gabo Oliveira is a house and techno artist based in Brazil, tracked on soundchec
 
 Rods Franchin, XipNoize, PAZ WAZ HERE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabooliveira/)*

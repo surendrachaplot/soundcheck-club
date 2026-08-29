@@ -1,14 +1,13 @@
 # Substation
 
-Substation is a music venue in Seattle with 38 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Throne of Rot: RB Killa x Lusus" on Fri, 28 Aug 2026.
+Substation is a music venue in Seattle with 37 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Murda Beatz (House Set)" on Sat, 29 Aug 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 38 upcoming nights, with line-ups including AC Slater, AEREA, alexia.f and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 37 upcoming nights, with line-ups including AC Slater, AEREA, alexia.f and Anish Kumar and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Throne of Rot: RB Killa x Lusus |  |
 | Sat, 29 Aug 2026 | Murda Beatz (House Set) |  |
 | Wed, 2 Sept 2026 | Routine: Quelza | Quelza, Yamanaka |
 | Fri, 4 Sept 2026 | Onhell Throws A Party |  |
@@ -18,9 +17,10 @@ Substation is a music venue in Seattle listed on soundcheck. 38 upcoming nights,
 | Fri, 11 Sept 2026 | Routine: Vladimir Dubyshkin | Sharlese, Vladimir Dubyshkin |
 | Sat, 12 Sept 2026 | Da Tweekaz |  |
 | Fri, 18 Sept 2026 | What So Not |  |
+| Sat, 19 Sept 2026 | Communion: Drezo & One True God |  |
 
 ## Address
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

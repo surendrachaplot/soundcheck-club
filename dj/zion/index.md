@@ -1,6 +1,6 @@
 # Zion
 
-Zion is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Glow & Zalz, Seoul on Sat, 29 Aug 2026.
+Zion is a House and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Glow & Zalz, Seoul on Sat, 29 Aug 2026.
 
 Zion is a house and afrobeats artist based in South Korea, tracked on soundcheck, with 105 sets logged across Hongkong, Osaka and Seoul. Often billed alongside Xena (KR), Minish and Yuzo. Next up: Glow & Zalz, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Zion is a house and afrobeats artist based in South Korea, tracked on soundcheck
 
 Xena (KR), Minish, Yuzo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zion/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zion/)*

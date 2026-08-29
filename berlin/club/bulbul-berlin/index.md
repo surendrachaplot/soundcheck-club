@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Durchreise: Etiennette, mp.ulle, Jasper Kråch, Siegfried Plemo" on Fri, 28 Aug 2026.
+Bulbul Berlin is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "BULBUL ALL NIGHT: Nikklaas, BEKA, DJ Sanni, Casa Marrone" on Sat, 29 Aug 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Aggy, Almost Famous, Better Call Paul and Bombata and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Aggy, Almost Famous, Better Call Paul and Bombata and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Durchreise: Etiennette, mp.ulle, Jasper Kråch, Siegfried Plemo | Etiennette, Jasper Kråch, Siegfried Plemo, mp.ulle |
 | Sat, 29 Aug 2026 | BULBUL ALL NIGHT: Nikklaas, BEKA, DJ Sanni, Casa Marrone | DJ Sanni, Nikklaas |
 | Thu, 3 Sept 2026 | SÜMA - COMMON GROUND 001: Fenster, Jambel, Stark | Fenster, Jambel, Stark |
 | Fri, 4 Sept 2026 | Discoforbreakfast: Mitsuko, MRTI, DJ Glitterelli, Grenouillette | DJ Glitterelli, Grenouillette, MRTI, Mitsuko |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 | Sat, 12 Sept 2026 | Disco Panini - 2-year anniversary: Aggy, Cronoselect, Panino, Sassi | Aggy, Cronoselect |
 | Sat, 26 Sept 2026 | 7 YEARS OF BULBUL: Marc Brauner, Almost Famous, Nikklaas b2b Better Call Paul, Monoise, Morisia | Almost Famous, Better Call Paul, Marc Brauner, Morisia, Nikklaas |
 | Sat, 3 Oct 2026 | TAG DER CLUBKULTUR 2026 - FRESH FACES (FREE ENTRY) | LA BITCHENCIO |
+| Thu, 8 Oct 2026 | TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS | Triqi, boyyyish, materia hache |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

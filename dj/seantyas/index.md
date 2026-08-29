@@ -1,6 +1,6 @@
 # Sean Tyas
 
-Sean Tyas is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cross Roppongi, Tokyo on Sat, 29 Aug 2026.
+Sean Tyas is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cross Roppongi, Tokyo on Sat, 29 Aug 2026.
 
 Sean Tyas is a trance and techno artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Amsterdam, Auckland, Chicago and Liverpool and 8 more. Often billed alongside Giuseppe Ottaviani, Amy Wiles and Armin van Buuren. Next up: Cross Roppongi, Tokyo on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Sean Tyas is a trance and techno artist based in Switzerland, tracked on soundch
 
 Giuseppe Ottaviani, Amy Wiles, Armin van Buuren
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seantyas/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seantyas/)*

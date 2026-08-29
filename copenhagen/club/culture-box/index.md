@@ -1,14 +1,13 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 21 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave" on Fri, 28 Aug 2026.
+Culture Box is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Specific Objects / Elliott Taguchi / vanpana / Emma Sø / CERJ" on Sat, 29 Aug 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 21 upcoming nights, with line-ups including ADAPT (DK), Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including ADAPT (DK), Aio, Aja Gulris and Albano Bastonero and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Drum & Bass Klubben: Taxman + Drum & Bass Klubben / Elevate presents Bass Rave | AMITTET, Delff, Dwonji, HDN (2), LINUS, MNSTR, Maxi Mo, Taxman |
 | Sat, 29 Aug 2026 | Specific Objects / Elliott Taguchi / vanpana / Emma Sø / CERJ | CERJ, Elliott Taguchi, Emma Sø, Specific Objects, vanpana |
 | Fri, 4 Sept 2026 | Stellar Fountain: Erich Von Kollar / MSW Collective / GÆO / GALATIUS / KEVIN FLOOR | GÆO, KEVIN FLOOR |
 | Sat, 5 Sept 2026 | Nomadic: Demi Riquísimo / Steffen H / Andrés Solar / Gonzabraa / Ana Karla / Marho | Ana Karla, Andrés Solar, Demi Riquisimo, Marho, Steffen H |
@@ -18,9 +17,10 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 21 upcoming nig
 | Sat, 19 Sept 2026 | What Happens: 4 Decades of Tim Andresen + Friends | Gerssein, NILU, Shansen, Thor Calin, Tim Andresen |
 | Fri, 25 Sept 2026 | Madben / Anton Goltermann / Halfdan Sandquist / Girls Gone Bass: Valentina / Popsie / SILK! / C | Anton Goltermann, CALIFANO, Halfdan Sandquist, Madben |
 | Sat, 26 Sept 2026 | PECCĀVĪ: Alex Stein / Aja Gulris / Skarn / CERJ / LACTIC ACID: DJ Farkas / RÓS / AZADÎ / Deril | AZADÎ, Aja Gulris, Alex Stein, CERJ, Deril, Skarn |
+| Fri, 2 Oct 2026 | NILU & Friends: Mollono.Bass / NILU / Mousan Corr / Maghoni & Messing | Jakob de Wittig, Mollono.Bass, Mousan Corr, NILU |
 
 ## Address
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

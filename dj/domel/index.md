@@ -1,6 +1,6 @@
 # DOMEL
 
-DOMEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
+DOMEL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
 
 DOMEL is a techno and house artist based in Poland, tracked on soundcheck, with 25 sets logged across Krakow and Warsaw. Often billed alongside toutestmagnifique, Abrew and dj.zamocno. Next up: Jasna 1, Warsaw on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DOMEL is a techno and house artist based in Poland, tracked on soundcheck, with 
 
 toutestmagnifique, Abrew, dj.zamocno
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domel/)*

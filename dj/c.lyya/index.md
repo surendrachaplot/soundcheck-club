@@ -1,6 +1,6 @@
 # C.LYYA
 
-C.LYYA is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Pamela Club, Paris on Sat, 29 Aug 2026.
+C.LYYA is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Pamela Club, Paris on Sat, 29 Aug 2026.
 
 C.LYYA is a house and minimal artist based in France, tracked on soundcheck, with 18 sets logged across Paris. Often billed alongside Flabaire, GGGG and Mad Rey. Next up: Pamela Club, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ C.LYYA is a house and minimal artist based in France, tracked on soundcheck, wit
 
 Flabaire, GGGG, Mad Rey
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*

@@ -1,6 +1,6 @@
 # Shackleton
 
-Shackleton is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Paal69, Amsterdam on Sat, 5 Sept 2026.
+Shackleton is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Paal69, Amsterdam on Sat, 5 Sept 2026.
 
 Shackleton is an experimental and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside upsammy, ojoo and Al Wootton. Next up: Paal69, Amsterdam on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Shackleton is an experimental and techno artist tracked on soundcheck, with 64 s
 
 upsammy, ojoo, Al Wootton
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shackleton/)*

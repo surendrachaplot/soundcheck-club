@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "EUPHORIA SESSIONS: Elli Acula, KiNK, Lacchesi, Elise Massoni" on Fri, 28 Aug 2026.
+Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "HOTMESS: Laure Croft, Bours?, Yasmin Gardezi & MORE" on Sat, 29 Aug 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | EUPHORIA SESSIONS: Elli Acula, KiNK, Lacchesi, Elise Massoni | Elise Massoni, Elli Acula, KiNK, Lacchesi, STL-P |
 | Sat, 29 Aug 2026 | HOTMESS: Laure Croft, Bours?, Yasmin Gardezi & MORE | Bours?, LUNATIXX, Laure Croft, NO MISS, Yasmin Gardezi |
 | Thu, 3 Sept 2026 | 2222 // Juan Evangelista, DDK, Charlotte Newman, KAMA & MORE | Charlotte Newman, DDK (1), Juan Evangelista, KAMA, Rrose Sélavy |
 | Fri, 4 Sept 2026 | ØXYL: Charlie Sparks, DURDENHAUER, BARBARA LAGO, SZG & MORE | Bárbara Lago, Bérou, Charlie Sparks, DURDENHAUER, SZG |
@@ -18,9 +17,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 15 upcoming nights,
 | Fri, 18 Sept 2026 | 2Much: Linds, ANDATA, Emilja | ANDATA, Linds, Orbi, Shoshanaaaaaaa, Stinny Stone |
 | Sat, 19 Sept 2026 | Organïk : IGDA, JO3Y3T, KIRSTY, VIDO & More | IGDA, KIRSTY, PEAKSOU, VIDO (2), VIDO (DE) |
 | Fri, 25 Sept 2026 | ACCIDENT THEORY: Young Marco, Bambounou, Axel Blanc | Axel Blanc, Bambounou, VANROOSE, Young Marco |
+| Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

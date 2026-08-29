@@ -1,6 +1,6 @@
 # David Armada
 
-David Armada is a Deep House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Backyard, Lisbon on Sat, 29 Aug 2026.
+David Armada is a Deep House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Backyard, Lisbon on Sat, 29 Aug 2026.
 
 David Armada is a deep house and electro artist tracked on soundcheck, with 92 sets logged across Cologne, Geneva, Lisbon and London and 1 more. Often billed alongside La Forêt, DJ Reas and STVO. Next up: Backyard, Lisbon on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ David Armada is a deep house and electro artist tracked on soundcheck, with 92 s
 
 La Forêt, DJ Reas, STVO
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidarmada/)*

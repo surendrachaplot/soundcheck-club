@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "DjWhal y Benny Yasoto" on Fri, 28 Aug 2026.
+Doggy Klœb is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Groove Mates: Onemas invites Maik Yells y Macca" on Sat, 29 Aug 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming nights, with line-ups including Arval, Benny Yasoto, Catania and Cavilla and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | DjWhal y Benny Yasoto | Benny Yasoto |
 | Sat, 29 Aug 2026 | Groove Mates: Onemas invites Maik Yells y Macca | Maik Yells |
 | Thu, 3 Sept 2026 | Doggy & Friends: Angel Burgos |  |
 | Fri, 4 Sept 2026 | Raum:95 y Nitrile Affair | Nitrile Affair |
@@ -18,9 +17,10 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 11 upcoming nights,
 | Fri, 18 Sept 2026 | Creatures of the Night | Catania, Cavilla, Unreal Vibes, rubbio |
 | Sat, 19 Sept 2026 | Benny Yasoto & Co |  |
 | Fri, 25 Sept 2026 | Undergroove: Arval invites Certain People | Arval, Certain People |
+| Sat, 26 Sept 2026 | Doggy Project presents: Sancra | Jorgge Decar, Sancra |
 
 ## Address
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

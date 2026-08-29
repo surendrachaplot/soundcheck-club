@@ -1,6 +1,6 @@
 # FRIEDRIICH
 
-FRIEDRIICH is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Casa Brandon, Buenos Aires on Sun, 30 Aug 2026.
+FRIEDRIICH is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Casa Brandon, Buenos Aires on Sun, 30 Aug 2026.
 
 FRIEDRIICH is a pop and electronica artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside NHYMPH, PRISZ and TMORGZ. Next up: Casa Brandon, Buenosaires on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ FRIEDRIICH is a pop and electronica artist based in Spain, tracked on soundcheck
 
 NHYMPH, PRISZ, TMORGZ
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friedriich/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friedriich/)*

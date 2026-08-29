@@ -1,6 +1,6 @@
 # TORTE BAR
 
-TORTE BAR is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Pleasure Pattern takeover" on Thu, 29 Oct 2026.
+TORTE BAR is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Pleasure Pattern takeover" on Thu, 29 Oct 2026.
 
 TORTE BAR is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Kidcat and lavv. Browse upcoming dates, start times and who's playing. Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin.
 
@@ -14,4 +14,4 @@ TORTE BAR is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Brusendorferstraße 11-12, Siegfried-Aufhäuser Platz, 12055 Berlin, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/torte-bar/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/torte-bar/)*

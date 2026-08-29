@@ -1,6 +1,6 @@
 # Open Aera
 
-Open Aera is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Ozmozis presents Gabriel & Dresden (Open to Close)" on Sat, 29 Aug 2026.
+Open Aera is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Ozmozis presents Gabriel & Dresden (Open to Close)" on Sat, 29 Aug 2026.
 
 Open Aera is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Chris Luno, Gabriel & Dresden, mölly and Nicholas Nothing. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
 
@@ -16,4 +16,4 @@ Open Aera is a music venue in Toronto listed on soundcheck. 3 upcoming nights, w
 
 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada, Toronto
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*

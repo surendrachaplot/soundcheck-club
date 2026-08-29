@@ -1,6 +1,6 @@
 # Laura Charlier
 
-Laura Charlier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
+Laura Charlier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
 
 Laura Charlier is a techno and trance artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Makoveev, Amalie and Initial Code. Next up: Amigo, Ghent on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Laura Charlier is a techno and trance artist based in Belgium, tracked on soundc
 
 Makoveev, Amalie, Initial Code
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauracharlier/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lauracharlier/)*

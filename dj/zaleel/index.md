@@ -1,6 +1,6 @@
 # Zaleel
 
-Zaleel is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Zaleel is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Zaleel is a pop and techno artist tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside Manara (UK), MOYA_ and Aisha Mirza. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Zaleel is a pop and techno artist tracked on soundcheck, with 25 sets logged acr
 
 Manara (UK), MOYA_, Aisha Mirza
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaleel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zaleel/)*

@@ -1,6 +1,6 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Soft Power Festival" on Fri, 11 Sept 2026.
+Haus der Visionäre is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Soft Power Festival" on Fri, 11 Sept 2026.
 
 Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Amir Alexander, Anahita Sadighi, Bruno Schmidt and Camion Bazar and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
@@ -16,4 +16,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 3 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

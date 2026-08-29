@@ -1,6 +1,6 @@
 # DMT Disco
 
-DMT Disco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bar Temp., Bangkok on Sat, 29 Aug 2026.
+DMT Disco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bar Temp., Bangkok on Sat, 29 Aug 2026.
 
 DMT Disco is a house and techno artist based in Thailand, tracked on soundcheck, with 29 sets logged across Bangkok. Often billed alongside .g (TH), Kunanon and MOODYBOOM. Next up: Bar Temp., Bangkok on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ DMT Disco is a house and techno artist based in Thailand, tracked on soundcheck,
 
 .g (TH), Kunanon, MOODYBOOM
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmtdisco/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmtdisco/)*

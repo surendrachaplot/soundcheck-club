@@ -1,6 +1,6 @@
 # rodmor
 
-rodmor is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Beat Boutique, Hamburg on Sat, 5 Sept 2026.
+rodmor is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Beat Boutique, Hamburg on Sat, 5 Sept 2026.
 
 rodmor is a techno and tech house artist based in Nicaragua, tracked on soundcheck, with 25 sets logged across Hamburg. Often billed alongside VIĆERO, Eva.nyx and LOWMBASS. Next up: Beat Boutique, Hamburg on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ rodmor is a techno and tech house artist based in Nicaragua, tracked on soundche
 
 VIĆERO, Eva.nyx, LOWMBASS
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodmor/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodmor/)*

@@ -1,6 +1,6 @@
 # T.D. Slider
 
-T.D. Slider is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 19 Sept 2026.
+T.D. Slider is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 19 Sept 2026.
 
 T.D. Slider is a house and club artist tracked on soundcheck, with 24 sets logged across Glasgow. Often billed alongside Carmen Baía, Amphora and Gloss (2). Next up: La Cheetah Club, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ T.D. Slider is a house and club artist tracked on soundcheck, with 24 sets logge
 
 Carmen Baía, Amphora, Gloss (2)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.d.slider/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.d.slider/)*

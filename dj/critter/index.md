@@ -1,6 +1,6 @@
 # Critter
 
-Critter is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+Critter is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 Critter is a house and bass artist tracked on soundcheck, with 44 sets logged across Toronto. Often billed alongside Kai (TO), moody.cn.man and DJ CISWOMAN. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Critter is a house and bass artist tracked on soundcheck, with 44 sets logged ac
 
 Kai (TO), moody.cn.man, DJ CISWOMAN
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/critter/)*

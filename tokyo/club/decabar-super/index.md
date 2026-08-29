@@ -1,6 +1,6 @@
 # Decabar Super
 
-Decabar Super is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "Black Decadance" on Sat, 29 Aug 2026.
+Decabar Super is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Black Decadance" on Sat, 29 Aug 2026.
 
 Decabar Super is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DJ ZiL, Mutron, RICKY and SHO. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
 
@@ -14,4 +14,4 @@ Decabar Super is a music venue in Tokyo listed on soundcheck. 1 upcoming night, 
 
 Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1, Tokyo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*

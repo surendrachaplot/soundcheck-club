@@ -1,6 +1,6 @@
 # Eggz
 
-Eggz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Highland Park, New York City on Sun, 30 Aug 2026.
+Eggz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Highland Park, New York City on Sun, 30 Aug 2026.
 
 Eggz is a house and techno artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Baronhawk Poitier, ConCon and Dee Diggs. Next up: TBA - Highland Park, Newyorkcity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Eggz is a house and techno artist tracked on soundcheck, with 13 sets logged acr
 
 Baronhawk Poitier, ConCon, Dee Diggs
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eggz/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eggz/)*

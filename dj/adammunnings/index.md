@@ -1,6 +1,6 @@
 # ADAM MUNNINGS
 
-ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
+ADAM MUNNINGS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at La Machine Du Moulin Rouge, Paris on Sat, 29 Aug 2026.
 
 ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Bangkok and Berlin and 7 more. Often billed alongside Elninodiablo, DJ Petite and Jonathan Apelbaum. Next up: La Machine Du Moulin Rouge, Paris on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ ADAM MUNNINGS is a house and techno artist tracked on soundcheck, with 71 sets l
 
 Elninodiablo, DJ Petite, Jonathan Apelbaum
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunnings/)*

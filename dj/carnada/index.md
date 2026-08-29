@@ -1,6 +1,6 @@
 # Carnada
 
-Carnada is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Carnada is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Carnada is a techno and electronica artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, Madrid and Paris. Often billed alongside Adrian Mills, Fatima Hajji and Pastis & Buenri. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Carnada is a techno and electronica artist based in Spain, tracked on soundcheck
 
 Adrian Mills, Fatima Hajji, Pastis & Buenri
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carnada/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carnada/)*

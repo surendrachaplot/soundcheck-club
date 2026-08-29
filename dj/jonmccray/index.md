@@ -1,6 +1,6 @@
 # Jon McCray
 
-Jon McCray is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Jackhammer Chicago, Chicago on Sun, 6 Sept 2026.
+Jon McCray is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Jackhammer Chicago, Chicago on Sun, 6 Sept 2026.
 
 Jon McCray is a techno and club artist tracked on soundcheck, with 41 sets logged across Chicago and Newyorkcity. Often billed alongside R°sha, Vyper and Veri Peri. Next up: The Jackhammer Chicago, Chicago on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Jon McCray is a techno and club artist tracked on soundcheck, with 41 sets logge
 
 R°sha, Vyper, Veri Peri
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*

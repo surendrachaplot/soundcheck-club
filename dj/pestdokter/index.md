@@ -1,6 +1,6 @@
 # Pestdokter
 
-Pestdokter is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Alcatraz Milano, Milan on Sat, 29 Aug 2026.
+Pestdokter is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Alcatraz Milano, Milan on Sat, 29 Aug 2026.
 
 Pestdokter is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Barcelona, Lisbon, Madrid and Malta and 2 more. Often billed alongside Frik, Cristopher Arcuri and Ornella. Next up: Alcatraz Milano, Milan on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Pestdokter is a techno and industrial artist tracked on soundcheck, with 32 sets
 
 Frik, Cristopher Arcuri, Ornella
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pestdokter/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pestdokter/)*

@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Marcellus Pittman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Marcellus Pittman is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 148 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

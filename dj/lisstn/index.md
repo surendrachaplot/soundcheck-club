@@ -1,6 +1,6 @@
 # LiSSTN
 
-LiSSTN is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at PRST, Vienna on Thu, 27 Aug 2026.
+LiSSTN is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at PRST, Vienna on Thu, 27 Aug 2026.
 
 LiSSTN is a house and minimal artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Vienna. Often billed alongside Monti1one, Fabiano José and Felix Rupprecht. Next up: PRST, Vienna on Thu 27 Aug.
 
@@ -25,4 +25,4 @@ LiSSTN is a house and minimal artist based in Germany, tracked on soundcheck, wi
 
 Monti1one, Fabiano José, Felix Rupprecht
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisstn/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lisstn/)*

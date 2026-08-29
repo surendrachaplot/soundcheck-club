@@ -1,6 +1,6 @@
 # BIG REG
 
-BIG REG is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Cu, London on Fri, 2 Oct 2026.
+BIG REG is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cu, London on Fri, 2 Oct 2026.
 
 BIG REG is a house and tech house artist tracked on soundcheck, with 14 sets logged across Bristol, London, Sheffield and Tbilisi. Often billed alongside Spingall, Gingall and Klich. Next up: Cu, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BIG REG is a house and tech house artist tracked on soundcheck, with 14 sets log
 
 Spingall, Gingall, Klich
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigreg/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigreg/)*

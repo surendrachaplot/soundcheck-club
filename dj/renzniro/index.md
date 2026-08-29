@@ -1,6 +1,6 @@
 # RenzNiro
 
-RenzNiro is a Experimental and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at 8MM, Berlin on Thu, 10 Sept 2026.
+RenzNiro is a Experimental and Grime artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at 8MM, Berlin on Thu, 10 Sept 2026.
 
 RenzNiro is an experimental and grime artist tracked on soundcheck, with 17 sets logged across Berlin, Brussels, London and Manchester and 2 more. Often billed alongside Ship Sket, iced lattina and Adele Tondu. Next up: 8MM, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ RenzNiro is an experimental and grime artist tracked on soundcheck, with 17 sets
 
 Ship Sket, iced lattina, Adele Tondu
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*

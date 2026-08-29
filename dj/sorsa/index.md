@@ -1,17 +1,19 @@
 # Sorsa
 
-Sorsa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at B2 Rīga, Riga on Sat, 12 Sept 2026.
+Sorsa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at B2 Rīga, Riga on Fri, 28 Aug 2026.
 
-Sorsa is a techno and house artist tracked on soundcheck, with 8 sets logged across Riga and Tallinn. Often billed alongside Brett Rästas, Cask and Charch. Next up: B2 Rīga, Riga on Sat 12 Sept.
+Sorsa is a techno and house artist tracked on soundcheck, with 9 sets logged across Riga and Tallinn. Often billed alongside Hele, Brett Rästas and Cask. Next up: B2 Rīga, Riga on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 28 Aug 2026 | B2 Rīga | Riga |
 | Sat, 12 Sept 2026 | B2 Rīga | Riga |
 
 ## Recently played
 
+- B2 Rīga, Riga — Fri, 28 Aug 2026
 - Bar IDA, Tallinn — Sat, 9 May 2026
 - Hall, Tallinn — Wed, 31 Dec 2025
 - TBA - River ship VECRĪGA (to the right of the Vanšu tilts), Riga — Sat, 30 Aug 2025
@@ -22,6 +24,6 @@ Sorsa is a techno and house artist tracked on soundcheck, with 8 sets logged acr
 
 ## Shares bills with
 
-Brett Rästas, Cask, Charch
+Hele, Brett Rästas, Cask
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sorsa/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sorsa/)*

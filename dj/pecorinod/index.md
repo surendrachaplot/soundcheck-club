@@ -1,6 +1,6 @@
 # PECORINO D
 
-PECORINO D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Azumaya, Tokyo on Tue, 15 Sept 2026.
+PECORINO D is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Azumaya, Tokyo on Tue, 15 Sept 2026.
 
 PECORINO D is a techno and house artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside Kaw (1), DJ Wada and Dihi. Next up: Azumaya, Tokyo on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ PECORINO D is a techno and house artist based in Japan, tracked on soundcheck, w
 
 Kaw (1), DJ Wada, Dihi
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pecorinod/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pecorinod/)*

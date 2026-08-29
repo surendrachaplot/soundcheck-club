@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
+Freddy K is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
 
 Freddy K is a techno and house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Alarico, Blasha & Allatt and Chlär. Next up: Fvtvr, Paris on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist tracked on soundcheck, with 274 sets logge
 
 Alarico, Blasha & Allatt, Chlär
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

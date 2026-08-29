@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 23 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Jungle Cakes: The Return" on Sat, 29 Aug 2026.
+XOYO is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Jungle Cakes: The Return" on Sat, 29 Aug 2026.
 
 XOYO is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Alex P, AR (UK), Badger (UK) and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 23 upcoming nights, with l
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

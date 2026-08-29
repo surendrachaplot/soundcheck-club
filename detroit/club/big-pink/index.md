@@ -1,14 +1,13 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "CUFFING SZN: RO SPIT & COMPLETD (R&B + DANCE MUSIC)" on Fri, 28 Aug 2026.
+Big Pink is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "HUMAN NATURE: MICHAEL JACKSON NIGHT (BLAAQGOLD)" on Sat, 29 Aug 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | CUFFING SZN: RO SPIT & COMPLETD (R&B + DANCE MUSIC) |  |
 | Sat, 29 Aug 2026 | HUMAN NATURE: MICHAEL JACKSON NIGHT (BLAAQGOLD) |  |
 | Fri, 4 Sept 2026 | PINK RODEO: BEYONCÉ NIGHT |  |
 | Sat, 5 Sept 2026 | VIBE CHECK: BLAKITO'S BIRTHDAY (OPEN FORMAT BANGERS) |  |
@@ -22,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming nights, wi
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

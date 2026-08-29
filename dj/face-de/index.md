@@ -1,6 +1,6 @@
 # face*
 
-face* is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
+face* is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Helgoländer Allee, Hamburg on Sat, 29 Aug 2026.
 
 face* is a techno and electro artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Antoine Baiser, Surreal (DE) and Marco Baskind. Next up: Helgoländer Allee, Hamburg on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ face* is a techno and electro artist based in Germany, tracked on soundcheck, wi
 
 Antoine Baiser, Surreal (DE), Marco Baskind
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/face-de/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/face-de/)*

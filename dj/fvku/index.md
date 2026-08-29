@@ -1,6 +1,6 @@
 # fvku
 
-fvku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 5 Sept 2026.
+fvku is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 5 Sept 2026.
 
 fvku is a techno and house artist tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside Pokaska, Meri and Ogasawara. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ fvku is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 Pokaska, Meri, Ogasawara
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fvku/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fvku/)*

@@ -1,6 +1,6 @@
 # Aisotope Lounge
 
-Aisotope Lounge is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "GLOW UP VOL.3" on Sat, 29 Aug 2026.
+Aisotope Lounge is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "GLOW UP VOL.3" on Sat, 29 Aug 2026.
 
 Aisotope Lounge is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including crazist, MAXIM (8) and tiger&dragon. Browse upcoming dates, start times and who's playing. Saint Four BLD. 1F, 2-12-16 Shinjuku, Shinjuku-Ku, Tokyo, 160-0022 JAPAN.
 
@@ -17,4 +17,4 @@ Aisotope Lounge is a music venue in Tokyo listed on soundcheck. 4 upcoming night
 
 Saint Four BLD. 1F, 2-12-16 Shinjuku, Shinjuku-Ku, Tokyo, 160-0022 JAPAN, Tokyo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aisotope-lounge/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aisotope-lounge/)*

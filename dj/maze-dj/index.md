@@ -1,6 +1,6 @@
 # Maze DJ
 
-Maze DJ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Maze DJ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Maze DJ is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 4 more. Often billed alongside 131bpm, Marie Malarie and Michelle Manetti. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Maze DJ is a house and techno artist based in United Kingdom, tracked on soundch
 
 131bpm, Marie Malarie, Michelle Manetti
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-dj/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-dj/)*

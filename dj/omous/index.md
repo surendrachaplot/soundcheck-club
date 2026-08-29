@@ -1,6 +1,6 @@
 # OMO (US)
 
-OMO (US) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jobstoppers, Detroit on Sun, 30 Aug 2026.
+OMO (US) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jobstoppers, Detroit on Sun, 30 Aug 2026.
 
 OMO (US) is a techno and experimental artist based in United States of America, tracked on soundcheck, with 26 sets logged across Detroit. Often billed alongside Kuuma, RETCON and Seanni B. Next up: Jobstoppers, Detroit on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ OMO (US) is a techno and experimental artist based in United States of America, 
 
 Kuuma, RETCON, Seanni B
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omous/)*

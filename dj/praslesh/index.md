@@ -1,6 +1,6 @@
 # Praslesh
 
-Praslesh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Liverpool on Sat, 31 Oct 2026.
+Praslesh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Liverpool on Sat, 31 Oct 2026.
 
 Praslesh is a minimal and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 5 more. Often billed alongside Praslea, Raresh and Sonja Moonear. Next up: TBA, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Praslesh is a minimal and house artist tracked on soundcheck, with 21 sets logge
 
 Praslea, Raresh, Sonja Moonear
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*

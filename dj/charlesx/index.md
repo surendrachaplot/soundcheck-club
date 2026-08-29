@@ -1,6 +1,6 @@
 # Charles X
 
-Charles X is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Colombian Hotel, Sydney on Sat, 29 Aug 2026.
+Charles X is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Colombian Hotel, Sydney on Sat, 29 Aug 2026.
 
 Charles X is a tech house and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Brussels, Detroit, Ghent and Losangeles and 2 more. Often billed alongside BAR (DE), Abscal and Angel Alanis. Next up: Colombian Hotel, Sydney on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Charles X is a tech house and house artist based in United States of America, tr
 
 BAR (DE), Abscal, Angel Alanis
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesx/)*

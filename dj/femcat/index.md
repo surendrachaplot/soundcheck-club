@@ -1,6 +1,6 @@
 # Femcat
 
-Femcat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 5 Sept 2026.
+Femcat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 5 Sept 2026.
 
 Femcat is a house and techno artist tracked on soundcheck, with 92 sets logged across Berlin, Stuttgart and Vienna. Often billed alongside Marco Bastone, Jorkes and Alexander Maier. Next up: Lehmann Club, Stuttgart on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Femcat is a house and techno artist tracked on soundcheck, with 92 sets logged a
 
 Marco Bastone, Jorkes, Alexander Maier
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/femcat/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/femcat/)*

@@ -1,6 +1,6 @@
 # Kid Moss
 
-Kid Moss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
+Kid Moss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sat, 29 Aug 2026.
 
 Kid Moss is a house and techno artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: Sunseabar Beach Club, Barcelona on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Kid Moss is a house and techno artist tracked on soundcheck, with 90 sets logged
 
 Guedes (ES), Guedes, IVAN POSEIDON
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*

@@ -1,14 +1,13 @@
 # Atno
 
-Atno is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Trauma Unit + Realist Alive + savmegye" on Fri, 28 Aug 2026.
+Atno is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "TechTúra nyárzáró balhé" on Sat, 29 Aug 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including 96zen, Aikatherina, Bekø and Benc and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Aikatherina, Bekø, Benc and Dead Man's Chest and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Trauma Unit + Realist Alive + savmegye | 96zen, ItsLucid, Naramnesia, Ship Sket, Talpah, glas___skin |
 | Sat, 29 Aug 2026 | TechTúra nyárzáró balhé | Hanussen, Jodo Kast, Kiqo, Stark |
 | Fri, 4 Sept 2026 | egynegyven | Meduzah |
 | Fri, 11 Sept 2026 | ◉ RIGHT TIME - Dead Man's Chest (Western Lore - UK) ◉ | Aikatherina, Benc, Dead Man's Chest, Mentalien |
@@ -18,4 +17,4 @@ Atno is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with 
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

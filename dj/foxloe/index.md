@@ -1,6 +1,6 @@
 # foxloe
 
-foxloe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at PRST, Vienna on Sat, 29 Aug 2026.
+foxloe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at PRST, Vienna on Sat, 29 Aug 2026.
 
 foxloe is a house and techno artist based in France, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Leipzig and Vienna. Often billed alongside Konman, Rizmo and Alice (AT). Next up: PRST, Vienna on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ foxloe is a house and techno artist based in France, tracked on soundcheck, with
 
 Konman, Rizmo, Alice (AT)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxloe/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxloe/)*

@@ -1,6 +1,6 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Saoirse is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Saoirse is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Saoirse is a house and techno artist tracked on soundcheck, with 187 sets logged
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

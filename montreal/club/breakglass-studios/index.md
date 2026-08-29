@@ -1,6 +1,6 @@
 # Breakglass Studios
 
-Breakglass Studios is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Motion Lab: FX, Automation & Arrangement with Jordan Gardner" on Sun, 6 Sept 2026.
+Breakglass Studios is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Motion Lab: FX, Automation & Arrangement with Jordan Gardner" on Sun, 6 Sept 2026.
 
 Breakglass Studios is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including James Benjamin, Jordan Gardner, Lunice and Pierre Kwenders. Browse upcoming dates, start times and who's playing. 7250 Clark Suite 300.
 
@@ -15,4 +15,4 @@ Breakglass Studios is a music venue in Montreal listed on soundcheck. 2 upcoming
 
 7250 Clark Suite 300, Montreal
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/breakglass-studios/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/breakglass-studios/)*

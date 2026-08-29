@@ -1,6 +1,6 @@
 # Danny Vito
 
-Danny Vito is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Night Tales, London on Sat, 29 Aug 2026.
+Danny Vito is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Night Tales, London on Sat, 29 Aug 2026.
 
 Danny Vito is a house and disco artist tracked on soundcheck, with 55 sets logged across Brighton and London. Often billed alongside Liam Cross, Osmaan and The Prince. Next up: Night Tales, London on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Danny Vito is a house and disco artist tracked on soundcheck, with 55 sets logge
 
 Liam Cross, Osmaan, The Prince
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyvito/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyvito/)*

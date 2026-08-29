@@ -1,6 +1,6 @@
 # Vicenta
 
-Vicenta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Launderette Records, Philadelphia on Sat, 29 Aug 2026.
+Vicenta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Launderette Records, Philadelphia on Sat, 29 Aug 2026.
 
 Vicenta is a techno and house artist tracked on soundcheck, with 38 sets logged across London, Newyorkcity and Philadelphia. Often billed alongside Chancleta, DeJota and ADAB. Next up: Launderette Records, Philadelphia on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Vicenta is a techno and house artist tracked on soundcheck, with 38 sets logged 
 
 Chancleta, DeJota, ADAB
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vicenta/)*

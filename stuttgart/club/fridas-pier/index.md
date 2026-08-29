@@ -1,14 +1,13 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 18 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "TRANCEPORT" on Fri, 28 Aug 2026.
+Fridas Pier is a music venue in Stuttgart with 17 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Joachim Pastor" on Sat, 29 Aug 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming nights, with line-ups including A.D.H.S., Alex Kassian, Analog Crystal and Andreas Henneberg and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming nights, with line-ups including A.D.H.S., Alex Kassian, Analog Crystal and Andreas Henneberg and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TRANCEPORT | Ephy Pinkman, Jano, crystal crimez (2) |
 | Sat, 29 Aug 2026 | Joachim Pastor | Convinzed, Joachim Pastor |
 | Sat, 29 Aug 2026 | MENTALCLUB |  |
 | Fri, 4 Sept 2026 | 5 JAHRE Fridas Pier - DAY 01 | A.D.H.S., Bjørnson, DIXI, Joyhauser, Louv, Nick Hurton, Schrotthagen |
@@ -18,9 +17,10 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming nigh
 | Fri, 18 Sept 2026 | ELECTRIC ANIMALS x Fridas Pier | Andre Winter, Mara Sander, Mosher, Oliver Huntemann, Randali, Tommahawk |
 | Sat, 19 Sept 2026 | sweat Summerclosing with Alex Kassian - Sibel - Special Interest - Edwin - Ferial - Miro | Alex Kassian, Edwin (DE), MIRO (DE), Sibel |
 | Fri, 25 Sept 2026 | FCKNG SERIOUS DAY & NIGHT RAVE | Ann Clue, Deniz Bul, Fab Massimo, Ginger, Jakob (BE), Julian Wassermann, Moritz Hofbauer, shot by stanley |
+| Sat, 26 Sept 2026 | KATER SHOWCASE | Claudius, DIEGÖ, Femcat, Mimi Love, Miss Evoice, Pauli Pocket, Sven Dohse |
 
 ## Address
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

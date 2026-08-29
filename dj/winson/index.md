@@ -1,6 +1,6 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 Winson is a techno and deep house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -23,6 +23,7 @@ Winson is a techno and deep house artist tracked on soundcheck, with 71 sets log
 
 ## Recently played
 
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
 - UNO MALTA, Malta — Fri, 31 Jul 2026
 - Eden, Ibiza — Tue, 21 Jul 2026
@@ -30,10 +31,9 @@ Winson is a techno and deep house artist tracked on soundcheck, with 71 sets log
 - Amnesia Ibiza, Ibiza — Thu, 18 Jun 2026
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
 - Halle 622, Zurich — Sat, 4 Apr 2026
-- IFEMA, Madrid — Fri, 27 Mar 2026
 
 ## Shares bills with
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

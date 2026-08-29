@@ -1,6 +1,6 @@
 # Vy Tran
 
-Vy Tran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
+Vy Tran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Berlin, Berlin on Sat, 29 Aug 2026.
 
 Vy Tran is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Hamburg, Leipzig and Milan and 2 more. Often billed alongside Black Mirror Park, Reka Zalan and 50PHIE. Next up: TBA - Berlin, Berlin on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Vy Tran is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Black Mirror Park, Reka Zalan, 50PHIE
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vytran/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vytran/)*

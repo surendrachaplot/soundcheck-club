@@ -1,6 +1,6 @@
 # Charles Moon
 
-Charles Moon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 29 Aug 2026.
+Charles Moon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at YuYu Cine Club, Mexico City on Sat, 29 Aug 2026.
 
 Charles Moon is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Auckland, Austin and Berlin and 7 more. Often billed alongside Gi Gi, IN PRAISE and MOOD HSM. Next up: YuYu Cine Club, Mexicocity on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Charles Moon is a house and techno artist based in United States of America, tra
 
 Gi Gi, IN PRAISE, MOOD HSM
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmoon/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesmoon/)*

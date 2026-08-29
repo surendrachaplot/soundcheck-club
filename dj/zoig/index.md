@@ -1,6 +1,6 @@
 # ZOIG
 
-ZOIG is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Tunnel, Milan on Fri, 18 Sept 2026.
+ZOIG is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tunnel, Milan on Fri, 18 Sept 2026.
 
 ZOIG is a tech house and minimal artist tracked on soundcheck, with 7 sets logged across Milan and Rome. Often billed alongside Andrea Satta, Art of Fighters and Blunderr. Next up: Tunnel, Milan on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ ZOIG is a tech house and minimal artist tracked on soundcheck, with 7 sets logge
 
 Andrea Satta, Art of Fighters, Blunderr
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoig/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zoig/)*

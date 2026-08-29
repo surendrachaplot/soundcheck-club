@@ -1,6 +1,6 @@
 # James Nash
 
-James Nash is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Centre Point, Dublin on Sat, 12 Sept 2026.
+James Nash is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Centre Point, Dublin on Sat, 12 Sept 2026.
 
 James Nash is a house and tech house artist tracked on soundcheck, with 13 sets logged across Bristol, Dublin and Manchester. Often billed alongside Fleur Shore, A For Alpha and ALISHA. Next up: Centre Point, Dublin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ James Nash is a house and tech house artist tracked on soundcheck, with 13 sets 
 
 Fleur Shore, A For Alpha, ALISHA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*

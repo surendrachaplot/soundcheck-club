@@ -1,6 +1,6 @@
 # SEP. (1)
 
-SEP. (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Qi Bar KL, Kuala Lumpur on Mon, 24 Aug 2026.
+SEP. (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Qi Bar KL, Kuala Lumpur on Mon, 24 Aug 2026.
 
 SEP. (1) is a techno and house artist tracked on soundcheck, with 10 sets logged across Kualalumpur. Often billed alongside BugzB, CURZON and Joey G. Next up: Qi Bar KL, Kualalumpur on Mon 24 Aug.
 
@@ -26,4 +26,4 @@ SEP. (1) is a techno and house artist tracked on soundcheck, with 10 sets logged
 
 BugzB, CURZON, Joey G
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sep.-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sep.-1/)*

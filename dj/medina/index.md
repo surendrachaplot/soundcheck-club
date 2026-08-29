@@ -1,6 +1,6 @@
 # MEDINA
 
-MEDINA is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
+MEDINA is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
 
 MEDINA is a techno and minimal techno artist tracked on soundcheck, with 18 sets logged across Barcelona, Newyorkcity and Tallinn. Often billed alongside KRAVE, Melanie Ribbe and AMMARA. Next up: Hall, Tallinn on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MEDINA is a techno and minimal techno artist tracked on soundcheck, with 18 sets
 
 KRAVE, Melanie Ribbe, AMMARA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*

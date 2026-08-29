@@ -1,6 +1,6 @@
 # Phil Spank
 
-Phil Spank is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 29 Aug 2026.
+Phil Spank is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 29 Aug 2026.
 
 Phil Spank is a house and deep house artist tracked on soundcheck, with 31 sets logged across Losangeles, Mexicocity, Newyorkcity and Portland and 2 more. Often billed alongside Clancy Hickinbotham, natebytheway and Klaytron. Next up: Public Works, Sanfrancisco on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Phil Spank is a house and deep house artist tracked on soundcheck, with 31 sets 
 
 Clancy Hickinbotham, natebytheway, Klaytron
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philspank/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/philspank/)*

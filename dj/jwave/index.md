@@ -1,6 +1,6 @@
 # jWave
 
-jWave is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
+jWave is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
 jWave is a tech house and house artist tracked on soundcheck, with 49 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 15 more. Often billed alongside Josh Baker, Marsolo and Alexandria. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
@@ -29,4 +29,4 @@ jWave is a tech house and house artist tracked on soundcheck, with 49 sets logge
 
 Josh Baker, Marsolo, Alexandria
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwave/)*

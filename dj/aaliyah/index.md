@@ -1,6 +1,6 @@
 # AALIYAH
 
-AALIYAH is a R&B and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+AALIYAH is a R&B and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 AALIYAH is a r&b and techno artist tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, London and Manchester and 2 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ AALIYAH is a r&b and techno artist tracked on soundcheck, with 28 sets logged ac
 
 Ciara, Drake (DE), Nelly
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*

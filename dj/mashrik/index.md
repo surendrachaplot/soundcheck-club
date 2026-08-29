@@ -1,6 +1,6 @@
 # Mashrik
 
-Mashrik is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Refuge, New York City on Sat, 12 Sept 2026.
+Mashrik is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Refuge, New York City on Sat, 12 Sept 2026.
 
 Mashrik is a deep house and house artist tracked on soundcheck, with 23 sets logged across Buenosaires, Lisbon, Losangeles and Mexicocity and 3 more. Often billed alongside Borak, Bedouin and Nacho Isa. Next up: Refuge, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mashrik is a deep house and house artist tracked on soundcheck, with 23 sets log
 
 Borak, Bedouin, Nacho Isa
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashrik/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashrik/)*

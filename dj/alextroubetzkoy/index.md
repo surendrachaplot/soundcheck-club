@@ -1,6 +1,6 @@
 # Alex Troubetzkoy
 
-Alex Troubetzkoy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 5 Sept 2026.
+Alex Troubetzkoy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 5 Sept 2026.
 
 Alex Troubetzkoy is a house and techno artist based in France, tracked on soundcheck, with 6 sets logged across Bucharest, Marseille, Newyorkcity and Paris. Often billed alongside Automatic Writing, Sibil (1) and Amy Jor. Next up: Platforma Wolff, Bucharest on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Alex Troubetzkoy is a house and techno artist based in France, tracked on soundc
 
 Automatic Writing, Sibil (1), Amy Jor
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alextroubetzkoy/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alextroubetzkoy/)*

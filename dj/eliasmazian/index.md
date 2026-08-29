@@ -1,6 +1,6 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
+Elias Mazian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tuinen van West, Amsterdam on Sat, 29 Aug 2026.
 
 Elias Mazian is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Tsepo. Next up: Tuinen van West, Amsterdam on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Elias Mazian is a house and techno artist tracked on soundcheck, with 113 sets l
 
 Suze Ijó, Doppelgang, Tsepo
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

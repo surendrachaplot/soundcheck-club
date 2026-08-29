@@ -1,6 +1,6 @@
 # OCD
 
-OCD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
+OCD is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
 OCD is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Belfast, Berlin and Budapest and 11 more. Often billed alongside Cristian Marras, Mar/us and Metaraph. Next up: RADION, Amsterdam on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ OCD is a techno and trance artist tracked on soundcheck, with 56 sets logged acr
 
 Cristian Marras, Mar/us, Metaraph
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ocd/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ocd/)*

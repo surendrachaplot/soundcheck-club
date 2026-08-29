@@ -1,6 +1,6 @@
 # Airbear
 
-Airbear is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Nué Seoul, Seoul on Sat, 29 Aug 2026.
+Airbear is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nué Seoul, Seoul on Sat, 29 Aug 2026.
 
 Airbear is a house and techno artist based in United States of America, tracked on soundcheck, with 88 sets logged across Bangkok and Seoul. Often billed alongside Gyusco, Youngseok and Bolm. Next up: Nué Seoul, Seoul on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Airbear is a house and techno artist based in United States of America, tracked 
 
 Gyusco, Youngseok, Bolm
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airbear/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airbear/)*

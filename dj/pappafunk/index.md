@@ -1,6 +1,6 @@
 # Pappafunk
 
-Pappafunk is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Jumbi, London on Fri, 11 Sept 2026.
+Pappafunk is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jumbi, London on Fri, 11 Sept 2026.
 
 Pappafunk is a funk / soul and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam and London. Often billed alongside Rob Coley, Farrah DJ and ROY WESTFIELD. Next up: Jumbi, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Pappafunk is a funk / soul and house artist based in United Kingdom, tracked on 
 
 Rob Coley, Farrah DJ, ROY WESTFIELD
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pappafunk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pappafunk/)*

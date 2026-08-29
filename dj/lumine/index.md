@@ -1,18 +1,18 @@
 # LUMINE
 
-LUMINE is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Yellow House, Amsterdam on Fri, 28 Aug 2026.
+LUMINE is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at BASIS, Utrecht on Sat, 7 Nov 2026.
 
-LUMINE is a house and garage artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Hamburg and Utrecht. Often billed alongside 22 Interns, Boris Coelman and DJ AYA. Next up: Yellow House, Amsterdam on Fri 28 Aug.
+LUMINE is a house and garage artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Hamburg and Utrecht. Often billed alongside 22 Interns, Boris Coelman and DJ AYA. Next up: BASIS, Utrecht on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Yellow House | Amsterdam |
 | Sat, 7 Nov 2026 | BASIS | Utrecht |
 
 ## Recently played
 
+- Yellow House, Amsterdam — Fri, 28 Aug 2026
 - Thuishaven, Amsterdam — Sun, 26 Jul 2026
 - Thuishaven, Amsterdam — Wed, 3 Jun 2026
 - Fundbureau, Hamburg — Fri, 10 Apr 2026
@@ -22,4 +22,4 @@ LUMINE is a house and garage artist based in Netherlands, tracked on soundcheck,
 
 22 Interns, Boris Coelman, DJ AYA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumine/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lumine/)*

@@ -1,6 +1,6 @@
 # Matt Thibideau
 
-Matt Thibideau is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Standard Time, Toronto on Sat, 5 Sept 2026.
+Matt Thibideau is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Standard Time, Toronto on Sat, 5 Sept 2026.
 
 Matt Thibideau is an electronic artist tracked on soundcheck, with 7 sets logged across Berlin and Toronto. Often billed alongside Andrew Greville, Mike Shannon and Adam Marshall. Next up: Standard Time, Toronto on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Matt Thibideau is an electronic artist tracked on soundcheck, with 7 sets logged
 
 Andrew Greville, Mike Shannon, Adam Marshall
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattthibideau/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattthibideau/)*

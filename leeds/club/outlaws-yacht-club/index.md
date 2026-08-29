@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Sound Logo - Zoysia / gwa / Hooley" on Sat, 29 Aug 2026.
+Outlaws Yacht Club is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sound Logo - Zoysia / gwa / Hooley" on Sat, 29 Aug 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 7 upcoming nights, with line-ups including Ben Daddy, gwa (1), Hooley and Laura Not and 2 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -20,4 +20,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 7 upcoming ni
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

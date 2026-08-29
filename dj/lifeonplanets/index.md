@@ -1,6 +1,6 @@
 # Life on Planets
 
-Life on Planets is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sable Miami, Miami on Sat, 29 Aug 2026.
+Life on Planets is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sable Miami, Miami on Sat, 29 Aug 2026.
 
 Life on Planets is a house and techno artist tracked on soundcheck, with 46 sets logged across Austin, Detroit, Ibiza and London and 9 more. Often billed alongside Ardalan, DJ Minx and Kana Hishiya. Next up: Sable Miami, Miami on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ Life on Planets is a house and techno artist tracked on soundcheck, with 46 sets
 
 Ardalan, DJ Minx, Kana Hishiya
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeonplanets/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lifeonplanets/)*

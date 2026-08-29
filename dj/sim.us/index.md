@@ -1,6 +1,6 @@
 # S.I.M
 
-S.I.M is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
+S.I.M is a Techno and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Arcana, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 S.I.M is a techno and garage artist based in United States of America, tracked on soundcheck, with 10 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside cstr, 6 SENSE and Brick (US). Next up: Arcana, Sanfrancisco on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ S.I.M is a techno and garage artist based in United States of America, tracked o
 
 cstr, 6 SENSE, Brick (US)
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sim.us/)*

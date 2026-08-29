@@ -1,6 +1,6 @@
 # XAVI RABARTE
 
-XAVI RABARTE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
+XAVI RABARTE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
 
 XAVI RABARTE is a tech house and house artist tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside Bill Hates, Devicious and Alan Jimenez. Next up: Atlantic Sound, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ XAVI RABARTE is a tech house and house artist tracked on soundcheck, with 26 set
 
 Bill Hates, Devicious, Alan Jimenez
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xavirabarte/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xavirabarte/)*

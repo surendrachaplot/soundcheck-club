@@ -1,6 +1,6 @@
 # J.Benitez (2)
 
-J.Benitez (2) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
+J.Benitez (2) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 J.Benitez (2) is a house and electro artist based in Spain, tracked on soundcheck, with 33 sets logged across Barcelona. Often billed alongside FLEX.cat, A. CASANOVA and Couce. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ J.Benitez (2) is a house and electro artist based in Spain, tracked on soundchec
 
 FLEX.cat, A. CASANOVA, Couce
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.benitez-2/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/j.benitez-2/)*

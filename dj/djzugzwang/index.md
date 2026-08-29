@@ -1,6 +1,6 @@
 # DJ Zugzwang
 
-DJ Zugzwang is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
+DJ Zugzwang is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at ://about blank, Berlin on Sat, 19 Sept 2026.
 
 DJ Zugzwang is a trance and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside KLING&KLANG, DJ Henk and Amøn. Next up: ://about blank, Berlin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ DJ Zugzwang is a trance and techno artist based in Germany, tracked on soundchec
 
 KLING&KLANG, DJ Henk, Amøn
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzugzwang/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djzugzwang/)*

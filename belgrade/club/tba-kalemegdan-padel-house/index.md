@@ -1,6 +1,6 @@
 # TBA - Kalemegdan (Padel House) 
 
-TBA - Kalemegdan (Padel House)  is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "PurrMačka: DnB Charity Party at the Fortress" on Sat, 29 Aug 2026.
+TBA - Kalemegdan (Padel House)  is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "PurrMačka: DnB Charity Party at the Fortress" on Sat, 29 Aug 2026.
 
 TBA - Kalemegdan (Padel House)  is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Kalemegdan (Padel House)  is a music venue in Belgrade listed on soundchec
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | PurrMačka: DnB Charity Party at the Fortress |  |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/tba-kalemegdan-padel-house/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/tba-kalemegdan-padel-house/)*

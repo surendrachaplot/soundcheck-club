@@ -1,6 +1,6 @@
 # Jason Vilka
 
-Jason Vilka is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Jason Vilka is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Jason Vilka is a house and garage artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Jerome Six, Sol Edge and Acid Kids. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jason Vilka is a house and garage artist tracked on soundcheck, with 16 sets log
 
 Jerome Six, Sol Edge, Acid Kids
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonvilka/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonvilka/)*

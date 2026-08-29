@@ -1,6 +1,6 @@
 # Calamidades Lola
 
-Calamidades Lola is a Pop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
+Calamidades Lola is a Pop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Beach Neukölln, Berlin on Sun, 30 Aug 2026.
 
 Calamidades Lola is a pop and reggaeton artist based in Colombia, tracked on soundcheck, with 23 sets logged across Amsterdam and Berlin. Often billed alongside Amuleto Manuela, D'Monk and Coco Maria. Next up: Beach Neukölln, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Calamidades Lola is a pop and reggaeton artist based in Colombia, tracked on sou
 
 Amuleto Manuela, D'Monk, Coco Maria
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calamidadeslola/)*

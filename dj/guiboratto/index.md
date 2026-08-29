@@ -1,6 +1,6 @@
 # Gui Boratto
 
-Gui Boratto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cineclube Cortina, Sao Paulo on Sat, 29 Aug 2026.
+Gui Boratto is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cineclube Cortina, Sao Paulo on Sat, 29 Aug 2026.
 
 Gui Boratto is a house and tech house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Bali, Barcelona and Basel and 15 more. Often billed alongside Coppola, Adnan Sharif and Gabriel Brasil. Next up: Cineclube Cortina, Saopaulo on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Gui Boratto is a house and tech house artist tracked on soundcheck, with 49 sets
 
 Coppola, Adnan Sharif, Gabriel Brasil
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*

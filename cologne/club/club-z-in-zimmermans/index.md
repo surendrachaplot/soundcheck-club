@@ -1,6 +1,6 @@
 # Club Z in Zimmermans
 
-Club Z in Zimmermans is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "American Airlines Seat Selection" on Sat, 29 Aug 2026.
+Club Z in Zimmermans is a music venue in Cologne with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "American Airlines Seat Selection" on Sat, 29 Aug 2026.
 
 Club Z in Zimmermans is a music venue in Cologne listed on soundcheck. 2 upcoming nights, with line-ups including George Morel and Pierce. Browse upcoming dates, start times and who's playing. Venloer Str 39, 50672, Koln.
 
@@ -15,4 +15,4 @@ Club Z in Zimmermans is a music venue in Cologne listed on soundcheck. 2 upcomin
 
 Venloer Str 39, 50672, Koln, Cologne
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-z-in-zimmermans/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-z-in-zimmermans/)*

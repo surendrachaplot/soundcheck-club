@@ -1,6 +1,6 @@
 # BOHO
 
-BOHO is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Outline, Mexico City on Wed, 26 Aug 2026.
+BOHO is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Outline, Mexico City on Wed, 26 Aug 2026.
 
 BOHO is a techno and electro artist tracked on soundcheck, with 106 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Rad.Lez, Bianka Banks and Lino Fuso. Next up: Outline, Mexicocity on Wed 26 Aug.
 
@@ -28,4 +28,4 @@ BOHO is a techno and electro artist tracked on soundcheck, with 106 sets logged 
 
 Rad.Lez, Bianka Banks, Lino Fuso
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*

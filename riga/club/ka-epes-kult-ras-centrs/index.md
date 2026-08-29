@@ -1,6 +1,6 @@
 # Kaņepes Kultūras Centrs
 
-Kaņepes Kultūras Centrs is a music venue in Riga with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "DUB&DAL x DISUNDI RIGA - KKC " on Sat, 29 Aug 2026.
+Kaņepes Kultūras Centrs is a music venue in Riga with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DUB&DAL x DISUNDI RIGA - KKC " on Sat, 29 Aug 2026.
 
 Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 5 upcoming nights, with line-ups including Angelo (2), First kiss, Freiya March and GK Machine and 2 more. Browse upcoming dates, start times and who's playing. Skolas iela 15, Riga, Latvia-LV 1010.
 
@@ -18,4 +18,4 @@ Kaņepes Kultūras Centrs is a music venue in Riga listed on soundcheck. 5 upcom
 
 Skolas iela 15, Riga, Latvia-LV 1010, Riga
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/ka-epes-kult-ras-centrs/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/ka-epes-kult-ras-centrs/)*

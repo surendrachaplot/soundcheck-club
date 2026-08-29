@@ -1,6 +1,6 @@
 # matsssiii
 
-matsssiii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
+matsssiii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kauz, Zurich on Sat, 29 Aug 2026.
 
 matsssiii is a house and techno artist based in Norway, tracked on soundcheck, with 23 sets logged across Amsterdam, Basel, Berlin and Leipzig and 2 more. Often billed alongside Lb Honne, boaksi and sjokomelk. Next up: Kauz, Zurich on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ matsssiii is a house and techno artist based in Norway, tracked on soundcheck, w
 
 Lb Honne, boaksi, sjokomelk
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matsssiii/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matsssiii/)*

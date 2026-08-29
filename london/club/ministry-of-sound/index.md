@@ -1,14 +1,13 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 30 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Smoove: Continental GT, Supa D, Crazy Cousinz + more" on Fri, 28 Aug 2026.
+Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Trance Sanctuary Courtyard Party" on Sat, 29 Aug 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Smoove: Continental GT, Supa D, Crazy Cousinz + more | Continental GT, Crazy Cousinz, Daddy Chulo, Donch, Emz (MC), Pioneer, Rampage, Supa D, mastaque |
 | Sat, 29 Aug 2026 | Trance Sanctuary Courtyard Party | Mark Landragin |
 | Sun, 30 Aug 2026 | Tribal Life - Carnival After Party |  |
 | Mon, 31 Aug 2026 | Ministry Of Sound, Official Carnival After Party 2026 | Dj Cash Only, Ned Spencer, Oneman, Shenin Amara, mddiction |
@@ -18,9 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 30 upcoming n
 | Tue, 8 Sept 2026 | Milkshake, Ministry Of Sound - London's Biggest Student Night |  |
 | Fri, 11 Sept 2026 | BLINK: DJEFF, BREYTH, HVMZA + MORE | DJEFF |
 | Sat, 12 Sept 2026 | Audiowhore | Alex Mills, B2B The Movement, Brian Smith, CHLO (UK), Carnao Beats, Colin Francis, JAYDAA, Shenin Amara, Steven Cee |
+| Sun, 13 Sept 2026 | The Freshers Moving In House Party |  |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

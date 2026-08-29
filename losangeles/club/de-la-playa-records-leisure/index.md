@@ -1,6 +1,6 @@
 # De La Playa Records & Leisure
 
-De La Playa Records & Leisure is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 28 Aug 2026; the next is "★ RARE CANDY ★ JANET + DREAM CREASE + JARED MATTSON + COOKIE. + Lastword + Bobbyy" on Sat, 29 Aug 2026.
+De La Playa Records & Leisure is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "★ RARE CANDY ★ JANET + DREAM CREASE + JARED MATTSON + COOKIE. + Lastword + Bobbyy" on Sat, 29 Aug 2026.
 
 De La Playa Records & Leisure is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Bobbyy and Lastword. Browse upcoming dates, start times and who's playing. 110 S Ave 56, Los Angeles, California 90042.
 
@@ -14,4 +14,4 @@ De La Playa Records & Leisure is a music venue in Losangeles listed on soundchec
 
 110 S Ave 56, Los Angeles, California 90042, Los Angeles
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/de-la-playa-records-leisure/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/de-la-playa-records-leisure/)*

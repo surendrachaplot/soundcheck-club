@@ -1,14 +1,13 @@
 # A38
 
-A38 is a music venue in Budapest with 9 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Friday / Drum Club" on Fri, 28 Aug 2026.
+A38 is a music venue in Budapest with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Fine Selection #220 w/Electric Boutique, EMILS, Switch Nollie" on Thu, 3 Sept 2026.
 
-A38 is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with line-ups including Dual DeStress, Electric Boutique, EMILS and Lost in Details and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
+A38 is a music venue in Budapest listed on soundcheck. 8 upcoming nights, with line-ups including Dual DeStress, Electric Boutique, EMILS and Lost in Details and 2 more. Browse upcoming dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Friday / Drum Club |  |
 | Thu, 3 Sept 2026 | Fine Selection #220 w/Electric Boutique, EMILS, Switch Nollie | EMILS, Electric Boutique, Switch Nollie |
 | Fri, 4 Sept 2026 | Liquid Night: Summer Closing with T78 | Dual DeStress, T78 |
 | Thu, 10 Sept 2026 | Fine Selection #221 w/House On Fire | Electric Boutique, Wilkes |
@@ -22,4 +21,4 @@ A38 is a music venue in Budapest listed on soundcheck. 9 upcoming nights, with l
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

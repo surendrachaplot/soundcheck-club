@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Jamback is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist tracked on soundcheck, with 180 sets lo
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

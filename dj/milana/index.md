@@ -1,6 +1,6 @@
 # MILANA
 
-MILANA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+MILANA is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 MILANA is a techno and bass artist based in United States of America, tracked on soundcheck, with 46 sets logged across Losangeles and Sanfrancisco. Often billed alongside 9-System, Just Another Bitch and Adra. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ MILANA is a techno and bass artist based in United States of America, tracked on
 
 9-System, Just Another Bitch, Adra
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milana/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milana/)*

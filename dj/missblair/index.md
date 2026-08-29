@@ -1,6 +1,6 @@
 # Miss Blair
 
-Miss Blair is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 30 Aug 2026.
+Miss Blair is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paradise Grapevine Winery, Toronto on Sun, 30 Aug 2026.
 
 Miss Blair is a house and techno artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Sabal Matter, Support Group and A.J. Matos. Next up: Paradise Grapevine Winery, Toronto on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Miss Blair is a house and techno artist tracked on soundcheck, with 9 sets logge
 
 Sabal Matter, Support Group, A.J. Matos
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missblair/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missblair/)*

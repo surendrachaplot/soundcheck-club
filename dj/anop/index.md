@@ -1,6 +1,6 @@
 # Anop
 
-Anop is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at renae, Manchester on Sat, 19 Sept 2026.
+Anop is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at renae, Manchester on Sat, 19 Sept 2026.
 
 Anop is a trance and club artist tracked on soundcheck, with 44 sets logged across Edinburgh, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, ASHTYLR and Akamwave. Next up: renae, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Anop is a trance and club artist tracked on soundcheck, with 44 sets logged acro
 
 Princess Elf Bar, ASHTYLR, Akamwave
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*

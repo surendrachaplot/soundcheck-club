@@ -1,6 +1,6 @@
 # ODJ (1)
 
-ODJ (1) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
+ODJ (1) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Crate Brewery, London on Sat, 29 Aug 2026.
 
 ODJ (1) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Millian, THEO (5) and Armând. Next up: Crate Brewery, London on Sat 29 Aug.
 
@@ -24,4 +24,4 @@ ODJ (1) is a house and tech house artist based in United Kingdom, tracked on sou
 
 Millian, THEO (5), Armând
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odj-1/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odj-1/)*

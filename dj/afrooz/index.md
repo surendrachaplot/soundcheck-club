@@ -1,6 +1,6 @@
 # Afrooz
 
-Afrooz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
+Afrooz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Vancouver on Fri, 2 Oct 2026.
 
 Afrooz is a techno and house artist based in Canada, tracked on soundcheck, with 33 sets logged across Toronto and Vancouver. Often billed alongside AWood, Fisher Bryce and Andre Rose. Next up: TBA, Vancouver on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Afrooz is a techno and house artist based in Canada, tracked on soundcheck, with
 
 AWood, Fisher Bryce, Andre Rose
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrooz/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afrooz/)*

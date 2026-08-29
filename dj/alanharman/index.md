@@ -1,6 +1,6 @@
 # Alan Harman
 
-Alan Harman is a Techno and New Wave artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Alan Harman is a Techno and New Wave artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Alan Harman is a techno and new wave artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal and Toronto. Often billed alongside M Salaciak, Con Secuencias and El Ángel Exterminador. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -22,4 +22,4 @@ Alan Harman is a techno and new wave artist based in Canada, tracked on soundche
 
 M Salaciak, Con Secuencias, El Ángel Exterminador
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanharman/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanharman/)*

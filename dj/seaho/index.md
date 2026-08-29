@@ -1,6 +1,6 @@
 # Sea Ho
 
-Sea Ho is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at M.O.T, London on Sat, 3 Oct 2026.
+Sea Ho is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
 Sea Ho is a techno and electro artist based in Taiwan, tracked on soundcheck, with 5 sets logged across London and Milan. Often billed alongside Mattia Fois, Panik Attak and AANO. Next up: M.O.T, London on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ Sea Ho is a techno and electro artist based in Taiwan, tracked on soundcheck, wi
 
 Mattia Fois, Panik Attak, AANO
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seaho/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seaho/)*

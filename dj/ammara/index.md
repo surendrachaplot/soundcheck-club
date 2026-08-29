@@ -1,6 +1,6 @@
 # AMMARA
 
-AMMARA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
+AMMARA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Telegraph Building, Belfast on Sat, 29 Aug 2026.
 
 AMMARA is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: The Telegraph Building, Belfast on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ AMMARA is a techno and house artist tracked on soundcheck, with 59 sets logged a
 
 Ben Hemsley, Danny Howard, Andhim
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*

@@ -1,6 +1,6 @@
 # Kiqo
 
-Kiqo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Atno, Budapest on Sat, 29 Aug 2026.
+Kiqo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Atno, Budapest on Sat, 29 Aug 2026.
 
 Kiqo is a house and techno artist based in Hungary, tracked on soundcheck, with 75 sets logged across Budapest and Madrid. Often billed alongside Meduzah, baeker and klpflrtpr. Next up: Atno, Budapest on Sat 29 Aug.
 
@@ -27,4 +27,4 @@ Kiqo is a house and techno artist based in Hungary, tracked on soundcheck, with 
 
 Meduzah, baeker, klpflrtpr
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiqo/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiqo/)*

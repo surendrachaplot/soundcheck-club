@@ -1,14 +1,13 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 28 Aug 2026.
+Paranoid London is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Shorts Sports & Recreation Club, Belfast on Sat, 29 Aug 2026.
 
-Paranoid London is a techno and acid artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Golden Pudel Club, Hamburg on Fri 28 Aug.
+Paranoid London is a techno and acid artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Shorts Sports & Recreation Club, Belfast on Sat 29 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Golden Pudel Club | Hamburg |
 | Sat, 29 Aug 2026 | Shorts Sports & Recreation Club | Belfast |
 | Fri, 4 Sept 2026 | Sub Club | Glasgow |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
@@ -17,6 +16,7 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 120 sets
 
 ## Recently played
 
+- Golden Pudel Club, Hamburg — Fri, 28 Aug 2026
 - KOKO, London — Sat, 25 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
 - Mia Mao, Paris — Sat, 27 Jun 2026
@@ -24,10 +24,9 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 120 sets
 - The Cause, London — Sat, 6 Jun 2026
 - Circle Park, Brussels — Sat, 23 May 2026
 - Peckham Rye Park, London — Fri, 22 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
 
 ## Shares bills with
 
 Palms Trax, Elena Colombi, FJAAK
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

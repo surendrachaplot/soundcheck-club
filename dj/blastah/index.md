@@ -1,6 +1,6 @@
 # blastah
 
-blastah is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Casa Capitão, Lisbon on Sat, 29 Aug 2026.
+blastah is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Casa Capitão, Lisbon on Sat, 29 Aug 2026.
 
 blastah is an experimental and club artist based in Portugal, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Eleftheria, Chickenmilk dot com and Madjestic Kasual. Next up: Casa Capitão, Lisbon on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ blastah is an experimental and club artist based in Portugal, tracked on soundch
 
 Eleftheria, Chickenmilk dot com, Madjestic Kasual
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blastah/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blastah/)*

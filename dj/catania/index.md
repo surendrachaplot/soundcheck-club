@@ -1,6 +1,6 @@
 # Catania
 
-Catania is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Doggy Klœb, Malaga on Fri, 18 Sept 2026.
+Catania is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Doggy Klœb, Malaga on Fri, 18 Sept 2026.
 
 Catania is a progressive house and electro artist tracked on soundcheck, with 10 sets logged across Berlin, Leeds, London and Madrid and 2 more. Often billed alongside Cavilla, Roya Brehl and Chris Kitchen. Next up: Doggy Klœb, Malaga on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Catania is a progressive house and electro artist tracked on soundcheck, with 10
 
 Cavilla, Roya Brehl, Chris Kitchen
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catania/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catania/)*

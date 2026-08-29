@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
+MAXImum is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ankali & Planeta Za, Prague on Sat, 29 Aug 2026.
 
 MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, with 13 sets logged across Athens, Dublin, Ibiza and Manchester and 1 more. Often billed alongside Mother Menace, Troy Violens and olesia. Next up: Ankali & Planeta Za, Prague on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ MAXImum is a techno and trance artist based in Greece, tracked on soundcheck, wi
 
 Mother Menace, Troy Violens, olesia
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

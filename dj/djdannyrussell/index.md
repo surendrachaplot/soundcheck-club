@@ -1,6 +1,6 @@
 # Danny Russell
 
-Danny Russell is a Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Danny Russell is a Disco and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
 Danny Russell is a disco and electro artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Dj Malloy, Brian Ring and DJ himself. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ Danny Russell is a disco and electro artist based in United Kingdom, tracked on 
 
 Dj Malloy, Brian Ring, DJ himself
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdannyrussell/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdannyrussell/)*

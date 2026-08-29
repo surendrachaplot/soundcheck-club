@@ -1,14 +1,13 @@
 # DJ Nori
 
-DJ Nori is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at DJ Bar Bridge, Tokyo on Fri, 28 Aug 2026.
+DJ Nori is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at DJ Bar Bridge, Tokyo on Fri, 4 Sept 2026.
 
-DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 302 sets logged across London, Osaka, Paris and Tokyo. Often billed alongside Muro, Toshiyuki Goto and DJ246. Next up: DJ Bar Bridge, Tokyo on Fri 28 Aug.
+DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 302 sets logged across London, Osaka, Paris and Tokyo. Often billed alongside Muro, Toshiyuki Goto and DJ246. Next up: DJ Bar Bridge, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 4 Sept 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 11 Sept 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 18 Sept 2026 | DJ Bar Bridge | Tokyo |
@@ -23,6 +22,7 @@ DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
+- DJ Bar Bridge, Tokyo — Fri, 28 Aug 2026
 - DJ Bar Bridge Shinjuku, Tokyo — Tue, 25 Aug 2026
 - DJ Bar Bridge, Tokyo — Fri, 14 Aug 2026
 - DJ Bar Bridge, Tokyo — Fri, 7 Aug 2026
@@ -30,10 +30,9 @@ DJ Nori is a house and disco artist based in Japan, tracked on soundcheck, with 
 - DJ Bar Bridge, Tokyo — Fri, 24 Jul 2026
 - DJ Bar Bridge Shinjuku, Tokyo — Sun, 19 Jul 2026
 - DJ Bar Bridge, Tokyo — Fri, 17 Jul 2026
-- DJ Bar Bridge, Tokyo — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Muro, Toshiyuki Goto, DJ246
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnori/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnori/)*

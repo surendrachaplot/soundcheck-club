@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Sidney Charles is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Sidney Charles is a house and tech house artist tracked on soundcheck, with 214 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -36,4 +36,4 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 214 
 
 Prunk, ALISHA, L.P. Rhythm
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

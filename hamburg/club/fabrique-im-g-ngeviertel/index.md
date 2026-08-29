@@ -1,6 +1,6 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Ecstatic Techno Dance" on Thu, 10 Sept 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Ecstatic Techno Dance" on Thu, 10 Sept 2026.
 
 Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Coco (2), Cornyjava, EXPLICIT and Fab Massimo and 2 more. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 3 up
 
 Valentinskamp 34A, 20355 Hamburg, Germany, Hamburg
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*

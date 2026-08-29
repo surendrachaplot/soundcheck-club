@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Ma soeur, j'ai raté le terminus " on Fri, 28 Aug 2026.
+La Station - Gare des Mines is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sous Tes Reins" on Sat, 29 Aug 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including A-440, Albal, Aubry and cfds and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Albal, cfds, Cici That Walk and Corbeille Dallas and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Ma soeur, j'ai raté le terminus  | A-440, Aubry, RAG |
 | Sat, 29 Aug 2026 | Sous Tes Reins | Corbeille Dallas, De Vedelly, Fatima Koanda, Stella K |
 | Sun, 30 Aug 2026 | Aïe soutient La Station | Mars O10C, Nicol |
 | Fri, 4 Sept 2026 | LA CREOLE À LA STATION #7 — ULTIMATE PARTY | Krampf, Missy Da Kunt |
@@ -18,9 +17,10 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 18 u
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
+| Sat, 12 Sept 2026 | Tech Noire feat. B1980 ⎮ La der' à la Stass | law and haktion |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

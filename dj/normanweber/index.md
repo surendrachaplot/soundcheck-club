@@ -1,6 +1,6 @@
 # Norman Weber
 
-Norman Weber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
+Norman Weber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
 
 Norman Weber is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Frankie Flowerz, Sisyphos and Britta Arnold. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 29 Aug.
 
@@ -26,4 +26,4 @@ Norman Weber is a house and techno artist tracked on soundcheck, with 58 sets lo
 
 Frankie Flowerz, Sisyphos, Britta Arnold
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/normanweber/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/normanweber/)*

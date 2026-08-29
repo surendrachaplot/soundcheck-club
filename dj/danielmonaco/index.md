@@ -1,6 +1,6 @@
 # Daniel Monaco
 
-Daniel Monaco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
+Daniel Monaco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
 
 Daniel Monaco is a disco and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 16 more. Often billed alongside Max NRG Supply, Jason K (IT) and Alden Tyrell. Next up: Noorderlicht Café, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Daniel Monaco is a disco and house artist tracked on soundcheck, with 51 sets lo
 
 Max NRG Supply, Jason K (IT), Alden Tyrell
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*

@@ -1,6 +1,6 @@
 # Crate Brewery
 
-Crate Brewery is a music venue in London with 5 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Origins x Crate Day Rave On The Canal: House Techno Trance" on Sat, 29 Aug 2026.
+Crate Brewery is a music venue in London with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Origins x Crate Day Rave On The Canal: House Techno Trance" on Sat, 29 Aug 2026.
 
 Crate Brewery is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Alec Falconer, Armând, Checketts and Jamie Bloomfield and 2 more. Browse upcoming dates, start times and who's playing. Unit 7; Queens Yard; Hackney Wick; London E9 5EN.
 
@@ -18,4 +18,4 @@ Crate Brewery is a music venue in London listed on soundcheck. 5 upcoming nights
 
 Unit 7; Queens Yard; Hackney Wick; London E9 5EN, London
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/crate-brewery/)*

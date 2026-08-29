@@ -1,6 +1,6 @@
 # Harald Uunk
 
-Harald Uunk is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Fitzroy, Berlin on Thu, 24 Sept 2026.
+Harald Uunk is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fitzroy, Berlin on Thu, 24 Sept 2026.
 
 Harald Uunk is a techno and ambient artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Copenhagen and Ghent and 4 more. Often billed alongside Woody92, Loek Frey and Remma. Next up: Fitzroy, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Harald Uunk is a techno and ambient artist tracked on soundcheck, with 26 sets l
 
 Woody92, Loek Frey, Remma
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haralduunk/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/haralduunk/)*

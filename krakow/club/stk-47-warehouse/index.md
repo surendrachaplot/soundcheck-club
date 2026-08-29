@@ -1,14 +1,13 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Wulkan (secret lineup)" on Fri, 28 Aug 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "PROPER ACID TECHNO RAVE w\ Eddie Santini" on Sat, 29 Aug 2026.
 
-STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming nights, with line-ups including 7CIRCLE, A.C., DJ Ricky and Eddie Santini and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
+STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 6 upcoming nights, with line-ups including 7CIRCLE, A.C., DJ Ricky and Eddie Santini and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Wulkan (secret lineup) |  |
 | Sat, 29 Aug 2026 | PROPER ACID TECHNO RAVE w\ Eddie Santini | A.C., Eddie Santini, Grymek |
 | Sat, 5 Sept 2026 | KRAKÓW W TRANSIE STK47 WAREHOUSE RAVE | Mikouaj Rejw / Wixapol S.A., TORRENTZ, Wixapol |
 | Fri, 11 Sept 2026 | XTN2D: 7CIRCLE / Keepsakes / Violent / ZHENYA | 7CIRCLE, Keepsakes, Violent |
@@ -20,4 +19,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 7 upcoming nig
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

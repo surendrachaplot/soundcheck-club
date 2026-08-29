@@ -1,6 +1,6 @@
 # Giiovaaz
 
-Giiovaaz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+Giiovaaz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 Giiovaaz is a techno and club artist tracked on soundcheck, with 6 sets logged across Barcelona, Berlin, Madrid and Mexicocity and 1 more. Often billed alongside Elena Barker, Ligrye and 0megavybe. Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -23,4 +23,4 @@ Giiovaaz is a techno and club artist tracked on soundcheck, with 6 sets logged a
 
 Elena Barker, Ligrye, 0megavybe
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giiovaaz/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giiovaaz/)*

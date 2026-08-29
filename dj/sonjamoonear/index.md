@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
+Sonja Moonear is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lofi, Amsterdam on Sat, 29 Aug 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Lofi, Amsterdam on Sat 29 Aug.
 
@@ -33,4 +33,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 189 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

@@ -1,6 +1,6 @@
 # Ali Love
 
-Ali Love is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Ironworks, London on Sat, 3 Oct 2026.
+Ali Love is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ironworks, London on Sat, 3 Oct 2026.
 
 Ali Love is a house and tech house artist tracked on soundcheck, with 15 sets logged across Ibiza, Lisbon, Liverpool and London and 1 more. Often billed alongside Sammy Porter, Andrea Fiorito and Kalabrese. Next up: Ironworks, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ali Love is a house and tech house artist tracked on soundcheck, with 15 sets lo
 
 Sammy Porter, Andrea Fiorito, Kalabrese
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alilove/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alilove/)*

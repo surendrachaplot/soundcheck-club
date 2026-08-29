@@ -1,6 +1,6 @@
 # Cosmodan
 
-Cosmodan is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - Montagne Verte, Strasbourg on Sun, 30 Aug 2026.
+Cosmodan is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Montagne Verte, Strasbourg on Sun, 30 Aug 2026.
 
 Cosmodan is an electro and club artist tracked on soundcheck, with 30 sets logged across Belgrade, Prague and Strasbourg. Often billed alongside Leoht, Olga Zhaldak and Høll. Next up: TBA - Montagne Verte, Strasbourg on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Cosmodan is an electro and club artist tracked on soundcheck, with 30 sets logge
 
 Leoht, Olga Zhaldak, Høll
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmodan/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmodan/)*

@@ -1,6 +1,6 @@
 # Marysia Osu
 
-Marysia Osu is a Jazz and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Sauna Social Club, London on Mon, 31 Aug 2026.
+Marysia Osu is a Jazz and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sauna Social Club, London on Mon, 31 Aug 2026.
 
 Marysia Osu is a jazz and garage artist tracked on soundcheck, with 16 sets logged across Berlin, Brussels, London and Sheffield. Often billed alongside Anja Ngozi, Laraaji and Marla Kether. Next up: Sauna Social Club, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Marysia Osu is a jazz and garage artist tracked on soundcheck, with 16 sets logg
 
 Anja Ngozi, Laraaji, Marla Kether
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marysiaosu/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marysiaosu/)*

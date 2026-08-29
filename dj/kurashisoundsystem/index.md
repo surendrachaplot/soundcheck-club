@@ -1,6 +1,6 @@
 # Kurashi Soundsystem
 
-Kurashi Soundsystem is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
+Kurashi Soundsystem is a House and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
 
 Kurashi Soundsystem is a house and baile funk artist based in Curacao, tracked on soundcheck, with 37 sets logged across Amsterdam, London, Madrid and Rotterdam and 1 more. Often billed alongside Tida Kamara, NIVEK and Styn. Next up: CLUB RAUM, Amsterdam on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kurashi Soundsystem is a house and baile funk artist based in Curacao, tracked o
 
 Tida Kamara, NIVEK, Styn
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurashisoundsystem/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kurashisoundsystem/)*

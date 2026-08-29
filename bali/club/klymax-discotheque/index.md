@@ -1,14 +1,13 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 7 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Toy Tonics Jam, Gero" on Fri, 28 Aug 2026.
+Klymax Discotheque is a music venue in Bali with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Danny, Mislav" on Sat, 29 Aug 2026.
 
-Klymax Discotheque is a music venue in Bali listed on soundcheck. 7 upcoming nights, with line-ups including Archie Dennis, Arshanitsa, Bagvs and Danny and 2 more. Browse upcoming dates, start times and who's playing.
+Klymax Discotheque is a music venue in Bali listed on soundcheck. 6 upcoming nights, with line-ups including Archie Dennis, Arshanitsa, Bagvs and Danny and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Toy Tonics Jam, Gero |  |
 | Sat, 29 Aug 2026 | Danny, Mislav | Danny |
 | Fri, 4 Sept 2026 | Panterov, Arshanitsa, Dea | Arshanitsa |
 | Fri, 11 Sept 2026 | Marco Weibel, Dita, Yoyo | DITA (ID), Marco Weibel |
@@ -16,4 +15,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 7 upcoming nig
 | Fri, 25 Sept 2026 | Ron Trent | Ron Trent |
 | Sat, 26 Sept 2026 | Ogazón, Archie, Bagvs | Archie Dennis, Bagvs, Ogazón |
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

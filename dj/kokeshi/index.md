@@ -1,6 +1,6 @@
 # Kokeshi
 
-Kokeshi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Tapada da Ajuda, Lisbon on Sun, 30 Aug 2026.
+Kokeshi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tapada da Ajuda, Lisbon on Sun, 30 Aug 2026.
 
 Kokeshi is a techno and house artist tracked on soundcheck, with 99 sets logged across Lisbon, London, Munich and Porto and 1 more. Often billed alongside John-E, Kaesar and Bernardo Vaz. Next up: Tapada da Ajuda, Lisbon on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Kokeshi is a techno and house artist tracked on soundcheck, with 99 sets logged 
 
 John-E, Kaesar, Bernardo Vaz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokeshi/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kokeshi/)*

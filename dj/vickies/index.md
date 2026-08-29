@@ -1,6 +1,6 @@
 # Vickies
 
-Vickies is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 29 Aug 2026.
+Vickies is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 29 Aug 2026.
 
 Vickies is a house and techno artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Lyon and Paris. Often billed alongside Sainte Exp, C.L.E.O 2.5.A.7 and Lucia Loot. Next up: Cabaret Sauvage, Paris on Sat 29 Aug.
 
@@ -28,4 +28,4 @@ Vickies is a house and techno artist based in France, tracked on soundcheck, wit
 
 Sainte Exp, C.L.E.O 2.5.A.7, Lucia Loot
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vickies/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vickies/)*

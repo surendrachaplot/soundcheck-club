@@ -1,6 +1,6 @@
 # Cruveiller
 
-Cruveiller is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at The Yard, Manchester on Sat, 7 Nov 2026.
+Cruveiller is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Yard, Manchester on Sat, 7 Nov 2026.
 
 Cruveiller is an electro and techno artist tracked on soundcheck, with 8 sets logged across Manchester. Often billed alongside Alex Q (3), ADNR and Vass. Next up: The Yard, Manchester on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Cruveiller is an electro and techno artist tracked on soundcheck, with 8 sets lo
 
 Alex Q (3), ADNR, Vass
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruveiller/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruveiller/)*

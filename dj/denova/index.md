@@ -1,6 +1,6 @@
 # DENOVA
 
-DENOVA is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
+DENOVA is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
 
 DENOVA is a hardcore and house artist based in Latvia, tracked on soundcheck, with 4 sets logged across Riga. Often billed alongside MVKO, XSYNC19 and oshigakill. Next up: Teritorija, Riga on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ DENOVA is a hardcore and house artist based in Latvia, tracked on soundcheck, wi
 
 MVKO, XSYNC19, oshigakill
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denova/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/denova/)*

@@ -1,6 +1,6 @@
 # Zlatnik
 
-Zlatnik is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 29 Aug 2026.
+Zlatnik is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Pontoon Budapest, Budapest on Sat, 29 Aug 2026.
 
 Zlatnik is a tech house and house artist tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside Chris Luno and Daniel Moritz. Next up: Pontoon Budapest, Budapest on Sat 29 Aug.
 
@@ -22,4 +22,4 @@ Zlatnik is a tech house and house artist tracked on soundcheck, with 6 sets logg
 
 Chris Luno, Daniel Moritz
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zlatnik/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zlatnik/)*

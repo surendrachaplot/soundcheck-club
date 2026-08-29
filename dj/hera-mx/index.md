@@ -1,6 +1,6 @@
 # HERA (MX)
 
-HERA (MX) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 28 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
+HERA (MX) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - 1201 FRANKLIN ST, Vancouver on Sat, 29 Aug 2026.
 
 HERA (MX) is a house and techno artist tracked on soundcheck, with 12 sets logged across Vancouver. Often billed alongside Beiti, Galen Allan and Njoki Njoki. Next up: TBA - 1201 FRANKLIN ST, Vancouver on Sat 29 Aug.
 
@@ -25,4 +25,4 @@ HERA (MX) is a house and techno artist tracked on soundcheck, with 12 sets logge
 
 Beiti, Galen Allan, Njoki Njoki
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hera-mx/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hera-mx/)*

@@ -1,14 +1,13 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 11 upcoming nights listed on soundcheck as of Fri, 28 Aug 2026; the next is "Nantes Rave Techno XXL with Nikolina, 25EMEHEURE, Medusa" on Fri, 28 Aug 2026.
+Warehouse is a music venue in Nantes with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes" on Fri, 4 Sept 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming nights, with line-ups including 25EMEHEURE, Bellaire, Bob Sinclar and Corentin Mab and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, with line-ups including Bellaire, Bob Sinclar, Corentin Mab and Dan Bono and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Nantes Rave Techno XXL with Nikolina, 25EMEHEURE, Medusa | 25EMEHEURE, NIKOLINA_ |
 | Fri, 4 Sept 2026 | Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes | EVN (2), Lekkerfaces, Ophidian |
 | Sat, 26 Sept 2026 | Club de Jour invite GUTS |  |
 | Fri, 2 Oct 2026 | Warehouse 9 ans avec Bob Sinclar | Bob Sinclar, Corentin Mab, Dan Bono, Quentin Schneider |
@@ -18,9 +17,10 @@ Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming nights, w
 | Sat, 17 Oct 2026 | Club de Jour invite KÖLSCH | Kolsch |
 | Wed, 28 Oct 2026 | Deep Forest en concert à Nantes | Deep Forest |
 | Sat, 7 Nov 2026 | Club de Jour invite Bellaire & Dimitri From Paris | Bellaire, Corentin Mab, Dan Bono, Dimitri From Paris |
+| Fri, 20 Nov 2026 | ORGANÏK with Jazzy, Yoshiko, Todiefor | HIBI, Todiefor, Yoshiko |
 
 ## Address
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

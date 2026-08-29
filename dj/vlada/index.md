@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
+Vlada is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Sonnenraum, Berlin on Sun, 30 Aug 2026.
 
 Vlada is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Max Vaahs. Next up: Sonnenraum, Berlin on Sun 30 Aug.
 
@@ -32,4 +32,4 @@ Vlada is a techno and house artist tracked on soundcheck, with 193 sets logged a
 
 Vaahzer, Konduku, Max Vaahs
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

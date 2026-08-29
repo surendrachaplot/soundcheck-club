@@ -1,18 +1,18 @@
 # OneThabs
 
-OneThabs is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 28 Aug 2026, next at fabric, London on Fri, 28 Aug 2026.
+OneThabs is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 93 Feet East, London on Sun, 13 Sept 2026.
 
-OneThabs is an afro house and afro tech artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside INTUIT, Duo and European 305. Next up: fabric, London on Fri 28 Aug.
+OneThabs is an afro house and afro tech artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside INTUIT, Duo and European 305. Next up: 93 Feet East, London on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | fabric | London |
 | Sun, 13 Sept 2026 | 93 Feet East | London |
 
 ## Recently played
 
+- fabric, London — Fri, 28 Aug 2026
 - Setlist @ Somerset House, London — Sat, 8 Aug 2026
 - E1, London — Sat, 18 Jul 2026
 - Theata, London — Fri, 5 Jun 2026
@@ -20,10 +20,9 @@ OneThabs is an afro house and afro tech artist tracked on soundcheck, with 10 se
 - Village Underground, London — Fri, 23 Jan 2026
 - Onyx (E1), London — Fri, 14 Nov 2025
 - TBA -  SE1 1UN - MiraFlores, London — Sat, 14 Jun 2025
-- Brix LDN, London — Fri, 15 Nov 2024
 
 ## Shares bills with
 
 INTUIT, Duo, European 305
 
-*Updated Fri, 28 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onethabs/)*
+*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onethabs/)*
