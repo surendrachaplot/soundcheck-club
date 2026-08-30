@@ -1,6 +1,6 @@
 # ZENA
 
-ZENA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at K39, Frankfurt on Sat, 19 Sept 2026.
+ZENA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at K39, Frankfurt on Sat, 19 Sept 2026.
 
 ZENA is a techno and hardcore artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Rivako, OLIV and 2fox. Next up: K39, Frankfurt on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ZENA is a techno and hardcore artist tracked on soundcheck, with 13 sets logged 
 
 Rivako, OLIV, 2fox
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zena/)*

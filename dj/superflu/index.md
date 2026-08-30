@@ -1,6 +1,6 @@
 # Super Flu
 
-Super Flu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Super Flu is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
 
 Super Flu is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
 
@@ -29,4 +29,4 @@ Super Flu is a techno and house artist tracked on soundcheck, with 111 sets logg
 
 Prismode, Solvane, Markus Klee
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superflu/)*

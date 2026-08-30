@@ -1,6 +1,6 @@
 # Ole Olsen
 
-Ole Olsen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Ole Olsen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Ole Olsen is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside ple:xy, Gwen Wayne and Leon Licht. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ole Olsen is a techno and house artist tracked on soundcheck, with 11 sets logge
 
 ple:xy, Gwen Wayne, Leon Licht
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oleolsen/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oleolsen/)*

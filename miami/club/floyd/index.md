@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 18 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "nocapz + Jay Crusoe" on Sat, 29 Aug 2026.
+Floyd is a music venue in Miami with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Ciao Dany!: Alci" on Sun, 30 Aug 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 18 upcoming nights, with line-ups including Alci, Bakke, Ben UFO and Bort and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 17 upcoming nights, with line-ups including Alci, Bakke, Ben UFO and Bort and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | nocapz + Jay Crusoe | Nicole Gallamini, nocapz. |
 | Sun, 30 Aug 2026 | Ciao Dany!: Alci | Alci, Bort, Danyelino, serafitz |
 | Fri, 4 Sept 2026 | DXNBY | DXNBY, RAJE |
 | Sat, 5 Sept 2026 | Indo Warehouse | Harji |
@@ -18,9 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 18 upcoming nights, with l
 | Sun, 13 Sept 2026 | Elvis Guetta | SIEGEL (2) |
 | Fri, 18 Sept 2026 | Bak2DFuture: Gene On Earth + Momo Trosman | Bakke, Gene On Earth, Momo Trosman, demenz |
 | Sat, 19 Sept 2026 | Eli Escobar | Eli Escobar, Sister System, Will Buck |
+| Sun, 20 Sept 2026 | Robbie Doherty | Ms. Mada, Robbie Doherty |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

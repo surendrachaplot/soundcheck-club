@@ -1,6 +1,6 @@
 # Pete Spara
 
-Pete Spara is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Listening Room, London on Tue, 1 Sept 2026.
+Pete Spara is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Listening Room, London on Tue, 1 Sept 2026.
 
 Pete Spara is an ambient and house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside DJ Himitsu, soo:k and Alfaz. Next up: The Listening Room, London on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Pete Spara is an ambient and house artist tracked on soundcheck, with 11 sets lo
 
 DJ Himitsu, soo:k, Alfaz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petespara/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petespara/)*

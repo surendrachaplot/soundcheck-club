@@ -1,6 +1,6 @@
 # RORO
 
-RORO is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mercato Metropolitano, London on Sat, 19 Sept 2026.
+RORO is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mercato Metropolitano, London on Sat, 19 Sept 2026.
 
 RORO is a house and deep house artist based in Turkey, tracked on soundcheck, with 11 sets logged across Amsterdam and London. Often billed alongside Adam Romo, Marcos Loveday and JaeS. Next up: Mercato Metropolitano, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RORO is a house and deep house artist based in Turkey, tracked on soundcheck, wi
 
 Adam Romo, Marcos Loveday, JaeS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roro/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roro/)*

@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 18 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Doka Studio with Moody Mehran - Kyra Khaldi" on Fri, 4 Sept 2026.
+Doka is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Doka Studio with Moody Mehran - Kyra Khaldi" on Fri, 4 Sept 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 18 upcoming nights, wit
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

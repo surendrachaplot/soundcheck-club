@@ -1,6 +1,6 @@
 # Athens Conservatoire - Ωδείον Αθηνών
 
-Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "EDEN presents HAAi b2b Romy" on Sun, 25 Oct 2026.
+Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "EDEN presents HAAi b2b Romy" on Sun, 25 Oct 2026.
 
 Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Grace Dahl, HAAi, jayjayGR and Nicole Moudaber and 2 more. Browse upcoming dates, start times and who's playing. Vasileos Georgiou B 17-19, Athens 10675.
 
@@ -15,4 +15,4 @@ Athens Conservatoire - Ωδείον Αθηνών is a music venue in Athens list
 
 Vasileos Georgiou B 17-19, Athens 10675, Athens
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/athens-conservatoire/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/athens/club/athens-conservatoire/)*

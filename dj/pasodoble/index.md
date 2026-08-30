@@ -1,6 +1,6 @@
 # Paso Doble
 
-Paso Doble is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at StereoBar, Montreal on Sun, 30 Aug 2026.
+Paso Doble is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at StereoBar, Montreal on Sun, 30 Aug 2026.
 
 Paso Doble is a house and deep house artist based in Canada, tracked on soundcheck, with 18 sets logged across Geneva, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside Jay Fase, AJNA and Acid Pauli. Next up: StereoBar, Montreal on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Paso Doble is a house and deep house artist based in Canada, tracked on soundche
 
 Jay Fase, AJNA, Acid Pauli
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*

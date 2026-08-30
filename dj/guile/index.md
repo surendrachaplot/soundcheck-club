@@ -1,6 +1,6 @@
 # Guile
 
-Guile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Avant Garten, Buenos Aires on Fri, 18 Sept 2026.
+Guile is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Avant Garten, Buenos Aires on Fri, 18 Sept 2026.
 
 Guile is a house and electro artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside Manu Oubiña, LUKAS (4) and Edu C. Next up: Avant Garten, Buenosaires on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Guile is a house and electro artist tracked on soundcheck, with 32 sets logged a
 
 Manu Oubiña, LUKAS (4), Edu C
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guile/)*

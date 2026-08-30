@@ -1,6 +1,6 @@
 # Leonce
 
-Leonce is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Knockdown Center, New York City on Sun, 30 Aug 2026.
+Leonce is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Knockdown Center, New York City on Sun, 30 Aug 2026.
 
 Leonce is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Boston and 19 more. Often billed alongside Kilopatrah Jones, ALEXIS DE LA ROSA and Bok Bok. Next up: Knockdown Center, Newyorkcity on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Leonce is a techno and house artist tracked on soundcheck, with 99 sets logged a
 
 Kilopatrah Jones, ALEXIS DE LA ROSA, Bok Bok
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*

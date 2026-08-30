@@ -1,6 +1,6 @@
 # Almost Human (DJ)
 
-Almost Human (DJ) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Almost Human (DJ) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Almost Human (DJ) is a progressive house and techno artist based in India, tracked on soundcheck, with 2 sets logged across Amsterdam and Barcelona. Often billed alongside Cris-H, DJ BORING and Darin Epsilon. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Almost Human (DJ) is a progressive house and techno artist based in India, track
 
 Cris-H, DJ BORING, Darin Epsilon
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almosthumandj/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almosthumandj/)*

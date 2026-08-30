@@ -1,6 +1,6 @@
 # Omar Ahmad
 
-Omar Ahmad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
+Omar Ahmad is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
 
 Omar Ahmad is a techno and house artist tracked on soundcheck, with 29 sets logged across Detroit and Newyorkcity. Often billed alongside Saphe, otodojo and ACE. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Omar Ahmad is a techno and house artist tracked on soundcheck, with 29 sets logg
 
 Saphe, otodojo, ACE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omarahmad/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omarahmad/)*

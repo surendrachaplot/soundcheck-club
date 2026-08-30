@@ -1,6 +1,6 @@
 # Wolves (1)
 
-Wolves (1) is a Jazz and IDM artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+Wolves (1) is a Jazz and IDM artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
 Wolves (1) is a jazz and idm artist based in France, tracked on soundcheck, with 4 sets logged across Strasbourg. Often billed alongside GTK (1), Justine Maze and Lude (2). Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ Wolves (1) is a jazz and idm artist based in France, tracked on soundcheck, with
 
 GTK (1), Justine Maze, Lude (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolves-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolves-1/)*

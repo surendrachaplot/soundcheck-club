@@ -1,6 +1,6 @@
 # Fearless Dread
 
-Fearless Dread is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Stage and Radio, Manchester on Sat, 12 Sept 2026.
+Fearless Dread is a Dubstep and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Stage and Radio, Manchester on Sat, 12 Sept 2026.
 
 Fearless Dread is a dubstep and dub artist tracked on soundcheck, with 14 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside Axle, Nio-B and Truant (UK). Next up: Stage and Radio, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fearless Dread is a dubstep and dub artist tracked on soundcheck, with 14 sets l
 
 Axle, Nio-B, Truant (UK)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fearlessdread/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fearlessdread/)*

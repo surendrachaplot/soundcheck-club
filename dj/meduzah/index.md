@@ -1,6 +1,6 @@
 # Meduzah
 
-Meduzah is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 3 Sept 2026.
+Meduzah is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 3 Sept 2026.
 
 Meduzah is a techno and house artist based in Hungary, tracked on soundcheck, with 74 sets logged across Budapest. Often billed alongside Kiqo, klpflrtpr and Rozalina. Next up: Pontoon Budapest, Budapest on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Meduzah is a techno and house artist based in Hungary, tracked on soundcheck, wi
 
 Kiqo, klpflrtpr, Rozalina
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meduzah/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meduzah/)*

@@ -1,6 +1,6 @@
 # RÓ-ish
 
-RÓ-ish is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Park am Gleisdreieck Open AIR, Berlin on Sun, 30 Aug 2026.
+RÓ-ish is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Park am Gleisdreieck Open AIR, Berlin on Sun, 30 Aug 2026.
 
 RÓ-ish is a bass and hip-hop artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Gościńska, ANDI A. and N ska. Next up: Park am Gleisdreieck Open AIR, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ RÓ-ish is a bass and hip-hop artist tracked on soundcheck, with 13 sets logged 
 
 Gościńska, ANDI A., N ska
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ro-ish/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ro-ish/)*

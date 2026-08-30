@@ -1,6 +1,6 @@
 # Disclosure
 
-Disclosure is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Disclosure is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Disclosure is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside Sammy Virji, DJ Heartstring and Kaytranada. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Disclosure is a house and techno artist based in United Kingdom, tracked on soun
 
 Sammy Virji, DJ Heartstring, Kaytranada
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*

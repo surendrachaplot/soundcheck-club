@@ -1,13 +1,14 @@
 # BT
 
-BT is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ora, Seattle on Sat, 21 Nov 2026.
+BT is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-BT is a trance and progressive house artist tracked on soundcheck, with 5 sets logged across Miami, Munich, Newyorkcity and Osaka and 1 more. Often billed alongside Daxson, Eva and GEBO. Next up: Ora, Seattle on Sat 21 Nov.
+BT is a trance and progressive house artist tracked on soundcheck, with 6 sets logged across Losangeles, Miami, Munich and Newyorkcity and 2 more. Often billed alongside A.N.I., Aaron Hibell and Above & Beyond. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 21 Nov 2026 | Ora | Seattle |
 
 ## Recently played
@@ -19,6 +20,6 @@ BT is a trance and progressive house artist tracked on soundcheck, with 5 sets l
 
 ## Shares bills with
 
-Daxson, Eva, GEBO
+A.N.I., Aaron Hibell, Above & Beyond
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bt/)*

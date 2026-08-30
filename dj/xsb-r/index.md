@@ -1,6 +1,6 @@
 # XSB-R
 
-XSB-R is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
+XSB-R is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
 
 XSB-R is a techno and ebm artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Moment of Terror, Charity Kill and DJ Flesh_Bot. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ XSB-R is a techno and ebm artist based in United States of America, tracked on s
 
 Moment of Terror, Charity Kill, DJ Flesh_Bot
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*

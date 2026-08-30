@@ -1,13 +1,14 @@
 # Arval
 
-Arval is a Minimal and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Doggy Klœb, Malaga on Fri, 25 Sept 2026.
+Arval is a Minimal and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Esbirra Ibiza, Ibiza on Fri, 4 Sept 2026.
 
-Arval is a minimal and electronica artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Moruki, Memed Awad and John Hobbs. Next up: Doggy Klœb, Malaga on Fri 25 Sept.
+Arval is a minimal and electronica artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Moruki, Memed Awad and John Hobbs. Next up: Esbirra Ibiza, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Esbirra Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Doggy Klœb | Malaga |
 
 ## Recently played
@@ -25,4 +26,4 @@ Arval is a minimal and electronica artist tracked on soundcheck, with 30 sets lo
 
 Moruki, Memed Awad, John Hobbs
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*

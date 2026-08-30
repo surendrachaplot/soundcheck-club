@@ -1,6 +1,6 @@
-# Beate Barfuß /// Ghost of Her slaegi Beate Soundsystem *live Narfux at Beate Uwe
+# Beate Barfuß /// Ghost of Her, slaegi, Beate Soundsystem (live), Narfux at Beate Uwe
 
-Beate Barfuß /// Ghost of Her slaegi Beate Soundsystem *live Narfux at Beate Uwe on Sun 20 Sept, Berlin. Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// Ghost of Her, slaegi, Beate Soundsystem (live), Narfux at Beate Uwe on Sun 20 Sept, Berlin. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

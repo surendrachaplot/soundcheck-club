@@ -1,6 +1,6 @@
 # Miruna Ghica
 
-Miruna Ghica is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
+Miruna Ghica is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hidden, Manchester on Sat, 19 Sept 2026.
 
 Miruna Ghica is a house and tech house artist tracked on soundcheck, with 10 sets logged across Barcelona, Birmingham, Bristol and Leeds and 2 more. Often billed alongside Darius Syrossian, Kellie Allen and Dale Hart. Next up: Hidden, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Miruna Ghica is a house and tech house artist tracked on soundcheck, with 10 set
 
 Darius Syrossian, Kellie Allen, Dale Hart
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*

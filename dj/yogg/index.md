@@ -1,6 +1,6 @@
 # Yogg
 
-Yogg is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
+Yogg is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
 
 Yogg is a techno and industrial artist tracked on soundcheck, with 20 sets logged across Antwerp, Athens, Berlin and Brussels and 6 more. Often billed alongside Aaron J, Altinbas and CHIDA. Next up: Fuse, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yogg is a techno and industrial artist tracked on soundcheck, with 20 sets logge
 
 Aaron J, Altinbas, CHIDA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yogg/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yogg/)*

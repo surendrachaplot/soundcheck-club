@@ -1,14 +1,13 @@
 # TivoliVredenburg
 
-TivoliVredenburg is a music venue in Utrecht with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hush with Rooleh, Easttown & More" on Sat, 29 Aug 2026.
+TivoliVredenburg is a music venue in Utrecht with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Black Sun Empire presents: Blackout Rewind" on Fri, 4 Sept 2026.
 
-TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 9 upcoming nights, with line-ups including AAT (NL), Aba Shanti-I, Aho Ssan and Ana Roxanne and 2 more. Browse upcoming dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
+TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 8 upcoming nights, with line-ups including Aba Shanti-I, Aho Ssan, Ana Roxanne and Aphrodite and 2 more. Browse upcoming dates, start times and who's playing. Vredenburgkade 11, 3511 WC, Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Hush with Rooleh, Easttown & More | AAT (NL), Cici Daze, Easttown, Rooléh |
 | Fri, 4 Sept 2026 | Black Sun Empire presents: Blackout Rewind | Aphrodite, Black Sun Empire, DART, Dillinja, Matrix, Optical, Rayven Lux |
 | Sat, 5 Sept 2026 | Motiv with Olive Anguz, Burnr & More | Olive Anguz |
 | Fri, 2 Oct 2026 | Daft Funk Live in Utrecht | Daft Funk Live |
@@ -22,4 +21,4 @@ TivoliVredenburg is a music venue in Utrecht listed on soundcheck. 9 upcoming ni
 
 Vredenburgkade 11, 3511 WC, Utrecht, Netherlands, Utrecht
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tivolivredenburg/)*

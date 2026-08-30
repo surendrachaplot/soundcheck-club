@@ -1,6 +1,6 @@
 # Saladiaga
 
-Saladiaga is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Yellow House, Amsterdam on Fri, 18 Sept 2026.
+Saladiaga is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Yellow House, Amsterdam on Fri, 18 Sept 2026.
 
 Saladiaga is a tech house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside CDF (FR), Elisa Elisa and Prance. Next up: Yellow House, Amsterdam on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Saladiaga is a tech house artist tracked on soundcheck, with 3 sets logged acros
 
 CDF (FR), Elisa Elisa, Prance
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saladiaga/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saladiaga/)*

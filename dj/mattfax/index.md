@@ -1,14 +1,15 @@
 # Matt Fax
 
-Matt Fax is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+Matt Fax is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
-Matt Fax is a progressive house and house artist based in France, tracked on soundcheck, with 17 sets logged across Amsterdam, Austin, Boston and Chicago and 8 more. Often billed alongside Cosmic Gate, Estiva and PRAANA. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
+Matt Fax is a progressive house and trance artist based in France, tracked on soundcheck, with 18 sets logged across Amsterdam, Austin, Boston and Chicago and 8 more. Often billed alongside Billy Gillies, Cosmic Gate and Estiva. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
+| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Matt Fax is a progressive house and house artist based in France, tracked on sou
 
 ## Shares bills with
 
-Cosmic Gate, Estiva, PRAANA
+Billy Gillies, Cosmic Gate, Estiva
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfax/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattfax/)*

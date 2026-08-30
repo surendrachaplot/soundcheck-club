@@ -1,6 +1,6 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Derrick Carter is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Derrick Carter is a house and disco artist tracked on soundcheck, with 312 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 25 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Derrick Carter is a house and disco artist tracked on soundcheck, with 312 sets 
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

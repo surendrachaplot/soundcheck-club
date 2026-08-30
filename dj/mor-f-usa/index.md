@@ -1,6 +1,6 @@
 # mor-f
 
-mor-f is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+mor-f is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 mor-f is a bass and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Portland. Often billed alongside DJ DISSOLVE, DJ Eft and Special Guest DJ. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -19,4 +19,4 @@ mor-f is a bass and techno artist based in United States of America, tracked on 
 
 DJ DISSOLVE, DJ Eft, Special Guest DJ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mor-f-usa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mor-f-usa/)*

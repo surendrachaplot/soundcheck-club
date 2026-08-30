@@ -1,19 +1,19 @@
 # Dexphase
 
-Dexphase is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Dexphase is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
-Dexphase is a techno and industrial artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Skryption, Bárbara Lago and SNTS. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
+Dexphase is a techno and industrial artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Skryption, Bárbara Lago and SNTS. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
 | Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 
 ## Recently played
 
+- DSTRKT Club Berlin, Berlin — Sat, 29 Aug 2026
 - TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
 - Arzenal, Budapest — Fri, 3 Jul 2026
 - Arzenal, Budapest — Fri, 3 Jul 2026
@@ -21,10 +21,9 @@ Dexphase is a techno and industrial artist tracked on soundcheck, with 109 sets 
 - Son Fusteret, Mallorca — Sat, 6 Jun 2026
 - Pavilhão Carlos Lopes, Lisbon — Fri, 1 May 2026
 - E1, London — Sat, 25 Apr 2026
-- Edelfettwerk, Hamburg — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Skryption, Bárbara Lago, SNTS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*

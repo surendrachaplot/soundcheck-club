@@ -1,6 +1,6 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Storm Mollison is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Storm Mollison is a house and disco artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -16,6 +16,7 @@ Storm Mollison is a house and disco artist tracked on soundcheck, with 67 sets l
 
 ## Recently played
 
+- Kelvedon Hall, London — Sat, 29 Aug 2026
 - Hï Ibiza, Ibiza — Wed, 26 Aug 2026
 - Night Tales, London — Thu, 30 Jul 2026
 - Ministry Of Sound, London — Sat, 4 Jul 2026
@@ -23,10 +24,9 @@ Storm Mollison is a house and disco artist tracked on soundcheck, with 67 sets l
 - Shelter Amsterdam, Amsterdam — Fri, 8 May 2026
 - PROGRESS, Manchester — Sat, 18 Apr 2026
 - Hausu, London — Wed, 1 Apr 2026
-- Radio Radio, Amsterdam — Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

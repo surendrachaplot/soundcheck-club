@@ -1,6 +1,6 @@
 # P2z
 
-P2z is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
+P2z is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
 
 P2z is a deep house and disco artist tracked on soundcheck, with 10 sets logged across Marseille and Paris. Often billed alongside Abn - P2z, Deep Tears On Clamart and Lawrence. Next up: La Cité Fertile, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ P2z is a deep house and disco artist tracked on soundcheck, with 10 sets logged 
 
 Abn - P2z, Deep Tears On Clamart, Lawrence
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p2z/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p2z/)*

@@ -1,6 +1,6 @@
 # Rosa Anschütz
 
-Rosa Anschütz is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at First Unitarian Congregational Society, New York City on Sat, 19 Sept 2026.
+Rosa Anschütz is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at First Unitarian Congregational Society, New York City on Sat, 19 Sept 2026.
 
 Rosa Anschütz is a techno and italo disco artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside AGA2L, Dork and Ruenge. Next up: First Unitarian Congregational Society, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Rosa Anschütz is a techno and italo disco artist based in Germany, tracked on s
 
 AGA2L, Dork, Ruenge
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaanschutz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosaanschutz/)*

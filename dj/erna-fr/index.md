@@ -1,14 +1,13 @@
 # Erna (FR)
 
-Erna (FR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Magical Forest in Ovar, Porto on Fri, 28 Aug 2026.
+Erna (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Unité.22, Marseille on Fri, 4 Sept 2026.
 
-Erna (FR) is a techno and house artist tracked on soundcheck, with 58 sets logged across Antwerp, Berlin, Brussels and Hamburg and 6 more. Often billed alongside Egna, Amor Satyr and Kanucia. Next up: TBA - Magical Forest in Ovar, Porto on Fri 28 Aug.
+Erna (FR) is a techno and house artist tracked on soundcheck, with 58 sets logged across Antwerp, Berlin, Brussels and Hamburg and 6 more. Often billed alongside Egna, Amor Satyr and Kanucia. Next up: Unité.22, Marseille on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TBA - Magical Forest in Ovar | Porto |
 | Fri, 4 Sept 2026 | Unité.22 | Marseille |
 
 ## Recently played
@@ -26,4 +25,4 @@ Erna (FR) is a techno and house artist tracked on soundcheck, with 58 sets logge
 
 Egna, Amor Satyr, Kanucia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*

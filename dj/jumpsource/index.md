@@ -1,6 +1,6 @@
 # Jump Source
 
-Jump Source is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Jump Source is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Jump Source is a techno and house artist based in Canada, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Chicago and 9 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -9,9 +9,6 @@ Jump Source is a techno and house artist based in Canada, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
-| Sat, 29 Aug 2026 | Southwark Park | London |
-| Sat, 29 Aug 2026 | Ormside Projects | London |
-| Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 | Fri, 11 Sept 2026 | Virage | Paris |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -21,17 +18,17 @@ Jump Source is a techno and house artist based in Canada, tracked on soundcheck,
 
 ## Recently played
 
+- Southwark Park, London — Sat, 29 Aug 2026
+- Ormside Projects, London — Sat, 29 Aug 2026
+- TBA - Southwark Park, London — Sat, 29 Aug 2026
 - Société des arts technologiques, Montreal — Thu, 27 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 23 May 2026
 - ASIAT Park, Brussels — Thu, 14 May 2026
-- public records, New York City — Fri, 8 May 2026
-- Fairmount Theatre, Montreal — Sat, 2 May 2026
-- TBA, Chicago — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Patrick Holland, Priori, Blood Orange
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

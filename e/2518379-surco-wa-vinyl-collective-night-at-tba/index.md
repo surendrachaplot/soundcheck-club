@@ -1,6 +1,6 @@
 # Surco Wa (Vinyl Collective Night) at TBA
 
-Surco Wa (Vinyl Collective Night) at TBA on Sat 19 Sept, Berlin. 5 acts on the bill: albeiro, Fuunkt, sensour and Solyr and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Surco Wa (Vinyl Collective Night) at TBA on Sat 19 Sept, Berlin. 6 acts on the bill: albeiro, Fuunkt, Marie.Luis and sensour and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Surco Wa (Vinyl Collective Night) at TBA on Sat 19 Sept, Berlin. 5 acts on the b
 
 - albeiro
 - Fuunkt
+- Marie.Luis
 - sensour
 - Solyr
 - YUNJIN

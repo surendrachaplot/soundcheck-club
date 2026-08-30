@@ -1,6 +1,6 @@
 # Eternal Glow
 
-Eternal Glow is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hookah Lounge, Mexico City on Wed, 26 Aug 2026.
+Eternal Glow is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hookah Lounge, Mexico City on Wed, 26 Aug 2026.
 
 Eternal Glow is a techno and trance artist tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Leidbaz, Bluecommand and DJ Rick. Next up: Hookah Lounge, Mexicocity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Eternal Glow is a techno and trance artist tracked on soundcheck, with 12 sets l
 
 Leidbaz, Bluecommand, DJ Rick
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternalglow/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eternalglow/)*

@@ -1,6 +1,6 @@
 # Rubie
 
-Rubie is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Stereo, Glasgow on Sat, 5 Sept 2026.
+Rubie is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Stereo, Glasgow on Sat, 5 Sept 2026.
 
 Rubie is an electronic artist tracked on soundcheck, with 4 sets logged across Glasgow and London. Often billed alongside Dean Munch, Junglehussi and Mellowdramatics. Next up: Stereo, Glasgow on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Rubie is an electronic artist tracked on soundcheck, with 4 sets logged across G
 
 Dean Munch, Junglehussi, Mellowdramatics
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubie/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubie/)*

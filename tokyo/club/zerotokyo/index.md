@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "COMET SOUNDS vol.4 - ALL MIX / HIPHOP -" on Sat, 29 Aug 2026.
+ZEROTOKYO is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "PAXPROJECT - TECHNO / HOUSE / HIPHOP -" on Sun, 30 Aug 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including 6EJOU, ACHIRI, Aiobahn and AKIRA TAKABAYASHI and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including 6EJOU, Aiobahn, AKIRA TAKABAYASHI and Albino Sound and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | COMET SOUNDS vol.4 - ALL MIX / HIPHOP - | ACHIRI, Sakuma, ecec |
 | Sun, 30 Aug 2026 | PAXPROJECT - TECHNO / HOUSE / HIPHOP - | AKIRA TAKABAYASHI, Albino Sound, Eichi Abe, MYUMA |
 | Thu, 3 Sept 2026 | PRESSURE - HIPHOP / HOUSE / TRANCE - | indiy |
 | Fri, 4 Sept 2026 | ULTRAHAUS - HOUSE / TECH HOUSE - | CARTOON, Dan Miyagishi, Kijta, PUNK N MATRIX, Yamariki |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, wi
 | Fri, 11 Sept 2026 | Locker Room feat.6EJOU - HARD TECHNO / TECHNO - | 6EJOU, DALJAE, LYOM, Rikk (2), YUXI |
 | Sat, 12 Sept 2026 | YONAGUNI FIESTA |  |
 | Sun, 13 Sept 2026 | NEW JACK CITY |  |
+| Thu, 17 Sept 2026 | COINCIDENCE - ALL MIX / HOUSE / TECHNO / Drum & Bass / HIPHOP / LATIN / POPS - | DADO, Rikk (2), omeme_gangimari |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

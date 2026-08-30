@@ -1,6 +1,6 @@
 # Magnolia_
 
-Magnolia_ is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Magnolia_ is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 Magnolia_ is a disco and house artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 7 more. Often billed alongside Bustin' Loose, Tatiana and Crystal Touch. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Magnolia_ is a disco and house artist based in France, tracked on soundcheck, wi
 
 Bustin' Loose, Tatiana, Crystal Touch
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia_/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/magnolia_/)*

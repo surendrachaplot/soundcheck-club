@@ -1,6 +1,6 @@
 # Hiro Kone
 
-Hiro Kone is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
+Hiro Kone is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at EXIT Glasgow, Glasgow on Sat, 5 Sept 2026.
 
 Hiro Kone is an experimental and ambient artist tracked on soundcheck, with 11 sets logged across Berlin, Glasgow, Newyorkcity and Shenzhen and 3 more. Often billed alongside Ale Hop, LYDO and Physical Therapy. Next up: EXIT Glasgow, Glasgow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hiro Kone is an experimental and ambient artist tracked on soundcheck, with 11 s
 
 Ale Hop, LYDO, Physical Therapy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokone/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokone/)*

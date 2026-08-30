@@ -1,6 +1,6 @@
 # Digital
 
-Digital is a music venue in Newcastle with 14 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Back To The Groove Presents : Beyond Limits B2B Firza" on Sat, 5 Sept 2026.
+Digital is a music venue in Newcastle with 14 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Back To The Groove Presents : Beyond Limits B2B Firza" on Sat, 5 Sept 2026.
 
 Digital is a music venue in Newcastle listed on soundcheck. 14 upcoming nights, with line-ups including Bushbaby, Conducta, Cristoph and Easby and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
@@ -23,4 +23,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 14 upcoming nights, 
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

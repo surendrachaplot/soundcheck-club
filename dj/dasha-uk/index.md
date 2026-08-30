@@ -1,6 +1,6 @@
 # DASHA (UK)
 
-DASHA (UK) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lock Inn Camden, London on Fri, 4 Sept 2026.
+DASHA (UK) is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lock Inn Camden, London on Fri, 4 Sept 2026.
 
 DASHA (UK) is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London and Melbourne. Often billed alongside AVANTIME, Addiy and Bibiminor. Next up: Lock Inn Camden, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DASHA (UK) is an electronica and house artist based in United Kingdom, tracked o
 
 AVANTIME, Addiy, Bibiminor
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dasha-uk/)*

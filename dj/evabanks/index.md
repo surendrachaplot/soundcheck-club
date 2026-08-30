@@ -1,6 +1,6 @@
 # Eva Banks
 
-Eva Banks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Experimental Cocktail Club Chinatown, London on Sun, 30 Aug 2026.
+Eva Banks is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Experimental Cocktail Club Chinatown, London on Sun, 30 Aug 2026.
 
 Eva Banks is a tech house and house artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Duat, BERNT and ELRA. Next up: Experimental Cocktail Club Chinatown, London on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Eva Banks is a tech house and house artist tracked on soundcheck, with 8 sets lo
 
 Duat, BERNT, ELRA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evabanks/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evabanks/)*

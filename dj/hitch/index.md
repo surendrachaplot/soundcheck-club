@@ -1,6 +1,6 @@
 # Hitch
 
-Hitch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
+Hitch is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
 
 Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 4 more. Often billed alongside Alex (ES), Sampol and Javier Carballo. Next up: Jardins de Joan Brossa, Barcelona on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 9
 
 Alex (ES), Sampol, Javier Carballo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hitch/)*

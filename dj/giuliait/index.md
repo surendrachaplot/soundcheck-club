@@ -1,6 +1,6 @@
 # GIULIA (IT)
 
-GIULIA (IT) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
+GIULIA (IT) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
 
 GIULIA (IT) is a techno and acid artist tracked on soundcheck, with 2 sets logged across Rome. Often billed alongside ALYSH, Frankyeffe and Jalex. Next up: Spazio Cavea, Rome on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ GIULIA (IT) is a techno and acid artist tracked on soundcheck, with 2 sets logge
 
 ALYSH, Frankyeffe, Jalex
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliait/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliait/)*

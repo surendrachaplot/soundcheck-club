@@ -1,6 +1,6 @@
 # Jackson Walker Lewis
 
-Jackson Walker Lewis is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cafeteria, Toronto on Sat, 5 Sept 2026.
+Jackson Walker Lewis is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cafeteria, Toronto on Sat, 5 Sept 2026.
 
 Jackson Walker Lewis is a house and electro artist tracked on soundcheck, with 15 sets logged across Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Jackson Walker, FCUKERS and Orson.NYC. Next up: Cafeteria, Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jackson Walker Lewis is a house and electro artist tracked on soundcheck, with 1
 
 Jackson Walker, FCUKERS, Orson.NYC
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonwalkerlewis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksonwalkerlewis/)*

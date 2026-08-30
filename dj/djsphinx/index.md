@@ -1,8 +1,8 @@
 # DJ SPHiNX
 
-DJ SPHiNX is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
+DJ SPHiNX is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
 
-DJ SPHiNX is a techno and electro artist based in United States of America, tracked on soundcheck, with 85 sets logged across Detroit and Paris. Often billed alongside LATEX GIRL, Craig Gonzalez and Auntie Chanel. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
+DJ SPHiNX is a techno and electro artist based in United States of America, tracked on soundcheck, with 86 sets logged across Detroit and Paris. Often billed alongside LATEX GIRL, Craig Gonzalez and Auntie Chanel. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ SPHiNX is a techno and electro artist based in United States of America, trac
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Northern Lights Lounge | Detroit |
 | Sat, 10 Oct 2026 | TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203 | Detroit |
+| Sat, 14 Nov 2026 | Russell Industrial Center | Detroit |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ SPHiNX is a techno and electro artist based in United States of America, trac
 
 LATEX GIRL, Craig Gonzalez, Auntie Chanel
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djsphinx/)*

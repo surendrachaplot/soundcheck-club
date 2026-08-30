@@ -1,14 +1,13 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "PW x TRAILS • Nicolas Lutz, Paul Popa" on Sat, 29 Aug 2026.
+Platforma Wolff is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "PW x Intuit FM • Andria Obor, Von Bülove" on Thu, 3 Sept 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including Alex Troubetzkoy, Andrei Ciubuc, Anthea and Automatic Writing and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 6 upcoming nights, with line-ups including Alex Troubetzkoy, Andrei Ciubuc, Anthea and Automatic Writing and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | PW x TRAILS • Nicolas Lutz, Paul Popa | Nicolas Lutz, Paul Popa |
 | Thu, 3 Sept 2026 | PW x Intuit FM • Andria Obor, Von Bülove | Von Bülove |
 | Fri, 4 Sept 2026 | PW x 22 Recordings • Anthea, C.ru.z, Jokey | Anthea, C.ru.z |
 | Sat, 5 Sept 2026 | PW x Red Dot • Automatic Writing, Pocket Club | Alex Troubetzkoy, Automatic Writing |
@@ -20,4 +19,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

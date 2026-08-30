@@ -1,6 +1,6 @@
 # bounce kisses
 
-bounce kisses is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Highland Park, New York City on Sun, 30 Aug 2026.
+bounce kisses is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Highland Park, New York City on Sun, 30 Aug 2026.
 
 bounce kisses is a techno and downtempo artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Leipzig and Newyorkcity. Often billed alongside Boyfriend Dick, L4RV4 and &more. Next up: TBA - Highland Park, Newyorkcity on Sun 30 Aug.
 
@@ -23,4 +23,4 @@ bounce kisses is a techno and downtempo artist based in United States of America
 
 Boyfriend Dick, L4RV4, &more
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncekisses/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncekisses/)*

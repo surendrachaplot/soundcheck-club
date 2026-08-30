@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Marc Houle Japan Tour osaka" on Sat, 29 Aug 2026.
+Circus Osaka is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "RIGHTY RIGHT" on Fri, 4 Sept 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including Bon (13), Flava D, Izco and JOKESONYOU and 2 more. Browse upcoming dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -8,8 +8,8 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 7 upcoming nights, 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Marc Houle Japan Tour osaka | Marc Houle, RY0N4, Yuta Aoki |
 | Fri, 4 Sept 2026 | RIGHTY RIGHT | TAKENOKO, kengotaki, r1ku |
+| Sat, 5 Sept 2026 | Sam Binga × RYOTA- | Sam Binga, ryota dj |
 | Thu, 10 Sept 2026 | EPICENTER | Bon (13), Lomax, SEIJI (2), Stones Taro |
 | Fri, 11 Sept 2026 | Flava D Circus Osaka | Flava D, ryota dj |
 | Sat, 12 Sept 2026 | OTO 1ST ANNIVERSARY -JOKESONYOU- | JOKESONYOU, Liza, STRATAH |
@@ -20,4 +20,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 7 upcoming nights, 
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

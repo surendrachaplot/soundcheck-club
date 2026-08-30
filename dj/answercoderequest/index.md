@@ -1,6 +1,6 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Answer Code Request is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Answer Code Request is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Bali and Bangkok and 39 more. Often billed alongside Amotik, Oracy and Barker. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -15,6 +15,7 @@ Answer Code Request is a techno and house artist tracked on soundcheck, with 119
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - vurt., Seoul — Sat, 8 Aug 2026
 - VENT, Tokyo — Fri, 7 Aug 2026
 - OMA, Hong Kong — Fri, 31 Jul 2026
@@ -22,10 +23,9 @@ Answer Code Request is a techno and house artist tracked on soundcheck, with 119
 - Revolver Upstairs, Melbourne — Fri, 17 Jul 2026
 - RSO.BERLIN, Berlin — Sat, 20 Jun 2026
 - KALT, Strasbourg — Sat, 13 Jun 2026
-- Bunker, Turin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Amotik, Oracy, Barker
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

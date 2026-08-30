@@ -1,14 +1,15 @@
 # T.Modet
 
-T.Modet is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+T.Modet is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-T.Modet is an experimental and club artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona and Zurich. Often billed alongside EYRA, Phran and Sama Yax. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+T.Modet is a techno and experimental artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona and Zurich. Often billed alongside EYRA, Phran and Sama Yax. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
+| Fri, 11 Sept 2026 | Nitsa Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ T.Modet is an experimental and club artist based in Spain, tracked on soundcheck
 
 EYRA, Phran, Sama Yax
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.modet/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.modet/)*

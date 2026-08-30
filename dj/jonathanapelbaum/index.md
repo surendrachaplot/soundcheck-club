@@ -1,6 +1,6 @@
 # Jonathan Apelbaum
 
-Jonathan Apelbaum is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Jonathan Apelbaum is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 Jonathan Apelbaum is a house and progressive house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Elninodiablo. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Jonathan Apelbaum is a house and progressive house artist based in Germany, trac
 
 ADAM MUNNINGS, DJ Petite, Elninodiablo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanapelbaum/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathanapelbaum/)*

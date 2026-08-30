@@ -1,6 +1,6 @@
 # Lal (1)
 
-Lal (1) is a Afro House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Allan Gardens Conservatory, Toronto on Fri, 18 Sept 2026.
+Lal (1) is a Afro House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Allan Gardens Conservatory, Toronto on Fri, 18 Sept 2026.
 
 Lal (1) is an afro house and electronica artist based in Canada, tracked on soundcheck, with 7 sets logged across Istanbul, Montreal, Newyorkcity and Paris and 1 more. Often billed alongside Magnolia, Bianca Supercell and Bondi (DE). Next up: Allan Gardens Conservatory, Toronto on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Lal (1) is an afro house and electronica artist based in Canada, tracked on soun
 
 Magnolia, Bianca Supercell, Bondi (DE)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lal-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lal-1/)*

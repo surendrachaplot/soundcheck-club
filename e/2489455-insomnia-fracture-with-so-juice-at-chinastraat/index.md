@@ -1,6 +1,6 @@
 # Insomnia Fracture with So Juice at Chinastraat
 
-Insomnia Fracture with So Juice at Chinastraat on Fri 18 Sept, Ghent. 3 acts on the bill: droomwolkje, Jalo and SEE YOU LATER. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+Insomnia Fracture with So Juice at Chinastraat on Fri 18 Sept, Ghent. 4 acts on the bill: droomwolkje, Gouzz, Jalo and SEE YOU LATER. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Insomnia Fracture with So Juice at Chinastraat on Fri 18 Sept, Ghent. 3 acts on 
 ## Line-up
 
 - droomwolkje
+- Gouzz
 - Jalo
 - SEE YOU LATER
 

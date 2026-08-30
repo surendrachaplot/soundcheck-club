@@ -1,6 +1,6 @@
 # Samson A.K
 
-Samson A.K is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
+Samson A.K is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Paloma, Berlin on Fri, 25 Sept 2026.
 
 Samson A.K is a dub and experimental artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Berlin, Kyoto, London and Tokyo. Often billed alongside Daire Carolan, Ally Tropical and Athena Varosio. Next up: Paloma, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Samson A.K is a dub and experimental artist based in United Kingdom, tracked on 
 
 Daire Carolan, Ally Tropical, Athena Varosio
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsonak/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsonak/)*

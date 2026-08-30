@@ -1,6 +1,6 @@
 # Hamadi
 
-Hamadi is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Silence Please, New York City on Sat, 29 Aug 2026.
+Hamadi is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Silence Please, New York City on Sat, 29 Aug 2026.
 
 Hamadi is an ambient and techno artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Peregrine (US), 8ULENTINA and Arushi Jain. Next up: Silence Please, Newyorkcity on Sat 29 Aug.
 
@@ -12,6 +12,7 @@ Hamadi is an ambient and techno artist tracked on soundcheck, with 6 sets logged
 
 ## Recently played
 
+- Silence Please, New York City — Sat, 29 Aug 2026
 - Mood Ring, New York City — Sat, 23 May 2026
 - Nowadays, New York City — Wed, 18 Mar 2026
 - Bossa Nova Civic Club, New York City — Sun, 15 Feb 2026
@@ -22,4 +23,4 @@ Hamadi is an ambient and techno artist tracked on soundcheck, with 6 sets logged
 
 Peregrine (US), 8ULENTINA, Arushi Jain
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamadi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hamadi/)*

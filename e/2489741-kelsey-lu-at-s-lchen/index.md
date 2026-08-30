@@ -1,10 +1,10 @@
 # Kelsey Lu at Säälchen
 
-Kelsey Lu at Säälchen on Mon 16 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Kelsey Lu at Säälchen on Thu 12 Nov, Berlin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Mon, 16 Nov 2026 |
+| Date | Thu, 12 Nov 2026 |
 | Venue | Säälchen |
 | City | Berlin |
 

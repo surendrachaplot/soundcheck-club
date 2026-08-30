@@ -1,6 +1,6 @@
 # KARØL (2)
 
-KARØL (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+KARØL (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 KARØL (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Bucharest and Dusseldorf and 1 more. Often billed alongside John Holt, Lady Dammage and PETDuo. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KARØL (2) is a techno and trance artist based in Germany, tracked on soundcheck
 
 John Holt, Lady Dammage, PETDuo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karol-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karol-2/)*

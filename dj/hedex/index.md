@@ -1,15 +1,17 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Hedex is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Hedex is a drum & bass and bass artist tracked on soundcheck, with 71 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Eksman and Turno. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Hedex is a drum & bass and bass artist tracked on soundcheck, with 73 sets logged across Auckland, Austin, Brighton and Brisbane and 29 more. Often billed alongside BassLayerz, Eksman and Turno. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 21 Nov 2026 | The Trusts Stadium | Auckland |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Hedex is a drum & bass and bass artist tracked on soundcheck, with 71 sets logge
 
 BassLayerz, Eksman, Turno
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

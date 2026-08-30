@@ -1,8 +1,8 @@
 # Carlos Pérez
 
-Carlos Pérez is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Sala ART, Madrid on Fri, 4 Sept 2026.
+Carlos Pérez is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Sala ART, Madrid on Fri, 4 Sept 2026.
 
-Carlos Pérez is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Lino Fuso, Cambric and K-Style. Next up: Sala ART, Madrid on Fri 4 Sept.
+Carlos Pérez is a techno and tech house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Lino Fuso, Cambric and K-Style. Next up: Sala ART, Madrid on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carlos Pérez is a techno and tech house artist tracked on soundcheck, with 15 s
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Sala ART | Madrid |
 | Sat, 17 Oct 2026 | Fabrik | Madrid |
+| Fri, 27 Nov 2026 | E1 | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Carlos Pérez is a techno and tech house artist tracked on soundcheck, with 15 s
 
 Lino Fuso, Cambric, K-Style
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosperez-es/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosperez-es/)*

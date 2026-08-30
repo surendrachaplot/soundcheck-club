@@ -1,6 +1,6 @@
 # AIDA (CA)
 
-AIDA (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
+AIDA (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
 AIDA (CA) is a techno and house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Galen, &ndmore and Connor Mikami. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ AIDA (CA) is a techno and house artist tracked on soundcheck, with 56 sets logge
 
 Galen, &ndmore, Connor Mikami
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aida-ca/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aida-ca/)*

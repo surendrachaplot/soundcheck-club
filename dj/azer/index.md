@@ -1,6 +1,6 @@
 # Azer
 
-Azer is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Noce KRK, Krakow on Fri, 11 Sept 2026.
+Azer is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Noce KRK, Krakow on Fri, 11 Sept 2026.
 
 Azer is a techno artist tracked on soundcheck, with 7 sets logged across Krakow and Vienna. Often billed alongside RAJZ, Fake Fellini and Rawbot. Next up: Noce KRK, Krakow on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Azer is a techno artist tracked on soundcheck, with 7 sets logged across Krakow 
 
 RAJZ, Fake Fellini, Rawbot
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azer/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azer/)*

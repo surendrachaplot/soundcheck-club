@@ -1,6 +1,6 @@
 # Unit YoRHa
 
-Unit YoRHa is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+Unit YoRHa is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
 Unit YoRHa is an experimental and electro artist tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Hunnygloss, finlince! and imyzuli. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Unit YoRHa is an experimental and electro artist tracked on soundcheck, with 10 
 
 Hunnygloss, finlince!, imyzuli
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unityorha/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unityorha/)*

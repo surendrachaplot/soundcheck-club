@@ -1,8 +1,8 @@
 # NOIYSE PROJECT
 
-NOIYSE PROJECT is a Progressive House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Oxford Underground, Sydney on Sat, 5 Sept 2026.
+NOIYSE PROJECT is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Oxford Underground, Sydney on Sat, 5 Sept 2026.
 
-NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, tracked on soundcheck, with 26 sets logged across Amsterdam, Auckland, Bali and Barcelona and 10 more. Often billed alongside Aaiste, Emi Galvan and Mark Craven. Next up: Oxford Underground, Sydney on Sat 5 Sept.
+NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Bali and Barcelona and 10 more. Often billed alongside Aaiste, Emi Galvan and Mark Craven. Next up: Oxford Underground, Sydney on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, trac
 | Sat, 5 Sept 2026 | Oxford Underground | Sydney |
 | Fri, 11 Sept 2026 | Chasers Nightclub | Melbourne |
 | Sat, 17 Oct 2026 | Room 22 | Sydney |
+| Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, trac
 
 Aaiste, Emi Galvan, Mark Craven
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*

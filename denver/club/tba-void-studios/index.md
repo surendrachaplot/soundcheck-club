@@ -1,14 +1,13 @@
 # TBA - Void Studios
 
-TBA - Void Studios is a music venue in Denver with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "EMIXX WEST" on Sat, 29 Aug 2026.
+TBA - Void Studios is a music venue in Denver with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "DEN/TEC X CODE RED PRESENT: MADGRRL" on Sat, 10 Oct 2026.
 
-TBA - Void Studios is a music venue in Denver listed on soundcheck. 2 upcoming nights, with line-ups including ALX-106, Lorely Mur, MADGRRL and Trovarsi. Browse upcoming dates, start times and who's playing.
+TBA - Void Studios is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Lorely Mur and MADGRRL. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | EMIXX WEST | ALX-106, Trovarsi |
 | Sat, 10 Oct 2026 | DEN/TEC X CODE RED PRESENT: MADGRRL | Lorely Mur, MADGRRL |
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-void-studios/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-void-studios/)*

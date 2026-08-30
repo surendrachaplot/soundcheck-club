@@ -1,6 +1,6 @@
 # Barraca
 
-Barraca is a music venue in Valencia with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Barraca Club" on Sat, 5 Sept 2026.
+Barraca is a music venue in Valencia with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Barraca Club" on Sat, 5 Sept 2026.
 
 Barraca is a music venue in Valencia listed on soundcheck. 6 upcoming nights, with line-ups including Brenda Serna (2), Colin Benders, Domen and L.F.T. and 2 more. Browse upcoming dates, start times and who's playing. Avd San Roc s/n, Sueca, 46410 Valencia, Spain.
 
@@ -19,4 +19,4 @@ Barraca is a music venue in Valencia listed on soundcheck. 6 upcoming nights, wi
 
 Avd San Roc s/n, Sueca, 46410 Valencia, Spain, Valencia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/barraca/)*

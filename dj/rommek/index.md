@@ -1,6 +1,6 @@
 # Rommek
 
-Rommek is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drugstore Beograd, Belgrade on Fri, 25 Sept 2026.
+Rommek is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Drugstore Beograd, Belgrade on Fri, 25 Sept 2026.
 
 Rommek is a techno and industrial artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Kodah, EKATA and Medallion Man. Next up: Drugstore Beograd, Belgrade on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Rommek is a techno and industrial artist tracked on soundcheck, with 35 sets log
 
 Kodah, EKATA, Medallion Man
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rommek/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rommek/)*

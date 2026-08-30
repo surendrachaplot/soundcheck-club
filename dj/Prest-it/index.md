@@ -1,6 +1,6 @@
 # Prest
 
-Prest is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
+Prest is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
 
 Prest is a techno and bass artist based in Italy, tracked on soundcheck, with 54 sets logged across Barcelona, Edinburgh, Glasgow and Milan and 1 more. Often billed alongside XL Regular, Her Nice Too and F L V X X X. Next up: TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Prest is a techno and bass artist based in Italy, tracked on soundcheck, with 54
 
 XL Regular, Her Nice Too, F L V X X X
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Prest-it/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Prest-it/)*

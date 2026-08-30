@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
+Enrica Falqui is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Gaffe, London on Sun, 30 Aug 2026.
 
 Enrica Falqui is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: Gaffe, London on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 112 sets 
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

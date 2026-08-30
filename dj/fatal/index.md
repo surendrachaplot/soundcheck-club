@@ -1,6 +1,6 @@
 # Fatal
 
-Fatal is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Triangle, Osaka on Wed, 9 Sept 2026.
+Fatal is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Triangle, Osaka on Wed, 9 Sept 2026.
 
 Fatal is a drum & bass and techno artist tracked on soundcheck, with 25 sets logged across Barcelona, Basel, Buenosaires and London and 2 more. Often billed alongside Shenin Amara, Perro Jimbo and Mark Radford. Next up: Triangle, Osaka on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Fatal is a drum & bass and techno artist tracked on soundcheck, with 25 sets log
 
 Shenin Amara, Perro Jimbo, Mark Radford
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatal/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatal/)*

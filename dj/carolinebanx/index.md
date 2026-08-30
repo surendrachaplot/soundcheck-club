@@ -1,6 +1,6 @@
 # Caroline Banx
 
-Caroline Banx is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
+Caroline Banx is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
 
 Caroline Banx is a techno and progressive house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton. Often billed alongside Markus Saarländer, Koipinoxia and Heiko Geritzmann. Next up: WaterBear Venue, Brighton on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Caroline Banx is a techno and progressive house artist based in United Kingdom, 
 
 Markus Saarländer, Koipinoxia, Heiko Geritzmann
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carolinebanx/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carolinebanx/)*

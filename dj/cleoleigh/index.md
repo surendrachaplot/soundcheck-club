@@ -1,6 +1,6 @@
 # CLEO LEIGH
 
-CLEO LEIGH is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+CLEO LEIGH is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 CLEO LEIGH is a techno and experimental artist based in Canada, tracked on soundcheck, with 11 sets logged across Detroit, Istanbul, Montreal and Tbilisi and 1 more. Often billed alongside Barbosa, Chris Rubbra and France Jobin. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ CLEO LEIGH is a techno and experimental artist based in Canada, tracked on sound
 
 Barbosa, Chris Rubbra, France Jobin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleoleigh/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleoleigh/)*

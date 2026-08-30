@@ -1,6 +1,6 @@
 # Turtle Bugg
 
-Turtle Bugg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Spread Art Collective, Detroit on Sun, 6 Sept 2026.
+Turtle Bugg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Spread Art Collective, Detroit on Sun, 6 Sept 2026.
 
 Turtle Bugg is a techno and house artist tracked on soundcheck, with 47 sets logged across Chicago, Detroit, Newyorkcity and Toronto. Often billed alongside Shigeto, Kenjiro and Savannah G. Next up: Spread Art Collective, Detroit on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Turtle Bugg is a techno and house artist tracked on soundcheck, with 47 sets log
 
 Shigeto, Kenjiro, Savannah G
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/turtlebugg/)*

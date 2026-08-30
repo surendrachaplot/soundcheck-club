@@ -1,6 +1,6 @@
 # El Gato
 
-El Gato is a Latin Bass and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Whistler, Chicago on Thu, 17 Sept 2026.
+El Gato is a Latin Bass and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Whistler, Chicago on Thu, 17 Sept 2026.
 
 El Gato is a latin bass and neo perreo artist tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside J. Córdova, 2AT and DJ Aguara'i. Next up: Whistler, Chicago on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ El Gato is a latin bass and neo perreo artist tracked on soundcheck, with 4 sets
 
 J. Córdova, 2AT, DJ Aguara'i
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elgato-us/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elgato-us/)*

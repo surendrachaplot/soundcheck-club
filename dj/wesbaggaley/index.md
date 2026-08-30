@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
+Wes Baggaley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
 
 Wes Baggaley is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Birmingham, Bristol and Dublin and 14 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: The Steel Yard, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Wes Baggaley is a techno and house artist tracked on soundcheck, with 69 sets lo
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

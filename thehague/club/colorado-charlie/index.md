@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Distant Beach with Mees Salomé & Friends" on Sat, 29 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT)" on Sun, 30 Aug 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 9 upcoming nights, with line-ups including Ammé, Boris Coelman, Colyn and Daughter In Law and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 8 upcoming nights, with line-ups including Ammé, Boris Coelman, Colyn and Daughter In Law and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Distant Beach with Mees Salomé & Friends | Mees Salomé |
 | Sun, 30 Aug 2026 | Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT) | Lisa Korver, Mika Heggemann, Olive Anguz |
 | Sun, 6 Sept 2026 | Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT) | Daughter In Law, Easttown, Franky Rizardo |
 | Sat, 12 Sept 2026 | Colorado Charlie with Colyn (3hrs), Nicky Elisabeth | Colyn, Nicky Elisabeth |
@@ -22,4 +21,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 9 upcoming n
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

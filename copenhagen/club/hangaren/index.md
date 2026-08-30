@@ -1,15 +1,13 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Karrusel | 27–29 Aug 2026" on Thu, 27 Aug 2026.
+Hangaren is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Âme (Live), Nandu, Radeckt" on Fri, 4 Sept 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including Acid Pauli, AELVA K, Afgang and Âme and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including AELVA K, Afgang, Âme and Bella Sarris and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Karrusel / 27–29 Aug 2026 | Acid Pauli, Afgang, Amelie Lens, Bad Boombox, Baime, Buja, Christian Löffler, Christina Evangelista, Conducta, DJ Spice, DRABER666, Dgeral, Disfunctional Disco, Egyptian Lover, Ellen Allien, Ena Cosovic, FILTH.y, Halfdan Sandquist, Helena Lauwaert, Jungle Julia, Jungle Julia(DK), Kip Analog, Lou Nour, Lucy Headburn, Mary Harp, Mia Kober, Milo Makua, Mischluft, Monolink, NILU, Notion, Peachlyfe, Pentti Igor, RHR, RIRIA, Redline Warriors, Ricardo Roessel, Shkoon, Suzie The Cockroach, TINDRA, Valentina(DK), Vincent's Older Sister, Volker Arnold, Y U QT, babysquid, horsegiirL, maurinstarr, parashoot |
-| Sat, 29 Aug 2026 | Karrusel Afterparty: TOCCORORO, Meilgaarden, WE.LL | Meilgaarden, TOCCORORO, WE.LL |
 | Fri, 4 Sept 2026 | Âme (Live), Nandu, Radeckt | Nandu, Radeckt, Âme |
 | Sat, 5 Sept 2026 | Endurance | Bella Sarris, DJ Nah Care, Ezy, Lucy Headburn, Matriark, Nesa Azadikhah, Peachlyfe, Scano |
 | Fri, 11 Sept 2026 | Mija, Gusted, DRABER666 | DRABER666, Gusted, Mija |
@@ -18,9 +16,11 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights
 | Fri, 18 Sept 2026 | SHDW, Elliott Taguchi, Ida Aya | Elliott Taguchi, Ida Aya, SHDW |
 | Sat, 19 Sept 2026 | Danilo Plessow (MCDE), Harrison Heat, Tamara | Danilo Plessow, Harrison Heat, Tamara |
 | Sat, 19 Sept 2026 | Danilo Plessow (MCDE), Harrison Heat, Tamara | Danilo Plessow, Harrison Heat, Tamara |
+| Fri, 25 Sept 2026 | Mira, Emma Sø | Emma Sø, Mira |
+| Sat, 26 Sept 2026 | bullet tooth, Mat Eclair, NAT | Mat Eclair, bullet tooth |
 
 ## Address
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

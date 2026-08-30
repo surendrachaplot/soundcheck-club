@@ -1,6 +1,6 @@
 # brainmoonsun
 
-brainmoonsun is a Experimental and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+brainmoonsun is a Experimental and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 brainmoonsun is an experimental and minimal techno artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Aperçu, Chafic and Cosmic JD. Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ brainmoonsun is an experimental and minimal techno artist tracked on soundcheck,
 
 Aperçu, Chafic, Cosmic JD
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brainmoonsun/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brainmoonsun/)*

@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Groove Mates: Onemas invites Maik Yells y Macca" on Sat, 29 Aug 2026.
+Doggy Klœb is a music venue in Malaga with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Doggy & Friends: Angel Burgos" on Thu, 3 Sept 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Groove Mates: Onemas invites Maik Yells y Macca | Maik Yells |
 | Thu, 3 Sept 2026 | Doggy & Friends: Angel Burgos |  |
 | Fri, 4 Sept 2026 | Raum:95 y Nitrile Affair | Nitrile Affair |
 | Thu, 10 Sept 2026 | Doggy & Friends: Reisender | Reisender |
@@ -23,4 +22,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights,
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

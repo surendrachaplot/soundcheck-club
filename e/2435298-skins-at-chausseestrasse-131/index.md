@@ -1,6 +1,6 @@
 # SKINS at Chausseestrasse 131
 
-SKINS at Chausseestrasse 131 on Sat 19 Sept, Berlin. 5 acts on the bill: Aimé You, Daisy Weweh, HAMY and Loodas and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+SKINS at Chausseestrasse 131 on Sat 19 Sept, Berlin. 6 acts on the bill: Aimé You, Daisy Weweh, HAMY and Loodas and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ SKINS at Chausseestrasse 131 on Sat 19 Sept, Berlin. 5 acts on the bill: Aimé Y
 - HAMY
 - Loodas
 - MIKA G
+- Neoji
 
 *Source: [soundcheck](https://soundcheck.club/e/2435298-skins-at-chausseestrasse-131/)*

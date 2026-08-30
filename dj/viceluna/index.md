@@ -1,6 +1,6 @@
 # Vice Luna
 
-Vice Luna is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cova Santa, Ibiza on Wed, 2 Sept 2026.
+Vice Luna is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cova Santa, Ibiza on Wed, 2 Sept 2026.
 
 Vice Luna is a house and tech house artist based in Mexico, tracked on soundcheck, with 19 sets logged across Amsterdam, Ibiza, Mexicocity and Milan. Often billed alongside ETNA, Makossa and ALDAVE. Next up: Cova Santa, Ibiza on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Vice Luna is a house and tech house artist based in Mexico, tracked on soundchec
 
 ETNA, Makossa, ALDAVE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*

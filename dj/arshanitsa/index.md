@@ -1,6 +1,6 @@
 # Arshanitsa
 
-Arshanitsa is a Electronica and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klymax Discotheque, Bali on Fri, 4 Sept 2026.
+Arshanitsa is a Electronica and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Klymax Discotheque, Bali on Fri, 4 Sept 2026.
 
 Arshanitsa is an electronica and funk / soul artist tracked on soundcheck, with 6 sets logged across Bali. Next up: Klymax Discotheque, Bali on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Arshanitsa is an electronica and funk / soul artist tracked on soundcheck, with 
 - Satoshi Restaurant, Bali — Sun, 31 Mar 2024
 - Satoshi Restaurant, Bali — Sun, 24 Mar 2024
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arshanitsa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arshanitsa/)*

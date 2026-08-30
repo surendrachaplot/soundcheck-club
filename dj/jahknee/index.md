@@ -1,6 +1,6 @@
 # Jah Knee
 
-Jah Knee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+Jah Knee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 Jah Knee is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit. Often billed alongside Zac Carver, .hisham and Brent Shay. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Jah Knee is a techno and house artist based in United States of America, tracked
 
 Zac Carver, .hisham, Brent Shay
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jahknee/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jahknee/)*

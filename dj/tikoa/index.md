@@ -1,6 +1,6 @@
 # TIKOA
 
-TIKOA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Park am Gleisdreieck Open AIR, Berlin on Sun, 30 Aug 2026.
+TIKOA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Park am Gleisdreieck Open AIR, Berlin on Sun, 30 Aug 2026.
 
 TIKOA is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Belgrade, Berlin, Brussels and Hamburg and 1 more. Often billed alongside Stallo, CALLE and Hannah Addams. Next up: Park am Gleisdreieck Open AIR, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ TIKOA is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Stallo, CALLE, Hannah Addams
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tikoa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tikoa/)*

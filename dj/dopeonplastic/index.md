@@ -1,6 +1,6 @@
 # Dope On Plastic
 
-Dope On Plastic is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
+Dope On Plastic is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Dope On Plastic is a jungle and hardcore artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco and Sheffield. Often billed alongside DJ Azure, DJ Doubt and Fez the Kid. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Dope On Plastic is a jungle and hardcore artist based in United States of Americ
 
 DJ Azure, DJ Doubt, Fez the Kid
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dopeonplastic/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dopeonplastic/)*

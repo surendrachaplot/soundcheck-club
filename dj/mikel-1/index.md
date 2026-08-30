@@ -1,6 +1,6 @@
 # Mikel (1)
 
-Mikel (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Flinders, Sydney on Sat, 26 Sept 2026.
+Mikel (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Flinders, Sydney on Sat, 26 Sept 2026.
 
 Mikel (1) is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Frankfurt and Sydney. Often billed alongside JUNN GULDUR, ARTISAH and Bleach. Next up: The Flinders, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mikel (1) is a techno and industrial artist tracked on soundcheck, with 10 sets 
 
 JUNN GULDUR, ARTISAH, Bleach
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikel-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikel-1/)*

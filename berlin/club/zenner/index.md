@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "180 min with Barker (live)" on Thu, 24 Sept 2026.
+ZENNER is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "180 min with Barker (live)" on Thu, 24 Sept 2026.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Aleksi Perälä, Alexia (2), Alex Jenkin and Barker and 2 more. Browse upcoming dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -19,4 +19,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with 
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

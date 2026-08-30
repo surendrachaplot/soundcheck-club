@@ -1,15 +1,14 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+MCR-T is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-MCR-T is a techno and house artist tracked on soundcheck, with 259 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+MCR-T is a techno and house artist tracked on soundcheck, with 260 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 59 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Sat, 29 Aug 2026 | Van Nelle Fabriek | Rotterdam |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 18 Sept 2026 | Trädgården | Stockholm |
@@ -19,9 +18,11 @@ MCR-T is a techno and house artist tracked on soundcheck, with 259 sets logged a
 | Sat, 17 Oct 2026 | Turbina | Budapest |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 20 Nov 2026 | Hangaren | Copenhagen |
+| Fri, 27 Nov 2026 | Roxy | Prague |
 
 ## Recently played
 
+- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Kingdom Nightclub, Austin — Sat, 8 Aug 2026
@@ -29,10 +30,9 @@ MCR-T is a techno and house artist tracked on soundcheck, with 259 sets logged a
 - Holocene, Portland — Sat, 1 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Fri, 31 Jul 2026
 - Else, Berlin — Fri, 17 Jul 2026
-- Holland Park, Vancouver — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

@@ -1,6 +1,6 @@
 # OIBAF
 
-OIBAF is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+OIBAF is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 OIBAF is a techno and progressive house artist based in Spain, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Darin Epsilon, Demattei and Goom Gum. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ OIBAF is a techno and progressive house artist based in Spain, tracked on soundc
 
 Darin Epsilon, Demattei, Goom Gum
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oibaf/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oibaf/)*

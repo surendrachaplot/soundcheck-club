@@ -1,6 +1,6 @@
 # Price
 
-Price is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Price is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Price is a house and tech house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside RJ Mullen, Jay Wilson and Deams. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -12,6 +12,7 @@ Price is a house and tech house artist tracked on soundcheck, with 14 sets logge
 
 ## Recently played
 
+- Kelvedon Hall, London — Sat, 29 Aug 2026
 - Winkers Nightclub, London — Sat, 31 May 2025
 - Basing House, London — Sun, 25 May 2025
 - Winkers Nightclub, London — Sat, 3 May 2025
@@ -19,10 +20,9 @@ Price is a house and tech house artist tracked on soundcheck, with 14 sets logge
 - Winkers Nightclub, London — Sat, 30 Nov 2024
 - Egg London, London — Sat, 26 Oct 2024
 - Winkers Nightclub, London — Sat, 21 Sept 2024
-- Winkers Nightclub, London — Sat, 10 Aug 2024
 
 ## Shares bills with
 
 RJ Mullen, Jay Wilson, Deams
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/price/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/price/)*

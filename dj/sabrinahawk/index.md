@@ -1,6 +1,6 @@
 # Sabrina Hawk
 
-Sabrina Hawk is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
+Sabrina Hawk is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
 
 Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside Louisianaha, LIZZN and Leon Haller. Next up: Lieberscholli, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on sou
 
 Louisianaha, LIZZN, Leon Haller
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*

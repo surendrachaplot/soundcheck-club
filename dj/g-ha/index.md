@@ -1,6 +1,6 @@
 # G-HA
 
-G-HA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jaeger, Oslo on Fri, 4 Sept 2026.
+G-HA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jaeger, Oslo on Fri, 4 Sept 2026.
 
 G-HA is a house and techno artist tracked on soundcheck, with 251 sets logged across Berlin and Oslo. Often billed alongside Olanskii, Øyvind Morken and Vinny Villbass. Next up: Jaeger, Oslo on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ G-HA is a house and techno artist tracked on soundcheck, with 251 sets logged ac
 
 Olanskii, Øyvind Morken, Vinny Villbass
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g-ha/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g-ha/)*

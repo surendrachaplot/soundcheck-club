@@ -1,6 +1,6 @@
 # Combo Torino
 
-Combo Torino is a music venue in Turin with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Moods - Aliseo (Arketypo) - vinyl set" on Thu, 8 Oct 2026.
+Combo Torino is a music venue in Turin with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Moods - Aliseo (Arketypo) - vinyl set" on Thu, 8 Oct 2026.
 
 Combo Torino is a music venue in Turin listed on soundcheck. 1 upcoming night, with line-ups including Al.Essio. Browse upcoming dates, start times and who's playing. Corso Regina Margherita 128, Turin10152, Italy.
 
@@ -14,4 +14,4 @@ Combo Torino is a music venue in Turin listed on soundcheck. 1 upcoming night, w
 
 Corso Regina Margherita 128, Turin10152, Italy, Turin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/combo-torino/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/combo-torino/)*

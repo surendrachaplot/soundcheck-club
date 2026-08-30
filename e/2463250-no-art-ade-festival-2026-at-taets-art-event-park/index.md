@@ -14,7 +14,7 @@ No Art ADE Festival 2026 at Taets Art & Event Park on Sat 24 Oct, Amsterdam. 13 
 - Aline Umber
 - ANOTR
 - Brunello
-- Chris Stassy
+- Chris Stussy
 - HALFPINT
 - Hannecart
 - Hunee

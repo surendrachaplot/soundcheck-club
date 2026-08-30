@@ -1,6 +1,6 @@
 # MIARISUA
 
-MIARISUA is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mansions, New York City on Sun, 30 Aug 2026.
+MIARISUA is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mansions, New York City on Sun, 30 Aug 2026.
 
 MIARISUA is an electro and progressive house artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside AceMo, Bell Domin and CSILLA. Next up: Mansions, Newyorkcity on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ MIARISUA is an electro and progressive house artist tracked on soundcheck, with 
 
 AceMo, Bell Domin, CSILLA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miarisua/)*

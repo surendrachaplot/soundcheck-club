@@ -1,6 +1,6 @@
 # Emma (2)
 
-Emma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 13 Sept 2026.
+Emma (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ku Barcelona, Barcelona on Sun, 13 Sept 2026.
 
 Emma (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Detroit and Miami and 2 more. Often billed alongside Jay Prouty, Asha Jasz and Connie. Next up: Ku Barcelona, Barcelona on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Emma (2) is a techno and house artist based in United States of America, tracked
 
 Jay Prouty, Asha Jasz, Connie
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-2/)*

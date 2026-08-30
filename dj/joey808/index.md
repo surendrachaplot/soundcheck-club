@@ -1,6 +1,6 @@
 # Joey 808
 
-Joey 808 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Montagne Verte, Strasbourg on Sun, 30 Aug 2026.
+Joey 808 is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Montagne Verte, Strasbourg on Sun, 30 Aug 2026.
 
 Joey 808 is a techno and tech house artist tracked on soundcheck, with 12 sets logged across Strasbourg. Often billed alongside Beignet, Doudeh and Sunpr. Next up: TBA - Montagne Verte, Strasbourg on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Joey 808 is a techno and tech house artist tracked on soundcheck, with 12 sets l
 
 Beignet, Doudeh, Sunpr
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joey808/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joey808/)*

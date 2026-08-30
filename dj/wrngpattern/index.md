@@ -1,6 +1,6 @@
 # Wrng Pattern
 
-Wrng Pattern is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Masada, Milan on Sat, 5 Sept 2026.
+Wrng Pattern is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Masada, Milan on Sat, 5 Sept 2026.
 
 Wrng Pattern is an electro and house artist tracked on soundcheck, with 21 sets logged across Barcelona and Milan. Often billed alongside David Etienne, Ezart and Daniele Umore. Next up: Masada, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wrng Pattern is an electro and house artist tracked on soundcheck, with 21 sets 
 
 David Etienne, Ezart, Daniele Umore
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrngpattern/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wrngpattern/)*

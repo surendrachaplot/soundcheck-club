@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sound of Hell w/ BSLS, William Luck,  REDBATUN, DT43, VINO and many more" on Sat, 29 Aug 2026.
+OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "EPS x OST Afterparty" on Sun, 30 Aug 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Sound of Hell w/ BSLS, William Luck,  REDBATUN, DT43, VINO and many more | +UMBRAX+, Axciid, BSLS, FOKUS (Live), GLASSBASS, Jordan.nsx, Karashò, Khyodo, Laviena, William Luck |
 | Sun, 30 Aug 2026 | EPS x OST Afterparty | Katy Rough, senaitstar |
 | Thu, 3 Sept 2026 | Savory - Techno Every Thursday | Megaira, OnlyWithYou, TMS (Dj) |
 | Fri, 4 Sept 2026 | MAYHEM x OST w. ALT8, Krl Mx | ALT8, Antonym, GM1 (IT), Krl Mx, L.zwo, Maudux, NYRA (DE), SATYS FYRE, YOVA |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with li
 | Thu, 17 Sept 2026 | Savory - Techno Every Thursday | Brtinzz, WAN.1, saya (DE) |
 | Fri, 18 Sept 2026 | SCHRANZ is BACK with Felix Kröcher | Felix Kröcher |
 | Sat, 19 Sept 2026 | Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more | Athina, DJ HOTMAIL, IGDA, JAZZY (2), Kø:lab, Limoncello, SEKTOR69, Treibende Kraft, ZOEVITA |
+| Thu, 24 Sept 2026 | Savory - Techno Every Thursday | MAURER, WAN.1, sima (DE) |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

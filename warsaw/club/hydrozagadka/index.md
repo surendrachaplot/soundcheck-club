@@ -1,6 +1,6 @@
 # Hydrozagadka
 
-Hydrozagadka is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Senyawa, Everything is Psychedelic, Ryosuke Kiyasu, GORZ - Avant Art Festival" on Fri, 18 Sept 2026.
+Hydrozagadka is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Senyawa, Everything is Psychedelic, Ryosuke Kiyasu, GORZ - Avant Art Festival" on Fri, 18 Sept 2026.
 
 Hydrozagadka is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including dj neurospicy, feeo, Key Asc and Lol K. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -17,4 +17,4 @@ Hydrozagadka is a music venue in Warsaw listed on soundcheck. 4 upcoming nights,
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hydrozagadka/)*

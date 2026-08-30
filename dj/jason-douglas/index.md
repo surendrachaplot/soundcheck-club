@@ -1,6 +1,6 @@
 # Jason-Douglas
 
-Jason-Douglas is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+Jason-Douglas is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
 
 Jason-Douglas is a house and electronica artist tracked on soundcheck, with 6 sets logged across Losangeles, Sandiego and Sanfrancisco. Often billed alongside Hazy, Kana Hishiya and ALKMST. Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Jason-Douglas is a house and electronica artist tracked on soundcheck, with 6 se
 
 Hazy, Kana Hishiya, ALKMST
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jason-douglas/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jason-douglas/)*

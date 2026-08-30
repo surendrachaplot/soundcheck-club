@@ -1,14 +1,13 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Supermarket, Zurich on Sat, 29 Aug 2026.
+Marlie is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
 
-Marlie is a house and tech house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Auckland, Bali and Barcelona and 24 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Supermarket, Zurich on Sat 29 Aug.
+Marlie is a house and tech house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Auckland, Bali and Barcelona and 24 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Les Enfants Brillants, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Supermarket | Zurich |
 | Sat, 5 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 11 Sept 2026 | BRET | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -20,9 +19,11 @@ Marlie is a house and tech house artist tracked on soundcheck, with 127 sets log
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
+- Supermarket, Zurich — Sat, 29 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 15 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 6 Aug 2026
@@ -30,10 +31,9 @@ Marlie is a house and tech house artist tracked on soundcheck, with 127 sets log
 - Night Tales, London — Fri, 17 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 9 Jul 2026
 - Flash, Washington DC — Fri, 3 Jul 2026
-- Green Room NYC, New York City — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

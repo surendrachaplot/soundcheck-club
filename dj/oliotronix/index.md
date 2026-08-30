@@ -1,6 +1,6 @@
 # Oliotronix
 
-Oliotronix is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Absturz, Leipzig on Sat, 26 Sept 2026.
+Oliotronix is a Breakcore and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Absturz, Leipzig on Sat, 26 Sept 2026.
 
 Oliotronix is a breakcore and hardcore artist tracked on soundcheck, with 10 sets logged across Berlin, Leipzig, London and Riga and 1 more. Often billed alongside Absolute Body Control, Aizvakardiena and Bassick. Next up: Absturz, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Oliotronix is a breakcore and hardcore artist tracked on soundcheck, with 10 set
 
 Absolute Body Control, Aizvakardiena, Bassick
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliotronix/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliotronix/)*

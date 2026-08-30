@@ -1,6 +1,6 @@
 # Tunik
 
-Tunik is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
+Tunik is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
 
 Tunik is an electro and techno artist based in Argentina, tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside tINI, Hitch and Oriana. Next up: Seaseaclub Barcelona, Barcelona on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Tunik is an electro and techno artist based in Argentina, tracked on soundcheck,
 
 tINI, Hitch, Oriana
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tunik/)*

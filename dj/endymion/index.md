@@ -1,6 +1,6 @@
 # Endymion
 
-Endymion is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Endymion is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Endymion is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Barcelona, Budapest, Frankfurt and Glasgow and 2 more. Often billed alongside Dimitri K, Korsakoff and Major Conspiracy. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Endymion is a hardcore and gabber artist based in Netherlands, tracked on soundc
 
 Dimitri K, Korsakoff, Major Conspiracy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endymion/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/endymion/)*

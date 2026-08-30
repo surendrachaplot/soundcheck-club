@@ -1,6 +1,6 @@
 # stinia3000
 
-stinia3000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ilses Erika, Leipzig on Fri, 25 Sept 2026.
+stinia3000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ilses Erika, Leipzig on Fri, 25 Sept 2026.
 
 stinia3000 is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Leipzig. Often billed alongside Lena Brecht, Aamir and Ali Rajat. Next up: Ilses Erika, Leipzig on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ stinia3000 is a techno and house artist based in Germany, tracked on soundcheck,
 
 Lena Brecht, Aamir, Ali Rajat
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stinia3000/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stinia3000/)*

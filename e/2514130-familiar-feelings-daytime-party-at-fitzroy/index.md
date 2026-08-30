@@ -1,6 +1,6 @@
 # Familiar Feelings · Daytime Party at Fitzroy
 
-Familiar Feelings · Daytime Party at Fitzroy on Sun 20 Sept, Berlin. 2 acts on the bill: Gal Kadan and Mille (DE). House and Disco. Preview the line-up and save it on soundcheck.
+Familiar Feelings · Daytime Party at Fitzroy on Sun 20 Sept, Berlin. 3 acts on the bill: David Pearl, Gal Kadan and Mille (DE). House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Familiar Feelings · Daytime Party at Fitzroy on Sun 20 Sept, Berlin. 2 acts on 
 
 ## Line-up
 
+- David Pearl
 - Gal Kadan
 - Mille (DE)
 

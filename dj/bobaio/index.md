@@ -1,6 +1,6 @@
 # BOBAIO
 
-BOBAIO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at OCZKI, Warsaw on Sat, 24 Oct 2026.
+BOBAIO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OCZKI, Warsaw on Sat, 24 Oct 2026.
 
 BOBAIO is a techno and industrial artist based in Romania, tracked on soundcheck, with 7 sets logged across Bucharest and Warsaw. Often billed alongside KØMI, SCHELLT and Józef Keuner. Next up: OCZKI, Warsaw on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ BOBAIO is a techno and industrial artist based in Romania, tracked on soundcheck
 
 KØMI, SCHELLT, Józef Keuner
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobaio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobaio/)*

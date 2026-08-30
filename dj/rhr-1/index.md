@@ -1,14 +1,13 @@
 # RHR
 
-RHR is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+RHR is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
 
-RHR is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+RHR is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 4 Sept 2026 | Strange Brew | Bristol |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -29,4 +28,4 @@ RHR is a techno and house artist tracked on soundcheck, with 110 sets logged acr
 
 Cashu, upsammy, BADSISTA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

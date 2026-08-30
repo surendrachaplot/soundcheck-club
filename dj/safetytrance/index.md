@@ -1,6 +1,6 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
+Safety Trance is a Techno and Reggaeton artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
 
 Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Barcelona and Berlin and 43 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: Nitsa Club, Barcelona on Fri 4 Sept.
 
@@ -32,4 +32,4 @@ Safety Trance is a techno and reggaeton artist tracked on soundcheck, with 111 s
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

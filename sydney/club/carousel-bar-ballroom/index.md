@@ -1,14 +1,13 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "★ S.A.S.H Sydney ★ Ross Mvnro ★ Saturday 29th August ★" on Sat, 29 Aug 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "★ SASH presents Carousel 3rd Birthday ★ Saturday 5th September ★" on Sat, 5 Sept 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcoming nights, with line-ups including DAYZZI, Deaf Toucan, DJ SWISHERMAN and FUKHED and 1 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 6 upcoming nights, with line-ups including DAYZZI, Deaf Toucan, DJ SWISHERMAN and FUKHED and 1 more. Browse upcoming dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | ★ S.A.S.H Sydney ★ Ross Mvnro ★ Saturday 29th August ★ |  |
 | Sat, 5 Sept 2026 | ★ SASH presents Carousel 3rd Birthday ★ Saturday 5th September ★ |  |
 | Sat, 12 Sept 2026 | ★ S.A.S.H Sydney ★ Houseology ★ Secret Guest ★ Saturday 12th September ★ |  |
 | Sat, 19 Sept 2026 | ★ S.A.S.H Sydney ★ Eddie Richards ★ Saturday 19th September ★ |  |
@@ -20,4 +19,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 7 upcom
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

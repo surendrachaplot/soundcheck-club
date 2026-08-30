@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: HYANNY at YuYu Cine Club
 
-Yu Yu Cine Club: HYANNY at YuYu Cine Club on Fri 4 Sept, Mexicocity. 1 act on the bill: HEN YANNI. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: HYANNY at YuYu Cine Club on Fri 4 Sept, Mexicocity. 2 acts on the bill: Adam BFD and HEN YANNI. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yu Yu Cine Club: HYANNY at YuYu Cine Club on Fri 4 Sept, Mexicocity. 1 act on th
 
 ## Line-up
 
+- Adam BFD
 - HEN YANNI
 
 *Source: [soundcheck](https://soundcheck.club/e/2515920-yu-yu-cine-club-hyanny-at-yuyu-cine-club/)*

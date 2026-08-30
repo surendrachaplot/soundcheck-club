@@ -1,6 +1,6 @@
 # bangus
 
-bangus is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
+bangus is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
 
 bangus is a garage and uk funky artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Tiffany Quinn, G&T (2) and Case (2). Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ bangus is a garage and uk funky artist tracked on soundcheck, with 12 sets logge
 
 Tiffany Quinn, G&T (2), Case (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bangus/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bangus/)*

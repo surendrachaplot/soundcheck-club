@@ -1,6 +1,6 @@
 # EL SUCIO
 
-EL SUCIO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+EL SUCIO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 EL SUCIO is a club and techno artist based in Peru, tracked on soundcheck, with 25 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Franxx, MANGUMAMI and Cybersyn. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ EL SUCIO is a club and techno artist based in Peru, tracked on soundcheck, with 
 
 Franxx, MANGUMAMI, Cybersyn
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsucio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elsucio/)*

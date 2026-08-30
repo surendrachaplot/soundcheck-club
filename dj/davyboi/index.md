@@ -1,6 +1,6 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+davyboi is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -36,4 +36,4 @@ davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logge
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

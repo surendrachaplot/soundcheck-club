@@ -1,6 +1,6 @@
 # silkshirt
 
-silkshirt is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
+silkshirt is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
 
 silkshirt is a club and techno artist tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside BEYBLADE SHAWTY, Niyx and 550am. Next up: Mood Ring, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ silkshirt is a club and techno artist tracked on soundcheck, with 15 sets logged
 
 BEYBLADE SHAWTY, Niyx, 550am
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silkshirt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silkshirt/)*

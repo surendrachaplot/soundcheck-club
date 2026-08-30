@@ -1,6 +1,6 @@
 # Not DJ Pete
 
-Not DJ Pete is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bruchberg, Berlin on Sat, 3 Oct 2026.
+Not DJ Pete is a Italo Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bruchberg, Berlin on Sat, 3 Oct 2026.
 
 Not DJ Pete is an italo disco and ebm artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bijon and Captain Concern. Next up: Bruchberg, Berlin on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Not DJ Pete is an italo disco and ebm artist tracked on soundcheck, with 3 sets 
 
 Bijon, Captain Concern
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notdjpete/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notdjpete/)*

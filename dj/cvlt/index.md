@@ -1,6 +1,6 @@
 # CVLT
 
-CVLT is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
+CVLT is a House and Italo Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
 
 CVLT is a house and italo disco artist tracked on soundcheck, with 43 sets logged across Brussels, Hongkong, Lisbon and Madrid and 2 more. Often billed alongside Capablanca, Thiago Guiselini and Telma. Next up: Collect LX Factory, Lisbon on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ CVLT is a house and italo disco artist tracked on soundcheck, with 43 sets logge
 
 Capablanca, Thiago Guiselini, Telma
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cvlt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cvlt/)*

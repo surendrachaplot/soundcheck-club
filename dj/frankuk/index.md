@@ -1,6 +1,6 @@
 # FRANK (UK)
 
-FRANK (UK) is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Gallery, London on Fri, 30 Oct 2026.
+FRANK (UK) is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Gallery, London on Fri, 30 Oct 2026.
 
 FRANK (UK) is a minimal techno and techno artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside B3KKA, Fernweh (2) and Aur0m. Next up: Gallery, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FRANK (UK) is a minimal techno and techno artist tracked on soundcheck, with 10 
 
 B3KKA, Fernweh (2), Aur0m
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankuk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankuk/)*

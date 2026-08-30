@@ -1,6 +1,6 @@
 # YUMA
 
-YUMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 6 Sept 2026.
+YUMA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Circus Tokyo, Tokyo on Sun, 6 Sept 2026.
 
 YUMA is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin, Brighton, Dusseldorf and London and 5 more. Often billed alongside SOMMA, DAIY and Incarnated Sound. Next up: Circus Tokyo, Tokyo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ YUMA is a techno and house artist tracked on soundcheck, with 26 sets logged acr
 
 SOMMA, DAIY, Incarnated Sound
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuma/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuma/)*

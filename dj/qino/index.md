@@ -1,6 +1,6 @@
 # Qino
 
-Qino is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
+Qino is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Liberty Point, Philadelphia on Sun, 30 Aug 2026.
 
 Qino is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 4 sets logged across Philadelphia. Often billed alongside tj groover, Big Queso and Cowa. Next up: Liberty Point, Philadelphia on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ Qino is a house and funk / soul artist based in United States of America, tracke
 
 tj groover, Big Queso, Cowa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*

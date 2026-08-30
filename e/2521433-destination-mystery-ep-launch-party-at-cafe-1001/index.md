@@ -1,6 +1,6 @@
 # 'Destination Mystery' EP Launch Party at Cafe 1001
 
-'Destination Mystery' EP Launch Party at Cafe 1001 on Sun 6 Sept, London. 1 act on the bill: Faro. Deep House and Broken Beat. Preview the line-up and save it on soundcheck.
+'Destination Mystery' EP Launch Party at Cafe 1001 on Sun 6 Sept, London. 4 acts on the bill: Faro, Goldbar, LWANGA and Pandar. Deep House and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@
 ## Line-up
 
 - Faro
+- Goldbar
+- LWANGA
+- Pandar
 
 *Source: [soundcheck](https://soundcheck.club/e/2521433-destination-mystery-ep-launch-party-at-cafe-1001/)*

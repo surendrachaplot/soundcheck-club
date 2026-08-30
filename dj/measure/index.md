@@ -1,6 +1,6 @@
 # Measure
 
-Measure is a Experimental and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Measure is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Measure is an experimental and drum & bass artist based in Canada, tracked on soundcheck, with 7 sets logged across Montreal and Toronto. Often billed alongside JakoJako, 16:9 ratio and A Guy Called Gerald. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -9,10 +9,10 @@ Measure is an experimental and drum & bass artist based in Canada, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
-| Sat, 29 Aug 2026 | Esplanade Tranquille | Montreal |
 
 ## Recently played
 
+- Esplanade Tranquille, Montreal — Sat, 29 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Monarch Tavern, Toronto — Sat, 11 Jul 2026
 - Alternity, Toronto — Sat, 22 Nov 2025
@@ -24,4 +24,4 @@ Measure is an experimental and drum & bass artist based in Canada, tracked on so
 
 JakoJako, 16:9 ratio, A Guy Called Gerald
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/measure/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/measure/)*

@@ -1,6 +1,6 @@
 # Twunkerbell
 
-Twunkerbell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 5 Sept 2026.
+Twunkerbell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Twunkerbell is a house and techno artist tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside Booty Juice, Sammy Taylor and vRok. Next up: The Midway, Sanfrancisco on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Twunkerbell is a house and techno artist tracked on soundcheck, with 6 sets logg
 
 Booty Juice, Sammy Taylor, vRok
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twunkerbell/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twunkerbell/)*

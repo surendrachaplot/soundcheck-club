@@ -1,16 +1,13 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Southwark Park, London on Sat, 29 Aug 2026.
+Optimo (Espacio) is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Are You Affiliated, Newcastle on Sun, 30 Aug 2026.
 
-Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 186 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Southwark Park, London on Sat 29 Aug.
+Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 186 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 44 more. Often billed alongside Daniel Avery, HAAi and Batu. Next up: Are You Affiliated, Newcastle on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Southwark Park | London |
-| Sat, 29 Aug 2026 | Distrikt | Leeds |
-| Sat, 29 Aug 2026 | TBA - Southwark Park | London |
 | Sun, 30 Aug 2026 | Are You Affiliated | Newcastle |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Thu, 24 Sept 2026 | Various Venues | London |
@@ -21,17 +18,17 @@ Optimo (Espacio) is a house and techno artist tracked on soundcheck, with 186 se
 
 ## Recently played
 
+- Southwark Park, London — Sat, 29 Aug 2026
+- Distrikt, Leeds — Sat, 29 Aug 2026
+- TBA - Southwark Park, London — Sat, 29 Aug 2026
 - The Pitt Market, Edinburgh — Sat, 22 Aug 2026
 - Sub Club, Glasgow — Sat, 22 Aug 2026
 - TBA, Glasgow — Sat, 22 Aug 2026
 - Jaeger, Oslo — Fri, 14 Aug 2026
 - The Berkeley Suite, Glasgow — Sat, 8 Aug 2026
-- 528 Ibiza, Ibiza — Tue, 4 Aug 2026
-- Nowadays, New York City — Sun, 5 Jul 2026
-- Bastet, Philadelphia — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Daniel Avery, HAAi, Batu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

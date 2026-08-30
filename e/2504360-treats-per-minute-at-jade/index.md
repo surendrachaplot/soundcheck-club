@@ -1,6 +1,6 @@
 # Treats Per Minute at Jade
 
-Treats Per Minute at Jade on Fri 4 Sept, Newyorkcity. 2 acts on the bill: Caratastrophe and Jake Korolev. Preview the line-up and save it on soundcheck.
+Treats Per Minute at Jade on Fri 4 Sept, Newyorkcity. 3 acts on the bill: Caratastrophe, Jake Korolev and Jhariah. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Treats Per Minute at Jade on Fri 4 Sept, Newyorkcity. 2 acts on the bill: Carata
 
 - Caratastrophe
 - Jake Korolev
+- Jhariah
 
 *Source: [soundcheck](https://soundcheck.club/e/2504360-treats-per-minute-at-jade/)*

@@ -1,16 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 23 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Serving Tunes: 001 | Proper Dancing Music All Day Long" on Sat, 29 Aug 2026.
+Starlane Pizza Bar is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Breathe & Parallelism - 12hr Marathon | From House to Techno" on Sun, 30 Aug 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Serving Tunes: 001 / Proper Dancing Music All Day Long | Cardinal Sound |
-| Sat, 29 Aug 2026 | Alien Communications 7th Birthday: After Party | Andrew James Gustav, Anna Wall, De La Reef, Jos |
-| Sat, 29 Aug 2026 | Psyked x Housejackers: MUCKANIKS, Milzy, Bowlesy + MORE | MUCKANIKS, Milzy, TABZ |
 | Sun, 30 Aug 2026 | Breathe & Parallelism - 12hr Marathon / From House to Techno | Belmonte, Clemente Loffredo, Colaps, Cristian Sirica, John's, Parallel G, Subradeon |
 | Mon, 31 Aug 2026 | EXTENDED BANK HOLIDAY FEST | Dale, Greg Nox, LeVin, PR Department, Robbo, Thierry |
 | Sat, 5 Sept 2026 | Distant Audio x Blushh Audio | Ize (1), Jordan Masters, LACEY, Reeshy |
@@ -18,9 +15,12 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 23 upcoming 
 | Sun, 6 Sept 2026 | Crescent London: Sunday Explorations X | Labyrinthine, Sam Wilson, Slumber, Valentin Ginies, localhost |
 | Sat, 12 Sept 2026 | XTD - 012 - After Party | Harry McCanna, Zya (1) |
 | Sat, 12 Sept 2026 | Brainsurfers [All Night Long] | Harry McCanna, Sam Bangura |
+| Fri, 18 Sept 2026 | Forward x Bonanza present: Starlane London | Benny (El Rio Hostel), Kensa, Kyle Toole, Millie McKee, Moaad BKR, Nicky Macha |
+| Sat, 19 Sept 2026 | Starlane presents: Enrenou | Gabriel Rai, Olita (UK), Raphael Carrau, Tunik |
+| Sun, 20 Sept 2026 | YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at STARLANE | Davide Decay, Direkt, La Gosse, Max., Modebaku, Obreja., Samantha Blackburn, Stefan Andrei |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

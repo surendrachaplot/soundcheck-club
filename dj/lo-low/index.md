@@ -1,13 +1,14 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at radial, London on Sun, 30 Aug 2026.
+LO-LOW is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-LO-LOW is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside David Ramsay, Samantha Togni and Someone Sunny. Next up: radial, London on Sun 30 Aug.
+LO-LOW is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Samantha Togni, David Ramsay and Someone Sunny. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Southwark Park | London |
 | Sun, 30 Aug 2026 | radial | London |
 | Sat, 5 Sept 2026 | radial | London |
 | Sat, 19 Sept 2026 | Planet Wax | London |
@@ -27,6 +28,6 @@ LO-LOW is a techno and house artist tracked on soundcheck, with 84 sets logged a
 
 ## Shares bills with
 
-David Ramsay, Samantha Togni, Someone Sunny
+Samantha Togni, David Ramsay, Someone Sunny
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

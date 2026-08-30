@@ -1,6 +1,6 @@
 # KOLO
 
-KOLO is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
+KOLO is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bermondsey Social Club, London on Sat, 12 Sept 2026.
 
 KOLO is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Budapest and London. Often billed alongside Gemma Lou, Brandon Tourle and Diego Gee. Next up: Bermondsey Social Club, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ KOLO is a tech house and house artist based in United Kingdom, tracked on soundc
 
 Gemma Lou, Brandon Tourle, Diego Gee
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolo/)*

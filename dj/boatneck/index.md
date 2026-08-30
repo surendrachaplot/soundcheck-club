@@ -1,6 +1,6 @@
 # Boat Neck
 
-Boat Neck is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jupiter Disco, New York City on Sun, 30 Aug 2026.
+Boat Neck is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jupiter Disco, New York City on Sun, 30 Aug 2026.
 
 Boat Neck is an electronic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Alex McCracken, Artwork and LIONESSA. Next up: Jupiter Disco, Newyorkcity on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Boat Neck is an electronic artist based in United States of America, tracked on 
 
 Alex McCracken, Artwork, LIONESSA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boatneck/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boatneck/)*

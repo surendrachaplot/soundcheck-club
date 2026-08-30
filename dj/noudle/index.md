@@ -1,6 +1,6 @@
 # Noudle
 
-Noudle is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
+Noudle is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
 
 Noudle is a house and garage artist tracked on soundcheck, with 14 sets logged across Bristol and London. Often billed alongside Jerome Six, Sol Edge and Jason Vilka. Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Noudle is a house and garage artist tracked on soundcheck, with 14 sets logged a
 
 Jerome Six, Sol Edge, Jason Vilka
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noudle/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noudle/)*

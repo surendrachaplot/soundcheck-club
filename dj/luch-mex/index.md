@@ -1,6 +1,6 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at KOKO, London on Sat, 19 Sept 2026.
+LUCH (MEX) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KOKO, London on Sat, 19 Sept 2026.
 
 LUCH (MEX) is an afro house and house artist tracked on soundcheck, with 21 sets logged across Barcelona, Chicago, Ibiza and Lisbon and 9 more. Often billed alongside Jamie Jones, Maxi Meraki and ALVEZ. Next up: KOKO, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ LUCH (MEX) is an afro house and house artist tracked on soundcheck, with 21 sets
 
 Jamie Jones, Maxi Meraki, ALVEZ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*

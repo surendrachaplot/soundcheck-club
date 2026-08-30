@@ -1,14 +1,13 @@
 # Manta
 
-Manta is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Manta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Helios37, Cologne on Fri, 11 Sept 2026.
 
-Manta is a house and techno artist based in Chile, tracked on soundcheck, with 44 sets logged across Berlin, Cologne and London. Often billed alongside Qualia Trax, Kosmovision and NoSpice. Next up: Kater, Berlin on Fri 28 Aug.
+Manta is a house and techno artist based in Chile, tracked on soundcheck, with 44 sets logged across Berlin, Cologne and London. Often billed alongside Qualia Trax, Kosmovision and NoSpice. Next up: Helios37, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Helios37 | Cologne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Manta is a house and techno artist based in Chile, tracked on soundcheck, with 4
 
 Qualia Trax, Kosmovision, NoSpice
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manta/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manta/)*

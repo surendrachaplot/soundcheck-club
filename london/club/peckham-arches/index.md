@@ -1,6 +1,6 @@
 # Peckham Arches
 
-Peckham Arches is a music venue in London with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Peckham Day Into Night 12HR Special w/ Profound Sound & Juiced" on Sun, 30 Aug 2026.
+Peckham Arches is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Peckham Day Into Night 12HR Special w/ Profound Sound & Juiced" on Sun, 30 Aug 2026.
 
 Peckham Arches is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Brick Top, Groooves, Holyoake and James Worker and 2 more. Browse upcoming dates, start times and who's playing. 213 Blenheim Grove, London, SE15 4QL.
 
@@ -15,4 +15,4 @@ Peckham Arches is a music venue in London listed on soundcheck. 2 upcoming night
 
 213 Blenheim Grove, London, SE15 4QL, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/peckham-arches/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/peckham-arches/)*

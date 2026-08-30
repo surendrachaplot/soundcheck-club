@@ -1,6 +1,6 @@
 # Yarbit
 
-Yarbit is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lake Zurich, Zurich on Sat, 5 Sept 2026.
+Yarbit is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lake Zurich, Zurich on Sat, 5 Sept 2026.
 
 Yarbit is a techno and tech house artist tracked on soundcheck, with 6 sets logged across Zurich. Often billed alongside Sirol, ARWIN AZIZ and Adriano. Next up: Lake Zurich, Zurich on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Yarbit is a techno and tech house artist tracked on soundcheck, with 6 sets logg
 
 Sirol, ARWIN AZIZ, Adriano
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yarbit/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yarbit/)*

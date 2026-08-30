@@ -1,13 +1,14 @@
 # The Consciousness
 
-The Consciousness is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - BOSTON SECRET LOCATION , Boston on Sat, 31 Oct 2026.
+The Consciousness is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Boston on Thu, 24 Sept 2026.
 
-The Consciousness is a techno and acid artist tracked on soundcheck, with 40 sets logged across Boston and Newyorkcity. Often billed alongside Lufer, Steph Angel and ANDRÉS GARCIL. Next up: TBA - BOSTON SECRET LOCATION , Boston on Sat 31 Oct.
+The Consciousness is a techno and acid artist tracked on soundcheck, with 41 sets logged across Boston and Newyorkcity. Often billed alongside Lufer, Steph Angel and ANDRÉS GARCIL. Next up: TBA, Boston on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | TBA | Boston |
 | Sat, 31 Oct 2026 | TBA - BOSTON SECRET LOCATION  | Boston |
 
 ## Recently played
@@ -25,4 +26,4 @@ The Consciousness is a techno and acid artist tracked on soundcheck, with 40 set
 
 Lufer, Steph Angel, ANDRÉS GARCIL
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theconsciousness/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theconsciousness/)*

@@ -1,14 +1,13 @@
 # Casa Amante Club
 
-Casa Amante Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "CA: Maik Miroux & Andrea Ariana" on Sat, 29 Aug 2026.
+Casa Amante Club is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Domingos de Amante: Daya Dadlani" on Sun, 30 Aug 2026.
 
-Casa Amante Club is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Daya Dadlani, JAVS and Maik Miroux. Browse upcoming dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
+Casa Amante Club is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including Daya Dadlani and JAVS. Browse upcoming dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | CA: Maik Miroux & Andrea Ariana | Maik Miroux |
 | Sun, 30 Aug 2026 | Domingos de Amante: Daya Dadlani | Daya Dadlani |
 | Sat, 12 Sept 2026 | TARDEO MIXTAPE: Especial Aniversario | JAVS |
 
@@ -16,4 +15,4 @@ Casa Amante Club is a music venue in Madrid listed on soundcheck. 3 upcoming nig
 
 Calle de Santiago, 3, 28013 Madrid, España, Madrid
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*

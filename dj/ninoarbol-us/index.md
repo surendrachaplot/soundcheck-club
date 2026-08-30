@@ -1,6 +1,6 @@
 # Niño Arbol
 
-Niño Arbol is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+Niño Arbol is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 Niño Arbol is a techno and house artist based in Mexico, tracked on soundcheck, with 59 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 5 more. Often billed alongside Astroboii, Octoptic and Cybebe. Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -26,4 +26,4 @@ Niño Arbol is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Astroboii, Octoptic, Cybebe
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninoarbol-us/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninoarbol-us/)*

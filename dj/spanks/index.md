@@ -1,6 +1,6 @@
 # Spanks
 
-Spanks is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Stereo (Zurich), Zurich on Sat, 12 Sept 2026.
+Spanks is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Stereo (Zurich), Zurich on Sat, 12 Sept 2026.
 
 Spanks is a house and club artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Zurich. Often billed alongside Brahmski, Nikklaas and Alain Gertrand. Next up: Stereo (Zurich), Zurich on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Spanks is a house and club artist based in Germany, tracked on soundcheck, with 
 
 Brahmski, Nikklaas, Alain Gertrand
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spanks/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spanks/)*

@@ -1,6 +1,6 @@
 # ARP8
 
-ARP8 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at EQ San Diego, San Diego on Fri, 4 Sept 2026.
+ARP8 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at EQ San Diego, San Diego on Fri, 4 Sept 2026.
 
 ARP8 is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Sandiego. Often billed alongside Codak, JAQ.XS and Michelle Mendez. Next up: EQ San Diego, Sandiego on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ARP8 is a techno and house artist based in United States of America, tracked on 
 
 Codak, JAQ.XS, Michelle Mendez
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arp8/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arp8/)*

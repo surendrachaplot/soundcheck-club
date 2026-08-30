@@ -1,6 +1,6 @@
 # Britton
 
-Britton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Clubhouse at The Victoria, London on Sun, 30 Aug 2026.
+Britton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Clubhouse at The Victoria, London on Sun, 30 Aug 2026.
 
 Britton is a techno and house artist tracked on soundcheck, with 8 sets logged across Boston, London, Losangeles and Sandiego and 1 more. Often billed alongside Drew Dapps, Kaipora and Sammy Legs. Next up: The Clubhouse at The Victoria, London on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ Britton is a techno and house artist tracked on soundcheck, with 8 sets logged a
 
 Drew Dapps, Kaipora, Sammy Legs
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/britton/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/britton/)*

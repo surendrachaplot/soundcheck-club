@@ -1,14 +1,13 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Zora Collective" on Sat, 29 Aug 2026.
+Karmakoma is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Nadja (CA) — Drone Doom Legends in Belgrade" on Thu, 3 Sept 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 5 upcoming nights, with line-ups including Ciel, Feloneezy, Gerd Janson and Joe Claussell and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, with line-ups including Ciel, Feloneezy, Gerd Janson and Joe Claussell and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Zora Collective |  |
 | Thu, 3 Sept 2026 | Nadja (CA) — Drone Doom Legends in Belgrade |  |
 | Fri, 11 Sept 2026 | Apgrade Weekend September 2026 | Ciel, Feloneezy, Gerd Janson, Johana, Lipelis, Nikola Vemic, Objekt, Olgica |
 | Sat, 26 Sept 2026 | СОЮЗ (SOYUZ) IN BELGRADE |  |
@@ -18,4 +17,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 5 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

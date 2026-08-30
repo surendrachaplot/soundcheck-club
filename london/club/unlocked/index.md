@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "RBC's RECESS" on Sun, 30 Aug 2026.
+UNLOCKED is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "RBC's RECESS" on Sun, 30 Aug 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -22,4 +22,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 9 upcoming nights, wit
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

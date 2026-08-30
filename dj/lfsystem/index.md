@@ -1,14 +1,16 @@
 # LF SYSTEM
 
-LF SYSTEM is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+LF SYSTEM is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-LF SYSTEM is a house and disco artist tracked on soundcheck, with 133 sets logged across Aberdeen, Auckland, Austin and Barcelona and 39 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
+LF SYSTEM is a house and disco artist tracked on soundcheck, with 135 sets logged across Aberdeen, Auckland, Austin and Barcelona and 39 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 27 Nov 2026 | The Prince Consort | Brisbane |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ LF SYSTEM is a house and disco artist tracked on soundcheck, with 133 sets logge
 
 Sonny Fodera, Solardo, Eats Everything
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*

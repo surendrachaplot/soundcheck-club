@@ -1,6 +1,6 @@
 # nonsuit
 
-nonsuit is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
+nonsuit is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The San Francisco Mint, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 nonsuit is a techno and club artist tracked on soundcheck, with 95 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco and 1 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: The San Francisco Mint, Sanfrancisco on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ nonsuit is a techno and club artist tracked on soundcheck, with 95 sets logged a
 
 likeholywine, Adam Kraft, Beverly Chills
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonsuit/)*

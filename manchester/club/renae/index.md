@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ROJAK PESTA PRIDE 2026 [FREE ENTRY]" on Sat, 29 Aug 2026.
+renae is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Angels Pride Party" on Sun, 30 Aug 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Abena, Anop, April (UK) and ASHTYLR and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Anop, April (UK), ASHTYLR and atalaya and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | ROJAK PESTA PRIDE 2026 [FREE ENTRY] | Abena, Ayy Den, Charms, DANCING WITH STANLEY, Kuriboh, Natalia (2), sebastieN |
 | Sun, 30 Aug 2026 | Angels Pride Party | FKA Hardcore, Jess Rose, Miss Cabbage, The Fat Britney, Yyre, atalaya |
 | Sat, 5 Sept 2026 | CLUBCOSMICA |  |
 | Sat, 5 Sept 2026 | CLUBCOSMICA | DAISY, KRÄFTY, eira haul |
@@ -23,4 +22,4 @@ renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, w
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

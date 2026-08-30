@@ -1,6 +1,6 @@
 # Sofried
 
-Sofried is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Liquid Club, Malta on Fri, 11 Sept 2026.
+Sofried is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Liquid Club, Malta on Fri, 11 Sept 2026.
 
 Sofried is a techno and house artist tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside PHYNYKS, Aiden (DE) and Andrea Giordani. Next up: Liquid Club, Malta on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Sofried is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 PHYNYKS, Aiden (DE), Andrea Giordani
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofried/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofried/)*

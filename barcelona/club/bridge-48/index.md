@@ -1,6 +1,6 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "B48 LIVE x THE GROOVE TELLERS" on Thu, 3 Sept 2026.
+Bridge 48 is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "B48 LIVE x THE GROOVE TELLERS" on Thu, 3 Sept 2026.
 
 Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Bucle, Devicious, Freddy Bello and Freeka and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
@@ -23,4 +23,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming nights
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

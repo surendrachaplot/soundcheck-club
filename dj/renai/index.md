@@ -1,6 +1,6 @@
 # renai
 
-renai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at A.i Warehouse, Washington DC on Sat, 5 Sept 2026.
+renai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at A.i Warehouse, Washington DC on Sat, 5 Sept 2026.
 
 renai is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside My Friend Jack, nikolo and shanty mane. Next up: A.i Warehouse, Washingtondc on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ renai is a house and techno artist based in United States of America, tracked on
 
 My Friend Jack, nikolo, shanty mane
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renai/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/renai/)*

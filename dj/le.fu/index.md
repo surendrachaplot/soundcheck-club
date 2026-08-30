@@ -1,6 +1,6 @@
 # Le.Fu
 
-Le.Fu is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Le.Fu is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 Le.Fu is a techno and progressive house artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Marco Baskind, Surreal (DE) and Melbo. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Le.Fu is a techno and progressive house artist based in Germany, tracked on soun
 
 Marco Baskind, Surreal (DE), Melbo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/le.fu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/le.fu/)*

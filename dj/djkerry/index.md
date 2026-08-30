@@ -1,6 +1,6 @@
 # Dj Kerry
 
-Dj Kerry is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
+Dj Kerry is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
 
 Dj Kerry is a house and disco artist tracked on soundcheck, with 47 sets logged across Losangeles, Newyorkcity, Osaka and Sanfrancisco and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: General Lee's Cocktail House, Losangeles on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Dj Kerry is a house and disco artist tracked on soundcheck, with 47 sets logged 
 
 Stacy Christine, Heidi Lawden, Masha Mar
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkerry/)*

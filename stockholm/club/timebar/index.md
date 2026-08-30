@@ -1,6 +1,6 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "SACRED TRADITION" on Sun, 30 Aug 2026.
+Timebar is a music venue in Stockholm with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "SACRED TRADITION" on Sun, 30 Aug 2026.
 
 Timebar is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, with line-ups including Around Us, Coralie Llie, Daddy Problems and Marble and 2 more. Browse upcoming dates, start times and who's playing. Hornsgatan 174.
 
@@ -16,4 +16,4 @@ Timebar is a music venue in Stockholm listed on soundcheck. 3 upcoming nights, w
 
 Hornsgatan 174, Stockholm
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*

@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 53 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DJ Bar Bridge SHIBUYA 12th ANNIVERSARY PARTY 2DAYS DAY2" on Sat, 29 Aug 2026.
+DJ Bar Bridge is a music venue in Tokyo with 52 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "STONE JAM" on Mon, 31 Aug 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 53 upcoming nights, with line-ups including Diceman, DJ246, DJ Emma and DJ Nori and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 52 upcoming nights, with line-ups including Diceman, DJ246, DJ Emma and DJ Nori and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | DJ Bar Bridge SHIBUYA 12th ANNIVERSARY PARTY 2DAYS DAY2 | DJ Emma, KATIMI AI, KZA, Toshiyuki Goto |
 | Mon, 31 Aug 2026 | STONE JAM |  |
 | Tue, 1 Sept 2026 | PRIMAL DUB, Diceman, TAKERU & Yumic0rn | Diceman |
 | Wed, 2 Sept 2026 | HIROSHI KAWANABE & KZMT |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 53 upcoming nights
 | Mon, 7 Sept 2026 | KANGO, SHINYA & HIRO |  |
 | Tue, 8 Sept 2026 | RYOSUKE, EDDY & JITSUMITSU |  |
 | Wed, 9 Sept 2026 | KUBOTA,TAKESHI & HALFBY |  |
+| Thu, 10 Sept 2026 | HOUSE-TEX | DJ Emma, KATIMI AI |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

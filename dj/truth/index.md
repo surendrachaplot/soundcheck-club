@@ -1,6 +1,6 @@
 # Truth
 
-Truth is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Concord Music Hall, Chicago on Fri, 23 Oct 2026.
+Truth is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Concord Music Hall, Chicago on Fri, 23 Oct 2026.
 
 Truth is a dubstep and bass artist based in New Zealand, tracked on soundcheck, with 27 sets logged across Auckland, Chicago, Denver and London and 11 more. Often billed alongside Paige Julia, Galantis and Zeds Dead. Next up: Concord Music Hall, Chicago on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Truth is a dubstep and bass artist based in New Zealand, tracked on soundcheck, 
 
 Paige Julia, Galantis, Zeds Dead
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truth/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/truth/)*

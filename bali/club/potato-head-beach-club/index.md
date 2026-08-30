@@ -1,6 +1,6 @@
 # Potato Head Beach Club
 
-Potato Head Beach Club is a music venue in Bali with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Potato Head presents: Dekmantel" on Sat, 26 Sept 2026.
+Potato Head Beach Club is a music venue in Bali with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Potato Head presents: Dekmantel" on Sat, 26 Sept 2026.
 
 Potato Head Beach Club is a music venue in Bali listed on soundcheck. 1 upcoming night, with line-ups including Archie Dennis, Avalon Emerson, Bagvs and Dekmantel Soundsystem and 2 more. Browse upcoming dates, start times and who's playing. Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia.
 
@@ -14,4 +14,4 @@ Potato Head Beach Club is a music venue in Bali listed on soundcheck. 1 upcoming
 
 Jl. Petitenget No.51B, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia, Bali
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/potato-head-beach-club/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/potato-head-beach-club/)*

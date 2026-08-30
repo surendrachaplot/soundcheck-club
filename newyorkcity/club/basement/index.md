@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy" on Sat, 29 Aug 2026.
+BASEMENT is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Twitch live with zamvoil" on Tue, 1 Sept 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Yonti / Beste Hira / Annie Lew / Jason Kendig b2b James Axon / Kilopatrah Jones / Immy | Annie Lew, Beste Hira, Immy, James Axon, Jason Kendig, Kilopatrah Jones, Yonti |
 | Tue, 1 Sept 2026 | Twitch live with zamvoil |  |
 | Fri, 4 Sept 2026 | Quelza / Takaaki Itoh / ketia / Tommy Hart / Sevyn | Quelza, Sevyn, Takaaki Itoh, Tommy Hart, ketia |
 | Sat, 5 Sept 2026 | Stef Mendesidis live / Sera J / LYDO / The Carry Nation / AIDA / SENERGI | AIDA (CA), LYDO, SENERGI, Sera J, Stef Mendesidis, The Carry Nation |
@@ -23,4 +22,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 10 upcoming night
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

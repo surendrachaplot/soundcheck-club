@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
+Yu Su is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
 
 Yu Su is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Austin, Bali and Barcelona and 43 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Hagglers Corner, Sheffield on Sun 30 Aug.
 
@@ -35,4 +35,4 @@ Yu Su is a house and techno artist tracked on soundcheck, with 144 sets logged a
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

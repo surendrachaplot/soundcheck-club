@@ -1,6 +1,6 @@
 # Gazebo DJs
 
-Gazebo DJs is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
+Gazebo DJs is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
 
 Gazebo DJs is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bangkok and London. Often billed alongside Brent Burns, Jirus (MELA) and KPODKPOD. Next up: Dual, Bangkok on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Gazebo DJs is a house and balearic artist based in United Kingdom, tracked on so
 
 Brent Burns, Jirus (MELA), KPODKPOD
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazebodjs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gazebodjs/)*

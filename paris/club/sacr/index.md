@@ -1,15 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Sacré présente: Autograf & Orisha" on Sat, 29 Aug 2026.
+Sacré is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Sacré présente: Herr Krank & Aldonna" on Fri, 4 Sept 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including Aldonna, Autograf, Bag Raiders and Basile de Suresnes and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Aldonna, Bag Raiders, Basile de Suresnes and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Sacré présente: Autograf & Orisha | Autograf |
-| Sat, 29 Aug 2026 | JOY (Anonymous) presents - Light In The Dark - LIVE |  |
 | Fri, 4 Sept 2026 | Sacré présente: Herr Krank & Aldonna | Aldonna, Herr Krank |
 | Sat, 5 Sept 2026 | Sacré présente: Tjade & Vickies | Tjade, Vickies |
 | Fri, 11 Sept 2026 | Sacré présente: Justin Jay & Olyntwo | Justin Jay |
@@ -18,9 +16,11 @@ Sacré is a music venue in Paris listed on soundcheck. 13 upcoming nights, with 
 | Sat, 19 Sept 2026 | Sacré présente: Demuja & Serious A | Demuja, Serious A |
 | Fri, 25 Sept 2026 | Sacré présente: Happiness Therapy Takeover | Crowd Control, Maggy Smiss, Marius Acke |
 | Sat, 26 Sept 2026 | Sacré présente: BRIDGE & Nightchou | Bridge (NY), Nightchou |
+| Fri, 2 Oct 2026 | Sacré présente: Italo Deviance & Funky Express | Italo Deviance |
+| Sat, 3 Oct 2026 | Sacré présente: Bag Raiders & Dessins Nuls Animés | Bag Raiders |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

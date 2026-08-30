@@ -1,6 +1,6 @@
 # TIDEE
 
-TIDEE is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ijcatcher, Amsterdam on Sat, 26 Sept 2026.
+TIDEE is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ijcatcher, Amsterdam on Sat, 26 Sept 2026.
 
 TIDEE is a minimal and techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside Joris Turenhout, Azzurro and A.D.H.S.. Next up: Ijcatcher, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ TIDEE is a minimal and techno artist based in Netherlands, tracked on soundcheck
 
 Joris Turenhout, Azzurro, A.D.H.S.
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tidee/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tidee/)*

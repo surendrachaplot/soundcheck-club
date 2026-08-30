@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Electro Oasis (every Sunday) ***Free with RSVP ticket***" on Sun, 30 Aug 2026.
+Le Red Room is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Electro Oasis (every Sunday) ***Free with RSVP ticket***" on Sun, 30 Aug 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including fangsie, Guillaume Michaud, Mowie (2) and Special K (CA). Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -18,4 +18,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 5 upcoming nights
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

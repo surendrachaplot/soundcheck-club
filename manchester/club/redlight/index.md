@@ -1,6 +1,6 @@
 # Redlight
 
-Redlight is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "KAMPUS BLOCK PARTY x GOOD CUSTARD" on Sun, 30 Aug 2026.
+Redlight is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "KAMPUS BLOCK PARTY x GOOD CUSTARD" on Sun, 30 Aug 2026.
 
 Redlight is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including imad:re, Macy Lancaster and Mascott. Browse upcoming dates, start times and who's playing. 4-2 Little David St, Manchester M1 3GL.
 
@@ -14,4 +14,4 @@ Redlight is a music venue in Manchester listed on soundcheck. 1 upcoming night, 
 
 4-2 Little David St, Manchester M1 3GL, Manchester
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/redlight/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/redlight/)*

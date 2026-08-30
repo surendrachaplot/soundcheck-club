@@ -1,6 +1,6 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 22 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+KUKO is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
 KUKO is a techno and trance artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
@@ -10,7 +10,6 @@ KUKO is a techno and trance artist tracked on soundcheck, with 209 sets logged a
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
@@ -20,9 +19,11 @@ KUKO is a techno and trance artist tracked on soundcheck, with 209 sets logged a
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
+| Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
 
 ## Recently played
 
+- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Arzenal, Budapest — Wed, 19 Aug 2026
@@ -30,10 +31,9 @@ KUKO is a techno and trance artist tracked on soundcheck, with 209 sets logged a
 - TBA - // HALLE622, Zurich — Sat, 8 Aug 2026
 - Waschhaus, Berlin — Fri, 7 Aug 2026
 - Valley, Berlin — Sun, 2 Aug 2026
-- Nescio - by Generator Amsterdam, Amsterdam — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

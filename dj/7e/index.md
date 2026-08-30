@@ -1,6 +1,6 @@
 # 7e
 
-7e is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Oath, Tokyo on Sat, 19 Sept 2026.
+7e is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Oath, Tokyo on Sat, 19 Sept 2026.
 
 7e is a techno and house artist tracked on soundcheck, with 169 sets logged across Berlin, Kyoto, Leipzig and Osaka and 1 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Oath, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@
 
 Mari Sakurai, suimin, TEI TEI
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*

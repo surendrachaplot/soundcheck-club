@@ -1,6 +1,6 @@
 # Jacuzzi General
 
-Jacuzzi General is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at West Port Oracle, Edinburgh on Sun, 30 Aug 2026.
+Jacuzzi General is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at West Port Oracle, Edinburgh on Sun, 30 Aug 2026.
 
 Jacuzzi General is a house and disco artist tracked on soundcheck, with 104 sets logged across Berlin and Edinburgh. Often billed alongside Ann Tweak, Fierro Grande and Lara Sinclair. Next up: West Port Oracle, Edinburgh on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Jacuzzi General is a house and disco artist tracked on soundcheck, with 104 sets
 
 Ann Tweak, Fierro Grande, Lara Sinclair
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jacuzzigeneral/)*

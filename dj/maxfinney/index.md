@@ -1,6 +1,6 @@
 # Max Finney
 
-Max Finney is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Copenhill, Copenhagen on Fri, 18 Sept 2026.
+Max Finney is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Copenhill, Copenhagen on Fri, 18 Sept 2026.
 
 Max Finney is a house and disco artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen. Often billed alongside Enterthevoigt, Wille and Benster. Next up: Copenhill, Copenhagen on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Max Finney is a house and disco artist based in Denmark, tracked on soundcheck, 
 
 Enterthevoigt, Wille, Benster
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxfinney/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxfinney/)*

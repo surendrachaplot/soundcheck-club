@@ -1,6 +1,6 @@
 # Pack Theater
 
-Pack Theater is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "SYNTHPROV: Music and Improv" on Sat, 29 Aug 2026.
+Pack Theater is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "SYNTHPROV: Music and Improv" on Sat, 29 Aug 2026.
 
 Pack Theater is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1615 N Vermont Ave, Los Angeles, CA 90027.
 
@@ -14,4 +14,4 @@ Pack Theater is a music venue in Losangeles listed on soundcheck. 1 upcoming nig
 
 1615 N Vermont Ave, Los Angeles, CA 90027, Los Angeles
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/pack-theater/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/pack-theater/)*

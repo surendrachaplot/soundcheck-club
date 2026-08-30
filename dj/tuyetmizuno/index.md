@@ -1,6 +1,6 @@
 # Tuyetmizuno
 
-Tuyetmizuno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Z Maruyama, Tokyo on Sat, 12 Sept 2026.
+Tuyetmizuno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Z Maruyama, Tokyo on Sat, 12 Sept 2026.
 
 Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, with 71 sets logged across Amsterdam and Tokyo. Often billed alongside Nanlaze, You Liang and Kulage. Next up: Z Maruyama, Tokyo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Tuyetmizuno is a techno and house artist based in Japan, tracked on soundcheck, 
 
 Nanlaze, You Liang, Kulage
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tuyetmizuno/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tuyetmizuno/)*

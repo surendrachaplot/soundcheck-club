@@ -1,6 +1,6 @@
 # Derek Monteiro
 
-Derek Monteiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Placita Olvera, Los Angeles on Sun, 30 Aug 2026.
+Derek Monteiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Placita Olvera, Los Angeles on Sun, 30 Aug 2026.
 
 Derek Monteiro is a house and techno artist tracked on soundcheck, with 6 sets logged across Losangeles. Often billed alongside BUCK/OFF, Heart of Gold and Jason Kendig. Next up: Placita Olvera, Losangeles on Sun 30 Aug.
 
@@ -22,4 +22,4 @@ Derek Monteiro is a house and techno artist tracked on soundcheck, with 6 sets l
 
 BUCK/OFF, Heart of Gold, Jason Kendig
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derekmonteiro/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derekmonteiro/)*

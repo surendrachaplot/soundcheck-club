@@ -1,14 +1,15 @@
 # Adam Sellouk
 
-Adam Sellouk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 11 Sept 2026.
+Adam Sellouk is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 11 Sept 2026.
 
-Adam Sellouk is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Athens, Austin and Barcelona and 21 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: TBA - Crobar Club, Palermo, Buenosaires on Fri 11 Sept.
+Adam Sellouk is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Austin and Barcelona and 21 more. Often billed alongside Zamna Soundsystem, 19:26 and Kasia (OFC). Next up: TBA - Crobar Club, Palermo, Buenosaires on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Crobar Club, Palermo | Buenos Aires |
+| Fri, 11 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
@@ -27,4 +28,4 @@ Adam Sellouk is a techno and house artist tracked on soundcheck, with 62 sets lo
 
 Zamna Soundsystem, 19:26, Kasia (OFC)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsellouk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamsellouk/)*

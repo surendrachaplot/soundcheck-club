@@ -1,6 +1,6 @@
 # Shanixx
 
-Shanixx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 5 Sept 2026.
+Shanixx is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 5 Sept 2026.
 
 Shanixx is a techno and trance artist based in France, tracked on soundcheck, with 30 sets logged across Berlin, Brussels, Geneva and Lisbon and 5 more. Often billed alongside ELOISA, Stinny Stone and YOVA. Next up: Karmen Camina, Strasbourg on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Shanixx is a techno and trance artist based in France, tracked on soundcheck, wi
 
 ELOISA, Stinny Stone, YOVA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*

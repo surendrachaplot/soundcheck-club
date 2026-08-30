@@ -1,6 +1,6 @@
 # Claude VonStroke
 
-Claude VonStroke is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at StereoBar, Montreal on Fri, 18 Sept 2026.
+Claude VonStroke is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at StereoBar, Montreal on Fri, 18 Sept 2026.
 
 Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: StereoBar, Montreal on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 
 Green Velvet, Ardalan, Boys Noize
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudevonstroke/)*

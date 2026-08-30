@@ -1,6 +1,6 @@
 # Loodas
 
-Loodas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
+Loodas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
 
 Loodas is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Stuttgart. Often billed alongside Hjalte, Aimé You and Daisy Weweh. Next up: Chausseestrasse 131, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Loodas is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Hjalte, Aimé You, Daisy Weweh
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loodas/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loodas/)*

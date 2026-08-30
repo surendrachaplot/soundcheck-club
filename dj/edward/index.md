@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Edward is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Edward is a house and minimal artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Edward is a house and minimal artist tracked on soundcheck, with 130 sets logged
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

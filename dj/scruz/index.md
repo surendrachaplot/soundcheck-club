@@ -1,6 +1,6 @@
 # Scruz
 
-Scruz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
+Scruz is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
 
 Scruz is a garage and bass artist tracked on soundcheck, with 58 sets logged across Auckland, Brisbane, Bristol and Dublin and 10 more. Often billed alongside Tommy Villiers, Bad B!tch Dubz and DRIIA. Next up: Gorilla, Manchester on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Scruz is a garage and bass artist tracked on soundcheck, with 58 sets logged acr
 
 Tommy Villiers, Bad B!tch Dubz, DRIIA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scruz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scruz/)*

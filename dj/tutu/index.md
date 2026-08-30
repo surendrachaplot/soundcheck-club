@@ -1,6 +1,6 @@
 # Tutu
 
-Tutu is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Tutu is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Tutu is an experimental and electronica artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Anthony Rother, Anunaku and Arca. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Tutu is an experimental and electronica artist tracked on soundcheck, with 4 set
 
 Anthony Rother, Anunaku, Arca
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tutu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tutu/)*

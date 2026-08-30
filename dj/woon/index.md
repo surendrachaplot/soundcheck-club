@@ -1,6 +1,6 @@
 # WOON
 
-WOON is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Acadana, Hong Kong on Fri, 20 Nov 2026.
+WOON is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Acadana, Hong Kong on Fri, 20 Nov 2026.
 
 WOON is a techno and industrial artist tracked on soundcheck, with 8 sets logged across Hongkong and Shenzhen. Often billed alongside Nanogram, 100%WONG and 3.14. Next up: Acadana, Hongkong on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ WOON is a techno and industrial artist tracked on soundcheck, with 8 sets logged
 
 Nanogram, 100%WONG, 3.14
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woon/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woon/)*

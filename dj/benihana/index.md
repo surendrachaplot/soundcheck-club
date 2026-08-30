@@ -1,13 +1,14 @@
 # Beni Hana
 
-Beni Hana is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
+Beni Hana is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
 
-Beni Hana is a house and trance artist tracked on soundcheck, with 6 sets logged across Amsterdam and Newyorkcity. Often billed alongside Poolhaus, Shek and Airrica. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
+Beni Hana is a house and trance artist tracked on soundcheck, with 7 sets logged across Amsterdam and Newyorkcity. Often billed alongside Poolhaus, Shek and shanty mane. Next up: Honey's, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Honey's | New York City |
 | Wed, 21 Oct 2026 | Bar Shaffy | Amsterdam |
 
 ## Recently played
@@ -20,6 +21,6 @@ Beni Hana is a house and trance artist tracked on soundcheck, with 6 sets logged
 
 ## Shares bills with
 
-Poolhaus, Shek, Airrica
+Poolhaus, Shek, shanty mane
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benihana/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benihana/)*

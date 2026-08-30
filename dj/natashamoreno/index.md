@@ -1,6 +1,6 @@
 # Natasha Moreno
 
-Natasha Moreno is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Monarch, Berlin on Sat, 5 Sept 2026.
+Natasha Moreno is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Monarch, Berlin on Sat, 5 Sept 2026.
 
 Natasha Moreno is a techno and ambient artist based in Belarus, tracked on soundcheck, with 7 sets logged across Berlin and Vienna. Often billed alongside A_Phan, Alex Zhang Hungtai and Konstantin Smirnov. Next up: Monarch, Berlin on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Natasha Moreno is a techno and ambient artist based in Belarus, tracked on sound
 
 A_Phan, Alex Zhang Hungtai, Konstantin Smirnov
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natashamoreno/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natashamoreno/)*

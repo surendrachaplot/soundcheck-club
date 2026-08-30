@@ -1,6 +1,6 @@
 # Solid Grooves New York at Fulton Fish Market - Hunts Point
 
-Solid Grooves New York at Fulton Fish Market - Hunts Point on Sat 5 Sept, Newyorkcity. 3 acts on the bill: Dennis Cruz, Michael Bibi and PAWSA. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Solid Grooves New York at Fulton Fish Market - Hunts Point on Sat 5 Sept, Newyorkcity. 6 acts on the bill: CatLadyHi, Dennis Cruz, Michael Bibi and PAWSA and 2 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,11 @@ Solid Grooves New York at Fulton Fish Market - Hunts Point on Sat 5 Sept, Newyor
 
 ## Line-up
 
+- CatLadyHi
 - Dennis Cruz
 - Michael Bibi
 - PAWSA
+- Silvie Loto
+- Tiga
 
 *Source: [soundcheck](https://soundcheck.club/e/2436579-solid-grooves-new-york-at-fulton-fish-market-hunts-point/)*

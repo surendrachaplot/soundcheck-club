@@ -1,6 +1,6 @@
 # Mesocosm
 
-Mesocosm is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Mesocosm is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Mesocosm is an experimental and electro artist based in Canada, tracked on soundcheck, with 5 sets logged across Amsterdam and Montreal. Often billed alongside Zora Jones, Barker and Bénédicte. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -22,4 +22,4 @@ Mesocosm is an experimental and electro artist based in Canada, tracked on sound
 
 Zora Jones, Barker, Bénédicte
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesocosm/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mesocosm/)*

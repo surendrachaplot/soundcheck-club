@@ -1,6 +1,6 @@
 # Miss Cabbage
 
-Miss Cabbage is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
+Miss Cabbage is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
 
 Miss Cabbage is a techno and bass artist tracked on soundcheck, with 83 sets logged across Barcelona, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside HUNTRESS, Babyjaii and Rahul.mp3. Next up: renae, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Miss Cabbage is a techno and bass artist tracked on soundcheck, with 83 sets log
 
 HUNTRESS, Babyjaii, Rahul.mp3
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*

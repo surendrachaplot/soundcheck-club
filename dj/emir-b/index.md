@@ -1,6 +1,6 @@
 # EMIR-B
 
-EMIR-B is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cadavra, Madrid on Fri, 4 Sept 2026.
+EMIR-B is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cadavra, Madrid on Fri, 4 Sept 2026.
 
 EMIR-B is a techno and electronica artist based in Argentina, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Buenosaires and Madrid. Often billed alongside ANGEL (3), Bat (US) and DISTORT (ES). Next up: Cadavra, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ EMIR-B is a techno and electronica artist based in Argentina, tracked on soundch
 
 ANGEL (3), Bat (US), DISTORT (ES)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emir-b/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emir-b/)*

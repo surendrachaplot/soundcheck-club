@@ -1,6 +1,6 @@
 # Cortez (2)
 
-Cortez (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lake Zurich, Zurich on Sat, 5 Sept 2026.
+Cortez (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lake Zurich, Zurich on Sat, 5 Sept 2026.
 
 Cortez (2) is a techno and house artist based in Switzerland, tracked on soundcheck, with 20 sets logged across Berlin and Zurich. Often billed alongside Galopp, Dekerim and Jacom (Adroit). Next up: Lake Zurich, Zurich on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Cortez (2) is a techno and house artist based in Switzerland, tracked on soundch
 
 Galopp, Dekerim, Jacom (Adroit)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*

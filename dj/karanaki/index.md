@@ -1,6 +1,6 @@
 # karanaki
 
-karanaki is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kagurane, Tokyo on Sat, 19 Sept 2026.
+karanaki is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kagurane, Tokyo on Sat, 19 Sept 2026.
 
 karanaki is an experimental and techno artist based in Japan, tracked on soundcheck, with 25 sets logged across Seoul and Tokyo. Often billed alongside C-KAY, In Ray and KotaNakano. Next up: Kagurane, Tokyo on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ karanaki is an experimental and techno artist based in Japan, tracked on soundch
 
 C-KAY, In Ray, KotaNakano
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karanaki/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karanaki/)*

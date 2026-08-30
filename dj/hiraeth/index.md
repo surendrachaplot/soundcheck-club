@@ -1,6 +1,6 @@
 # Hiraeth
 
-Hiraeth is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Paramour, Brussels on Fri, 9 Oct 2026.
+Hiraeth is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Paramour, Brussels on Fri, 9 Oct 2026.
 
 Hiraeth is a drum & bass and jungle artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 3 more. Often billed alongside Expensive KVR, Jon Void and MOTA. Next up: Paramour, Brussels on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Hiraeth is a drum & bass and jungle artist tracked on soundcheck, with 19 sets l
 
 Expensive KVR, Jon Void, MOTA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiraeth/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hiraeth/)*

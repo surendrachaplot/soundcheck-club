@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "HOUSE OF REKIDS: Radio Slave, Tal Fussman, Arthur Pringle" on Sat, 29 Aug 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Fvtvr INVITES: Jimi Jules, RAG" on Fri, 4 Sept 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including abs8lute, Adrien Calvet, Ahmet Sisman and Akaj and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including abs8lute, Adrien Calvet, Ahmet Sisman and Akaj and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | HOUSE OF REKIDS: Radio Slave, Tal Fussman, Arthur Pringle | Marli, Radio Slave, Tal Fussman |
 | Fri, 4 Sept 2026 | Fvtvr INVITES: Jimi Jules, RAG | Jimi Jules, RAG |
 | Sat, 5 Sept 2026 | Fvtvr INVITES KEY VINYL: Freddy K EXTENDED SET, Beste Hira | Beste Hira, Freddy K |
 | Fri, 11 Sept 2026 | Fvtvr X KALT: DVS1, Philippa Pacho, CHILL | Chill (FR), DVS1, Philippa Pacho |
@@ -23,4 +22,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with l
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

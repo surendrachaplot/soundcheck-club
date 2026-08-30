@@ -1,8 +1,8 @@
 # Wallat Wallat
 
-Wallat Wallat is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
+Wallat Wallat is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
 
-Wallat Wallat is a house and disco artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Almost Famous, ADAM REC. and Gabs Leyton. Next up: Mom's Limousine Service, Berlin on Fri 4 Sept.
+Wallat Wallat is a house and club artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Almost Famous, ADAM REC. and Bruder Jakob. Next up: Mom's Limousine Service, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wallat Wallat is a house and disco artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Mom's Limousine Service | Berlin |
 | Sat, 5 Sept 2026 | Süss War Gestern | Berlin |
+| Sat, 19 Sept 2026 | Bulbul Berlin | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Wallat Wallat is a house and disco artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-Almost Famous, ADAM REC., Gabs Leyton
+Almost Famous, ADAM REC., Bruder Jakob
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallatwallat/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallatwallat/)*

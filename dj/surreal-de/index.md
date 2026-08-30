@@ -1,6 +1,6 @@
 # Surreal (DE)
 
-Surreal (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+Surreal (DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
 
 Surreal (DE) is a techno and house artist tracked on soundcheck, with 70 sets logged across Berlin, Hamburg, Munich and Newyorkcity and 1 more. Often billed alongside Antoine Baiser, Marco Baskind and ESSHAR. Next up: Südpol, Hamburg on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ Surreal (DE) is a techno and house artist tracked on soundcheck, with 70 sets lo
 
 ## Recently played
 
+- Südpol, Hamburg — Sat, 29 Aug 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
 - Südpol, Hamburg — Sat, 11 Apr 2026
 - Südpol, Hamburg — Sat, 4 Apr 2026
@@ -20,10 +21,9 @@ Surreal (DE) is a techno and house artist tracked on soundcheck, with 70 sets lo
 - Südpol, Hamburg — Fri, 13 Feb 2026
 - Südpol, Hamburg — Sat, 3 Jan 2026
 - Südpol, Hamburg — Fri, 26 Dec 2025
-- Goldener Salon, Hamburg — Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Antoine Baiser, Marco Baskind, ESSHAR
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*

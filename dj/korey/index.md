@@ -1,6 +1,6 @@
 # Korey
 
-Korey is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Unit 58, London on Fri, 4 Sept 2026.
+Korey is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Unit 58, London on Fri, 4 Sept 2026.
 
 Korey is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds, Liverpool, London and Manchester and 2 more. Often billed alongside Craig Jordan, Joss Dean and Candidate. Next up: Unit 58, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Korey is a tech house and house artist based in United Kingdom, tracked on sound
 
 Craig Jordan, Joss Dean, Candidate
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korey/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korey/)*

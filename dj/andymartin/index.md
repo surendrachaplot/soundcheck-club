@@ -1,14 +1,13 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at KALT, Strasbourg on Sat, 29 Aug 2026.
+Andy Martin is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Andy Martin is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: KALT, Strasbourg on Sat 29 Aug.
+Andy Martin is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Niño Arbol, Blasha & Allatt and DJ MARIA.. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | KALT | Strasbourg |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Process PDX | Portland |
 | Sat, 19 Sept 2026 | TBA - Downtown | Los Angeles |
@@ -21,6 +20,7 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 70 sets log
 
 ## Recently played
 
+- KALT, Strasbourg — Sat, 29 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - TBA - Secret Place, Marseille — Fri, 7 Aug 2026
@@ -28,10 +28,9 @@ Andy Martin is a techno and house artist tracked on soundcheck, with 70 sets log
 - Lofi, Amsterdam — Fri, 26 Jun 2026
 - Moog Club, Barcelona — Fri, 19 Jun 2026
 - The White Hotel, Manchester — Sat, 13 Jun 2026
-- Else, Berlin — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Niño Arbol, Blasha & Allatt, DJ MARIA.
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

@@ -1,6 +1,6 @@
 # Breakage
 
-Breakage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
+Breakage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
 
 Breakage is a drum & bass and jungle artist tracked on soundcheck, with 46 sets logged across Auckland, Basel, Berlin and Birmingham and 15 more. Often billed alongside SP:MC, Skeptical and MC GQ. Next up: Outernet Live, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Breakage is a drum & bass and jungle artist tracked on soundcheck, with 46 sets 
 
 SP:MC, Skeptical, MC GQ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakage/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakage/)*

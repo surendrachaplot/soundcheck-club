@@ -1,8 +1,8 @@
 # Etch
 
-Etch is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+Etch is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
-Etch is a drum & bass and jungle artist tracked on soundcheck, with 32 sets logged across Berlin, Brighton, Bristol and Denver and 2 more. Often billed alongside Decibella, Sumgii and Abby Daze. Next up: M.O.T, London on Sat 5 Sept.
+Etch is a drum & bass and jungle artist tracked on soundcheck, with 33 sets logged across Berlin, Brighton, Bristol and Denver and 2 more. Often billed alongside Decibella, Abby Daze and Sumgii. Next up: M.O.T, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Etch is a drum & bass and jungle artist tracked on soundcheck, with 32 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | M.O.T | London |
 | Sat, 10 Oct 2026 | The Black Box | Denver |
+| Fri, 27 Nov 2026 | The Jam Jar | Bristol |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Etch is a drum & bass and jungle artist tracked on soundcheck, with 32 sets logg
 
 ## Shares bills with
 
-Decibella, Sumgii, Abby Daze
+Decibella, Abby Daze, Sumgii
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etch/)*

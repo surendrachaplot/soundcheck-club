@@ -1,6 +1,6 @@
 # LOKA (US)
 
-LOKA (US) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Nowadays, New York City on Sat, 29 Aug 2026.
+LOKA (US) is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Nowadays, New York City on Sat, 29 Aug 2026.
 
 LOKA (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 83 sets logged across Berlin, Boston, Chicago and London and 6 more. Often billed alongside MORENXXX, Sevyn Love and Shyboi. Next up: Nowadays, Newyorkcity on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ LOKA (US) is a techno and club artist based in United States of America, tracked
 
 ## Recently played
 
+- Nowadays, New York City — Sat, 29 Aug 2026
 - Club Rawhide, New York City — Fri, 21 Aug 2026
 - Bossa Nova Civic Club, New York City — Sat, 8 Aug 2026
 - Bossa Nova Civic Club, New York City — Mon, 3 Aug 2026
@@ -20,10 +21,9 @@ LOKA (US) is a techno and club artist based in United States of America, tracked
 - Bossa Nova Civic Club, New York City — Sat, 13 Jun 2026
 - 314 Scholes, New York City — Sat, 30 May 2026
 - Oberon, New York City — Thu, 28 May 2026
-- H0L0, New York City — Sat, 16 May 2026
 
 ## Shares bills with
 
 MORENXXX, Sevyn Love, Shyboi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*

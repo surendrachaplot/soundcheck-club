@@ -1,6 +1,6 @@
 # Margott
 
-Margott is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
+Margott is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
 
 Margott is an electronica artist tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside TWO EX, Certain People and Eder Croket. Next up: Cadavra, Madrid on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Margott is an electronica artist tracked on soundcheck, with 5 sets logged acros
 
 TWO EX, Certain People, Eder Croket
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margott/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/margott/)*

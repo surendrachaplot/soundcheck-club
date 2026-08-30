@@ -1,14 +1,13 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ART ELECTRONIC UNDERGROUND (LAST 140 FREE TICKETS)" on Sat, 29 Aug 2026.
+Sala ART is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "CHRØMA OPENING SEASON: Carlos Pérez B2B K-Style" on Fri, 4 Sept 2026.
 
-Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Carlos Pérez, Costa (2), GALGØ and JAIROSKUN and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
+Sala ART is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Carlos Pérez, Costa (2), JAIROSKUN and K-Style. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | ART ELECTRONIC UNDERGROUND (LAST 140 FREE TICKETS) | GALGØ, KSAL, MVPDJ |
 | Fri, 4 Sept 2026 | CHRØMA OPENING SEASON: Carlos Pérez B2B K-Style | Carlos Pérez, Costa (2), JAIROSKUN, K-Style |
 | Sat, 12 Sept 2026 | ART ELECTRONIC: CARLOH |  |
 | Sat, 31 Oct 2026 | MyPleasure // HALLOKINK // Opening Ball |  |
@@ -17,4 +16,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming nights, wit
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

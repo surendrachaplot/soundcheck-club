@@ -1,6 +1,6 @@
 # Beate Barfuß /// Padouc & Friends at Beate Uwe
 
-Beate Barfuß /// Padouc & Friends at Beate Uwe on Sun 27 Sept, Berlin. 1 act on the bill: dety. Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// Padouc & Friends at Beate Uwe on Sun 27 Sept, Berlin. 2 acts on the bill: dety and HVDN. Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Beate Barfuß /// Padouc & Friends at Beate Uwe on Sun 27 Sept, Berlin. 1 act on
 ## Line-up
 
 - dety
+- HVDN
 
 *Source: [soundcheck](https://soundcheck.club/e/2518464-beate-barfu-padouc-friends-at-beate-uwe/)*

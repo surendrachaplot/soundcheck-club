@@ -1,6 +1,6 @@
 # Break (2)
 
-Break (2) is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Break (2) is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Break (2) is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bristol, Malta and Manchester. Often billed alongside Camo & Krooked, Charlie Tee and Circadian. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ Break (2) is a drum & bass and garage artist based in United Kingdom, tracked on
 
 Camo & Krooked, Charlie Tee, Circadian
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/break-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/break-2/)*

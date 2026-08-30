@@ -1,6 +1,6 @@
 # Markovela
 
-Markovela is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Østre Anlæg, Copenhagen on Sun, 30 Aug 2026.
+Markovela is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Østre Anlæg, Copenhagen on Sun, 30 Aug 2026.
 
 Markovela is a minimal and house artist tracked on soundcheck, with 12 sets logged across Berlin and Copenhagen. Often billed alongside Ida Daugaard, Geroge and Traumer. Next up: Østre Anlæg, Copenhagen on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Markovela is a minimal and house artist tracked on soundcheck, with 12 sets logg
 
 Ida Daugaard, Geroge, Traumer
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markovela/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markovela/)*

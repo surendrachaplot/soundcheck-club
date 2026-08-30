@@ -1,14 +1,15 @@
 # Voicians
 
-Voicians is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Voicians is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Voicians is a drum & bass and techno artist tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Cologne and Paris and 2 more. Often billed alongside Gourski, Enaly and Jaycut. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Voicians is a drum & bass and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Cologne and Paris and 2 more. Often billed alongside Gourski, Enaly and Jaycut. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
+| Sat, 7 Nov 2026 | Helios37 | Cologne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Voicians is a drum & bass and techno artist tracked on soundcheck, with 28 sets 
 
 Gourski, Enaly, Jaycut
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voicians/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voicians/)*

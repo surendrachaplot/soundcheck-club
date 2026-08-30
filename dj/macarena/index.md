@@ -1,6 +1,6 @@
 # Macarena
 
-Macarena is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+Macarena is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 Macarena is a house and disco artist based in Mexico, tracked on soundcheck, with 52 sets logged across Berlin, Mexicocity and Tokyo. Often billed alongside Alby Esc, OMFDAN and Diz Shocka. Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Macarena is a house and disco artist based in Mexico, tracked on soundcheck, wit
 
 Alby Esc, OMFDAN, Diz Shocka
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macarena/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macarena/)*

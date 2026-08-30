@@ -1,6 +1,6 @@
 # Joshua James
 
-Joshua James is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Joshua James is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
 Joshua James is a house and disco artist based in United Kingdom, tracked on soundcheck, with 229 sets logged across Barcelona, Brighton, Bristol and Ibiza and 5 more. Often billed alongside Mike Menace, Karlie Marx and Princess Julia. Next up: Southwark Park, London on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Joshua James is a house and disco artist based in United Kingdom, tracked on sou
 
 Mike Menace, Karlie Marx, Princess Julia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames/)*

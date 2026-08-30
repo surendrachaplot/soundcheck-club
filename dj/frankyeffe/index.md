@@ -1,14 +1,15 @@
 # Frankyeffe
 
-Frankyeffe is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
+Frankyeffe is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
 
-Frankyeffe is a techno and acid artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Frankfurt and Geneva and 6 more. Often billed alongside ASK:ME, Anna Tur and CASSÖ. Next up: Spazio Cavea, Rome on Fri 11 Sept.
+Frankyeffe is a techno and trance artist tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Frankfurt and Geneva and 7 more. Often billed alongside ASK:ME, Anna Tur and CASSÖ. Next up: Spazio Cavea, Rome on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Spazio Cavea | Rome |
+| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Frankyeffe is a techno and acid artist tracked on soundcheck, with 16 sets logge
 
 ASK:ME, Anna Tur, CASSÖ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyeffe/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyeffe/)*

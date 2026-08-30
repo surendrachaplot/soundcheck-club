@@ -1,14 +1,13 @@
 # Christian AB
 
-Christian AB is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Place Poelaertplein, Brussels on Sat, 29 Aug 2026.
+Christian AB is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
 
-Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Place Poelaertplein, Brussels on Sat 29 Aug.
+Christian AB is a house and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Christian AB, Francesco Del Garda and Call Super. Next up: Amnesia Ibiza, Ibiza on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Place Poelaertplein | Brussels |
 | Thu, 3 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Hidden | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
@@ -22,6 +21,7 @@ Christian AB is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Place Poelaertplein, Brussels — Sat, 29 Aug 2026
 - Trädgården, Stockholm — Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 1 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
@@ -29,10 +29,9 @@ Christian AB is a house and techno artist based in United Kingdom, tracked on so
 - Tokonoma Club, Frankfurt — Sat, 25 Jul 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - DC-10, Ibiza — Mon, 6 Jul 2026
-- Hotel Butterfly, Rome — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Christian AB, Francesco Del Garda, Call Super
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

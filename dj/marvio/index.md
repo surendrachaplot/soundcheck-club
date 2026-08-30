@@ -1,6 +1,6 @@
 # Marvio
 
-Marvio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
+Marvio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
 
 Marvio is a house and techno artist based in Argentina, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Buenosaires and Malaga. Often billed alongside Kevin Williams, Perch and Martin Cozar. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Marvio is a house and techno artist based in Argentina, tracked on soundcheck, w
 
 Kevin Williams, Perch, Martin Cozar
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvio/)*

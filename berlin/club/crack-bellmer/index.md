@@ -1,6 +1,6 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "STAY TOXIC x RAZJOB [FREE ENTRY*]" on Sat, 29 Aug 2026.
+Crack Bellmer is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Dyke Goth Night" on Sun, 30 Aug 2026.
 
 Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Ahni, babxi, BB. angel and BILLY and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
@@ -8,8 +8,8 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | STAY TOXIC x RAZJOB [FREE ENTRY*] |  |
 | Sun, 30 Aug 2026 | Dyke Goth Night |  |
+| Wed, 2 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 3 Sept 2026 | Disco Oasis | NuAmo |
 | Fri, 4 Sept 2026 | Bad Dad with CYRK, Geneva, Vivienne & Dugong | CYRK, Geneva_, La Schmock, MVHY |
 | Sat, 5 Sept 2026 | San Loqal | Ahni, BB. angel, DJ Fiona, OatMilk |
@@ -23,4 +23,4 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming night
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

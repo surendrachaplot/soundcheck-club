@@ -1,6 +1,6 @@
 # Isoskeles
 
-Isoskeles is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
+Isoskeles is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
 
 Isoskeles is a techno and industrial artist tracked on soundcheck, with 15 sets logged across Athens and Berlin. Often billed alongside Kelly Cortese, OXOPOHA and _minted. Next up: AMT, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Isoskeles is a techno and industrial artist tracked on soundcheck, with 15 sets 
 
 Kelly Cortese, OXOPOHA, _minted
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isoskeles/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/isoskeles/)*

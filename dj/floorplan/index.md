@@ -1,14 +1,13 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Knockdown Center, New York City on Sat, 29 Aug 2026.
+Floorplan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
 
-Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: Knockdown Center, Newyorkcity on Sat 29 Aug.
+Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: BERHTA, Washingtondc on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Knockdown Center | New York City |
 | Fri, 4 Sept 2026 | BERHTA | Washington DC |
 | Fri, 18 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
@@ -17,6 +16,7 @@ Floorplan is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 29 Aug 2026
 - Lux Fragil, Lisbon — Fri, 14 Aug 2026
 - Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 30 Jul 2026
@@ -24,10 +24,9 @@ Floorplan is a house and techno artist based in United States of America, tracke
 - Refuge, New York City — Sat, 16 May 2026
 - Else, Berlin — Fri, 24 Apr 2026
 - Document, Bristol — Fri, 17 Apr 2026
-- Lofi, Amsterdam — Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Robert Hood, DJ Holographic
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

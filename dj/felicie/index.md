@@ -1,6 +1,6 @@
 # Félicie
 
-Félicie is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club Exil, Vienna on Fri, 2 Oct 2026.
+Félicie is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club Exil, Vienna on Fri, 2 Oct 2026.
 
 Félicie is a techno and industrial artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 40 more. Often billed alongside Cleric, Koboyo and Alignment. Next up: Club Exil, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Félicie is a techno and industrial artist tracked on soundcheck, with 102 sets 
 
 Cleric, Koboyo, Alignment
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*

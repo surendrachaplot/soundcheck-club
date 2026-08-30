@@ -1,26 +1,26 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "FREAKQUENCY 005 SPECIAL AFTER PARTY" on Sat, 29 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Brunch Electronik x Estrago: Official Afterparty" on Sun, 30 Aug 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, with line-ups including Angel Karel, ANÍBAL, BIIA and BLNK and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 11 upcoming nights, with line-ups including aalice, Angel Karel, ANÍBAL and apukas and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | FREAKQUENCY 005 SPECIAL AFTER PARTY |  |
-| Sat, 29 Aug 2026 | Freakquency 005 Special After Party |  |
 | Sun, 30 Aug 2026 | Brunch Electronik x Estrago: Official Afterparty | BIIA, Freshkitos |
 | Thu, 3 Sept 2026 | Riktus with LIEKS, BLNK, Angel Karel | Angel Karel, BLNK, LIEKS |
-| Fri, 4 Sept 2026 | Art Bei Ton: from Berlin to Lisbon ~ 17 | Hypnotic Black Magic, Luis FMR, Maria Callapez, ena b. |
+| Fri, 4 Sept 2026 | Art Bei Ton: from Berlin to Lisbon ~ 17 | Hypnotic Black Magic, Luis FMR, Maria Callapez, apukas, ena b. |
 | Sat, 5 Sept 2026 | Cirque x Fuse Records: Mella Dee | DJ Nox, MURI, Mella Dee, Minimart |
 | Thu, 10 Sept 2026 | Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal | ANÍBAL, Dibison, GADDAM, João Lágrima De Ouro, João Melgueira |
 | Thu, 17 Sept 2026 | Riktus - Double Trouble | MakeCatBleed, shoutz |
 | Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | Shogun, VLB (1) |
 | Fri, 25 Sept 2026 | Ministerium Club // Kevin Saunderson | Kevin Saunderson |
+| Sat, 26 Sept 2026 | 1/4 Escuro x Vault Sessions Second Shift | Client, John Wick, Salbany, aalice |
+| Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |
 
 ## Address
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

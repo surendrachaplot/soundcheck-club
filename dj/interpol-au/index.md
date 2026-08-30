@@ -1,6 +1,6 @@
 # INTERPOL (AU)
 
-INTERPOL (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Domaine National de Saint-Cloud, Paris on Wed, 26 Aug 2026.
+INTERPOL (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Domaine National de Saint-Cloud, Paris on Wed, 26 Aug 2026.
 
 INTERPOL (AU) is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Melbourne and Paris. Often billed alongside Mordi, Tjade and DJ Luv You. Next up: Domaine National de Saint-Cloud, Paris on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ INTERPOL (AU) is a house and techno artist tracked on soundcheck, with 13 sets l
 
 Mordi, Tjade, DJ Luv You
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interpol-au/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/interpol-au/)*

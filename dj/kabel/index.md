@@ -1,6 +1,6 @@
 # Kabel
 
-Kabel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
+Kabel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
 
 Kabel is a techno and house artist tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside Danny Roach, caonix and INLIMEN. Next up: The Star and Garter, Manchester on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Kabel is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 Danny Roach, caonix, INLIMEN
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabel/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kabel/)*

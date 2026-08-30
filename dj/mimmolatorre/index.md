@@ -1,6 +1,6 @@
 # Mimmo La Torre
 
-Mimmo La Torre is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Süss War Gestern, Berlin on Sat, 5 Sept 2026.
+Mimmo La Torre is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Süss War Gestern, Berlin on Sat, 5 Sept 2026.
 
 Mimmo La Torre is a house and disco artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Frederik Neu, Hyperbole and Lcaise. Next up: Süss War Gestern, Berlin on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Mimmo La Torre is a house and disco artist tracked on soundcheck, with 7 sets lo
 
 Frederik Neu, Hyperbole, Lcaise
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmolatorre/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mimmolatorre/)*

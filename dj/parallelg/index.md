@@ -1,6 +1,6 @@
 # Parallel G
 
-Parallel G is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
+Parallel G is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
 
 Parallel G is a techno and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Colaps, Juliana Branco and Ricky Tenaglia. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Parallel G is a techno and house artist based in United Kingdom, tracked on soun
 
 Colaps, Juliana Branco, Ricky Tenaglia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelg/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelg/)*

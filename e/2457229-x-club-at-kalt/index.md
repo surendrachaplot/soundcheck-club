@@ -1,6 +1,6 @@
 # X-Club. at KALT
 
-X-Club. at KALT on Sat 3 Oct, Strasbourg. 2 acts on the bill: Deetron and X CLUB.. Preview the line-up and save it on soundcheck.
+X-Club. at KALT on Sat 3 Oct, Strasbourg. 3 acts on the bill: Deetron, Mezza and X CLUB.. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ X-Club. at KALT on Sat 3 Oct, Strasbourg. 2 acts on the bill: Deetron and X CLUB
 ## Line-up
 
 - Deetron
+- Mezza
 - X CLUB.
 
 *Source: [soundcheck](https://soundcheck.club/e/2457229-x-club-at-kalt/)*

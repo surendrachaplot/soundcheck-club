@@ -1,8 +1,8 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+MALUGI is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+MALUGI is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged 
 | Wed, 21 Oct 2026 | Paradiso | Amsterdam |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ MALUGI is a techno and house artist tracked on soundcheck, with 223 sets logged 
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

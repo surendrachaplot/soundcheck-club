@@ -1,6 +1,6 @@
 # PURR: House, Bass, Techno, Electro, Funky (by Ragdoll Rhythms) at Two Tribes CAMPFIRE
 
-PURR: House, Bass, Techno, Electro, Funky (by Ragdoll Rhythms) at Two Tribes CAMPFIRE on Fri 4 Sept, London. 2 acts on the bill: Sands Spheric and Tees. Techno and House. Preview the line-up and save it on soundcheck.
+PURR: House, Bass, Techno, Electro, Funky (by Ragdoll Rhythms) at Two Tribes CAMPFIRE on Fri 4 Sept, London. 3 acts on the bill: El.Bo, Sands Spheric and Tees. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ PURR: House, Bass, Techno, Electro, Funky (by Ragdoll Rhythms) at Two Tribes CAM
 
 ## Line-up
 
+- El.Bo
 - Sands Spheric
 - Tees
 

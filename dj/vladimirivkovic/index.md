@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kiku Room, San Diego on Sun, 30 Aug 2026.
+Vladimir Ivkovic is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kiku Room, San Diego on Sun, 30 Aug 2026.
 
-Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Auckland and Bali and 59 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Kiku Room, Sandiego on Sun 30 Aug.
+Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 205 sets logged across Amsterdam, Athens, Auckland and Bali and 59 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Kiku Room, Sandiego on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist tracked on soundcheck, with 204 se
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

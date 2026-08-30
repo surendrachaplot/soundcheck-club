@@ -1,6 +1,6 @@
 # MABINTI
 
-MABINTI is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Copenhill, Copenhagen on Sat, 19 Sept 2026.
+MABINTI is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Copenhill, Copenhagen on Sat, 19 Sept 2026.
 
 MABINTI is a deep house and afro house artist tracked on soundcheck, with 15 sets logged across Copenhagen. Often billed alongside Jolie, Amin Safari and DJ Lotz. Next up: Copenhill, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MABINTI is a deep house and afro house artist tracked on soundcheck, with 15 set
 
 Jolie, Amin Safari, DJ Lotz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabinti/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mabinti/)*

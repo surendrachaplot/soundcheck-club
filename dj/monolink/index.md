@@ -1,14 +1,13 @@
 # Monolink
 
-Monolink is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Monolink is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hans-Jochen-Vogel-Platz, Munich on Fri, 4 Sept 2026.
 
-Monolink is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Vintage Culture, Carlita and 999999999. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+Monolink is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Athens, Austin and Bali and 32 more. Often billed alongside Vintage Culture, Carlita and 999999999. Next up: Hans-Jochen-Vogel-Platz, Munich on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Fri, 4 Sept 2026 | Hans-Jochen-Vogel-Platz | Munich |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
@@ -28,4 +27,4 @@ Monolink is a techno and house artist tracked on soundcheck, with 81 sets logged
 
 Vintage Culture, Carlita, 999999999
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/monolink/)*

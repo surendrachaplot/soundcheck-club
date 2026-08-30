@@ -1,6 +1,6 @@
 # ZFK (1)
 
-ZFK (1) is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Giri, Berlin on Wed, 2 Sept 2026.
+ZFK (1) is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Giri, Berlin on Wed, 2 Sept 2026.
 
 ZFK (1) is an ambient and experimental artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Airaboi, Credit 00 and Joshua Murphy. Next up: Giri, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ ZFK (1) is an ambient and experimental artist tracked on soundcheck, with 9 sets
 
 Airaboi, Credit 00, Joshua Murphy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zfk-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zfk-1/)*

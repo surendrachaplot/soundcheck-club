@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live)" on Sat, 29 Aug 2026.
+Nowadays is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan & Very Special Guest" on Sat, 29 Aug 2026.
 
 Nowadays is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including 5ive, MORENXXX, Ali Coleman and Analog Soul and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -8,7 +8,7 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 33 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake (live) | LOKA (US), Leeon, Loka, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake |
+| Sat, 29 Aug 2026 | Nonstop: Leeon, LOKA, MCMLXXXV, Ne/Re/A, Solofan & Very Special Guest | LOKA (US), Leeon, Loka, MCMLXXXV, Ne/Re/A, Solofan, Voices From The Lake |
 | Sun, 30 Aug 2026 | Mister Sunday: Eamon Harkin All Day | Eamon Harkin |
 | Wed, 2 Sept 2026 | Intro to Ableton Lab: Drum Programming, Sequencing, and Arrangement | JP Solis, The New York Record Club for The Advancement of The Arts |
 | Thu, 3 Sept 2026 | Maritek: 4 Year Anniversary with ALTA, Coyado, DJ Sadboy, Dj Warning, J. Córdova | Coyado, Dj Warning, J. Córdova |
@@ -23,4 +23,4 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 33 upcoming night
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

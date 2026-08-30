@@ -1,6 +1,6 @@
 # Spread
 
-Spread is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "サマータイム_830.wav" on Sun, 30 Aug 2026.
+Spread is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "サマータイム_830.wav" on Sun, 30 Aug 2026.
 
 Spread is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with line-ups including AMIDAdrive, Bastian Balders, Bundo and Iga and 2 more. Browse upcoming dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -23,4 +23,4 @@ Spread is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with 
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

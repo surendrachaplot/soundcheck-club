@@ -1,14 +1,15 @@
 # Callecat
 
-Callecat is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
+Callecat is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
 
-Callecat is a progressive house and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Ibiza and Utrecht. Often billed alongside Around Us, Paul Hazendonk and Gustin. Next up: Marina Botafoch, Ibiza on Sat 26 Sept.
+Callecat is a progressive house and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Ibiza and Utrecht. Often billed alongside Around Us, Gustin and Paul Hazendonk. Next up: Marina Botafoch, Ibiza on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Marina Botafoch | Ibiza |
+| Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Callecat is a progressive house and house artist tracked on soundcheck, with 14 
 
 ## Shares bills with
 
-Around Us, Paul Hazendonk, Gustin
+Around Us, Gustin, Paul Hazendonk
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callecat/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callecat/)*

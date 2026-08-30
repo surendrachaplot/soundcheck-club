@@ -1,6 +1,6 @@
 # Awwful
 
-Awwful is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 3 Sept 2026.
+Awwful is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 3 Sept 2026.
 
 Awwful is a pop and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal and Toronto. Often billed alongside SISI SUPERSTAR, nastygloss and URA. Next up: Village au Pied-du-Courant, Montreal on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Awwful is a pop and techno artist based in Canada, tracked on soundcheck, with 1
 
 SISI SUPERSTAR, nastygloss, URA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awwful/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/awwful/)*

@@ -1,6 +1,6 @@
 # KØ:LH
 
-KØ:LH is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - secret location, Barcelona on Sat, 5 Sept 2026.
+KØ:LH is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - secret location, Barcelona on Sat, 5 Sept 2026.
 
 KØ:LH is a techno and electro artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside CURVE DJ, Caamaño and Gus Van Sound. Next up: TBA - secret location, Barcelona on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ KØ:LH is a techno and electro artist tracked on soundcheck, with 4 sets logged 
 
 CURVE DJ, Caamaño, Gus Van Sound
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolh/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolh/)*

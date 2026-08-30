@@ -1,6 +1,6 @@
 # DJ Cringey & FJUSHA at KALT
 
-DJ Cringey & FJUSHA at KALT on Sat 19 Sept, Strasbourg. 2 acts on the bill: DJ Cringey and FJUSHA. Preview the line-up and save it on soundcheck.
+DJ Cringey & FJUSHA at KALT on Sat 19 Sept, Strasbourg. 3 acts on the bill: DJ Cringey, FJUSHA and Mezza. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ DJ Cringey & FJUSHA at KALT on Sat 19 Sept, Strasbourg. 2 acts on the bill: DJ C
 
 - DJ Cringey
 - FJUSHA
+- Mezza
 
 *Source: [soundcheck](https://soundcheck.club/e/2499385-dj-cringey-fjusha-at-kalt/)*

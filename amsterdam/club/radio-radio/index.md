@@ -1,19 +1,24 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Dam Swindle All Night" on Sat, 29 Aug 2026.
+Radio Radio is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Mendel • Giu Nunez" on Fri, 4 Sept 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Doran and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Dam Swindle All Night | Dam Swindle |
+| Fri, 4 Sept 2026 | Mendel • Giu Nunez | Giu Nunez, Mendel |
+| Sat, 5 Sept 2026 | Retromigration • Zopelar | Retromigration, Zopelar |
+| Sat, 12 Sept 2026 | D Stone • Laura Meester • Midas Field | D Stone, Laura Meester, Midas Field |
+| Fri, 18 Sept 2026 | Fantastic Man • Jaimy | Fantastic Man, Jaimy (2) |
 | Sat, 19 Sept 2026 | Ecclipse | Cleo Grooves, Lex Valverde |
+| Fri, 25 Sept 2026 | M-High • Shanne | M-High, Shanne |
+| Sat, 26 Sept 2026 | John Tejada • Monty DJ | John Tejada, Monty DJ |
 | Sun, 25 Oct 2026 | amore x radio radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Jasmín, Karina Schneider, Victor (DE) |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

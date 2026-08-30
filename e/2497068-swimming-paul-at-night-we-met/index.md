@@ -1,6 +1,6 @@
 # Swimming Paul at Night We Met
 
-Swimming Paul at Night We Met on Sat 5 Sept, Nashville. 1 act on the bill: Swimming Paul. House and Electro. Preview the line-up and save it on soundcheck.
+Swimming Paul at Night We Met on Sat 5 Sept, Nashville. 1 act on the bill: Swimming Paul. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFAR
 
-AFAR is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+AFAR is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 AFAR is an electronica and club artist tracked on soundcheck, with 22 sets logged across Amsterdam, Basel, Berlin and Cologne and 6 more. Often billed alongside Arutani, ELIF and Gina Sabatini. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ AFAR is an electronica and club artist tracked on soundcheck, with 22 sets logge
 
 Arutani, ELIF, Gina Sabatini
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afar/)*

@@ -1,6 +1,6 @@
 # Benja Millan
 
-Benja Millan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at City Hall, Barcelona on Sat, 5 Sept 2026.
+Benja Millan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at City Hall, Barcelona on Sat, 5 Sept 2026.
 
 Benja Millan is a techno and electro artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona and Lisbon. Often billed alongside BRU ON, Ultrabeats and ATMEN. Next up: City Hall, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Benja Millan is a techno and electro artist based in Spain, tracked on soundchec
 
 BRU ON, Ultrabeats, ATMEN
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamillan/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamillan/)*

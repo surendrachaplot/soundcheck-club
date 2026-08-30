@@ -1,6 +1,6 @@
 # Luca Saporito (Audiofly)
 
-Luca Saporito (Audiofly) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
+Luca Saporito (Audiofly) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at [UNVRS], Ibiza on Wed, 16 Sept 2026.
 
 Luca Saporito (Audiofly) is a house and deep house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Andhim, Landikhan and Jamie Jones. Next up: [UNVRS], Ibiza on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ Luca Saporito (Audiofly) is a house and deep house artist tracked on soundcheck,
 
 Andhim, Landikhan, Jamie Jones
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*

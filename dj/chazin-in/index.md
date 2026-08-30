@@ -1,6 +1,6 @@
 # Chaz (IN)
 
-Chaz (IN) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tresor / Globus, Berlin on Wed, 2 Sept 2026.
+Chaz (IN) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Wed, 2 Sept 2026.
 
 Chaz (IN) is a house and techno artist based in India, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Carmen Electro, ALI3N and BUTZ. Next up: Tresor / Globus, Berlin on Wed 2 Sept.
 
@@ -18,4 +18,4 @@ Chaz (IN) is a house and techno artist based in India, tracked on soundcheck, wi
 
 Carmen Electro, ALI3N, BUTZ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chazin-in/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chazin-in/)*

@@ -1,22 +1,24 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Rex Club, Paris on Sat, 29 Aug 2026.
+Shonky is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Ouseburn Garden, Newcastle on Fri, 11 Sept 2026.
 
-Shonky is a house and tech house artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Rex Club, Paris on Sat 29 Aug.
+Shonky is a house and tech house artist tracked on soundcheck, with 221 sets logged across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Ouseburn Garden, Newcastle on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Rex Club | Paris |
 | Fri, 11 Sept 2026 | Ouseburn Garden | Newcastle |
 | Fri, 25 Sept 2026 | Floyd | Miami |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
+| Fri, 9 Oct 2026 | DURO | Milan |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Sat, 7 Nov 2026 | fabric | London |
+| Fri, 27 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played
 
+- Rex Club, Paris — Sat, 29 Aug 2026
 - Buda BXL, Brussels — Sat, 22 Aug 2026
 - Lux Fragil, Lisbon — Sat, 22 Aug 2026
 - TBA - DTLA, Los Angeles — Sun, 9 Aug 2026
@@ -24,10 +26,9 @@ Shonky is a house and tech house artist tracked on soundcheck, with 219 sets log
 - Rhythm, Toronto — Fri, 7 Aug 2026
 - Outer Heaven, New York City — Thu, 6 Aug 2026
 - Playa Soleil Ibiza, Ibiza — Wed, 5 Aug 2026
-- Tokonoma Club, Frankfurt — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

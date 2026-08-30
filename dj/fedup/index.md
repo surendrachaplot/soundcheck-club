@@ -1,6 +1,6 @@
 # FedUp
 
-FedUp is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
+FedUp is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
 
 FedUp is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Ibiza and London. Often billed alongside input, Rahbani and VENERE. Next up: The Cross, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ FedUp is a progressive house and deep house artist based in United Kingdom, trac
 
 input, Rahbani, VENERE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedup/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedup/)*

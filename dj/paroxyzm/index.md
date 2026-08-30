@@ -1,14 +1,14 @@
 # Paroxyzm
 
-Paroxyzm is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
+Paroxyzm is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
-Paroxyzm is a techno artist tracked on soundcheck, with 33 sets logged across Amsterdam and Utrecht. Often billed alongside Robin Hastings, Mischa Duncan and ADHDJ (2). Next up: RADION, Amsterdam on Sat 29 Aug.
+Paroxyzm is a techno artist tracked on soundcheck, with 33 sets logged across Amsterdam and Utrecht. Often billed alongside Robin Hastings, Mischa Duncan and ADHDJ (2). Next up: RADION, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | RADION | Amsterdam |
+| Fri, 2 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Paroxyzm is a techno artist tracked on soundcheck, with 33 sets logged across Am
 
 Robin Hastings, Mischa Duncan, ADHDJ (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paroxyzm/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paroxyzm/)*

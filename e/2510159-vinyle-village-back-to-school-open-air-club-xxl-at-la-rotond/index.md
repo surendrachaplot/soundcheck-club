@@ -1,6 +1,6 @@
 # VINYLE VILLAGE - BACK TO SCHOOL: OPEN-AIR & CLUB XXL at La Rotonde Stalingrad
 
-VINYLE VILLAGE - BACK TO SCHOOL: OPEN-AIR & CLUB XXL at La Rotonde Stalingrad on Sat 12 Sept, Paris. 2 acts on the bill: Enrica Falqui and JL. House and Electro. Preview the line-up and save it on soundcheck.
+VINYLE VILLAGE - BACK TO SCHOOL: OPEN-AIR & CLUB XXL at La Rotonde Stalingrad on Sat 12 Sept, Paris. 4 acts on the bill: Dea (6), Enrica Falqui, ERIS and JL. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ VINYLE VILLAGE - BACK TO SCHOOL: OPEN-AIR & CLUB XXL at La Rotonde Stalingrad on
 
 ## Line-up
 
+- Dea (6)
 - Enrica Falqui
+- ERIS
 - JL
 
 *Source: [soundcheck](https://soundcheck.club/e/2510159-vinyle-village-back-to-school-open-air-club-xxl-at-la-rotond/)*

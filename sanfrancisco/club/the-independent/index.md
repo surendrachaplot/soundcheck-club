@@ -1,8 +1,8 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Tonic Walter" on Fri, 4 Sept 2026.
+The Independent is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Tonic Walter" on Fri, 4 Sept 2026.
 
-The Independent is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Arlo, BL3SS, Daniel Avery and Dublon and 2 more. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
+The Independent is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including Arlo, BL3SS, Daniel Avery and Dublon and 2 more. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
 ## What's on
 
@@ -16,9 +16,10 @@ The Independent is a music venue in Sanfrancisco listed on soundcheck. 8 upcomin
 | Sat, 19 Sept 2026 | EVAN GIIA |  |
 | Sun, 27 Sept 2026 | Hot Chip DJ Set | Hot Chip |
 | Sat, 10 Oct 2026 | Dublon | Dublon |
+| Fri, 27 Nov 2026 | O'Flynn | O'Flynn |
 
 ## Address
 
 628 Divisadero Street, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*

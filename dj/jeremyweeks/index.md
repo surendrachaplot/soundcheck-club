@@ -1,6 +1,6 @@
 # Jeremy Weeks
 
-Jeremy Weeks is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
+Jeremy Weeks is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Jeremy Weeks is a minimal and techno artist based in France, tracked on soundcheck, with 22 sets logged across Geneva and Ibiza. Often billed alongside Luigi Rossi, Cesar Vinzent and ISBEL. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jeremy Weeks is a minimal and techno artist based in France, tracked on soundche
 
 Luigi Rossi, Cesar Vinzent, ISBEL
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyweeks/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyweeks/)*

@@ -1,14 +1,13 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at DSTRKT Club Berlin, Berlin on Sat, 29 Aug 2026.
+Ben Techy is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: DSTRKT Club Berlin, Berlin on Sat 29 Aug.
+Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | DSTRKT Club Berlin | Berlin |
 | Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Sat, 12 Sept 2026 | Essigfabrik | Cologne |
 | Sat, 26 Sept 2026 | OST | Berlin |
@@ -18,6 +17,7 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 
 ## Recently played
 
+- DSTRKT Club Berlin, Berlin — Sat, 29 Aug 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - DNA Club, Munich — Sat, 4 Jul 2026
 - OST, Berlin — Sat, 27 Jun 2026
@@ -25,10 +25,9 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 - Club Vaag, Antwerp — Sat, 13 Jun 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Adam Riese, Frankfurt — Fri, 29 May 2026
-- Club Exil, Vienna — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Raxeller, SANTØS, KARAH
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

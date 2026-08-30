@@ -1,15 +1,13 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ahoy Rotterdam, Rotterdam on Sat, 29 Aug 2026.
+KARAH is a Techno and Industrial artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Fri, 4 Sept 2026.
 
-KARAH is a techno and industrial artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Ahoy Rotterdam, Rotterdam on Sat 29 Aug.
+KARAH is a techno and industrial artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: E1, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
-| Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | E1 | London |
 | Fri, 4 Sept 2026 | E1 | London |
 | Fri, 4 Sept 2026 | E1 | London |
@@ -20,20 +18,21 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 144 sets log
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | TBA | Glasgow |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Sat, 31 Oct 2026 | La Cubierta de Leganés | Madrid |
 
 ## Recently played
 
+- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
+- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Spook Club, Valencia — Sat, 22 Aug 2026
 - Spook Club, Valencia — Sat, 22 Aug 2026
 - Völklingen Ironworks, Berlin — Fri, 21 Aug 2026
 - TBA, Leipzig — Sat, 15 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - UNO MALTA, Malta — Fri, 24 Jul 2026
-- Afas Live, Amsterdam — Sat, 27 Jun 2026
-- Gate Milano, Milan — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

@@ -1,6 +1,6 @@
 # SIT Amphia
 
-SIT Amphia is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 12 Sept 2026.
+SIT Amphia is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Platforma Wolff, Bucharest on Sat, 12 Sept 2026.
 
 SIT Amphia is a house and minimal artist tracked on soundcheck, with 37 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 11 more. Often billed alongside Cristi Cons, Vlad Caia and Reiss. Next up: Platforma Wolff, Bucharest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SIT Amphia is a house and minimal artist tracked on soundcheck, with 37 sets log
 
 Cristi Cons, Vlad Caia, Reiss
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sitamphia/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sitamphia/)*

@@ -1,6 +1,6 @@
 # Ozan Maral
 
-Ozan Maral is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
+Ozan Maral is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at arkaoda Berlin, Berlin on Sun, 30 Aug 2026.
 
 Ozan Maral is a club and techno artist tracked on soundcheck, with 20 sets logged across Berlin, Istanbul and Tokyo. Often billed alongside Ece Özel, ML (1) and TAKAKO. Next up: arkaoda Berlin, Berlin on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Ozan Maral is a club and techno artist tracked on soundcheck, with 20 sets logge
 
 Ece Özel, ML (1), TAKAKO
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozanmaral/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ozanmaral/)*

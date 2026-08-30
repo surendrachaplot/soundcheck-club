@@ -1,15 +1,14 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Winson is a techno and deep house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KLOFAMA, KUKO and KARAH. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Sat, 29 Aug 2026 | Ahoy Rotterdam | Rotterdam |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
@@ -20,9 +19,11 @@ Winson is a techno and deep house artist tracked on soundcheck, with 71 sets log
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | La Nuit | Paris |
+| Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
 - UNO MALTA, Malta — Fri, 31 Jul 2026
@@ -30,10 +31,9 @@ Winson is a techno and deep house artist tracked on soundcheck, with 71 sets log
 - Arzenal, Budapest — Fri, 3 Jul 2026
 - Amnesia Ibiza, Ibiza — Thu, 18 Jun 2026
 - Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
-- Halle 622, Zurich — Sat, 4 Apr 2026
 
 ## Shares bills with
 
-KUKO, KLOFAMA, KARAH
+KLOFAMA, KUKO, KARAH
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

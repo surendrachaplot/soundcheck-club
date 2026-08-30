@@ -1,6 +1,6 @@
 # bod [包家巷]
 
-bod [包家巷] is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
+bod [包家巷] is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Unit 58, London on Fri, 9 Oct 2026.
 
 bod [包家巷] is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 68 sets logged across Belfast, Berlin, Bristol and Dublin and 14 more. Often billed alongside Warlord®, Softmatter and 1000bodies. Next up: Unit 58, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ bod [包家巷] is an experimental and ambient artist based in United States of 
 
 Warlord®, Softmatter, 1000bodies
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*

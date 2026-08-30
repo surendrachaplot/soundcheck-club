@@ -1,6 +1,6 @@
 # Rampage Sound
 
-Rampage Sound is a Dancehall and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fire & Lightbox, London on Sun, 30 Aug 2026.
+Rampage Sound is a Dancehall and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sun, 30 Aug 2026.
 
 Rampage Sound is a dancehall and afrobeat artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across London. Often billed alongside Supa D, Pioneer and CPTN. Next up: Fire & Lightbox, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Rampage Sound is a dancehall and afrobeat artist based in United Kingdom, tracke
 
 Supa D, Pioneer, CPTN
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rampagesound/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rampagesound/)*

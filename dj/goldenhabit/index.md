@@ -1,6 +1,6 @@
 # Golden Habit
 
-Golden Habit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Teritorija, Riga on Fri, 4 Sept 2026.
+Golden Habit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Teritorija, Riga on Fri, 4 Sept 2026.
 
 Golden Habit is a house and techno artist based in Latvia, tracked on soundcheck, with 14 sets logged across Riga. Often billed alongside Kelvin, Kupris and JSUS. Next up: Teritorija, Riga on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Golden Habit is a house and techno artist based in Latvia, tracked on soundcheck
 
 Kelvin, Kupris, JSUS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenhabit/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenhabit/)*

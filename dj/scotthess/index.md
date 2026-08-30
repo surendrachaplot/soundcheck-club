@@ -1,6 +1,6 @@
 # Scott Hess
 
-Scott Hess is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Rum And Orange Rooftop Village, Bangkok on Sun, 30 Aug 2026.
+Scott Hess is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Rum And Orange Rooftop Village, Bangkok on Sun, 30 Aug 2026.
 
 Scott Hess is an acid and house artist tracked on soundcheck, with 70 sets logged across Bangkok. Often billed alongside Krokakai, DJ Nava and EITHER. Next up: Rum And Orange Rooftop Village, Bangkok on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Scott Hess is an acid and house artist tracked on soundcheck, with 70 sets logge
 
 Krokakai, DJ Nava, EITHER
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scotthess/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scotthess/)*

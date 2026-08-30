@@ -1,6 +1,6 @@
 # Marasi
 
-Marasi is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 2 Sept 2026.
+Marasi is a Afro House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Cavo Paradiso, Mykonos on Wed, 2 Sept 2026.
 
 Marasi is an afro house and tech house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Athens, Bali and Bangkok and 18 more. Often billed alongside Novak, Pablo Fierro and AERES (1). Next up: Cavo Paradiso, Mykonos on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ Marasi is an afro house and tech house artist tracked on soundcheck, with 43 set
 
 Novak, Pablo Fierro, AERES (1)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marasi/)*

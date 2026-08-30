@@ -1,6 +1,6 @@
 # HEKA (FR)
 
-HEKA (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
+HEKA (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
 
 HEKA (FR) is a techno and house artist based in France, tracked on soundcheck, with 5 sets logged across Berlin and Paris. Often billed alongside A.mo, BFVR and Budg. Next up: La Cité Fertile, Paris on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ HEKA (FR) is a techno and house artist based in France, tracked on soundcheck, w
 
 A.mo, BFVR, Budg
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hekafr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hekafr/)*

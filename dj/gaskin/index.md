@@ -1,6 +1,6 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
+Gaskin is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Gaskin is a house and tech house artist tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
 
@@ -36,4 +36,4 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 183 sets log
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

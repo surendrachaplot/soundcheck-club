@@ -1,15 +1,17 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Concourse Project, Austin on Fri, 18 Sept 2026.
+TroyBoi is a Bass and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Concourse Project, Austin on Fri, 18 Sept 2026.
 
-TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Austin, Chicago, London and Losangeles and 8 more. Often billed alongside Hedex, Interplanetary Criminal and Mary Droppinz. Next up: The Concourse Project, Austin on Fri 18 Sept.
+TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Austin, Chicago, London and Losangeles and 9 more. Often billed alongside Hedex, Deorro and Interplanetary Criminal. Next up: The Concourse Project, Austin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Concourse Project | Austin |
+| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 23 Oct 2026 | BERHTA | Washington DC |
+| Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Hedex, Interplanetary Criminal, Mary Droppinz
+Hedex, Deorro, Interplanetary Criminal
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

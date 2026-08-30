@@ -1,6 +1,6 @@
 # Robin Fox
 
-Robin Fox is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Melbourne Town Hall, Melbourne on Sun, 30 Aug 2026.
+Robin Fox is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Melbourne Town Hall, Melbourne on Sun, 30 Aug 2026.
 
 Robin Fox is an experimental and ambient artist based in Australia, tracked on soundcheck, with 10 sets logged across Berlin, Glasgow, London and Madrid and 4 more. Often billed alongside DJ Marcelle, Hieroglyphic Being and Klein. Next up: Melbourne Town Hall, Melbourne on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Robin Fox is an experimental and ambient artist based in Australia, tracked on s
 
 DJ Marcelle, Hieroglyphic Being, Klein
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinfox/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robinfox/)*

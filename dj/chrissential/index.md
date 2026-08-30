@@ -1,6 +1,6 @@
 # Chrissential
 
-Chrissential is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Garage 442, Barcelona on Fri, 4 Sept 2026.
+Chrissential is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Garage 442, Barcelona on Fri, 4 Sept 2026.
 
 Chrissential is a techno and minimal artist based in Greece, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Carvach, Hermansen and IMVIC. Next up: Garage 442, Barcelona on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Chrissential is a techno and minimal artist based in Greece, tracked on soundche
 
 Carvach, Hermansen, IMVIC
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissential/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissential/)*

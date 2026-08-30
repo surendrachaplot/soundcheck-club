@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Club — Gaga, Jolly B2B Mel, Louison B2B Mafou" on Sat, 29 Aug 2026.
+Badaboum is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Club — LA CH!CK: BEY DAY BIRTHDAY EVE PARTY" on Thu, 3 Sept 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Club — Gaga, Jolly B2B Mel, Louison B2B Mafou | Jolly (FR), Louison, Mafou, Mel (FR) |
 | Thu, 3 Sept 2026 | Club — LA CH!CK: BEY DAY BIRTHDAY EVE PARTY |  |
 | Fri, 4 Sept 2026 | Club — DJ Physical & THELMA (all night long) | DJ Physical, THELMA |
 | Sat, 5 Sept 2026 | Club — Marbré 6 Years | Marbré, Pierrinski, Yambow |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming nights, wit
 | Thu, 17 Sept 2026 | Club — LA CH!CK: TUMBLR RAVE |  |
 | Fri, 18 Sept 2026 | Club — Worms: Kode9, Breaka, re:ni, Shfoosja | Breaka, Kode9, Mafille, Oreille Interne, Shfoosja, re:ni |
 | Sat, 19 Sept 2026 | Concert — Deadbeat presents Dubtechno Special Tikiman live, Neida live, re:ni | Deadbeat, Neida, Paul St. Hilaire, re:ni |
+| Sat, 19 Sept 2026 | Club — BADSISTA, anyoneID, Sevenbeatz B2B Sorun, Sudar | BADSISTA, Sevenbeatz, Sorun, anyoneID |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

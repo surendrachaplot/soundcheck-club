@@ -1,6 +1,6 @@
 # TRANZ
 
-TRANZ is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at John Doe, Amsterdam on Tue, 1 Sept 2026.
+TRANZ is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at John Doe, Amsterdam on Tue, 1 Sept 2026.
 
 TRANZ is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside HÅKK, La Fatale and MILØW. Next up: John Doe, Amsterdam on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ TRANZ is a techno and tech house artist based in Netherlands, tracked on soundch
 
 HÅKK, La Fatale, MILØW
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tranz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tranz/)*

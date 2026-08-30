@@ -1,6 +1,6 @@
 # Hebbe
 
-Hebbe is a Dubstep and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
+Hebbe is a Dubstep and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at export, Rotterdam on Sat, 5 Sept 2026.
 
 Hebbe is a dubstep and jungle artist tracked on soundcheck, with 6 sets logged across Chicago, London, Rotterdam and Sanfrancisco and 1 more. Often billed alongside Helmond Lang, Kessler and V.I.V.E.K.. Next up: export, Rotterdam on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Hebbe is a dubstep and jungle artist tracked on soundcheck, with 6 sets logged a
 
 Helmond Lang, Kessler, V.I.V.E.K.
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hebbe/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hebbe/)*

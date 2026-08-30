@@ -1,6 +1,6 @@
 # Misha Jaru
 
-Misha Jaru is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Misha Jaru is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Misha Jaru is a techno and house artist tracked on soundcheck, with 64 sets logged across Berlin and Prague. Often billed alongside S.Tian, Feenicks and Dash (CZ). Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Misha Jaru is a techno and house artist tracked on soundcheck, with 64 sets logg
 
 S.Tian, Feenicks, Dash (CZ)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mishajaru/)*

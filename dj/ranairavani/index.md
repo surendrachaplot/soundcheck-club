@@ -1,14 +1,16 @@
 # Rana Iravani
 
-Rana Iravani is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Roof Terrace BK, New York City on Sun, 30 Aug 2026.
+Rana Iravani is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Roof Terrace BK, New York City on Sun, 30 Aug 2026.
 
-Rana Iravani is a house and deep house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Miami and Newyorkcity. Often billed alongside Auphoria, Jack Mulqueen and Choukroun. Next up: Roof Terrace BK, Newyorkcity on Sun 30 Aug.
+Rana Iravani is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Miami and Newyorkcity. Often billed alongside Auphoria, Jack Mulqueen and Armii1n. Next up: Roof Terrace BK, Newyorkcity on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Roof Terrace BK | New York City |
+| Sat, 5 Sept 2026 | Green Room NYC | New York City |
+| Sun, 6 Sept 2026 | Honey's | New York City |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Rana Iravani is a house and deep house artist based in United States of America,
 
 ## Shares bills with
 
-Auphoria, Jack Mulqueen, Choukroun
+Auphoria, Jack Mulqueen, Armii1n
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranairavani/)*

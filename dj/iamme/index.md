@@ -1,6 +1,6 @@
 # I Am Me
 
-I Am Me is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Logan Square Chicago, Chicago on Sat, 31 Oct 2026.
+I Am Me is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Logan Square Chicago, Chicago on Sat, 31 Oct 2026.
 
 I Am Me is a house and tech house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Barcelona and Chicago. Often billed alongside Pat Fee, Alex Kislov and Branko (DJ). Next up: TBA - Logan Square Chicago, Chicago on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ I Am Me is a house and tech house artist based in United States of America, trac
 
 Pat Fee, Alex Kislov, Branko (DJ)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamme/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iamme/)*

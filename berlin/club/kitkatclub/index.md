@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Nachspiel" on Sun, 30 Aug 2026.
+KitKatClub is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Nachspiel" on Sun, 30 Aug 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including Ale Castro, Alma Negrot, Ana Lilia and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including Ale Castro, Alma Negrot, Ana Lilia and androgienia and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming nights, 
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

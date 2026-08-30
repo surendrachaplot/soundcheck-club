@@ -1,6 +1,6 @@
 # TASHASAN
 
-TASHASAN is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Time is the new space, Rotterdam on Sun, 30 Aug 2026.
+TASHASAN is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Time is the new space, Rotterdam on Sun, 30 Aug 2026.
 
 TASHASAN is a bass and house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Bali, Kualalumpur and Melbourne and 3 more. Often billed alongside MIA (MY), Dexter Colt and Helios XL. Next up: Time is the new space, Rotterdam on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ TASHASAN is a bass and house artist tracked on soundcheck, with 34 sets logged a
 
 MIA (MY), Dexter Colt, Helios XL
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tashasan/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tashasan/)*

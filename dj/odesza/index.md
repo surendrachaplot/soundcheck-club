@@ -1,18 +1,18 @@
 # ODESZA
 
-ODESZA is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Echostage, Washington DC on Sat, 29 Aug 2026.
+ODESZA is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Factory Town, Miami on Sat, 14 Nov 2026.
 
-ODESZA is a deep house and house artist tracked on soundcheck, with 9 sets logged across Austin, Losangeles, Miami and Sandiego and 2 more. Often billed alongside Bob Moses, Ben Böhmer and SG Lewis. Next up: Echostage, Washingtondc on Sat 29 Aug.
+ODESZA is a deep house and house artist tracked on soundcheck, with 9 sets logged across Austin, Losangeles, Miami and Sandiego and 2 more. Often billed alongside Bob Moses, Ben Böhmer and SG Lewis. Next up: Factory Town, Miami on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Echostage | Washington DC |
 | Sat, 14 Nov 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Echostage, Washington DC — Sat, 29 Aug 2026
 - The Concourse Project, Austin — Fri, 12 Dec 2025
 - BMO Stadium, Los Angeles — Sat, 8 Jun 2024
 - BMO Stadium, Los Angeles — Fri, 7 Jun 2024
@@ -25,4 +25,4 @@ ODESZA is a deep house and house artist tracked on soundcheck, with 9 sets logge
 
 Bob Moses, Ben Böhmer, SG Lewis
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odesza/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odesza/)*

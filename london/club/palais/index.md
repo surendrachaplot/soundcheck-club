@@ -1,14 +1,13 @@
 # Palais
 
-Palais is a music venue in London with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Palais: In House" on Sat, 29 Aug 2026.
+Palais is a music venue in London with 19 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Percy Mingle Carnival Afterparty: Novelist, Scratcha DVA, LCN, Cooly G, Marleigh" on Sun, 30 Aug 2026.
 
-Palais is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including Alex Kassian, AMORAL, Andy Garvey and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Alex Kassian, AMORAL, Andy Garvey and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Palais: In House |  |
 | Sun, 30 Aug 2026 | Percy Mingle Carnival Afterparty: Novelist, Scratcha DVA, LCN, Cooly G, Marleigh | Cooly G, LCN, Novelist, Scratcha DVA |
 | Fri, 4 Sept 2026 | Palais: Elli Acula & Hyperaktivist | Elli Acula, Hyperaktivist |
 | Sat, 5 Sept 2026 | Palais: ISAbella (All Night Long) | DJ Storm, ISAbella, Silva Snipa, VXRGO |
@@ -18,9 +17,10 @@ Palais is a music venue in London listed on soundcheck. 20 upcoming nights, with
 | Sat, 19 Sept 2026 | Origins: DJ Storm, Silva Snipa & VXRGO | DJ Storm, Silva Snipa, VXRGO |
 | Sun, 20 Sept 2026 | Club Alegría x Boyanza | Camila Valero, Kodemul, Lettie, Li Causi, Lils, Lukas Leigh, Rafatel, Revstreet, Valeriana, papa jazz |
 | Fri, 25 Sept 2026 | Palais: Lou Nour ft Lady Lykez, Naina, Carré & JAZ IMSKY | Carré, JAZ IMSKY, Lady Lykez, Lou Nour, Naina, SICARIA |
+| Sat, 26 Sept 2026 | Palais: Moonlighting (All Night Long) | Leanne Wright, MarshmeLLo, Zakia |
 
 ## Address
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

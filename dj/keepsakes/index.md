@@ -1,8 +1,8 @@
 # Keepsakes
 
-Keepsakes is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fuchs2, Prague on Sat, 5 Sept 2026.
+Keepsakes is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fuchs2, Prague on Sat, 5 Sept 2026.
 
-Keepsakes is a techno and house artist tracked on soundcheck, with 34 sets logged across Athens, Auckland, Barcelona and Berlin and 18 more. Often billed alongside Inverse Element, ADMINISTRATOR and DLV. Next up: Fuchs2, Prague on Sat 5 Sept.
+Keepsakes is a techno and house artist tracked on soundcheck, with 35 sets logged across Athens, Auckland, Barcelona and Berlin and 18 more. Often billed alongside Inverse Element, ADMINISTRATOR and DLV. Next up: Fuchs2, Prague on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Keepsakes is a techno and house artist tracked on soundcheck, with 34 sets logge
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Fuchs2 | Prague |
 | Fri, 11 Sept 2026 | STK 47 WAREHOUSE | Krakow |
+| Fri, 13 Nov 2026 | Eastern Bloc Records | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Keepsakes is a techno and house artist tracked on soundcheck, with 34 sets logge
 
 Inverse Element, ADMINISTRATOR, DLV
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

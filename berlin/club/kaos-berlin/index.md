@@ -1,6 +1,6 @@
 # Kaos Berlin
 
-Kaos Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Octavio Papalini, Cedrik Fermont, JacqNoise, Bero Snaut live" on Fri, 11 Sept 2026.
+Kaos Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Octavio Papalini, Cedrik Fermont, JacqNoise, Bero Snaut live" on Fri, 11 Sept 2026.
 
 Kaos Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Cedrik Fermont and JacqNoise. Browse upcoming dates, start times and who's playing. Wilhelminenhofstraße 92, 12459 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Kaos Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Wilhelminenhofstraße 92, 12459 Berlin, Germany, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kaos-berlin/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kaos-berlin/)*

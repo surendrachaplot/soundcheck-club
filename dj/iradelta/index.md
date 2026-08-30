@@ -1,6 +1,6 @@
 # IRA DELTA
 
-IRA DELTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tresor / Globus, Berlin on Wed, 16 Sept 2026.
+IRA DELTA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Wed, 16 Sept 2026.
 
 IRA DELTA is a techno and house artist tracked on soundcheck, with 3 sets logged across Berlin and Leipzig. Often billed alongside CRAVO, Gianmarco Silvetti and Niktech. Next up: Tresor / Globus, Berlin on Wed 16 Sept.
 
@@ -19,4 +19,4 @@ IRA DELTA is a techno and house artist tracked on soundcheck, with 3 sets logged
 
 CRAVO, Gianmarco Silvetti, Niktech
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iradelta/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iradelta/)*

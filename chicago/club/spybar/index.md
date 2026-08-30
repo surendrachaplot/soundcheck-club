@@ -1,14 +1,13 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 15 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hood Politics Takeover" on Sat, 29 Aug 2026.
+Spybar is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ARC After Dark: Luke Dean" on Thu, 3 Sept 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 15 upcoming nights, with line-ups including Brunello, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including Brunello, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Hood Politics Takeover | Sherm |
 | Thu, 3 Sept 2026 | ARC After Dark: Luke Dean | Luke Dean_ |
 | Fri, 4 Sept 2026 | ARC After Dark: Brunello | Brunello |
 | Sat, 5 Sept 2026 | ARC After Dark: Omar | Omar+ |
@@ -18,9 +17,10 @@ Spybar is a music venue in Chicago listed on soundcheck. 15 upcoming nights, wit
 | Sat, 19 Sept 2026 | Tini Gessler | Tini Gessler |
 | Fri, 25 Sept 2026 | Dam Swindle | Dam Swindle |
 | Sat, 26 Sept 2026 | CRi | CRi |
+| Fri, 9 Oct 2026 | Rinzen | Rinzen |
 
 ## Address
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

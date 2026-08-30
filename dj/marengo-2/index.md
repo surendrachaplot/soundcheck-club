@@ -1,6 +1,6 @@
 # marengo (2)
 
-marengo (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+marengo (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
 marengo (2) is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and :MUMM. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ marengo (2) is a techno and house artist based in Germany, tracked on soundcheck
 
 mp.ulle, MIDNXGHT, :MUMM
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marengo-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marengo-2/)*

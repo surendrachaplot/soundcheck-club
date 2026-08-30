@@ -1,6 +1,6 @@
 # Taigo
 
-Taigo is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Batica, Tokyo on Fri, 4 Sept 2026.
+Taigo is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Batica, Tokyo on Fri, 4 Sept 2026.
 
 Taigo is a hip-hop and house artist tracked on soundcheck, with 12 sets logged across London and Tokyo. Often billed alongside Roy (PT), KUNPEI and MILS. Next up: Batica, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Taigo is a hip-hop and house artist tracked on soundcheck, with 12 sets logged a
 
 Roy (PT), KUNPEI, MILS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taigo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taigo/)*

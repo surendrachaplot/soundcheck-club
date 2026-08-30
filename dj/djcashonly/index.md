@@ -1,6 +1,6 @@
 # Dj Cash Only
 
-Dj Cash Only is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
+Dj Cash Only is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
 
 Dj Cash Only is a house and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Ibiza, Leeds and London. Often billed alongside Ned Spencer, Sam Divine and Sam Supplier. Next up: Ministry Of Sound, London on Mon 31 Aug.
 
@@ -26,4 +26,4 @@ Dj Cash Only is a house and tech house artist tracked on soundcheck, with 24 set
 
 Ned Spencer, Sam Divine, Sam Supplier
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*

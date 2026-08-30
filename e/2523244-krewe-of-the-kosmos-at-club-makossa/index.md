@@ -1,6 +1,6 @@
 # Krewe of the Kosmos at Club Makossa
 
-Krewe of the Kosmos at Club Makossa on Sun 30 Aug, London. 2 acts on the bill: Alexander Solo and Kamar. Dub and Balearic. Preview the line-up and save it on soundcheck.
+Krewe of the Kosmos at Club Makossa on Sun 30 Aug, London. 2 acts on the bill: Alexander Solo and Kamar. Dub and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

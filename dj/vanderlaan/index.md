@@ -1,6 +1,6 @@
 # Van Der Laan
 
-Van Der Laan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+Van Der Laan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
 
 Van Der Laan is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Atilla Ural, Ksenyeah and Adrian Escobar (US). Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Van Der Laan is a house and deep house artist based in United States of America,
 
 Atilla Ural, Ksenyeah, Adrian Escobar (US)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlaan/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlaan/)*

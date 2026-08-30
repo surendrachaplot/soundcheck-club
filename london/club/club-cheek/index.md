@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 13 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "STRUCTURE X PRESSURE SYSTEMS" on Sat, 29 Aug 2026.
+Club Cheek is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Whistle Crew Horns Crew X Launch Carnival Afterparty" on Sun, 30 Aug 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Alicia (UK), Amit, Anahita Shamsaei and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Alicia (UK), Amit, Anahita Shamsaei and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | STRUCTURE X PRESSURE SYSTEMS | Fergus Sweetland, Joline Scheffler, Mosai, Yant |
 | Sun, 30 Aug 2026 | Whistle Crew Horns Crew X Launch Carnival Afterparty | DJ Kane (1), DJ LESSONS, DJ-HOTLINE 333, Double O, ETHICS, Junior Buzz, Philth, Sweetpea |
 | Fri, 4 Sept 2026 | CLUB WETT w/ BIG WETT (LIVE), Jaguar B2B KDA (DJ) + Big Softy (LIVE) | Big Softy, Jaguar, KDA |
 | Sat, 5 Sept 2026 | the debs 2.0 | Shampain |
@@ -18,9 +17,10 @@ Club Cheek is a music venue in London listed on soundcheck. 13 upcoming nights, 
 | Sat, 19 Sept 2026 | Elevation presents: Bok Bok | Bok Bok, joey manzi, nath eps |
 | Sun, 27 Sept 2026 | perspectives• | ANNX, Alicia (UK), Forest, Temple Rat, ena b. |
 | Sat, 3 Oct 2026 | Percolate x Gradient presents Bobby. (Extended) | Bobby. |
+| Fri, 16 Oct 2026 | Shoulderwork Vol. 2 - Gallegos | Gallegos |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

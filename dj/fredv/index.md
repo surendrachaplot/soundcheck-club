@@ -1,6 +1,6 @@
 # Fred V
 
-Fred V is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Magic Stick, Detroit on Fri, 11 Sept 2026.
+Fred V is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Magic Stick, Detroit on Fri, 11 Sept 2026.
 
 Fred V is a drum & bass and bass artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Berlin and Boston and 15 more. Often billed alongside Flava D, Whiney and Metrik. Next up: Magic Stick, Detroit on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fred V is a drum & bass and bass artist tracked on soundcheck, with 40 sets logg
 
 Flava D, Whiney, Metrik
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredv/)*

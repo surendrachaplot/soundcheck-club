@@ -1,6 +1,6 @@
 # Taets Art & Event Park
 
-Taets Art & Event Park is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "No Art ADE Festival 2026" on Sat, 24 Oct 2026.
+Taets Art & Event Park is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "No Art ADE Festival 2026" on Sat, 24 Oct 2026.
 
 Taets Art & Event Park is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Alci, Aline Umber, ANOTR and Brunello and 2 more. Browse upcoming dates, start times and who's playing. Hemkade 18 (Hembrugterrein), 1506 PR Amsterdam - Zaandam.
 
@@ -8,11 +8,11 @@ Taets Art & Event Park is a music venue in Amsterdam listed on soundcheck. 2 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | No Art ADE Festival 2026 | ANOTR, Alci, Aline Umber, Brunello, Chris Stassy, HALFPINT, Hannecart, Hunee, Job Jobse, Mateo Dufour, Moxie, Rooléh, Saoirse |
+| Sat, 24 Oct 2026 | No Art ADE Festival 2026 | ANOTR, Alci, Aline Umber, Brunello, Chris Stussy, HALFPINT, Hannecart, Hunee, Job Jobse, Mateo Dufour, Moxie, Rooléh, Saoirse |
 | Sun, 25 Oct 2026 | GOLFOS [ADE] | Dennis Cruz, PAWSA |
 
 ## Address
 
 Hemkade 18 (Hembrugterrein), 1506 PR Amsterdam - Zaandam, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/taets-art-event-park/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/taets-art-event-park/)*

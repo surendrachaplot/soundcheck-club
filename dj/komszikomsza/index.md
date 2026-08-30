@@ -1,6 +1,6 @@
 # komszi*komsza
 
-komszi*komsza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Distillery, Leipzig on Fri, 30 Oct 2026.
+komszi*komsza is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery, Leipzig on Fri, 30 Oct 2026.
 
 komszi*komsza is a techno and trance artist tracked on soundcheck, with 6 sets logged across Leipzig. Often billed alongside Alisa Stovik, Beron and CAMPA. Next up: Distillery, Leipzig on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ komszi*komsza is a techno and trance artist tracked on soundcheck, with 6 sets l
 
 Alisa Stovik, Beron, CAMPA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/komszikomsza/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/komszikomsza/)*

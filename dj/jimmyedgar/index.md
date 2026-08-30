@@ -1,14 +1,14 @@
 # Jimmy Edgar
 
-Jimmy Edgar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 2 Oct 2026.
+Jimmy Edgar is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Jimmy Edgar is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Chicago, Ghent and Losangeles and 1 more. Often billed alongside Composuresquad, DJ Failure and Jubilee. Next up: DSTRKT Club Berlin, Berlin on Fri 2 Oct.
+Jimmy Edgar is a techno and house artist tracked on soundcheck, with 18 sets logged across Berlin, Chicago, Ghent and Losangeles and 1 more. Often billed alongside Composuresquad, DJ Failure and Jubilee. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | DSTRKT Club Berlin | Berlin |
+| Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jimmy Edgar is a techno and house artist tracked on soundcheck, with 18 sets log
 
 Composuresquad, DJ Failure, Jubilee
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyedgar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyedgar/)*

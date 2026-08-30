@@ -1,6 +1,6 @@
 # Vaninajaz.
 
-Vaninajaz. is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
+Vaninajaz. is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
 
 Vaninajaz. is a tech house and deep house artist based in Argentina, tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Devicious, LORZA and ACA (YU). Next up: Atlantic Sound, Barcelona on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Vaninajaz. is a tech house and deep house artist based in Argentina, tracked on 
 
 Devicious, LORZA, ACA (YU)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*

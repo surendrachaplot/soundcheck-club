@@ -1,6 +1,6 @@
 # Sam van der Toure
 
-Sam van der Toure is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bar v Krymský, Prague on Sat, 12 Sept 2026.
+Sam van der Toure is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bar v Krymský, Prague on Sat, 12 Sept 2026.
 
 Sam van der Toure is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 3 more. Often billed alongside Legri, Unnik and Lilley. Next up: Bar v Krymský, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sam van der Toure is a house and tech house artist tracked on soundcheck, with 3
 
 Legri, Unnik, Lilley
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samvandertoure/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samvandertoure/)*

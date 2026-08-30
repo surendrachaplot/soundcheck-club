@@ -1,6 +1,6 @@
 # GUS (4)
 
-GUS (4) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Strange Brew, Bristol on Fri, 4 Sept 2026.
+GUS (4) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Strange Brew, Bristol on Fri, 4 Sept 2026.
 
 GUS (4) is a house and trance artist tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Bristol and Brussels and 6 more. Often billed alongside N3LYSTAR, Bieu and DAZLBØY. Next up: Strange Brew, Bristol on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ GUS (4) is a house and trance artist tracked on soundcheck, with 31 sets logged 
 
 N3LYSTAR, Bieu, DAZLBØY
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*

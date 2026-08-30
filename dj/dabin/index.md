@@ -1,14 +1,15 @@
 # Dabin
 
-Dabin is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
+Dabin is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
 
-Dabin is a jungle and garage artist tracked on soundcheck, with 37 sets logged across Austin, Boston, Losangeles and Sanfrancisco and 4 more. Often billed alongside Shins, Surge and Virion. Next up: Blank Site, Seoul on Sat 12 Sept.
+Dabin is a jungle and garage artist tracked on soundcheck, with 38 sets logged across Austin, Boston, Losangeles and Sanfrancisco and 4 more. Often billed alongside Shins, Surge and Virion. Next up: Blank Site, Seoul on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Blank Site | Seoul |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dabin is a jungle and garage artist tracked on soundcheck, with 37 sets logged a
 
 Shins, Surge, Virion
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dabin/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dabin/)*

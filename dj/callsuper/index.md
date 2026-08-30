@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Call Super is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Call Super is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: The Cause, London on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Call Super is a techno and house artist tracked on soundcheck, with 208 sets log
 
 Shanti Celeste, Anz, Objekt
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

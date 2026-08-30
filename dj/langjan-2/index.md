@@ -1,6 +1,6 @@
 # Lang Jan (2)
 
-Lang Jan (2) is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 3 Sept 2026.
+Lang Jan (2) is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 3 Sept 2026.
 
 Lang Jan (2) is a jungle and bass artist based in Germany, tracked on soundcheck, with 8 sets logged across Hamburg. Often billed alongside Sarah Q, Usus and Roof (2). Next up: Golden Pudel Club, Hamburg on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Lang Jan (2) is a jungle and bass artist based in Germany, tracked on soundcheck
 
 Sarah Q, Usus, Roof (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/langjan-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/langjan-2/)*

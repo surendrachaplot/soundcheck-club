@@ -1,6 +1,6 @@
 # Sevensol
 
-Sevensol is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
+Sevensol is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
 
 Sevensol is a house and techno artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Ori Raz, Map.ache and DJ Balduin. Next up: Tokonoma Club, Frankfurt on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Sevensol is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Ori Raz, Map.ache, DJ Balduin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevensol/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevensol/)*

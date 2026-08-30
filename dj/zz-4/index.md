@@ -1,6 +1,6 @@
 # ZZ (4)
 
-ZZ (4) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Foundry, San Francisco/Oakland on Wed, 16 Sept 2026.
+ZZ (4) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Foundry, San Francisco/Oakland on Wed, 16 Sept 2026.
 
 ZZ (4) is a techno and club artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity, Sanfrancisco and Tokyo. Often billed alongside jmo corleone, ek:) and Just Another Bitch. Next up: The Foundry, Sanfrancisco on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ ZZ (4) is a techno and club artist based in United States of America, tracked on
 
 jmo corleone, ek:), Just Another Bitch
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zz-4/)*

@@ -1,6 +1,6 @@
 # dayoung
 
-dayoung is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
+dayoung is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
 
 dayoung is a club and bass artist based in South Korea, tracked on soundcheck, with 76 sets logged across Hongkong, Kyoto and Seoul. Often billed alongside MAZE (KR), KISEWA and Arexibo. Next up: Cakeshop, Seoul on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ dayoung is a club and bass artist based in South Korea, tracked on soundcheck, w
 
 MAZE (KR), KISEWA, Arexibo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dayoung/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dayoung/)*

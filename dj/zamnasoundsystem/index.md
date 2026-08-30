@@ -1,6 +1,6 @@
 # Zamna Soundsystem
 
-Zamna Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
+Zamna Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Parc d’Atraccions del Tibidabo, Barcelona on Fri, 18 Sept 2026.
 
 Zamna Soundsystem is a house and techno artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 9 more. Often billed alongside Andrea Oliva, Brina Knauss and Henri Bergmann. Next up: Parc d’Atraccions del Tibidabo, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Zamna Soundsystem is a house and techno artist based in Italy, tracked on soundc
 
 Andrea Oliva, Brina Knauss, Henri Bergmann
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zamnasoundsystem/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zamnasoundsystem/)*

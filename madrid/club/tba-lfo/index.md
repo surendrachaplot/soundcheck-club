@@ -1,14 +1,13 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "U.M.A. with Carrier" on Sat, 29 Aug 2026.
+TBA - LFO is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Phase Opening Baile" on Fri, 4 Sept 2026.
 
-TBA - LFO is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including Carrier, Elena Barker, harold. (ES) and Silvia Torres. Browse upcoming dates, start times and who's playing.
+TBA - LFO is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Cintia Martís, Deano, ILAYRUNI and Josephine and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | U.M.A. with Carrier | Carrier, Elena Barker, Silvia Torres, harold. (ES) |
-| Fri, 4 Sept 2026 | Phase Opening Baile |  |
+| Fri, 4 Sept 2026 | Phase Opening Baile | Cintia Martís, Deano, ILAYRUNI, Josephine, Judy (ES), zizi k |
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

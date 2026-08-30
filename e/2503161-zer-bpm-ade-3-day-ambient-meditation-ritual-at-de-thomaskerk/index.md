@@ -1,6 +1,6 @@
 # ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk
 
-ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, Amsterdam. 34 acts on the bill: .VRIL, 42nd Avenue, Altinbas and August (NO) and 30 more. Ambient. Preview the line-up and save it on soundcheck.
+ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, Amsterdam. 35 acts on the bill: .VRIL, 42nd Avenue, Altinbas and August (NO) and 31 more. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -39,6 +39,7 @@ ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, A
 - Richard Akingbehin
 - Rødhåd
 - SAMA (NL)
+- Seif Bedour
 - Steve Rachmad
 - Sunju Hargun
 - Tau Ceti

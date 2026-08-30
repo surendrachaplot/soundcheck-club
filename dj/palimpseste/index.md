@@ -1,6 +1,6 @@
 # Palimpseste
 
-Palimpseste is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Terraza Atenas, Madrid on Sun, 30 Aug 2026.
+Palimpseste is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Terraza Atenas, Madrid on Sun, 30 Aug 2026.
 
 Palimpseste is a house and disco artist tracked on soundcheck, with 51 sets logged across Madrid and Paris. Often billed alongside Finesse, Marchandazing and Matteo Morrielli. Next up: Terraza Atenas, Madrid on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Palimpseste is a house and disco artist tracked on soundcheck, with 51 sets logg
 
 Finesse, Marchandazing, Matteo Morrielli
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palimpseste/)*

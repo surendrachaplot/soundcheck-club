@@ -1,6 +1,6 @@
 # DJ Der
 
-DJ Der is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
+DJ Der is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 DJ Der is a grime and dubstep artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Adrasha, EYRA and Just Claudia. Next up: Village Underground Barcelona, Barcelona on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ DJ Der is a grime and dubstep artist tracked on soundcheck, with 7 sets logged a
 
 Adrasha, EYRA, Just Claudia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djder/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djder/)*

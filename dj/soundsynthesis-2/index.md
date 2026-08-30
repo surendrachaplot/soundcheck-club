@@ -1,6 +1,6 @@
 # Sound synthesis (2)
 
-Sound synthesis (2) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+Sound synthesis (2) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
 
 Sound synthesis (2) is a techno and acid artist tracked on soundcheck, with 12 sets logged across London, Malta, Manchester and Sheffield. Often billed alongside Acidulant, Sean Rickett and Damz. Next up: Liquid Club, Malta on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sound synthesis (2) is a techno and acid artist tracked on soundcheck, with 12 s
 
 Acidulant, Sean Rickett, Damz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsynthesis-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soundsynthesis-2/)*

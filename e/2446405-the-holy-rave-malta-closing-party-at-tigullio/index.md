@@ -1,6 +1,6 @@
 # The Holy Rave Malta - Closing Party at Tigullio
 
-The Holy Rave Malta - Closing Party at Tigullio on Thu 3 Sept, Malta. 3 acts on the bill: CMGA, Kingsmo and Naomi Baldacchino. Techno. Preview the line-up and save it on soundcheck.
+The Holy Rave Malta - Closing Party at Tigullio on Thu 3 Sept, Malta. 4 acts on the bill: CMGA, Gouzz, Kingsmo and Naomi Baldacchino. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ The Holy Rave Malta - Closing Party at Tigullio on Thu 3 Sept, Malta. 3 acts on 
 ## Line-up
 
 - CMGA
+- Gouzz
 - Kingsmo
 - Naomi Baldacchino
 

@@ -1,8 +1,8 @@
 # NewTone
 
-NewTone is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+NewTone is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-NewTone is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+NewTone is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 11 more. Often billed alongside Boris Coelman, TINS and DART. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ NewTone is a house and techno artist tracked on soundcheck, with 103 sets logged
 
 Boris Coelman, TINS, DART
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

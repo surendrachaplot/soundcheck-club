@@ -1,6 +1,6 @@
 # Bollmann
 
-Bollmann is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+Bollmann is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
 Bollmann is a techno and trance artist tracked on soundcheck, with 95 sets logged across Barcelona, Basel, Berlin and Cologne and 16 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Bollmann is a techno and trance artist tracked on soundcheck, with 95 sets logge
 
 LØUS, FLUCC, Punktmidi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*

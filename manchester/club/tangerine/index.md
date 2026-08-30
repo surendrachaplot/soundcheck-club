@@ -1,6 +1,6 @@
 # Tangerine
 
-Tangerine is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Good Custard & Friends: Tangerine Takeover" on Fri, 4 Sept 2026.
+Tangerine is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Good Custard & Friends: Tangerine Takeover" on Fri, 4 Sept 2026.
 
 Tangerine is a music venue in Manchester listed on soundcheck. 1 upcoming night, with line-ups including Alex Moore, Mascott and SAVANNAHH. Browse upcoming dates, start times and who's playing. Arch 60-61, 13-17 New Bailey St, Salford M3 5FS.
 
@@ -14,4 +14,4 @@ Tangerine is a music venue in Manchester listed on soundcheck. 1 upcoming night,
 
 Arch 60-61, 13-17 New Bailey St, Salford M3 5FS, Manchester
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tangerine/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/tangerine/)*

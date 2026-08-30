@@ -1,14 +1,13 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 18 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "LADY FAITH" on Sat, 29 Aug 2026.
+Elektricity is a music venue in Detroit with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "MEET ME AT THE RAIL" on Fri, 4 Sept 2026.
 
-Elektricity is a music venue in Detroit listed on soundcheck. 18 upcoming nights, with line-ups including ARCS, Dantiez, DJ MANDY and Dombresky and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
+Elektricity is a music venue in Detroit listed on soundcheck. 17 upcoming nights, with line-ups including ARCS, Dantiez, DJ MANDY and Dombresky and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | LADY FAITH |  |
 | Fri, 4 Sept 2026 | MEET ME AT THE RAIL |  |
 | Sat, 5 Sept 2026 | DUBLOADZ |  |
 | Fri, 11 Sept 2026 | Disco Dom | Dantiez |
@@ -18,9 +17,10 @@ Elektricity is a music venue in Detroit listed on soundcheck. 18 upcoming nights
 | Fri, 2 Oct 2026 | NIIKO X SWAE | ARCS, Johnny Malek |
 | Sat, 3 Oct 2026 | YHETI & TOADFACE: SLEIGHT OF SOUND TOUR |  |
 | Fri, 9 Oct 2026 | SICKICK | Naj |
+| Sat, 10 Oct 2026 | BEAR GRILLZ: DUBSTEP TIME MACHINE |  |
 
 ## Address
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

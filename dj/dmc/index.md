@@ -1,6 +1,6 @@
 # DMC.
 
-DMC. is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bar Shrimp, Manchester on Sun, 30 Aug 2026.
+DMC. is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bar Shrimp, Manchester on Sun, 30 Aug 2026.
 
 DMC. is a house and electro artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Louie G, Colin Chiddle and Carl H. Next up: Bar Shrimp, Manchester on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ DMC. is a house and electro artist tracked on soundcheck, with 80 sets logged ac
 
 Louie G, Colin Chiddle, Carl H
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dmc/)*

@@ -1,6 +1,6 @@
 # Dr. Lektroluv
 
-Dr. Lektroluv is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Dr. Lektroluv is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 Dr. Lektroluv is an electronica and house artist tracked on soundcheck, with 5 sets logged across Amsterdam and Ghent. Often billed alongside Digitalism, Kenny Montana and Maxim Lany. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Dr. Lektroluv is an electronica and house artist tracked on soundcheck, with 5 s
 
 Digitalism, Kenny Montana, Maxim Lany
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lektroluv/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lektroluv/)*

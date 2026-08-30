@@ -1,6 +1,6 @@
 # ROPO
 
-ROPO is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Culture Box, Copenhagen on Fri, 11 Sept 2026.
+ROPO is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Culture Box, Copenhagen on Fri, 11 Sept 2026.
 
 ROPO is an electro and minimal artist based in Denmark, tracked on soundcheck, with 10 sets logged across Copenhagen and Lyon. Often billed alongside AriOn, Daniel Naad and Fynutzu. Next up: Culture Box, Copenhagen on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ ROPO is an electro and minimal artist based in Denmark, tracked on soundcheck, w
 
 AriOn, Daniel Naad, Fynutzu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ropo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ropo/)*

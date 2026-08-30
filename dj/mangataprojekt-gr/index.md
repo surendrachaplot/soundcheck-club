@@ -1,6 +1,6 @@
 # Mangata Projekt
 
-Mangata Projekt is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Island Athens Riviera, Athens on Sun, 30 Aug 2026.
+Mangata Projekt is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Island Athens Riviera, Athens on Sun, 30 Aug 2026.
 
 Mangata Projekt is an electronic artist based in Greece, tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside Fotinos, Frankey & Sandrino and Pigs Kaput. Next up: Island Athens Riviera, Athens on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mangata Projekt is an electronic artist based in Greece, tracked on soundcheck, 
 
 Fotinos, Frankey & Sandrino, Pigs Kaput
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangataprojekt-gr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mangataprojekt-gr/)*

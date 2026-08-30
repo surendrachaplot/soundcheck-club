@@ -1,6 +1,6 @@
 # nanaceba
 
-nanaceba is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Bridge, Los Angeles on Sun, 6 Sept 2026.
+nanaceba is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Bridge, Los Angeles on Sun, 6 Sept 2026.
 
 nanaceba is a house and deep house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside Stepushin, KOMLEV and Connor Mikami. Next up: The Bridge, Losangeles on Sun 6 Sept.
 
@@ -23,4 +23,4 @@ nanaceba is a house and deep house artist based in Ukraine, tracked on soundchec
 
 Stepushin, KOMLEV, Connor Mikami
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanaceba/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nanaceba/)*

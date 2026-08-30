@@ -1,6 +1,6 @@
 # Surrender Discipline
 
-Surrender Discipline is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Piękny Pies, Krakow on Sat, 19 Sept 2026.
+Surrender Discipline is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Piękny Pies, Krakow on Sat, 19 Sept 2026.
 
 Surrender Discipline is a minimal and house artist tracked on soundcheck, with 9 sets logged across Belgrade, Berlin, Bucharest and Ibiza and 3 more. Often billed alongside Aljosa, EUGEN1O and Grzechu Warty. Next up: Piękny Pies, Krakow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Surrender Discipline is a minimal and house artist tracked on soundcheck, with 9
 
 Aljosa, EUGEN1O, Grzechu Warty
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surrenderdiscipline/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surrenderdiscipline/)*

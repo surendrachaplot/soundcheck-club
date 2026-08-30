@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
+Toribio is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at NUMBER 90 LONDON, London on Sun, 30 Aug 2026.
 
 Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Mickey Perez, Guthrie and Love Injection. Next up: NUMBER 90 LONDON, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Toribio is a house and disco artist based in United States of America, tracked o
 
 Mickey Perez, Guthrie, Love Injection
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

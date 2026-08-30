@@ -1,20 +1,20 @@
 # ADEMES
 
-ADEMES is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Park.Cologne, Cologne on Sat, 29 Aug 2026.
+ADEMES is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
-ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 3 more. Often billed alongside Amøn, DJ SODBRENNEN and LELO. Next up: Park.Cologne, Cologne on Sat 29 Aug.
+ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 3 more. Often billed alongside Amøn, DJ SODBRENNEN and LELO. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Park.Cologne | Cologne |
 | Fri, 2 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 2 Oct 2026 | Bootshaus | Cologne |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- Park.Cologne, Cologne — Sat, 29 Aug 2026
 - Helios37, Cologne — Fri, 10 Jul 2026
 - TBA, Cologne — Sat, 6 Jun 2026
 - TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
@@ -22,10 +22,9 @@ ADEMES is a techno and trance artist based in Germany, tracked on soundcheck, wi
 - Garagen, Cologne — Wed, 13 May 2026
 - Helios37, Cologne — Sun, 5 Apr 2026
 - Schrotty, Cologne — Fri, 27 Mar 2026
-- TBA - Park Cafe - Rheinpark Köln, Cologne — Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Amøn, DJ SODBRENNEN, LELO
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*

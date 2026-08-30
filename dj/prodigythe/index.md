@@ -1,14 +1,13 @@
 # The Prodigy
 
-The Prodigy is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Royal Highland Centre, Edinburgh on Sat, 29 Aug 2026.
+The Prodigy is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Live From Wythenshawe Park, Manchester on Sun, 30 Aug 2026.
 
-The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Brisbane and Copenhagen and 13 more. Often billed alongside Carl Cox, Andy C and Jamie Jones. Next up: Royal Highland Centre, Edinburgh on Sat 29 Aug.
+The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Brisbane and Copenhagen and 13 more. Often billed alongside Carl Cox, Andy C and Jamie Jones. Next up: Live From Wythenshawe Park, Manchester on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Royal Highland Centre | Edinburgh |
 | Sun, 30 Aug 2026 | Live From Wythenshawe Park | Manchester |
 | Thu, 24 Sept 2026 | Roadrunner | Boston |
 | Fri, 25 Sept 2026 | Under the K Bridge | New York City |
@@ -16,6 +15,7 @@ The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 se
 
 ## Recently played
 
+- Royal Highland Centre, Edinburgh — Sat, 29 Aug 2026
 - Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 - Utilita Arena, Newcastle — Sat, 2 May 2026
 - First Direct Arena, Leeds — Wed, 22 Apr 2026
@@ -23,10 +23,9 @@ The Prodigy is a techno and electronica artist tracked on soundcheck, with 20 se
 - Grub Records, Sheffield — Wed, 18 Mar 2026
 - The Warfield, San Francisco/Oakland — Mon, 22 Sept 2025
 - TBA, Tokyo — Sat, 16 Aug 2025
-- Parc del Fòrum, Barcelona — Fri, 13 Jun 2025
 
 ## Shares bills with
 
 Carl Cox, Andy C, Jamie Jones
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prodigythe/)*

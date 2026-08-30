@@ -1,6 +1,6 @@
 # Mateo Blanco
 
-Mateo Blanco is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
+Mateo Blanco is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
 
 Mateo Blanco is a techno and tech house artist based in Canada, tracked on soundcheck, with 30 sets logged across Melbourne and Toronto. Often billed alongside Etwas, Matteo Freyrie and HYBE. Next up: Max Watt's, Melbourne on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Mateo Blanco is a techno and tech house artist based in Canada, tracked on sound
 
 Etwas, Matteo Freyrie, HYBE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateoblanco/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateoblanco/)*

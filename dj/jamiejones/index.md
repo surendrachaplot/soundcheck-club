@@ -1,8 +1,8 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Jamie Jones is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Jamie Jones is a house and tech house artist tracked on soundcheck, with 209 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Jamie Jones is a house and tech house artist tracked on soundcheck, with 210 sets logged across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 209 set
 
 ## Recently played
 
+- Kelvedon Hall, London — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
 - [UNVRS], Ibiza — Wed, 19 Aug 2026
 - [UNVRS], Ibiza — Wed, 12 Aug 2026
@@ -30,10 +31,9 @@ Jamie Jones is a house and tech house artist tracked on soundcheck, with 209 set
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - [UNVRS], Ibiza — Wed, 5 Aug 2026
 - [UNVRS], Ibiza — Wed, 29 Jul 2026
-- Sophie Festival, Malaga — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Joseph Capriati, Manda Moor, ALISHA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

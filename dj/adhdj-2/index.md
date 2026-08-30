@@ -1,14 +1,14 @@
 # ADHDJ (2)
 
-ADHDJ (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
+ADHDJ (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
-ADHDJ (2) is a techno and psytrance artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Madrid and Utrecht. Often billed alongside HANNAH (NL), Gimmeamfbreakbeat and Mitsubitchy. Next up: RADION, Amsterdam on Sat 29 Aug.
+ADHDJ (2) is a techno and psytrance artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Madrid and Utrecht. Often billed alongside HANNAH (NL), Gimmeamfbreakbeat and Mitsubitchy. Next up: RADION, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | RADION | Amsterdam |
+| Fri, 2 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ADHDJ (2) is a techno and psytrance artist tracked on soundcheck, with 20 sets l
 
 HANNAH (NL), Gimmeamfbreakbeat, Mitsubitchy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adhdj-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adhdj-2/)*

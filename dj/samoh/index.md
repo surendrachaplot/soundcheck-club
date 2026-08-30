@@ -1,6 +1,6 @@
 # SAMOH
 
-SAMOH is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
+SAMOH is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
 
 SAMOH is a techno and acid artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Bucharest and Nantes and 2 more. Often billed alongside Comrade Winston, HyperLili and Locus Error. Next up: H7 Warehouse, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ SAMOH is a techno and acid artist based in Netherlands, tracked on soundcheck, w
 
 Comrade Winston, HyperLili, Locus Error
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samoh/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samoh/)*

@@ -1,6 +1,6 @@
 # Cruz de Cal
 
-Cruz de Cal is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
+Cruz de Cal is a Techno and Guaracha artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
 
 Cruz de Cal is a techno and guaracha artist tracked on soundcheck, with 48 sets logged across Berlin, Mexicocity and Sanfrancisco. Often billed alongside Tatiana Vaughan (2), Ann García and Eliel Capa. Next up: 1015 Folsom, Sanfrancisco on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Cruz de Cal is a techno and guaracha artist tracked on soundcheck, with 48 sets 
 
 Tatiana Vaughan (2), Ann García, Eliel Capa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzdecal/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cruzdecal/)*

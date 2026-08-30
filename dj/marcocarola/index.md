@@ -1,6 +1,6 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
+Marco Carola is a Tech House and Techno artist with 14 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jardins de Joan Brossa, Barcelona on Sun, 30 Aug 2026.
 
 Marco Carola is a tech house and techno artist tracked on soundcheck, with 294 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Jardins de Joan Brossa, Barcelona on Sun 30 Aug.
 
@@ -36,4 +36,4 @@ Marco Carola is a tech house and techno artist tracked on soundcheck, with 294 s
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

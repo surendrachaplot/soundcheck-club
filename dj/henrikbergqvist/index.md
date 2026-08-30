@@ -1,6 +1,6 @@
 # Henrik Bergqvist
 
-Henrik Bergqvist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Trädgården, Stockholm on Sat, 19 Sept 2026.
+Henrik Bergqvist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Trädgården, Stockholm on Sat, 19 Sept 2026.
 
 Henrik Bergqvist is a house and techno artist tracked on soundcheck, with 8 sets logged across Stockholm. Often billed alongside Dorisburg, Ogazón and Christian AB. Next up: Trädgården, Stockholm on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Henrik Bergqvist is a house and techno artist tracked on soundcheck, with 8 sets
 
 Dorisburg, Ogazón, Christian AB
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikbergqvist/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikbergqvist/)*

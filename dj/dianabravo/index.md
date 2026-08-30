@@ -1,14 +1,14 @@
 # Diana Bravo
 
-Diana Bravo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Cause, London on Fri, 11 Sept 2026.
+Diana Bravo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Unit 58, London on Fri, 11 Sept 2026.
 
-Diana Bravo is a techno and industrial artist based in Venezuela, tracked on soundcheck, with 19 sets logged across Brighton, Copenhagen, London and Madrid. Often billed alongside Labåzuy, SHUGAH and Berry. Next up: The Cause, London on Fri 11 Sept.
+Diana Bravo is a techno and industrial artist based in Venezuela, tracked on soundcheck, with 19 sets logged across Brighton, Copenhagen, London and Madrid. Often billed alongside Labåzuy, SHUGAH and Berry. Next up: Unit 58, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | The Cause | London |
+| Fri, 11 Sept 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Diana Bravo is a techno and industrial artist based in Venezuela, tracked on sou
 
 Labåzuy, SHUGAH, Berry
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianabravo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianabravo/)*

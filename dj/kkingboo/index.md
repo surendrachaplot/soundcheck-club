@@ -1,6 +1,6 @@
 # KKINGBOO
 
-KKINGBOO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
+KKINGBOO is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 7th West, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 KKINGBOO is a club and techno artist tracked on soundcheck, with 10 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Blu Moon, Discnogirl and Madre Guía. Next up: 7th West, Sanfrancisco on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ KKINGBOO is a club and techno artist tracked on soundcheck, with 10 sets logged 
 
 Blu Moon, Discnogirl, Madre Guía
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kkingboo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kkingboo/)*

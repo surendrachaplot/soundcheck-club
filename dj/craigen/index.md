@@ -1,6 +1,6 @@
 # Craigen
 
-Craigen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 5 Sept 2026.
+Craigen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 5 Sept 2026.
 
 Craigen is a techno and house artist tracked on soundcheck, with 27 sets logged across Glasgow and Manchester. Often billed alongside Decno, Frank Grime and DJ Smoker. Next up: La Cheetah Club, Glasgow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Craigen is a techno and house artist tracked on soundcheck, with 27 sets logged 
 
 Decno, Frank Grime, DJ Smoker
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigen/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/craigen/)*

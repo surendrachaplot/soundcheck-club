@@ -1,6 +1,6 @@
 # The Space Lady
 
-The Space Lady is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fairfield Club, Glasgow on Sat, 29 Aug 2026.
+The Space Lady is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fairfield Club, Glasgow on Sat, 29 Aug 2026.
 
 The Space Lady is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bristol, Copenhagen, Denver and Glasgow and 4 more. Often billed alongside Mark Ernestus, Mary Lattimore and Smerz. Next up: Fairfield Club, Glasgow on Sat 29 Aug.
 
@@ -14,6 +14,7 @@ The Space Lady is an experimental and electronica artist based in United States 
 
 ## Recently played
 
+- Fairfield Club, Glasgow — Sat, 29 Aug 2026
 - The Jazz Cafe, London — Tue, 18 Nov 2025
 - TivoliVredenburg, Utrecht — Thu, 6 Nov 2025
 - ALICE, Copenhagen — Tue, 10 Jun 2025
@@ -25,4 +26,4 @@ The Space Lady is an experimental and electronica artist based in United States 
 
 Mark Ernestus, Mary Lattimore, Smerz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thespacelady/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thespacelady/)*

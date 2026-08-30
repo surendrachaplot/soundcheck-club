@@ -1,6 +1,6 @@
 # Senyawa
 
-Senyawa is a Experimental and Drone artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Studio Koncertowe Polskiego Radia im. Witloda Lutosławskiego, Warsaw on Tue, 15 Sept 2026.
+Senyawa is a Experimental and Drone artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Studio Koncertowe Polskiego Radia im. Witloda Lutosławskiego, Warsaw on Tue, 15 Sept 2026.
 
 Senyawa is an experimental and drone artist tracked on soundcheck, with 6 sets logged across Belgrade, Berlin, Glasgow and Melbourne and 2 more. Often billed alongside ABADIR, Altroy Jerome and Blood of Aza. Next up: TBA - Studio Koncertowe Polskiego Radia im. Witloda Lutosławskiego, Warsaw on Tue 15 Sept.
 
@@ -22,4 +22,4 @@ Senyawa is an experimental and drone artist tracked on soundcheck, with 6 sets l
 
 ABADIR, Altroy Jerome, Blood of Aza
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senyawa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senyawa/)*

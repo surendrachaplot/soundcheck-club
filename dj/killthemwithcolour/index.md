@@ -1,6 +1,6 @@
 # Kill Them With Colour
 
-Kill Them With Colour is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 3 Sept 2026.
+Kill Them With Colour is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hï Ibiza, Ibiza on Thu, 3 Sept 2026.
 
 Kill Them With Colour is an afro house and house artist based in Canada, tracked on soundcheck, with 11 sets logged across Ibiza, Mexicocity and Toronto. Often billed alongside Videri, Afrique Like Me and BACKUP DJ. Next up: Hï Ibiza, Ibiza on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Kill Them With Colour is an afro house and house artist based in Canada, tracked
 
 Videri, Afrique Like Me, BACKUP DJ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killthemwithcolour/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/killthemwithcolour/)*

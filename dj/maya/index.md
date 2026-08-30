@@ -1,6 +1,6 @@
 # Maya
 
-Maya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 5 Sept 2026.
+Maya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at ZEROTOKYO, Tokyo on Sat, 5 Sept 2026.
 
 Maya is a house and techno artist based in Italy, tracked on soundcheck, with 8 sets logged across Kyoto and Tokyo. Often billed alongside AHREUM, MARK MILA and Shogo Ito. Next up: ZEROTOKYO, Tokyo on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Maya is a house and techno artist based in Italy, tracked on soundcheck, with 8 
 
 AHREUM, MARK MILA, Shogo Ito
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maya/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maya/)*

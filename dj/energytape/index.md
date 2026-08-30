@@ -1,6 +1,6 @@
 # ENERGY TAPE
 
-ENERGY TAPE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
+ENERGY TAPE is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
 
 ENERGY TAPE is a trance and techno artist tracked on soundcheck, with 35 sets logged across Leipzig and Munich. Often billed alongside DJ Yugo, MASSAGIO and Alicea. Next up: Rote Sonne, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ENERGY TAPE is a trance and techno artist tracked on soundcheck, with 35 sets lo
 
 DJ Yugo, MASSAGIO, Alicea
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/energytape/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/energytape/)*

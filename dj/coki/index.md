@@ -1,6 +1,6 @@
 # Coki
 
-Coki is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Gaffe, London on Sat, 10 Oct 2026.
+Coki is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Gaffe, London on Sat, 10 Oct 2026.
 
 Coki is a dubstep and bass artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 17 more. Often billed alongside SGT Pokes, Loefah and Mala. Next up: Gaffe, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Coki is a dubstep and bass artist tracked on soundcheck, with 51 sets logged acr
 
 SGT Pokes, Loefah, Mala
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*

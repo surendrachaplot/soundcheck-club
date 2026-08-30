@@ -1,6 +1,6 @@
 # Ranae Vallis
 
-Ranae Vallis is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Le Gambetta Club, Paris on Sat, 12 Sept 2026.
+Ranae Vallis is a Trance and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Le Gambetta Club, Paris on Sat, 12 Sept 2026.
 
 Ranae Vallis is a trance and tech house artist tracked on soundcheck, with 7 sets logged across Paris. Often billed alongside CATSAWAY, Michel D. and Ninon. Next up: Le Gambetta Club, Paris on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Ranae Vallis is a trance and tech house artist tracked on soundcheck, with 7 set
 
 CATSAWAY, Michel D., Ninon
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranaevallis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ranaevallis/)*

@@ -1,6 +1,6 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+MiNNA is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 22 more. Often billed alongside Kirollus, Dan Shake and Melvo Baptiste. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -18,6 +18,7 @@ MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged ac
 
 ## Recently played
 
+- Kelvedon Hall, London — Sat, 29 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 21 Aug 2026
 - 528 Ibiza, Ibiza — Tue, 18 Aug 2026
 - LN-CC, London — Thu, 6 Aug 2026
@@ -25,10 +26,9 @@ MiNNA is a house and disco artist tracked on soundcheck, with 143 sets logged ac
 - Jumbi, London — Sat, 11 Jul 2026
 - Jumbi, London — Sat, 11 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Kirollus, Dan Shake, Melvo Baptiste
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

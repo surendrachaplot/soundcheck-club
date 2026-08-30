@@ -1,6 +1,6 @@
 # WAX DISTRICT at Mastak
 
-WAX DISTRICT at Mastak on Sat 26 Sept, Warsaw. 2 acts on the bill: FM (PL) and SKFF. Techno and Electro. Preview the line-up and save it on soundcheck.
+WAX DISTRICT at Mastak on Sat 26 Sept, Warsaw. 3 acts on the bill: FM (PL), SKFF and Smansky. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ WAX DISTRICT at Mastak on Sat 26 Sept, Warsaw. 2 acts on the bill: FM (PL) and S
 
 - FM (PL)
 - SKFF
+- Smansky
 
 *Source: [soundcheck](https://soundcheck.club/e/2515681-wax-district-at-mastak/)*

@@ -1,8 +1,8 @@
 # Nickodemus
 
-Nickodemus is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at State Park, Boston on Sat, 5 Sept 2026.
+Nickodemus is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at State Park, Boston on Sat, 5 Sept 2026.
 
-Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 56 sets logged across Barcelona, Boston, Dundee and Geneva and 10 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: State Park, Boston on Sat 5 Sept.
+Nickodemus is a house and afro house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Barcelona, Boston, Dundee and Geneva and 10 more. Often billed alongside Willy Soul, 2melo and Disgonuts. Next up: State Park, Boston on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nickodemus is a house and afro house artist based in United States of America, t
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | State Park | Boston |
 | Thu, 10 Sept 2026 | The Chocolate Factory | New York City |
+| Sat, 12 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Nickodemus is a house and afro house artist based in United States of America, t
 
 Willy Soul, 2melo, Disgonuts
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickodemus/)*

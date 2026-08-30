@@ -1,6 +1,6 @@
 # Bloop Takeover Timber Loft at The Timber Loft
 
-Bloop Takeover Timber Loft at The Timber Loft on Sun 13 Sept, London. 9 acts on the bill: Big Nick D, Carl Matthews, Emilio and James Dexter and 5 more. Preview the line-up and save it on soundcheck.
+Bloop Takeover Timber Loft at The Timber Loft on Sun 13 Sept, London. 10 acts on the bill: Big Nick D, Carl Matthews, Emilio and James Dexter and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Bloop Takeover Timber Loft at The Timber Loft on Sun 13 Sept, London. 9 acts on 
 - James Dexter
 - Marlon Baleci
 - Matt Timms
+- Nick Seager
 - Tian
 - VENERE
 - Yama Music

@@ -1,6 +1,6 @@
 # laced
 
-laced is a Dubstep and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Système, Montreal on Sun, 27 Sept 2026.
+laced is a Dubstep and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Système, Montreal on Sun, 27 Sept 2026.
 
 laced is a dubstep and ambient artist tracked on soundcheck, with 19 sets logged across Montreal. Often billed alongside gonima, zi! and Amselysen. Next up: Système, Montreal on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ laced is a dubstep and ambient artist tracked on soundcheck, with 19 sets logged
 
 gonima, zi!, Amselysen
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laced/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laced/)*

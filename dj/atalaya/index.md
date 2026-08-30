@@ -1,6 +1,6 @@
 # atalaya
 
-atalaya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
+atalaya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at renae, Manchester on Sun, 30 Aug 2026.
 
 atalaya is a house and techno artist based in Spain, tracked on soundcheck, with 60 sets logged across Manchester. Often billed alongside Kuriboh, Qoqnut and Atiké. Next up: renae, Manchester on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ atalaya is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Kuriboh, Qoqnut, Atiké
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atalaya/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/atalaya/)*

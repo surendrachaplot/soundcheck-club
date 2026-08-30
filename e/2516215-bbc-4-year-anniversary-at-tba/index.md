@@ -1,6 +1,6 @@
 # BBC 4 Year Anniversary at TBA
 
-BBC 4 Year Anniversary at TBA on Sat 5 Sept, Losangeles. 3 acts on the bill: Alxander Ivey, DeFacto X and Kemyuh. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+BBC 4 Year Anniversary at TBA on Sat 5 Sept, Losangeles. 4 acts on the bill: Alxander Ivey, DeFacto X, Kemyuh and SJAYY. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ BBC 4 Year Anniversary at TBA on Sat 5 Sept, Losangeles. 3 acts on the bill: Alx
 - Alxander Ivey
 - DeFacto X
 - Kemyuh
+- SJAYY
 
 *Source: [soundcheck](https://soundcheck.club/e/2516215-bbc-4-year-anniversary-at-tba/)*

@@ -1,6 +1,6 @@
 # Ten City
 
-Ten City is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Copper Boot, Toronto on Sun, 13 Sept 2026.
+Ten City is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Copper Boot, Toronto on Sun, 13 Sept 2026.
 
 Ten City is a house and disco artist tracked on soundcheck, with 4 sets logged across Amsterdam, Liverpool, Newyorkcity and Toronto. Often billed alongside Byron Stingily, Ariane V and DJ Chus. Next up: Copper Boot, Toronto on Sun 13 Sept.
 
@@ -20,4 +20,4 @@ Ten City is a house and disco artist tracked on soundcheck, with 4 sets logged a
 
 Byron Stingily, Ariane V, DJ Chus
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tencity/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tencity/)*

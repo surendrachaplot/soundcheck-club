@@ -1,6 +1,6 @@
 # Abribass
 
-Abribass is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
+Abribass is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
 
 Abribass is a house and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Blachord, Papa Hase and Anaté. Next up: Mom's Limousine Service, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Abribass is a house and tech house artist based in Germany, tracked on soundchec
 
 Blachord, Papa Hase, Anaté
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abribass/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abribass/)*

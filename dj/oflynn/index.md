@@ -1,8 +1,8 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+O'Flynn is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
-O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
+O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -16,9 +16,11 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 2 Oct 2026 | fabric | London |
+| Fri, 27 Nov 2026 | The Independent | San Francisco/Oakland |
 
 ## Recently played
 
+- The Downs, Bristol, Bristol — Sat, 29 Aug 2026
 - Soup, Manchester — Sat, 15 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 17 Jul 2026
 - The Cause, London — Sat, 27 Jun 2026
@@ -26,10 +28,9 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 - Hackney Wick Multiple Venues, London — Sat, 2 May 2026
 - SWG3, Glasgow — Sat, 25 Apr 2026
 - The Grand Social, Dublin — Sat, 18 Apr 2026
-- Yes, Manchester — Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

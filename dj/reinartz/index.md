@@ -1,14 +1,13 @@
 # Reinartz
 
-Reinartz is a Ambient and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Fri, 28 Aug 2026.
+Reinartz is a Ambient and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
 
-Reinartz is an ambient and deep house artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Triana, King Softy and BLUME. Next up: Kater, Berlin on Fri 28 Aug.
+Reinartz is an ambient and deep house artist tracked on soundcheck, with 23 sets logged across Berlin. Often billed alongside Triana, King Softy and BLUME. Next up: Containerhafen, Berlin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Kater | Berlin |
 | Sun, 13 Sept 2026 | Containerhafen | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Reinartz is an ambient and deep house artist tracked on soundcheck, with 23 sets
 
 Triana, King Softy, BLUME
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reinartz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reinartz/)*

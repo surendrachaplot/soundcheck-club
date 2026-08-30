@@ -1,6 +1,6 @@
 # A.Pringle
 
-A.Pringle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
+A.Pringle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
 
 A.Pringle is a house and techno artist based in France, tracked on soundcheck, with 6 sets logged across Lyon, Paris and Vienna. Often billed alongside Axel Blanc, BAUGRUPPE90 and Blame The Mono. Next up: FLUCC, Vienna on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ A.Pringle is a house and techno artist based in France, tracked on soundcheck, w
 
 Axel Blanc, BAUGRUPPE90, Blame The Mono
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.pringle/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.pringle/)*

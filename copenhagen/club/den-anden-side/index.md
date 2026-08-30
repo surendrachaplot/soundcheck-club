@@ -1,15 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Whipped x Eros Haven" on Sat, 29 Aug 2026.
+Den Anden Side is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Yours Truly - The Last Dance" on Fri, 4 Sept 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Adam Eisert, Anders Horse, Anders HP and Anton Goltermann and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Adam Eisert, Anders Horse, Anders HP and Anton Goltermann and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Whipped x Eros Haven | EI.VN, Gavnlig, Holtz (2), Lukr Range |
-| Sat, 29 Aug 2026 | Enter The Void Vol. 3 at Den Anden Ende | Astral Bandit, DJ Void |
 | Fri, 4 Sept 2026 | Yours Truly - The Last Dance | Lucky Lube, Maara, Paul Wolsch, Sham |
 | Sat, 5 Sept 2026 | Club Resistance – VAs for Palestine, Release Event | Adam Eisert, Anton Goltermann, DJ 2LATE, Dico Nemus, ELCA, JACOBXFREY, Johannes Astrup, Miss Puppy, Qwenty, SONYDIAM, Samuel Rees, Tamara, avoN, steamboi |
 | Fri, 11 Sept 2026 | One Dragon Service with Nene H & DJ TOOL | DJ TOOL, Nene H |
@@ -23,4 +21,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

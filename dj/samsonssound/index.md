@@ -1,6 +1,6 @@
 # Samsön
 
-Samsön is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Esbirra Ibiza, Ibiza on Sat, 5 Sept 2026.
+Samsön is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Esbirra Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Samsön is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Barcelona, Bristol, Ibiza and London and 5 more. Often billed alongside Goosey, Luca Pernice and East End Dubs. Next up: Esbirra Ibiza, Ibiza on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Samsön is a house and minimal artist based in United Kingdom, tracked on soundc
 
 Goosey, Luca Pernice, East End Dubs
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsonssound/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samsonssound/)*

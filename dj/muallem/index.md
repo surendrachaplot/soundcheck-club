@@ -1,18 +1,18 @@
 # Muallem
 
-Muallem is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Legal, Munich on Sat, 29 Aug 2026.
+Muallem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
-Muallem is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Berlin and Cologne and 3 more. Often billed alongside BASHKKA, vince and Yamour. Next up: Legal, Munich on Sat 29 Aug.
+Muallem is a house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Berlin and Cologne and 3 more. Often billed alongside BASHKKA, vince and Yamour. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Legal | Munich |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
 
+- Legal, Munich — Sat, 29 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - BLITZ, Munich — Sat, 11 Jul 2026
 - TILLATEC, Amsterdam — Sat, 4 Jul 2026
@@ -20,10 +20,9 @@ Muallem is a house and techno artist tracked on soundcheck, with 73 sets logged 
 - BLITZ, Munich — Sat, 13 Jun 2026
 - Wolfgangshof, Nürnberg — Fri, 29 May 2026
 - fi, Cologne — Sat, 16 May 2026
-- BLITZ, Munich — Fri, 15 May 2026
 
 ## Shares bills with
 
 BASHKKA, vince, Yamour
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/muallem/)*

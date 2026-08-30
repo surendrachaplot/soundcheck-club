@@ -1,6 +1,6 @@
 # DJ Deep
 
-DJ Deep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Rex Club, Paris on Sun, 13 Sept 2026.
+DJ Deep is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Rex Club, Paris on Sun, 13 Sept 2026.
 
 DJ Deep is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 24 more. Often billed alongside Kerri Chandler, Chez Damier and DJ Reas. Next up: Rex Club, Paris on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ DJ Deep is a house and techno artist tracked on soundcheck, with 82 sets logged 
 
 Kerri Chandler, Chez Damier, DJ Reas
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdeep/)*

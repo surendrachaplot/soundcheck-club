@@ -1,6 +1,6 @@
 # Ravefurrest Austin at Brushy Street Commons
 
-Ravefurrest Austin at Brushy Street Commons on Sat 5 Sept, Austin. 2 acts on the bill: Demifiend and kittenhouse. Hardcore and Club. Preview the line-up and save it on soundcheck.
+Ravefurrest Austin at Brushy Street Commons on Sat 5 Sept, Austin. 3 acts on the bill: CARTER LANDON, Demifiend and kittenhouse. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Ravefurrest Austin at Brushy Street Commons on Sat 5 Sept, Austin. 2 acts on the
 
 ## Line-up
 
+- CARTER LANDON
 - Demifiend
 - kittenhouse
 

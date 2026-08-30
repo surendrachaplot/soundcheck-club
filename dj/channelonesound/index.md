@@ -1,6 +1,6 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Le Ministère, Montreal on Sat, 19 Sept 2026.
+Channel One Sound is a Dub and Bass artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Le Ministère, Montreal on Sat, 19 Sept 2026.
 
 Channel One Sound is a dub and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 15 more. Often billed alongside Kahn, Breakfake and Iration Steppas. Next up: Le Ministère, Montreal on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Channel One Sound is a dub and bass artist tracked on soundcheck, with 60 sets l
 
 Kahn, Breakfake, Iration Steppas
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

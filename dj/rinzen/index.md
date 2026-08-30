@@ -1,8 +1,8 @@
 # Rinzen
 
-Rinzen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
+Rinzen is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Santa Monica Pier, Los Angeles on Sat, 3 Oct 2026.
 
-Rinzen is a house and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Chicago and Denver and 10 more. Often billed alongside Robby East, Le Youth and Massane. Next up: Santa Monica Pier, Losangeles on Sat 3 Oct.
+Rinzen is a house and techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Austin, Chicago and Denver and 10 more. Often billed alongside Robby East, Le Youth and Massane. Next up: Santa Monica Pier, Losangeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Rinzen is a house and techno artist based in United States of America, tracked o
 | Sat, 3 Oct 2026 | Santa Monica Pier | Los Angeles |
 | Fri, 9 Oct 2026 | Spybar | Chicago |
 | Sat, 10 Oct 2026 | Tigres de la Noche | Washington DC |
+| Fri, 27 Nov 2026 | Audio SF | San Francisco/Oakland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Rinzen is a house and techno artist based in United States of America, tracked o
 
 Robby East, Le Youth, Massane
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rinzen/)*

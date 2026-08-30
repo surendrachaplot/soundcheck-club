@@ -1,6 +1,6 @@
 # Arman Shadow
 
-Arman Shadow is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Das Werk, Vienna on Sat, 5 Sept 2026.
+Arman Shadow is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Das Werk, Vienna on Sat, 5 Sept 2026.
 
 Arman Shadow is a techno and trance artist tracked on soundcheck, with 55 sets logged across Athens, Leipzig, Malta and Munich and 3 more. Often billed alongside Farbod, Joey (2) and Trugbild. Next up: Das Werk, Vienna on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Arman Shadow is a techno and trance artist tracked on soundcheck, with 55 sets l
 
 Farbod, Joey (2), Trugbild
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanshadow/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanshadow/)*

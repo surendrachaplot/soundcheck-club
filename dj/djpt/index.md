@@ -1,6 +1,6 @@
 # DJPT
 
-DJPT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJPT is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJPT is a techno and club artist tracked on soundcheck, with 69 sets logged across Chicago and Newyorkcity. Often billed alongside Sevyn Love, DJ DEADNAME and Alissa Brianna. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ DJPT is a techno and club artist tracked on soundcheck, with 69 sets logged acro
 
 Sevyn Love, DJ DEADNAME, Alissa Brianna
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpt/)*

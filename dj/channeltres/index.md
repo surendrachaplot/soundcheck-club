@@ -1,6 +1,6 @@
 # Channel Tres
 
-Channel Tres is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 25 Sept 2026.
+Channel Tres is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Regency Ballroom, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Channel Tres is a house and techno artist tracked on soundcheck, with 48 sets logged across Austin, Berlin, Brisbane and Brussels and 17 more. Often billed alongside KETTAMA, Boys Noize and Jyoty. Next up: The Regency Ballroom, Sanfrancisco on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Channel Tres is a house and techno artist tracked on soundcheck, with 48 sets lo
 
 KETTAMA, Boys Noize, Jyoty
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channeltres/)*

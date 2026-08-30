@@ -1,6 +1,6 @@
 # Oreille Interne
 
-Oreille Interne is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
+Oreille Interne is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
 
 Oreille Interne is a techno and electro artist tracked on soundcheck, with 21 sets logged across Berlin and Paris. Often billed alongside Couedasse, Alys LF and Cannonbar. Next up: Badaboum, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Oreille Interne is a techno and electro artist tracked on soundcheck, with 21 se
 
 Couedasse, Alys LF, Cannonbar
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oreilleinterne/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oreilleinterne/)*

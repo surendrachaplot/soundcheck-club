@@ -1,6 +1,6 @@
 # Billy Jack (UK)
 
-Billy Jack (UK) is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Wharf Chambers, Leeds on Fri, 18 Sept 2026.
+Billy Jack (UK) is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Wharf Chambers, Leeds on Fri, 18 Sept 2026.
 
 Billy Jack (UK) is a disco and techno artist tracked on soundcheck, with 16 sets logged across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside BOSSdaddy, S_STEELE and Aiden Francis. Next up: Wharf Chambers, Leeds on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Billy Jack (UK) is a disco and techno artist tracked on soundcheck, with 16 sets
 
 BOSSdaddy, S_STEELE, Aiden Francis
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billyjack-uk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billyjack-uk/)*

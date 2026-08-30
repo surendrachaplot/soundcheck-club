@@ -1,6 +1,6 @@
 # Aleksandir
 
-Aleksandir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Virage, Paris on Sat, 5 Sept 2026.
+Aleksandir is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Virage, Paris on Sat, 5 Sept 2026.
 
 Aleksandir is a house and techno artist tracked on soundcheck, with 50 sets logged across Bangkok, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside Supu, Miqui Brightside and Pijus. Next up: Virage, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Aleksandir is a house and techno artist tracked on soundcheck, with 50 sets logg
 
 Supu, Miqui Brightside, Pijus
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandir/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandir/)*

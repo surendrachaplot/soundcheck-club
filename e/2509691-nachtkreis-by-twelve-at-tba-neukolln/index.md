@@ -1,6 +1,6 @@
 # Nachtkreis by TWELVE at TBA - Neukolln
 
-Nachtkreis by TWELVE at TBA - Neukolln on Sat 12 Sept, Berlin. 5 acts on the bill: Andress, Caligula, Linda shiro and maniac&me and 1 more. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Nachtkreis by TWELVE at TBA - Neukolln on Sat 12 Sept, Berlin. 6 acts on the bill: Andress, Caligula, Linda shiro and maniac&me and 2 more. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Nachtkreis by TWELVE at TBA - Neukolln on Sat 12 Sept, Berlin. 5 acts on the bil
 - Linda shiro
 - maniac&me
 - Paàl
+- Riccardo Leone
 
 *Source: [soundcheck](https://soundcheck.club/e/2509691-nachtkreis-by-twelve-at-tba-neukolln/)*

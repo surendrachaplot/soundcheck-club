@@ -1,6 +1,6 @@
 # Ruben XXL
 
-Ruben XXL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at M7 Club, Barcelona on Fri, 4 Sept 2026.
+Ruben XXL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at M7 Club, Barcelona on Fri, 4 Sept 2026.
 
 Ruben XXL is a techno and electronica artist tracked on soundcheck, with 14 sets logged across Barcelona and Madrid. Often billed alongside Ricardo F, TOTTI and Xavi BCN. Next up: M7 Club, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ruben XXL is a techno and electronica artist tracked on soundcheck, with 14 sets
 
 Ricardo F, TOTTI, Xavi BCN
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenxxl/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenxxl/)*

@@ -1,14 +1,13 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "REOPENING XXL: REZ x Zoo [DOUBLE ÉTAGE]" on Sat, 29 Aug 2026.
+Zoo is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "LOCAL HEADZ: Gioski • Neciō • Megix • Phalera [VJs L12B]" on Fri, 4 Sept 2026.
 
-Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming nights, with line-ups including Adiel, Alex Nantaya, Alpha Tracks and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
+Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including Adiel, Alex Nantaya, Alpha Tracks and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | REOPENING XXL: REZ x Zoo [DOUBLE ÉTAGE] |  |
 | Fri, 4 Sept 2026 | LOCAL HEADZ: Gioski • Neciō • Megix • Phalera [VJs L12B] | Gioski, Megix |
 | Sat, 5 Sept 2026 | VORTEX: Alpha Tracks • Bowmore • Cadence • Ecar [VJ N1440] | Alpha Tracks, Bowmore, Cadence [HTRB], Ecar |
 | Wed, 9 Sept 2026 | FORWARD TO ROOTS: Queen Sheeba + Redubtion Sound System meets Bush Doctors Sound System |  |
@@ -20,4 +19,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming nights, with lin
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

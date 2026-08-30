@@ -1,14 +1,13 @@
 # Milch (1)
 
-Milch (1) is a House and Balearic artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Système, Montreal on Sat, 29 Aug 2026.
+Milch (1) is a House and Balearic artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Cafeteria, Toronto on Sat, 5 Sept 2026.
 
-Milch (1) is a house and balearic artist tracked on soundcheck, with 134 sets logged across Belgrade, Berlin, London and Montreal and 1 more. Often billed alongside Invisible City, Tony Price and Ciel. Next up: Système, Montreal on Sat 29 Aug.
+Milch (1) is a house and balearic artist tracked on soundcheck, with 134 sets logged across Belgrade, Berlin, London and Montreal and 1 more. Often billed alongside Invisible City, Tony Price and Ciel. Next up: Cafeteria, Toronto on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Système | Montreal |
 | Sat, 5 Sept 2026 | Cafeteria | Toronto |
 | Mon, 7 Sept 2026 | Cherry Beach | Toronto |
 | Mon, 7 Sept 2026 | TBA - The Junction Neighbourhood  | Toronto |
@@ -16,6 +15,7 @@ Milch (1) is a house and balearic artist tracked on soundcheck, with 134 sets lo
 
 ## Recently played
 
+- Système, Montreal — Sat, 29 Aug 2026
 - Cafeteria, Toronto — Fri, 28 Aug 2026
 - Cafeteria, Toronto — Fri, 14 Aug 2026
 - Bambi's, Toronto — Sat, 1 Aug 2026
@@ -23,10 +23,9 @@ Milch (1) is a house and balearic artist tracked on soundcheck, with 134 sets lo
 - Cafeteria, Toronto — Fri, 10 Jul 2026
 - TBA, Toronto — Fri, 19 Jun 2026
 - Bambi's, Toronto — Sat, 6 Jun 2026
-- Sameheads, Berlin — Sat, 30 May 2026
 
 ## Shares bills with
 
 Invisible City, Tony Price, Ciel
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milch-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milch-1/)*

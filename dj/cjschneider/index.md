@@ -1,6 +1,6 @@
 # CJ Schneider
 
-CJ Schneider is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fitzroy, Berlin on Sat, 3 Oct 2026.
+CJ Schneider is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fitzroy, Berlin on Sat, 3 Oct 2026.
 
 CJ Schneider is a house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DJ Bienveillance, Martha O. and Arlanoa. Next up: Fitzroy, Berlin on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ CJ Schneider is a house artist tracked on soundcheck, with 5 sets logged across 
 
 DJ Bienveillance, Martha O., Arlanoa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjschneider/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cjschneider/)*

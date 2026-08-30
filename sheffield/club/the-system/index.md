@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 13 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "RECØMPØSE DAY / NIGHT PARTY" on Sun, 30 Aug 2026.
+The System is a music venue in Sheffield with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "RECØMPØSE DAY / NIGHT PARTY" on Sun, 30 Aug 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 13 upcoming nights, with line-ups including Ashley Holmes, Babs (3), Joi La Frique and Kacper Pieta and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 13 upcoming night
 | Fri, 2 Oct 2026 | GRASSROOTS 018 - Steel Rocker Solo Session |  |
 | Sat, 3 Oct 2026 | Apricot Ballroom (October) | Joi La Frique, Nonna Fab |
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

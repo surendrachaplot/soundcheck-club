@@ -1,6 +1,6 @@
 # body wave: Felix Dickinson (UK), Masha Mar, Junior at TBA - Downtown Los Angeles
 
-body wave: Felix Dickinson (UK), Masha Mar, Junior at TBA - Downtown Los Angeles on Sat 19 Sept, Losangeles. 2 acts on the bill: Felix Dickinson and Masha Mar. House and Acid. Preview the line-up and save it on soundcheck.
+body wave: Felix Dickinson (UK), Masha Mar, Junior at TBA - Downtown Los Angeles on Sat 19 Sept, Losangeles. 3 acts on the bill: Body Wave DJs, Felix Dickinson and Masha Mar. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ body wave: Felix Dickinson (UK), Masha Mar, Junior at TBA - Downtown Los Angeles
 
 ## Line-up
 
+- Body Wave DJs
 - Felix Dickinson
 - Masha Mar
 

@@ -1,6 +1,6 @@
 # Mike Textbeak
 
-Mike Textbeak is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Upstairs at the 700, Philadelphia on Thu, 24 Sept 2026.
+Mike Textbeak is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Upstairs at the 700, Philadelphia on Thu, 24 Sept 2026.
 
 Mike Textbeak is an industrial and ebm artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit and Philadelphia. Often billed alongside Comfort Cure, DJ Baby Berlin and EXT EST. Next up: Upstairs at the 700, Philadelphia on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ Mike Textbeak is an industrial and ebm artist based in United States of America,
 
 Comfort Cure, DJ Baby Berlin, EXT EST
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miketextbeak/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miketextbeak/)*

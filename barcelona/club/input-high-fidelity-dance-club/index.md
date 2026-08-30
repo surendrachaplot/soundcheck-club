@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "PRISM Hard pres CLARA CUVE" on Sat, 29 Aug 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 24 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "OUTRO Official Afterparty" on Sun, 30 Aug 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 24 upcoming nights, with line-ups including AARON SEVILLA, Adiel, Ana Alves and ART NO LOGIA and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -8,7 +8,6 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | PRISM Hard pres CLARA CUVE | Clara Cuvé, moUnique |
 | Sun, 30 Aug 2026 | OUTRO Official Afterparty |  |
 | Fri, 4 Sept 2026 | PRISM pres D. DAN | Ana Alves, D.Dan |
 | Sun, 6 Sept 2026 | Afrodise Barcelona pres AARON SEVILLA After Party oficial | AARON SEVILLA, Torrione |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Fri, 18 Sept 2026 | INPUT pres Adiel | Adiel, Hitch |
 | Sat, 19 Sept 2026 | INPUT pres Schrotthagen | Schrotthagen |
 | Wed, 23 Sept 2026 | ONíRICA pres Colyn | Colyn, Rivellino |
+| Fri, 25 Sept 2026 | LOAD pres Harvy Valencia | ART NO LOGIA, Harvy Valencia, Jorgesyn, VITO (UK) |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

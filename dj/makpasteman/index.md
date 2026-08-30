@@ -1,6 +1,6 @@
 # Mak & Pasteman
 
-Mak & Pasteman is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
+Mak & Pasteman is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
 
 Mak & Pasteman are a bass and breakbeat duo tracked on soundcheck, with 5 sets logged across London. Often billed alongside Kassita, LMajor and Borai. Next up: The Fox and Firkin, London on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Mak & Pasteman are a bass and breakbeat duo tracked on soundcheck, with 5 sets l
 
 Kassita, LMajor, Borai
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makpasteman/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makpasteman/)*

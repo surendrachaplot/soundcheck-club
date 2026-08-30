@@ -1,6 +1,6 @@
 # Menqui
 
-Menqui is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Menqui is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Menqui is a techno and disco artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Prague. Often billed alongside Benedikt Frey, Hendrik Stein and Philipp Otterbach. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Menqui is a techno and disco artist based in Germany, tracked on soundcheck, wit
 
 Benedikt Frey, Hendrik Stein, Philipp Otterbach
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menqui/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/menqui/)*

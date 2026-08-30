@@ -1,6 +1,6 @@
 # SENERGI
 
-SENERGI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
+SENERGI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
 SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Copenhagen and Kyoto and 4 more. Often billed alongside Agua con gas, Ines Cartas and INGI (1). Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SENERGI is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Agua con gas, Ines Cartas, INGI (1)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/senergi/)*

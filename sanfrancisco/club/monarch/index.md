@@ -1,14 +1,13 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "HYDEFM PRESENTS: CONNIE (SF DEBUT)" on Sat, 29 Aug 2026.
+Monarch is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "CALAVERA" on Fri, 4 Sept 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including Acid Boner, Afakasi Papi, bastiengoat and Duserock and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Acid Boner, Afakasi Papi, Duserock and ESTRELLA and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | HYDEFM PRESENTS: CONNIE (SF DEBUT) | New Nostalgia, bastiengoat |
 | Fri, 4 Sept 2026 | CALAVERA | ESTRELLA, xtcemi |
 | Sat, 5 Sept 2026 | 140 Crew | Olivia Lauren |
 | Fri, 11 Sept 2026 | Hear + There x Locator: Mungo Sound Machine | Acid Boner, Jackson Walker, Mungo Sound Machine, PNG (US), natebytheway, playground tactics, vin. |
@@ -22,4 +21,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

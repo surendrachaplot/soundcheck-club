@@ -1,6 +1,6 @@
 # UNDERPASS THE OPENING - Archie Hamilton at Tunnel
 
-UNDERPASS THE OPENING - Archie Hamilton at Tunnel on Fri 11 Sept, Milan. 2 acts on the bill: Archie Hamilton and Proudly People. House and Tech House. Preview the line-up and save it on soundcheck.
+UNDERPASS THE OPENING - Archie Hamilton at Tunnel on Fri 11 Sept, Milan. 3 acts on the bill: Archie Hamilton, Proudly People and WHITE OFF. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ UNDERPASS THE OPENING - Archie Hamilton at Tunnel on Fri 11 Sept, Milan. 2 acts 
 
 - Archie Hamilton
 - Proudly People
+- WHITE OFF
 
 *Source: [soundcheck](https://soundcheck.club/e/2501822-underpass-the-opening-archie-hamilton-at-tunnel/)*

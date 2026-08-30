@@ -1,6 +1,6 @@
 # Adi Dassler
 
-Adi Dassler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Proton the Club, Stuttgart on Sat, 5 Sept 2026.
+Adi Dassler is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Proton the Club, Stuttgart on Sat, 5 Sept 2026.
 
 Adi Dassler is a techno and tech house artist tracked on soundcheck, with 93 sets logged across Cologne, Frankfurt, Rome and Stuttgart and 1 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Proton the Club, Stuttgart on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Adi Dassler is a techno and tech house artist tracked on soundcheck, with 93 set
 
 Sid_Porwal, Tonino, Magia Mafia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adidassler/)*

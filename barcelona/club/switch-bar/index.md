@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "REDNBLUE" on Sat, 29 Aug 2026.
+Switch Bar is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bobare Wednesday: Alessa / LeMichael" on Wed, 2 Sept 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alessa (ES), Angelo Cortines, Arildo and LeMichael and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alessa (ES), Angelo Cortines, Arildo and LeMichael and 2 more. Browse upcoming dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | REDNBLUE | REDNBLUE |
 | Wed, 2 Sept 2026 | Bobare Wednesday: Alessa / LeMichael | Alessa (ES), LeMichael |
 | Thu, 3 Sept 2026 | The Dijous Saved My Life: Arildo | Arildo |
 | Fri, 4 Sept 2026 | Play: Prakash, Reformed Society | Prakash, Reformed Society |
@@ -20,4 +19,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 7 upcoming nights
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

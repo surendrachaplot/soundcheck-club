@@ -1,8 +1,8 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
+Ben Sterling is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Ms. Mada and Dennis Cruz. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 185 se
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
@@ -33,6 +34,6 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 185 se
 
 ## Shares bills with
 
-Marco Carola, Ms. Mada, Dennis Cruz
+Marco Carola, Max Dean, Ms. Mada
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

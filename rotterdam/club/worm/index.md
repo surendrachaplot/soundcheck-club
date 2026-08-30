@@ -1,17 +1,17 @@
 # Worm
 
-Worm is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Dutch Modular Festival" on Sat, 29 Aug 2026.
+Worm is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "CHOROPHILIA3: CVNT4EVER" on Sat, 26 Sept 2026.
 
-Worm is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Alberta Balsam, Estroe and T. Raumschmiere. Browse upcoming dates, start times and who's playing. Boomgaardsstraat 71, 3012 XA, Rotterdam.
+Worm is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Little Liam and Princess-K. Browse upcoming dates, start times and who's playing. Boomgaardsstraat 71, 3012 XA, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Dutch Modular Festival | Alberta Balsam, Estroe, T. Raumschmiere |
+| Sat, 26 Sept 2026 | CHOROPHILIA3: CVNT4EVER | Little Liam, Princess-K |
 
 ## Address
 
 Boomgaardsstraat 71, 3012 XA, Rotterdam, Rotterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*

@@ -1,6 +1,6 @@
 # 1-800 GIRLS
 
-1-800 GIRLS is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+1-800 GIRLS is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
 
 1-800 GIRLS is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 20 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
 
@@ -9,7 +9,6 @@
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
-| Sat, 29 Aug 2026 | The Love Inn | Bristol |
 | Fri, 11 Sept 2026 | Yes | Manchester |
 | Sat, 12 Sept 2026 | Gaffe | London |
 | Wed, 23 Sept 2026 | Arts Club | Liverpool |
@@ -20,17 +19,17 @@
 
 ## Recently played
 
+- The Downs, Bristol, Bristol — Sat, 29 Aug 2026
+- The Love Inn, Bristol — Sat, 29 Aug 2026
 - The Great Northern, San Francisco/Oakland — Sat, 8 Aug 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 - Flash, Washington DC — Thu, 28 May 2026
 - Buena Vista Lake, Los Angeles — Wed, 20 May 2026
 - The Echo, Los Angeles — Sat, 16 May 2026
 - Substation, Seattle — Fri, 15 May 2026
-- Smoke & Mirrors, Chicago — Thu, 14 May 2026
-- Phonox, London — Fri, 8 May 2026
 
 ## Shares bills with
 
 Seb Wildblood, Zaltsman, Giulia Tess
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*

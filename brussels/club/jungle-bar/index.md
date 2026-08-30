@@ -1,6 +1,6 @@
 # Jungle Bar
 
-Jungle Bar is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "HYPNOFAZE // CLUB NIGHT #5" on Sat, 29 Aug 2026.
+Jungle Bar is a music venue in Brussels with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "HYPNOFAZE // CLUB NIGHT #5" on Sat, 29 Aug 2026.
 
 Jungle Bar is a music venue in Brussels listed on soundcheck. 4 upcoming nights, with line-ups including Billy Boy and Serō. Browse upcoming dates, start times and who's playing. Brussel, 1000, Steenstraat 52.
 
@@ -17,4 +17,4 @@ Jungle Bar is a music venue in Brussels listed on soundcheck. 4 upcoming nights,
 
 Brussel, 1000, Steenstraat 52, Brussels
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jungle-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/jungle-bar/)*

@@ -1,13 +1,14 @@
 # Seven Lions
 
-Seven Lions is a Dubstep and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ministry Of Sound, London on Fri, 16 Oct 2026.
+Seven Lions is a Dubstep and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Seven Lions is a dubstep and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Amsterdam, Boston, Chicago and London and 7 more. Often billed alongside Deadmau5, KREAM and Audien. Next up: Ministry Of Sound, London on Fri 16 Oct.
+Seven Lions is a dubstep and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Boston, Chicago and London and 7 more. Often billed alongside Deadmau5, Deorro and James Hype (UK). Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 16 Oct 2026 | Ministry Of Sound | London |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 
@@ -24,6 +25,6 @@ Seven Lions is a dubstep and house artist based in United States of America, tra
 
 ## Shares bills with
 
-Deadmau5, KREAM, Audien
+Deadmau5, Deorro, James Hype (UK)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*

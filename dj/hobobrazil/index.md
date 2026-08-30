@@ -1,6 +1,6 @@
 # HOBOBRAZIL
 
-HOBOBRAZIL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
+HOBOBRAZIL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
 
 HOBOBRAZIL is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside KA4U, MDMC and bungo. Next up: Heavy Sick Zero, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ HOBOBRAZIL is a techno and house artist based in Japan, tracked on soundcheck, w
 
 KA4U, MDMC, bungo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hobobrazil/)*

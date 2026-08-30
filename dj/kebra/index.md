@@ -1,13 +1,14 @@
 # KEBRA
 
-KEBRA is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+KEBRA is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
 
-KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Lisbon and London and 9 more. Often billed alongside Babybruise, Basho and Lyo XS. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
+KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Lisbon and London and 9 more. Often billed alongside Babybruise, Basho and Lyo XS. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | Nitsa Club | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ KEBRA is a baile funk and club artist based in Brazil, tracked on soundcheck, wi
 
 Babybruise, Basho, Lyo XS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kebra/)*

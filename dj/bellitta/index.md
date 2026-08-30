@@ -1,6 +1,6 @@
 # BELLITTA
 
-BELLITTA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
+BELLITTA is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Toldi Klub, Budapest on Sat, 10 Oct 2026.
 
 BELLITTA is a techno artist tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Dorota, Acsa and Andrija Jäger. Next up: Toldi Klub, Budapest on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ BELLITTA is a techno artist tracked on soundcheck, with 10 sets logged across Bu
 
 Dorota, Acsa, Andrija Jäger
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellitta/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bellitta/)*

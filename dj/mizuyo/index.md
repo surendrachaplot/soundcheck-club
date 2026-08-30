@@ -1,6 +1,6 @@
 # Mizuyo
 
-Mizuyo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bangkok Island, Bangkok on Sun, 30 Aug 2026.
+Mizuyo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bangkok Island, Bangkok on Sun, 30 Aug 2026.
 
 Mizuyo is a house and techno artist tracked on soundcheck, with 46 sets logged across Bangkok and Tokyo. Often billed alongside GAOLAO, KATIMI AI and Bipolar Bear. Next up: Bangkok Island, Bangkok on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Mizuyo is a house and techno artist tracked on soundcheck, with 46 sets logged a
 
 GAOLAO, KATIMI AI, Bipolar Bear
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuyo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuyo/)*

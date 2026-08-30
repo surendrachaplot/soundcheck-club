@@ -1,6 +1,6 @@
 # RÄV
 
-RÄV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
+RÄV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
 
 RÄV is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Athens, Basel, Berlin and Bucharest and 10 more. Often billed alongside Stephan Krus, NTHR and 1993. Next up: Nether Club, Bucharest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ RÄV is a techno and hardcore artist tracked on soundcheck, with 21 sets logged 
 
 Stephan Krus, NTHR, 1993
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rav-it/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rav-it/)*

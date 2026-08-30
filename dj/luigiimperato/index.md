@@ -1,6 +1,6 @@
 # Luigi Imperato
 
-Luigi Imperato is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
+Luigi Imperato is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
 
 Luigi Imperato is a tech house and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, London and Naples. Often billed alongside Enrico Chirchiello, Diana Loredana and Duwat?. Next up: Union Club, Vauxhall, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Luigi Imperato is a tech house and house artist tracked on soundcheck, with 26 s
 
 Enrico Chirchiello, Diana Loredana, Duwat?
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiimperato/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiimperato/)*

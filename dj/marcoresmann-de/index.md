@@ -1,6 +1,6 @@
 # Marco Resmann
 
-Marco Resmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Marco Resmann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Marco Resmann is a house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Geneva and Hamburg and 4 more. Often billed alongside Slurm McKenzie, Diogo Accioly and Kristin Velvet. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Marco Resmann is a house and techno artist tracked on soundcheck, with 37 sets l
 
 Slurm McKenzie, Diogo Accioly, Kristin Velvet
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoresmann-de/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoresmann-de/)*

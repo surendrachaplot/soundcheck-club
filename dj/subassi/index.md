@@ -1,6 +1,6 @@
 # Subassi
 
-Subassi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 9 Oct 2026.
+Subassi is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 9 Oct 2026.
 
 Subassi is a house and club artist based in Turkey, tracked on soundcheck, with 17 sets logged across Berlin and Istanbul. Often billed alongside MagDita, ADAM REC. and KARBO. Next up: Bulbul Berlin, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Subassi is a house and club artist based in Turkey, tracked on soundcheck, with 
 
 MagDita, ADAM REC., KARBO
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subassi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subassi/)*

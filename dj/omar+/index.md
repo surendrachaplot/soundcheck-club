@@ -1,8 +1,8 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Omar+ is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Omar+ is a house and tech house artist tracked on soundcheck, with 71 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 28 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Omar+ is a house and tech house artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 28 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -16,9 +16,11 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 71 sets logge
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- Kelvedon Hall, London — Sat, 29 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Sun, 2 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - [UNVRS], Ibiza — Wed, 29 Jul 2026
@@ -26,10 +28,9 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 71 sets logge
 - DC-10, Ibiza — Mon, 20 Jul 2026
 - Tiger Yard, Cardiff — Sat, 11 Jul 2026
 - Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
-- Joshua Brooks, Manchester — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Obskur, Joss Dean, Max Dean
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

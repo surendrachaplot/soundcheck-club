@@ -1,6 +1,6 @@
 # Conrad Soundsystem
 
-Conrad Soundsystem is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Doka, Amsterdam on Thu, 22 Oct 2026.
+Conrad Soundsystem is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Doka, Amsterdam on Thu, 22 Oct 2026.
 
 Conrad Soundsystem is a bass and electro artist tracked on soundcheck, with 3 sets logged across Amsterdam and Thehague. Often billed alongside Anz, Black Cadmium and CARISTA. Next up: Doka, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Conrad Soundsystem is a bass and electro artist tracked on soundcheck, with 3 se
 
 Anz, Black Cadmium, CARISTA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conradsoundsystem/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/conradsoundsystem/)*

@@ -1,6 +1,6 @@
 # Kittani
 
-Kittani is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at fabric, London on Sun, 20 Sept 2026.
+Kittani is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at fabric, London on Sun, 20 Sept 2026.
 
 Kittani is a techno and trance artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Sophia Nicole, DJ VALENTINE and FITS ME FUNNY. Next up: fabric, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Kittani is a techno and trance artist tracked on soundcheck, with 10 sets logged
 
 Sophia Nicole, DJ VALENTINE, FITS ME FUNNY
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittani/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittani/)*

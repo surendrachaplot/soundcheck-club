@@ -1,6 +1,6 @@
 # ALP (DE)
 
-ALP (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fitzroy, Berlin on Fri, 11 Sept 2026.
+ALP (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fitzroy, Berlin on Fri, 11 Sept 2026.
 
 ALP (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Hamburg. Often billed alongside Khloe, Mama Yha Yha and Dirty Daddy Don. Next up: Fitzroy, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ ALP (DE) is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Khloe, Mama Yha Yha, Dirty Daddy Don
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alp_de/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alp_de/)*

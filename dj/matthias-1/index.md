@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
+Matthias (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Sonnenraum, Berlin on Sat, 29 Aug 2026.
 
 Matthias (1) is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Sonnenraum, Berlin on Sat 29 Aug.
 
@@ -14,6 +14,7 @@ Matthias (1) is a house and techno artist tracked on soundcheck, with 103 sets l
 
 ## Recently played
 
+- Sonnenraum, Berlin — Sat, 29 Aug 2026
 - FOLD, London — Sat, 15 Aug 2026
 - Platforma Wolff, Bucharest — Sat, 8 Aug 2026
 - The Loft, Manchester — Fri, 7 Aug 2026
@@ -21,10 +22,9 @@ Matthias (1) is a house and techno artist tracked on soundcheck, with 103 sets l
 - Specka, Madrid — Sat, 6 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 23 May 2026
 - The Lion and Lamb, London — Sat, 25 Apr 2026
-- Sonnenraum, Berlin — Fri, 17 Apr 2026
 
 ## Shares bills with
 
 So-Fi, Ancut, Brasi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

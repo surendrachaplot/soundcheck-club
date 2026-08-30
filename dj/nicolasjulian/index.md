@@ -1,14 +1,13 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Marienbergpark, Nürnberg on Sat, 29 Aug 2026.
+Nicolas Julian is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Liquid Club, Malta on Mon, 7 Sept 2026.
 
-Nicolas Julian is a techno and trance artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside NOTMYTYPE (2), IGDA and A.N.I.. Next up: Marienbergpark, Nurnberg on Sat 29 Aug.
+Nicolas Julian is a techno and trance artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside NOTMYTYPE (2), IGDA and A.N.I.. Next up: Liquid Club, Malta on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Marienbergpark | Nürnberg |
 | Mon, 7 Sept 2026 | Liquid Club | Malta |
 | Fri, 18 Sept 2026 | Garage Klub | Antwerp |
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
@@ -17,6 +16,7 @@ Nicolas Julian is a techno and trance artist tracked on soundcheck, with 96 sets
 
 ## Recently played
 
+- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
 - Munich Beach Resort, Munich — Sat, 8 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - O der Klub, Vienna — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@ Nicolas Julian is a techno and trance artist tracked on soundcheck, with 96 sets
 - Quai de L'horloge, Montreal — Sun, 14 Jun 2026
 - 131 Mccormack St, Toronto — Fri, 12 Jun 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- Son Fusteret, Mallorca — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

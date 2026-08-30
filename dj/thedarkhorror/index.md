@@ -1,14 +1,13 @@
 # The Dark Horror
 
-The Dark Horror is a Hardcore and Gabber artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Classic Grand, Glasgow on Sat, 29 Aug 2026.
+The Dark Horror is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
-The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 22 sets logged across Antwerp, Barcelona, Brussels and Cologne and 6 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: The Classic Grand, Glasgow on Sat 29 Aug.
+The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on soundcheck, with 22 sets logged across Antwerp, Barcelona, Brussels and Cologne and 6 more. Often billed alongside Pinotello, Dimitri K and Lekkerfaces. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | The Classic Grand | Glasgow |
 | Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 23 Oct 2026 | Docks | Hamburg |
@@ -16,6 +15,7 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on sou
 
 ## Recently played
 
+- The Classic Grand, Glasgow — Sat, 29 Aug 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 18 Jul 2026
 - Fabrik, Madrid — Sat, 21 Mar 2026
 - Bootshaus, Cologne — Fri, 13 Mar 2026
@@ -23,10 +23,9 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, tracked on sou
 - Brussels Expo, Brussels — Tue, 30 Dec 2025
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 22 Nov 2025
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Thu, 28 Aug 2025
-- Electrisize, Düsseldorf — Fri, 8 Aug 2025
 
 ## Shares bills with
 
 Pinotello, Dimitri K, Lekkerfaces
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*

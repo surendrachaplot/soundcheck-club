@@ -1,6 +1,6 @@
 # Sander El
 
-Sander El is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Skull Bar, Athens on Sun, 30 Aug 2026.
+Sander El is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Skull Bar, Athens on Sun, 30 Aug 2026.
 
 Sander El is a techno and tech house artist based in Greece, tracked on soundcheck, with 11 sets logged across Athens. Often billed alongside Kanedo, Steve Sai and Stratos (2). Next up: Skull Bar, Athens on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Sander El is a techno and tech house artist based in Greece, tracked on soundche
 
 Kanedo, Steve Sai, Stratos (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanderel/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sanderel/)*

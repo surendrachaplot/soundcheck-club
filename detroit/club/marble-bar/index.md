@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "*The Original* 12 Hour Party" on Sat, 29 Aug 2026.
+Marble Bar is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Yotto" on Fri, 4 Sept 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including AK (US), Andrés, CAM GIRL and Craze and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including CAM GIRL, Craze, DJ Candor and Father Dukes and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | *The Original* 12 Hour Party | AK (US), Andrés, Fusegrade, INVT, Jeff Garcia, LADYMONIX, Randomer, Veronica Vasicka |
 | Fri, 4 Sept 2026 | Yotto | Yotto |
 | Sat, 5 Sept 2026 | SPECTRO | LATEX GIRL, Syd (US), mirepoix |
 | Sat, 12 Sept 2026 | Dally in the Alley: Official Afters! (Tickets Here) |  |
@@ -21,4 +20,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming nights, 
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

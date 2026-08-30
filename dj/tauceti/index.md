@@ -1,6 +1,6 @@
 # Tau Ceti
 
-Tau Ceti is a Techno and EBM artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Tau Ceti is a Techno and EBM artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Tau Ceti is a techno and ebm artist tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Leipzig and Lyon and 2 more. Often billed alongside Isabel Soto, Answer Code Request and Carmen Lisa (2). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -17,6 +17,7 @@ Tau Ceti is a techno and ebm artist tracked on soundcheck, with 22 sets logged a
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - Eisengiesserei-Westwerk, Leipzig — Wed, 4 Feb 2026
 - Eschschloraque, Berlin — Fri, 19 Dec 2025
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 27 Nov 2025
@@ -24,10 +25,9 @@ Tau Ceti is a techno and ebm artist tracked on soundcheck, with 22 sets logged a
 - Ferropolis, Leipzig — Fri, 20 Jun 2025
 - RADION, Amsterdam — Sun, 9 Mar 2025
 - RADION, Amsterdam — Sat, 8 Mar 2025
-- Glazart, Paris — Sun, 2 Feb 2025
 
 ## Shares bills with
 
 Isabel Soto, Answer Code Request, Carmen Lisa (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tauceti/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tauceti/)*

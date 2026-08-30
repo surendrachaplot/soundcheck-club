@@ -1,6 +1,6 @@
 # Sean Johnston
 
-Sean Johnston is a Acid and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 7 Nov 2026.
+Sean Johnston is a Acid and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Village Underground Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Sean Johnston is an acid and electronica artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Belfast and 12 more. Often billed alongside A LOVE FROM OUTER SPACE, Chris Massey and David Holmes. Next up: Village Underground Barcelona, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sean Johnston is an acid and electronica artist tracked on soundcheck, with 72 s
 
 A LOVE FROM OUTER SPACE, Chris Massey, David Holmes
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seanjohnston/)*

@@ -1,6 +1,6 @@
 # PJ Bridger
 
-PJ Bridger is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Next Door Records, London on Mon, 31 Aug 2026.
+PJ Bridger is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Next Door Records, London on Mon, 31 Aug 2026.
 
 PJ Bridger is a bass and garage artist tracked on soundcheck, with 32 sets logged across Amsterdam, Basel, Berlin and Brighton and 7 more. Often billed alongside ZE:NA, Ben Mono and TMSN. Next up: Next Door Records, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ PJ Bridger is a bass and garage artist tracked on soundcheck, with 32 sets logge
 
 ZE:NA, Ben Mono, TMSN
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjbridger/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pjbridger/)*

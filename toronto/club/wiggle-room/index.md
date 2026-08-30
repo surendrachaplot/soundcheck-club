@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Addy - Tyler Hill - Soul Sista - Miz Megs - Nour - 4AM LAST CALL" on Sat, 29 Aug 2026.
+Wiggle Room is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Sunday SerVice: JAVI JAMASMIE [Chile] - Manzone & Strong - 4AM LAST CALL" on Sun, 30 Aug 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Addy - Tyler Hill - Soul Sista - Miz Megs - Nour - 4AM LAST CALL | Addy, Miz Megs, Nour (CAN), Tyler Hill |
 | Sun, 30 Aug 2026 | Sunday SerVice: JAVI JAMASMIE [Chile] - Manzone & Strong - 4AM LAST CALL | Manzone & Strong, Theta State |
 | Sat, 5 Sept 2026 | WR Records Release Party: TAKiN ft Santouri (live) | Cozmic Cat, Dan Medland, TAKiN |
 | Sun, 6 Sept 2026 | Sunday SerVice: Long Weekend FAM JAM - 4AM LAST CALL | Addy, Barroness, Manzone & Strong, Randomdoug, Tyler Hill |
@@ -23,4 +22,4 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 10 upcoming nights
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

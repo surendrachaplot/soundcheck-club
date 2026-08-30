@@ -1,6 +1,6 @@
 # Niebla
 
-Niebla is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Niebla is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Niebla is an electronica artist based in Colombia, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 4 more. Often billed alongside Amotik, Answer Code Request and BELLA (NL). Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -12,6 +12,7 @@ Niebla is an electronica artist based in Colombia, tracked on soundcheck, with 1
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - Laak, The Hague — Fri, 28 Aug 2026
 - Cadavra, Madrid — Fri, 10 Jul 2026
 - BLITZ, Munich — Fri, 26 Jun 2026
@@ -19,10 +20,9 @@ Niebla is an electronica artist based in Colombia, tracked on soundcheck, with 1
 - San Francisco, Amsterdam — Thu, 31 Jul 2025
 - Lux Fragil, Lisbon — Fri, 18 Jul 2025
 - Switch Bar, Barcelona — Sat, 12 Jul 2025
-- The Glove That Fits, London — Sat, 27 Jul 2024
 
 ## Shares bills with
 
 Amotik, Answer Code Request, BELLA (NL)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niebla/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niebla/)*

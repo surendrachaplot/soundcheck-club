@@ -1,6 +1,6 @@
 # Deejames
 
-Deejames is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Deejames is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Deejames is a house and deep house artist based in Belgium, tracked on soundcheck, with 17 sets logged across Antwerp, Ghent, Lisbon and London and 1 more. Often billed alongside Jensen, No Shit Like Deep and Lathouwers. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Deejames is a house and deep house artist based in Belgium, tracked on soundchec
 
 Jensen, No Shit Like Deep, Lathouwers
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejames/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejames/)*

@@ -1,6 +1,6 @@
 # TBA - Bonnieux - Luberon - outdoor
 
-TBA - Bonnieux - Luberon - outdoor is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Pony Pony Party invite Superpitcher" on Sat, 5 Sept 2026.
+TBA - Bonnieux - Luberon - outdoor is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Pony Pony Party invite Superpitcher" on Sat, 5 Sept 2026.
 
 TBA - Bonnieux - Luberon - outdoor is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Superpitcher. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bonnieux - Luberon - outdoor is a music venue in Marseille listed on sound
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Pony Pony Party invite Superpitcher | Superpitcher |
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-bonnieux-luberon-outdoor/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/tba-bonnieux-luberon-outdoor/)*

@@ -1,6 +1,6 @@
 # Steven Mazó
 
-Steven Mazó is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Avant Garten, Buenos Aires on Fri, 18 Sept 2026.
+Steven Mazó is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Avant Garten, Buenos Aires on Fri, 18 Sept 2026.
 
 Steven Mazó is a house and acid artist tracked on soundcheck, with 3 sets logged across Buenosaires and Saopaulo. Often billed alongside DJ Magal, Guile and Manu Oubiña. Next up: Avant Garten, Buenosaires on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Steven Mazó is a house and acid artist tracked on soundcheck, with 3 sets logge
 
 DJ Magal, Guile, Manu Oubiña
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenmazo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenmazo/)*

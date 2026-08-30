@@ -1,6 +1,6 @@
 # Symonne
 
-Symonne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 2 Sept 2026.
+Symonne is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 2 Sept 2026.
 
 Symonne is a house and tech house artist tracked on soundcheck, with 17 sets logged across Losangeles and Newyorkcity. Often billed alongside BLANC MAMBA, Lavenge and AKONA. Next up: Jungle Hollywood, Losangeles on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Symonne is a house and tech house artist tracked on soundcheck, with 17 sets log
 
 BLANC MAMBA, Lavenge, AKONA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symonne/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symonne/)*

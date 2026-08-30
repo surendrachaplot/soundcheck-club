@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
+KIRSTY is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
 
 KIRSTY is a techno and house artist tracked on soundcheck, with 64 sets logged across Auckland, Belfast, Belgrade and Berlin and 20 more. Often billed alongside Lolalita, KimberlaID and Mad Dog. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
 
@@ -32,4 +32,4 @@ KIRSTY is a techno and house artist tracked on soundcheck, with 64 sets logged a
 
 Lolalita, KimberlaID, Mad Dog
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

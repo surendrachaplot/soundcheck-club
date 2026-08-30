@@ -1,6 +1,6 @@
 # Anthony Attalla
 
-Anthony Attalla is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Summer of George, Chicago on Sat, 12 Sept 2026.
+Anthony Attalla is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Summer of George, Chicago on Sat, 12 Sept 2026.
 
 Anthony Attalla is a tech house and house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Austin, Barcelona, Berlin and Chicago and 14 more. Often billed alongside Gene Farris, Carlo Lio and Dub Tiger. Next up: The Summer of George, Chicago on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Anthony Attalla is a tech house and house artist based in United States of Ameri
 
 Gene Farris, Carlo Lio, Dub Tiger
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyattalla/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyattalla/)*

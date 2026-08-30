@@ -1,14 +1,13 @@
 # Petit Bain
 
-Petit Bain is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "BOILERBOAT #3: TECHNO, TRANCE & BOUNCE EN FORMAT 360" on Sat, 29 Aug 2026.
+Petit Bain is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Void x Series invite Sisteuf & Tout Feu Tout Femme" on Fri, 4 Sept 2026.
 
-Petit Bain is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including ADB (FR), Bady (FR), C.LYYA and CHAMOS and 2 more. Browse upcoming dates, start times and who's playing. 7 port de la Gare, 75013 Paris.
+Petit Bain is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including C.LYYA, CHAMOS, Feed Me and Spor. Browse upcoming dates, start times and who's playing. 7 port de la Gare, 75013 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | BOILERBOAT #3: TECHNO, TRANCE & BOUNCE EN FORMAT 360 | ADB (FR), Bady (FR), Denyl Brook, Yous |
 | Fri, 4 Sept 2026 | Void x Series invite Sisteuf & Tout Feu Tout Femme | C.LYYA |
 | Sat, 5 Sept 2026 | Chamos - Petit Bain | CHAMOS |
 | Fri, 2 Oct 2026 | Errances Nocturnes x Paris Electronic Week |  |
@@ -18,4 +17,4 @@ Petit Bain is a music venue in Paris listed on soundcheck. 5 upcoming nights, wi
 
 7 port de la Gare, 75013 Paris, Paris
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*

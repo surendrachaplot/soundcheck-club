@@ -1,13 +1,14 @@
 # Buzé
 
-Buzé is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Legal, Munich on Sat, 12 Sept 2026.
+Buzé is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Legal, Munich on Sat, 12 Sept 2026.
 
-Buzé is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Munich. Often billed alongside Roberg, David Hornung and Javier Gallardo. Next up: Legal, Munich on Sat 12 Sept.
+Buzé is a house and tech house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Munich. Often billed alongside Roberg, David Hornung and Javier Gallardo. Next up: Legal, Munich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Legal | Munich |
 | Sat, 12 Sept 2026 | Legal | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Buzé is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Roberg, David Hornung, Javier Gallardo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buze/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buze/)*

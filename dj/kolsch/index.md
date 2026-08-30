@@ -1,14 +1,13 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 29 Aug 2026.
+Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Cova Santa, Ibiza on Fri, 4 Sept 2026.
 
-Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Ushuaïa Ibiza, Ibiza on Sat 29 Aug.
+Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Cova Santa, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Ushuaïa Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Cova Santa | Ibiza |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | fabric | London |
@@ -18,6 +17,7 @@ Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged 
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Sat, 29 Aug 2026
 - Budai Vár - Oroszlános Udvar, Budapest — Fri, 28 Aug 2026
 - Luz De Gas, Barcelona — Sat, 15 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
@@ -25,10 +25,9 @@ Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged 
 - Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 - Seaseaclub Barcelona, Barcelona — Sun, 21 Jun 2026
 - [UNVRS], Ibiza — Sat, 20 Jun 2026
-- SAGE, Berlin — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

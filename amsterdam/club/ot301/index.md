@@ -1,8 +1,8 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Vibez Recordings presents: Expansions" on Fri, 4 Sept 2026.
+OT301 is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Vibez Recordings presents: Expansions" on Fri, 4 Sept 2026.
 
-OT301 is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Aili, Anacalypto, Bardo (1) and Charlton and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
+OT301 is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Aili, Anacalypto, Bardo (1) and Bexley Mellish and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
 ## What's on
 
@@ -12,7 +12,7 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, wi
 | Sat, 5 Sept 2026 | Anacalypto & Friends | Anacalypto, DJ Aleksi, Jaimy (2), Klankers, Tre Turner |
 | Fri, 11 Sept 2026 | Alteration vol. 6 |  |
 | Sat, 12 Sept 2026 | Lucid Recordings presents - Rhythmism | Special Guest (US) |
-| Sat, 12 Sept 2026 | Rhythmism |  |
+| Sat, 12 Sept 2026 | Rhythmism | Bexley Mellish |
 | Fri, 25 Sept 2026 | Midsummer Night's Dream |  |
 | Fri, 25 Sept 2026 | Midsummer Night's Dream | t0ni, ultra caro |
 | Fri, 2 Oct 2026 | Cat in the bag - Jungle sessions |  |
@@ -23,4 +23,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, wi
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

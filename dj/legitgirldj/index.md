@@ -1,6 +1,6 @@
 # Legit Girl DJ
 
-Legit Girl DJ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
+Legit Girl DJ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 16 Oct 2026.
 
 Legit Girl DJ is a club and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Dublin and 8 more. Often billed alongside guerre maladie famine, DJ GHEPARD and Promesses. Next up: La Station - Gare des Mines, Paris on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Legit Girl DJ is a club and techno artist tracked on soundcheck, with 41 sets lo
 
 guerre maladie famine, DJ GHEPARD, Promesses
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legitgirldj/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/legitgirldj/)*

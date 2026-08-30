@@ -1,6 +1,6 @@
 # Abstract (IT)
 
-Abstract (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DURO, Milan on Sat, 12 Sept 2026.
+Abstract (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DURO, Milan on Sat, 12 Sept 2026.
 
 Abstract (IT) is a techno and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Milan. Often billed alongside Bulma Brief, Alejandro. and Black Swan. Next up: DURO, Milan on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Abstract (IT) is a techno and house artist based in Italy, tracked on soundcheck
 
 Bulma Brief, Alejandro., Black Swan
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractit/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractit/)*

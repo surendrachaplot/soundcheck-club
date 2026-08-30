@@ -1,6 +1,6 @@
 # Trudy Knight
 
-Trudy Knight is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Next Door Records, London on Mon, 31 Aug 2026.
+Trudy Knight is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Next Door Records, London on Mon, 31 Aug 2026.
 
 Trudy Knight is a house and bass artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Rebekah Abdeen, Denham Audio and Prospa. Next up: Next Door Records, London on Mon 31 Aug.
 
@@ -27,4 +27,4 @@ Trudy Knight is a house and bass artist tracked on soundcheck, with 14 sets logg
 
 Rebekah Abdeen, Denham Audio, Prospa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trudyknight/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trudyknight/)*

@@ -1,6 +1,6 @@
 # radial presents: official launch – saturday at radial
 
-radial presents: official launch – saturday on Sat 5 Sept, London. 5 acts on the bill: Baba T, Elena Colombi, LO-LOW and Serenda and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+radial presents: official launch – saturday on Sat 5 Sept, London. 6 acts on the bill: Baba T, drysu, Elena Colombi and LO-LOW and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ radial presents: official launch – saturday on Sat 5 Sept, London. 5 acts on t
 ## Line-up
 
 - Baba T
+- drysu
 - Elena Colombi
 - LO-LOW
 - Serenda

@@ -1,14 +1,15 @@
 # Friction
 
-Friction is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lakota, Bristol on Sat, 19 Sept 2026.
+Friction is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lakota, Bristol on Sat, 19 Sept 2026.
 
-Friction is a drum & bass and bass artist tracked on soundcheck, with 74 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 33 more. Often billed alongside Linguistics, Hybrid Minds and A Little Sound. Next up: Lakota, Bristol on Sat 19 Sept.
+Friction is a drum & bass and bass artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 34 more. Often billed alongside Linguistics, Hybrid Minds and A Little Sound. Next up: Lakota, Bristol on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Lakota | Bristol |
+| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Friction is a drum & bass and bass artist tracked on soundcheck, with 74 sets lo
 
 Linguistics, Hybrid Minds, A Little Sound
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*

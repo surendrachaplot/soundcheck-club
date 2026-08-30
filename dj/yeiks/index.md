@@ -1,6 +1,6 @@
 # Yeiks
 
-Yeiks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at EL SÓTANO, Madrid on Fri, 11 Sept 2026.
+Yeiks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at EL SÓTANO, Madrid on Fri, 11 Sept 2026.
 
 Yeiks is a techno and house artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin and Madrid. Often billed alongside NDSTPS, Reptile (ES) and BENZA. Next up: EL SÓTANO, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Yeiks is a techno and house artist based in Spain, tracked on soundcheck, with 2
 
 NDSTPS, Reptile (ES), BENZA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yeiks/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yeiks/)*

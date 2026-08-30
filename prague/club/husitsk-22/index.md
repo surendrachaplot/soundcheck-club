@@ -1,6 +1,6 @@
 # Husitská 22
 
-Husitská 22 is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "BLOOD CIRCLE COMEBACK" on Fri, 11 Sept 2026.
+Husitská 22 is a music venue in Prague with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "BLOOD CIRCLE COMEBACK" on Fri, 11 Sept 2026.
 
 Husitská 22 is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including BLUDHOUND, NEUWERTH, Nøteleks and pinklotion and 1 more. Browse upcoming dates, start times and who's playing. Husitská 22130 00 Praha 3-Žižko.
 
@@ -14,4 +14,4 @@ Husitská 22 is a music venue in Prague listed on soundcheck. 1 upcoming night, 
 
 Husitská 22130 00 Praha 3-Žižko, Prague
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/husitsk-22/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/husitsk-22/)*

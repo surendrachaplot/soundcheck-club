@@ -1,6 +1,6 @@
 # NØMAD
 
-NØMAD is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "BOU at NOMAD" on Fri, 18 Sept 2026.
+NØMAD is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "BOU at NOMAD" on Fri, 18 Sept 2026.
 
 NØMAD is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Bou (UK) and SZETO. Browse upcoming dates, start times and who's playing. 725 Queen Street East, Toronto, ON M4M 1H1, Canada.
 
@@ -15,4 +15,4 @@ NØMAD is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with
 
 725 Queen Street East, Toronto, ON M4M 1H1, Canada, Toronto
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/n-mad/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/n-mad/)*

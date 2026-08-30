@@ -1,6 +1,6 @@
 # Al Gray
 
-Al Gray is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Unit 58, London on Sat, 31 Oct 2026.
+Al Gray is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Unit 58, London on Sat, 31 Oct 2026.
 
 Al Gray is a house and disco artist tracked on soundcheck, with 49 sets logged across Barcelona, Belgrade, Liverpool and London. Often billed alongside Sue From HR, Ben Jammin and Kellit. Next up: Unit 58, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Al Gray is a house and disco artist tracked on soundcheck, with 49 sets logged a
 
 Sue From HR, Ben Jammin, Kellit
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/algray/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/algray/)*

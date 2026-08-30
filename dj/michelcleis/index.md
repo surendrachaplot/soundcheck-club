@@ -1,6 +1,6 @@
 # Michel Cleis
 
-Michel Cleis is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Landesmuseum, Zurich on Mon, 24 Aug 2026.
+Michel Cleis is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Landesmuseum, Zurich on Mon, 24 Aug 2026.
 
 Michel Cleis is a house and tech house artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Frankfurt, Geneva, Ibiza and Zurich. Often billed alongside Alci, Anthea and La Forêt. Next up: Landesmuseum, Zurich on Mon 24 Aug.
 
@@ -25,4 +25,4 @@ Michel Cleis is a house and tech house artist based in Switzerland, tracked on s
 
 Alci, Anthea, La Forêt
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelcleis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michelcleis/)*

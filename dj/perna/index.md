@@ -1,6 +1,6 @@
 # Perna
 
-Perna is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
+Perna is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bossa Nova Civic Club, New York City on Sun, 30 Aug 2026.
 
 Perna is a house and bass artist tracked on soundcheck, with 50 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside Ladiez Drink Free, Mariposa and Drupe Jam. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Perna is a house and bass artist tracked on soundcheck, with 50 sets logged acro
 
 Ladiez Drink Free, Mariposa, Drupe Jam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perna/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perna/)*

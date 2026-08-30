@@ -1,14 +1,13 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Knegativ all Night" on Sat, 29 Aug 2026.
+Mezzanine - Tooting is a music venue in London with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bites&Beats - SEPTEMBER HOUSE AND TECHNO PARTY " on Fri, 4 Sept 2026.
 
-Mezzanine - Tooting is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including B_LOVE, Ben Carr, DJ Mods and Ginn LDN and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
+Mezzanine - Tooting is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including B_LOVE, Ben Carr, DJ Mods and Ginn LDN and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Knegativ all Night | Knegativ |
 | Fri, 4 Sept 2026 | Bites&Beats - SEPTEMBER HOUSE AND TECHNO PARTY  | Matt Arnold |
 | Fri, 11 Sept 2026 | Frequency Flux Vol.5 |  |
 | Thu, 17 Sept 2026 | Spectrum: Open Decks | Ben Carr, Vinni_frm_bratfud |
@@ -20,4 +19,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 7 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

@@ -1,6 +1,6 @@
 # Paula OS
 
-Paula OS is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 5 Sept 2026.
+Paula OS is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 5 Sept 2026.
 
 Paula OS is a progressive house and techno artist tracked on soundcheck, with 16 sets logged across Amsterdam, Buenosaires and Copenhagen. Often billed alongside Abity, Antrim and Emi Galvan. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Paula OS is a progressive house and techno artist tracked on soundcheck, with 16
 
 Abity, Antrim, Emi Galvan
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulaos/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulaos/)*

@@ -1,6 +1,6 @@
 # Fine Selection #222 w/Derek, Nclr, Peter Bernath, Raqpar at A38
 
-Fine Selection #222 w/Derek, Nclr, Peter Bernath, Raqpar at A38 on Thu 17 Sept, Budapest. 2 acts on the bill: Peter Bernath and Raqpar. House and Deep House. Preview the line-up and save it on soundcheck.
+Fine Selection #222 w/Derek, Nclr, Peter Bernath, Raqpar at A38 on Thu 17 Sept, Budapest. 3 acts on the bill: Derek (2), Peter Bernath and Raqpar. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Fine Selection #222 w/Derek, Nclr, Peter Bernath, Raqpar at A38 on Thu 17 Sept, 
 
 ## Line-up
 
+- Derek (2)
 - Peter Bernath
 - Raqpar
 

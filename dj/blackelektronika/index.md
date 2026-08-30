@@ -1,6 +1,6 @@
 # Black elektronika
 
-Black elektronika is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Weekend, Berlin on Fri, 11 Sept 2026.
+Black elektronika is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Weekend, Berlin on Fri, 11 Sept 2026.
 
 Black elektronika is a house and tech house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Alejandro Molinari, Baran Kok and Basementkids. Next up: Weekend, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Black elektronika is a house and tech house artist tracked on soundcheck, with 4
 
 Alejandro Molinari, Baran Kok, Basementkids
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackelektronika/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackelektronika/)*

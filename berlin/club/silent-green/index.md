@@ -1,8 +1,8 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "The I in the mirror / Reflection" on Mon, 31 Aug 2026.
+Silent Green is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "The I in the mirror / Reflection" on Mon, 31 Aug 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Ana Roxanne, Angelo Harmsworth, bela and Burnt Friedman and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Ana Roxanne, Angelo Harmsworth, bela and Burnt Friedman and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming nights
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

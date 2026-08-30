@@ -1,6 +1,6 @@
 # Adrian's Bar
 
-Adrian's Bar is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "School Nite Sessions No. 8: A Late Summer Night's Dream" on Sun, 30 Aug 2026.
+Adrian's Bar is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "School Nite Sessions No. 8: A Late Summer Night's Dream" on Sun, 30 Aug 2026.
 
 Adrian's Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming night, with line-ups including 4KitSake, Angel Cake and Swedger. Browse upcoming dates, start times and who's playing. 441 Victoria Rd, Glasgow, G42 8RW.
 
@@ -14,4 +14,4 @@ Adrian's Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming night,
 
 441 Victoria Rd, Glasgow, G42 8RW, Glasgow
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/adrian-s-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/adrian-s-bar/)*

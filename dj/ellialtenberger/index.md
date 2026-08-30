@@ -1,13 +1,14 @@
 # Elli Altenberger
 
-Elli Altenberger is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Elli Altenberger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Gate, Berlin on Sat, 5 Sept 2026.
 
-Elli Altenberger is a techno and house artist tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Leipzig and Melbourne and 3 more. Often billed alongside Leon Licht, Tobi Dei (DE) and Annina. Next up: Hoppetosse, Berlin on Fri 11 Sept.
+Elli Altenberger is a techno and house artist tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Leipzig and Melbourne and 3 more. Often billed alongside Leon Licht, Edgar Peng and Tobi Dei (DE). Next up: Golden Gate, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Golden Gate | Berlin |
 | Fri, 11 Sept 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Elli Altenberger is a techno and house artist tracked on soundcheck, with 46 set
 
 ## Shares bills with
 
-Leon Licht, Tobi Dei (DE), Annina
+Leon Licht, Edgar Peng, Tobi Dei (DE)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellialtenberger/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellialtenberger/)*

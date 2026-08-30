@@ -1,6 +1,6 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 9 Oct 2026.
+Maxime dB is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 9 Oct 2026.
 
 Maxime dB is a house and techno artist tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Les Enfants Brillants, Barcelona on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Maxime dB is a house and techno artist tracked on soundcheck, with 118 sets logg
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

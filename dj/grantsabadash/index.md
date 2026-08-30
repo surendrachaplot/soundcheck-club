@@ -1,6 +1,6 @@
 # grant sabadash
 
-grant sabadash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+grant sabadash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 grant sabadash is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Miami. Often billed alongside Nikita Green, Shir Miya and True Vine. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ grant sabadash is a techno and house artist based in United States of America, t
 
 Nikita Green, Shir Miya, True Vine
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grantsabadash/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grantsabadash/)*

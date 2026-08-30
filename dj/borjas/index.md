@@ -1,13 +1,14 @@
 # Borja S
 
-Borja S is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Borja S is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
 
-Borja S is an electronica and techno artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona, Ibiza, Lisbon and London and 3 more. Often billed alongside Avo (ES), Cesc (ES) and Mark (ES). Next up: FOLD, London on Sat 26 Sept.
+Borja S is an electronica and techno artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Ibiza, Lisbon and London and 3 more. Often billed alongside Avo (ES), Cesc (ES) and Mark (ES). Next up: Sunseabar Beach Club, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 23 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 26 Sept 2026 | FOLD | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Borja S is an electronica and techno artist based in Spain, tracked on soundchec
 
 Avo (ES), Cesc (ES), Mark (ES)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*

@@ -1,6 +1,6 @@
 # LuLu Malina
 
-LuLu Malina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Letnisko Żoliborz, Warsaw on Sun, 30 Aug 2026.
+LuLu Malina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Letnisko Żoliborz, Warsaw on Sun, 30 Aug 2026.
 
 LuLu Malina is a house and techno artist based in Poland, tracked on soundcheck, with 49 sets logged across Athens, Berlin, Krakow and Stockholm and 1 more. Often billed alongside Angelo Mike, NuCasa and Sincz. Next up: Letnisko Żoliborz, Warsaw on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ LuLu Malina is a house and techno artist based in Poland, tracked on soundcheck,
 
 Angelo Mike, NuCasa, Sincz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulumalina/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lulumalina/)*

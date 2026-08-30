@@ -1,6 +1,6 @@
 # SAVANNAH
 
-SAVANNAH is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
+SAVANNAH is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 SAVANNAH is a drum & bass and jungle artist tracked on soundcheck, with 24 sets logged across London, Manchester and Sheffield. Often billed alongside Jojo Deevoy, JAY-MO and Randoma. Next up: fabric, London on Fri 4 Sept.
 
@@ -15,7 +15,7 @@ SAVANNAH is a drum & bass and jungle artist tracked on soundcheck, with 24 sets 
 
 - Electric Ballroom, London — Sat, 25 Jul 2026
 - Islington Arts Club, London — Sat, 25 Jul 2026
-- Hootananny Brixton, London — Fri, 24 Jul 2026
+- Hootananny, London — Fri, 24 Jul 2026
 - The Fox and Firkin, London — Sat, 2 May 2026
 - Hootananny Brixton, London — Sat, 18 Apr 2026
 - Planet Wax, London — Sat, 4 Apr 2026
@@ -26,4 +26,4 @@ SAVANNAH is a drum & bass and jungle artist tracked on soundcheck, with 24 sets 
 
 Jojo Deevoy, JAY-MO, Randoma
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savannah/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/savannah/)*

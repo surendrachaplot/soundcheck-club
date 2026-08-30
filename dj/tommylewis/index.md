@@ -1,6 +1,6 @@
 # Tommy Lewis
 
-Tommy Lewis is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
+Tommy Lewis is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
 
 Tommy Lewis is a techno and minimal artist tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Berlin and Leipzig and 10 more. Often billed alongside Reid Fernando, CULT and DJ SWISHERMAN. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tommy Lewis is a techno and minimal artist tracked on soundcheck, with 31 sets l
 
 Reid Fernando, CULT, DJ SWISHERMAN
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylewis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylewis/)*

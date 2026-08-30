@@ -1,6 +1,6 @@
 # KNDKTR 2YR ANNIVERSARY: Hermeth at TBA
 
-KNDKTR 2YR ANNIVERSARY: Hermeth at TBA on Sat 19 Sept, Toronto. 2 acts on the bill: /ASYNC and Hermeth. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+KNDKTR 2YR ANNIVERSARY: Hermeth at TBA on Sat 19 Sept, Toronto. 3 acts on the bill: /ASYNC, Hermeth and Ninechecker. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ KNDKTR 2YR ANNIVERSARY: Hermeth at TBA on Sat 19 Sept, Toronto. 2 acts on the bi
 
 - /ASYNC
 - Hermeth
+- Ninechecker
 
 *Source: [soundcheck](https://soundcheck.club/e/2439343-kndktr-2yr-anniversary-hermeth-at-tba/)*

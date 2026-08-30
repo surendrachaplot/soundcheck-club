@@ -1,6 +1,6 @@
 # Elata: Aniaef invites Gannein at The Glove That Fits
 
-Elata: Aniaef invites Gannein at The Glove That Fits on Sun 13 Sept, London. 3 acts on the bill: Aniaef, Gannein and Spinks. Techno. Preview the line-up and save it on soundcheck.
+Elata: Aniaef invites Gannein at The Glove That Fits on Sun 13 Sept, London. 4 acts on the bill: Aniaef, Gannein, HYUS and Spinks. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Elata: Aniaef invites Gannein at The Glove That Fits on Sun 13 Sept, London. 3 a
 
 - Aniaef
 - Gannein
+- HYUS
 - Spinks
 
 *Source: [soundcheck](https://soundcheck.club/e/2467055-elata-aniaef-invites-gannein-at-the-glove-that-fits/)*

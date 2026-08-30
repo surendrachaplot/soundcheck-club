@@ -1,13 +1,14 @@
 # Viot
 
-Viot is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Viot is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at 77, London on Fri, 11 Sept 2026.
 
-Viot is a tech house and house artist tracked on soundcheck, with 26 sets logged across Buenosaires, Chicago, Ibiza and Lisbon and 7 more. Often billed alongside Antdot, Carl Cox and Maz (BR). Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Viot is a house and tech house artist tracked on soundcheck, with 27 sets logged across Buenosaires, Chicago, Ibiza and Lisbon and 8 more. Often billed alongside Antdot, Carl Cox and Maz (BR). Next up: 77, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | 77 | London |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Viot is a tech house and house artist tracked on soundcheck, with 26 sets logged
 
 Antdot, Carl Cox, Maz (BR)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*

@@ -1,6 +1,6 @@
 # nadia (npc)
 
-nadia (npc) is a Club and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
+nadia (npc) is a Club and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at OHM, Berlin on Thu, 3 Sept 2026.
 
 nadia (npc) is a club and ambient artist tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside JD Typo, Lyo. and eric.a. Next up: OHM, Berlin on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ nadia (npc) is a club and ambient artist tracked on soundcheck, with 22 sets log
 
 JD Typo, Lyo., eric.a
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadianpc/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nadianpc/)*

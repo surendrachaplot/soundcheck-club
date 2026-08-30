@@ -1,8 +1,8 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at KMSKA, Antwerp on Sat, 5 Sept 2026.
+ANNĒ is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KMSKA, Antwerp on Sat, 5 Sept 2026.
 
-ANNĒ is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: KMSKA, Antwerp on Sat 5 Sept.
+ANNĒ is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: KMSKA, Antwerp on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 179 sets logged a
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Bunker | Turin |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 179 sets logged a
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

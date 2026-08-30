@@ -1,6 +1,6 @@
 # Iona.Violet
 
-Iona.Violet is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Bongo Club, Edinburgh on Wed, 16 Sept 2026.
+Iona.Violet is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Bongo Club, Edinburgh on Wed, 16 Sept 2026.
 
 Iona.Violet is an electro and techno artist tracked on soundcheck, with 13 sets logged across Edinburgh, Glasgow and London. Often billed alongside ona:v, ENAEN and Nikki Guild. Next up: The Bongo Club, Edinburgh on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Iona.Violet is an electro and techno artist tracked on soundcheck, with 13 sets 
 
 ona:v, ENAEN, Nikki Guild
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*

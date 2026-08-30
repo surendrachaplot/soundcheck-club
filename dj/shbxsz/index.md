@@ -1,6 +1,6 @@
 # shbxsz
 
-shbxsz is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Uus Laine, Tallinn on Fri, 9 Oct 2026.
+shbxsz is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Uus Laine, Tallinn on Fri, 9 Oct 2026.
 
 shbxsz is an electronic artist tracked on soundcheck, with 4 sets logged across Tallinn. Often billed alongside Baalti, DJ Plead and Yung Singh. Next up: Uus Laine, Tallinn on Fri 9 Oct.
 
@@ -20,4 +20,4 @@ shbxsz is an electronic artist tracked on soundcheck, with 4 sets logged across 
 
 Baalti, DJ Plead, Yung Singh
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shbxsz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shbxsz/)*

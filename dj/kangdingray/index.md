@@ -1,6 +1,6 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Kangding Ray is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Kangding Ray is a techno and experimental artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Kangding Ray is a techno and experimental artist tracked on soundcheck, with 134
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

@@ -1,6 +1,6 @@
 # andela
 
-andela is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Madam, Amsterdam on Fri, 16 Oct 2026.
+andela is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Madam, Amsterdam on Fri, 16 Oct 2026.
 
 andela is a tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam and Lisbon. Often billed alongside Stephen William, ADEZ and Kirilski. Next up: Madam, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ andela is a tech house artist tracked on soundcheck, with 26 sets logged across 
 
 Stephen William, ADEZ, Kirilski
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andela/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andela/)*

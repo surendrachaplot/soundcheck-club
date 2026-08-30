@@ -1,6 +1,6 @@
 # Chéri
 
-Chéri is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
+Chéri is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
 
 Chéri is an electronic artist based in France, tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside AMBRR, Parfait and Prauze. Next up: TBA - Paris, Paris on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Chéri is an electronic artist based in France, tracked on soundcheck, with 4 se
 
 AMBRR, Parfait, Prauze
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheri/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheri/)*

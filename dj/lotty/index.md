@@ -1,6 +1,6 @@
 # Lotty
 
-Lotty is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
+Lotty is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
 
 Lotty is a techno and trance artist based in Latvia, tracked on soundcheck, with 7 sets logged across Basel, Riga and Zurich. Often billed alongside HP-82, Ikss and Sundown. Next up: Korpuss, Riga on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Lotty is a techno and trance artist based in Latvia, tracked on soundcheck, with
 
 HP-82, Ikss, Sundown
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotty/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotty/)*

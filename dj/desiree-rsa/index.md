@@ -1,6 +1,6 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lula Club, Madrid on Sat, 12 Sept 2026.
+DESIREE (RSA) is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lula Club, Madrid on Sat, 12 Sept 2026.
 
 DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Sossa, Âme and Carlita. Next up: Lula Club, Madrid on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ DESIREE (RSA) is a house and techno artist tracked on soundcheck, with 113 sets 
 
 Sossa, Âme, Carlita
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

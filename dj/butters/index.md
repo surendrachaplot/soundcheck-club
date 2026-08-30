@@ -1,6 +1,6 @@
 # butters
 
-butters is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Colombian Hotel, Sydney on Sat, 29 Aug 2026.
+butters is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Colombian Hotel, Sydney on Sat, 29 Aug 2026.
 
 butters is an afro house and house artist tracked on soundcheck, with 3 sets logged across Manchester and Sydney. Often billed alongside Ben Nott, Charles X and Crim. Next up: Colombian Hotel, Sydney on Sat 29 Aug.
 
@@ -12,6 +12,7 @@ butters is an afro house and house artist tracked on soundcheck, with 3 sets log
 
 ## Recently played
 
+- Colombian Hotel, Sydney — Sat, 29 Aug 2026
 - Kable Club, Manchester — Fri, 7 Feb 2025
 - The Lucky Cat, Sydney — Sat, 7 Dec 2024
 
@@ -19,4 +20,4 @@ butters is an afro house and house artist tracked on soundcheck, with 3 sets log
 
 Ben Nott, Charles X, Crim
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butters/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butters/)*

@@ -1,6 +1,6 @@
 # Kengo Groove
 
-Kengo Groove is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Azumaya, Tokyo on Sat, 12 Sept 2026.
+Kengo Groove is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Azumaya, Tokyo on Sat, 12 Sept 2026.
 
 Kengo Groove is a house and tech house artist based in Japan, tracked on soundcheck, with 33 sets logged across Osaka and Tokyo. Often billed alongside Daitto, Chihoshi and CLESENT. Next up: Azumaya, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kengo Groove is a house and tech house artist based in Japan, tracked on soundch
 
 Daitto, Chihoshi, CLESENT
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kengogroove/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kengogroove/)*

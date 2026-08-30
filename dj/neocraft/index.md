@@ -1,6 +1,6 @@
 # Neocraft
 
-Neocraft is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Yan Gastro, Istanbul on Fri, 4 Sept 2026.
+Neocraft is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Yan Gastro, Istanbul on Fri, 4 Sept 2026.
 
 Neocraft is a house and minimal artist tracked on soundcheck, with 30 sets logged across Amsterdam and Istanbul. Often billed alongside Baban, Morteza Minouei and BOOSAY. Next up: Yan Gastro, Istanbul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Neocraft is a house and minimal artist tracked on soundcheck, with 30 sets logge
 
 Baban, Morteza Minouei, BOOSAY
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neocraft/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neocraft/)*

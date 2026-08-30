@@ -1,8 +1,8 @@
 # Annie Errez
 
-Annie Errez is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Annie Errez is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
-Annie Errez is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Ibiza and Leeds and 4 more. Often billed alongside Bobby O'Donnell, Enzo Siragusa and Dr Banana. Next up: UNO MALTA, Malta on Thu 17 Sept.
+Annie Errez is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Ibiza and Leeds and 4 more. Often billed alongside Bobby O'Donnell, Enzo Siragusa and Dr Banana. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Annie Errez is a tech house and house artist based in United Kingdom, tracked on
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | Mint XL | Leeds |
+| Fri, 20 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Annie Errez is a tech house and house artist based in United Kingdom, tracked on
 
 Bobby O'Donnell, Enzo Siragusa, Dr Banana
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annieerrez/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annieerrez/)*

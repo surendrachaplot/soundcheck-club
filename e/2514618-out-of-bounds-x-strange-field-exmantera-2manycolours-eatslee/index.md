@@ -1,6 +1,6 @@
 # Out of Bounds x Strange Field: exmantera, 2MANYCOLOURS, eatsleep, T-Total, Dead Cell at French Street (Strange Field)
 
-Out of Bounds x Strange Field: exmantera, 2MANYCOLOURS, eatsleep, T-Total, Dead Cell at French Street (Strange Field) on Fri 18 Sept, Glasgow. 2 acts on the bill: exmantera and T-Total. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Out of Bounds x Strange Field: exmantera, 2MANYCOLOURS, eatsleep, T-Total, Dead Cell at French Street (Strange Field) on Fri 18 Sept, Glasgow. 3 acts on the bill: 2manycolours, exmantera and T-Total. Experimental and Noise. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Out of Bounds x Strange Field: exmantera, 2MANYCOLOURS, eatsleep, T-Total, Dead 
 
 ## Line-up
 
+- 2manycolours
 - exmantera
 - T-Total
 

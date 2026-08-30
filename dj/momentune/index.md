@@ -1,6 +1,6 @@
 # Momentune
 
-Momentune is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Momentune is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
 
 Momentune is a psytrance and techno artist tracked on soundcheck, with 69 sets logged across Berlin and Stuttgart. Often billed alongside Daora, RHYTMOX and Texo. Next up: KitKatClub, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Momentune is a psytrance and techno artist tracked on soundcheck, with 69 sets l
 
 Daora, RHYTMOX, Texo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momentune/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/momentune/)*

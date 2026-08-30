@@ -1,6 +1,6 @@
 # Drastic Shuffle
 
-Drastic Shuffle is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Wood Street Bear, London on Mon, 31 Aug 2026.
+Drastic Shuffle is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Wood Street Bear, London on Mon, 31 Aug 2026.
 
 Drastic Shuffle is a house and electronica artist tracked on soundcheck, with 23 sets logged across London. Often billed alongside Benebe, MAÏS and Make Money Mafia. Next up: Wood Street Bear, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Drastic Shuffle is a house and electronica artist tracked on soundcheck, with 23
 
 Benebe, MAÏS, Make Money Mafia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drasticshuffle/)*

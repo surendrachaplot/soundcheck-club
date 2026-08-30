@@ -1,6 +1,6 @@
 # Mr. V
 
-Mr. V is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at White Rabbit, San Francisco/Oakland on Sun, 30 Aug 2026.
+Mr. V is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at White Rabbit, San Francisco/Oakland on Sun, 30 Aug 2026.
 
 Mr. V is a house and deep house artist based in United States of America, tracked on soundcheck, with 155 sets logged across Amsterdam, Detroit, Ibiza and Liverpool and 6 more. Often billed alongside David Harness, Franky Boissy and Hector Romero. Next up: White Rabbit, Sanfrancisco on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Mr. V is a house and deep house artist based in United States of America, tracke
 
 David Harness, Franky Boissy, Hector Romero
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.v/)*

@@ -1,6 +1,6 @@
 # Donnerstag (1)
 
-Donnerstag (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Barbary, Philadelphia on Sat, 12 Sept 2026.
+Donnerstag (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Barbary, Philadelphia on Sat, 12 Sept 2026.
 
 Donnerstag (1) is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Ibiza and Newyorkcity and 3 more. Often billed alongside Civil Servant, Mossa and Valeria Wardini. Next up: The Barbary, Philadelphia on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Donnerstag (1) is a techno and house artist tracked on soundcheck, with 10 sets 
 
 Civil Servant, Mossa, Valeria Wardini
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnerstag-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnerstag-1/)*

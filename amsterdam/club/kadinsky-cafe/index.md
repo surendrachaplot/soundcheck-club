@@ -1,17 +1,17 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Kadinsky Sessions 075" on Sat, 29 Aug 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Around Us & Callecat Invites" on Thu, 22 Oct 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including MC PPholl and Ras Paulus. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Albano Bastonero, Around Us, Bass van Duijn and Callecat and 2 more. Browse upcoming dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kadinsky Sessions 075 | MC PPholl, Ras Paulus |
+| Thu, 22 Oct 2026 | Around Us & Callecat Invites | Albano Bastonero, Around Us, Bass van Duijn, Callecat, Gustin, NOIYSE PROJECT, Nicholas Van Orton, Pablo Pegar, Rauschhaus |
 
 ## Address
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

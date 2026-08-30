@@ -1,6 +1,6 @@
 # Various Venues
 
-Various Venues is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "AVA London 2026" on Thu, 24 Sept 2026.
+Various Venues is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "AVA London 2026" on Thu, 24 Sept 2026.
 
 Various Venues is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including AliA, The Avalanches, Bitter Babe and Blawan and 2 more. Browse upcoming dates, start times and who's playing. Various Venues.
 
@@ -14,4 +14,4 @@ Various Venues is a music venue in London listed on soundcheck. 1 upcoming night
 
 Various Venues, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/various-venues/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/various-venues/)*

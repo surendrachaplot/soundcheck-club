@@ -1,6 +1,6 @@
 # DJ Blasian
 
-DJ Blasian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 9 Oct 2026.
+DJ Blasian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Fri, 9 Oct 2026.
 
 DJ Blasian is a house and techno artist tracked on soundcheck, with 66 sets logged across Washingtondc. Often billed alongside DJ DCM-9, DR MILLER and Freefall. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ DJ Blasian is a house and techno artist tracked on soundcheck, with 66 sets logg
 
 DJ DCM-9, DR MILLER, Freefall
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblasian/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djblasian/)*

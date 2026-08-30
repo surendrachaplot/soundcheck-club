@@ -1,6 +1,6 @@
 # BRANDO
 
-BRANDO is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Sooki Lounge, Melbourne on Sat, 12 Sept 2026.
+BRANDO is a Downtempo and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sooki Lounge, Melbourne on Sat, 12 Sept 2026.
 
 BRANDO is a downtempo and minimal artist tracked on soundcheck, with 4 sets logged across Madrid, Melbourne, Mexicocity and Milan. Often billed alongside Andsep, Body-O and Dj Raw (MX). Next up: Sooki Lounge, Melbourne on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ BRANDO is a downtempo and minimal artist tracked on soundcheck, with 4 sets logg
 
 Andsep, Body-O, Dj Raw (MX)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brando/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brando/)*

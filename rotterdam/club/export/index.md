@@ -1,15 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "IN TUNE ~~" on Sat, 29 Aug 2026.
+export is a music venue in Rotterdam with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "LatinXport invites PIREXIA" on Fri, 4 Sept 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including Ben Diggins, Bukkha, David Vunk and Fleck and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 6 upcoming nights, with line-ups including Bukkha, David Vunk, Fleck and Hebbe and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | IN TUNE ~~ | Ben Diggins, Frits Wentink, Infinite Pleasure, Jessin Neijts, LIMA (NL), Steven Pieters, select motion |
-| Sat, 29 Aug 2026 | In Tune: Frits Wentink, Repress, Steven Pieters  | Ben Diggins, Frits Wentink, Infinite Pleasure, Jessin Neijts, Steven Pieters, select motion |
 | Fri, 4 Sept 2026 | LatinXport invites PIREXIA | NEGRACONDA, Rattlesnakke, Sukubratz |
 | Sat, 5 Sept 2026 | Krackfree 10 Years |  |
 | Sat, 5 Sept 2026 | Krackfree Soundsystem 10year Anniversary Event - Rotterdam | Bukkha, Hebbe, Helmond Lang, Kessler, V.I.V.E.K. |
@@ -21,4 +19,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

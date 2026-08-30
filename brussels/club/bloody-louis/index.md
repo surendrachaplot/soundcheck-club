@@ -1,6 +1,6 @@
 # Bloody Louis
 
-Bloody Louis is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "CASALUA INVITES Francis Mercier" on Fri, 25 Sept 2026.
+Bloody Louis is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "CASALUA INVITES Francis Mercier" on Fri, 25 Sept 2026.
 
 Bloody Louis is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Francis Mercier. Browse upcoming dates, start times and who's playing. Avenue Louise 32, Brussels, Belgium.
 
@@ -14,4 +14,4 @@ Bloody Louis is a music venue in Brussels listed on soundcheck. 1 upcoming night
 
 Avenue Louise 32, Brussels, Belgium, Brussels
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bloody-louis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bloody-louis/)*

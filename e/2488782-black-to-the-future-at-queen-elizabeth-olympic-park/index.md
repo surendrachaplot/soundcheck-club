@@ -1,6 +1,6 @@
 # Black to the Future at Queen Elizabeth Olympic Park
 
-Black to the Future at Queen Elizabeth Olympic Park on Sat 12 Sept, London. 6 acts on the bill: Cass Brewster, Elheist, fAt-lÏP and LISAKEEKS and 2 more. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+Black to the Future at Queen Elizabeth Olympic Park on Sat 12 Sept, London. 7 acts on the bill: Angel Gray, Cass Brewster, Elheist and fAt-lÏP and 3 more. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Black to the Future at Queen Elizabeth Olympic Park on Sat 12 Sept, London. 6 ac
 
 ## Line-up
 
+- Angel Gray
 - Cass Brewster
 - Elheist
 - fAt-lÏP

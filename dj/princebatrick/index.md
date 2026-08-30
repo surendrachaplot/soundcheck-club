@@ -1,6 +1,6 @@
 # Prince Batrick
 
-Prince Batrick is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Secret Location, Toronto on Sat, 5 Sept 2026.
+Prince Batrick is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Secret Location, Toronto on Sat, 5 Sept 2026.
 
 Prince Batrick is a house and garage artist tracked on soundcheck, with 60 sets logged across London, Miami, Montreal and Newyorkcity and 2 more. Often billed alongside Rose Hips (2), Delicious DJ and berth (2). Next up: TBA - Secret Location, Toronto on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Prince Batrick is a house and garage artist tracked on soundcheck, with 60 sets 
 
 Rose Hips (2), Delicious DJ, berth (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*

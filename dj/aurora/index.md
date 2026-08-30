@@ -1,6 +1,6 @@
 # Aurora
 
-Aurora is a Psytrance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at UFO im Velodrom, Berlin on Sun, 1 Nov 2026.
+Aurora is a Psytrance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at UFO im Velodrom, Berlin on Sun, 1 Nov 2026.
 
 Aurora is a psytrance and hardcore artist tracked on soundcheck, with 11 sets logged across Athens, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside 2HOT2PLAY, Adrien Calvet and Alex Nantaya. Next up: UFO im Velodrom, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Aurora is a psytrance and hardcore artist tracked on soundcheck, with 11 sets lo
 
 2HOT2PLAY, Adrien Calvet, Alex Nantaya
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aurora/)*

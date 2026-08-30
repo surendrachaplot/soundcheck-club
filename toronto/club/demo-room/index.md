@@ -1,6 +1,6 @@
 # Demo Room
 
-Demo Room is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Fideles: TORONTO" on Sat, 7 Nov 2026.
+Demo Room is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Fideles: TORONTO" on Sat, 7 Nov 2026.
 
 Demo Room is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Fideles. Browse upcoming dates, start times and who's playing. 307 Lake Shore Blvd E, Toronto, ON M5A 1C1.
 
@@ -14,4 +14,4 @@ Demo Room is a music venue in Toronto listed on soundcheck. 1 upcoming night, wi
 
 307 Lake Shore Blvd E, Toronto, ON M5A 1C1, Toronto
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/demo-room/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/demo-room/)*

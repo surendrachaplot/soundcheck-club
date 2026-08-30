@@ -1,6 +1,6 @@
 # joa picaro
 
-joa picaro is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+joa picaro is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
 joa picaro is a house and club artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Anders HP, CERJ and Business Risky. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ joa picaro is a house and club artist based in Denmark, tracked on soundcheck, w
 
 Anders HP, CERJ, Business Risky
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joapicaro/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joapicaro/)*

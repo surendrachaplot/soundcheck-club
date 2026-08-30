@@ -1,6 +1,6 @@
 # Spektiv
 
-Spektiv is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club Lucia, Vienna on Fri, 25 Sept 2026.
+Spektiv is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club Lucia, Vienna on Fri, 25 Sept 2026.
 
 Spektiv is a drum & bass and dubstep artist tracked on soundcheck, with 17 sets logged across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Rizzle, Geostatic and Halogenix. Next up: Club Lucia, Vienna on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Spektiv is a drum & bass and dubstep artist tracked on soundcheck, with 17 sets 
 
 Rizzle, Geostatic, Halogenix
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spektiv/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spektiv/)*

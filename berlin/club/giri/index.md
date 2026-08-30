@@ -1,15 +1,13 @@
 # Giri
 
-Giri is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Giri x DUBBDÄCK (a bi / pansexual flirty night)" on Fri, 28 Aug 2026.
+Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Giri x El Manto: Dario Jongerius release" on Wed, 2 Sept 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Airaboi, BENGALA, Chris Gorrie and Dimensionless Unity and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Airaboi, Chris Gorrie, Dimensionless Unity and Jessica Nightlife and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Giri x DUBBDÄCK (a bi / pansexual flirty night) | BENGALA, HEDDA, KBRAL, NORA (BR), lil ja |
-| Sat, 29 Aug 2026 | RUTA: Colombia Earthquake Aid | Juana Valeria, Retter (DE), Triana, gugol maps, sin serif |
 | Wed, 2 Sept 2026 | Giri x El Manto: Dario Jongerius release | Airaboi, Manuel Carbone, ZFK (1) |
 | Wed, 2 Sept 2026 | Giri x El Manto | Airaboi, Manuel Carbone, ZFK (1) |
 | Thu, 3 Sept 2026 | Giri x Local Slang | Warlord®, t0ni |
@@ -18,9 +16,11 @@ Giri is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with l
 | Fri, 11 Sept 2026 | Giri x Wormhole Studies | Chris Gorrie, Sean Gonzalez |
 | Thu, 17 Sept 2026 | Giri x TM - 25Sommervorbei |  |
 | Fri, 18 Sept 2026 | Giri x Eclectic Limited |  |
+| Thu, 24 Sept 2026 | Giri x Amour Africain |  |
+| Fri, 25 Sept 2026 | Giri x Dimensionless Unity: Love To The World | Dimensionless Unity, Trent, Yas |
 
 ## Address
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

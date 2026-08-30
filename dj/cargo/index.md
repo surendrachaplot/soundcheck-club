@@ -1,6 +1,6 @@
 # CARGO
 
-CARGO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+CARGO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 CARGO is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Nurnberg and Sheffield. Often billed alongside CARGO (DE), Dominique Lamee and HNAS. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ CARGO is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 CARGO (DE), Dominique Lamee, HNAS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo/)*

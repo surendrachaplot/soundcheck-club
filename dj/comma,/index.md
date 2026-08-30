@@ -1,6 +1,6 @@
 # comma,
 
-comma, is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
+comma, is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
 
 comma, is a house and club artist tracked on soundcheck, with 15 sets logged across Toronto. Often billed alongside Akkai (2), GG STEPS and Program Sam. Next up: Soleil, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ comma, is a house and club artist tracked on soundcheck, with 15 sets logged acr
 
 Akkai (2), GG STEPS, Program Sam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comma,/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/comma,/)*

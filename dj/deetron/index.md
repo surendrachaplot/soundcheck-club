@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Deetron is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
 
 Deetron is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 25 more. Often billed alongside Zenker Brothers, SG Lewis and AMMARA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Deetron is a techno and house artist tracked on soundcheck, with 55 sets logged 
 
 Zenker Brothers, SG Lewis, AMMARA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

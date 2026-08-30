@@ -1,6 +1,6 @@
 # Thomas Xu
 
-Thomas Xu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at MotorCity Wine, Detroit on Sun, 30 Aug 2026.
+Thomas Xu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at MotorCity Wine, Detroit on Sun, 30 Aug 2026.
 
 Thomas Xu is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Chicago, Detroit, Kyoto and Newyorkcity. Often billed alongside Meftah, otodojo and Aboudi Issa. Next up: MotorCity Wine, Detroit on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Thomas Xu is a house and techno artist based in United States of America, tracke
 
 Meftah, otodojo, Aboudi Issa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasxu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasxu/)*

@@ -1,6 +1,6 @@
 # Derovio
 
-Derovio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
+Derovio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 30 Aug 2026.
 
 Derovio is a house and techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona and Madrid. Often billed alongside Adrian Grösser, CLANDESTINE (2) and Brizas. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Derovio is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Adrian Grösser, CLANDESTINE (2), Brizas
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derovio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derovio/)*

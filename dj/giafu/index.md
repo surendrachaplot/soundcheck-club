@@ -1,6 +1,6 @@
 # Gia Fu
 
-Gia Fu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Colour Factory, London on Sat, 17 Oct 2026.
+Gia Fu is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Colour Factory, London on Sat, 17 Oct 2026.
 
 Gia Fu is a house and disco artist based in China, tracked on soundcheck, with 15 sets logged across Barcelona, Bristol, London and Madrid and 6 more. Often billed alongside Sonido Tupinamba, Andy Votel and Atiké. Next up: Colour Factory, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Gia Fu is a house and disco artist based in China, tracked on soundcheck, with 1
 
 Sonido Tupinamba, Andy Votel, Atiké
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*

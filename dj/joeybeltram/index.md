@@ -1,6 +1,6 @@
 # Joey Beltram
 
-Joey Beltram is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Dolphin, Philadelphia on Fri, 4 Sept 2026.
+Joey Beltram is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Dolphin, Philadelphia on Fri, 4 Sept 2026.
 
 Joey Beltram is a techno and acid artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Chicago and Detroit and 10 more. Often billed alongside Devoye, Jayzo and LISAS. Next up: The Dolphin, Philadelphia on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Joey Beltram is a techno and acid artist based in United States of America, trac
 
 Devoye, Jayzo, LISAS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybeltram/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeybeltram/)*

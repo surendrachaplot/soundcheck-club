@@ -1,13 +1,14 @@
 # CISUMMI
 
-CISUMMI is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Sat, 5 Sept 2026.
+CISUMMI is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
 
-CISUMMI is an afro house and house artist based in France, tracked on soundcheck, with 11 sets logged across Miami, Newyorkcity, Paris and Sanfrancisco. Often billed alongside Francis Mercier, ARYMÉ and Apache. Next up: Elsewhere, Newyorkcity on Sat 5 Sept.
+CISUMMI is a house and afro house artist based in France, tracked on soundcheck, with 12 sets logged across Miami, Newyorkcity, Paris and Sanfrancisco. Often billed alongside Francis Mercier, ARYMÉ and Apache. Next up: Knockdown Center, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Knockdown Center | New York City |
 | Sat, 5 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ CISUMMI is an afro house and house artist based in France, tracked on soundcheck
 
 Francis Mercier, ARYMÉ, Apache
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cisummi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cisummi/)*

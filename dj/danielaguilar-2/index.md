@@ -1,6 +1,6 @@
 # Daniel Aguilar (2)
 
-Daniel Aguilar (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Terrrazza, Barcelona on Thu, 10 Sept 2026.
+Daniel Aguilar (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Terrrazza, Barcelona on Thu, 10 Sept 2026.
 
 Daniel Aguilar (2) is a tech house and house artist tracked on soundcheck, with 16 sets logged across Barcelona and Hongkong. Often billed alongside MøønkiZa, EVES DJ and Miguel Bastida. Next up: La Terrrazza, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Daniel Aguilar (2) is a tech house and house artist tracked on soundcheck, with 
 
 MøønkiZa, EVES DJ, Miguel Bastida
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielaguilar-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielaguilar-2/)*

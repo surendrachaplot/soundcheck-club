@@ -1,6 +1,6 @@
 # Basement (Amsterdam)
 
-Basement (Amsterdam) is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hot Meal pres. Mija Invites" on Fri, 23 Oct 2026.
+Basement (Amsterdam) is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Hot Meal pres. Mija Invites" on Fri, 23 Oct 2026.
 
 Basement (Amsterdam) is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including camoufly, Dr. G and Mija. Browse upcoming dates, start times and who's playing. 19 Leidseplein, Amsterdam, 1017 PS, Netherlands.
 
@@ -14,4 +14,4 @@ Basement (Amsterdam) is a music venue in Amsterdam listed on soundcheck. 1 upcom
 
 19 Leidseplein, Amsterdam, 1017 PS, Netherlands, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/basement-amsterdam/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/basement-amsterdam/)*

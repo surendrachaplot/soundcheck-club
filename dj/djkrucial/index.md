@@ -1,6 +1,6 @@
 # djkrucial
 
-djkrucial is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - N Honore & N Milwaukee, Chicago on Sun, 30 Aug 2026.
+djkrucial is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - N Honore & N Milwaukee, Chicago on Sun, 30 Aug 2026.
 
 djkrucial is an electro and techno artist tracked on soundcheck, with 4 sets logged across Chicago. Often billed alongside Justindemus and RMM (1). Next up: TBA - N Honore & N Milwaukee, Chicago on Sun 30 Aug.
 
@@ -20,4 +20,4 @@ djkrucial is an electro and techno artist tracked on soundcheck, with 4 sets log
 
 Justindemus, RMM (1)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrucial/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrucial/)*

@@ -1,6 +1,6 @@
 # UNER
 
-UNER is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bridge 48, Barcelona on Fri, 4 Sept 2026.
+UNER is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bridge 48, Barcelona on Fri, 4 Sept 2026.
 
 UNER is a house and techno artist tracked on soundcheck, with 12 sets logged across Barcelona and Madrid. Often billed alongside Sergio Bifeis, David Ponziano and GIVIO. Next up: Bridge 48, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ UNER is a house and techno artist tracked on soundcheck, with 12 sets logged acr
 
 Sergio Bifeis, David Ponziano, GIVIO
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uner/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uner/)*

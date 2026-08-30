@@ -1,6 +1,6 @@
 # Vanco
 
-Vanco is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Cavo Paradiso, Mykonos on Sun, 30 Aug 2026.
+Vanco is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Cavo Paradiso, Mykonos on Sun, 30 Aug 2026.
 
 Vanco is an afro house and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Bali and Berlin and 14 more. Often billed alongside Sef Kombo, 2fox and AMÉMÉ. Next up: Cavo Paradiso, Mykonos on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Vanco is an afro house and house artist tracked on soundcheck, with 35 sets logg
 
 Sef Kombo, 2fox, AMÉMÉ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanco/)*

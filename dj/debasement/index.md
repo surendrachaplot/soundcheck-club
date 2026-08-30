@@ -1,8 +1,8 @@
 # deBasement
 
-deBasement is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+deBasement is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-deBasement is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: Southwark Park, London on Sun 30 Aug.
+deBasement is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ deBasement is a techno and house artist tracked on soundcheck, with 35 sets logg
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 5 Sept 2026 | Botanique | Brussels |
+| Sat, 21 Nov 2026 | The Warfield | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 35 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

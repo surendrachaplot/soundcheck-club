@@ -1,6 +1,6 @@
 # O2 Academy
 
-O2 Academy is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "PRTY x HSSH: KLOFAMA [All Night Long]" on Fri, 4 Sept 2026.
+O2 Academy is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "PRTY x HSSH: KLOFAMA [All Night Long]" on Fri, 4 Sept 2026.
 
 O2 Academy is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including Chicane, Fergie, John O'Callaghan and Judge Jules and 2 more. Browse upcoming dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ O2 Academy is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, 
 
 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*

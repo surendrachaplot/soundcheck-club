@@ -1,8 +1,8 @@
 # Andy Moor
 
-Andy Moor is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Basing House, London on Sat, 31 Oct 2026.
+Andy Moor is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Basing House, London on Sat, 31 Oct 2026.
 
-Andy Moor is a progressive house and trance artist tracked on soundcheck, with 12 sets logged across Budapest, Denver, Liverpool and London and 8 more. Often billed alongside Amy Wiles, Billy Gillies and Lange. Next up: Basing House, London on Sat 31 Oct.
+Andy Moor is a trance and progressive house artist tracked on soundcheck, with 13 sets logged across Budapest, Denver, Liverpool and London and 8 more. Often billed alongside Billy Gillies, Amy Wiles and Lange. Next up: Basing House, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Andy Moor is a progressive house and trance artist tracked on soundcheck, with 1
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Basing House | London |
 | Sat, 7 Nov 2026 | Grand Central Hall | Liverpool |
+| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Andy Moor is a progressive house and trance artist tracked on soundcheck, with 1
 
 ## Shares bills with
 
-Amy Wiles, Billy Gillies, Lange
+Billy Gillies, Amy Wiles, Lange
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymoor/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andymoor/)*

@@ -1,6 +1,6 @@
 # DJ Kobieta
 
-DJ Kobieta is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
+DJ Kobieta is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
 
 DJ Kobieta is a latin bass and baile funk artist based in Poland, tracked on soundcheck, with 9 sets logged across Berlin and Warsaw. Often billed alongside KarateKnur, Adobo (PL) and Fourth World Music. Next up: K-Bar Powiśle, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Kobieta is a latin bass and baile funk artist based in Poland, tracked on sou
 
 KarateKnur, Adobo (PL), Fourth World Music
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkobieta/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkobieta/)*

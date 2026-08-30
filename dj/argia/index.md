@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Umoya, Naples on Sun, 13 Sept 2026.
+Argia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Umoya, Naples on Sun, 13 Sept 2026.
 
 Argia is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Âme, Alican and Manu Strasse. Next up: Umoya, Naples on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Argia is a techno and house artist tracked on soundcheck, with 67 sets logged ac
 
 Âme, Alican, Manu Strasse
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

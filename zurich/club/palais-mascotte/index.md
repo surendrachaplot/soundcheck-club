@@ -1,14 +1,13 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "TOY TONICS: Cody Currie Stump Valley" on Sat, 29 Aug 2026.
+Palais Mascotte is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Kiki x Palais Mascotte: Day into Night" on Sat, 12 Sept 2026.
 
-Palais Mascotte is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including Cody Currie, Kirollus, Lea Lisa and Sam Ruffillo and 1 more. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
+Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Kirollus, Lea Lisa and Sam Ruffillo. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TOY TONICS: Cody Currie Stump Valley | Cody Currie, Stump Valley |
 | Sat, 12 Sept 2026 | Kiki x Palais Mascotte: Day into Night |  |
 | Fri, 18 Sept 2026 | TOY TONICS: Sam Ruffillo CLEEEO | Sam Ruffillo |
 | Fri, 25 Sept 2026 | Kirollus (ATA Records) Lea Lisa KRESHNIK | Kirollus, Lea Lisa |
@@ -17,4 +16,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 4 upcoming nigh
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

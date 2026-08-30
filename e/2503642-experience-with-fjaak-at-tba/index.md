@@ -1,6 +1,6 @@
 # Experience with FJAAK at TBA
 
-Experience with FJAAK at TBA on Thu 24 Sept, Boston. 1 act on the bill: FJAAK. Techno and Acid. Preview the line-up and save it on soundcheck.
+Experience with FJAAK at TBA on Thu 24 Sept, Boston. 4 acts on the bill: Elizabëth, FJAAK, Lufer and The Consciousness. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Experience with FJAAK at TBA on Thu 24 Sept, Boston. 1 act on the bill: FJAAK. T
 
 ## Line-up
 
+- Elizabëth
 - FJAAK
+- Lufer
+- The Consciousness
 
 *Source: [soundcheck](https://soundcheck.club/e/2503642-experience-with-fjaak-at-tba/)*

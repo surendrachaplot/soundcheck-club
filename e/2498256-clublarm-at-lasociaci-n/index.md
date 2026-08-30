@@ -1,6 +1,6 @@
 # CLUBLARM at Lasociaciøn
 
-CLUBLARM at Lasociaciøn on Sat 12 Sept, Madrid. 4 acts on the bill: ADRI.G, Greick Jhøzsu, MAL_HOMBRE and Oscar Blue. Techno and Bass. Preview the line-up and save it on soundcheck.
+CLUBLARM at Lasociaciøn on Sat 12 Sept, Madrid. 4 acts on the bill: ADRI.G, Greick Jhøzsu, MAL_HOMBRE and Oscar Blue. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

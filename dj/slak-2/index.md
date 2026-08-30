@@ -1,6 +1,6 @@
 # Slak
 
-Slak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Madame Claude, Berlin on Fri, 11 Sept 2026.
+Slak is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Madame Claude, Berlin on Fri, 11 Sept 2026.
 
 Slak is a techno and house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Milan. Often billed alongside Stephanie Sykes, Angioma and Esther Dune. Next up: Madame Claude, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Slak is a techno and house artist tracked on soundcheck, with 17 sets logged acr
 
 Stephanie Sykes, Angioma, Esther Dune
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slak-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slak-2/)*

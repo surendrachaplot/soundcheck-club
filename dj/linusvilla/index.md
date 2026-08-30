@@ -1,6 +1,6 @@
 # Linus Villa
 
-Linus Villa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
+Linus Villa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at OXI, Berlin on Sun, 30 Aug 2026.
 
 Linus Villa is a techno and trance artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Ben Derris, CMK (DE) and DJ SPORTSCHUH. Next up: OXI, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Linus Villa is a techno and trance artist based in Germany, tracked on soundchec
 
 Ben Derris, CMK (DE), DJ SPORTSCHUH
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linusvilla/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linusvilla/)*

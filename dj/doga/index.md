@@ -1,6 +1,6 @@
 # Doga
 
-Doga is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Doga is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 Doga is a minimal techno and techno artist tracked on soundcheck, with 15 sets logged across Istanbul and Warsaw. Often billed alongside Zero_null, Yaris and Mohji. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Doga is a minimal techno and techno artist tracked on soundcheck, with 15 sets l
 
 Zero_null, Yaris, Mohji
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doga/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doga/)*

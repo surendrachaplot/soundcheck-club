@@ -1,6 +1,6 @@
 # Messes Basses
 
-Messes Basses is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Brasserie Gallia, Paris on Fri, 4 Sept 2026.
+Messes Basses is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Brasserie Gallia, Paris on Fri, 4 Sept 2026.
 
 Messes Basses is a house and techno artist based in France, tracked on soundcheck, with 41 sets logged across Paris and Saopaulo. Often billed alongside Alyhas, Mézigue and AA/XX. Next up: Brasserie Gallia, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Messes Basses is a house and techno artist based in France, tracked on soundchec
 
 Alyhas, Mézigue, AA/XX
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/messesbasses/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/messesbasses/)*

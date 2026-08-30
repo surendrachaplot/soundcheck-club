@@ -1,6 +1,6 @@
 # Henry Brooks
 
-Henry Brooks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
+Henry Brooks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
 
 Henry Brooks is a techno and house artist based in United States of America, tracked on soundcheck, with 48 sets logged across Berlin, Boston, Chicago and Denver and 8 more. Often billed alongside DJ I.V., The AM/AMX and Rebecca Goldberg. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Henry Brooks is a techno and house artist based in United States of America, tra
 
 DJ I.V., The AM/AMX, Rebecca Goldberg
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybrooks/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrybrooks/)*

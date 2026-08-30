@@ -1,6 +1,6 @@
 # Lastvuska
 
-Lastvuska is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
+Lastvuska is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
 
 Lastvuska is a techno and trance artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 13 more. Often billed alongside Jolly (FR), Maryu and HORS-SOL. Next up: Le Trabendo, Paris on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Lastvuska is a techno and trance artist tracked on soundcheck, with 83 sets logg
 
 Jolly (FR), Maryu, HORS-SOL
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lastvuska/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lastvuska/)*

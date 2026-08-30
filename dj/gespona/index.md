@@ -1,6 +1,6 @@
 # Gespona
 
-Gespona is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
+Gespona is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kafes x Milo, Istanbul on Sat, 29 Aug 2026.
 
 Gespona is a progressive house and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 13 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Kafes x Milo, Istanbul on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ Gespona is a progressive house and house artist tracked on soundcheck, with 104 
 
 ## Recently played
 
+- Kafes x Milo, Istanbul — Sat, 29 Aug 2026
 - Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
 - Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
 - Bikini Club, Barcelona — Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Gespona is a progressive house and house artist tracked on soundcheck, with 104 
 - Silencio, Paris — Sat, 4 Jul 2026
 - G Spot Club, Barcelona — Sat, 20 Jun 2026
 - Bikini Club, Barcelona — Thu, 18 Jun 2026
-- Bikini Club, Barcelona — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Amadori, Djolee, Martin Cozar
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gespona/)*

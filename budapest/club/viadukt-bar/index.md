@@ -1,14 +1,13 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Øpus presents: Full House" on Sat, 29 Aug 2026.
+Viadukt Bar is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Jazzelünk" on Sun, 30 Aug 2026.
 
-Viadukt Bar is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Daniel Meister, Derek (2), Electric Boutique and Falcao and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
+Viadukt Bar is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Daniel Meister, Falcao, Nicolas Duvoisin and Octile and 1 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Øpus presents: Full House | Derek (2), Electric Boutique, Oliver SCH |
 | Sun, 30 Aug 2026 | Jazzelünk |  |
 | Tue, 1 Sept 2026 | Open Mic + KulcsKollektív + Szívós Kristóf + Usakov |  |
 | Wed, 2 Sept 2026 | Deley Sound System |  |
@@ -19,4 +18,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 6 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

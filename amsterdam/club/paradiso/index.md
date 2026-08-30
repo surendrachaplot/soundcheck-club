@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Digging Deep into House" on Sat, 29 Aug 2026.
+Paradiso is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "From the Floor to the Decks - Hiphop special" on Sun, 30 Aug 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including AAT (NL), Answer Code Request, Artefakt and Because of Art and 2 more. Browse upcoming dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -8,7 +8,6 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Digging Deep into House | Fred P, KC The Funkaholic, Nutty Nys |
 | Sun, 30 Aug 2026 | From the Floor to the Decks - Hiphop special | WaxFiend |
 | Fri, 4 Sept 2026 | The Midnight Project | Sebastiaan Hooft |
 | Fri, 4 Sept 2026 | The Patchwork Family 5 Year Anniversary | DJ Europarking, Melis Köke, Slimfit, YoungWoman |
@@ -18,9 +17,10 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights,
 | Wed, 21 Oct 2026 | MALUGI - ADE | MALUGI |
 | Wed, 21 Oct 2026 | DJ Snake - ADE | DJ Snake |
 | Thu, 22 Oct 2026 | State OFFF // ADE | State OFFF |
+| Thu, 22 Oct 2026 | Lawrence Hart - ADE | Lawrence Hart |
 
 ## Address
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

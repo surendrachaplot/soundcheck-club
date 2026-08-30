@@ -1,15 +1,14 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Nacktfleisch - Berlin Queer Summer Open Air August 2026" on Sat, 29 Aug 2026.
+ÆDEN is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Floating Over - ÆDEN/ŒL Garten" on Wed, 2 Sept 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Aaron Blau, Acierate, Andrew Moore and August Kind and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including Aaron Blau, Acierate, August Kind and Bae Blade and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Nacktfleisch - Berlin Queer Summer Open Air August 2026 | Andrew Moore, Cristian Marras, DJ PERIODT |
-| Sat, 29 Aug 2026 | ＬＩＬＩＴＨ ✦ ECHOES OF GEORGIA ✦10€ PRE-SALE | CSILLA, DTSDJ (4), Daviti, Dtsdj, James Cherry, Maris Shilton, UniKhatu |
+| Wed, 2 Sept 2026 | Floating Over - ÆDEN/ŒL Garten | Nayoo |
 | Thu, 3 Sept 2026 | Soundhall | Blosvenn, DMZ (DE), Genghis C_nt, K1000o, PW DISTORTION, Philena, Pylerinstinct1, Redondoo, Yiye, wisje |
 | Fri, 4 Sept 2026 | Cuddles: VIRGO SEASON | Aaron Blau, Chico Blanco, Katy De Jesus, MCMLXXXV, Sterling Juan Diaz, Vani Vachi, Verushka, puppy |
 | Sat, 5 Sept 2026 | SAME FLOOR | Dj Andi, Randali, Vero |
@@ -18,9 +17,10 @@
 | Sat, 19 Sept 2026 | Sachsentrance |  |
 | Sun, 20 Sept 2026 | Sunday Service by schnellschwimmer |  |
 | Thu, 24 Sept 2026 | Fornax Collective at ÆDEN | BLØEM, Cosmic, E2NMN, Kashpitzky, MINNIEMEN, Mathys Lenne |
+| Sat, 26 Sept 2026 | OBSCURA x STAY TOXIC [FREE ENTRY*] |  |
 
 ## Address
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

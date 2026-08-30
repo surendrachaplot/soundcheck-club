@@ -1,6 +1,6 @@
 # BUNGEE × MICRONOVA DAY&NIGHT + OPEN-AIR CREATIVE MARKET at Village Underground Lisboa
 
-BUNGEE × MICRONOVA DAY&NIGHT + OPEN-AIR CREATIVE MARKET at Village Underground Lisboa on Fri 11 Sept, Lisbon. 5 acts on the bill: Francisca Urbano, Kee_ko, Octo and Rui Alves and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+BUNGEE × MICRONOVA DAY&NIGHT + OPEN-AIR CREATIVE MARKET at Village Underground Lisboa on Fri 11 Sept, Lisbon. 6 acts on the bill: Bilal, Francisca Urbano, Kee_ko and Octo and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BUNGEE × MICRONOVA DAY&NIGHT + OPEN-AIR CREATIVE MARKET at Village Underground 
 
 ## Line-up
 
+- Bilal
 - Francisca Urbano
 - Kee_ko
 - Octo

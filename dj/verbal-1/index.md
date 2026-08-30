@@ -1,6 +1,6 @@
 # Verbal (1)
 
-Verbal (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
+Verbal (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
 
 Verbal (1) is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin and Tbilisi. Often billed alongside ATEQ, Aa:ron and BEQA. Next up: Bassiani, Tbilisi on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Verbal (1) is a house and techno artist tracked on soundcheck, with 9 sets logge
 
 ATEQ, Aa:ron, BEQA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verbal-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/verbal-1/)*

@@ -1,14 +1,13 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DEMORAVE AFTERSHOW" on Sat, 29 Aug 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bunker Season Opening with dasstudach & ANDATA" on Fri, 4 Sept 2026.
 
-Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including AH-N!CE, Aiden (DE), ANDATA and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
+Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 11 upcoming nights, with line-ups including Aiden (DE), ANDATA, BNZN and Charleen Herzig and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | DEMORAVE AFTERSHOW | AH-N!CE, LUGIÆ, Lucinee, Mischa, Navid Asadi (DE), RIA (DE), Sophie Cut |
 | Fri, 4 Sept 2026 | Bunker Season Opening with dasstudach & ANDATA | ANDATA, Invaria, TWOFACEDKIMMY, dasstudach |
 | Fri, 11 Sept 2026 | VER pres. davyboi, Charleen Herzig, DJ Pinky Promise,  MOVE TO GROOVE COLLECTIVE uvm | Charleen Herzig, KENZ, Suay Aenna, dannycookin, davyboi, djcob, unjani |
 | Fri, 25 Sept 2026 | Liquicity Hamburg 2026 | Eightball, Lexurus, Maduk, Pola & Bryson |
@@ -18,9 +17,10 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcomin
 | Fri, 9 Oct 2026 | polyamor | BNZN, Cleopard2000, Elotrance, Mika Heggemann, SATYS FYRE |
 | Sat, 10 Oct 2026 | Innerblum with Karla Blum, Levt, Mha iri | Karla Blum, Levt, Mha iri |
 | Fri, 13 Nov 2026 | 23:59 One Night with Felix Kröcher - 4h Set | Felix Kröcher |
+| Sat, 14 Nov 2026 | Oliver Schories All Night Long | Oliver Schories |
 
 ## Address
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

@@ -1,6 +1,6 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "INFERNO: The Red Summer" on Sat, 29 Aug 2026.
+Distillery N17 is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "LSD presents Techno & Hard Groove with Special guest" on Sun, 30 Aug 2026.
 
 Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including 69DB, Acerbic, Acid Steve and Adam Pits and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
@@ -8,7 +8,6 @@ Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | INFERNO: The Red Summer |  |
 | Sun, 30 Aug 2026 | LSD presents Techno & Hard Groove with Special guest | Alba Heidari, Cirkle, Devil's Daughter, Gridlock, Lezcano, SBBS |
 | Fri, 4 Sept 2026 | Roots On The Corner #44. Shere Khan Sound System meets Jah Messenjah Sound System | Shere Khan |
 | Sat, 5 Sept 2026 | Twilight Zone IV • Rafyx, Anchronorium • London | Freetech, Kling |
@@ -18,9 +17,10 @@ Distillery N17 is a music venue in London listed on soundcheck. 15 upcoming nigh
 | Sat, 19 Sept 2026 | Unmasked presents SP23 Rave - London | 69DB, Ixindamix, Madtronik, SP23 |
 | Fri, 25 Sept 2026 | Hartronika | Engineer (Live), Jarvis Bitcoin, Johana, LIZAZA, SIIIO, Tina Technotic, Yukari |
 | Sat, 26 Sept 2026 | INFERNO: The Red Summer |  |
+| Sat, 3 Oct 2026 | SAD | DJ Sarah Bonito, Dougal, Hang The DJs, Peggy Viennetta, Sharkey (1), Slayphex Twins |
 
 ## Address
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

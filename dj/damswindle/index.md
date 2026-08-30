@@ -1,14 +1,13 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Radio Radio, Amsterdam on Sat, 29 Aug 2026.
+Dam Swindle is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
 
-Dam Swindle is a house and disco artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Radio Radio, Amsterdam on Sat 29 Aug.
+Dam Swindle is a house and disco artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: House of Yes, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Radio Radio | Amsterdam |
 | Sat, 5 Sept 2026 | House of Yes | New York City |
 | Tue, 15 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 18 Sept 2026 | BRET | Amsterdam |
@@ -20,6 +19,7 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 182 sets log
 
 ## Recently played
 
+- Radio Radio, Amsterdam — Sat, 29 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 28 Aug 2026
 - FS., Tokyo — Sat, 22 Aug 2026
 - FS., Tokyo — Sat, 22 Aug 2026
@@ -27,10 +27,9 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 182 sets log
 - Lofi, Amsterdam — Sat, 25 Jul 2026
 - SISSI'S Amsterdam, Amsterdam — Fri, 17 Jul 2026
 - Moonfield, Antwerp — Fri, 10 Jul 2026
-- Cova Santa, Ibiza — Tue, 7 Jul 2026
 
 ## Shares bills with
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

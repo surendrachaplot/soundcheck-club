@@ -1,14 +1,13 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hangaren, Copenhagen on Thu, 27 Aug 2026.
+Amelie Lens is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KMSKA, Antwerp on Sat, 5 Sept 2026.
 
-Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: Hangaren, Copenhagen on Thu 27 Aug.
+Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Austin and 55 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: KMSKA, Antwerp on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | Hangaren | Copenhagen |
 | Sat, 5 Sept 2026 | KMSKA | Antwerp |
 | Tue, 8 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 19 Sept 2026 | Reelworks Denver | Denver |
@@ -31,4 +30,4 @@ Amelie Lens is a techno and house artist tracked on soundcheck, with 141 sets lo
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

@@ -1,18 +1,18 @@
 # Ligrye
 
-Ligrye is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Glow & Zalz, Seoul on Sat, 29 Aug 2026.
+Ligrye is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cakeshop, Seoul on Fri, 4 Sept 2026.
 
-Ligrye is a house and techno artist based in South Africa, tracked on soundcheck, with 134 sets logged across Bangkok, Hongkong, Seoul and Shenzhen and 1 more. Often billed alongside NET GALA, DJ Co.kr and FAKEDEEPLEE. Next up: Glow & Zalz, Seoul on Sat 29 Aug.
+Ligrye is a house and techno artist based in South Africa, tracked on soundcheck, with 134 sets logged across Bangkok, Hongkong, Seoul and Shenzhen and 1 more. Often billed alongside NET GALA, DJ Co.kr and FAKEDEEPLEE. Next up: Cakeshop, Seoul on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Glow & Zalz | Seoul |
 | Fri, 4 Sept 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
+- Glow & Zalz, Seoul — Sat, 29 Aug 2026
 - Cakeshop, Seoul — Sat, 15 Aug 2026
 - Bolero, Seoul — Fri, 7 Aug 2026
 - Kockiri, Seoul — Thu, 30 Jul 2026
@@ -20,10 +20,9 @@ Ligrye is a house and techno artist based in South Africa, tracked on soundcheck
 - Cakeshop, Seoul — Fri, 17 Jul 2026
 - Soap Seoul., Seoul — Fri, 3 Jul 2026
 - Cakeshop, Seoul — Sat, 20 Jun 2026
-- TBA, Seoul — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 NET GALA, DJ Co.kr, FAKEDEEPLEE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*

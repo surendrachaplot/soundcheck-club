@@ -1,6 +1,6 @@
 # Oho.
 
-Oho. is a Minimal Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at teller, Seoul on Sun, 30 Aug 2026.
+Oho. is a Minimal Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at teller, Seoul on Sun, 30 Aug 2026.
 
 Oho. is a minimal techno and tech house artist based in South Korea, tracked on soundcheck, with 60 sets logged across Barcelona, London and Seoul. Often billed alongside Lyumin, Krijka and Young Sun. Next up: teller, Seoul on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Oho. is a minimal techno and tech house artist based in South Korea, tracked on 
 
 Lyumin, Krijka, Young Sun
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oho-sk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oho-sk/)*

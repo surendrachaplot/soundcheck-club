@@ -1,6 +1,6 @@
 # FAUX
 
-FAUX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
+FAUX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
 
 FAUX is a techno and house artist tracked on soundcheck, with 39 sets logged across Belfast, Berlin, Hamburg and London and 6 more. Often billed alongside Faux Majeure, AKIIM and Faux Arab. Next up: Hafenklang, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ FAUX is a techno and house artist tracked on soundcheck, with 39 sets logged acr
 
 Faux Majeure, AKIIM, Faux Arab
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faux/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faux/)*

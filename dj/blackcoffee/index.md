@@ -1,14 +1,13 @@
 # Black Coffee
 
-Black Coffee is a Afro House and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 29 Aug 2026.
+Black Coffee is a Afro House and House artist with 19 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hï Ibiza, Ibiza on Sat, 5 Sept 2026.
 
-Black Coffee is an afro house and house artist tracked on soundcheck, with 280 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Hï Ibiza, Ibiza on Sat 29 Aug.
+Black Coffee is an afro house and house artist tracked on soundcheck, with 280 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Hï Ibiza, Ibiza on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Hï Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | Pacha New York | New York City |
 | Sun, 6 Sept 2026 | Pacha New York | New York City |
@@ -20,9 +19,11 @@ Black Coffee is an afro house and house artist tracked on soundcheck, with 280 s
 | Sat, 19 Sept 2026 | Hï Ibiza | Ibiza |
 | Tue, 22 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 25 Sept 2026 | TBA | Istanbul |
+| Sat, 26 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Sat, 29 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 22 Aug 2026
 - Void Mykonos, Mykonos — Thu, 20 Aug 2026
 - Santanna Mykonos, Mykonos — Mon, 17 Aug 2026
@@ -30,10 +31,9 @@ Black Coffee is an afro house and house artist tracked on soundcheck, with 280 s
 - Hï Ibiza, Ibiza — Sat, 15 Aug 2026
 - Santanna Mykonos, Mykonos — Mon, 10 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 8 Aug 2026
-- Santanna Mykonos, Mykonos — Mon, 3 Aug 2026
 
 ## Shares bills with
 
 Damian Lazarus, Paul Reynolds, Skepta
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*

@@ -1,6 +1,6 @@
 # Ari Denaro
 
-Ari Denaro is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at KitKatClub, Berlin on Thu, 10 Sept 2026.
+Ari Denaro is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Thu, 10 Sept 2026.
 
 Ari Denaro is a techno and psytrance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Anubix, Bisk and Epicx. Next up: KitKatClub, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Ari Denaro is a techno and psytrance artist based in Germany, tracked on soundch
 
 Anubix, Bisk, Epicx
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aridenaro/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aridenaro/)*

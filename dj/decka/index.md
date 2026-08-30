@@ -1,6 +1,6 @@
 # Decka
 
-Decka is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+Decka is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
 
 Decka is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Barcelona, Belgrade, Berlin and Birmingham and 11 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ Decka is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Sat, 29 Aug 2026
 - Tresor / Globus, Berlin — Fri, 24 Jul 2026
 - The Bassement, Madrid — Fri, 3 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
@@ -20,10 +21,9 @@ Decka is a techno and bass artist based in United Kingdom, tracked on soundcheck
 - Rote Sonne, Munich — Fri, 13 Mar 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 31 Jan 2026
 - Baalsaal, Hamburg — Sat, 13 Dec 2025
-- NEO CLUB ROMA, Rome — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

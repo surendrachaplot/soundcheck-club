@@ -1,13 +1,14 @@
 # Hannah Diamond
 
-Hannah Diamond is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Hannah Diamond is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Sala El Sol, Madrid on Fri, 18 Sept 2026.
 
-Hannah Diamond is a pop and club artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside THELIMITDOESNOTEXIST, Doss and JUMER. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+Hannah Diamond is a pop and club artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside THELIMITDOESNOTEXIST, Doss and JUMER. Next up: Sala El Sol, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Sala El Sol | Madrid |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hannah Diamond is a pop and club artist based in United Kingdom, tracked on soun
 
 THELIMITDOESNOTEXIST, Doss, JUMER
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahdiamond/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahdiamond/)*

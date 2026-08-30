@@ -1,6 +1,6 @@
 # Deseo BS AS
 
-Deseo BS AS is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "SOLAR" on Sun, 6 Sept 2026.
+Deseo BS AS is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "SOLAR" on Sun, 6 Sept 2026.
 
 Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Nebula (AR) and Pabels. Browse upcoming dates, start times and who's playing. Av. Chorroarín 1040, C1427CXU, Buenos Aires.
 
@@ -14,4 +14,4 @@ Deseo BS AS is a music venue in Buenosaires listed on soundcheck. 1 upcoming nig
 
 Av. Chorroarín 1040, C1427CXU, Buenos Aires, Buenos Aires
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/deseo-bs-as/)*

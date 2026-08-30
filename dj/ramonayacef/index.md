@@ -1,6 +1,6 @@
 # Ramona Yacef
 
-Ramona Yacef is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Auber Garden, Paris on Fri, 11 Sept 2026.
+Ramona Yacef is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Auber Garden, Paris on Fri, 11 Sept 2026.
 
 Ramona Yacef is a house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Geneva and Ibiza and 4 more. Often billed alongside Chica Paula, Dandy Jack and Francesco Nikolai. Next up: Auber Garden, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ramona Yacef is a house and minimal artist tracked on soundcheck, with 32 sets l
 
 Chica Paula, Dandy Jack, Francesco Nikolai
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonayacef/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonayacef/)*

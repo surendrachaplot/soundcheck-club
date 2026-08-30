@@ -1,6 +1,6 @@
 # Suave
 
-Suave is a Classical and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tonal, Mexico City on Wed, 26 Aug 2026.
+Suave is a Classical and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tonal, Mexico City on Wed, 26 Aug 2026.
 
 Suave is a classical and electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Berlin, London, Mexicocity and Paris and 1 more. Often billed alongside Arman Shadow, SOFT (2) and ANDATA. Next up: Tonal, Mexicocity on Wed 26 Aug.
 
@@ -25,4 +25,4 @@ Suave is a classical and electronica artist based in Spain, tracked on soundchec
 
 Arman Shadow, SOFT (2), ANDATA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suave/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suave/)*

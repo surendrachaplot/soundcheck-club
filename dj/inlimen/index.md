@@ -1,6 +1,6 @@
 # INLIMEN
 
-INLIMEN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kazimier Stockroom, Liverpool on Sun, 30 Aug 2026.
+INLIMEN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kazimier Stockroom, Liverpool on Sun, 30 Aug 2026.
 
 INLIMEN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Birmingham, Glasgow and Leeds and 8 more. Often billed alongside Arkane, Danny Roach and Mold Boutique. Next up: Kazimier Stockroom, Liverpool on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ INLIMEN is a techno and house artist based in United Kingdom, tracked on soundch
 
 Arkane, Danny Roach, Mold Boutique
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*

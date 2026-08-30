@@ -1,6 +1,6 @@
 # Nundale
 
-Nundale is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Studio1111, Berlin on Sat, 5 Sept 2026.
+Nundale is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Studio1111, Berlin on Sat, 5 Sept 2026.
 
 Nundale is an experimental and electronica artist tracked on soundcheck, with 4 sets logged across Berlin and Portland. Often billed alongside Enzo, Exan and Family Trust. Next up: Studio1111, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Nundale is an experimental and electronica artist tracked on soundcheck, with 4 
 
 Enzo, Exan, Family Trust
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nundale/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nundale/)*

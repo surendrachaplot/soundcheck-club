@@ -1,6 +1,6 @@
 # JDH & Dave P
 
-JDH & Dave P is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Good Room, New York City on Sat, 24 Oct 2026.
+JDH & Dave P is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Good Room, New York City on Sat, 24 Oct 2026.
 
 JDH & Dave P are a techno and house duo based in United States of America, tracked on soundcheck, with 44 sets logged across Austin and Newyorkcity. Often billed alongside Alex McCracken, Cosmo (NY) and Earth Beat. Next up: Good Room, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ JDH & Dave P are a techno and house duo based in United States of America, track
 
 Alex McCracken, Cosmo (NY), Earth Beat
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdhdavep/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jdhdavep/)*

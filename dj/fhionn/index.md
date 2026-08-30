@@ -1,6 +1,6 @@
 # Fhionn
 
-Fhionn is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
+Fhionn is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Renate, Berlin on Thu, 10 Sept 2026.
 
 Fhionn is a progressive house and trance artist tracked on soundcheck, with 27 sets logged across Berlin and Dublin. Often billed alongside Cashper, Aidan and Asa Tate. Next up: Renate, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Fhionn is a progressive house and trance artist tracked on soundcheck, with 27 s
 
 Cashper, Aidan, Asa Tate
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fhionn/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fhionn/)*

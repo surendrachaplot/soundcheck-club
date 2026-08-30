@@ -1,8 +1,8 @@
 # Layton Giordani
 
-Layton Giordani is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
+Layton Giordani is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
 
-Layton Giordani is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Adam Beyer, Green Velvet and John Summit. Next up: TBA, Toronto on Sat 5 Sept.
+Layton Giordani is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Adam Beyer, Green Velvet and John Summit. Next up: TBA, Toronto on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,9 +10,11 @@ Layton Giordani is a techno and house artist tracked on soundcheck, with 116 set
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Toronto |
 | Fri, 18 Sept 2026 | TBA - Crobar Club, Palermo | Buenos Aires |
+| Fri, 18 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Sat, 14 Nov 2026 | Russell Industrial Center | Detroit |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Layton Giordani is a techno and house artist tracked on soundcheck, with 116 set
 
 Adam Beyer, Green Velvet, John Summit
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laytongiordani/)*

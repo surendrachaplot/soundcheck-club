@@ -1,18 +1,18 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Virage, Paris on Sat, 29 Aug 2026.
+Tour-Maubourg is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sala Villanos, Madrid on Sat, 3 Oct 2026.
 
-Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Virage, Paris on Sat 29 Aug.
+Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Sala Villanos, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Virage | Paris |
 | Sat, 3 Oct 2026 | Sala Villanos | Madrid |
 
 ## Recently played
 
+- Virage, Paris — Sat, 29 Aug 2026
 - La Cité Fertile, Paris — Fri, 31 Jul 2026
 - Else, Berlin — Sun, 12 Jul 2026
 - Rex Club, Paris — Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ Tour-Maubourg is a house and disco artist tracked on soundcheck, with 57 sets lo
 - Goya Social Club, Madrid — Fri, 13 Mar 2026
 - Prince Charles, Berlin — Wed, 31 Dec 2025
 - Karmakoma, Belgrade — Fri, 26 Dec 2025
-- Paramour, Brussels — Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

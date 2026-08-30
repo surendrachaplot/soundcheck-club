@@ -1,6 +1,6 @@
 # EUPHORIA pres. Surrender Discipline at Piękny Pies
 
-EUPHORIA pres. Surrender Discipline at Piękny Pies on Sat 19 Sept, Krakow. 3 acts on the bill: Grzechu Warty, Matt Rudnicki and Surrender Discipline. Acid and Electronica. Preview the line-up and save it on soundcheck.
+EUPHORIA pres. Surrender Discipline at Piękny Pies on Sat 19 Sept, Krakow. 4 acts on the bill: dj_meister, Grzechu Warty, Matt Rudnicki and Surrender Discipline. Acid and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ EUPHORIA pres. Surrender Discipline at Piękny Pies on Sat 19 Sept, Krakow. 3 ac
 
 ## Line-up
 
+- dj_meister
 - Grzechu Warty
 - Matt Rudnicki
 - Surrender Discipline

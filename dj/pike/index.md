@@ -1,14 +1,14 @@
 # PIKE
 
-PIKE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at RADION, Amsterdam on Sat, 29 Aug 2026.
+PIKE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
-PIKE is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Roy Lodder, Atnan and ADHDJ (2). Next up: RADION, Amsterdam on Sat 29 Aug.
+PIKE is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Roy Lodder, Atnan and ADHDJ (2). Next up: RADION, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | RADION | Amsterdam |
+| Fri, 2 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ PIKE is a techno and house artist tracked on soundcheck, with 15 sets logged acr
 
 Roy Lodder, Atnan, ADHDJ (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pike/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pike/)*

@@ -1,6 +1,6 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
+Youandewan is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
 
 Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: The Loft, Manchester on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Youandewan is a house and minimal artist based in Germany, tracked on soundcheck
 
 Huerta, Liquid Earth, Truly Madly
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*

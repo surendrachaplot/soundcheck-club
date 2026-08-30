@@ -1,6 +1,6 @@
 # Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes at Grow
 
-Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes at Grow on Sat 21 Nov, London. 1 act on the bill: Tina Edwards. Jazz and Broken Beat. Preview the line-up and save it on soundcheck.
+Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes at Grow on Sat 21 Nov, London. 1 act on the bill: Tina Edwards. Broken Beat and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos" on Fri, 28 Aug 2026.
+://about blank is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "DUALISM WEEKENDER with Sachsentrance, Candyflip, Pfandidos" on Fri, 28 Aug 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and ADB (FR) and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and ADB (FR) and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

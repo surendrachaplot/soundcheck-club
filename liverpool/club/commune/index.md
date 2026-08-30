@@ -1,14 +1,13 @@
 # Commune
 
-Commune is a music venue in Liverpool with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "swim with ranga ft. dada shanti" on Sat, 29 Aug 2026.
+Commune is a music venue in Liverpool with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Cultured Sound" on Sun, 30 Aug 2026.
 
-Commune is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, with line-ups including Jez Thelwell, Lo Five and Love Machine. Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
+Commune is a music venue in Liverpool listed on soundcheck. 6 upcoming nights, with line-ups including Jez Thelwell, Lo Five and Love Machine. Browse upcoming dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | swim with ranga ft. dada shanti |  |
 | Sun, 30 Aug 2026 | Cultured Sound |  |
 | Mon, 31 Aug 2026 | SWITCH TURNS 3 // summer day party |  |
 | Thu, 10 Sept 2026 | Emotion Wave: Roy + Lo Five // B.A.G.S // Jez Thelwell | Jez Thelwell, Lo Five |
@@ -20,4 +19,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 7 upcoming nights, w
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

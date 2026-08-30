@@ -1,14 +1,13 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "THE MAGICK BAR presents: Dario Lem, Carlo Amadori, Hugo Sanchez, Simona Beat, LUPO PECE" on Sat, 29 Aug 2026.
+THE MAGICK BAR is a music venue in Rome with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Er Box with Martek, Neno, Trubba" on Sun, 30 Aug 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 7 upcoming nights, with line-ups including D-Leria, Dario Lem, Donato Dozzy and Franzoh and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 6 upcoming nights, with line-ups including D-Leria, Donato Dozzy, Franzoh and Jimmy Siao and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | THE MAGICK BAR presents: Dario Lem, Carlo Amadori, Hugo Sanchez, Simona Beat, LUPO PECE | Dario Lem, Hugo Sanchez, LUPO PECE, Simona Beat |
 | Sun, 30 Aug 2026 | Er Box with Martek, Neno, Trubba | Martek |
 | Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |
 | Thu, 3 Sept 2026 | Singularity | D-Leria, Kongas, Ritope |
@@ -20,4 +19,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 7 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

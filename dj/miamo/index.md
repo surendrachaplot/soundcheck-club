@@ -1,6 +1,6 @@
 # MIAMO
 
-MIAMO is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+MIAMO is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
 MIAMO is an afro house and tech house artist tracked on soundcheck, with 18 sets logged across Munich. Often billed alongside ALVEZ, Alice DiMar and Amber (NL). Next up: Park Café München, Munich on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ MIAMO is an afro house and tech house artist tracked on soundcheck, with 18 sets
 
 ALVEZ, Alice DiMar, Amber (NL)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miamo/)*

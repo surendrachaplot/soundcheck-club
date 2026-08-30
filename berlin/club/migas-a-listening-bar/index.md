@@ -1,17 +1,26 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Jaxx TMS plays at migas" on Sat, 29 Aug 2026.
+migas, a listening bar is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "MOLØ plays at migas" on Thu, 3 Sept 2026.
 
-migas, a listening bar is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
+migas, a listening bar is a music venue in Berlin listed on soundcheck. 12 upcoming nights. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Jaxx TMS plays at migas |  |
+| Thu, 3 Sept 2026 | MOLØ plays at migas |  |
+| Fri, 4 Sept 2026 | Rabibti à table plays at migas |  |
+| Sat, 5 Sept 2026 | Nano plays at migas |  |
+| Thu, 10 Sept 2026 | Kat.lysa plays at migas |  |
+| Fri, 11 Sept 2026 | Clément Demonsant plays at migas |  |
+| Sat, 12 Sept 2026 | drozd plays at migas |  |
+| Wed, 16 Sept 2026 | Bernhard Hollinger plays at migas |  |
+| Fri, 18 Sept 2026 | Pleasure plays at migas |  |
+| Sat, 19 Sept 2026 | Mulugeta Nerayo plays at migas |  |
+| Thu, 24 Sept 2026 | David August plays at migas |  |
 
 ## Address
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

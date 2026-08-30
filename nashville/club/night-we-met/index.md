@@ -1,14 +1,13 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 23 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Marie Vaunt" on Sat, 29 Aug 2026.
+Night We Met is a music venue in Nashville with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Riot Ranch: Industry Night" on Sun, 30 Aug 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 23 upcoming nights, with line-ups including bradeazy, camoufly, CRi and Cruel Mistress and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 22 upcoming nights, with line-ups including bradeazy, camoufly, CRi and Cruel Mistress and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Marie Vaunt | Marie Vaunt |
 | Sun, 30 Aug 2026 | Riot Ranch: Industry Night |  |
 | Thu, 3 Sept 2026 | VICE CITY |  |
 | Fri, 4 Sept 2026 | Acraze | NESH, SL8R |
@@ -18,9 +17,10 @@ Night We Met is a music venue in Nashville listed on soundcheck. 23 upcoming nig
 | Sat, 12 Sept 2026 | Wax Motif | FENIK, Wax Motif |
 | Fri, 18 Sept 2026 | Main Phase | Cruel Mistress, Main Phase |
 | Sat, 19 Sept 2026 | camoufly | camoufly |
+| Fri, 25 Sept 2026 | CRi | CRi |
 
 ## Address
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

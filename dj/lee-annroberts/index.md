@@ -1,8 +1,8 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
+Lee Ann Roberts is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Spazio Cavea, Rome on Fri, 11 Sept 2026.
 
-Lee Ann Roberts is a techno and acid artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Spazio Cavea, Rome on Fri 11 Sept.
+Lee Ann Roberts is a techno and acid artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Spazio Cavea, Rome on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Lee Ann Roberts is a techno and acid artist tracked on soundcheck, with 152 sets
 | Sat, 12 Sept 2026 | Fabrik | Madrid |
 | Sun, 20 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Lee Ann Roberts is a techno and acid artist tracked on soundcheck, with 152 sets
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

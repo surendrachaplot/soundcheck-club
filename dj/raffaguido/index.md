@@ -1,6 +1,6 @@
 # Raffa Guido
 
-Raffa Guido is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
+Raffa Guido is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
 
 Raffa Guido is a house and afro house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Copenhagen and 13 more. Often billed alongside Bernis, Qazi and SKAI (LT). Next up: Audio Club, Geneva on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Raffa Guido is a house and afro house artist tracked on soundcheck, with 29 sets
 
 Bernis, Qazi, SKAI (LT)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raffaguido/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raffaguido/)*

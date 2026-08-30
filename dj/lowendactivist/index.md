@@ -1,6 +1,6 @@
 # Low End Activist
 
-Low End Activist is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
+Low End Activist is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
 
 Low End Activist is a bass and dub artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Appleblim, DJ Carlita and Demdike Stare. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Low End Activist is a bass and dub artist tracked on soundcheck, with 39 sets lo
 
 Appleblim, DJ Carlita, Demdike Stare
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowendactivist/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowendactivist/)*

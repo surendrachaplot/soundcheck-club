@@ -1,6 +1,6 @@
 # CAMIVINA
 
-CAMIVINA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 27 Sept 2026.
+CAMIVINA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Vittoria Wharf Studio, London on Sun, 27 Sept 2026.
 
 CAMIVINA is a techno and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Warsaw. Often billed alongside Tasman-UK, Belin and Buchan. Next up: Vittoria Wharf Studio, London on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ CAMIVINA is a techno and house artist based in United Kingdom, tracked on soundc
 
 Tasman-UK, Belin, Buchan
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camivina/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camivina/)*

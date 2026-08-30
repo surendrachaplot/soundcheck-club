@@ -1,6 +1,6 @@
 # Lady Roc
 
-Lady Roc is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at BOXPARK Liverpool, Liverpool on Sat, 5 Sept 2026.
+Lady Roc is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at BOXPARK Liverpool, Liverpool on Sat, 5 Sept 2026.
 
 Lady Roc is a house and afro tech artist tracked on soundcheck, with 10 sets logged across Liverpool and London. Often billed alongside Mista Glitch, KTB DJž and Kirk Paten. Next up: BOXPARK Liverpool, Liverpool on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lady Roc is a house and afro tech artist tracked on soundcheck, with 10 sets log
 
 Mista Glitch, KTB DJž, Kirk Paten
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyroc/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyroc/)*

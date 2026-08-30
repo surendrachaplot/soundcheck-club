@@ -1,6 +1,6 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Arts Bar Baltic, Liverpool on Sat, 5 Sept 2026.
+LEV (UK) is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Arts Bar Baltic, Liverpool on Sat, 5 Sept 2026.
 
 LEV (UK) is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: Arts Bar Baltic, Liverpool on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ LEV (UK) is a house and disco artist tracked on soundcheck, with 88 sets logged 
 
 Faro, Aroop Roy, MiNNA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*

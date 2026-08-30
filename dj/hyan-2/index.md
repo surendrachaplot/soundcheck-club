@@ -1,6 +1,6 @@
 # Hyan (2)
 
-Hyan (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Neck of the Woods, Auckland on Fri, 11 Sept 2026.
+Hyan (2) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Neck of the Woods, Auckland on Fri, 11 Sept 2026.
 
 Hyan (2) is a garage and house artist based in New Zealand, tracked on soundcheck, with 12 sets logged across Auckland, London, Melbourne and Sydney. Often billed alongside Caru (NZ), THIRZA and Alix Perez. Next up: Neck of the Woods, Auckland on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Hyan (2) is a garage and house artist based in New Zealand, tracked on soundchec
 
 Caru (NZ), THIRZA, Alix Perez
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyan-2/)*

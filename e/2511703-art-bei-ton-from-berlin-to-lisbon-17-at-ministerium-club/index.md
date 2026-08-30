@@ -1,6 +1,6 @@
 # Art Bei Ton: from Berlin to Lisbon ~ 17 at Ministerium Club
 
-Art Bei Ton: from Berlin to Lisbon ~ 17 at Ministerium Club on Fri 4 Sept, Lisbon. 4 acts on the bill: ena b., Hypnotic Black Magic, Luis FMR and Maria Callapez. Techno. Preview the line-up and save it on soundcheck.
+Art Bei Ton: from Berlin to Lisbon ~ 17 at Ministerium Club on Fri 4 Sept, Lisbon. 5 acts on the bill: apukas, ena b., Hypnotic Black Magic and Luis FMR and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Art Bei Ton: from Berlin to Lisbon ~ 17 at Ministerium Club on Fri 4 Sept, Lisbo
 
 ## Line-up
 
+- apukas
 - ena b.
 - Hypnotic Black Magic
 - Luis FMR

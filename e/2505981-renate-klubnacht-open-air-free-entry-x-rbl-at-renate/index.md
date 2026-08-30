@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) x RBL at Renate
 
-Renate Klubnacht + Open Air (Free Entry) x RBL on Thu 3 Sept, Berlin. 3 acts on the bill: lady jestive, Pearla and Tina (DE). House and Italo Disco. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) x RBL on Thu 3 Sept, Berlin. 4 acts on the bill: lady jestive, Make It Big, Pearla and Tina (DE). House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Renate Klubnacht + Open Air (Free Entry) x RBL on Thu 3 Sept, Berlin. 3 acts on 
 ## Line-up
 
 - lady jestive
+- Make It Big
 - Pearla
 - Tina (DE)
 

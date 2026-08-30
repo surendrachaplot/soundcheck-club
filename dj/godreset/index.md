@@ -1,6 +1,6 @@
 # God Reset
 
-God Reset is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at 66 Chambers, Singapore on Fri, 4 Sept 2026.
+God Reset is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 66 Chambers, Singapore on Fri, 4 Sept 2026.
 
 God Reset is an industrial and techno artist based in Singapore, tracked on soundcheck, with 2 sets logged across Singapore. Often billed alongside Läbraatz and Metamoksha. Next up: 66 Chambers, Singapore on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ God Reset is an industrial and techno artist based in Singapore, tracked on soun
 
 Läbraatz, Metamoksha
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godreset/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godreset/)*

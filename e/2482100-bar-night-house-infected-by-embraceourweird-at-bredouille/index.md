@@ -1,6 +1,6 @@
 # BAR NIGHT - House Infected by embraceOurweird at Bredouille
 
-BAR NIGHT - House Infected by embraceOurweird at Bredouille on Sat 5 Sept, Berlin. 2 acts on the bill: JaFrei Loufoque and Phat Beat. House and Deep House. Preview the line-up and save it on soundcheck.
+BAR NIGHT - House Infected by embraceOurweird at Bredouille on Sat 5 Sept, Berlin. 3 acts on the bill: JaFrei Loufoque, Phat Beat and RedtomCat. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ BAR NIGHT - House Infected by embraceOurweird at Bredouille on Sat 5 Sept, Berli
 
 - JaFrei Loufoque
 - Phat Beat
+- RedtomCat
 
 *Source: [soundcheck](https://soundcheck.club/e/2482100-bar-night-house-infected-by-embraceourweird-at-bredouille/)*

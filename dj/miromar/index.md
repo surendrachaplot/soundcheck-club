@@ -1,6 +1,6 @@
 # Mir Omar
 
-Mir Omar is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
+Mir Omar is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
 Mir Omar is a progressive house and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Chicago, London and Newyorkcity. Often billed alongside Mike Martinez, DJ Ruby and Dysco-official. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Mir Omar is a progressive house and house artist based in United States of Ameri
 
 Mike Martinez, DJ Ruby, Dysco-official
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miromar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miromar/)*

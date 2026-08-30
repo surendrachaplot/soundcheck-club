@@ -1,6 +1,6 @@
 # Sailor & I
 
-Sailor & I is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at LIVE EVIL, Munich on Wed, 23 Sept 2026.
+Sailor & I is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at LIVE EVIL, Munich on Wed, 23 Sept 2026.
 
 Sailor & I are a techno and electronica duo tracked on soundcheck, with 3 sets logged across Berlin and Munich. Often billed alongside Aaron Suiss, Lexer and Noah Kulaga. Next up: LIVE EVIL, Munich on Wed 23 Sept.
 
@@ -19,4 +19,4 @@ Sailor & I are a techno and electronica duo tracked on soundcheck, with 3 sets l
 
 Aaron Suiss, Lexer, Noah Kulaga
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sailori/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sailori/)*

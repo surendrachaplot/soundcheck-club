@@ -1,6 +1,6 @@
 # Red Pig Flower
 
-Red Pig Flower is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Red Pig Flower is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Red Pig Flower is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 14 more. Often billed alongside Minji, Monkey Timers and NAMIMI SENSEI. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Red Pig Flower is a house and techno artist tracked on soundcheck, with 84 sets 
 
 Minji, Monkey Timers, NAMIMI SENSEI
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redpigflower/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redpigflower/)*

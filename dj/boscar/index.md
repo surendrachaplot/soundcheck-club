@@ -1,6 +1,6 @@
 # boscar
 
-boscar is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
+boscar is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
 
 boscar is a house and minimal artist tracked on soundcheck, with 2 sets logged across Lisbon. Often billed alongside MURI, Doudou MD and Kee_ko. Next up: Carmo Rooftop, Lisbon on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ boscar is a house and minimal artist tracked on soundcheck, with 2 sets logged a
 
 MURI, Doudou MD, Kee_ko
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boscar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boscar/)*

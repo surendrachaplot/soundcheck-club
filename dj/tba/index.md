@@ -1,15 +1,13 @@
 # TBA
 
-TBA is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Haus73, Hamburg on Sat, 29 Aug 2026.
+TBA is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Temple SF, San Francisco/Oakland on Fri, 4 Sept 2026.
 
-TBA is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Haus73, Hamburg on Sat 29 Aug.
+TBA is a techno and house artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Temple SF, Sanfrancisco on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Haus73 | Hamburg |
-| Sat, 29 Aug 2026 | Temple SF | San Francisco/Oakland |
 | Fri, 4 Sept 2026 | Temple SF | San Francisco/Oakland |
 | Sat, 12 Sept 2026 | TBA | Barcelona |
 | Thu, 17 Sept 2026 | Phonox | London |
@@ -20,20 +18,22 @@ TBA is a techno and house artist tracked on soundcheck, with 251 sets logged acr
 | Fri, 25 Sept 2026 | Temple SF | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | Haus73 | Hamburg |
 | Thu, 1 Oct 2026 | Phonox | London |
+| Sat, 10 Oct 2026 | Electric Ballroom | London |
+| Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 
 ## Recently played
 
+- Haus73, Hamburg — Sat, 29 Aug 2026
+- Temple SF, San Francisco/Oakland — Sat, 29 Aug 2026
 - Slakthuset, Stockholm — Fri, 28 Aug 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 27 Aug 2026
 - Smolna, Warsaw — Wed, 26 Aug 2026
 - TBA - Rummelsburger Bucht, Berlin — Thu, 20 Aug 2026
 - La Station - Gare des Mines, Paris — Fri, 14 Aug 2026
 - Skyport Marina, New York City — Fri, 14 Aug 2026
-- TBA - Rummelsburger Bucht, Berlin — Thu, 13 Aug 2026
-- TBA - Rummelsburger Bucht, Berlin — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

@@ -1,8 +1,8 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 4 Sept 2026.
+Papa Nugs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 4 Sept 2026.
 
-Papa Nugs is a house and techno artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: SISSI'S Amsterdam, Amsterdam on Fri 4 Sept.
+Papa Nugs is a house and techno artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: SISSI'S Amsterdam, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Papa Nugs is a house and techno artist tracked on soundcheck, with 157 sets logg
 | Fri, 9 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Yamamori Tengu | Dublin |
+| Fri, 20 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Papa Nugs is a house and techno artist tracked on soundcheck, with 157 sets logg
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

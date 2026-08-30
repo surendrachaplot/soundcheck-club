@@ -1,6 +1,6 @@
 # Pizza Hotline
 
-Pizza Hotline is a Drum & Bass and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Veleiro Principe Perfeito, Lisbon on Sat, 5 Sept 2026.
+Pizza Hotline is a Drum & Bass and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Veleiro Principe Perfeito, Lisbon on Sat, 5 Sept 2026.
 
 Pizza Hotline is a drum & bass and vaporwave artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Bristol, Lisbon, London and Losangeles and 2 more. Often billed alongside Luxury Elite, Nizan and Rodderz. Next up: Veleiro Principe Perfeito, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pizza Hotline is a drum & bass and vaporwave artist based in United Kingdom, tra
 
 Luxury Elite, Nizan, Rodderz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzahotline/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzahotline/)*

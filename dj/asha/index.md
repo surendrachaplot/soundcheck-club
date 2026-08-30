@@ -1,6 +1,6 @@
 # Asha
 
-Asha is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Asha is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
 Asha is a techno and minimal artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Birmingham, London, Melbourne and Montreal and 1 more. Often billed alongside Runa, MIASALAV and Raef. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Asha is a techno and minimal artist based in United Kingdom, tracked on soundche
 
 Runa, MIASALAV, Raef
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asha/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asha/)*

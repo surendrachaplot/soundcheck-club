@@ -1,6 +1,6 @@
 # Nick (IT)
 
-Nick (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Stereo, Glasgow on Sat, 5 Sept 2026.
+Nick (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Stereo, Glasgow on Sat, 5 Sept 2026.
 
 Nick (IT) is a house and techno artist based in Italy, tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Berlin and Glasgow and 2 more. Often billed alongside Alex Picone, Desyn and Luca Piermattei. Next up: Stereo, Glasgow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nick (IT) is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 Alex Picone, Desyn, Luca Piermattei
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nick-it/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nick-it/)*

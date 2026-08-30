@@ -1,8 +1,8 @@
 # Oneman
 
-Oneman is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
+Oneman is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
 
-Oneman is a garage and bass artist tracked on soundcheck, with 89 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 13 more. Often billed alongside RIZ LA TEEF, Lu.Re and Flowdan. Next up: Ministry Of Sound, London on Mon 31 Aug.
+Oneman is a garage and bass artist tracked on soundcheck, with 90 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 13 more. Often billed alongside RIZ LA TEEF, Lu.Re and Flowdan. Next up: Ministry Of Sound, London on Mon 31 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Oneman is a garage and bass artist tracked on soundcheck, with 89 sets logged ac
 | Mon, 31 Aug 2026 | Ministry Of Sound | London |
 | Thu, 24 Sept 2026 | Soup | Manchester |
 | Fri, 16 Oct 2026 | fabric | London |
+| Fri, 27 Nov 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Oneman is a garage and bass artist tracked on soundcheck, with 89 sets logged ac
 
 RIZ LA TEEF, Lu.Re, Flowdan
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*

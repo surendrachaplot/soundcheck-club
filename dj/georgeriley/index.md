@@ -1,6 +1,6 @@
 # George Riley
 
-George Riley is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
+George Riley is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
 
 George Riley is a club and house artist tracked on soundcheck, with 18 sets logged across Bali, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Yaeji, LSDXOXO and Leon Vynehall. Next up: Poolen, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ George Riley is a club and house artist tracked on soundcheck, with 18 sets logg
 
 Yaeji, LSDXOXO, Leon Vynehall
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeriley/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeriley/)*

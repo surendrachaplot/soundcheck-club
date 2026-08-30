@@ -1,6 +1,6 @@
 # Wouter S
 
-Wouter S is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Onder Hans, Amsterdam on Thu, 1 Oct 2026.
+Wouter S is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Onder Hans, Amsterdam on Thu, 1 Oct 2026.
 
 Wouter S is a house and tech house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague and 1 more. Often billed alongside AAT (NL), Alexander Koning and Benny Rodrigues. Next up: Onder Hans, Amsterdam on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Wouter S is a house and tech house artist based in Netherlands, tracked on sound
 
 AAT (NL), Alexander Koning, Benny Rodrigues
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wouters/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wouters/)*

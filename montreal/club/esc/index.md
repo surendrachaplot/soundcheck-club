@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "THE ANNUAL GATHERING" on Sun, 30 Aug 2026.
+ESC is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "THE ANNUAL GATHERING" on Sun, 30 Aug 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including Akufen, CrisseMarqueur, Ekitwanda and Esther Côté and 2 more. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -18,4 +18,4 @@ ESC is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

@@ -1,6 +1,6 @@
 # Binyamhn
 
-Binyamhn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Distrikt, Leeds on Sat, 17 Oct 2026.
+Binyamhn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distrikt, Leeds on Sat, 17 Oct 2026.
 
 Binyamhn is a tech house and house artist tracked on soundcheck, with 22 sets logged across Bucharest, Ibiza, Leeds and Madrid. Often billed alongside Arty, Eli Shaw and Jartley. Next up: Distrikt, Leeds on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Binyamhn is a tech house and house artist tracked on soundcheck, with 22 sets lo
 
 Arty, Eli Shaw, Jartley
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binyamhn/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/binyamhn/)*

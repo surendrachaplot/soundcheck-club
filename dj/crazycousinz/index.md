@@ -1,6 +1,6 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
+Crazy Cousinz is a Garage and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
 
 Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 39 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 39 set
 
 Donae'o, Pioneer, Jerome Six
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*

@@ -1,8 +1,8 @@
 # Enei
 
-Enei is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at E1, London on Sat, 21 Nov 2026.
+Enei is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Sat, 21 Nov 2026.
 
-Enei is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Boston and Brighton and 20 more. Often billed alongside Kasra, Jakes and EN:VY. Next up: E1, London on Sat 21 Nov.
+Enei is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Boston and Brighton and 20 more. Often billed alongside Kasra, Jakes and Envy. Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Enei is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logg
 
 ## Shares bills with
 
-Kasra, Jakes, EN:VY
+Kasra, Jakes, Envy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*

@@ -1,8 +1,8 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Flava D is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 97 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Flava D is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Auckland, Austin and Berlin and 34 more. Often billed alongside P Money, Whiney and Andy C. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 11 Sept 2026 | Circus Osaka | Osaka |
 | Sat, 12 Sept 2026 | Circus Tokyo | Tokyo |
+| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 2 Oct 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
@@ -30,4 +31,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, tracked on sou
 
 P Money, Whiney, Andy C
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

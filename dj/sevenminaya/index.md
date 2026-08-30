@@ -1,6 +1,6 @@
 # Seven Minaya
 
-Seven Minaya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Green Room NYC, New York City on Sun, 30 Aug 2026.
+Seven Minaya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Green Room NYC, New York City on Sun, 30 Aug 2026.
 
 Seven Minaya is a house and techno artist tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside CAMILLA, Joiah and Tomas Lobo. Next up: Green Room NYC, Newyorkcity on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Seven Minaya is a house and techno artist tracked on soundcheck, with 12 sets lo
 
 CAMILLA, Joiah, Tomas Lobo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenminaya/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenminaya/)*

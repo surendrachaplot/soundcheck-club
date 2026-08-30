@@ -1,6 +1,6 @@
 # Danielle Nicole
 
-Danielle Nicole is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Refuge, New York City on Sat, 29 Aug 2026.
+Danielle Nicole is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Refuge, New York City on Sat, 29 Aug 2026.
 
 Danielle Nicole is a house and club artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Newyorkcity. Often billed alongside Chad Andrew, Mumblah and Primãrie. Next up: Refuge, Newyorkcity on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ Danielle Nicole is a house and club artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Refuge, New York City — Sat, 29 Aug 2026
 - Golden Gate, Berlin — Thu, 26 Feb 2026
 - Südpol, Hamburg — Sat, 21 Feb 2026
 - Golden Gate, Berlin — Wed, 31 Dec 2025
@@ -20,10 +21,9 @@ Danielle Nicole is a house and club artist based in Germany, tracked on soundche
 - Bulbul Berlin, Berlin — Fri, 12 Dec 2025
 - Golden Gate, Berlin — Fri, 5 Dec 2025
 - Acud Macht NEU, Berlin — Fri, 31 Oct 2025
-- Golden Gate, Berlin — Sat, 6 Sept 2025
 
 ## Shares bills with
 
 Chad Andrew, Mumblah, Primãrie
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellenicole/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellenicole/)*

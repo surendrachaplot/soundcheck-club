@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader" on Thu, 3 Sept 2026.
+Fuchs2 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader" on Thu, 3 Sept 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including Adamatron, aláya, Alfred Czital and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

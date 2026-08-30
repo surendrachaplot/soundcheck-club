@@ -1,6 +1,6 @@
 # Mount XLR
 
-Mount XLR is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at 축제festival, Seoul on Thu, 3 Sept 2026.
+Mount XLR is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at 축제festival, Seoul on Thu, 3 Sept 2026.
 
 Mount XLR is a bass and experimental artist based in South Korea, tracked on soundcheck, with 25 sets logged across London and Seoul. Often billed alongside Arexibo, Yetsuby and DJ Soulscape. Next up: 축제festival, Seoul on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Mount XLR is a bass and experimental artist based in South Korea, tracked on sou
 
 Arexibo, Yetsuby, DJ Soulscape
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mountxlr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mountxlr/)*

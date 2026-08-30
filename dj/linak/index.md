@@ -1,6 +1,6 @@
 # Lina K
 
-Lina K is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
+Lina K is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
 
 Lina K is a techno and club artist based in Moldova, tracked on soundcheck, with 8 sets logged across Belgrade, Berlin and Vienna. Often billed alongside Angioma, Cevi and DAD4. Next up: Para Klub Beograd, Belgrade on Sun 27 Sept.
 
@@ -24,4 +24,4 @@ Lina K is a techno and club artist based in Moldova, tracked on soundcheck, with
 
 Angioma, Cevi, DAD4
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linak/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linak/)*

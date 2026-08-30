@@ -1,6 +1,6 @@
 # Wheez-ie
 
-Wheez-ie is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Airliner, Los Angeles on Thu, 24 Sept 2026.
+Wheez-ie is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Airliner, Los Angeles on Thu, 24 Sept 2026.
 
 Wheez-ie is an experimental and bass artist tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside Adam O (1), sysk and Axine M. Next up: The Airliner, Losangeles on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ Wheez-ie is an experimental and bass artist tracked on soundcheck, with 5 sets l
 
 Adam O (1), sysk, Axine M
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheez-ie/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wheez-ie/)*

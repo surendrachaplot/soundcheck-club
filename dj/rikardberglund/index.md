@@ -1,6 +1,6 @@
 # Rikard Berglund
 
-Rikard Berglund is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Timebar, Stockholm on Sun, 30 Aug 2026.
+Rikard Berglund is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Timebar, Stockholm on Sun, 30 Aug 2026.
 
 Rikard Berglund is an electronic artist tracked on soundcheck, with 3 sets logged across Stockholm. Often billed alongside Adellic, Atelier Antier and Boge. Next up: Timebar, Stockholm on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Rikard Berglund is an electronic artist tracked on soundcheck, with 3 sets logge
 
 Adellic, Atelier Antier, Boge
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikardberglund/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rikardberglund/)*

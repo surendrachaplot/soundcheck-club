@@ -1,6 +1,6 @@
 # Eldat
 
-Eldat is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
+Eldat is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
 
 Eldat is a techno and electro artist based in France, tracked on soundcheck, with 7 sets logged across Lyon and Paris. Often billed alongside Marco del Bosque, Mel (FR) and ABSL. Next up: TBA - Paris, Paris on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Eldat is a techno and electro artist based in France, tracked on soundcheck, wit
 
 Marco del Bosque, Mel (FR), ABSL
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eldat/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eldat/)*

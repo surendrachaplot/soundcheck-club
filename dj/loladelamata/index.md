@@ -1,6 +1,6 @@
 # Lola de la Mata
 
-Lola de la Mata is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
+Lola de la Mata is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
 
 Lola de la Mata is an experimental and bass artist tracked on soundcheck, with 6 sets logged across London, Manchester and Sheffield. Often billed alongside 96 Back, Ashley Holmes and Batu. Next up: International Anthony Burgess Foundation, Manchester on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ Lola de la Mata is an experimental and bass artist tracked on soundcheck, with 6
 
 96 Back, Ashley Holmes, Batu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loladelamata/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loladelamata/)*

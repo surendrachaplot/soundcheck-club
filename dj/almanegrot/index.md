@@ -1,13 +1,14 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
+Alma Negrot is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
 
-Alma Negrot is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: Phantom Bar Berlin, Berlin on Sat 5 Sept.
+Alma Negrot is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 4 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: Skin Club, Madrid on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Skin Club | Madrid |
 | Sat, 5 Sept 2026 | Phantom Bar Berlin | Berlin |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
 
@@ -26,4 +27,4 @@ Alma Negrot is a house and techno artist tracked on soundcheck, with 41 sets log
 
 Gezender, Kontronatura, materia hache
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

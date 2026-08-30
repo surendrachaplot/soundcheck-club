@@ -1,14 +1,13 @@
 # Bora Uzer
 
-Bora Uzer is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at [UNVRS], Ibiza on Sat, 29 Aug 2026.
+Bora Uzer is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets logged across Austin, Bali, Barcelona and Buenosaires and 16 more. Often billed alongside Valentin Huedo, Julia Sandstorm and Kiddy Smile. Next up: [UNVRS], Ibiza on Sat 29 Aug.
+Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets logged across Austin, Bali, Barcelona and Buenosaires and 16 more. Often billed alongside Valentin Huedo, Julia Sandstorm and Kiddy Smile. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Sat, 19 Sept 2026 | [UNVRS] | Ibiza |
 | Sun, 20 Sept 2026 | Ku Barcelona | Barcelona |
@@ -16,6 +15,7 @@ Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets
 
 ## Recently played
 
+- [UNVRS], Ibiza — Sat, 29 Aug 2026
 - Cova Santa, Ibiza — Fri, 21 Aug 2026
 - Cova Santa, Ibiza — Fri, 14 Aug 2026
 - Cova Santa, Ibiza — Fri, 3 Jul 2026
@@ -23,10 +23,9 @@ Bora Uzer is a house and electronica artist tracked on soundcheck, with 112 sets
 - Cova Santa, Ibiza — Fri, 15 May 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 7 May 2026
 - Pacha Ibiza, Ibiza — Thu, 30 Apr 2026
-- Pátio da Galé, Lisbon — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Valentin Huedo, Julia Sandstorm, Kiddy Smile
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*

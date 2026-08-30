@@ -1,6 +1,6 @@
 # DR*AGO
 
-DR*AGO is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Milkboy, Philadelphia on Sat, 19 Sept 2026.
+DR*AGO is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Milkboy, Philadelphia on Sat, 19 Sept 2026.
 
 DR*AGO is a house and garage artist tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside Eugene Chong and FonDuo. Next up: Milkboy, Philadelphia on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ DR*AGO is a house and garage artist tracked on soundcheck, with 2 sets logged ac
 
 Eugene Chong, FonDuo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drago/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drago/)*

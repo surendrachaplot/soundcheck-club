@@ -1,6 +1,6 @@
 # Can Luis
 
-Can Luis is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Unanime Collective Can LLuis  Ob Rem" on Thu, 3 Sept 2026.
+Can Luis is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Unanime Collective Can LLuis  Ob Rem" on Thu, 3 Sept 2026.
 
 Can Luis is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including KRYTE and Pullär. Browse upcoming dates, start times and who's playing. Carrer del Portal Nou, 18, 08003 Barcelona.
 
@@ -14,4 +14,4 @@ Can Luis is a music venue in Barcelona listed on soundcheck. 1 upcoming night, w
 
 Carrer del Portal Nou, 18, 08003 Barcelona, Barcelona
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/can-luis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/can-luis/)*

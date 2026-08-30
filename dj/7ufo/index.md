@@ -1,6 +1,6 @@
 # 7UFO
 
-7UFO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+7UFO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
 
 7UFO is a techno and house artist tracked on soundcheck, with 6 sets logged across Kualalumpur and London. Often billed alongside Axel Groove, Biscuit (MY) and BugzB. Next up: Mantra Bar, Kualalumpur on Sat 19 Sept.
 
@@ -22,4 +22,4 @@
 
 Axel Groove, Biscuit (MY), BugzB
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7ufo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7ufo/)*

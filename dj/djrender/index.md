@@ -1,6 +1,6 @@
 # Dj Render
 
-Dj Render is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+Dj Render is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 Dj Render is a house and electronica artist tracked on soundcheck, with 27 sets logged across Mexicocity. Often billed alongside Mighty Mick, Seagit Arc and Dj Diego (1). Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Dj Render is a house and electronica artist tracked on soundcheck, with 27 sets 
 
 Mighty Mick, Seagit Arc, Dj Diego (1)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrender/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrender/)*

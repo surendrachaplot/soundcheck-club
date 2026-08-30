@@ -1,13 +1,14 @@
 # Thee-O
 
-Thee-O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
+Thee-O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Thee-O is a house and techno artist tracked on soundcheck, with 20 sets logged across Losangeles and Sandiego. Often billed alongside Bret Wallace, Fester and Jesse Brooks. Next up: TBA - Ventura , Losangeles on Sat 26 Sept.
+Thee-O is a house and techno artist tracked on soundcheck, with 21 sets logged across Losangeles and Sandiego. Often billed alongside Bret Wallace, Fester and Jesse Brooks. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Ventura  | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Thee-O is a house and techno artist tracked on soundcheck, with 20 sets logged a
 
 Bret Wallace, Fester, Jesse Brooks
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thee-o/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thee-o/)*

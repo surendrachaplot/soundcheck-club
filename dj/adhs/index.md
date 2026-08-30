@@ -1,6 +1,6 @@
 # A.D.H.S.
 
-A.D.H.S. is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
+A.D.H.S. is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
 
 A.D.H.S. is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Maurice Mino, Sin:port and Thomas Schumacher. Next up: Fridas Pier, Stuttgart on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ A.D.H.S. is a techno and house artist tracked on soundcheck, with 59 sets logged
 
 Maurice Mino, Sin:port, Thomas Schumacher
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*

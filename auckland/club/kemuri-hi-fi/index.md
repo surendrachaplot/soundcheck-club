@@ -1,6 +1,6 @@
 # Kemuri Hi-Fi
 
-Kemuri Hi-Fi is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "COLLEKT WINTER SERIES - FINALE feat. Logan Baker" on Sat, 5 Sept 2026.
+Kemuri Hi-Fi is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "COLLEKT WINTER SERIES - FINALE feat. Logan Baker" on Sat, 5 Sept 2026.
 
 Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 1 upcoming night, with line-ups including Connor Tomoana and Logan Baker. Browse upcoming dates, start times and who's playing. 1 Queen Street, Commercial Bay, Auckland 1010.
 
@@ -14,4 +14,4 @@ Kemuri Hi-Fi is a music venue in Auckland listed on soundcheck. 1 upcoming night
 
 1 Queen Street, Commercial Bay, Auckland 1010, Auckland
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/kemuri-hi-fi/)*

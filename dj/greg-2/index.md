@@ -1,6 +1,6 @@
 # Greg (2)
 
-Greg (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Greg (2) is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Greg (2) is a bass and techno artist tracked on soundcheck, with 60 sets logged across Barcelona, Berlin, Brussels and Geneva and 10 more. Often billed alongside Tatyana Jane, Busy P and Dangermami. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Greg (2) is a bass and techno artist tracked on soundcheck, with 60 sets logged 
 
 Tatyana Jane, Busy P, Dangermami
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greg-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greg-2/)*

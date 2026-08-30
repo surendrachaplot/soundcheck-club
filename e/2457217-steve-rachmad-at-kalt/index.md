@@ -1,6 +1,6 @@
 # Steve Rachmad at KALT
 
-Steve Rachmad at KALT on Sat 12 Sept, Strasbourg. 1 act on the bill: Steve Rachmad. Preview the line-up and save it on soundcheck.
+Steve Rachmad at KALT on Sat 12 Sept, Strasbourg. 2 acts on the bill: Mezza and Steve Rachmad. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Steve Rachmad at KALT on Sat 12 Sept, Strasbourg. 1 act on the bill: Steve Rachm
 
 ## Line-up
 
+- Mezza
 - Steve Rachmad
 
 *Source: [soundcheck](https://soundcheck.club/e/2457217-steve-rachmad-at-kalt/)*

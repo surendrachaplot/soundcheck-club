@@ -1,6 +1,6 @@
 # Noxumi
 
-Noxumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Promenaden Eck, Berlin on Thu, 3 Sept 2026.
+Noxumi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Promenaden Eck, Berlin on Thu, 3 Sept 2026.
 
 Noxumi is a techno and house artist based in Turkey, tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside Nadia Bel Air, DERICE and DIRTY YOUTH. Next up: Promenaden Eck, Berlin on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Noxumi is a techno and house artist based in Turkey, tracked on soundcheck, with
 
 Nadia Bel Air, DERICE, DIRTY YOUTH
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*

@@ -1,6 +1,6 @@
 # Miss Dix
 
-Miss Dix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
+Miss Dix is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Union Club, Vauxhall, London on Sun, 30 Aug 2026.
 
 Miss Dix is a techno and house artist tracked on soundcheck, with 16 sets logged across London and Tokyo. Often billed alongside Thomas Galbardi, Diana Loredana and ZUZANAH. Next up: Union Club, Vauxhall, London on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Miss Dix is a techno and house artist tracked on soundcheck, with 16 sets logged
 
 Thomas Galbardi, Diana Loredana, ZUZANAH
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdix/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/missdix/)*

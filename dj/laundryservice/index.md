@@ -1,6 +1,6 @@
 # Laundry Service
 
-Laundry Service is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 26 Sept 2026.
+Laundry Service is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Pudel Club, Hamburg on Sat, 26 Sept 2026.
 
 Laundry Service is a techno and house artist tracked on soundcheck, with 24 sets logged across Hamburg. Often billed alongside aitch, DJ BTM and FJAAK. Next up: Golden Pudel Club, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Laundry Service is a techno and house artist tracked on soundcheck, with 24 sets
 
 aitch, DJ BTM, FJAAK
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laundryservice/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laundryservice/)*

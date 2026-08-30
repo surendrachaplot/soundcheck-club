@@ -1,6 +1,6 @@
 # Hideaway Surbiton
 
-Hideaway Surbiton is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Hideaway Sunset Sessions" on Fri, 11 Sept 2026.
+Hideaway Surbiton is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Hideaway Sunset Sessions" on Fri, 11 Sept 2026.
 
 Hideaway Surbiton is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Mike De Costa. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hideaway Surbiton is a music venue in London listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Hideaway Sunset Sessions | Mike De Costa |
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hideaway-surbiton/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/hideaway-surbiton/)*

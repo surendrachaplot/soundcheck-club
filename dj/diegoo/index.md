@@ -1,22 +1,22 @@
 # Diegoo
 
-Diegoo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at H0L0, New York City on Sat, 29 Aug 2026.
+Diegoo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
 
-Diegoo is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside CAÑITA, LegenDari and Bruno Gervais. Next up: H0L0, Newyorkcity on Sat 29 Aug.
+Diegoo is a house and techno artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside CAÑITA, LegenDari and Borbón. Next up: Green Room NYC, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | H0L0 | New York City |
-| Fri, 11 Sept 2026 | TBA - 360 jefferson st | New York City |
+| Fri, 11 Sept 2026 | Green Room NYC | New York City |
 
 ## Recently played
 
+- H0L0, New York City — Sat, 29 Aug 2026
 - TBA - Secret Rooftop Location in Brooklyn, New York City — Sat, 22 Aug 2026
 
 ## Shares bills with
 
-CAÑITA, LegenDari, Bruno Gervais
+CAÑITA, LegenDari, Borbón
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoo/)*

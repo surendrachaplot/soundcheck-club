@@ -1,13 +1,14 @@
 # Marley Reid
 
-Marley Reid is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Soup, Manchester on Fri, 18 Sept 2026.
+Marley Reid is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
 
-Marley Reid is a house and disco artist tracked on soundcheck, with 58 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Danandout, Levi Love and Bustin' Loose. Next up: Soup, Manchester on Fri 18 Sept.
+Marley Reid is a house and disco artist tracked on soundcheck, with 59 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Danandout, Levi Love and Bustin' Loose. Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Two Tribes CAMPFIRE | London |
 | Fri, 18 Sept 2026 | Soup | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marley Reid is a house and disco artist tracked on soundcheck, with 58 sets logg
 
 Danandout, Levi Love, Bustin' Loose
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyreid/)*

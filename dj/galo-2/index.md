@@ -1,6 +1,6 @@
 # Galo (2)
 
-Galo (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
+Galo (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
 
 Galo (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin and Tbilisi. Often billed alongside DRAMA SOURCE ARTIFACTS, Caim and Carl H. Next up: Fitzroy, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Galo (2) is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 DRAMA SOURCE ARTIFACTS, Caim, Carl H
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galo-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/galo-2/)*

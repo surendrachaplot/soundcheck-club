@@ -1,6 +1,6 @@
 # Carneosso
 
-Carneosso is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Sao Paulo on Sat, 12 Sept 2026.
+Carneosso is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Sao Paulo on Sat, 12 Sept 2026.
 
 Carneosso is a house and baile funk artist tracked on soundcheck, with 6 sets logged across Saopaulo. Often billed alongside Cashu, Entropia (2) and Delcu. Next up: TBA - Centro Histórico de São Paulo, São Paulo - SP, Brasil, Saopaulo on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Carneosso is a house and baile funk artist tracked on soundcheck, with 6 sets lo
 
 Cashu, Entropia (2), Delcu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carneosso/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carneosso/)*

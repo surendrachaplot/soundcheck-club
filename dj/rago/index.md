@@ -1,6 +1,6 @@
 # Rago
 
-Rago is a Amapiano and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bunker Club, London on Sun, 30 Aug 2026.
+Rago is a Amapiano and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bunker Club, London on Sun, 30 Aug 2026.
 
 Rago is an amapiano and broken beat artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Ariane V, Faye Frazer and My Panda Shall Fly. Next up: Bunker Club, London on Sun 30 Aug.
 
@@ -19,4 +19,4 @@ Rago is an amapiano and broken beat artist based in United Kingdom, tracked on s
 
 Ariane V, Faye Frazer, My Panda Shall Fly
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rago/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rago/)*

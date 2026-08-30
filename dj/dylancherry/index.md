@@ -1,6 +1,6 @@
 # Dylan Cherry
 
-Dylan Cherry is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Salon Daomé, Montreal on Sat, 5 Sept 2026.
+Dylan Cherry is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Salon Daomé, Montreal on Sat, 5 Sept 2026.
 
 Dylan Cherry is a techno and minimal artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal. Often billed alongside Sound Crate, Altinbas and Christø. Next up: Salon Daomé, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dylan Cherry is a techno and minimal artist based in Canada, tracked on soundche
 
 Sound Crate, Altinbas, Christø
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylancherry/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dylancherry/)*

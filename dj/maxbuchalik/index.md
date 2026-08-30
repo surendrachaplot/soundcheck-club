@@ -1,6 +1,6 @@
 # Max Buchalik
 
-Max Buchalik is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Silbergold, Frankfurt on Fri, 18 Sept 2026.
+Max Buchalik is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Silbergold, Frankfurt on Fri, 18 Sept 2026.
 
 Max Buchalik is a house and italo disco artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Frankfurt and Madrid. Often billed alongside Beartrax, Lauer and DCSIS. Next up: Silbergold, Frankfurt on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Max Buchalik is a house and italo disco artist based in Germany, tracked on soun
 
 Beartrax, Lauer, DCSIS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbuchalik/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbuchalik/)*

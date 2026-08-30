@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 30 Aug 2026.
+Elli Acula is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 30 Aug 2026.
 
 Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Hï Ibiza, Ibiza on Sun 30 Aug.
 
@@ -31,4 +31,4 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets log
 
 FJAAK, 999999999, Anna Z.
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

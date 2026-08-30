@@ -1,6 +1,6 @@
 # LBXX
 
-LBXX is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at El Rio, San Francisco/Oakland on Sun, 30 Aug 2026.
+LBXX is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at El Rio, San Francisco/Oakland on Sun, 30 Aug 2026.
 
 LBXX is a club and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Sanfrancisco. Often billed alongside Kilo, Subeaux and Papa Xanny. Next up: El Rio, Sanfrancisco on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ LBXX is a club and house artist based in United States of America, tracked on so
 
 Kilo, Subeaux, Papa Xanny
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbxx/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lbxx/)*

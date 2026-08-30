@@ -1,6 +1,6 @@
 # Alexis Knox
 
-Alexis Knox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club NYX, Amsterdam on Sat, 31 Oct 2026.
+Alexis Knox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club NYX, Amsterdam on Sat, 31 Oct 2026.
 
 Alexis Knox is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin and London. Often billed alongside Gem Precious, James Hurr and Carly Wilford. Next up: Club NYX, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alexis Knox is a techno and house artist based in United Kingdom, tracked on sou
 
 Gem Precious, James Hurr, Carly Wilford
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisknox/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisknox/)*

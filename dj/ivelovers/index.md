@@ -1,6 +1,6 @@
 # Ive Lovers
 
-Ive Lovers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club Up, Amsterdam on Sat, 19 Sept 2026.
+Ive Lovers is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club Up, Amsterdam on Sat, 19 Sept 2026.
 
 Ive Lovers is a house and tech house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, London, Manchester and Prague and 1 more. Often billed alongside Michael Pieterse, Julian Wijn and DJANGO (NL). Next up: Club Up, Amsterdam on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Ive Lovers is a house and tech house artist based in Netherlands, tracked on sou
 
 Michael Pieterse, Julian Wijn, DJANGO (NL)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivelovers/)*

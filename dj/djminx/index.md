@@ -1,14 +1,13 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Under the K Bridge, New York City on Sat, 29 Aug 2026.
+DJ Minx is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Südpol, Hamburg on Fri, 11 Sept 2026.
 
-DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Under the K Bridge, Newyorkcity on Sat 29 Aug.
+DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Südpol, Hamburg on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Under the K Bridge | New York City |
 | Fri, 11 Sept 2026 | Südpol | Hamburg |
 | Sat, 12 Sept 2026 | Südpol | Hamburg |
 | Fri, 25 Sept 2026 | Los Globos | Los Angeles |
@@ -17,6 +16,7 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged
 
 ## Recently played
 
+- Under the K Bridge, New York City — Sat, 29 Aug 2026
 - Runnymede Hall, Toronto — Sat, 22 Aug 2026
 - Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
 - Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
@@ -24,10 +24,9 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged
 - Industry City, New York City — Sun, 28 Jun 2026
 - smartbar, Chicago — Sat, 27 Jun 2026
 - Spot Lite Detroit, Detroit — Thu, 25 Jun 2026
-- Academy LA, Los Angeles — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

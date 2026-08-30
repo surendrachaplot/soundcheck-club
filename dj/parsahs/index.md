@@ -1,6 +1,6 @@
 # Parsa Hs
 
-Parsa Hs is a Acid and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Chicago on Fri, 18 Sept 2026.
+Parsa Hs is a Acid and Ambient artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Chicago on Fri, 18 Sept 2026.
 
 Parsa Hs is an acid and ambient artist based in Iran, tracked on soundcheck, with 3 sets logged across Chicago. Often billed alongside Bardia Mehrzadeh, Payam Parvizi and Yashar. Next up: TBA, Chicago on Fri 18 Sept.
 
@@ -16,4 +16,4 @@ Parsa Hs is an acid and ambient artist based in Iran, tracked on soundcheck, wit
 
 Bardia Mehrzadeh, Payam Parvizi, Yashar
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parsahs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/parsahs/)*

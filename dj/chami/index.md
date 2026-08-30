@@ -1,6 +1,6 @@
 # Chami
 
-Chami is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Chami is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Chami is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Olivia Mendez, OPH and Amotik. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -17,6 +17,7 @@ Chami is a techno and house artist tracked on soundcheck, with 108 sets logged a
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Komplex Berlin, Berlin — Sat, 25 Jul 2026
 - Fuse, Brussels — Sat, 20 Jun 2026
@@ -24,10 +25,9 @@ Chami is a techno and house artist tracked on soundcheck, with 108 sets logged a
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 6 Jun 2026
 - Distillery, Leipzig — Sat, 30 May 2026
 - RADION, Amsterdam — Sat, 16 May 2026
-- Circolo Amelia, Milan — Sat, 9 May 2026
 
 ## Shares bills with
 
 Olivia Mendez, OPH, Amotik
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*

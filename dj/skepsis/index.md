@@ -1,6 +1,6 @@
 # Skepsis
 
-Skepsis is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
+Skepsis is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
 
 Skepsis is a drum & bass and bass artist tracked on soundcheck, with 60 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 23 more. Often billed alongside Darkzy, Window Kid and Charlie Tee. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Skepsis is a drum & bass and bass artist tracked on soundcheck, with 60 sets log
 
 Darkzy, Window Kid, Charlie Tee
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skepsis/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skepsis/)*

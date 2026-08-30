@@ -1,6 +1,6 @@
 # JourneyOM
 
-JourneyOM is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
+JourneyOM is a Psytrance and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
 
 JourneyOM is a psytrance and trance artist based in Italy, tracked on soundcheck, with 3 sets logged across London. Often billed alongside FlibbertiGibbet, Nikki S and DJ B (1). Next up: Distillery N17, London on Sat 17 Oct.
 
@@ -19,4 +19,4 @@ JourneyOM is a psytrance and trance artist based in Italy, tracked on soundcheck
 
 FlibbertiGibbet, Nikki S, DJ B (1)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/journeyom/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/journeyom/)*

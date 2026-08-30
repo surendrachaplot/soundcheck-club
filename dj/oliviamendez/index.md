@@ -1,8 +1,8 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+Olivia Mendez is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
 
-Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Freddy K and MARRØN. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
+Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -15,9 +15,11 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 31 Oct 2026 | TBA | Hamburg |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Sat, 29 Aug 2026
 - Fvtvr, Paris — Sat, 8 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Fuse, Brussels — Sat, 25 Jul 2026
@@ -25,10 +27,9 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 - TBA - Vault313 - 16940 Hamilton Ave., Highland Park, MI 48203, Detroit — Sat, 4 Jul 2026
 - TBA - San Francisco, San Francisco/Oakland — Sat, 27 Jun 2026
 - TBA, New York City — Sat, 20 Jun 2026
-- TV Lounge, Detroit — Thu, 18 Jun 2026
 
 ## Shares bills with
 
-Chami, Freddy K, MARRØN
+Chami, Blasha & Allatt, Freddy K
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

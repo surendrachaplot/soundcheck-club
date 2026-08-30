@@ -1,6 +1,6 @@
 # Etienne Nogues
 
-Etienne Nogues is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Unité.22, Marseille on Sat, 12 Sept 2026.
+Etienne Nogues is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Unité.22, Marseille on Sat, 12 Sept 2026.
 
 Etienne Nogues is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Marseille, Nantes and Paris. Often billed alongside BETÏSES, Britney Speed (FR) and Enigmatik. Next up: Unité.22, Marseille on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Etienne Nogues is a techno and trance artist tracked on soundcheck, with 21 sets
 
 BETÏSES, Britney Speed (FR), Enigmatik
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennenogues/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennenogues/)*

@@ -1,15 +1,13 @@
 # LDN East
 
-LDN East is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Country Club - Outdoor Country Music Festival - London" on Sat, 29 Aug 2026.
+LDN East is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "A day with Crazy P (DJ Set)" on Sat, 5 Sept 2026.
 
-LDN East is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Crazy P, Darkstepper, Donnie Sunshine and Don't F**k with Disco. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
+LDN East is a music venue in London listed on soundcheck. 4 upcoming nights, with line-ups including Crazy P, Darkstepper, Donnie Sunshine and Don't F**k with Disco. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Country Club - Outdoor Country Music Festival - London |  |
-| Sat, 29 Aug 2026 | no |  |
 | Sat, 5 Sept 2026 | A day with Crazy P (DJ Set) | Crazy P |
 | Sun, 6 Sept 2026 | 2016 Replay: SENSES Block Party (Summer Special) | Darkstepper, Donnie Sunshine |
 | Sat, 24 Oct 2026 | House Warming Day Party |  |
@@ -19,4 +17,4 @@ LDN East is a music venue in London listed on soundcheck. 6 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

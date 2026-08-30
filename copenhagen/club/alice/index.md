@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ALICE TUNES IN #3 Danske Kvalmer + Terence Dougherty + Orestis Marantos  + Sofia Cardich" on Wed, 2 Sept 2026.
+ALICE is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ALICE TUNES IN #3 Danske Kvalmer + Terence Dougherty + Orestis Marantos  + Sofia Cardich" on Wed, 2 Sept 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Dengue Dengue Dengue, Laryssa Kim, Mike Sheridan and Mykki Blanco and 2 more. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -23,4 +23,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, w
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

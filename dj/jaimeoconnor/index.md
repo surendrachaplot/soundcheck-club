@@ -1,6 +1,6 @@
 # Jaime O'Connor
 
-Jaime O'Connor is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at X Private Club, Madrid on Sat, 5 Sept 2026.
+Jaime O'Connor is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at X Private Club, Madrid on Sat, 5 Sept 2026.
 
 Jaime O'Connor is a house and tech house artist tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside Rams and lueasa. Next up: X Private Club, Madrid on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Jaime O'Connor is a house and tech house artist tracked on soundcheck, with 2 se
 
 Rams, lueasa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimeoconnor/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimeoconnor/)*

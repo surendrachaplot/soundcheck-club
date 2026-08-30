@@ -1,6 +1,6 @@
 # Budg
 
-Budg is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 30 Aug 2026.
+Budg is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 30 Aug 2026.
 
 Budg is a techno and house artist based in Malta, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Malta and Melbourne and 1 more. Often billed alongside T-RAIL, Human Safari and STK (MT). Next up: The Rooftop at Gianpula Village, Malta on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Budg is a techno and house artist based in Malta, tracked on soundcheck, with 35
 
 T-RAIL, Human Safari, STK (MT)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budg/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/budg/)*

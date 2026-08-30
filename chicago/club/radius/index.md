@@ -1,14 +1,14 @@
 # Radius
 
-Radius is a music venue in Chicago with 31 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "ARC After Dark: Chris Stassy, Silva Bumpa, IDEMI" on Fri, 4 Sept 2026.
+Radius is a music venue in Chicago with 32 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ARC After Dark: Chris Stassy, Silva Bumpa, IDEMI" on Fri, 4 Sept 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 31 upcoming nights, with line-ups including 999999999, Afrojack, AMAYAH and Anyma and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 32 upcoming nights, with line-ups including 999999999, Afrojack, AMAYAH and Anyma and 2 more. Browse upcoming dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | ARC After Dark: Chris Stassy, Silva Bumpa, IDEMI | Chris Stassy, IDEMI, Silva Bumpa |
+| Fri, 4 Sept 2026 | ARC After Dark: Chris Stassy, Silva Bumpa, IDEMI | Chris Stussy, IDEMI, Silva Bumpa |
 | Fri, 4 Sept 2026 | ARC After Dark: Chase & Status at Cermak Hall | Chase & Status |
 | Sat, 5 Sept 2026 | ARC After Dark: Mau P, Paco Osuna, Obskür | Mau P, Paco Osuna |
 | Sat, 5 Sept 2026 | ARC After Dark: 999999999, DAX J, I Hate Models at Cermak Hall | 999999999, DAX J, I Hate Models |
@@ -23,4 +23,4 @@ Radius is a music venue in Chicago listed on soundcheck. 31 upcoming nights, wit
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

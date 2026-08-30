@@ -1,14 +1,15 @@
 # Robert James
 
-Robert James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Robert James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-Robert James is a house and techno artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Berlin, Birmingham, Brighton and Brussels and 7 more. Often billed alongside Frenchy, Jamie Jones and Hot Since 82. Next up: UNO MALTA, Malta on Thu 24 Sept.
+Robert James is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Birmingham, Brighton and Brussels and 7 more. Often billed alongside Frenchy, Jamie Jones and Hot Since 82. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
+| Sat, 26 Sept 2026 | Eutopia Whs | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Robert James is a house and techno artist based in United Kingdom, tracked on so
 
 Frenchy, Jamie Jones, Hot Since 82
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertjames/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/robertjames/)*

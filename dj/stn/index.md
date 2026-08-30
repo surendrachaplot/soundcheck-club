@@ -1,6 +1,6 @@
 # STN
 
-STN is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at John Doe, Amsterdam on Tue, 1 Sept 2026.
+STN is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at John Doe, Amsterdam on Tue, 1 Sept 2026.
 
 STN is a hip-hop and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam and Tokyo. Often billed alongside Black Mood, DJ B2B and 5harpy. Next up: John Doe, Amsterdam on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ STN is a hip-hop and techno artist tracked on soundcheck, with 12 sets logged ac
 
 Black Mood, DJ B2B, 5harpy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stn/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stn/)*

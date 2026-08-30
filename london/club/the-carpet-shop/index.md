@@ -1,14 +1,13 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Emma-Jean Thackray & Mr Redley - Movementt" on Sat, 29 Aug 2026.
+The Carpet Shop is a music venue in London with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Dusty Dan 'nd Pals XVI" on Sun, 30 Aug 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 2xAA, Alexander Nut, Bushbby and Cleveland Watkiss and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 2xAA, Alexander Nut, Bushbby and Cleveland Watkiss and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Emma-Jean Thackray & Mr Redley - Movementt | Emma-Jean Thackray, Mr. Redley |
 | Sun, 30 Aug 2026 | Dusty Dan 'nd Pals XVI | Dusty Dan, HEDO HYDR8, Kutchi, NADZ., smokey.t |
 | Fri, 4 Sept 2026 | SHUSH // Ken Okuda & D'Monk (All Night Long) | D'Monk, Ken Okuda |
 | Sat, 5 Sept 2026 | Moving Parts: Bushbby, Nancy June, Richie + more | Bushbby, Lozzy, Nancy June, Ricochet, Riel, Tibor |
@@ -18,9 +17,10 @@ The Carpet Shop is a music venue in London listed on soundcheck. 18 upcoming nig
 | Wed, 16 Sept 2026 | Algorave Decelerate | 2xAA, MYNA, Todepond, digital selves, hellocatfood |
 | Fri, 18 Sept 2026 | Don't Touch My Fro! |  |
 | Sat, 19 Sept 2026 | Dancing Family: The Final Dance |  |
+| Sun, 20 Sept 2026 | If Music presents 'Left Turn'  | Cleveland Watkiss, DJ Flight |
 
 ## Address
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

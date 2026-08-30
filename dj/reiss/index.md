@@ -1,6 +1,6 @@
 # Reiss
 
-Reiss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Reiss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 Reiss is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Alexia Glensy, Ferro and Hannecart. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Reiss is a house and techno artist tracked on soundcheck, with 75 sets logged ac
 
 Alexia Glensy, Ferro, Hannecart
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reiss/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reiss/)*

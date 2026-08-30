@@ -1,6 +1,6 @@
 # Hris East
 
-Hris East is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
+Hris East is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
 
 Hris East is a house and techno artist based in Netherlands, tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Kirilski, Sanne Dammers and Be Lion. Next up: Yellow House, Amsterdam on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Hris East is a house and techno artist based in Netherlands, tracked on soundche
 
 Kirilski, Sanne Dammers, Be Lion
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*

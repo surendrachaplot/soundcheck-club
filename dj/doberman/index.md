@@ -1,6 +1,6 @@
 # DOBERMAN
 
-DOBERMAN is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
+DOBERMAN is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 11 Sept 2026.
 
 DOBERMAN is a club and hip-hop artist tracked on soundcheck, with 142 sets logged across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: J.J. Mahoney's Bar, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DOBERMAN is a club and hip-hop artist tracked on soundcheck, with 142 sets logge
 
 SKiiDA, ANDOW, Multivsn
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doberman/)*

@@ -1,6 +1,6 @@
 # Motus
 
-Motus is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Loft, Manchester on Sun, 30 Aug 2026.
+Motus is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Loft, Manchester on Sun, 30 Aug 2026.
 
 Motus is an electronic artist tracked on soundcheck, with 5 sets logged across Manchester and Montreal. Often billed alongside Dr Banana, Bunney and DJ Senc. Next up: The Loft, Manchester on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Motus is an electronic artist tracked on soundcheck, with 5 sets logged across M
 
 Dr Banana, Bunney, DJ Senc
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motus/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motus/)*

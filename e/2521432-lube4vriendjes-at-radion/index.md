@@ -1,10 +1,10 @@
 # LUBE4VRIENDJES at RADION
 
-LUBE4VRIENDJES at RADION on Sat 29 Aug, Amsterdam. 8 acts on the bill: ADHDJ (2), Claire Clover, DJ B2B and HANNAH (NL) and 4 more. Preview the line-up and save it on soundcheck.
+LUBE4VRIENDJES at RADION on Fri 2 Oct, Amsterdam. 8 acts on the bill: ADHDJ (2), Claire Clover, DJ B2B and HANNAH (NL) and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 29 Aug 2026 |
+| Date | Fri, 2 Oct 2026 |
 | Venue | RADION |
 | City | Amsterdam |
 

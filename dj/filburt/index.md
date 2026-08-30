@@ -1,6 +1,6 @@
 # Filburt
 
-Filburt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kunstkraftwerk, Leipzig on Sat, 12 Sept 2026.
+Filburt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kunstkraftwerk, Leipzig on Sat, 12 Sept 2026.
 
 Filburt is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Leipzig and Prague. Often billed alongside Cubik, Da Moon and Mac-Kee. Next up: Kunstkraftwerk, Leipzig on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Filburt is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Cubik, Da Moon, Mac-Kee
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filburt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/filburt/)*

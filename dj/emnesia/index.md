@@ -1,6 +1,6 @@
 # Emnesia
 
-Emnesia is a Dubstep and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Astoria, Vancouver on Sat, 12 Sept 2026.
+Emnesia is a Dubstep and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Astoria, Vancouver on Sat, 12 Sept 2026.
 
 Emnesia is a dubstep and pop artist based in Canada, tracked on soundcheck, with 11 sets logged across Vancouver. Often billed alongside INDUSTRIALGRADECHILLER, 3DMA and Al Ex. Next up: The Astoria, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Emnesia is a dubstep and pop artist based in Canada, tracked on soundcheck, with
 
 INDUSTRIALGRADECHILLER, 3DMA, Al Ex
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emnesia/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emnesia/)*

@@ -1,6 +1,6 @@
 # Chris Stassy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] at Echostage
 
-Chris Stassy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] at Echostage on Sat 5 Sept, Washingtondc. 3 acts on the bill: Chris Stassy, Jeny Michelle and Locklead. House and Minimal. Preview the line-up and save it on soundcheck.
+Chris Stassy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] at Echostage on Sat 5 Sept, Washingtondc. 3 acts on the bill: Chris Stussy, Jeny Michelle and Locklead. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Chris Stassy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] at Echostage on Sat 5 
 
 ## Line-up
 
-- Chris Stassy
+- Chris Stussy
 - Jeny Michelle
 - Locklead
 

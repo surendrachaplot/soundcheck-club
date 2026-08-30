@@ -1,6 +1,6 @@
 # G&T (2)
 
-G&T (2) is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
+G&T (2) is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
 
 G&T (2) is a garage and uk funky artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside bangus, Amy Os and Art Dealer. Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
 
@@ -24,4 +24,4 @@ G&T (2) is a garage and uk funky artist tracked on soundcheck, with 8 sets logge
 
 bangus, Amy Os, Art Dealer
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gt-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gt-2/)*

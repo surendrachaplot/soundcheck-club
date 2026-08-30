@@ -1,6 +1,6 @@
 # Mark Roma
 
-Mark Roma is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Basing House, London on Sat, 21 Nov 2026.
+Mark Roma is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Basing House, London on Sat, 21 Nov 2026.
 
 Mark Roma is a techno and trance artist tracked on soundcheck, with 6 sets logged across Cologne and London. Often billed alongside Alythia Kwan, Cast Lov and Danny F. Next up: Basing House, London on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Mark Roma is a techno and trance artist tracked on soundcheck, with 6 sets logge
 
 Alythia Kwan, Cast Lov, Danny F
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*

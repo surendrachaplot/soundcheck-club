@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Refuge, New York City on Sat, 29 Aug 2026.
+Alci is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Refuge, New York City on Sat, 29 Aug 2026.
 
 Alci is a house and minimal artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside ANOTR, Flavio (CH) and Danyelino. Next up: Refuge, Newyorkcity on Sat 29 Aug.
 
@@ -16,6 +16,7 @@ Alci is a house and minimal artist tracked on soundcheck, with 108 sets logged a
 
 ## Recently played
 
+- Refuge, New York City — Sat, 29 Aug 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
 - Studio Club Malaga, Malaga — Sat, 18 Jul 2026
 - Bosc Tancat / Diverbosc, Barcelona — Sat, 20 Jun 2026
@@ -23,10 +24,9 @@ Alci is a house and minimal artist tracked on soundcheck, with 108 sets logged a
 - Tokonoma Club, Frankfurt — Fri, 12 Jun 2026
 - Luz De Gas, Barcelona — Sat, 23 May 2026
 - Shelter Amsterdam, Amsterdam — Sat, 2 May 2026
-- Supermarket, Zurich — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 ANOTR, Flavio (CH), Danyelino
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

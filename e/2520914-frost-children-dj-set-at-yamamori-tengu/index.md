@@ -1,6 +1,6 @@
 # Frost Children (DJ SET) at Yamamori Tengu
 
-Frost Children (DJ SET) at Yamamori Tengu on Sun 6 Sept, Dublin. 1 act on the bill: Frost Children. Electro and Club. Preview the line-up and save it on soundcheck.
+Frost Children (DJ SET) at Yamamori Tengu on Sun 6 Sept, Dublin. 2 acts on the bill: 2manycolours and Frost Children. Electro and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Frost Children (DJ SET) at Yamamori Tengu on Sun 6 Sept, Dublin. 1 act on the bi
 
 ## Line-up
 
+- 2manycolours
 - Frost Children
 
 *Source: [soundcheck](https://soundcheck.club/e/2520914-frost-children-dj-set-at-yamamori-tengu/)*

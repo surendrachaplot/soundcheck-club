@@ -1,6 +1,6 @@
 # Shredy
 
-Shredy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
+Shredy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
 
 Shredy is a house and tech house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Losangeles. Often billed alongside MAEYO, hombre plata and Araminta. Next up: TBA - Kramer Junction, CA, Losangeles on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Shredy is a house and tech house artist based in United States of America, track
 
 MAEYO, hombre plata, Araminta
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shredy/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shredy/)*

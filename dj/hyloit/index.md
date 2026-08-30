@@ -1,6 +1,6 @@
 # HYLO (IT)
 
-HYLO (IT) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Anfiteatro Monte Stella, Milan on Sat, 12 Sept 2026.
+HYLO (IT) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Anfiteatro Monte Stella, Milan on Sat, 12 Sept 2026.
 
 HYLO (IT) is an electronic artist based in Italy, tracked on soundcheck, with 31 sets logged across Milan. Often billed alongside Norabee, Flashmob and O.P.S.. Next up: Anfiteatro Monte Stella, Milan on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ HYLO (IT) is an electronic artist based in Italy, tracked on soundcheck, with 31
 
 Norabee, Flashmob, O.P.S.
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyloit/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hyloit/)*

@@ -1,6 +1,6 @@
 # Nik Colk Void
 
-Nik Colk Void is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
+Nik Colk Void is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at International Anthony Burgess Foundation, Manchester on Fri, 9 Oct 2026.
 
 Nik Colk Void is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 8 more. Often billed alongside Klara Lewis, Finlay Shakespeare and Pedro Maia. Next up: International Anthony Burgess Foundation, Manchester on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nik Colk Void is an experimental and techno artist based in United Kingdom, trac
 
 Klara Lewis, Finlay Shakespeare, Pedro Maia
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikcolkvoid/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikcolkvoid/)*

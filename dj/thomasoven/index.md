@@ -1,6 +1,6 @@
 # Thomas Oven
 
-Thomas Oven is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
+Thomas Oven is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Star and Garter, Manchester on Sun, 30 Aug 2026.
 
 Thomas Oven is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Manchester. Often billed alongside caonix, Danny Roach and Dorbachov. Next up: The Star and Garter, Manchester on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Thomas Oven is a techno and trance artist based in United Kingdom, tracked on so
 
 caonix, Danny Roach, Dorbachov
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasoven/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasoven/)*

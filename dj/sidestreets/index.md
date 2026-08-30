@@ -1,6 +1,6 @@
 # SIDESTREETS
 
-SIDESTREETS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Danger Danger, New York City on Fri, 11 Sept 2026.
+SIDESTREETS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Danger Danger, New York City on Fri, 11 Sept 2026.
 
 SIDESTREETS is a house and disco artist tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside The Space Wanderer, Marjorine and TTilawok. Next up: Danger Danger, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ SIDESTREETS is a house and disco artist tracked on soundcheck, with 18 sets logg
 
 The Space Wanderer, Marjorine, TTilawok
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidestreets/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sidestreets/)*

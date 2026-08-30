@@ -1,6 +1,6 @@
 # Scariestgirlintheworld
 
-Scariestgirlintheworld is a IDM and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
+Scariestgirlintheworld is a IDM and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
 
 Scariestgirlintheworld is an idm and hardcore artist tracked on soundcheck, with 8 sets logged across Sydney. Often billed alongside Arsonist, Laces and 1sac. Next up: TBA, Sydney on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Scariestgirlintheworld is an idm and hardcore artist tracked on soundcheck, with
 
 Arsonist, Laces, 1sac
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scariestgirlintheworld/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scariestgirlintheworld/)*

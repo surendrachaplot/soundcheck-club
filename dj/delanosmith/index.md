@@ -1,6 +1,6 @@
 # Delano Smith
 
-Delano Smith is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 12 Sept 2026.
+Delano Smith is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Société des arts technologiques, Montreal on Sat, 12 Sept 2026.
 
 Delano Smith is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Berlin, Chicago, Detroit and Losangeles and 5 more. Often billed alongside Norm Talley, Mike Agent X Clark and Rick Wilhite. Next up: Société des arts technologiques, Montreal on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Delano Smith is a house and techno artist based in United States of America, tra
 
 Norm Talley, Mike Agent X Clark, Rick Wilhite
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delanosmith/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delanosmith/)*

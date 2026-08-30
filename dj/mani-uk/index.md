@@ -1,6 +1,6 @@
 # mani (UK)
 
-mani (UK) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Clock Factory, Bristol on Fri, 11 Sept 2026.
+mani (UK) is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Clock Factory, Bristol on Fri, 11 Sept 2026.
 
 mani (UK) is a drum & bass and techno artist based in China, tracked on soundcheck, with 8 sets logged across Bristol, Istanbul, London and Stockholm. Often billed alongside Michael Diamond, att0sec and sea elegans. Next up: The Clock Factory, Bristol on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ mani (UK) is a drum & bass and techno artist based in China, tracked on soundche
 
 Michael Diamond, att0sec, sea elegans
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mani-uk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mani-uk/)*

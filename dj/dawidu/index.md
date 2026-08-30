@@ -1,6 +1,6 @@
 # Dawidu
 
-Dawidu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
+Dawidu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Auber Garden, Paris on Sun, 30 Aug 2026.
 
 Dawidu is a house and techno artist based in France, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Maxime dB, Sibil (1) and Aline Umber. Next up: Auber Garden, Paris on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Dawidu is a house and techno artist based in France, tracked on soundcheck, with
 
 Maxime dB, Sibil (1), Aline Umber
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*

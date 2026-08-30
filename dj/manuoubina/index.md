@@ -1,6 +1,6 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Sótano Club , Mallorca on Fri, 4 Sept 2026.
+Manu Oubiña is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Sótano Club , Mallorca on Fri, 4 Sept 2026.
 
 Manu Oubiña is a house and electro artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside LUKAS (4), Guile and Medano. Next up: TBA - Sótano Club , Mallorca on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Manu Oubiña is a house and electro artist tracked on soundcheck, with 118 sets 
 
 LUKAS (4), Guile, Medano
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

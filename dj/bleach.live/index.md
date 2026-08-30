@@ -1,6 +1,6 @@
 # BLEACH.LIVE
 
-BLEACH.LIVE is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Monster Ronson's Ichiban Karaoke, Berlin on Sun, 6 Sept 2026.
+BLEACH.LIVE is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Monster Ronson's Ichiban Karaoke, Berlin on Sun, 6 Sept 2026.
 
 BLEACH.LIVE is a disco and house artist tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Nancy Nutter, Mari Corolla and ADAM MUNNINGS. Next up: Monster Ronson's Ichiban Karaoke, Berlin on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ BLEACH.LIVE is a disco and house artist tracked on soundcheck, with 50 sets logg
 
 Nancy Nutter, Mari Corolla, ADAM MUNNINGS
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach.live/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach.live/)*

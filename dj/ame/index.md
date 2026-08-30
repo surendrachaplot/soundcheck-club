@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Âme is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Âme is a techno and house artist tracked on soundcheck, with 350 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -23,6 +23,7 @@
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - Bolivar Beach Bar, Athens — Thu, 27 Aug 2026
 - DC-10, Ibiza — Mon, 24 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
@@ -30,10 +31,9 @@
 - Scorpios, Mykonos — Thu, 30 Jul 2026
 - Lofi, Amsterdam — Fri, 24 Jul 2026
 - Knockdown Center, New York City — Sat, 18 Jul 2026
-- Union Park, Chicago — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

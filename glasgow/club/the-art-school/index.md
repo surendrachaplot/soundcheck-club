@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "[CANCELLED] Carte Blanche // Sunday Service" on Sun, 30 Aug 2026.
+The Art School is a music venue in Glasgow with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "[CANCELLED] Carte Blanche // Sunday Service" on Sun, 30 Aug 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming nights, with line-ups including Bash Man, Bristol Luke, Cari Lekebusch and Charlie P and 2 more. Browse upcoming dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -14,7 +14,7 @@ The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming nig
 | Thu, 10 Sept 2026 | Taikano presents Obscure Shape with JOHNNY5 // AJAY C | Obscure Shape |
 | Thu, 17 Sept 2026 | DUB CLUB: Charlie P & Hometown Sound System | Charlie P, Hometown Sound, James Hometown |
 | Fri, 18 Sept 2026 | BASS INVADERS - Hill52 Radio x Subcity Radio |  |
-| Wed, 23 Sept 2026 | Midnight Riot! with Hayley Zalassi | Hayley Zalassi, JDJ (1), Jude Natural |
+| Wed, 23 Sept 2026 | Midnight Riot! with Hayley Zalassi | Hayley Zalassi, JDJ (1), Jude Natural, Just Rory |
 | Fri, 25 Sept 2026 | PRTY: SLVL - Glasgow | SLVL |
 | Sat, 26 Sept 2026 | ¡SOUNDCLASH!: Hometown Sound System vs Mighty Oak Sound System | Hometown Sound, James Hometown |
 | Fri, 2 Oct 2026 | RUSH - Cari Lekebusch 90's hybrid set | Bash Man, Cari Lekebusch |
@@ -23,4 +23,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 15 upcoming nig
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

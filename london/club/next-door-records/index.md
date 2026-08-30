@@ -1,6 +1,6 @@
 # Next Door Records
 
-Next Door Records is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "My Cuppa Tee x Nextdoor Records - Carnival Afters" on Sun, 30 Aug 2026.
+Next Door Records is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "My Cuppa Tee x Nextdoor Records - Carnival Afters" on Sun, 30 Aug 2026.
 
 Next Door Records is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Denham Audio, Drew Karma, Jamie Funk and leverson and 2 more. Browse upcoming dates, start times and who's playing. 304 Uxbridge Road, London, W12 7LJ, United Kingdom.
 
@@ -16,4 +16,4 @@ Next Door Records is a music venue in London listed on soundcheck. 3 upcoming ni
 
 304 Uxbridge Road, London, W12 7LJ, United Kingdom, London
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*

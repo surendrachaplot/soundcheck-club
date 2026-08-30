@@ -1,14 +1,13 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Warehouse, Toronto on Sat, 29 Aug 2026.
+Bailey Ibbs is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
-Bailey Ibbs is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: TBA - Warehouse, Toronto on Sat 29 Aug.
+Bailey Ibbs is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | TBA - Warehouse | Toronto |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 | Fri, 11 Sept 2026 | Zoo | Geneva |
 | Fri, 18 Sept 2026 | Sidney & Matilda | Sheffield |
@@ -19,6 +18,7 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 159 sets lo
 
 ## Recently played
 
+- TBA - Warehouse, Toronto — Sat, 29 Aug 2026
 - TBA - Outdoor Location, Vancouver — Fri, 28 Aug 2026
 - FOLD, London — Sun, 23 Aug 2026
 - Vittoria Wharf Studio, London — Fri, 21 Aug 2026
@@ -26,10 +26,9 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 159 sets lo
 - Else, Berlin — Fri, 7 Aug 2026
 - Tresor / Globus, Berlin — Fri, 26 Jun 2026
 - Loone, Berlin — Fri, 26 Jun 2026
-- TILLATEC, Amsterdam — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

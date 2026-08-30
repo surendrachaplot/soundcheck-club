@@ -1,6 +1,6 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bauhaus, Houston on Fri, 4 Sept 2026.
+Layla Benitez is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bauhaus, Houston on Fri, 4 Sept 2026.
 
 Layla Benitez is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Bauhaus, Houston on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 156 sets 
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

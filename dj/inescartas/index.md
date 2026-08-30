@@ -1,6 +1,6 @@
 # Ines Cartas
 
-Ines Cartas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
+Ines Cartas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Spook Club, Valencia on Sat, 26 Sept 2026.
 
 Ines Cartas is a house and deep house artist based in Mexico, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Lisbon and Mexicocity and 2 more. Often billed alongside SENERGI, Bastard Love and Fabbs on. Next up: Spook Club, Valencia on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ines Cartas is a house and deep house artist based in Mexico, tracked on soundch
 
 SENERGI, Bastard Love, Fabbs on
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inescartas/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/inescartas/)*

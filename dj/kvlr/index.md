@@ -1,6 +1,6 @@
 # KVLR
 
-KVLR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+KVLR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
 KVLR is a techno and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 5 more. Often billed alongside DJ SOURCE, fbi (1) and yamagucci42. Next up: Renate, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KVLR is a techno and house artist tracked on soundcheck, with 78 sets logged acr
 
 DJ SOURCE, fbi (1), yamagucci42
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kvlr/)*

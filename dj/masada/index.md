@@ -1,6 +1,6 @@
 # masada
 
-masada is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+masada is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
 masada is a techno and tech house artist tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside Cornyjava, Limpid and EXPLICIT. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ masada is a techno and tech house artist tracked on soundcheck, with 4 sets logg
 
 Cornyjava, Limpid, EXPLICIT
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masada/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/masada/)*

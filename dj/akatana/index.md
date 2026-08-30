@@ -1,6 +1,6 @@
 # Akatana
 
-Akatana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
+Akatana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club der Visionaere, Berlin on Sat, 29 Aug 2026.
 
 Akatana is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Paris. Often billed alongside Hubble, Kaloustian and Fanfarrosa. Next up: Club der Visionaere, Berlin on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ Akatana is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
+- Club der Visionaere, Berlin — Sat, 29 Aug 2026
 - Club der Visionaere, Berlin — Sat, 20 Jun 2026
 - Sonnenraum, Berlin — Mon, 4 Nov 2024
 - Le Sample, Paris — Fri, 11 Oct 2024
@@ -20,10 +21,9 @@ Akatana is a house and techno artist based in Germany, tracked on soundcheck, wi
 - Club der Visionaere, Berlin — Tue, 2 Jul 2024
 - La Péniche Cinéma, Paris — Fri, 10 May 2024
 - Bulbul Berlin, Berlin — Sat, 27 Apr 2024
-- Hoppetosse, Berlin — Fri, 19 Apr 2024
 
 ## Shares bills with
 
 Hubble, Kaloustian, Fanfarrosa
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akatana/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akatana/)*

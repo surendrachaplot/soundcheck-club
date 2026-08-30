@@ -1,6 +1,6 @@
 # Niko Nuevo
 
-Niko Nuevo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
+Niko Nuevo is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
 
 Niko Nuevo is an electronica and house artist based in Denmark, tracked on soundcheck, with 15 sets logged across Copenhagen. Often billed alongside Nizzy, Samuel Rees and bon Ronny. Next up: Klub Werkstatt, Copenhagen on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Niko Nuevo is an electronica and house artist based in Denmark, tracked on sound
 
 Nizzy, Samuel Rees, bon Ronny
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikonuevo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikonuevo/)*

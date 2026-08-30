@@ -1,15 +1,13 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 28 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Nü Androids presents SünDown: SOHMI" on Sat, 29 Aug 2026.
+Tigres de la Noche is a music venue in Washington DC with 26 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Nü Androids presents: Chaos In The CBD" on Fri, 4 Sept 2026.
 
-Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 28 upcoming nights, with line-ups including AEREA, Bushbaby, Cezaire and Chinonegro and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 26 upcoming nights, with line-ups including AEREA, Bushbaby, Cezaire and Chinonegro and 2 more. Browse upcoming dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Nü Androids presents SünDown: SOHMI | Motives, SOHMI |
-| Sat, 29 Aug 2026 | Nü Androids presents: Close Friends Only |  |
 | Fri, 4 Sept 2026 | Nü Androids presents: Chaos In The CBD |  |
 | Sat, 5 Sept 2026 | Nü Androids presents SünDown: Murphy's Law |  |
 | Sun, 6 Sept 2026 | Sh00k Ones x Nü Androids present: RSquared |  |
@@ -18,9 +16,11 @@ Tigres de la Noche is a music venue in Washingtondc listed on soundcheck. 28 upc
 | Sat, 12 Sept 2026 | Nü Androids presents SünDown: Bushbaby | Bushbaby, Rawle Night Long |
 | Fri, 18 Sept 2026 | Cezaire: Space Between Volume 3 | Cezaire |
 | Sat, 19 Sept 2026 | Nü Androids presents SünDown: Mishell |  |
+| Sat, 19 Sept 2026 | Nü Androids presents: Main Phase | Main Phase |
+| Thu, 24 Sept 2026 | Nü Androids presents: dublon | Dublon |
 
 ## Address
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

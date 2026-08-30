@@ -1,6 +1,6 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Grant Nelson is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
 Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 10 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
@@ -15,6 +15,7 @@ Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets lo
 
 ## Recently played
 
+- Kelvedon Hall, London — Sat, 29 Aug 2026
 - Cova Santa, Ibiza — Tue, 18 Aug 2026
 - The Racket Space, Dublin — Fri, 12 Jun 2026
 - Steelyard Kelham, Sheffield — Sun, 24 May 2026
@@ -22,10 +23,9 @@ Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets lo
 - Oculist, Brighton — Thu, 21 May 2026
 - fabric, London — Sat, 18 Apr 2026
 - Studio 338, London — Sat, 7 Mar 2026
-- Night Tales Loft, London — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

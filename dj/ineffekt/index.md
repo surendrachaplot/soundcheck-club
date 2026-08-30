@@ -1,6 +1,6 @@
 # Ineffekt
 
-Ineffekt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Ineffekt is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Ineffekt is a house and techno artist based in Netherlands, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 9 more. Often billed alongside Avalon Emerson, Sedef Adasï and Elias Mazian. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ineffekt is a house and techno artist based in Netherlands, tracked on soundchec
 
 Avalon Emerson, Sedef Adasï, Elias Mazian
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ineffekt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ineffekt/)*

@@ -1,14 +1,15 @@
 # Morten
 
-Morten is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at [UNVRS], Ibiza on Fri, 4 Sept 2026.
+Morten is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at [UNVRS], Ibiza on Fri, 4 Sept 2026.
 
-Morten is a house and progressive house artist based in Denmark, tracked on soundcheck, with 29 sets logged across Barcelona, Budapest, Buenosaires and Copenhagen and 11 more. Often billed alongside David Guetta, Artbat and Morten Talking. Next up: [UNVRS], Ibiza on Fri 4 Sept.
+Morten is a house and progressive house artist based in Denmark, tracked on soundcheck, with 30 sets logged across Barcelona, Budapest, Buenosaires and Copenhagen and 11 more. Often billed alongside David Guetta, Artbat and Morten Talking. Next up: [UNVRS], Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 31 Oct 2026 | Academy LA | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Morten is a house and progressive house artist based in Denmark, tracked on soun
 
 David Guetta, Artbat, Morten Talking
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*

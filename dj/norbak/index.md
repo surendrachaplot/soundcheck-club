@@ -1,8 +1,8 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Fuse, Brussels on Sat, 5 Sept 2026.
+Nørbak is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fuse, Brussels on Sat, 5 Sept 2026.
 
-Nørbak is a techno and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Fuse, Brussels on Sat 5 Sept.
+Nørbak is a techno and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Fuse, Brussels on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Nørbak is a techno and house artist tracked on soundcheck, with 136 sets logged
 | Sat, 26 Sept 2026 | Razzmatazz | Barcelona |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | The Bassement | Madrid |
+| Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -32,4 +33,4 @@ Nørbak is a techno and house artist tracked on soundcheck, with 136 sets logged
 
 Temudo, Quelza, CRAVO
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

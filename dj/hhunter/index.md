@@ -1,6 +1,6 @@
 # hhunter
 
-hhunter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+hhunter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 hhunter is a techno and house artist tracked on soundcheck, with 74 sets logged across Austin, Chicago, Detroit and Losangeles and 7 more. Often billed alongside Elarm, Kula and Flores Negras. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ hhunter is a techno and house artist tracked on soundcheck, with 74 sets logged 
 
 Elarm, Kula, Flores Negras
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hhunter/)*

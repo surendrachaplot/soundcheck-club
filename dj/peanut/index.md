@@ -1,6 +1,6 @@
 # Peanut
 
-Peanut is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Abercrombie Hotel, Sydney on Fri, 4 Sept 2026.
+Peanut is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Abercrombie Hotel, Sydney on Fri, 4 Sept 2026.
 
 Peanut is a dub techno and techno artist tracked on soundcheck, with 14 sets logged across Glasgow, Hamburg, London and Sydney. Often billed alongside dj peanut, Sloan (2) and Command D (1). Next up: Abercrombie Hotel, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Peanut is a dub techno and techno artist tracked on soundcheck, with 14 sets log
 
 dj peanut, Sloan (2), Command D (1)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peanut/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peanut/)*

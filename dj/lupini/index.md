@@ -1,6 +1,6 @@
 # Lupini
 
-Lupini is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kapsule, Liverpool on Sat, 17 Oct 2026.
+Lupini is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kapsule, Liverpool on Sat, 17 Oct 2026.
 
 Lupini is an electronica and house artist tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Copenhagen and Glasgow and 6 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: Kapsule, Liverpool on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lupini is an electronica and house artist tracked on soundcheck, with 55 sets lo
 
 Cowper, Annabel Fraser, Chez de Milo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*

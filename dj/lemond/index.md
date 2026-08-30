@@ -1,6 +1,6 @@
 # Lemon D
 
-Lemon D is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Social, London on Sat, 7 Nov 2026.
+Lemon D is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Social, London on Sat, 7 Nov 2026.
 
 Lemon D is a drum & bass and jungle artist tracked on soundcheck, with 23 sets logged across Birmingham, Bristol, Leeds and London and 2 more. Often billed alongside Dillinja, IC3 and MC GQ. Next up: The Social, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lemon D is a drum & bass and jungle artist tracked on soundcheck, with 23 sets l
 
 Dillinja, IC3, MC GQ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemond/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lemond/)*

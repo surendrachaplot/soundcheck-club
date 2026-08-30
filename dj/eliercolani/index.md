@@ -1,6 +1,6 @@
 # Eli Ercolani
 
-Eli Ercolani is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at City Hall, Barcelona on Tue, 22 Sept 2026.
+Eli Ercolani is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at City Hall, Barcelona on Tue, 22 Sept 2026.
 
 Eli Ercolani is a techno and minimal artist based in Italy, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Guille Gironde (2) and Enzo Lira. Next up: City Hall, Barcelona on Tue 22 Sept.
 
@@ -18,4 +18,4 @@ Eli Ercolani is a techno and minimal artist based in Italy, tracked on soundchec
 
 Guille Gironde (2), Enzo Lira
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliercolani/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliercolani/)*

@@ -1,6 +1,6 @@
 # ALDES (2)
 
-ALDES (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+ALDES (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
 ALDES (2) is a techno and industrial artist tracked on soundcheck, with 4 sets logged across Budapest and Madrid. Often billed alongside DUGASZ, GØBLIN and Menace Annihilation. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ ALDES (2) is a techno and industrial artist tracked on soundcheck, with 4 sets l
 
 DUGASZ, GØBLIN, Menace Annihilation
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldes-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldes-2/)*

@@ -1,6 +1,6 @@
 # DJ Kane (1)
 
-DJ Kane (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
+DJ Kane (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club Cheek, London on Sun, 30 Aug 2026.
 
 DJ Kane (1) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside MC Gusto, Congo Natty and Decibella. Next up: Club Cheek, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ DJ Kane (1) is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 MC Gusto, Congo Natty, Decibella
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkane-1/)*

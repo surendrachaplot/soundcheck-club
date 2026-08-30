@@ -1,6 +1,6 @@
 # Nemea6
 
-Nemea6 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Usquare, Brussels on Fri, 11 Sept 2026.
+Nemea6 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Usquare, Brussels on Fri, 11 Sept 2026.
 
 Nemea6 is a trance and techno artist tracked on soundcheck, with 6 sets logged across Brussels. Often billed alongside Kat (BE), AZA and CUERVA. Next up: Usquare, Brussels on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Nemea6 is a trance and techno artist tracked on soundcheck, with 6 sets logged a
 
 Kat (BE), AZA, CUERVA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nemea6/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nemea6/)*

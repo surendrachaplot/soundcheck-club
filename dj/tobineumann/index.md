@@ -1,6 +1,6 @@
 # Tobi Neumann
 
-Tobi Neumann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
+Tobi Neumann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club der Visionaere, Berlin on Tue, 1 Sept 2026.
 
 Tobi Neumann is a techno and house artist tracked on soundcheck, with 58 sets logged across Basel, Berlin, Brussels and Cologne and 11 more. Often billed alongside Britta Arnold, Chris Di Perri and Maurizio Schmitz. Next up: Club der Visionaere, Berlin on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Tobi Neumann is a techno and house artist tracked on soundcheck, with 58 sets lo
 
 Britta Arnold, Chris Di Perri, Maurizio Schmitz
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobineumann/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tobineumann/)*

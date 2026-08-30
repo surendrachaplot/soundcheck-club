@@ -1,6 +1,6 @@
 # WaV
 
-WaV is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "State of Mind - The Launch" on Sun, 30 Aug 2026.
+WaV is a music venue in Liverpool with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "State of Mind - The Launch" on Sun, 30 Aug 2026.
 
 WaV is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with line-ups including Aidyscape, Blasha & Allatt, Ciaran McAuley and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
@@ -22,4 +22,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 9 upcoming nights, with 
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

@@ -1,6 +1,6 @@
 # JALE
 
-JALE is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lido Fantastico, Naples on Fri, 4 Sept 2026.
+JALE is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lido Fantastico, Naples on Fri, 4 Sept 2026.
 
 JALE is a house and electronica artist tracked on soundcheck, with 13 sets logged across Melbourne, Milan and Naples. Often billed alongside BabyG, Onur Özer and RAMSEY (AU). Next up: Lido Fantastico, Naples on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JALE is a house and electronica artist tracked on soundcheck, with 13 sets logge
 
 BabyG, Onur Özer, RAMSEY (AU)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jale/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jale/)*

@@ -1,6 +1,6 @@
 # TBA - Secret DTLA warehouse
 
-TBA - Secret DTLA warehouse is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "HYPNOSIS 001: Mama J's Birthday Celebration" on Sun, 6 Sept 2026.
+TBA - Secret DTLA warehouse is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "HYPNOSIS 001: Mama J's Birthday Celebration" on Sun, 6 Sept 2026.
 
 TBA - Secret DTLA warehouse is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret DTLA warehouse is a music venue in Losangeles listed on soundcheck.
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | HYPNOSIS 001: Mama J's Birthday Celebration |  |
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-secret-dtla-warehouse/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-secret-dtla-warehouse/)*

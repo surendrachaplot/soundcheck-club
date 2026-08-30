@@ -1,18 +1,18 @@
 # CHINO [AR]
 
-CHINO [AR] is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tigullio, Malta on Sat, 29 Aug 2026.
+CHINO [AR] is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Malta on Sun, 30 Aug 2026.
 
-CHINO [AR] is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 17 sets logged across Malta. Often billed alongside Abdy, DJ Ruby and Florian François. Next up: Tigullio, Malta on Sat 29 Aug.
+CHINO [AR] is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 17 sets logged across Malta. Often billed alongside Abdy, DJ Ruby and Florian François. Next up: TBA, Malta on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Tigullio | Malta |
 | Sun, 30 Aug 2026 | TBA | Malta |
 
 ## Recently played
 
+- Tigullio, Malta — Sat, 29 Aug 2026
 - Exiles Beach Sliema, Malta — Fri, 17 Jul 2026
 - Tigullio, Malta — Fri, 8 May 2026
 - Tigullio, Malta — Fri, 3 Apr 2026
@@ -20,10 +20,9 @@ CHINO [AR] is a techno and progressive house artist based in Argentina, tracked 
 - BMX Warehouse, Malta — Sun, 1 Mar 2026
 - Tigullio, Malta — Fri, 20 Feb 2026
 - Tigullio, Malta — Sat, 24 Jan 2026
-- The ORB, Malta — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Abdy, DJ Ruby, Florian François
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinoar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinoar/)*

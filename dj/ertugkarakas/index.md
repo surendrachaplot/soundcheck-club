@@ -1,6 +1,6 @@
 # Ertug Karakas
 
-Ertug Karakas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Klein, Istanbul on Sun, 30 Aug 2026.
+Ertug Karakas is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Klein, Istanbul on Sun, 30 Aug 2026.
 
 Ertug Karakas is a techno and house artist based in Turkey, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Istanbul and Malta. Often billed alongside BUSSI, Fratello and Jadeite. Next up: Klein, Istanbul on Sun 30 Aug.
 
@@ -25,4 +25,4 @@ Ertug Karakas is a techno and house artist based in Turkey, tracked on soundchec
 
 BUSSI, Fratello, Jadeite
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ertugkarakas/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ertugkarakas/)*

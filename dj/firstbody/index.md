@@ -1,6 +1,6 @@
 # First Body
 
-First Body is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 5 Sept 2026.
+First Body is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 5 Sept 2026.
 
 First Body is an ambient and downtempo artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Bias, Big Hands and Blu Aloé. Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ First Body is an ambient and downtempo artist tracked on soundcheck, with 4 sets
 
 Bias, Big Hands, Blu Aloé
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/firstbody/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/firstbody/)*

@@ -1,6 +1,6 @@
 # Neighbourhood Watch 3 at Mary St Live
 
-Neighbourhood Watch 3 at Mary St Live on Sat 3 Oct, Sheffield. 1 act on the bill: Movement81. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Neighbourhood Watch 3 at Mary St Live on Sat 3 Oct, Sheffield. 2 acts on the bill: Curtain Twitcher and Movement81. IDM and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Neighbourhood Watch 3 at Mary St Live on Sat 3 Oct, Sheffield. 1 act on the bill
 
 ## Line-up
 
+- Curtain Twitcher
 - Movement81
 
 *Source: [soundcheck](https://soundcheck.club/e/2501970-neighbourhood-watch-3-at-mary-st-live/)*

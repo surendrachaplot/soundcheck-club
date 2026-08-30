@@ -1,8 +1,8 @@
 # The Loft Amsterdam
 
-The Loft Amsterdam is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Overbruggen x Hot Since 82' - Loft Sunset - ADE " on Wed, 21 Oct 2026.
+The Loft Amsterdam is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Overbruggen x Hot Since 82' - Loft Sunset - ADE " on Wed, 21 Oct 2026.
 
-The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Chloé Caillet, D Stone, Hot Since 82 and Naomi (Berlin) and 1 more. Browse upcoming dates, start times and who's playing. 1031 KS, Overhoeksplein 1.
+The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Chloé Caillet, D Stone, Hot Since 82 and Naomi (Berlin) and 1 more. Browse upcoming dates, start times and who's playing. 1031 KS, Overhoeksplein 1.
 
 ## What's on
 
@@ -15,9 +15,10 @@ The Loft Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcomin
 | Sat, 24 Oct 2026 | THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó |  |
 | Sat, 24 Oct 2026 | THE LOFT presents: Franky Rizardo |  |
 | Mon, 26 Oct 2026 | ADE Closing Party - The Loft |  |
+| Fri, 27 Nov 2026 | The Loft presents: Kybbaholic |  |
 
 ## Address
 
 1031 KS, Overhoeksplein 1, Amsterdam
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-loft-amsterdam/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-loft-amsterdam/)*

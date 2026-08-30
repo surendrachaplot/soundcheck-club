@@ -1,6 +1,6 @@
 # Eran Aviner
 
-Eran Aviner is a Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Joyt, Antwerp on Sun, 30 Aug 2026.
+Eran Aviner is a Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Joyt, Antwerp on Sun, 30 Aug 2026.
 
 Eran Aviner is a progressive house artist based in Belgium, tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Belgrade and Warsaw. Often billed alongside Sebastien Leger, Guy J and Roy Rosenfeld. Next up: Joyt, Antwerp on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Eran Aviner is a progressive house artist based in Belgium, tracked on soundchec
 
 Sebastien Leger, Guy J, Roy Rosenfeld
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eranaviner/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eranaviner/)*

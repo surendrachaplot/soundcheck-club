@@ -1,6 +1,6 @@
 # SBBS
 
-SBBS is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Distillery N17, London on Sun, 30 Aug 2026.
+SBBS is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery N17, London on Sun, 30 Aug 2026.
 
 SBBS is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Brighton, London, Manchester and Mexicocity. Often billed alongside Varanasi, Gridlock and RayRay. Next up: Distillery N17, London on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ SBBS is a techno and tech house artist tracked on soundcheck, with 25 sets logge
 
 Varanasi, Gridlock, RayRay
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbbs/)*

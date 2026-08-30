@@ -1,14 +1,15 @@
 # FAF (1)
 
-FAF (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 17 Sept 2026.
+FAF (1) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 17 Sept 2026.
 
-FAF (1) is a house and techno artist based in Australia, tracked on soundcheck, with 9 sets logged across Madrid and Melbourne. Often billed alongside Anima Omada, Cosy (2) and Naycab. Next up: Angel Music Bar, Melbourne on Thu 17 Sept.
+FAF (1) is a house and garage artist based in Australia, tracked on soundcheck, with 10 sets logged across Madrid and Melbourne. Often billed alongside Anima Omada, Cosy (2) and Naycab. Next up: Angel Music Bar, Melbourne on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Angel Music Bar | Melbourne |
+| Sat, 19 Sept 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FAF (1) is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Anima Omada, Cosy (2), Naycab
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*

@@ -1,6 +1,6 @@
 # Foubert
 
-Foubert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
+Foubert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
 
 Foubert is a techno and house artist tracked on soundcheck, with 6 sets logged across Antwerp and Ghent. Often billed alongside DJ Gorgo, DJ Peugeot and Rozevelt. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
 
@@ -23,4 +23,4 @@ Foubert is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 DJ Gorgo, DJ Peugeot, Rozevelt
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foubert/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foubert/)*

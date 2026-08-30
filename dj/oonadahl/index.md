@@ -1,6 +1,6 @@
 # Öona Dahl
 
-Öona Dahl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
+Öona Dahl is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
 
 Öona Dahl is a house and techno artist tracked on soundcheck, with 54 sets logged across Austin, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Three, Anton Tumas and Sydney Blu. Next up: Flash, Washingtondc on Sat 5 Sept.
 
@@ -26,4 +26,4 @@
 
 DJ Three, Anton Tumas, Sydney Blu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*

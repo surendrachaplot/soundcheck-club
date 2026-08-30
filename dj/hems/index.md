@@ -1,6 +1,6 @@
 # Hems
 
-Hems is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at KGR(n), Tokyo on Thu, 8 Oct 2026.
+Hems is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KGR(n), Tokyo on Thu, 8 Oct 2026.
 
 Hems is an ambient and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, London and Osaka and 2 more. Often billed alongside Ario, Lynne and Buttechno. Next up: KGR(n), Tokyo on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Hems is an ambient and techno artist based in United Kingdom, tracked on soundch
 
 Ario, Lynne, Buttechno
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hems/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hems/)*

@@ -1,14 +1,15 @@
 # Tina Edwards
 
-Tina Edwards is a Jazz and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Grow, London on Sat, 21 Nov 2026.
+Tina Edwards is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Grow, London on Sat, 21 Nov 2026.
 
-Tina Edwards is a jazz and funk / soul artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, Glasgow, Leeds and London and 4 more. Often billed alongside Tim Garcia, Joi La Frique and Nonna Fab. Next up: Grow, London on Sat 21 Nov.
+Tina Edwards is a jazz and funk / soul artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Brighton, Glasgow, Leeds and London and 4 more. Often billed alongside Tim Garcia, Joi La Frique and Nonna Fab. Next up: Grow, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Grow | London |
+| Fri, 27 Nov 2026 | Hope House | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tina Edwards is a jazz and funk / soul artist based in United Kingdom, tracked o
 
 Tim Garcia, Joi La Frique, Nonna Fab
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaedwards/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinaedwards/)*

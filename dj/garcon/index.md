@@ -1,6 +1,6 @@
 # Garçon
 
-Garçon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Garçon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Garçon is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside Agonis, Timnah and Konduku. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Garçon is a techno and house artist tracked on soundcheck, with 82 sets logged 
 
 Agonis, Timnah, Konduku
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

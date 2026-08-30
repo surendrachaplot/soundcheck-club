@@ -1,6 +1,6 @@
 # Elle (AU)
 
-Elle (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Solace, Melbourne on Fri, 18 Sept 2026.
+Elle (AU) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Solace, Melbourne on Fri, 18 Sept 2026.
 
 Elle (AU) is a techno and trance artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside Willem (AU), Missé and Monfreaq. Next up: Solace, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Elle (AU) is a techno and trance artist based in Australia, tracked on soundchec
 
 Willem (AU), Missé, Monfreaq
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elle-3/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elle-3/)*

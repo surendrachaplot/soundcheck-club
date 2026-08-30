@@ -1,22 +1,23 @@
 # Cris-H
 
-Cris-H is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Manii Beach, Amsterdam on Sat, 29 Aug 2026.
+Cris-H is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Senang - Hoek van Holland, The Hague on Sat, 5 Sept 2026.
 
-Cris-H is a progressive house and deep house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Manii Beach, Amsterdam on Sat 29 Aug.
+Cris-H is a progressive house and deep house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Senang - Hoek van Holland, Thehague on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Manii Beach | Amsterdam |
 | Sat, 5 Sept 2026 | Senang - Hoek van Holland | The Hague |
 | Wed, 21 Oct 2026 | Zum Barbarossa | Amsterdam |
+| Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
 | Sat, 24 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played
 
+- Manii Beach, Amsterdam — Sat, 29 Aug 2026
 - Blue Summer Ibiza Boat, Ibiza — Sun, 16 Aug 2026
 - Paal69, Amsterdam — Sat, 15 Aug 2026
 - Supperclub Cruise, Amsterdam — Sat, 1 Aug 2026
@@ -24,10 +25,9 @@ Cris-H is a progressive house and deep house artist tracked on soundcheck, with 
 - Paal69, Amsterdam — Fri, 29 May 2026
 - Loods 12, Amsterdam — Fri, 22 May 2026
 - Kadinsky Cafe, Amsterdam — Sat, 9 May 2026
-- Hotel Arena, Amsterdam — Mon, 27 Apr 2026
 
 ## Shares bills with
 
 Paul Sparkes, Prismode, Solvane
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*

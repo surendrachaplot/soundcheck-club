@@ -1,6 +1,6 @@
 # Maus Hábitos
 
-Maus Hábitos is a music venue in Porto with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Rapture with AlFaer, Vivax - FREE ENTRY" on Sat, 5 Sept 2026.
+Maus Hábitos is a music venue in Porto with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Rapture with AlFaer, Vivax - FREE ENTRY" on Sat, 5 Sept 2026.
 
 Maus Hábitos is a music venue in Porto listed on soundcheck. 1 upcoming night, with line-ups including AlFaer and Vivax. Browse upcoming dates, start times and who's playing. Porto.
 
@@ -14,4 +14,4 @@ Maus Hábitos is a music venue in Porto listed on soundcheck. 1 upcoming night, 
 
 Porto, Porto
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/maus-h-bitos/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/maus-h-bitos/)*

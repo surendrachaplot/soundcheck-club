@@ -1,6 +1,6 @@
 # FRANCO (UK)
 
-FRANCO (UK) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Peggy Sues Music Bar, London on Sat, 3 Oct 2026.
+FRANCO (UK) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Peggy Sues Music Bar, London on Sat, 3 Oct 2026.
 
 FRANCO (UK) is a techno and progressive house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside DJ-Roo, AzilA and Brigado Crew. Next up: Peggy Sues Music Bar, London on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ FRANCO (UK) is a techno and progressive house artist tracked on soundcheck, with
 
 DJ-Roo, AzilA, Brigado Crew
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francouk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francouk/)*

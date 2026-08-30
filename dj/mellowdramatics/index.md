@@ -1,6 +1,6 @@
 # Mellowdramatics
 
-Mellowdramatics is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 4 Sept 2026.
+Mellowdramatics is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 4 Sept 2026.
 
 Mellowdramatics is a club and techno artist tracked on soundcheck, with 30 sets logged across Glasgow and London. Often billed alongside John T. Gast, Authentically Plastic and Conrad Pack. Next up: EXIT Glasgow, Glasgow on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Mellowdramatics is a club and techno artist tracked on soundcheck, with 30 sets 
 
 John T. Gast, Authentically Plastic, Conrad Pack
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*

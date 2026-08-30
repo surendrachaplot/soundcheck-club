@@ -1,6 +1,6 @@
 # Todepond
 
-Todepond is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
+Todepond is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Carpet Shop, London on Wed, 16 Sept 2026.
 
 Todepond is an electronica and experimental artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside 2xAA, James Holden and MYNA. Next up: The Carpet Shop, London on Wed 16 Sept.
 
@@ -20,4 +20,4 @@ Todepond is an electronica and experimental artist tracked on soundcheck, with 4
 
 2xAA, James Holden, MYNA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/todepond/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/todepond/)*

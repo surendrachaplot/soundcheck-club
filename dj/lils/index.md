@@ -1,6 +1,6 @@
 # Lils
 
-Lils is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
+Lils is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Palais, London on Sun, 20 Sept 2026.
 
 Lils is a house and garage artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Bristol, Liverpool, London and Manchester and 1 more. Often billed alongside Miggs, Alien Izz and DAIZ. Next up: Palais, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Lils is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 Miggs, Alien Izz, DAIZ
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lils/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lils/)*

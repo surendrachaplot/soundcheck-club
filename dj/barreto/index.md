@@ -1,6 +1,6 @@
 # Barreto
 
-Barreto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
+Barreto is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Drama Radio Bar, Mexico City on Tue, 25 Aug 2026.
 
 Barreto is a house and deep house artist based in Mexico, tracked on soundcheck, with 88 sets logged across Lisbon, Mexicocity, Miami and Paris. Often billed alongside papa jazz, Irena Stanisic and Duke Skylocker (Disco Dust). Next up: Drama Radio Bar, Mexicocity on Tue 25 Aug.
 
@@ -25,4 +25,4 @@ Barreto is a house and deep house artist based in Mexico, tracked on soundcheck,
 
 papa jazz, Irena Stanisic, Duke Skylocker (Disco Dust)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barreto/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barreto/)*

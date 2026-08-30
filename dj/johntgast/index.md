@@ -1,6 +1,6 @@
 # John T. Gast
 
-John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Masseria Ferraioli - Afragola, Naples on Sun, 6 Sept 2026.
+John T. Gast is a Experimental and Dub artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Masseria Ferraioli - Afragola, Naples on Sun, 6 Sept 2026.
 
 John T. Gast is an experimental and dub artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Devon Rexi, i-sha and Carrier. Next up: TBA - Masseria Ferraioli - Afragola, Naples on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ John T. Gast is an experimental and dub artist tracked on soundcheck, with 65 se
 
 Devon Rexi, i-sha, Carrier
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntgast/)*

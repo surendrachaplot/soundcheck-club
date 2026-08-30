@@ -1,6 +1,6 @@
 # Let It Roll Halloween Winter WRMP - Tantrum Desire at Distrikt
 
-Let It Roll Halloween Winter WRMP - Tantrum Desire at Distrikt on Fri 30 Oct, Prague. 2 acts on the bill: Databass and Tantrum Desire. Drum & Bass and Broken Beat. Preview the line-up and save it on soundcheck.
+Let It Roll Halloween Winter WRMP - Tantrum Desire at Distrikt on Fri 30 Oct, Prague. 3 acts on the bill: Databass, Tantrum Desire and Tony Terra. Drum & Bass and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Let It Roll Halloween Winter WRMP - Tantrum Desire at Distrikt on Fri 30 Oct, Pr
 
 - Databass
 - Tantrum Desire
+- Tony Terra
 
 *Source: [soundcheck](https://soundcheck.club/e/2498094-let-it-roll-halloween-winter-wrmp-tantrum-desire-at-distrikt/)*

@@ -1,15 +1,13 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Soft Structure 3" on Sat, 29 Aug 2026.
+QQQ ST. Park is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "PROPER DRUM & BASS" on Fri, 4 Sept 2026.
 
-QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 10 upcoming nights, with line-ups including anna(n), Charlotte Rooney, Charms and Darcy Justice and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
+QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including anna(n), Charlotte Rooney, Charms and KINEKTA and 2 more. Browse upcoming dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Soft Structure 3 | Darcy Justice, Kate Miller, Rakhi, Willis Anne |
-| Sat, 29 Aug 2026 | Soft Structure 03 | Darcy Justice, Kate Miller, Rakhi, Willis Anne |
 | Fri, 4 Sept 2026 | PROPER DRUM & BASS | KINEKTA, Stackpackers |
 | Sat, 5 Sept 2026 | TOR 01 | Charlotte Rooney |
 | Fri, 11 Sept 2026 | SWRVE X6 |  |
@@ -23,4 +21,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 10 upcoming nig
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

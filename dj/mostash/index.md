@@ -1,6 +1,6 @@
 # MOSTASH
 
-MOSTASH is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
+MOSTASH is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Midway, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 MOSTASH is a deep house and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Sanfrancisco and Tokyo. Often billed alongside SAGMO, ALMAS and Emanate. Next up: The Midway, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MOSTASH is a deep house and house artist based in United States of America, trac
 
 SAGMO, ALMAS, Emanate
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mostash/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mostash/)*

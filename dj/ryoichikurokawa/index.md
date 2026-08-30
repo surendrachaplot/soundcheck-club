@@ -1,6 +1,6 @@
 # Ryoichi Kurokawa
 
-Ryoichi Kurokawa is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Ryoichi Kurokawa is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck, with 6 sets logged across Barcelona, Mexicocity, Seoul and Tbilisi. Often billed alongside Ali M. Demirel, Kazuya Nagaya and Maurice Jones. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Ryoichi Kurokawa is an experimental and electronica artist tracked on soundcheck
 
 Ali M. Demirel, Kazuya Nagaya, Maurice Jones
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryoichikurokawa/)*

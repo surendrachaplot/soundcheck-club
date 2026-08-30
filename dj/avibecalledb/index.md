@@ -1,6 +1,6 @@
 # A Vibe Called B
 
-A Vibe Called B is a R&B and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sun, 13 Sept 2026.
+A Vibe Called B is a R&B and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sun, 13 Sept 2026.
 
 A Vibe Called B is a r&b and funk / soul artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside BINA, BillyJ and Claudine Mayari. Next up: Queen Elizabeth Olympic Park, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ A Vibe Called B is a r&b and funk / soul artist based in United Kingdom, tracked
 
 BINA, BillyJ, Claudine Mayari
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avibecalledb/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avibecalledb/)*

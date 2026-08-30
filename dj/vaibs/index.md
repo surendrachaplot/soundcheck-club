@@ -1,6 +1,6 @@
 # VAIBS
 
-VAIBS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tuff Club, Singapore on Sat, 5 Sept 2026.
+VAIBS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tuff Club, Singapore on Sat, 5 Sept 2026.
 
 VAIBS is a techno and house artist tracked on soundcheck, with 92 sets logged across Bali, Bangkok, Kualalumpur and Seoul and 1 more. Often billed alongside DEZ (SG), sho&tell and Kevin Sy. Next up: Tuff Club, Singapore on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ VAIBS is a techno and house artist tracked on soundcheck, with 92 sets logged ac
 
 DEZ (SG), sho&tell, Kevin Sy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vaibs/)*

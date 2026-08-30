@@ -1,16 +1,16 @@
 # Tiga
 
-Tiga is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 29 Aug 2026.
+Tiga is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Tiga is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 29 Aug.
+Tiga is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 4 Sept 2026 | smartbar | Chicago |
+| Sat, 5 Sept 2026 | Fulton Fish Market - Hunts Point | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 3 Oct 2026 | OCZKI | Warsaw |
 | Fri, 9 Oct 2026 | FOLD | London |
@@ -22,6 +22,7 @@ Tiga is a techno and house artist tracked on soundcheck, with 116 sets logged ac
 
 ## Recently played
 
+- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 29 Aug 2026
 - Maya Beach Experience, Naples — Sat, 22 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Switch, Porto — Sat, 11 Jul 2026
@@ -29,10 +30,9 @@ Tiga is a techno and house artist tracked on soundcheck, with 116 sets logged ac
 - Standard Time, Toronto — Fri, 5 Jun 2026
 - Russell Industrial Center, Detroit — Mon, 25 May 2026
 - Hart Plaza, Detroit — Sat, 23 May 2026
-- The Sanctuary Milan, Milan — Sat, 23 May 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

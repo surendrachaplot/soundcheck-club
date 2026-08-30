@@ -1,6 +1,6 @@
 # Gōdō
 
-Gōdō is a Club and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - romita napoli, Naples on Thu, 3 Sept 2026.
+Gōdō is a Club and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - romita napoli, Naples on Thu, 3 Sept 2026.
 
 Gōdō is a club and minimal artist tracked on soundcheck, with 14 sets logged across Amsterdam, Bangkok, Barcelona and London and 3 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and Adi. Next up: TBA - romita napoli, Naples on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Gōdō is a club and minimal artist tracked on soundcheck, with 14 sets logged a
 
 Benny (El Rio Hostel), Mila Morr, Adi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*

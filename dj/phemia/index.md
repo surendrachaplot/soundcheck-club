@@ -1,6 +1,6 @@
 # Phemia
 
-Phemia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TRAUM, Antwerp on Sat, 19 Sept 2026.
+Phemia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TRAUM, Antwerp on Sat, 19 Sept 2026.
 
 Phemia is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside WLKR, Herton and Border One. Next up: TRAUM, Antwerp on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Phemia is a techno and house artist tracked on soundcheck, with 51 sets logged a
 
 WLKR, Herton, Border One
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phemia/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/phemia/)*

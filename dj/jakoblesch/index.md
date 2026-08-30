@@ -1,6 +1,6 @@
 # Jakob Lesch
 
-Jakob Lesch is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at SAGE, Berlin on Sun, 30 Aug 2026.
+Jakob Lesch is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at SAGE, Berlin on Sun, 30 Aug 2026.
 
 Jakob Lesch is a techno and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Bangkok, Berlin and Frankfurt and 4 more. Often billed alongside Tuna (DE), Daria Zadekova and Bonq. Next up: SAGE, Berlin on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Jakob Lesch is a techno and tech house artist tracked on soundcheck, with 34 set
 
 Tuna (DE), Daria Zadekova, Bonq
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakoblesch/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakoblesch/)*

@@ -1,14 +1,13 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "FLASHBACK - Techno Classics" on Sat, 29 Aug 2026.
+Grelle Forelle is a music venue in Vienna with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "push" on Fri, 4 Sept 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Alba Franch, Aleta, Amøn and ASCHENBRENNER and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 6 upcoming nights, with line-ups including Alba Franch, Aleta, Amøn and ASCHENBRENNER and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | FLASHBACK - Techno Classics |  |
 | Fri, 4 Sept 2026 | push | Aleta, Caniche, Carmen Electro, Gydah, Lila Gold (2), Lucia Lu, Mischa Beton |
 | Sat, 5 Sept 2026 | MIXED with Alba Franch & Amøn | ASCHENBRENNER, Alba Franch, Amøn, SUITSIDE |
 | Fri, 11 Sept 2026 | SCHRANZ is BACK with Felix Kröcher -  < Grelle Forelle - Vienna | Felix Kröcher |
@@ -20,4 +19,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming night
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

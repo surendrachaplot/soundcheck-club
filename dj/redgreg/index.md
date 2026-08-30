@@ -1,6 +1,6 @@
 # Red Greg
 
-Red Greg is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Djoon, Paris on Fri, 4 Sept 2026.
+Red Greg is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Djoon, Paris on Fri, 4 Sept 2026.
 
 Red Greg is a disco and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Seiji Ono, Mafalda and Mendel. Next up: Djoon, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Red Greg is a disco and house artist based in United Kingdom, tracked on soundch
 
 Seiji Ono, Mafalda, Mendel
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redgreg/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redgreg/)*

@@ -1,6 +1,6 @@
 # Ken Okuda
 
-Ken Okuda is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Carpet Shop, London on Fri, 4 Sept 2026.
+Ken Okuda is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Carpet Shop, London on Fri, 4 Sept 2026.
 
 Ken Okuda is a house and broken beat artist based in Germany, tracked on soundcheck, with 59 sets logged across Antwerp, Berlin, Hamburg and London and 2 more. Often billed alongside D'Monk, Orlando Rosé and Femdelic. Next up: The Carpet Shop, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ken Okuda is a house and broken beat artist based in Germany, tracked on soundch
 
 D'Monk, Orlando Rosé, Femdelic
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenokuda/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kenokuda/)*

@@ -1,6 +1,6 @@
 # A NIGHT OF ITALO DISCO at La Cheetah Club
 
-A NIGHT OF ITALO DISCO at La Cheetah Club on Sat 12 Sept, Glasgow. 1 act on the bill: Anna Gram. Italo Disco. Preview the line-up and save it on soundcheck.
+A NIGHT OF ITALO DISCO at La Cheetah Club on Sat 12 Sept, Glasgow. 2 acts on the bill: Anna Gram and Just Rory. Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ A NIGHT OF ITALO DISCO at La Cheetah Club on Sat 12 Sept, Glasgow. 1 act on the 
 ## Line-up
 
 - Anna Gram
+- Just Rory
 
 *Source: [soundcheck](https://soundcheck.club/e/2505969-a-night-of-italo-disco-at-la-cheetah-club/)*

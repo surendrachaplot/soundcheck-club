@@ -1,8 +1,8 @@
 # Jake Korolev
 
-Jake Korolev is a Pop and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Jade, New York City on Fri, 4 Sept 2026.
+Jake Korolev is a Pop and Breakcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jade, New York City on Fri, 4 Sept 2026.
 
-Jake Korolev is a pop and breakcore artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Caratastrophe and FI-LO. Next up: Jade, Newyorkcity on Fri 4 Sept.
+Jake Korolev is a pop and breakcore artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Caratastrophe, FI-LO and Jhariah. Next up: Jade, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Jake Korolev is a pop and breakcore artist based in United States of America, tr
 
 ## Shares bills with
 
-Caratastrophe, FI-LO
+Caratastrophe, FI-LO, Jhariah
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jakekorolev/)*

@@ -1,8 +1,8 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
+Rauschhaus is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Bunker @ The Rolling Stock, London on Thu, 24 Sept 2026.
 
-Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Katzengold. Next up: The Bunker @ The Rolling Stock, London on Thu 24 Sept.
+Rauschhaus is a techno and progressive house artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: The Bunker @ The Rolling Stock, London on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rauschhaus is a techno and progressive house artist based in Germany, tracked on
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Bunker @ The Rolling Stock | London |
 | Sat, 26 Sept 2026 | Veronica Schip | Amsterdam |
+| Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
 
 ## Recently played
@@ -25,6 +26,6 @@ Rauschhaus is a techno and progressive house artist based in Germany, tracked on
 
 ## Shares bills with
 
-Markus Klee, Around Us, Katzengold
+Markus Klee, Around Us, Callecat
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

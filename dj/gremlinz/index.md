@@ -1,6 +1,6 @@
 # Gremlinz
 
-Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
+Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Toronto on Sat, 12 Sept 2026.
 
 Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 41 sets logged across Birmingham, Bristol, Denver and Leeds and 8 more. Often billed alongside Jesta, Rumbleton and Rhythmo. Next up: TBA, Toronto on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundche
 
 Jesta, Rumbleton, Rhythmo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gremlinz/)*

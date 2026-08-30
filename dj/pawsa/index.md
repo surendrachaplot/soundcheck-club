@@ -1,14 +1,13 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Königsplatz München, Munich on Sat, 29 Aug 2026.
+PAWSA is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fulton Fish Market - Hunts Point, New York City on Sat, 5 Sept 2026.
 
-PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, ANOTR and Silvie Loto. Next up: Königsplatz München, Munich on Sat 29 Aug.
+PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: Fulton Fish Market - Hunts Point, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Königsplatz München | Munich |
 | Sat, 5 Sept 2026 | Fulton Fish Market - Hunts Point | New York City |
 | Sun, 6 Sept 2026 | TBA | Toronto |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
@@ -20,6 +19,7 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logg
 
 ## Recently played
 
+- Königsplatz München, Munich — Sat, 29 Aug 2026
 - Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
 - Scorpios, Mykonos — Sun, 19 Jul 2026
 - Fitz Mallorca, Mallorca — Thu, 16 Jul 2026
@@ -27,10 +27,9 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logg
 - Havenpark, Amsterdam — Sat, 4 Jul 2026
 - Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
 - TBA, Lisbon — Fri, 12 Jun 2026
-- DC-10, Ibiza — Thu, 4 Jun 2026
 
 ## Shares bills with
 
-Dennis Cruz, ANOTR, Silvie Loto
+Dennis Cruz, Silvie Loto, ANOTR
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

@@ -1,6 +1,6 @@
 # Dev/Null
 
-Dev/Null is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA - Unannounced, Boston on Sat, 12 Sept 2026.
+Dev/Null is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Unannounced, Boston on Sat, 12 Sept 2026.
 
 Dev/Null is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 29 sets logged across Antwerp, Boston, Bristol and London and 8 more. Often billed alongside Tim Reaper, Dwarde and Equinox (UK). Next up: TBA - Unannounced, Boston on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dev/Null is a jungle and drum & bass artist based in United States of America, t
 
 Tim Reaper, Dwarde, Equinox (UK)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devnull/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/devnull/)*

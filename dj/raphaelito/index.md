@@ -1,6 +1,6 @@
 # Raphaelito
 
-Raphaelito is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Toffler, Rotterdam on Sat, 31 Oct 2026.
+Raphaelito is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Toffler, Rotterdam on Sat, 31 Oct 2026.
 
 Raphaelito is a tech house and house artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam and Rotterdam. Often billed alongside HIGHTS, Nour (NL) and Anderdox. Next up: Toffler, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Raphaelito is a tech house and house artist based in Netherlands, tracked on sou
 
 HIGHTS, Nour (NL), Anderdox
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelito/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelito/)*

@@ -1,6 +1,6 @@
 # Clarence (2)
 
-Clarence (2) is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Minimal Bar, Berlin on Sun, 30 Aug 2026.
+Clarence (2) is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Minimal Bar, Berlin on Sun, 30 Aug 2026.
 
 Clarence (2) is a minimal techno and deep house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Clarence, Doctora Amor and Marvin Rolland. Next up: Minimal Bar, Berlin on Sun 30 Aug.
 
@@ -21,4 +21,4 @@ Clarence (2) is a minimal techno and deep house artist tracked on soundcheck, wi
 
 Clarence, Doctora Amor, Marvin Rolland
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-2/)*

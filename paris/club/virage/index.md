@@ -1,15 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Marathon !: Mount Kimbie, Tour-Maubourg, Astels, Cabaret Contemporain" on Sat, 29 Aug 2026.
+Virage is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bozo Records: Michelle (live), P.O, Marco del Bosque" on Wed, 2 Sept 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including 4000 Hz, aerodynamisme, Aleksandir and Alex Quillard and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including 4000 Hz, Aleksandir, Alex Quillard and Bande de Filles and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Marathon !: Mount Kimbie, Tour-Maubourg, Astels, Cabaret Contemporain | Mely, Mount Kimbie, Tour-Maubourg |
-| Sat, 29 Aug 2026 | ALARMA: SPFDJ, aerodynamisme, Sukubratz, lilipop | SPFDJ, Sukubratz, aerodynamisme, lilipop |
 | Wed, 2 Sept 2026 | Bozo Records: Michelle (live), P.O, Marco del Bosque | Marco del Bosque, Michelle, P.O (1) |
 | Thu, 3 Sept 2026 | SUPERB NIGHT: M¥SS KETA (live), Cannelle (live), MATHILDE FERNANDEZ | Cannelle |
 | Fri, 4 Sept 2026 | Union Trance Mission: Metaraph, Dana Montana & more | 4000 Hz, DJ Reiz, Dana Montana, Metaraph, Vickies |
@@ -18,9 +16,10 @@ Virage is a music venue in Paris listed on soundcheck. 11 upcoming nights, with 
 | Thu, 10 Sept 2026 | Disco Disco x Paillettes Pompettes: Tonno Disko, Bande de Filles | Bande de Filles, Dusty Fingers, Tonno Disko |
 | Fri, 11 Sept 2026 | Virage Présente : Jump Source (live), HORS-SOL (DJ act), Nesa Azadikhah, Katia Curie | HORS-SOL, Jump Source, Katia Curie, Nesa Azadikhah, Patrick Holland, Priori |
 | Fri, 18 Sept 2026 | Virage Présente: Faster Horses, THÉOS, Bérou, MIRA LÒ | Bérou, Faster Horses, Mira Ló, THEOS (1) |
+| Fri, 9 Oct 2026 | SKRYPTÖM: SHDW, Grace Dahl, Electric Rescue | Electric Rescue, Grace Dahl, SHDW |
 
 ## Address
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

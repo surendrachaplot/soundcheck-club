@@ -1,6 +1,6 @@
 # Silky
 
-Silky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Bridge, Los Angeles on Sun, 6 Sept 2026.
+Silky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Bridge, Los Angeles on Sun, 6 Sept 2026.
 
 Silky is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across London, Losangeles, Sandiego and Sanfrancisco and 1 more. Often billed alongside Enzo Muro, Halo Varga and Ray Kash. Next up: The Bridge, Losangeles on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Silky is a house and techno artist based in United States of America, tracked on
 
 Enzo Muro, Halo Varga, Ray Kash
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silky/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/silky/)*

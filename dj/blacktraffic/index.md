@@ -1,6 +1,6 @@
 # Black Traffic
 
-Black Traffic is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
+Black Traffic is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Boucher Road Fields, Belfast on Sun, 30 Aug 2026.
 
 Black Traffic is a techno and hardcore artist tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Belfast and Birmingham and 13 more. Often billed alongside blk., Jezza & Jod and Jason Cluff. Next up: Boucher Road Fields, Belfast on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Black Traffic is a techno and hardcore artist tracked on soundcheck, with 76 set
 
 blk., Jezza & Jod, Jason Cluff
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blacktraffic/)*

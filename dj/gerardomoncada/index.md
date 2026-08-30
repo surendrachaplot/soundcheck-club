@@ -1,6 +1,6 @@
 # Gerardo Moncada
 
-Gerardo Moncada is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 10 Sept 2026.
+Gerardo Moncada is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 10 Sept 2026.
 
 Gerardo Moncada is a club and house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Moni von Pisani, an:ton and riss. Next up: Bulbul Berlin, Berlin on Thu 10 Sept.
 
@@ -20,4 +20,4 @@ Gerardo Moncada is a club and house artist tracked on soundcheck, with 4 sets lo
 
 Moni von Pisani, an:ton, riss
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardomoncada/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardomoncada/)*

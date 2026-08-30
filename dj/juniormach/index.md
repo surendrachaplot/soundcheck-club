@@ -1,6 +1,6 @@
 # Junior Mach.
 
-Junior Mach. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at ACS, Auckland on Fri, 18 Sept 2026.
+Junior Mach. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at ACS, Auckland on Fri, 18 Sept 2026.
 
 Junior Mach. is a house and techno artist based in Brazil, tracked on soundcheck, with 4 sets logged across Auckland. Often billed alongside Cam Harris and Rob Warner. Next up: ACS, Auckland on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Junior Mach. is a house and techno artist based in Brazil, tracked on soundcheck
 
 Cam Harris, Rob Warner
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniormach/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniormach/)*

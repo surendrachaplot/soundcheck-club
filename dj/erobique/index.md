@@ -1,6 +1,6 @@
 # Erobique
 
-Erobique is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Distillery, Leipzig on Thu, 29 Oct 2026.
+Erobique is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery, Leipzig on Thu, 29 Oct 2026.
 
 Erobique is a house and funk / soul artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Hamburg, Leipzig and Zurich. Often billed alongside 1morning, Ada and Alexa D!saster. Next up: Distillery, Leipzig on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Erobique is a house and funk / soul artist based in Germany, tracked on soundche
 
 1morning, Ada, Alexa D!saster
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erobique/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erobique/)*

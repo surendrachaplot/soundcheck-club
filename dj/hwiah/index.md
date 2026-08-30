@@ -1,6 +1,6 @@
 # Hwiah
 
-Hwiah is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Atdge Seoul, Seoul on Sat, 5 Sept 2026.
+Hwiah is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Atdge Seoul, Seoul on Sat, 5 Sept 2026.
 
 Hwiah is a minimal and techno artist based in South Korea, tracked on soundcheck, with 28 sets logged across Seoul. Often billed alongside KYVU, Yeji and mizae lim. Next up: Atdge Seoul, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hwiah is a minimal and techno artist based in South Korea, tracked on soundcheck
 
 KYVU, Yeji, mizae lim
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hwiah/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hwiah/)*

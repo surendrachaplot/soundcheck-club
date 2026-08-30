@@ -1,6 +1,6 @@
 # Thierry
 
-Thierry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
+Thierry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Starlane Pizza Bar, London on Mon, 31 Aug 2026.
 
 Thierry is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Brussels and London. Often billed alongside caLLy, Audio Werner and Chrissy Hope. Next up: Starlane Pizza Bar, London on Mon 31 Aug.
 
@@ -22,4 +22,4 @@ Thierry is a techno and house artist based in United Kingdom, tracked on soundch
 
 caLLy, Audio Werner, Chrissy Hope
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thierry/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thierry/)*

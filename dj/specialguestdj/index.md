@@ -1,6 +1,6 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
+Special Guest DJ is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Paragon, New York City on Fri, 11 Sept 2026.
 
 Special Guest DJ is a techno and ambient artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: Paragon, Newyorkcity on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Special Guest DJ is a techno and ambient artist based in United States of Americ
 
 Ben Bondy, CCL, Vlada
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

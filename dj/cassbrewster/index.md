@@ -1,8 +1,8 @@
 # Cass Brewster
 
-Cass Brewster is a Electronica and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
+Cass Brewster is a Electronica and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
 
-Cass Brewster is an electronica and hip-hop artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside MADAMA, Cookie (2) and D1 x Samir (DVS). Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
+Cass Brewster is an electronica and hip-hop artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside MADAMA, Angel Gray and Cookie (2). Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Cass Brewster is an electronica and hip-hop artist based in United Kingdom, trac
 
 ## Shares bills with
 
-MADAMA, Cookie (2), D1 x Samir (DVS)
+MADAMA, Angel Gray, Cookie (2)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassbrewster/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cassbrewster/)*

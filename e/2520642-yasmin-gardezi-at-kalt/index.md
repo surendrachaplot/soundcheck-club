@@ -1,6 +1,6 @@
 # Yasmin Gardezi at KALT
 
-Yasmin Gardezi at KALT on Sat 24 Oct, Strasbourg. 1 act on the bill: Yasmin Gardezi. Preview the line-up and save it on soundcheck.
+Yasmin Gardezi at KALT on Sat 24 Oct, Strasbourg. 2 acts on the bill: Mezza and Yasmin Gardezi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yasmin Gardezi at KALT on Sat 24 Oct, Strasbourg. 1 act on the bill: Yasmin Gard
 
 ## Line-up
 
+- Mezza
 - Yasmin Gardezi
 
 *Source: [soundcheck](https://soundcheck.club/e/2520642-yasmin-gardezi-at-kalt/)*

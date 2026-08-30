@@ -1,6 +1,6 @@
 # SAMEFACES
 
-SAMEFACES is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
+SAMEFACES is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
 SAMEFACES is a house and minimal artist based in Greece, tracked on soundcheck, with 8 sets logged across Amsterdam and Ibiza. Often billed alongside Kyra Khaldi, ESTRELLA and akcel. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ SAMEFACES is a house and minimal artist based in Greece, tracked on soundcheck, 
 
 Kyra Khaldi, ESTRELLA, akcel
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samefaces/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samefaces/)*

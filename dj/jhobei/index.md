@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Steelyard Kelham, Sheffield on Sun, 30 Aug 2026.
+Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Steelyard Kelham, Sheffield on Sun, 30 Aug 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 10 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Steelyard Kelham, Sheffield on Sun 30 Aug.
 
@@ -33,4 +33,4 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 B.Love, Julian Anthony, Reeshy
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

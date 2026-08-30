@@ -1,8 +1,8 @@
 # Modestep
 
-Modestep is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Modestep is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
 
-Modestep is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bristol, Budapest, Cologne and Denver and 11 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Modestep is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Budapest and Cologne and 12 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Modestep is a bass and dubstep artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
+| Fri, 27 Nov 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Modestep is a bass and dubstep artist based in United Kingdom, tracked on soundc
 
 Dirtyphonics, Enei, Koven
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*

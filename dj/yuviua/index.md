@@ -1,6 +1,6 @@
 # YUVI (UA)
 
-YUVI (UA) is a Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
+YUVI (UA) is a Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
 YUVI (UA) is a bass and jazz artist tracked on soundcheck, with 4 sets logged across Berlin, Newyorkcity and Warsaw. Often billed alongside SVZZ, human margareeta and Adelina. Next up: Elsewhere, Newyorkcity on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ YUVI (UA) is a bass and jazz artist tracked on soundcheck, with 4 sets logged ac
 
 SVZZ, human margareeta, Adelina
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuviua/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuviua/)*

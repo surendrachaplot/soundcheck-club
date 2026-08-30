@@ -1,6 +1,6 @@
 # Lew Reilly
 
-Lew Reilly is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Mama Roux, Birmingham on Fri, 16 Oct 2026.
+Lew Reilly is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mama Roux, Birmingham on Fri, 16 Oct 2026.
 
 Lew Reilly is a tech house and house artist tracked on soundcheck, with 4 sets logged across Birmingham. Often billed alongside FIRZA, Goosey and Myles Basford. Next up: Mama Roux, Birmingham on Fri 16 Oct.
 
@@ -20,4 +20,4 @@ Lew Reilly is a tech house and house artist tracked on soundcheck, with 4 sets l
 
 FIRZA, Goosey, Myles Basford
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewreilly/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewreilly/)*

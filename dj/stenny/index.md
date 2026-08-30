@@ -1,6 +1,6 @@
 # Stenny
 
-Stenny is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Stenny is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Stenny is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Belfast and 24 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Stenny is a techno and house artist tracked on soundcheck, with 121 sets logged 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

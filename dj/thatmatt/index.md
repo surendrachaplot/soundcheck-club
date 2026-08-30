@@ -1,6 +1,6 @@
 # That Matt
 
-That Matt is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Le Bain, New York City on Thu, 3 Sept 2026.
+That Matt is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Le Bain, New York City on Thu, 3 Sept 2026.
 
 That Matt is a disco and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Miss Alicia, DJ Shannon and Nick Schiarizzi. Next up: Le Bain, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ That Matt is a disco and house artist based in United States of America, tracked
 
 Miss Alicia, DJ Shannon, Nick Schiarizzi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thatmatt/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thatmatt/)*

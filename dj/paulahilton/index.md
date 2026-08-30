@@ -1,6 +1,6 @@
 # Paula Hilton
 
-Paula Hilton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Marmorbar, Berlin on Thu, 3 Sept 2026.
+Paula Hilton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Marmorbar, Berlin on Thu, 3 Sept 2026.
 
 Paula Hilton is a techno and house artist based in Germany, tracked on soundcheck, with 95 sets logged across Bangkok, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Ele Luz, Sabura and Leon Licht. Next up: Marmorbar, Berlin on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Paula Hilton is a techno and house artist based in Germany, tracked on soundchec
 
 Ele Luz, Sabura, Leon Licht
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahilton/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulahilton/)*

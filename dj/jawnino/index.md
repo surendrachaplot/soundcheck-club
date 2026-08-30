@@ -1,6 +1,6 @@
 # Jawnino
 
-Jawnino is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Drygate, Glasgow on Thu, 3 Sept 2026.
+Jawnino is a Hip-Hop and Grime artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Drygate, Glasgow on Thu, 3 Sept 2026.
 
 Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Bristol, Brussels and Copenhagen and 14 more. Often billed alongside KAVARI, Mechatok and Batu. Next up: Drygate, Glasgow on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Jawnino is a hip-hop and grime artist based in United Kingdom, tracked on soundc
 
 KAVARI, Mechatok, Batu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

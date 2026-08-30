@@ -1,6 +1,6 @@
 # Pony (2)
 
-Pony (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Pony (2) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Pony (2) is a house and club artist tracked on soundcheck, with 3 sets logged across Berlin, Hamburg and Montreal. Often billed alongside A$H BANKS, Alex.Do and Andrea de Tour. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Pony (2) is a house and club artist tracked on soundcheck, with 3 sets logged ac
 
 A$H BANKS, Alex.Do, Andrea de Tour
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pony-2/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pony-2/)*

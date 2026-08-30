@@ -1,6 +1,6 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Kichta is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
 Kichta is a techno and trance artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Brussels and Cologne and 9 more. Often billed alongside Amøn, KLING&KLANG and Cobb Douglas. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Kichta is a techno and trance artist tracked on soundcheck, with 41 sets logged 
 
 Amøn, KLING&KLANG, Cobb Douglas
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

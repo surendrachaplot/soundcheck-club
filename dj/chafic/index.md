@@ -1,6 +1,6 @@
 # Chafic
 
-Chafic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+Chafic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 Chafic is a techno and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Montreal and Toronto. Often billed alongside Negin, DINO (3) and Jad Ad. Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Chafic is a techno and house artist tracked on soundcheck, with 28 sets logged a
 
 Negin, DINO (3), Jad Ad
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chafic/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chafic/)*

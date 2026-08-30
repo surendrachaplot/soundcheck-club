@@ -1,6 +1,6 @@
 # Staszko
 
-Staszko is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
+Staszko is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
 
 Staszko is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Hamburg. Often billed alongside TRYPTAJ, TZO (1) and 333CXT. Next up: Hafenklang, Hamburg on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Staszko is a techno artist based in Germany, tracked on soundcheck, with 7 sets 
 
 TRYPTAJ, TZO (1), 333CXT
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staszko/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staszko/)*

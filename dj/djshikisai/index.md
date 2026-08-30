@@ -1,6 +1,6 @@
 # DJ SHIKISAI
 
-DJ SHIKISAI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 4 Sept 2026.
+DJ SHIKISAI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 4 Sept 2026.
 
 DJ SHIKISAI is a house and disco artist based in Japan, tracked on soundcheck, with 161 sets logged across Bangkok, Kyoto, Seoul and Tokyo. Often billed alongside judgeman, Toshiyuki Goto and MASAYASU. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ SHIKISAI is a house and disco artist based in Japan, tracked on soundcheck, w
 
 judgeman, Toshiyuki Goto, MASAYASU
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshikisai/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshikisai/)*

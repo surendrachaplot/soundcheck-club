@@ -1,6 +1,6 @@
 # Holsten
 
-Holsten is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Holsten is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Holsten is a drum & bass and jungle artist tracked on soundcheck, with 5 sets logged across Birmingham, Brighton, Bristol and London and 1 more. Often billed alongside Gremlinz, Lemon D and Clearlight. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Holsten is a drum & bass and jungle artist tracked on soundcheck, with 5 sets lo
 
 Gremlinz, Lemon D, Clearlight
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holsten/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/holsten/)*

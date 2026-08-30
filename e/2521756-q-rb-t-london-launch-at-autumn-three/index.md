@@ -1,6 +1,6 @@
 # qürbət: london launch at Autumn Three
 
-qürbət: london launch at Autumn Three on Sun 6 Sept, London. 3 acts on the bill: Cosmic Caz, THEMPRESS and Veilification. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+qürbət: london launch at Autumn Three on Sun 6 Sept, London. 4 acts on the bill: Cosmic Caz, THEMPRESS, Veil and Veilification. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ qürbət: london launch at Autumn Three on Sun 6 Sept, London. 3 acts on the bil
 
 - Cosmic Caz
 - THEMPRESS
+- Veil
 - Veilification
 
 *Source: [soundcheck](https://soundcheck.club/e/2521756-q-rb-t-london-launch-at-autumn-three/)*

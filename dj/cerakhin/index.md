@@ -1,8 +1,8 @@
 # Cera Khin
 
-Cera Khin is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at fabric, London on Fri, 18 Sept 2026.
+Cera Khin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at fabric, London on Fri, 18 Sept 2026.
 
-Cera Khin is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Shlømo, Charlie Sparks and Clara Cuvé. Next up: fabric, London on Fri 18 Sept.
+Cera Khin is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Barcelona, Basel and Belfast and 54 more. Often billed alongside Clara Cuvé, Shlømo and Charlie Sparks. Next up: fabric, London on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 177 sets logg
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
 | Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
+| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Cera Khin is a techno and house artist tracked on soundcheck, with 177 sets logg
 
 ## Shares bills with
 
-Shlømo, Charlie Sparks, Clara Cuvé
+Clara Cuvé, Shlømo, Charlie Sparks
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerakhin/)*

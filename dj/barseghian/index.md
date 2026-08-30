@@ -1,6 +1,6 @@
 # Barseghian
 
-Barseghian is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Laska V21, Riga on Sat, 5 Sept 2026.
+Barseghian is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Laska V21, Riga on Sat, 5 Sept 2026.
 
 Barseghian is a house and tech house artist tracked on soundcheck, with 17 sets logged across Riga. Often billed alongside Chi Chi Chilayz, Rey&Kjavik and Nick Ustinov. Next up: Laska V21, Riga on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Barseghian is a house and tech house artist tracked on soundcheck, with 17 sets 
 
 Chi Chi Chilayz, Rey&Kjavik, Nick Ustinov
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barseghian/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barseghian/)*

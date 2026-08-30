@@ -1,6 +1,6 @@
 # GABS (SK)
 
-GABS (SK) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+GABS (SK) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
 GABS (SK) is a deep house and progressive house artist tracked on soundcheck, with 14 sets logged across Brighton, London, Losangeles and Paris and 1 more. Often billed alongside IYER, Carina Lawrence and KONNR. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ GABS (SK) is a deep house and progressive house artist tracked on soundcheck, wi
 
 IYER, Carina Lawrence, KONNR
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabs-sk/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabs-sk/)*

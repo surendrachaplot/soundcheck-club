@@ -1,6 +1,6 @@
 # Tntna
 
-Tntna is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+Tntna is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
 
 Tntna is a techno and hardcore artist tracked on soundcheck, with 14 sets logged across Malta. Often billed alongside Naomi Baldacchino, Philip Ackowsky and Alex Micca. Next up: Liquid Club, Malta on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Tntna is a techno and hardcore artist tracked on soundcheck, with 14 sets logged
 
 Naomi Baldacchino, Philip Ackowsky, Alex Micca
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tntna/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tntna/)*

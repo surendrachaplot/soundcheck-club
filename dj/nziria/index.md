@@ -1,6 +1,6 @@
 # NZIRIA
 
-NZIRIA is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at BASE Milano, Milan on Sat, 19 Sept 2026.
+NZIRIA is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at BASE Milano, Milan on Sat, 19 Sept 2026.
 
 NZIRIA is an electronica and experimental artist based in Italy, tracked on soundcheck, with 17 sets logged across Berlin, Brussels, Copenhagen and Lyon and 5 more. Often billed alongside Gabber Eleganza, Apparat and Monibi. Next up: BASE Milano, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ NZIRIA is an electronica and experimental artist based in Italy, tracked on soun
 
 Gabber Eleganza, Apparat, Monibi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nziria/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nziria/)*

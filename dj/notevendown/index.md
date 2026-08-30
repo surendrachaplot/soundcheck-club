@@ -1,6 +1,6 @@
 # NOTEVENDOWN
 
-NOTEVENDOWN is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Platform9, Vancouver on Sat, 26 Sept 2026.
+NOTEVENDOWN is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Platform9, Vancouver on Sat, 26 Sept 2026.
 
 NOTEVENDOWN is a techno and bass artist based in Canada, tracked on soundcheck, with 10 sets logged across Seoul and Vancouver. Often billed alongside DJ Hockey, AWood and ZDBT. Next up: Platform9, Vancouver on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ NOTEVENDOWN is a techno and bass artist based in Canada, tracked on soundcheck, 
 
 DJ Hockey, AWood, ZDBT
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notevendown/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notevendown/)*

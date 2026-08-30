@@ -1,8 +1,8 @@
 # Symbiotica
 
-Symbiotica is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
+Symbiotica is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
-Symbiotica is a techno and trance artist based in Lithuania, tracked on soundcheck, with 2 sets logged across Rotterdam and Sydney. Often billed alongside miss behave. Next up: TBA, Sydney on Sat 19 Sept.
+Symbiotica is a techno and trance artist based in Lithuania, tracked on soundcheck, with 2 sets logged across Rotterdam and Sydney. Often billed alongside Mincore and miss behave. Next up: TBA, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Symbiotica is a techno and trance artist based in Lithuania, tracked on soundche
 
 ## Shares bills with
 
-miss behave
+Mincore, miss behave
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiotica/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiotica/)*

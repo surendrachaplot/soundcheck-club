@@ -1,6 +1,6 @@
 # Byhaven
 
-Byhaven is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "240 Months of Riotvan: Peter Invasion (DE) + Kasper Bjørke + Sexy Lazer // Byhaven" on Sun, 30 Aug 2026.
+Byhaven is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "240 Months of Riotvan: Peter Invasion (DE) + Kasper Bjørke + Sexy Lazer // Byhaven" on Sun, 30 Aug 2026.
 
 Byhaven is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Kasper Bjorke, Peter Invasion and Sexy Lazer. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 København, Denmark.
 
@@ -15,4 +15,4 @@ Byhaven is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, 
 
 Studiestræde 52, 1554 København, Denmark, Copenhagen
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/byhaven/)*

@@ -1,6 +1,6 @@
 # KSMBA
 
-KSMBA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
+KSMBA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
 
 KSMBA is a techno and house artist based in Australia, tracked on soundcheck, with 77 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Garfie, Ned Bennett and Prizefight. Next up: Preston Warehouse, Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ KSMBA is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 Garfie, Ned Bennett, Prizefight
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ksmba/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ksmba/)*

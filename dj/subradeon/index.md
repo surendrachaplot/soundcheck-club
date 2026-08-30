@@ -1,15 +1,15 @@
 # Subradeon
 
-Subradeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Tresor / Globus, Berlin on Fri, 28 Aug 2026.
+Subradeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Starlane Pizza Bar, London on Sun, 30 Aug 2026.
 
-Subradeon is a techno and house artist based in Italy, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Alan Fitzpatrick, Anja Schneider and Jen Cruz. Next up: Tresor / Globus, Berlin on Fri 28 Aug.
+Subradeon is a techno and house artist based in Italy, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Alan Fitzpatrick, Anja Schneider and Esther Silex. Next up: Starlane Pizza Bar, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Tresor / Globus | Berlin |
 | Sun, 30 Aug 2026 | Starlane Pizza Bar | London |
+| Fri, 2 Oct 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -24,6 +24,6 @@ Subradeon is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Alan Fitzpatrick, Anja Schneider, Jen Cruz
+Alan Fitzpatrick, Anja Schneider, Esther Silex
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subradeon/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subradeon/)*

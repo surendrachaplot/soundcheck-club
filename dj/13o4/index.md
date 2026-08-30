@@ -1,6 +1,6 @@
 # 13Ø4
 
-13Ø4 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
+13Ø4 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Yard, Manchester on Sat, 31 Oct 2026.
 
 13Ø4 is a techno and bass artist tracked on soundcheck, with 3 sets logged across Manchester. Often billed alongside Edriff, Jumbled and LUMIINA. Next up: The Yard, Manchester on Sat 31 Oct.
 
@@ -19,4 +19,4 @@
 
 Edriff, Jumbled, LUMIINA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/13o4/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/13o4/)*

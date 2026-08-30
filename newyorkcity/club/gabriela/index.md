@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "Jubilee // ALL NIGHT LONG" on Sat, 29 Aug 2026.
+Gabriela is a music venue in New York City with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ROMANCE w Eli Escobar" on Thu, 3 Sept 2026.
 
-Gabriela is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Arvin T, Andi, Eli Escobar and Franz Scala and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in Newyorkcity listed on soundcheck. 15 upcoming nights, with line-ups including Arvin T, Andi, Eli Escobar and Franz Scala and 2 more. Browse upcoming dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Jubilee // ALL NIGHT LONG | Jubilee |
 | Thu, 3 Sept 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 4 Sept 2026 | Franz Scala // ALL NIGHT LONG | Franz Scala |
 | Sat, 5 Sept 2026 | G I N A // ALL NIGHT LONG | G I N A |
@@ -18,9 +17,10 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 16 upcoming night
 | Sat, 12 Sept 2026 | Planet B // ALL NIGHT LONG | Planet B |
 | Sun, 13 Sept 2026 | TIKI AFTERS w Arvin T | Arvin T |
 | Thu, 17 Sept 2026 | ROMANCE w Eli Escobar | Eli Escobar |
+| Fri, 18 Sept 2026 | Thee Mike B // ALL NIGHT LONG | Thee Mike B |
 
 ## Address
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

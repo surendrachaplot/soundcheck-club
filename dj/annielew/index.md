@@ -1,14 +1,13 @@
 # Annie Lew
 
-Annie Lew is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at BASEMENT, New York City on Sat, 29 Aug 2026.
+Annie Lew is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Los Angeles on Sat, 5 Sept 2026.
 
-Annie Lew is a techno and house artist tracked on soundcheck, with 77 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: BASEMENT, Newyorkcity on Sat 29 Aug.
+Annie Lew is a techno and house artist tracked on soundcheck, with 77 sets logged across Berlin, Boston, Losangeles and Newyorkcity and 1 more. Often billed alongside Mos (NYC), KYRUH and Kilopatrah Jones. Next up: TBA, Losangeles on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | BASEMENT | New York City |
 | Sat, 5 Sept 2026 | TBA | Los Angeles |
 | Sat, 12 Sept 2026 | Paragon | New York City |
 | Thu, 24 Sept 2026 | TBA | Boston |
@@ -17,6 +16,7 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 77 sets logge
 
 ## Recently played
 
+- BASEMENT, New York City — Sat, 29 Aug 2026
 - public records, New York City — Fri, 28 Aug 2026
 - Else, Berlin — Sat, 1 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 11 Jul 2026
@@ -24,10 +24,9 @@ Annie Lew is a techno and house artist tracked on soundcheck, with 77 sets logge
 - TBA - Brooklyn, New York City — Sat, 30 May 2026
 - TBA - 167 Graham Ave, New York City — Sat, 23 May 2026
 - Knockdown Center, New York City — Fri, 22 May 2026
-- Bossa Nova Civic Club, New York City — Wed, 20 May 2026
 
 ## Shares bills with
 
 Mos (NYC), KYRUH, Kilopatrah Jones
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annielew/)*

@@ -1,6 +1,6 @@
 # Juja
 
-Juja is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Club NYX, Amsterdam on Sat, 19 Sept 2026.
+Juja is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club NYX, Amsterdam on Sat, 19 Sept 2026.
 
 Juja is a house and techno artist based in Uruguay, tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Alexis Knox, DIORA and ELLE FIERCE. Next up: Club NYX, Amsterdam on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Juja is a house and techno artist based in Uruguay, tracked on soundcheck, with 
 
 Alexis Knox, DIORA, ELLE FIERCE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juja/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juja/)*

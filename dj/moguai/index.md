@@ -1,6 +1,6 @@
 # Moguai
 
-Moguai is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at TBA, Cologne on Sat, 19 Sept 2026.
+Moguai is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Cologne on Sat, 19 Sept 2026.
 
 Moguai is a tech house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside ASK:ME, Anna Tur and Simina Grigoriu. Next up: TBA, Cologne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Moguai is a tech house and techno artist tracked on soundcheck, with 16 sets log
 
 ASK:ME, Anna Tur, Simina Grigoriu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moguai/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moguai/)*

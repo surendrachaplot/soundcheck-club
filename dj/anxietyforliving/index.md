@@ -1,6 +1,6 @@
 # Anxiety for Living
 
-Anxiety for Living is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Specka, Madrid on Fri, 11 Sept 2026.
+Anxiety for Living is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Specka, Madrid on Fri, 11 Sept 2026.
 
 Anxiety for Living is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Madrid and Porto. Often billed alongside Oxygeno, Southear and ICF. Next up: Specka, Madrid on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Anxiety for Living is a techno and electronica artist tracked on soundcheck, wit
 
 Oxygeno, Southear, ICF
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxietyforliving/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxietyforliving/)*

@@ -1,6 +1,6 @@
 # Gianmarco Gazzillo
 
-Gianmarco Gazzillo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
+Gianmarco Gazzillo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
 
 Gianmarco Gazzillo is a techno and electro artist based in Italy, tracked on soundcheck, with 23 sets logged across London, Milan and Rome. Often billed alongside Desiree', Manlio and Ordep (UK). Next up: Circolo Amelia, Milan on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gianmarco Gazzillo is a techno and electro artist based in Italy, tracked on sou
 
 Desiree', Manlio, Ordep (UK)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcogazzillo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianmarcogazzillo/)*

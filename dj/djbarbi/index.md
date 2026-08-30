@@ -1,6 +1,6 @@
 # DJ Barbi
 
-DJ Barbi is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Buddies in Bad Times, Toronto on Sat, 5 Sept 2026.
+DJ Barbi is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Buddies in Bad Times, Toronto on Sat, 5 Sept 2026.
 
 DJ Barbi is an electro and house artist tracked on soundcheck, with 6 sets logged across Toronto. Often billed alongside 999ADJ, Ard1n and Blkvirgo. Next up: Buddies in Bad Times, Toronto on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ DJ Barbi is an electro and house artist tracked on soundcheck, with 6 sets logge
 
 999ADJ, Ard1n, Blkvirgo
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbarbi/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbarbi/)*

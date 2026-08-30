@@ -1,20 +1,20 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Edelfettwerk, Hamburg on Sat, 29 Aug 2026.
+Alec Dienaar is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
-Alec Dienaar is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Dublin and Hamburg and 7 more. Often billed alongside Genex, STIPP and Julian Wijn. Next up: Edelfettwerk, Hamburg on Sat 29 Aug.
+Alec Dienaar is a techno and house artist tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Dublin and Hamburg and 7 more. Often billed alongside Genex, STIPP and Julian Wijn. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Edelfettwerk | Hamburg |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Edelfettwerk, Hamburg — Sat, 29 Aug 2026
 - Trojský Pivovar, Prague — Sat, 22 Aug 2026
 - Skatecafe, Amsterdam — Sat, 8 Aug 2026
 - SISSI'S Amsterdam, Amsterdam — Sat, 18 Jul 2026
@@ -22,10 +22,9 @@ Alec Dienaar is a techno and house artist tracked on soundcheck, with 43 sets lo
 - BRET, Amsterdam — Sun, 31 May 2026
 - Keile District, Rotterdam — Mon, 27 Apr 2026
 - Shelter Amsterdam, Amsterdam — Sun, 26 Apr 2026
-- Rote Sonne, Munich — Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Genex, STIPP, Julian Wijn
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*

@@ -1,6 +1,6 @@
 # MEAKIN
 
-MEAKIN is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+MEAKIN is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 MEAKIN is a techno and progressive house artist tracked on soundcheck, with 24 sets logged across London. Often billed alongside MARIUS SEBASTIAN, MAXYM and I-DA. Next up: Basing House, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ MEAKIN is a techno and progressive house artist tracked on soundcheck, with 24 s
 
 MARIUS SEBASTIAN, MAXYM, I-DA
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*

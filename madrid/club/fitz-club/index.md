@@ -1,6 +1,6 @@
 # Fitz Club
 
-Fitz Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sat, 29 Aug 2026; the next is "Franky Rizardo — OFFICIAL F1 AFTERPARTY" on Sat, 12 Sept 2026.
+Fitz Club is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Franky Rizardo — OFFICIAL F1 AFTERPARTY" on Sat, 12 Sept 2026.
 
 Fitz Club is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Franky Rizardo. Browse upcoming dates, start times and who's playing. C. de la Princesa, 1, 28008 Madrid.
 
@@ -14,4 +14,4 @@ Fitz Club is a music venue in Madrid listed on soundcheck. 1 upcoming night, wit
 
 C. de la Princesa, 1, 28008 Madrid, Madrid
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fitz-club/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fitz-club/)*

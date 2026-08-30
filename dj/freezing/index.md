@@ -1,6 +1,6 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
+Free Zing is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at komunal, Birmingham on Sun, 30 Aug 2026.
 
 Free Zing is a techno and electro artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Birmingham and Bristol and 8 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: komunal, Birmingham on Sun 30 Aug.
 
@@ -28,4 +28,4 @@ Free Zing is a techno and electro artist tracked on soundcheck, with 59 sets log
 
 Alien Communications, BAYS, Jos
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

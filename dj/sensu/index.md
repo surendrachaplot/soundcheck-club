@@ -1,6 +1,6 @@
 # Sensu
 
-Sensu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Sensu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 Sensu is a house and techno artist based in Belgium, tracked on soundcheck, with 5 sets logged across Amsterdam, Basel, London and Paris. Often billed alongside Arielle, Benga and Carré. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Sensu is a house and techno artist based in Belgium, tracked on soundcheck, with
 
 Arielle, Benga, Carré
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu/)*

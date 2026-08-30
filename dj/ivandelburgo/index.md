@@ -1,6 +1,6 @@
 # Ivan del Burgo
 
-Ivan del Burgo is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Under Bridge Madrid, Madrid on Sat, 19 Sept 2026.
+Ivan del Burgo is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Under Bridge Madrid, Madrid on Sat, 19 Sept 2026.
 
 Ivan del Burgo is an electronic artist tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Jara, Unai García and Vico Deep. Next up: Under Bridge Madrid, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ivan del Burgo is an electronic artist tracked on soundcheck, with 11 sets logge
 
 Jara, Unai García, Vico Deep
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivandelburgo/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivandelburgo/)*

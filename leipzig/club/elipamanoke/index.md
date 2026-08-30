@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Sat, 29 Aug 2026; the next is "BAGAGE SOMMERFEST" on Sat, 29 Aug 2026.
+elipamanoke is a music venue in Leipzig with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "between x Wellenwandler" on Wed, 2 Sept 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights, with line-ups including :MUMM, adamoandiamo, Alias Aura and Anuli and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 9 upcoming nights, with line-ups including :MUMM, adamoandiamo, Alias Aura and Anuli and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | BAGAGE SOMMERFEST | DJ STIMULA, Juno030, S.3000, Vasil, dj twerking class, unDs |
 | Wed, 2 Sept 2026 | between x Wellenwandler | SFTI, Yardman |
 | Fri, 4 Sept 2026 | 10 YEARS MONKEYCIRCUS - Leipzig Edition | Blank Vision, DJ Pabloma Blanca, Emel White, Jaszaloth, Silvi Knallt, VLUNA, kichererbsenstampf |
 | Sat, 5 Sept 2026 | made2fade [secret lineup] |  |
@@ -23,4 +22,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

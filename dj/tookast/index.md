@@ -1,6 +1,6 @@
 # TOOKAST
 
-TOOKAST is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at La Belle Angele, Edinburgh on Fri, 11 Sept 2026.
+TOOKAST is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Belle Angele, Edinburgh on Fri, 11 Sept 2026.
 
 TOOKAST is a house and techno artist tracked on soundcheck, with 34 sets logged across Edinburgh and Glasgow. Often billed alongside Fërb, Mixfits (2) and RuDi. Next up: La Belle Angele, Edinburgh on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ TOOKAST is a house and techno artist tracked on soundcheck, with 34 sets logged 
 
 Fërb, Mixfits (2), RuDi
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tookast/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tookast/)*

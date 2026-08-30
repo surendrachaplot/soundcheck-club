@@ -1,6 +1,6 @@
 # Odium
 
-Odium is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Epic Prague, Prague on Sat, 7 Nov 2026.
+Odium is a Hardcore and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Epic Prague, Prague on Sat, 7 Nov 2026.
 
 Odium is a hardcore and drum & bass artist tracked on soundcheck, with 5 sets logged across Berlin, Paris and Prague. Often billed alongside Aynaet, Elijah Taylor and Gabrielle (DE). Next up: Epic Prague, Prague on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Odium is a hardcore and drum & bass artist tracked on soundcheck, with 5 sets lo
 
 Aynaet, Elijah Taylor, Gabrielle (DE)
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odium/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odium/)*

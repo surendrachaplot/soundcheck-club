@@ -1,8 +1,8 @@
 # Astrix
 
-Astrix is a Psytrance and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
+Astrix is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Maitland Showground, Sydney on Fri, 25 Sept 2026.
 
-Astrix is a psytrance and trance artist based in Israel, tracked on soundcheck, with 33 sets logged across Athens, Basel, Cologne and Copenhagen and 15 more. Often billed alongside Captain Hook, Victor Ruiz and AVALON. Next up: Maitland Showground, Sydney on Fri 25 Sept.
+Astrix is a trance and techno artist based in Israel, tracked on soundcheck, with 34 sets logged across Athens, Basel, Cologne and Copenhagen and 15 more. Often billed alongside Captain Hook, Animato and Billy Gillies. Next up: Maitland Showground, Sydney on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Astrix is a psytrance and trance artist based in Israel, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sat, 26 Sept 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Astrix is a psytrance and trance artist based in Israel, tracked on soundcheck, 
 
 ## Shares bills with
 
-Captain Hook, Victor Ruiz, AVALON
+Captain Hook, Animato, Billy Gillies
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*

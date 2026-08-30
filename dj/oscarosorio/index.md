@@ -1,14 +1,13 @@
 # Oscar Osorio
 
-Oscar Osorio is a Hip-Hop and R&B artist with 7 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Club Leidse, Amsterdam on Sat, 29 Aug 2026.
+Oscar Osorio is a Hip-Hop and R&B artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club Leidse, Amsterdam on Fri, 4 Sept 2026.
 
-Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 49 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Daff. Next up: Club Leidse, Amsterdam on Sat 29 Aug.
+Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 49 sets logged across Amsterdam, Losangeles and Sandiego. Often billed alongside Rishi Romero, DJ LIGMA and Daff. Next up: Club Leidse, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Club Leidse | Amsterdam |
 | Fri, 4 Sept 2026 | Club Leidse | Amsterdam |
 | Fri, 11 Sept 2026 | Club Leidse | Amsterdam |
 | Sat, 12 Sept 2026 | Club Leidse | Amsterdam |
@@ -18,6 +17,7 @@ Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 49 sets log
 
 ## Recently played
 
+- Club Leidse, Amsterdam — Sat, 29 Aug 2026
 - Club Leidse, Amsterdam — Fri, 28 Aug 2026
 - Club Leidse, Amsterdam — Sat, 22 Aug 2026
 - Club Leidse, Amsterdam — Fri, 21 Aug 2026
@@ -25,10 +25,9 @@ Oscar Osorio is a hip-hop and r&b artist tracked on soundcheck, with 49 sets log
 - Club Leidse, Amsterdam — Fri, 14 Aug 2026
 - Club Leidse, Amsterdam — Sat, 8 Aug 2026
 - Club Leidse, Amsterdam — Fri, 7 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Rishi Romero, DJ LIGMA, Daff
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarosorio/)*

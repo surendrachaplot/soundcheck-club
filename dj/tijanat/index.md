@@ -1,6 +1,6 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Tijana T is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
 
 Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 35 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
 
@@ -13,6 +13,7 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
 - CLUB RAUM, Amsterdam — Sat, 22 Aug 2026
 - Macadam, Nantes — Sun, 9 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
@@ -20,10 +21,9 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 6 Jun 2026
 - Odds and Ends, Copenhagen — Sun, 24 May 2026
 - Mystic Skatepark, Prague — Sat, 23 May 2026
-- Ložionica, Belgrade — Fri, 22 May 2026
 
 ## Shares bills with
 
 Marcel Dettmann, Sedef Adasï, Adiel
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*

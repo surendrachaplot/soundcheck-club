@@ -1,6 +1,6 @@
 # Mayowa
 
-Mayowa is a R&B and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at The Clubhouse at The Victoria, London on Sun, 30 Aug 2026.
+Mayowa is a R&B and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Clubhouse at The Victoria, London on Sun, 30 Aug 2026.
 
 Mayowa is a r&b and ghetto tech artist tracked on soundcheck, with 16 sets logged across Birmingham and London. Often billed alongside AyChibs, Donnie Sunshine and ELLADHC. Next up: The Clubhouse at The Victoria, London on Sun 30 Aug.
 
@@ -26,4 +26,4 @@ Mayowa is a r&b and ghetto tech artist tracked on soundcheck, with 16 sets logge
 
 AyChibs, Donnie Sunshine, ELLADHC
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayowa/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mayowa/)*

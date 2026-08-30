@@ -1,6 +1,6 @@
 # Nobuya
 
-Nobuya is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
+Nobuya is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
 
 Nobuya is a techno and progressive house artist based in Japan, tracked on soundcheck, with 12 sets logged across Osaka and Tokyo. Often billed alongside KENJI MARUI, O-MAN and DMITRI ABSINTHE. Next up: Z Maruyama, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nobuya is a techno and progressive house artist based in Japan, tracked on sound
 
 KENJI MARUI, O-MAN, DMITRI ABSINTHE
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-jp/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nobuya-jp/)*

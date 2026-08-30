@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Quarters, Brighton on Sun, 30 Aug 2026.
+2ManyDJs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Quarters, Brighton on Sun, 30 Aug 2026.
 
 2ManyDJs is a house and techno artist tracked on soundcheck, with 67 sets logged across Antwerp, Athens, Auckland and Barcelona and 28 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: Quarters, Brighton on Sun 30 Aug.
 
@@ -32,4 +32,4 @@
 
 Erol Alkan, Tiga, Job Jobse
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

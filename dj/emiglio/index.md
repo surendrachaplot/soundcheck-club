@@ -1,6 +1,6 @@
 # Emiglio
 
-Emiglio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Level Two Bar & Rooftop, Detroit on Thu, 3 Sept 2026.
+Emiglio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Level Two Bar & Rooftop, Detroit on Thu, 3 Sept 2026.
 
 Emiglio is a house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Detroit and Newyorkcity. Often billed alongside Derrick May. Next up: Level Two Bar & Rooftop, Detroit on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ Emiglio is a house and techno artist based in United States of America, tracked 
 
 Derrick May
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiglio/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emiglio/)*

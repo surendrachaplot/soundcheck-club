@@ -1,6 +1,6 @@
 # Mez Monty
 
-Mez Monty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Placita Olvera, Los Angeles on Sun, 30 Aug 2026.
+Mez Monty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Placita Olvera, Los Angeles on Sun, 30 Aug 2026.
 
 Mez Monty is a house and techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Sevyn and Eli Escobar. Next up: Placita Olvera, Losangeles on Sun 30 Aug.
 
@@ -27,4 +27,4 @@ Mez Monty is a house and techno artist tracked on soundcheck, with 89 sets logge
 
 Shane Thomas, Sevyn, Eli Escobar
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mezmonty/)*

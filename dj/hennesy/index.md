@@ -1,18 +1,18 @@
 # HENNESY
 
-HENNESY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Garagen, Cologne on Sat, 29 Aug 2026.
+HENNESY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
 
-HENNESY is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Cologne. Often billed alongside SPEEDO (2), PANACOTTA and Pamela Rave. Next up: Garagen, Cologne on Sat 29 Aug.
+HENNESY is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Cologne. Often billed alongside SPEEDO (2), PANACOTTA and Pamela Rave. Next up: Schrotty, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Garagen | Cologne |
 | Fri, 4 Sept 2026 | Schrotty | Cologne |
 
 ## Recently played
 
+- Garagen, Cologne — Sat, 29 Aug 2026
 - Helios37, Cologne — Fri, 7 Aug 2026
 - Odonien, Cologne — Wed, 15 Jul 2026
 - Schrotty, Cologne — Sat, 4 Jul 2026
@@ -25,4 +25,4 @@ HENNESY is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 SPEEDO (2), PANACOTTA, Pamela Rave
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hennesy/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hennesy/)*

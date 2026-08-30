@@ -1,13 +1,14 @@
 # THIRTEEN DOZE
 
-THIRTEEN DOZE is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 17 Sept 2026.
+THIRTEEN DOZE is a House and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
 
-THIRTEEN DOZE is a house and experimental artist based in Spain, tracked on soundcheck, with 11 sets logged across Berlin and Madrid. Often billed alongside VCO, Alexy and Banu. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 17 Sept.
+THIRTEEN DOZE is a house and experimental artist based in Spain, tracked on soundcheck, with 12 sets logged across Berlin and Madrid. Often billed alongside VCO, Alexy and Banu. Next up: Skin Club, Madrid on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Skin Club | Madrid |
 | Thu, 17 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 24 Sept 2026 | OHM | Berlin |
 
@@ -26,4 +27,4 @@ THIRTEEN DOZE is a house and experimental artist based in Spain, tracked on soun
 
 VCO, Alexy, Banu
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirteendoze/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thirteendoze/)*

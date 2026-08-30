@@ -1,6 +1,6 @@
 # Antepop
 
-Antepop is a Dub Techno and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 29 Aug 2026, next at Orbit Brewery Tap, London on Sat, 5 Sept 2026.
+Antepop is a Dub Techno and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Orbit Brewery Tap, London on Sat, 5 Sept 2026.
 
 Antepop is a dub techno and techno artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Mihail, Daniel. and Dying in Beauty. Next up: Orbit Brewery Tap, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Antepop is a dub techno and techno artist tracked on soundcheck, with 26 sets lo
 
 Mihail, Daniel., Dying in Beauty
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antepop/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antepop/)*

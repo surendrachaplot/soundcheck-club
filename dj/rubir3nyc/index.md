@@ -1,6 +1,6 @@
 # RUBI (R3, NYC)
 
-RUBI (R3, NYC) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Kauz, Zurich on Sat, 5 Sept 2026.
+RUBI (R3, NYC) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kauz, Zurich on Sat, 5 Sept 2026.
 
 RUBI (R3, NYC) are a deep house and house duo based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Leipzig, Newyorkcity and Zurich. Often billed alongside RIVKA R3 NYC, Melowdee and Rebel Fusion NYC. Next up: Kauz, Zurich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ RUBI (R3, NYC) are a deep house and house duo based in United States of America,
 
 RIVKA R3 NYC, Melowdee, Rebel Fusion NYC
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubir3nyc/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rubir3nyc/)*

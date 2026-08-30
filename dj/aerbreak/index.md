@@ -1,6 +1,6 @@
 # Aerbreak
 
-Aerbreak is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at The DBA, Manchester on Sat, 17 Oct 2026.
+Aerbreak is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The DBA, Manchester on Sat, 17 Oct 2026.
 
 Aerbreak is a hardcore and jungle artist tracked on soundcheck, with 23 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Krash Dubs, 50CAL and D-Luc-D. Next up: The DBA, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Aerbreak is a hardcore and jungle artist tracked on soundcheck, with 23 sets log
 
 Krash Dubs, 50CAL, D-Luc-D
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerbreak/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aerbreak/)*

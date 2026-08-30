@@ -1,6 +1,6 @@
 # Vlennes
 
-Vlennes is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
+Vlennes is a Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
 
 Vlennes is a bass and electro artist tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside pink.wav, qanossonap and Astytekk. Next up: Patision65, Athens on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Vlennes is a bass and electro artist tracked on soundcheck, with 19 sets logged 
 
 pink.wav, qanossonap, Astytekk
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlennes/)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlennes/)*

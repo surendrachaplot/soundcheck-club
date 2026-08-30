@@ -1,6 +1,6 @@
 # KALI.
 
-KALI. is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 29 Aug 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
+KALI. is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lark, Berlin on Sat, 3 Oct 2026.
 
 KALI. is a club and experimental artist tracked on soundcheck, with 39 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside sin serif, dj latinchat and auto_timer. Next up: Lark, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ KALI. is a club and experimental artist tracked on soundcheck, with 39 sets logg
 
 sin serif, dj latinchat, auto_timer
 
-*Updated Sat, 29 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
+*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
