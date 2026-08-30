@@ -1,13 +1,14 @@
 # Bastian Bux
 
-Bastian Bux is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at [UNVRS], Ibiza on Sat, 5 Sept 2026.
+Bastian Bux is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Luz De Gas, Barcelona on Fri, 4 Sept 2026.
 
-Bastian Bux is a tech house and house artist based in Spain, tracked on soundcheck, with 87 sets logged across Amsterdam, Bali, Barcelona and Boston and 19 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: [UNVRS], Ibiza on Sat 5 Sept.
+Bastian Bux is a tech house and house artist based in Spain, tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Barcelona and Boston and 19 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: Luz De Gas, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Luz De Gas | Barcelona |
 | Sat, 5 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 19 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Chinois Ibiza | Ibiza |

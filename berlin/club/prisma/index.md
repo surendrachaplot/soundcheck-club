@@ -1,8 +1,8 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Klubkneipe x Resonance" on Sun, 30 Aug 2026.
+Prisma is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Klubkneipe x Resonance" on Sun, 30 Aug 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Agustin Mendez, Alex Iso, Ayham and Carl Conrad and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Agustin Mendez, Alex Iso, Ayham and Carl Conrad and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 

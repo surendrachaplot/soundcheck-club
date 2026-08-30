@@ -1,0 +1,15 @@
+# Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
+
+Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 19 Sept, Barcelona. 1 act on the bill: Manu Oubiña. House and Electro. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 19 Sept 2026 |
+| Venue | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona |
+| City | Barcelona |
+
+## Line-up
+
+- Manu Oubiña
+
+*Source: [soundcheck](https://soundcheck.club/e/2494969-studio-stereo-x-cyberfunk-pres-manu-oubi-a-lukas-at-tba-stud/)*

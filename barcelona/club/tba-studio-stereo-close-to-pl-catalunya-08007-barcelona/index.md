@@ -16,7 +16,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 12 Sept 2026 | Studio Stereo x DJ Service x Bubble pres. Len Lewis, Jake Hodgkinson | DJ Service, Jake Hodgkinson |
 | Thu, 17 Sept 2026 | Studio Stereo TBA |  |
 | Fri, 18 Sept 2026 | Studio Stereo TBA |  |
-| Sat, 19 Sept 2026 | Studio Stereo TBA |  |
+| Sat, 19 Sept 2026 | Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas | Manu Oubiña |
 | Thu, 24 Sept 2026 | Studio Stereo TBA |  |
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

@@ -1,6 +1,6 @@
 # Voices From The Lake
 
-Voices From The Lake is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Voices From The Lake is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
 
 Voices From The Lake is a techno and ambient artist based in Italy, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Donato Dozzy, Neel and Ogazón. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
 
@@ -9,7 +9,6 @@ Voices From The Lake is a techno and ambient artist based in Italy, tracked on s
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
-| Sat, 29 Aug 2026 | Nowadays | New York City |
 
 ## Recently played
 

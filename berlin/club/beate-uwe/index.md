@@ -1,8 +1,8 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Du Tanzt Mich Mal X Marla Records" on Fri, 4 Sept 2026.
+Beate Uwe is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Du Tanzt Mich Mal X Marla Records" on Fri, 4 Sept 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including AKA AKA, ALXJ, anahï and Antonio Pérez and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including AKA AKA, ALXJ, anahï and Antonio Pérez and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 

@@ -8,7 +8,7 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 5 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Candy Rain // Darcy Justice, Soju Gang, Colette | Colette, Darcy Justice, Soju Gang |
+| Thu, 3 Sept 2026 | Candy Rain // Darcy Justice, Soju Gang, Colette | Colette, Darcy Justice, Numero 6 |
 | Fri, 4 Sept 2026 | Club Elevate presents: Ricky Nord All Night Long | Charlotte Rooney, Hannah D, Ricky Nord |
 | Fri, 4 Sept 2026 | Club Elevate presents: Ricky Nord All Night Long | Charlotte Rooney, Hannah D, JD (4), Ricky Nord |
 | Sat, 5 Sept 2026 | Angel presents Breakfast Club Takeover |  |

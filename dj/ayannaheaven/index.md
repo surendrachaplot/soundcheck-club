@@ -1,14 +1,13 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Praia Fluvial da Rapoula do Côa, Porto on Mon, 24 Aug 2026.
+Ayanna Heaven is a Dancehall and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Last Arch, London on Sun, 30 Aug 2026.
 
-Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Praia Fluvial da Rapoula do Côa, Porto on Mon 24 Aug.
+Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 75 sets logged across Athens, London, Manchester and Newyorkcity and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Last Arch, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 24 Aug 2026 | Praia Fluvial da Rapoula do Côa | Porto |
 | Sun, 30 Aug 2026 | Last Arch | London |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |

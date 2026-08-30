@@ -1,13 +1,14 @@
 # Karina Schneider
 
-Karina Schneider is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Karina Schneider is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 24 Sept 2026.
 
-Karina Schneider is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
+Karina Schneider is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 3 more. Often billed alongside Beau Didier, Marc Schneider and Flits. Next up: Les Enfants Brillants, Barcelona on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 

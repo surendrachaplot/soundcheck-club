@@ -1,6 +1,6 @@
-# *CANCELLED* BONANZA x BONDANCE pres. 10h beach party at Hola Club Sitges (Cala Vallcarca)
+# [CANCELLED] BONANZA x BONDANCE pres. 10h beach party at Hola Club Sitges (Cala Vallcarca)
 
-*CANCELLED* BONANZA x BONDANCE pres. 10h beach party at Hola Club Sitges (Cala Vallcarca) on Sun 30 Aug, Barcelona. 5 acts on the bill: Brizas, Combaila, Derovio and GRETA (2) and 1 more. House. Preview the line-up and save it on soundcheck.
+[CANCELLED] BONANZA x BONDANCE pres. 10h beach party at Hola Club Sitges (Cala Vallcarca) on Sun 30 Aug, Barcelona. 5 acts on the bill: Brizas, Combaila, Derovio and GRETA (2) and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

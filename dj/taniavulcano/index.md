@@ -1,13 +1,14 @@
 # Tania Vulcano
 
-Tania Vulcano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
+Tania Vulcano is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
 
-Tania Vulcano is a house and techno artist tracked on soundcheck, with 122 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 14 more. Often billed alongside Sossa, Seth Troxler and Priku. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Sept.
+Tania Vulcano is a house and techno artist tracked on soundcheck, with 123 sets logged across Barcelona, Brussels, Bucharest and Buenosaires and 14 more. Often billed alongside Sossa, Seth Troxler and Priku. Next up: Eden, Ibiza on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 1 Sept 2026 | Eden | Ibiza |
 | Sat, 5 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 19 Sept 2026 | Ouseburn Garden | Newcastle |
 

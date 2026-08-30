@@ -1,14 +1,15 @@
 # ganz oder gar nicht
 
-ganz oder gar nicht is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Beate Uwe, Berlin on Sat, 19 Sept 2026.
+ganz oder gar nicht is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Beate Uwe, Berlin on Sat, 19 Sept 2026.
 
-ganz oder gar nicht is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside justUS, hörmi and AELVA K. Next up: Beate Uwe, Berlin on Sat 19 Sept.
+ganz oder gar nicht is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside justUS, hörmi and Katzengold. Next up: Beate Uwe, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Beate Uwe | Berlin |
+| Sat, 19 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ ganz oder gar nicht is a house and techno artist based in Germany, tracked on so
 
 ## Shares bills with
 
-justUS, hörmi, AELVA K
+justUS, hörmi, Katzengold
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ganzodergarnicht/)*

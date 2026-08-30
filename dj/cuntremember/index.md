@@ -1,13 +1,14 @@
 # CUNT REMEMBER
 
-CUNT REMEMBER is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at .exe archive, Berlin on Sat, 5 Sept 2026.
+CUNT REMEMBER is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Chausseestrasse 131, Berlin on Fri, 4 Sept 2026.
 
-CUNT REMEMBER is a trance and techno artist based in Argentina, tracked on soundcheck, with 57 sets logged across Berlin, Copenhagen, Leipzig and Newyorkcity and 3 more. Often billed alongside PAX (2), Mika Dj and truthspeaker. Next up: .exe archive, Berlin on Sat 5 Sept.
+CUNT REMEMBER is a trance and techno artist based in Argentina, tracked on soundcheck, with 58 sets logged across Berlin, Copenhagen, Leipzig and Newyorkcity and 3 more. Often billed alongside PAX (2), Mika Dj and truthspeaker. Next up: Chausseestrasse 131, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Chausseestrasse 131 | Berlin |
 | Sat, 5 Sept 2026 | .exe archive | Berlin |
 | Thu, 24 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 

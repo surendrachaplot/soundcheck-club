@@ -1,8 +1,8 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 14 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "10 YEARS OF Klub Verboten x LONDON - SOFT" on Fri, 4 Sept 2026.
+The Steel Yard is a music venue in London with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "10 YEARS OF Klub Verboten x LONDON - SOFT" on Fri, 4 Sept 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including AVANTIME, Bassface, Beezo and CITYTRONIX and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including AVANTIME, Bassface, Beezo and CITYTRONIX and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
@@ -16,8 +16,8 @@ The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming nigh
 | Sat, 3 Oct 2026 | Virus - Face 2 Face |  |
 | Sat, 10 Oct 2026 | Stanton Warriors presents: Stanton Sessions | Stanton Warriors |
 | Sat, 17 Oct 2026 | Cirque Du Rave Is Coming To London |  |
+| Sat, 17 Oct 2026 | Tribal Life |  |
 | Fri, 23 Oct 2026 | LAVERN: 360 Show | LAVERN |
-| Sat, 24 Oct 2026 | Zinc Warehouse Party | Beezo, Shenin Amara, Supa D |
 
 ## Address
 

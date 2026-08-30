@@ -1,13 +1,14 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Glamorama, Melbourne on Fri, 20 Nov 2026.
+Elias Mazian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
-Elias Mazian is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Tsepo. Next up: Glamorama, Melbourne on Fri 20 Nov.
+Elias Mazian is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Tsepo. Next up: SISSI'S Amsterdam, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 20 Nov 2026 | Glamorama | Melbourne |
 
 ## Recently played

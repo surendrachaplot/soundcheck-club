@@ -1,14 +1,15 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Hard Techno Thursday - Paula Hilton invites" on Thu, 3 Sept 2026.
+Marmorbar is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Hard Techno Thursday - Paula Hilton invites" on Thu, 3 Sept 2026.
 
-Marmorbar is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including Dj handbag, DJILF, ENNIO and HNX (030) and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
+Marmorbar is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including bambinodj, Cynthia Matisse, Dj handbag and DJILF and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Hard Techno Thursday - Paula Hilton invites | Micro Bites, Paula Hilton |
+| Fri, 4 Sept 2026 | 00K | Cynthia Matisse, Jad (DE), bambinodj |
 | Fri, 11 Sept 2026 | Nomagie Community Event | HNX (030), LUISELLE, LUV.DELUXE, Nycky Estrella |
 | Sat, 12 Sept 2026 | Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $UKA, Maria Roi, Dj handbag | DJILF, Dj handbag, ENNIO, KINTEL, LADY $UKA, Nastya Muravyova |
 | Fri, 18 Sept 2026 | 7Fridays | Lilith., NASTYA NVRSLP, Nicole., UniKhatu, Voin Oruwu, nuarrrrr |
