@@ -1,13 +1,14 @@
 # GLASSBASS
 
-GLASSBASS is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+GLASSBASS is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
 
-GLASSBASS is a techno and industrial artist tracked on soundcheck, with 50 sets logged across Amsterdam, Basel, Berlin and Budapest and 5 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: Airport Würzburg, Nurnberg on Fri 16 Oct.
+GLASSBASS is a techno and industrial artist tracked on soundcheck, with 51 sets logged across Amsterdam, Basel, Berlin and Budapest and 5 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: TBA - Secret Location, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - Secret Location | Berlin |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 

@@ -1,14 +1,13 @@
 # Jakob Seidensticker
 
-Jakob Seidensticker is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Südpol, Hamburg on Sat, 29 Aug 2026.
+Jakob Seidensticker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
-Jakob Seidensticker is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside MELINA (3), Surreal (DE) and Finona Rider. Next up: Südpol, Hamburg on Sat 29 Aug.
+Jakob Seidensticker is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside MELINA (3), Surreal (DE) and Finona Rider. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Südpol | Hamburg |
 | Fri, 11 Sept 2026 | Hoppetosse | Berlin |
 
 ## Recently played

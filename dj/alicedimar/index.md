@@ -1,14 +1,15 @@
 # Alice DiMar
 
-Alice DiMar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+Alice DiMar is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
-Alice DiMar is a house and tech house artist based in Germany, tracked on soundcheck, with 72 sets logged across Cologne, Frankfurt, Hamburg and Munich. Often billed alongside Michael Nowak, Tofu&Acid and YEPIK. Next up: Park Café München, Munich on Thu 24 Sept.
+Alice DiMar is a tech house and house artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside diskoheinz, Artur Bredo and Michael Nowak. Next up: Park Café München, Munich on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Park Café München | Munich |
+| Sat, 24 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alice DiMar is a house and tech house artist based in Germany, tracked on soundc
 
 ## Shares bills with
 
-Michael Nowak, Tofu&Acid, YEPIK
+diskoheinz, Artur Bredo, Michael Nowak
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alicedimar/)*

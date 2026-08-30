@@ -1,8 +1,8 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Elsewhere presents: DJ LEX & Friends at 99 Scott Outdoors w/ Baby Vaye, Vega, Kendollaz + more" on Sun, 6 Sept 2026.
+99 Scott Ave is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Elsewhere presents: DJ LEX & Friends at 99 Scott Outdoors w/ Baby Vaye, Vega, Kendollaz + more" on Sun, 6 Sept 2026.
 
-99 Scott Ave is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including A.K.R, ARODES, BABYVAYE and Joshwa and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
+99 Scott Ave is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including A.K.R, ARODES, BABYVAYE and Joshwa and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -14,6 +14,7 @@
 | Fri, 9 Oct 2026 | ARODES  w. JUNO  | ARODES, JUNO (DE) |
 | Fri, 13 Nov 2026 | Elsewhere presents: Luke Alexander at 99 Scott - Dedro, Shankz, Matty Chiuch | Luke Alexander, Shankz |
 | Sat, 21 Nov 2026 | Joshwa All Night Long Birthday Set | Joshwa |
+| Sat, 28 Nov 2026 | Space92 & Guests | Space 92 |
 
 ## Address
 

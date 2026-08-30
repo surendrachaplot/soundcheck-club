@@ -1,14 +1,14 @@
 # Papa Hase
 
-Papa Hase is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
+Papa Hase is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
 
-Papa Hase is a house artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Blachord, Abribass and Adron_. Next up: Mom's Limousine Service, Berlin on Fri 4 Sept.
+Papa Hase is a house artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Blachord, Abribass and Adron_. Next up: TBA, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Mom's Limousine Service | Berlin |
+| Fri, 4 Sept 2026 | TBA | Berlin |
 
 ## Recently played
 

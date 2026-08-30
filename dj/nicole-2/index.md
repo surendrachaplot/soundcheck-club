@@ -1,14 +1,13 @@
 # Nicole.
 
-Nicole. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
+Nicole. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
-Nicole. is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Bucharest, Copenhagen and Paris and 4 more. Often billed alongside Bekuchi, DJ Troy and NX (1). Next up: Tresor / Globus, Berlin on Sat 29 Aug.
+Nicole. is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Bucharest, Copenhagen and Paris and 4 more. Often billed alongside Bekuchi, DJ Troy and NX (1). Next up: Kater, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Tresor / Globus | Berlin |
 | Sat, 5 Sept 2026 | Kater | Berlin |
 | Fri, 18 Sept 2026 | Marmorbar | Berlin |
 

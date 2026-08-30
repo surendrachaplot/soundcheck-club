@@ -1,6 +1,6 @@
 # 34 YRS distillery at Distillery
 
-34 YRS distillery at Distillery on Fri 16 Oct, Leipzig. 19 acts on the bill: Bephål, BIGALKE, Carlotta Jacobi and Cynthia Matisse and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
+34 YRS distillery at Distillery on Fri 16 Oct, Leipzig. 20 acts on the bill: Bephål, BIGALKE, Carlotta Jacobi and Cynthia Matisse and 16 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@
 - Nørbak
 - noxsonos
 - OlIV
+- OLIV
 - Padsingers
 - pokka
 - RIKHTER

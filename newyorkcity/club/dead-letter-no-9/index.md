@@ -15,7 +15,7 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 16 upcom
 | Thu, 10 Sept 2026 | Groove Therapy: CAMILLA, Sam Clark, Karl - Dead Letter No.9 | CAMILLA, Sam Clark |
 | Fri, 11 Sept 2026 | The Disco Express: Roland & Brother Rich, Bustin' Loose, Birdee - Dead Letter No.9 | Birdee, Bustin' Loose, Roland & Brother Rich |
 | Fri, 11 Sept 2026 | Annie Taylor Sloan + Friends (LIVE) - Dead Letter No.9 |  |
-| Sat, 12 Sept 2026 | Nickodemus, Niara Sterling, Willy Soul, Borbón, Omer Mil - Dead Letter No.9 | Borbón, Niara Sterling, Nickodemus, Omer Mil, Willy Soul |
+| Sat, 12 Sept 2026 | Nickodemus, Niara Sterling, Willy Soul, Seamus Haji, Borbón, Omer Mil - Dead Letter No.9 | Borbón, Niara Sterling, Nickodemus, Omer Mil, Seamus Haji, Willy Soul |
 | Sun, 13 Sept 2026 | Sole Therapy - KAYO, Matt Atkinson, DJ Marc, Kimchi + Performance by Kimblee - Dead Letter No.9 |  |
 | Thu, 17 Sept 2026 | Barangay presents: Jasmine Li, Jay Dawala, Gabriel Etrata, LANSUH, Niyah West, Chelsea | Gabriel Etrata, Jasmine Li, Jasmine Li (NY), LANSUH, Niyah West |
 

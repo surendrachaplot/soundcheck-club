@@ -1,14 +1,15 @@
 # flo Soakin
 
-flo Soakin is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "tomorrowgoodbye" on Sat, 12 Sept 2026.
+flo Soakin is a music venue in Osaka with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "tomorrowgoodbye" on Sat, 12 Sept 2026.
 
-flo Soakin is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including CityBoyLounge, Ko Yang (JP), MiTSUYAS and Yudai Sugiyama. Browse upcoming dates, start times and who's playing. Japan, 〒541-0057 Osaka, Chuo Ward, Kitakyuhojimachi, 2 Chome−2−13 B1.
+flo Soakin is a music venue in Osaka listed on soundcheck. 3 upcoming nights, with line-ups including CHISE, CityBoyLounge, Ko Yang (JP) and MiTSUYAS and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒541-0057 Osaka, Chuo Ward, Kitakyuhojimachi, 2 Chome−2−13 B1.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | tomorrowgoodbye | MiTSUYAS, Yudai Sugiyama |
+| Mon, 21 Sept 2026 | nyank | CHISE |
 | Tue, 22 Sept 2026 | City Boy Lounge | CityBoyLounge, Ko Yang (JP) |
 
 ## Address

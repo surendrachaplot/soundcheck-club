@@ -1,13 +1,14 @@
 # Alvaro Cabana
 
-Alvaro Cabana is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cadavra, Madrid on Fri, 2 Oct 2026.
+Alvaro Cabana is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at EL SÓTANO, Madrid on Thu, 24 Sept 2026.
 
-Alvaro Cabana is an electronica and house artist based in Spain, tracked on soundcheck, with 111 sets logged across Antwerp, Barcelona, Berlin and Madrid and 1 more. Often billed alongside David Ponziano, Javi Redondo and Nebari. Next up: Cadavra, Madrid on Fri 2 Oct.
+Alvaro Cabana is an electronica and house artist based in Spain, tracked on soundcheck, with 112 sets logged across Antwerp, Barcelona, Berlin and Madrid and 1 more. Often billed alongside David Ponziano, Javi Redondo and Nebari. Next up: EL SÓTANO, Madrid on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | EL SÓTANO | Madrid |
 | Fri, 2 Oct 2026 | Cadavra | Madrid |
 
 ## Recently played

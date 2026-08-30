@@ -1,8 +1,8 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Akbar, Los Angeles on Sun, 6 Sept 2026.
+Heidi Lawden is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Akbar, Los Angeles on Sun, 6 Sept 2026.
 
-Heidi Lawden is a house and disco artist tracked on soundcheck, with 168 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: Akbar, Losangeles on Sun 6 Sept.
+Heidi Lawden is a house and disco artist tracked on soundcheck, with 169 sets logged across Athens, Bali, Barcelona and Belfast and 19 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: Akbar, Losangeles on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Heidi Lawden is a house and disco artist tracked on soundcheck, with 168 sets lo
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 31 Oct 2026 | Yamashiro Hollywood | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played

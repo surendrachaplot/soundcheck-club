@@ -1,8 +1,8 @@
 # ZARE
 
-ZARE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+ZARE is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
-ZARE is a house and tech house artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Unseen. and Papi Joe. Next up: Park Café München, Munich on Thu 24 Sept.
+ZARE is a house and tech house artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Unseen. and Papi Joe. Next up: Park Café München, Munich on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ZARE is a house and tech house artist based in Germany, tracked on soundcheck, w
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Park Café München | Munich |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Sat, 24 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
 

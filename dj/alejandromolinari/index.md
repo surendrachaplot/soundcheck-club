@@ -1,14 +1,15 @@
 # Alejandro Molinari
 
-Alejandro Molinari is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Weekend, Berlin on Fri, 18 Sept 2026.
+Alejandro Molinari is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Weekend, Berlin on Fri, 18 Sept 2026.
 
-Alejandro Molinari is a house and techno artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Hamburg and Madrid and 4 more. Often billed alongside Frankie Flowerz, DonTom and HEN YANNI. Next up: Weekend, Berlin on Fri 18 Sept.
+Alejandro Molinari is a house and techno artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Hamburg and Madrid and 4 more. Often billed alongside Frankie Flowerz, DonTom and HEN YANNI. Next up: Weekend, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Weekend | Berlin |
+| Mon, 28 Sept 2026 | KitKatClub | Berlin |
 
 ## Recently played
 

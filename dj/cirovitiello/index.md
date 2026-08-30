@@ -1,14 +1,15 @@
 # Ciro Vitiello
 
-Ciro Vitiello is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Ciro Vitiello is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Ciro Vitiello is an experimental and electronica artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin, Leipzig, Milan and Naples and 3 more. Often billed alongside Heith, Nocturnerror and Nesso. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Ciro Vitiello is an experimental and electronica artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Brussels, Leipzig and Milan and 4 more. Often billed alongside Heith, Nocturnerror and Nosedrip. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ciro Vitiello is an experimental and electronica artist based in Italy, tracked 
 
 ## Shares bills with
 
-Heith, Nocturnerror, Nesso
+Heith, Nocturnerror, Nosedrip
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cirovitiello/)*

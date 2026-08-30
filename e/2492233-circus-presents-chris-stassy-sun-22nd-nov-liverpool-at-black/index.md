@@ -1,6 +1,6 @@
 # Circus presents Chris Stassy Sun 22nd Nov Liverpool at Blackstone Street Warehouse
 
-Circus presents Chris Stassy Sun 22nd Nov Liverpool at Blackstone Street Warehouse on Sun 22 Nov, Liverpool. 4 acts on the bill: Chris Stussy, Jhobei, Marlie and Traumer. House and Tech House. Preview the line-up and save it on soundcheck.
+Circus presents Chris Stassy Sun 22nd Nov Liverpool at Blackstone Street Warehouse on Sun 22 Nov, Liverpool. 4 acts on the bill: Chris Stassy, Jhobei, Marlie and Traumer. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Circus presents Chris Stassy Sun 22nd Nov Liverpool at Blackstone Street Warehou
 
 ## Line-up
 
-- Chris Stussy
+- Chris Stassy
 - Jhobei
 - Marlie
 - Traumer

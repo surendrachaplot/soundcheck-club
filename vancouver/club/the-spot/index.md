@@ -2,13 +2,13 @@
 
 The Spot is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "VANTANIOR - Dark Bass in the Black" on Sat, 26 Sept 2026.
 
-The Spot is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including C-Star. Browse upcoming dates, start times and who's playing. 520 Alexander Street.
+The Spot is a music venue in Vancouver listed on soundcheck. 1 upcoming night, with line-ups including C-Star, Devon and Esteban. Browse upcoming dates, start times and who's playing. 520 Alexander Street.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | VANTANIOR - Dark Bass in the Black | C-Star |
+| Sat, 26 Sept 2026 | VANTANIOR - Dark Bass in the Black | C-Star, Devon, Esteban |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Bakerman
 
-Bakerman is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Bakerman is a Downtempo and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
-Bakerman is a house artist tracked on soundcheck, with 8 sets logged across Athens and Zurich. Often billed alongside Stiko, Betsu and Dub Relief Soundsystem. Next up: B side Athens, Athens on Thu 3 Sept.
+Bakerman is a downtempo and balearic artist tracked on soundcheck, with 9 sets logged across Athens and Zurich. Often billed alongside Stiko, Betsu and Dub Relief Soundsystem. Next up: B side Athens, Athens on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | B side Athens | Athens |
+| Sun, 6 Sept 2026 | Ace Hotel & Swim Club Athens | Athens |
 
 ## Recently played
 

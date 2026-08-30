@@ -1,14 +1,15 @@
 # Crimson Lake
 
-Crimson Lake is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Crimson Lake is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
 
-Crimson Lake is a disco and house artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside DJ Kodah, Jean Frais and nonduality. Next up: KitKatClub, Berlin on Fri 4 Sept.
+Crimson Lake is a disco and house artist tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside DJ Kodah, Jean Frais and nonduality. Next up: KitKatClub, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | KitKatClub | Berlin |
+| Fri, 11 Sept 2026 | Prisma | Berlin |
 
 ## Recently played
 

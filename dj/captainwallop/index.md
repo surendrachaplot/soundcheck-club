@@ -1,8 +1,8 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at fabric, London on Sun, 30 Aug 2026.
+Captain Wallop is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at fabric, London on Sun, 30 Aug 2026.
 
-Captain Wallop is a garage and house artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside RTK Tarantino, Soul Mass Transit System and Alec Falconer. Next up: fabric, London on Sun 30 Aug.
+Captain Wallop is a garage and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside RTK Tarantino, Soul Mass Transit System and Alec Falconer. Next up: fabric, London on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Captain Wallop is a garage and house artist tracked on soundcheck, with 44 sets 
 | Sat, 26 Sept 2026 | Ouseburn Garden | Newcastle |
 | Sat, 3 Oct 2026 | Mint Warehouse | Leeds |
 | Sat, 31 Oct 2026 | Quarters | Brighton |
+| Sat, 28 Nov 2026 | NOWHERE | Manchester |
+| Sat, 28 Nov 2026 | The Loft | Manchester |
 
 ## Recently played
 

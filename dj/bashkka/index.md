@@ -1,8 +1,8 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+BASHKKA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
 
-BASHKKA is a techno and house artist tracked on soundcheck, with 301 sets logged across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Southwark Park, London on Sun 30 Aug.
+BASHKKA is a techno and house artist tracked on soundcheck, with 302 sets logged across Amsterdam, Antwerp, Athens and Bali and 56 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Southwark Park, London on Sun 30 Aug.
 
 ## Upcoming shows
 

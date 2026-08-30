@@ -1,13 +1,14 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Masseria Ferraioli - Afragola, Naples on Sun, 6 Sept 2026.
+Carrier is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at 09h30-05h30, Antwerp on Sat, 5 Sept 2026.
 
-Carrier is a techno and experimental artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: TBA - Masseria Ferraioli - Afragola, Naples on Sun 6 Sept.
+Carrier is a techno and experimental artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: 09h30-05h30, Antwerp on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | 09h30-05h30 | Antwerp |
 | Sun, 6 Sept 2026 | TBA - Masseria Ferraioli - Afragola | Naples |
 | Thu, 10 Sept 2026 | Blå | Oslo |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |

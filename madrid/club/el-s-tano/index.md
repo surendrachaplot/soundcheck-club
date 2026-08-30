@@ -1,8 +1,8 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 18 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "RIOT CLUB: Stereocode, Arok Shiva, Jorge Carreño" on Sun, 30 Aug 2026.
+EL SÓTANO is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "RIOT CLUB: Stereocode, Arok Shiva, Jorge Carreño" on Sun, 30 Aug 2026.
 
-EL SÓTANO is a music venue in Madrid listed on soundcheck. 18 upcoming nights, with line-ups including Alviker, Arok Shiva, Deetron and Djen and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
+EL SÓTANO is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Deetron and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
 ## What's on
 

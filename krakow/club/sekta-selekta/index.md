@@ -1,13 +1,14 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "SAY YES: Sekta Selekta TAKEOVER / kEczuP/ Kola/ 4\4" on Fri, 4 Sept 2026.
+Sekta Selekta is a music venue in Krakow with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Sekta Selekta: Meke ALL NIGHT LONG" on Sun, 30 Aug 2026.
 
-Sekta Selekta is a music venue in Krakow listed on soundcheck. 1 upcoming night, with line-ups including 4\4, kEczuP and Kola (PL). Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
+Sekta Selekta is a music venue in Krakow listed on soundcheck. 2 upcoming nights, with line-ups including 4\4, kEczuP, Kola (PL) and Meke. Browse upcoming dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sun, 30 Aug 2026 | Sekta Selekta: Meke ALL NIGHT LONG | Meke |
 | Fri, 4 Sept 2026 | SAY YES: Sekta Selekta TAKEOVER / kEczuP/ Kola/ 4\4 | 4\4, Kola (PL), kEczuP |
 
 ## Address

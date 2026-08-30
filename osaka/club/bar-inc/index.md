@@ -1,8 +1,8 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 16 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "HOLIDAY ORDERS" on Sun, 30 Aug 2026.
+BAR Inc is a music venue in Osaka with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "HOLIDAY ORDERS" on Sun, 30 Aug 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 16 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Arpy Brown and Big Animal Theory and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 17 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Arpy Brown and Big Animal Theory and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 

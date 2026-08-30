@@ -1,13 +1,14 @@
 # JUN INAGAWA
 
-JUN INAGAWA is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Enter Shibuya, Tokyo on Fri, 4 Sept 2026.
+JUN INAGAWA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at clubasia, Tokyo on Thu, 3 Sept 2026.
 
-JUN INAGAWA is a techno and house artist tracked on soundcheck, with 187 sets logged across Brussels, Kyoto, Osaka and Seoul and 2 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: Enter Shibuya, Tokyo on Fri 4 Sept.
+JUN INAGAWA is a techno and house artist tracked on soundcheck, with 188 sets logged across Brussels, Kyoto, Osaka and Seoul and 2 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: clubasia, Tokyo on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | clubasia | Tokyo |
 | Fri, 4 Sept 2026 | Enter Shibuya | Tokyo |
 | Fri, 4 Sept 2026 | Enter Shibuya | Tokyo |
 | Sat, 5 Sept 2026 | おおばキャンプ村 | Tokyo |

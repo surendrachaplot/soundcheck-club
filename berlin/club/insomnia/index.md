@@ -1,8 +1,8 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "20 Years Master & Servant Jubilee" on Fri, 4 Sept 2026.
+Insomnia is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "20 Years Master & Servant Jubilee" on Fri, 4 Sept 2026.
 
-Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including Epicx, JaMoll-official, MISS PASSION and Sika Akis and 1 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
+Insomnia is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Epicx, JaMoll-official, MISS PASSION and Sika Akis and 1 more. Browse upcoming dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
 ## What's on
 

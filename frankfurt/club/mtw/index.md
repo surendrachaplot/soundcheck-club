@@ -1,8 +1,8 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Riviera Festival 2026 Freitag After" on Fri, 4 Sept 2026.
+MTW is a music venue in Frankfurt with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Riviera Festival 2026 Freitag After" on Fri, 4 Sept 2026.
 
-MTW is a music venue in Frankfurt listed on soundcheck. 5 upcoming nights, with line-ups including Ae:ther, Artificial DNA, Basti Grub and BIANCA BLANCO and 2 more. Browse upcoming dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
+MTW is a music venue in Frankfurt listed on soundcheck. 6 upcoming nights, with line-ups including Ae:ther, Artificial DNA, Basti Grub and BIANCA BLANCO and 2 more. Browse upcoming dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
 ## What's on
 
@@ -13,6 +13,7 @@ MTW is a music venue in Frankfurt listed on soundcheck. 5 upcoming nights, with 
 | Fri, 2 Oct 2026 | WE ARE ONE x MTW | Justin Hahn, Kiko, NATURTALENT, The Belgian Stallion |
 | Sat, 7 Nov 2026 | WE ARE ONE x MTW with Karamustan, Zapravka | Karamustan |
 | Sat, 14 Nov 2026 | Raum für Ton x MTW: Artificial DNA, co:co, MAURER, Parallx, Tarkan, u.v.m | Artificial DNA, CLAVD, DJ Sonnenbrand, Leskus, MAHA, MAURER, Maharti, Parallx, Tarkan, co:co |
+| Sat, 28 Nov 2026 | WE ARE ONE x MTW with TAKTSTÖRER & Tiefundton | TAKTSTÖRER, Tiefundton |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # DJ Sonnenbrand
 
-DJ Sonnenbrand is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
+DJ Sonnenbrand is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
 
-DJ Sonnenbrand is a trance and techno artist tracked on soundcheck, with 94 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 8 more. Often billed alongside DJ WASSERFALL, Paraçek and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Fri 18 Sept.
+DJ Sonnenbrand is a trance and techno artist tracked on soundcheck, with 95 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 8 more. Often billed alongside DJ WASSERFALL, Paraçek and KLING&KLANG. Next up: Ritter Butzke, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Ritter Butzke | Berlin |
 | Fri, 18 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |
 

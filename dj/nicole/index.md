@@ -1,14 +1,13 @@
 # Nicole
 
-Nicole is a Funk / Soul and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
+Nicole is a Funk / Soul and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Nicole is a funk / soul and tech house artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Milan and Tbilisi and 1 more. Often billed alongside Bekuchi, Hamatsuki and Boyá. Next up: Tresor / Globus, Berlin on Sat 29 Aug.
+Nicole is a funk / soul and tech house artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Milan and Tbilisi and 1 more. Often billed alongside Bekuchi, Hamatsuki and Boyá. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played

@@ -1,6 +1,6 @@
-# 1460BPM x ESC: NOA - ALL NIGHT LONG at ESC
+# 1460BPM x ESC : NOA - ALL NIGHT LONG at ESC
 
-1460BPM x ESC: NOA - ALL NIGHT LONG on Sat 5 Sept, Montreal. Techno. Preview the line-up and save it on soundcheck.
+1460BPM x ESC : NOA - ALL NIGHT LONG on Sat 5 Sept, Montreal. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

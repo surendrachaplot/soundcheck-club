@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 31 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "VICE VERSA presents: Techno vs Groove" on Thu, 3 Sept 2026.
+The Berkeley Suite is a music venue in Glasgow with 32 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "VICE VERSA presents: Techno vs Groove" on Thu, 3 Sept 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 31 upcoming nights, with line-ups including 3MR., AKA DISPLAY, Amizl and Ariel Zetina and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 32 upcoming nights, with line-ups including 3MR., AKA DISPLAY, Amizl and Ariel Zetina and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # ◥◣SINGULARITY◥◣ at Tresor / Globus
 
-◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 7 Sept, Berlin. 3 acts on the bill: Dizzy, Inverse Element and RIKHTER. Techno. Preview the line-up and save it on soundcheck.
+◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 7 Sept, Berlin. 4 acts on the bill: Dizzy, Dizzy (PL), Inverse Element and RIKHTER. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Dizzy
+- Dizzy (PL)
 - Inverse Element
 - RIKHTER
 

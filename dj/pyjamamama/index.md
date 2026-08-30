@@ -1,8 +1,8 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Wed, 2 Sept 2026.
+PyjamaMama is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Wed, 2 Sept 2026.
 
-PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Berlin. Often billed alongside Dj Sunflash, DJ Spaßgetränk and PHLOXO. Next up: KitKatClub, Berlin on Wed 2 Sept.
+PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin. Often billed alongside Dj Sunflash, DJ Spaßgetränk and PHLOXO. Next up: KitKatClub, Berlin on Wed 2 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | KitKatClub | Berlin |
 | Sat, 5 Sept 2026 | Œlgarten | Berlin |
+| Sat, 3 Oct 2026 | DNA. HOUSE | Berlin |
 
 ## Recently played
 

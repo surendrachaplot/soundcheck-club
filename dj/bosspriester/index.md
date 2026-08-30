@@ -1,8 +1,8 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Nest, Nottingham on Sun, 30 Aug 2026.
+Boss Priester is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Nest, Nottingham on Sun, 30 Aug 2026.
 
-Boss Priester is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: The Nest, Nottingham on Sun 30 Aug.
+Boss Priester is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: The Nest, Nottingham on Sun 30 Aug.
 
 ## Upcoming shows
 

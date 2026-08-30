@@ -1,8 +1,8 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Switch" on Sun, 30 Aug 2026.
+Sigma is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Switch" on Sun, 30 Aug 2026.
 
-Sigma is a music venue in Ibiza listed on soundcheck. 16 upcoming nights, with line-ups including D I N, Francesco Menduni, iOAN (LV) and Javi Niño and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
+Sigma is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including AntZ (2), D I N, Francesco Menduni and iOAN (LV) and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at EXIL, Zurich on Fri, 4 Sept 2026.
+Phil Berg is a Techno and Club artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at EXIL, Zurich on Fri, 4 Sept 2026.
 
-Phil Berg is a techno and club artist tracked on soundcheck, with 145 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: EXIL, Zurich on Fri 4 Sept.
+Phil Berg is a techno and club artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: EXIL, Zurich on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Phil Berg is a techno and club artist tracked on soundcheck, with 145 sets logge
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
+| Sat, 28 Nov 2026 | H2o6 | Riga |
 
 ## Recently played
 

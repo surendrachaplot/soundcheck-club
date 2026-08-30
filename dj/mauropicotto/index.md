@@ -1,14 +1,15 @@
 # Mauro Picotto
 
-Mauro Picotto is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Mauro Picotto is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Mauro Picotto is a trance and techno artist tracked on soundcheck, with 33 sets logged across Aberdeen, Amsterdam, Auckland and Budapest and 15 more. Often billed alongside Billy Gillies, Judge Jules and Eddie Halliwell. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
+Mauro Picotto is a trance and techno artist tracked on soundcheck, with 34 sets logged across Aberdeen, Amsterdam, Auckland and Budapest and 15 more. Often billed alongside Billy Gillies, Judge Jules and Eddie Halliwell. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Sat, 28 Nov 2026 | Room 2 Glasgow | Glasgow |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Bassiani
 
-Bassiani is a music venue in Tbilisi with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Horoom – Sat, 29.08.2026" on Sat, 29 Aug 2026.
+Bassiani is a music venue in Tbilisi with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "SLPFNK 15 YEARS: Doudou MD, IKA, Samuel Deep" on Fri, 4 Sept 2026.
 
-Bassiani is a music venue in Tbilisi listed on soundcheck. 10 upcoming nights, with line-ups including Architectural, ATEQ, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
+Bassiani is a music venue in Tbilisi listed on soundcheck. 9 upcoming nights, with line-ups including Architectural, ATEQ, BMI (GE) and Boyá and 2 more. Browse upcoming dates, start times and who's playing. Tsereteli street 2 , Tbilisi, Georgia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Horoom – Sat, 29.08.2026 | CAMILLA, Mancho, Memotech, Seqta, Sophie Phare |
 | Fri, 4 Sept 2026 | SLPFNK 15 YEARS: Doudou MD, IKA, Samuel Deep | Doudou MD, Ika (GE), Samuel Deep |
 | Sat, 5 Sept 2026 | Horoom – Sat, 05.09.2026 | Kaytseng, Korl, Qi (ARM) |
 | Fri, 11 Sept 2026 | Bassiani – Horoom – Fri, 11.09.2026 | ATEQ, Architectural, Ceephax Acid Crew, Hamatsuki, Kancheli, Kerrie, Kvanchi, The Lady Machine, Valley Dolly, Zitto |

@@ -1,13 +1,14 @@
 # crystal crimez (2)
 
-crystal crimez (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
+crystal crimez (2) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
-crystal crimez (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Aniza (DE), JANO (4) and CALiACRA. Next up: Rote Sonne, Munich on Sat 26 Sept.
+crystal crimez (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Aniza (DE), JANO (4) and Nick Hurton. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Mobilat Club | Stuttgart |
 | Sat, 26 Sept 2026 | Rote Sonne | Munich |
 
 ## Recently played
@@ -23,6 +24,6 @@ crystal crimez (2) is a trance and techno artist based in Germany, tracked on so
 
 ## Shares bills with
 
-Aniza (DE), JANO (4), CALiACRA
+Aniza (DE), JANO (4), Nick Hurton
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*

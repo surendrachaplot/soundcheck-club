@@ -1,14 +1,15 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Gozpom ごずぽん Anniv★" on Sun, 30 Aug 2026.
+Forestlimit is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Gozpom ごずぽん Anniv★" on Sun, 30 Aug 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including Aki Dolanikov, AME (JP), ANiIIIIiiiKii and Cwondo and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with line-ups including Aki Dolanikov, AME (JP), ANiIIIIiiiKii and Cwondo and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Gozpom ごずぽん Anniv★ |  |
+| Wed, 2 Sept 2026 | 【Marshall M/A/S/S/A/C/R/E】 | Cyan, DUCK, Naoki Ikawa |
 | Thu, 3 Sept 2026 | Vessel | ZuKaRoHi, fýsia |
 | Fri, 4 Sept 2026 | 04.09 Forestlimit | AME (JP), nataria, sawanese |
 | Sun, 6 Sept 2026 | Color:inc presents Pantone vol.3 |  |
@@ -17,7 +18,6 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, 
 | Sat, 12 Sept 2026 | X-OVER :TOKYO CHAOS | JUN/V:SiTOR |
 | Sun, 13 Sept 2026 | rhizome vol.3 |  |
 | Tue, 15 Sept 2026 | Acid Pink 1st EP 'DPGK' release party 『Acid :Re Action!』 | Cwondo |
-| Thu, 17 Sept 2026 | 【MITOHO SESSIONS】 |  |
 
 ## Address
 

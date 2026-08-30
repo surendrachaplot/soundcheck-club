@@ -1,14 +1,14 @@
 # Alterra
 
-Alterra is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mom's Limousine Service, Berlin on Fri, 4 Sept 2026.
+Alterra is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
 
-Alterra is a house and minimal techno artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Jean J., Papa Hase and 6RAJ. Next up: Mom's Limousine Service, Berlin on Fri 4 Sept.
+Alterra is a house and minimal techno artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Jean J., Papa Hase and 6RAJ. Next up: TBA, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Mom's Limousine Service | Berlin |
+| Fri, 4 Sept 2026 | TBA | Berlin |
 
 ## Recently played
 

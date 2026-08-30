@@ -1,14 +1,15 @@
 # Sean Doron
 
-Sean Doron is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lula Club, Madrid on Fri, 25 Sept 2026.
+Sean Doron is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lula Club, Madrid on Fri, 25 Sept 2026.
 
-Sean Doron is a house and deep house artist based in Israel, tracked on soundcheck, with 34 sets logged across Athens, Barcelona, Brussels and Frankfurt and 14 more. Often billed alongside MAGA, Emanuel Satie and Tim Engelhardt. Next up: Lula Club, Madrid on Fri 25 Sept.
+Sean Doron is a house and deep house artist based in Israel, tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Brussels and Frankfurt and 15 more. Often billed alongside MAGA, Emanuel Satie and Tim Engelhardt. Next up: Lula Club, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Lula Club | Madrid |
+| Sat, 28 Nov 2026 | Gallagher Square | San Diego |
 
 ## Recently played
 

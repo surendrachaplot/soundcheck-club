@@ -2,7 +2,7 @@
 
 Matisa is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at public records, New York City on Sat, 5 Sept 2026.
 
-Matisa is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside Chris Stussy, DJ Tennis and Josh Baker. Next up: public records, Newyorkcity on Sat 5 Sept.
+Matisa is a house and techno artist tracked on soundcheck, with 119 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 36 more. Often billed alongside Chris Stassy, DJ Tennis and Josh Baker. Next up: public records, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Matisa is a house and techno artist tracked on soundcheck, with 119 sets logged 
 
 ## Shares bills with
 
-Chris Stussy, DJ Tennis, Josh Baker
+Chris Stassy, DJ Tennis, Josh Baker
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matisa/)*

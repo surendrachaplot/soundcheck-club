@@ -1,14 +1,15 @@
 # AMBAM
 
-AMBAM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Essigfabrik, Cologne on Fri, 11 Sept 2026.
+AMBAM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Essigfabrik, Cologne on Fri, 11 Sept 2026.
 
-AMBAM is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside DeGuzman, Kacy and PENELOPE (DE). Next up: Essigfabrik, Cologne on Fri 11 Sept.
+AMBAM is a techno and trance artist based in Germany, tracked on soundcheck, with 64 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside DeGuzman, Kacy and PENELOPE (DE). Next up: Essigfabrik, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Essigfabrik | Cologne |
+| Sat, 28 Nov 2026 | Sky Club | Leipzig |
 
 ## Recently played
 

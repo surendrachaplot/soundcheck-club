@@ -1,8 +1,8 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Marsolo is a House and Tech House artist with 21 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
 
-Marsolo is a house and tech house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and Locklead. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Marsolo is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Kelvedon Hall, London on Sat 29 Aug.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 159 sets lo
 
 ## Shares bills with
 
-Jamback, Josh Baker, Locklead
+Jamback, Josh Baker, L.P. Rhythm
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

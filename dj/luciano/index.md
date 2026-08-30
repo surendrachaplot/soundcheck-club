@@ -1,8 +1,8 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at La Gravière D'epeisses, Geneva on Fri, 4 Sept 2026.
+Luciano is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at La Gravière D'epeisses, Geneva on Fri, 4 Sept 2026.
 
-Luciano is a house and tech house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: La Gravière D'epeisses, Geneva on Fri 4 Sept.
+Luciano is a house and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 15 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: La Gravière D'epeisses, Geneva on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Luciano is a house and tech house artist tracked on soundcheck, with 104 sets lo
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Pacha New York | New York City |
 | Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

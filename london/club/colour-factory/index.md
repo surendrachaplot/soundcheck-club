@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Popola Carnival Afterparty" on Sun, 30 Aug 2026.
+Colour Factory is a music venue in London with 25 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Popola Carnival Afterparty" on Sun, 30 Aug 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including AANO, Aeroplane, Alex Metric and Amber Rose and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including AANO, Aeroplane, Alex Metric and Amber Rose and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 

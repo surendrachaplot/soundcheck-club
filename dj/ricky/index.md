@@ -1,14 +1,14 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sun, 30 Aug 2026.
 
-RICKY is a techno and gabber artist tracked on soundcheck, with 40 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: E1, London on Sun 30 Aug.
+RICKY is a techno and gabber artist tracked on soundcheck, with 40 sets logged across London, Osaka, Sanfrancisco and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Fire & Lightbox, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | E1 | London |
+| Sun, 30 Aug 2026 | Fire & Lightbox | London |
 | Fri, 11 Sept 2026 | TBA - Nishiazabu | Tokyo |
 | Sun, 13 Sept 2026 | Socore Factory | Osaka |
 

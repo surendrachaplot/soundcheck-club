@@ -1,8 +1,8 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "History Of Rave: Eats Everything, Groove Armada TBA" on Sat, 17 Oct 2026.
+The Prospect Building is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "History Of Rave: Eats Everything, Groove Armada TBA" on Sat, 17 Oct 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including 4am Kru, Above & Beyond, BØĘRY and Eats Everything and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including 4am Kru, Above & Beyond, BØĘRY and Eats Everything and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 5 upcomi
 | Sat, 31 Oct 2026 | 4am Kru - [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru |
 | Fri, 27 Nov 2026 | Teletech: Bristol | Lola Cerise, Restricted |
 | Fri, 27 Nov 2026 | Teletech Bristol | BØĘRY, Lola Cerise, Restricted |
+| Sat, 28 Nov 2026 | ATW pres. Interplanetary Criminal + Guests | Interplanetary Criminal |
 
 ## Address
 

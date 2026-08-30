@@ -10,7 +10,7 @@ Cu is a music venue in London listed on soundcheck. 7 upcoming nights, with line
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Good People vol.3 | Itoa, Lady Jules |
 | Sat, 19 Sept 2026 | 21 years of keysound | Blackdown, Elijah and Skilliam, Logos, MC Koast, Mumdance |
-| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yu Mi |
+| Fri, 2 Oct 2026 | Extra Smooth presents: Yu Mi | BIG REG, Gingall, Spingall, Yumi |
 | Sat, 3 Oct 2026 | Frozen Tempo presents: Soukah (UK Debut) | Deep Tempo |
 | Fri, 9 Oct 2026 | TUSH: Breaks, Bass & Techno Charity Fundraiser | Kassita |
 | Sat, 17 Oct 2026 | Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] | ETHICS, Hickey |

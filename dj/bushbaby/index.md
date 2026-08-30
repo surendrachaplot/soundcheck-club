@@ -2,7 +2,7 @@
 
 Bushbaby is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Bushbaby is a garage and house artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH (1), Chris Stussy and Conducta. Next up: Union Park, Chicago on Fri 4 Sept.
+Bushbaby is a garage and house artist tracked on soundcheck, with 88 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside MPH (1), Chris Stassy and Conducta. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Bushbaby is a garage and house artist tracked on soundcheck, with 88 sets logged
 
 ## Shares bills with
 
-MPH (1), Chris Stussy, Conducta
+MPH (1), Chris Stassy, Conducta
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

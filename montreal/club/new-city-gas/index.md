@@ -1,8 +1,8 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Trym, NIFRA at Produktworld" on Fri, 4 Sept 2026.
+New City Gas is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Trym, NIFRA at Produktworld" on Fri, 4 Sept 2026.
 
-New City Gas is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Afrojack, Bob Sinclar, Dillon Francis and Don Diablo and 2 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
+New City Gas is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Afrojack, Bob Sinclar, Dillon Francis and Don Diablo and 2 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
 ## What's on
 

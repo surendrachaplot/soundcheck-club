@@ -1,6 +1,6 @@
 # Sem Forma presents: Prince Language (NYC) w Milch, Cal-C & Justin La Rose at Bambi's
 
-Sem Forma presents: Prince Language (NYC) w Milch, Cal-C & Justin La Rose at Bambi's on Sat 12 Sept, Toronto. 4 acts on the bill: Cal C (Modern Art), Justin La Rose, Milch (1) and Prince Language. House and Disco. Preview the line-up and save it on soundcheck.
+Sem Forma presents: Prince Language (NYC) w Milch, Cal-C & Justin La Rose at Bambi's on Sat 12 Sept, Toronto. 4 acts on the bill: Cal C (Modern Art), Justin La Rose, Milch (1) and Prince Language. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

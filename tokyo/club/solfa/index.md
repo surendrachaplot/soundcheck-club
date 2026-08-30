@@ -10,7 +10,7 @@ Solfa is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with li
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | OverALL |  |
 | Thu, 10 Sept 2026 | OUTSIDER | DJ Wada, Krankent, Negami, Nobuharu Morimoto |
-| Fri, 11 Sept 2026 | SILENT ECHO / S280F, Fellsius | Ginji, ITSUKI, MOOTOE, Noway, RNG (1), S280F, Save Me The Trouble |
+| Fri, 11 Sept 2026 | SILENT ECHO - S280F, Fellsius (EXPERIMENTAL / INDUSTRIAL / etc...) | Ginji, ITSUKI, MOOTOE, Noway, RNG (1), S280F, Save Me The Trouble |
 | Fri, 9 Oct 2026 | Night Trip | ARISA, Kengo Yuasa |
 | Mon, 12 Oct 2026 | THE TWO. - YUSUKE TAKAYAMA / fkaai |  |
 

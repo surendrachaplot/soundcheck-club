@@ -1,8 +1,8 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Refuge, New York City on Sun, 30 Aug 2026.
+Felix Da Housecat is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Refuge, New York City on Sun, 30 Aug 2026.
 
-Felix Da Housecat is a house and techno artist tracked on soundcheck, with 68 sets logged across Antwerp, Auckland, Berlin and Bristol and 19 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: Refuge, Newyorkcity on Sun 30 Aug.
+Felix Da Housecat is a house and techno artist tracked on soundcheck, with 69 sets logged across Antwerp, Auckland, Berlin and Bristol and 19 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: Refuge, Newyorkcity on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Felix Da Housecat is a house and techno artist tracked on soundcheck, with 68 se
 | Sun, 30 Aug 2026 | Refuge | New York City |
 | Sat, 19 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
+| Sat, 28 Nov 2026 | House of Yes | New York City |
 
 ## Recently played
 

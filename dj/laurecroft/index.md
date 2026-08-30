@@ -1,8 +1,8 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
+Laure Croft is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
 
-Laure Croft is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: The Steel Yard, London on Sat 5 Sept.
+Laure Croft is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: The Steel Yard, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Laure Croft is a techno and house artist tracked on soundcheck, with 183 sets lo
 | Wed, 21 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
+| Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 

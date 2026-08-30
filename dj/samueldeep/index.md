@@ -1,8 +1,8 @@
 # Samuel Deep
 
-Samuel Deep is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bassiani, Tbilisi on Fri, 4 Sept 2026.
+Samuel Deep is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bassiani, Tbilisi on Fri, 4 Sept 2026.
 
-Samuel Deep is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Bassiani, Tbilisi on Fri 4 Sept.
+Samuel Deep is a house and techno artist tracked on soundcheck, with 186 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Bassiani, Tbilisi on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Samuel Deep is a house and techno artist tracked on soundcheck, with 185 sets lo
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
+| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

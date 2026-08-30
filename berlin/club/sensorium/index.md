@@ -1,6 +1,6 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "TRIG: FROM 23:00 - XXX" on Sun, 30 Aug 2026.
+Sensorium is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "TRIG: FROM: TAKE YOUR FREE TICKETS " on Sun, 30 Aug 2026.
 
 Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Bee Lincoln, Blck-Swan, DaSoMaZo and Eleonor Bianchi and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
@@ -8,7 +8,7 @@ Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | TRIG: FROM 23:00 - XXX |  |
+| Sun, 30 Aug 2026 | TRIG: FROM: TAKE YOUR FREE TICKETS  |  |
 | Wed, 2 Sept 2026 | TECHNO MITTWOCH | Grippe, PETDuo, Sinetiketa, Viktor Kampf |
 | Fri, 4 Sept 2026 | ETHER | DaSoMaZo, Sonse |
 | Sat, 5 Sept 2026 | SENSO NACHT | Blck-Swan, Oussi, Zaphy |

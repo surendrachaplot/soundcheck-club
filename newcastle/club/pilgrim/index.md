@@ -1,8 +1,8 @@
 # Pilgrim
 
-Pilgrim is a music venue in Newcastle with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bank Holiday Summer Soulstice" on Sun, 30 Aug 2026.
+Pilgrim is a music venue in Newcastle with 23 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bank Holiday Summer Soulstice" on Sun, 30 Aug 2026.
 
-Pilgrim is a music venue in Newcastle listed on soundcheck. 22 upcoming nights, with line-ups including Michael Gray and Peverell. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
+Pilgrim is a music venue in Newcastle listed on soundcheck. 23 upcoming nights, with line-ups including Michael Gray and Peverell. Browse upcoming dates, start times and who's playing. 54 Pilgrim Street, Newcastle upon Tyne, NE1 6SF.
 
 ## What's on
 

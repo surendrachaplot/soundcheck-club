@@ -1,14 +1,14 @@
 # Emz (MC)
 
-Emz (MC) is a Garage and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+Emz (MC) is a Garage and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sun, 30 Aug 2026.
 
-Emz (MC) is a garage and hip-hop artist tracked on soundcheck, with 14 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Addison Groove, Donch and Sam Binga. Next up: E1, London on Sun 30 Aug.
+Emz (MC) is a garage and hip-hop artist tracked on soundcheck, with 14 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Addison Groove, Donch and Sam Binga. Next up: Fire & Lightbox, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | E1 | London |
+| Sun, 30 Aug 2026 | Fire & Lightbox | London |
 
 ## Recently played
 

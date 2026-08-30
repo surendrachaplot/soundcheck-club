@@ -2,7 +2,7 @@
 
 Honey Dijon is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at [UNVRS], Ibiza on Sun, 30 Aug 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stussy. Next up: [UNVRS], Ibiza on Sun 30 Aug.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stassy. Next up: [UNVRS], Ibiza on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 200 sets lo
 
 ## Shares bills with
 
-Chloé Caillet, Mochakk, Chris Stussy
+Chloé Caillet, Mochakk, Chris Stassy
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

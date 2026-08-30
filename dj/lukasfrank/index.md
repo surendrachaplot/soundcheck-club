@@ -1,8 +1,8 @@
 # LUKAS & FRANK
 
-LUKAS & FRANK is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Los Globos, Los Angeles on Fri, 9 Oct 2026.
+LUKAS & FRANK is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Los Globos, Los Angeles on Fri, 9 Oct 2026.
 
-LUKAS & FRANK are an afro house and house duo based in Germany, tracked on soundcheck, with 10 sets logged across Brighton, Dusseldorf, Edinburgh and Ibiza and 4 more. Often billed alongside Noel Holler. Next up: Los Globos, Losangeles on Fri 9 Oct.
+LUKAS & FRANK are an afro house and house duo based in Germany, tracked on soundcheck, with 11 sets logged across Brighton, Dusseldorf, Edinburgh and Ibiza and 5 more. Often billed alongside Noel Holler. Next up: Los Globos, Losangeles on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ LUKAS & FRANK are an afro house and house duo based in Germany, tracked on sound
 | Thu, 19 Nov 2026 | The Warehouse | Leeds |
 | Fri, 20 Nov 2026 | Patterns | Brighton |
 | Wed, 25 Nov 2026 | The Liquid Room | Edinburgh |
+| Sat, 28 Nov 2026 | Theata | London |
 
 ## Recently played
 

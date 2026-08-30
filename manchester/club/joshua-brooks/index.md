@@ -9,7 +9,7 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 12 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 30 Aug 2026 | Supernature on Pride Sunday with Philippa Jarman//Jonjo Jury//Lil Miss Jackie//+ Secret Guesr | James Greenwood, Supernature Disco |
-| Sun, 30 Aug 2026 | MCR Pride 3 room pop party (Sun 30th Aug) |  |
+| Sun, 30 Aug 2026 | [CANCELLED] MCR Pride 3 room pop party (Sun 30th Aug) |  |
 | Sat, 5 Sept 2026 | Love Train (DJ Set) Day Time Disco with Brutus Gold Manchester |  |
 | Fri, 18 Sept 2026 | Beave [1997] - Joshua Brooks Manchester |  |
 | Fri, 25 Sept 2026 | DART + Surf 2 Glory - Joshua Brooks Manchester |  |

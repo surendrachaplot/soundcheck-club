@@ -1,13 +1,14 @@
 # Tempo
 
-Tempo is a music venue in Glasgow with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Dance for David - Boulie Classics" on Sat, 7 Nov 2026.
+Tempo is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "I Am A Raver presents Nanna Makina" on Sun, 27 Sept 2026.
 
-Tempo is a music venue in Glasgow listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
+Tempo is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including DJ Zitkus, Merki and Nanna Makina. Browse upcoming dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | I Am A Raver presents Nanna Makina | DJ Zitkus, Merki, Nanna Makina |
 | Sat, 7 Nov 2026 | Dance for David - Boulie Classics |  |
 
 ## Address

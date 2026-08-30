@@ -1,8 +1,8 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Voigtmann is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: UNO MALTA, Malta on Fri 18 Sept.
+Voigtmann is a house and tech house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 36 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Voigtmann is a house and tech house artist tracked on soundcheck, with 188 sets 
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 | Sat, 24 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Sat, 24 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
+| Sun, 25 Oct 2026 | Vittoria Wharf Studio | London |
+| Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

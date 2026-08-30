@@ -1,8 +1,8 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 43 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "No Sundays Without Techno" on Sun, 30 Aug 2026.
+John Doe is a music venue in Amsterdam with 44 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "No Sundays Without Techno" on Sun, 30 Aug 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 43 upcoming nights, with line-ups including A.L.A.E, Alex Medina, ARTISTIKK and Alex Sharp and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 44 upcoming nights, with line-ups including A.L.A.E, Alex Medina, ARTISTIKK and Alex Sharp and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 

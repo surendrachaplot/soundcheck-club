@@ -1,14 +1,14 @@
 # MARI (16)
 
-MARI (16) is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+MARI (16) is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sun, 30 Aug 2026.
 
-MARI (16) is a dancehall and hip-hop artist based in Portugal, tracked on soundcheck, with 1 set logged across London. Often billed alongside 5am, DJ S (UK) and Emz (MC). Next up: E1, London on Sun 30 Aug.
+MARI (16) is a dancehall and hip-hop artist based in Portugal, tracked on soundcheck, with 1 set logged across London. Often billed alongside 5am, DJ S (UK) and Emz (MC). Next up: Fire & Lightbox, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | E1 | London |
+| Sun, 30 Aug 2026 | Fire & Lightbox | London |
 
 ## Shares bills with
 

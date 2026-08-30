@@ -2,7 +2,7 @@
 
 Toman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Thuishaven, Amsterdam on Sun, 30 Aug 2026.
 
-Toman is a house and tech house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside ANOTR, Ben Sterling and Chris Stussy. Next up: Thuishaven, Amsterdam on Sun 30 Aug.
+Toman is a house and tech house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 37 more. Often billed alongside ANOTR, Ben Sterling and Chris Stassy. Next up: Thuishaven, Amsterdam on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Toman is a house and tech house artist tracked on soundcheck, with 157 sets logg
 
 ## Shares bills with
 
-ANOTR, Ben Sterling, Chris Stussy
+ANOTR, Ben Sterling, Chris Stassy
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

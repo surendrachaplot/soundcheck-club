@@ -1,8 +1,8 @@
 # Audio Units
 
-Audio Units is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 4 Sept 2026.
+Audio Units is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 4 Sept 2026.
 
-Audio Units is a techno and trance artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Milan and Paris and 2 more. Often billed alongside 7e, C.C (TDL) and Didier Allyne. Next up: Tempio del Futuro Perduto, Milan on Fri 4 Sept.
+Audio Units is a techno and trance artist tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Berlin and Milan and 3 more. Often billed alongside 7e, Anna Haleta and BORGBORG. Next up: Tempio del Futuro Perduto, Milan on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Audio Units is a techno and trance artist tracked on soundcheck, with 7 sets log
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Tempio del Futuro Perduto | Milan |
 | Sun, 6 Sept 2026 | Glazart | Paris |
+| Fri, 25 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ Audio Units is a techno and trance artist tracked on soundcheck, with 7 sets log
 
 ## Shares bills with
 
-7e, C.C (TDL), Didier Allyne
+7e, Anna Haleta, BORGBORG
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*

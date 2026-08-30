@@ -1,8 +1,8 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "EPS x OST Afterparty" on Sun, 30 Aug 2026.
+OST is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "EPS x OST Afterparty" on Sun, 30 Aug 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 

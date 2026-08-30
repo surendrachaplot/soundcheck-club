@@ -1,6 +1,6 @@
-# Tim Engelhardt AT MADARAE SAN FRANCISCO at Madarae San Francisco
+# Tim Engelhardt at MADARAE SAN FRANCISCO at Madarae San Francisco
 
-Tim Engelhardt AT MADARAE SAN FRANCISCO at Madarae San Francisco on Sat 5 Sept, Sanfrancisco. 1 act on the bill: Tim Engelhardt. Preview the line-up and save it on soundcheck.
+Tim Engelhardt at MADARAE SAN FRANCISCO at Madarae San Francisco on Sat 5 Sept, Sanfrancisco. 1 act on the bill: Tim Engelhardt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

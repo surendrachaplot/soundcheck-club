@@ -1,6 +1,6 @@
 # VANTANIOR - Dark Bass in the Black at The Spot
 
-VANTANIOR - Dark Bass in the Black at The Spot on Sat 26 Sept, Vancouver. 1 act on the bill: C-Star. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+VANTANIOR - Dark Bass in the Black at The Spot on Sat 26 Sept, Vancouver. 3 acts on the bill: C-Star, Devon and Esteban. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ VANTANIOR - Dark Bass in the Black at The Spot on Sat 26 Sept, Vancouver. 1 act 
 ## Line-up
 
 - C-Star
+- Devon
+- Esteban
 
 *Source: [soundcheck](https://soundcheck.club/e/2477877-vantanior-dark-bass-in-the-black-at-the-spot/)*

@@ -9,7 +9,7 @@ SASAXX is a techno and trance artist based in Spain, tracked on soundcheck, with
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 28 Aug 2026 | ://about blank | Berlin |
-| Sat, 5 Sept 2026 | Void Club | Berlin |
+| Fri, 4 Sept 2026 | Void Club | Berlin |
 
 ## Recently played
 

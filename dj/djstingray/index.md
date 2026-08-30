@@ -1,14 +1,13 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Sat, 29 Aug 2026.
+DJ Stingray 313 is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
-DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Tresor / Globus, Berlin on Sat 29 Aug.
+DJ Stingray 313 is a techno and electro artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Tresor / Globus | Berlin |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Fri, 2 Oct 2026 | Nouveau Casino | Paris |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |

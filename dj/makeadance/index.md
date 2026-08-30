@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Gingerino's Pizza, Newcastle on Sat, 19 Sept 2026.
+Make A Dance is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Gingerino's Pizza, Newcastle on Sat, 19 Sept 2026.
 
-Make A Dance is a house and disco artist tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Bali and Bangkok and 27 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Gingerino's Pizza, Newcastle on Sat 19 Sept.
+Make A Dance is a house and disco artist tracked on soundcheck, with 117 sets logged across Amsterdam, Auckland, Bali and Bangkok and 28 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Gingerino's Pizza, Newcastle on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Make A Dance is a house and disco artist tracked on soundcheck, with 116 sets lo
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
 | Fri, 30 Oct 2026 | The Golden Lion | Manchester |
 | Sat, 14 Nov 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
+| Sat, 28 Nov 2026 | Azimut Club | Turin |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Collect LX Factory presents Markus Sommer" on Sat, 5 Sept 2026.
+Collect LX Factory is a music venue in Lisbon with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Collect LX Factory presents Markus Sommer" on Sat, 5 Sept 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including Andre Cascais, Bernardo Vaz, Billi and Bobby Dreams and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming nights, with line-ups including Andre Cascais, Bernardo Vaz, Billi and Bobby Dreams and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 

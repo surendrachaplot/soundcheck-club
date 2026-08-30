@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Tribal Life - Carnival After Party" on Sun, 30 Aug 2026.
+Ministry Of Sound is a music venue in London with 30 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Tribal Life - Carnival After Party" on Sun, 30 Aug 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 30 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 

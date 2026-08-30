@@ -1534,6 +1534,16 @@
     .pp-tags { display:flex; flex-wrap:wrap; gap:8px; }
     .pp-prom { background:var(--surface-3); border:none; border-radius:var(--radius-pill); padding:5px 12px; font:600 var(--fs-sm)/var(--lh-sm) var(--body); color:var(--fg); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .pp-prom small { color:var(--muted); margin-left:4px; }
+    /* the chip is an <a> now (crawlable, hover-URL, cmd-click) — anchors bring their
+       own underline and baseline alignment, so both are reset here. */
+    .pp-prom { display:inline-flex; align-items:center; text-decoration:none; }
+    .pp-prom:hover { color:var(--accent); }
+    /* breadcrumb — a promoter page hangs off its city's index, so both are one tap
+       away and the page is not an orphan in the link graph. */
+    .crumb { display:flex; align-items:center; gap:7px; margin:0 0 12px;
+      font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); letter-spacing:.06em; color:var(--faint); }
+    .crumb a { color:var(--muted); text-decoration:none; }
+    .crumb a:hover { color:var(--accent); }
     /* DS: city scene-guide "one night here" synthesis card */
     .scene-blurb { background:linear-gradient(135deg, rgba(255,154,61,0.14), rgba(255,154,61,0.04)); border:1px solid var(--line); border-radius:var(--radius-md); padding:16px 18px; margin:4px 0 8px; }
     .scene-blurb-k { font:800 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); margin-bottom:6px; }
@@ -1789,6 +1799,9 @@
     .sx-uni-av{ flex:0 0 44px; width:44px; height:44px; border-radius:var(--radius-sm); background-size:cover; background-position:center; background-color:var(--surface-2); display:inline-flex; align-items:center; justify-content:center; }
     .sx-uni-av.sx-round{ border-radius:50%; }
     .sx-uni-ic{ font:700 var(--fs-md)/var(--lh-md) var(--head); color:var(--muted); }
+    /* the promoter mark is the one type with no photo AND a namesake venue row right
+       next to it — the accent tint is what separates them at a glance. */
+    .sx-uni-ic.sx-ic-promoter{ color:var(--accent); }
     .sx-uni-m{ flex:1; min-width:0; display:flex; flex-direction:column; }
     .sx-uni-nm{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .sx-uni-sub{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -3394,8 +3407,9 @@
     .fp-ev-main{ padding:22px 24px; min-width:0; }
     .fp-ev-title{ font:800 clamp(28px,5.5vw,54px)/1.0 var(--head); letter-spacing:-0.02em; margin:10px 0 6px; overflow-wrap:break-word; }
     .fp-ev-venue{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); letter-spacing:-0.01em; margin:6px 0 2px; }
-    .fp-ev-venue .venue-link{ color:var(--accent); cursor:pointer; border:0; background:none; font:inherit; padding:0; }
-    .fp-ev-venue .venue-link:hover{ text-decoration:underline; }
+    .fp-ev-venue .venue-link, .fp-ev-venue .pr-link{ color:var(--accent); cursor:pointer; border:0; background:none; font:inherit; padding:0; }
+    .fp-ev-venue .venue-link:hover, .fp-ev-venue .pr-link:hover{ text-decoration:underline; }
+    .fp-ev-venue .pr-rest{ color:var(--muted); }
     .fp-ev-meta{ font:600 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:8px 0 18px; }
     .fp-ev-playbar{ display:grid; grid-template-columns:repeat(auto-fit,minmax(104px,1fr)); gap:9px; margin-bottom:16px; }
     /* A PAST event hides Save and I'm going, leaving Play alone in the grid —
@@ -4162,6 +4176,9 @@
     .gd-venue:hover { background:var(--surface-2); }
     .gd-vname { font:600 var(--fs-md)/var(--lh-md) var(--body); }
     .gd-vct { flex:0 0 auto; color:var(--muted); font:600 var(--fs-2xs)/1 var(--font-mono); }
+    /* .gd-row is a 3-slot flex (avatar / text / count) with no space-between —
+       without this the count sits against the text instead of the right edge. */
+    .gd-row .gd-vct { margin-left:auto; }
 
     /* add-to-list modal body */
     .atl { display:flex; flex-direction:column; gap:6px; margin-top:6px; }
@@ -4249,7 +4266,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787825962041">
+<meta name="sc-build" content="1788100855256">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4308,7 +4325,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">138 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">98 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">24 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">25 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">102 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">127 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5920,6 +5937,10 @@
     // Profile permalink. Real hrefs everywhere (the capture-phase router turns them
     // into SPA navigation) so hover-URL, cmd-click and right-click all behave.
     function profileHref(handle){ return handle?SC_BASE+'u/'+encodeURIComponent(handle)+'/':''; }
+    // Promoter permalink. City-less like /dj/ — a promoter is not scoped to one
+    // city (the biggest run nights in four), so the URL must not claim they are.
+    function promoterHref(slug){ return slug?SC_BASE+'promoter/'+encodeURIComponent(slug)+'/':''; }
+    function promotersHref(city){ return SC_BASE+encodeURIComponent(city||currentCity||'london')+'/promoters/'; }
     // 1) Real <a class="nav"> links: on a MODIFIED click, stop the SPA click listeners
     //    (capture phase runs first) so the browser follows the href into a new tab. Plain
     //    clicks fall through to the element's own listener → in-app nav, no full reload.
@@ -5963,6 +5984,7 @@
         if(el.closest('a[href]')) return null;   // real link → handled above / by the browser
         var a=el.closest('[data-artist]'); if(a&&a.dataset.artist) return djHref(a.dataset.artist);
         var v=el.closest('[data-venue]'); if(v&&v.dataset.venue) return venueHref(v.dataset.venue, v.dataset.city);
+        var pr=el.closest('[data-promoter]'); if(pr&&pr.dataset.promoter) return promoterHref(pr.dataset.promoter);
         var ev=el.closest('[data-event-id],[data-open-evt],.gcard[data-evt]'); if(ev){ var id=ev.dataset.eventId||ev.dataset.openEvt||ev.dataset.evt; if(!id) return null; var o=(typeof lookup!=='undefined'&&lookup.byEvent)?lookup.byEvent[id]:null; var who=o&&((o.artists&&o.artists[0]&&(o.artists[0].name||o.artists[0]))||o.headliner||o.title); return evHref(id, who, o&&o.venue); }
         return null;
       }
@@ -6035,6 +6057,7 @@
         var lg=e.target.closest('.act-log[data-log-evt]'); if(lg){ e.preventDefault(); e.stopPropagation(); openLog({eventId:lg.dataset.logEvt}); return; }
         var an=e.target.closest('.an.linky[data-artist]'); if(an){ e.preventDefault(); e.stopPropagation(); openArtist(an.dataset.artist); return; }
         var vl=e.target.closest('.venue-link[data-venue]'); if(vl && vl.dataset.venue){ e.preventDefault(); e.stopPropagation(); openVenue(vl.dataset.venue); return; }
+        var pl=e.target.closest('.pr-link[data-promoter]'); if(pl && pl.dataset.promoter){ e.preventDefault(); e.stopPropagation(); openPromoter(pl.dataset.promoter); return; }
       });
     }
 
@@ -7531,6 +7554,15 @@
     var _seoDefaultTitle=document.title;
     function _metaDesc(){ var m=document.querySelector('meta[name="description"]'); if(!m){ m=document.createElement('meta'); m.name='description'; document.head.appendChild(m); } return m; }
     function _canonLink(){ var l=document.querySelector('link[rel="canonical"]'); if(!l){ l=document.createElement('link'); l.setAttribute('rel','canonical'); document.head.appendChild(l); } return l; }
+    // The city feed loads BEHIND an open entity page on a cold deep link, and its
+    // three loaders each set document.title. Landing on /promoter/<slug>/ from a
+    // search result therefore ended up titled "soundcheck · Singapore" — the feed
+    // finished after the page called setSeo and overwrote it. The title belongs to
+    // whatever is on screen, so the feed only claims it when nothing is over it.
+    function setCityTitle(){
+      if(document.body.classList.contains('page-on')) return;
+      document.title='soundcheck · '+cityMeta().name+' — club nights & artist sets';
+    }
     function setSeo(title, desc, jsonld, canonical){
       if(title) document.title=title;
       if(desc!=null) _metaDesc().setAttribute('content', desc);
@@ -9112,7 +9144,7 @@
     function openSearch(){
       setRoute('search');
       _dcSceneP=null; // fresh suggestions for the current city
-      showPage('<div class="search-box" style="margin-top:6px"><svg class="search-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input type="search" id="sx-input" placeholder="Search artists, venues, events, people…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
+      showPage('<div class="search-box" style="margin-top:6px"><svg class="search-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input type="search" id="sx-input" placeholder="Search artists, venues, promoters, events…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
         '<div id="sx-recent-top"></div>'+
         '<div id="sx-results"></div>'+
         '<div id="sx-radio-foot"></div>');
@@ -9185,6 +9217,10 @@
       var items=[];
       (j.artists||[]).forEach(function(a){ items.push({ type:'artist', name:a.name, score:matchScore(a.name,q), slug:a.slug, image:a.image_url, sub:'Artist' }); });
       (j.venues||[]).forEach(function(v){ items.push({ type:'venue', name:v.name, score:matchScore(v.name,q), slug:v.slug, city:v.city, sub:['Venue', v.city?cityLabel(v.city):''].filter(Boolean).join(' · ') }); });
+      // A club that books its own room is BOTH a venue and a promoter, so the two
+      // rows can carry the same name. The sub-line is what separates them, which is
+      // why the promoter one always names its count instead of just saying "Promoter".
+      (j.promoters||[]).forEach(function(p){ items.push({ type:'promoter', name:p.name, score:matchScore(p.name,q), slug:p.slug, sub:['Promoter', p.upcoming?(p.upcoming+' upcoming'):''].filter(Boolean).join(' · ') }); });
       (j.events||[]).forEach(function(e){ items.push({ type:'event', name:e.title, score:matchScore(e.title,q), id:e.id, sub:['Event', e.venue||'', e.event_date?fmtDateLabel(String(e.event_date).slice(0,10)):''].filter(Boolean).join(' · ') }); });
       (j.people||[]).forEach(function(u){ items.push({ type:'person', name:u.display_name||('u/'+u.handle), score:Math.min(matchScore(u.handle,q),matchScore(u.display_name,q)), handle:u.handle, avatar:u.avatar, sub:'Person · u/'+u.handle }); });
       // City-name match → a "Switch to soundcheck <City>" action, ALWAYS first (score below everything).
@@ -9197,7 +9233,7 @@
       }
       if(!items.length){
         el.innerHTML='<div class="empty" style="padding:20px 0">No '+(_sxFilter==='past'?'past events':'matches')+' for &ldquo;'+esc(q)+'&rdquo;'+
-          (_sxFilter==='past'?' — try All.':' — try an artist, venue or city.')+'</div>'; return; }
+          (_sxFilter==='past'?' — try All.':' — try an artist, venue, promoter or city.')+'</div>'; return; }
       items.sort(function(a,b){ return a.score-b.score || String(a.name||'').length-String(b.name||'').length; });
       // TYPE FILTER. All by default — filtering is an option, never a step you
       // have to take before you can see anything. The pills filter the ONE ranked
@@ -9206,7 +9242,7 @@
       //
       // A "switch city" action is never filtered out: it is an answer to what you
       // typed, not a result of a type you can pick.
-      var counts={all:0,artist:0,venue:0,event:0};
+      var counts={all:0,artist:0,venue:0,promoter:0,event:0};
       items.forEach(function(it){ if(it.type==='city') return; counts.all++; if(counts[it.type]!=null) counts[it.type]++; });
       var shown=items.filter(function(it){
         if(_sxFilter==='all') return true;
@@ -9215,7 +9251,7 @@
         return it.type===_sxFilter;
       });
       var pillHtml='<div class="pillrow" style="margin:2px 0 14px">'+
-        [['all','All'],['artist','Artists'],['venue','Venues'],['event','Events'],['past','Past events']].map(function(f){
+        [['all','All'],['artist','Artists'],['venue','Venues'],['promoter','Promoters'],['event','Events'],['past','Past events']].map(function(f){
           // Past events carries no count and is ALWAYS offered: its results live
           // in a different request, so the number is unknowable until you ask.
           if(f[0]==='past') return '<button class="qchip'+(_sxFilter==='past'?' on':'')+'" type="button" data-sxf="past" aria-pressed="'+(_sxFilter==='past')+'">Past events</button>';
@@ -9223,7 +9259,7 @@
           return '<button class="qchip'+(_sxFilter===f[0]?' on':'')+'" type="button" data-sxf="'+f[0]+'" aria-pressed="'+(_sxFilter===f[0])+'">'+f[1]+' '+counts[f[0]]+'</button>';
         }).join('')+'</div>';
       items=shown;
-      var TYPEICON={ artist:'♪', venue:'▮', event:'✦', person:'@' };
+      var TYPEICON={ artist:'♪', venue:'▮', promoter:'◈', event:'✦', person:'@' };
       var GLOBE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18"/></svg>';
       el.innerHTML=pillHtml+'<div class="sx-uni">'+items.slice(0,30).map(function(it,i){
         if(it.type==='city'){
@@ -9232,7 +9268,7 @@
         }
         var av = it.image ? 'background-image:url('+imgUrl(it.image,120)+')' : (it.type==='person' ? avatarBg(it.handle,it.avatar).replace(/^/,'background:') : '');
         var round = (it.type==='artist'||it.type==='person') ? ' sx-round' : '';
-        return '<button class="sx-uni-row" type="button" data-i="'+i+'"><span class="sx-uni-av'+round+'"'+(av?' style="'+av+'"':'')+'>'+(av?'':'<span class="sx-uni-ic">'+TYPEICON[it.type]+'</span>')+'</span>'+
+        return '<button class="sx-uni-row" type="button" data-i="'+i+'"><span class="sx-uni-av'+round+'"'+(av?' style="'+av+'"':'')+'>'+(av?'':'<span class="sx-uni-ic sx-ic-'+it.type+'">'+TYPEICON[it.type]+'</span>')+'</span>'+
           '<span class="sx-uni-m"><span class="sx-uni-nm">'+esc(it.name||'')+'</span><span class="sx-uni-sub">'+esc(it.sub||'')+'</span></span></button>';
       }).join('')+'</div>';
       // Wire the pills. Re-render from the SAME payload — no refetch, so switching
@@ -9249,6 +9285,7 @@
         if(it.type==='city'){ setCity(it.citySlug, true); return; }
         if(it.type==='artist') openArtist(it.slug);
         else if(it.type==='venue') openVenue(it.name, it.city);
+        else if(it.type==='promoter') openPromoter(it.slug);
         else if(it.type==='event') openEvent(it.id);
         else if(it.type==='person') openProfile(it.handle);
       }); });
@@ -10300,6 +10337,51 @@
       }catch(_){ /* the guide is still complete without its mesh */ }
     }
 
+    // /<city>/promoters/ — the city's promoter index.
+    //
+    // Built on the SAME shape as /<city>/in/ (the area index): page title, accent
+    // bar, one row per entity, chips sideways to the other cities. Nothing new to
+    // learn and nothing new to style.
+    async function openPromoters(city){
+      city=(city||currentCity||'london').toLowerCase();
+      var url=promotersHref(city); if(location.pathname!==url) history.pushState({sc:1},'',url);
+      openPanel(pageSkeleton());
+      try{
+        var r=await authedFetch('/api/promoters?city='+encodeURIComponent(city));
+        var d=await r.json(), ps=(d&&d.promoters)||[], cn=cityLabel(city);
+        if(!ps.length){ openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">No promoters listed for '+esc(cn)+' yet.</div>'); return; }
+        var blurb='The crews behind '+cn+'\u2019s club nights \u2014 who they book, the rooms they use and every date they have on.';
+        var h='<nav class="crumb"><a class="nav" href="'+esc(SC_BASE+encodeURIComponent(city)+'/')+'">'+esc(cn)+'</a><span>&rsaquo;</span><span>Promoters</span></nav>'+
+          '<div class="gd-head"><h2 class="page-title">'+esc(cn)+' promoters</h2>'+
+          '<div class="sub">'+ps.length+' collectives with more than one night coming up</div>'+
+          '<p class="seo-desc">'+esc(blurb)+'</p></div>'+
+          '<div class="gd-rows">'+ps.map(function(p){
+            // The venues line is what tells two same-named rows apart, and it is the
+            // one fact that says whether this is a touring crew or a club's own brand.
+            var vs=(p.venue_names||[]).filter(Boolean);
+            var extra=Math.max(0, (p.venues||0)-vs.length);
+            var note=vs.length ? vs.join(' \u00b7 ')+(extra?(' \u00b7 +'+extra+' rooms'):'') : '';
+            return '<a class="gd-row nav" href="'+esc(promoterHref(p.slug))+'" data-promoter="'+esc(p.slug)+'">'+
+              '<span class="gd-av" style="background-image:'+avatarBg(p.name,null)+'"></span>'+
+              '<span class="gd-rtx"><span class="gd-name">'+esc(p.name)+'</span>'+
+              (note?'<span class="gd-note">'+esc(note)+'</span>':'')+'</span>'+
+              '<span class="gd-vct">'+p.upcoming+'</span></a>';
+          }).join('')+'</div>';
+        // Sideways, exactly like the sound and area guides do it — the same chip,
+        // so there is nothing new to learn or to style.
+        var oth=(d&&d.others)||[];
+        if(oth.length) h+=secH('Promoters elsewhere',1)+'<div class="gd-chips">'+oth.map(function(o){
+          return '<a class="gd-chip nav" href="'+esc(promotersHref(o.city))+'">'+esc(o.name)+'<span class="gd-ct">'+o.count+'</span></a>';
+        }).join('')+'</div>';
+        openPanel(h);
+        panelBody.querySelectorAll('.gd-row[data-promoter]').forEach(function(a){
+          a.addEventListener('click',function(e){ e.preventDefault(); openPromoter(a.dataset.promoter); });
+        });
+        var canon=location.origin+url;
+        setSeo(cn+' promoters \u2014 club night collectives | soundcheck',
+          cn+' promoters: '+ps.length+' collectives with nights coming up. '+blurb, null, canon);
+      }catch(_){ openPanel('<h2 class="page-title">Couldn\u2019t load</h2><div class="sub">Try again in a moment.</div>'); }
+    }
     async function openPromoter(slug){
       setRoute('promoter/'+slug);
       openPanel(pageSkeleton());
@@ -10307,10 +10389,22 @@
         var r=await authedFetch('/api/promoter?slug='+encodeURIComponent(slug)); var p=await r.json();
         var dispName=p.name||slug;
         var av='<span class="artist-av" style="background-image:'+avatarBg(dispName,null)+'"></span>';
-        var h='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3></div><div class="sub">Promoter</div></div>'+(p.description?'<p class="seo-desc">'+esc(p.description)+'</p>':'')+'</div>';
+        // A promoter with ONE city belongs to it — say so, and hang the page off that
+        // city's index so it is not floating in the site with nothing above it.
+        var pcity=(p.cities||[]).length===1?p.cities[0]:'';
+        var crumbCity=pcity||currentCity||'london';
+        var h='<nav class="crumb"><a class="nav" href="'+esc(SC_BASE+encodeURIComponent(crumbCity)+'/')+'">'+esc(cityLabel(crumbCity))+'</a>'+
+              '<span>&rsaquo;</span><a class="nav" href="'+esc(promotersHref(crumbCity))+'">Promoters</a></nav>';
+        h+='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3></div><div class="sub">'+
+              ['Promoter', pcity?cityLabel(pcity):''].filter(Boolean).join(' · ')+'</div></div>'+(p.description?'<p class="seo-desc">'+esc(p.description)+'</p>':'')+'</div>';
+        // WHAT IS ON beats WHAT EVER WAS. "217 events · 1 city" reads like an archive;
+        // somebody deciding on a Friday needs the live number first, so upcoming leads
+        // and the all-time count trails it.
         var stats=[];
-        if(p.gigs) stats.push('<span><b>'+p.gigs+'</b> events</span>');
-        if((p.cities||[]).length) stats.push('<span><b>'+p.cities.length+'</b> '+(p.cities.length===1?'city':'cities')+'</span>');
+        if(p.upcomingCount) stats.push('<span><b>'+p.upcomingCount+'</b> upcoming</span>');
+        if(p.venueCount) stats.push('<span><b>'+p.venueCount+'</b> '+(p.venueCount===1?'venue':'venues')+'</span>');
+        if(p.gigs) stats.push('<span><b>'+p.gigs+'</b> in all</span>');
+        if((p.cities||[]).length>1) stats.push('<span><b>'+p.cities.length+'</b> cities</span>');
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their nights.</div>';
         if((p.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+p.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
@@ -10348,12 +10442,17 @@
         }
         var vns=(p.venues||[]), pv=document.getElementById('pp-venues');
         if(pv && vns.length){
-          pv.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Venues they use</div><div class="pp-tags">'+vns.map(function(v){ return '<span class="sc-tag">'+esc(v.venue)+' <small>'+v.n+'</small></span>'; }).join('')+'</div></div>';
+          // Anchors, not spans: a venue name that cannot be clicked, hovered for its
+          // URL or opened in a new tab is a dead end on a page whose whole job is
+          // to send you somewhere. Same rule every other entity link follows.
+          pv.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Venues they use</div><div class="pp-tags">'+vns.map(function(v){
+            return '<a class="pp-prom nav" href="'+esc(venueHref(v.venue, pcity))+'" data-venue="'+esc(v.venue)+'">'+esc(v.venue)+' <small>'+v.n+'</small></a>'; }).join('')+'</div></div>';
+          pv.querySelectorAll('.pp-prom[data-venue]').forEach(function(a){ a.addEventListener('click',function(e){ e.preventDefault(); openVenue(a.dataset.venue, pcity); }); });
         }
         var sims=(p.similar||[]), ps=document.getElementById('pp-similar');
         if(ps && sims.length){
-          ps.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<button class="pp-prom" type="button" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></button>'; }).join('')+'</div></div>';
-          ps.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(){ openPromoter(b.dataset.promoter); }); });
+          ps.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Similar promoters</div><div class="pp-tags">'+sims.map(function(s){ return '<a class="pp-prom nav" href="'+esc(promoterHref(s.slug))+'" data-promoter="'+esc(s.slug)+'">'+esc(s.name)+' <small>'+s.shared+' shared</small></a>'; }).join('')+'</div></div>';
+          ps.querySelectorAll('.pp-prom[data-promoter]').forEach(function(b){ b.addEventListener('click',function(e){ e.preventDefault(); openPromoter(b.dataset.promoter); }); });
         }
       }catch(_){ openPanel('<div class="empty">Couldn&rsquo;t load that promoter.</div>'); }
     }
@@ -10547,6 +10646,23 @@
               '<div class="fp-kick">'+esc(when)+'</div>'+
               '<h1 class="fp-ev-title">'+esc(ev.title||'Event')+'</h1>'+
               '<div class="fp-ev-venue">at <a class="venue-link nav"'+(ev.venue?' href="'+esc(venueHref(ev.venue, ev.city))+'"':'')+' data-venue="'+esc(ev.venue||'')+'">'+esc(ev.venue||'TBA')+'</a></div>'+
+              // WHO PUT THE NIGHT ON. /api/event has returned ev.promoters since
+              // migration 024 and the page has never drawn it — 13,333 of 16,595
+              // upcoming nights name one. Same shape as the venue line above it.
+              (function(){
+                // A fifth of all links are the club booking its own room. "at fabric
+                // / by fabric" is noise, so a promoter whose name IS the venue drops out.
+                var vn=(ev.venue||'').trim().toLowerCase();
+                var ps=(ev.promoters||[]).filter(function(p){ return p && p.name && p.name.trim().toLowerCase()!==vn; });
+                if(!ps.length) return '';
+                // Three names then a count — one line always, never a stack that
+                // pushes the action buttons off a phone. 77 nights name more than three.
+                var shown=ps.slice(0,3).map(function(p){
+                  return '<a class="pr-link nav" href="'+esc(promoterHref(p.slug))+'" data-promoter="'+esc(p.slug)+'">'+esc(p.name)+'</a>';
+                }).join(', ');
+                var rest=ps.length>3?(' <span class="pr-rest">+ '+(ps.length-3)+' more</span>'):'';
+                return '<div class="fp-ev-venue">by '+shown+rest+'</div>';
+              })()+
               (ev.city?'<div class="fp-ev-meta">'+esc(cityLabel(ev.city))+'</div>':'')+   /* genres live in the pill row below the buttons, not here */
               (_invActive?'<div class="inv-strip"><span class="inv-av">'+esc((_inviteFrom[0]||'?').toUpperCase())+'</span><span>u/'+esc(_inviteFrom)+' is going</span></div>':'')+
               // Equal-width action row (Play same size as its siblings — grid wraps
@@ -11890,6 +12006,7 @@
       else if(hash.indexOf('dj/')===0) openArtist(hash.slice(3));
       else if(hash.indexOf('a/')===0) openArtist(hash.slice(2));          // legacy /a/
       else if(hash.indexOf('club/')===0) openVenue(hash.slice(5), pathCitySlug());
+      else if(hash.indexOf('promoters/')===0) openPromoters(hash.slice(10));   // BEFORE 'promoter/' — that prefix matches this too
       else if(hash.indexOf('promoter/')===0) openPromoter(hash.slice(9));
       else if(hash.indexOf('v/')===0) openVenue(hash.slice(2), pathCitySlug()); // legacy /v/
       else if(hash.indexOf('e/')===0) openEvent(hash.slice(2));
@@ -12433,6 +12550,10 @@
       if(ga && !CITY_SEG_RE.test(ga[1])) return 'guide/'+ga[1]+'/'+ga[2]+'/'+ga[3];
       var ai=rest.match(/^([a-z0-9-]+)\/in$/);
       if(ai && !CITY_SEG_RE.test(ai[1])) return 'areas/'+ai[1];
+      // /<city>/promoters/ — the city's promoter index. Before the wide rule below,
+      // which would otherwise read it as the guide for a sound called "promoters".
+      var pm=rest.match(/^([a-z0-9-]+)\/promoters$/);
+      if(pm && !CITY_SEG_RE.test(pm[1])) return 'promoters/'+pm[1];
       var am=rest.match(/^([a-z0-9-]+)\/in\/([a-z0-9-]+)$/);
       if(am && !CITY_SEG_RE.test(am[1])) return 'guide/'+am[1]+'//'+am[2];
       var gm=rest.match(/^([a-z0-9-]+)\/([a-z0-9-]+)$/);
@@ -12713,7 +12834,7 @@
     async function load(date, pick){
       mode='day'; currentDate=date; activePick=pick||(date===todayISO()?'tonight':'date'); syncChips();
       _retryLoad=function(){ load(date, pick); };
-      document.title='soundcheck · '+cityMeta().name+' — club nights & artist sets'; history.replaceState(null,'',withCityQS('?date='+date));
+      setCityTitle(); history.replaceState(null,'',withCityQS('?date='+date));
       setStatus('<span class="spinner"></span> Loading '+esc(fmtDateLabel(date))+'…'); skeletonGrid();
       try{
         var json=await fetchDay(date);
@@ -12735,7 +12856,7 @@
       offset=offset||0; mode='weekend'; activePick=offset?'next':'weekend';
       _retryLoad=function(){ loadWeekend(offset); };
       var wd=weekendDatesFor(offset); currentDate=wd[1]; syncChips();
-      document.title='soundcheck · '+cityMeta().name+' — club nights & artist sets'; history.replaceState(null,'',withCityQS('?weekend='+(offset+1)));
+      setCityTitle(); history.replaceState(null,'',withCityQS('?weekend='+(offset+1)));
       setStatus('<span class="spinner"></span> Loading '+(offset?'next':'this')+' weekend…'); skeletonGrid();
       try{
         var res=await Promise.all([fetchDay(wd[0]), fetchDay(wd[1])]);
@@ -12756,7 +12877,7 @@
       if(span>RANGE_CAP){ var _dt=new Date(startISO+'T12:00:00'); _dt.setDate(_dt.getDate()+(RANGE_CAP-1)); endISO=isoOf(_dt); span=RANGE_CAP; }
       mode='range'; activePick='date'; currentDate=startISO; currentRange=[startISO,endISO]; syncChips();
       _retryLoad=function(){ loadRange(startISO, endISO); };
-      document.title='soundcheck · '+cityMeta().name+' — club nights & artist sets';
+      setCityTitle();
       history.replaceState(null,'',withCityQS('?from='+startISO+'&to='+endISO));
       setStatus('<span class="spinner"></span> Loading '+span+' days&hellip;'); skeletonGrid();
       try{
@@ -12961,7 +13082,7 @@
     // home grid — while working fine once the app is already open. admin, map,
     // import, diary and pl/ were all missing, so every one of those was an
     // un-shareable, un-bookmarkable dead link. Add the case in BOTH places.
-    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoter\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoters\/|promoter\/|areas\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Synchronous (not deferred): the open* handlers add body.page-on before the

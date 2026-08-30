@@ -1,8 +1,8 @@
-# Chris Stussy
+# Chris Stassy
 
-Chris Stussy is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Chris Stassy is a House and Techno artist with 17 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Chris Stussy is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Union Park, Chicago on Fri 4 Sept.
+Chris Stassy is a house and techno artist tracked on soundcheck, with 279 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Jamie Jones, Joseph Capriati and Marco Carola. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 

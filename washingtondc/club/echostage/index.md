@@ -11,7 +11,7 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 20 upcoming nig
 | Fri, 4 Sept 2026 | Unreal: North America Tour: 999999999, Adrián Mills, Cara Elizabeth, Cloudy b2b KUKO, Winson | 999999999, Adrian Mills, Cara Elizabeth, Cloudy, KUKO, Winson |
 | Fri, 4 Sept 2026 | UNREAL NA TOUR: Washington DC | 999999999, Adrian Mills, Cara Elizabeth, Cloudy, KUKO, Winson, Winson Ngoh |
 | Sat, 5 Sept 2026 | Hugel with Sama [LDW] [EARLY SHOW] | Hugel |
-| Sat, 5 Sept 2026 | Chris Stassy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] | Chris Stussy, Jeny Michelle, Locklead |
+| Sat, 5 Sept 2026 | Chris Stassy w/ Locklead, Jeny Michelle [LDW] [LATE SHOW] | Chris Stassy, Jeny Michelle, Locklead |
 | Sun, 6 Sept 2026 | Odd Mob w/ DEVAULT, Airrica, Ghost [LDW] | Airrica |
 | Fri, 11 Sept 2026 | Bad Boombox, BIIANCO, David Löhlein, Mischluft [360°] | BIIANCO, Bad Boombox, David Löhlein, Mischluft |
 | Sat, 12 Sept 2026 | ISOxo w/ Control Freak, ALEKO [NIGHT 1] | Control Freak |

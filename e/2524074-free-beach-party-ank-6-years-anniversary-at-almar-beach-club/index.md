@@ -1,6 +1,6 @@
 # FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY at Almar Beach Club
 
-FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY at Almar Beach Club on Fri 11 Sept, Barcelona. 10 acts on the bill: Breezy S, Civaro, Djoan and Elwei and 6 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY at Almar Beach Club on Fri 11 Sept, Barcelona. 11 acts on the bill: Basement Scene, Breezy S, Civaro and Djoan and 7 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY at Almar Beach Club on Fri 11 Sept, B
 
 ## Line-up
 
+- Basement Scene
 - Breezy S
 - Civaro
 - Djoan

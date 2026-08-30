@@ -1,8 +1,8 @@
 # Kepler
 
-Kepler is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Swan, Nottingham on Sun, 30 Aug 2026.
+Kepler is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Swan, Nottingham on Sun, 30 Aug 2026.
 
-Kepler is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, Job de Jong and L.P. Rhythm. Next up: The Swan, Nottingham on Sun 30 Aug.
+Kepler is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 32 more. Often billed alongside Burnski, L.P. Rhythm and Enzo Siragusa. Next up: The Swan, Nottingham on Sun 30 Aug.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Kepler is a house and tech house artist tracked on soundcheck, with 153 sets log
 
 ## Shares bills with
 
-Burnski, Job de Jong, L.P. Rhythm
+Burnski, L.P. Rhythm, Enzo Siragusa
 
 *Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Kepler/)*

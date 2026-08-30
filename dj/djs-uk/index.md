@@ -1,14 +1,14 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sun, 30 Aug 2026.
 
-DJ S (UK) is a house and tech house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Bangkok and Belfast and 27 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: E1, London on Sun 30 Aug.
+DJ S (UK) is a house and tech house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Bangkok and Belfast and 27 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Fire & Lightbox, London on Sun 30 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | E1 | London |
+| Sun, 30 Aug 2026 | Fire & Lightbox | London |
 | Fri, 11 Sept 2026 | The Clock Factory | Bristol |
 | Mon, 21 Sept 2026 | Ooba Camping Village | Tokyo |
 

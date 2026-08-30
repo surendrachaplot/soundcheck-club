@@ -1,8 +1,8 @@
 # Ornella
 
-Ornella is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
+Ornella is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
 
-Ornella is a techno and industrial artist based in Portugal, tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Fuse, Brussels on Fri 4 Sept.
+Ornella is a techno and industrial artist based in Portugal, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Fuse, Brussels on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ornella is a techno and industrial artist based in Portugal, tracked on soundche
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Sat, 28 Nov 2026 | BASIS | Utrecht |
 
 ## Recently played
 

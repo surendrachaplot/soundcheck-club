@@ -1,14 +1,15 @@
 # Paul Hnikin
 
-Paul Hnikin is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Laska V21, Riga on Fri, 11 Sept 2026.
+Paul Hnikin is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Laska V21, Riga on Fri, 11 Sept 2026.
 
-Paul Hnikin is a techno and acid artist tracked on soundcheck, with 21 sets logged across Riga. Often billed alongside Michael Myth, Ksenia Kamikaza and Queer On Acid. Next up: Laska V21, Riga on Fri 11 Sept.
+Paul Hnikin is a techno and acid artist tracked on soundcheck, with 22 sets logged across Riga. Often billed alongside Michael Myth, Ksenia Kamikaza and Queer On Acid. Next up: Laska V21, Riga on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Laska V21 | Riga |
+| Sat, 28 Nov 2026 | H2o6 | Riga |
 
 ## Recently played
 

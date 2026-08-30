@@ -1,8 +1,8 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 21 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bendita Locura x Connect" on Fri, 4 Sept 2026.
+Lula Club is a music venue in Madrid with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bendita Locura x Connect" on Fri, 4 Sept 2026.
 
-Lula Club is a music venue in Madrid listed on soundcheck. 21 upcoming nights, with line-ups including AARON SEVILLA, Adam Ten, AJNA and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
+Lula Club is a music venue in Madrid listed on soundcheck. 22 upcoming nights, with line-ups including AARON SEVILLA, Adam Ten, AJNA and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
 
 ## What's on
 

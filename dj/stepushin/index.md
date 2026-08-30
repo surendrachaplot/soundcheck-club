@@ -1,14 +1,14 @@
 # Stepushin
 
-Stepushin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Bridge, Los Angeles on Sun, 6 Sept 2026.
+Stepushin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 6 Sept 2026.
 
-Stepushin is a house and deep house artist based in Belarus, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside nanaceba, KOMLEV and Connor Mikami. Next up: The Bridge, Losangeles on Sun 6 Sept.
+Stepushin is a house and deep house artist based in Belarus, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside nanaceba, KOMLEV and Connor Mikami. Next up: 1928 E 7th Pl, Los Angeles, CA 90021, Losangeles on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | The Bridge | Los Angeles |
+| Sun, 6 Sept 2026 | 1928 E 7th Pl, Los Angeles, CA 90021 | Los Angeles |
 
 ## Recently played
 

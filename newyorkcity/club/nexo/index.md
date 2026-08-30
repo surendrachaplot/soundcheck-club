@@ -1,8 +1,8 @@
 # Nexo
 
-Nexo is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Brazilian Independence Dance Party CLUB NYC Midtown" on Sat, 5 Sept 2026.
+Nexo is a music venue in New York City with 22 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Brazilian Independence Dance Party CLUB NYC Midtown" on Sat, 5 Sept 2026.
 
-Nexo is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
+Nexo is a music venue in Newyorkcity listed on soundcheck. 22 upcoming nights. Browse upcoming dates, start times and who's playing. 29 W 36th St., New York, NY 10018, USA.
 
 ## What's on
 

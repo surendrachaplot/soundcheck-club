@@ -1,8 +1,8 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E11EVEN MIAMI, Miami on Fri, 25 Sept 2026.
+Afrojack is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E11EVEN MIAMI, Miami on Fri, 25 Sept 2026.
 
-Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 54 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 16 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: E11EVEN MIAMI, Miami on Fri 25 Sept.
+Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 55 sets logged across Amsterdam, Boston, Buenosaires and Chicago and 17 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: E11EVEN MIAMI, Miami on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Afrojack is a house and progressive house artist based in Netherlands, tracked o
 | Sat, 10 Oct 2026 | Echostage | Washington DC |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 27 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
+| Sat, 28 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 
 ## Recently played
 
